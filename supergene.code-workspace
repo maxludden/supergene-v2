@@ -1,0 +1,28 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"cSpell.words": [
+			"endpage"
+		],
+		"markdown.preview.fontFamily": "'Century Gothic',' MesloLGS NF', 'Ubuntu', sans-serif"
+	},
+	"tasks": {
+		"version": "2.0.0",
+		"tasks": [
+			{
+				"label": "backup",
+				"type": "script",
+				"scriptType": "python",
+				"fileName": "tasks/backup.py",
+				"icon": {
+					"id": "sync",
+					"color": "terminal.ansiWhite"
+				}
+			}
+		]
+	}
+}

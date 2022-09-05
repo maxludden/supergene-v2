@@ -23,6 +23,7 @@ geno
 Ghosthaunt
 Godlight
 Godslayer
+Guna
 Haitang
 Hellpool
 Hezhi

@@ -76,6 +76,12 @@ sinks = log.configure(
             rotation="10 MB",
         ),
         dict(
+            sink=f"{BASE}/logs/info.log",
+            level="INFO",
+            format="Run {extra[run]} | {time:hh:mm:ss:SSS A} | {file.name: ^13} |  Line {line: ^5} | {level: <8}ﰲ  {message}",
+            rotation="10 MB",
+        ),
+        dict(
             sink=(
                 lambda msg: console.log(
                     msg, markup=True, highlight=True, log_locals=True

@@ -9,7 +9,7 @@
     "editor.formatOnSave": true,
     "cSpell.customDictionaries": {
         "project-words": {
-            "name": "supergene_words",
+            "name": "super_words",
             "path": "${workspaceRoot}/supergene_words.txt",
             "description": "Words used in the web novel, Super Gene",
             "addWords": true

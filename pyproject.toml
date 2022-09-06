@@ -17,6 +17,7 @@ bs4 = "^0.0.1"
 selenium = "^4.4.3"
 sh = "^1.14.3"
 loguru = "^0.6.0"
+mongo-types = "^0.15.1"
 
 [tool.poetry.dev-dependencies]
 

@@ -4,9 +4,10 @@ import os
 import pathlib
 import re
 from pathlib import Path
-from typing import Callable, Optional
+from typing import Callable, Optional, Union, Any
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from multiprocessing import cpu_count
+from ujson import load, dump
 
 from rich import print
 from rich.console import Console
@@ -25,7 +26,9 @@ from mongoengine.fields import (
 from tqdm.auto import tqdm, trange
 from dotenv import load_dotenv
 import sh
-from sh import touch
+from sh import Command
+
+touch = Command("touch")
 
 console = Console(width=110)
 
@@ -91,9 +94,10 @@ def error_panel(msg: str, title: str = "Error") -> Panel:
     return error_panel
 
 
+
+
 class Chapter(Document):
     """A class/model representing a chapter in a book."""
-
     chapter = IntField(required=True, unique=True)
     section = IntField(min_value=1, max_value=17, required=True)
     book = IntField(min_value=1, max_value=10, required=True)
@@ -319,7 +323,34 @@ class Chapter(Document):
                 return md_path
             else:
                 md_path.mkdir(parents=True, exist_ok=True)
-                sh.touch(md_path)
+                touch(md_path)
+                return md_path
+
+    @log.catch
+    def generate_html_path(self) -> Path | None:
+        """
+        Generate the path to the HTML file.
+
+        Returns:
+            `html_path` (Path | None):
+                The path to the HTML file.
+        """
+        console.clear()
+
+        book_dir = self.generate_book_dir()
+        assert type(book_dir) is Path, f"book_dir is not a Path object."
+
+        filename = self.generate_filename()
+        if filename:
+            html_path = book_dir / "html" / f"{filename}.html"
+            if html_path.exists():
+                return html_path
+            else:
+                html_path.mkdir(parents=True, exist_ok=True)
+                touch(html_path)
+                return html_path
+
+
 
 
 class chapter_gen:

@@ -1,0 +1,114 @@
+{
+    "error": [
+        {
+            "color": "#FF0000"
+        },
+        {
+            "bgcolor": "#FFFFFF"
+        }
+    ],
+    "warning": [
+        {
+            "color": "#ff8800"
+        },
+        {
+            "bgcolor": "#FFFFFF"
+        }
+    ],
+    "success": [
+        {
+            "color": "#ffff00"
+        },
+        {
+            "bgcolor": "#000000"
+        }
+    ],
+    "info": [
+        {
+            "color": "#00FFFF"
+        },
+        {
+            "bgcolor": "#000000"
+        }
+    ],
+    "red": [
+        {
+            "color": "#ff0000"
+        },
+        {
+            "bold": true
+        }
+    ],
+    "bg_red": [
+        {
+            "color": "#000000"
+        },
+        {
+            "bgcolor": "#FF0000"
+        }
+    ],
+    "green": [
+        {
+            "color": "#00ff00"
+        },
+        {
+            "bold": true
+        }
+    ],
+    "bg_green": [
+        {
+            "color": "#000000"
+        },
+        {
+            "bgcolor": "#00FF00"
+        }
+    ],
+    "blue": [
+        {
+            "color": "#0000ff"
+        },
+        {
+            "bold": true
+        }
+    ],
+    "bg_blue": [
+        {
+            "color": "#FFFFFF"
+        },
+        {
+            "bgcolor": "#0000FF"
+        }
+    ],
+    "pushover": [
+        {
+            "color": "#249df1"
+        },
+        {
+            "bold": true
+        }
+    ],
+    "bg_pushover": [
+        {
+            "color": "#FFFFFF"
+        },
+        {
+            "bgcolor": "#239df1"
+        }
+    ],
+    "white": [
+        {
+            "color": "#FFFFFF"
+        },
+        {
+            "bold": true
+        }
+    ],
+    "off_white": [
+        {
+            "color": "#e2e2e2"
+        },
+        {
+            "bold": false
+        }
+    ]
+}

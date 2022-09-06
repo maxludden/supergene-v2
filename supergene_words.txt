@@ -3,6 +3,7 @@ Antiphasic
 Asura
 Bao'er
 Beifeng
+bgcolor
 Blackgod
 Blackhawk
 Bloodlust

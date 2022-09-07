@@ -6,20 +6,12 @@ import re
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from multiprocessing import cpu_count
 from pathlib import Path
-from typing import Generic, Type, TypeVar
 from __future__ import annotations
 
 import sh
 from dotenv import load_dotenv
-from mongoengine import Document, QuerySet
-from mongoengine.fields import (
-    DateTimeField,
-    EnumField,
-    IntField,
-    StringField,
-    URLField,
-    UUIDField,
-)
+from mongoengine import Document
+from mongoengine.fields import (IntField, StringField, URLField)
 from rich import print
 from rich.console import Console
 from rich.panel import Panel
@@ -28,11 +20,12 @@ from rich.text import Text
 from sh import Command
 from tqdm.auto import tqdm, trange
 from ujson import dump, load
+from pydantic import BaseModel, HttpUrl
 
 touch = Command("touch")
 console = Console(width=110)
 
-# > Get Log
+# > Get Log -------------------------------------------
 try:
     from log import log
 except ModuleNotFoundError:
@@ -58,7 +51,6 @@ class ChapterNotFound(ValueError):
         `ValueError` (Exception):
             Custom ValueError for when a chapter is not found.
     """
-
     pass
 
 class SectionNotFound(ValueError):
@@ -80,6 +72,7 @@ class BookNotFound(ValueError):
             Custom ValueError for when a book is not found.
     """
     pass
+
 
 # > Error Panel ----------------------------------------
 def error_panel(msg: str, title: str = "Error") -> Panel:
@@ -111,6 +104,16 @@ def error_panel(msg: str, title: str = "Error") -> Panel:
     )
     return error_panel
 
+class MyUrlModel(BaseModel):
+    url: HttpUrl
+
+    def __init__(self, url: str, **data: Any) -> None:
+        super().__init__(url=url, **data)
+
+    
+
+
+# > Chapter Model -------------------------------------
 class Chapter(Document):
     '''
     A MongoDB Document class to store chapter data.
@@ -381,6 +384,7 @@ def generate_html_path(chapter: int) -> Path | None:
             return html_path
 
 
+@log.catch
 def get_url(chapter: int, from_db=True) -> str | None:
     """
     Get the URL for the given chapter.

@@ -16,6 +16,8 @@ from functools import wraps
 from ujson import load, loads, dump, dumps
 
 console = Console(width=110)
+console.clear()
+
 
 # > BASE
 def generate_base():
@@ -70,7 +72,7 @@ def new_run() -> int:
 
 current_run = new_run()
 # End of run
-
+console.rule(title=f"\n\n\nRun {current_run}\n\n\n")
 # > Handlers
 sinks = log.configure(
     handlers=[

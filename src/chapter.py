@@ -11,7 +11,7 @@ from __future__ import annotations
 import sh
 from dotenv import load_dotenv
 from mongoengine import Document
-from mongoengine.fields import (IntField, StringField, URLField)
+from mongoengine.fields import IntField, StringField, URLField
 from rich import print
 from rich.console import Console
 from rich.panel import Panel
@@ -51,7 +51,9 @@ class ChapterNotFound(ValueError):
         `ValueError` (Exception):
             Custom ValueError for when a chapter is not found.
     """
+
     pass
+
 
 class SectionNotFound(ValueError):
     """
@@ -61,7 +63,9 @@ class SectionNotFound(ValueError):
         `ValueError` (Exception):
             Custom ValueError for when a section is not found.
     """
+
     pass
+
 
 class BookNotFound(ValueError):
     """
@@ -71,6 +75,7 @@ class BookNotFound(ValueError):
         `ValueError` (Exception):
             Custom ValueError for when a book is not found.
     """
+
     pass
 
 
@@ -104,30 +109,19 @@ def error_panel(msg: str, title: str = "Error") -> Panel:
     )
     return error_panel
 
-class MyUrlModel(BaseModel):
-    url: HttpUrl
-
-    def __init__(self, url: str, **data: Any) -> None:
-        super().__init__(url=url, **data)
-
-    
-
 
 # > Chapter Model -------------------------------------
 class Chapter(Document):
-    '''
+    """
     A MongoDB Document class to store chapter data.
 
     Args:
         `Document` (MongoEngine.Document):
             Subclassed from MongoENgine.Document.
-    '''
+    """
+
     chapter = IntField(min_value=1, max_value=3462, required=True, unique=True)
-    section = IntField(
-        min_value=1,
-        max_value=17,
-        required=True,
-    )
+    section = IntField(min_value=1, max_value=17)
     book = IntField(min_value=1, max_value=10, required=True)
     title = StringField(max_length=500)
     text = StringField()

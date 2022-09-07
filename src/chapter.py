@@ -51,7 +51,6 @@ class ChapterNotFound(ValueError):
         `ValueError` (Exception):
             Custom ValueError for when a chapter is not found.
     """
-
     pass
 
 

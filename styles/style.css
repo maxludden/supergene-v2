@@ -24,12 +24,6 @@
 
 /**** Fonts *******/
 @font-face {
-    font-family: "Urbanist-Regular";
-    font-style: normal;
-    src: "Urbanist-Regular.ttf"
-}
-
-@font-face {
     font-family: "Urbanist-Thin";
     font-style: normal;
     src: "Urbanist-Thin.ttf"
@@ -37,15 +31,34 @@
 
 @font-face {
     font-family: "Urbanist-ThinItalic";
-    font-style: italic;
-    src: "Urbanist-ThinItalic.ttf"
+    font-style: normal;
+    src: "Urbanist-thinItalic.ttf"
 }
 
 @font-face {
-    font-family: "Urbanist-Bold";
+    font-family: "Urbanist-Regular";
+    font-style: normal;
+    src: "Urbanist-Regular.ttf"
+}
+
+@font-face {
+    font-family: "Urbanist-Italic";
+    font-style: italic;
+    src: "Urbanist-Italic.ttf"
+}
+
+@font-face {
+    font-family: "Urbanist-Black";
     font-style: normal;
     font_weight: bold;
-    src: "Urbanist-Bold.ttf"
+    src: "Urbanist-Black.ttf"
+}
+
+@font-face {
+    font-family: "Urbanist-BlackItalic";
+    font-style: normal;
+    font_weight: bold;
+    src: "Urbanist-BlackItalic.ttf"
 }
 
 @font-face {

@@ -12,6 +12,7 @@ import sh
 from dotenv import load_dotenv
 from mongoengine import Document
 from mongoengine.fields import IntField, StringField, URLField
+from mongoengine.errors import DoesNotExist, NotUniqueError, ValidationError
 from rich import print
 from rich.console import Console
 from rich.panel import Panel
@@ -21,9 +22,6 @@ from sh import Command
 from tqdm.auto import tqdm, trange
 from ujson import dump, load
 from pydantic import BaseModel, HttpUrl
-
-touch = Command("touch")
-console = Console(width=110)
 
 # > Get Log -------------------------------------------
 try:
@@ -41,6 +39,10 @@ except ModuleNotFoundError:
 except ImportError:
     from src.atlas import BASE, sg
 
+touch = Command("touch")
+console = Console(width=110)
+load_dotenv()
+
 
 # > Custom Exceptions-----------------------------------
 class ChapterNotFound(ValueError):
@@ -53,7 +55,6 @@ class ChapterNotFound(ValueError):
     """
     pass
 
-
 class SectionNotFound(ValueError):
     """
     Custom ValueError for when a section is not found.
@@ -62,24 +63,21 @@ class SectionNotFound(ValueError):
         `ValueError` (Exception):
             Custom ValueError for when a section is not found.
     """
-
     pass
 
-
-class BookNotFound(ValueError):
+class BookNotFound(DoesNotExist):
     """
-    Custom ValueError for when a book is not found.
+    Custom MongoDB Exception for when a book is not found.
 
     Args:
-        `ValueError` (Exception):
-            Custom ValueError for when a book is not found.
+        `DoesNotExist`` (MongoEngineException):
+            Custom Exception for when a book is not found.
     """
-
     pass
 
 
 # > Error Panel ----------------------------------------
-def error_panel(msg: str, title: str = "Error") -> Panel:
+def error_panel(msg: str, title: str="Error") -> Panel:
     """
     Create a panel for errors.
 
@@ -91,7 +89,7 @@ def error_panel(msg: str, title: str = "Error") -> Panel:
     """
     error_panel = Panel(
         Text(msg, style="bold red on white"),
-        title=Text(
+        title = Text(
             title,
             style=Style(
                 color="white",
@@ -100,7 +98,7 @@ def error_panel(msg: str, title: str = "Error") -> Panel:
             ),
         ),
         title_align="left",
-        border_style=Style(
+        style=Style(
             color="red",
             bgcolor="white",
             bold=True,
@@ -377,7 +375,19 @@ def generate_html_path(chapter: int) -> Path | None:
             return html_path
 
 
-@log.catch
+def url_from_db(chapter: int) -> str | None:
+    '''
+    Retrieve the given chapter's URL from the Database.
+
+    Args:
+        `chapter` (int):
+            The given chapter.
+
+
+    Returns:
+        `` (str | None):
+            _description_
+    '''
 def get_url(chapter: int, from_db=True) -> str | None:
     """
     Get the URL for the given chapter.
@@ -386,6 +396,17 @@ def get_url(chapter: int, from_db=True) -> str | None:
         `url` (str | None):
             The URL for the given chapter.
     """
+    if from_db:
+        try:
+            sg()
+            url = Chapter.objects(chapter=chapter).first().url # type: ignore
+            if url:
+                return url
+        except
+
+
+
+
     sg()
     if from_db:
         chapter_doc = Chapter.objects(chapter=chapter).first()  # type: ignore

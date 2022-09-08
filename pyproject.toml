@@ -16,6 +16,7 @@ selenium = "^4.4.3"
 sh = "^1.14.3"
 loguru = "^0.6.0"
 pydantic = "^1.10.2"
+python-dotenv = "^0.21.0"
 
 [tool.poetry.dev-dependencies]
 mongo-types = "^0.15.1"

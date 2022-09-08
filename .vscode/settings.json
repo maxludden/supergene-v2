@@ -15,5 +15,6 @@
             "addWords": true
         },
     },
-    "git.ignoreLimitWarning": true
+    "git.ignoreLimitWarning": true,
+    "task.allowAutomaticTasks": "on"
 }

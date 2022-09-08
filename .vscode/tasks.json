@@ -13,7 +13,7 @@
             "command": "/Users/maxludden/dev/venvs/supergene/bin/python /Users/maxludden/dev/py/supergene/tasks/backup.py",
             "type": "shell",
             "group": {
-                "kind": "backup",
+                "kind": "none",
                 "isDefault": false
             },
             "presentation": {

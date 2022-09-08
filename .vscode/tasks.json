@@ -7,6 +7,28 @@
             "label": "echo",
             "type": "shell",
             "command": "echo Hello"
+        },
+        {
+            "label": "backup mongodb",
+            "command": "/Users/maxludden/dev/venvs/supergene/bin/python /Users/maxludden/dev/py/supergene/tasks/backup.py",
+            "type": "shell",
+            "group": {
+                "kind": "backup",
+                "isDefault": false
+            },
+            "presentation": {
+                "echo": false,
+                "reveal": "always",
+                "focus": true,
+                "panel": "shared",
+                "showReuseMessage": true,
+                "clear": false
+            },
+            "icon": {
+                "id": "database",
+                "color": "terminal.ansiCyan"
+            },
+            "detail": "A Task to automatically back up the Super Gene database via `mongodump`."
         }
     ]
 }

@@ -1,5 +1,8 @@
 # src/panel_factory.py
 
+from abc import ABC, abstractmethod
+from statistics import mode
+from turtle import color
 from rich import print, inspect
 from rich.console import Console
 from rich.panel import Panel
@@ -17,6 +20,22 @@ from pydantic import BaseModel, Field, validator, ValidationError
 from pydantic.color import Color
 from typing import List, Optional, Union, Any, Literal
 
+# Max's Log
+try:
+    from log import log
+except ModuleNotFoundError:
+    from .log import log
+except ImportError:
+    from src.log import log
+
+# Max's YAML
+try:
+    from myaml import yaml
+except ModuleNotFoundError:
+    from .myaml import yaml
+except ImportError:
+    from src.myaml import yaml
+
 load_dotenv()
 console= Console(width=110)
 console.clear()
@@ -26,6 +45,20 @@ class InvalidColorTheme(ValidationError):
 
 color_themes = ["white", "off_white", "bg_pushover", "pushover", "bg_blue", "blue", "bg_green", "green", "bg_red", "red", "info", "warning",
     "success", "error"]
+with open ('json/color_themes.json', 'r') as infile:
+    color_themes_json = load(infile)
+color_themes = color_themes_json.keys()
+
+print (color_themes)
+
+
+class AbstractRich(ABC):
+    """
+    Abstract class for RichRenderable objects.
+    """
+    @abstractmethod
+    def render(self):
+        passWw
 
 
 class PanelBody(BaseModel):
@@ -37,6 +70,15 @@ class PanelBody(BaseModel):
         self.content = content
         self.style = style
         self.justify = justify
+
+    def get_style(self) -> Style:
+        with open ('json/color_themes.json', 'r') as infile:
+            color_themes_json = load(infile)
+        color_themes = color_themes_json.keys()
+        if self.style in color_themes:
+            return color_themes_json[self.style]
+        else:
+            raise ValidationError(f"Invalid color theme: {self.style}", model = PanelBody)
 
     @validator("content")
     def content_is_str(cls, content: str):
@@ -51,6 +93,11 @@ class PanelBody(BaseModel):
             raise InvalidColorTheme(
                 f"Invalid style: {color_theme}",
                 model=PanelBody)
+        if not color_theme:
+            raise InvalidColorTheme(
+                "Invalid style: No style provided",
+                model=PanelBody
+            )
         return color_theme
 
 
@@ -61,15 +108,21 @@ class PanelBody(BaseModel):
         return color_theme
 
     def validate(self):
-        try
-            self.con
+        try:
+            self.content_is_str()
+            self.style_validator()
+            self.style_has_value()
+        except ValidationError as e:
+            msg = f"Unable to validate PanelBody: {e}"
+            log.error(msg)
+            raise e
 
     def generate(self) -> Text:
         return Text(
             self.content,
-            justify=self.justify,
-            style=self.style
-            )
+            justify = self.justify,
+            style = self.get_style()
+        )
 
 class PanelTitle(BaseModel):
     content: str
@@ -81,7 +134,7 @@ class PanelTitle(BaseModel):
         self.content = content
         self.style = style
         self.justify = justify
-\
+
 
     @validator("content")
     def content_validator(cls, content: Text):
@@ -92,14 +145,16 @@ class PanelTitle(BaseModel):
     @validator("style")
     def style_validator(cls, color_theme: str):
         if color_theme not in color_themes:
-            raise InvalidColorTheme(f"Invalid style: {color_theme}")
+            raise InvalidColorTheme(
+                f"Invalid style: {color_theme}",
+                model=PanelTitle)
         return color_theme
 
     def generate(self) -> Text:
         return Text(
             self.content,
             justify=self.justify,
-            style=self.style
+            style=self.get_style()
         )
 
 class PanelFactory(BaseModel):
@@ -111,7 +166,7 @@ class PanelFactory(BaseModel):
     padding: Optional[int] = 0
     fit: bool = False
 
-    def __init__(self, name: str, title: str, body: str, style: Optional[str] = "white", justify: Optional[Literal["left","center","right"]] = "center", padding: Optional[int] = 0, padding: int = 0, fit: bool = False) -> None:
+    def __init__(self, name: str, title: str, body: str, style: Optional[str] = "white", justify: Optional[Literal["left","center","right"]] = "center", padding: Optional[int] = 0, fit: bool = False) -> None:
         self.name = name
         self.title = title
         self.body = body

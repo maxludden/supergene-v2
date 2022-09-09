@@ -17,10 +17,14 @@ sh = "^1.14.3"
 loguru = "^0.6.0"
 pydantic = "^1.10.2"
 python-dotenv = "^0.21.0"
+pyaml = "^21.10.1"
 
 [tool.poetry.dev-dependencies]
 mongo-types = "^0.15.1"
 ujson = "^5.4.0"
+
+[tool.poetry.scripts]
+supergene = "supergene.__main__:main"
 
 [build-system]
 requires = ["poetry-core>=1.0.0"]

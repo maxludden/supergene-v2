@@ -37,8 +37,8 @@ def get_last_run() -> int:
     """
     Get the last run of the script.
     """
-    with open(f"{BASE}/run.txt", "r") as infile:
-        last_run = int(infile.read())
+    with open("json/run.json", "r") as infile:
+        last_run = load(infile)["run"]
     return last_run
 
 
@@ -54,41 +54,45 @@ def record_run(run: int) -> None:
     """
     Record the last run of the script.
     """
-    with open(f"{BASE}/run.txt", "w") as outfile:
-        outfile.write(str(run))
+    with open("json/run.json", "w") as outfile:
+        dump(run, outfile, indent=4)
 
 
 def new_run() -> int:
     """
     Create a new run of the script.
     """
+    # > RUN
     last_run = get_last_run()
     run = increment_run(last_run)
     record_run(run)
+
+    # > Clear and initialize console
     console.clear()
     console.rule(title=f"\n\n\nRun {run}\n\n\n")
     return run
 
 
 current_run = new_run()
-# End of run
 console.rule(title=f"\n\n\nRun {current_run}\n\n\n")
-# > Handlers
+
+
+# > Configure Loguru Logger Sinks
 sinks = log.configure(
     handlers=[
-        dict(
+        dict( # . debug.log
             sink=f"{BASE}/logs/debug.log",
             level="DEBUG",
             format="Run {extra[run]} | {time:hh:mm:ss:SSS A} | {file.name: ^13} |  Line {line: ^5} | {level: <8}ﰲ  {message}",
             rotation="10 MB",
         ),
-        dict(
+        dict( # . info.log
             sink=f"{BASE}/logs/info.log",
             level="INFO",
             format="Run {extra[run]} | {time:hh:mm:ss:SSS A} | {file.name: ^13} |  Line {line: ^5} | {level: <8}ﰲ  {message}",
             rotation="10 MB",
         ),
-        dict(
+        dict( # . Rich Console Log > INFO
             sink=(
                 lambda msg: console.log(
                     msg, markup=True, highlight=True, log_locals=True
@@ -97,7 +101,7 @@ sinks = log.configure(
             level="INFO",
             format="Run {extra[run]} | {time:hh:mm:ss:SSS A} | {file.name: ^13} |  Line {line: ^5} | {level: ^8} ﰲ  {message}",
         ),
-        dict(
+        dict( # . Rich Console Log > ERROR
             sink=(
                 lambda msg: console.log(
                     msg, markup=True, highlight=True, log_locals=True
@@ -110,7 +114,7 @@ sinks = log.configure(
             backtrace=True,
         ),
     ],
-    extra={"run": current_run},
+    extra={"run": current_run}, # > Current Run
 )
 
 log.debug("Initialized Logger")
@@ -184,6 +188,7 @@ def time(*, level="DEBUG"):
         return wrapped
 
     return wrapper
+
 
 '''
 def inspect_func(*, level="DEBUG", entry: bool=True, exit: bool=True):

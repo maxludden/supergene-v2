@@ -8,7 +8,8 @@
 		"cSpell.words": [
 			"endpage"
 		],
-		"markdown.preview.fontFamily": "'Century Gothic',' MesloLGS NF', 'Ubuntu', sans-serif"
+		"markdown.preview.fontFamily": "'Century Gothic',' MesloLGS NF', 'Ubuntu', sans-serif",
+		"task.allowAutomaticTasks": "on"
 	},
 	"tasks": {
 		"version": "2.0.0",

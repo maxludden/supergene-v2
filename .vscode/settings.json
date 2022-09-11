@@ -16,5 +16,8 @@
         },
     },
     "git.ignoreLimitWarning": true,
-    "task.allowAutomaticTasks": "on"
+    "task.allowAutomaticTasks": "on",
+    "cSpell.words": [
+        "mrich"
+    ]
 }

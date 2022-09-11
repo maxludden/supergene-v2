@@ -8,17 +8,21 @@ from typing import Optional
 from urllib.request import urlopen
 
 from dotenv import dotenv_values, load_dotenv
-from mongoengine import connect, disconnect_all
-from pymongo import MongoClient
+import mongoengine
+from mongoengine import connect
 from pymongo.errors import ConnectionFailure
 from rich import print
-from rich.console import Console
 from rich.panel import Panel
 from rich.style import Style
 from rich.text import Text
 
-load_dotenv()
-console = Console(width=80)
+try:
+    from mrich import console
+except ModuleNotFoundError:
+    from .mrich import console
+except ImportError:
+    from src.mrich import console
+
 
 # > BASE
 def generate_base():
@@ -29,6 +33,7 @@ def generate_base():
         ROOT = "Users"  # < Mac
     BASE = f"/{ROOT}/maxludden/dev/py/supergene"
     return BASE
+
 
 BASE = generate_base()
 
@@ -46,42 +51,43 @@ def generate_db_uri(database: str) -> str:
         case _:
             return "mongodb://localhost:27017/supergene"
 
-def sg(db: str="LOCALDB"):
-    '''
+
+def sg(db: str = "LOCALDB"):
+    """
     Connect to the given MongoDB.
 
     Args:
         `db` (str, optional): The database to which you like to connect. Defaults to "LOCALDB".
-    '''
+    """
     console.clear()
-    disconnect_all()
+    mongoengine.disconnect()  # type: ignore
 
     # > URI
     uri = generate_db_uri(db)
     connect_panel = Panel(
         Text(f"Connecting to {db}...", style="bold white"),
         title=Text("MongoDB", style="bold white"),
-        title_align="left",
-        style=Style(color="blue")
+        title_align=justify,
+        style=Style(color="blue"),
     )
     console.print(connect_panel)
 
     # > Connect
     try:
-        connect(db="supergene",alias="LOCALDB",host=uri)
+        connect(db="supergene", alias="LOCALDB", host=uri)
         success_panel = Panel(
             Text(f"Connected to MongoDB:{db}", style="bold white"),
             title=Text("MongoDB", style="bold white"),
-            title_align="left",
-            style=Style(color="green")
+            title_align=justify,
+            style=Style(color="green"),
         )
         console.print(success_panel)
     except ConnectionFailure as cf:
         error_panel = Panel(
             Text(f"Connection to MongoDB:{db} failed", style="bold red on white"),
             title=Text("MongoDB", style="bold red on white"),
-            title_align="left",
-            style=Style(color="bold white on black")
+            title_align=justify,
+            style=Style(color="bold white on black"),
         )
         console.print(error_panel)
         print(cf)

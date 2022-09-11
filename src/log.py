@@ -7,16 +7,16 @@ from time import perf_counter
 from loguru import logger as log
 from rich import print, inspect
 from rich.pretty import pprint
-from rich.highlighter import ReprHighlighter
+
+
 from rich.console import Console
-from rich.panel import Panel
 from rich.text import Text
 from rich.style import Style
+from rich.theme import Theme
 from functools import wraps
-from ujson import load, loads, dump, dumps
+from ujson import load, dump
 
-console = Console(width=110)
-console.clear()
+mconsole = Console()
 
 
 # > BASE
@@ -38,8 +38,8 @@ def get_last_run() -> int:
     Get the last run of the script.
     """
     with open("json/run.json", "r") as infile:
-        last_run = load(infile)["run"]
-    return last_run
+        last_run_dict = dict(load(infile))
+    return int(last_run_dict["run"])
 
 
 def increment_run(last_run: int) -> int:
@@ -54,6 +54,7 @@ def record_run(run: int) -> None:
     """
     Record the last run of the script.
     """
+    run = {"run": run}  # type: ignore
     with open("json/run.json", "w") as outfile:
         dump(run, outfile, indent=4)
 
@@ -68,42 +69,41 @@ def new_run() -> int:
     record_run(run)
 
     # > Clear and initialize console
-    console.clear()
-    console.rule(title=f"\n\n\nRun {run}\n\n\n")
+    mconsole.clear()
     return run
 
 
 current_run = new_run()
-console.rule(title=f"\n\n\nRun {current_run}\n\n\n")
+mconsole.rule(title=f"\n\n\nRun {current_run}\n\n\n")
 
 
 # > Configure Loguru Logger Sinks
 sinks = log.configure(
     handlers=[
-        dict( # . debug.log
+        dict(  # . debug.log
             sink=f"{BASE}/logs/debug.log",
             level="DEBUG",
             format="Run {extra[run]} | {time:hh:mm:ss:SSS A} | {file.name: ^13} |  Line {line: ^5} | {level: <8}ﰲ  {message}",
             rotation="10 MB",
         ),
-        dict( # . info.log
+        dict(  # . info.log
             sink=f"{BASE}/logs/info.log",
             level="INFO",
             format="Run {extra[run]} | {time:hh:mm:ss:SSS A} | {file.name: ^13} |  Line {line: ^5} | {level: <8}ﰲ  {message}",
             rotation="10 MB",
         ),
-        dict( # . Rich Console Log > INFO
+        dict(  # . Rich Console Log > INFO
             sink=(
-                lambda msg: console.log(
+                lambda msg: mconsole.log(
                     msg, markup=True, highlight=True, log_locals=True
                 )
             ),
             level="INFO",
             format="Run {extra[run]} | {time:hh:mm:ss:SSS A} | {file.name: ^13} |  Line {line: ^5} | {level: ^8} ﰲ  {message}",
         ),
-        dict( # . Rich Console Log > ERROR
+        dict(  # . Rich Console Log > ERROR
             sink=(
-                lambda msg: console.log(
+                lambda msg: mconsole.log(
                     msg, markup=True, highlight=True, log_locals=True
                 )
             ),
@@ -114,7 +114,7 @@ sinks = log.configure(
             backtrace=True,
         ),
     ],
-    extra={"run": current_run}, # > Current Run
+    extra={"run": current_run},  # > Current Run
 )
 
 log.debug("Initialized Logger")
@@ -232,7 +232,7 @@ def inspect_func(*, level="DEBUG", entry: bool=True, exit: bool=True):
             panel_title_str = f"Called {name}(args, kwargs)"
             panel_title = Text(
                 panel_title_str,
-                justify="center",
+                justify = justify,
                 style = Style(
                     color = "purple",
                     bgcolor = "white",
@@ -242,7 +242,7 @@ def inspect_func(*, level="DEBUG", entry: bool=True, exit: bool=True):
             result_str = f"Result: {result}"
             result = Text(
                 result_str,
-                justify="left"
+                justify = justify
                 style=Style(
                     color="purple",
                     bgcolor="white",

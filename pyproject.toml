@@ -18,6 +18,7 @@ loguru = "^0.6.0"
 pydantic = "^1.10.2"
 python-dotenv = "^0.21.0"
 pyaml = "^21.10.1"
+beanie = "^1.11.9"
 
 [tool.poetry.dev-dependencies]
 mongo-types = "^0.15.1"

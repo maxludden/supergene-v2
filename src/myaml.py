@@ -11,8 +11,7 @@ from rich import print, inspect
 
 # BASE = Path(__file__).parent.parent
 BASE = Path.cwd()
-print(BASE)
-#. >> /Users/maxludden/dev/py/supergene
+# . >> /Users/maxludden/dev/py/supergene
 
 
 # > Import UnsafeLoader
@@ -20,7 +19,7 @@ try:
     from yaml import CUnsafeLoader as Loader
 except ImportError:
     from yaml import UnsafeLoader as Loader
-    yaml_classes = False
+
 
 # > Import SafeLoader
 try:
@@ -31,7 +30,7 @@ except ImportError:
 
 # > Import Dumper
 try:
-    from yaml import CDumper as Dumper\
+    from yaml import CDumper as Dumper
 except ImportError:
     from yaml import Dumper
 
@@ -42,16 +41,13 @@ except ImportError:
     from yaml import SafeDumper
 
 
-#.End of Imports ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯ Custom Functions:
+# .End of Imports ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯ Custom Functions:
+
 
 def load(filepath: str | Path) -> Any:
     with open(filepath, "r") as infile:
-        result = yaml.safe_load(infile)
+        result = yaml.load(infile, Loader=Loader)
     return result
-
-
-color_themes = load("json/color_themes.json")
-inspect(color_themes)
 
 
 def safe_load(yaml_to_load: str, filepath: str | Path) -> None:
@@ -66,7 +62,6 @@ def unsafe_load(yaml_to_load: str):
     return result
 
 
-@log.catch
 def safe_dump(data: str, filepath: str | Path):
     with open(filepath, "w") as outfile:
         yaml.dump(
@@ -79,7 +74,6 @@ def safe_dump(data: str, filepath: str | Path):
         )  # type: ignore
 
 
-@log.catch
 def dump(data: str, filepath: str | Path):
     with open(filepath, "w") as outfile:
         yaml.dump(

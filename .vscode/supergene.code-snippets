@@ -1,0 +1,123 @@
+{
+	"beast soul": {
+		"prefix": "beastdiv",
+		"body": [
+			"<div class=\"tables\">",
+			"  <table class=\"beast\">",
+			"\t<tr>",
+			"\t  <th colspan=\"2\">Beast Soul</th>",
+			"\t</tr><tr>",
+			"\t  <td>${1:ClassCreature}<br>",
+			"\t  <span class=\"type\">(${2:Type})</td>",
+			"\t</tr>",
+			"  </table>",
+			"  <!-- ${TM_SELECTED_TEXT} -->",
+			"</div>",
+			"  ",
+			"$0"
+		],
+		"description": "Snippet to produce a beast class table div."
+	},
+	"status1": {
+		"prefix": "status1div",
+		"body": [
+			"<div class=\"tables\">",
+			"  <table class=\"status1\">",
+			"\t<tr>",
+			"\t  <th colspan=\"2\">Han Sen</th>",
+			"\t</tr><tr>",
+			"\t  <th class=\"class\" colspan=\"2\">${1|Unevolved,Evolver,Surpasser,Demigod|}</th>",
+			"\t</tr><tr>",
+			"\t  <td>Lifespan</td>",
+			"\t  <td>${2|200,300,400,500,600|} years</td>",
+			"\t</tr>",
+			"  </table>",
+			"  <!-- ${TM_SELECTED_TEXT} -->",
+			"$0"
+		],
+		"description": "Html for the status tables div."
+	},
+	"Geno Requirements": {
+		"prefix": "genoreq",
+		"body": [
+			"  <table class=\"geno-r\">",
+			"\t<tr>",
+			"\t  <th colspan=\"2\">Geno Points</th>",
+			"\t</tr><tr>",
+			"\t  <td>Required to Evolve</td>",
+			"\t  <td>100</td>",
+			"\t</tr>",
+			"  </table>",
+			"  <!-- ${TM_SELECTED_TEXT} -->",
+			"$0"
+		]
+	},
+	"Geno Points Gained Table": {
+		"prefix": "genopointsgained",
+		"body": [
+			"  <table class=\"geno\">",
+			"\t<tr>",
+			"\t  <th colspan=\"2\">Geno Points Gained</th>",
+			"\t</tr><tr>",
+			"\t  <td>Ordinary</td>",
+			"\t  <td>${1:100}</td>",
+			"\t</tr><tr>",
+			"\t  <td>Primitive</td>",
+			"\t  <td>${2:100}</td>",
+			"\t</tr><tr>",
+			"\t  <td>Mutant</td>",
+			"\t  <td>${3:100}</td>",
+			"\t</tr><tr>",
+			"\t  <td>Sacred-Blood</td>",
+			"\t  <td>${4:100}</td>",
+			"\t</tr><tr>",
+			"\t  <td>Super</td>",
+			"\t  <td>${5:100}",
+			"\t</tr>",
+			"  </table>",
+			"  <!-- ${TM_SELECTED_TEXT} -->",
+			"$0"
+		],
+		"description": "HTML for the Geno Points gained table"
+	},
+	"Beast Soul List": {
+		"prefix": "beastls",
+		"body": [
+			" <table class=\"beast\">",
+			"\t<tr>",
+			"\t <th>Beast Souls</th>",
+			"\t</tr><tr>",
+			"\t  <td>${1:ClassCreature}<br />",
+			"\t\t<span class=\"type\">(${2:Type})</span></td>",
+			"\t</tr>$0",
+			"  </table>",
+			"  <!-- ${TM_SELECTED_TEXT} -->"
+		],
+		"description": "Table to list beast souls"
+	},
+	"Beast Sould List Entry": {
+		"prefix": "beastadd",
+		"body": [
+			"<tr>",
+			"\t  <td>${1:ClassCreature}<br />",
+			"\t\t<span class=-\"type\">(${2:Type})</span></td>",
+			"\t</tr>$0"
+		]
+	},
+	"Article": {
+		"prefix": "articlediv",
+		"body": [
+			"<div class=\"aritcle\">",
+			"  <p>${TM_SELECTED_TEXT}</p>",
+			"</div>"
+		],
+		"description": "Article Div"
+	},
+	"Generate Panel": {
+		"prefix": "gen_panel",
+		"body": [
+			"generate_${1:Color}_panel(",
+			""
+		]
+	}
+}

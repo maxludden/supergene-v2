@@ -97,7 +97,6 @@ def error_panel(msg: str, title: str="Error") -> Panel:
                 bold=True,
             ),
         ),
-        title_align="left",
         style=Style(
             color="red",
             bgcolor="white",
@@ -283,7 +282,6 @@ def generate_book_dir(chapter: int) -> Path | None:
                     "Book Directory",
                     style=Style(color="blue", bgcolor="white", bold=True),
                 ),
-                title_align="left",
                 border_style=Style(color="blue", bgcolor="white", bold=True),
             )
             print(book_dir_panel)
@@ -373,98 +371,3 @@ def generate_html_path(chapter: int) -> Path | None:
             html_path.mkdir(parents=True, exist_ok=True)
             touch(html_path)
             return html_path
-
-
-def url_from_db(chapter: int) -> str | None:
-    '''
-    Retrieve the given chapter's URL from the Database.
-
-    Args:
-        `chapter` (int):
-            The given chapter.
-
-
-    Returns:
-        `` (str | None):
-            _description_
-    '''
-def get_url(chapter: int, from_db=True) -> str | None:
-    """
-    Get the URL for the given chapter.
-
-    Returns:
-        `url` (str | None):
-            The URL for the given chapter.
-    """
-    if from_db:
-        try:
-            sg()
-            url = Chapter.objects(chapter=chapter).first().url # type: ignore
-            if url:
-                return url
-        except
-
-
-
-
-    sg()
-    if from_db:
-        chapter_doc = Chapter.objects(chapter=chapter).first()  # type: ignore
-        url = chapter_doc.url
-        if url:
-            return url
-        elif not url:
-            msg = f"URL for chapter {chapter} not found in database."
-            panel = error_panel(msg, title="URL not in MongoDB")
-            console.print(panel)
-
-        else:
-            with open("json/toc.json", "r") as infile:
-                url = dict(load(infile))[str(chapter)]["url"]
-                if url:
-                    return url
-                elif not url:
-                    msg = f"URL for chapter {chapter} not found in TOC.json."
-                    panel = error_panel(msg, title="URL Not Found")
-                    console.print(panel)
-                else:
-                    # > Generate URL
-                    url = (
-                        f"https://bestlightnovel.com/novel_888112448/chapter_{chapter}"
-                    )
-
-                    return url
-
-
-class chapter_gen:
-    """
-    Generator for chapter_numbers.
-    """
-
-    def __init__(self, start: int = 1, end: int = 3462):
-        self.start = start
-        self.end = end
-        self.chapter_number = start
-
-    def __iter__(self):
-        return self
-
-    def __next__(self):
-        if self.chapter_number >= 3462:
-            raise StopIteration
-        elif self.chapter_number == 3094:
-            # Skipping chapter 3095
-            # 3094 + 1 + 1 = 3096
-            self.chapter_number += 2
-            return self.chapter_number
-        elif self.chapter_number == 3116:
-            # Skipping chapter 3117
-            # 3116 + 1 + 1 = 3118
-            self.chapter_number += 2
-            return self.chapter_number
-        else:
-            self.chapter_number += 1
-            return self.chapter_number
-
-    def __len__(self):
-        return self.end - self.start + 1

@@ -1,0 +1,98 @@
+Title:Small Surprise 
+Chapter:2291 
+Section:10 
+Book:7 
+CSS:../Styles/style.css 
+viewport: width=device-width
+  
+## Small Surprise
+### Chapter 2291 
+<figure>
+	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
+</figure>
+  
+
+  
+  “I don’t think I really understand. Please explain it to me again,” Han Sen said, trying to keep his shock from showing on his face.
+
+Truthfully, Han Sen understood the geno art perfectly. The geno art was quite familiar to him, and that familiarity shook him to his core. The geno art had an obvious connection to the Dongxuan Sutra. Both arts could benefit each other quite well, and using Mister White’s technique could aid in the development of the Dongxuan Sutra.
+
+Han Sen could use the Dongxuan Sutra to absorb power from the world around him. Doing so allowed him to conserve his own energy, stretching his strength out over a longer period of time.
+
+But the Dongxuan Sutra had yet to reach Duke, so the effect wasn’t particularly good. It only saved Han Sen a small amount of power.
+
+“Has Mister White realized that I use the Dongxuan Sutra? Is that why he’s telling about this geno art? What is he planning?” Han Sen thought fast, but he didn’t have enough information to guess what Mister White was playing at.
+
+It seemed likely that Mister White knew that Han Sen could use the Dongxuan Sutra. Explaining a geno art as simply as he had suggested that the man’s mind was quite frightening. It put Han Sen on red alert.
+
+“If you don’t mind me repeating myself, I will recite the geno art again.” Mister White smiled. Then, he resumed talking about the geno art.
+
+It would have been better if he had stopped speaking there, for the more he talked, the more confused Crime became. Mister White’s detailed explanation of the geno art was more difficult to understand than the geno art itself. He began speaking about the geno universe itself, which was something Crime had never heard about before.
+
+Han Sen used the Dongxuan Aura to listen, and he was able to understand a bit. He pretended that he couldn’t though, and he feigned confusion.
+
+“Mister White, I’m afraid that the explanation isn’t helping. I am just getting more and more confused.” Han Sen presented Mister White with a wry smile.
+
+“Mister White is so smart. Since you’re just a Duke, well, it is only expected that you can’t understand a word that he’s saying. And don’t worry, I don’t understand, either. It isn’t about you, okay?” Crime said.
+
+Mister White shook his head and sighed. “The things I have learned are a bit different from your own geno art. It is okay that you don’t understand, but try to learn as much as you can, for I can only explain it here like this.”
+
+“Thank you for your willingness to teach me. I’m just afraid I will never be able to learn such a geno art,” Han Sen said. But he was secretly casting the geno art Mister White had just taught him.
+
+He gave it a try, and it worked fine. When Han Sen didn’t summon his Dongxuan Armor, the effect of absorbing external power seemed to increase. And this was Han Sen’s very first time using the ability. If the ability was already useful, then it would surely become a greater and greater benefit to him as his proficiency increased.
+
+Han Sen still didn’t know why Mister White had given him the geno art, but he was okay with learning something new. Han Sen practiced it, and the strain of maintaining the Four Symbols Seal decreased.
+
+The day went by pretty quickly. After the first twenty-four hours, the other deified xenogeneic clones shifted slightly toward Han Sen and the others like the very hungry monsters that they were.
+
+The monsters stared at them for a whole day, and the beasts’ eyes were different than they had been. There was a fresh, murderous gleam in their eyes.
+
+The scary creatures looked over them, as if deciding which flavor of meat to dine on first. The slavering beasts made Han Sen and the others nervous. But even so, despite all the attention directed toward them, not a single one of the xenogeneics prepared to attack. They just stared at Han Sen’s group like jewels.
+
+Acknowledging their apparent safety, Han Sen and the others felt relieved. It was fortunate that the jade cat statue hadn’t lied to them. The deified clones really were restraining themselves, as the cat statue had said.
+
+Han Sen and the others didn’t dare move, though. They continued using their strength to keep the bai sema going. They kept the deified xenogeneic clone sealed, hoping they could hold the creature there for the entire ten days.
+
+But as time ticked by, the xenogeneic clone’s struggling became worse and worse. After it had been thrashing around for a while, Han Sen started to feel a strain.
+
+Five days later, even the half-deified blood kirin was beginning to fatigue.
+
+Because each part of the Four Symbols Seal was connected, Han Sen didn’t have to continually use his full power. It meant that the others had to pick up his weight, though, to keep the deified xenogeneic suppressed.
+
+So, the blood kirin and Mister White were using up a lot more power than Han Sen was.
+
+Sweat began to trickle down Crime’s forehead. It was getting hard for him, too.
+
+Things were not going as well as they had hoped. But by Han Sen’s estimation, if they continued using power at the same rate, they would survive all ten days of the trial.
+
+“Little guys, you seem to be working very hard. I have to say, you’re not doing a bad job.” Suddenly, the jade cat statue started talking again. It spoke lazily, though, as if it had just woken up from a deep slumber.
+
+Han Sen and the others were concentrating all their strength on maintaining the Four Symbols Seal, however. They couldn’t spare the time or effort to bother looking in the direction of the jade cat statue.
+
+The jade cat statue’s voice came from behind them again. “You guys are doing good, but don’t you think that this would be a boring way to pass the test?”
+
+“You aren’t going to cheat, are you?” Han Sen’s heart jumped. If the jade cat statue let the rest of the xenogeneics attack them, they would be very dead.
+
+The jade cat statue laughed and said, “Don’t worry! I cannot change the rules that Sacred Leader set in place. I just wanted to give you a small surprise.”
+
+“I hate surprises,” Han Sen said with a tight, feral smile.
+
+“But this really is a surprise. It might actually prove to be a great benefit to you guys. Of course, you will need to have what it takes to accept the surprise.” The jade cat statue looked as if it was smiling, but it wasn’t.
+
+After the cat statue’s voice trailed off, Han Sen heard a noise coming from the ground. It sounded like something was dragging metal chains.
+
+Han Sen scanned around them with his Dongxuan Aura, and then he noticed as all the deified clones began stepping away from them. Something new was approaching Han Sen’s group.
+
+It was a skeleton. Or at least, it looked like a skeleton. The flesh of the creature had dried into a withered husk. Its long hair was like tufts of hay.
+
+The being wasn’t dead, though. His limbs were bound by metal cuffs, and he walked very slowly. With every step the man took, chains grated across the ground behind him.
+
+The chained man was approaching them with his head lowered. When he got closer, Han Sen could see that there were two dark holes where his eyes should have been. Dark blood wept from the holes, and the eyes were missing.
+
+Han Sen and the others looked grim. They were using their powers to cast the Four Symbols Seal. If the creepy man attacked them, they wouldn’t be able to block the strike without releasing the Four Symbols Seal. And that would be enough to lead to their doom.
+
+The prisoner came within ten meters of them, chains rasping across the ground with every step. He raised his head so that the two bloody holes could peer at Han Sen and the others. Those two holes gave them the willies.
+
+He stopped for a moment, but then, the prisoner started to move again. His slow steps took him toward Han Sen.
+
+“What the f*ck!” Han Sen thought frantically. There were four of them, but the prisoner had decided to go for Han Sen. It was getting closer, and after another minute, it stood right behind him.

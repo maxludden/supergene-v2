@@ -1,0 +1,90 @@
+Title:Crystal Treasure Box 
+Chapter:508 
+Section:2 
+Book:2 
+CSS:../Styles/style.css 
+viewport: width=device-width
+  
+## Crystal Treasure Box
+### Chapter 508 
+<figure>
+	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
+</figure>
+  
+
+  
+  Han Sen was afraid that the crab might snatch his part after it finished its own, so he summoned the angel, feeding the remaining silver eel to her.
+
+The Archangel was the main force to help him hunt super creatures, so it was essential to Han Sen that she transform again. Sacred-blood meat was not a waste on her.
+
+In addition, this silver eel was as thick as a bucket and more than 30 feet long. Han Sen's part was about 18 feet long. It was too much for him to eat up, while the Archangel was eating with ease. Her mouth moving nonstop, she was not affected by the toxins at all. The silver eel disappeared quickly.
+
+Han Sen then had the time to look at the beast soul of the silver eel. Han Sen felt he was a bit too lucky recently. As long as he hunted a sacred-blood creature, he would gain a beast soul, which even scared Han Sen himself a little bit. He was afraid that he might have used up his luck and would become unlucky.
+
+<div class="tables">
+	<table class="beast">
+		<tr>
+			<th colspan="2">Beast Soul Gained</th>
+		</tr><tr>
+			<td>Sacred-Blood Silver Eel</td>
+			<td>(Aquatic Mount)</td>
+		</tr>
+	</table>
+	<!-- Type of beast soul of sacred-blood silver eel: water mount. -->
+</div>
+
+"Water mount!" Han Sen became overjoyed. He was just wondering how he could come back to this place again. After all, humans could not stay in the water for a long time and this place was so deep in the water. Han Sen was not sure whether he was able to dive so deep himself. With the silver eel mount, it would be easy for him to come down.
+
+The only shortcoming of the beast soul was that it could not be used on the land. However, that did not trouble Han Sen at all. He had the golden growler on the land and did not need anything else.
+
+As the Archangel was enjoying the needs of the silver eel, Han Sen checked the crystal sailboat out and climbed to the deck.
+
+The sailboat was so big and carved out of crystal. However, nothing could be seen inside the boat, which made him feel quite weird.
+
+The golden crab had disappeared in a cabin, so Han Sen wanted to see whether there was other stuff in the cabin. However, before he came to the entrance, the golden crab suddenly rushed out, waving the pincer fiercely at Han Sen.
+
+"Buddy, don't be so nervous. I am only looking around and do not mean you harm," Han Sen stepped back and said with a smile, seeing that the golden crab was just guarding the entrance and did not chase him.
+
+However, the golden crab did not know what he was talking about, threatening him against approaching with its pincer.
+
+The more reluctant the golden crab was, the more Han Sen wanted to see what was in the cabin. However, he looked at the entire crystal sailboat and found that entrance was the only one. Since it was guarded by the golden crab, there was no way that Han Sen could enter.
+
+"How come you are not poisoned?" Han Sen became upset, as he was not able to see what was inside the boat, he tried to stick his head up and look.
+
+Han Sen was no match of the golden crab, so he had to retreat temporarily to think of another way. Currently, Han Sen was very curious about the thing inside the crystal boat and was not in a rush to leave.
+
+In addition, he wondered if those people from Blackgod Shelter were still guarding outside, so it was unnecessary for him to go out of the water.
+
+When I go out, I will definitely try to wipe out Blackgod Shelter. Han Sen decided that as long as Blackgod Shelter was still there, his grudge would never disappear. In addition, Goddess shelter was surrounded by ocean in three directions. In order to develop, it must expand to the icefield, which meant he must have his own place here.
+
+Now that Blackgod did him a service by becoming his enemy, Han Sen would not be polite with him. He was calculating how he could kill the group of people and take their place for himself.
+
+Han Sen had heard from Li Xinglun that Blackgod was the strongest among the three forces on the icefield with the most resources. Li Xinglun and the other force could only be its match when they united, maintaining the balance between the three.
+
+Previously, when Starwheel Shelter was under the attack of spirits and the other shelter was distracted, Blackgod Shelter did not try to help. They probably wanted to unite the entire icefield after Starwheel Shelter was wiped out.
+
+It was not easy to conquer Blackgod Shelter, obviously. Bloodgod himself was stronger than Han Sen, so he was very likely someone that had almost maxed out on sacred geno points. His fitness index should be more than 120.
+
+In addition, Han Sen was deterred by the knife skills of Blackgod. Up until this moment, Han Sen still failed to understand how the strike disappeared, and if he did not understand it, he would suffer again when faced with Blackgod.
+
+"If I could not beat him, I would rob him. Blackgod Shelter has such a large territory that I don't believe they could guard all the places if I attacked one by one." Han Sen made up his mind to take care of the Blackgod territory when he got out.
+
+When he returned to the lower level of the boat, he saw that the Archangel had almost finished the body of the silver eel, with only a head left. Han Sen had a thought and stopped the Archangel from her feast, taking her back into his sea of soul.
+
+Han Sen looked around and hanged the head of the silver eel on a rope in front of the ship and hid on the right flank of the ship himself.
+
+After waiting for several hours, he indeed saw the golden crab sneaking out. However, because there was only a single rope, the crab could not climb up with its claws. It had to jump up to reach the head of the eel with its pincer. Seeing that the golden crab having left the crystal Han Sen secretly climbed onto the deck and sneaked into the cabin.
+
+When the golden crab was under the silver eel, it jumped twice but did not catch the head of the silver eel. Han Sen felt content secretly. He had calculated the height of the jump of the crap, and he deliberately made it hard for it to reach. However, the crab would not give up either. This way, he had enough time.
+
+Standing in front of the entrance, Han Sen looked inside the cabin. It was a hall inside. Everything was carved out of crystal, looking very delicate and beautiful.
+
+In the middle of the hall, the crystal table was placed. Han Sen originally thought it was a table, but when he entered, he found it was no table, but a crystal treasure box, with the crystal lock on the outside.
+
+However, the lock was not locked, so it was not really effective.
+
+"Is there some kind of treasure of the pirate or curse of the phantom boat?" Han Sen suddenly felt hesitant, not sure whether he should open this giant whistle box. It was so weird that there might be something dangerous inside.
+
+Greed and curiosity eventually beat his logic. Han Sen heard the noise of the head of the silver eel falling and knew that the golden crab would return very soon. He gritted his teeth, summoned Snow Charmer, stood next to the cabin door, and asked Snow Charmer to open the crystal box.
+
+The spirit was absolutely loyal to her master. After hearing the command, she took off the lock and lifted the lid of the box.

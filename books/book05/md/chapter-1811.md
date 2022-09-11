@@ -1,0 +1,88 @@
+Title:Slashing Demon 
+Chapter:1811 
+Section:6 
+Book:5 
+CSS:../Styles/style.css 
+viewport: width=device-width
+  
+## Slashing Demon
+### Chapter 1811 
+<figure>
+	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
+</figure>
+  
+
+  
+  Han Sen used his scabbard to block. He felt a huge power surging, and he was sent flying.
+
+He was sent spinning through the air, but he still managed to land gracefully when the momentum of the impact was gone. But even so, he ended up coughing up blood.
+
+The xenogeneic Vic had turned into was far stronger than Rocks Fall Duke.
+
+Before Han Sen was back up on his feet, Vic was jumping forward with ten of its nails raised like spiteful daggers. They were speeding down at Han Sen, fueled with Sky-Demon power.
+
+Han Sen’s power alone would not be sufficient to challenge xenogeneic Vic. So, he moved quickly and dodged the attack. “Yisha, are you not going to assist?” Han Sen said coldly.
+
+Yisha smiled. “Didn’t I say there is a section where I’d be needing your help? This is it. He is all yours. I am sure you can handle it, so you take care of this and I’ll wait for you inside. As for the teeth earlier, we’ll have one each. I’ll hold onto yours. When you’re done here, come and get it from me.”
+
+After that, Yisha picked up the rabbit’s two teeth. Then, she flew to the bridge. When there, she walked forward.
+
+Strangely, when Yisha started to traverse the bridge, it began to shake. But no liquid fired upward like a geyser. Yisha was able to get in close to the crystal sphere.
+
+“I can’t help you here, either. So… I think I’ll go on.” Hawk Wing clenched his teeth and followed Yisha.
+
+Hawk Wing walked the same way carefully, but he too noticed there were no more pillars of milk. When Yisha and Hawk Wing approached the crystal sphere, they entered it and were gone.
+
+Han Sen lifted his lips. He was not surprised about what she had done.
+
+Han Sen had almost killed her, and he had taken the scabbard that once belonged to the Rebate elder. Yisha probably would have liked to see him dead, more than anyone. It’d be strange if she earnestly co-operated with him.
+
+But what confused Han Sen the most was why something only happened to Rocks Fall Duke and Vic when they tried traversing the bridge. Why did nothing happen to Yisha and Hawk Wing?
+
+Vic’s xenogeneic form was roaring as he continued chasing Han Sen. Its speed and power were greater than Han Sen’s, too. Even though Han Sen could evade its unmissable technique, he couldn’t fight back.
+
+When Yisha and Hawk Wing disappeared into the crystal sphere, Han Sen smiled. His scabbard started to leak purple smoke.
+
+Vic screamed as his body began to crack and bleed profusely. The wounds began to grow in length and width. But this was not because of Han Sen. This was because when Vic had fought against the rabbit, the rabbit had hurt him a great deal.
+
+Rocks Fall Duke’s xenogeneic form was a rabbit that used Teeth power. The wounds weren’t too severe, at first. And when the rabbit was killed, Vic didn’t think anything of the wounds. But the Teeth power always remained. Even when Vic himself became a xenogeneic, the wounds were only suppressed for a time. The transformation didn’t clean and get rid of the Teeth force and residue that still resided within his wounds.
+
+Yisha could use her Teeth Knife to trigger the Teeth power in Vic’s wounds, but she hadn’t done that. Han Sen knew she was up to something.
+
+Fortunately, Han Sen himself now had the Teeth powers. He wasn’t as proficient as Yisha with them, but it was enough to trigger Vic’s wounds.
+
+Vic’s injuries were spreading and becoming more severe. With Han Sen’s Teeth power and Teeth Knifemind, Vic’s body began to crack open. It wasn’t fast, but it was steady and scary.
+
+That wasn’t the scariest thing about it, either. The scariest thing about it all was the bleeding effect. Blood seeped out of the wounds, running faster over time. The more Vic moved, the more Vic bled.
+
+A few of his wounds were bleeding at the same time, and unless Vic had the necessary power to halt such bleeding, it wouldn’t matter how strong he was. He’d end up dead before long.
+
+And it was already clear Vic could not stop the bleeding. He eventually started to lose consciousness.Even if he could have stopped it, it was probably too late.
+
+Now, Vic’s mind was reduced to the most primitive thought process: killing. He didn’t care about his oozing wounds, and all he could think about was killing Han Sen.
+
+Han Sen’s body was like a phoenix in flight. He dodged all of Vic’s skills. And not long after, Vic’s power and speed began to decrease. He had lost so much blood, most of the platform had been covered in slippery crimson.
+
+Patong!
+
+Vic had almost been drained of all the blood in his body. He fell on the ground and wheezily roared. He wanted to come at Han Sen again, but he couldn’t stand upright.
+
+Han Sen used the scabbard with Teeth sword skills on Vic, which made the cracks and wounds grow bigger. The last bit of the creature’s blood was beginning to ooze.
+
+A little while later, Vic’s tether to life snapped. He could only twitch on the ground as the last few drops of blood trickled out. 
+
+> “Xenogeneic Viscount Hunted; Xenogeneic Gene Found: Purple-Horn Demon.”
+
+“Teeth powers are great! They’re no worse than Falsified-Sky powers, but strangely, xenogeneic Vic was far stronger than Rocks Fall Duke. Why was he only considered a Viscount?” Han Sen wondered.
+
+Suddenly, Vic’s body began to leak a white juice. And then, the liquid ran back to the bridge.
+
+Now Han Sen understood that the liquid down below was not all aggressive and insanity-inducing. Only some of it had a problem. That was how Yisha and Hawk Wing had been able to get by safely.
+
+But now that the insanity-inducing white liquid had returned, if Han Sen had to cross the bridge, he’d have to deal with the same danger that Vic did.
+
+Han Sen hesitated. He removed Vic’s horn and put it into his bag. He mounted the bridge and ran straight for the crystal sphere. After just a few seconds, he heard an explosion come from below the bridge. A pillar of liquid soared through the sky. It began to cast a white rain, threatening Han Sen.
+
+Han Sen prepared to summon his Steel Sagittarius Shield for protection from the white liquid. But when the white milk came close, it stopped in the air. The streams of white liquid gathered up together, as if they had life and consciousness. It looked at Han Sen, and then dropped back down below the bridge.
+
+Han Sen was shocked. He had no clue what was going on, and he certainly had no idea why the white liquid would let him go and not want to be a part of his body.

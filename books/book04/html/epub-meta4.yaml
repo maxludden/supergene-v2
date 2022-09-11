@@ -1,0 +1,23 @@
+---
+belongs-to-collection: Super Gene
+cover-image: Images/cover4.png
+creator:
+- role: author
+  text: Twelve Winged Dark Seraphim
+- role: editor
+  text: Max Ludden
+css:
+- style.css
+group-position: 4
+ibooks:
+- version: '4.4'
+- specified-fonts: true
+- iphone-orientation-lock: portrait-only
+- scroll-axis: vertical
+page-progression-direction: ltr
+title:
+- text: Fourth and Fifth God's Sanctuary
+  type: main
+- text: Book Four
+  type: subtitle
+...

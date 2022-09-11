@@ -1,0 +1,80 @@
+Title:The Fight in Front of the Hall 
+Chapter:3022 
+Section:15 
+Book:9 
+CSS:../Styles/style.css 
+viewport: width=device-width
+  
+## The Fight in Front of the Hall
+### Chapter 3022 
+<figure>
+	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
+</figure>
+  
+
+  
+  Every race was shocked. Up until now, only Han Sen, Bai King, and a few others had challenged an Annihilation class God Spirit. Now, someone was going straight to the geno hall. People were stunned. Littleflower landed on the geno hall plaza. Before he started speaking, a serious and cold god voice sounded in the god hall. “Do you know how bad the crime of humiliating the god hall is?”
+
+The scary God Spirit door of the geno hall opened. Many lamp fires were shining from the interior. A body with a lantern fire walking out. One was not able to see the face, but it was still scary. People would have been scared by just seeing it. Littleflower stared at the shadow of the person who had emerged from the geno hall and said, “I did not mean to offend the God Spirits, but I have come here for Qin Lan. Give me Qin Lan, and I will leave.”
+
+Han Sen, who was on the cold planet, had his eyes open wide. He looked at Littleflower before the geno hall. It had been so many years, but he still recognized him. He was certain that was Littleflower.
+
+“What is Littleflower doing there?” Han Sen was in a rush. He knew how scary the geno god hall was. An Annihilation class God Spirit was fine. They were just very powerful. He had fought with one and been able to stand a chance.
+
+But that guy who called himself a god was mysterious. He was not just powerful. He was more than that one word.
+
+“Weird…” Han Yufei looked at Littleflower standing in the god hall plaza. She frowned and said to herself, “Sacred Leader’s armor is still here. Why did it turn into that?”
+
+Upon hearing that, Han Sen’s body shook while hearing that. “What do you mean? Is Littleflower wearing Qin Xiu’s armor?” He had a few dire thoughts over what that might mean.
+
+Han Yufei was surprised. She looked at Han Sen and asked, “Do you know the person wearing that armor?”.
+
+“That is my son,” Han Sen replied. He quickly asked, “Did you say that armor is Sacred Leader’s armor? What is going on?”.
+
+“Your son?” Han Yufei was shocked. She did not answer Han Sen’s question. She looked very untrusting as she asked, “Are you sure the person wearing that armor is your son?” After she asked that, she asked another question. “Is he your biological son?”
+
+“I am pretty sure that is my biological son,” Han Sen said with confidence. “He was taken by Nine-Life Cat when he was small. He was taken to the holy palace, but I am sure that is now him.”
+
+Han Sen was not going to get that wrong. That was because they were related, as well as the feeling of that king spirit body. Aside from his son, there was no one else in the universe that would have it.
+
+“That is quite weird. Your genes mostly came from the crystallizers. As for your son, no matter how he got your genes, he could only be a crystallizer. There is no way he should have been able to wear that armor. Unless…” Han Yufei’s face looked serious.
+
+“Unless what?” Han Sen could not wait to crack open Han Yufei’s head to get answers from in there.
+
+“That is impossible.” Han Yufei shook her head, seemingly denying her initial guess.
+
+“Just tell me what you wanted to say.” Han Sen’s heart was in a rush and felt like it was on fire.
+
+“I am not so sure. If I say it, it will be irresponsible of me. My guess is unlikely to be correct. Let’s just wait and see.” Han Yufei looked at Han Sen and said, “It is pointless to rush things. Even if that is really your son, you cannot go there. Before you can control your blue blood, going to the geno hall is like making a death wish. As for this guy, who you claim is your son, if he is really wearing Sacred Leader’s armor, he might stand a chance. Right now, you just need to stay calm. You need to reach the absolute still mode. At that time, if your son is struggling to defeat the God Spirits, you might be able to go and save him.”
+
+Han Sen understood that, but he had been trying to enter absolute still mode for a month. He had failed the entire time. It made his heart feel rushed and burn. He was not able to quiet it down.
+
+“I must calm down. Han Yufei is right. I must have enough power to sort out this problem.” Han Sen took a deep breath and forced himself to calm down.
+
+At this time, the body had already walked out of the geno hall’s door. As the person walked out of the door, the geno hall door closed.
+
+“Moment God!” The universe finally saw who emerged from the geno hall.
+
+Han Sen saw it too, but he was not surprised. He once heard God say that the geno hall was guarded by 12 Annihilation class God Spirits. Perhaps this was the time when Moment God guarded geno hall. Moment God looked as cold as usual. She stood atop the steps of the geno hall door. She looked down from a high place at Littleflower and said, “Whatever the reason is for you to have come, a blasphemy against the god hall can only result in death.”
+
+After that, Moment God’s arms rose slowly. She pointed a finger at Littleflower. It flickered with some scary light. When the finger was outstretched, a weird wave covered the whole of the god space. It was like time was frozen. Everything was frozen.
+
+Moment God’s time-stopping power was something everybody had seen in the previous fight. It was still so unbelievable seeing it again. Seeing Moment God’s finger movement was already in front of Littleflower, everybody thought Littleflower could only take the hit and be rendered unable to fight back.
+
+Yet, Littleflower was moving even when time stopped. He waved his fist and pointed at Moment God.
+
+Pang!
+
+A scary white light flame broke Moment God’s finger light. It was like an asteroid that was madly going to Moment God. Moment God’s face changed. Her body flashed and avoided the punching power.
+
+The flaming fist struck the geno hall door. It made loud explosion sounds. Although no one was able to hurt the geno hall door, the door was shaking nonstop. “How is that possible?” All the creatures were shocked.
+
+Moment God’s strength impressed everyone. Now, someone had broken the time-stopping power. One punch had managed to break the finger light. Moment God did not dare fight this face-to-face. That was how scary that power was. “Who is this guy?”
+
+“He has very scary power. Since when did the universe have an elite like this?”
+
+Every race of the universe was in complete shock. They were all talking about it. Some old antiques from ancient times had expressions that kept changing. They looked terrible.
+
+“I do not want to kill. Don’t make me go in there. Give me Qin Lan.” Littleflower was stepping toward the geno hall’s door. His face looked certain and confident.
+
+“Moment… Light…” Moment Goddess did not answer. A mysterious wave flickered on her body. It was like it pushed a river of time and made the river of time flow faster. The time went by like an arrow. One moment was a thousand or a hundred years.

@@ -1,0 +1,102 @@
+Title:The Hope to Break What Binds 
+Chapter:2253 
+Section:10 
+Book:7 
+CSS:../Styles/style.css 
+viewport: width=device-width
+  
+## The Hope to Break What Binds
+### Chapter 2253 
+<figure>
+	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
+</figure>
+  
+
+  
+  Ghost Bone’s will had been destroyed by the black crystal armor. The Ghost Bone power was now left inside Han Sen’s body, and although Han Sen could not make much use of it, his power was the same as that restrictive power. That provided him a new possibility.
+
+Han Sen needed to find a way in which he could break the restrictions, and by doing so, perhaps be able to escape that place.
+
+But with Fox Queen there, she would not allow him to go and try various methods willy-nilly. If it came to a fight, Han Sen would not be able to defeat her. So, he had to find a way in which he could pretend to be nice and then break the restrictions.
+
+“These trappings are something that not even I am able to break. What makes you think you can do it?” Fox Queen rolled her eyes at Han Sen. “But it is good that you can stay here. At least there will be someone here that can talk to me, and possibly prevent boredom settling in again.”
+
+“That sounds good. But no matter how pretty you are, it’ll be boring after a while. I don’t have the mood or want to stay with you explicitly,” Han Sen thought to himself.
+
+“Um… you cannot say that. Ghost Bone changed my body to a Ghost Bone body. But I can still make use of a Ghost Bone power. I think the restrictions that trap this place are associated with the Ghost Bone powers. It would not be impossible to break,” Han Sen said.
+
+Fox Queen looked rather bored now. “The restrictions here aren’t solely of Ghost Bone powers. Even if Ghost Bone was reborn, he would not be able to unlock them because he wasn’t deified. That is especially true of you. Just stay with me here, and things will be fine.”
+
+After that, Fox Queen returned to the palace. Han Sen followed her back to the palace, too.
+
+It looked like the Fox Queen was not putting much stock in the prospect of escaping, and neither was she in much of a mood to talk about it. Han Sen could only examine and analyze the restrictions of the palace alone.
+
+Han Sen was not going to look at Fox Queen’s restrictions just yet. Right now, he was examining the restrictions in the walls. If he was able to break them, Little Star could take him out of there.
+
+Using Dongxuan Aura to observe the restrictions in the wall, he noticed they were perfect. The substance chains were bound tight, and they had a strange formation. Even if he was to use Super Spank, Han Sen’s power would not be sufficient enough to break the chains.
+
+If that was in the past, Han Sen would have no possible way of doing this.
+
+But now he had a Ghost Bone body. And on top of that, he had the Ghost Bone power of a deified being. It was not impossible.
+
+If Fox Queen was able to break one of the lines and let him slip through before, Han Sen thought he could make a way out himself.
+
+Han Sen used the Purple-Eye Butterfly to check out the entire palace. He was trying to see how the palace was built and in what manner.
+
+The restrictions were not added separately. They were wound and built into the core of the construct itself. The stone of the palace was a part of the restrictions. Even Fox Queen herself was a part of that restriction. Unless the whole palace’s restriction was wiped out, Fox Queen would never be able to leave. He wanted to break the palace’s entire restriction, but by doing so, he would be challenging Fox Queen’s own power. That was why she was not hoping to escape.
+
+General Ghost Bone was smart. He himself came up with the palace’s design, and then went ahead to build it.
+
+“The restrictions here are quite amazing, but it was all made through the Ghost Bone Technique. Now that I have a Ghost Bone body, if I can identify a flaw in the construct I might be able to escape, even if destroying the entire trappings will be difficult.” Han Sen continued his analysis of the palace.
+
+Suddenly, Han Sen’s heart jumped. In that palace that was full of restrictions, he did indeed manage to find a very small flaw.
+
+That should not have even been called a flaw. It was just a loose substance, but to Han Sen it was a veritable hope.
+
+Where Han Sen found it was near the fish statue near the pond. That was where he first entered the place from.
+
+“If I have guessed correctly here, there is a flaw. And that is because Fox Queen kept using her power to force that precise spot open so the little beast can go in and out in the effort to lure other creatures here. Although Fox Queen’s power was unable to break the restriction entirely, after a long period of getting ripped a bit, the substance chain there loosened.” Now, Han Sen had a way in which he could escape.
+
+On Planet Ice Blue, a group of people were hiking deep into the mountains. If Han Sen saw this, he would be quite surprised. And that was because all of Ice Blue Base’s big characters were there.
+
+Mister White, Crime, Ice Blue Knights, a few King class Ice Blue Knights, Inspector Edward, and others. That team was the backbone of the Ice Blue Knights.
+
+“Mister White, with the amazing powers you have, not even you are able to deduce where Han Sen might have gotten to?” The Ice Blue Knight next to Edward coldly said.
+
+“Mister White would not lie,” Crime madly responded.
+
+Mister White waved his hand to stop Crime from speaking any further. He coldly said, “My powers would not lead me astray, and all I can do is guess where he is right now. The only possibility of me not learning where he is, is because some strong power prevents me. All I can suggest, is that we prepare to fight. And in that case, I suspect a big fight will ensue when we do find him.”
+
+“We will listen to all you tell us,” Ice Blue Knight King quietly said.
+
+Edward stopped the Ice Blue Knight from talking. They followed Mister White and continued their onwards march.
+
+The group of people were far in the mountains. Mister White kept leading them all, all the while calculating something.
+
+…
+
+“Why do you keep walking around and around? Come and talk to me.” Fox Queen was staring at Han Sen while she lay down on a jade bed speaking to him.
+
+“I am looking for a way in which we can break the restrictions binding this place, so that we can leave.” Han Sen knew he would not be able to hide it from her, and so he told her straight.
+
+Fox Queen, when hearing him, did not believe Han Sen could break the restrictions there.
+
+“A night of fun is priceless. Stop wasting time and show some care to the people around you.” Fox Queen’s voice was layered in seduction, and she was like an enticing devil.
+
+“Do the rest of the Ghost Bone Masks have half-deified powers?” Han Sen looked at the Ghost Bone Masks in the side hall.
+
+Fox Queen smiled. “Of course not. This is just where General Ghost Bone used to live. When he was here, they did have power. But now that his power inside your body, those masks are useless now.”
+
+Han Sen had thought of a way in which he could leave, but he was still too weak. He could not punch through the restriction that had loosened, and so, he had to find a different way to accomplish that.
+
+Han Sen grabbed a mask, and indeed, there was no power. It was, however, very sturdy.
+
+“Can you open White Bone Big Hell for me to have a look?” Han Sen asked.
+
+Since the Ghost Bone Masks were useless, Han Sen turned his mind to the blood kirin. If he was able to enlist its help, it would be far easier for them to leave.
+
+“Why would you want to go in there?” Fox Queen asked Han Sen.
+
+“I want to see if I can tame it. If I gain its power, I might be able to break the trappings.” Han Sen was honest, as that was exactly what he was thinking.
+
+“Ah, okay. That is good thinking. Alright, you go do that.” Fox Queen threw the black bone key that hung around her neck at Han Sen.

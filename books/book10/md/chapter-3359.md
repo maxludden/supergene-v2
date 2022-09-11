@@ -1,0 +1,98 @@
+Title:Bao'er's Destiny 
+Chapter:3359 
+Section:17 
+Book:10 
+CSS:../Styles/style.css 
+viewport: width=device-width
+  
+## Bao'er's Destiny
+### Chapter 3359 
+<figure>
+	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
+</figure>
+  
+
+  
+  “If the old leader of the God Chaos Party was the fairy White King spoke about, it means that a long, long time ago, the old leader had already managed to break through the main and the reverse universes. She had managed to gain access to the geno universe… Wait…” Han Sen’s brain suddenly lit up as a scary thought crossed his mind.
+
+“If I say that the God Chaos Party’s leader was a creature that came from the geno universe…” Han Sen thought the idea he had just come up with was rather mad. Then again, it was not something that could be deemed impossible either.
+
+After all, he did not have any facts to confirm his guesses. So, he stopped thinking about it.
+
+Where the God Chaos Party Leader came from did not seem to matter too much. Now, Han Sen only wanted to know what gourd seed’s purpose was and how it would benefit Bao’er. He did not know if it would be good or bad for her.
+
+Big sky demon saw the book as well, but she merely started turning its pages gently. As for grabbing the book, that was something she did not dare do. She was still scared. Although it was just a statue in that room, she did not want to show any disrespect.
+
+Big sky demon carefully went around the bed. She started searching around. She did not search too precisely. Big sky demon did not go rifling through all she saw. She just observed what she could.
+
+There was quite a lot of stuff in the hall. There was a bronze stove, bronze pot, bronze statue, and an instrument. There were bookshelves and bamboo scrolls. There was a great deal of many things. Big sky demon looked at them all, but she did not touch any of them.
+
+When big sky demon saw one thing in particular, her body started to shiver. She lost her voice as she screamed, “Demon Heart Stove!”
+
+Han Sen used his Dongxuan Aura to take a peek. He had a gander at the object that made big sky demon freak out and start shaking like a madman. It was a seven-inch-wide black metal stove.
+
+The stove was semi-circular and adorned with floral patterns. It was black. It was unknown what it might have been made of. There were patterns of mysterious flowers, and it was releasing white smoke.
+
+Han Sen was unable to tell what was so great about this thing. By comparison, big sky demon was really thrilled by it. She was shaking a lot as she inched her way closer to the object that she had declared to be a Demon Heart Stove.
+
+She looked very hesitant to approach it. Her hands slowly reached forward. Han Sen could tell she was making a difficult decision, but she could not fight back the temptation. She held the Demon Heart Stove.
+
+“Little Daughter, you are back.” When the Demon Heart Stove was lifted, a female’s voice was heard in the hall. It sounded lively and elegant.
+
+Dong! Dong!
+
+Big sky demon stood still. The Demon Heart Stove she clutched fell to the ground. She peered behind her with a look of disbelief. She turned her eyes to the jade statue.
+
+The jade statue was across the bed. It still appeared to be a stone, but the eyes possessed a life force. The face had a life force too. It was like the statue was alive. It was smiling at big sky demon.
+
+“Mister… Mister Leader…” Big Sky Demon jumped in front of the jade statue and started kneeling before it. She grabbed the hand of the jade statue but was too crazed to speak words.
+
+“Little Daughter, do not do this. This is one of the last remnants of my soul. If you are too excited and extinguish this last bit of my soul, I will be unable to speak to you.” The jade statue raised its hand and stroked Big Sky Demon’s hair like a mother who loved her child.
+
+“Mister, can you really not come back?” Big sky demon was always very flirty and renowned for playing and making fools out of everyone. She was now wholly different. She was like a little girl looking at the statue with watery eyes. It was as if she was praying for an answer.
+
+“Maybe. I am just a shred of a soul, so there are many things I do not know,” the jade statue said with a sigh. It then asked big sky demon, “Little Daughter, have you seen my child?”
+
+“I have seen her,” big sky demon said. “She is great and beautiful. She is like you. She has an incredible array of talents and has managed to achieve all your grace. In the entire universe, I do not doubt there are none better than her.”
+
+“Being good might not be a good thing. I would much prefer her to become an ordinary child and lead a simple life.” When the jade statue heard big sky demon’s words, she looked weird. She was happy and proud, but she was also worried.
+
+“Mister, are you worried the geno hall will not accept our Little Master? Do not worry. If I have guessed things correctly, the new God Hall Leader knows the identity of Master Bao’er. He has not tried to do anything to Master Bao’er. Ergo, I do not think you need to worry too much about it.”
+
+“The child’s name is Bao’er,” the jade statue said softly. It shone with a motherly light.
+
+“Yes, that is correct,” big sky demon said. “A mixed human took her as his own and gave her that name.”
+
+“Has that person been treating Bao’er nicely?” the jade statue asked.
+
+“Good. Very good. He has been treating Master Bao’er like a real daughter. Master Bao’er loves him very much as well. That is why I have made no effort to take her away from him.” Big sky demon’s answers were at least making Han Sen feel a whole lot better.
+
+“That is good to hear.” The jade statue sighed. “It is good if Master Bao’er is like a normal child. We will not have to worry about her too much.”
+
+“Mister, what do you mean?” Big sky demon looked at the jade statue with confusion.
+
+The jade statue sighed. “Bao’er’s body has his genes. No matter how much the God Spirits of the geno hall hate me, for his sake, they will not do anything to Bao’er. I do not worry about them.”
+
+“Are you worried about the God Chaos Party harming the little master?” Big sky demon enquired.
+
+The jade statue shook her head. “The God Chaos Party has many elites. Most of them are ambitious, but they are mostly proud and old. Even Ancient Devil and Bury Path God are too focused on obtaining the seat of the leader. They care nothing for my child.”
+
+After pausing, the jade statue’s face looked cocky and proud. She then said, “With the genes my child has, in this universe, very few people can hurt her.”
+
+“In that case, what are you worried about?” Big sky demon looked at the jade statue with confusion.
+
+Aside from the God Chaos Party and the geno hall, she could not think who might want to harm Bao’er.
+
+“I am worried about a person.” The jade statue went silent. A while later, she said, “Only that person will be able to hurt Bao’er. Even if he does not hurt Bao’er pre-emptively, Bao’er will still have to face him. That is Bao’er’s destiny. She will be unable to escape this.
+
+“But why? Who is this?” Big sky demon asked with shock. This was going much further than she expected it to.
+
+“Human Alpha.” The jade statue spoke out these two words very slowly.
+
+Big sky demon froze. She had never heard of a human with that name before. Judging from the meaning of the name, there was every chance it was an alpha of the human race.
+
+According to big sky demon’s knowledge of humans, they did not have an alpha. In the universe of kingdoms, humans had their own ancestors that were not the same people.
+
+The jade statue seemed to already know what was now worrying big sky demon, so she said, “He might not be using that name. Perhaps he has already reincarnated. I do not know what his name might be now. No matter how he reincarnates or how great his talent is, strong or weak, if that person can use my gene prototype armor, that is the person we are looking for.”
+
+When Han Sen heard all of that, his heart jumped. A name jumped into his mind. “Qin Xiu!”

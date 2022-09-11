@@ -1,0 +1,78 @@
+Title:Cruel Bottle 
+Chapter:1186 
+Section:3 
+Book:3 
+CSS:../Styles/style.css 
+viewport: width=device-width
+  
+## Cruel Bottle
+### Chapter 1186 
+<figure>
+	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
+</figure>
+  
+
+  
+  Han Sen flew towards the Sky Tree as fast as he could. He knew he couldn’t stop what was happening, but he hoped he could pick up a few goodies at the very least. Perhaps he’d even be able to kill a few of the super creatures and take their Life Geno Essences from Sky King.
+
+The Sky Tree was growing at an alarming rate. The red and black bark was cracking and beginning to peel. Countless creatures tried to scramble out of the cracks that webbed the tree.
+
+As the tree grew and grew, the creatures started to return to their original size. There were tigers, titans, and birds; every creature imaginable, all trying to make an escape.
+
+But when they made it out, their bodies began to tear apart. Vines shot out from beneath their skin, ravaging their flesh and tangling them up. This happened to those that were airborne as well, and they rained down to the ground in pieces.
+
+The roots of the tree then began to lift themselves up and escape the ground that kept them in place. Like hungry tentacles, the roots grabbed the corpses of fallen creatures and drained them of their lifeforce.
+
+The cracks across the tree began to heal, crushing creatures that sought to escape from them. The tree was slowly being drenched in blood, making for a terrible sight.
+
+A lot of creatures were unable to exit in time. For those that weren’t crushed by the devilish lumber, they were instead ripped apart by the phantom vines that had been slumbering inside their bodies.
+
+The place was like a forested depiction of hell, and just as Han Sen thought it would be best if he left, a light appeared. The light was Qing Jun. Her lifeforce was draining, as green sprouts began to pop up over her body.
+
+“Get the Cruel Bottle!” Qing Jun was not doing well, evidently. As she approached Han Sen, she did so with wobbling movements. She was in great pain and suffering, that much was clear.
+
+“Why? What is it?” Han Sen asked, but he did not delay in retrieving the jade bottle she had recently given him.
+
+Qing Jun gritted her teeth and knelt in front of Han Sen. She placed her right hand on her chest and said, “I, Qing Jun, am willing to submit and offer absolute loyalty to a new master. I will become a faithful servant from now until eternity.”
+
+After that, her forehead gleamed with a spirit stone. Needless to say, Han Sen was in shock that Qing Jun, of all spirits, was willing to obey him. Han Sen held her spirit stone in his hand. It shone brightly before becoming one with Qing Jun again.
+
+Qing Jun might have become Han Sen’s spirit, but the green sprouts were still on her.
+
+“Open the bottle and let me in!” Qing Jun shouted.
+
+“How do I open it?” Han Sen asked.
+
+He had tried to open the Cruel Bottle before, but he was unable to. He thought it was very strange of her to give him a bottle, but at least now it was starting to make sense.
+
+Han Sen touched the bottle to try to open it again, but this time, it opened immediately. Han Sen realized he could only use it once a contract with the spirit that gave it had been signed.
+
+After the bottle was opened, Qing Jun transformed into a pellet of bright light. Then, she tucked herself inside it. As Han Sen wondered why Qing Jun was doing this, another light appeared. This time, it was Water Fairy.
+
+Water Fairy’s body was transparent, and you could see the sprouts manifesting inside her watery body. Her body bubbled and boiled, and if this was to continue, it’d only be a matter of time before she evaporated out of existence.
+
+She shouted, “Help!”
+
+Then she raced into the bottle alongside Qing Jun. Han Sen peered at Qing Jun and the Water Fairy inside the bottle, side by side, and noticed now that the sprouts had stopped growing on and within them. They were all gone.
+
+Han Sen was delighted, learning this treasure he had been given could negate the dark powers of the Sky Tree.
+
+“Han Sen, help!” Han Sen heard someone call out his name.
+
+He turned to see a number of vines crawling through the air like a webbed net. A second later, they were cut down to the ground. A mound of bones had given them a shave, and when Han Sen’s eyes came to focus, he saw Dry Bone King doing battle.
+
+Han Sen flew over towards him, bottle in hand. As he pointed it at Dry Bone King, he asked, “Can you come inside?”
+
+Dry Bone King spared no time in diving into the purifying comfort of the Cruel Bottle. Then, looking up, Han Sen saw a nine-headed creature soar through the sky, screeching in pain. It was headed straight for him.
+
+But before Han Sen could do anything for it, the heads began to separate from its body as vines ravaged the poor beast. Its lifeforce was all going to the tree.
+
+When the body hit the ground, roots sprang out of the earth and dragged it underground.
+
+Han Sen felt it was a great shame and waste. Turning around again, though, Han Sen saw Ghost Eye becoming consumed by the hungry, lecherous vines. He was going to pull out his Phoenix Sword and do what he could to help. But before Han Sen could do anything, Ghost Eye saw the bottle and dived right into it.
+
+“I’m here to get easy kills! Why am I inadvertently saving these things?” Han Sen thought, but then he noticed something. It didn’t seem like anything could exit the bottle without his explicit permission.
+
+The sound of an explosion rang through the forest. A rock giant was headed Han Sen’s way, covered in vines like angry moss. The sturdy golem was able to defy their attempts to tear it apart, though.
+
+And as expected, before the vines could do what they wished to, the rock giant jumped inside the Cruel Bottle.

@@ -1,0 +1,106 @@
+Title:Searching for Treasure 
+Chapter:1772 
+Section:6 
+Book:5 
+CSS:../Styles/style.css 
+viewport: width=device-width
+  
+## Searching for Treasure
+### Chapter 1772 
+<figure>
+	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
+</figure>
+  
+
+  
+  A swordmind itself did not have power, and you couldn’t kill others with it. But a swordmind represented the extent of a swordsman’s skill, and it showed how much their sword skills connected with the earth. The more synergy a swordsman had with the earth, the more powerful his skills would be when they were unleashed.
+
+Someone with a strong swordmind could make even common sword skills incredibly powerful.
+
+Han Sen was not focused on the sword, but his swordmind was the best. Although it had been achieved through luck, he tried hard to practice with it, too.
+
+One strike drew blood, and the second strike lopped off an arm. The sword strike went for the soul.
+
+Under Han Sen’s sword, Mister Elephant felt as if he could not use his own powers to compete. It was as if he had been restricted, and couldn’t do anything.
+
+He could not block anything completely. All he could do was watch his own blood cascade.
+
+Han Sen was not strong enough to seriously injure Mister Elephant, but the Pirate Bone Sword’s ice-like light managed to cut open his enemy’s flesh and bone with ease.
+
+Roar! White Elephant called angrily. Ignoring Old Turtle’s strikes, he ran over to Mister Elephant. He wanted to save him, since he was obviously in extreme danger.
+
+But it was already too late. No one would have expected a Baron to use such a frightening swordmind or such sophisticated sword skills.
+
+Katcha!
+
+Mister Elephant’s head was sent arcing through the air. Han Sen wasn’t going to stop to watch it, though. He held the Pirate Bone Sword in one hand and picked up Hai’er with the other. Then, he ran.
+
+> “Xenogeneic Viscount Hunted; Xenogeneic Gene Found: Old Elephant Man”
+
+Han Sen ran ten meters and saw Mister Elephant’s head hit the ground. Unfortunately, Han Sen had to leave the body behind; he did not have the time to collect the xenogeneic materials.
+
+White Elephant and Old Turtle squealed, racing into the forest Han Sen kept on running, putting the sword next to Hai’er’s neck. He shouted back to Old Turtle, “Old Turtle! Get that White Elephant, or I’ll cut her head off.”
+
+“You wouldn’t dare!” Old Turtle shouted in the common language.
+
+Han Sen did not say a word, and he actually got ready to do the deed.
+
+“Stop! I promise!” Old Turtle screamed in panic.
+
+The Pirate Bone Sword’s blade had been pressed against Hai’er’s neck for a bit, nicking the skin to draw a few drops of blood. If Old Turtle had answered any slower, Hai’er would have been killed.
+
+“Now!” Han Sen looked like he was about to cut her neck again.
+
+Old Turtle shouted and jumped in front of the White Elephant to fight it.
+
+“If I see you or the White Elephant, I will cut her head off.” Han Sen put away the sword and ran into the woods along with Hai’er.
+
+Old Turtle was a little hesitant to do as instructed, but when he tried to catch up, he could not find Han Sen. Not a trace of him could be seen. It was like the two had just vanished into the woods.
+
+The Dongxuan Aura was excellent when it came to hiding people. Even Earl class xenogeneics would not be able to track them, when they were out of direct sight.
+
+Han Sen grabbed Hai’er and took her into a cave. Then, he lobbed her onto the ground.
+
+“Brother Dollar! You are safe. I was worried about you.” Hai’er looked so innocent. She looked at Han Sen with sincerity in her eyes.
+
+“It is a shame you didn’t choose to become an actress.” Han Sen complimented her feint, then proceeded to ignore her. He just reached out his hands, searching up and down her body.
+
+Hai’er was someone special, that much he could tell. She must have received something from Old Turtle, too. When he had grabbed her back there, he hoped to threaten Old Turtle into helping him. And not just that, but also so he could nab whatever treasure she supposedly had.
+
+“Brother Dollar, what are you doing? I am not an adult yet!” Hai’er was on the floor, blushing like a shy lady.
+
+Han Sen had seen many hot women in his time, so he wouldn’t get turned on by her.
+
+Han Sen searched her body, trying to find the treasure.
+
+Hai’er was evil, but she was just a woman. When Han Sen touched her, she screamed, “Don’t touch me! I am of the Pirate. If you disrespect me, the others of the Pirate will come after you. They will slay your entire family.”
+
+“Sorry, I am the only one. Come after me whenever you want,” Han Sen said coldly, before continuing to rummage through her clothes.
+
+Han Sen found a Toxic Fang Dagger, and then continued his search.
+
+“Brother Dollar, tell me what it is that you want and I will give it to you.” Hai’er had tried things the hard way, so she approached him from a more pitiable angle.
+
+Han Sen ignored her and kept searching.
+
+“Asshole. Pervert. I’ll kill you. Slice you up like good sashimi.” Hai’er squirmed and struggled, but Han Sen put a few coins on her. She couldn’t move away. Han Sen was still searching, so she shouted.
+
+Hai’er had many items on her, but Han Sen could not tell which was the treasure. He took it all, anyway. Aside from her clothes, he claimed everything she possessed.
+
+After the search, Han Sen looked at her to see if there was anything missing.
+
+Hai’er looked like a woman that had been bullied, and she weakly said, “What are you doing? If you touch me any further, Big Pirate Uncle won’t let you go. He will skin you alive!”
+
+Hai’er looked very pitiable, and while it was very attractive, Han Sen said coldly, “Don’t worry, I am not interested in a woman with no boobs.”
+
+After that, Han Sen turned around and left. He abandoned her in the cave, all alone.
+
+“You asshole! I won’t forget about this. If you had the balls to, you’d kill me. Otherwise…” Hai’er looked at Han Sen as she shouted. She had been humiliated and infuriated by the search.
+
+Now, she was enraged. She had one sole treasure that kept her safe, but it resided inside her body. Unfortunately, it was too high class for her, and she could not control it just yet It only worked when she was critically wounded.
+
+She wanted to lure Han Sen into hurting her body and triggering the item, so she could blow him into bits.
+
+But Han Sen didn’t do anything. All he did was rummage through her things and leave. She was so mad that she thought she was going to get a nosebleed.
+
+Han Sen had earned a lot from his venture. Aside from Hai’er’s treasures, he also got what he earned from Hawei and Nicai. He found a few xenogeneic ingredients, too. It was pretty great.

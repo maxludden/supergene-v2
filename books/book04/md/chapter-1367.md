@@ -1,0 +1,76 @@
+Title:An Awkward Moment 
+Chapter:1367 
+Section:4 
+Book:4 
+CSS:../Styles/style.css 
+viewport: width=device-width
+  
+## An Awkward Moment
+### Chapter 1367 
+<figure>
+	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
+</figure>
+  
+
+  
+  Jia Shidao was extremely confident in the white-knuckle power his fists could deliver, so he didn’t summon a geno core. The Iron-Fist Martial Hall was made famous by his Iron-Fist Slash, a brutal move when coupled with his fitness level.
+
+He had even managed to max out his ordinary, primitive, and mutant geno points, placing his fitness level at over fifteen thousand. Eight thousand of those levels were from mutant geno points alone.
+
+He believed his Iron-Fist could beat and destroy anything, even silver geno cores. He was impressed that Han Sen could create a bronze geno core, but he did not think he had any that were greater than that.
+
+So, Jia Shidao was comfortable in the prospect of using only his fists. He did not think he needed to summon his own geno core. But he thought something was amiss the moment Han Sen lashed a whip-like item towards him. The item was frighteningly quick.
+
+The anticipation of seeing what geno core a new combatant would wield was always exciting, as they came in all shapes and forms. The creativity of some ranged from almighty to hilarious. But this was Han Sen, and the anticipation to see what he had created was through the roof.
+
+Jia Shidao’s fists began turning black, and they drove themselves into the incoming beam of gold.
+
+The Iron-Fist Slash move had destroyed many bronze and silver geno cores in the past, with just one fell swoop. He was supremely confident the same result would befall Han Sen’s.
+
+But when his fist connected with the light, the tense muscles in his face quickly unfastened themselves. A metallic clang rang out, as he felt his fist barrel into a material that was as tough as it was soft. It was of a chewy texture.
+
+He could not break the Gold Dragon Lock, and he immediately felt himself be ensnared.
+
+“Interesting! His geno core is a rope; that’ll certainly keep him tied-up.” Zhu Donglai laughed.
+
+Green thought it to be as fascinating as it was humorous, and he laughed and said, “Jia Shidao has clearly underestimated him, then. I bet Han Sen’s geno core has a softening, cushion-like power.”
+
+Old Man Ji did not say anything, and merely continued watching. Han Sen had already told him what his self-geno cores were, so he knew that what he was making use of now was not any of those.
+
+But Old Man Ji was still very curious to learn the class of the geno core Han Sen had used. Old Man Ji settled on the belief it was a silver geno core, and a very good one at that. While it seemed to display a power more commonly expected in a gold geno core, he didn’t think Han Sen could get his hands on one of those.
+
+They thought Jia Shidao had made a slip, and that he had not imbued all his power into the strike he wished to perform. They thought he had let his cockiness get the better of him, and as a result, allowed Han Sen to get the better of him as well.
+
+He was able to break silver geno cores with ease, and he himself had a gold self-geno core.
+
+Aside from this self-geno core, he had many bronze and silver ones, so this initial capturing did not spell doom for his combat against Han Sen. Escaping the snare, he and the others believed, would be quite easy.
+
+Old Man Ji hoped Han Sen would soon put the core away, though, as it would be a great shame to see such a brilliant geno core be broken. But Han Sen wasn’t going to do that. Han Sen had to rely on this geno core to gain the upper-hand, unbeknownst to the others. He couldn’t risk using his other geno cores, as they’d end up broken.
+
+Although self-geno cores could be broken and then later regenerated, doing so would put great strain on the body. It would also take a long time; time Han Sen couldn’t really afford right now.
+
+Han Sen wasn’t going to let this happen, and thinking this was a great chance to stress test his Gold Dragon Lock, he was keen to learn whether or not Jia Shidao could break free.
+
+He was confident in the lock, though, and he knew Jia Shidao’s fitness didn’t rival a top-dog mutant creature. There was every chance he couldn’t escape its snatch.
+
+Jia Shidao tried to maintain his cool, but he had to let a frown show. He used all the strength he could, but no matter what he tried, he could not get himself free.
+
+Everyone looked on in great surprise. They could see his muscles rise, webbed by stressed-out veins. It looked as if his muscles were going to break through the fabric of his clothing any second now, redefining what it meant to be ripped.
+
+But the rope just tightened even more, and it did not show any sign of breaking. And eventually, it began to shred the clothing, exposing the man’s bulging body.
+
+Things quickly took a concerning turn. The rope did not relent in its tightening, and it eventually began to wear into the skin, drawing blood. Jia Shidao’s face changed. His power was like a volcano, but the measly-looking rope had bested him.
+
+Jia Shidao tried gunning his muscles a multitude of times in the hopes he could break free, but nothing came loose. He could not earn himself any slack, and blood began to dye the rope and drip to the hall’s floor.
+
+It was a very awkward looking scene, truth be told. And as they watched, Green and the others’ faces began to distort.
+
+They were shocked that Jia Shidao could not escape what was essentially a rope.
+
+He looked to be in an awful condition, made worse by how confident he had been when he walked out there. He wanted to prove to Han Sen that the young man had missed out not co-operating with him. He looked like an utter fool now.
+
+Jia Shidao had no clue what to do himself, so he decided to summon his gold geno core. He knew his bronze and silver ones couldn’t help, and if he summoned them, only for them to break, the embarrassment would only increase.
+
+This gold geno core he had summoned was a pair of giant scissors laden with fish teeth. They looked to have been forged of blacksteel, and they were frighteningly sharp.
+
+Old Man Ji was surprised, seeing him summon his geno core Scissor Slash. He was glad to see Han Sen had come so far and he was this powerful, and he was more than impressed to see he had put Jia Shidao in a situation where he had no choice but to summon his most powerful geno core.

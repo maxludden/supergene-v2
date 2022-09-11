@@ -1,0 +1,88 @@
+Title:Couldn't Help It 
+Chapter:3080 
+Section:16 
+Book:10 
+CSS:../Styles/style.css 
+viewport: width=device-width
+  
+## Couldn't Help It
+### Chapter 3080 
+<figure>
+	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
+</figure>
+  
+
+  
+  Han Sen was finally aware of the reason why the bald man was staring at the water and not moving. Now that he looked at his reflection in the water, Han Sen only had one feeling
+
+“So f*cking handsome.” Han Sen knew there was something wrong, but he could not keep his eyes off his reflection. He really liked it. He absolutely adored it. It was like he had encountered the sort of love he had been longing for all his life.
+
+Han Sen and the bald man squatted near the river. Their heads were lowered. They stared as if they were obsessed.
+
+“This is wrong… This is really wrong… I can’t keep looking, but it looks so good…” Han Sen felt conflicted. He could not help himself from looking. Even with his profound willpower, he could not deny the temptation.
+
+Han Sen knew this had nothing to do with his willpower. He knew he had been captured by some sort of power. It twisted his willpower, making him fall in love with the reflection he saw.
+
+Han Sen was only happy that he was not in love with the bald man’s reflection.
+
+“When it gets dark and there is no more light, maybe I won’t be able to see the reflection anymore.” Han Sen’s heart still had some clarity. He just could not escape it completely.
+
+As time passed, the two of them remained squatted near the water’s edge. He saw the sun go down and the sky go dim.
+
+Han Sen thought it would be better after this, but Planet Gu Ya did not just have one moon. There were three of them. Three bright moons in the sky kept the night illuminated. Their reflections in the river were still very clear. The scariest part was that Han Sen was so in love with his reflection that he had the thought to hug the image.
+
+Han Sen only wanted to do it. The bald man had already stood up, opened his arms, and walked into the river. He was going into the river with a smile on his face.
+
+Han Sen’s willpower could barely contain the desire. He forced his eyes to watch the bald man. He was swimming into the river, continuing to smile. He was going deeper into the river.
+
+The clear river covered his knees. It soon covered his waist. Han Sen watched the bald man walk into the river. His face hadn’t changed. His smile had grown bigger. It looked as if he was going to hug the lady he liked.
+
+“It must be some sort of gene race doing this. The gene races of this world are a bit weird. What are they playing at?” Han Sen understood that, but he could not help but stand up. He started walking into the water.
+
+He knew this was a reflection, and he knew he should not be doing any of this. Yet he could not help but want to hold the reflection in the water. It looked as if only doing that could erase the bitterness of missing someone one loved.
+
+It felt like the storyline of a lame movie. Although one knew that person murdered a parent, one still could not help fall in love. It was like a moth to a flame. They knew they were going to die, but they didn’t stop themselves.
+
+“Is this Gong Shu Jin? Is he playing tricks again? No way! If it was him, he could just kill me right now. I am trapped by this weird power. I cannot move.” Han Sen was still thinking as his body reached the river.
+
+The river was cold, but it could not stop the fire in his heart. He walked deeper into the water. Seeing the river’s water go past his legs, he could still not stop his progression.
+
+He wanted to summon a gene race, but it was futile. People who were in love could never raise a sword to their lover. It was not because he couldn’t. It was because he did not want to.
+
+Although Han Sen knew this kind of unwillingness was not his true will, he could not deny it.
+
+The bald man had gone in the water sooner than him, and he had walked faster than Han Sen. Now, the water was going above the man’s bald head.
+
+Han Sen knew the man was going to die. Humans in this world did not have a strong body. Without the help of a gene race, he could not survive underwater for a long time.
+
+Han Sen knew he would be fine. Even if he was tricked into the water, he could live just fine. If he was supposed to be drowned, it would be impossible for that to happen.
+
+“I would like to see what other tricks you have.” Han Sen quickly walked farther into the river until the water went above his eyes. He could no longer see his reflection.
+
+Even though the reflection had disappeared, he was not set free. Under the water, he saw someone in the river. It was someone who looked exactly like him. He was smiling deep in the river.
+
+Han Sen could not help but walk toward him. He walked deeper into the river.
+
+Han Sen saw the bald guy ahead of him look terrible. His mouth kept producing bubbles. He was obviously filled with water and no longer capable of breathing. He was going to drown very soon.
+
+Even so, the bald man’s face still displayed happiness, but that happiness looked extremely scary. It was like the smile of the reaper.
+
+Han Sen frowned. Although he did not know that bald man, he was not an enemy. He did not want to watch someone of his same kind die in front of him.
+
+Han Sen wondered if he should break the restrictions of the world when he saw a weird light.
+
+Han Sen looked toward it. He saw a blurry light appear under the river. It was like there was a giant gem glowing beneath the river.
+
+The shadow that was enticing Han Sen forward was the light under the river.
+
+Han Sen looked at the light. It started coming into focus what that light was. It was a giant shell. It was creamy, white, and transparent. It looked as if it was made of jade.
+
+The giant shell was open. When Han Sen looked at the shell, the shadow was inside the shell. It looked like it combined with someone in the shell. It made Han Sen put his love into that shadow.
+
+At last, Han Sen saw what the shadow in the shell was. It was a graceful woman. Her body was inside the shell. Her hands were holding her breathtaking cheeks. She was wearing a veil that was half-transparent. It waved in the water. It made her body look extra sexy.
+
+The woman was just lying on the side watching Han Sen from her position on the shell. She said nothing and did nothing, but Han Sen was like a moth flying to a fire. He walked toward her. It was like she was someone he had loved for a thousand years. He wanted to hold her and tell her how much he loved her.
+
+The bald man in front had already passed out. It was unknown if he had just drowned or what. His body was floating and sinking because his stomach was bloated like a ball.
+
+Han Sen was still enticed by the power. He walked to the shell woman. Her eyes looked like they could speak. It was like they were saying, “Come, my husband and lover, come to my embrace.”

@@ -1,0 +1,92 @@
+Title:Power of One Hit 
+Chapter:680 
+Section:2 
+Book:2 
+CSS:../Styles/style.css 
+viewport: width=device-width
+  
+## Power of One Hit
+### Chapter 680 
+<figure>
+	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
+</figure>
+  
+
+  
+  The mountains shook and the ground was torn asunder. A few scary creatures were battling to the death, and in their midst was Han Sen. He was like a pawn, only doing minor things. He did not dare to use Elephant-Rex Strike, no matter how much he wanted to. He was too weak to fight the bone elephant, and he knew he was little more than a distraction in the grander scale of this fight.
+
+Han Sen would become weak after a single use of Elephant-Rex Strike, so it was not a skill he dared to use on a whim. The power the skill required was massive, and even with Long Live and Jade-Sun Force, it'd take an hour for him to regenerate the energy it used.
+
+The situation had become complicated. Han Sen did not want to use Elephant-Rex Strike because, if he was drained of all energy, he'd be unable to steal the winnings of the battle and escape.
+
+But Han Sen's presence in the fight was not unwanted or unneeded. He and the cub were able to aid the big bear by restricting the elephant. With the bone elephant unable to focus all its strength on the big black bear, the playing field became more level. The bear was able to keep going.
+
+The bone elephant was screaming louder and louder, however. It stomped and rattled the earth with rage, perhaps even panic.
+
+"If this carries on, the pink snake will be the one to earn the kill." Han Sen was now in a rush.
+
+Han Sen and the bear battled for their lives against the rampaging elephant. The pink snake might have been nibbling the interior organs of the elephant by now, and if it killed the elephant, Han Sen's struggle would have been for nothing.
+
+But Han Sen had no way to kill it himself. Even if he used Elephant-Rex Strike, he had no idea if it'd be effective enough to snap one of the creature's bones. Han Sen's chances of securing the kill seemed non-existent.
+
+Han Sen's heart sank. Without a solution for his predicament, all he could do was keep on fighting.
+
+Pang!
+
+The bone elephant unleashed a horrible power, blasting the big bear away. The elephant shook its head and ran towards the hill while yelping in pain.
+
+The cub ran towards the big bear, and they didn't look like they wanted to give it chase. Han Sen looked at them both disapprovingly, then he gritted his teeth and went after the bone elephant by himself.
+
+Although the big bear was heavily injured, it could still fight. Furthermore, there was a cub guarding its side. Han Sen was still at a huge disadvantage, even if the fight was to proceed with two versus one.
+
+Han Sen ran across the mountains, following the bone elephant. He wondered what the pink snake might have done inside its body to drive it to such insanity.
+
+Han Sen saw that the bone elephant was bleeding from all seven orifices. It was quite frightening, and Han Sen imagined what a terrifying enemy the pink snake would be. If it drilled into his own ear, he couldn't imagine the wretched pain that would follow. Just thinking about it made him shudder in phantom pain, as a chill ran down his spine.
+
+Earlier, the pink snake had appeared behind Han Sen out of nowhere. Just thinking about that, Han Sen broke out in a cold sweat.
+
+From the seven orifices, more and more blood gushed out. The wailing of the elephant was becoming gradually louder, as well. The trail they followed was blocked by a cliffside wall, but the bone elephant did not stop.
+
+Boom!
+
+The cliffside wall started to collapse as the elephant charged against it ceaselessly. Broken rocks fell atop the elephant, but it did not care. Over and over, it kept bashing the wall with its head. It looked as if it was ready to shatter its brain against the stone.
+
+The bone elephant brought up its trunk, and it punched its own head repeatedly. The skull of the elephant almost looked ready to break open.
+
+Han Sen was getting goosebumps just watching the scene. He swore he would never again let a snake get close to him; small snakes, in particular.
+
+For this wretched demise to be dished out to a super creature of such goliath power was incredible, and Han Sen didn't think his own body would have lasted half as long.
+
+The bone elephant continued carving a new valley through the cliffside, and as the lands around shook, the elephant looked almost pitiful.
+
+Han Sen kept his distance while he watched the scene unfold. The bone elephant was too strong, and he imagined that the pink snake was still biting a critical organ, fueling its madness further and further. There was not much Han Sen could do, even if he decided to use the rex spike somehow.
+
+The pink snake had obviously gotten into its brain by now, and it was only a matter of time before the bone elephant succumbed to the grasp of death.
+
+A tough body was useless against a foe that had slithered its way inside. Its flesh was super creature class, so there was no reason for Han Sen to try to drill into the ear and attempt the same.
+
+But for the super creature pink snake, it was no problem.
+
+If biting once did not work, biting a few more times would. The pink snake was most likely venomous, as well. And those toxins must have done their fair share of torturous work.
+
+The bone elephant was far stronger than humans thought it was. A mountain cliffside a few hundred meters high was being brought down by the tusked monster. But now, it stopped. It fell down to the ground, whimpering. It sounded strained, getting weaker and weaker. It looked as if its demise was near.
+
+It wept bloody tears, as the light inside its eyes faded. Its brain had now most likely been ravaged by the pink snake.
+
+Blood cascaded from its mouth and ears with little restraint, like a tap. It was sure to die any second now, in the hopeless, twitching mound it had collapsed into.
+
+Han Sen's heart then began to beat with speed. The bone elephant had driven its head into the cliffside many times, but its skull didn't shatter, after all. This most likely meant that Han Sen could not get an easy kill – but he had to do something.
+
+Even if he used Elephant-Rex Strike, there was no guarantee he could split the skull in two. This made the final hit seem pretty much secured by the pink snake.
+
+Han Sen gritted his teeth and leapt down beside the nearly lifeless head of the elephant. It had almost no reaction, in its final moments before death.
+
+Han Sen cast his senses to scan the bone elephant; its head, in particular. His hands gleamed as he gathered frightening strength. The Dongxuan Sutra simulated the bone elephant's flow of energy. His whole body was replicating the bone elephant's persona, thrumming with power like a living scream. His hands were illuminated with a most terrifying power.
+
+Han Sen did not summon the Flaming Rex Strike, however. It would have been useless for him to try to crack the skull now. He only had one chance, and he had to secure a one hit kill on the elephant. If the Elephant-Rex Strike did not work, there would be no second chance.
+
+Han Sen chose to use his hands to cast the Elephant-Rex Strike, because he was opting to use his Yin Yang Blast and drive that power directly into the elephant's brain.
+
+He wasn't going to rush this, however. He couldn't afford to screw up his one chance. He needed to watch carefully and unleash his attack in the final second before the creature's death.
+
+At the same time, Han Sen sensed the pink snake's location in the elephant's brain. He hoped that this hit could also deal significant damage, or perhaps even death, to the pink snake at the same time. If great damage was dealt, it would at least buy Han Sen some time to escape with the goodies. If he couldn't strike both creatures at the same time, Han Sen was certain the snake would not let him go. Plus, he'd be weak.

@@ -1,0 +1,104 @@
+Title:Fighting the Mantis Across the Mountains 
+Chapter:2675 
+Section:13 
+Book:8 
+CSS:../Styles/style.css 
+viewport: width=device-width
+  
+## Fighting the Mantis Across the Mountains
+### Chapter 2675 
+<figure>
+	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
+</figure>
+  
+
+  
+  “That isn’t the entirety of his power. His physical strength is just one aspect of his abilities. He isn’t some brainless creature that is tossing his entire strength into this fight,” Shale said.
+
+“Do you think you will still be able to defeat him?” the Fox woman looked at Shale with interest.
+
+“I won’t lose.” Shale looked the same as he always did when saying this.
+
+The four half-deifieds had no idea what to do. They were all fighting Han Sen, but they couldn’t beat him. And on top of that, he was gaining the upper hand.
+
+They were the best of the half-deifieds, and they all possessed remarkable power. Normally, they could go toe-to-toe with any half-deified in the universe. Now, however, they were losing a four on one fight. And their opponent was only a ninth-tier King. To say they were shocked would be an understatement.
+
+Li Keer and Exquisite were in shock, as well. They could feel Han Sen’s strength. They could also experience what it was like to be in his shoes, fighting in the way he was.
+
+The strange thing was that Han Sen had no interest in simply fighting with his geno arts and his body. It was more like he was playing a game of chess. Watching him play was easy, and each individual move was simple. Yet assembling all those moves together to replicate his overall strategy would be very difficult. You still had to practice it yourself.
+
+“This method of fighting is quite similar to the Very High Sense, but Han Sen has only learned Under the Sky. He hasn’t even read the whole of the Textless Book, and yet, he can do all this. His talent is scary to behold,” Li Keer said.
+
+Exquisite nodded with glee and said, “This is a good thing. This will actually help us develop our proficiency with the Very High Sense. This is something other silkworms can never do.”
+
+Pang!
+
+A bullet struck the arm of the mantis-man and exploded with the scary power of Break Six Skies. It blew the mantis-man away. Even his exoskeleton was covered in cracks, and blood started to seep out of them.
+
+These four weren’t like Gru; there were flaws in how they fought. Han Sen finally found an opportunity to create a distance between him and his enemies. His Spell pistols began to fire without reprieve.
+
+For most of the fight, Han Sen had been too close to them to use Break Six Skies. He had been afraid he would blow himself up, so he used less destructive geno arts to fuel his bullets. But now that he had some distance, he no longer had to worry about injuring himself.
+
+The bullet was fired. A scary power exploded close to the four half-deifieds. They threw their arms over their heads and ran away like rats. They no longer dared to get close to Han Sen.
+
+A bullet infused with the power of Break Six Skies wasn’t something they would risk trying to withstand. They didn’t dare to continue the fight now. They ran as fast as they could, trying to leave the radius from which Han Sen could attack them.
+
+Han Sen didn’t pursue them, though. He waited until they were far enough away, then put his hands together. He combined the two Spell pistols and transformed them into a sniper rifle.
+
+Han Sen raised the gun and took aim at the mantis-man. He pulled the trigger.
+
+Pang!
+
+A bullet flew through the air, and the mantis-man felt the power coming toward him. He knew he couldn’t use his arms to block it.
+
+He had only been able to use his mantis arm to repel Han Sen’s power earlier due to the boons provided by the Extreme King area. But now, all of his allies had fled the scene. None of them dared to fight Han Sen without the buffs and boons of each other’s areas.
+
+Wings suddenly spread from the mantis-man’s back, taking him a kilometer away in an instant. He thought he had successfully dodged the bullet, but the bullet turned in the air and followed him. It even seemed to be accelerating.
+
+The mantis-man’s face paled. He began to loop and twist through the air. No matter what he did, though, Han Sen’s attack followed him like a heat-seeking bullet. Its speed increased steadily as it pursued him. It was going to catch up and hit the mantis-man at any second.
+
+The mantis-man gritted his teeth and took refuge behind a mountain. He turned to stare at the mountain behind him.
+
+Pang!
+
+The bullet punched straight through the mountain without exploding. In an instant, it was in front of the mantis-man. The mantis-man had braced himself for the bullet to blow up the mountain, but the bullet had gone through intact. He was shocked.
+
+The mantis-man crossed his arms in front of himself. He poured more power into his defenses than he ever had before, then unleashed a scary power to counter the incoming bullet.
+
+Pang!
+
+The bullet pierced through the indestructible mantis arms, then carried on straight into the mantis-man’s head. Then his head exploded.
+
+As the mantis-man fell to the ground, the other silkworms and the audience felt their stomachs churn.
+
+The mantis-man was one of the most powerful half-deifieds in existence. Han Sen had shot and killed him while he was trying his hardest to escape. That bullet was so strange and so powerful that it made those who saw it feel shocked.
+
+“What geno armament does he have? Why is it so weird? How is it so strong? It went through the mountain and the mantis’ arms, and still killed the mantis!” Li Xue Cheng frowned.
+
+“It does not matter how strong he is. He still isn’t as strong as a deified.” Liyu Zhen’s scowling face betrayed the desperation of his words.
+
+Open Sky Elder laughed and said, “Such power puts him close to being deified! It might not have seemed possible for him to beat Shale before, but Shale has been reduced to King class. With Han Sen exhibiting a power like this, there is a good chance he can win.”
+
+Everyone was shocked by Han Sen’s frightening bullet. The other three half-deifieds ran faster than ever. They were afraid of Han Sen shooting them, too.
+
+What they didn’t know was that Han Sen lacked the power to fire a second attack like that. He only wanted to try out the power of Heart Connection. Han Sen had exhausted all his strength in doing so, though. He lacked what was needed to repeat that performance.
+
+“Mutant Xenogeneic King hunted: Break Space Mantis. Mutant xenogeneic gene found. Obtained mutant Break Space Mantis beast soul.”
+
+“I’m just a beginner with the skill, but Heart Connection is that powerful already? It is a shame that this geno art costs too much power. I will need to rest for a while after using it. It will be some time before I can use it again.” Although Han Sen heard the beast soul announcement, he didn’t dare to pay it much heed. He knew he was being watched by Exquisite and Li Keer.
+
+Break Space Mantis’ body was taken away by a Very High woman, so Han Sen had no chance to collect the xenogeneic gene from him.
+
+“Considering the power I’ve just demonstrated with that bullet, there should be no other silkworms coming to bother me for a while,” Han Sen thought to himself. Then, all of a sudden, someone else appeared.
+
+“Shale?” Li Keer and Exquisite, upon seeing that body, jolted in their seats.
+
+They knew Han Sen was exhausted. He needed time to recover. He couldn’t continue fighting, but Shale was right there in front of him.
+
+Upon seeing Shale, Han Sen laughed and said, “Are you that desperate to fight me?”
+
+“How long must you rest to get your power back?” Shale asked Han Sen.
+
+“Ten hours,” Han Sen answered.
+
+“Good. I will let you rest safely for the next ten hours. If anyone else draws near, I will get rid of them.” Shale sat down nearby. He had blonde hair and a square face. It looked so strong and heroic.

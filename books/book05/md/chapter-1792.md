@@ -1,0 +1,84 @@
+Title:Demon Grave 
+Chapter:1792 
+Section:6 
+Book:5 
+CSS:../Styles/style.css 
+viewport: width=device-width
+  
+## Demon Grave
+### Chapter 1792 
+<figure>
+	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
+</figure>
+  
+
+  
+  Mister Ji told Han Sen that the Aqua-Scale Snakes were a powerful race, but of the lesser variety. They were strong enough to challenge the higher races that were in the geno hall. They had tried once, but fell short of being able to claim a lantern. The high race had killed almost all of them in return for the boldness.
+
+The Aqua-Scale Armor was made from the xenogeneic snakes that had died in the battle. It eventually came into Demon’s possession, and then Mister Ji’s personal ownership.
+
+This trip to Demon Grave was important, and it had been very difficult to find someone of Han Sen’s caliber to help. Therefore, the price was of no object.
+
+After accepting Mister Ji’s invitation, Han Sen noticed not just anyone could travel to Demon Grave.
+
+When Demon Grave was created, a few of the higher races established a rule. They could send people in whenever the entrance opened up, but only within certain limitations.
+
+Demon was a part of the ensemble that had made this rule. They could send a group of four inside, but two of the party had to be Demons.
+
+Since two members of the party had already been chosen, Mister Ji only had one space remaining. He was originally planning on bringing his maid, but after seeing Han Sen, he changed his mind. He’d prefer to bring Han Sen instead of her.
+
+Mister Ji wasn’t stupid, though. He had insurance to make sure that Han Sen tried his hardest The maid was an Earl elite, and there’d be other Demons on standby outside. Things wouldn’t turn out very well for Han Sen if Mister Ji didn’t return alive.
+
+Demon Grave’s entrance was near Planet Kate. But because it was not yet open, Mister Ji had been waiting around, observing how the Taurus attacked. He could not believe that he had stumbled across someone like Han Sen here, of all places.
+
+Two days later, Mister Ji took Han Sen with him to leave Planet Kate’s surface. They didn’t go far, though. The entrance to Demon Grave was on a natural satellite that orbited Planet Kate.
+
+Because of the fight, the energy of Demon Grave was erratic and volatile. Sometimes, Demon Grave would suppress elites so strongly that they would die before they could even set foot on the ground. So, the only option was to enter during a fluctuation of the atmospheric energy. They would enter when the energy was weak, and leave before it became strong again.
+
+Han Sen followed Mister Ji to a base that the elites had built. There were no other higher races there. The guards in the base said that one Demon had already taken a person into Demon Grave.
+
+Mister Ji took Han Sen out of the base, headed for a barren planet. Mister Ji told Han Sen he had arrived late on purpose, and so they wouldn’t be entering with the others.
+
+The natural satellite was the size of the moon, so it wasn’t big. It was very empty, too. It was covered in yellow sand and cactus-like plants.
+
+When he stepped out of the base, he noticed that the sands stretched out to endless horizons. Rather than being on a tiny moon, it just felt like he was in a random desert somewhere. Han Sen knew he had entered Demon Grave, however. This was the result of the xenogeneic space’s dimensional twisting.
+
+Mister Ji, as he kept on walking, told Han Sen, “We have entered Demon Grave now, and there is something I must tell you.”
+
+“Go ahead.” Han Sen was not surprised by this. Before he had agreed to come, he knew some sort of information had been kept from him.
+
+“The fruit that we’re after this time is special, even for Demon’s Grave. But it also means we have to go in deep. It is in the land heavily-ruled by Chaos. So, we need to ensure we are prepared,” Mister Ji said.
+
+Han Sen shrugged his shoulders and did not say anything in response. Even though Mister Ji had not told him this before, it was something he already expected. He was offering a lot to Han Sen, so there had to be something unusually dangerous involved.
+
+That meant Mister Ji wouldn’t have been very confident in the venture, either, if he was to go alone. He really wanted Han Sen to go with him.
+
+“Inside Demon Grave, our lives are tethered. If you die, I die. If you live, I live. So, if there is anything I need to know, it is best you tell me now. Don’t hold back something that will bite us in the *ss later,” Mister Ji said.
+
+Han Sen smiled and said, “Don’t worry; this is a trade. You’re paying for the service, so we each have an obligation. You? Money. Me? Effort. We humans have standards.”
+
+Hearing him say that, Mister Ji did not respond. With Han Sen in tow, he continued moving forward.
+
+Not long after, Han Sen felt a little sick. He was feeling weak. After a few dozen more miles, he was feeling extra tired.
+
+“Demon Grave suppresses outsiders a lot. We are weakened a considerable amount Be careful. If you see the Chaos, hide. It is best to try to avoid fighting them.” Mister Ji was not faring any better, either. He was sweating, and he was visibly struggling against the suppression.
+
+After a dozen miles more, the desert turned a little green. They were approaching an oasis, and it spurred them to walk a little faster.
+
+“It looks like we’re on the right path. The map said we’d encounter an oasis. There’s a chance we can get some xenogeneic fruit here without trouble.” Mister Ji looked excited.
+
+But they were still very cautious as they walked forward. They didn’t want to stumble into the Chaos.
+
+As for the other powerful races that had entered Demon Grave, Mister Ji said not to worry. He had chosen a very dangerous path that would lead them to the Chaos camp. Normal people wouldn’t go there.
+
+They didn’t sense anything living in the oasis as they approached. When they entered, they found many grape-like fruits, which were reddish-purple in color. They were so heavy, they bent the vines they grew upon. And there were a lot of them.
+
+“Are these the xenogeneic fruits?” Han Sen looked at them with surprise.
+
+“They’re not. They’re just ordinary fruit. We’ll have to look deeper. The xenogeneic fruit we seek will look like crystals,” Mister Ji said.
+
+Han Sen followed the grape vines, and a little later, he found a grape that looked very special.
+
+Just like Mister Ji had said, it looked crystalline, like a piece of jade.
+
+Just as Han Sen reached out to pick it up, he felt danger coming his way. He quickly fell back and looked at the vine.

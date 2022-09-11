@@ -1,373 +1,103 @@
-# src/chapter.py
-
-import os
-import pathlib
-import re
-from concurrent.futures import ThreadPoolExecutor, as_completed
-from multiprocessing import cpu_count
-from pathlib import Path
-from __future__ import annotations
-
-import sh
-from dotenv import load_dotenv
-from mongoengine import Document
-from mongoengine.fields import IntField, StringField, URLField
-from mongoengine.errors import DoesNotExist, NotUniqueError, ValidationError
-from rich import print
-from rich.console import Console
+from tkinter import ROUND
+from pydantic import BaseModel, Field, ValidationError, validator
+from pydantic.types import FilePath
+from pydantic.networks import HttpUrl
+from pydantic.color import Color as PyColor
+from beanie import Document, init_beanie, Indexed
+import pymongo
+from rich.abc import RichRenderable
+from rich import print, inspect
+from rich.console import Group
+from rich.color import Color
 from rich.panel import Panel
 from rich.style import Style
 from rich.text import Text
-from sh import Command
-from tqdm.auto import tqdm, trange
-from ujson import dump, load
-from pydantic import BaseModel, HttpUrl
-
-# > Get Log -------------------------------------------
-try:
-    from log import log
-except ModuleNotFoundError:
-    from src.log import log
-except ImportError:
-    from src.log import log
-
-# > Get Super Gene & BASE -----------------------------
-try:
-    from atlas import BASE, sg
-except ModuleNotFoundError:
-    from src.atlas import BASE, sg
-except ImportError:
-    from src.atlas import BASE, sg
-
-touch = Command("touch")
-console = Console(width=110)
-load_dotenv()
+from rich.table import Table
+from rich.box import ROUNDED
+from rich.markdown import Markdown
 
 
-# > Custom Exceptions-----------------------------------
-class ChapterNotFound(ValueError):
-    """
-    Custom ValueError for when a chapter is not found.
-
-    Args:
-        `ValueError` (Exception):
-            Custom ValueError for when a chapter is not found.
-    """
-    pass
-
-class SectionNotFound(ValueError):
-    """
-    Custom ValueError for when a section is not found.
-
-    Args:
-        `ValueError` (Exception):
-            Custom ValueError for when a section is not found.
-    """
-    pass
-
-class BookNotFound(DoesNotExist):
-    """
-    Custom MongoDB Exception for when a book is not found.
-
-    Args:
-        `DoesNotExist`` (MongoEngineException):
-            Custom Exception for when a book is not found.
-    """
-    pass
-
-
-# > Error Panel ----------------------------------------
-def error_panel(msg: str, title: str="Error") -> Panel:
-    """
-    Create a panel for errors.
-
-    Args:
-        `msg` (str):
-            The message to display in the panel.
-        `title` (str):
-            The title of the panel.
-    """
-    error_panel = Panel(
-        Text(msg, style="bold red on white"),
-        title = Text(
-            title,
-            style=Style(
-                color="white",
-                bgcolor="red",
-                bold=True,
-            ),
-        ),
-        style=Style(
-            color="red",
-            bgcolor="white",
-            bold=True,
-        ),
-    )
-    return error_panel
-
-
-# > Chapter Model -------------------------------------
 class Chapter(Document):
-    """
-    A MongoDB Document class to store chapter data.
+    chapter: int = Field(
+        ..., description="The chapter number", title="Chapter", ge=1, le=3462
+    )
+    section: int = Field(
+        ..., ge=1, le=17, description="The section of the book.", title="Section"
+    )
+    book: int = Field(
+        ..., ge=1, le=10, description="Book of the chapter.", title="Book"
+    )
+    title: str = Field(
+        ..., max_length=500, description="Title of the chapter.", title="Chapter Title"
+    )
+    text: str = Field(..., description="The text of the chapter.", title="Chapter Text")
+    filename: str = Field(
+        ..., description="Filename of the chapter.", title="Chapter Filename"
+    )
+    md_path: FilePath = Field(
+        ..., description="Path to the markdown file.", title="Chapter Markdown Path"
+    )
+    html_path: FilePath = Field(
+        ..., description="Path to the html file.", title="Chapter HTML Path"
+    )
+    md: str = Field(
+        ..., description="Markdown of the chapter text.", title="Chapter Markdown"
+    )
+    html: str = Field(
+        ..., description="HTML of the chapter text.", title="Chapter HTML"
+    )
+    url: HttpUrl = Field(
+        ..., description="URL of the chapter text.", title="Chapter URL"
+    )
+    unparsed_text: str = Field(
+        ..., description="Unparsed text of the chapter.", title="Chapter Unparsed Text"
+    )
+    parsed_text: str = Field(
+        ..., description="Parsed text of the chapter.", title="Chapter Parsed Text"
+    )
 
-    Args:
-        `Document` (MongoEngine.Document):
-            Subclassed from MongoENgine.Document.
-    """
+    class DocumentMeta:
+        collection_name = "chapter"
+    class Settings:
+        name = "chapter"
+        indexes = [
+            [
+                ("chapter", pymongo.ASCENDING),
+                ("section", pymongo.ASCENDING),
+                ("book", pymongo.ASCENDING),
+                ("title", pymongo.TEXT),
+            ]
+        ]
 
-    chapter = IntField(min_value=1, max_value=3462, required=True, unique=True)
-    section = IntField(min_value=1, max_value=17)
-    book = IntField(min_value=1, max_value=10, required=True)
-    title = StringField(max_length=500)
-    text = StringField()
-    filename = StringField()
-    md_path = StringField()
-    html_path = StringField()
-    md = StringField()
-    html = StringField()
-    url = URLField()
-    unparsed_text = StringField()
-    parsed_text = StringField()
+Chapter.update_forward_refs()
 
+def __rich_repr__(self) -> Group:
+        """Rich representation of the chapter."""
+        chapter_table = Table(
+            title=f"Chapter {self.chapter}",
+            title_style="bold purple",
+            show_header=False,
+            show_lines=False,
+            box=ROUNDED,
+            row_styles=["dim", ""],
+            expand=True,
+        )
 
-@log.catch
-def generate_section(chapter: int) -> int | None:
-    """
-    Determines the given chapter's section.
+        chapter_table.add_column("Keys", style="italic bluepurple", justify="left")
+        chapter_table.add_column(
+            "Values",
+            style="bold bright_white",
+        )
+        chapter_table.add_row("Chapter", f"{self.chapter}")
+        chapter_table.add_row("Section", f"{self.section}")
+        chapter_table.add_row("Book", f"{self.book}")
+        chapter_table.add_row("Title", f"{self.title}")
+        chapter_table.add_row("Filename", f"{self.filename}")
+        chapter_table.add_row("Markdown Path", f"{self.md_path}")
+        chapter_table.add_row("HTML Path", f"{self.html_path}")
+        chapter_table.add_row("URL", f"{self.url}")
 
-    Args:
-        `chapter` (int):
-            The given chapter.
-
-    Raises:
-        `ValueError`: Invalid Chapter Number
-
-    Returns:
-        `section` (int):
-            The section that the given chapter belongs to.
-    """
-    if type(chapter) is int:
-        chapter = int(chapter)
-        log.debug(f"Called generate_section(chapter={chapter})")
-        if chapter <= 424:
-            return 1
-        elif chapter <= 882:
-            return 2
-        elif chapter <= 1338:
-            return 3
-        elif chapter <= 1679:
-            return 4
-        elif chapter <= 1711:
-            return 5
-        elif chapter <= 1821:
-            return 6
-        elif chapter <= 1960:
-            return 7
-        elif chapter <= 2165:
-            return 8
-        elif chapter <= 2204:
-            return 9
-        elif chapter <= 2299:
-            return 10
-        elif chapter <= 2443:
-            return 11
-        elif chapter <= 2639:
-            return 12
-        elif chapter <= 2765:
-            return 13
-        elif chapter <= 2891:
-            return 14
-        elif chapter <= 3033:
-            # Skip non-existent chapter 3095
-            if chapter == 3095:
-                log.warning(
-                    f"Chapter {chapter} was inputted to generate_section().\nChapter {chapter} does not exist."
-                )
-                pass
-            # Skip non-existent chapter 3117
-            elif chapter == 3117:
-                log.warning(
-                    f"Chapter {chapter} was inputted to generate_section(). \nChapter {chapter} does not exist."
-                )
-                pass
-            else:
-                return 15
-        elif chapter <= 3303:
-            return 16
-        elif chapter <= 3462:
-            return 17
-        else:
-            msg = f"Chapter {chapter} does not exist."
-            panel = error_panel(msg, title="Chapter Not Found")
-            console.clear()
-            console.print(panel)
-            raise ChapterNotFound(msg)
-
-
-@log.catch
-def generate_book(chapter: int) -> int | None:
-    """
-    Generate the book that contains the given chapter.
-
-    Raises:
-        `ChapterNotFound`
-            ValueError: Invalid Chapter Input.
-
-    Returns:
-        `book` (int | None):
-            The book that contains the given chapter.
-    """
-    section = generate_section(chapter)
-    if section is not None:
-        if type(section) is int:
-            match section:
-                case 1:
-                    return 1
-                case 2:
-                    return 2
-                case 3:
-                    return 3
-                case 4 | 5:
-                    return 4
-                case 6 | 7:
-                    return 5
-                case 8 | 9:
-                    return 6
-                case 10 | 11:
-                    return 7
-                case 12 | 13:
-                    return 8
-                case 14 | 15:
-                    return 9
-                case 16 | 17:
-                    return 10
-                case _:
-                    msg = f"Section {section} was not found."
-                    panel = error_panel(msg, title="Section Not Found")
-                    console.clear()
-                    console.print(panel)
-                    raise SectionNotFound(msg)
-        else:
-            msg = f"Section {section} is not an integer."
-            panel = error_panel(msg, title="Invalid Section Type")
-            console.clear()
-            console.print(panel)
-            raise SectionNotFound(msg)
-    else:
-        msg = f"Section {section} is None."
-        panel = error_panel(msg, title="Section has no value.")
-        console.clear()
-        console.print(panel)
-        raise SectionNotFound(msg)
-
-
-def generate_book_dir(chapter: int) -> Path | None:
-    """
-    Generate the book directory.
-
-    Returns:
-        `book_dir` (str):
-            The book directory.
-    """
-    book = generate_book(chapter)
-    if book:
-        if type(book) is int:
-            book = int(book)
-            book_zfill = str(book).zfill(2)  # example "02"
-            book_dir = Path.cwd() / "books" / f"book{book_zfill}"
-            book_dir_panel = Panel(
-                Text(f"{book_dir}", style="bold white on blue"),
-                title=Text(
-                    "Book Directory",
-                    style=Style(color="blue", bgcolor="white", bold=True),
-                ),
-                border_style=Style(color="blue", bgcolor="white", bold=True),
-            )
-            print(book_dir_panel)
-            return book_dir
-    else:
-        msg = f"Book {book} is not an integer."
-        panel = error_panel(msg, title="Invalid Book.")
-        console.clear()
-        console.print(panel)
-        raise BookNotFound(msg)
-
-
-@log.catch
-def generate_filename(chapter: int) -> str | None:
-    """
-    Generate the filename for the given chapter.
-
-    Raises:
-        `ChapterNotFound`
-            ValueError: Chapter {chapter} is invalid.
-
-    Returns:
-        `filename` (str | None):
-            The filename for the given chapter.
-    """
-    # > Validate chapter
-    if chapter in range(1, 3463):
-        # > Skip non-existent chapter 3095
-        if chapter == 3095:
-            msg = f"Chapter {chapter} does not exist."
-            panel = error_panel(msg, title="Chapter Not Found")
-            raise ChapterNotFound(msg)
-        # > Skip non-existent chapter 3117
-        if chapter == 3117:
-            msg = f"Chapter {chapter} does not exist."
-            panel = error_panel(msg, title="Chapter Not Found")
-            raise ChapterNotFound(msg)
-        chapter_str = str(chapter)
-        chapter_zfill = chapter_str.zfill(4)
-        filename = f"chapter-{chapter_zfill}"
-        return filename
-
-
-@log.catch
-def generate_md_path(chapter: int) -> Path | None:
-    """
-    Generate the path to the markdown file.
-
-    Returns:
-        `md_path` (Path | None):
-            The path to the markdown file.
-    """
-    book_dir = generate_book_dir(chapter)
-    assert type(book_dir) is Path, f"book_dir is not a Path object."
-
-    filename = generate_filename(chapter)
-    if filename:
-        md_path = book_dir / "md" / f"{filename}.md"
-        if md_path.exists():
-            return md_path
-        else:
-            md_path.mkdir(parents=True, exist_ok=True)
-            touch(md_path)
-            return md_path
-
-
-@log.catch
-def generate_html_path(chapter: int) -> Path | None:
-    """
-    Generate the path to the HTML file.
-
-    Returns:
-        `html_path` (Path | None):
-            The path to the HTML file.
-    """
-    console.clear()
-
-    book_dir = generate_book_dir(chapter)
-    assert type(book_dir) is Path, f"book_dir is not a Path object."
-
-    filename = generate_filename(chapter)
-    if filename:
-        html_path = book_dir / "html" / f"{filename}.html"
-        if html_path.exists():
-            return html_path
-        else:
-            html_path.mkdir(parents=True, exist_ok=True)
-            touch(html_path)
-            return html_path
+        md = Markdown(self.md)
+        md_panel = Panel(md, title="Markdown", border_style="bold bluepurple")
+        result = Group(chapter_table, md_panel)
+        return result

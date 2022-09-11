@@ -1,0 +1,96 @@
+Title:Super King Spirit’s Tenth Gene Lock 
+Chapter:1335 
+Section:3 
+Book:3 
+CSS:../Styles/style.css 
+viewport: width=device-width
+  
+## Super King Spirit’s Tenth Gene Lock
+### Chapter 1335 
+<figure>
+	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
+</figure>
+  
+
+  
+  “He must be making a mockery of me,” Han Sen ultimately thought to himself, following the strange encounter with God’s Retribution.
+
+He made it sound as if he was doing it for the children, but Han Sen thought it was a ploy of some sort. He thought he had been lied to, and that there was an ulterior motive behind his words of concern.
+
+He thought he was being a hypocrite or a Pharisee; like a person that attends vegetarian rallies but still goes home and enjoys a good steak.
+
+He had been told that Blood Legion didn’t want others to kill super creatures, as it would upset the balance. But Han Sen knew they must have had to kill a lot of super creatures themselves to maintain the strength their members had achieved.
+
+What they were doing was pretty much what Han Sen himself did, he thought. Han Sen was never entirely truthful about how he went about things, but at the end of the day, much of what he did was for the betterment of mankind. He was still leaving things in good shape for others, who would one day carry the mantles he himself established. He was paving the way for others, whereas Blood Legion were only concerned with themselves.
+
+It was true, Han Sen hadn’t thought about the long-term, negative effects and what things might be like for the next few generations, but it wasn’t as if Blood Legion had the concerns of such eventualities at heart, either.
+
+Blood Legion was different, too. Their lineage and the strengthening of their next of kin was different than how ordinary born and bred humans were reproduced. Having an heir was a priority and chief concern for the members of Blood Legion. God’s Retribution had tried to disillusion Han Sen.
+
+“They make themselves sound so righteous, but deep down, they’re as dastardly and wicked as can be,” Han Sen thought to himself.
+
+While God’s Retribution might have had his own interests at heart, some of the things he mentioned really would become legitimate concerns in the future. If Han Sen did kill creatures at a rate quicker than they could reproduce, things really would be a struggle further down the line. The flesh of creatures was needed, and if there weren’t any creatures left to eat, things would be dire.
+
+Han Sen rubbed the temples of his head in thought, over the state of things. He still wanted his primary focus to rest on bringing the Third God’s Sanctuary to its knees.
+
+He needed to save humanity and allow his mother and Ji Yanran to enter the Third God’s Sanctuary without worry. But to do that, he had to ensure he could do so without killing too much of the local population. He couldn’t mass-murder creatures as he saw fit.
+
+If humans became the majority, that would be quite worrisome. It truly was like an invasion, now that Han Sen thought about it. In the little time they had access to the sanctuaries, they had done a lot.
+
+Even Han Sen was willing to admit humans were greedy, he himself included. Some were greedier than others, but it was an inherent trait of mankind that humans were greedy things that always wanted more.
+
+During the Interstellar Era, everything was a resource and every resource was wanted. And the spending of resources always outpaced the influx of resources, too.
+
+With a desire for ownership of worthless items, silly hobbies and such, a lot of resources were wasted. The resources taken didn’t all go to the long-term betterment of mankind.
+
+And it seemed ironic to think the more civilized humans became, the more waste would be produced. Civilization seemed to equal lavish expenditure that only came at the cost of the planets that were ravaged for the necessary components to feed and keep the flames stoked. Han Sen thought man had become so in love with greed, they had forgotten themselves and found only appetites.
+
+Back in the Alliance, Han Sen turned off his phone and had a meal with his mother.
+
+If Han Sen turned it on, it’d undoubtedly be ringing 24/7. And the buzz of constant messages and notifications would shake the foundations of the building.
+
+When he defeated No God Emperor, all the factions wanted to co-operate with him. They all wanted to help Han Sen manage the shelters he had procured.
+
+Of course, they cared more for themselves than they did for a genuine co-operative venture with Han Sen. They’d earn a lot for themselves by having joint-ownership of a number of shelters.
+
+This also played a part in why Han Sen chose not to return to the Alliance for quite a while. He knew he’d be hounded by fatcats and corporate jellyfish day and night, all so they could line their own pockets with further unnecessary amounts of cash.
+
+Han Sen was going to just let the Ji family handle the issue and save himself the trouble.
+
+Ji Ruozhen had even come to tell Han Sen, “You have to let some of them go.”
+
+The Ji family did not want to take over the Third God’s Sanctuary exclusively, as that would almost make them seem like a dictatorship. The sanctuary might then be viewed as a police state, forever under the watchful eyes of Big Brother Ruozhen. They’d be hated.
+
+Ji Ruozhen wanted Han Sen to give many of them up for distribution amongst a number of different companies and corporations, as well as families. He would lose a lot of potential money that way, but he would earn a lot of friends, in return.
+
+“It looks like I really can’t take over the Third God’s Sanctuary myself. It sounded like Godslayer Luo might have been able to, but it seems he conquered even less than I have,” Han Sen thought to himself.
+
+Han Sen didn’t want to give up what he had earned, though, and he then said to himself, “Fine, if I can’t claim ownership of more as Han Sen, then I’ll just have to take them over with a different name.”
+
+After a while, Han Sen stopped his ventures of expansion to focus on something else. He wanted to go off in search of geno treasures that could increase his self geno points. He needed to open his super king spirit’s tenth gene lock, after all.
+
+Ji Ruozhen, in the meantime, ran through his contacts, trying to determine the best partners he could co-operate with.
+
+A month later, Han Sen had achieved a thousand self geno points and managed to open the tenth gene lock of super king spirit mode. It only increased the power of super king spirit mode across the board, and there were no new, special traits earned.
+
+Super king spirit mode was very plain, but that was part of the attraction. It made you far stronger, and that was it; it was that simple.
+
+The greatest benefit of it now, though, was that he could remain in this form forever. There was no longer an annoying timer he had to adhere to.
+
+After opening his tenth gene lock, he decided to pay another visit to the spirit base. When Han Sen entered, though, he was unable to find any other islands.
+
+Han Sen chalked it up to there not being many spirits with ten gene locks open, so as a result, there weren’t going to be many to find there.
+
+Han Sen drove his island around for a while and eventually saw another spirit.
+
+He didn’t reveal himself, though. Only seeing one, he just turned around and left.
+
+After that, Han Sen returned to the sanctuary and went back to conquering lands and claiming territories alongside the spirits and creatures in his employ.
+
+This news was relayed across the Alliance once more, making people even more hyped for the prospects of proper settlement in the Third God’s Sanctuary. The spirits were all co-operating, and they no longer resisted. On the sly, though, they still pleaded for Undead Emperor to help them out and defeat Han Sen.
+
+Before Sky Mountain, Undead Emperor began leading a grand host of spirits and creatures to bring an end to Han Sen’s reign.
+
+“Han Sen, will you fight me?” Undead Emperor asked, with a tone as chilling as a winter’s grave.
+
+“Of course I will.” Han Sen raced towards him, airborne.

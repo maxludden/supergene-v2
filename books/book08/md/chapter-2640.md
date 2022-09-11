@@ -1,0 +1,90 @@
+Title:Outer Sky 
+Chapter:2640 
+Section:13 
+Book:8 
+CSS:../Styles/style.css 
+viewport: width=device-width
+  
+## Outer Sky
+### Chapter 2640 
+<figure>
+	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
+</figure>
+  
+
+  
+  “What should I tell her? Am I just supposed to walk up and tell her that I want to join the Very High despite everything that happened? I would feel so cheap after the fuss I made,” Han Sen thought. He was on his way to the Sky’s Water House. He considered many different ways that he might approach the subject with Exquisite, but nothing he came up with seemed very good. When Han Sen arrived at the doorstep of the Water House, he came face to face with Exquisite. She still looked rather pale. She opened her mouth to speak, but no sound came out.
+
+“I can’t jump straight into this conversation. I just can’t,” Han Sen thought, suppressing a wry smile.
+
+“What are you doing here? Are you looking for me?” Exquisite asked Han Sen, her face completely expressionless. It seemed as if her failure in the fight hadn’t affected her as much as he had expected. She seemed a little tired, but other than that, she looked the same as always.
+
+“I… Well, I’m here to see if you have recovered yet.” As soon as Han Sen said that, he wanted to slap himself. It sounded as if he was there to rub her loss in her face.
+
+“I have almost healed.” Exquisite didn’t move.
+
+“That’s great… that’s great…” Although Han Sen wasn’t eloquent on the best of days, he normally wasn’t this awkward. This time, however, he was lost and fumbling. He didn’t know how to say what he wanted to.
+
+Exquisite stared back at Han Sen, allowing an uncomfortable silence to settle between them. Han Sen opened his mouth a few times, but he couldn’t summon the words. In the end, he said, “Then… I will not disturb your recovery.”
+
+After that, Han Sen got up and prepared to leave. He felt so nervous. He was unable to tell her what he wanted to.
+
+Then he heard someone giggle.
+
+Exquisite suddenly laughed. It shocked Han Sen. He didn’t know what she was laughing about, but she sure looked like a far finer woman when she did.
+
+Exquisite saw Han Sen’s glance. She blushed for a moment, and then her face returned to its impassive expression. She met Han Sen’s gaze and said, “Sky Palace Leader told me you have thought over the offer. You are now willing to follow me to the Very High. Is that true?”
+
+“That old b*stard sold me out again!” Han Sen swore in his head, suddenly looking even more uncomfortable. He didn’t think Exquisite knew why he had come to visit her, but it seemed as if she was expecting him. And there he was, making a fool of himself. No wonder Exquisite had felt compelled to laugh. He could see the humor, though, and he knew that someday, he would look back on this and chuckle.
+
+At that point, Han Sen realized that being embarrassed wasn’t doing him any good. He relaxed and nodded. “Yes, I would like to go to the Very High with you. I hope you don’t mind accepting me, even after everything that has happened.”
+
+“Why did you change your mind?” Exquisite asked, still not moving a muscle.
+
+“There are many reasons, and I can’t explain them all. What is most important for me, though, are the resources I will need.” Han Sen’s explanation was very vague.
+
+“I’m going back to the Very High in two days. You should prepare yourself,” Exquisite said.
+
+Han Sen was shocked. He hadn’t thought Exquisite would be so easy to talk to. She agreed to take him on very quickly.
+
+Han Sen opened his mouth, but again, he wasn’t sure what to say to her. Since the start of this conversation, it had felt as if he had done nothing but say the wrong thing. So, Han Sen just decided to bid her farewell for the time being
+
+When Han Sen left, the remote expression on Exquisite’s face evaporated. She suddenly seemed very conflicted.
+
+There were only two days for Han Sen to prepare. Fortunately, there wasn’t much for him to actually take care of. He only told the people closest to him that he would be leaving soon.
+
+When Han Sen told Lone Bamboo, Lone Bamboo quietly asked, “You still decided on going?”
+
+“If I don’t go, I won’t be able to get my hands on the Constellation Sea. I must go,” Han Sen said glumly, spreading his hands in a helpless gesture.
+
+“I hope to see you back here alive,” Lone Bamboo ultimately said after a long pause.
+
+“Don’t say it like you expect me to end up dead. I will be back in four years,” Han Sen said with a laugh.
+
+“If you were going like a normal silkworm, then four years would be a short time. But you have an ulterior motive for signing up. Your trip to the Very High will be dangerous, and your chance of surviving is low.” Lone Bamboo clearly didn’t know much about tact, but what he said was the truth.
+
+Looking for someone wasn’t a crime, but lying about his intentions wouldn’t be taken kindly by the Very High. If he was found out, there was a high chance of severe consequences and punishments.
+
+But Han Sen was confident that there was a way to stop the Very High from looking into his mind. If he hadn’t been sure he would be okay, he wouldn’t have risked going to the Very High at all.
+
+After he got everything ready, Han Sen headed back to Black King City one last time. He said goodbye to the people there, then he went to see Sky Palace Leader.
+
+Sky Palace Leader said that he had a method that would keep the Very High out of Han Sen’s mind. Although Han Sen didn’t place much faith in the idea, he did not mind hearing the leader’s technique.
+
+Two days went by in a flash. Han Sen brought Bao’er and Exquisite to a ship that would take them away from Sky Palace. Exquisite plotted a course for their destination.
+
+Many creatures had been chosen by the Very High over the years, but even now, not many people knew where the Very High actually resided.According to what Sky Palace Leader said, the Very High xenogeneic space could be moved. It wasn’t in a fixed location. Unless someone had just been there, it would be impossible to determine where it was.
+
+“It is a xenogeneic space that can move.” Han Sen didn’t think it was all that special. He had already seen Sky Palace use the Chase Star Whip to move Narrow Moon.
+
+He wagered that if Sky Palace could do it, the superior Very High could very likely do the same. Moving a xenogeneic space shouldn’t have been too difficult for them.
+
+After the ship departed Sky Palace, Exquisite enabled auto-pilot for the ship to command itself. She pulled out a little leaf-sized ship. It hovered in the air, then began to swell. It became the size of an ordinary ship. “We are taking this ship to the Very High?” Han Sen and Bao’er looked over the second ship with curiosity.
+
+“Only this ship can take us back,” Exquisite said. She got onto that new ship and sat down in the front.
+
+Han Sen brought Bao’er onto the small ship. After they sat down, Exquisite tapped the surface of the ship. The rowboat-shaped ship suddenly started flying. In one moment, the ship broke space and slipped into subspace. When Han Sen saw the Very High’s xenogeneic space, he was awestruck.
+
+The Very High’s xenogeneic space seemed to reside in subspace. Before this trip, Han Sen never even would have imagined that it was possible to maintain a landmass within subspace. Han Sen was flabbergasted. He was numbed by the vista.
+
+“Do anti-matter worlds really exist?” Han Sen murmured to himself, gazing out the viewports of the ship. “Actually, this place is a buffer zone between the real world and anti-matter worlds. This isn’t a true anti-matter world. You can call it subspace, but we call it Outer Sky,” Exquisite explained. “Has this land always existed here, or was it moved here?” Han Sen asked, looking at the heavenly landmass in front of him.

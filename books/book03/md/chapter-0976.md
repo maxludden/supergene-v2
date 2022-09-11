@@ -1,0 +1,98 @@
+Title:Battle on the River 
+Chapter:976 
+Section:3 
+Book:3 
+CSS:../Styles/style.css 
+viewport: width=device-width
+  
+## Battle on the River
+### Chapter 976 
+<figure>
+	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
+</figure>
+  
+
+  
+  Boom!
+
+The snake was knocked away by the man again. When it crashed into the nearby wall, the entire hall shook violently.
+
+Han Sen did not dare fight the man any longer. When the man turned his attention back to him, though, he swung his dagger to kick up a black flame, then leapt out of the man’s way in a fiery evasion.
+
+But the man possessed unimaginable power, and no matter how hard Han Sen tried, he couldn’t dodge.
+
+The man’s hand was like an omnipotent shadow that trailed those who sought to flee it, hovering above and ready to snatch or smash helpless victims.
+
+Gritting his teeth, Han Sen used his red dagger in an attempt to knock the hand away. But this time, the man’s hand suddenly opened to grab the red blade. And then, in a flash, it was broken in a swift clench.
+
+But the man’s hand did not stop there. It still came toward Han Sen, and the attack was not absorbed by the sacred-blood armor he wore. The wretched nails of Han Sen’s foe were sharper than any blade.
+
+If it wasn’t for the Dragon-Blood Snake, the man in black would have twisted Han Sen’s head off.
+
+When the hand came for Han Sen, at the last second, the Dragon-Blood Snake leapt in front of its master to take the hit. Instantly, the creature was knocked away again, but still, the man did not relent. And it seemed no matter what Han Sen tried, shaking this ghastly person would be impossible.
+
+Han Sen had no choice but to now pull out his Taia sword. He hadn’t used it earlier, in fear of it being broken. That belief had not changed, but it was the best blade he currently had.
+
+It was a desperate time, and Han Sen could not afford to be careful. He would do whatever it took to survive, so with Taia in hand, Han Sen swung it against the man’s incoming hand.
+
+Dong!
+
+Han Sen and the sword were sent flying, but strangely, the man let out a yelp. He shouted aloud in pain, and Han Sen noticed a wound across his hand. And from the gash Han Sen had delivered, the man bled purple.
+
+“Taia has what it takes to hurt him?” Han Sen was surprised and delighted. The man stopped moving and looked on the sword with great fear.
+
+Han Sen was happy and renewed with hope following this development. With this revelation, he might have a chance to escape. And it was all thanks to Taia.
+
+When Han Sen took this opportunity to flee, though, the man was still not keen to let him go. The man came after him, but kept a moderate distance between them. His desires to keep Han Sen there and to stay away from Han Sen’s sword seemed conflicted.
+
+Han Sen fell back to the tree, but the Red-Eye Rabbit had vanished.
+
+“My tree… you die…” The man, seeing his tree stripped bare, looked furious.
+
+No longer did he care about the sword Han Sen possessed, as a blazing bonfire of anger surrounded him in a frightful aura. The cavern seemed to tremble with his rage.
+
+“Hey, it wasn’t just me. The rabbit had some, too!” Han Sen kept on running, summoning his Dragon-Blood Snake to follow from behind.
+
+When Han Sen made it out of the tree-hall, Han Sen heard the Dragon-Blood Snake cry out behind him. Turning back to take a look, it seemed grievously injured. Han Sen couldn’t dwell on it too much, though. He summoned it back and cast Aero to glide upstream.
+
+But before he could put space between himself and the man, Han Sen found him approaching at a rapid pace and closing the gap.
+
+“Damn it!” Han Sen cursed aloud, but he did not relent in his flight.
+
+Boom!
+
+The man stepped across the water and then leapt up into the air. He was right beside Han Sen, and there seemed no likely way he’d escape this strike.
+
+“Fuck you!” Han Sen waved his Taia madly.
+
+But the man was like the master of all, and he was obviously prepared for this. He evaded the sword and threw his palm at Han Sen’s chest.
+
+Spilling blood from his mouth, Han Sen lost control of his flight and went careening into the river. A huge splash accompanied his crash into the stream.
+
+The chestplate of his armor had been broken, and the water was dyed red. As wounded as he was, though, Han Sen was not yet willing to give up.
+
+Han Sen had practiced diving before. Holding strong against the pain threatened to drown him, Han Sen dove deeper into the water, trying to escape the evil thing that hounded him.
+
+It was a deep stream, ten meters at least. But as Han Sen kept swimming, he suddenly caught sight of a pale face with black hair swirling around it. It was like the frightening appearance of an underwater demon.
+
+“You can even beat me when it comes to swimming?” Han Sen was angered by his opponent. Realizing flight was still pointless, he decided to attack with Taia again.
+
+The man looked cold. He dodged Han Sen’s sword strike, spun, and had his arm outstretched. He was inches away from palming Han Sen’s chest.
+
+Figuring it was a now-or-never moment, Han Sen burst with a bright white light. His eyes and hair shone like white gold, signaling his transformation into a super king spirit.
+
+His power and speed increased, and an endless font of energy sprung up inside his body to fuel his limbs. Han Sen did not dodge the incoming attack, he merely reoriented his Taia sword to strike the man’s chest.
+
+Pang!
+
+The man’s hand collided with Han Sen’s chest, as Han Sen’s blade plunged deep into the man in black’s heart. Both of them bled.
+
+The man groaned and fell back into the black waters.
+
+Han Sen wasn’t going to let him get away, though. He found footing on a rock and pushed himself forward with the blade primed to strike the man’s chest once more.
+
+The man, seeing what was coming, clapped his hands to catch the incoming sword.
+
+“Die!” Han Sen’s white light burned with the fire of a sun. With the power of his first gene lock open, the Taia sword did not relent upon its capture. It plunged deep into the man’s chest once more.
+
+With this second stab, the man could not help but scream. He palmed Han Sen and the sword left his body.

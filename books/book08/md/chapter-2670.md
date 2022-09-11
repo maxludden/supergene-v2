@@ -1,0 +1,90 @@
+Title:Geno Hall’s Message 
+Chapter:2670 
+Section:13 
+Book:8 
+CSS:../Styles/style.css 
+viewport: width=device-width
+  
+## Geno Hall’s Message
+### Chapter 2670 
+<figure>
+	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
+</figure>
+  
+
+  
+  They went back to crossing the wild dunes of the desert. As they walked, Han Sen continued to spot strange shapes rising out of the sand. None of the shapes seemed to be recognizable, and he had no idea where they might have come from, either.
+
+After they reached an oasis, Li Keer told Han Sen, “The dimensional space here is more stable, so you can open the core area door from here. You won’t be dragged into the anti-material world.”
+
+Han Sen thanked Li Keer, then tried to open his core door. This time, the core door opened like usual. Han Sen entered the core area again.
+
+Han Sen wanted to go to the core area because, once he entered, he would be far away from Li Keer and Exquisite. They would be unable to feel his thoughts, and Han Sen could practice his secret geno arts in privacy and safety. He wouldn’t be spied on.
+
+Han Sen hadn’t dared to practice his true geno arts in Outer Sky. If he had, the secrets of his four sacred geno arts would have been revealed to Li Keer and Exquisite. That would needlessly complicate his life, he believed.
+
+So for the duration of his stay in Outer Sky, Han Sen spent his time practicing the geno arts Exquisite had given to him. Out of the geno arts in his private roster, he only practiced The Story of Genes. The Rebate and Sky Palace already knew about its existence, and if they knew, so did the Very High. There was no point in hiding it.
+
+And it didn’t matter if the two Very High women saw The Story of Genes. Aside from Han Sen, no other person could learn it.
+
+Once he was in the core area, though, Han Sen could practice his other geno arts. But that wasn’t the only reason he had come. He wanted to practice Heart Connection. If he couldn’t use beast souls in the upcoming silkworm battles, that might be his only attack that could deal damage to his deified nemesis, Shale.
+
+In addition, Han Sen also wanted to meet up with Gu Qingcheng and Elysian Moon. He wanted them to do something on his behalf. Fortunately, Gu Qingcheng and Elysian Moon had already been practicing in the core area, and they weren’t too far from Han Sen’s position. Han Sen quickly contacted them and arranged a meeting.
+
+“How does it feel to be a pet of the pretty ladies in the Very High?” Elysian Moon mocked Han Sen with a smile.
+
+“It feels terrible. It’s like I’m naked 24/7. I have no privacy at all,” Han Sen glumly admitted.
+
+“You have come looking for us in a rush. Did something happen?” Elysian Moon could tell that something must have gone wrong.
+
+“I have a geno art, but I’m not sure what it does. I can’t leave the Very High, and I can’t risk trying it myself. So, I want you to take this geno art and find someone. Have him take a look at it and figure out if it is useful,” Han Sen said. Then, he passed his Xuan Yellow Sutra to Gu Qingcheng.
+
+“Who should we give it to?” Gu Qingcheng asked as she accepted the Xuan Yellow Sutra.
+
+“There is a man called Mister White among the Extreme King. I have a way to contact him, but with my current circumstances and my soured relationship with the Extreme King, meeting him might prove difficult. So, you guys need to be careful. After you have contacted him, make sure you are safe. And make sure you listen to what Mister White tells you,” Han Sen told Gu Qingcheng. He quickly explained how the women could get in touch with Mister White.
+
+Han Sen only wanted to know what might happen if he activated the Xuan Yellow Sutra. If there were no issues that could arise from it, he could just use it freely. He wouldn’t even need to practice it, either. He only had to perform his Blood-Pulse Sutra in reverse, as that was what the Xuan Yellow Sutra taught.
+
+After Gu Qingcheng and Elysian Moon left, Han Sen found a quiet place to practice Heart Connection in the core area. If he wanted to heavily wound Shale, he would probably need that skill in his repertoire.
+
+There was also Break Six Skies, as well. Han Sen had some experience with that technique. Break Six Skies was extremely powerful, but it was an area-of-effect skill. Therefore, the power wasn’t as concentrated as Heart Connection. But it was still one of the strongest geno arts Han Sen possessed.
+
+Things didn’t seem to have gone smoothly for the two women. Han Sen waited four days before Elysian Moon and Gu Qingcheng returned to the core area.
+
+“I gave the items to Mister White. He said he would need some time to investigate. You can expect a response in two weeks,” Gu Qingcheng said.
+
+“Two weeks?” Han Sen couldn’t help but shake his head in dismay. There were only three days left until the silkworm bouts began. If it took two weeks to get the results back from Mister White, he wouldn’t be able to use the geno art in the fights.
+
+But Han Sen hadn’t planned to use the Blood-Pulse Sutra in the upcoming fights anyway, so he wasn’t too disappointed.
+
+Han Sen asked Gu Qingcheng about Planet Eclipse and the situation with Sky Palace. Then, he practiced his geno arts for another couple of days. When his time was up, he departed the core area.
+
+“Why did it take you so long to come back?” Exquisite, seeing Han Sen, felt relieved. There was less than a day to go until the silkworm fights began. If Han Sen hadn’t returned in time, he would have been in a lot of trouble.
+
+“My friend didn’t arrive in the core area as soon as I had hoped. I had to wait for a few days before I ran into him,” Han Sen said.
+
+“What happened?” Li Keer asked.
+
+“It was a waste of time. He didn’t have enough time to figure anything out,” Han Sen said, putting on a pained expression.
+
+“You really wanted a way for a ninth-tier King to beat a deified elite?” Li Keer asked. “It wouldn’t have mattered how long you waited. That is an impossible feat. Unless you can make use of your treasures, it won’t be happening. And it has already been decided that all treasures will be barred from use. It is obvious that Shale will rank first in this competition.”
+
+Han Sen thought she was most likely correct. The Very High’s decision sounded as if they wanted Shale to be number one, though.
+
+“What’s going on with that Shale? They’re pretty much handing him the number one spot. Why?” Han Sen asked, looking at Li Keer.
+
+“Time is almost up. We need to go to the valley and join the silkworm bout. Let’s talk while we walk,” Li Keer said, and then she quickly departed the oasis.
+
+As they traveled back across the sand, Li Keer explained the situation to Han Sen.
+
+Because Shale was born deified and possessed a ten armor talent, he might become a true god, assuming he had enough resources and a little luck.
+
+The most important thing was that the Very High man who had signed a contract with Shale was a very important figure, too. The Very High seemed to be grooming him to be the very best. They wanted him to be capable of fighting and breaking open the Geno Hall. So, even the man’s silkworm would receive the best care possible to boost the Very High man’s chances.
+
+“The Very High want access to the Geno Hall, too? What is inside the Geno Hall?” Han Sen asked with curiosity.
+
+“I don’t know. One of our ancestors entered the Geno Hall and brought back some information regarding the place, but the information he provided us was very vague. It was like there was someone that wanted us to come to the Geno Hall, and I think they were asking for help,” Li Keer said.
+
+“I thought that getting into the Geno Hall meant you would become a god. Why would someone inside signal for help?” Han Sen asked with confusion.
+
+“That is what we want to find out, but we have yet to find an answer,” Li Keer said.

@@ -1,0 +1,86 @@
+Title:Red Mist King 
+Chapter:1925 
+Section:7 
+Book:5 
+CSS:../Styles/style.css 
+viewport: width=device-width
+  
+## Red Mist King
+### Chapter 1925 
+<figure>
+	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
+</figure>
+  
+
+  
+  Han Sen felt as if his body was taken through the red mist. He felt as if he was sinking. When his body came to a stop, he saw the seven minks wrapped up in the same plume of red mist, right next to him.
+
+The red mist then cocooned itself around him, too. As the mist was attaching itself to him, a strange message penetrated his brain.
+
+Han Sen found that he could read the little minks’ thoughts, primarily because they were so small and so simple. Their emotions were easy to discern due to their simplicity, unlike humans that have a complex variety of feelings. It was something he couldn’t have explained in words.
+
+The stranger thing was when Han Sen noticed that the armored knight was trying to communicate with him. It spoke about how one would gain control of it.
+
+That knight was called Red Mist King. Han Sen read its description and learned that it was like a wartime machine like the ones he had used in the Alliance. But Red Mist King wasn’t built from circuits and electricity; it was actually comprised of xenogeneic material and little else.
+
+He didn’t need buttons to control it, either. All he had to do was use his mind, in addition to the red mist power.
+
+It did not take much red mist power for a Viscount to control the machine. Red Mist King generated its own power, too. It had been built from a swathe of xenogeneic materials, and it possessed incredible strength. But every time it was used, some of the energy inside it would be consumed. So, it would have to be imbued with more xenogeneic materials to replenish its energy.
+
+Han Sen sensed that most of its energy had already been spent, and that it only had around nine percent of its energy left. Han Sen did not understand how it worked, though.
+
+The seven minks were getting very excited. Their thoughts could control the Red Mist King, too. The Red Mist King returned to the throne and sat down in its previous place.
+
+Han Sen thought the minks were merely taking a break, but the equipment in the palace started up. With a whir, the lights of the equipment began to gleam. Even the throne itself started to shine. And then the dimension near the throne began to twist.
+
+Before Han Sen could react, he saw the space of the place begin to twist. Red Mist King was sent out, and it appeared near a teleporter on a planet. The little minks merrily guided Red Mist King out of that teleporter, and what Han Sen saw surprised him.
+
+Machines that looked like Red Mist King were everywhere. They each had a different shape and size. There were some like beasts or bugs, and there were even a few resembling livestock.
+
+The buildings were built from a similar material, too. It looked like a mechanical planet straight out of a sci-fi movie.
+
+Han Sen had seen all sorts of different xenogeneic materials. He knew that inside them, there had to be something like the little minks controlling them.
+
+“Are there other minks inside these machines, too? Is it an entire race of them?” Han Sen was shocked at the mere thought.
+
+But when Red Mist King walked out of the teleporter, alarm noises started to sound. Then, a language blared—one which Han Sen could not understand. At that moment, all the xenogeneic material machines turned to look at the Red Mist King. Han Sen thought things had gone pretty awry.
+
+The next second, many xenogeneic machines were coming for Han Sen. Furthermore, they were aiming at Red Mist King. Their weapons were like lasers, and they started to fire at Red Mist King.
+
+Han Sen could see that most of the lasers had Viscount class strength, but there were a few that were Earl class.
+
+Boom!
+
+After the chaos started to unfold, Red Mist King was sent soaring into a building with a crash. Han Sen felt every movement, but Red Mist King hadn’t sustained any injuries.
+
+The little minks were rolling around in the mist. They looked rather annoyed.
+
+And then, Han Sen saw the joints of the armor begin to shine red. The minks controlled the Red Mist King’s fists, which were now blazing with fire. It moved forward and punched an opponent.
+
+Boom!
+
+A giant beam of light came out of the fist. It destroyed the streets, buildings, and xenogeneic machines all around. Everything was broken or melted under the force.
+
+A building that was a few hundred meters tall was vaporized, and a ten-meter-deep crater was all that remained. The path of destruction kept extending out, though, as if it was the end of the world. It felt as if everything there would be wiped out. The red mist didn’t seem bound to the planet’s surface, though. It reached out into the atmosphere, as if it was going out to space.
+
+“Shit! That’s strong.” Han Sen was frozen. “That punch was the equivalent of a King class elite. That’s scary.”
+
+After the initial shock, a flurry of surprises continued to come. The Red Mist King was very strong, and furthermore, Han Sen could control it. That meant Han Sen could be that strong and not have anything to be afraid of.
+
+If Night River King came to provoke him again, Han Sen could punch him into the sky, regardless of whether or not he was a f*cking king.
+
+But Han Sen’s dream quickly came to a halt. The red mist had given him a lot of information, but one of the alerts was now warning him that the energy reserves were very low. It was lower than one percent now, at a figure of 0.75%.
+
+“Fuck! One punch took away nine percent of its energy?” Han Sen was shocked.
+
+He didn’t dare hesitate now. He pulled the seven little minks closer, to prevent them from piloting the Red Mist King any further. Han Sen decided to take control of it, and he raced it back to the teleporter. The dimension twisted once again, and they vanished from the area.
+
+When the vortex untwisted and deposited them back in normal space, they found themselves back inside the red copper palace. Han Sen was greatly relieved. The seven little minks, however, were looking rather angry. Han Sen quickly scanned their minds, and it allowed him to understand why they were as angry as they were.
+
+They had merrily gone in there because, from what Han Sen could discern, they wanted to go home. But as soon as they teleported, they were treated like enemies. That was the source of their frustration.
+
+But then Han Sen thought about the punch. Han Sen thought that the creatures of that planet might have every right to be as furious as they were.
+
+Han Sen grabbed the seven little minks, in case they decided to drive the Red Mist King back. Red Mist King had next to no energy, so Han Sen wasn’t sure if it could return from another trip through the teleporter.
+
+Han Sen brought them all the way out of the red mist orb so he could keep an eye on them. He went on the internet to find out what he could about the red mist orb, Red Mist King, and the little minks.

@@ -1,0 +1,106 @@
+Title:Sky King 
+Chapter:3128 
+Section:16 
+Book:10 
+CSS:../Styles/style.css 
+viewport: width=device-width
+  
+## Sky King
+### Chapter 3128 
+<figure>
+	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
+</figure>
+  
+
+  
+  Sky King managed to escape the Gold Crystal System, but the flying fish did not relent its pursuit of him. It looked like it really hated Sky King and would not stop until its enemy was burned to death.
+
+Han Sen had to fly to follow them. He wanted to find a way to deal with the flying fish.
+
+He had to confess that Sky King really was the most powerful person in the Qin Kingdom. His family was huge, and he had money. All the high-class gene races he had did not appear to be valued too highly since he used them all to save his skin.
+
+Of course, if Sky King wasn’t as powerful as he was, he would have been unable to do what he was doing to survive.
+
+Suddenly, Han Sen thought something had to be wrong. He looked at the map and understood.
+
+“This Sky King really is a very powerful character.” Han Sen guessed that Sky King was going to draw the enemy to another place. He was going toward the border between the Han Kingdom and the Qin Kingdom. He was obviously leading it to unleash carnage in another place.
+
+Han Sen’s guess was right. When he reached the border between the two kingdoms, he went to a planet in the Han Kingdom. Sky King fearlessly entered the planet. While he was in the Qin Kingdom, he never once dared do that. While he was escaping, he avoided all the planets that contained life.
+
+“The Qin Kingdom is in the wrong this time.” Han Sen had to admit ginger became spicier the more it matured. Sky King had a big disadvantage. He wanted to get some interest from the Han Kingdom.
+
+Han Sen did not need to guess what he was doing. Sky King and the Han Kingdom’s relationship must not have been good. This might have even sparked a conflict. Otherwise, he would not have brought the flying fish all the way there.
+
+If he really was leading it elsewhere, going to the Wei Kingdom would have been closer. Yet, he went to that very faraway planet within the Han Kingdom. Obviously, he was prepared.
+
+The flying fish chased Sky King to the planet. Wherever he went there was a big city. It made Han Sen sigh.
+
+With the flying fish’s power, if there was no top-class elite fighting it, the planets might end up being destroyed.
+
+Han Sen was surprised. When the flying fish breached the cities, it did not produce the scene of a city burning badly. It was quiet. Nothing seemed to happen. Han Sen thought the flying fish had not done anything. After a while, it still had yet to do something. There were no fires in the sky.
+
+“Weird. What is going on? Did Sky King set up a trap to catch the flying fish?” Han Sen thought the probability of that happening was next to nil. Still, not knowing what was going on, he inched his way closer to the planet to find out what was happening.
+
+He did not get too close. His peacock king’s eye skills were better than a satellite. Han Sens’ vision flashed. He was now able to clearly see what was happening down there.
+
+Sky King looked like a very broken, poor, and dirty hobo. He was standing on the street like a statue, not daring to move. His face was grey, and his body was covered with scorch marks. His hair was ragged. His clothes were full of holes. No one would have been able to guess that was Sky King. If it was known who he was, people would’ve been laughing to death.
+
+Even so, many people on the streets discussed his identity. Sky King was not moving a single inch. He did not care for the laughing and whispering. He stared ahead, not moving an inch. A cold drop of sweat fell from his forehead.
+
+The flying fish was just one foot away from Sky King. The fish stared at Sky King, but it did not immediately incinerate him with fire.
+
+The flying fish was being held by a little, white hand.
+
+When Han Sen saw the master of the little, white hand, his eyes almost popped out of their sockets. He could not help but scream, “Bao’er… Why is she here?”
+
+Sky King’s forehead kept developing a cold sweat. Seeing the flying fish and the little girl, he felt extremely strange. Still, he could not move.
+
+He really was trying to do what Han Sen believed. He had lured it there. He wanted the flying fish to harm the Han Kingdom, so he landed directly in the city.
+
+The flying fish caught up. When it landed in the city, it did not spit out fire and force the defenses of the planet to hopelessly try and fight back.
+
+The flying fish landed on a little girl. The most surprising thing about this was that the little girl reached out her hand to hold the flying fish as if she was holding a doll.
+
+Even more surprising was that the flying fish did not attempt to fight back. It allowed the little girl to hold onto it and used its head to rub the little girl’s hand.
+
+Sky King’s entire body was frozen stiff. It would have only taken a second for the flying fish to teleport in front of him and lock him down.
+
+The distance between them was very close, yet neither the flying fish nor Sky King moved. Otherwise, if Sky King revealed his flaws, the flying fish might have killed him.
+
+Since the flying fish did not produce flames to harm the city, the planet’s defenses weren’t activated. Sky King’s plan had failed.
+
+Sky King looked at the little girl approaching with the flying fish in hand. She touched the flying fish’s head as if she was petting a cat or a dog. His eyes could not help but twitch at the sight.
+
+He had never seen anything like this happen. Such a terrifying gene race was willing to adhere to a little girl. Things like that had never happened.
+
+Even the leaders of the seven kingdoms could not do something like that.
+
+It wasn’t just the leaders. Even if the elders of the kings were there, the scary flying fish would spray their faces.
+
+“Who is this little girl?” Sky King strangely looked at the little girl. He forced a smile and asked, “Little Girl, why don’t you tell the flying fish to go away? I will give you some money to buy candy.”
+
+The flying fish was being held by the little girl, but it was still hungry for him. If he revealed a flaw, it would kill him.
+
+Sky King did not dare move. He wanted to treat the little girl well so she would take the flying fish away. He would have then been free.
+
+“What is money?” The little girl, who was holding the flying fish, looked at Sky King with confusion.
+
+“Money is… It’s something you can use to buy candy…” Sky King suddenly noticed he could not explain to the little girl what money was.
+
+“What is candy?” The little girl still looked confused.
+
+Sky King thought it was weird that the little girl did not know what candy was. Upon looking at the little girl’s innocent face, it did not look as if she was lying.
+
+“That… Candy is something very sweet that you can eat,” Sky King tried to explain.
+
+“Really? In that case, give me some candy, and I will try it.” The little girl looked at Sky King with excitement.
+
+“I do not have candy on me, but I can give you money to buy a lot of candy,” Sky King said.
+
+“Bring it out,” the little girl said, reaching out her hand.
+
+Sky King thought this was difficult. He did not have money on him. Even if he did, it would all have been burned. He did not dare move either. The flying fish was looking at him. “Little Kid, put the flying fish away,” Sky King said, with a look of genuine fear. “I am scared of it. I cannot give you the money right now.”
+
+If ordinary people saw Sky King acting like this, they would not have believed it. This was the overbearing Sky King.
+
+“The little fish is so cute,” the little girls said. “Why are you afraid of it?” She lifted the flying fish in front of Sky King, whose mouth was one foot away from it. Sky King’s legs went soft. He started to shake. Cold sweat soaked his tattered clothes.

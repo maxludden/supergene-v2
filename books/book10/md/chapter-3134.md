@@ -1,0 +1,88 @@
+Title:Saying No Means No 
+Chapter:3134 
+Section:16 
+Book:10 
+CSS:../Styles/style.css 
+viewport: width=device-width
+  
+## Saying No Means No
+### Chapter 3134 
+<figure>
+	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
+</figure>
+  
+
+  
+  The purple blood eye butterfly king looked very weird. It was like some butterfly that came from hell. Its wings had markings that looked like flickering eyes. The mere sight of them gave people the willies.
+
+Although the amount of blood eye butterflies was shocking to witness, Han Sen did not turn his gaze away from them. The peacock king’s eye skill and blood eye butterfly king’s purple eye patterns looked into each other. It suddenly made Han Sen have a hallucination. He saw two shadows. He was seeing things. It was only for a moment. After his body adjusted to the toxins, the effect was immediately diminished.
+
+It was merely about Han Sen being shocked. It was just a king-class gene race that could go through the protection offered by both the blood ghost spirit and gold wing peacock king. It was weird.
+
+The blood ghost spirit still had a young body. Han Sen understood that it did not have enough power, but the gold wing peacock king was ultimate mode. Yet, it was still unable to fully repel the power of the blood eye butterfly’s toxins. That was hard to believe.
+
+Fortunately, Han Sen’s body was also really powerful. If he was someone from the universe of kingdoms, even if he did have god-class gene races to protect his body, he would have been damaged already.
+
+After Han Sen gave it some thought, he understood the meaning behind all of it.
+
+The universe of kingdom’s was all about gene race power. The gold wing peacock king was strong. It had an indestructible blade. Comparing the power and powers of destruction, the blood eye butterfly was hardly comparable.
+
+No matter how sharp its blades were, it could not hinder the fire. The two of them were not of the same element.
+
+The blood eye butterfly king’s toxic power was like that. With the gold wing peacock king’s power, it was not the same. No matter how strong the gold wing peacock king was, it could not block the blood eye butterfly king’s power.
+
+“Just using power will result in a problem. In a place like the universe of kingdoms, if I use a gene race correctly, even if I use a low-level gene race, it can kill a high-level elite. Let’s not talk about assassinations.” Han Sen now understood.
+
+He was used to being in the geno universe. He felt the elites there were very strong and did not have many weaknesses. Lower-level beings fighting higher level beings never came easy.
+
+In this world, the rules were a bit different. Ordinary humans did not combine with gene races 24/7 because it would cost them energy.
+
+Using different gene race powers correctly was the key to victory. One didn’t need very powerful gene races.
+
+They only needed one of the same attack gene races. Wasting time to grow another same element gene race was pointless.
+
+“This mutant blood eye butterfly king’s toxic power is interesting. Why don’t I turn it into an egg? Perhaps it will end up useful.” Han Sen’s heart jumped. The peacock wings on his back spread. Suddenly, a sky full of gold feathers descended like a rain of arrows that killed many red eye butterflies.
+
+In the blink of an eye, aside from the mutant blood eye butterfly king, all the other blood eye butterflies were killed. After all, it was a god-class, ultimate-mode, combination gene skill. Besides the ordinary blood eye butterflies being unable to block the attack, even the mutant blood eye butterfly king could not.
+
+Han Sen wanted to take the mutant blood eye butterfly king with him, which was why he allowed to live.
+
+The mutant blood eye butterfly king was shocked. It flapped its weird purple wings as Han Sen tried to catch up to it. The blood eye butterfly king had just turned when Han Sen cast the Xuan Yellow Sutra. A scary power struck the mutant blood eye butterfly king, turning it into a purple, crystal-like egg.
+
+He picked up the mutant blood eye butterfly king egg. When Han Sen flew back, Mister God One and the others were already near the platform.
+
+Mister God One offered a compliment by saying, “Mister Han really is different. You do not just have a blood ghost spirit power, but you have that gold arrow gene race. That is even scarier. It cannot be an ordinary ultimate god-class gene race.
+
+Han Sen did not plan on hiding anything. He laughed and said, “You are smart. This is a mutant god-class gene race.”
+
+“Holy shit! Old Han, you are rich! You even have a mutant god-class that is in ultimate mode. With the blood ghost spirit, you’ll have enough money to afford a city.” Bald Guy really admired Han Sen. “What do we do with the skinning hide?” Han Sen ignored Bald Guy. Mister God One replied, “The skinning hide is good for feeding a gene race and evolving them. Using a skinning hide to evolve a gene race provides a high chance of one learning new skills. Let’s just put it away and share it when we return.”
+
+“OK,” Han Sen said with a nod.
+
+Everyone started to pull out the skinning hide. There were a lot of skinning hides. There were 10,000 of them. Mister God One prepared a giant bag in which they could stuff them into so the presence of the skinning hide could go undetected.
+
+After putting the skinning hide away, everyone started to dig.
+
+Without the temptation of the skinning hide, no more gene races approached that place. The digging process went smoothly. Not long later, they dug up a jade gene egg speckled with black dots. A weird light emanated from it. A powerful presence surrounded it. Han Sen felt
+
+it.
+
+Bald Guy said with bright and wide eyes, “If I have guessed right, this is a god-class gene race called half sky hawk. It’s its gene egg.”
+
+“What a shame. There is only one god-class gene race here.” Mister God One thought for a moment and suggested, “How about this? The half sky hawk gene egg can be considered one-half of the goods, and the skinning hide can be considered the other. I will let you choose, Brother Han.”
+
+“If you let me pick, I will have to go for it.” Han Sen receded into thought for a moment. He turned to Bald Guy and asked, “What do you think?”
+
+“The half sky hawk is good stuff. It is a rare flying gene race, but the skinning hide is rare too,” Bald Guy quietly said. “It is very good for the evolution of gene races… Whatever… Pick the skinning hide. You already have one mutant god-class gene race. Having a half sky hawk will be pointless.”
+
+“In that case, I will take the half sky hawk,” Han Sen said while pointing at the half sky hawk gene egg. Mister God One handed Han Sen the gene egg and honestly said, “OK. That actually benefits me. After all, the skinning hide is rarer.”
+
+“That’s fine.” Han Sen collected the half sky hawk gene egg. He gave it to Bald Guy and said, “I will give it to you now. When we next share things, you have already earned your share.”
+
+Han Sen had seen Bald Guy staring at the half sky hawk gene egg. It was obvious that was what he wanted. He was only thinking about what was best for Han Sen, which was why he picked the skinning hide.
+
+Bald Guy was shocked and happy. “Old Han, I am not going to say much. I will take the gene egg, and I will return the favor. From this point on, you can have everything of mine. I do not need anything more.”
+
+“Are you sure you don’t need anything? You’re not going to regret it, are you?” Han Sen looked like he was smiling at Bald Guy, but he wasn’t smiling
+
+“Ha! Ha! I, Bald Guy, keep my promises. When I say I do not need anything else, I do not need anything else.” Bald Guy touched the gene egg as he spoke.

@@ -1,0 +1,98 @@
+Title:You Are Too Weak 
+Chapter:3136 
+Section:16 
+Book:10 
+CSS:../Styles/style.css 
+viewport: width=device-width
+  
+## You Are Too Weak
+### Chapter 3136 
+<figure>
+	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
+</figure>
+  
+
+  
+  Brother Three was confused. He did not know why Sky King had disembarked. There were no big characters around him to interact with either.
+
+Brother Three quickly noticed that after emerging from the carriage, Sky King was walking toward Han Sen.
+
+“Sky King must have recognized Han Sen. He is going to teach him a lesson!” Brother Three coldly laughed. “Bald Guy wanting to be friends with Han Sen is like having a death wish.”
+
+While everyone was watching, Sky King walked before Han Sen.
+
+Bald Guy was not looking too good. He was a bit worried. His line of thinking was not too far off from Brother Three. He thought Sky King had come looking for some trouble with Han Sen.
+
+Li Bing Yu thought the same thing too, but she was rather excited. If Sky King did something to Han Sen, she could see what Han Sen’s power was really like.
+
+No one would have imagined that Sky King was going to walk in front of Han Sen and smile. He looked like a pleasant old man. He said hello to Han Sen and Bao’er in his arms. “Little Girl, do you remember me?”
+
+Everyone was shocked. They did not expect Sky King to talk to the little girl in Han Sen’s arms.
+
+“Who are you? Do I know you?” Bao’er’s answer made Mister Wei and his students look on strangely. Sky King’s expression had yet to change. He smiled at her and asked, “Little Girl, have you forgot? I gave you a beautiful pendant.”
+
+“Ah! It is you, the very nice guy.” Bao’er now understood. She pulled out the Sky Order from out of her clothes.
+
+When everyone saw the jade pendant, they were shocked. They witnessed this happening with looks of sheer disbelief. Not even Bald Guy believed it.
+
+That was the Sky Order. Besides how much it cost, it represented Sky King. It was a priceless treasure.
+
+It was hard to imagine Sky King had given Sky Order out to others, especially a girl who was only four or five years old.
+
+“What is going on? Who is this little girl? Why would Sky King give her his Sky Order? Is she royalty? Is she a child of some noble?” Brother Three had many questions he wished to ask.
+
+Sky King’s subsequent actions made Brother Three and the others even more confused.
+
+Sky King’s face was still lit up with the brightest of smiles as he greeted Han Sen. “Brother Han, I really like your daughter. I want to take her as a student. What do you think about that, Brother Han?”
+
+After he said that, everyone was in shock. They only now learned that the little girl was Han Sen’s daughter, and Sky King wanted to take her as a student. That was way too shocking.
+
+They did not think big characters like Sky King would randomly take a student. Plus, she was Han Sen’s daughter. That reminded them of many more things.
+
+“Does this mean Sky King is trying to be friends with Han Sen? What does that mean if he is? Does that mean Sky King is going to be friends with the crown prince?” Everyone had these complicated thoughts running through their minds.
+
+Han Sen smiled and said, “Although I am Bao’er’s father, accepting a teacher is dependent on Bao’er.”
+
+Before Sky King said anything, Bao’er rejected him and said, “I don’t want to.”
+
+Sky King was not mad, and he continued to smile as he replied, “Why? If you are willing to accept me as a teacher, there will be a lot of good stuff to eat and a lot of fun things to play with. There will be endless gifts for you.”
+
+“You are too weak,” Bao’er said with honesty.
+
+Those words, in the ears of others, had them believe Bao’er was ignorant.
+
+This was Sky King, who was an Annihilation God Spirit Blood-Pulse inheritor. Out of all the Qin Kingdom’s gods, there were only four Annihilation God Spirits.
+
+People were happy to admit Sky King was one of the Qin Kingdom’s top five elites. Yet, the little girl had called him weak. They thought they were ignorant people who did not know much.
+
+“I want to see what Han Sen is going to do.” Brother Three coldly laughed.
+
+Bald Guy was worried about Han Sen. He tried to remind Han Sen who he was dealing with through a glare in his eyes. He wanted to quickly go against what Bao’er said.
+
+“I am sorry, but you heard it from her, Mister.” Han Sen finally said something, but what he said only made the faces of others look stranger. They could not understand why Han Sen was not willing to accept Sky King accepting his daughter as a student.
+
+The most surprising thing about all of this was that the father and the daughter were being treated like this by Sky King, but he was not angered. He continued to smile and said, “That is fine. If Bao’er does not want to, then that is fine. Are you guys going to the Bee Planet to dig up a land pulse? Why don’t you all hop in the carriage with us? We can all go together. It will get our work done faster.” “We have so many people here,” Han Sen said. “Is that appropriate?”.
+
+“It’s fine. The more the merrier. I’d like to talk to Bao’er anyway.” Sky King looked like some sort of kind elder.
+
+Han Sen did not decline the offer. He led Bald Guy and the others into Sky King’s carriage.
+
+Brother Three and the others were frozen as they watched Bald Guy, Han Sen, and the others all climb into Sky King’s carriage. They could not accept the fact that this was happening. Sky King was inviting Han Sen and the others inside. Even the people around Han Sen were permitted into the carriage. Not even royals received that sort of treatment.
+
+“What is going on?” Brother Three gnashed his teeth. He disdainfully watched Bald Guy entering the carriage. He did not understand.
+
+It wasn’t just Brother Three who was unable to understand. Even Li Bing Yu did not understand.
+
+She understood the Qin Kingdom had conflicts. Han Sen was the crown prince Qin Bai’s friend. He was technically in the Qin Bai’s faction. That was royalty. Sky King, however, was one of the kings with a different surname. He was considered a noble. If Sky King was willing to treat Crown Prince Qin Bai like that, no one would have been surprised.
+
+But Han Sen was regarded as a pet of the crown prince. He was considered a traitor. Saying it straight, they compared Han Sen to the crown prince’s dog. They could not comprehend Sky King’s willingness to treat him that way. No one understood, but Sky King understood a lot.
+
+Although Bao’er and Han Sen had scammed him of his items, they had technically managed to save his life. If Sky King ever had to battle Han Sen, he would be the one dying.
+
+“This father and daughter are special.” Sky King looked at Bao’er as she held the white jade flying fish. He did not believe this was just a coincidence. Brother Three thought it was glorious for them to be permitted to follow Sky King’s carriage. Now, his thoughts were on a different matter. Bald Guy was a special guest of Sky King himself. He was happily sitting inside the carriage. Because Brother Three could only follow the carriage, he felt terrible. It was like a thousand eyes were on him laughing. He felt grossly uncomfortable. Sky King’s carriage was very beautiful and extremely comfortable. It was like a luxurious battleship with lots of space.
+
+“Master,” Bald Guy saw Mister Wei and bowed.
+
+Mister Wei was surprised to see Bald Guy there. He then saw Han Sen and Sky King pleasantly talking and merrily smiling as they entered. His face looked even weirder.
+
+He knew Sky King went out to greet a friend, but he never expected it to be Han Sen. And it was not just Han Sen being invited inside the carriage. Even the people next to Han Sen were invited in by Sky King. Mister Wei understood Sky King, so he was more surprised than anyone else. He knew Sky King took the carriage very seriously. Normal people were never allowed to climb on board. Even if other kings were there, they could only ride their own vehicles. Friends and family had to wait outside the carriage.

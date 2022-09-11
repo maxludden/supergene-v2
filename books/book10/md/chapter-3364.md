@@ -1,0 +1,88 @@
+Title:The Focus of Ten Thousand Races 
+Chapter:3364 
+Section:17 
+Book:10 
+CSS:../Styles/style.css 
+viewport: width=device-width
+  
+## The Focus of Ten Thousand Races
+### Chapter 3364 
+<figure>
+	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
+</figure>
+  
+
+  
+  The main and revere universe creatures watching saw the scene, no matter how stupid they were, easily guessed that the big red beast was the leader of the 15th sky, Ultimate Tail Fire Beast. The scene the geno tablet depicted was the 15th sky and its burning red sky.
+
+They did not understand why the burning red sky was exhibiting these changes. Even the geno tablet was showing the burning red sky. That was very rare.
+
+They were quickly given the answers they sought.
+
+That was because a few people were in the shadow of the geno tablet. A young man was holding a little girl, who was five or six years old. The little girl was holding a little red cat. There was also a flying fish flying around her with wings.
+
+Not many people knew about the girl and the two pets, but the man’s identity made the creatures of the main and reverse universe scream, “Han Sen! Why is he in the 15th sky?”
+
+“Dollar is finally going to do something. Who said the geno universe has nobody? What is he doing in the 15th sky? Shouldn’t he be trying to take down another sky and secure a leader seat?”
+
+“That is what Dollar God does. You can be a leader, but he will wait until you become one and dethrone you.”
+
+“Holy shit! It looks like it is real. Dollar God is going to be so powerful.”
+
+“Dollar God, you can chill out. Don’t scare off the reverse universe assholes.”
+
+The people in the geno universe kept talking. As the strongest leader of the geno universe, most of the high races and low races supported Han Sen.
+
+“That asshole! He always makes people worry.” In Space Garden, Han Yufei lifted her glasses and smiled.
+
+Qin Xuan, Tang Zhenliu, and the others who saw Han Sen and Bao’er were fine felt a huge rush of relief overtake them. They could not, however, see Wang Yuhang. That worried them quite a bit.
+
+Wang Yuhang had gone into the 33 skies to look for Han Sen. Now, Han Sen had appeared, but Wang Yuhang was missing.
+
+In the universe of kingdoms, many people spoke about Han Sen. They especially did in the Qin Kingdom. Many people saw Han Sen up there on the geno tablet, and they all looked conflicted.
+
+“That evil officer better die in the 33 skies so that he cannot come back and wreak havoc and harm on the Qin Kingdom again,” a loyal Qin Kingdom officer prayed as he gnashed his teeth in spite.
+
+“San Mu went to the 33 skies. Is he trying to take the leader’s seat?” Qin Bai looked excited. He held a bowl of seeds and kept eating them as he watched.
+
+King Qin’s face looked a whole lot more conflicted. He did not have much life left in him. With Han Sen not around, his body had become much worse. He was probably not going to live much longer.
+
+He wanted to use Han Sen and Qin Bai’s relationship to allow Qin Bai to become king, but Han Sen did not like to be ordered around. He was a headstrong character driven by his own volitions and never on the whims of others. One could not trust him much.
+
+“If Han Sen was the same as Teacher Jian, that would be great.” King Qin continued to miss his old teacher, Jian Bu Gu.
+
+In the geno hall and all the god halls, many God Spirits focused on this fight. They knew more about this than ordinary people and creatures.
+
+The geno tablet was on the same level as the geno hall. It could even replace the geno hall as a place that could be used to suppress the sky. Now, every leader in the 33 skies was considered a god figure. If there were any changes with the leader, it would have a big impact on the future.
+
+Plus, this fight now involved Han Sen. They wanted to see how far Han Sen had gone, and how far he could still go.
+
+God Hall Leader looked at Han Sen in the burning red sky with interest. He said to himself, “This guy has improved quite a bit. Can he walk out of this and carry on to face-off against Qin Xiu?”
+
+Qin Xiu, who had just been mentioned by God Hall Leader, was watching the fight too. All the world’s new leaders were watching this fight.
+
+Many leaders did not understand that even if they did assume the position of leader, there was a chance they would not remain as a leader for all of time. When Han Sen stood in front of the Ultimate Tail Fire Beast, the geno tablet exhibited a lot of movement. Everyone now realized that the leaders could be challenged and risked the prospect of losing their position.
+
+“He does not have what it takes. That Ultimate Tail Fire Beast’s Break World rate has reached 95%. How dare Han Sen think he can challenge Ultimate Tail Fire Beast.” Some people knew Ultimate Tail Fire Beast had made some noise in his time there. He had scared entire systems.
+
+“Even if he does have a Break World rate above 95%, a Break World rate is useless. He will still lose. Ultimate Tail Fire Beast is the leader of the burning sky. He is a fire Break World beast. He has the buffs of a red and fire-filled sky, yet Han Sen dares to challenge him. He must have a death wish.” A scary creature from the Chu Kingdom made a sound that shocked all of the Chu Kingdom.
+
+“Not bad. The pride of a sky leader is not easily challenged. I am afraid this kid will not even have a dead body left to bury.” Many Break World beasts of the universe of kingdoms were speaking.
+
+Ever since the Wu Wei Dao Alpha created the Wu Wei Dao Palace, humans were able to take over the universe of kingdoms. The gene races had been suppressed for a very long time.
+
+Now, that was on its head. The entire universe changed. Too many life souls were possessing the gene races, and that made the gene races jump higher on the food chain and evolve. They were starting to have a power that made them able to fight back against humans.
+
+The fight between Ultimate Tail Fire Beast and Han Sen made the Break World beasts that came from gene races willing to speak for Ultimate Tail Fire Beast. They were willing to show their power and have it serve as an example to scare off humans.
+
+There were some upset voices amidst the humans, but at this point, no one was willing to speak for Han Sen. Most people from the Qin Kingdom thought Han Sen was evil. Those from the other six kingdoms did not have a good impression of Han Sen either. They would not risk speaking positively about him.
+
+Only the Feng family castle’s Feng Fei Fei sisters and the Zhao family sisters were worried about Han Sen’s welfare.
+
+Jian Bu Gu was his usual self, tidying the garden Han Sen and Bao’er used to use. When he saw Han Sen appear on the video stream across the geno tablet, he stopped working and looked into the sky.
+
+Ultimate Tail Fire Beast flapped its wings. It opened its mouth, but it did not spit out fire. The fire, which was like an endless sea, went into his mouth. It went right into its body.
+
+It was just a beast with a body that possessed a tail that was on fire. Now, his entire body was on fire. When he sucked in the sea of fire, the fire blazed stronger. It was like a beast of fire stepping off a cliff. The cliff was melting with its feet. It made lots of steel juice drip.
+
+“It is no wonder he is a sky leader. With the red burning sky power buff, Ultimate Tail Fire Beast’s Break World rate has increased.” When someone saw this, they were shocked.

@@ -1,0 +1,86 @@
+Title:Qin Bai the Witness 
+Chapter:3111 
+Section:16 
+Book:10 
+CSS:../Styles/style.css 
+viewport: width=device-width
+  
+## Qin Bai the Witness
+### Chapter 3111 
+<figure>
+	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
+</figure>
+  
+
+  
+  Steel Scene was murdered inside Ice Snow God Temple. Gong Shu Zhi, Si Tu Ya, and Lu San Zhi were murdered inside Ice Snow City’s Steel Manor. The news was heard all over Jade Wall City.
+
+The king’s guard’s main general was a character who lived in Jade Wall City and enjoyed quite a high reputation. He was in charge of the safety of Jade Wall City, yet he was murdered inside his own house. It had been over a century since something that terrible had happened in Jade Wall City.
+
+Assassins from other kingdoms killing officers in the Qin Kingdom was not rare. For Han Sen to kill a god-blood noble like Steel Scene so obviously inside his god temple was something the likes of which had never happened before.
+
+The ripple effects of this event were likely very bad.
+
+Many high-class nobles knew about it. They knew about what had happened. They thought Feng Fei Fei and Han Sen were going to wind up injured, yet Han Sen had turned up fine. He had actually gone to Steel Manor and slew Steel Scene. When they heard the news, they were so shocked that they were rendered speechless.
+
+This thing affected too many things. Liu Xian Xian and the others quickly reported the events and summoned the elites of the king’s guard. They raced to Feng Fei Fei’s castle.
+
+le
+
+The king’s guards had 14 branches. Steel Scene was the leader of the entire king’s guards, but that did not mean he was the strongest in the king’s guards. The real power of the king’s guards resided in Zhao Long from Dragon Guard and Liu Xian Xian from the Phoenix Feather.
+
+Those two were the true might of the king’s guards. That was especially true of Zhao Long. He was considered the best among the king’s guards.
+
+Even though they were more powerful than Steel Scene, they still had to be below Steel Scene on the corporate ladder because their backgrounds were fairly average. They had no choice but to be subordinated.
+
+The Dragon Guard and Wind Feather Guard were in charge of the two areas closest to the palace. The power of those two regiments was greater than the rest of the 14 teams.
+
+Now, Steel Scene had been murdered. The 14 teams were on the move. Zhao Long and Liu Xian Xian were leading the army to Feng Fei Fei’s castle.
+
+In the beginning, they did not have much hope. It was unlikely for someone to commit such a big crime and return to an obvious place.
+
+When they reached Feng Fei Fei’s castle, they were shocked to learn Han Sen was inside Feng Fei Fei’s castle. He acted as if nothing had happened. He was just relaxing and playing chess with Crown Prince Qin Bai.
+
+“Han Sen, your method of playing chess is very interesting. We must play again.” Zhao Long and Liu Xian Xian came before Han Sen. Crown Prince Qin Bai was happily speaking to Han Sen.
+
+“Mister Crown Prince.” Zhao Long and Liu Xian Xian and all the other soldiers bowed before Qin Bai. Zhao Long said, “Han Sen invaded the Steel Manor. He murdered the main general of the king’s guard, Steel Scene, and the leader of the Thunder Lion Riders, Liu San Zhi, as well as Gong Shu Zhi and Si Tu Ya. I am going to arrest him and have him judged.”
+
+Qin Bai looked at Han Sen with shock. He then looked at Zhao Long. “Really? When did that happen?”
+
+Zhao Long answered, “Half an hour ago.”
+
+Qin Bai shook his head. “You guys must have made a mistake. Han Sen has been playing chess with me all day. He did not leave for one minute. How could he have murdered someone?”
+
+The expressions of Zhao Long and the other people with him changed. If that had been spoken by someone else, they would not have cared about it. They would have even arrested the person who had said such a thing.
+
+But this was the crown prince of the Qin Kingdom. It was Qin Bai who had said it, and he was the only child of the Qin Kingdom. They were unable to do anything.
+
+“Mister Crown Prince, are you sure you were with him all day? Did he not leave your sight at all?” Zhao Long asked with a frown.
+
+“Of course. He has been playing chess with me,” Qin Bai said in a hurried voice. “He did not leave my sight. I think someone might have wanted to disguise himself as Han Sen to commit the act. You should go and take a deeper look. Do not allow the real assassin to remain lurking out there. Otherwise, Steel Scene will have died for nothing.” He obviously wanted all those people to hurry up and leave.
+
+Zhao Long did not believe the words of the famous and spoiled crown prince, but his identity was too noble. He had to bite his tongue and just say, “Mister Crown Prince, thousands of guards and their family members witnessed Han Sen murder people. If this was really a setup, he has to come and help us with the investigation. If it is a setup, we can prove his innocence.”
+
+Qin Bai pointed at Zhao Long and the others while he shouted, “Asshole! Are all you people in the king’s guard rubbish? Are you all idiots? The king’s guard is in charge of the kingdom’s safety. He was the general of the king’s guard, yet he was murdered at home. You guys cannot even protect yourselves. Is there any point in keeping the rest of you employed? The Qin Kingdom’s safety depends on you trash people protecting us all. I am afraid if someone invaded the palace and cut off my head and my father’s head, you guys would have no clue what happened.” “My apologies.” Zhao Long and the others kneeled to make their apology. The main general of the king’s guard had been murdered. That was a humiliation the king’s guard had never had to endure.
+
+“Get lost!” Qin Bai madly shouted. “I told you I was with Han Sen the entire time. He cannot be the murderer. Hurry up and find the real murderer, you useless people!”
+
+Zhao Long and the others looked worried. They knew they could not take Han Sen away. Qin Bai’s identity was special. If he was Han Sen’s alibi, it did not matter if it was true or false. This boy could not be held up to scrutiny. Zhao Long and Liu Xian Xian looked at each other. They bowed and made their exit from the Feng family’s castle.
+
+If this was another kingdom, it might have been entirely suppressed. Since he was the only heir of the king and the future king of the Qin Kingdom, there was 80% to 90% that this incident was going to be suppressed.
+
+The Qin Kingdom was different. Qin Bai’s identity was a noble one, but the Qin Kingdom respected its laws. Even Crown Prince Qin Bai was not able to do whatever he wanted.
+
+It might have seemed like Zhao Long and the others left, but they did not really leave. They kept some of the king’s guards there to protect the castle. They surrounded the entire castle and reported what happened. They waited for a response from their supervisors.
+
+Before they decided anything, they were not going to allow Han Sen to leave their sights.
+
+The news quickly spread across the kingdom. Many of the government officials thought Qin Bai was a terrible and spoiled crown prince. They believed he was going to be a bad king.
+
+If this had happened in another kingdom, the situation would have been different. No matter how many mistakes a royal made, it was not something the officers could talk about. Insulting them was not tolerated.
+
+The Qin Kingdom was very unique. Although everyone knew the Qin Kingdom’s laws were very twisted and unfair, Qin Kingdom’s officers were the people who took the law seriously and dared to speak up. Even if the king did something against the law, the government officers yelled at him for being a bad king. The king and the older officials would only listen and gnash their teeth. They still had to compliment the bravery of the officers. Otherwise, it would have gone against what everyone wanted. They did not want tyranny and bad kings.
+
+The Qin Kingdom’s officers were proud of that. Because the current king was so forgiving and kind, this criticism of the royals was very popular. The Qin Kingdom was obsessed with order, and it was crazy about its law system. This twisted law system created the Qin Kingdom but also restricted it.
+
+Steel Scene being murdered was a hot topic. Qin Bai had angered many officers. The officers who thought they were very righteous even delivered suicide notes that stated if the king did not kill Han Sen, they would kill themselves in court.Of course, it meant what it meant, but it was not written down like quite that.

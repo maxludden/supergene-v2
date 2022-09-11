@@ -1,0 +1,108 @@
+Title:Water God Level Up 
+Chapter:2350 
+Section:11 
+Book:7 
+CSS:../Styles/style.css 
+viewport: width=device-width
+  
+## Water God Level Up
+### Chapter 2350 
+<figure>
+	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
+</figure>
+  
+
+  
+  Katcha!
+
+The gold light spun. Han Sen’s hands were so strong that he managed to pull two of the dragon’s teeth right out.
+
+The silver-winged dragon raised its head and shrieked. Blood gushed from the gaps of the missing teeth. The dragon blood diffused into the sea, dying that portion of the water red.
+
+Han Sen was now holding two dragon teeth in his hands. He swam through the water toward the dragon again, then threw the two broken-off teeth into the dragon’s belly.
+
+The silver-winged dragon curled its body in pain at the blow. It really wanted to bite Han Sen, but when it lowered its head, a gold fist smacked into its jaw.
+
+The dragon’s huge body was sent soaring away with the force of the punch. It floundered through the air, still writhing in pain.
+
+Han Sen looked at what his fist had done, and he could scarcely believe it. His power was so strong when it combined with the power of the Kingese. He had managed to break the silver dragon’s king area with a punch and send the beast flying.
+
+A powerful King creature didn’t stand a chance in rivaling Han Sen’s newfound strength. It was difficult to imagine how strong he had become under the buffing of the Kingese.
+
+As a Ghana woman was sailing over the ocean, the surface of the water suddenly exploded in front of her. The water fountained up like a spring, and a silver dragon flew out of the sea, screaming. Its body was twisted and bleeding all over.
+
+Xius’ face paled. “That’s a silver-winged dragon, a King class xenogeneic!”
+
+Before Xius could compose a second thought, a gold shadow emerged from the water in pursuit of the dragon.
+
+The gold shadow chased after the silver-winged dragon, throwing punches with blinding speed and power. The dragon was taking a pummeling from pure physical power.
+
+The dragon’s silver king area was ripped apart by the attacker’s fists like a soap bubble being popped. The silver-winged dragon’s blood and scales were flying everywhere. Sharp cracking sounds echoed over the water as the dragon’s bones started to break.
+
+Katcha!
+
+With its bare hands, the gold shadow ripped the dragon’s head off its body. The beast’s blood sprayed across the sky and descended like rain.
+
+“Han Sen!” When Xius got a better look at the attacker, her eyes widened in surprise.
+
+When she met Han Sen among the Dragons, he could barely fight Dragon Nine. Now, he had just killed a silver-winged dragon with his bare hands. That was unexpected, to say the least.
+
+“Xenogeneic King hunted: Silver-Wing Dragon. Xenogeneic gene found. Obtained Silver-Winged Dragon beast soul.”
+
+Han Sen was left clutching the dragon’s head. He punched and the dragon’s skull cracked open, revealing a draconic orb that fell into Han Sen’s hand. It was the silver-wing dragon’s xenogeneic gene.
+
+Han Sen put away the dragon orb and looked over at Xius. He looked happy.
+
+The Kingese started to fade, and Han Sen moved over to Xius.
+
+“Long time no see, Han Sen. I can’t believe you have become this strong,” Xius said, her voice friendly but her body slightly tense.
+
+“You have the wrong person. I am Bai Yi, Sixteenth Prince of the Extreme King,” Han Sen said harshly.
+
+Xius looked surprised. She looked up at Han Sen with evident confusion.
+
+Han Sen didn’t explain anything further, and he asked Xius, “Why are you here? Have you seen any other creatures about?”
+
+Ancient Water God had brought Han Sen there, summoned a water dragon, then disappeared. Han Sen had no clue where he currently was.
+
+Xius shook her head. “Ancient Water God showed himself. He is going to level up to become a god spirit in Half-Star Bay. Everyone in the vicinity is headed there, but I’ve come all this way and I haven’t seen anyone.”
+
+“Half-Star Bay?” Han Sen frowned, as he didn’t know anything about the place.
+
+“I am going there right now. If you’re willing to come, Prince Sixteen, we can travel there together,” Xius offered.
+
+“Okay.” Han Sen nodded.
+
+“Why are you here, prince?” Xius didn’t believe his claim that he wasn’t Han Sen, but she also didn’t challenge him on it. When she spoke to him, she referred to him as Prince Sixteen.
+
+“I was just out for a nice swim.” Han Sen had no intention of explaining how the Ancient Water God had dragged him out there.
+
+After pausing, Han Sen asked, “There are so many creatures here that are hoping the Ancient Water God will fail. Won’t that make him angry?”
+
+Xius smiled and said, “Ancient Water God is known as the God of Life. He never kills. People here are happy to watch him ascend, and it’s not as if people are going to disturb his leveling up process. He won’t get mad.”
+
+Han Sen thought to himself, “Ancient God is an interesting race. If I had p*ssed off any other deified elite, they definitely would have killed me. He left me out there and sent a silver-winged dragon after me once I woke up, but it seems that he didn’t really want me dead.”
+
+Han Sen traveled with Xius all the way back to Half-Star Bay. As they approached, they noticed giant waves rolling across the sea. The waves were so high that they seemed to soar across the sky like dragons, and they got taller and taller as time went on.
+
+The clouds seemed to rip apart, reducing to whiffs of nothing. In fact, dimensions were twisting across the entire planet, and strange scenes unfolded everywhere Han Sen looked.
+
+“We are too late in reaching Half-Star Bay. Ancient Water God is already in the middle of leveling up to become a god spirit.” Xius sighed. They pulled to a stop.
+
+Han Sen kept watching the twisted sky. It looked like something was about to appear in the twisted clouds.
+
+The wavy seas suddenly all surged in one direction. A giant body was forming on the horizon, pulling its mass from the seawater.
+
+All the water on the planet was being drawn to Ancient Water God, and his body swelled bigger and bigger.
+
+The endless sea dried up quickly, leaving the creatures in the ocean gasping on the dry seabed. Without water, their death came in minutes. Ancient Water God’s body stood so tall that it looked like it was holding the sky. The massive figure turned its head up, looking at the sky above.
+
+“Water is life. It is at the basis of everything. I am an ancient spirit. I am the god of water. I crush the world in the name of the water, and I will earn the body of a god spirit.” Ancient Water God’s voice echoed far beyond the planet he stood on. Throughout the universe, wherever there was water, the Ancient God’s power began to flow. It was like all the sources of water were giving their powers to him, right then and there.
+
+The water of the universe was now all moving, headed for Ancient Water God’s body, strengthening him. The terrifying sight made many King class beings want to kowtow before him.
+
+Boom!
+
+The fabric of space was torn, and an old and mysterious palace was revealed. When it emerged, the water of the galaxy came to a stop. Every drop of water that was going to Ancient Water God hovered in place.
+
+“The geno hall?” Han Sen was shocked. It was the second time he had seen the geno hall. The last time he saw it was when Kong Fei started a war.

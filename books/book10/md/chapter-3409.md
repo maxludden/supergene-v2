@@ -1,0 +1,90 @@
+Title:Convincing 
+Chapter:3409 
+Section:17 
+Book:10 
+CSS:../Styles/style.css 
+viewport: width=device-width
+  
+## Convincing
+### Chapter 3409 
+<figure>
+	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
+</figure>
+  
+
+  
+  Han Sen watched Bao’er from afar, but he made no plan on seeing her.
+
+The geno tablet’s voice sounded in Han Sen’s brain. “Your daughter’s genes are very good. Just wait until her genes have officially combined with the geno seed. She will most certainly be able to walk that step. Her gene’s completion is better than Qin Xiu’s. If she joined the geno tablet fights, she would be able to defeat Qin Xiu.”
+
+Han Sen did not speak. He did not look happy. After a while, he spoke to the geno tablet. “I take back my request. Please, no matter what, do not permit Bao’er to join the geno tablet fight.”
+
+“Why not?” the geno tablet asked. “Her genes are the most perfect in this entire universe. I would like her for a host. There is a big chance she would be able to control the whole universe. She would become the master of the entire universe.”
+
+“None of that matters to me,” Han Sen said. “Her becoming master of the universe means nothing to me. I just want her to be safe, happy, and able to live a fulfilling life.”
+
+After thinking for a moment, the geno tablet said, “From what I know, you and Qin Xiu are like water and fire. If Bao’er does not join, Qin Xiu will be the geno tablet’s master. He will then control the entire universe. The situation will become much worse, even for you. Bao’er will have to fight him, but her chances of winning will be low.”
+
+“I thought you said I have a chance of beating Qin Xiu,” Han Sen coldly said.
+
+“That was just an expectation of mine,” the geno tablet said. “I have no genuine idea what the actual chances of you winning are. The evolution of your genes is too weird and erratic, so it is difficult to accurately predict your chances. Maybe you will win, but maybe you will lose.”
+
+“In that case, let’s resume our conversation after I lose. First, you must help me. No matter what the circumstances are, do not allow Bao’er to join the geno tablet fights.” Han Sen made his mind up.
+
+“That… The rules cannot be changed. If Bao’er challenges a leader before the geno tablet fights start, aside from Qin Xiu, other leaders will not be able to stop her from becoming a leader.” The geno tablet looked glum as it spoke.
+
+“If this is easily sorted, why would I beg you? Just help me out, would you? I believe you have a way around this.” Han Sen smiled.
+
+“Fine,” the geno tablet said. “I can think of a way that will allow me to do this without breaking the rules. After I help you, I need to stay in sky clock, and you need to stop talking nonsense.”
+
+“You, Sir, have a deal.” Han Sen looked at Bao’er trying to connect with the gourd seed.
+
+Chaos, who was wearing black crystal armor, was watching over her. She taught Bao’er what to do. Chaos was not as strong as she was before, but her knowledge was still top-class. Even Han Sen did not know as much as she did.
+
+“Oh, wow! Dad, I cannot believe you are here. When did you get here?” Bao’er saw Han Sen and happily went over to see him. She held on to Han Sen.
+
+Chaos looked at Bao’er with jealousy. She felt rather upset about Bao’er’s connection to Han Sen. She and Bao’er recognized each other, but Bao’er was not as close to Chaos as she was to Han Sen.
+
+She was the biological mother, but she was not as close to her as Han Sen, who was only her stepfather. That made Chaos sad.
+
+But Chaos was not a jealous person. Plus, Han Sen was the one who raised Bao’er. He had treated her like a real daughter, so she could not hold contempt for Han Sen.
+
+Upon seeing Han Sen approach, Chaos said, “You are not doing too bad for yourself. You got the leadership position of Time Sky. You might be able to help Bao’er erase some unnecessary troubles.”
+
+After pausing, Chaos checked out Han Sen’s body and said, “Your power has surprised me. You were able to block a lot of time power. Does your body wield time-element gene powers?”
+
+“As a matter of fact, I did do some practicing with time element geno arts in the past,” Han Sen replied.
+
+Chaos nodded. “You are not too bad. It is a shame your soul genes are too weak. If you were able to reincarnate a few more times, perhaps you would be able to take the final step.”
+
+“After spirits are reborn, won’t their past life memories be erased?” Han Sen asked.
+
+Chaos laughed. “Ordinary spirits will not take their memories over to the next life, but some powerful life forces can adopt soul gene changes like Qin Xiu and me. We reincarnated, but we are special. We are stronger. Every life you have will be better than the last, but it does take a lot of requirements. Your life force would need a lot, so ordinary life forces cannot achieve this. When you had the geno prototype stone, I tested your soul genes. It is a shame your soul genes are so average. You do not have any past life memories. That means your soul and whatever you were in a past life is no more. Just one lifetime of experience will not allow you to complete the last step.”
+
+Han Sen did not say anything, which was probably because he knew he wouldn’t be able to walk that step. The geno tablet had already told him he might be treading a new path of evolution. Perhaps it was not even a path.
+
+Bao’er looked upset and said, “You cannot say that to my father. If my dad does not walk that step, that is only because he does not want to. If he wants to take it, he absolutely will. My cad is the strongest.”
+
+Chaos frowned. She could tell Bao’er had relied on Han Sen far too much. That sort of dependence was too much. It was beyond the realms of sense now. For Bao’er’s growth, that was not a good thing.
+
+As her daughter and the heir to that man, Bao’er was the most perfect lifeform in the universe. She should have been very proud of herself. She should not have been constantly relying on Han Sen the way she was.
+
+Chaos moved her lips, but she did not say anything. She understood why she was mad when Bao’er spoke that way to Han Sen but did not call her Mom. If she said something more negative about Han Sen, Bao’er would only become more upset.
+
+Compared to the relationship Bao’er had with Han Sen, Bao’er would only hate her more. It was a shame considering she was her biological mother.
+
+Han Sen stroked Bao’er’s head and smiled. “Bao’er is right. If I want to, I will be able to. Don’t you worry about a thing. I will not allow anything to harm my baby daughter. Not Qin Xiu or even the gods themselves will harm her.”
+
+“You really love Bao’er, don’t you?” Bao’er was very happy. She gave Han Sen a kiss.
+
+Chaos felt terrible about this. She thought, “Maybe Han Sen is being honest. I do not doubt that but having such absolute faith does not always guarantee success. Aside from Bao’er, no one else can defeat Qin Xiu. If Han Sen fights Qin Xiu before Bao’er, he will fight Qin Xiu hard. That will be bad. If he dies, Bao’er will be heartbroken and no longer be able to fight Qin Xiu with a still heart. No, I must convince Han Sen to not do anything I would deem dumb.”
+
+Chaos said, “Bao’er, you should go and practice. Me and Han Sen have something we need to do.” She then performed a gesture to Han Sen.
+
+Han Sen knew Chaos had something she wished to say to him. He stroked Bao’er’s hair and said, “Go on, Bao’er. You go and practice. I will take you home later. Let’s have dinner with Mom, Littleflower, and Ling’er.”
+
+“Cool! I miss my mother, sister, and brother,” Bao’er merrily agreed. She jumped off of Han Sen and went to practice.
+
+“Chaos, what is it you want to tell me?” Han Sen and Chaos walked far away from Bao’er before the question was asked.
+
+Chaos looked at Han Sen with a serious expression and said, “I know you love Bao’er, and I know you treat her like a biological daughter. If you really want what is best for her, you should promise me something. In the geno tablet fights, if you encounter Qin Xiu before Bao’er does, you must quit. You cannot allow Qin Xiu to kill you. That will distract Bao’er. Perhaps winning would mean losing. You do not want bad things to happen to Bao’er, right?”

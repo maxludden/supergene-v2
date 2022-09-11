@@ -1,0 +1,96 @@
+Title:Sea Demon Car 
+Chapter:2452 
+Section:12 
+Book:8 
+CSS:../Styles/style.css 
+viewport: width=device-width
+  
+## Sea Demon Car
+### Chapter 2452 
+<figure>
+	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
+</figure>
+  
+
+  
+  Bao Qin’s long fingers strummed the harp in his hands, and the notes he played were like waves of substance chains. They spread out through the clouds, and the sea of blue clouds moved and vibrated with the rhythm of the harp’s music.
+
+The clouds weren’t the only things responding to the music, either. Every substance, including sets of armor, weaponry, and xenogeneic treasures, began to physically twist and warp under the spell of the harp’s song. They became as limp as cooked noodles, waving along with the melody of the harp.
+
+The large bodies of the giant cloud dragons were deformed by the music, and with every new, twisting note, more of their bones shattered. Before long, the great dragons had been reduced to boneless meat sticks. The sight made Han Sen’s scalp prickle.
+
+He didn’t know what sort of sonic substance chain power Bao Qin was wielding, but it was crushing every single thing in sight. It was way too scary.
+
+Even with that power, Bao Qin was far from having the upper hand. That black form of the demon spirit kept flashing between the sonic forces. Han Sen couldn’t see what sort of Area it had employed, but the creature’s powers seemed to be protecting it against Bao Qin’s deforming power. However, Bao Qin’s attacks were slowly reducing the demon spirit’s speed and power.
+
+The demon spirit’s eyes were like those of a ghost, and they stared unblinkingly at Bao Qin. Bao Qin met the gaze of the demon spirit many times, but Han Sen didn’t dare use his new beast soul to jump into the demon spirit’s eyes.
+
+Han Sen didn’t know how strong the Blood Eye Evil God’s power truly was, and he didn’t know what sort of powers were able to restrict it. That demon spirit had demonstrated frightening abilities so far, and so Han Sen gave up on the idea of entering its eyes.
+
+As the fight went on, Han Sen quickly realized something depressing: Bao Qin wasn’t the demon spirit’s equal. The monster was slowly boxing him in.
+
+Bao Qin made many attempts to escape, but try as he might, he couldn’t shake off the demon spirit. The situation was growing increasingly dangerous for the Extreme King.
+
+Han Sen was hoping that Bao Qin and the demon spirit would end up injuring each other equally, so that Han Sen could swoop in and finish them both. But it had become evident that there was too much of a power gap between the two fighters; Bao Qin didn’t stand a chance of even injuring the demon spirit.
+
+If Bao Qin was killed, the protection that his eyes offered Han Sen would be destroyed. Han Sen would have to make a getaway. When that happened, the demon spirit would probably target him.
+
+Even if Han Sen wanted to make an escape now, his opportunities to do so had mostly disappeared. All the cloud beast xenogeneics had either died or run away. Bao Qin wasn’t going to be meeting the eyes of another creature anytime soon, and so Han Sen couldn’t escape using his Blood Eye Evil God beast soul.
+
+That beast soul could only interact with the eyes of others. It didn’t have mirror powers like the ones that Miss Mirror used. If Han Sen wanted to escape unseen, he needed his host to make eye contact with another.
+
+Pang!
+
+The demon spirit landed a blow across Bao Qin’s chest, tearing his armor. The godly muscles of Bao Qin’s jade-like chest were shredded, and blood welled within the wound.
+
+But the godly blood didn’t spill out. The blood became black, smoky dust that rose like steam. It billowed up into a small, rather unsettling cloud.
+
+Seeing the smoky, dust-like god blood, the demon spirit licked its lips hungrily and teleported over to Bao Qin.
+
+Ding!
+
+One of the strings of Bao Qin’s harp broke, and a new burst of blood turned into smoke and opened like a flower amidst the clouds.
+
+“Bao Qin isn’t going to survive this…” Han Sen made his decision. He turned off the Wanjie Rubix Cube, and when the injured Bao Qin met the gaze of the demon spirit, he jumped into the demon spirit’s eyes.
+
+“Please let this work,” Han Sen prayed desperately. The eyes of the demon spirit were like the soulless eyes of a shark. They were red like fire. They looked rather transparent. Han Sen didn’t know if the Blood Eye Evil God beast soul could find refuge within them.
+
+In the next second, Han Sen realized that his vision had indeed changed. When he realized that he was looking directly at the injured Bao Qin, happiness and relief flooded through him. He knew he was now residing inside the eyes of the demon spirit.
+
+Looking out from the demon spirit’s eyes was different than Han Sen had initially imagined it would be. Because the demon’s eyes were so red, Han Sen had thought that looking through them would provide a view that was tinted and murky.
+
+But instead, the view from the demon’s eyes was actually entirely black and white. Everything Han Sen could see was a blur of various shades of grey.
+
+It took Han Sen only a moment to realize that his eyes couldn’t keep up with the eyes of the demon spirit. He used his Purple-Eye Butterfly to lessen the disparity between his vision and the demon spirit’s, and the images before him quickly resolved. Unless he had the Purple-Eye Butterfly active, it was like looking out of a high-speed train with an extremely narrow field of view. Everything he saw on the outside zoomed by at incredible speed, and objects became blurry and difficult to make out.
+
+With the Purple-Eye Butterfly, though, Han Sen could see everything. The demon spirit hovered in front of Bao Qin. Every string on the man’s harp was broken, and the demon spirit’s ghost-like hands then went through the harp to pierce right into Bao Qin’s chest.
+
+The smoke from Bao Qin’s deified blood was spreading. Bao Qin gritted his teeth, and his body released a very bright light. The man’s fingers reached for the stringless harp.
+
+Then, some invisible strings appeared beneath his fingers. Every string released a weird sonic power that tore through space to create a giant space vortex. The vortex pulled in the nearby clouds, and then it began to pull on the demon spirit and Bao Qin himself.
+
+In order to resist the force of the vortex, the demon spirit had to teleport away. Bao Qin’s body, on the other hand, was sucked into the space vortex. After a short amount of time, the space vortex disappeared.
+
+The demon spirit grunted coldly. It turned around and returned to its Sea Demon Car. The giant cloud dragons were all dead, so the carriage was simply hanging in place.
+
+The demon spirit waved its hand, and the cloud sea began to roll. The clouds became tornados that drew in and consumed even more clouds. Soon, the tornados transformed into new cloud dragons that flew over to the Sea Demon Car.
+
+Han Sen was frozen. The powers and techniques of this demon spirit were crazy. It was difficult for Han Sen to comprehend the power it must have taken to summon so many cloud dragons so quickly.
+
+“I cannot let him find me. Even blinding him wouldn’t be enough to let me escape successfully,” Han Sen believed.
+
+The demon spirit was back inside the Sea Demon Car. The carriage turned and headed for the deep sea of the clouds.
+
+The xenogeneics and cloud beasts all around were now dead. All that remained was the carriage that the demon spirit traveled in. The Sea Demon Car had remained undamaged through the entire fight; Han Sen couldn’t imagine what material it must have been made of.
+
+Han Sen wanted to use the eyes of the cloud dragons to leave, but the cloud dragons didn’t dare to look directly at the demon spirit. The demon spirit didn’t look at them, either, and so Han Sen couldn’t find the opportunity he needed.
+
+“There is no need to worry. As long as the demon spirit doesn’t notice me, he will eventually look into the eyes of another creature. Sooner or later, I will be able to escape.” As the demon spirit continued to remain oblivious to Han Sen’s presence, Han Sen finally began to relax.
+
+Inside the stone carriage, the demon spirit stared forward without closing its eyes. Perhaps the creature’s eye simply couldn’t be closed.
+
+As he looked through the eyes of the demon spirit, Han Sen could see the interior of the stone carriage. Words were written across the stone walls.
+
+Because the demon spirit’s vision was completely black and white, Han Sen couldn’t tell what the true colors of the words were. Most things that Han Sen looked at were represented by grey tones.
+
+The words had been written in a tiny script, and each letter was no bigger than a fly. But when Han Sen looked closer, he realized that the words were all ancient and strong. It was like there was an infinite, amazing universe residing within them.

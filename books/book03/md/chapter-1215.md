@@ -1,0 +1,86 @@
+Title:Equinox Hellpool 
+Chapter:1215 
+Section:3 
+Book:3 
+CSS:../Styles/style.css 
+viewport: width=device-width
+  
+## Equinox Hellpool
+### Chapter 1215 
+<figure>
+	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
+</figure>
+  
+
+  
+  “You can take it?” Han Sen asked.
+
+“Even though it is associated with the element of space, its existence was wrought with thorn genes. I am associated with the element of thorns, and I am a king spirit. While it is still young, I can take it.” Thorn Queen paused for a moment, before going on to say, “With this flower, I might even become an emperor. Although the chance of that occurring is low, it is better than leaving it here for naught.”
+
+“If you can take it, then by all means do,” Han Sen politely told her. If she could really become an emperor, it was a win-win for them both.
+
+“Thank you.” Thorn Queen looked incredibly happy, and she jovially pranced over towards the hellpool.
+
+Han Sen watched as her legs began to grow vines. They stroked the water, allowing her to glide across to where the flower was. The pool was only ten meters wide, and the flower was at its center. But strangely, she had to walk over ten thousand steps in her voyage towards it.
+
+“Weird,” Han Sen thought to himself.
+
+Bao’er sat on Han Sen’s shoulder. She looked at Thorn Queen and the flower, but she did not seem at all interested in it.
+
+Snowball watched Thorn Queen, too, but his attitude was different. He knew about this place, and the mysteries it held, so he was more than surprised to see that Thorn Queen had the ability to cross the hellpool. He had never seen another being able to do such a thing before.
+
+As for the egg, it had not rolled itself there, so something must have had a hand in its placement.
+
+Perhaps the mother Ghost-Toxic Chi had some association with the pool, but without appropriate cause or reason, it seemed unlikely that a mother would place her egg here, of all places.
+
+Snowball could go there because he was special, and he didn’t think there was any danger for him, as long as he did not venture too close to the flower.
+
+Amidst Snowball’s surprise, Thorn Queen had managed to reach the flower and pick it up. The flower had no roots, and it was very much like a cut rose one could purchase. It looked like a simple act to the eyes of most, but it was something that shocked Snowball.
+
+Snowball had seen many other super creatures attempt to grab the flower, but they had disappeared into the nether. And now, it had effortlessly been picked up by someone he had never seen before.
+
+Han Sen was disappointed, though. She made the flower sound so mysterious, but there was no spectacle when she retrieved it. But directly after the flower was collected, a snake-like creature appeared. It swam towards the flower that had been collected with great haste.
+
+The waters swirled to form a wave that splashed towards the flower. But when the waters surrounded it, they formed together to create a single waterdrop. Then, it gracefully fell inside.
+
+“Master! I will keep the egg in the hellwater. You may take it whenever you decide,” Thorn Queen said as she took the flower.
+
+“Okay. Understood.” Han Sen then returned Thorn Queen to the Sea of Soul and took Bao’er with him as he exited the cave.
+
+Dragon King, as all this had been occurring, was still looking for the egg by himself. Han Sen went to sit someplace where he wouldn’t be bothered and started to absorb the Ghost-Toxic Chi’s Life Geno Essence.
+
+> “Life Geno Essence Absorbed; Super Geno Point +1.”
+
+The Life Geno Essence provided Han Sen five super geno points, in total. This brought his total tally up to the number of thirty-three.
+
+The results of this venture had satisfied Han Sen a lot. He had obtained toxic gear and five super geno points, and he had managed to obtain a new pet in the form of Snowball.
+
+The Equinox Flower and the possibilities it held were just the icing on the cake. If it hadn’t been for the flower, he wagered Thorn Queen would not have finished her evolution yet.
+
+“Where is it? Where is it? Did you find it?” Dragon King said.
+
+He had looked into every nook and cranny but been unsuccessful in his search for the super creature egg.
+
+Han Sen knew this, and he told him, “Nope. I’m starting to think we’ll never find it, either. If you tell me the whole story, concerning Asura and Ancient Devil, I might be more inclined to continue the search and feel compelled to help you out.”
+
+Dragon King said to Han Sen, “Isn’t that convenient. I bet you already have it, don’t you?”
+
+Han Sen responded by saying, “Before I let you out, I didn’t even know what a dummy egg was. How would I know which is the correct egg, even if I did come across it?”
+
+Dragon King didn’t believe Han Sen, though. If he hadn’t found the egg, he wouldn’t have offered such a bargain. But Han Sen didn’t care too much about what he thought.
+
+“Tell me the story and I’ll help. That’s the bottom line here,” Han Sen said.
+
+Han Sen thought he’d be willing to do anything for a new body, but Dragon King simply gritted his teeth and returned to the ring of his own volition.
+
+“What happened, I wonder? Why is he not willing to say a word about this matter?” Han Sen thought to himself.
+
+Han Sen only wanted to find out the relationship between the shura and Asura.
+
+If he could figure out the connection there, it’d help elucidate many other pressing questions and mysteries he had.
+
+But with Dragon King still firm in keeping his mouth shut, there was nothing Han Sen could do right now. So, Han Sen turned his attention back to Snowball and said to him, “Take me to the peak.”
+
+Snowball looked scared, and he shook his little head.
+
+Han Sen knew this creature was something of a wimp, so he ended up having to use the contract to force Snowball to lead him up. Snowball no longer had a choice regarding anything anymore.

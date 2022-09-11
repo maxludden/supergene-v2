@@ -1,0 +1,84 @@
+Title:Snake Fish King 
+Chapter:513 
+Section:2 
+Book:2 
+CSS:../Styles/style.css 
+viewport: width=device-width
+  
+## Snake Fish King
+### Chapter 513 
+<figure>
+	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
+</figure>
+  
+
+  
+  Han Sen was hiding inside the ice cave, biting the meat jerky as he observed the situation from the gap he kept deliberately.
+
+A large number of snake fish started to climb out of the ice River and reached the beach covered in ice. More and more fish arrived, yet no one knew what they were trying to do. More than a thousand people had gathered from the Blackgod Shelter, hunting the snake fish that had arrived.
+
+Snake fish looked like sea snakes. In fact, different from snakes, they did not have fangs or any teeth.
+
+Because they were covered in slime, weapons would easily slide on their skin. If one was entangled by the creature, its sharp scales on the stomach could even break one's bones.
+
+If there were not a huge group hunting snake fish together, a small number of people would easily be besieged by the snake fish and killed. Ordinary people did not have the conditions to kill them. Only a large force like Blackgod could organize some new people to hunt snake fish together.
+
+Because the sacred-blood snake fish king had not appeared, the strong evolvers with a fitness level above a hundred including Blackgod himself did not make a move. All they did was to lead thousands of evolvers to hunt the creatures on the beach.
+
+The primitive snake fish were all black. Occasionally, some larger snake fish with a golden lion on their back could be spotted, which were the mutant ones.
+
+Han Sen had not seen the sacred-blood fish king, but he heard that the fish king would be smaller in size, even smaller than primitive ones. It was probably around the size of an ordinary cobra.
+
+Because of this, Han Sen wanted to steal the sacred-blood snake fish king. If it were bigger, he could not take it away even after he stole it. The sacred-blood snake fish king was perfect in size.
+
+There were 2 to 3 days from the snake fish arriving at the shore until they returned to the ocean, so Han Sen was in no rush.
+
+The cold inside the ice cave did not have much of an effect on him. However, he was uncomfortable crawling and had to use Jadeskin to make himself feel better since he could not move.
+
+Luckily, the second day since the snake fish came to the shore, Han Sen heard exclaims among the crowd. He quickly looked into the gap and saw a large ball of snake fish had arrived at the shore. On top of the ball, a small dark red snake fish was standing with its head up. The dark red snake fish was a bit more than 6 feet long. Standing on top of the wall, it had a pair of fins or wings on the back of its head. As the fins moved, it made a weird noise.
+
+"The sacred-blood snake fish king had eventually arrived." Han Sen suddenly became excited, observing the condition on the outside. Once he had an opportunity, he would go ahead and catch the snake fish king.
+
+He had even planned the route to escape. Currently, it was the snake fish season. For the snake fish to arrive, so there were no other creatures in the ocean nearby.
+
+After Han Sen took the snake fish king, he would rush into the ocean. Riding on the silver eel, he could escape with ease. As many people as Blackgod Shelter had, they could not catch up with him and had to watch him go.
+
+After the snake fish king appeared, the other snake fish became even crazier, rushing to the floor. The advanced fighters at Blackgod Shelter eventually moved. Five or six evolvers with fitness above 100 killed their way toward the fish king, led by Blackgod.
+
+Other people continued to guard their own positions, killing the other snake fish. They did not look nervous at all. Obviously, they were quite experienced.
+
+Blackgod and his fellows rushed out, and primitive snake fish could not block their way at all. Very soon, they were approaching the snake fish king. Snake fish king issued a strange squeak and bounced itself into the air. Its fins moving, it flew in the sky like a bird.
+
+Its little wings were too small. On the back of its head, they looked like a pair of ears that were slightly bigger. Unexpectedly, it could fly with the wings.
+
+Blackgod and the rest were besieging the fish king. As they hit it with their weapons, their weapons obviously slid off. They could not kill the creature in a short amount of time.
+
+The snake fish king was a hundred times more slimy than an eel. Even sacred-blood beast soul sword would slide off its body, not leaving any marks.
+
+Even Blackgod's Tornado Knife did not work on it, which made Han Sen feel quite surprised. If they could not hurt the snake fish king, how did Blackgod and the rest kill it in the past years?
+
+Those people did not use any special method but attacked the snake fish king together while killing the primitive snake fish that were approaching them.
+
+After watching for a while, Han Sen could guess what they were trying to do. Although that snake fish king could fly, obviously it could not last long in the air since it took more than the little wings to fly.
+
+The first time when it was flying, it could maintain about fifteen minutes in the air. However, gradually, it could last shorter and shorter in the air and had to land.
+
+In the air, he did not have any point of force application. However, when it was on the land, there were points of force application. When the weapons cut it again, they would not slide off that easily.
+
+After watching for more than half an hour, Han Sen noticed that the snake fish king was weaker and weaker. He knew that it was his opportunity, took away the snow on the outside, and climbed out of the ice cave.
+
+Currently, it was the key moment for him to hunt the snake fish king. Because the snake fish king had felt ominous and continued to scream, which made the cluster of snake fish even crazier. Everyone was doing their best to hunt the snake fish, and no one had extra energy to look at other people.
+
+In addition, they had already cleared the space and blocked the way to the beach, so there was no way they could expect an outsider present.
+
+Han Sen got inside the group of thousands of people, and no one found he was an outsider. Han Sen killed several snake fish casually and gradually approached.
+
+Blackgod and the rest had already circled the snake fish king in different directions, for fear that it might escape into the ocean. It was harder and harder for the snake fish king to fly. It looked like it was about to be dead.
+
+Once it lost the ability to fly and could only wiggle on the ground, it would be easily killed.
+
+Han Sen gradually approached Blackgod and his mates, focusing his eyes on their moves. Han Sen thought, this is a good opportunity. If I could kill Blackgod here, then Blackgod Shelter would have no leader, which would make it much easier for me to conquer the shelter.
+
+Initially, Han Sen only wanted to steal the snake fish king. Now that he had an opportunity to assassinate Blackgod, he would not let it go. Han Sen focused on Blackgod first.
+
+Very soon, the fish king could no longer fly. Blackgod was overjoyed, found an opportunity, and rushed to cut it in half.

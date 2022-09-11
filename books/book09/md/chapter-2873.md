@@ -1,0 +1,74 @@
+Title:Han Sen's Challenge 
+Chapter:2873 
+Section:14 
+Book:9 
+CSS:../Styles/style.css 
+viewport: width=device-width
+  
+## Han Sen's Challenge
+### Chapter 2873 
+<figure>
+	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
+</figure>
+  
+
+  
+  “Finally moved.” Han Sen quickly looked at the other name. He noticed Zhang Xuandao was challenging Ancient Sacrifice God, who was ranked sixth.
+
+Ancient Sacrifice God was one of the Ancient Gods, and he was the highest-ranked person within the Ancient Gods.
+
+Han Sen saw Ancient Sacrifice God fight before. He proved himself to be an incredibly strong true god. He had a mysterious sacrificial power that enabled him to easily defeat a true god deified xenogeneic that challenged him.
+
+Han Sen believed that with Ancient Sacrifice God’s power, his rank could be higher.
+
+Han Sen was surprised that Sky Palace Leader was willing to challenge Ancient Sacrifice God. Han Sen thought he would go for a higher-ranked person, such as Seeking Perfume Beast.
+
+Sky Palace Leader landed in space. He looked like holy winds and bones. People who did not know him would have thought he was like some kind of god fairy.
+
+Zhang Xuandao looked at Ancient Sacrifice God coldly and said, “Ancient Sacrifice God, it is time we finished this.”
+
+Ancient Sacrifice God was like a green giant. A bronze tripod was in his hands. He coldly looked at Zhang Xuandao. Suddenly, the bronze tripod in his hands had a strange glow. All the stars in the sky were falling. A river of stars descended. It was all going toward the bronze tripod. It was like the whole universe was being sucked into the bronze tripod.
+
+Han Sen once watched Ancient Sacrifice God battle a true god xenogeneic. It was sucked into the bronze tripod and was unable to fight back.
+
+Zhang Xuandao was in space. He let the stars fall and the suns break. He let them all go past his body while he did not move an inch. It was like the bronze tripod power did not exist. “Ancient Sacrifice God, use all the powers you can. Do not leave any regrets.” Zhang Xuandao was like a god standing between the sky and the ground. His power was like everything in the world was nothing. Ancient Sacrifice God was angry, so he roared. The bronze tripod was glowing with light. The markings on the tripod lit up. Some of the markings were like a bird, whereas others were like a beast.
+
+The suns, moons, stars, birds, beasts, fish, flowers, grass, trees, wood… All the substances were becoming abstract symbols on the tripod. As those symbols brightened, the entire universe seemed to have some sort of power that went toward the bronze tripod. It made the power of the bronze tripod stronger and stronger.
+
+“It can use the power of the universe. Ancient Sacrifice God is so scary.” Han Sen was so scared.
+
+God looked at Ancient Sacrifice God with keen interest. “Ancient Gods are born deifieds. Their talents are the highest out of the high races, but their growth is the least out of all races. In history, they are the oldest race. They are all born deified. Yet today, they are still like this. Nothing has improved much.”
+
+“They are already true god class,” Han Sen said. “How many more breakthroughs do you think they can achieve? Getting into the gene god hall?”
+
+God shook his head. He did not explain. He went on to say, “You cannot blame the Ancient Gods. Other creatures have countless steps to climb, whereas they only have two or three steps. It is normal for them to ascend so slowly.”
+
+The bronze tripod was buffed by everything in the universe. The power was becoming scarier. Ancient Sacrifice God was roaring. He raised the tripod in his hands. The tripod made some roaring sounds like a dragon or a tiger. At the same time, it released a scary light. It became a beam of light firing into the sky.
+
+Inside the beam of light, Han Sen saw a weird shadow flashing. It was like a God Spirit grabbing Sky Palace Leader in space.
+
+That shadow was very strong. It was the strongest Han Sen had ever seen in a god fight before. Even when Dragon One used his dragon race weapon, the Blood Dragon Ruler’s, which was seven true gods combined into one mode, it was not as scary as this beam of light in the shadow.
+
+The light shadow gave Han Sen the feeling of a God Spirit that could destroy the world. It had an incredible power that was terrifying. Even with Han Sen’s power and willpower, it made him feel very small.
+
+“Many years have passed, yet you still only use this trick.” Sky Palace Leader looked at the light shadow with disdain.
+
+A finger moved. A light spell was cast. It latched onto the giant palm from the shadow.
+
+Roar!
+
+The light shadow touched the light spell. The palm went back. It made a silent roar as if something was electrified.
+
+It was not over yet. The light spell stuck to the light shadow’s palm. The light grew brighter. It suppressed the light shadow and pillar of light.
+
+When the light spell power became stronger, the holy power suppressed the beam of light and light shadow. It forced them back into the bronze tripod. No matter how that light shadow roared, he still could not stop it.
+
+“Very powerful Sky spell, and Very power Sky leader.” Han Sen could not help but compliment him.” Sky Palace’s original gene killing spell was something Han Sen had seen before. How Sky Palace Leader used it surprised him. Of course, the main part of it was the fact that Sky Palace Leader was too strong. The power he commanded was as high as a true god could be. In the next second, the light spell landed on the tripod. No matter how much power Ancient Sacrifice God used, it was like the bronze tripod had been suppressed by a mountain. He could not release any power. As the light spell grew stronger, the bronze tripod became more suppressed. Ancient Sacrifice God seemed incapable of moving the bronze tripod. His arms were starting to bend.
+
+“Roar!” Ancient Sacrifice God madly roared, but he could not stop the tripod from failing. In the end, the bronze tripod fell out of his hands and flew into space.
+
+Zhang Xuandao waved his sleeves and put the bronze tripod in them. He coldly said, “Sacrifice God Bronze can lend me this for a thousand years as interest.”
+
+Ancient Sacrifice God was furious. His bronze body shone brightly, making his seem like a glowing sky giant. He ripped through space toward Zhang Xuandao. Zhang Xuandao waved his sleeves. Ancient Sacrifice God’s bronze body, which looked like it could support the sky and ground, was hit into space. He fell into a rip in space and disappeared. “A thousand years later, you may come and collect your sacrifice bronze tripod from Sky Palace.” After Sky Palace Leader said that, he turned around. All the creatures were in immense shock. “He is so powerful,” Han Sen thought. He had to admit that Sky Palace Leader had what it took to be cool. His powers and method were similar to Very High Leader.
+
+Even God complimented him. “Very good Sky Zhang Xuandao!” The next challenge was boring because of Zhang Xuandao’s match. All the creatures were still talking about the fight between Zhang Xuandao and Ancient Sacrifice God. People thought that if the challenges were not one-chance affairs, Zhang Xuandao’s rank could have been higher. He might have even replaced Very High Leader to become second. More interesting fights occurred over the next few days, but none were as good as Zhang Xuandao’s fight. They were nothing worth focusing on. Seeing that there was only one day of challenges left, Han Sen finally used his challenge. His target was going to be Maha God Elephant.

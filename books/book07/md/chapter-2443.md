@@ -1,0 +1,78 @@
+Title:Choices 
+Chapter:2443 
+Section:11 
+Book:7 
+CSS:../Styles/style.css 
+viewport: width=device-width
+  
+## Choices
+### Chapter 2443 
+<figure>
+	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
+</figure>
+  
+
+  
+  “As far as the Extreme King are concerned, I brought you here to dig up the ruin of a god’s battleground. By doing so, I wanted you to fade from the vision of the royal children,” Miss Mirror said calmly. She was reclining on the bed where they had placed her. “This is the only reason your pretense of being Prince Sixteen has lasted this long. But now, this catastrophe with the statues has killed all my people and left you alive. I don’t think I will be able to buy you a lot of time. My brother will throw all his resources into investigating you, and you have nowhere to turn. The only thing we can do to keep you alive is to perform a sacrifice. Enter the holy temple to become a devotee. Once you gain the blessing of the Extreme King, your survival will be ensured.”
+
+“I’m going to the holy temple? What does that mean, exactly?” Han Sen frowned.
+
+“The holy temple is where the Extreme King make sacrifices to their god. Every generation must have a sacrificed King. They offer themselves to the god and become a devotee. They serve the god inside the holy temple forever.”
+
+After pausing, Miss Mirror said, “Only someone with the blood of the Extreme King can earn the blessing of the god. Therefore, a crystallizer shouldn’t be capable of becoming a devotee. If you can, though, that will prove you really are Prince Sixteen. At that point, no one will be able to dispel your lie. Even if someone was suspicious, not even King Bai could randomly waltz in and do whatever he pleased. No one would be able to investigate you.”
+
+“So I’d be practically sentenced to life in jail?” Han Sen frowned.
+
+“Which would you prefer: incarceration or death? Even if you left now, where would you go? Do you really think Yisha or Kong Fei can protect you? Let me tell you this now. This universe is big, but if it is confirmed that you killed Prince Sixteen, there is nowhere you can go to escape the wrath that will be set upon you. In order to survive, you would have to be stronger than the leagues of deifieds that belong to the Extreme King. And I will be one of them,” Miss Mirror said emotionlessly.
+
+“Even if I want to go to the Extreme King’s holy temple, I don’t have the blood of the Extreme King. How would I even gain the approval of this god?” Han Sen said.
+
+“It should be possible with the help of my Mirror Spirit Eye Ring. Plus, you do have the Original Water King Body that you got from Bai Yi. Getting the god’s approval shouldn’t be too difficult.” Miss Mirror paused and said, “Furthermore, going to the holy temple isn’t entirely like being sent to jail. While you may not be able to exit the temple, you can still visit the core area. With the resources you earn in the core area, you can definitely become half-deified.”
+
+Miss Mirror then hesitated. After a while, she went on to say, “Also, there are benefits to becoming a devotee. Although you can never leave the holy temple, you will have the opportunity to bathe in the temple’s god light. Your genes will be strengthened, and you will have an easier time becoming deified.”
+
+“Is this my only chance of surviving?” Han Sen asked quietly.
+
+“Unless you want a universe-wide APB issued by the Extreme King, yes. This is pretty much the only option. Once you become a devotee, the other royal children won’t be hostile to you. And so, you’ll have less trouble,” Miss Mirror said.
+
+“Even if I wanted to try entering the temple, what are they going to do?” Han Sen pointed at Bao’er and the unconscious Wan’er, who were a little further away.
+
+“The holy temple isn’t a place just anyone can go. Even the royal children must meet certain qualifications before they can become devotees. I can help you get qualified, but in regards to them, they will have to stay on Planet Water Zone.” After pausing, Miss Mirror said, “The best thing for them is to disappear. Otherwise, they may face scrutiny and fall under investigation themselves. Through them, things could unravel. Of course, if you insist on them staying, I can think of a way or two to help them.”
+
+When Han Sen heard this, he frowned. Bao’er and Ning Yue could go back to Planet Eclipse. They had the little red bird to protect them, after all. But there was no way that Wan’er could leave Han Sen. If she woke up, she’d become a blonde timebomb.
+
+Wan’er’s lifeforce was super weak right now. If she went on a rampage again, she would die. Han Sen wanted to ask her many things, so he needed her alive until he could talk to her.
+
+“Let me think about it.” Han Sen knew Miss Mirror would continue trying to convince him, so he continued on to say, “Do you think the statue of a thousand hands and a thousand eyes in Du God City and that prophetic screen are connected to the missing rock we first dug up?”
+
+Han Sen had already gotten the full-scoop on the white-haired man from Bao’er and Ning Yue. But Bao’er claimed she didn’t know who he was.
+
+“I don’t know. Everything in Du God City is a mystery, and everything we find seems to tie back to yet another myth. My brother will probably send someone else here to continue excavation efforts. I believe answers will one day come,” Miss Mirror said.
+
+Han Sen went silent. As a King, he was simply too weak. If he became deified, then he’d be qualified to fully explore Du God City. It was a very scary place, and he was just too weak to be there in his current state.
+
+“Make a decision soon. You are running out of time,” Miss Mirror said. Then, she stopped talking.
+
+She was trying to convince Han Sen—not because Han Sen had the Mirror Spirit Ring—but because he had selected to let her live after their fight in the cave. He had the chance to kill her, but he showed her mercy. And on top of that, he saved her from Red Cloud. Otherwise, she never would have done all this for Han Sen.
+
+Helping Han Sen enter the holy temple as a devotee would break basically every law that her people had. Plus, she was the investigator King Bai had specifically chosen to examine Han Sen.
+
+“Thanks.” Han Sen walked over to Wan’er. He looked down at the girl, wondering what he should do with her.
+
+Going to the holy temple was clearly the safest choice, but that meant he would be giving up on the girl’s secrets. Maybe Wan’er would wake up before backup arrived?
+
+Wan’er seemed too weak for that, though. Han Sen tried many different tricks and powers to reinforce her lifeforce, or to get her to wake up, but nothing seemed to work.
+
+Han Sen didn’t dare use more than a trickle of his power. He didn’t want to accidentally kill Wan’er. Her body was too weak, so using any significant force on her could be deadly.
+
+“Ugh, this is giving me a headache. If I don’t enter the holy temple, I’ll have to go on the run. Then, it won’t just be the Extreme King after me. Any race related to the Extreme King or seeking their favor will be hunting me. Escaping on my own will be way too hard,” Han Sen thought with a frown.
+
+If Han Sen escaped, he wouldn’t just be affecting himself. It would affect the lives of his friends on Planet Eclipse, and it might even blowback on Yisha.
+
+“If I was to leave, would you help me?” Han Sen looked at Miss Mirror.
+
+“I am an Extreme King,” Miss Mirror said icily.
+
+Han Sen laughed and asked, “If I left now, would it affect Yisha?”
+
+“That is a question you should ask Yisha. It would be her decision.” Miss Mirror’s eyes flicked down. She seemed to know Han Sen’s true decision.

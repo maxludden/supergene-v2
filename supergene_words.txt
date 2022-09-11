@@ -8,6 +8,7 @@ Blackgod
 Blackhawk
 Bloodlust
 Blueblood
+bluepurple
 conint
 Crystallizers
 Didn
@@ -16,6 +17,7 @@ Diya
 Dongxuan
 endpage
 Fantis
+fastapi
 Feng
 Fenghou
 ffaf

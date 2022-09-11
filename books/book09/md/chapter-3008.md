@@ -1,0 +1,94 @@
+Title:Doing This Is Wrong 
+Chapter:3008 
+Section:15 
+Book:9 
+CSS:../Styles/style.css 
+viewport: width=device-width
+  
+## Doing This Is Wrong
+### Chapter 3008 
+<figure>
+	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
+</figure>
+  
+
+  
+  “Why are you here?” Han Sen and the white-clothed lady both spoke at almost the same time.
+
+The lady in front of him was the Dragon Lady Chef. She had left Space Garden to practice. She had yet to return. Han Sen wondered where she had gotten to. He certainly did not expect to run into her there.
+
+“I don’t know. I was on a xenogeneic island hunting xenogeneics and met a weird guy. He said I could be his inheritor, and he brought me here.” Dragon Lady paused and went on to say, “He often brings me rare xenogeneic ingredients I can cook with. This place is not all that bad, so I have not been in a hurry to
+
+“Those two xenogeneics keep referring to a certain lady. Might that be you?” Han Sen’s eyes opened wide as he looked at Dragon Lady. He appeared to be surprised.
+
+The Ancient Gods were always mysterious, and that was especially true of Ancient God King. If that Dragon Lady could inherit Ancient God King’s stuff, perhaps she would be able to become very powerful in the universe and no one would dare provoke her.
+
+“What lady? Are you insulting me?” Dragon Lady frowned.
+
+“Not that kind of lady…” Han Sen wanted to explain, but he suddenly heard a booming sound. The one-eyed xenogeneic and the eight-armed black bear xenogeneic came rushing in.
+
+“Kid, where are you going to run? Get ready to die!” the eight-armed black bear weirdly shouted. Eight of his pores were shining. They created eight little suns that were lobbed at Han Sen.
+
+“Big dumb bear, what are you doing?” Dragon Lady shouted at the eight-armed black bear.
+
+The eight-armed black bear heard Dragon Lady’s voice. It made his entire body shake. He made his little suns even smaller. He wished to say something, but the one-eyed xenogeneic spoke first. “My Lady, this kid stole the ancient spirit seed. We are going to take it back. You should avoid this situation and allow me to reclaim the ancient spirit seed. We can talk all about this later.”
+
+After that, the one-eyed xenogeneic and eight-armed black bear wanted to resume the attack on Han Sen. “How many times must I tell you guys to not call me lady?” Dragon Lady coldly shouted. “Plus, who is allowing you to capture people in my place? Furthermore, he is a friend of mind. If you guys touch one finger of his, I will turn you guys into barbecued pork.” “He is… Little Master’s… Is he your friend?” The one-eyed xenogeneic and the eight-armed black bear were in shock.
+
+“Get out of here before I cook you,” Dragon Lady coldly said. “We can’t do that,” the eight-armed black bear angrily said. “He still has the ancient spirit seed. If we don’t take it back, the master will scold us.”
+
+The one-eyed xenogeneic quickly pulled the eight-armed black bear back, smiled, and said, “You should rest, Little Master. We will leave now.”
+
+After that, the one-eyed xenogeneic pulled the eight-armed black bear away.
+
+The eight-armed black bear looked unsatisfied as it asked, “What are you pulling me away for? If we do not bring back the ancient spirit seed, and Master is angry, we are going to be done for.”
+
+“You don’t know anything,” the one-eyed xenogeneic said. “The geno holy fluid is for the Master giving it to the lady. If the lady’s commands were disobeyed, the Master would be even angrier. Then, our situation will be made even worse. If the lady has already told us what to do, then this incident is out of our hands. We should just go and tell Master.” It hastened its departure.
+
+In the garden, Dragon Lady checked Han Sen out and said, “That weird man poured blue blood all over you. Your body seems a little different.”
+
+“Did you see it too? Yes, I am a little different.” Han Sen had a wry smile.
+
+“Your muscles appear leaner,” Dragon Lady said while looking at Han Sen. “The fat ratio has been lowered. Meat like this is not suitable for cooking. You would do fine as a meatball.”
+
+Han Sen’s forehead developed a cold sweat. “Don’t look at me like I am food.”
+
+After pausing, Han Sen looked at the Dragon Lady and said, “It looks like you improved fast. You look like you have improved a lot.”
+
+“As I said, that weird guy gave me a lot of high-class xenogeneic ingredients, so I have a lot of high-class genes,” Dragon Lady replied. “I am butterfly class now. He says he is going to get me a geno holy fluid. He said that if I drink it, I can become a true god.”
+
+“So, the Empty Dragon King in the wok has been cooked for you.” Han Sen sounded jealous. “What Empty Dragon King?” Dragon Lady sounded surprised.
+
+Han Sen explained the whole thing. Dragon Lady sounded a bit angry. “How could they do this? They really shouldn’t have. Such a cute little baby… How could they dare to cook it?”
+
+Han Sen nodded. The ancient spirit seed on his arm nodded too.
+
+Dragon Lady said with seriousness. “Right, for such a superior ingredient, how could it be cooked so randomly? They should have let me cook it instead.”
+
+The foreheads of Han Sen and the ancient spirit seed on his arm developed some black lines, especially the ancient spirit seed. It looked scared and tried hiding in Han Sen’s arms.
+
+Han Sen pointed at the ancient spirit seed and said, “Cough, cough. By the way, Dragon Lady, if there are not many effects and there is a replacement, can we not kill it for my sake?”.
+
+The thing really did look like a human baby. Han Sen did not want to see it become food.
+
+“I am fine with that,” Dragon Lady said while opening her arms. “I just do not know if he will agree.”
+
+plight.” A voice echoed across the giant, underground garden. A God Spirit-looking character broke space and entered the garden.
+
+Han Sen felt a chill. He looked at the God Spirit-like person. In the shiny light, he saw a male body. Because of the rainbow light, he could not see exactly what he looked like.
+
+“My name is Han Sen. Are you Ancient God King?” Although Han Sen did not feel the power of his opponent, with that atmosphere, he knew he should have been something big.
+
+Ancient God King coldly asked, “Are you Dragon Lady’s friend? Call me Ancient Origin God.”
+
+“You said you can let him live,” Han San quickly asked. “Is that true?”
+
+“Of course, I can let him go, but without it, Empty Dragon King cannot be cooked in a short period of time. It will delay the time needed to create the geno holy fluid. Unless…” Ancient Origin God did not keep talking. He
+
+“You can just tell me directly.” Han Sen knew there was something else.
+
+“Unless you can find a replacement. From what I have seen, you are not bad.” Ancient Origin God looked at Han Sen as he spoke.
+
+When he said that, Han Sen’s expression changed. He felt sorry for the ancient spirit seed but not enough to trade his life for it. He would not die for it.
+
+Dragon Lady stopped before Han Sen. She looked at Ancient Origin God as she said, “He is my friend. You cannot lay a finger on him.”

@@ -1,0 +1,86 @@
+Title:Planet Under the Ice 
+Chapter:3255 
+Section:16 
+Book:10 
+CSS:../Styles/style.css 
+viewport: width=device-width
+  
+## Planet Under the Ice
+### Chapter 3255 
+<figure>
+	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
+</figure>
+  
+
+  
+  The ice fields had many systems. If it was not for the leadership of Tian Jing, Han Sen would never have thought that an unremarkable place was where the rare gene egg would be found.
+
+A small, ice mountain was in front of them. It was surrounded by many more ice mountains. It was only a few hundred feet high. It was not very tall. Compared to the other ice mountains, which were a few thousand feet high, that small ice mountain was not very eye-catching
+
+Tian Jing took out a map. She compared it to the small ice mountain for a while. She looked at Han Sen and said, “This is where our Xuan Mi Zong Leader found the ice jade evil lady’s place in the days of yore. If the records are correct, there will be an ice cave behind this small ice mountain that reaches straight to the bottom of it.”
+
+Han Sen got out of the jade carriage. He looked up at the ice mountain and said, “I am curious. Back then, when your party’s leader saw something here, what was it that he saw? Why did he not take the ice jade evil lady with him and instead left some items behind?”
+
+Tian Jing replied, “I am not too sure what went on. Our leader left a message behind in a secret scroll. He only spoke about the ice jade evil lady’s location and went on to talk about how to take back the lost items. All in all, he did not mention much about the ice jade evil lady. He only kept saying that after taking back the lost items and returning them, we could not be greedy to the ice jade evil lady’s gene egg. If we were to be greedy, very bad things were sure to happen.” “Do you think the records concerning the ice jade evil lady went missing?” Han Sen asked after thinking for a moment.
+
+Tian Jing confidently replied, “No. Our Wu Wei Dao Palace is very serious when it comes to record-keeping and the like. Some very special, classified information has a very unique way to be kept in storage. There could be no mistake with this stuff. Even if I am wrong about this, wouldn’t it be all gone? You would surely not just lose a small part of the greater picture.”
+
+Han Sen did not really think Tian Jing was telling the truth about this. No matter how classified the methods were, if it was done by a human, there was a high chance of there being a problem.
+
+“I will do what I promised you. As to whether or not you get the ice jade evil lady, that will be none of my business.” After Tian Jing said that, she walked toward the small, ice mountain.
+
+“You guys wait here,” Han Sen ordered the two maids. He brought Bao’er along to follow Tian Jing.
+
+Just as Tian Jing said, the base of the mountain contained an icy cave. It kept going down. Whether it led was a complete mystery.
+
+Tian Jing was an inheritor of the Xuan Mi Zong, which meant she was not like any other woman. Seeing how she dealt with Zhen Xia, the woman’s heart was certainly not like any other woman. No one could promise what happened to Zhen Xia might happen again to Han Sen. Therefore, he exercised caution. He did not put complete faith in her.
+
+After entering the ice cave and walking through it for a while, Han Sen found himself able to believe her a bit more. That cave went straight down beneath the ice. It went on for dozens of thousands of feet. There was no end. It did not look like it was manmade.
+
+The more they went down, the more cold Yin air they felt. Even Han Sen, who practiced Jadeskin, felt a little bit chilly.
+
+Many cracks were under the ice. There were many other paths to take too. Tian Jing kept using her map as a reference on which way to go. She selected the ordinary path every time. Many places only allowed one person to enter at a time. Some ice caves went straight down into plummets too. Some drops were 10,000 feet, and others were even more than that.
+
+For a system, that distance was nothing. Han Sen was most curious about the two super god pulses that appeared in the same landscape. That entire thing did not make a lick of sense to him.
+
+It was uncertain how long they had been in the ice cave. They had just come down from a straight ice cave when Bao’er pointed in a certain direction and asked, “Dad, what is that?”
+
+Han Sen and Tian Jing looked to where she was pointing. They were given a shock. It was a planet.
+
+That planet’s sky was decked in ice. It was like an ice-crystal sky. The planet embedded in the ice was full of green and flowers. There were lots of animals moving freely there as well.
+
+There were lots of cranes flying high under the ice sky. Lots of cows and sheep were grazing on the grass. Tian Jing said, “That’s right. This is the place the old leader mentioned.” She observed the weird planet that resided beneath the sheets of ice.
+
+“Are you sure this is the place?” Han Sen wondered. It was said the ice jade evil lady was not purely an ice-element being. It was around half an ice element. A place to grow her would not be such a place like that.
+
+Han Sen recalled the news Bao’er had shared with him. Tian Jing had told Zhen Xia that the place where the ice jade evil lady was supposed to be was in a land of ice and jade. Han Sen was not seeing any icy jade place. He saw mud.
+
+Tian Jing looked at Bao’er and coldly grunted. “Bao’er has been telling you about the icy jade, hasn’t she?”
+
+“I have heard a bit about it.” Han Sen’s face didn’t change. He smiled. He did not feel embarrassed or anything about it.
+
+Tian Jing said, “Actually, since Zhen Xia requested to come with me to the ice fields, I already felt something was wrong. I did not have any grand suspicions about him, however. It was only after meeting you and Bao’er that I grew suspicious. Therefore, I told him these things about searching for an ice pulse. It was all just to test him.
+
+“I see.” Han Sen nodded.
+
+“Actually, the ice jade evil lady’s jade words do not refer to jade stones,” Tian Jing said. “It means ‘pure.”
+
+“What does the pure mean?” Han Sen still didn’t quite understand.
+
+“Back in ancient times, in the legends, they always used the word jade to explain something very pure and not tarnished with dirt,” Tian Jing explained. “It was especially true of a lady who had yet to be subject to filth. The ice jade evil lady’s jade refers to that. It has nothing to do with the actual jadestone.”
+
+“I see.” Han Sen now understood.
+
+Tian Jing was admiring the planet. She kept walking forward as she said, “This planet itself is very unique because there is a super god pulse. Before this planet was iced, there was no such planet here. It was only after the place was iced that this planet appeared.”
+
+“Really?” Han Sen took out a communicator. He opened a galactic map to check the place around him. There really wasn’t supposed to be a planet existing where he was.
+
+It was not just a planet that was should not have been there. There was not supposed to be an ordinary planet or even a sun.
+
+Yet, Tian Jing and Han Sen were on a planet. Tian Jing suddenly turned and smiled at Han Sen. “Mister Han, there is one more thing I must tell you.”
+
+Han Sen’s face did not change as he asked, “What is that?”
+
+“About this planet, this is supposed to be a very amazing place,” Tian Jing said to Han Sen with a smile. “Only a pure woman can safely land on this planet. If things are not like this, then something bad is sure to happen.”
+
+Han Sen’s face didn’t change. He looked at Tian Jing and asked, “What bad thing?” “You will know soon enough.” Tian Jing did not answer his question. She just smiled at him. Her smile was very weird.

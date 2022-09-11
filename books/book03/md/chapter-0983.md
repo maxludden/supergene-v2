@@ -1,0 +1,88 @@
+Title:Attacking and Defending Practice 
+Chapter:983 
+Section:3 
+Book:3 
+CSS:../Styles/style.css 
+viewport: width=device-width
+  
+## Attacking and Defending Practice
+### Chapter 983 
+<figure>
+	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
+</figure>
+  
+
+  
+  Han Sen froze. He did not expect Nangong Han to ask him to perform something on stage alongside him. But with the eyes of every student now on him, he could hardly decline.
+
+“Tutor Nangong, how can I be of service?” Han Sen asked, as he ascended the stage.
+
+Nangong Han smiled and answered, “Oh, do not worry. I am going to execute a few basic moves. It is your task to react to them as any other ordinary combatant would.”
+
+“Okay.” Han Sen nodded.
+
+“Tutor Han and I will now show you how to defend! The most important thing regarding defense is to never rest on your laurels. For a stalwart defense, you must consider everything you have ever learnt. And when confronting the attacks of another, you must pay specific heed to their center. Even demigods have to move when they cast a skill, and through keen observation, you can always tell where their movements will take them.” After this, Nangong Han threw a punch in Han Sen’s direction.
+
+Qin Xuan and many others watched this intently. She, in particular, had believed there to be something amiss with Nangong Han’s request for Han Sen to go on stage. But now, it was too late for her to do anything.
+
+Upon seeing a fist suddenly hurtling towards Han Sen, Qin Xuan looked afraid.
+
+Qin Xuan knew the people from Martial Hall were not fond of Han Sen, but this entire event had been set up by the Qin family. She believed the concerns and moaning of the elders from Martial Hall would simply remain as verbal complaints. She never thought that things would escalate to a full-blown fight. Things had already gotten off to a shaky start, it appeared.
+
+Nangong’s purpose, currently, was to humiliate Han Sen. He presented a facade of friendliness, and pretended to consider Han Sen as a colleague before the audience, but there was resentment inside Nangong Han. And embarrassing Han Sen on stage was his cloak-and-dagger outlet for this resentment.
+
+He could have asked his personal assistant to help with the demonstrations, but he had it out for Han Sen, so he asked Han Sen to come up on stage and aid him in demonstrating defense.
+
+If Han Sen did not block this sudden attack, Nangong Han would be able to point out his error. If this were to keep occurring, Han Sen’s credibility would be undermined. Students would not regard him as highly, and they’d perhaps even favor a different tutor.
+
+Under his guise of friendliness, Nangong Han cackled with evil delight.
+
+That’s not to say he was fooling everyone. Many people knew him and his true nature, including Qin Xuan. She knew him well, and she knew the punch he had thrown was not one of idle performance.
+
+Nangong Han had been a surpasser for a few decades, and he had excelled in the technique of Shadow Punch. With his light element, it was difficult for his enemies to trace the path and velocity of his punches. Han Sen did not know the man, so he had come on stage without any measure of precaution or preparation.
+
+The punch seemed ordinary, on the surface. But that was just a shadow of its true form. If Han Sen sought to block the simple trickster hit, he’d be hit by the real punch underneath.
+
+What’s more, Nangong Han had opened two more gene locks than Han Sen had. His fitness was far higher, as well.
+
+“He really thinks this little of the Qin family? And that we’re oblivious to what he is doing?” Qin Xuan’s face looked ill, as she was fraught with worry for Han Sen’s well being.
+
+She believed she hadn’t firmly asserted who was in charge of the entire event. She had to let the stuck-up people of Martial Hall know who was the boss to prevent this from becoming a common occurrence.
+
+However, while Han Sen had come on stage without knowing much, he had detected slight hints of the hostility Nangong Han harbored for him.
+
+Han Sen had been through much in the sanctuary, and he had encountered all manners of beasts. He could tell if a creature or spirit was hostile, so it was impossible for Nangong Han to completely hide his animosity.
+
+Squinting his eyes, Han Sen quickly reached up and tried to block the incoming attack.
+
+Nangong Han’s eyes jumped with excitement as Han Sen reached out, and so he drove his punch with a quicker pace.
+
+If Han Sen only blocked his shadow, the young pup would take a hit that would make him look like a fool.
+
+Qin Xuan saw Han Sen move to deflect the shadow and knew things would quickly turn ill.
+
+The tutors from Martial Hall saw this, too, and they all wore disturbing smiles of delight.
+
+“The young man is in too much of a rush,” one of the tutors said.
+
+He did not speak his name, but everyone knew he was talking about Han Sen.
+
+Pang!
+
+Everyone leaned forward to witness what happened, and there they saw Han Sen. He had blocked Nangong Han’s true fist.
+
+“He didn’t use Shadow Punch. Did I misjudge his intentions?” Qin Xuan and the others looked on in confusion.
+
+Usually, that fist would have just been the shadow. But Han Sen had blocked the real fist.
+
+They didn’t believe Han Sen could have blocked the real punch, had Nangong Han used Shadow Punch.
+
+Everyone thought the on-stage tutor was going to use Shadow Punch to make Han Sen look like a fool.
+
+But strangely, Nangong Han’s face did not look quite right. And immediately after, he threw another punch.
+
+Everyone from Martial Hall frowned. Nangong Han’s punches looked very simple, and it didn’t seem as if he was using Shadow Punch at all.
+
+“What is he doing? How can he expect to teach with such casual moves?” a tutor from the Martial Hall said.
+
+Everyone thought Nangong Han was merely afraid of Han Sen and his connections, but Nangong Han started to look like a man who had been shocked by a disturbing revelation. It was as if something mortifying had happened to him.

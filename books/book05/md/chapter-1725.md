@@ -1,0 +1,92 @@
+Title:Qiao 
+Chapter:1725 
+Section:6 
+Book:5 
+CSS:../Styles/style.css 
+viewport: width=device-width
+  
+## Qiao
+### Chapter 1725 
+<figure>
+	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
+</figure>
+  
+
+  
+  Han Sen quickly found out that Hardman was loaning him out to a hunting group called Wizard.
+
+It was a very small team. It was run privately, too, by an owner called Qiao. The team wasn’t a powerful enterprise, and the inferior members and equipment they used was a testament to that.
+
+Han Sen was moved to the western part of a city called Gran. He was told that he was being loaned out, but it looked more like a sale. Han Sen’s contract was now in this team’s possession, and if he wanted out, it’d be two years before he could terminate the contract. Kate’s law ensured this.
+
+In the manager’s office of Black Gold Group, Lena laughed and said, “Manager Hard, that was a good business move. You sold Han Sen for a fine price. You even earned back all the money you had invested in him. I can’t imagine why Qiao wanted him so badly. Han Sen’s good, but he’s not a Noble. There’s no way he can kill a xenogeneic. She spent so much money on this, and the ongoing fee for Han Sen in her employ… It seems so stupid.”
+
+Hardman smiled and said, “She had to. Old Wei is dead, so there are no others close to being a Noble in Wizard. And no sensible Nobles are prepared to go there; with that being the case, the team is practically done for. Somehow, she heard about Han Sen. She paid this much in an all-or-nothing gambit”
+
+“She’s using someone like Han Sen as her last gamble? That’s pathetic.” Lena laughed. “Although Han Sen is good, he is not as good as a Noble. The way he fought with the xenogeneic was very dangerous. If he made one wrong move, he’d have been killed. He was fortunate that luck was on his side that day.”
+
+Han Sen said goodbye to Suo Tu, packed up his things, and left the Black Gold base. At the exit, there was a red car waiting to pick him up.
+
+When Han Sen neared it, the door opened. A black-haired woman with a white jacket and shoes stepped out of the car. She walked directly in front of Han Sen.
+
+“Hey, I’m Qiao. I am the manager and leader of Wizard. You belong to us now.” The woman reached out her hand.
+
+“I’m Han Sen.” Han Sen shook her hand. Her skin was delightfully delicate and soft to touch.
+
+“I know. Why else would I be here?” Qiao got back into the car and gestured to Han Sen, saying, “Come. I would like to show you something. It’ll be very important for us. Perhaps it is the humble beginning of a bright and prosperous future for us both.”
+
+“Our future?” Han Sen glanced at her, a little weirded out
+
+After Han Sen got into the car, Qiao took him away from Black Gold Group. She drove them to West City.
+
+“Why are you buying me?” Han Sen couldn’t help but ask as they drove. His salary was equal to that of a Noble, and she must have had to pay Black Gold a lot of money.
+
+Hardman had already paid a lot for Han Sen, but Qiao had spent even more. Han Sen thought the entire situation seemed rather unbelievable. For all intents and purposes, buying him had been a terrible business move.
+
+Of course, with Han Sen’s abilities and the items he secret owned, this might work out very well for Qiao. Hardman had screwed up in letting him go.
+
+Qiao did not beat around the bush. “To be honest, I had no choice. The price I can pay is something no Noble is willing to accept.”
+
+Han Sen flinched. She was very direct.
+
+“Lan Se and Guris recommended you, and I also researched the way in which you fought a xenogeneic. After a lot of thought, I decided to borrow you,” Qiao explained.
+
+“Officer Lan?” Han Sen was shocked to hear that.
+
+Qiao smiled and said, “She is a very good friend of mine. She told me you were a nice person.”
+
+“Then I will have to thank her.” Han Sen smiled. “But you should know that even if I can keep a xenogeneic occupied, I am unable to kill them.”
+
+“That is why I need to show you something.” Qiao looked excited.
+
+“What is it?” Han Sen asked with curiosity.
+
+“You will know,” Qiao did not answer directly this time, but she looked confident.
+
+The car took them to a big house. Qiao got out and told Han Sen to follow her.
+
+They both entered the house, and then Qiao took Han Sen to a room on the second floor. The room was very old, and it must have been built a long time ago. Qiao walked over to a fireplace and crouched. She popped her head inside and rummaged around for a while, then she pulled back.
+
+She was covered in soot now; even her face. But she still looked very serious, despite her humorous appearance.
+
+Han Sen saw her hand now contained a rectangular box. It appeared to have been made out of metal. Perhaps it had been burned for too long, but its color was black like soot. It looked as if it had just been pulled out of a tub of ink.
+
+Qiao placed it on a table and wiped her hands. She pulled out two contracts and said, “Sign these contracts and you may use the box.”
+
+“What is inside?” Han Sen asked, looking at the box.
+
+“Open it.” Qiao tossed Han Sen a key.
+
+Han Sen took the key and lifted the box’s lid. It was rather heavy.
+
+Han Sen opened the box and saw a dagger inside. It had a handle, and the whole thing was about one foot long.
+
+It had a sheath, which was also made of metal. It was decorated with some additional leather trimmings, but Han Sen couldn’t tell what creature the leather had come from. It looked like the hide of a snake, but a little thicker.
+
+The dagger’s blade was curved like the horn of a cow. It was black and half-transparent. It looked very nice.
+
+Han Sen took it out of the box and looked at Qiao. Qiao nodded, and he pulled the dagger out of its sheath.
+
+The blade was the same as the handle, except it was even more transparent. The tip of the dagger was almost invisible. There was no color, but it broke the light like a diamond.
+
+“It was created by a Baron class xenogeneic rhino. It is really powerful. Even geno armor soldiers can pierce the flesh of a xenogeneic with this. Baron class xenogeneic’s, of course,” Qiao said, looking at Han Sen.

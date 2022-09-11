@@ -1,0 +1,90 @@
+Title:Sky God Crown 
+Chapter:2976 
+Section:15 
+Book:9 
+CSS:../Styles/style.css 
+viewport: width=device-width
+  
+## Sky God Crown
+### Chapter 2976 
+<figure>
+	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
+</figure>
+  
+
+  
+  Human King also gave him Blood-Pulse Sutra’s final part. He told him that if he was willing to, all he had to do was practice the final part for his blood to turn into blue blood. Although this method was not as pure as passing it through generations, it would still give Han Sen blueblood power.
+
+The price to pay was that Han Sen would lose all the geno arts he currently had. He would not even be able to make use of beast souls. All he would be able to use was blueblood power.
+
+Human King did not force Han Sen to do that. It was a decision that had to be made by Han Sen.
+
+Han Sen asked a few questions regarding Han Jinzhi. Human King said Han Jinzhi was not a member of Blood Legion. He did not possess blueblood. Aside from that, he did not say anything else concerning him.
+
+On his way back, Han Sen kept thinking, “Human King told me a lot, but I feel like he was holding back on a lot of important details.” He had yet to be given answers to many of the questions he had. Han Sen also thought there was a big problem. He just did not know what it was.
+
+“What is up with Han Jinzhi? Human King should not be lying about something like this, but why did the people of the seventh team say Han Jinzhi had blueblood? What was that all about?” Han Sen was very confused about this little nugget of information.
+
+He thought his trip to Blood Legion would enable him to receive answers concerning Han Jinzhi. Now, it seemed as if it was a pointless venture. He still did not know anything about Han Jinzhi.
+
+Human King may have known something, but it was obvious he did not want to spend much time talking about Han Jinzhi.
+
+Han Sen returned to Space Garden. Nine-Thousand King had yet to return, but another pair of guests had arrived.
+
+The green-haired growler and Gana woman arrived at Space Garden. When Han Sen saw them, the green-haired beast did not say anything. It put its head in front of Han Sen and quietly groaned, “Sorry I offended you. You can take my life, but please save Little Mountain Leader.”
+
+“Get up,” Han Sen said with a wave of his hand. “I am going to save Little Gold Gold, but you guys should know my power is not enough to fight Moment God yet. I require more time to prepare what is necessary.”
+
+“If there is something you need, please tell us,” the Gana woman coldly said. “If it can save Little Mountain Leader, we will do anything.”
+
+“If you want to save Little Gold Gold from Moment God Temple, we need more than just us. We require more aid. So I need resources to make my friends stronger. If you guys have deified xenogeneic genes, can you give them to me?” Han Sen thought Empty Mountain must have had a lot of good stuff. Perhaps he was able to obtain some resources from them.
+
+“Empty Mountain has some deified xenogeneic genes,” the Gana woman said. “I will give them to you later.”
+
+They were currently unable to ask anyone else for help. Han Sen was the only person they could turn to. At least they knew Han Sen truly wanted to save Golden Growler.
+
+“That Dollar really is bad stuff,” the green-haired growler madly said. “Little Mountain Leader gave him the first seat on the god list. Yet when Little Mountain Leader was in trouble, he did not show up.”
+
+Han Sen gave a wry smile and thought that Dollar did not show up because he was blown up, but what the green-haired growler said reminded Han Sen that Golden Growler gave Dollar the god list first place. If Dollar still did not show up, it might make him look bad.
+
+Although Dollar’s race was different from Han Sen and no one expected him to be Han Sen, it was still wrong.
+
+After sending the green-haired growler and Gana woman away, Han Sen thought about matters for a while. He eventually decided to challenge the God Spirit with Dollar’s identity.
+
+This time, the God Spirit Han Sen decided to challenge was not Moment God. It was going to be the Disaster class No World God.
+
+Han Sen heard the demon lady say that No World God’s power could enable him to be immune to time powers for a while. If he was able to get his hands on No World God’s god personality armament, it would be a great help for saving Golden Growler.
+
+When there was no one around, Han Sen turned into xenogeneic mode and equipped himself with his Dongxuan Armor. He then wore the Sky God Crown.
+
+The Sky God Crown was an Annihilation class god personality armament. It was two levels higher than the Sky Vine Radish God Lance. It was a god personality armament that was almost as good as Moment God.
+
+Han Sen had never used the Sky God Crown before because he did not know what power it possessed.
+
+It was not like it was high level or automatically useful like the Light Well Lotus beast soul. Although it was a high-level beast soul, its power involved healing. In a deathmatch battle, it would not serve much of a purpose.
+
+Han Sen thought, “Back then, God said the Sky God Crown would allow me to enter the geno halls freely. Now, the geno halls are all on display. Does the Sky God Crown have any other uses?” After thinking for a while, he had decided to wear the Sky God Crown.
+
+The moment Han Sen put on the Sky God Crown, a god light mist like a rainbow came down. It covered his entire body. From afar, Han Sen looked like a godly rainbow mist.
+
+Katcha!
+
+Han Sen saw the universe’s cogwheels spin. It was like there was a giant mechanical door opening in front of him. This was like the core area or the god area opening.
+
+The door did not open solely for Han Sen. It was because of the Sky God Crown.
+
+Han Sen looked at the space door. He saw a rainbow mist light. Countless substance chains were connected. One was not able to see what it was.
+
+After hesitating for a moment, Han Sen walked toward the rainbow mist light that was flowing around the door. After his body completely walked through the door, the door closed. It disappeared back into the nether of space. The weird scene was gone too.
+
+“This is…God temple…” Han Sen frowned and looked at what was in front of him.
+
+It was a jade stone god temple. Beneath Han Sen’s feet was a god temple. He saw Sky Vine Radish God be revived in this temple. He was not wrong about that. This was a god temple, and he was standing on the altar of the god temple.
+
+“Annihilation god temple opened. Name the god temple.” A voice echoed through the god temple. A god flag flew toward Han Sen.
+
+“What is going on? Did I become a God Spirit?” Han Sen frowned and looked at the empty god flag. The god flag he used to see already had names. This one was empty. There was nothing on the flag.
+
+Han Sen did not want to be a God Spirit. Even if it was an Annihilation class God Spirit, he did not want that.
+
+“You are finally here.” As Han Sen hesitated, the god temple’s door opened. A girl walked in. It was Gu Wan’er. Upon hearing her tone of voice, Han Sen knew that it was not Gu Wan’er in that body. It was that guy who called himself God.

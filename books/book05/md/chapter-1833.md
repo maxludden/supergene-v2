@@ -1,0 +1,156 @@
+Title:Knife Blank 
+Chapter:1833 
+Section:7 
+Book:5 
+CSS:../Styles/style.css 
+viewport: width=device-width
+  
+## Knife Blank
+### Chapter 1833 
+<figure>
+	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
+</figure>
+  
+
+  
+  
+
+Black-Moon King nodded slightly, then shook his head. The nobles around were confused, and they weren’t sure what that meant. No one was going to ask now, though. They were happy to wait until Black-Moon King finished his investigation. They were still very curious about the knife.
+
+Black-Moon King inspected the blade from top-to-bottom, at least ten times. He eventually gave out a long sigh, and with an ashamed tone of voice, said, “It is a shame…”
+
+“Black-Moon King, tell us clearly! What about it is a shame?” Night River King couldn’t help but ask.
+
+Black-Moon King held the  and said, “Planet Knife Grave is more like a museum for knives. No one knows where the knives come from, but they are relics from a long-ago eon. They weren’t forged, and the grave is just a container. Their numbers don’t change. So, when you take one out, there is one less there. New ones aren’t generated.”
+
+“We know that! But what does that mean?” Night River King looked annoyed.
+
+As Black-Moon King continued looking at the , he sighed and said, “This  is an anomaly. I am not sure why such material exists there, in the grave. The surface of the planet has been soaking in knifeminds and knifeairs for so long, this  was generated. Give it a bit more time, perhaps a few thousand years, and it might become a real knife. And on top of that, a King class weapon. It is a shame it was brought out so early. It is just a . Now that it has left the grave, there is no more knifeair or knifeminds to cultivate it. I am afraid this  might be ruined forever.”
+
+Hearing him say all this, Night River King asked, “No one can finish it, perhaps through forging?”
+
+“It would be hard. Aside from Planet Knife Grave, where could you find a place with knifeair? And the knives that come from inside there, they cannot be returned once they have left. I am afraid it won’t become a true knife.” After Black-Moon King said that, he returned the knife to Han Sen. “Although it is just a , and it doesn’t have its own knifeair and knifemind, it’s still as sturdy as a King class weapon. It counts as King class, fret not.”
+
+Many Nobles and Kings were very jealous, hearing this. Although it wasn’t fully a King class weapon, it had the makings of one. Han Sen had also received another King class knife, as well: Ghost Teeth. He was the one who had emerged with the most rewards, following the trip inside. Despite their jealousy, the onlookers knew they couldn’t say anything. It would be impossible to try to steal the items, too. Han Sen was Knife Queen’s student.
+
+“Everyone, take your knives and get them recorded. Then we can return,” Black-Moon King addressed Han Sen and the other Barons.
+
+“My King, we do not know what the ’s name is. How might we record it?” A recorder asked Black-Moon King.
+
+Black-Moon King looked at Han Sen and said, “See if you can activate its power. Although it is only a , it might still have a mind of its own.”
+
+Han Sen nodded and tried to insert his power into it.
+
+It was different from how it occurred with Ghost Teeth. When Han Sen used that malicious blade, he only needed a little bit of power to activate it. But this  was like a black hole. When Han Sen put power into it, nothing happened. Nothing even moved.
+
+The  was like a block of steel, and nothing transpired.
+
+Han Sen expected this, though. After all, the  did not have a reaction to his knifemind. Han Sen had a strong knifemind, but his actual strength was far weaker. It would be strange if Han Sen could activate it through his current level of strength.
+
+Seeing the  give no reaction, the others couldn’t keep themselves from mocking the effort.
+
+“It looks like it has no life, after all. It’s just a rod of steel!”
+
+“This world is not as good as you might like to believe. There is no way you could have received a second King class weapon. After your first, don’t expect anything else.”
+
+“It has no life, but it is hard. You could still use it to practice!”
+
+Han Sen deactivated his powers. As he held the , he shook his head.
+
+Black-Moon King thought for a moment, then said, “If you agree to it, I myself can try and activate it.”
+
+“Yes, please.” Han Sen passed it to Black-Moon King.
+
+Black-Moon King took the  and inserted his power into it. Black-Moon King was a very powerful person, but not even he could an incite a reaction in it.
+
+After that, Black-Moon King shook his head and gave it back to Han Sen. “It looks like the  does not have a mind. It is a shame.”
+
+Black-Moon King turned around and said to the recorder, “Write down ‘,’ then.”
+
+After the registration was complete, Han Sen said goodbye to Black Steel. He brought Ghost Teeth and  with him back to Planet Knife. He was going to meet up with Yisha.
+
+“Show me your Ghost Teeth knife,” Yisha said, nodding to the knife that was in his satchel.
+
+Han Sen brought the Ghost Teeth knife out in front of Yisha. Yisha took it and put her power into it, and then, she frowned.
+
+When Han Sen put his power in, it had incited a reaction with his knifemind. She had casually done the same, too, and while she was stronger than Han Sen, there was no reaction.
+
+Yisha frowned. She tried putting a lot of power into it, and eventually, Ghost Teeth started to rattle. It released a purple smoke before trying to escape from her hands and return to Han Sen.
+
+Yisha was shocked. Ghost Teeth knife only managed to escape while she was distracted, but that was not the point
+
+The point was, her Teeth Knife matched with the Ghost Teeth knife. It should have felt her power and accepted her strength, but it resisted her and flew back to Han Sen. That was shocking.
+
+Yisha did not know Han Sen’s Teeth Knife knifemind was stronger. The reason it selected Han Sen was because of his deified knifemind. She was half a step behind him, so the blade did not choose her.
+
+Yisha didn’t try taking it again. She stared at Han Sen for a while, and eventually said, “You did well. Put the knife away for now. A rule of the Rebate says that if you have a King class weapon, you can own a planet in the Narrow Moons. Get ready.”
+
+Black-Moon King nodded slightly, then shook his head. The nobles around were confused, and they weren’t sure what that meant. No one was going to ask now, though. They were happy to wait until Black-Moon King finished his investigation. They were still very curious about the knife.
+
+Black-Moon King inspected the blade from top-to-bottom, at least ten times. He eventually gave out a long sigh, and with an ashamed tone of voice, said, “It is a shame…”
+
+“Black-Moon King, tell us clearly! What about it is a shame?” Night River King couldn’t help but ask.
+
+Black-Moon King held the Knife Blank and said, “Planet Knife Grave is more like a museum for knives. No one knows where the knives come from, but they are relics from a long-ago eon. They weren’t forged, and the grave is just a container. Their numbers don’t change. So, when you take one out, there is one less there. New ones aren’t generated.”
+
+“We know that! But what does that mean?” Night River King looked annoyed.
+
+As Black-Moon King continued looking at the Knife Blank, he sighed and said, “This Knife Blank is an anomaly. I am not sure why such material exists there, in the grave. The surface of the planet has been soaking in knifeminds and knifeairs for so long, this Knife Blank was generated. Give it a bit more time, perhaps a few thousand years, and it might become a real knife. And on top of that, a King class weapon. It is a shame it was brought out so early. It is just a Knife Blank. Now that it has left the grave, there is no more knifeair or knifeminds to cultivate it. I am afraid this Knife Blank might be ruined forever.”
+
+Hearing him say all this, Night River King asked, “No one can finish it, perhaps through forging?”
+
+“It would be hard. Aside from Planet Knife Grave, where could you find a place with knifeair? And the knives that come from inside there, they cannot be returned once they have left. I am afraid it won’t become a true knife.” After Black-Moon King said that, he returned the knife to Han Sen. “Although it is just a Knife Blank, and it doesn’t have its own knifeair and knifemind, it’s still as sturdy as a King class weapon. It counts as King class, fret not.”
+
+Many Nobles and Kings were very jealous, hearing this. Although it wasn’t fully a King class weapon, it had the makings of one. Han Sen had also received another King class knife, as well: Ghost Teeth. He was the one who had emerged with the most rewards, following the trip inside. Despite their jealousy, the onlookers knew they couldn’t say anything. It would be impossible to try to steal the items, too. Han Sen was Knife Queen’s student.
+
+“Everyone, take your knives and get them recorded. Then we can return,” Black-Moon King addressed Han Sen and the other Barons.
+
+“My King, we do not know what the Knife Blank’s name is. How might we record it?” A recorder asked Black-Moon King.
+
+Black-Moon King looked at Han Sen and said, “See if you can activate its power. Although it is only a Knife Blank, it might still have a mind of its own.”
+
+Han Sen nodded and tried to insert his power into it.
+
+It was different from how it occurred with Ghost Teeth. When Han Sen used that malicious blade, he only needed a little bit of power to activate it. But this Knife Blank was like a black hole. When Han Sen put power into it, nothing happened. Nothing even moved.
+
+The Knife Blank was like a block of steel, and nothing transpired.
+
+Han Sen expected this, though. After all, the Knife Blank did not have a reaction to his knifemind. Han Sen had a strong knifemind, but his actual strength was far weaker. It would be strange if Han Sen could activate it through his current level of strength.
+
+Seeing the Knife Blank give no reaction, the others couldn’t keep themselves from mocking the effort.
+
+“It looks like it has no life, after all. It’s just a rod of steel!”
+
+“This world is not as good as you might like to believe. There is no way you could have received a second King class weapon. After your first, don’t expect anything else.”
+
+“It has no life, but it is hard. You could still use it to practice!”
+
+Han Sen deactivated his powers. As he held the Knife Blank, he shook his head.
+
+Black-Moon King thought for a moment, then said, “If you agree to it, I myself can try and activate it.”
+
+“Yes, please.” Han Sen passed it to Black-Moon King.
+
+Black-Moon King took the Knife Blank and inserted his power into it. Black-Moon King was a very powerful person, but not even he could an incite a reaction in it.
+
+After that, Black-Moon King shook his head and gave it back to Han Sen. “It looks like the Knife Blank does not have a mind. It is a shame.”
+
+Black-Moon King turned around and said to the recorder, “Write down ‘Knife Blank,’ then.”
+
+After the registration was complete, Han Sen said goodbye to Black Steel. He brought Ghost Teeth and Knife Blank with him back to Planet Knife. He was going to meet up with Yisha.
+
+“Show me your Ghost Teeth knife,” Yisha said, nodding to the knife that was in his satchel.
+
+Han Sen brought the Ghost Teeth knife out in front of Yisha. Yisha took it and put her power into it, and then, she frowned.
+
+When Han Sen put his power in, it had incited a reaction with his knifemind. She had casually done the same, too, and while she was stronger than Han Sen, there was no reaction.
+
+Yisha frowned. She tried putting a lot of power into it, and eventually, Ghost Teeth started to rattle. It released a purple smoke before trying to escape from her hands and return to Han Sen.
+
+Yisha was shocked. Ghost Teeth knife only managed to escape while she was distracted, but that was not the point
+
+The point was, her Teeth Knife matched with the Ghost Teeth knife. It should have felt her power and accepted her strength, but it resisted her and flew back to Han Sen. That was shocking.
+
+Yisha did not know Han Sen’s Teeth Knife knifemind was stronger. The reason it selected Han Sen was because of his deified knifemind. She was half a step behind him, so the blade did not choose her.
+
+Yisha didn’t try taking it again. She stared at Han Sen for a while, and eventually said, “You did well. Put the knife away for now. A rule of the Rebate says that if you have a King class weapon, you can own a planet in the Narrow Moons. Get ready.”

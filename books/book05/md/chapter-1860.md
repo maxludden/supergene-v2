@@ -1,0 +1,102 @@
+Title:Lead Runner 
+Chapter:1860 
+Section:7 
+Book:5 
+CSS:../Styles/style.css 
+viewport: width=device-width
+  
+## Lead Runner
+### Chapter 1860 
+<figure>
+	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
+</figure>
+  
+
+  
+  Han Sen had nothing to prepare, so he went back to hunting xenogeneics as he usually did. He also spent time practicing his geno arts.
+
+When the Moon God Festival began, Han Sen was sent to Planet Blade. It was one of the eleven primary planets, and Moon God Altar could be accessed from there.
+
+There weren’t many creatures on Planet Blade, and across the past forty-nine years, only seven to eight could join.
+
+As the planet moved, a previously invisible planet appeared directly in the center of Narrow Moon. You didn’t need a livestream to see it. All you would have to do was look up and see the planet that hosted the giant palace. It was like a heaven in the cosmos.
+
+But that beautiful jade palace looked completely different than the planet that hosted it. The planet itself was barren, devoid of mountains and rivers. The empty side of the planet was facing them, too; the palace was located on the opposite side of the sphere.
+
+The altar teleported you to the other side of the planet, so you’d end up facing the jade palace. You had to walk around it to get inside.
+
+The Moon God Altar appeared on Planet Blade, and so Han Sen teleported. He wasn’t interested in fighting people, as all he wanted to do was take first place and obtain the rewards he might be entitled to as a result.
+
+When Han Sen appeared on the planet, there were many people standing atop a jade platform.
+
+Han Sen started running. That planet wasn’t very big, and it was just a small moon, but running to the other side would still take a long while.
+
+“Han Sen, don’t run!” Han Sen had only just started running when someone called out to him. It was a black-eared Rebate. He was two meters tall, and he was holding a big knife as he ran towards Han Sen.
+
+Han Sen did not remember seeing this guy before, and so he didn’t think it was likely that the man would have a grudge against him. Why was he coming for Han Sen?
+
+After the black-eared man shouted, everyone looked over to see what was happening.
+
+“Why are you calling out to me?” Han Sen asked, as he kept on running.
+
+The black-eared man again shouted, “Don’t run! I am Night Giant God. Let’s fight and see which of us has superior knife skills.”
+
+Upon hearing what was said, Han Sen simply sped up. He ignored the man completely.
+
+The guy was just a Baron, so there was no point in fighting. He thought the concept was ridiculous, and the last thing Han Sen wanted to do was take part in something ridiculous in front of everyone.
+
+“Han Sen! Are you really willing to call yourself Queen’s student? Take a stand and fight me, if you have the audacity!” Night Giant God kept shouting as he chased after Han Sen.
+
+Fortunately, Night Giant God was a fighter who focused on power. He had no chance of catching up with Han Sen.
+
+Still, he kept on running and shouting, which made Han Sen depressed. It made Han Sen wonder, “Is he crazy?”
+
+The young ones that came to the planet were headed in the same direction as Han Sen and Night Giant God. It created a scene of Han Sen and Night Giant God in front, with many people behind them.
+
+Moon God Festival goers usually picked their own path. This was the first time they were all following two people so closely.
+
+“Are these guys hostile to me? When did I offend them?” Han Sen looked back at the commotion, and he saw so many people giving pursuit that it looked like a riptide. He was flabbergasted by what he saw.
+
+Most people had just come to watch. They didn’t plan on fighting Han Sen. They wanted to see how Knife Queen’s student performed.
+
+“Knife Queen is such a high and superior person. Why would she accept a student such as that? He only runs away!” ‘Yes. What is he so afraid of? I thought he had a King class weapon. Why is he so scared?”
+
+“Fight” fight.”
+
+The creatures that were all watching the streams shouted at their monitors. But they were only watching the livestream, so their voices would not reach the planet.
+
+The Nobles who witnessed the scene wanted to laugh.
+
+Icebird Duke didn’t look fondly on the event, either. She thought Han Sen’s decision to run was an embarrassment to Yisha.
+
+Yisha was impartial to the whole thing, though. She merely watched the video.
+
+“Night Giant God is unable to catch up. Let’s help him!” A Viscount smiled to his friend.
+
+“Let’s go and stop him so they can fight.” A few Viscounts nodded.
+
+They had gone there to watch the show, and bullying Han Sen had not been their original plan. But now that he was not willing to fight, despite the challenge, they weren’t very happy about it. So, they wanted to stop Han Sen and force him to compete in a battle.
+
+A dozen Viscounts sped up, went past the main group, and came in close to Han Sen.
+
+“Old Nine, do you think Han Sen can actually fight Night Giant God?” A beautiful man with gold bunny ears was amidst a group. He was moving casually, leading others that were behind him.
+
+A man with a cow head, who was standing right next to him, said, “I do not know, but Night Giant God is incredibly strong. And he’s practiced Night River King’s skills, too. That is called Fighting River, and it is strong enough to be on par with a Viscount’s power. Its strength is that of five hundred flowers, so that is a very rare number.”
+
+“So, you support Night Giant God?” The gold bunny-eared man smiled.
+
+“I guess,” said the man with a cow head.
+
+“How about this? Only you and I are Earls. I will be number one, so there’s no point in fighting. How about a wager, then? You bet Night Giant God will win, and I bet on Han Sen winning. If Han Sen loses, then I will gladly give you the first position,” the handsome man said.
+
+“What if I lose?” the cow-headed man calmly asked.
+
+“If you lose, come and train with me on Planet Thunder,” the beautiful man said.
+
+“Okay.” The man with a cow head nodded.
+
+Han Sen was in front, and there, he saw a dozen people coming after him. He felt depressed, and so he thought, “No way! Is Knife Queen really that unpopular? All these Viscounts now want to bully her student? This is so not fair!”
+
+Fortunately, Han Sen was prepared. He had the Teeth Rabbit shoes. He wasn’t going at full speed, but now that the Viscounts were nearing, he sped up a bit.
+
+Han Sen decided to get the number one spot, so he could get the reward first.

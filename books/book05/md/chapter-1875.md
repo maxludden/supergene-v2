@@ -1,0 +1,106 @@
+Title:Gana’s Holy Lady 
+Chapter:1875 
+Section:7 
+Book:5 
+CSS:../Styles/style.css 
+viewport: width=device-width
+  
+## Gana’s Holy Lady
+### Chapter 1875 
+<figure>
+	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
+</figure>
+  
+
+  
+  “Don’t touch me! I will… I will…” Guna was young, and so her body had already started to shake.
+
+Han Sen stroked her cheek, and he found it to be remarkably soft and smooth. Then, he pulled his fingers back and said, “Don’t worry! I am not interested in creatures that are unable to stretch their legs. I can’t let other people see you, that’s all. So, for now, things will have to remain like so. When we’re in Narrow Moon, you can sleep wherever you wish to.”
+
+After that, Han Sen closed his eyes and got some sleep. Eventually, upon realizing Han Sen really was there to rest,
+
+Guna finally felt relief. But that night, Guna found herself unable to get a wink of sleep. She lay awake, thinking about all sorts of things.
+
+Everything had happened so quickly. She had been kidnapped by Han Sen, while the rest of her family and race were made items for auction. Thinking about her family and her own fate being in the hands of others, Guna started to cry.
+
+The next morning, Han Sen woke up and saw Guna looking at him with incredibly red eyes. He frowned and said, “Why are you looking at me like that? I didn’t do anything.”
+
+Han Sen was hoping Guna could be a fine worker for him on Planet Eclipse. He didn’t want to kick things off with a sour relationship.
+
+“Do you really want to recruit me as a member?” Guna’s eyes could not stop blinking. It looked as if she wanted to see right through Han Sen.
+
+“What else would I need you for? I am not interested in xenogeneics.” Han Sen got up, ignoring Guna’s red eyes as he spoke.
+
+“Are you going to the auction?” Guna asked.
+
+Yes.” Han Sen did not have to hide anything.
+
+Guna gritted her teeth and said, “Let’s trade! If you help me get a Gana, I will obey you without question. I will diligently work for you in Narrow Moon.”
+
+That sounds like a fair enough deal, but I don’t have the funds. I am only going there for show. I don’t plan on buying anything. You know the Gana are really expensive, don’t you? The auction will be nuts. People will be throwing tall stacks of money around.” Han Sen slumped his shoulders.
+
+“I have a way.” Guna spoke only after receding into thought for a while.
+
+Han Sen looked at Guna and told her, “Tell me, then. If things aren’t too complicated, I might be able to take you up on the offer.”
+
+…
+
+Icebird Duke and Han Sen went to the auction. It was set in a beautiful palace, which was where the Gana had gone to pray. Now, it had become an auction house to sell Gana.
+
+Seeing the Gana statue, Han Sen sighed and thought to himself, “It looks like praying to God is useless. The lord helps those who help themselves, I guess.”
+
+There were many elites attending the auction, and they were all sitting down at tables. None of them looked weak. “Greetings, from Icebird and Han Sen.” Icebird Duke took Han Sen to meet Gold Jade King.
+
+Gold Jade King was a handsome fellow, and his rabbit fur was all gold. He looked very Noble, almost like a holy deity.
+
+On top of that, Han Sen also thought he looked very familiar. Now that he thought about it, the Earl Rebate he had beaten in the Moon God Festival looked remarkably similar.
+
+“You are Knife Queen’s student?” Gold Jade King’s golden eyes looked at him.
+
+Yes. It’s good to meet you, sir,” Han Sen said politely. He didn’t want to offend Gold Jade King. If he really wanted to buy the Gana, he needed Gold Jade King’s power to do that and still make it back to Narrow Moon.
+
+Han Sen and Icebird Duke’s combined power was fairly weak. Even if they secured a Gana, they could easily be mugged.
+
+Gold Jade King nodded and said, “Find a seat and sit down.”
+
+Yes.” Han Sen and Icebird Duke answered at the same time, and then they found a table with available seats.
+
+There was a space next to Gold Jade King’s table, but he did not invite them to sit with him. As a result, they did not.
+
+Han Sen dipped his finger in a glass of water and used it to write on the table. “Icebird Duke, that gold-eared Earl in the Moon Festival… Are they related?”
+
+Icebird Duke saw it, and also wrote on the table. “Gao Ji is Gold Jade King’s seventeenth son.”
+
+“That’s not good. If something happens to us here, do you think he’ll help us?” Han Sen felt depressed, hearing this.
+
+“It is hard to say. Gold Jade King might have many children, but he does love Gao Ji above the rest. After you defeated Gao Ji like you did, well, it’s not surprising that he’s upset about it. It is best, all things considered, that you don’t start trouble here.” Icebird Duke finished writing.
+
+Han Sen sighed, and he thought to himself, “I don’t want to start trouble here, either. But if I don’t buy that Gana, Guna will never obey me. I need to think about this.”
+
+A few minutes later, the auction hall was full to the brim with people. Many of the Kao were busy, occupied with serving the people that had come to the auction.
+
+Any of the Kings who were present could likely kill each and every Kao there, so no rules were needed.
+
+There was a Kao that looked like Gia, and she went up on stage. Han Sen could not discern the differences between each Kao. To him, they all looked the same. Their chests were like basketballs, and the smallest of them was like a football.
+
+“Don’t they have males?” Han Sen wondered.
+
+After the Kao said a few words, they brought out a Gana that had been wrapped up in chains. After a brief explanation of the Gana’s identity, the bidding began.
+
+The Kings were worried, hoping no one would try to steal it. They let their subordinates call out their bids for them.
+
+Quickly, the first Gana was purchased for a high price. And then, one by one, more of the Gana were auctioned off.
+
+Gold Jade King let the Duke next to him do his bidding, but he was unable to secure one.
+
+Han Sen felt that something was amiss. The Gana were being treated like a product, but they looked way too calm. The adults, and even the children, didn’t so much as shed a single tear. They calmly allowed themselves to be sold.
+
+There was no resistance. And after they were purchased, they quietly stood next to their buyers.
+
+“Something is wrong.” Han Sen looked around, but he did not see anything unusual.
+
+The next one to be sold was the Holy Lady of the Gana. While the cow-headed thing made its introduction, a Gana lady was brought up.
+
+When Han Sen saw her, he was in absolute shock. The woman looked exactly like Guna.
+
+She had a delicate face with white skin. Her waist was extremely slender, and her breasts were mighty and full. She looked just like Guna.

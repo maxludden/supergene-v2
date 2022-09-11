@@ -1,0 +1,86 @@
+Title:Taking It All for Himself 
+Chapter:2108 
+Section:8 
+Book:6 
+CSS:../Styles/style.css 
+viewport: width=device-width
+  
+## Taking It All for Himself
+### Chapter 2108 
+<figure>
+	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
+</figure>
+  
+
+  
+  I refuse to believe that this shield of his cannot be broken!” Andola fumed. He continued using his Judgment Angel Light to attack the blue shield.
+
+Han Sen stood where he was, allowing the rebirthing powers to cleanse him. He looked as blissful as if a pretty woman was giving him an excellent massage. He was very relaxed.
+
+Fairy Feather elder and the others wanted to rip Han Sen’s ugly face off.
+
+But the brothers’ Judgment Angel Light could not even make the blue shield tremble, let alone make a dent. Han Sen’s shield had encased the entire angel statue. The rebirthing powers that came flowing out of the vase all headed towards Han Sen. There was nothing the brothers Angela and Andola could do.
+
+Rebirthing powers flowed into the Spell armor continuously. The symbols across the Spell armor brightened, shrouding Han Sen in a holy light. He was like a sun within the Demon Bug Bai Sema.
+
+Angela and Andola continued to attack the Demon Bug Bai Sema, but nothing they tried worked. The shield did not even shake.
+
+When Fairy Feather elder and the others saw the rebirthing powers go into Han Sen, their hearts bled. No matter how much they hated Han Sen, there was little they could do. They could only watch the heartrending show.
+
+When Han Sen refused to remove the shield, it became apparent that he wanted all the power for himself. Fairy Feather shouted furiously, “Take it! Take it! Yeah, so much rebirthing power will push you into going primal. You won’t be able to cope, and you’ll have to restart from the beginning.”
+
+There really was so much rebirthing power. There was enough there to satisfy the rebirthing needs of two Dukes. What he was thinking was correct.
+
+Fairy Feather wasn’t the only one thinking this, either. Most Feathers were of the same mind. Han Sen had absorbed so much rebirthing powers, it’d likely reset his geno armaments and turn the dial back to zero.
+
+But as more and more power came gushing into the Spell armor, what they expected didn’t seem to occur. The Spell armor just continued to glow and nothing more.
+
+Half of the rebirthing powers had emerged now, and all of them had been taken by Han Sen. Not even a Duke should have been able to withstand that amount of energy. He should have gone primal by now.
+
+But Han Sen still stood calmly in the light, with nothing distressing occurring.
+
+Angela and Andola ceased attacking. They just stood there, watching Han Sen absorb every rebirthing power. They looked extremely awkward. The Pool of Rebirth had already started, so they would have to wait for all of this to be over before they could leave the altar.
+
+The whole race of the Feathers were embarrassed. They did not speak, and some of them had to slink away.
+
+The Sky Palace envoys, on the other hand, spoke merrily amongst themselves. They spoke about how much rebirthing power Han Sen might need to level up.
+
+As time went by, fewer and fewer winged eggs were being released from the vase. Han Sen’s Spell armor was getting even brighter, but it did not look like it was going to become a Marquise.
+
+Han Sen thought that much power would level up his Spell armor, but as the rebirthing power trickled off, the armor didn’t seem ready to reach a higher tier.
+
+“Oh no! So much energy and yet Spell still isn’t going to become a Marquise?” Han Sen felt depressed.
+
+The Feathers were in even more shock than Han Sen about this, though. Han Sen was going to absorb all of that rebirthing power, and yet he wasn’t going to level up. His geno armament wasn’t reborn, either. It was hard to imagine how he had managed to absorb so much power without being overwhelmed.
+
+When the last rebirthing power exited the vase, the liquid energy ceased its discharge, too. Then, the altar started to dim.
+
+Han Sen absorbed the last rebirthing power, and Spell looked like an armor built from the sun. It was so bright you could hardly look at it. But despite that, it had not reached Marquise class.
+
+Han Sen knew there was no hope of accomplishing that here. And now he realized just how difficult it was to level up The Story of Genes. That geno art required a mountain of treasure. Poor people could never hope to learn it. Even rich people would go bankrupt trying to meet its demands.
+
+The Pool of Rebirth stopped running and the crystal pillar became dim. Han Sen had been the one to absorb every rebirthing power, and the brothers had been denied a single one.
+
+“So what if he took all that power? After all that power absorption, he still cannot become a Marquise. No matter how hard he tries, he’ll never become deified! I doubt he’ll even reach King class. He is just a waste of resources.” Words like these were exactly how the Feathers tried to comfort themselves.
+
+But even so, they could not deny how surprising the Demon Bug Bai Sema had been.
+
+Even with the brothers combining their Judgment Angel Light, they could not make the shield rattle. They wondered if a King class elite could hope to break it.
+
+“What treasure was that shield? Why was it so strong?”
+
+“It looks like only Kings can break that shield. I cannot believe this treasure fell into the hands of an Earl.”
+
+“I bet Knife Queen or Sky Palace leader lent it to him. How could an Earl like him obtain such a powerful treasure?”
+
+“With this treasure, he could do anything in this universe.” “It’s a shame this treasure is in the hands of scum.”
+
+No matter how much the Feathers complained, they could not change the facts of the matter. They could not obtain a single ounce of power from that Pool of Rebirth session. Sky Palace had only occupied one slot of the three, and in doing so, claimed every single rebirthing power.
+
+Sky Palace had two more spots to use, and if they sent someone else like Han Sen, that would mean they’d be getting the equivalent of nine sessions instead of the three they were allocated.
+
+But despite their bitterness, there was nothing the Feathers could do about it. They had to gnash their teeth and swallow their pride.
+
+The envoys continued their discussions with Holy Heaven, so Han Sen did not see the point in hanging around now. He left Holy Heaven to return to Sky Palace where he could absorb the Jade Spirits.
+
+The Story of Genes was hopeless to level up, and not even Han Sen was confident in whether it could one day become deified. It took an extreme amount of power just to become Marquise, so god knew how much it would take to become deified.

@@ -1,0 +1,90 @@
+Title:Big Nice Guy 
+Chapter:3130 
+Section:16 
+Book:10 
+CSS:../Styles/style.css 
+viewport: width=device-width
+  
+## Big Nice Guy
+### Chapter 3130 
+<figure>
+	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
+</figure>
+  
+
+  
+  “She is Han Sen’s daughter? Is that just a coincidence?” Sky King’s heart flashed with many thoughts, but his face did not seem to change. He behaved as if he did not know Han Sen.
+
+Han Sen stroked Bao’er’s head as he asked, “Bao’er, what are you doing here?”
+
+He really wanted to know why Bao’er was there and how she reached the anti-material world. In front of Sky King, Han Sen could not ask such questions. Bao’er understood, which was probably why the DNA test read positive for her being his biological daughter. She understood and said, “Dad, I was playing here. I picked up this cute flying fish and this Mister Nice Guy. He gave me a beautiful pendant.”
+
+After that, Bao’er showed off the new pendant that was hanging around her chest. She seemed to be very fond of it.
+
+“Bao’er, is this really how I’ve been teaching you in the past? I’m pretty sure it isn’t. How could you do such a thing?” Han Sen looked seriously displeased with her.
+
+When Sky King heard Bao’er claim to pick up a cute flying fish, his eyes twitched. “Can you just randomly pick something like that up? How much luck would a person need to have such good things happen to them?” Then, Bao’er had called him Mister Nice Guy and said he had given it to her. It was not just his eyes twitching. It felt as if his heart was going to twitch.
+
+Hearing Han Sen tell off Bao’er, he felt a bit better. “It looks like this Han Sen has more morals than I gave him credit for. It’s just that this kid does not behave.” Bao’er looked wronged. “It’s not like I wanted it or even asked for it. He just decided to give it to me.”
+
+“Really?” Han Sen asked Bao’er. “Let me have a look at that pendant.” He collected the Sky Order and examined it closely.
+
+Sky King thought, “With this Sky Order here, Han Sen is sure to recognize who I am. That is fine. Although it looks bad, I think Han Sen will respect me. He will give it back to me.” Sky King saw Han Sen walk in front of him. He thought Han Sen would give the Sky Order back to him, but Han Sen held the Sky Order and asked, “Old Mister, you gave this to my daughter. What is this?”
+
+Sky King was surprised. He could not believe Han Sen did not recognize the Sky Order. Looking at Han Sen’s face, it did not seem as if he was pretending to be unaware.
+
+“Oh, it was nothing much. It was just my gift to her. It is just a silly little jade pendant. It is nothing of any significant value or meaning. It is only worth a bit of dosh, but that’s about it.” Sky King gnashed his teeth and thought, “I suppose it is a good thing he does not recognize it. If he did, that could probably lead to some embarrassment of sorts.” Han Sen lifted the jade pendant before Sky King. He thought Han Sen was going to return it to him, but Han Sen said, “You are very nice, Old Mister. You gave my daughter such a nice gift. You are a very nice man.”
+
+“Of course, not. I just thought our encounter was destiny, and she is such a loveable girl. That is why I gave her this gift. It was so I could be nice.” Sky King had to force his pleasant behavior, despite his earnest unwillingness to say such things. The flying fish was still staring at him. Sky King did not dare move. If Han Sen attacked him, he would have been absolutely destroyed. He did not dare to offend Han Sen.
+
+“Well, it is nice to know you are an honest man. My daughter is indeed quite loveable. Everyone who sees her says she is so smart and nice.” Han Sen looked cocky as spoke. He seemed very proud of her.
+
+When Sky King heard Han Sen say that, he wanted to stomp and spit on his face. He wanted to curse him. He thought, “What is this? You raised such a horrible daughter, yet you are so proud of her?”
+
+Although he felt bad, his mouth only returned an affirmative. He unwillingly had to agree with what Han Sen said.
+
+Han Sen went on to say, “The daughter always resembles the father. Old Mister, do you think my daughter looks like me?” “Do you?” Sky King unwillingly looked at them both. He did not think the two looked similar.
+
+Bao’er had a circular face, whereas Han Sen’s face was quite long and sharp. Bao’er’s eyes were obviously bigger than his so Sky King did not think the two looked similar at all.
+
+“Very similar. Everyone says me and her look like clones,” Han Sen seriously said.
+
+“Right.” Sky King could not be bothered to talk to Han Sen. He just nodded.
+
+“I say, you must also think we look similar. Yes?” Han Sen looked delighted. He put the Sky Order in front of Sky King.
+
+Sky King was happy. “Although this guy is talking nonsense, at least he has the courtesy of showing respect.”
+
+Han Sen just waved the Sky Order in front of him. It did not look as if he was going to give it back. He went on to say, “You are getting along with my daughter so well, and I look so similar to my daughter, fate must want us to be together. You even gave my daughter a pendant and said so yourself. In that case, I will…”
+
+Sky King was so angry that he almost started spewing blood. He had seen shameless people before, but he had never seen someone this shameless. He understood why he had said the two looked so similar. They were both extremely obscene and shameless. They were the same. It was like they were a clone of each other.
+
+Fortunately, Sky King had seen a lot and kept his cool. He knew that Han Sen must have recognized him and only pretended not to know him to scam him.
+
+Sky King was not afraid of Han Sen’s scamming. He was just afraid of being scammed and attacked. If he did that, he would lose his money and life.
+
+When he looked at the flying fish that was ready to go, Sky King gnashed his teeth and said, “Of course, fate did bring us together. The three of us are fated to be together, but I only have this one pendant to give. I do have something that is associated with fate though. I just don’t know if you will like it.”
+
+After that, Sky King transferred a gene race to Han Sen.
+
+“Got god-class gene race eight-armed evil dragon. Growth mode is ultimate.”
+
+“Old Mister is very nice. It is an honor for me and my daughter to have met you.” Han Sen smiled and thanked him.
+
+Sky King gnashed his teeth, planning on how to respond. When Han Sen finished, he took Bao’er and turned around.
+
+Bao’er was holding the flying fish. She kept walking and looking back, waving at Sky King. “Mister Nice Guy, let’s play again next time we meet.”
+
+Sky King did not expect Han Sen to just leave like that. He was frozen. “Surely he cannot actually recognize me.”
+
+He did not think this was possible. If Han Sen did not know him, when he saw the eight-armed evil dragon, he would have reacted.
+
+Even a fool seeing the ultimate-mode, eight-armed evil dragon would have known he was a superior sort of person.
+
+“This guy is so weird, and his daughter is too. Why would the flying fish be so nice to his daughter? It was a gene race that consumed a God Spirit Blood-Pulse.” The very powerful Sky King thought the father and daughter were mysterious.
+
+As he watched them walk a good distance away, he could hear Han Sen speaking to Bao’er. “Bao’er, don’t do this again. If you meet a nice person like that, how could you only take one pendant? That is not respectful to a nice pendant. You have to at least take two.”
+
+“Yes, I am sorry.”
+
+Hearing the two of them talk that way, Sky King’s face turned lime green and then dark green. It was colorful.

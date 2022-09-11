@@ -1,0 +1,90 @@
+Title:Jade Spirit 
+Chapter:2067 
+Section:8 
+Book:6 
+CSS:../Styles/style.css 
+viewport: width=device-width
+  
+## Jade Spirit
+### Chapter 2067 
+<figure>
+	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
+</figure>
+  
+
+  
+  Han Sen went to the second White Jade Jing with Thousand Feather Crane and the others.
+
+When they passed the first floor, they saw many students guarding the jade wall. On the jade wall were paintings of a jade beast. A few of the Sky students were standing guard before each of them.
+
+Thousand Feather Crane explained, “When the White Jade Jing opens, those jade beast paintings will emerge as spirits. If you are able to suppress them, you can nab yourself a jade spirit orb. It is useful for gathering a spirit skill.”
+
+Yun Sushang smiled and said, “The second White Jade Building has seven floors. The higher the floor, the more powerful the jade spirit. And also, the jade spirit orbs give better results. Earl class people usually hunt at either the fourth floor or below. Someone like you, as a Marquise, can definitely hunt jade spirits three floors higher.”
+
+“When I was in the Ancient God space and Return Ruin Sea, there were special circumstances that allowed me to fight Marquises. I don’t usually have such power. Let’s test my mettle on the fourth floor first.” Until Han Sen figured out what a jade spirit was, he didn’t want to play fast, loose, and risky.
+
+The three of them reached the fourth floor. There weren’t many students there. Unlike the prior three floors, which many people guarded, most of the paintings here were left unguarded.
+
+Yun Suyi pointed at a jade spirit painting. “There are many different jade spirits. Each one has different abilities, and they can level up differently. Like this Jade Tiger, for instance. If you get its jade spirit orb, you can strengthen your own vitality. This jade spirit bird is good for bolstering one’s speed. You should pick a jade spirit that aligns with whichever self-improvement path you wish to focus on the most. It will be great for you when gathering spirits.”
+
+“I see.” Han Sen found the concept interesting, and he began examining the jade spirits. His eyes stopped on one depicting a flying fairy. He curiously asked, “A fairy jade spirit… What type would it be?”
+
+“That jade spirit means balance. It does not excel in one department in particular, and instead improves a little bit for everything,” Yun Suyi said.
+
+“I see. In that case, I choose her.” Han Sen did not have a strong opinion, and he just thought the Jade Fairy looked beautiful.
+
+Han Sen sat in front of the Jade Fairy’s painting. That meant that was the spirit he had selected, in case other students decided to fight him for it.
+
+The White Jade Jing had yet to open. Thousand Feather Crane and the others each selected a jade spirit painting. Yun Suyi chose a painting that depicted some sort of spirit bird. It was next to Han Sen.
+
+Not long after, the White Jade Jing opened. A thick rush of jade air flowed out of the jade walls. Compared to the first White Jade Building’s Jade Air, this was far more intense. Absorbing it would make things more complicated, so it wasn’t all that suited for simple practice.
+
+Within the Jade Air, the jade spirits became active. They came down off the walls as half-transparent jade beings.
+
+Strangely, only the jade spirits that had students guarding them came out. The paintings without anyone protecting them did not budge at all.
+
+Han Sen looked at the jade spirit in front of him, and he noted how elegant it looked. It boasted very light clothing. The half-transparent body really did look like a fairy that had come to earth.
+
+The Jade Fairy spirit started flying around for a while before it came for Han Sen.
+
+Han Sen cast his Jadeskin and sat where he was without moving.
+
+Killing jade spirits was a different process than killing xenogeneics. Jade spirits were an essence of the Jade Air itself, and its power formed them. You could break them, but you could not outright kill them.
+
+Killing jade spirits involved allowing them to possess you. When they were doing this, you would try to reclaim control with your own force of power and strength of will. If you were able to overtake and refine the spirit, it would become a jade spirit orb.
+
+The Jade Fairy spirit went straight into Han Sen’s body. Its presence was like that of a thick fog going into him.
+
+Han Sen suddenly felt a chill run through him. A cold power flushed through each of his cells, as if to freeze him.
+
+Han Sen quickly cast Jadeskin to refine the ice air that was inside him.
+
+Han Sen only cast one cycle of Jadeskin. He felt his veins shiver and his muscles scream, as this pure extract of happiness began to leak out of his cells. Then, the cold feelings were all gone.
+
+After that, Han Sen’s whole body shuddered. The Jade Fairy spirit came out of his body. It did not return to the painting. It became a half-transparent jade stone that was around the same size as a thumbnail. It floated directly in front of Han Sen.
+
+Han Sen picked up the stone, and he noted the presence of some fairy jade air around it. It must have been the jade spirit orb the Jade Fairy spirit had become.
+
+Han Sen swallowed the jade spirit orb, and then he cast Jadeskin again. He felt a warmth in his stomach that then flowed up to the rest of his limbs. Han Sen felt very comfortable. Every part of his body was warmed, like he was bathing in a lovely spring with all his pores free and open. His cells were very active, too.
+
+The power of the jade spirit orb was heartily absorbed by Han Sen. He tried to create a godlight, and he noticed a new underlying power in Jadeskin. He couldn’t quite tell what it was.
+
+The White Jade Jing was still opening, and Thousand Feather Crane and the Yun sisters were still fighting their own jade spirits. They sat where they were, almost as if they were frozen.
+
+Yun Suyi had only been an Earl for a short amount of time. Fighting a jade spirit on the fourth floor would be very difficult for her. Her face was all pale, as if she had been stuck in ice.
+
+Han Sen used Jadeskin to cast a godlight at her. He wanted to help her suppress the force she was fighting.
+
+The Jadeskin godlight went into Yun Suyi’s body. And after that, she looked a whole lot better. Not long after, a jade spirit bird came out of her. It then turned into a jade spirit orb.
+
+Yun Suyi opened her eyes and picked up the jade spirit orb. She bowed to Han Sen and said, “Thank you for your assistance in refining the jade spirit.”
+
+“You and I don’t have to be so polite,” Han Sen said casually. Those words meant nothing to him; it was just a way of saying that he was friendly.
+
+But Yun Suyi blushed, lowered her head, and said nothing more.
+
+After a while, Thousand Feather Crane and Yun Sushang successfully suppressed their own jade spirits. They claimed their jade spirit orbs, and after opening their eyes, they were surprised to see Han Sen and Yun Suyi engaged in conversation.
+
+They had expected Han Sen to be faster than them in suppressing the jade spirit, but Yun Suyi’s speed was surprising.
+
+Yun Suyi told them that Han Sen had helped her. Thousand Feather Crane and Yun Sushang were shocked by this. “Ordinarily, if an outsider meddles with another person’s process of suppression, the jade spirit might break and not provide a jade spirit orb. You can help others without the jade spirit breaking? That is weird.”

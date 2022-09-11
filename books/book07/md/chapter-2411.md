@@ -1,0 +1,94 @@
+Title:Invincible Defense 
+Chapter:2411 
+Section:11 
+Book:7 
+CSS:../Styles/style.css 
+viewport: width=device-width
+  
+## Invincible Defense
+### Chapter 2411 
+<figure>
+	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
+</figure>
+  
+
+  
+  People like Han Sen, who could survive a conflict with a deified xenogeneic, were really helpful when it came to taking down deified xenogeneics. Dia Robber and Dragon One both knew the value of recruiting Dollar to their respective causes.
+
+Even a party of Extreme King would be willing to hire Han Sen to fight for them.
+
+Kings wanted to hunt down deified creatures, and the Extreme King could sometimes do that, but only if they found a weak deified. The stronger deified beings were too powerful for even the Extreme King to handle.
+
+Dia Robber and Dragon One exchanged a glance, then flew towards the fire area at almost the same time.
+
+“This looks very bad! The core furnace just triggered its third fire area. The Swords from the Furnace are strong enough to kill a half-deified elite now.” When Dia Robber got a better view of the battlefield, he couldn’t help but frown.
+
+The core furnace had remained alive while deified xenogeneics were killed around it because its power and fire area were too scary.
+
+It wasn’t like no one had tried to take it down before. A group of half-deifieds had worked together to attack the creature before, but their attempt failed beneath that sword rain. A few of the half-deified elites were even killed before they could escape.
+
+The large sword rain and the stacking fire area was a nightmare for the Kings that challenged this beast. It wasn’t something that could be overcome simply by assembling more people to go up against it.
+
+Dragon One nodded. “The fire area has stacked three times. Not even our last generation Dragon Thirteen, who has the strongest defense, would have been able to block this. And he was half-deified.”
+
+As they talked, they carefully kept themselves well outside of the fire area. They didn’t dare enter. There were three fire area buffs and rivers of swords in front of them. If they went inside, they wouldn’t be coming out alive. Plus, that core furnace was brewing its fourth fire area.
+
+But when they peered down through the haze of swords, their faces changed.
+
+Han Sen was wrapped in a blue glow, and rivers of swords were washing over his body from every angle. It was so scary that the two half-deifieds felt a little numb at the sight.
+
+Those scary sword streams slammed into Han Sen’s body, but they couldn’t break through the defense of his armor. Han Sen hung in the air as countless green crystal Swords from the Furnace came soaring down to strike him, then bounced off like they were made of cheap wood.
+
+Against Han Sen’s armor, those scary swords that could kill half-deified beings were nothing more than raindrops.
+
+Boom!
+
+As they watched, the core furnace’s cogwheels and chains moved, opening the furnace so it could absorb universal energies. Then the entrance port of the furnace spat out a volcano of green fire. The new fire area spread, then settled over the Swords from the Furnace.
+
+The Swords from the Furnace absorbed the fire area and crystallized further. Many of the swords now looked like green jewelry. They were glowing with light and fire, and each one of them looked like some mythic weapon of legend.
+
+“The fourth fire area!” Dia Robber’s lips pressed into a thin line.
+
+Dragon One looked glum. Four fire areas were now buffing the Swords from the Furnace. Each sword now wielded the power of a top half-deified being. Every one of them was equal to Dragon One’s power.
+
+There were many swords, and they swirled through space like some angry, crystalline hurricane.
+
+If that core furnace could go out into the geno universe, it could wipe out many of the higher races. Its storm of swords was like an army of half-deified xenogeneics.
+
+Of course, the core furnace had its downsides, as well. Every time it absorbed power from the universe, it shouldered the burden of casting another fire area. Each fire area it cast was a strain on its strength, so it couldn’t continue stacking its area power forever.
+
+Four fire area buffs were almost all the core furnace could endure. If the fire area continued to stack, the furnace itself might buckle and melt under the strain.
+
+If the furnace was unlucky enough to encounter a powerful deified xenogeneic, the deified wouldn’t let the fire area stack up that many times. The deified would just smash through the storm of swords and break the furnace in one hit.
+
+But right now, the furnace had managed to build up four layers of the fire area. The power it now wielded was truly frightening. It wasn’t something a normal deified xenogeneic could deal with.
+
+A flash flood of swords approached Han Sen, blanketing the space around him. Dragon One and Dia Robber’s eyebrows rose. The pressure of the situation was getting to them, and they clenched their fists.
+
+“Can Dollar survive this?” Dragon One and Dia Robber stared at Han Sen, hovering alone in his blue area.
+
+Boom!
+
+The waterfall of swords came crashing down on Han Sen. They buried Han Sen under a seething mountain of green jade. The raging stream of swords kept coming down, and it felt like so much mass was converging that a black hole was about to form, right there in space.
+
+Sweat tricked down the foreheads of Dragon One and Dia Robber. If this kind of attack came at one of them, their bodies would be torn to shreds.
+
+It wasn’t a matter of enduring it through force of will. It was an incredible power that had been designed for the sole purpose of killing enemies. It was impossible to endure unless the defender had more raw power than the attack. No amount of reinforcements or additional troops could overcome something like this.
+
+Water was very weak in small quantities, but when enough water gathered in one place, it could become a tsunami. Even tall buildings could be toppled by such forces of nature.
+
+The swords of the core furnace held that same awe-inspiring power.
+
+The impacts of the sword stream were so loud that Dragon One and Dia Robber could barely hear each other. Their eyes stared at the blue light in the middle of the sword stream.
+
+The blue light area had yet to be swallowed, and that meant Dollar was not yet dead.
+
+Surviving under such circumstances was nothing short of a miracle.
+
+Boom!
+
+The falling sword stream began to slow down, and Dragon One and Dia Robber could finally see Han Sen through the small gaps between the swords. Han Sen stood calmly in place. He was fearless, like some sort of god. He let those Swords from the Furnace collide with his armor, and he made no effort to block them. None of the swords could break through his defenses.
+
+Dragon One and Dia Robber were both shocked and happy. “What kind of area and armor power does Dollar have? He remained uninjured beneath the weight of those attacks.”
+
+They could barely believe the strength of Han Sen’s defenses, but it gave them hope. With such a powerful defense, stalling a deified xenogeneic might be possible.

@@ -1,0 +1,74 @@
+Title:Dollar Big God 
+Chapter:2998 
+Section:15 
+Book:9 
+CSS:../Styles/style.css 
+viewport: width=device-width
+  
+## Dollar Big God
+### Chapter 2998 
+<figure>
+	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
+</figure>
+  
+
+  
+  Han Sen knew the kill sky hammer’s radius of attack was scary, but there was nothing he could do about it. That thing was very powerful, but no one was able to control the radius of that power.
+
+Luckily, the closer to the center of the shaking point someone was, the more shaking power there was. They were quite far away, so the shaking power they felt was quite weak. If it was like Moment God’s power. When facing the kill sky hammer face-to-face, one of those attacks would have probably nearly killed Sun Moon God Ape.
+
+Moment God saw where the kill sky hammer came from. She knew that the power of the hammer could break every other power. She ignored Bao’er. She flashed above Golden Growler, put her hands together really fast, and made a weird symbol. It was heading for Golden Growler. There was a wave headed for Golden Growler, so it opened its mouth. The gold door only exited its mouth halfway. The door was frozen there. All of that happened in just one moment. At the same time, Golden Growler stopped moving. Moment God flashed away. She dodged Bai King’s knife sword, which was crazily slashing. She appeared in front of Han Sen. She carried the time light. Her hand was reaching out for Han Sen’s light scissors.
+
+Han Sen knew Moment Goddess was afraid of the golden door that came out of Golden Growler’s mouth. Even if her power could not kill Golden Growler, it could trap it. If she could kill him, she would have done it already.
+
+Moment God moved to take the light scissors away so that Golden Growler could not be set free again. “An Annihilation class God Spirit is hard to deal with. I wonder how scary a Reboot class God Spirit is.” Han Sen used the time area. The time element did not have much of an effect on Moment God. Instead, Han Sen was affected by Moment God’s time god power effect. His movement was very slow. He could not dodge her and prevent her from stealing the scissors.
+
+Bao’er’s body flashed. She was suddenly above Han Sen’s head. The hammer was striking toward Moment God’s hands.
+
+“No!” Moment God had no reaction. Han Sen, Bai King, Sun Moon God Ape, and Space Spirit screamed. Their faces looked black.
+
+Earlier, Bao’er had waved her hammer a few times, which almost shook them to death. Their bones almost cracked. Now, it was about to come down near their bodies. It was going to kill them.
+
+Unfortunately, it was too late for anything. The hammer in Bao’er’s hand had already hit Moment God’s hand.
+
+Han Sen knew this was going to be bad. He flashed backward and raised the Shield of the Medusa’s Gaze to try and protect his body.
+
+Bai King used his spirit body to raise a shield and protect himself as he quickly retreated.
+
+Sun Moon God Ape and Space Spirit were running away as fast as they could. Their foreheads were dripping with cold sweat.
+
+Boom!
+
+“Argh!” Han Sen and the others screamed. It was like a television show in which they were blown away. The four of them blew up, flew, and rolled away. All the God blood spilling out was like it was for free.
+
+Han Sen and Bai King were faring a little better. Only their bones and organs were ripped. Sun Moon God Ape and Space Spirit only had half their lives left. That was especially true of Sun Moon God Ape. His limbs were soft, and he was twisted like a pretzel. He was going to be disabled. “Big God, please stop shaking me… Cough… Cough… Moment God still hasn’t touched me… Cough… Cough… I am going to be killed by you…” Sun Moon God Ape was speaking and throwing up blood at the same time. He was going to cry. “Shut the hell up! You’re only a little bit hurt, yet you are crying. Are you a 3-year-old child?” Bao’er lifted her lips. She then lifted her finger, enabling a giant lotus light to come out of it. The petals had a holy light. The body of Sun Moon God Ape was covered in that holy light. The wounds were healing fast. It was at an unbelievable speed. The lotus light was the true god beast soul Han Sen had claimed from the Light Well Lotus. It had a powerful healing bai sema. Han Sen had given it to Bao’er. If Bao’er was in danger, she could use the lotus to save her life.
+
+Suddenly, Sun Moon God Ape and others saw their severe wounds healing. Sun Moon God Ape was very happy and said, “Dollar Big God, you really can do everything.” “Stop talking crap! Give me your time and space power!” Bao’er shouted. She was holding her little hammer and going toward Moment God.
+
+Sun Moon God Ape and Space Spirit were busy gathering their powers. They buffed Bao’er so that she could catch up with Moment God.
+
+Boom!
+
+The power of the kill sky hammer struck Moment God’s time god power again. Bao’er used her kill sky hammer to fight Moment God face-to-face and not lose. It was bad for Sun Moon God Ape. Although there was the Light Well Lotus healing bai sema for protection, the bai sema could only heal. It could not block the damage.
+
+Sun Moon God Ape was being shaken again. Everyone was spitting out blood and healing. Their bones broke and healed and healed and broke. Their organs ripped and healed and healed and ripped. It was like they were suffering absolute torture. It felt absolutely awful.
+
+“Dollar Big God really is the strongest in the universe. He can fight Moment God without losing.” “Dollar Big God is so overbearing and strong. Go and kill Moment God and bring the creatures of the universe some dignity.”
+
+“Dollar Big God is invincible.” The creatures from every race started to speak like Sun Moon God Ape. They added the two words after every mention of Dollar’s name. No one thought it was an unworthy title.
+
+Most of the creatures in the universe thought Dollar was the big universe’s first strongest elite. The other true gods were too weak before Dollar. Calling him a big god was to separate him from other elites.
+
+“Interesting.” Human King squinted his eyes. He watched Bao’er battle Moment God. His eyes looked weird for a second.
+
+The red-clothed woman stood behind him and said, “I think this Dollar has an even higher chance of breaking that level, yet Han Jinzhi wants us to assist Han Sen. Are you sure he is not just showing bias?”
+
+Human King laughed and said, “Dollar is strong, but he is depending on his god personality armament. He has the evil lotus bai sema and sky bone knife armor too. That hammer, if I am not mistaken, is Kill Sky God’s god personality armament. I bet Kill Sky God descended to kill him, and he killed him. That is how he got that Annihilation class god personality armament.”
+
+“Kill Sky God possessed someone and descended?” the red-clothed woman asked. “It would have been so much weaker. Even so, killing Kill Sky God would have been an almighty task. He did not have the kill sky hammer at the time.”
+
+Human King nodded and said, “This kid is very rare. I do not know who created this monster. His genes are complex. They are more complex than a creature from the sanctuaries.”
+
+While everyone was talking, Han Sen approached Golden Growler with his light scissors. He knew Bao’er did not have much time. He had to finish the fight to save Golden Growler.
+
+In that massive fight, Bao’er might not have been able to last an hour before she spent all her power.

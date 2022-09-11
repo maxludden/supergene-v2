@@ -1,0 +1,98 @@
+Title:God of Wealth Temple 
+Chapter:3146 
+Section:16 
+Book:10 
+CSS:../Styles/style.css 
+viewport: width=device-width
+  
+## God of Wealth Temple
+### Chapter 3146 
+<figure>
+	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
+</figure>
+  
+
+  
+  Picking the right human to give a Blood-Pulse to was like venture capitalizing. It depended on whether or not one had good eyesight. One also needed variety. If one or two humans were able to develop quite well in the future, benefits could be reaped.
+
+It was a shame the God of Wealth Temple was there. Not many humans were able to go there. The places Han Sen could select were minimal, which made him feel quite depressed.
+
+For things like god temples, once one was established in a place, it could no longer be moved. An example was Feather Fairy’s god temple. Almost no humans traveled there, but Feather Fairy had to stay where he was. He was unable to relocate his temple, so he had to make do with where it was.
+
+Han Sen did not know how Mister God moved the God of Wealth Temple there, but he knew he could not move it.
+
+Han Sen discovered something interesting from the information he had just learned. In one god temple, it was not just one spirit that could be there.
+
+The god temple did not determine the number of God Spirits allowed. It was the god base in a god temple.
+
+Because a default god temple only had one god base, it could only allow one God Spirit. If there were more god bases, a god temple could harbor more God Spirits. The higher the level the god temples were, the more God Spirits that it could have.
+
+A Destroyed god temple could only have one main god and two sub gods. A Disaster god temple allowed for one main god and four sub gods. An Annihilation god temple could have one main god and eight sub gods.
+
+Every god temple could only have one main god, which meant that all the sub gods had to adhere to the will of the main god. To get sub gods, the main god had to acquire god bases. Thus, not many god temples had sub gods. Ordinary sub gods were usually wild gods.
+
+By having more sub gods, the god temple had more godly authority.
+
+For example, Han Sen’s God of Wealth Temple, which he had authored Wealth, was able to enlist a fire sub god. The god temple could then be authored Fire.
+
+The sub god could also protect the god temple so it was not affected by the powers of the outside world. Even if Han Sen was not in the temple, he did not have to fear the god temple being brought down.
+
+Han Sen tried bringing out Decapitation Queen’s god base and putting it down in his God of Wealth Temple. The god base flew to the side of the hall. It formed a new god altar in its corner.
+
+At the same time, Han Sen felt weird power come from the Sky God Crown. It made the Sky God Crown much stronger.
+
+The guillotine and Decapitation Queen were next to the god altar. Seeing Han Sen come before her, Decapitation Queen kneeled before him.
+
+“Small God greeting the Mister,” Decapitation Queen said. This was the god base, so she had no memory of her past life as Decapitation Queen. She also didn’t seem to have a will of her own. Like Han Yufei had described, this was a new spirit. The appearance and power were the same as the old Decapitation Queen, but it was a brand-new lifeform.
+
+Han Sen looked at Decapitation Queen and immediately checked out her information.
+
+Decapitation Queen: Annihilation God Spirit (God of Wealth Temple sub god)
+
+God Authority: Death Sentence
+
+God Power: Guillotine
+
+Han Sen told Decapitation Queen to massage his back. Decapitation Queen did not resist. She was like a slave and willing to do everything he wanted her to do.
+
+One thing Han Sen did not like was that the god temple did not provide him access to the geno universe. It was like Qin Jun or Sky God. The God Spirits of god temples could enter the geno universe for a set amount of time, and there were many restrictions. It was the same for Han Sen entering the geno universe as God of Wealth. He could not hurt any creature, and he needed to keep the geno universe as it was. Even if he destroyed a stone or a piece of wood, he was punished.
+
+In fact, even if God Spirits wanted to hurt the geno universe, it was impossible for them to do so. The power of God Spirits was restricted there. Unless they were in a god temple, their power would accomplish nothing on the creatures of the geno universe. Of course, if the creatures of the geno universe made a wish to them, that was a different story entirely. Through the process of making a wish, they could use power and not be restricted. They could control them.
+
+Han Sen calculated that he needed another two months before entering the geno universe, and he could only stay for four days.
+
+Han Sen frowned and thought, “Why do God Spirits in the geno universe have more restrictions than in the universe of kingdoms? Why are the creatures of the geno universe not like the humans of the universe of kingdoms? They do not get blessed by God Spirits, and they cannot be combined with God Spirits.”
+
+There was a big difference in the way the two universes operated. Han Sen knew it had to mean something.
+
+Li Bing Yu had been guarding outside the gene god temple. Bald Guy asked Li Bing Yu, “Ghost Kill, do you think the god temple belongs to the God Chaos Party?”
+
+“I do not know,” Li Bing Yu said with a shake of her head.
+
+She had only learned about them from Wu Wei Dao Palace. She had read books about the God Chaos Party.
+
+The members of the God Chaos Party were usually some very powerful, wild God Spirits. They killed the main gods to earn God Spirits. They disturbed the flow of things in the universe. They were very much like outlaws.
+
+Back in the old times, the God Chaos Party was very powerful. It had almost replaced the sky full of main God Spirits to create a new god kingdom.
+
+In the end, the God Spirits beat them. They vanished down the river of time. If it was not for Wu Wei Dao Palace having such a large vault of historical records, the God Chaos Party would have long been forgotten.
+
+When the God Chaos Party was in its prime, there were not seven kingdoms yet. Decapitation Queen was one member of the God Chaos Party. Li Bing Yu had casually read a book about it. There were two or three sentences that referenced Decapitation Queen. Due to there being such a small amount, she did not remember too much.
+
+While they were both feeling restless, the door to the god temple suddenly opened. Han Sen came out from the god temple in perfect shape.
+
+Bald Guy ran up and asked, “Old Han, are you OK?”
+
+“I am fine,” Han Sen said with a smile. “This god temple was opened by my old friend. He invited me in for a chat, but I’ve finished now.”
+
+“Are you a friend of a God Spirit?” Bald Guy asked Han Sen in shock.
+
+He thought there was going to be a fight, but Han Sen had actually gone in to chat with a God Spirit.
+
+“Yes,” Han Sen said with a smile. “This god temple’s main god is God of Wealth. He is my brother. If you want to change your God Spirit Blood-Pulse, just go in and say hello. I promise you a complete God of Wealth Blood-Pulse.”
+
+Bald Guy sounded excited as he asked, “What element is God of Wealth? What kind of god authority does it have?”.
+
+“The God of Wealth is a wealth element god,” Han Sen happily said. “It has a wealth god authority. If you have a God of Wealth Blood-Pulse, you will be extremely rich.” God Spirits did not give out Blood – Pulses easily, but it did not mean they did not have to give them out at all. They needed humans to have their God Spirit Blood-Pulses so they could go on and do things. That way, their God Spirits and god temples would become stronger.
+
+Han Sen decided to go back. He was going to give Feng Yin Yin, the genius little girl, to the God of Wealth. He was sure she would achieve a lot. She would benefit from the God of Wealth Temple.

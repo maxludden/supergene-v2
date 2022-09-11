@@ -1,0 +1,96 @@
+Title:Water Area 
+Chapter:2317 
+Section:11 
+Book:7 
+CSS:../Styles/style.css 
+viewport: width=device-width
+  
+## Water Area
+### Chapter 2317 
+<figure>
+	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
+</figure>
+  
+
+  
+  Han Sen drew his Ghost Teeth Knife as he felt a chain of water wrap around him. It bound him tightly, and his arms were completely restrained.
+
+The King class guard didn’t move to attack. He just allowed his AoE to bring Han Sen closer. Han Sen’s limbs were outstretched as he was brought to float before the King guard.
+
+“You think beating Prince Wuchang makes you a bad*ss? You’re naive. Dukes are still Dukes. The gulf of power between a Duke and King is the same societal difference that separates royalty and slaves. It is the difference between the sky and the ground. It is the difference that separates the stars and the moon,” the King class guard said. He reached for Han Sen’s Ghost Teeth Knife. He intended to use Han Sen’s own blade to kill him.
+
+When the King class guard reached for Ghost Teeth Knife’s handle, Han Sen cast Jadeskin and Mutant Blood at the same time.
+
+His flesh became jade, and his crystal blood melted. It was like boiling lava now, surging throughout Han Sen’s body.
+
+The water that restricted Han Sen’s body thinned. It didn’t snap, but it was stretched. It couldn’t stop what Han Sen was doing.
+
+“The monarchy can be overthrown. The skies and the ground can be reversed. The stars can be moved. Day and night can be swapped. Everything is in my hands.” Han Sen’s voice was as cold as steel. He grabbed Ghost Teeth Knife and swiped it at the King class guard. The Teeth power became a roaring, dark purple demon. It was going to eat the man.
+
+“You are just a Duke. How do you know how thick the sky is? Do you think the ground can be shaken? How bright are the stars and the moons, do you think?” The King class knight didn’t move. Instead, he threw a punch against Han Sen’s knife air.
+
+The green punch was like water. The Teeth power’s demon knife air hit the water and created a ripple. It was just a swirl, like a drop of water into the sea, becoming one with the rest.
+
+The King class guard came punching at Han Sen with the force of a tsunami. Han Sen was like a boat, rocking around on the crazy waves of the tumultuous sea, caught by powers that could overthrow and drown him any second.
+
+Dong!
+
+Suddenly, Han Sen’s left hand hit the Blood Scorpion Jade Drum that was still tied to his waist. That sound was like the toxic stinger of a scorpion, and it was thrusting at the King class guard’s head.
+
+The guard’s face changed. His green light was still bright and powerful, but it was too late for him to do anything about Han Sen’s attack. The acoustics of the drum went straight into his head.
+
+“Argh!” the King guard screamed, and his AoE was disrupted.
+
+Han Sen pulled out the Thunder God Spike which was slung around his back. He used the lightning power to needle the King class guard who was still screaming from the drum’s attack.
+
+But Han Sen could feel that the Thunder God Spike was somewhat restricted. It was like he was trying to move it through the deep sea, and it was forced to slowly part the water as it slid forward. Even bullets would be slowed by that stopping power.
+
+“D*mn it! The AoE is affecting me too much,” Han Sen thought in frustration.
+
+Before the Thunder God Spike struck the guard’s body, the man clutched his head and retreated. He was able to avoid Han Sen’s attack.
+
+“I clearly underestimated you.” The King guard opened his hand, and a lance appeared in its grip. Lots of lance-waves came at Han Sen.
+
+Han Sen was still restricted by the guard’s area-of-effect. His movement was slowed, and he was unable to dodge. He lifted the Thunder God Spike and tried to use it to repel the King guard’s lance. He also pounded the Blood Scorpion Jade Drum again.
+
+Dong!
+
+The drum was like thunder, and the King guard had to use his power to protect himself. He was able to block the Blood Scorpion Jade Drum’s attack.
+
+The Thunder God Spike in Han Sen’s hand collided with the lance. The silver lightning and the green light came against each other, but the lightning wasn’t repelled. It struck the lance.
+
+There was a loud scream as the King guard was electrified. He almost dropped the lance in his hand, but he wasn’t paralyzed for long, and he soon recovered. Han Sen had wanted to spike him while he was paralyzed, but he couldn’t.
+
+The King class guard was shocked by Han Sen’s attacks. It was frightening that a Duke, even when he was submerged in a King class area-of-effect, could be so threatening.
+
+Han Sen was worried. The King guard was clearly stronger than Night River King had been. The guard had struck twice, but he hadn’t hit Han Sen yet.
+
+The King class guard wasn’t looking at Han Sen with disdain. His eyes looked sharp, and his lance was like a dragon that was pointing at Han Sen. He wasn’t willing to let Han Sen touch him with the Thunder God Spike.
+
+Han Sen’s body was still bound by the AoE, and the guard was now being careful. This was going to be a dirty fight.
+
+The guard was avoiding the Blood Scorpion Jade Drum and Thunder God Spike. He was wary of exposing himself to either weapon, and that was how Han Sen maintained their impasse.
+
+The King guard’s lance kept poking around Han Sen’s defenses, but he couldn’t get past Han Sen’s Thunder God Spike. He was shocked by this, and he thought, “This Duke is still defending himself, despite being dead-center in my AoE attack? This guy really is something special. It is no wonder he was able to defeat Prince Bai Wuchang.”
+
+Han Sen’s power kept exploding out of him. He could barely hold off the AoE’s restrictive properties, and doing so was requiring a great deal of energy. And if he ended up exhausting himself, beating his foe would be impossible.
+
+Han Sen found a chance. He jumped up and flapped his wings, intending to teleport out of the King’s area-of-effect.
+
+But the teleportation capabilities of the wings were too limited. He could only go one mile at a time, which wasn’t nearly enough to separate himself from the King’s area-of-effect. And now the King guard was coming for him.
+
+Inside the area-of-effect, Han Sen couldn’t compete with his opponent’s speed.
+
+“He is a water element King. Being in a high-temperature place will be a disadvantage for him.” Han Sen quickly turned and headed for the enormous lava valley.
+
+Pang!
+
+Beneath the restrictions of that King area-of-effect, Han Sen’s movements were slow. The King class guard managed to land a blow on his shoulder, and he felt water thrust into his wound.
+
+Han Sen gritted his teeth and then jumped into the lava.
+
+The King class guard laughed darkly. “I thought you were worthy of respect. I didn’t expect you to do something so foolish. Water is not a cold element. Do you really think fire will work well against water? I will show you how scary water can be when up against a fire element.”
+
+After that, the King guard leaped into the lava without hesitation.
+
+The King class guard traveled through the lava quickly, and Han Sen couldn’t find a way to escape his area-of-effect. The scariest thing was the way that the water attack was heated up by the lava. The water orb became a region of scalding steam. Its binding powers grew stronger, and it seemed as if it was going to melt Han Sen’s Galactic Lobster Armor.

@@ -1,0 +1,94 @@
+Title:First Sky Leader 
+Chapter:3342 
+Section:17 
+Book:10 
+CSS:../Styles/style.css 
+viewport: width=device-width
+  
+## First Sky Leader
+### Chapter 3342 
+<figure>
+	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
+</figure>
+  
+
+  
+  “Be my guest.” Han Sen did not move. He looked at the purple copper sword. He wanted to see what it was going to do.
+
+If it did not work, Han Sen would not just sit where he was. He would flee. Regarding winning or losing this bet, he did not care. He was not going to do anything even if he lost.
+
+The purple copper sword did not care. It turned around. The sword handle struck the giant hammerhead.
+
+Dong!
+
+When the iron hammer was hit, a shaking noise like thunder sounded. The shaking power grew scarier. It was like a tumultuous sea.
+
+Han Sen could use the ice-jade shield to block the powerful shaking a bit. But within that shaking, there was some sort of power that could shake one’s soul. It ignored the defensive properties of the ice-jade shield and invaded it.
+
+Han Sen’s Super God Spirit mode was very strong. His soul body was solid. The hammer’s soul-shaking was unable to do anything to him, but the girl was not faring half as well. She coughed up some blood, clutched her head, and started to cry.
+
+“That hammer can attack a person’s soul.” Upon seeing the girl in pain, Han Sen was shocked.
+
+The purple copper sword saw that Han Sen was doing fine, which was disappointing. However, it was only a little disappointed. It had not thought that the soul power could totally break Han Sen anyway.
+
+The girl’s painful face lined up with the expectations the purple copper sword had already established. More than anything, it had drawn Han Sen there to deal with the little girl.
+
+Members of the soldiers and holy soldiers had a soul connection. If the members died, the holy soldiers died too. Killing the little girl was easier than defeating Han Sen. That was why the purple copper sword concocted this wretched idea. It let the iron hammer’s soul-shaking power beat the little girl. It did not matter how strong Han Sen was. Ordinary power would not be able to shake the soul away.
+
+Even if it expected Han Sen not to get the girl outside of the power, and he did it, it would be even easier for it to kill the girl.
+
+As the girl bled from her seven holes, the purple copper sword struck the hammer harder. It kept hitting it while saying, “Your body is so strong! Such powerful power does not harm you, but that little girl does not seem to be faring too well.”
+
+“Thanks for asking about her, but I am sure she is fine.” Han Sen suddenly used his Super God Spirit mode. The jian turned into a white color that looked like nothingness. He released a white fire that was burning with the ice-jade shield. He blocked the soul-shaking power and kept it outside.
+
+“Are you Han Sen?” When it saw the Super God Spirit mode, the purple copper sword immediately recognized his identity as Han Sen. It shocked the purple copper sword.
+
+“What if I am?” Han Sen was not surprised. Many people knew him.
+
+The purple copper sword was silent. The reason Asura, the elusive Demon alpha, changed her personality and the way she spoke was because she did not want others to know who she was. She did not expect to meet Han Sen there.
+
+Asura’s power made her very good with the Shura Sutra’s cause powers. It was the Luo family’s Falsified-Sky Sutra. That power could eliminate anything that touched a cause item, but it did not work on pure spirit bodies.
+
+When a spirit died, the spirit in the body would start to reincarnate and restart its life. The karma of the last life was reduced to zero. The soul itself did not have any cause or karma to deal with. It was very hard to have it.
+
+Han Sen’s Super God Spirit mode possessed spirit power. Better yet, it was even greater than that of a spirit. Not even Asura wanted to fight someone with Han Sen’s body.
+
+When this happened, Asura felt troubled. Her Shura powers could slay God Spirits. Against Han Sen, there was no confidence in doing the same.
+
+Han Sen thought the purple copper sword would do something, but the purple copper sword ceased hitting the hammer. It did not make any further acoustics. A while later, it said, “If I give you the chance to become the leader of Soldier Weapon Sky, can you promise me one thing?”
+
+Han Sen was surprised by this turnabout. He did not know what the purple copper sword wanted of him, but he still went ahead to ask, “Promise you what?”
+
+The purple copper sword did not speak. A while later, it said, “Never mind. Even if you did not promise me, you would have to do it anyway.”
+
+After that, it did not care if Han Sen understood or not. Its sword had some spirit light. That spirit light went to the little girl. The purple copper sword flew away.
+
+Han Sen did not understand this. He did not understand what the purple copper sword meant, but he had realized what had just happened. The purple copper sword was gone.
+
+The spirit light entered the girl’s body. The girl underwent some weird changes. Her entire body became riddled with spells.
+
+In that giant Soldier Weapon Sky, countless weapons moaned together. It was like they were welcoming a leader. Even the scary hammer joined in.
+
+At the same time, the geno tablet started to glow. A line of new words appeared.
+
+First Sky Leader: Soldier Holy Spirit
+
+Han Sen saw a sky full of weapon air go to the girl. It surrounded her and went into her body. Her flesh turned into armor.
+
+As one had a closer look at the armor, one could see it was made by many mini weapons. The girl’s presence was stronger.
+
+When the girl’s body evolved, Han Sen had some power feedback. That power had all kinds of weapon will. It made Han Sen suddenly feel as if he had learned all kinds of weapons’ most primitive will and skills.
+
+“Is there this kind of benefit?” Han Sen was overjoyed.
+
+To Han Sen, this knowledge was not all that useful. He already knew how to use many different types of weapons. He had just been given a little bit more knowledge on top of what he already knew. He just knew about more weapon types.
+
+There was a benefit. Han Sen’s body was cleansed by all sorts of weapon air. It did not help boost his Break World rate, but it made his body stronger.
+
+In the 33 skies, a light shone on the girl. She had finished evolving and was sucked inside the light.
+
+Han Sen was the holy weapon. He should have been teleported too, but his relationship with the little girl was special.
+
+The girl could not blend his mark into her soul, but he was able to blend her soul mark completely.
+
+Thus, the geno tablet did not believe Han Sen was the girl’s holy soldier.

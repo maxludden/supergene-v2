@@ -1,0 +1,80 @@
+Title:High-class God Spirit Blood-pulse 
+Chapter:3048 
+Section:16 
+Book:10 
+CSS:../Styles/style.css 
+viewport: width=device-width
+  
+## High-class God Spirit Blood-pulse
+### Chapter 3048 
+<figure>
+	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
+</figure>
+  
+
+  
+  Although Han Sen thought it would be difficult if he and Mister Yang wanted a share of this, Peaceful still took them back and introduced Mister Yang to her partners. Those people were greatly enthused to meet Mister Yang. They had no problem learning they were to lose 20% of their cut for his services.
+
+When he returned to his room, Han Sen looked at Mister Yang and laughed. “Old Yang, I did not expect you to be this well-renowned.”
+
+Mister Yang had a wry smile. “Sometimes, it is very bad to earn a reputation and title you cannot live up to. Although I have knowledge when it comes to looking for Blood-Pulses, I do not have the power to protect myself. That is the reason why I suffer when it comes to treasure hunting. Without you, Peaceful would not be so nice to me. I am afraid I would have to come here against my will, and I would likely not be given a 20% cut.”
+
+While Han Sen was talking with Mister Yang, he took out the body of the overbearing bug and started cooking it in the oven.
+
+They were inside a hotel in Ancient God City. They could not make a fire, so having an oven was not too shabby.
+
+Small Cat was politely sitting next to the oven. He was looking through the cooker’s window, staring at the slowly roasting meat inside of it. It wanted to devour what was inside so bad that one could see the kitten drool in anticipation. When it was eventually cooked, Han Sen split the meal into three parts. He was going to give Mister Yang one part, but Mister Yang shook his head. “My old body cannot accept this gene race meat. You should enjoy it.”
+
+“Do the nobles not eat gene-race meat either?” Han Sen asked with curiosity.
+
+“People will eat such things only when they have no other choice, but they will never eat too much. Gene-race flesh has too much weird energy. Human bodies cannot take too much of that energy. Only gene races can eat it.” Mister Yang stared at Han Sen.
+
+He watched Han Sen consume the meat. It made him think, “Is this guy a gene race? If he is not a gene race, his body and the amount he can eat is nothing like a human. He is like a gene race. But if he is a gene race, how can a gene race combine with another gene race?”
+
+Han Sen and Small Cat, a man and a cat, ate a lot of the overbearing bug meat. Small Cat was very small, but he had no problem eating a cow’s weight of the overbearing bug meat. Its small belly was stretched. It laid out its limbs and comfortably reclined after the meal. Its small paws were placed on its circular belly. A look of utter satisfaction crossed the cat’s face.
+
+Han Sen ate a few more pieces. He noticed that he did not get any gene announcements. He was disappointed, so he stopped eating.
+
+Mister Yang wanted to say something, but he saw that the night sky was brightening up outside the hotel.
+
+Han Sen and Mister Yang looked out the window. A purple beam of light was shot into the sky. It fired into the clouds. It was like a pillar connecting the sky and the earth.
+
+“That was the location of Evil Lotus God Temple. I wonder what happened there.” Han Sen stood in front of the window with a frown as he observed the purple light.
+
+Mister Yang looked at the location for a while. He looked envious as he said, “Someone has a complete Evil Lotus God Blood-Pulse. I did not expect Ancient God City was home to such a genius.”
+
+Han Sen looked at Mister Yang and asked, “What do you mean?”
+
+Mister Yang explained, “Normal people get a Blood-Pulse that is not complete. It is like what we saw before when people got one or two purple lotuses or even three or four purple lotuses. They are not complete God Spirit Blood-Pulses. The weird scene that is happening now means someone has managed to get a complete Evil Lotus God Blood-Pulse. The talent has maxed out. It is easier to get a gene race than it is for a normal person. That is their talent.”
+
+After saying that, Mister Yang sighed and said, “It is very hard to compete with people. I only want a drop of a God Spirit Blood-Pulse, but I have never been able to get anything. Others? They always get what they want. Such geniuses. Ancient God City’s leader will likely recruit that person.”
+
+“Are God Spirit Blood-Pulses really that important?” Han Sen really did not understand this concept.
+
+The place where Han Sen grew up depended on effort and power. If they had power, they could use that power to accelerate their own growth in the sanctuaries and become stronger. This world seemed to be completely different. God Spirit Blood-Pulses seemed to determine everyone’s fate. Without a God Spirit Blood-Pulse, a person did not even have a chance to get strong. “They are very important,” Mister Yang bitterly said. “One purple lotus God Spirit Blood-Pulse makes a baron-class gene race obey. It requires you to keep communicating and trying even without a guarantee of success. A complete lotus god pulse can give you a chance to claim king class gene races. Just think about it. If a 10-year-old boy can combine king class gene races to fight, it is all smooth sailing. They become a top-class elite in Ancient God City overnight. Do you think it is important?”
+
+To him, being unable to get a God Spirit Blood-Pulse gave him pain and a disadvantage every minute of his life.
+
+While they were talking, the purple light beam spread out like a lotus flower. It created a giant purple light lotus. It hung in the sky for a few minutes before it disappeared.
+
+Han Sen was now very interested in the god temples again. He wanted to know what might happen if he was to take the test.
+
+“Will Evil Lotus God give me an Evil Lotus God Blood-Pulse?” Han Sen looked at Evil Lotus God Temple with interest.
+
+Unfortunately, there were too many rules for the god temple test. Han Sen did not want to act like a bully and disregard the rules of the god temple, so he decided against it.
+
+As for the rule that required him to pray before Evil Lotus God, there was no way that was ever going to happen.
+
+The hotel room had a computer. The technology of this world seemed to be advanced. At least, it was no worse than the universe computers. Making use of them was a breeze. Han Sen entered the virtual community and checked out a lot of information. He learned more about the world.
+
+Just as Mister Yang said, the world was one that used a Blood-Pulse to determine a person’s level. In any of this universe’s seven kingdoms, a person was the cheapest and least regarded in society if they didn’t have a God Spirit Blood-Pulse. Many such people were sold like slaves.
+
+The more God Spirit Blood-Pulses one received, the higher up on the societal ladder one was.
+
+But that was not absolute. Having a powerful God Spirit Blood-Pulse meant nothing if a person did not have a powerful gene race to back them up. Without one, they were just as useless.
+
+The kings of the seven big kingdoms had destroyed class God Spirit Blood-Pulses. That was how they ruled the world. What made Han Sen feel weird was that in the virtual community, he was not able to search about Reboot class god temples or God Spirits. It seemed as if no one had ever received a Reboot class God Spirit Blood-Pulse.
+
+“Reboot class God Spirits should be in the geno hall, but this world does not seem to have a geno hall. This is weird.” While Han Sen was browsing the information, he found an interesting virtual community function.
+
+This function tested the strength and determined the level of a God Spirit Blood-Pulse.

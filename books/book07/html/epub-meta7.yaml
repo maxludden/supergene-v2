@@ -1,0 +1,23 @@
+---
+belongs-to-collection: Super Gene
+cover-image: Images/cover7.png
+creator:
+- role: author
+  text: Twelve Winged Dark Seraphim
+- role: editor
+  text: Max Ludden
+css:
+- style.css
+group-position: 7
+ibooks:
+- version: '4.4'
+- specified-fonts: true
+- iphone-orientation-lock: portrait-only
+- scroll-axis: vertical
+page-progression-direction: ltr
+title:
+- text: The Ice Blue Knights and the Extreme Kings
+  type: main
+- text: Book Seven
+  type: subtitle
+...

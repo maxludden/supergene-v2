@@ -1,0 +1,94 @@
+Title:Signing the Contract 
+Chapter:2642 
+Section:13 
+Book:8 
+CSS:../Styles/style.css 
+viewport: width=device-width
+  
+## Signing the Contract
+### Chapter 2642 
+<figure>
+	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
+</figure>
+  
+
+  
+  When Han Sen placed the second drop of blood before the God Spirit Touch, it didn’t behave any differently. It swallowed the droplet, then returned to its previous, motionless state. The four waited around for a long time, hoping something would happen. But there the bug remained, at the bottom of the canister, not moving an inch. If they hadn’t seen it swallow the blood, they would have believed the insect to be dead.
+
+The man frowned. He had no idea what was going on. He picked up the God Spirit Touch again, trying to make sure there was nothing wrong with it.
+
+“Weird. No matter how bad his skills are, it shouldn’t be possible for him to be entirely without an armor talent.” The man continued to poke and investigate the creature, but he learned nothing.
+
+“Maybe the God Spirit Touch is simply too old, and it can no longer shed its shell?” Exquisite paused, then went on to say, “This God Spirit Touch is the very first God Spirit Touch that once belonged to the alpha, is it not? It performed tests here for much of the alpha’s life, and that was eons ago. Perhaps it really has finally succumbed to old age.”
+
+The man shook his head and said, “When Bixi brought Yu Shanxin here, they conducted the test just fine. That wasn’t very long ago. Why would it suddenly stop working now?”
+
+“Well, aside from that, what other possibilities can you think of? There is no way that Han Sen is lacking even a single armor talent,” Exquisite said. The man knew that was impossible, too. Without a four armor talent or above, reaching King class was impossible. If Han Sen was already King class, no matter how bad his talents were, he couldn’t have an armor talent less than four. “This is weird,” the man said with queer hesitation. He put out his finger and sliced it, releasing a thin trickle of his own blood. He let it bleed near the God Spirit Touch’s mouth to see if the creature reacted like normal.
+
+The God Spirit Touch had been lying in the same spot ever since consuming Han Sen’s blood. It didn’t react to the man’s blood, at all. It was like it had become too old and numb to move a muscle.
+
+“It really is growing feeble in its old age?” The man put his face close to the creature, staring at it in shock.
+
+“It has lived long enough. It has lived longer than most ordinary God Spirit Touches. Its aging was to be expected, eventually,” Exquisite said.
+
+“We cannot conduct the test now,” the man said quietly. “I don’t have another God Spirit Touch nearby. It looks like we will have to go back and request another one. Then, we can take the test.”
+
+“Stop testing him. I’ve decided to make him my silkworm, so it doesn’t matter how what armor talent he has,” Exquisite said icily.
+
+“But…”
+
+The man started to say something, but Exquisite swiftly cut him off. “I don’t have time for this. I can decide who I want to be my silkworm, and look: I have made my decision.”
+
+The man opened his mouth, but no sound came out. Eventually, he smiled and said, “If you have made your decision to accept this boy as your silkworm, then that is fine. In that case, let us proceed to the altar.”
+
+After that, the man led them the remainder of the way. They continued on up the mountain.
+
+When they reached the palace that rested on the mountaintop, the man turned and said, “Exquisite, I will be waiting for you outside. If you need anything, please just ask.”
+
+“Second Brother, please take care of this child. I like this child, so do not upset her,” Exquisite said while looking at Bao’er. “Don’t worry, Exquisite. I will take care of her,” the man quickly assured her.
+
+“Bao’er, wait for me here, and don’t be a naughty girl. Okay?” Han Sen put Bao’er down. With Bao’er’s personality and power, it wouldn’t go well for the man if he tried anything.
+
+“I’ll be very nice, dad,” Bao’er said, looking sweetly up at Han Sen.
+
+Han Sen stroked her head and went to the hall with Exquisite.
+
+After they entered the hall, the hall door closed behind them. Han Sen couldn’t see hide nor hair of anyone else in the hall. There was an altar at its end, however, and the sight of it prompted him to ask, “That Second Brother seems different from the other people here.”
+
+Exquisite continued walking toward the altar, but on her way, she said, “The children of the Very High are separated into two groups. One group suffers the Very High Sense, whereas the others can practice the geno arts they truly fancy. Brother Bixi and I studied the Very High Sense. Second Brother Liyu studied something else.”
+
+“Why do you have to be separated?” Han Sen asked with curiosity.
+
+Exquisite twitched slightly, but she pretended it was nothing. “Practicing the Very High Sense gradually removes our ability to feel emotions. That can harm our breeding capabilities.”
+
+Now Han Sen understood why they had to be separated. It was so their bloodline could continue. Otherwise, if all of the Very High transformed themselves into emotionless machines, they probably wouldn’t reproduce at all. The race wouldn’t have lasted very long in that case.
+
+Han Sen raised his head. The altar ahead looked a bit strange. There was a large platform that held a large furnace in its center. Aside from that, the altar was bare.
+
+“Put a drop of your blood into the furnace,” Exquisite said. She held out her finger and dropped her blood into it. Han Sen had known this was coming. Sky Palace Leader had told him what to expect. He lifted his own finger and quickly supplied the furnace with a drop of his blood.
+
+When the jade furnace took in the two drops of blood, it lit up. It began to glow with a shifting cosmic light, and something inside the furnace began to rumble.
+
+Han Sen looked at the jade furnace with curiosity. He couldn’t see what was inside it, but the light and presence of the furnace were enough for him to tell that it was stuffed with knowledge about the universe.
+
+As the light grew stronger, it began to gather on the carving on the front of the furnace. The engraved symbols were shaped into a rough triangle.
+
+The light continued to shift restlessly, and the engraving glowed brighter and brighter. And then, the light within the furnace dimmed as it all rushed into the engraving
+
+When the triangular symbol burned like a sun, Exquisite said, “Put your hand against that symbol.”
+
+“Which hand?” Han Sen asked with a blink.“It is up to you,” Exquisite said. “Men go left, women go right. In that case, I will use my left hand.” After that, Han Sen placed his left hand on the triangular symbol.
+
+Han Sen felt as if he had pressed his hand against red hot steel. Han Sen jerked his hand away, and when he did, the light on the jade furnace’s engraving vanished. A shining triangle was now branded on his left hand.
+
+When the burning sensation disappeared, the triangle vanished as well. Han Sen could no longer find any trace of it on his skin.
+
+“Is that it?” Han Sen looked at Exquisite with curiosity.
+
+“Yes, it is done,” Exquisite answered with a nod.
+
+Han Sen knew that at this point, Exquisite should be able to feel what he felt and read his mind. His mind should have been an open book to her. So, he started imagining stuff to test it.
+
+In a split second, Exquisite blushed and shouted, “Stop!”
+
+“It looks like you really can read my mind,” Han Sen said while looking at Exquisite.

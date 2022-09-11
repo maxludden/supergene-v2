@@ -1,0 +1,98 @@
+Title:Getting a Beast Soul Again 
+Chapter:2362 
+Section:11 
+Book:7 
+CSS:../Styles/style.css 
+viewport: width=device-width
+  
+## Getting a Beast Soul Again
+### Chapter 2362 
+<figure>
+	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
+</figure>
+  
+
+  
+  The rainbow sea conch kept running, but the fire across its shell couldn’t be extinguished. It was like a flaming wheel blazing a trail through the water and across the sand. The fire refused to go out.
+
+“The little red bird, the harbinger of death!” Han Sen was grinning like an idiot. Although he knew the little red bird had become a deified elite, being able to damage another deified elite like that was remarkably impressive.
+
+Plus, the little red bird had only recently become deified, so it could probably improve even more in the future. In time, it might grow up to become something like the Ancient Water God.
+
+The little red bird cawed in pride. It flew to the rainbow sea conch, and Han Sen followed it while shouting, “Save his last breath for me. I want to take the last hit!”
+
+Han Sen chased after it, and the rainbow sea conch eventually found itself unable to move any farther. The meat inside its shell was boiling. The shell had turned translucent white, and it looked as if the creature was being barbecued.
+
+“Is it still breathing?” Han Sen drew his Thunder God Spike and ran at the fiend. It was a deified xenogeneic, and although Han Sen’s chances of getting a beast soul out of it were low, he still wanted to try.
+
+The fire around the little red bird’s body vanished, and it floated down to land on Han Sen. It opened its mouth toward the rainbow sea conch and inhaled. The gold fire was pulled back into its belly.
+
+Han Sen’s Thunder God Spike slammed into the cooked conch meat, but it was like a blade hitting rubber. The spike would not go in.
+
+Han Sen gathered up all the power he could, but no matter how hard he tried, he couldn’t penetrate the flesh.
+
+As the rainbow sea conch’s life faded, its body crystallized. It became more and more resistant to Han Sen’s strikes.
+
+Han Sen felt depressed. The prize was right there in front of him, but he couldn’t take it.
+
+Not long after, the rainbow sea conch was completely crystallized. Every inch of its body was a xenogeneic gene. It was like a piece of art made from rainbow crystal.
+
+“What a shame.” The rainbow sea conch was very dead. Han Sen was unable to break its flesh, even though he used his Thunder God Spike to strike it.
+
+“Electrocution is a type of damage, right? Will the final hit count as mine?” Han Sen felt very nervous. The prospect of earning a deified beast soul was very enticing.
+
+“Xenogeneic deified hunted: Crystal God Conch. Xenogeneic gene found.”
+
+Han Sen felt as if he had been dropped off at the pearly gates at heaven, only to fall way down into the fiery pits of hell. He had managed to get the kill, but he didn’t get a deified beast soul.
+
+“Anyway, at least I got the deified gene. That is the biggest reward,” Han Sen mumbled to himself, but he still felt crestfallen.
+
+Han Sen sent the Crystal God Conch’s body back to the sanctuaries. Lifeless items weren’t destroyed in the sanctuaries, just like the baby Sun Raven’s body.
+
+The small black sea conches invading the blood kirin were gone. It was wounded, but it wasn’t in any danger of death. With its lifeforce and recovery speed, it wouldn’t take long for the blood kirin to be back in action.
+
+The blood kirin began to feast on the flesh of the Move Mountain Sea Conch and what remained of the Electric Dragon. With gritted teeth, Han Sen gave the Move Mountain Sea Conch’s xenogeneic gene to the blood kirin, as well. He wanted it to recover the power it had lost.
+
+It was two days before he made it back to Underwater Town. By then, the wounds on the blood kirin were no longer visible, but it had yet to fully heal.
+
+The blood kirin had been badly hurt by the Crystal God Conch, and the little sea conches had ravaged its organs. It had been really damaged. If it hadn’t been given plenty of resources to heal, it would have taken a very long time for it to get better.
+
+Han Sen kept on exploring the underwater realms, but he was never able to find another King class xenogeneic. He didn’t know why they had found two Kings and a deified in that one region.
+
+Han Sen wanted to go back to that cave and take a look, but he wasn’t good at shrinking his body. That cave grew smaller the deeper it went. It eventually reached the width of a needle. Han Sen spent some time digging his way through but found nothing. He decided to give up after a while.
+
+“I should take the blood kirin to King’s Garden to heal,” Han Sen decided.
+
+Of course, Han Sen had no intention of provoking the king tree again. He wanted to find a root king dragon there so he and the blood kirin could absorb some king air. If the blood kirin could absorb some of that king air, the healing process could be hastened.
+
+Even though Han Sen tried to keep a low profile, entering King’s Garden still drew a lot of attention.
+
+It was very hard to find a primary root king dragon that was unoccupied.
+
+Han Sen found one, and after looking closer, he smiled. He lifted his lips and said, “What a shame! It is Prince Swordstar.”
+
+Han Sen flew over to Prince Swordstar without hesitation.
+
+Prince Swordstar was sitting atop a primary root king dragon with a few of his guards. When he saw Han Sen coming toward him, his face changed.
+
+“My good little brother, haven’t you heard that you should respect your elders? I am taking this primary root king dragon. Get lost,” Han Sen said as he approached.
+
+Prince Swordstar was very annoyed that Han Sen had been released from prison by Miss Mirror. Now, hearing Han Sen say this, he was so angry that he shouted, “I should respect our elders, but even if we give it to you, I doubt you’d be capable of defending it! So, what is the point of you having it?”
+
+Other princes and princesses knew that Prince Swordstar had brought Han Sen to the Sentencing Court. With Bai Yi’s spiteful personality, everyone knew that he wasn’t going to let go of the affront lightly. They turned excited eyes toward the brewing confrontation.
+
+“It looks like this big brother should teach you a lesson,” Han Sen laughed coldly. His fist gathered up power, and he used the Extreme King’s Shocking Sky Punch. He threw his fist toward Prince Swordstar, who was sitting on the dragon’s head.
+
+“Get them!” Prince Swordstar barked, looking at the blood kirin in fear. He didn’t dare fight.
+
+Four guards suddenly emerged from behind the dragon. Two of them were half-deified.
+
+Ordinarily, Han Sen would allow the blood kirin to fight. But the blood kirin was still injured, so he couldn’t let him go forward.
+
+Han Sen laughed and said, “Let this big brother teach you the invincible ways of a real Extreme King!”
+
+After that, he sent an Extreme King Shocking Sky Punch toward all four guards.
+
+“Is Bai Yi crazy?” All the princes and princesses were shocked. They knew who Bai Yi really was.
+
+Although he had managed to claim the alpha statue and earn the protection of the Kingese, he still wasn’t very high level. He was a first-tier King. With his power and Original Water King Body, he could fight a single half-deified, but it was simply arrogant to think he could take on four at once.

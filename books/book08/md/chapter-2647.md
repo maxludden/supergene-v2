@@ -1,0 +1,102 @@
+Title:Fishing 
+Chapter:2647 
+Section:13 
+Book:8 
+CSS:../Styles/style.css 
+viewport: width=device-width
+  
+## Fishing
+### Chapter 2647 
+<figure>
+	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
+</figure>
+  
+
+  
+  Han Sen was a little bit curious. He sat down near where the Underworld Silk disappeared into the clouds, and he decided to wait and see what happened.
+
+But after he waited for a whole hour, the Underworld Silk hadn’t moved an inch. He couldn’t tell if it was working or not.
+
+“Exquisite isn’t trying to test my patience, is she?” Han Sen wondered to himself. And then, he looked at Bao’er and said, “Bao’er, do you fancy doing some fishing?”
+
+“Yeah, I would like to,” Bao’er said with a nod.
+
+“In that case, I will give it to you.” Han Sen handed over his Underworld Silk.
+
+“Don’t worry, Dad. I’m going to catch some super big fish for you,” Bao’er said. She had wanted to try fishing a long time ago, and now Han Sen was making good on a long-awaited promise.
+
+“Sure you will,” Han Sen said encouragingly, not wanting to crush her hopes. But inside, he was thinking, “There is no hook and no bait. You won’t be able to pull anything out of this lake. Do you really think you are Jiang Tai Gong, who can fish with nothing but a rod and line?”
+
+Bao’er had a stern and serious look on her face while she fished. Han Sen, in the meantime, began to flip through the text for Very Real Body.
+
+The knife skills and punching techniques were good. They were top-dog geno arts for sure, but Han Sen’s knife skills and boxing talents were already high class. He only needed to briefly glance over the skills that Exquisite had brought him. There was no point in practicing them with any modicum of seriousness.
+
+Han Sen had already trained in the use of God’s Wander. He just needed to slowly reveal his proficiency with it to Exquisite.
+
+Han Sen thought the Very Real Body was extremely interesting, however. It was a skill that could reinforce his body, and at the same time, it could make his body into a weapon.
+
+Very Real Body had a high requirement for the practitioner’s base-level strength, though. Even ordinary deifieds might not have the requisite physical power for the beginner level of Very Real Body. Han Sen, on the other hand, had a body that was stronger than any half-deified. The power granted by his four geno arts wasn’t something ordinary creatures could match. So, fulfilling the requirements for Very Real Body wasn’t too difficult for him.
+
+In fact, this was the reason that Exquisite had given him Very Real Body.
+
+“An extreme body works as a blade. Once I learn this geno art, I should be able to fight others of the same level, even if they’re making use of a xenogeneic weapon. That is pretty cool.” After Han Sen read through it once, he began to practice Very Real Body.
+
+But it would take a very long time for Han Sen to practice and become talented with this geno art. This wasn’t a task that he could accomplish in a day, and so Han Sen wasn’t in a crazy rush. He trained slowly, and he also practiced Heart Connection in the meantime.
+
+Han Sen set the small jade figure into a fishing mode. Even if Exquisite turned her attention back to him, she would only sense him fishing. She wouldn’t realize that it was Bao’er doing the fishing for him.
+
+Bao’er was still as serious about fishing as when she had begun. Han Sen was surprised. He didn’t expect that the normally rambunctious Bao’er would be content to spend time with the slow, patience-testing, quiet art of fishing.
+
+“What a shame… This fishing line seems entirely useless.” Han Sen thought Exquisite really was testing his patience. There was no way they would be reeling anything in.
+
+“Dad! Dad! There is something on my line!” Bao’er suddenly shouted with glee. She held onto the Underworld Silk for dear life with those little hands of hers.
+
+“No way. You’ve actually caught something?” Han Sen quickly looked at the Underworld Lake. He saw that the lake’s mist was swirling around the Underworld Silk. The mist had grown more cloudy, as if there really was something down there moving about.
+
+“Pull the line! Pull the line!” Han Sen ran behind Bao’er and started reeling the Underworld Silk back with her.
+
+Whatever was on the other end was quite heavy, and Han Sen was worried that the Underworld Silk might break. Fortunately, his worries didn’t come to pass. The Underworld Silk remained undamaged as the two of them hauled it out.
+
+As more and more of the lake’s mist was disturbed by the rising object, their excitement grew as well.
+
+“Hurry up! Hurry up! We might have caught something big…” Han Sen was happily shouting.
+
+“I want to eat grilled fish tonight,” Bao’er said. She licked her lips as her eyes became incredibly bright.
+
+The Underworld Silk was getting longer and longer. Han Sen had no idea how deep the line had gone. He just kept pulling it in, hand over hand.
+
+Suddenly, Han Sen and Bao’er felt as if something on the other end of the line had torn loose. The line snapped back toward them like a broken rubber band. The two of them had been pulling their hardest when they were suddenly sent rocketing back into the ground. Bao’er shot into Han Sen’s chest.
+
+And then, the two of them saw something emerge from the lake with the Underworld Silk. It arced beautifully through the air overhead, then landed next to them with a ringing noise.
+
+The two of them turned their heads quickly. They saw a giant gold sword sticking out of the ground, every inch of it gleaming in the light.
+
+“Holy crap! Aren’t we fishing? Why did we just reel in a giant sword?” Han Sen looked at the giant, luxurious sword with shock.
+
+The enormous sword gave Han Sen the feeling he was looking at something owned by a rich person. The whole thing had been made of gold, and it looked incredibly heavy. It was about 1.5 meters long, and the blade was one foot wide. It looked like a small door.
+
+There were some engravings carved into the sword. There was the depiction of a phoenix, and there were jewels embedded in the metal. The sword looked very luxurious, especially the center of the handle, which held a fist-sized, gold jewel.
+
+Han Sen had seen a lot of weapons in his time, but he had never seen a weapon that looked so opulent.
+
+“How can you fish up something like this?” Han Sen mumbled as he stood up. He walked in front of the big gold sword. He reached for the handle to see what sort of weapon it was.
+
+Pang!
+
+Just as Han Sen’s hand touched the pommel, the brilliant gold sword shone brightly. Han Sen felt as if an electric current was coursing through him. His entire body was hurled through the air. He rolled for one hundred meters before coming to a stop.
+
+“Oh no… It’s a deified treasure…” Han Sen lifted himself off the ground. His whole body was covered in ash, and blood dripped from his mouth. He looked happy, though.
+
+Despite his remarkable fitness, the blade had still been able to toss him away and deal that much damage with a single touch. It was definitely a deified treasure. Any item of a lesser rank couldn’t possess that much power.“You can fish up deified treasure from here? Seriously?” Han Sen ran back to the luxurious sword. He still couldn’t believe what he was seeing.
+
+Han Sen stared at the gleaming sword, and he finally accepted that Exquisite hadn’t just been testing his patience. There really were powerful treasures that could be pulled from this lake.
+
+Evidently, some of them were even deified.
+
+“No wonder the Very High are so strong. Deified treasures can be pulled from this lake. This cannot be real, surely.” Han Sen felt as if his heart was going to leap out of his chest. It had taken them half a day to obtain this deified treasure. If they fished there for a few months, they would be blinged up in all sorts of deified kit.
+
+But when Han Sen went to take hold of the gold sword again, the luxurious weapon bounced him away again. Han Sen used all his power to try and hold it, but alas, he could not.
+
+However, when Bao’er touched it, the beautiful gold sword seemed to rest comfortably in her hands. And it even became smaller. It shrank until it seemed perfectly suited to her diminutive size.
+
+“This cannot only be used by the person who fished it up, surely.” After Han Sen thought of this, he threw his Underworld Silk into the lake again. He watched the Underworld Lake and thought, “Come on, baby. Give me a big gold sword, too. I don’t mind if it makes me look rich.”

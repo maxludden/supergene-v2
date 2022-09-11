@@ -1,0 +1,92 @@
+Title:Cocky Noobs 
+Chapter:2725 
+Section:13 
+Book:8 
+CSS:../Styles/style.css 
+viewport: width=device-width
+  
+## Cocky Noobs
+### Chapter 2725 
+<figure>
+	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
+</figure>
+  
+
+  
+  A powerful elite like that gave Han Sen a lot of inspiration. The most special thing about it was the ability of the monkey to clone itself.
+
+Not even Han Sen could tell when the monkey was using its true self or its copy during the battle. The real monkey and the fakes were far too difficult to distinguish. Anyone who wasn’t careful would certainly end up falling for its tricks.
+
+But Han Sen was hesitating, trying to decide if he should help Shale. Eventually, a Very High man approached him. Han Sen jerked slightly in surprise when he saw the man; he hadn’t noticed when the Very High man arrived next to him.
+
+“Li Chun Qiu?” Han Sen recognized the man upon seeing his face.
+
+Li Chun Qiu was very famous amongst the Very High. He was the elder brother of Exquisite and the others. He was very talented, and no one in the Very High could match him. Not even Li Keer, who had a ten armor talent.
+
+Li Chun Qiu watched Shale and the monkey doing battle, and he said, “Do not help him. He must experience this fight himself.”
+
+When Han Sen heard those words, he relaxed. Evidently, he didn’t need to bother helping Shale.
+
+Shale was at a disadvantage, but he wasn’t too injured to continue fighting just yet. He was still holding his own against the six-eared monkey. And as time went by, Shale began to take fewer and fewer wounds.
+
+Li Chun Qiu had just been standing there quietly watching the fight, but he suddenly said, “What do you think of Shale’s recent improvements?”
+
+Han Sen looked around. He was the only person nearby. Clearly, Li Chun Qiu had to be talking to him. But Li Chun Qiu was still watching the fight, and he hadn’t looked at Han Sen while he asked the question.
+
+“He has improved very quickly. It makes sense that he has an eleven armor talent,” Han Sen said. And it was truthful, mostly. Shale’s improvements did impress him.
+
+Li Chun Qiu didn’t move. As he watched the battle unfold, he said, “This blonde monkey is an ancient xenogeneic called the Six-Eared Macaque. Its genes are very strong, and it is born with a ten armor talent. And its flesh is so powerful. Its mind is very tricky to discern. It is always hard to tell whether you’re looking at the real monkey or another fake. It is hard to find an enemy like this at the same level. Even Shale, who is a born deified, cannot beat the Six-Eared Macaque easily.”
+
+“With Brother Shale’s power, he simply needs a little time. He will beat the Six-Eared Macaque eventually,” Han Sen said.
+
+Li Chun Qiu nodded and said, “I’m not worried about that. The Six-Eared Macaque is a small task for Shale. Taking it down won’t be very difficult.”
+
+Speaking of that, Li Chun Qiu finally turned to look at Han Sen. He said, “Actually, the only person that can be considered a serious obstacle to Shale is you.”
+
+“You must be joking, sir. I’m just a half-deified. I don’t have what it would take to impede Shale’s growth.” Han Sen wasn’t going to accept some random compliment to boost his ego.
+
+Li Chun Qiu didn’t reply to that. He went on to say, “I’m in charge of the Very High’s Good Fortune Pool. If you need to, I can let you visit it.”
+
+“What does that mean?” Han Sen asked, struggling to follow the conversation. Li Chun Qiu jumped around a lot when he spoke. He had just been describing Han Sen as Shale’s biggest impediment, and now he was telling Han Sen that he could go to the Very High’s Good Fortune Pool.
+
+Opportunities to enter the Very High’s Good Fortune Pool weren’t granted to everyone. Han Sen had heard about the pool before he even came to the Very High. Even Exquisite and Li Keer had never received approval to enter it. Therefore, Han Sen hadn’t yet had a chance to go there.
+
+Now, Li Chun Qiu was offering him the opportunity to go. It was confusing.
+
+Li Chun Qiu knew what Han Sen was thinking, so he coldly said, “You have become Shale’s demon. If he cannot beat you for real, it will be an impediment to his growth and ascension. He might lose the chance to become a true god. So, I hope you can become deified soon. Then, Shale will have a chance to defeat the demon that ravages his soul.”
+
+Li Chun Qiu seemed to think that even if Han Sen became deified, Shale could probably beat him. But Han Sen didn’t mind that.
+
+Han Sen was used to other people being arrogant around him. Where was the harm in letting someone else be a bit cocky?
+
+“If you are really making this offer, then thank you very much, sir. When can I go to the Very High’s Good Fortune Pool, if you don’t mind me asking?” Han Sen wanted to pin this down as quickly as he could.
+
+After all, Han Sen still had another two geno arts he needed to raise to half-deified. Maybe he could use the Very High’s Good Fortune Pool to break through with them.
+
+The Good Fortune Pool of the Very High was quite mysterious. It could increase the potency of one’s genes and blood exponentially. Han Sen had wanted to go there for some time, and now this was his chance.
+
+“Take this Good Fortune Spell. After today, you can go whenever.” Li Chun Qiu handed Han Sen a small spell.
+
+Han Sen accepted the spell, and he noticed that the object was only two fingers in width. It looked crystal clear, and it said Good Fortune on it in an ancient language.
+
+“Thank you, sir. I’m going to try to become deified so that Brother Shale can put his demons to sleep.” Han Sen put the Good Fortune Spell in his chest pocket. Then, he smiled at Li Chun Qiu. Inside, however, he was thinking, “The Very High really are quite rich. He is just randomly giving permission for someone to enter the Good Fortune Pool. And in a way, he gave it to an enemy.”
+
+Li Chun Qiu glanced at Han Sen with interest, and he said, “You are a really interesting character. If it wasn’t for Shale and Yu Shanxin, I would say you were the most interesting silkworm in this generation.”
+
+Li Chun Qiu’s words seemed to indicate that he thought Han Sen was weaker than Shale and Yu Shanxin. Within that generation of silkworms, he was only number three.
+
+Han Sen was in no mood to argue, though. In a way, he was quite happy.
+
+As the two of them talked, Shale had become more and more stable. The Six-Eared Macaque no longer had the advantage, and it was on the verge of being suppressed by Shale. Its real and fake bodies were no longer confusing Shale.
+
+Han Sen had to admit that Shale was a genius. In a short amount of time, he had been able to study the Six-Eared Macaque.
+
+Han Sen suddenly thought of a question about the Six-Eared Macaque. He looked at Li Chun Qiu and asked, “Mister, how did you know which Star Fruit held the Six-Eared Macaque?”
+
+Exquisite and Li Keer told him that the xenogeneics inside a Star Fruit couldn’t be guessed from the outside. But Li Chun Qiu and Shale obviously knew what to expect from the fruit they had chosen. They knew it would be the Six-Eared Macaque.
+
+“The Very High Sense can grant a useful predictive ability,” Li Chun Qiu answered. “I spent some time looking over this tree thoroughly, and after much deliberation, I came to the realization of where this creature lay. Plus, this Star Fruit was born strangely. It was easy for me to guess what was inside.”
+
+“Born strangely?” Han Sen tilted his head to the side as he looked at Li Chun Qiu.
+
+“When this fruit was formed, a weird, gold shadow fell over the Star Tree. I wasn’t too far away from the Star Tree when I saw this strange scene. Based on what I saw, it wasn’t difficult for me to determine what xenogeneic might have been found in that fruit,” Li Chun Qiu said levelly.

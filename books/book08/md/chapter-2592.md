@@ -1,0 +1,68 @@
+Title:Charming God’s Jian 
+Chapter:2592 
+Section:12 
+Book:8 
+CSS:../Styles/style.css 
+viewport: width=device-width
+  
+## Charming God’s Jian
+### Chapter 2592 
+<figure>
+	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
+</figure>
+  
+
+  
+  Han Sen fired the purple copper jian like an arrow once more. This time, he put even more power into it. The moment the jian left the string of the Six Core Snake Bow, it teleported and disappeared.
+
+“Teleportation won’t work against me unless you can teleport without causing a ripple in the fabric of space,” Meng Lie said coldly. And then, he reached his hand out into the air.
+
+The purple copper jian emerged from space and appeared right where Meng Lie had placed his hand. He grabbed it.
+
+This time, Meng Lie didn’t use the lion head knife to try to break it. He used his hand to clutch the purple copper jian. He wanted to hold it and get a better look at what sort of deified weapon it was.
+
+But when Meng Lie’s hand was just about to close around the purple copper jian, the purple copper jian managed to leave its flight path and vanish from Meng Lie’s vision once more.
+
+When Meng Lie saw the purple copper jian again, the weapon was protruding from his chest.
+
+“That arrow wasn’t bad,” Meng Lie said, completely unconcerned about the blow that had landed on him. Based on how Han Sen’s arrow interacted with his gold knife light, Meng Lie was confident that it wouldn’t damage his gold soldier body. But after he finished talking, Meng Lie’s face changed. He looked down and saw that the purple copper jian had perforated his heart. Golden god blood slowly dribbled out of his body.
+
+“How is that possible?” Meng Lie couldn’t believe his eyes. It shouldn’t be possible to hurt his gold soldier body with an ordinary deified weapon, and on top of that, Han Sen was only King class. Even if Han Sen used a deified weapon, he shouldn’t have been able to break Meng Lie’s gold soldier body.
+
+The pain that stemmed from the wound in his chest told the Extreme King that his injury was real, not some sort of illusion.
+
+“Unless…” A possibility crossed Meng Lie’s mind. His eyelids flickered. Instead of trying to fight back, he grabbed the handle of the purple copper jian. “Unless this is a butterfly deified weapon… and that was how he was able to break my gold soldier body.” Meng Lie’s eyes burned brightly. He pulled the purple copper jian out of his chest.
+
+When the purple copper jian slid free, the wound in his chest healed. He recovered swiftly, and no mark remained.
+
+When Han Sen watched the purple copper jian puncture Meng Lie’s heart, he was happy. But his optimism was short-lived, and watching this next bit made him frown. He had to marvel at just how strong these deified elites really were. “Thank you for giving me a powerful deified weapon. If you are being this generous, how about you give me the Shield of the Medusa’s Gaze, too?” Meng Lie held the purple copper jian and erupted with a gold god light. Waves of gold energy enveloped the purple copper jian, dyeing the purple copper jian a gold color.
+
+The gold soldier king body could turn deified beings into gold weapons. The skill worked on deified weapons, too. It couldn’t change the element of deified weapons, but Meng Lie was able to claim and use many different kinds of deified weapons.
+
+As the purple copper jian was turning gold, Meng Lie’s face suddenly changed. He saw that the purple copper jian was no longer changing. Instead, it was reverting to purple The mysterious engravings upon the jian suddenly lit up and blasted Meng Lie’s hand away.
+
+“How is that possible?! Is this… is this a true god weapon?” Meng Lie looked at his hand. The portion of his flesh that had touched the purple copper jian was no longer gleaming gold. It was just his skin.
+
+A deified weapon, which no one was controlling, had destroyed a section of his gold soldier power. It was unbelievable.
+
+Meng Lie raised his head. His fiery eyes were locked on the purple copper jian in Han Sen’s hand. He smiled and said, “A true god weapon… It is a true god weapon… Han Sen, you are a man of great luck. You have two true god weapons. Many deified elites would weep and beg for just one. You are only a King, and yet you have two.”
+
+“If you know that I have great luck, why must you insist on troubling me all the time? Isn’t what you’re doing against the will of the gods?” Han Sen asked coldly as he lifted the purple copper jian.
+
+Meng Lie laughed. The gold god light was bright in his hands. He spread his gold power back over the hand whose light had been extinguished, laughed, and said, “The path to evolution has us all fighting against the sky. Everyone’s evolution is built on the broken bones of their opponents. What you eat and what you use comes from the creatures of lesser fortunate universal beings. If you don’t try to fight your way higher, you will be shit on the road for other creatures to consume. If things were not like that, why would I be afraid of the things that hold me back?”
+
+“You have good luck. In that case, I will steal your luck for my benefit. With these two true god weapons, the Extreme King will grow even more powerful in the future. That is my luck, and the Extreme King’s luck.” Meng Lie continued to cast his gold god light. The entire system turned to gold. Even the system rang with a godly him, and the world kept trembling without reprieve. It was like the world was answering what he had just said.
+
+Although Han Sen was Meng Lie’s enemy, he had to admit that the man was quite right. In that universe, a blade of grass, a log of wood, a stone, a drop of water; all of them held life. Whether you were an Extreme King or a human, if you wanted to live, you would have to do it by standing on the blood and bones of others. If success was merely a matter of luck, then fighting to better yourself would be pointless. You might as well dig a hole and bury yourself. “You are right.” Han Sen’s eyes looked clear. The purple copper jian was on the Six Core Snake Bow again. Han Sen pushed his Jadeskin, Blood-Pulse Sutra, and the peacock king soul robe to the max.
+
+The flesh of Han Sen’s whole body seemed to vibrate with strength. Blood surged and roared through his vessels, and his heart was like a generator that could not stop spinning. His body began to swell, and he looked very excited.
+
+The feather robe gleamed with rainbow light, which spread to cover the purple copper jian. The purple copper jian’s marks seemed to brighten under its touch. It was like they were turning into mysterious symbols of light that surrounded the purple copper jian.
+
+Even the ears on Han Sen’s head and the tail on his back glowed with a purple light.
+
+Seeing Han Sen and the purple copper jian, Meng Lie’s excitement was through the roof. He shouted, “Now I understand… I finally understand! That weapon belongs to the Foxes. It is Cupid’s Jian! No wonder it was able to damage by gold soldier body.”
+
+“Cupid’s Jian? What on earth…” Han Sen thought that name was so weird.
+
+Meng Lie laughed and said, “Cupid’s Jian is also called the Charming God’s Jian. I thought it was destroyed when the Fox elder went to the geno hall. I cannot believe it still exists, and it is now in your possession. God is helping the Extreme King on this day. With the Charming God Jian, the reputation of the Extreme King will only increase.” Meng Lie was so excited. He looked at the purple copper jian with his blinded eye and summoned gold light.

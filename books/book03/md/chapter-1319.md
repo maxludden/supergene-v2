@@ -1,0 +1,66 @@
+Title:Completely Erased 
+Chapter:1319 
+Section:3 
+Book:3 
+CSS:../Styles/style.css 
+viewport: width=device-width
+  
+## Completely Erased
+### Chapter 1319 
+<figure>
+	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
+</figure>
+  
+
+  
+  “Well, it might be normal for some demigods to refer to themselves as gods, right? It’s in their title, after all. I know enough stuffy spirits around these parts that have a god complex,” Han Sen said, grasping at straws for a possible reason why the spirit might have called itself God.
+
+“Well, those thoughts crossed our minds, too. And thinking it to be arrogance, we wanted to kill it even more. That, however, was when the spirit said something else.” When Dragon King’s sentence came to a close, his face drooped into an unsettling grimace.
+
+Han Sen did not ask or prompt him to tell what was said; he just stared at Dragon King intensely.
+
+With bent vocals, Dragon King stuttered out a few words. He said, “Whoever kills God will be erased.”
+
+Han Sen didn’t think much of it, at first. More than anything, he believed the demigod that called itself God was merely bluffing. It was like a riff on the cliche of, “If you strike me down, I’ll become more powerful than you could possibly imagine.” That sort of thing.
+
+It would either be that, or “I’ll haunt your *ss from beyond the grave.”
+
+Dragon King went on to elaborate, given the awkward silence that followed what he had just spoken. He said, “Again, we didn’t care much for what the demigod said. Asura had heard enough of the pompous spirit he believed it to be, and with great anger, he struck it down. This, of course, was to the grand and terrible displeasure of Mister Ancient Devil.”
+
+“Me and Asura were tight. We were very good friends. That being said, I knew where my allegiances lay, and I did not want to betray Mister Ancient Devil. The others, for whatever reasons compelled them, did not. They were with Asura and immediately started fighting.”
+
+“Asura was the strongest out of us all, though. After he killed the demigod, that might and power were only amplified.”
+
+“Those who followed him believed Asura would win. And as spirits often do, they gravitated towards the strongest amongst them, which was likely to be him. If Mister Ancient Devil was going to lose, of course the generals would want to support the master that took his place. But that did not come to pass, and shortly after the transgression, he disappeared.” Dragon King almost looked afraid, speaking this.
+
+“What do you mean exactly?” Han Sen asked. The tale was riveting, and he was eager for an elaboration of every detail.
+
+“He disappeared. He vanished. He was simply gone. The prevailing belief over what might have occurred was split between two ideas; either he was taken to the Fourth God’s Sanctuary, or he legged it and had no need for anyone else.”
+
+Dragon King’s speech stumbled once more, as it frequently did. After a breath for composure, he went on to say, “Aside from those of us who accompanied Mister Ancient Devil in the hopes of slaying a summoned demigod, everyone seemed to forget Asura’s existence. He was a famous spirit, and his name was heralded far and wide. But after those events, it was like he had been forgotten about. Everyone forgot who he was! Even spirits who had known him for one-hundred-thousand years forgot the name “Asura.” Neither his creatures nor his heirs recalled who he was. It was just as that frightening spirit had said, before its death… He who killed him would be completely erased!”
+
+“The only ones who remembered him were the generals that were there with him, but even that was only for a brief while. Even they soon forgot.”
+
+Dragon King looked visibly afraid as he told this story, and he leaned closer to tell Han Sen, “Before Asura left, though, he made me swear not to tell anyone what had transpired that day. He also wrote down the sutra on my scale. He told me to look after the people who practiced that power, and while I initially believed him to be talking about his kids, I later learned none of them had practiced his powers.”
+
+“I tried looking for Asura for a long time after, but over time, the notoriety of our band began to fade, too. Even we were forgotten about; Mister Ancient Devil, included. We faded to legend, and then to myth, and then to nothing. The only difference was, we remained here,” Dragon King explained.
+
+Han Sen was shocked, hearing all this. He told him, “Maybe Asura was taken to the Alliance, and the shura are his descendants. And maybe that’s why they cannot enter the sanctuaries. It all adds up!” If the story was true, Han Sen firmly believed that to be the most logical reason. The pieces seemed to fit.
+
+Dragon King said, “You could be right! And if you have shura blood, you can practice the Asura Sutra. I’ve stewed in the memory of this strange affair for far too long, and I think it’s time I myself received some answers.”
+
+Han Sen knew Dragon King had told him everything he could, and there was little more he knew. His mention of the shura blood was curious, but it had thinned and become so light, the relation was practically non-existent.
+
+The one with the true blood relation was the Luo family who followed the shura.
+
+“Maybe I’ll need to enter that shura tomb myself and do a little archaeology if I’m to search for definitive answers. In retrospect, it’s almost a shame I did not associate myself a little more with the Luo family. Given my history and spats with them, I doubt they’d let me take a peek in their big book of secrets now,” Han Sen’s mind wandered down the various avenues of how he might learn even more.
+
+Han Sen told Dragon King more about the shura and the Falsified-Sky Sutra, after that.
+
+Judging from what he was told, Dragon King started to believe Asura must have indeed gone to the Alliance. But in regards to how that had even happened, he had no clue.
+
+Perhaps he broke through the dimension, but if that was what had happened, Asura would have found himself in the Fourth God’s Sanctuary, instead. The demigod they had killed most certainly had some strange powers.
+
+“I wonder, is Asura still alive?” Han Sen asked himself, fancying an encounter with him one day. He’d have much to ask.
+
+If his spirit stone had not broken, he should still be alive. Provided the rules for spirits still applied, even when they were outside the sanctuaries.

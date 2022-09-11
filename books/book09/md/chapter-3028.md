@@ -1,0 +1,92 @@
+Title:Fighting Qin Xiu 
+Chapter:3028 
+Section:15 
+Book:9 
+CSS:../Styles/style.css 
+viewport: width=device-width
+  
+## Fighting Qin Xiu
+### Chapter 3028 
+<figure>
+	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
+</figure>
+  
+
+  
+  “Han Sen!” Everybody knew that it was Han Sen in front of the geno hall.
+
+Han Sen was standing near it. He looked at Qin Xiu but did not do anything.
+
+Qin Xiu saw Han Sen and coldly said, “This is not a place you should be.” Han Sen heard his words. He knew that back in the holy garden, Qin Xiu’s soul was not so simple. Qin Xiu recognized him. All he did was interact with Qin Xiu’s soul.
+
+“I do not want to be here, but you have done something that made me come,” Han Sen said while looking at Qin Xiu.
+
+2 Cu
+
+“What thing?” Qin Xiu kept suppressing God, but he still had the strength to talk to Han Sen. His face did not change. It looked like he still had a whole heap of power.
+
+“Leave that body,” Han Sen said. “He does not belong to you.”
+
+Qin Xiu looked at Han Sen and asked, “Is this body related to you?”
+
+“It is my son,” Han Sen said. It was not just Qin Xiu that was shocked by this revelation. All the elites outside the geno hall heard what was spoken and reacted similarly.
+
+No one would have been able to guess Qin Xiu’s reborn body was Han Sen’s son. Everyone’s expressions changed. Qin Xiu laughed. “Good, Old Cat! Good plan! It is no wonder he gave me this body. That explains why. If it was you, I would have to be wary.”
+
+Sky Palace Leader and the Very High Leader looked at each other. They could tell the other was shocked. Qin Xiu was not scared of facing God Spirits that were above Reboot class God Spirits.
+
+Now, he was saying something like this, and these were not insane words.
+
+They still did not understand why Qin Xiu was scared of Han Sen. If it was because Han Sen had blue blood power and managed to defeat Moment God, then it made no sense.
+
+Blue blood power came from Qin Xiu. If Han Sen received blue blood power from someone and that made him afraid, no one would have believed it.
+
+Qin Xiu said, “Although I am sorry, I cannot give you this body. If you want to use Wan’er to threaten me, you are wrong.” “Is that one person you said not Wan’er?” Han Sen wanted to use Wan’er to swap for Littleflower, but he did not expect Qin Xiu to close down that prospect already.
+
+“You are right. I can do anything for Wan’er. I also know that if I cannot break the geno hall, then it would be pointless even if Wan’er lived.” Qin Xiu laughed and said, “Plus, I know that you are not a person who is selfish and would be so willing to do something so cruel to an innocent girl.”
+
+“Maybe I am like you and am willing to commit any crime for the safety of one person,” Han Sen coldly replied. Qin Xiu smiled even harder. “In that case, you won’t hurt Wan’er because she is my life. Without her life, I cannot live. If I cannot live, this body will die.”
+
+“So, that leaves you and me with the need to fight.” Han Sen knew there was no point in talking any further. Swapping Littleflower for Wan’er wasn’t going to be possible. “No one can stop me from destroying the geno hall, and that includes you,” Qin Xiu said. “As a reward for taking care of Wan’er, I will not kill you.
+
+“I will,” Han Sen coldly said.
+
+Qin Xiu coldly laughed. He said, “I am not looking down on you, as your body has my blood coursing through its veins. You are like my clone. Do you think a clone can be better than the real stuff?”
+
+“We will just have to find out, won’t we?” Han Sen cast Blood-Pulse Sutra. His entire body glowed with a blue light.
+
+“Are you using my power to fight me? You are too naïve.” Qin Xiu had a cold expression. Blue symbols flickering across his armor. He was not fighting Han Sen. He still kept God suppressed. It was like Han Sen was not worth his attention.
+
+The blue light in Han Sen grew stronger. He approached Qin Xiu. Every step he took became stronger. He was like a battle god prepared to fight the sky.
+
+Qin Xiu asked, “Can you practice my blue blood gene to such a high level? That is very shocking. Compared to me back then, it isn’t too bad. But now? I am not the old me. Plus, that power belongs to me. No one can use my powers to hurt me.”
+
+Han Sen did not say anything. He threw a punch at Qin Xiu. A scary blue light ripped the rules and everything around. A power that could destroy the world was headed straight for Qin Xiu.
+
+Blue blood power did not fit into the rules of the universe, and this power dealt a lot of damage to the rules of the universe. Han Sen’s punch was able to break a big system.
+
+An elite like Moment God would have been killed with one hit.
+
+Faced with that scary power, Qin Xiu did not bother dodging. He also did not bother fighting back. He allowed the scary blue light to fall upon his back.
+
+It was like a spring sun thawing the snow. As the scary blue light hit Qin Xiu’s body, it did nothing. It melted into the armor. The blue symbols absorbed it and grew brighter. Qin Xiu’s body was only made stronger.
+
+“I said, my power cannot hurt me,” Qin Xiu coldly said.
+
+Outside the geno hall, the expressions of many elites changed. Qin Xiu was scarier than even their wildest nightmares could have depicted. Although they believed Han Sen could not defeat Qin Xiu, they did not expect him to lose so badly. He had been unable to harm Qin Xiu. He had only managed to lend him power.
+
+“Really?” Han Sen’s face did not change. He gathered up power and threw a punch at Qin Xiu.
+
+This time, the light of his fists became red. It was different from the blue. It was the opposite.
+
+Qin Xiu frowned. He looked shocked. He felt a bit confused, but he did not want to give up on breaking the geno hall. He raised his fist and threw a punch at Han Sen’s incoming strike.
+
+Blue and white, the two colors of weird power, struck Han Sen’s blood power. The blood color dyed the blue and white colors red. In the blink of an eye, Qin Xiu’s armor turned red.
+
+“How could this happen? Did you reverse the blue blood power!” Qin Xiu’s eyes were wide open. His body was devolving, and his power was fading.
+
+God, who was previously suppressed, was now able to fight back. His god light was glowing. He bounced Qin Xiu, who was breaking the geno hall, away.
+
+Pang!
+
+Qin Xiu’s body broke a pillar. His body devolved. The blue patterns on his armor dimmed. The blue light in his eyes also dimmed.

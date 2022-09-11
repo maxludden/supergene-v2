@@ -1,0 +1,96 @@
+Title:Decision 
+Chapter:2321 
+Section:11 
+Book:7 
+CSS:../Styles/style.css 
+viewport: width=device-width
+  
+## Decision
+### Chapter 2321 
+<figure>
+	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
+</figure>
+  
+
+  
+  A moment later, the Original Water King Body became a drop of water that was as transparent as a small diamond.
+
+“Mutant xenogeneic King hunted. Original Water King: mutant xenogeneic gene found.”
+
+Feeling rather weak, Han Sen exited his super god spirit mode. When his body and level increased, the time he could use super god spirit body tended to increase, as well. But even so, the effort cost him a lot of power. It was very difficult for him to maintain his super god spirit mode for any length of time.
+
+“If I become deified, I wonder if I will be able to use super god spirit mode for a long time?” Han Sen thought to himself. Then he swallowed the drop of water and used his Blood-Pulse Sutra and Blood-Pulse Plunder to refine it.
+
+It was similar to the ordinary process of refining things like the dragon wings and the Stone Cow. After the Blood-Pulse Sutra refined the water drop, Han Sen obtained a new blood-pulse gene power. But this time, it was a King class blood-pulse gene power.
+
+Han Sen’s heart leaped. He felt his body become transparent liquid, and it looked as if he was made of water.
+
+“Is this the power of Original Water King Body?” Han Sen was so happy. He used his body to separate the ripples and waves of the water. He created a water area-of-effect attack. It was exactly the same as the one Bai Yi had used on him.
+
+“If I can nab a few more mutant King xenogeneic genes, or even a deified mutant xenogeneic gene, then I will be invincible.” Han Sen really loved the combination of the Blood-Pulse Sutra and Blood-Pulse Plunder.
+
+But Han Sen felt a headache coming on when he thought about the ramifications of Bai Yi’s death. He had earned this benefit by killing Bai Yi, but King Bai would definitely start an investigation. It would be difficult to use his new ability without drawing suspicion.
+
+Bai Ling Shuang would be aware that Bai Yi had encountered Han Sen. Even if Bai Ling Shuang did not know, the Extreme King would surely have someone like Mister White in their midst. Perhaps some special geno art out there would help them deduce that Han Sen really was the one who killed Bai Yi.
+
+Han Sen used his Dongxuan Aura and Purple-Eye Butterfly to erase any trace of him being there. He could take comfort in the knowledge that super god spirit mode wouldn’t leave any evidence behind. No one should be able to find out exactly what transpired there.
+
+Super god spirit body truly left nothing behind. It was impossible for him to be found out by a mere geno art.
+
+But Bai Yi had died where Han Sen had appeared, and there weren’t many guards going to Planet King Kong. Even if they had no evidence of him being responsible, King Bai might just decide to slay any and all suspects just for the hell of it.
+
+Han Sen didn’t stay on Planet King Kong any longer. He retrieved the body of the Metal Doll and left. He needed to figure out a way to escape the realm of the Extreme King if his murder of Bai Yi was ever exposed.
+
+In fact, staying there was too dangerous already.
+
+Han Sen left Planet King Kong and returned to the space station. There, he waited for an airship that would take him away from Knight’s Paradise. A woman approached and sat next to Han Sen. She looked right at him.
+
+“Brother Sixteen, you used Return to Origin?” the woman asked with shock.
+
+Han Sen’s heart jumped, and he tried to replicate Bai Yi’s voice. He coldly said, “That Han Sen was quite good to force me to do this. Bai Ling Shuang, did you try to trick me?”
+
+Bai Ling Shuang laughed. “Brother Sixteen, you made the decision to go there. It’s not my fault that things turned out this way, but by combining yourself with Han Sen… I can tell you that you now look much better.”
+
+“Bai Ling Shuang.” Han Sen’s face was hard. He used Original Water King Body, and his entire body transformed into transparent water. The Water King area-of-effect spread to envelop the entire space station.
+
+“Brother Sixteen, why are you so angry?” Bai Ling Shuang stood inside the area-of-effect, but she seemed completely undisturbed. It was like the scary spread of water had no effect on her.
+
+Blue light shone around Bai Ling Shuang, and her beautiful smile and sexy body made her look like a goddess that had descended from the sky. It looked as if nothing in the world could make her dirty.
+
+Bai Ling Shuang’s blue light spread, and it froze Han Sen’s water area-of-effect. She waved a hand and cracked it, allowing the shards to spill all over the floor.
+
+Han Sen was shocked. Bai Ling Shuang was half-deified. She was at the very top of her league, too. She was far stronger than Bai Yi.
+
+Bai Ling Shuang broke the area-of-effect, and then the blue light faded away. She said quietly, “You did what you had to do. I won’t forget what I promised you. Two nights from now, go to Night Charm Town. I won’t pay you any less than the sum we discussed.”
+
+After that, Bai Ling Shuang turned to leave. After taking two steps, though, she thought of something. She turned around and said, “Brother Sixteen, since you have merged with Han Sen’s body, you should use his identity while you can.”
+
+“What do you want now?” Han Sen snarled.
+
+The woman flicked one of her blonde locks away from her forehead and smiled. “Han Sen brought a half-deified xenogeneic with him. You should go and take everything he has. I saw the xenogeneics, and their genes are good. One of them could be deified. You could gain a lot by nabbing a xenogeneic like that.”
+
+“You don’t have to tell me that. I know what to do.” Han Sen looked at her with contempt.
+
+“Remember, in two days, Night Charm Town.” Bai Ling Shuang smiled and said nothing more. She stood up and left the space station.
+
+Han Sen’s head swam with confusion. This was a complicated situation, and now he had to make a decision.
+
+Bai Ling Shuang thought Bai Yi was Han Sen. An ordinary Duke really couldn’t have endured what Han Sen had. Not even most King class elites would have survived Bai Yi’s hand.
+
+The only good thing for Han Sen was that Bai Yi had used his Return to Origin. Bai Ling Shuang knew this. After he used Return to Origin, Bai Yi would look just like Han Sen. He would eventually change back to his original appearance, but it would be a slow process.
+
+Now that Han Sen had the Original Water King Body, he could keep up his disguise as Bai Yi. He could be mistaken for Prince Sixteen of the Extreme King.
+
+This would be much safer than King Bai learning that Bai Yi was dead.
+
+If Bai Yi had succeeded with Return to Origin, then he could have claimed everything belonging to Han Sen, including his memories.
+
+But Han Sen had only refined Bai Yi’s mutant gene. He had the Original Water King Body, but none of the man’s memories. Attempting to keep up his disguise as Bai Yi would be risky. There was still a good chance of him being exposed.
+
+“There is nothing else I can do, though. I have to try.” Han Sen tried to calm down, and he thought about what to do next. He didn’t want to draw any more suspicion.
+
+But Han Sen didn’t know anything about Bai Yi. From his short time of observation, Bai Yi was a man that didn’t look too far ahead.
+
+“Even so, I have to find the blood kirin and the others. Then I will have to go to Bai Yi’s house.” Han Sen made the decision in his heart. He wasn’t going to hesitate.
+
+With what had happened, he had no choice but to try.

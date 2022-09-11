@@ -1,0 +1,94 @@
+Title:Giants Move Mountains 
+Chapter:2702 
+Section:13 
+Book:8 
+CSS:../Styles/style.css 
+viewport: width=device-width
+  
+## Giants Move Mountains
+### Chapter 2702 
+<figure>
+	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
+</figure>
+  
+
+  
+  Without hesitation, Han Sen followed the waves of the sea. He flew in the direction they were coming from. He didn’t dare to teleport, though. He merely reduced his presence as much as he could and flew slowly.
+
+Because teleportation caused ripples in the fabric of space, elites were likely to pick up on such a technique if he used it. That could allow the people he was tailing to notice his presence, which he was trying very hard to avoid advertising. It was better for Han Sen to fly in as slowly and quietly as he could. He wouldn’t draw as much attention that way.
+
+Boom! Boom! Boom! Boom!
+
+Explosions sounded one after another. The strong shockwaves they emitted let Han Sen confirm that it really was the power of Break Six Skies. He had practiced Break Six Skies before, but he had never used it to create anything as powerful as the shockwaves that were now rolling by him. Whoever was using Break Six Skies right now was far stronger than he was, that was for sure.
+
+“Are those giants really Breakskies? What are they doing here?” Han Sen was growing more and more suspicious of this whole situation. He wanted to teleport forward to get there with greater haste and see what they were doing.
+
+The hyper scary Break Six Skies shockwaves might have suggested an obscenely dangerous battle was going on, but Han Sen couldn’t feel any other powers or geno arts being used. If the giants were fighting some other group, Han Sen should have been able to detect some evidence of foreign powers.
+
+“Are the giants killing each other, maybe?” Although Han Sen wanted to find out the truth, he still remained patient and flew forward slowly. He was careful not to rush.
+
+The sea sloshed and danced like mad with the energy that was being released. Han Sen flew between the wild waves, figuring they were a perfect opportunity to hide and remain out of sight.
+
+This sea was unimaginably weird. Han Sen had flown for dozens of miles, yet he hadn’t seen a single piece of seaweed or ocean creature. This sea was like distilled water, manmade, and without a single speck of bacteria.
+
+The palaces that floated on the surface were now far behind Han Sen. He had passed 300 of them as he flew forward, but that seemed to be all that there were.
+
+“If each palace contained a giant, then that means there are 300 giants here. That is so many defied elites! That’s almost as glorious as the legends I’ve heard of Sacred. What kind of people could have trapped these guys?” Han Sen was growing increasingly worried about this strange situation he had stumbled into.
+
+Eventually, Han Sen saw a big mountain appear over the horizon. That mountain quickly swelled to block his vision as he flew toward it. It looked massive.
+
+The giants, who were possibly Breakskies, had gathered at the foothills of the mountain. They were all swinging their fists to wallop the mountain.
+
+Han Sen had been waiting for this moment. The shockwaves of their blows rushed over him, and he confirmed the nature of the power. It really was Break Six Skies.
+
+But what surprised Han Sen was that they weren’t fighting. They were using Break Six Skies to excavate the rocks of the mountain.
+
+Three hundred giants, all in tight manacles, were like prisoners condemned to a mining camp. They punched the mountain, breaking away pieces of rock with a slow, steady rhythm.
+
+The mountain looked grey, and Han Sen had no idea what sort of stone it was. Even though the giants were unleashing an insane amount of power as they worked, they only created a hole the size of one of their fists with each strike.
+
+The 300 giants swung their fists with the implacability of machines, but the mountain was simply too massive. When the giants’ progress was measured against the immensity of their task, it was obvious that they were barely making any headway.
+
+“What are these guys doing? It isn’t as if they’re collecting the stones. Their punches are pretty much destroying the rocks, so they can’t be after the stone itself.” Han Sen eyed the mountain curiously.
+
+Han Sen continued flying, checking out the nearby area. Aside from that huge mountain and 300 giants, Han Sen didn’t see anything else of note. There was just water in every direction.
+
+Han Sen inched closer to the mountain, but he did not dare get too close. He was worried there might be creatures lurking about that he couldn’t detect.
+
+He spent a while watching the giants, but even after a considerable amount of time, he couldn’t understand what the giants were doing.
+
+“Are these guys the heirs of Yu Gong? Are all of his children here, moving this mountain? Or does the mountain possess some kind of treasure?” Han Sen wondered with interest.
+
+Han Sen examined the mountain more closely. God knew how long the 300 giants had been working there. They had only removed a small part of the mountain’s foothills. If they were trying to make a tunnel, it would take years.
+
+“The way they’re striking seems like they’re trying to move the mountain, not dig into the side of it,” Han Sen thought with a frown. He decided that he should fly around the mountain. Perhaps he could find some piece of text carved into the mountain, or really anything that might shed light on this baffling situation.
+
+Han Sen hadn’t flown very far around the mountain when his eyes widened. He came to an abrupt stop.
+
+A giant metal pillar had been pushed into the side of the mountain. It looked something like the Sky God Pillar, actually.
+
+Even more strangely, the metal pillar had been rammed through the chest of a giant. It was pinning him to the mountain.
+
+That giant looked stronger than the other 300 Breakskies that Han Sen had seen so far. Its armor was crusted with dull, dried blood. Its blood-matted white hair looked like a waterfall, but it also obscured the giant’s face. What did he look like? Han Sen had no idea.
+
+Han Sen couldn’t sense a lifeforce within this massive creature, but he could definitely sense a presence. It was hard to describe. When Han Sen looked at the giant, he felt numb. Goosebumps flared across his skin.
+
+The giant was a dead man pinned to a mountain, but Han Sen felt as if his presence could break the sun and the moon. It was like the sky and the ground would be forced to obey this monster.
+
+“How can a dead man have this much power? How strong had he once been, then?” Han Sen’s shock quickly gave way to confusion. “Are these giants trying to move the mountain so they can bring this body down? That is so stupid. Wouldn’t it be easier to dig around the lance itself? If they follow their current path, they’ll have to dig through almost the entire mountain in order to bring the body down.”
+
+Han Sen couldn’t understand what the giants were thinking, and so he continued soaring around the mountain to see if he could find anything else.
+
+He ended up disappointed. He flew around the mountain, but aside from the pillar and the giant corpse pinned to the mountain, there was nothing else to find.“The giants have to be after that body, but the way they’re digging into the rocks makes no sense. There must be a reason why they cannot bring the body down right away,” Han Sen thought to himself.
+
+Han Sen spent a long time watching them from afar. The giants kept using their fists to shatter stone. They did it would reprieve.
+
+Han Sen made a calculation. At their current speed, it would take more than ten thousand years for them to bring the whole mountain down.
+
+Dong! Dong! Dong!
+
+The bells in the sky rang again. Han Sen raised his head. The three needles were pointing north again. That meant it was 12 o’clock.
+
+Upon hearing the bell, the giants striking the mountain stopped their work. They all turned and headed back the way they had come.
+
+When the giants were gone, Han Sen saw something unbelievable.

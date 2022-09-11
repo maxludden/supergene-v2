@@ -1,0 +1,92 @@
+Title:Crushing Power 
+Chapter:593 
+Section:2 
+Book:2 
+CSS:../Styles/style.css 
+viewport: width=device-width
+  
+## Crushing Power
+### Chapter 593 
+<figure>
+	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
+</figure>
+  
+
+  
+  Yang Manli and her people followed Han Sen to the Spirit Hall, where Han Sen used his swords to utterly suppress the twin spirits. Through his ceaseless barrage of sword strikes, the twin spirits could not gain ground and push back, and it fell back further and further.
+
+"There is something sinister and malevolent about this Han Sen. He has been in the Second God's Sanctuary for less than a year, so how can he be so powerful? He is somehow managing to suppress two royal spirits simultaneously. And as for what happened earlier..." Zhu Ting bore a strange look, and he seemed to be disturbed by his thoughts.
+
+Pang!
+
+The twin spirits had been pushed back as far as possible, and now had its back to a statue. The pretty faces of the royal spirits looked pale and hopeless.
+
+The silver snake sword and ancient mascot sword were each pressed against a spirit's neck. Seeing both of the spirits down on their knees, with pitiable and saddened looks on their faces, Han Sen felt remarkably happy. Once, these had almost cost him his life by severely injuring him. Today, he was finally able to turn the tides and win back some of the pride he had lost that time.
+
+"Quickly, kill them and grab the spirit stone!" someone shouted from behind.
+
+"There is no rush; I will wait a little longer." Han Sen did not finish off the spirits yet, he just continued to rest the swords against their necks. He wanted to provide more time for Qi Xiuwen and the rest to slay more creatures for a greater bounty when the day was over.
+
+Although Qi Xiuwen had a curious conflict of interest brewing in his heart, it was something he managed to mostly ignore. With the power of Thunderdevil and the Blackgod Shelter, they were assuredly the strongest force across the Icefield. He thought it was practically guaranteed that he would take the royal shelter for himself. Even if Li Xinglun and Philip wanted to prevent him from taking it over, any attempt at retaliation would be futile. There was absolutely no one who could go up against Thunderdevil.
+
+Finally, Qi Xiuwen found the Spirit Hall. As he approached its entrance, however, he was almost disturbed to notice the complete absence of creatures. Even more unnerving were the half-jovial sounds of human talk resonating from inside.
+
+Qi Xiuwen and Thunderdevil looked at each, acknowledging what they were both thinking. Together, they ran into the Spirit Hall.
+
+With the rest accompanying, a larger host entered the Spirit Hall behind them. Qi Xiuwen's pupils decreased into little beads after he was inside. He saw the people that were supposed to be fighting elsewhere in the spirit shelter reclined in the Spirit Hall. Han Sen already stood next to a statue, reaching out his hand to grab the spirit stone that was embedded within.
+
+"It is the twin spirits!" Qi Xiuwen saw Han Sen holding a gold sword and a silver sword, with the twin spirits standing in concession beneath the blades. He couldn't have been more surprised.
+
+Seeing Han Sen take the two spirit stones, the silver-haired lady and golden-haired lady then ceremoniously knelt before Han Sen. They lowered both of their proud heads and spoke in tandem, "Yin Princess and Yang Princess are willing to submit and offer absolute loyalty to a new master. We can become the most faithful of servants."
+
+Everyone else was now on their feet, staring at the princesses who were kneeling and swearing fealty to Han Sen.
+
+This was a pair of princess spirits. It was rare enough to see a royal class spirit make such a vow, but to have two of them do it at the same time was almost unbelievable.
+
+In each of Han Sen's hands rested a spirit stone, one silver and one gold. He placed the stones on the Yin Princess and Yang Princess's foreheads. They then became one with their stones, disappearing into them in a blinding light.
+
+Everyone continued to stand there, just watching. The taking of a royal spirit was something few people would ever see. And for it to be the twin spirits, above all, was something might happen once every one hundred years at best.
+
+When the royal spirits were taken, the creatures inside the shelter lost their reason to remain and defend what was previously their home, and so they fled. A little while later, Li Xinglun and Philip arrived at the Spirit Hall.
+
+"Aren't you guys supposed to be hunting the creatures? What are you doing here?" Han Sen turned to survey the hall with his eyes, which after one long pan, ended up on Qi Xiuwen.
+
+Qi Xiuwen sighed and said, "Brother Han, you are so blessed. You must be really lucky to have been able to tame the twin spirits."
+
+All of a sudden, Qi Xiuwen's tone of voice changed. "But you cannot live off the merit of luck your entire life. Brother Han, I will be taking this shelter, okay?"
+
+"Qi Xiuwen, do you not remember the promise made between Tang's family and Dong Lin?" Han Sen kept his stare on Qi Xiuwen as he spoke.
+
+"The promise between Dong Lin and Tang's family only applied to the Blackgod Shelter. This isn't the Blackgod Shelter, now is it?" Qi Xiuwen smiled.
+
+Li Xinglun and Philip looked at each other, as if to confirm they were about to do something in tandem. But all of a sudden, Qi Xiuwen made a gesture with his hand. In seconds, countless soldiers from the Blackgod Shelter swarmed every corner of the hall.
+
+"This is between me and Brother Han, so please don't interrupt us. Thanks, I appreciate that," Qi Xiuwen told Li Xinglun and Philip.
+
+"Qi, you promised that the three of us would be in charge once we took the shelter. You are going to take it all for yourself?" Philip said coldly.
+
+"This world is reserved for the strong. Even if I did give it to you, could you honestly hold onto this shelter?" Qi Xiuwen then gave a signal which made the evolvers around him assume battle stances. There were more than forty evolvers with a fitness level of over one hundred.
+
+The faces of Li Xinglun and Philip changed. Both of their shelters only had ten evolvers with a fitness level of over one hundred. Blackgod Shelter, however, was only supposed to contain twenty. How could there now be so many?
+
+Against so many evolvers with such a level, it would have been impossible for them to fight back. And so they reverted to silence.
+
+Yang Manli scowled, as did the rest of her compatriots. A battalion such as that, would be enough to sweep clean the entirety of the Icefield.
+
+Qi Xiuwen was right, however. Only the strong could thrive and become formidable leaders. The power Qi Xiuwen had now was truly enough to assert control over anything he desired upon the Icefield. It would be pointless for anyone to resist.
+
+"Brother Han, you and I were friends. It is a shame we do not see eye-to-eye on this, but if you pledge fealty to me and swear obedience, I will keep you by my side. Our relationship can the remain the way it was, except our roles will be reversed." Qi Xiuwen, empowered with a feeling of dominance, spoke to Han Sen in a tone marinated with the bitter sauce of bluster.
+
+"Qi Xiuwen, you honestly think these people can stop me?" Han Sen stroked the silver fox in his arms and asked his question calmly.
+
+Qi Xiuwen smiled and responded, "Brother Han is very powerful. This is something I acknowledge and I would not dare look down on you, if this is what you fear."
+
+After that, Qi Xiuwen pointed to the man at his side, Thunderdevil. He then said, "I can only assume you do not know who this person is, so allow me to introduce you. This is the most talented evolver in Dong Lin. This is Thunderdevil. Few people could ever hope to be as talented as him. He is a successful learner of the skill Thunder Core. He also unlocked his first gene lock in the Second God's Sanctuary. He is quite the rarity in the Alliance."
+
+Everyone's faces changed as they looked at Thunderdevil in fright.
+
+If he had been able to unlock his first gene lock in the Second God's Sanctuary, the man by Qi Xiuwen's side was undoubtedly a genius. He looked to be between forty and fifty, so already having such an achievement as a notch in his belt was remarkable.
+
+Silence deafened the ears of all in the hall. Qi Xiuwen had with him an elite who had already unlocked his first gene lock. This sort of power would not simply mop up its adversaries but crush them into dust.
+
+The hall had never been so quiet, and a sad realization dawned in the hearts of all who were there. Their hope had been depleted, and with this man and his crushing power present, the fear of losing everything in the ice field to Qi Xiuwen was all too real.

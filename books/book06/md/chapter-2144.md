@@ -1,0 +1,76 @@
+Title:Metal World 
+Chapter:2144 
+Section:8 
+Book:6 
+CSS:../Styles/style.css 
+viewport: width=device-width
+  
+## Metal World
+### Chapter 2144 
+<figure>
+	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
+</figure>
+  
+
+  
+  Han Sen thought he would have a few days free to himself, but soon after he finished his lectures, he was summoned by the elders. There, he was tasked with leading a team to a newly discovered xenogeneic space. He was instructed to explore the space, and if possible, return with resources and materials.
+
+Because the xenogeneic space only allowed Marquises to enter, Lone Bamboo had been intended to lead the task force there. But right now, he was training inside Hidden Path Cave. As a result, the elders saw fit to pass the job on to Han Sen. Han Sen was given a basic description of the xenogeneic space, which was called Metal World. This was, however, only a temporary name for the location. He did learn that more than one faction had already discovered it, though. Other teams were already there, researching the place. Sky Palace was a step behind.
+
+Based on what he was told, there were groups from the Dragon, Demon, Destroyed, and even the Buddha there. They were all in the Metal World, and now that Sky Palace had joined the exploration, the situation was sure to become quite complex.
+
+Han Sen did not have much time to prepare before being shipped off, as he was led by a Sky Palace elder. He was accompanied by one hundred Sky Palace Marquise students, as well.
+
+The trip to Metal World had been organized by the elders. The Marquises had been instructed to follow Han Sen’s commands after they entered Metal World, so their lives were pretty much in his hands.
+
+Although Han Sen was just an Earl, Sky Palace’s authority was well-respected among its members. And Han Sen’s own reputation was mighty. No one objected to Han Sen’s position as their leader.
+
+Before entering Metal World, the elder provided Han Sen with a bounty of information about the Marquise students he was set to lead. A few of them had been marked, as they had unique powers that would be crucial for the trip ahead.
+
+Han Sen led the one hundred Sky Palace Marquises to Metal World. That xenogeneic space was a planet, and a strange power radiated from it. That power forbade the entry of any creature or being that was above the Marquise level.
+
+The scariest thing about all this was that the planet had a very special magnetic property. Metal objects would be sucked into the planet, so tools made of metal were unusable in the planet’s vicinity. Due to this, airships could not come close to the planet.
+
+When the planet was viewed from the exterior, it seemed to be entirely shrouded in wild magnetic storms. The whole planet was cloaked in a swirl of thunderclouds. When Han Sen and the others pierced through the clouds, a most colorful planet came into sight.
+
+When they got close enough to see it all, however, they swiftly understood why the place had been given the title of Metal World. The mountains and plains there were all metal.
+
+Seeing topographical features made of metal was a little odd, but the really strange thing was the metallic nature of all the animals and plants. Everything on the planet’s surface was metal, and it was a very surreal thing to lay eyes on.
+
+“Brother Yuya, where are we to begin our search?” Han Sen asked politely, looking at the Marquise student.
+
+Yuya was a highly-regarded Marquise of Sky Palace. Second only to Lone Bamboo, he was certainly the strongest of Han Sen’s companions. He was always at the forefront of exploring new xenogeneic spaces for Sky Palace, as well. He had a lot of experience with these sorts of endeavors.
+
+Yuya looked over the planet’s surface, then spoke to Han Sen. “We don’t know where the other races have set up operations, but they are sure to have seen us as we came in. So, exploring the planet is not our primary objective. Finding those other races or finding a safe zone to establish a place of respite should be our first priority.”
+
+“Brother Yuya, you are correct! I was being reckless. Where should we camp? What do you think would be the safest place for us?” Han Sen asked.
+
+Seeing that Han Sen was really interested in the opinions of others, Yuya pointed out a Marquise to Han Sen. “You might want to ask Brother Yunyi. He is good at this sort of thing.”
+
+“Brother Yunyi, please.” Han Sen knew these matters should be handled by the professionals. Sky Palace might have sent him there to lead, but leading meant using his forces effectively, not doing everything himself like some kind of hero. It was his job to learn his team’s strengths and put them to good use.
+
+There were so many unknown factors about Metal World. He’d be able to escape if he ran into trouble, but he couldn’t go back with one hundred Marquises dead. And the other factions would be dangerous. They could have certainly established traps and ambushes. The enemy had been there for a while, and they had been given the opportunity to learn about the xenogeneic space. They might use their headstart to trick Han Sen’s party.
+
+As Han Sen’s team set to work, he quickly learned that there were many geniuses in Sky Palace. They were so good at everything, and they were quick to establish a camp on Metal World and start exploring the surrounding area. They also built an alarm system and emergency contingencies for all sorts of situations.
+
+But what surprised Han Sen the most was his team’s dedication. They researched and cataloged everything within a hundred miles. Aside from a few metal animals and plants, however, there was no sign of xenogeneics. They didn’t see any of the Marquises sent by the other races, either.
+
+There was no day and night cycle on the planet, and the environment wasn’t very friendly to life. But the Sky Palace team were all Marquises, so a poor environment would not bring them down.
+
+The magnetic storms in the sky continued to rage. Blue lightning flashed through the sky continuously, lighting up the planet’s surface better than a normal sun.
+
+Han Sen, Yuya, and the other Marquises were talking about expanding their exploration when the magnetic storm suddenly changed color. The blue magnetic storm turned a beautiful shade of pink.
+
+Dong! Dong! Dong! Dong!
+
+Suddenly, a loud noise began to ring in their ears. The metal forest nearby began to shake like it was suffering an earthquake.
+
+Not long after, a ten-meter-tall metal rhino appeared out of the metal forest, and it was not alone. Many more followed after, and before long, a thousand of them had come storming out of the trees. They were headed to a nearby river that looked like mercury.
+
+Han Sen was happy he had listened to Yunyi and avoided setting up camp near the river. If they had, the rhinos could have stampeded right over them.
+
+Those metal rhinos looked powerful. The team couldn’t determine how strong the creatures were, but in that unknown land, fighting them did not seem like a bright idea.
+
+Yunyi was looking at the metal rhinos when he said, “They are like living hunks of metal. Judging by their lifeforce, I can estimate that they are at least Marquise in strength. I don’t know if they are xenogeneics, but they don’t seem to be too smart.”
+
+“Weird. We didn’t catch sight of them in any of our explorations. Where did they come from?” White Real, who had also come on the trip, frowned in confusion.

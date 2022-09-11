@@ -1,0 +1,100 @@
+Title:Super Umbrella 
+Chapter:1675 
+Section:4 
+Book:4 
+CSS:../Styles/style.css 
+viewport: width=device-width
+  
+## Super Umbrella
+### Chapter 1675 
+<figure>
+	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
+</figure>
+  
+
+  
+  1675 Super Umbrella
+
+The umbrella began to break because of the power, and Han Sen’s Dongxuan power broke, too. In reality, it didn’t simply break; it shattered completely. It collapsed into a substance like a cloud of molecules, and then it continued to break down even further.
+
+All the scary powers came against Bulwark Umbrella, and the cracks webbed their way across the geno core’s surface. The shaft of the umbrella was crooked and bent. It looked like it was ready to come undone.
+
+Sacred’s leader, seeing the umbrella about to break, looked as joyful as those that fought with him.
+
+Han Sen was difficult to deal with. If it wasn’t for Ancient Devil there, kiting Han Sen like he was, they probably wouldn’t have been able to achieve victory. They’d have all likely ended up dead.
+
+Surrounding Han Sen hadn’t worked very well, and all the elders were afraid of the powers the human wielded. With Han Sen’s geno cores, his performance far exceeded even their wildest expectations.
+
+Now that the umbrella was going to break, Han Sen looked as if he was going to lose all his support. They felt a whole lot more relaxed, thinking the opportunity to kill Han Sen had practically come.
+
+Boom!
+
+Ancient Devil landed a hit on Bulwark Umbrella, and the power that was like an ocean looked ready to break the sky. The damaged umbrella could no longer hold on anymore, and it shattered like glass. It became dust.
+
+Blergh! Han Sen coughed up some blood.
+
+“Die!” many elders and emperors all shouted in unison.
+
+Their swords broke space, and their spears were like black dragons. With the light that could destroy the world, they all came at Han Sen in a charge. It looked like the end of the world. Han Sen stood before this apocalypse, watching the strange events occur.
+
+Han Sen’s eyes were still so calm, however. And as he observed what was around him, he remained motionless.
+
+At this point, Han Sen’s Dongxuan power had shattered alongside his umbrella. While his powers had been reduced to dust, there was a residue of a strange connection.
+
+The moment they broke, Han Sen understood something. His blood was bubbling, but he felt very good. Seeing the strange scene of the sky come down to land on him, he waved his hand as a strange power surfaced within him. Bulwark Umbrella reappeared.
+
+The umbrella looked as if there hadn’t been any changes. It was perfect, and none could likely tell the difference.
+
+But in Han Sen’s eyes, the umbrella looked completely different. The substance that it was made from looked completely different.
+
+And the powers of Han Sen’s Dongxuan Sutra were different now, also.
+
+Boom!
+
+All the world-ending powers were diverted by Han Sen’s Bulwark Umbrella. The godlike powers descended like minor drops of rain, sliding off and away from the umbrella. Nothing could even sway the umbrella.
+
+The black dragons landed on the surface and snapped, and the spacey powers landed on it and broke, too. Mountains slammed down and were sundered. Everything broke against the umbrella like a mild summer rain.
+
+In Han Sen’s eyes, they were just shattered substances. Compared to Bulwark Umbrella’s sequence structure, they were all weak. They were like individual grains of sand.
+
+When the powers hit the umbrella, they rolled off like liquid. Like water against a rock, the umbrella remained unmoved. Many of the alphas were shocked, and even Ancient Devil’s face changed.
+
+They thought they had broken the umbrella and could now kill Han Sen, but lo and behold, he had simply drawn another one out When their attacks were unable to cripple the new umbrella, they were gobsmacked.
+
+Black Wizard Bder’s Black Dragon Spear became Black Dragon. It came lashing forward at Han Sen.
+
+Han Sen was holding the umbrella in the air as the Black Dragon roared at him in a charge. Han Sen reached out his hand and tapped the creature on its forehead.
+
+Black Dragon met with Han Sen in the sky, and it looked like godzilla was squaring off against an ant. Han Sen’s hand was like nothing before the mighty Black Dragon.
+
+But in the next second, Black Dragon’s body became nothing but loose dust atop Han Sen’s hand. The entire body shattered into powder.
+
+Blergh! Black Wizard Elder coughed up blood, and he looked on in disbelief. Black Dragon Spear was his geno core, and it had never been broken before.
+
+Han Sen had smashed it with a mere slap. Black Wizard Elder felt hollow and afraid.
+
+And it wasn’t just Black Wizard Elder feeling like this, either. Other elders looked at Han Sen in shock and wanted to run.
+
+They could not believe Black Dragon Spear had become dust, and they shuddered to think what might happen if such a power befell them.
+
+Ancient Devil saw the elders looking frightened, but he seemed unaffected. With a creepy smile, he said, “It’s a little too soon, but it has to happen now.”
+
+Ancient Devil jumped atop his White Donkey. In one hand, he held a parchment. In his other, he clutched his skeleton necklace. His mouth read some text at an inaudible volume.
+
+As he read, the skeleton started to blaze with black fire.
+
+At the same time, the creatures and spirits that were attacking Shadow Shelter were covered in a black aura. This happened to the elders, too.
+
+The devilish aura was like ash after a blaze. Many creatures flew over to the necklace as the demonic aura grew in strength.
+
+“Ancient Devil, what are you doing?” Many of the elders were in shock, and they roared at Ancient Devil.
+
+Ancient Devil did not provide an answer; he just where he was, reading. He fondled the necklace roughly until the sky turned dark. All those demonic auras started to come back to him.
+
+One elder was so mad, he used a geno core to attack Ancient Devil. But as the attack came close, the geno core instantly broke. It poofed into a cloud of black smoke. When it reached Ancient Devil, it became a part of that demonic aura.
+
+That elder had lost his geno core, and that injured him badly. But even then, the blood he coughed up turned to a whiff of black smoke that drifted over to Ancient Devil.
+
+Everyone was flabbergasted, and they realized it was only happening to them. None of this was happening to the creatures inside the shelter.
+
+“Ancient Devil, what did you do?!” Sacred’s leader asked him in fury. Despite being a spirit, he felt as if his body was becoming a black smoke, too.

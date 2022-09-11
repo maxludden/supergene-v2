@@ -1,0 +1,76 @@
+Title:An Yang Ting 
+Chapter:3239 
+Section:16 
+Book:10 
+CSS:../Styles/style.css 
+viewport: width=device-width
+  
+## An Yang Ting
+### Chapter 3239 
+<figure>
+	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
+</figure>
+  
+
+  
+  Qin Yuan’s eyes looked shocked. Han Sen reached out his hands to stop the Demon God Sword’s handle. He then pulled the Demon God Sword out of his chest.
+
+While the Demon God Sword was being pulled out of his body, Han Sen’s wounds immediately started to heal. The wounds instantly faded from sight. Not a single mark or scar remained.
+
+As this happened, the Demon God Sword was full of red. It all looked like veins. The moment Han Sen pulled the Demon God Sword out, the Demon God Sword’s sword air started to rise. It was like it was setting the sword’s body on fire. The entire Demon God Sword was covered in a red flame. The red fire started to fade away. The Demon God Sword looked like it had been reborn in a fire. The heavy black sword was burned by the red flame. It became smaller and shorter. It changed from a heavy sword into a longsword. It also adopted a more delicate appearance. Han Sen held the modified Demon God Sword. He swung it through the air. Qin Yuan’s eyes were filled with disbelief as the Demon God Sword kicked up a plume of Demon God Sword air. It was scarier than his pure power earlier.
+
+“No… It is impossible…” Qin Yuan was so shocked that he stumbled back. He had lived for a very long time, but he had never seen anything like this happen. The Demon God Sword was his Break Sword weapon. It was an item he had created. Even if there was a stronger elite that could break the Demon God Sword, that elite could not take it away and warp its ownership.
+
+Han Sen had not only just taken the Demon God Sword, but he had adopted it. He had taken the power of the Demon God Sword for himself. If Qin Yuan had not seen this with his own two eyes, he would never have believed such a thing was possible.
+
+It was just Qin Yuan who couldn’t believe it. Many of the elites focusing on the fight could not believe what their eyes were telling them.
+
+“Have my eyes gotten too old to see things all funny? Did Han Sen take the Demon God Sword for his own usage?” Thousand Mile Reach could not believe it.
+
+“You are not seeing things incorrectly.” Jia Shi Zhen looked weird as she confirmed that was what she was seeing too. Once again, Han Sen had surpassed all her expectations. People like Qin Yuan, who was considered an invincible elite of the Qin Kingdom with his Demon God Sword, were names that shocked the universe. He was a person many kings feared upon merely hearing the name. Now, the Demon God Sword was in Han Sen’s hands. It also appeared to be an even stronger weapon. Han Sen slowly raised the Demon God Sword. The scary sword air locked on to Qin Yuan. Now, Qin Yuan was scared.
+
+When he was young, he was a very lucky man. Even the king was not as lucky as him. Many people of the Qin Kingdom had already become yellow soil, yet he was still alive.
+
+Only God knew how many years it had been since Qin Yuan last felt the sensation of fear. When this terror fell upon him again, he realized that no matter how powerful he had become or how much of a reputation he had earned, he was just as scared of dying as anyone else was. He was perhaps even more afraid.
+
+When Han Sen waved the Demon God Sword in his direction, Qin Yuan’s eyebrows kept jumping. His body flashed like thunder. A sword spirit arose from his back.
+
+It was Qin Yuan’s Annihilation-class gene race Demon God Sword Spirit. Now, the Demon God Sword Spirit did not look so scary. That was because half of its power was used by Qin Yuan to make the Demon God Sword. Thus, the Demon God Sword’s Spirit power was extremely weak.
+
+Qin Yuan knew he could not dodge the Demon God Sword’s power. Even though he had a Demon God Sword Spirit, he could not evade the attack of the Demon God Sword. Only the Demon God Sword Spirit’s power could fight back the Demon God Sword in a bid to perhaps negate it.
+
+The Demon God Sword Spirit was too weak. Half of its power had been used to create the Demon God Sword. It was so weak that it could not block or cancel the Demon God Sword power.
+
+Qin Yuan gave up the Demon God Sword Spirit to get rid of the Demon God Sword’s lock on him, forcing it to fight the Demon God Sword Spirit. He knew the Demon God Sword Spirit would be broken by the Demon God Sword, but he had no choice. He had to do this to stay alive.
+
+After leaving the Demon God Sword Spirit, Qin Yuan still had the Qin family’s God Spirit Blood-Pulse and another gene race. After summoning a gene race combination, he did not look back. He sent out a signal.
+
+Many shadows appeared. They were not as strong as Qin Yuan, but they were not much weaker. These people were members of An Yang Ting, and they wielded the most basic powers of the Qin Kingdom. Unless it was a life-or-death moment, even Qin Jing Zhen, who was the king of the Qin Kingdom, could not use them. Only Qin Yuan and An Yang Ting members could use the An Yang Ting.
+
+The An Yang Ting members were clad in black clothes and robes. They wore masks that were faceless and white. All of the shadows appeared next to the Candle Garden and surrounded the area.
+
+Han Sen’s Demon God Sword struck the Demon God Sword Spirit, but the two of them did not create much of an impact. The Demon God Sword Spirit, which was a transparent and light shadow, was absorbed by the Demon God Sword.
+
+After absorbing the Demon God Sword Spirit, the Demon God Sword underwent some changes. It was like it had some sort of spirit. It left Han Sen’s hand to hover in front of him.
+
+Bzzt!
+
+The whole system was illuminated by a sword light. Countless swords departed their scabbards. The more famous they were, the more they reacted. All of the sword lights went into the sky like they were fighting some strange power. Han Sen did not have time to figure out what happened to the Demon God Sword. He grabbed the Demon God Sword. At this moment, Han Sen felt the Demon God Sword was different. It had once been a weapon. Now, it was a lifeforce. It was a new Demon God Sword Spirit.
+
+Compared to the old Demon God Sword Spirit, this Demon God Sword Spirit was far stronger. It was a pure, Break World God Spirit gene race.
+
+A hundred An Yang Ting members surrounded the Candle Garden. They had a weird black air around them. It was unknown what sort of gene race power that was.
+
+The black fire looked like it had a soul. It was all going into Qin Yuan’s body. Qin Yuan’s body started to generate a cloud of black smoke.
+
+Qin Yuan’s body looked very weird. He had many black dragon scales and a dark horn. He was like a human black dragon.
+
+When the An Yang Ting’s elites gathered their power over Qin Yuan, his presence became stronger. He became scarier. He became even scarier than when he used Break World power.
+
+More and more An Yang Ting people arrived. Their bodies had a black flame. It helped Qin Yuan’s black flame.
+
+The An Yang Ting members had been elites for a few generations, and all of them were unique. There was so much power inside Qin Yuan. How scary was that power?
+
+Han Sen was holding the Demon God Sword while coldly looking at Qin Yuan. Although Qin Yuan could die, the An Yang Ting’s members were members of the Qin family. They were the basis of the Qin family. They used all their power on Qin Yuan. If Han Sen beat them, that meant the An Yang Ting would be trashed in its entirety. “Qin Yuan uses a gene race. That must be the dark big evil dragon king because that gene race has this secret. It is no wonder that when Qin Yuan heard about me wanting the dark big evil dragon king, his reaction was so volatile.” Han Sen’s eyes looked like thunder. He held onto the Demon God Sword.
+
+On this day, even the old man Sky King was there. He would have killed Qin Yuan and had the An Yang Ting be buried with him.

@@ -1,0 +1,80 @@
+Title:Baby 
+Chapter:1153 
+Section:3 
+Book:3 
+CSS:../Styles/style.css 
+viewport: width=device-width
+  
+## Baby
+### Chapter 1153 
+<figure>
+	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
+</figure>
+  
+
+  
+  When the creature emerged from its burrow again, it had a coin in its mouth. Han Sen and Moment Queen were surprised, thinking it would be carrying a rat or food in its maw, if it sought to give them something.
+
+Or maybe even rare medicine like ginseng.
+
+But the creature brought them a coin, which was quite puzzling. There was no currency in the Sanctuary, so silver coins such as that were useless. But Han Sen could not have been mistaken, and it was indeed a coin.
+
+The coin was similar to the old coins of yore, with the image of a head on one side and a number on the other. In this case, it was the number one.
+
+The creature, which was continuing to hold the coin in its mouth, crawled its way over into another bush. Han Sen put Moment Queen away, masked his sense, and went after it.
+
+The creature kept on going until it reached a hill. There was a stone cave at its bottom, and the creature scurried its way inside. The hill was around a hundred meters tall, but it was entirely laced with thorny vines. Making out the cave’s entrance would be a trying task for the untrained eye.
+
+Han Sen waited outside the entrance for a bit, seeing if it would re-emerge. The creature did indeed, but when it came outside again, it did so without the coin.
+
+Seeing the creature walk back in the same direction it had come, Han Sen decided to duck into the cave once the coast was clear.
+
+Han Sen gave the place a scan and verified the immediate vicinity was free from lifeforces. He ventured down deep, and after a few turns, his dongxuan aura’s range was not enough to scan the entrance nor the deepest recess of the place.
+
+“That creature was small, perhaps young. Maybe its parent lives somewhere down here?” Han Sen wondered.
+
+Han Sen put on his armor and summoned Disloyal Knight. Together, they continued the descent.
+
+Han Sen stood behind Disloyal Knight and did his best to scan the area. The last thing he wanted to do was unknowingly stumble upon and invoke the ire of a group of super creatures dwelling in the dark.
+
+If there were any more than two super creatures down there, they’d be in danger.
+
+The pair kept at a brisk pace down the tunnel. They wanted to scope the whole place out before the little creature returned to the cave. There’d be no way to maneuver past it if it came back before they were out.
+
+After a few more twists and turns, Han Sen reached the deepest pit of that cave. They did not encounter a single creature along the way.
+
+When Han Sen entered that last pit, he was shocked. The cave had many peculiar items residing inside it. There were mounds of broken armaments, weaponry, and garb.
+
+Some pieces of metallic weaponry had rusted so much, they looked like burned sticks.
+
+Han Sen found a coin amongst the junk. It was on top of everything else, indicating it had been put there most recently.
+
+“Why would a super creature gather so much junk? Well, one man’s junk is another super creature’s treasure!” When this thought breached Han Sen’s mind, an expression fell across his face like that of a conniving thief.
+
+Han Sen grabbed a rusted sword from the pile and thought to himself, “Perhaps this was once used by a powerful emperor; one who once ruled every region of the Third God’s Sanctuary under a single banner! Over the years, it traded hands and degrading qualities of care until it was forgotten. And then? It ended up here, lost to the lonely decay of time.”
+
+“It has come to me! It’s mine. My own, my precious. Oh, my beloved sword, I have come to rescue you from this pit!” Han Sen swung it around and then katcha! It broke.
+
+Han Sen was only holding the hilt of a rusted sword now, and he thought to himself, “Hmm, perhaps I must go deeper. This junk on top of the other junk must be the real junk. The junk below the junk must be the junk worth salvaging, and is the junk that is secretly treasure…”
+
+Han Sen rummaged through the mound of rubbish and eventually came across the glint of bronze armor. He said to himself, “Ooh, this armor looks very well-crafted. I wonder, could it be a prized treasure of some ancient emperor?”
+
+Han Sen tossed aside most of the junk that was covering the armor and tried picking it up. Before he could lift it fully, though, the shoulder plate came right off.
+
+It really was just a pile of rubbish. Everything there was broken, aside from the coin that was last brought inside.
+
+“You are a super creature, not the sanctuary’s garbage collector,” Han Sen told himself, sapped of excitement.
+
+Han Sen decided to pick up the coin. It looked like metal, so he tried giving it a powerful squeeze. It didn’t leave a mark.
+
+With Han Sen’s power, he could now leave a fingerprint on a chunk of z-steel stone with just a pinch. The fact that this coin remained totally unharmed surprised him. Earlier, Han Sen could only see the face and the number on opposite sides of the coin. But now, after closer examination, he was shocked.
+
+The carved head of a woman looked alive, and it suggested to Han Sen that it must have been designed by someone famous.
+
+On the other side, the number one was surrounded by a variety of strange symbols. Their meaning escaped Han Sen’s knowledge.
+
+The woman’s head on the coin seemed familiar, too.
+
+But she did not look like any of his close female friends.
+
+After staring at it to figure out who it most looked like, he blurted out, “I know! That’s her head!”

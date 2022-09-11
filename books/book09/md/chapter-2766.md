@@ -1,0 +1,96 @@
+Title:Fair and Square Way to Spli 
+Chapter:2766 
+Section:14 
+Book:9 
+CSS:../Styles/style.css 
+viewport: width=device-width
+  
+## Fair and Square Way to Spli
+### Chapter 2766 
+<figure>
+	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
+</figure>
+  
+
+  
+  “If I said I was lost, would you believe me?” Han Sen asked.
+
+Barr raised his eyebrows at the answer. He gave Han Sen a weird look and said, “You are lost out here?”
+
+“What is this place?” Han Sen asked.
+
+“We’re in an underdeveloped, barren area. It isn’t far from a large barren system. As for precisely where we are, I can’t really tell you. After all, this place is mostly unexplored. There are no maps here,” Barr said.
+
+Han Sen was shocked. He thought to himself, “A big barren system? That means it most likely belonged to Sacred in ancient times. It is an entrance to the sanctuaries. This was the place that Old Cat brought Littleflower.”
+
+“What are you doing in such a dangerous place?” Han Sen asked Barr.
+
+“This place isn’t a large barren system, so it isn’t too dangerous. It is just a poor system with few resources, but a small race here discovered a xenogeneic space. They claimed they found something awesome here. That is why I have come out here to look.” Barr looked at Han Sen and said, “Are you interested in visiting this xenogeneic space to check?”
+
+Han Sen didn’t answer. The few deified elites that were accompanying Barr approached him. One of them smiled and said, “Barr, why don’t you introduce us to this friend of yours?”
+
+“This is the human called Dollar. He was the Marquise winner of the last Geno Being Scroll,” Barr explained to the deified, his voice carrying a modicum of respect. He was quite polite to this other Destroyed.
+
+After that, Barr pointed at the deified elite and said, “Dollar, this is the Destroyed’s transmutation deified. He is Elder Nader.”
+
+Barr didn’t introduce the other people around Elder Nader. He only said they were students of Elder Nader.
+
+They were all just Kings or half-deifieds. Barr himself was already deified, and he couldn’t be bothered to introduce them all.
+
+Elder Nader could see that Barr was being very friendly to Han Sen. He thought Han Sen had to be an elite from some big race, but he was just some scion of a smaller race. The man swiftly lost interest, and he only addressed the occasional casual remark toward Han Sen.
+
+Dollar had reached first place in the Marquise Geno Being Scroll, but Marquises were very different from deifieds. Nader thought he had no reason to take a deified that came from a small race seriously.
+
+Although it was difficult to become deified, the smaller races occasionally got lucky. They might stumble upon a treasure or get their hands on a resource from a stronger race and become deified.
+
+But deifieds like that always had a bad base. They lacked knowledge and practical skills, and they were likely to cause trouble.
+
+The Destroyed had previously adopted a few deifieds like that, but showing such benevolence had never worked out well for the Destroyed. The deifieds did little to benefit the Destroyed, and instead, they were a frequent pain in the *ss for their host race. Ever since then, the Destroyed had stopped recruiting deifieds from smaller races. They would rather raise their own elites.
+
+If Han Sen had been from a big race, Elder Nader would have liked to talk to him. But after learning who Dollar was, he was no longer interested.
+
+Elder Nader might not take Han Sen seriously, but Barr knew about Dollar through Dia Robber. Even Dia Robber really admired the elusive Dollar, so Barr would never think about underestimating him.
+
+“Brother Dollar, if there is nothing else for you to do here, how about you come with us to explore that xenogeneic space?” Barr said, inviting Han Sen along again.
+
+“We can explore together, but if we get something good, how will we split it?” Han Sen wasn’t really interested in a xenogeneic space, but he didn’t know much about this system. Following Barr and the others might save him from some trouble in the future.
+
+“Elder Nader is a transmutation deified. He has the most power here. He will take 60% of the goods. How about we split the other 40% between you and me?” Barr suggested after a moment of silence.
+
+Elder Nader wasn’t very happy about that proposition. In his eyes, Dollar was just a primitive deified. Twenty percent was too much, he believed. Dollar shouldn’t receive any more than ten percent.
+
+But since Barr had already made the offer, Elder Nader wasn’t going to embarrass the man by stepping on his toes. He remained quiet.
+
+Han Sen shook his head. “That isn’t very fair. Never mind.”
+
+“Brother Dollar, how would you suggest we split it? You can tell us.” Barr knew this adventure would be dangerous. Having an elite like Dollar would benefit their mission quite a bit.
+
+“I’m always very fair. If this is a co-operation, I think we should split the rewards 50/50. The Destroyed get 50, and the humans get 50,” Han Sen said seriously.
+
+Fury swept through Elder Nader and his students, and they wanted to burst out crying and laughing at the same time.
+
+He had already been a little upset about the prospect of Han Sen receiving 20%, but he knew that discovering a new xenogeneic space could be a dangerous and weird adventure. Enlisting the help of an extra deified was a good idea. He wouldn’t have agreed to the 20% offer if he hadn’t understood that having Han Sen along could prove useful. But now, Han Sen wanted 50% of the total goods. That was too ridiculous.
+
+“Small races have their diminutive status for a reason. After becoming deified, they do tend to become full of themselves. I’m afraid he doesn’t even know the difference between a primitive deified and a transmutation deified. And he wants to split the goods 50/50?” Elder Nader was angered by the suggestion. He looked at Han Sen and snorted. “If you were a larva deified, I would consider 50/50.”
+
+“I am primitive. I will only accept 50/50.” Han Sen stood his ground.
+
+Even though he was only primitive, his body was incredibly strong, and he had studied many geno arts. Even ordinary transmutation deifieds couldn’t really defeat Han Sen. So, Han Sen believed 50/50 was fair.
+
+But Elder Nader was not of the same opinion. After hearing Han Sen, he laughed. “Your stomach is too big. We can’t feed you.”
+
+“In that case, I have to go,” Han Sen said. Then, he turned to Barr and told him, “Brother Barr, do you have a star map I can purchase? I would really appreciate it if you could sell one to me.”
+
+“It is just a star map. It isn’t worth much. Just take it, if you need it.” Barr opened his communicator and sent the star map to Han Sen.
+
+“Thanks a lot. We will meet again, Brother Barr.” Han Sen accepted it and nodded his thanks.
+
+Seeing Han Sen leave, one of Elder Nader’s students laughed. “He really doesn’t know his place. He thinks that becoming deified has made him invincible in the universe. A deified like him, who doesn’t know his place, is as insubstantial as smoke. There is nothing for him to be cocky about.”
+
+“Yeah, he is just a primitive deified. Our master could squeeze him to death with one hand. Why be so polite to him?”
+
+“I am afraid he doesn’t understand how much difference there is between a primitive and a transmutation. That is why he was so confident. Master, you should take this into your own hands and show him who the boss is.”
+
+“Who gave him the confidence to suggest going 50/50 with the master?”
+
+The students kept talking and judging Han Sen. They sounded as if they were all stronger than Han Sen. They had clearly forgotten that they were all Kings and Han Sen was deified.

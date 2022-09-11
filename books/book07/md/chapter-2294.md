@@ -1,0 +1,104 @@
+Title:Getting the Treasure 
+Chapter:2294 
+Section:10 
+Book:7 
+CSS:../Styles/style.css 
+viewport: width=device-width
+  
+## Getting the Treasure
+### Chapter 2294 
+<figure>
+	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
+</figure>
+  
+
+  
+  Crime swung his weapon, and the substance chain on his knife became a black snake king that looked as if it could swallow the sky. It suddenly lashed towards Han Sen.
+
+Han Sen’s body surged with power, but the white rope tightened around him. The mysterious substance chain tangled him up, and it made it difficult for Han Sen to gather up any semblance of defense. That knife was going to slice him to ribbons.
+
+Han Sen gritted his teeth. He was preparing to activate his super god spirit mode when the roaring knifelight was broken.
+
+Han Sen was shocked. He looked at Crime. A hand that looked like jade had wrapped around Crime’s wrist. The fingers were very long and pretty.
+
+“Mister White!” Han Sen could not believe what his own eyes were seeing. Mister White was standing behind Crime, pulling his hand back through Crime’s chest.
+
+But Mister White’s hand emerged perfectly clean, without a speck of blood dirtying it.
+
+Crime’s broken knife fell to the ground. He looked at the bloody hole in his chest and then looked at Mister White with disbelief. He said, “Your power was said to be useless in a fight… How… How were you able to destroy my black lion body?”
+
+“Life is full of surprises. You should have gotten used to that by now.” A beautiful white shell appeared in Mister White’s hand. He opened it and held it out toward Crime. The injured Crime was sucked into the shell.
+
+When the shell closed up, Mister White pocketed it. He grabbed the Sky Net and the little box. He looked as if he was smiling, but he wasn’t. And to Han Sen, he said, “Han Sen, it looks like you have lost completely.”
+
+Han Sen was still bound by the Sky Net. He gave Mister White a wry smile. “You won. So, what are you going to do with me?”
+
+“Kill you, of course. Do you really think I’d let a scary enemy like you continue to live and grow in this world?” Mister White looked at Han Sen emotionlessly.
+
+“Mister White, you overestimate me. I am just a nameless soldier.” Han Sen didn’t move. He summoned all his power as he continued to stare at Mister White. He was going to take a risk.
+
+Mister White turned to the cat statue as he gripped the Sky Net, ignoring Han Sen and Bao’er. “Nine-Life Cat, can we go now?”
+
+Han Sen was shocked. Mister White knew the jade cat statue was a Nine-Life Cat.
+
+The Nine-Life Cat statue stared at Mister White. It remained unmoving as it coldly said, “If you guys passed the test, so it is entirely up to you whether you come or go. There is no need to ask for my permission.”
+
+“Goodbye.” Mister White tugged the Sky Net and dragged Han Sen and Bao’er out of Holy Town.
+
+This time, the power of the town didn’t prevent them from leaving. Mister White pulled Han Sen and Bao’er out of the town with ease and returned to that area of dark water.
+
+Mister White’s other hand glowed with holy light as it held the jade stone box. The light was able to keep the darkness at bay, at a distance of around three meters from them. He eventually pulled Bao’er and Han Sen safely out of the trench.
+
+Han Sen had thought Mister White would kill them in Holy Town, but he didn’t. And after he left that place, he didn’t try to make a quick getaway. He took Han Sen and Bao’er into the big white whale, instead.
+
+Fox Queen and Yisha’s fight seemed to have ended, since there was no more movement in the sea. It was unclear which of the two might have emerged victorious, though. There was no sign of either of them.
+
+Mister White brought Han Sen and Bao’er into the big white whale. He smiled and looked at Han Sen. “Now I can kill you without any worries. Have you thought up any escape ideas?”
+
+“Why didn’t you kill me in Holy Town?” Han Sen asked with confusion.
+
+“You really think that town hid the real treasure?” Mister White asked in an amused tone.
+
+“It didn’t?” Han Sen asked.
+
+“It could have, but only if the Sacred Leader went mad. It would have taken utter insanity to spend so much power and effort constructing a place to hide his own treasure.” Mister White smiled. “This place must have a secret that you haven’t even imagined yet. Aside from that, the picture on your back looks pretty special.”
+
+“I thought the drawing was gone.” Han Sen was shocked.
+
+Mister White laughed and said, “You are too naive. Just because something disappears, that doesn’t mean it is gone. I didn’t recognize the person who drew on you, but I do know that he was drawing a creature known as Ancient Blood Dragon Lady. It is a mutant, deified xenogeneic. Her blood is her mutant xenogeneic gene. I don’t think such powerful blood could disappear so easily.”
+
+Han Sen heard this and was shocked. He had never thought that thing might have been a mutant deified creature.
+
+“Why? Why did he draw on me?” Han Sen asked in confusion.
+
+“I do not know. Perhaps ever since the beginning, you were the chosen one.” Mister White’s expression hardened. “But it doesn’t matter anymore. I am going to kill you, so everything will end.”
+
+After that, Mister White looked angry. He yanked the Sky Net, and Han Sen and Bao’er were pulled in front of him. His hand reached out to grab Han Sen.
+
+Han Sen remembered how Crime’s body was easily perforated by Mister White’s hand. He was shocked, and he was about to activate his super god body.
+
+But when Mister White waved his hand, the Sky Net loosened enough to release the bird’s nest. The bird’s nest returned to Han Sen.
+
+“Mister White, this is…” Han Sen caught the bird’s nest, and he looked at Mister White with confusion.
+
+Mister White put away the Sky Net, and he tossed the jade box towards Han Sen.
+
+Han Sen caught the little jade box, his confusion growing. He had no idea what was going on.
+
+Mister White smiled at Han Sen. His muscles and bones began to shift and writhe, and so too did his face.
+
+Not long after, Mister White became someone else. His presence was greatly changed.
+
+Mister White now looked younger. He looked no more than twenty years old, but his body carried a special sort of presence. It gave Han Sen the feeling that this man had seen and lived through everything. He was like a person that oversaw a match of chess. Han Sen’s mouth opened wide.
+
+“You! How is it you!” Han Sen screamed, pointing at him.
+
+“Why would it not be me?” Mister White looked at Han Sen with interest.
+
+“Aren’t you in the sanctuaries? How… how did you get out…” Han Sen spoke only half of what he wished to. He then suddenly thought of Blood Legion and the shura, who both had a way to leave. It now didn’t seem so strange that this person had been able to leave the sanctuaries.
+
+“It is a long story. To summarize, I thought I’d be able to break the vacuum and become a god in this world. But who knew that this was the place I would actually come to. It was quite a disappointment, all-in-all.” Mister White shrugged, looking regretful.
+
+“You… I cannot believe it…” Han Sen mumbled, still frozen.
+
+Han Sen knew this man. They hadn’t spent much time together, but Han Sen remembered him. That was because this man was the real heir of the Xuan Men. But Han Sen had only learned the Dongxuan Sutra from Dongxuan Zi. That counted for half of the Xuan Men students.

@@ -1,0 +1,82 @@
+Title:Fight Destroyer Wolf 
+Chapter:1580 
+Section:4 
+Book:4 
+CSS:../Styles/style.css 
+viewport: width=device-width
+  
+## Fight Destroyer Wolf
+### Chapter 1580 
+<figure>
+	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
+</figure>
+  
+
+  
+  “You’re being suicidal!” The Destroyer Wolf sneered, watching from the side. It wasn’t trying to stop the black dragon at all.
+
+The black dragon’s trident slammed into the Sacred egg, but it immediately became stuck to the egg, and the egg began absorbing its power. It ended up just like the Rolling Dragon King.
+
+The two terrifying super creatures, which were possibly berserk super creatures, seemed utterly incapable of escaping from the Sacred egg. Both the Rolling Dragon King and the black dragon were shocked to their very core.
+
+Han Sen was petrified. He had seen lots of descendants of two super beings before, and Xu Mi was a child of two emperors. However, he had never seen a descendant like this. It wasn’t even born yet, but it was already able to wreck two super beings. Rolling Dragon King and the black dragon were being sucked dry, and it was a stunning thing to witness.
+
+The Rolling Dragon King seemed to have aged a thousand years, and the scales on his snake tail were yellowing. His upper body looked old, and he wasn’t as forceful as he had been before. He looked like an old man who was so skinny that his bones were visible.
+
+As for the black dragon, it wasn’t doing any better. Its body was quickly aging as the essence inside its body was sucked out.
+
+The Destroyer Wolf looked at the withering Rolling Dragon King and said, “Everyone else thinks that the black dragon is the master of Rolling Dragon Lake, but I am exceptional. Do you really think you can trick me? Do you really think I came to Rolling Dragon Lake because I couldn’t break the Sacred egg? How naïve are you?”
+
+As it spoke, the Destroyer Wolf squinted its eyes and a trace of light gleamed. “I came here because of the power of death in the black pond. Without that power of death, there’s no way that the Sacred egg could have incubated this soon.”
+
+“It’s a descendant of Sacred shelter. What does it have to do with the power of death?” Rolling Dragon King asked through clenched teeth.
+
+Destroyer Wolf sneered. “Are you an idiot? Don’t you know that its mother is the Destroyer Empress? Her power is the power of death. The power that Sacred egg inherited isn’t just the power of Sacred’s master, but also the Destroyer Empress’s power of destruction. The power of Rolling Dragon Lake is the best way to nourish it.”
+
+“What good will it do you? Let us go, and we’ll give you whatever you want,” said the Rolling Dragon King.
+
+The Sacred egg had almost sucked him dry. There was only a layer of skin covering his bone, and he looked more horrendous than a skull.
+
+“Idiot. What do you think you can offer me? Even if you both gave me your self geno cores, they can’t even begin to compare with this Sacred egg.” Destroyer Wolf’s eyes were gleaming. “The descendant of Sacred’s master and the Destroyer Empress will have both the advantages of their genes. Since it was incubated, it has been nurtured by the godly fluids of Sacred’s master, and with your power of death, the creature about to be born will be more perfect than any other berserk super creature. Once it’s born, I’ll merge its genes with mine, then I’ll become the most powerful creature in the Fourth God’s Sanctuary.”
+
+“Don’t count on it. Even me and black dragon are not its match. How do you think you’ll manage to merge with it?” The bones of Rolling Dragon Emperor were starting to degrade. He fell on the ground beside the black dragon.
+
+“I have my ways, and you don’t need to worry about it. Just wait for your death.” After the Destroyer Wolf finished, it stopped giving a d*mn about the Rolling Dragon King and the black dragon.
+
+“As for you, I really don’t want to waste my time to kill you, but it’ll take me a while to merge with the egg. If Sacred shelter and Outer Sky learn about it, it’ll be a pain in the *ss. You should just die,” said Destroyer Wolf as it stepped forward, its body entering a space fault.
+
+A crack showed up beside Han Sen, and a wolf head extended out, surging toward Han Sen’s neck with its white teeth. Han Sen used the golden engraving shield on his shoulder to ward it off and defend himself against the bite of the Destroyer Wolf.
+
+Scraaaape!
+
+The teeth of Destroyer Wolf and the shield ground against each other, and it made an annoying sound. The teeth of the Destroyer Wolf tore a part of the golden engraving shield off, and the golden engravings on the shield were dimming. It didn’t have the power to reflect the attack.
+
+Han Sen was terrified. He had never seen a force that the golden engraving shield couldn’t defend against.
+
+The Destroyer Wolf fell toward Han Sen. It looked at Han Sen coldly. “My power is to swallow space, and I already control this space entirely. Where do you think your shield’s reflecting power comes from? Your shield is nothing against me.”
+
+Destroyer Wolf’s body was dimming as it traveled through the space fault. Every time, it left red slashes across Han Sen’s body.
+
+Han Sen couldn’t catch up with the rapidly vanishing and reappearing wolf, and his body couldn’t defend against the wolf’s spatial powers. The wounds looked bizarre, like pieces of Han Sen’s flesh were simply vanishing.
+
+Fortunately, the golden engraving shield warded off a large part of the attacks. Otherwise, Han Sen would have been eaten alive.
+
+Han Sen was frowning. The space swallowing power of the Destroyer Wolf was indeed terrifying, and Han Sen couldn’t handle its attacks. He couldn’t see how its body was moving between the faults, nor could he guess how to power worked. He couldn’t wield any of his advantages, and he was completely suppressed by Destroyer Wolf.
+
+Han Sen clenched his teeth, and gleaming holy light rushed out of his body. His hair immediately grew longer, and shining light flowed from his eyes. He went into the super king spirit mode.
+
+The super king spirit was different from Han Sen’s usual power. A human’s body didn’t grow stronger when their self geno core leveled up, but creatures and spirits were more closely connected with their cores.
+
+The super king spirit mode made Han Sen like a creature or spirit: his body became more powerful as his geno cores improved. As of yet, the Dollar geno core hadn’t been upgraded, so the power given by the super king spirit mode wasn’t very strong.
+
+However, Han Sen didn’t enter super king spirit mode to improve his power.
+
+After he entered the super spirit mode, Han Sen rushed toward the Sacred egg. He slapped toward the Sacred egg with his palm in an attempt to knock the Sacred egg away from the Rolling Dragon King and the black dragon.
+
+He didn’t want to save them. Destroyer Wolf wanted the Sacred egg to absorb power, but without a connection to the Rolling Dragon King and the black dragon, the Sacred egg wouldn’t be incubated.
+
+That was why Han Sen saved Rolling Dragon King and the black dragon. No matter what they were going to do, the Destroyer Wolf would have to deal with them first, so this was Han Sen’s chance.
+
+Destroyer Wolf saw Han Sen slapping toward the Sacred egg, and it sneered. “You want to touch the Sacred egg? You’re being suicidal.”
+
+However, the Destroyer Wolf didn’t stop attacking. On the contrary, it appeared behind Han Sen and snatched Han Sen’s neck with its space swallowing power.

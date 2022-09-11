@@ -1,0 +1,90 @@
+Title:Violent Suppression 
+Chapter:3283 
+Section:16 
+Book:10 
+CSS:../Styles/style.css 
+viewport: width=device-width
+  
+## Violent Suppression
+### Chapter 3283 
+<figure>
+	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
+</figure>
+  
+
+  
+  “Getting locked on by the dragon spear’s power is something not even a real God Spirit can escape. You should just concede.” Shoot Shadow used one hand to hold the dragon spear. The other hand generated a weird, dark power.
+
+The dark shadow-looking power did not come from the dragon spear. It was Shoot Shadow’s Break World power.
+
+Back in the day, the God Chaos Party and the God Spirits had separated. They even forced the last geno hall leader to reboot the universe. That alone showed how scary the God Chaos Party was.
+
+Elites that were able to survive a reboot were all scary existences. Although their powers could not be restored to their greatest condition, they were not likely ordinary creatures.
+
+Shoot Shadow’s hands lunged out to grab Han Sen, whose power was stuck to the light stream dragon spear. He could not use his hands to block him. Shoot Shadow’s black flame-wreathed hand did not attack Han Sen. No power landed on Han Sen either, but his neck was delivered five fingerprints. It was like someone had tried to throttle his neck.
+
+If one looked at Han Sen’s shadow, one saw a black-armed shadow grabbing his neck. “You defeated Bury Path God. I thought you were someone great, yet this is all you have been able to do. Bury Path God is really becoming quite useless now.” Shoot Shadow’s hands looked like they were clutching nothing, but Han Sen’s neck looked like it had been grabbed by an invisible hand. His skin was starting to cave in.
+
+“I am not a cool person,” Han Sen coldly said. His body turned into an ice jade color. His hair looked like ice coming down. His skin was like snow. He looked really holy.
+
+Even his face started to change. His facial structure was very clear and well-defined, but it didn’t appear feminine. His entire body released a holy light. It was like some holy god had walked out of a snow world.
+
+Upon seeing Han Sen in such a condition, even Zhao Ning’er, who was on the ship, felt a bit ashamed. It made her wonder how someone so holy-looking could exist.
+
+Shoot Shadow coldly laughed, but his laughter quickly disappeared. Han Sen’s body released a holy light that made his shadow fade. It was then expunged.
+
+“How is that possible?” Shoot Shadow Elder screamed. He looked at Han Sen in a state of shock. “How can such pure power exist in this world? Even the black shadow cannot accompany it. Even the main god of the 12 Annihilation classes, Light God, can’t be that
+
+pure.”
+
+His power enabled him to control the shadows of the world. Now, Han Sen’s body was too holy to even cast a shadow. It made Shoot Shadow’s power completely vanish.
+
+“If there is no light, there is no darkness. Light and dark are two sides of the same coin. Light God is not holy. Do you not understand that?” Han Sen looked at Shoot Shadow Elder calmly. The hand holding the Inch Grey Sword started to brim with power. The Jadeskin in Break World mode created a scary body power. With the Break World power of the Dongxuan Sutra and Blood-Pulse Sutra, the three Break World powers ran in tandem with each other. It took Han Sen to another level.
+
+Katcha!
+
+Previously, he had been shut down by the dragon spear. The Inch Grey Sword, which had been unable to move, started to move again. It pushed the spear’s shaft away. The spear’s shaft was delivered a crack.
+
+Han Sen’s Break World power was not solidified, but three Break World powers created a pool of power that was big enough to suppress his opposition. Although the dragon spear’s power was already solid, it was not enough to combat Han Sen.
+
+It did not depend on the Inch Grey Sword’s sharpness or require a powerful force of impact. It was just a pure crush of power.
+
+A sharp sword easily cut wood. A hammer easily broke stone slates. If the sword just touched the wood, it was difficult to leave a mark on it. If the hammer was set on a stone slate, it was unlikely it would be damaged.
+
+Han Sen was using absolute power. He was like a giant compactor machine that could crush everything
+
+“Impossible… Your break World Power is not solid yet. How can you have such a powerful power? How is that possible?” Shoot Shadow watched the dragon spear be broken by the Inch Grey Sword. He was very shocked.
+
+Although the Break World rating did not accurately define the differences in absolute powers, when the dragon spear’s power clamped down, not even something that had a Break World rating greater than the dragon spear could escape its grasp or deal damage to
+
+it.
+
+Yet, Han Sen had been able to suppress it. How scary was that power?
+
+Shoot Shadow only used one hand to grab the dragon spear. Now, he had to clutch the dragon spear with both hands. He pushed all of his power into the dragon spear to fight Han Sen.
+
+Even so, Shoot Shadow’s hands were crushed. The cracks in the shaft were becoming more severe. The Inch Grey Sword’s blade pushed deeper. Half of the shaft was cut through.
+
+In the 33rd sky, Bury Path God and many other members of the God Chaos Party were watching this fight unfold. A scary creature said, “It looks like Shoot Shadow is going to die. Should we go and help him?”.
+
+“Why would we help him?” another creature asked. “He gave up and decided to support Qin Xiu. It is beneficial for us if he dies here.”
+
+“You cannot say that. After all, this is the 33rd sky. If Shoot Shadow is killed here, it is still a grand shame for us.” The scary creature hesitantly added, “Plus, if we do not save Shoot Shadow, things will become too obvious. Qin Xiu will not use us anymore. It will be harder for us to accomplish things.”
+
+“What do you think, Bury Path God?” All of the scary creatures looked at Bury Path God.
+
+Bury Path God looked at the video stream playing in a mirror. He coldly said, “It is only just Shoot Shadow. His death won’t matter to us, but I am interested in Lin Jin. Although Qin Xiu gave us the same amount of life souls, it seems fair. I always thought the life souls they had were different from the life souls we have.”
+
+After pausing, Bury Path God looked at Sky King and went on to say, “Plus, after Zhao Ning’er’s incident, Qin Xiu did not even bat an eyelid. Now, with something happening to Lin Jin, Qin Xiu was willing to send out Shoot Shadow and the stream light dragon spear. Do you not think that is rather odd?”
+
+A scary creature thought, “Bury Path God is right. This is so weird. Does Qin Xiu not trust us? Is that why he gave us weaker life souls?”
+
+“I want to know the answer to this too.” Bury Path God looked at Sky King.
+
+Katcha!
+
+The Inch Grey Sword split the dragon spear in two. The light stream dragon beast that had become a dragon spear was broken. Its power went back to Shoot Shadow.
+
+When the dragon spear broke, the dragon spear that had snatched all the weapons and Sky King let all of its captives go free. A voice played in Han Sen’s head. It was an acoustic he had not heard in a long time.
+
+“Break World beast hunted: light stream god dragon. Got light stream god dragon beast soul. Got Break World gene.”

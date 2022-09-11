@@ -1,0 +1,82 @@
+Title:An Accident 
+Chapter:3223 
+Section:16 
+Book:10 
+CSS:../Styles/style.css 
+viewport: width=device-width
+  
+## An Accident
+### Chapter 3223 
+<figure>
+	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
+</figure>
+  
+
+  
+  Bury Path God’s power was incredibly strong. The whole of Dust God shook under the duress of his power. It felt like that power could bury the entire sky, ground, and space around No matter how strong his power was, he could not keep his knees away from the ground. Qin Xiu held Wan’er and went down to Bury Path God. Every step he took made the suppression power applied to Bury Path God seem even heavier.
+
+Patong!
+
+Bury Path God’s second leg could not withstand the pressure. He was forced into a kneeling position. The crack below his legs spread. Bury Path God was so angry, but no matter how much he madly roared, he could not stand up.
+
+Under the pressure, his hands eventually dropped to the ground as well. His entire body was suppressed, so he could do nothing to straighten himself out. Bury Path God still supported his head. He was not going to let that bend.
+
+The God Chaos Party headquarters was full of scary creatures who were now exhibiting shock. Ever since the universe had rebooted, they had never seen anyone be able to do this to Bury Path God.
+
+Even before the universe rebooted, there were only two people that could do that to Bury Path God. One was the previous God Hall Leader, the leader who ruled the universe.
+
+The other was the prior leader of the God Chaos Party. He was the one who was very accomplished.
+
+Aside from these two, no one could suppress Bury Path God like that. In this era, no one was able to suppress Bury Path God like that.
+
+Yet, this supposedly impossible scene was appearing in the vision of all those scary creatures. They were all shocked and afraid.
+
+A scary creature who had also survived the reboot asked in shock, “How did Qin Xiu become so strong? He is as strong as the old leader now.”
+
+Of the creatures that lived in that era, they all now thought the same thing. They felt as if they were witnessing the old leader’s powers.
+
+Qin Xiu walked up to Bury Path God. He stood there, but it did not look as if he was going to do anything. Still, Bury Path God could only see as far as Qin Xiu’s feet. He could not lift his head to look upon him.
+
+No matter how angry he was or how much he felt he had been wronged, in front of that power of absolute suppression, he could only lower his head so far that it almost touched the ground “Ahh!” Bury Path God roared with sadness. He wanted to kill himself. He would have rather died than kneel before Qin Xiu.
+
+There was some invisible power on his body that was suppressing him. It made him unable to destroy himself. His head touched the ground. It humiliated the scary creatures of the God Chaos Party.
+
+Even when the old leader was there, no one had humiliated Bury Path God like that before. After all, he was God Chaos Party’s temporary leader. He had never been humiliated like this before.
+
+“Do you obey me or not?” Qin Xiu looked at Bury Path God from a high place. He looked at him as if he was looking at a small ant. “Qin Xiu, you do not have what it takes to talk to me like this. Kill me if you have the guts to.” Bury Path God’s body was on the ground. He was not scared.
+
+Qin Xiu lifted his lips to display a smile. He looked at Wan’er, who was now fast asleep, and said, “Dying does not come so easily. If you offend me, I will kill you. You wanted to take Wan’er’s body for yourself. How can I let you die easily? Obey me or kneel here forever as an apology to Wan’er. I leave the decision to
+
+you.”
+
+The creatures of the God Chaos Party were shocked. Qin Xiu wanted Bury Path God to be buried there forever so that he could never do anything. What kind of humiliation was that? To Bury Path God, that was worse than reincarnation.
+
+Bury Path God’s teeth started to chatter. He was very angry. He wanted to kill Qin Xiu, but he could not even die. There was no way he could kill Qin Xiu.
+
+“It looks like you have chosen to kneel here forever,” Qin Xiu coldly said. He picked up Wan’er and turned around to leave.
+
+“Bury Path God is greeting Mister Leader!” Bury Path God suddenly roared. His voice was filled with an endless amount of anger and sadness.
+
+“Very good. I love the emotion you put into that. It is like music to my ears. Say it a few more times for me.” Qin Xiu looked back at Bury Path God. He then turned around to leave again.
+
+The pressure on Bury Path God did not go away. He was still kneeling on the ground, screaming in a way that sounded loud enough to tear up his lungs. He shouted, “Bury Path God is greeting Mister Leader! Bury Path God is greeting Mister Leader!”
+
+Qin Xiu ignored Bury Path God. A few steps later, he went to Han Sen, whose body was still running the main and the reverse versions of the Dongxuan Sutra. He was unable to combine them.
+
+“Is that as far as you can go after having the super gene for so long and receiving her help?” Qin Xiu looked at Han Sen coldly as he spoke. “If you did not use the super gene power, I could not have beaten her will. To completely control the super gene, you must work hard too. Why don’t you just come with me? In the future, you will have a seat on the throne of this universe.”
+
+“Sorry, but I am not interested in following monsters.” Han Sen held onto the pain of the two powers that thrashed around inside him. He tried to speak calmly.
+
+Qin Xiu looked at Han Sen with interest. “Your body has my genes, as well as that of World King God, but it is so weak. If I have guessed things correctly, you are the product of that accident.”
+
+“What product, and what accident?” Han Sen coldly asked.
+
+Qin Xiu replied, “After coming to the geno universe, I and World King God were restricted by the rules of the geno universe. We had to separate to reduce the suppression of the geno universe’s rules. We tried many other different ways to reduce the suppression while also finding a way to break into the geno hall to revive Wan’er. Ergo, we conducted many tests. One of the tests was for me to give my body to World King God. That way, I could take on a pure God Spirit mode so I could find a new body in which I could use for my tenure in the geno universe. World King God had my body and made a ballsy test. He wanted to use his genes in the geno universe and gene technology to make a body that the universe was able to accept.”
+
+“It was a shame that his test did not pan out right. Sacred was attacked by the God Spirits. World King God did not combine with my body completely, and my spirit had only just entered the super gene. It restricted his will, so it was hard to join the fight. It resulted in Sacred being broken and all the tests failing.”
+
+Qin Xiu paused and went on to say, “It looks like most of the genes in your body come from the crystallizers. I am willing to guess the crystallizer’s assistant, in the tests, stole some of World King God’s genes for a test. He then used it on his own genes. That is why you, the accidental life, came to be.”
+
+Han Sen heard Qin Xiu’s words. He now understood where humans from the sanctuaries came from. It was all an accident. He was not the creation of Qin Xiu or World King God.
+
+“So, is the alpha of the humans in the sanctuaries a crystallizer?” Han Sen asked. “You could put it that way, but you have the genes of me and World King God inside you too. You are still, in some way, my heir and inheritor. Following your alpha is not something embarrassing.” Qin Xiu looked at Han Sen and went on to say, “Plus, your situation is a bad one. If I do not save you, I am afraid your body is not going to be able to hold the abuse of the main and reverse powers.”

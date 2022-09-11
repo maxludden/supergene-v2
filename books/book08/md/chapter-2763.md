@@ -1,0 +1,66 @@
+Title:Judgment a Second Ago 
+Chapter:2763 
+Section:13 
+Book:8 
+CSS:../Styles/style.css 
+viewport: width=device-width
+  
+## Judgment a Second Ago
+### Chapter 2763 
+<figure>
+	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
+</figure>
+  
+
+  
+  To be more accurate, the geno art had been transcribed across many tablets, and Han Sen had only seen one part of it.
+
+According to legend, the Buddha had gained so much strength in recent times because they were researching the broken Flush Real Sutra. That was how they had risen to such prominence in the universe.
+
+Many Buddha geno arts had been developed from the Flush Real Sutra. Even the shapeshifting skill that Burning Lamp Alpha once used to turn Han Sen into an ant had originated in the Flush Real Sutra.
+
+“This book must just happen to have the same name. This isn’t the actual geno art, is it?” Han Sen opened it to take a look. He scanned through the text, but it didn’t seem to be a geno art. It was just a treatise involving concepts of theology and science.
+
+It was just like an ordinary theology book. The Flush Real Sutra had so many vague and deep passages, it was difficult to even determine a correct interpretation of the geno art’s contents. But Han Sen had a head start in understanding it. After all, he had once put a great deal of effort into studying the Dongxuan Sutra. Now, that hard work was paying dividends.
+
+Han Sen continued paging through the book, searching for something noteworthy. Nothing important jumped out at him, and the more he read, the less interested he became. After a while, the content became so boring that Han Sen was about to move on to a different manuscript.
+
+At that moment, Han Sen found an article that triggered his interest. It talked about there being more than one universe in existence.
+
+It was trying to say that the universe didn’t exist alone; it was actually a part of a fabric containing many different universes. It was possible for creatures to travel between these universes.
+
+The concept was difficult to understand. It was like Han Sen was standing on a train, and the universe he inhabited was the carriage around him. However, if he walked forward into a different carriage, he would be in another universe.
+
+People weren’t locked into the universes that they were born in. Throughout their lives, they flowed seamlessly from one universe into another, and most of the time, they didn’t even realize that anything had changed.
+
+The divisions between universes weren’t as obvious as a train that was partitioned into carriages. Universes were separated from each other by rules of time and space. The space you were in during one particular second would be different from the space you occupied in the next second.
+
+Based on this multiverse theory, it was logical that a person could go back in time or forward into the future. If there was only one universe, then a person would be locked into a single moment in time, and the past and future would remain forever out of reach. But if reality actually existed as a multiverse, then time could be altered. If a parallel universe existed in the past or the future, then it would be possible to go there.
+
+Of course, the Flush Real Sutra didn’t give any clear instructions on how Han Sen could go forward and backward in the multiverse. But the theory did provide Han Sen with some inspiration.
+
+According to the theory, Super Space Slash’s power could slash through one universe and reach the next. So, even though Han Sen could see a knife light, he couldn’t block the knife light. Therefore, he couldn’t dodge it. That was because the attack was actually landing in a previous universe, and Han Sen was only being injured as a sort of after-effect.
+
+“If I use my body to block God’s Knife’s power in the last universe, then I won’t get hurt in the present. Like when I use super god spirit body. No matter what time or universe I might be in, God’s Knife’s power cannot hurt me. But the problem is, the super god spirit body is limited right now. Even if I could use it, I’d just end up in a stalemate with God’s Knife unless I could find some way to destroy it. When my time with super god spirit body expired, the fight would be over. I’d lose.”
+
+Han Sen continued talking to himself. “It isn’t like there is no other way. My body cannot withstand God’s Knife, but Super Space Slash’s power doesn’t seem to be complete. It cannot choose which universe it slashes into. He can only slash the universe one second before. If I could only predict the creature’s attacks a second before they land, I could block.”
+
+“But God’s Knife continues to grow, and its attacks might no longer be limited to a second before. It would be immensely difficult to predict where an attack was coming from, and if God’s Knife continues to develop, it will become even more difficult. Plus, God’s Knife can see where I’ve moved in the following second. No matter what my defense is, the beast can choose to avoid my defensive position and target whichever weakpoint of mine it wishes to attack.”
+
+“If I can learn the Sit and Forget Sutra, I can cut off my connection to the past. Even if the me in the last universe was killed, then the me in the present wouldn’t be affected. That would be the best-case scenario. But the Sit and Forget Sutra and Under the Sky are in conflict. They cannot be practiced together. So, if I want to block Super Space Slash, I have to predict the attack’s direction a second before it is unleashed. Maybe I can use the Shield of the Medusa’s Gaze to block the attack? That would be difficult, but it isn’t as if I cannot do it. Judgment and formation talents are what I am best at, after all. Under the Sky is the top geno art for those who excel in those skills. Maybe I can really predict one second before, but now, the biggest problem is how to allow God’s Knife to see my movement and still keep it from hitting a vulnerable point.”
+
+The Sit and Forget Sutra couldn’t be combined with Under the Sky, and he couldn’t understand what Ancient Devil was talking about. Instead of worrying about both problems at once, Han Sen focused on practicing Under the Sky to see if he could predict the actions of someone one second in advance.
+
+God’s Knife could predict what would happen one second in the future, and so Han Sen had to learn the future that God’s Knife already knew. Somehow, he had to force his opponent to attack his shield, rather than his vulnerable flesh. It was an incredibly difficult challenge. Ordinary people couldn’t fathom doing such a thing.
+
+But Han Sen didn’t believe it was an impossible task. Super Space Slash was only one skill; it must be breakable. The fight would be something like a game of chess. Every time Han Sen moved, it would alter his opponent’s response. Checkmate was achieved by pushing his opponent into a place where none of his options were good ones..
+
+But that thought led to another difficulty. In chess, a player had to attack their opponent’s weakness. In order to limit his opponent’s options, Han Sen would need to threaten him. If the threat level wasn’t high enough, God’s Knife could just ignore Han Sen’s provocation.
+
+“God’s Knife is so durable. Even Old Blood Dragon Lady couldn’t destroy his body. I don’t have a strong enough weapon, and my personal power hasn’t reached such a godly level. But even if I can’t kill God’s Knife, if I can just rattle it, I might stand a chance.” Han Sen was so excited thinking about this. He finally had an idea.
+
+Han Sen’s strongest skill was Super Spank. In addition, he had Break Six Skies and Heart Connection.
+
+The levels and powers of each skill were different. Super Spank wasn’t powerful enough to shatter the substance chains of God’s Knife. So, right now, it wasn’t useful.
+
+Heart Connection’s penetration power was strong, but against God’s Knife’s strong body, it would be useless. The explosive power of Break Six Skies, however, was perfect for Han Sen’s situation.

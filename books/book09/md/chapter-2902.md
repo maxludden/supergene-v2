@@ -1,0 +1,92 @@
+Title:Scary Mountain 
+Chapter:2902 
+Section:15 
+Book:9 
+CSS:../Styles/style.css 
+viewport: width=device-width
+  
+## Scary Mountain
+### Chapter 2902 
+<figure>
+	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
+</figure>
+  
+
+  
+  When the grinding disc spun, a crystal light landed on the corpse of the Tiger God Eagle. It was like the flesh and feathers had a layer of crystal porcelain.
+
+In the crystal porcelain, the Tiger God Eagle’s dead body slowly deformed into a transparent liquid. It followed the crystal wheel and started to sink.
+
+A moment later, the big Tiger God Eagle had decomposed into nothing. Not a single feather remained. Once the crystal wheel stopped spinning, the mountain was still and quiet. The lights switched off. Everything seemed as if nothing had happened.
+
+Bai Wanjie and the others all felt a little numb. Now, they understood why the bodies of the princes and princesses were never seen again. This must have been why.
+
+Han Sen looked at the crystal wheel down below. His brain had many thoughts flashing through it. “Weird. Let’s not say that traps might reside inside this mountain, but this place is very dangerous. All those kings of the Extreme King sent so many princes and princesses down, and they are not even warned of the dangers they might face. They just tell them to come here and practice. It makes no sense.”
+
+Han Sen was thinking that it was all very strange. What kind of old man would not worry about the well-being of their children? No matter how much a father wanted their children to practice, they should never subject them to such cruel fates.
+
+“Unless the Extreme King kings know full-well that sacrifices are expected, so they are sent here…” Han Sen looked at Bai Wanjie and the others. They looked fairly glum, but it was hard to tell what thoughts were running in their minds.
+
+Han Sen did not think they were thinking of things the way he was. It was not like Han Sen was smarter. It was just that they were the ones fully involved in this ordeal. They had no idea.
+
+They were stuck in the middle of it. They thought this trial was the key that could make them a successor. They thought it was only expected to face such dangers. Otherwise, there was no way they could tell which one of them was smarter, stronger, or worthier of becoming the next king. Other thoughts were not entertained.
+
+Bai Wanjie looked at the crystal wheel and giant egg and said, “Right now, we do not know if the final test requires us to break the big egg or if there is actually something else to do.”
+
+“I don’t think we should break the egg,” Bai Wuchang said. “The princes and princesses that came before us would have most likely tried. By the looks of it, they failed.”
+
+“Maybe not,” Bai Lingshang said. “Like the undead before here, perhaps this big egg has the power to recompose itself. Perhaps no matter how many times it is broken, it can be recovered.”
+
+Bai Wei nodded and said, “From what we have seen now, the final test has something to do with this egg.”
+
+Bai Wanjie was silent a moment before saying, “Sister Wei, you have been practicing with the Very High for a long time. You must know more than us. Can you see what is inside this big egg?”
+
+Bai Wei shook her head. “Outer Sky has many xenogeneics, and I have seen many xenogeneic eggs. This is the first of its kind I have ever seen.”
+
+Bai Wuchang thought for a moment and said, “In the past, the princes and princesses were able to finish their task. There must be a way to do this. We have just yet to uncover what it entails.”
+
+“Sister Lingshang was correct,” Bai Wanjie said. “Earlier, I threw the Trapped Animal Cage and the Tiger God Eagle down. The Trapped Animal Cage hit the egg and did not get stuck. However, the Tiger God Eagle did get stuck. It looks like the egg will only magnetize things that are actually living.”
+
+Everyone’s eyes seemed to brighten. If the giant egg’s power only worked on living things, that meant they could use their treasures to attack the egg.
+
+“If things are indeed that way, then allow me to try first,” Bai Wuchang said. He took out his jade knife, which was half a foot long. It looked like a dagger and was seemingly made out of crystal jade. The blade had a murderous look.
+
+Bai Wuchang clutched the jade knife as he stared at the crystal egg. His hands were unleashed, making the jade knife turn into a green light that launched itself at the big egg.
+
+Dong!
+
+When the jade knife hit the big egg, it made some crunching sounds like it had struck a stone. Many green substance chains were set forth. They hit the crystal wall and shattered.
+
+The big egg had been hit really hard. It was like a lightbulb that had been turned on, forcing it to release some light.
+
+The big egg glowed with light. The crystal tools in the mountain started to run. It was like a signal tower. All the halos lit up, making the whole mountain shine.
+
+Seeing that his attack failed, Bai Wuchang took his jade knife back. The jade knife did not adhere to his command. It landed on the crystal wheel.
+
+When the wheel started to spin, the primitive treasure was reduced to nothing just like the corpse of the Tiger God Eagle. It became a liquid that spilled into the slits and slots around.
+
+Bai Wanjie and the others were frozen. They felt a big chill. The crystal wheel was able to decompose flesh and treasures.
+
+Han Sen was not surprised. It was because the primary material of any treasure was a xenogeneic gene. The Tiger God Eagle’s body was the xenogeneic gene itself. There was no difference between them, so it was natural for it to be decomposed.
+
+What Han Sen felt was strange was that when the small jade knife hit the egg, the woman in the big egg reacted. It was like someone had disturbed her slumber. She frowned, but her eyes did not quite open.
+
+After a while, the crystal tools of the mountain stopped spinning. The lights of the egg began to dim.
+
+Bai Wanjie was looking at Bai Wuchang as he asked, “Wuchang, what is going on?”
+
+With Bai Wuchang’s power, controlling a xenogeneic treasure, was not difficult. The small jade knife should not have fallen down.
+
+Bai Wuchang was silent a moment before replying, “After hitting the big egg, the connection I had with the knife was strangely gone. I tried my best to bring it back, but it did not work. The power vanished when it fell into the mountain.”
+
+“This is annoying,” Bai Wuchang said. “The creatures will get stuck on the egg and die. If treasures activate the egg, they will be isolated inside. It will be hard to destroy the big egg.”
+
+“If things were that easy, it would not be a challenge left behind by Mister Alpha,” Bai Wanjie said.
+
+Suddenly, everyone was staring at the big egg in the mountain. No one had a good idea. Eventually, Bai Wanjie pulled out a bracelet. That necklace had 108 orbs. Each one was the size of a cherry and the color of white jade, which was similar to sheep fat. It looked like stars were spinning inside it.
+
+Bai Wanjie unlocked the necklace, took an orb out, and threw it at the egg. They saw an explosion of starlight. The egg exploded. Light appeared everywhere. The crystal equipment had been split.
+
+Bai Wanjie kept throwing the orbs at the egg one by one. The big egg kept growing brighter. Previously, they had seen it as a big black egg. When the white light increased in volume, it became transparent.
+
+“It looks like there is something inside.” The big eggshell started to become transparent. Bai Wuchang was now able to see the blonde lady inside, but he could only see a little. It was not very clear.

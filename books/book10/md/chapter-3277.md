@@ -1,0 +1,92 @@
+Title:Paying Rent 
+Chapter:3277 
+Section:16 
+Book:10 
+CSS:../Styles/style.css 
+viewport: width=device-width
+  
+## Paying Rent
+### Chapter 3277 
+<figure>
+	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
+</figure>
+  
+
+  
+  Despite her saying how bad of a state she was in, Han Sen did not underestimate big sky demon.
+
+On her own, big sky demon infiltrated God Chaos Party’s hive. She managed to enter Qin Xiu’s old tower. Despite having been caught, she was able to make it out alive with only a few injuries. That was very scary.
+
+He hesitated a little. Eventually, Han Sen said to big sky demon, “My power has not recovered. I cannot help you. I may be able to help you in a few days.”
+
+“In that case, I will sleep a little. I am really tired.” Big sky demon slept on Han Sen’s lap. Her cheeks were up against his chest. She closed her eyes and fell asleep.
+
+Han Sen still had big sky demon’s arms wrapped around his neck. He could only hold her. He frowned and said, “If you want to sleep, find a bed. Why do you have to sleep on top of me?”
+
+Big sky demon did not respond to him. It was like she was already in a deep sleep.
+
+Han Sen would not believe she was actually asleep. He lifted big sky demon, planning on putting her down on a bench. Big sky demon’s body suddenly became some magical light and vanished. At the same time, in Han Sen’s brain, big sky demon’s voice said, “We will meet inside your dreams.”
+
+After a moment, big sky demon’s body was gone. It was as if she had never existed in the first place.
+
+Han Sen frowned. He could feel big sky demon inside him, but he did not know where she was. He used his Dongxuan Aura, but he still could not detect where big sky demon was.
+
+In the 33 skies, Bury Path God stood before the old tower.
+
+“Did that really happen? Does Han Sen have the power to make Break World beasts evolve more perfectly?” Qin Xiu’s interested voice was coming out of the old tower.
+
+“I witnessed Zhao Ning’er become a break world armament,” Bury Path God happily said. “Her Break World rate is more than 60%. Her asking heart sound is special. Now, out of all the Break World beasts that have succeeded, she is the most successful out of them all. No one else can match her.”
+
+“That is interesting,” Qin Xiu coldly said. “That guy is more interesting than I thought.” “Mister Leader, do you want me to send some God Chaos Party elites to kill Han Sen and take the Break World beast, Zhao Ning’er, away?” In front of Qin Xiu, Bury Path God was very polite.
+
+“I will sort that out myself,” Qin Xiu said. “You should just take care of the other test subjects and observe them.”
+
+Bury Path God lowered his head. “Zhao Ning’er is the most successful test subject. The information we can gain from her for furthering our research into Break World beasts will be invaluable.”
+
+“I do not like repeating myself more than once.” Qin Xiu’s cold voice sounded from the old tower.
+
+“Yes. I will try my best to help you finish all these tests,” Bury Path God replied in fear. He bowed. “You can go now.” Qin Xiu stood at the highest point of the old tower. After he told Bury Path God to go, he looked at a crystal bed.
+
+The blonde Qin Wan’er was lying on the crystal bed. It was like she was waiting for a prince to come and kiss her to wake her from her slumber.
+
+Qin Xiu reached out his hand to stroke Qin Wan’er’s hair. He quietly said, “Wan’er, hold on a bit longer. All of the bad things will soon be gone. When you wake up again, it will have all been a terrible nightmare. You will once again be the happy and carefree Wan’er.”
+
+Suddenly, Qin Xiu’s eyes had a weird light show in him. He could not help but clutch his head. He lowered his head and screamed like a beast. He did his best to try and not groan.
+
+A while later, Qin Xiu started to look more composed. His eyes looked calmer. He said to himself, “What a scary man. He only has a will. He fought me for so long. I am better, but I cannot destroy it. I should be able to soon. I just need a little more time. When I control the armor, I will be able to give Wan’er the happiness she deserves. I will not let her be
+
+sad.”
+
+Han Sen had spent too much power. He could not rip space and return to Jade Wall City. Instead, he boarded a ship with Zhao Ning’er and Zhao Qiu Yi.
+
+Fortunately, Zhao Ning’er had a concert to attend in the Han Kingdom. Han Sen followed Zhao Ning’er to the Han Kingdom. After the concert was finished, they were going to continue on to Jade Wall City.
+
+On the ship, time passed by very slowly. There was not much Han Sen could do. It was best for him to use geno arts to recover the strength he had lost. So, he went to sleep. He let his body tune itself back into the best shape possible.
+
+When Han Sen went to sleep, he noticed he was in jail. His limbs were tied up, and he was bound in a crucified position.
+
+Big sky demon was sitting in front of him. She was holding a whip and smiling at him.
+
+Han Sen froze. He now understood things. He looked at big sky demon and asked, “Can you control someone’s dreams?”
+
+“This is an easy trick of mine. I am injured, so I need to use your dreamscapes if I am to rest a little. You will not reject my presence here, will you?” Big sky demon crossed her legs and sat on a chair. She looked at Han Sen and smiled.
+
+“I did not agree to your presence here, but you’ve made yourself comfy here all the same,” Han Sen said. He was a little upset.
+
+Big sky demon stood up and walked up to Han Sen. She used her fingers to tilt his jaw. In a seductive tone of voice, she said, “Do not say that. I will pay you rent.”
+
+“What kind of rent?” Han Sen tried to control his current dreamscape, but he couldn’t do anything. It was like all his powers were gone.
+
+Big sky demon’s fingers applied some strength to force Han Sen to lift up his head. Her bright red lips came closer to him.
+
+Big sky demon’s red lips were almost going to touch Han Sen’s lips, but she slid away past his cheeks. She put them near his ears and said, “You will find the rent I pay to be the most enjoyable.”
+
+After that, big sky demon backed off. The scene cracked when big sky demon left. The jail’s wall fell away. The environment became empty. Han Sen saw sword air come from the sky.
+
+That sword air was not too fast, but it also wasn’t too slow. It was not jittery, but it wasn’t smooth. It gave Han Sen a sort of pressure that words could not describe. It was like that sword was able to break his past life. Before 10 million years of lives, it was like he would be killed by that sword.
+
+Using his power, Han Sen changed his reaction. He knew that sword was in a dream, so it was nothing to fear. Yet, that sword was actually bending his will. Han Sen had seen many elites use swords. Six Paths Emperor, Lone Bamboo, and Jian Bu Gu were all top-class swordsmen, but he had never seen a sword this scary before.
+
+He knew that sword was just the illusion of one, but Han Sen felt cold. His mind shifted. As it came down to slash his body, the sword air made him feel as if he was going to die.
+
+“This is the slash Qin Xiu used to strike me with,” big sky demon said with a smile. “If you are interested, I can help you feel it a few more times. You should be happy with this rent I pay you.”

@@ -1,0 +1,94 @@
+Title:Tear It Up 
+Chapter:2950 
+Section:15 
+Book:9 
+CSS:../Styles/style.css 
+viewport: width=device-width
+  
+## Tear It Up
+### Chapter 2950 
+<figure>
+	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
+</figure>
+  
+
+  
+  “So, are you guys revolting?” Nine Thousand King’s expression changed.
+
+The demon lady, Auntie Mei, laughed at Han Sen. “You are Little Master’s father. You are a guest here. You are a guest in Sacred, but the holy spirit is very important. It is an item for your son. I am sure you would not want to steal what belongs to your son, would you? I hope you are willing to return the holy spirit.”
+
+“I can return the holy spirit,” Han Sen coldly said. “Give me Littleflower, and I will hand it over.”
+
+“Littleflower is not in Sacred right now,” Auntie Mei said. “Just give me the holy spirit and it will be fine.”
+
+“In that case, I will wait for him to come back,” Han Sen replied.
+
+“If he was going to deliver it to anyone, it would be the Little Master!” Nine Thousand King shouted from his nearby position. “Why would he give it to you guys? Hurry up and lead the way. Allow Mister Han to wait in the holy palace for Little Master’s return.”
+
+“He cannot enter the holy palace,” Red Ghost coldly said.
+
+“Why can’t he enter the holy palace?” Nine Thousand King asked. “He is Little Master’s real father. Why can he not enter the holy palace?”
+
+Red Ghost stared at Nine Thousand King and grumpily said, “Stop shouting. Butterflies develop from caterpillars. Butterflies can fly. Can caterpillars fly?”
+
+“What is that supposed to mean?” Nine Thousand King was furious.
+
+“It means exactly what I said. Give me the holy spirit and get the hell out! When Little Master needs it, he will go and look for it.” Red Ghost and Nine Thousand King stared at each other. They were like fighting cocks.
+
+“How dare you ignore Mister Han! He was told to come to the holy palace by the leader. Why are you disobeying his order?” Nine Thousand King was so angry that he was shaking.
+
+“Do you think I am going to believe what you tell me?” Red Ghost asked with disdain.
+
+Nine Thousand King wanted to say something, but the demon lady interrupted him. “Thousand Eye, Sacred Hall is a different place. That is the last hope of Sacred. Only Little Master can go inside. No one else can go inside, including people like us. If you want to do a good deed for Sacred, you should at least understand that.”
+
+After pausing, Auntie Mei said to Han Sen. “Old Cat must have told you the situation regarding Little Master. With us taking care of him, he is in good care. He is not in danger. You do not have to worry about that. Right now, Little Master is going to be deified. Not long after, he can build Sacred up again. Then, the Sacred door will open, and you can come and see him and become a full-time guest of Sacred.”
+
+“Regarding the holy spirit, that is the item Little Master needs to liberate Sacred. Otherwise, when Sacred re-opens, harm will come to Little Master. You are Little Master’s father. You would not want to see Little Master be harmed, would you?” The demon lady flicked her hair. She squinted her eyes and went on to say, “I have told you this much because you are the father of Little Master. We would have killed you and taken the holy spirit back with ease if you weren’t. We would not waste so much time talking crap if you were anybody else. We respect you because you are Little Master’s father. I hope you can understand this.”
+
+“What does re-opening Sacred entail? What kind of danger will Littleflower have?” Han Sen frowned and looked at Auntie Mei.
+
+“That is Sacred business!” Old Vulture screamed. “Don’t you worry about it.”
+
+Han Sen’s expression was gloomy. “Sacred business? Littleflower is my son. Are you saying things about my son are none of my business?”
+
+“Kid, do not make us go hard on you. If you make us fight you for the holy spirit, we will not even care about you being Little Master’s father.” Red Ghost’s body was moving. He was like a big beast that could swallow the sky. He was oppressing Han Sen.
+
+Han Sen’s personality was very stubborn. He only took things softly. He didn’t take them hard. Besides, this affected the safety of Littleflower. He was not willing to fall back now.
+
+“I am afraid you do not have what it takes,” Han Sen coldly said. He drew his cause karma knife. He held the Shield of the Medusa’s Gaze in his other hand.
+
+Although the holy spirit and beast soul had different names, they were the same thing. If he was not able to use force and take the beast soul, the holy spirit would be the same. If the master died, the holy spirit would be gone. Han Sen did not think they could take the holy spirit out of him without killing him.
+
+If they were able to just take it, the demon lady would have already attacked. She would not have spent so much time talking to him.
+
+“What do you want?” Red Ghost, Old Vulture, and the other’s had dark expressions. They did not expect Han Sen to become so hostile.
+
+In the Sacred era, they had been invincible existences. Not many people were able to fight them. In this era, they were stronger than ever with their titles.
+
+Even powerful people like Sky Palace’s first seat, who was the best in the universe, had been trapped by the eyeless big beast.
+
+Han Sen was just a creature from the sanctuaries. He was only butterfly class, yet he dared to raise his voice against them. They did not think something like that could happen.
+
+“What about it?” Han Sen looked calm. He looked past Old Vulture into the darkness.
+
+Han Sen was looking toward where Red Ghost had come from. If that was true, that was where the holy palace resided.
+
+“I do not care what this place is. I do not care about who you people are. I do not care about reopening Sacred. I do not care about shining the whole world. In my eyes, it is all shit. If something harms my Littleflower, come hell or high water, I will tear it up.”
+
+After Han Sen said that, he passed the stone lantern to Bao’er and said, “Bao’er, hold the lantern for Dad. We are going to tear up this lame, holy palace. It has already fallen once. Let it forever remain inside a history book.”
+
+Bao’er sat on Han Sen’s shoulder. She held the stone lantern and shouted with excitement, “Tear it down!”
+
+“You do not have what it takes.” Red Ghost grunted with obvious disdain.
+
+The demon lady looked at the stone lantern. She was shocked and asked, “Why is Sacred’s race lantern in your hand?”
+
+“What? Race lantern?” Red Ghost, Old Vulture, and the eyeless beast were shocked. They looked at the stone lantern in Bao’er’s hand.
+
+They were shocked to see it. Red Ghost screamed, “Race lantern… It really is Sacred’s race lantern! How could he have it?”
+
+“The Sacred lantern is still here, so… Does that mean…” Old Vulture was so excited that he was trembling.
+
+Han Sen heard what Old Vulture said. He felt strange about why Sacred’s race lantern was not inside the geno hall but was instead inside the universe. Han Sen was not able to care too much about that fact just yet. He jumped up and raced into the darkness in the direction of the palace.
+
+“I do not care about some f*cking Sacred Leader or some race lantern. Whatever hurts my son is going to be broken.” Han Sen was very angry. He cast Blood-Pulse Sutra and Jadeskin to the max. It made his body become ice jade. His skin was half-transparent, and it was glowing.

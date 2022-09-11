@@ -1,0 +1,98 @@
+Title:Showing Off 
+Chapter:2738 
+Section:13 
+Book:8 
+CSS:../Styles/style.css 
+viewport: width=device-width
+  
+## Showing Off
+### Chapter 2738 
+<figure>
+	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
+</figure>
+  
+
+  
+  “That wasn’t my intent. Our families are friends, so we should help each other out.” Although Ning Bu Ao was cocky, he wasn’t stupid. He realized that he had said something he shouldn’t have, and so he quickly tried to steer the conversation back down a more pleasant avenue.
+
+“I understood your intent perfectly fine, but I don’t require help,” Tang Ming’er said. She took the boy’s arm and said, “Littleflower, let’s go.”
+
+When Ning Bu Ao saw the pretty girl he liked getting close to another boy, it upset him. He ran in front of the boy and pretended to be shocked. He asked, “What is your name, little bro?”
+
+“Han Littleflower,” the boy answered while meeting Ning Bu Ao’s gaze.
+
+When he heard the surname Han, Ning Bu Ao felt his heart take a huge leap. He was really afraid of that surname, due to something that had happened to him when he was younger.
+
+There was a time, on a beach, when a little demon girl belonging to the Han family had lobbed him into the briny depths of the sea. Even now, Ning Bu Ao continued to have nightmares about that terrible incident. It was the most terrifying memory he had.
+
+“Han Littleflower, he said. I don’t think such a person belongs to the Han family. Maybe he’s a member of some other family with the same surname.” Ning Bu Ao dug into his memories and felt some relief. As long as Littleflower wasn’t from that Han family, then he didn’t need to worry.
+
+As far as Ning Bu Ao knew, the Han family only had a daughter. She was only a few years old, so there was no chance she had entered the sanctuaries just yet.
+
+The legends said that the Han family did have a son, but for unknown reasons, the son had gone missing. Ning Bu Ao remembered that the boy was called Han Fei. He didn’t have an old-fashioned and funny name like Littleflower.
+
+Littleflower was just his nickname, though. His family members called him Han Littleflower, but ordinary people would only know him as Han Fei. It was no surprise that Ning Bu Ao failed to recognize the name.
+
+“Brother Littleflower, if you need anything, just ask. I, Ning Bu Ao, am very talented. It is easy for me to kill xenogeneics. Killing sacred-blood creatures is a piece of cake for a guy like me.” Ning Bu Ao smiled at Han Littleflower as he boasted.
+
+“Thank you. You seem like a nice guy. I will ask you if there is anything I ever need,” Han Littleflower said politely.
+
+In Sacred, Auntie Mei had taught Littleflower to be polite with other creatures. Even when he was eating, he had to act like the gentleman he was. He had to keep up good etiquette at all times.
+
+“What are you waiting for? I found a sacred-blood creature to the east side of the shelter. I’m going to kill it. Let’s go,” Ning Bu Ao said with a smile.
+
+He was very confident about his appearance and power. He thought he would only need to flex his powers for a little girl like Tang Ming’er to fall for him head-over-heels.
+
+Han Littleflower wasn’t interested in killing sacred-blood creatures, though. He had only stayed in the first sanctuary because he was having trouble finding more super creatures. If he could find them more reliably, he would be in the second sanctuary already.
+
+“Littleflower, if Mister Ning is inviting you, we should go.” Tang Ming’er suddenly winked at him.
+
+She was a smart girl, so she knew what Ning Bu Ao was up to. He obviously had a thing for her. She also knew the Ning family were a very arrogant and self-loving set of people, overall. If she didn’t sort out this trouble now, the way Ning Bu Ao was annoying her would just snowball. That was why she said they should go, despite secretly harboring another reason for going.
+
+Ning Bu Ao was happy to hear her agree. He summoned two sacred-blood beast soul mounts and said, “The distance between us and that place is a bit far. I will give you these two sacred-blood mounts as a gift.”
+
+He was never hesitant about showing off. Ning Bu Ao always thought if he had something decent, he should let other people know. Just talking wasn’t enough, so he sometimes gave out gifts to demonstrate his wealth.
+
+Two sacred-blood mounts were something excellent. After all, there were many types of beast souls, so sacred-blood beast soul mounts were quite rare.
+
+“It is fine. Littleflower has a mount already. I will just ride it with him.” Tang Ming’er smiled at Littleflower as she spoke.
+
+Han Littleflower didn’t say anything. He just summoned his own ride.
+
+Boom!
+
+A giant, gold, two-headed dragon appeared in front of Han Littleflower. The mount beast souls around all started to scream and run away. If their masters hadn’t commanded them to stop right where they were, all of them would have fled.
+
+Ning Bu Ao froze when he saw it. It was a very powerful beast soul. He had seen things like this in his family’s house, but they were high-class beast souls from the later sanctuaries. In the first sanctuary, he had never seen a beast that scary before.
+
+“This… This cannot be a super beast soul. That is impossible. It’s just a bluff, surely. It cannot be a super beast soul.” Ning Bu Ao was really suspicious about its presence there, but he didn’t want to ask what type of beast soul it was. Otherwise, it would make him sound like an ignorant redneck.
+
+“Let’s just go.” Ning Bu Ao had to force a smile as he spoke to Han Littleflower and Tang Ming’er, who were happily sitting on the two-headed dragon’s back.
+
+“Please led the way, Mister Ning,” Tang Ming’er said with a smile.
+
+Although he was upset, Ning Bu Ao still commanded his team to go forward with haste. The sacred-blood mounts ran as fast as they could, trying to leave the two-headed dragon behind.
+
+But they had only just started running when the giant dragon spread its massive wings and soared off into the sky. It moved with incredible speed. Compared to the two-headed dragon mount, Ning Bu Ao’s sacred-blood mount was as slow as a turtle.
+
+“That can’t be a super beast soul, can it?” Ning Bu Ao was stunned. His mood was very sour, and he had to keep comforting himself, saying, “That kid must have just gotten lucky. Another family member might have just given it to him. In terms of power, he certainly can’t compete with me. When I kill the sacred-blood creature, Tang Ming’er will know for sure who the real man is here.”
+
+The sacred-blood mount moved reasonably quickly in comparison to most beast mounts. It took them two hours to reach their destination. They saw a creature there that was like a titan. It was resting quietly atop a hill.
+
+Ning Bu Ao gave a command and sprang forward. He led his team to fight that sacred-blood creature.
+
+The sacred-blood creature stood up and roared when Ning Bu Ao’s army surrounded it. It couldn’t get clear, and it was quickly hemmed in on all sides.
+
+Ning Bu Ao’s soldiers moved with great coordination as he issued commands. The sacred-blood creature was unable to harm a single one of them. Ning Bu Ao was very active, too, and he attacked the sacred-blood creature again and again. It took them half an hour to bring the titan down.
+
+Ning Bu Ao was very satisfied with his performance. He had fought and commanded his men to the best of his abilities. He was very satisfied with how the fight had gone.
+
+He smiled at Han Littleflower and Tang Ming’er. He began walking toward them, but after a few steps, he heard an angry roaring coming from the sky. He raised his head, and his face paled.
+
+This new creature was similar to the sacred-blood one they had just killed, but this one was bigger. It was like a small mountain. It fell toward them out of the sky. Ning Bu Ao’s soldiers were still reveling in the joy of their victory, unaware of what was going to happen. If the creature landed, half of them would die.
+
+“Run!” Ning Bu Ao shouted as he started to run. But the normal soldiers didn’t react as fast as he had. As he looked up at the giant beast about to crush them all, Ning Bu Ao was shocked and furious. He couldn’t do anything.
+
+Suddenly, something flashed in the corner of his vision. The giant beast coming down from the sky jerked to a stop. Its descent was halted.
+
+Ning Bu Ao was shocked. His eyes tracked down the body of the behemoth until he saw Littleflower standing beneath it. The boy was holding up the mountainous beast with one hand. He stood there casually. The soldiers all around were staring at him in dumbfounded awe. They looked at the little boy holding up the beast like they were seeing a ghost.

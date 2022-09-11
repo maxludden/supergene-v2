@@ -1,0 +1,88 @@
+Title:Can't Escape the Chaos 
+Chapter:3331 
+Section:17 
+Book:10 
+CSS:../Styles/style.css 
+viewport: width=device-width
+  
+## Can't Escape the Chaos
+### Chapter 3331 
+<figure>
+	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
+</figure>
+  
+
+  
+  White King and Bottle Fairy felt quite touched. They did not think Han Sen was going to put so much effort into doing this. He was not afraid they would attack him. It gave them a better impression of Han Sen’s character.
+
+“I am sorry. My Break World rate is currently too low. I can’t move the jade fairy body.” Han Sen had a wry smile as he shook his head.
+
+“That is fine. You have tried your best. Let your body heal. We can discuss all this another time.” White King paused and said, “In Sky Palace, there are many Break World creatures combined with life souls. If you need them to strengthen yourself, go and kill them. They should be able to help you.”
+
+“That would be of excellent help to me.” Han Sen felt much happier.
+
+He got to know the secrets of the sheep’s jade body, and he could get Break World genes. This was what could be defined as killing two birds with one stone.
+
+But Han Sen’s power was too far spent. If we went to go and kill a Break World beast now, he would likely end up eaten by the Break World beast. Han Sen had to recover his power before thinking about going after any Break World beasts.
+
+After White King left, Bottle Fairy remained with Han Sen on the first floor.
+
+“The jade air here is very pure. It will be a great help for you to recover your body. You should just stay here and rest.” Bottle Fairy pointed at the jellyfish that was like a jade spirit and said, “You should not consume the jade air spirits because of the jade air. Their bodies have pure jade air essence inside them, but their bodies have a will that is like they are here but not here. If you consume them, not only will their jade air be taken inside your body, but also their will that is like it is here but not actually here will be in your soul. That would not be a good thing for you.”
+
+“Thank you for the warning about that.” Han Sen understood this was just Bottle Fairy being nice.
+
+If it was another will that came in, a person’s soul would be riddled with all sorts of problems. They would try to deny their personalities. In such a case, it would be too risky for Han Sen to try.
+
+It was like a person having the memories of another person while occupying the same mental state. Two memories colliding would cause problems for the person. They would make the person wonder and second-guess who he actually was. If it was a mild case, a person would have a split personality. If it was a bad case, a person would deny their own personality.
+
+That was especially so for people like Han Sen. If a soul had a flaw when he fought the mental state, he would fail because of that flaw.
+
+Unless it was a creature that had a soul-consuming power, ordinary creatures did not want to combine with the souls of another creature.
+
+That was true for life souls. It made Han Sen wonder what they actually were. He was curious about how people could combine with life souls and not be affected. They could also boost someone’s Break World power.
+
+Han Sen absorbed the jade air to recover the power of his cells, but the jade air was too pure and grand. He used Jadeskin to absorb it, and it led to his power recovering very quickly. After half a day, things were fine again.
+
+Han Sen readied himself to hunt Break World beasts across the floating islands. He asked Bottle Fairy about the Break World beasts and White Jade Jing to ensure they had no connection.
+
+White Jade Jing had its seals broken because of the invasion of life souls, but the life souls were not enough to affect White King and Bottle Fairy. The Break World beasts were mostly the powerful xenogeneics of Sky Palace combined with life souls.
+
+This was different from White Jade Jing’s jade fairy.
+
+They were still afraid of White Jade Jing’s jade fairy. That was how they were able to live together.
+
+When Bottle Fairy showed up, it was not because of Han Sen killing Break World beasts. It was because Han Sen had killed Black King.
+
+After leaving the first floor, Han Sen went to the floating island. If there was a chance that he could hunt Break World beasts, Han Sen was going to leap at the opportunity. He really wanted to know what would happen if he were to max out his Break World genes. He was excited to see the changes that would occur to his Super God Spirit mode.
+
+Bottle Fairy followed Han Sen out and went to the floating island. She said she was going out there to help Han Sen hunt down Break World beasts in case something happened. It was more likely she followed to keep an eye on Han Sen and ensure he would not run off.
+
+Even if Han Sen did behave well, they still hadn’t relaxed.
+
+Han Sen did not plan on making a run for it. Otherwise, even if he was trapped by the trap fairy net, he could have run.
+
+When he flew to the floating island, Han Sen looked at the empty space. That was where the 33 skies were at.
+
+When the 33 skies appeared, many scary creatures rushed into it. There were not many creatures with that sort of power, so there were fewer and fewer trying than when this had begun. Recently, there were not as many creatures assaulting the 33 skies.
+
+Han Sen hadn’t cared much about the 33 skies for a few days, but he suddenly felt himself wanting to. It was like something was compelling him to go toward it. He raised his head and looked toward the 33 skies.
+
+When he had a proper look, Han Sen’s face was drained of color. On the other side, where the universe of kingdoms was, a little girl was riding a flying fish. She was holding a red, small cat. She was headed for the 33 skies.
+
+“Bao’er!” Han Sen immediately recognized that the girl was Bao’er. Plus, the flying fish and Small Cat were next to her. This could not be a mistake.
+
+Han Sen did not have time to think about why Bao’er would go to the 33 skies. He used Galaxy Teleportation to teleport away from Sky Palace. He was shouting, “Bao’er, do not go!”
+
+Bottle Fairy thought Han Sen was trying to escape, so she used the trap fairy net. She suddenly sealed the area. The galaxy turned into a cage. Han Sen was trapped inside it.
+
+Han Sen did not think. He used his Super God Spirit mode. The fairy net, which was a Break World armament and had a Break World rate that was almost 100%, went right through his body. It could not stop Han Sen and his Super God Spirit mode. Bottle Fairy was shocked by this. She then realized that Han Sen had the power to escape the trap fairy net all along.
+
+Han Sen teleported into the sky. He went to the sky and the invisible barrier before the 33 skies. He shouted at Bao’er, “Bao’er, do not go in!”
+
+It seemed as if he and Bao’er were separated by the 33 skies that looked like a headstone. It was a fact that they were actually split between two worlds. Bao’er was not able to hear him.
+
+He was Bao’er sitting atop the flying fish. She went past the 33 skies barrier. She vanished inside the 33 skies that looked like a headstone. Han Sen was shocked and angry.
+
+He remembered Mister White telling him that if he went to the 33 skies, there would be chaos. There was a 90% chance that he would die and only a 10% chance that he would live.
+
+Han Sen did not care. He gnashed his teeth and entered the 33 skies. The barrier of the 33 skies was not effective against Han Sen and his Super God Spirit mode. Han Sen was able to quickly enter.

@@ -1,0 +1,94 @@
+Title:Ruin 
+Chapter:2217 
+Section:10 
+Book:7 
+CSS:../Styles/style.css 
+viewport: width=device-width
+  
+## Ruin
+### Chapter 2217 
+<figure>
+	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
+</figure>
+  
+
+  
+  After watching so many insects flee the valley, Han Sen and the others were drawn by curiosity to look back at the crevice. As they watched, a hand emerged.
+
+The crevice was very small, so it would be very difficult for any being to push a hand through it. But whoever or whatever it was seemed to be unable to get out. After failing to push its way out, the hand withdrew and an eye appeared in the crevice. When it saw Han Sen and his people, the eye retreated and vanished.
+
+“Is that a xenogeneic or a member of the Ice Blue Knights?” Ji Qing asked. The presence of the being had struck them all as being very odd.
+
+The bugs must have been afraid of whatever it was, and that was why they had all rushed out of the crevice. The bugs weren’t aggressive, and it didn’t even look as if they ate meat.
+
+“Let’s dig into the wall a little and see what’s there.” Han Sen was curious, so he moved over to the wall and pulled out his Ghost Teeth Knife. He slashed at the crack in the stone to make it wider.
+
+The rock was fairly sturdy, but it was only an inch thick. Beyond it was a hollow of sorts. Han Sen dug out an entrance so that his people could walk into the place.
+
+The interior of the cave was fairly large. An entire wagon would be able to fit inside comfortably. The cave wasn’t man-made, though; it seemed to be a natural formation. There were many stalactites, and there were many of those purple bugs scrambling across the walls and floor of the cave. Something must have bumbled through the cave and alerted the bugs.
+
+“You guys wait here. I am going to go take a look,” Han Sen said, directing his speech at Huangfu Jing.
+
+“Let’s take a look together,” Ji Qing said with a blink.
+
+“Big Brother, let us go in together. The Demon Bug Bai Semas are with us, so we ought to be just fine.” Han Yan was looking into the cave excitedly.
+
+Han Sen didn’t object because when the hand had revealed itself earlier, he’d quickly scanned it with his Dongxuan Aura. Whatever it was, it wasn’t strong. The being the hand belonged to couldn’t be any greater than a Duke.
+
+Han Sen and his people entered the cave, and Han Yan gleefully moved up front to lead the expedition into the subterranean dwelling.
+
+There were vast numbers of the bugs all around, and they looked to have scattered when they were approached by that thing earlier. It was easy to see from the movement of the bugs where the creature they were following had gone.
+
+They traveled fast through the cave, and they saw many more of the bugs running everywhere as they moved. There were many paths to take, and the structure and complexity of the labyrinth were by no means easy to navigate.
+
+They followed the trail into an even bigger cave, where there was a complete absence of those purple bugs. Strangely, there was no other road to take, and that cave only seemed to be home to black vines and mushrooms. With firm walls composing the rest of the chamber, there didn’t appear to be any other way they could go, other than the tunnel by which they had entered.
+
+“Weird. It should be here. Where has it gone? Did we somehow take the wrong path?” Ji Qing asked, looking up and down the cave.
+
+“We came the correct way,” Han Sen said with certainty. He used his Dongxuan Aura to check the place out, and he looked for the aura and trace molecules of the creature they were searching for. It was still hanging in the air.
+
+Han Sen looked around, and then his eyes locked on a rock that was near a wall. He waved his hand and pushed the rock away. Its removal revealed another small cave that had been hidden behind the stone. An Extreme King man was hiding in there. He had curled up into a ball to squeeze himself in.
+
+After he was discovered, the Extreme King man screamed. He then scrambled out on his knees, pleading to Han Sen in a voice that was almost unintelligible.
+
+“Don’t… don’t kill me…”
+
+Han Sen and his companions were quite surprised. They had no idea what had gotten into the man.
+
+The Extreme Kings they had met in the Ice Blue Knights were noble people. Their rank in society put them above almost everyone else, and they always looked so powerful and stoic, too. This was the first time they had seen a person of the Extreme King in such a mess.
+
+“Who are you?” Ji Qing asked the Extreme King man.
+
+“I… I am a back-up knight belonging to the Ice Blue Knights. Please let me go,” the Extreme King man said. All the while, he repeatedly kowtowed before Han Sen.
+
+“Explain your situation, or we will take you back to the knights.” Han Sen frowned.
+
+The Extreme King man looked very frightened at that, and he quickly explained everything.
+
+They heard his story, but they found it hard to believe what he was telling them.
+
+He was just like Han Sen. He had been brought on as a back-up knight to the Ice Blue Knights. He was an Extreme King, however, and on top of that, he was a captain. His task was very similar to Han Sen’s, in that he was supposed to clear out the xenogeneics that resided around the base. His area wasn’t where they were now, though. He was supposed to clear out a desert elsewhere.
+
+Their team came across a ruin in the heart of that desert. After calling their supervisor, they were told to wait for the arrival of higher-level Ice Blue Knights, who would then explore the ruin with them.
+
+But much to their surprise, when the higher-level Ice Blue Knights arrived at the ruins, they didn’t go in and explore. Instead, they slaughtered the entire team that had discovered it.
+
+One of the weaker knights was a man called Bai Wenxuan. After getting stabbed, he fell into a well. The Ice Blue Knights believed him to be dead, but his body wasn’t entirely done for, despite the injury he had sustained. And so, he remained in the water.
+
+The well was connected with an underwater system, and Bai Wenxuan stayed there for a long time.
+
+He didn’t dare exit, for he was afraid of being killed.
+
+But since the caves weren’t entirely safe, he frequently moved from place to place. He had been chased by a xenogeneic for the past two days, and that was why he had come to this part of the caverns. He saw a light and wanted to get out of the cave to avoid being killed by the xenogeneic, but Han Sen was there, and Han Sen had been able to break his way inside.
+
+After Han Sen heard the story, he asked Bai Wenxuan, “What kind of civilization might that ruin have belonged to?”
+
+Bai Wenxuan quickly said, “I don’t know. I’ve never seen architecture like that, and I was unable to read the text that we saw.”
+
+Han Sen’s face darkened, and he coldly said, “In that case, we cannot help you. You know that what our teams record is impossible to delete. You have been filmed, and so if I do not take you back, I will be punished.”
+
+“No, you cannot take me back! If they know you saw me, and they see that I’ve been telling you about the ruin, they will kill you, too!” Bai Wenxuan screamed.
+
+“I will be interested to see if they do.” Han Sen signaled for his companions to draw their weapons. It looked as if they were going to kill Bai Wenxuan.
+
+“Sacred!” Bai Wenxuan shouted. “The ruin was a Sacred ruin!”

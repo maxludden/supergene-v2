@@ -1,0 +1,84 @@
+Title:Elysium God Body 
+Chapter:1485 
+Section:4 
+Book:4 
+CSS:../Styles/style.css 
+viewport: width=device-width
+  
+## Elysium God Body
+### Chapter 1485 
+<figure>
+	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
+</figure>
+  
+
+  
+  “Emperor, it is no wonder you selected Han Sen,” Xu Mi said as he sat next to Six Paths.
+
+Six Paths shook his head and said, “This is only half of his true adeptness with the sword.”
+
+“Half of his sword skills?” Xu Mi looked at Six Paths with confusion.
+
+Six Paths looked at Han Sen. “The core of his talent with the sword does not rely on the sword skills used, and he can use knives, spears, or even his hands with the same result. The sword is merely another tool for him. If you actually want to learn what he knows, you’ll need your own god. Otherwise, you won’t get what you seek, and you’ll simply lose yourself.”
+
+“Thank you for the advice. I will remember this,” Xu Mi said.
+
+Down in the arena, Elysian Moon was getting desperate. The sword skills were suffocating her. She recalled what he was doing, as it was something he had learned directly from her, but she couldn’t block a single strike and nor guess where the next would be coming from.
+
+The sword cut down across her shoulder, forming a cleft through her white skin. Her fitness had not increased, and it was only her geno core that had elevated to become super class.
+
+Elysian Moon looked to be in poor condition. Never in her worst nightmares did she envision Han Sen being her greatest obstacle, prohibiting her victory. Not even her super Elysian Umbrella had what it took to deal with him.
+
+“Han Sen, I’m telling you again; quit now before I kill you. I am getting the God geno core, no matter what,” Elysian Moon said, stumbling backwards.
+
+“That’s my line,” Han Sen responded coldly, as his hands refused to halt.
+
+Dodging the umbrella and attacking her this way, Han Sen was not in a rush. It looked as if he was just playing a game with her.
+
+“You forced me to do this.” Elysian Moon appeared to have made a decision, and she looked incredibly cruel.
+
+Han Sen’s heart jumped, stricken by a sudden worry. Her eyes turned blue, like two gleaming moons. Their brightness increased, brighter and brighter. As this occurred, he noticed Elysian Moon’s lifeforce growing stronger. It was unbelievably strong, as if she had injected a crazy stimulant.
+
+“Did she take a stimulant?” Han Sen frowned as he looked at her. Her powers were growing stronger, and with her Elysium Umbrella, her power became incredibly scary. She was feeling like a real king spirit now.
+
+“How did she do that? She can increase her fitness to the level of king class?” Xu Mi said with shock.
+
+Six Paths coldly responded, “The Elysium have remained hidden for too long. It seems far too few recall their Elysium God Body. It looks like she has the true Elysium blood. Without that in her veins, this change could not be triggered.”
+
+“Elysium God Body? Is that their special ability?” Xu Mi asked.
+
+“Not really. Elysium King Emperor had this ability, but not many heirs were able to contain this power,” Six Paths explained.
+
+“What kind of ability is this? How do you suddenly raise your fitness to such a level?” Xu Mi asked.
+
+Six Paths looked at Elysian Moon and said, “Elysian King had another name; he was called the God of Death. Elysium God Body enables the Elysium God to possess her. Their Elysium God is not an actual God, mind. But their power exceeds most Emperors. Elysium King Emperor used this power to kill six emperors, but after that, he started to lose.”
+
+“If he was that strong, then does that mean Han Sen will lose?” Xu Mi asked.
+
+Six Paths smiled. “Maybe not. Elysium God Body is strong, and Elysium God was strong. Before I self-destructed, I might not have won against him. To be possessed by Elysium God will swiftly drain your body, though. Elysium King Emperor, when he used Elysium God, could only last like so for a single day. He managed to kill six emperors, but by that point, he was unable to withstand the power of the Elysium God and had to self-destruct. Elysian Moon’s fitness is nowhere near emperor class. Such a weak body won’t be able to harness the Elysium God power for long. Her time in such a condition is very limited. I think she needs to stop before she tries to possess all that power. If she becomes entirely possessed by Elysium God, she’ll only succeed in blowing herself up.”
+
+“But even if she is not fully possessed, Han Sen won’t be able to survive an attack like that, surely. The Elysian Umbrella, if fueled by that power, will wipe him out in a single strike, won’t it?” Xu Mi then asked Six Paths, “Do you think Han Sen still has a chance?”
+
+“I don’t know. Usually, I wouldn’t think so, but he’s a special guy. Maybe he will make it.” Six Paths looked at Han Sen with tingling interest.
+
+Xu Mi gave a wry smile. What Six Paths said meant he was basically hoping for a miracle to show up.
+
+In the arena, just like Six Paths said, Elysian Moon started her attack before she was fully transformed.
+
+She moved her umbrella, using it to face Han Sen.
+
+The power made the vortex spin incredibly fast, and Han Sen was unable to react. He wished to dodge, but his body was too slow to do so.
+
+Han Sen felt the suction grab hold and pull him in. He used Ghost Slash, but he was unable to escape the suction. He was still getting pulled towards the pinwheel umbrella.
+
+With Elysian Moon’s power increased like that, the suction was far stronger. It wasn’t just the center, either. Even if he was at the side of the umbrella, he wouldn’t be able to escape that pull.
+
+This was the benefit of a self geno core. The power changed in accordance with the master’s body, unlike those that were simply collected. Those didn’t change regardless of the state of your body.
+
+Han Sen used a few different powers to attempt an escape, but nothing worked. The suction was too strong, and over the course of the next moment, he was sucked into the vortex.
+
+Everyone was shocked. An elite like Han Sen had been pulled into the Elysian Umbrella, and it told them no other spirit or creature could hope to compete with her.
+
+After she sucked Han Sen into the Elysian Umbrella, she stopped the Elysium God possession. Although it had not been finished, that short amount of time was enough to crack her body. If she kept going, she would have surely died.
+
+As she stopped Elysium God Body, her flesh became a webwork of cracks. Rivers of blood coursed down her body, and she looked terrible.

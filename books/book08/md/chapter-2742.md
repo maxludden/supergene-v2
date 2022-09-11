@@ -1,0 +1,90 @@
+Title:Trying the Poison 
+Chapter:2742 
+Section:13 
+Book:8 
+CSS:../Styles/style.css 
+viewport: width=device-width
+  
+## Trying the Poison
+### Chapter 2742 
+<figure>
+	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
+</figure>
+  
+
+  
+  “There is nothing we can do to stop the eye mind. If we want to intervene, our only choice is to break the silkworm’s stupid contract with Li Keer and Exquisite. Their bodies might be injured when we sever the link by force, but at least their minds won’t be destroyed by that horrible mind.”
+
+“It looks like there is only one solution.”
+
+A dozen of the Very High spent half a day talking, but they could only come up with one solution. This solution would only save Exquisite and Li Keer, though. It offered no help to Han Sen.
+
+“There’s no reason to hesitate. Let’s get this done now,” one of the Very High said. He readied himself to destroy the contract binding Li Keer and Exquisite to Han Sen.
+
+“Stop it, Uncle Nine!” Exquisite said suddenly.
+
+Her will was drowning in the sea of sadness coming from the eye mind, but the feelings were being filtered through Han Sen. Her experience of the eye mind was a little diluted, so it wasn’t as strong as if she was the one peering into the eye. Since Han Sen’s will was still holding off some of the eye mind’s power, she wouldn’t lose herself to the sadness easily. Her mind was still aware.
+
+“Exquisite, speak quickly!” The Ninth Uncle was afraid Exquisite’s mind would be conquered in a matter of seconds, so he told her to speak as swiftly as she could.
+
+“Uncle Nine, please do not incinerate the contract we share with Han Sen,” Exquisite said.
+
+“Why?” the Ninth Uncle asked, looking at Exquisite. The Very High were all in shock.
+
+“I believe he can stop the invasion of the Very High eye mind,” Exquisite said as she gritted her teeth. She was in the middle of the sad mind, and just speaking those few words cost her a lot of strength.
+
+After hearing Exquisite’s answer, the Very High who hadn’t practiced the Very High Sense were in shock. “Exquisite, you think too highly of him. Even Very High like ourselves cannot withstand the eye mind once it has entered our consciousness. He is just a silkworm from another race…”
+
+“Exquisite, I know how difficult it was for you to find a decent silkworm. But right now, you have to make a hard decision.”
+
+“A strong man breaking his wrists is a challenge that requires courage.”
+
+…
+
+“Uncle Nine, please!” Exquisite pleaded, summoning the last dregs of her energy to speak. She paid no attention to the other Very High around them. As she spoke to the Ninth Uncle, the minor distraction allowed the emotions to encroach on her mind even more. She could no longer spare enough attention to listen to what was happening around her.
+
+“Uncle Nine, you cannot listen to her. This will kill her.”
+
+“Yeah! An outsider that hasn’t practiced the Very High Sense cannot block the Very High mind. It will only end up hurting the girls.”
+
+The Very High did their best to convince him, but the Ninth Uncle frowned. “Making this decision is Exquisite’s right, and she has made up her mind.”
+
+Some of the others who were present disagreed with the Ninth Uncle, but they didn’t dare say anything. They merely shook their heads and sighed.
+
+“If Exquisite isn’t willing to cancel the contract, then we can at least break Li Keer’s contract,” someone suggested.
+
+The Ninth Uncle looked at Li Keer. Li Keer wasn’t as strong as Exquisite, so fighting off the sad mind left her with no additional energy to pay attention to the world around her. She couldn’t talk.
+
+“Let’s wait a bit longer. If that stupid silkworm can’t hold the mind back, then we can get involved,” Uncle Nine said coldly.
+
+The Very High could only watch and wait as Han Sen, Li Keer, and Exquisite battled the sad mind. But among those who were watching, not even the Ninth Uncle believed that Han Sen had what it took to repel the Very High mind.
+
+Han Sen had just become deified, so his will should have been meager in comparison to the will of a true god.
+
+Secondly, Han Sen had never practiced the Very High Sense. His resistance to the Very High eye mind was even weaker than that of the Very High, so no one thought he could withstand the sad feelings emitted by the eye mind.
+
+The eye mind on the Ancient Wall was dangerous, but for the Very High that practiced the Very High Sense, there was at least a chance.
+
+If someone could successfully fight off the sad mind, they would gain dexterity with their own use of the Very High Sense.
+
+The Very High thought it was a shame that Han Sen wasn’t one of them. He hadn’t practiced the Very High Sense, so even if he survived the eye mind, he wouldn’t gain benefits as others would.
+
+As Han Sen and the other two fell under greater and greater amounts of strain, bloody tears continued to gush out of their eyes. Everyone knew their time was almost up. If they didn’t break free of the melancholy soon, the blood tears would run dry, and their bodies would break.
+
+Han Sen knew he had entered a very dangerous period of the fight. His will was incredibly strong, but he couldn’t withstand the invasion of the sadness forever. The sadness was seemingly infinite; it just went deeper and deeper. He was starting to think that he was tired of living. If a deified of a weaker will had been in Han Sen’s place, he would have slit his own throat by now.
+
+“No, I cannot keep going like this…” Han Sen knew that his current tactics weren’t working, but this pure battle of mind versus mind wasn’t something that could be overcome by power. He had to get by using his own will.
+
+Ever since he came to understand the mind of Under the Sky, Han Sen’s will had increased in strength considerably. But he hadn’t gained enough strength to directly oppose a true god mind. His will was slowly being invaded by the phantom opposition. It chipped away at his resolve, which began to falter and crumble. It made him feel as if he was going to drown in the sea of sadness.
+
+Han Sen was hoping that the black crystal armor would help. He had expected it to intervene a long time ago, but the black crystal armor hadn’t moved a single inch. Therefore, Han Sen had to stand strong and fight his way through the pain with white knuckles.
+
+“You can’t get good help these days. I’ll have to depend on myself once more. Something will appear.” Han Sen was the type of man who grew calmer the more danger there was. Now, his heart was completely unperturbed. He weighed his situation, and it made him think, “If the Very High haven’t set up restrictions to prevent people from seeing the eye mark, that means there has to be some way for me to fight back against the sadness of this mind. But what am I supposed to do against it?
+
+“With my mind, going against the sadness face-to-face doesn’t seem realistic. My only chance is to understand where this sad mind is coming from. If I can understand what inspired the Very High elder’s feelings, perhaps I will find a way to break it.”
+
+When he came to this realization, Han Sen gave up on trying to fight back the sad mind. Instead, he tried to feel and analyze the origin of that mind and its emotions.
+
+Han Sen knew this would be dangerous. It was like he was holding a vial of poison, but he would have to taste it to learn its composition. Tasting it would increase his chances of death, yet it was also the only way for him to figure out an antidote. Even the magical knives of the Rebate were forged in a sea of fire. Han Sen was embarking on a treacherous path, but waiting around like a sitting duck wasn’t his style.
+
+Just as Han Sen had noticed before, this sad mind wasn’t related to romance. And not familial love, either. Han Sen kept exploring the sadness, and he thought to himself, “What kind of sadness is this?”

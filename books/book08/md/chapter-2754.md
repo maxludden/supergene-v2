@@ -1,0 +1,80 @@
+Title:The Hope to Break Free 
+Chapter:2754 
+Section:13 
+Book:8 
+CSS:../Styles/style.css 
+viewport: width=device-width
+  
+## The Hope to Break Free
+### Chapter 2754 
+<figure>
+	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
+</figure>
+  
+
+  
+  Han Sen didn’t know how they were going to suppress the blood coral and the thing below it, but four days later, the elite warriors began to gather in the Very High Leader’s palace. When the last of them arrived, there were four true god elites and a dozen butterflies. It was a very powerful team.
+
+They investigated Han Sen’s scales before they left, but sadly, every attempt to remove the scales failed. They even tried peeling off Han Sen’s skin, but nothing seemed to work. The scales remained firmly in place.
+
+Han Sen’s flesh could be sliced off, but when his flesh regrew, so did the scales.
+
+The Very High couldn’t do anything about Han Sen’s mutation. Things seemed to be going very poorly for him.
+
+And of course, the Very High decided to suppress Han Sen as well as the blood coral, just in case the curse turned out to be true. Nobody wanted Han Sen to turn into a monster that could bring ruin and destruction to the entire universe.
+
+Han Sen hated the idea of being put in a cage, but he knew this was the best way for them to go about it. Even though the Very High were known for their brutal efficiency, they didn’t simply kill him. Killing him would have been the most sure-fire way of dealing with the situation, and Han Sen had expected them to consider it as an option. He was rather relieved when he found out that they weren’t planning to end him permanently.
+
+They left Han Sen in a palace surrounded by clouds and mist, and he had settled himself on the stairs that led to the palace’s front door. He stared off into the clouds, his mind distant.
+
+Although the palace looked like an ordinary building, in truth, the entire place was contained inside a Very High true god item. Han Sen had seen the true god item, which was a jade bottle of sorts, but he hadn’t learned much about it. He had been taken in front of the Very High alpha’s statue and then put inside the bottle.
+
+Although the clouds that surrounded his palace were beautiful, the place was still just a prison. Furthermore, the prison contained only him.
+
+Everything aside from the palace was just a blur. There were no life forces to examine, and the place seemed to be disconnected from the rest of the universe, too. In fact, Han Sen couldn’t even continue practicing.
+
+“If the Very High cannot find a way to remove my scales, does that mean I will be trapped here forever?” Han Sen’s face grew more distraught with every minute that passed.
+
+Although the strange piece of blood coral had been moved elsewhere by the Very High and no longer reappeared next to Han Sen, the scales continued to grow across his body. Right now, most of his body had been claimed by the scales. Aside from his head not having horns, he looked like some sort of humanoid dragon beast.
+
+The palace contained food and fresh spring water, but it only satiated his hunger and kept him alive. It didn’t allow him to practice more, and it did nothing to reinforce his genes.
+
+In the beginning, the Very High elites would visit now and again. They would also try out new methods to remove his scales, but they failed every time. As time passed, they visited less and less often. As Han Sen sat on the steps, it had been ten days since he last saw any of the Very High elites.
+
+Right now, the Very High weren’t helping Han Sen. They had become his oppressors. They couldn’t confirm that Han Sen was Dragon reborn via the curse, but in their usual style, the Very High had opted to trap him there. Because there was a small possibility that he could be destructive, they wouldn’t let him leave.
+
+“The Very High promised me that they would send Bao’er to Sky Palace. I suppose they will do that for me, at least. Now, it is all down to me. I need to figure out a way to escape.” Han Sen made many attempts, but they all seemed useless. The palace was completely cut off from the outside world. He couldn’t even jump to a sanctuary.
+
+He couldn’t go to the god area or anywhere else, either. That place was like a giant prison. He wasn’t really living, nor was he actually dying. He was just there. He was trapped.
+
+“How can I be this unlucky?” Han Sen sighed. Then an idea flashed through his head, and he said, “Right, maybe I can try this!”
+
+Han Sen’s heart jumped. He ran into the palace and closed the gate.
+
+Han Sen had been there for a while, so he knew roughly how the bottle worked. Because the world inside the bottle was completely separate from the outside world, it was impossible to see in or out. Unless the Very High came in person to visit, they wouldn’t be able to see what he was doing. Han Sen had already tested this before, so he was certain that was the case.
+
+Once Han Sen had locked himself in the palace, he summoned something from Destiny’s Tower. It was a bronze object that was a few meters tall. A sheep head marked each of the bronze object’s four corners, and the entire thing looked rather evil.
+
+“One of the sheep heads can send me to the world that trapped the Breaksky alpha. I wonder if the other three sheep heads do the same thing. Or can they take me elsewhere? This thing was capable of transporting me away from Outer Sky, so perhaps it will still work here.” Han Sen gritted his teeth. He went to one of the sheep heads on the Four Sheep Cube. With a silent prayer, he placed his hand on the sheep head.
+
+The sheep head lowered under the force of Han Sen’s hand. The black and white fish in the center of the object began to swim faster. Their speed formed a vortex within the water.
+
+Han Sen felt a force of suction attempt to pull his body into the swirl. He was surprised that it had actually worked. He didn’t know where the Four Sheep Cube would take him, but no matter where it was, it was a chance to get free. He didn’t want to remain in the palace forever.
+
+Wa-la!
+
+When Han Sen emerged from the water, he knew immediately that he was no longer in the palace.
+
+Han Sen was afraid of exposing the scales on his skin, so he immediately put on his Dongxuan Armor. Even if a creature knew about Dongxuan Armor, they would just assume he was Dollar. No one would know he had escaped from the Very High true god item.
+
+“What is this place?” Han Sen looked around in alarm. Moving as fast as he could, Han Sen returned to the Four Sheep Cube. He slammed his hand down on the head of a sheep.
+
+Han Sen was standing on a giant stone platform surrounded by scary stone xenogeneics. To the east, there was a xenogeneic that was a white-haired, black-faced, giant ape. To the south, there was a human-bodied monster with the head of a cow. To the north, there was a beast that was like a kirin. To the west, there was a weird snake with nine heads.
+
+The four giant xenogeneics gave off a frightening presence. Sensing them sent chills right down Han Sen’s spine. The monsters surrounded the stone platform, looming over it like the stone platform was a dinner table and Han Sen was the sole sausage in the middle that they would fight over.
+
+Pang!
+
+Han Sen could see the white-haired, black-faced giant ape’s hand stretching toward him. Han Sen was already getting sucked into the Four Sheep Cube. And then, his vision started to spin. When he emerged from the water, he was back in the palace contained within the Very High’s bottle.
+
+“I’m fortunate that my reactions were quick. If I was too slow, I would have become food for those scary xenogeneics.” Han Sen patted his chest and spoke to himself in a shaky voice, trying to comfort his frightened little heart.

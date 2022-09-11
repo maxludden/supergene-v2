@@ -1,0 +1,96 @@
+Title:Amazing Tactics 
+Chapter:259 
+Section:1 
+Book:1 
+CSS:../Styles/style.css 
+viewport: width=device-width
+  
+## Amazing Tactics
+### Chapter 259 
+<figure>
+	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
+</figure>
+  
+
+  
+  Less than five minutes until the game started, everyone opened their mouth wide. Even the online viewers forgot to comment and could not believe their own eyes.
+
+Because the entire field had a blocking system, the Alliance Central Military Academy players could not hear or see the audience, otherwise they would know that something was wrong.
+
+From the beginning of the game, the five players from Blackhawk lined up in a single file and ran into the half-court of the Alliance Central Military Academy.
+
+Because there were obstructions including hills and woods, normally speaking, the two teams were not able to see each other when the game just started. It was a common practice to occupy the heights to observe the other team.
+
+There were a few heights in each half-court so that both teams could utilize the terrain.
+
+Blackhawk players had given up on the heights and chose to enter their opponent's half-court following a route hard to be discovered, which was a risky move.
+
+Once they were noticed by their opponents who had occupied the heights, they would be finished off in the blink of an eye.
+
+Everyone was shocked by the daring move of Blackhawk. Normally speaking, when the Alliance Central Military Academy occupied a height nearby, they would notice the Blackhawk players and end the game once the Blackhawk players were in their sight.
+
+"What kind tactics is this?"
+
+"This is so risky. They are bound to be found."
+
+"Of course. Blackhawk have made such a bad move."
+
+"I thought this game would be excellent to watch. Now it seems it will end very soon."
+
+"Even an average motor school would not overlook such an intrusion, not to mention the Alliance Central Military Academy."
+
+"What trick is this?"
+
+…
+
+Those who had the slightest understanding of an archery game thought Blackhawk was committing a suicide.
+
+At this point, Situ Xiang was wringing her hands nervously, her eyes fixed on her team.
+
+She had designed the tactics, which looked like a suicide. No team would make such a mistake to neglect this daring move.
+
+However, this was her last resort after watching all the games of the Alliance Central Military Academy in recent years.
+
+If she used this tactics on another team, then the failure was almost certain. However, on the Alliance Central Military Academy, maybe they stood a 1% or lower chance of success.
+
+Theoretically speaking, all teams would occupy one or two heights near them first to observe their opponents. Most of the time, the Alliance Central Military Academy would do the same. Under very rare circumstances, however, they would choose to go directly to occupy the highest point in the center of the field.
+
+These circumstances were so few that Situ Xiang had only seen them do it three times in recent years.
+
+The chance was so small that it was not even meaningful. But Situ Xiang's analysis made her see hope.
+
+All three times that the Alliance Central Military Academy made that decision, which was a more aggressive approach, were when they encountered strong opponents.
+
+It served them well, too. The teams thought to be their match all turned out to be crushed.
+
+Although no one believed that Blackhawk was strong enough to pose a challenge to the Alliance Central Military Academy, because of Han Sen, the media was working up the hype.
+
+Situ Xiang wondered if the Alliance Central Military Academy would take Blackhawk seriously enough to use their special strategy. If they chose to do their routine, then Blackhawk would definitely lose.
+
+This was a gamble, while Situ Xiang did not even know if Blackhawk had any chips. In any case, this was Blackhawk's only chance.
+
+Sweat in her palms, Situ Xiang was praying that there would be a miracle.
+
+Han Sen was leading the way, watching the timer in his hand from time to time. Their route and timing were carefully designed by Situ Xiang, in a way that it would allow them to circle behind the Alliance Central Military Academy under the circumstances that the team chose to go directly to the center.
+
+Maybe Situ Xiang's prayers were working, the five players of the Alliance Central Military Academy indeed went to the center instead of occupying the heights nearby.
+
+A classic battle was often produced under the influence of many coincidences. When the audience saw the players from each team went past each other from different routes, they were shocked.
+
+"WTF, this must have been rehearsed."
+
+"This is funny."
+
+"Blackhawk has such good luck that the Alliance Central Military Academy chose directly to go to the center and avoided them."
+
+"Incredible tactics."
+
+"I cannot believe such tactics would work."
+
+The coach of Alliance Central Military Academy became very upset. No one could predict that Blackhawk would have such strange tactics. Even more unbelievable was he happened to be the one who made the decision to go to the center, which was part of the opponent's calculation.
+
+It was not a failure of the players, but the coach himself. At this point, he regretted so much that the plan to crush Blackhawk became the biggest crisis of the Alliance Central Military Academy.
+
+All the coaches from other school teams cast their eyes upon Situ Xiang in awe of this woman. Such a daring and successful move!
+
+As the Alliance Central Military Academy was marching toward the center, the Blackhawk players had arrived at the woods behind the central mountain. The backs of all five players in the Alliance Central Military Academy were exposed in the sight of the Blackhawk players.

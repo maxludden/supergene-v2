@@ -1,0 +1,84 @@
+Title:This Family 
+Chapter:3448 
+Section:17 
+Book:10 
+CSS:../Styles/style.css 
+viewport: width=device-width
+  
+## This Family
+### Chapter 3448 
+<figure>
+	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
+</figure>
+  
+
+  
+  With Human King’s power, even if the 12 Annihilation-class main gods were to come to challenge him, there was a very high possibility that they would not be able to move freely in his presence.
+
+Han Ling’er did not seem to be affected by his power in the least. She stood where she was with her eyes wide open. She madly stared at Human King.
+
+“Han Sen’s daughters are indeed all special.” Human King looked at Ling’er. The power in her body shifted from flesh power to a God Spirit power. It was a pretty strange spectacle.
+
+It was the sort of power that typically belonged to a Reboot Blood-Pulse God Spirit. Although Human King did not combine the two powers into one yet, using both powers was not too difficult.
+
+There was a spirit power all over his hand. His hand took on the form of a spirit. He reached out to latch onto Han Ling’er, but she jumped. She avoided Human King’s hands. She was in the air. Her feet kicked toward Human King’s head. She shouted, “Because you bullied Little Gold Gold, I will stomp you to death!”
+
+Human King’s movements were faster than Han Ling’er’s. His spirit hand moved to grab Han Ling’er’s angle. He grabbed her ankle and pulled her down. He held onto Han Ling’er.
+
+“Little kids that keep on fighting are not at all cute. Plus, women should be gentle. That is far more likable.” Human King used God Spirit powers to trap Han Ling’er in place. Han Ling’er was no longer able to move.
+
+“Let me go… You are a bad man…” Han Ling’er was scared, and she started to scream.
+
+She had not practiced much. She only had Han Sen’s genes. She could not really beat Human King. If Human King was not prepared, her spirit power would not have damaged Human King.
+
+“If you keep screaming, I will lock you inside a coffin. You will be trapped in there for a billion years.” Human King could not do anything to Han Ling’er. His power was sufficient to trap Han Ling’er, but he could not make Han Ling’er stop moving and talking.
+
+Seeing Han Ling’er continue to kick and scream, Human King reached out his hand with a desire to shut down Han Ling’er’s will. Suddenly, he heard another shout.
+
+“Let go of my sister!” A man was there. He was wreathed in white flames as he approached. It was like he was carrying a mountain on his shoulders as his legs trembled in his slow walk forward.
+
+Upon seeing that person, Human King was given a fright. “Han Sen’s son, Han Littleflower! What is wrong with this guy’s children? Under my rules, they are still able to walk around Space Garden. Are they really Han Sen’s real daughter and son?”
+
+Littleflower gasped as he approached. His eyes looked as if they were on fire. He stared at Human King and shouted, “Let go of my sister! Did you not hear me?”
+
+Human King did not want to waste any more time than he had to. For watching what was inside the golden door, his geno prototype armor had been badly damaged. It would take a long time to fix. That made his combination time need to wait even longer.
+
+Human King waved his hand. It had the power to unleash and strike Littleflower. Littleflower’s body was like a mountain. He was blasted away to break the buildings around.
+
+Before Human King went to capture Ji Yanran, Littleflower came out of the ruins. He walked out again. Human King could see Littleflower’s clothes had been torn. The power on his chest was broken, but when he came back, his wounds had already healed. Aside from the broken clothes, one could not see the wounds on his chest anymore.
+
+“I did not want to kill you. If you really want to die, then do not take it out on me for doing what I have been tasked to do.” Human King walked to Littleflower as he spoke.
+
+From what Human King could see, Han Littleflower was weaker than Han Ling’er. She was free from his rule power, and Han Littleflower had to walk against his rule power. That was the difference between their levels.
+
+“You touched my little sister. Do you know what that makes you? It makes you my enemy. You are now an enemy of me, Han Littleflower. Plus, I have no relations with you.” Han Littleflower gnashed his teeth. He walked forward. Beneath the heavy pressure put upon him, his body was still able to remain upright. The white fire on his body was burning harder.
+
+“Fine. Two is enough for me. We do not need another.” Human King waved his fist. This time, Human King wanted to kill. Earlier, he just wanted to subdue him and get him to back off. He had not wanted to kill him.
+
+Pang!
+
+That punch had a power that could destroy the sky and the ground. Littleflower crossed his arms to deflect the punch, but his body looked as if it had just been hit by a scary power. A deep trench was cleaved through the ground, cutting all the buildings in half. He was batted back all the way back into a forest. It was like even the forest had been cut open.
+
+“Big Brother!” Han Ling’er was in a hurry to me. She was furious, so she struggled wildly in Human King’s arms. She wanted to bite Human King a little.
+
+Human King got fed up and annoyed with her. He used his hand and placed it against Han Ling’er’s head. He sealed her seven senses. She could no longer scream or move.
+
+He wanted to go back for Ji Yanran, but his heart suddenly jumped. He looked over in a certain direction. He peered into a forest. a scary white flame appeared. It was like a volcanic eruption that fired up into the air to break the sky.
+
+Human King’s rule power did not work where the white flame had come from. The substances that were frozen were now starting to move again.
+
+Seeing Littleflower manage to emerge from the forest, it seemed as if this time, Littleflower was looking a little different.
+
+Littleflower had inherited the Super King Spirit body from Han Sen, but that did not mean he would only have the King Spirit body. Littleflower had learned Sacred Leader’s holy body power, and he had also been through the sanctuaries. He had managed to level up his super gene. Because Han Sen’s genes were too strong for him, he had never been able to his Super Spirit God body. But his power and personality were hot forces that swirled inside him. He had been waiting for a chance for his genes to break through.
+
+“Get your stinking hands off her, you damn dirty man. Let my sister go!” Littleflower emerged from the forest. He was not like Han Sen or Han Ling’er. He had evolved to obtain a spirit body.
+
+The white flame on his body became a holy shadow. It was like a holy angel that had provided shelter to his body.
+
+The feelings that were so heavy like a mountain were now gone from Littleflower’s body. What replaced it was a powerful sort of holiness.
+
+“What is up with this family? Is Han Sen’s family not even a human family that hails from the sanctuaries?” Human King looked at Littleflower. It really did make him wonder.
+
+Human King believed his evolution path was the correct way forward. He had used the Blood-Pulse Sutra to refine and perfect every generation. He had completely erased the crystallizer lineage within him, which was something inside the genes of humans that hailed from the sanctuaries. He had refined World King God’s and Qin Xiu’s blood to have the body he possessed now.
+
+From what he could best tell, the crystallizer’s blood was cheap and useless. If Han Sen was a human from the sanctuaries, he would have the blood of a crystallizer. So, how could he have so many powerful children?

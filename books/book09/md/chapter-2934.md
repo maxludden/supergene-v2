@@ -1,0 +1,88 @@
+Title:Meat in the Pot 
+Chapter:2934 
+Section:15 
+Book:9 
+CSS:../Styles/style.css 
+viewport: width=device-width
+  
+## Meat in the Pot
+### Chapter 2934 
+<figure>
+	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
+</figure>
+  
+
+  
+  “Bao’er, you are a nice child.” Han Sen used his hands to accept the meat. It smelled so delicious that Han Sen almost bit his tongue off.
+
+“Dad, you should drink some wine. It tastes so good, too.” Bao’er put the wine bottle next to Han Sen’s mouth.
+
+Han Sen had a sip. He felt it erupt in his mouth like a spring. It was very sweet. The wine was not excellent, but it was more than suitable to enjoy with a good meal.
+
+Han Sen’s head made an announcement. “Deified gene +1.”
+
+“Holy shit! Can this wine increase my deified genes too?” Han Sen was shocked. After he ate the piece of meat, there hadn’t been that announcement. Now that he had taken a sip of the wine, he received the announcement. That wine was something special.
+
+“I leveled up… It really did make me level up…” Han Sen was very happy.
+
+The father and daughter merrily drank their wine and ate their meat. Not long later, they had consumed all of the meat in the pot and the wine in the bottle. Bao’er picked up the whole stone pot and drank the leftover soup in one large gulp without stopping. She pulled out her tongue and licked up all the remaining juices that had messed up her face. It looked as if she wanted more.
+
+Although Han Sen had not eaten enough, his deified genes had already reached the max. There was no need for him to be greedy.
+
+Han Sen felt quite satisfied as he sat against the railing. Bao’er was holding her full belly and leaning next to him. The father and the daughter both looked satisfied.
+
+“This wine and meat were really, really good, but I do not know how to make it myself,” Han Sen said. “If I could, I would make it myself. We could eat it every day.”
+
+“If I can eat meat that nice and drink such nice wine every day here, I would be willing to stay here forever.” Bao’er looked very hopeful for that to come true.
+
+“There is no rush. I remember the taste,” Han Sen said. “When we go back, we can try to replicate it in our kitchen. I can get that same taste back.” He thought that even if one chef could not replicate that taste, he could surely get the best chef in the Alliance to bring back that same taste.
+
+“Yes, and I am going to eat meat and drink wine every day.” She was really happy about the prospect. Han Sen was thinking about the good life to come.
+
+The father and daughter were sitting against the rail thinking about the future days of eating meat and drinking wine. At the same time, they were resting. They did not know what they might encounter later, and there was no telling if they would receive another moment of rest.
+
+It was very rare to find a safe place like that. It was a good thing for them to gain as much energy as they could before hitting the road again.
+
+That was especially true for Bao’er. The sunglasses had cost her so much energy to use. It was good for her to be able to take a break.
+
+After she ate the meat, she seemed to be in a much better condition and have a lot more energy. She did not look as tired as before.
+
+Han Sen closed his eyes while he leaned against the rail. Bao’er was sleeping against Han Sen’s legs. She was rubbing her belly. She seemed to be very full.
+
+The big goldfish and small goldfish had been waiting outside the pavilion the entire time. Although the small goldfish loved to eat a lot of food, the stone pot was too small to share with everyone. Besides, there was only one pot of food. Bao’er and Han Sen had eaten it all, but it was still not enough. The big goldfish had a big head. If it gave some to the small goldfish, it would not have been enough to fill its belly. Thus, Han Sen did not give it anything.
+
+Suddenly, Han Sen’s nose smelled another nice meat. He thought, “This meat really is excellent. We finished it so long ago, but the smell is aroma is still there.”
+
+It did not take long for Han Sen’s expression to change. He heard the distinct sound of water boiling. Although it was quiet, it was certainly there.
+
+Han Sen opened his eyes wide and looked at the stone pot atop the stone table. He saw that the stone pot, which Bao’er had completely drunk all the soup out of, had another tub of meat.
+
+“Another pot of meat!” Bao’er was as much shocked as she was happy. She stared at the meat inside the pot.
+
+Han Sen was not as happy. Although this was not very normal, the stone pot was right next to them. How could there be another pot of meat?
+
+Han Sen’s heart jumped. He quickly picked up the wine from the table. His expression changed again.
+
+Of course, the wine bottle that the father and the daughter had been drinking out of had more wine in it.
+
+“What is this?” Han Sen used his Dongxuan Aura to scan the holy garden a few times. He had yet to learn anything.
+
+Han Sen’s vision landed on Wan’er’s jade statue. She was still sitting there in the same position. She looked at the garden outside as she held the wine cup. There had been no changes.
+
+“This is so weird. Who is able to do this without me seeing?” Han Sen frowned but did not speak. Bao’er was already in front of the stone table collecting more meat to munch on.
+
+Han Sen wanted to stop Bao’er and ask her not to eat yet, but he heard a familiar voice sound from the holy garden’s entrance.
+
+“Han Sen, why are you here?” Han Sen saw a person walk into the holy garden.
+
+Han Sen turned his head. The person who had come to the holy garden was one of the Extreme King deified elites that followed Ancient Abyss. His name was Yang Yun Sheng.
+
+“Why are you here? Where is Ancient Abyss Grandmaster?” Han Sen looked at Yang Yun Sheng with confusion. There was no one else out there.
+
+Yang Yun Sheng looked bitter as he said, “I do not want to talk about it. The Grandmaster brought us into the darkness. We thought we could reach the long, bright lantern ahead, but we walked a few hundred miles only to remain in the darkness. We then heard something get closer in the dark. Something attacked the shining umbrella. The Grandmaster allowed us to keep the umbrella and proceed while he ran out of the umbrella’s safety to confront the enemy.”
+
+Han Sen did not speak. He knew something else must have happened. Otherwise, Yang Yun Sheng would not have come there alone.
+
+Yang Yun Sheng went on to say, “The four of us were holding the shining umbrella as we kept going for the light. We did not get very far before something else sought to attack the shining umbrella. After a few hits, the shining umbrella was destroyed. I did not see what the monster looked like, but I was hit away by it. I fell into the darkness and kept on falling. It was like I was plummeting into an abyss.”
+
+“The power of that darkness was like a grinding machine. I tried my hardest, but I could not block it. Even the protective treasures have been broken. As I was thinking about how I was going to die, I landed in a place with a long, bright lantern. I stood inside the lantern’s glow to survive. With the long, bright lantern there, the creatures of the dark did not show up again. Even so, I could feel something watching me in the dark. It did not dare enter the light though.” As he spoke, Yang Yun Sheng felt a chill. He looked outside the holy garden and could still feel a monster watching him.

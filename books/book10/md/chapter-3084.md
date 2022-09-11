@@ -1,0 +1,94 @@
+Title:Sacrifice 
+Chapter:3084 
+Section:16 
+Book:10 
+CSS:../Styles/style.css 
+viewport: width=device-width
+  
+## Sacrifice
+### Chapter 3084 
+<figure>
+	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
+</figure>
+  
+
+  
+  Han Sen did not have land-pulse skills. He also did not know what a Sea Dragon Woman was. Neither he nor Bald Guy knew what a blood dragon flying into the sky weird scene was. Still, Han Sen’s will was extremely strong. Although he was suppressed by the rules of the world, if something very bad was going to happen to him, he still felt a sense of worry. If something made Han Sen tremble, it meant something extremely bad was going to happen. Otherwise, nothing would have touched his heart.
+
+Han Sen looked at the hole and said to Bald Guy, “Bald Guy, stop digging.”
+
+Bald Guy put down his shovel with confusion. He looked at Han Sen and asked, “What is it?”
+
+“There is something wrong.” Han Sen looked serious as he asked, “Are you sure this is the Sea Dragon Woman and dragon blood water?”
+
+After hearing him, Bald Guy felt strange. He looked around and said, “This is right. This is a Sea Dragon Woman. I cannot be wrong. Did you not see the dragon blood spring?”
+
+Han Sen was quite a moment before saying, “OK. You come back. I will continue digging.”
+
+“Does it matter who is digging? I think we are on the cusp of getting it now anyway.” Bald Guy laughed.
+
+“Stop talking crap. You come here now and let me dig. Otherwise, I am leaving.” Han Sen was not in the mood to joke around.
+
+Bald Guy looked at Han Sen. Sensing that he was not joking around, Bald Guy emerged from the hole with the shovel. He glanced around and asked, “What is it? Did you find anything?” Han Sen did not explain anything to him. He could not explain it to him either. It was just a feeling he had. He could not put that into words.
+
+He took the shovel out of Bald Guy’s hands, jumped into the hole, and carried on digging. He said, “You wait out there. Do not come down. Call me if something happens.”
+
+Bald Guy was weirded out. He was not quite sure what Han Sen was trying to say, but he still listened to him. He just watched from outside the hole and did not go down.
+
+Han Sen used the shovel to slowly dig. He did not use too much strength. He kept digging, continuing to look at the soil down below. He had dug three feet when he suddenly felt as if his shovel touched something. Those frightening fears that made him tremble were amplified even further.
+
+He did not even think. Han Sen summoned the blood ghost spirit and combined with it. His eyes turned red, and his back produced a monkey’s tail.
+
+Bald Guy was excited from his position above the hole. He enthusiastically asked, “Did you find a gene egg?”
+
+Han Sen did not answer him. He put the shovel down and used his hands to brush away the soil. He soon felt something. Suddenly, something was coming out of the soil.
+
+Although only a part of it was visible, anyone could tell it was not a gene egg. After all, no gene egg growled like a fishbone fossil.
+
+Beneath the soil was a grey stone. The part that was showing was like a fishbone fossil, but the fishbone was not like a normal fossil. It was not grey. It was black.
+
+To be a bit more accurate, it looked like some old, dirty blood that had coagulated. It was dark red. It was so dark that it looked black.
+
+“What is that?” Bald Guy felt a bit confused. He wanted to jump into the hole, get closer, and have a more intimate look.
+
+“Don’t move.” Han Sen stopped Bald Guy. He used the shovel to dig around the soil. He noticed it was not a fishbone fossil because the fossil was 12 feet long. The fossil’s bones were crooked. They resembled those of a dragon. The fossil was dragon bones.
+
+“Blood dragon flying into the sky weird scene… Oh, no… Han Sen… You need to get out of there…” Upon seeing the entire fossil, Bald Guy’s expression face changed. He screamed.
+
+It was too late. The moment he spoke, the dragon bones shone with a blood light. It made the entire hole glow red. Looking at it from afar, one would have thought it was a lava pool.
+
+“Han Sen, are you OK? You need to come out…” Bald Guy shouted from above. He summoned a gene race to combine with and tried to go into the hole.
+
+“Bald Guy, save your power. This is a blood dragon flying into the sky weird scene. It requires a human sacrifice to break it, but the sacrifice will never live. You cannot die for this.” Gong Shu Jin led a bunch of gene casters and approached them. He coldly looked at Bald Guy as he spoke. “Gong Shu Jin? Why are you here?” Bald Guy’s expression changed.
+
+“Bald Guy, you and I have no grudge, but you just had to get involved with this guy. You are very unlucky.” Gong Shu Jin did not explain. He waved his hands. A few of the gene casters behaved like wolves and tigers and leaped toward Bald Guy.
+
+As they traveled at a high speed, some of them turned into something that was part tiger, wolf, and man. Some of them turned into bird men. One of them was even weirder. His upper body was human while his lower body was that of a cow.
+
+Bald Guy’s expression suddenly changed. Although his gene races were not bad, he was not great at even fighting four people at the same time. Plus, there were a dozen of them. The gene casters had combined with powerful gene races. Basically, they were all king-class adults.
+
+Bald Guy was very powerful and could combine with a blue-scale pangolin. His body was covered with blue scales. His hands were so sharp that they were like metal. Alone, he fought everybody. Yet, he was just as strong as a tiger.
+
+But he was just one person. Under the siege, he was quickly pushed onto the ground, which looked like fire. Suddenly, a few more gene casters jumped forward and kept him pinned to the ground.
+
+“Gong Shu Jin, if you wanted the gene egg, I would have given it to you! Why murder me?” Bald Guy shouted as he struggled to break free.
+
+Gong Shu Jin laughed. “I want the gene egg, but I need to murder too. You just need to blame your very stupid idea of being friends with a dead man.”
+
+After that, Gong Shu Jin put his hands up to his neck and performed a cutting gesture. He stopped looking at Bald Guy and looked toward the hole.
+
+The blood light coming from the hole was still burning like lava. It was shining with a red light. One was not able to see what was inside the hole.
+
+The gene casters each held a sharp blade. They were seconds away from decapitating Bald Guy, who was terrified. No matter how he tried to struggle, he could not move. He looked at the knife coming toward him and shouted. “I am so sorry! I am not powerful, and I got you killed! Brother Han, I will serve you in hell! I will pay you back in the next life!”
+
+Boom!
+
+Blood light exploded from the hole. In that shining blood light, a blood-red shadow burst out of space. It suddenly went toward the bald man. It held the hand that was going for Bald Guy’s head.
+
+A hand touched the cold gold knife, which was made of a king-class gene race called cold gold cow horn. It suddenly broke. It shattered into pieces that splintered everywhere.
+
+“Are you not dead?” Gong Shu Jin looked at the blood shadow, but his eyes grew smaller. He could not help but scream.
+
+The blood shadow was Han Sen. When the dragon bones burst with a red light, it felt like a power went inside him. It was burning and seemingly able to turn steel into steel juice.
+
+Although Han Sen’s body was very powerful, in that burning, he felt like he was covered in lava. Although it did not hurt his body, it didn’t feel good.

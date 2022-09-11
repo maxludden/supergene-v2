@@ -1,0 +1,86 @@
+Title:Biggest Crime 
+Chapter:2801 
+Section:14 
+Book:9 
+CSS:../Styles/style.css 
+viewport: width=device-width
+  
+## Biggest Crime
+### Chapter 2801 
+<figure>
+	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
+</figure>
+  
+
+  
+  That eye was black and white. The eyeball was white, but the pupils were black. It was still different from ordinary eyes. The eye was half black and half white. The black and white each had a side of their own, and it was very clear to see.
+
+Han Sen saw that black and white eye and started to feel goosebumps. Those god eyes gave all who saw them a chill. It was like the eye that looked at everyone and deemed them sinners.
+
+Next to the second ancestor’s statue, an old voice boomed. “Mister Crown Prince, why have you come?”
+
+Han Sen suddenly noticed an old person kneeling in front of the statue. One was unable to see what he looked like. Since he was kneeling, he appeared to be someone who was praying to a god. Plus, he was directly in front of the statue.
+
+Han Sen saw that his hair was pale like snow, but he could not discern any other colors. The covered his whole body. It was very straight. He was like a kneeling snow ape, which is why Han Sen had not noticed him.
+
+“Bai Wanjie is greeting Old Iron.” Bai Wanjie’s identity within the Extreme King was high. Despite that, he was greeting the old man present. That proved how special the old man must have been.
+
+“Oh, no! I am just a servant. Why is Mister Crown Prince coming to Law Hall?” The old man was still kneeling on the ground. He did not raise his head. If there weren’t people there, no one would believe he was talking to Bai Wanjie.
+
+“I caught a born-deified xenogeneic, ” Bai Wanjie politely said. “I want to capture and control it, but its body is very weird. It is half plant and half flesh. It is two extremes combined. There are no skills capable of moving its heart. So, I want to use the Extreme King’s Overbearing Eye’s law power to suppress his body shape and use it for myself.”
+
+“Do you know the Extreme King’s Overbearing Eye is King’s Kingdom’s base stone? Do you not think it is inappropriate to make us vulnerable by using it for such a small task?” The old man’s voice had returned, but he was still kneeling before the statue unmoving.
+
+Bai Wanjie did not dare offend the old man. He politely said, “Old Iron, if this was for the mere taming of a xenogeneic, I would not dare trouble you. But this xenogeneic is so weird and the key to controlling a special xenogeneic space. With this, I can control that xenogeneic space. That xenogeneic space is very important to me. It matters, and it can determine my future as a true god. Therefore, I am hoping Old Iron will be able to help me.”
+
+The old man did not move or speak. Although Bai Wanjie was powerful, his heart was a bit depressed. If there was no other way to solve this issue, he would not have gone there.
+
+After a while, the old man’s voice came back. “Place it on the left side of the law scale.”
+
+Bai Wanjie was suddenly delighted. He quickly picked up Han Sen and placed him on the scale the second ancestor’s statue was holding.
+
+Han Sen felt terrible. He did not know what the Extreme King’s Overbearing Eye would do. After Bai Wanjie let him go, he tried to struggle and get away.
+
+He discovered that he was unable to move. It was like some scary power had tied him up and bound him to the left plate of the scale.
+
+Han Sen thought the scale was just a decoration. He had not thought the scale would actually work. After he was placed on the left plate, his weight lowered the scale.
+
+When the left plate of the scale went down, the second ancestor’s eye started to brighten up. Black and white light came out from it. The white light shot toward the left plate of the scale while the black light shot at the right plate of the scale.
+
+The white light came down on Han Sen’s body. He felt as if some weird power had invaded his body. It felt extremely strange. It was like he was being scanned or an X-ray was looking into his body. Han Sen sensed that the X-ray was not being used to look into his bones. They were looking into his genes.
+
+When the white light scanned Han Sen’s body, the black light on the right side illuminated the right plate of the scale. It generated a black counterweight.
+
+The counterweight had a number that kept changing. It started from one and kept rising.
+
+What is going on? Han Sen did not feel as if his body was getting damaged, but this weird feeling unsettled him. He did not know what the numbers implied.
+
+The old man was still kneeling in front of the statue, so he could not see what was happening. Bai Wanjie kept staring at the black counterweights, which were building on the right plate of the scale.
+
+Although the Extreme King was started by the alpha, the core of the civilization was built by the second ancestor.
+
+It was easy to start a business, but keeping it going was a different matter entirely. The second ancestor kept the core of what the alpha had created and built a civilization and the rule of law to uphold and sustain the Extreme King. That had kept the Extreme King going for billions and billions of years. It had amassed quite the history.
+
+The legends claim that the second ancestor was very harsh and cold. He treated all of the family members the same. He even executed his son who had broken the law.
+
+The Extreme King’s Overbearing Eye was his geno armament. It had a weird power inside of it that was called Sin. It judged whether or not a creature was guilty.
+
+If that creature was very sinful, the Extreme King’s Overbearing Eye power would grow. The second ancestor judged a sinful butterfly elite when he had only just become a primitive deified. With one hit, it killed the butterfly elite, not even sparing it a chance.
+
+That was how the Extreme King’s Overbearing Eye started to become famous. It had become one of the most powerful geno armaments. It was in the top 10 in the geno universe.
+
+With the power of the second alpha, all the creatures believed he could use the Extreme King’s Overbearing Eye to enter the geno hall and possibly become a god spirit.
+
+Who would have guessed that the second ancestor would force his geno armament, the Extreme King’s Overbearing Eye, out and leave it for the Extreme King? By doing so, he lost the right to enter the geno hall.
+
+One legend claimed that the Extreme King’s Overbearing Eye, despite being very powerful, did not work on a creature that had no sin. No one ever did find out how the Extreme King’s Overbearing Eye determined how a person might have sinned.
+
+When the second ancestor was alive, no faction dared attack King’s Kingdom. The second alpha settled the foundation of the Extreme King, which kept them going for billions of years.
+
+Now, Han Sen was locked down by the Extreme King’s Overbearing Eye. The counterweight on the right was continuing to increase. The higher the number, the more sins Han Sen had committed.
+
+When the number of the counterweight equaled Han Sen’s amount of sins, the scales would be balanced again. At that time, the Extreme King’s Overbearing Eye was able to judge Han Sen.
+
+The counterweight’s number was 30, but the left plate of the scale that featured Han Sen was still getting lower. It was not balancing out.
+
+Seeing the number on the counterweight quickly increase, Bai Wanjie’s face looked strange. “It is over 100 already, and the scales are still trying to find a balance. It is not coming back. What has this xenogeneic done to be deemed so sinful?”

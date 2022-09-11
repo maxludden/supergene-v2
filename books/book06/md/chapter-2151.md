@@ -1,0 +1,88 @@
+Title:One Bite, One Child 
+Chapter:2151 
+Section:8 
+Book:6 
+CSS:../Styles/style.css 
+viewport: width=device-width
+  
+## One Bite, One Child
+### Chapter 2151 
+<figure>
+	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
+</figure>
+  
+
+  
+  They waited a while, but nothing rushed out of the pit. And gradually, the sounds of explosions became less and less frequent.
+
+As everyone was still staring in confusion, their eyes drifted to the side of the pit. A small white paw with metal claws had risen just over the edge. The claws looked ferociously sharp, but the paw was only the size of a baby’s hand, though.
+
+The small paw felt around for a grip on some surface. When it grasped the ground and started hauling itself up, a white metal face became visible. Its eyes were circular, and the skin looked like the skin of a lotus.
+
+When it emerged fully from the pit, everyone was able to get a good look at it. The little white beast looked sort of similar to a pangolin. With the tail included, it probably wasn’t more than a meter long. Compared to the metal statues around it, the white metal beast looked like an ant.
+
+After the little beast pulled itself onto the surface, its chubby body waddled toward them. It was not fast, though. And its tail and its butt shook like a baby’s bottom.
+
+Han Sen looked at the beast with visible confusion. It might have looked like a pangolin, but it wasn’t exactly like a pangolin. Han Sen thought of a creature that looked even more similar to it.
+
+“Metal Eater!” Han Sen remembered the Metal Eater he once adopted. This creature was a little smaller than the Metal Eater he had befriended, but other than that, it looked incredibly similar.
+
+“Considering that this planet is formed wholly of metal, this might indeed be a Metal Eater. But that being said, its size suggests that it is a baby. Perhaps there is an adult one hiding in the cave?” Han Sen thought with worry.
+
+Although this creature might not have been the exact same species as the one Han Sen had encountered in the sanctuaries, it was definitely the same type. The metal critter seemed quite confident as it waddled its way toward the feet of one of the metal statues.
+
+“Grab it!” Klinsmann barked to his fellow metal statues. He was thinking similar thoughts to Han Sen. If the beast was the child of something far more dangerous lurking elsewhere, he wanted to capture it immediately. Doing so might prove useful.
+
+The Destroyed that controlled the nearest metal statue heard Klinsmann’s order. He immediately moved the statue to pick up the little beast.
+
+That beast was small and slow. The giant statue looked like it would have difficulty picking up the little creature without pulverizing it. As the enormous hand came down to grab the creature, it stared up at the hand helplessly.
+
+But before the big hand landed, the critter opened its mouth. At that moment, everyone’s eyes opened wide. Even Han Sen’s. He had seen many scary creatures in his lifetime, and he had seen many animals devour others, but he had never seen a creature behave like this.
+
+The little thing was so small, but when it opened its mouth, the head became extremely large. The entire creature turned into a gigantic metal mouth. Its throat looked like a dark abyss. The statue was a few hundred meters tall, but the tiny creature ate the statue in a single bite.
+
+The sight was incredibly disturbing. It was more shocking than an ant eating an elephant.
+
+But it happened, with no applause or fanfare. That metal statue vanished into the mouth, taking its Destroyed pilot along with it.
+
+One bite. It was just one bite.
+
+The little metal fiend swallowed and burped happily, and nasty chills started to run down the spines of everyone assembled there. Even the Destroyed that were controlling the metal statues for Klinsmann were rattled.
+
+The little beast licked its lips with a long tongue, then looked at another of the metal statues that were near it. It jumped forward.
+
+“Kill it!” Klinsmann shouted. He controlled a statue with three-heads and six-arms, and he used it to unleash three different lights to attack the metal fiend. The other metal statues also moved to attack the creature. Waves of fire and ice came shooting out of the metal statues to repel the beast.
+
+The little creature’s body was suddenly wrapped up in a transparent shield. The shield intercepted the oncoming attacks and completely nullified them. They didn’t even rattle the transparent shield. In a flurry of sparks, their attempted attacks fizzled away.
+
+“Metal Eater… It is a Metal Eater…” When Han Sen saw that shield, he received the final confirmation he needed that this creature was a Metal Eater. The powers they possessed were way too similar.
+
+The Metal Eaters from the sanctuary could produce shields just like that. While the shield of Han Sen’s Metal Eater had been much weaker, the similarities between the two were obvious.
+
+Katcha!
+
+The little beast ran toward the nearest metal statue, and its originally amusing waddle had now become quite sinister. Again, it opened its mouth and swallowed the entire metal statue before the Destroyed inside had a chance to flee.
+
+It was difficult to imagine how a beast so small could swallow a metal statue that was the size of a mountain.
+
+All the Marquises watched in terror. The metal statues had King class strength, but they were getting swallowed one at a time. Despite the critter’s small stature, it had to be deified.
+
+“Run!” Han Sen shouted as he switched off his Bai Sema. All the Marquises rushed to escape the city.
+
+In front of a creature like that, the Marquises didn’t stand a snowball’s chance in hell. Their only option was to run.
+
+Few humans would pay enough attention to kill an ant deliberately. Hopefully, the beast was only interested in the Breaksky doll, not smaller creatures. It was the Marquises’ only chance of getting away.
+
+Han Sen kept running, looking over his shoulder as he went. The little beast’s body was protected by its shield again. It was traveling between the metal statues.
+
+The statues disappeared one-after-another. It made Han Sen think, “One bite, one child.”
+
+Although those metal statues were as big as mountains, before the metallic creature, they were like children. One bite really was enough to end any of them.
+
+Han Sen was merely hoping that the metal beast was not interested in beings as small and weak as the members of his team. If it did have a taste for them, it was game over. Their only hope was that the Metal Eater would stay occupied with the statues.
+
+Klinsmann and the others were in shock. They had now realized that what Han Sen had said was true. The deified Breaksky might really have been afraid of this being.
+
+If it was able to scare off a deified elite, who knew what abilities the little creature truly held?
+
+Without hesitation, Klinsmann turned around and started to run away. He also called on the Destroyed to do the same. But it was too late. The little critter-one bite, one child—didn’t take long to finish up the rest of the statues.

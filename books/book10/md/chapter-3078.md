@@ -1,0 +1,86 @@
+Title:Holy Light Salamander 
+Chapter:3078 
+Section:16 
+Book:10 
+CSS:../Styles/style.css 
+viewport: width=device-width
+  
+## Holy Light Salamander
+### Chapter 3078 
+<figure>
+	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
+</figure>
+  
+
+  
+  Han Sen felt quite tempted after hearing that. “What is that gene race called?”
+
+Jian Bu Gu thought about it and said, “I remember it was called a pure light salamander. It is a gene race that only appears next to the Holy Light River. It is a born king-class race, but most of its powers are not strong. Even a duke-class gene race can easily consume it, but it is very good at sensing gene races. Before gene races get close to it, it starts to run. It can be very difficult to catch, and the gene eggs of pure light salamanders are extremely rare. As far as I know, Jade Wall City only has five pure light salamanders. Three of those belong to the palace. It will be very difficult to claim a pure light salamander egg.”
+
+Han Sen made up his mind. He had to get himself a few pure light salamanders. Wild pure light salamanders did not make much difference to him other than finding the gene eggs. With a pure light salamander in his sights, he would at least feel safe.
+
+He did not say anything more. If Lu Shi’s shop had a pure light salamander, he would just go and buy a few.
+
+“Mister Jian, in the top-class gene races, are there are any gene races that have blue blood?” Ever since Han Sen had reached the universe of kingdoms, he realized the humans there did not train their bodies. Their blood was red.
+
+Qin Xiu’s body had blue blood. There was an 80% chance that he had gotten that by combining with a gene race. Perhaps it was not Qin Xiu’s real blood.
+
+Jian Bu Gu thought for a moment and replied, “There are a lot of gene races with blue blood. Regarding the most famous, it would undoubtedly be our Big Qin Kingdom’s alpha king World King God. He was an ultimate gene race that was far above god class. It was a shame World King God disappeared with the alpha king. It did not remain. Otherwise, the Big Qin Kingdom would not have gone downhill after the alpha king vanished.”
+
+Han Sen quickly asked, “What kind of gene race was that?”
+
+“World King God was a legendary creature that controlled one world,” Jian Bu Gu said. “No one can tell you what it looks like anymore. From the information that has remained available, it should be a very rare humanoid gene race.”
+
+Han Sen asked Jian Bu Gu about gene races. Mister Yang had a lot of knowledge too, but he was not as good as Jian Bu Gu. That was certain.
+
+Mister Yang only knew a bit of information whereas Jian Bu Gu knew about high-class gene races in far greater details than Mister Yang could ever provide. He gave Han Sen a better understanding of the power of gene races in that world.
+
+The Holy Wen White Deer, in Jian Bu Gu’s ratings, was only a beginner. To ordinary gene casters, it was something godly. To a real top-class elite, it was just a beginner tool.
+
+As for the gene races in the legends, such as World King God, they were something each of the seven kingdoms had. They were something that existed to preserve a kingdom, which made Han Sen feel more alert.
+
+“It seems like this world is not as straightforward as I assumed it to be. Things about Qin Xiu are weird. If blue blood is World King God’s blood, then the person who died on that day… Could it really have been Qin Xiu?” Han Sen suddenly started to have many questions.
+
+After talking to Jian Bu Gu, Han Sen headed to Lu Shi’s shop. He had already offended Gong Shu Jin. He would probably have a fight with him soon. Considering that, Han Sen had to make sure he was prepared.
+
+Before Han Sen had the chance to kill Gong Shu Jin, he needed to make sure he, Mister Yang, and the others were safe. He had to get his hands on a pure light salamander.
+
+Even if Gong Shu Jin was not going after them, there could very well be others on their trail in the future. This type of gene race seemed like a necessity, lest guaranteed harm befell them someday.
+
+Lu Shi’s shop was one of the biggest shops in the Qin Kingdom. It conducted business across the entire universe. Gene races and gene eggs were just one portion of its business. It had all kinds of other shops in the big cities.
+
+Lu Shi’s shop did not have online ordering. People had to go to a store in person to buy something Even so, Lu Shi’s shop was still the best in the Qin Kingdom. It had lots of gene races and gene eggs, and there was a huge variety of types. It was better than most of the smaller shops.
+
+When Han Sen went to Lu Shi’s shop, he told people he wanted a wild pure light salamander. The results surprised him. A wild pure light salamander’s price was 3 million each. That price was equal to a god-class gene egg, and that was just a wild version. Plus, one was only able to keep it as a pet.
+
+The shop keeper patiently explained things to Han Sen. He told him that pure light salamanders were king class and very rare, and they were exceedingly difficult to catch. With its abilities, many rich people bought one pure light salamander. That was why the price had become so expensive.
+
+A wild one could not be taken out, but it could be kept at home. If a gene race sought to invade its abode, it would react. So, it was useful. The rich people loved pure light salamanders.
+
+“I can’t even buy a wild pure light salamander.” Han Sen felt a bit sad. He counted all his money. He didn’t have enough to even buy a wild pure light salamander. There was no way he could afford a gene egg.
+
+“No way. I will just have to go to the Holy Light River to catch a pure light salamander.” Han Sen returned to the hotel and looked up information on the Holy Light River and pure light salamanders. Catching a pure light salamander was not easy.
+
+The Holy Light River was back on Planet Gu Ya. Han Sen had been there, but he had remained in a safe zone without any high-class gene races.
+
+Holy Light River was different. It was in a region dubbed the “dead zone” of Planet Gu Ya. Holy Light River was a mysterious, super land pulse. After a billion years, Holy Light River had created many scary gene races. God-class gene races always appeared in Holy Light River.
+
+Even many of the Qin Kingdom’s top-class elites did not dare go to Holy Light River.
+
+The pure light salamanders appeared on the banks of Holy Light River. They were amphibious but spent most of their time in the river. They seldomly ventured ashore.
+
+Holy Light River was very dangerous, and the pure light salamander could sense the presence of other gene races. If humans used a gene race before they got close to it, the salamander would escape deep into Holy Light River.
+
+If people did not combine themselves with a gene race in Holy Light River, it was practically a death wish. Therefore, capturing a pure light salamander was not easy.
+
+These were difficulties that would not hinder Han Sen. He decided to go to Holy Light River. Before he departed, he warned Mister Yang and the others that before he returned, no one should leave the hotel. He also had Jian Bu Gu do his best to take care of them.
+
+That was Jade Wall City. Even Gong Shu Jin could not murder people on a whim. He had to use gene races to assassinate them. If Jian Bu Gu was there, it would be difficult for him to do so.
+
+As long as Mister Yang did not leave Jian Bu Gu’s sight, he would be fine.
+
+Plus, Gong Shu Jin’s ultimate target was Han Sen. While Han Sen was gone, Gong Shu Jin would not be interested in Mister Yang and the others.
+
+After Han Sen left the hotel, he felt as if he was being followed. He entered Planet Gu Ya. The news was quickly received by Gong Shu Jin.
+
+Gong Shu Jin looked murderous. He coldly said, “Very good.”

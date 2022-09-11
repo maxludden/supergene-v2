@@ -1,0 +1,102 @@
+Title:Giving Blood-pulse 
+Chapter:3090 
+Section:16 
+Book:10 
+CSS:../Styles/style.css 
+viewport: width=device-width
+  
+## Giving Blood-pulse
+### Chapter 3090 
+<figure>
+	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
+</figure>
+  
+
+  
+  Feather Fairy had said that there were scare gene races close to Holy Light Mountain, so Han Sen was worried. He did not want any more trouble just yet. With Mister Yang in tow, he sneakily climbed the mountain.
+
+Ever since he had encountered the big sky demon, Han Sen knew this world was a weird place. He was unable to get through everything alone. He needed to keep a low profile and try not to draw too much attention to himself.
+
+“Mister, is this the legendary Holy Light River’s Holy Light Mountain?” Mister Yang was shocked. He looked up across the mysterious mountain with trembling legs.
+
+“I think it is just its name.” Han Sen did not care. He continued hiking up the slopes of the mountain with Mister Yang.
+
+Mister Yang’s heart was truly rattled. “Mister, I have heard that Holy Light Mountain is home to a scary, ultimate gene race. It has loads of mysterious things about it. Even if top-class elites visit that area, they are sure to die.”
+
+“It’s fine. I know a secret path that can safely lead us to the god temple.” Han Sen walked as he talked.
+
+A mysterious mist was draped over the mountain. One was not able to see anything. At about 15 feet away, all visibility was lost to the mist. It was still frightening to keep hearing beasts roar and thunder echo. Mister Yang was in shock. He followed Han Sen, not daring to take one step away.
+
+The scene was very scary, but as Feather Fairy had said, they did not have a personal encounter with any of the dangers during their climb.
+
+Mister Yang’s body was old. He had not climbed for long before he was gasping. His forehead was like a raincloud. He was profusely sweating. He could not climb for much longer. Han Sen had to hold his body and hike.
+
+It was unknown how high the mountain was. Even with Han Sen’s speed, it took half a day to arrive at the peak.
+
+It was different from the land below. The peak was very warm and gentle. It was like a cloud and clearly visible. There was no wind, thunder, or dust to mar the area. It was a peaceful place.
+
+Atop the peak, there was an old temple. It was made of green bricks and slate. It looked mysterious and old. It seemed like there would be no fire inside it.
+
+“Mister, there is a god temple there.” Seeing the god temple, Mister Yang felt safer.
+
+Han Sen raised his head to look upon the grandeur of the temple’s door. The words “Feather Fairy God Temple” were on it. The words looked like they had dust and belonged to a fairy.
+
+“Go in. After you get a God Spirit Blood-Pulse, we can return.” After speaking, Han Sen went into the god temple. Mister Yang did not dare slow down. He ran toward the god temple and said, “Mister, I am going to beg now. I am afraid I am too useless. I do not want to waste your nice gesture.”
+
+After that, Mister Yang walked into the god temple. He went in front of the god’s altar. According to the gestures required, he hastily kneeled and prayed. He then dropped a speck of his blood onto the stove.
+
+He knew the outcome. He didn’t think he’d get a God Spirit Blood-Pulse. He just wanted to get it over with and return home. He did not want to waste any more of Han Sen’s time. The blood entered the stove, but there was no reaction. He knew that would happen, but he was still disappointed.
+
+Han Sen stood in front of the god temple. Mister Yang stood up and presented him with a wry smile. “Mister, it looks like I wasted your nice intent of bringing me here.”
+
+Han Sen frowned. He was there, but Feather Fairy wasn’t treating him nicely. He felt a bit angry about that. “It is fine. You stand here.” Han Sen just wanted Mister Yang to get a God Spirit Blood Pulse. It was best he did not have to do anything, but he now had to walk up to the god altar.
+
+Pat!
+
+Han Sen slammed the god’s altar. The stone on the altar was delivered the mark of a hand. The entire temple shook violently.
+
+Mister Yang was scared. He waved his hands and yelled, “Don’t do that, Mister! Don’t do that!”
+
+People in the universe of kingdoms were taught that God Spirits were superior to everyone and had created the universe. Being alive meant the God Spirits enabled a human to exist and live. They had the highest authority.
+
+The god temples were signatures of each god’s power. At all costs, they were not to be offended. If they were, the God Spirits would surely dole out punishment.
+
+This dogma existed due to the ability of God Spirits to bless the blood of others. Most importantly, it resided in the education of the kingdom. Mister Yang could not be blamed for feeling the way he did. That was how he had grown up and taught to be.
+
+Seeing Han Sen slap the altar, Mister Yang thought it was a grand blasphemy. Even the Qin Kingdom’s king would have never dared do such a thing
+
+Han Sen ignored Mister Yang and coldly shouted, “Where is Feather Fairy?”
+
+After hearing what was said, Mister Yang was shocked. Han Sen had slapped the altar and shouted the God Spirit’s name out loud. He must have had a death wish.
+
+In the next second, Mister Yang’s face turned pale. He saw Feather Fairy’s god statue start to glow with holy light. It was scary. An old fairy-like man appeared and floated down from the altar.
+
+“Oh, no… Oh, no… A God Spirit has revealed itself. This is bad… We have to go, Mister.” Mister Yang ran to Han Sen and tugged at him. Since Mister Yang was old and had no gene-race buff, he was too slow. He had only just touched Han Sen’s arm when the old fairy God Spirit floated down before them.
+
+Mister Yang’s face looked grey. He thought, “This is bad. We are going to die.”
+
+Surprisingly, the God Spirit bowed to him. He behaved politely to Han Sen and said, “Little God did not know you were here. I did not come out to greet you, so please forgive me.”
+
+Mister Yang’s entire body appeared petrified. His eyes were open wide. He looked at Feather Fairy and Han Sen in awe. His brain was empty of thoughts. He could not compose one.
+
+Han Sen pointed at Mister Yang and said, “This guy is my servant. I brought him here to accept a God Spirit Blood-Pulse. Can you give him something?”
+
+Feather Fairy looked at Mister Yang. He then looked at Han Sen and carefully asked, “Mister, what kind of Blood-Pulse would be suitable?”
+
+Feather Fairy felt depressed. He controlled a God Spirit Blood-Pulse, but it cost him god power to give it out. If he gave his Blood Pulse to someone weak, he would not achieve much. There was nothing for him to gain.
+
+Mister Yang, who was standing in front of him, was the sort of person with very bad genes. Under ordinary circumstances, he would never have even dreamed of giving someone like him a Blood-Pulse.
+
+But Han Sen was asking him directly, so Feather Fairy could not reject the request. Even though that person was too weak, he still had to give out his God Spirit Blood-Pulse.
+
+“Just give him something.” Han Sen looked like he was smiling but not smiling at Feather Fairy.
+
+Feather Fairy gnashed his teeth and thought, “This time, I am to lose something no matter what. Instead of fighting back and allowing Mister Dollar to be upset with me, why don’t I do him a favor?”
+
+Thinking of this, Feather Fairy lit up the god stove. The god stove’s holy light was like a volcanic eruption. Many snow-white feathers arose. They covered the entire god temple. It was like a million goose feathers were falling from the sky.
+
+Suddenly, thousands of feathers started flying toward Mister Yang. They melted into his body. It made Mister Yang’s body feel as if it was in heaven. It was like a dream.
+
+> “Perfect God Spirit Blood-Pulse.” 
+
+Mister Yang was suspicious about whether or not this was all just a dream. Actually, it was like he had never even dreamed of this. He now had a God Spirit Blood-Pulse, and it was a complete God Spirit Blood-Pulse. Not many people earned a perfect God Spirit Blood-Pulse.

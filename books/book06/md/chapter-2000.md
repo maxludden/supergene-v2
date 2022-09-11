@@ -1,0 +1,102 @@
+Title:The Battle Ends 
+Chapter:2000 
+Section:8 
+Book:6 
+CSS:../Styles/style.css 
+viewport: width=device-width
+  
+## The Battle Ends
+### Chapter 2000 
+<figure>
+	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
+</figure>
+  
+
+  
+  The students watched the fight with gaping mouths. Han Sen’s power didn’t seem as strong as Lone Bamboo’s, but it felt as if the contestants were somehow even. The situation almost seemed self-contradictory.
+
+The King class observers noticed Han Sen’s energy, and when they saw it, they were shocked. They felt the same thing that the students felt, but they could understand a bit more.
+
+Han Sen wasn’t as powerful as Lone Bamboo, who was a Marquise. But it seemed that his energy wasn’t being suppressed. He was getting stronger.
+
+Despite the fact that Lone Bamboo’s knifemind was continuing to grow, Han Sen wasn’t being crushed under the weight.
+
+Both of them were emanating a terrifying intensity, and it was visible in their eyes. The students that watched the fight were not seeing Han Sen and Lone Bamboo anymore. It was just an evil demon fighting a jade-white shadow. When both of them collided, it was like day and night. Neither of them gained the upper hand, and neither of them was put down.
+
+Boom!
+
+Two powers were being pushed to their max. They crossed a threshold, and Dream Beast was unable to hold back the force they were letting off. The power spilled out, and many of the students of Sky Palace felt as if their heads were going to explode.
+
+Lone Bamboo roared. He lifted Ghost Teeth Knife above his head with both hands. He summoned that scary power to strike Han Sen down.
+
+Yun Changkong and the other elders grimaced. They knew this next strike would commit a tragedy. There was no way back now.
+
+The leader of Sky Palace sighed. He stood up from his chair and readied himself to get involved.
+
+Han Sen pointed the jade sword at Lone Bamboo. He was like a mountain. He did not look scared, and neither did it look as if he wanted to take a single step back.
+
+Lone Bamboo looked frightening. His body and knife combined into one. His murderous fire erupted like that of a volcano, spewing into the sky.
+
+Just when everyone thought Lone Bamboo was going to slash, Ghost Teeth Knife remained in the air and unmoving. Lone Bamboo looked at Han Sen, or rather, the sword he wielded. When he did, a complex expression overtook his face.
+
+On a green grassy field, a little girl that was nine years old was holding a jade sword. She had ponytails. She was practicing swordskills, and she was obviously a beginner. She accidentally hit herself on the head and dropped onto the ground. She threw the sword away and wiped the tears from her eyes.
+
+“Wan’er, why are you crying?” a young man asked, smiling. He crouched down next to her and took her head in a gentle hand.
+
+“Big Brother, I am not practicing with a sword anymore. That stupid sword just bullied me!” Wan’er said, wiping her tears.
+
+“How could your sword bully you? He is your most loyal, little guy. If you treat him well, he will be nice to you in return,” the young man said, as he picked up the jade sword.
+
+Wan’er lifted her lips and said, “I am nice to it. I wipe it clean and even make it smell good, but even so, it just won’t listen to me. It’s annoying!”
+
+The young man laughed. He held the jade sword, and as he stood upon the grass, he began to swing it. That jade sword was light in his hand, as spry as a dragon in a dance.
+
+“Wan’er, to treat it nice is to understand it. Wiping it clean is not enough.” The young man stopped practicing, and he handed it back to the girl and rubbed her on the head.
+
+“I don’t care. I hate it. It won’t listen to me. It only listens to you.” Wan’er sounded mad, but even so, she looked happy.
+
+In a garden, a young man lay down beside a pond and repeatedly threw up. He was going to puke his guts out.
+
+“Brother, how can you drink like that?” A lady with a big ponytail walked out of the house. She ran up to the young man and tried to help him up.
+
+“Ignore me. It is fine,” the man mumbled.
+
+“Brother, to fail is nothing. I know you are the best, and I know you have what it takes to win. You have to stay strong,” the lady spoke with sincerity, as she lifted the young man upright.
+
+The young man fell back to the ground and passed out. He was too heavy to lift without any help.
+
+The lady tried to pull him up, but she was unable to. She ran to the house and collected a blanket. With it, she covered him. Then, she sat down near him and prayed to the stars. “If there is a God up there, I hope you can help my brother and show him the way. I will do anything for that.”
+
+Under the moon, the man lay on the ground with tears in his eyes.
+
+“Wan’er.” Lone Bamboo looked at the jade sword and moved his lips. He did not make a noise, but his eyes said he was thinking of many things.
+
+“I can’t fall… I can’t fall… If I am going to die… Even with just a dirty soul left… I have to keep going…” Lone Bamboo’s teeth shook, but his eyes looked adamant.
+
+The knife’s fire was like a demon in the sky. It was just fading, rather than being destroyed.
+
+“Lone Bamboo seems to have woken up a little.” The woman next to the Sky Palace leader sounded surprised.
+
+Yun Changkong and the elders looked happy, but it was only for a second.
+
+The demon’s roots were deep, and not even a King class could suppress it completely. It was remarkable that Lone Bamboo had managed to get his mind back in this condition, but there was no way he could suppress the desire of the demon.
+
+Han Sen watched Lone Bamboo, surprised. Lone Bamboo controlled the demon at the very last second. He did not give in to it.
+
+Lone Bamboo’s body quivered. He had experienced pain that could not be described. That scary depression and knifemind were fading inside him.
+
+Everyone looked so happy. Lone Bamboo pushed the demon back into his body. Now, he was scarier than a ghost. The Nobles were all delighted. They had no clue how he had done that.
+
+Han Sen put away his own powers. He lowered the jade sword and looked at Lone Bamboo. The power was no longer encompassing the arena.
+
+Lone Bamboo threw Ghost Teeth Knife over to Han Sen. He said simply, “I am a Marquise. I should not fight. You win this round.”
+
+Han Sen picked up Ghost Teeth Knife and handed over the jade sword.
+
+Lone Bamboo accepted the jade sword, wiped it clean, and resheathed it in his scabbard. That sword was his most precious possession.
+
+Seeing Lone Bamboo leave, Han Sen spoke to himself. “His body contains a demon, but his heart possesses an angel. Strange man.”
+
+No one expected the scary spectacle to end this way, but it didn’t affect the overall excitement.
+
+A long time after that fight came to an end, people continued to talk about it. Those who watched that fight didn’t forget the appearance of the fighters. They would never forget.

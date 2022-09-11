@@ -1,0 +1,88 @@
+Title:Hidden Blood 
+Chapter:1113 
+Section:3 
+Book:3 
+CSS:../Styles/style.css 
+viewport: width=device-width
+  
+## Hidden Blood
+### Chapter 1113 
+<figure>
+	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
+</figure>
+  
+
+  
+  Han Sen turned around to see a man approaching. It was his once-classmate Lu Meng, from the Blackhark Military Academy.
+
+“I am meeting with Professor Bai. Why are you here? I thought you became a Vice-Captain for Heavenly Machine.” Han Sen saw Lu Meng, dressed in a Saint Hall uniform.
+
+Their 304 living quarter roommates were still in contact with each other. They didn’t see each other much, but they knew what they were each up to. Han Sen, however, did not expect to see Lu Meng there in the Saint Hall.
+
+“Heavenly Machine was shot down by the shura. I was going to go serve on another ship, but my mother has forbidden me from doing so. Instead, I have decided to become a researcher at Saint Hall.” Lu Meng spoke with maturity, and an elegance that was not over-bearing. He was far from the kid Han Sen once knew.
+
+“Something that big occurred? Why didn’t you tell us?” Han Sen looked legitimately shocked.
+
+“Well, had I died, you’d have been informed. I walked away fine, so there was no point in worrying others. It’s a waste of time for those who worry and a waste of time for those who are worried over.” Lu Meng smiled softly for a moment, and then went on to say, “I heard you were injured, though. How are you, all things considered?”
+
+“Much better,” Han Sen said, enjoying the chat with Lu Meng.
+
+The two proceeded to speak about recent events, and gossip as they had not done for the longest time. They discussed older topics too, in blissful nostalgia. They spoke of their school lives, and what was going on with Zhang Yang, Shi Zhikang, Wang Mengmeng, Fat Leader, and Thin Man, even.
+
+Bai Yishan reached the lobby, at which point the closure of their dialogue was abruptly delivered.
+
+“Han Sen, come to my office,” Bai Yishan swiftly commanded. When he recognized who Han Sen was talking with, though, he had to ask, “Do you two know each other?”
+
+“Lu Meng was my roommate once upon a time, and he is a good friend. He was a bit of a bully during my study years, though. You better put a tight leash on this fellow, if you’re teaching him,” Han Sen jested.
+
+Bai Yishan looked at Lu Meng’s card and said, “You are an intern. Hm, come to my lab tomorrow. Find Mister Li and he’ll put you to work.”
+
+Bai Yishan seemed to be in a rush, though, and so he said, “Now come, quickly. There is a problem.”
+
+“We’ll talk later, buddy.” Han Sen followed after Bai Yishan, concerned what matter could be so pressing.
+
+Lu Meng winked at Han Sen and then watched him go. It was rare for someone to work alongside Bai Yishan in his lab. Even the most experienced researchers could be forbidden from entering there, if Bai Yishan had no desire for them to have access.
+
+It was an extremely fortuitous opportunity, being invited to enter the lab. But he knew that if he was to act on the invitation, he’d have to be at his best performance. If he didn’t have what it took, he could be removed from the lab with a snap of the fingers.
+
+The invitation meant one thing above all else, though. And that was Bai Yishan’s favor and respect for Han Sen. Usually, a rigorous testing process was required before someone could enter such a prestigious lab. His association with Han Sen seemed to suggest Lu Meng could forego that.
+
+Bai Yishan brought Han Sen into his office and presented him with a set of documents.
+
+“Saint Hall has a rule. There is a program here, one we must all follow. Sign this document, and you can be made councilor of this project. You know this is classified, yes?” Bai Yishan said.
+
+Han Sen read the document in front of him, and then signed atop the dotted line.
+
+“So, what is this project? Why is there so much mystery?” Han Sen asked, as he signed his name.
+
+Bai Yishan sent the document before responding. He contacted someone to confirm Han Sen’s identity and said, “Come to my lab; we’ll talk.”
+
+Bai Yishan printed off Han Sen’s worker card and pinned it to his chest.
+
+Bai Yishan seemed to be in a hurry, and he was scurrying about with haste. Even his speech was quicker than usual. He said, “You asked me if there is a hyper geno art that can make a stomach stronger?”
+
+“You created one for me?” Han Sen was surprised, and performed an emotional gesture with both hands clasped.
+
+Bai Yishan rolled his eyes and said, “It’s not like you’re my son, boy. I’m not going to treat you that well.”
+
+Han Sen immediately looked disappointed, and instead asked for clarification. “So, what’s the big deal about my asking?”
+
+“I am researching a hyper geno art called Hidden Blood. It might be something you’d have an interest in,” Bai Yishan explained.
+
+“Hidden Blood? To make your heart stronger?” Han Sen was disappointed. He already had Heresy Mantra for his heart, so there was no need for any other such skills or techniques.
+
+But Bai Yishan shook his head and said, “It’s not for your heart. It’s for your spleen.”
+
+“Spleen?” Han Sen knew the word but did not know much about it. The best he could recall was that it was an organ associated with the filtering of blood or something.
+
+Bai Yishan elucidated it for him, saying, “The spleen can filter blood and create blood.”
+
+Han Sen listened to what Bai Yishan told him with interest as he walked alongside the man. He could understand a few words, here and there. Han Sen was more interested in Saving Money, though. He didn’t concern himself too much with hyper geno arts that dealt with organs of the body.
+
+That being said, Han Sen was surprised to find himself interested in Hidden Blood, after hearing what Bai Yishan was telling him about it. If what he was saying was true, it had to be a powerful hyper geno art. It had to be one that would be quite beneficial for Han Sen.
+
+When they finally reached the lab, Han Sen was taken aback. It had to be bigger than the size of a football stadium. Aside from a few enclosed areas, the entire lab was partitioned by glass windows, where you could observe the researchers going about their various tasks.
+
+“There is a problem with it, though. I was hoping you might be able to help us with it,” Bai Yishan said as they entered a private room.
+
+“What would this help entail?” Han Sen asked dubiously, as he looked at Bai Yishan. The man’s crooked smile was like that of an old, wicked fox.

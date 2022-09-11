@@ -1,0 +1,94 @@
+Title:Giving Out First 
+Chapter:1416 
+Section:4 
+Book:4 
+CSS:../Styles/style.css 
+viewport: width=device-width
+  
+## Giving Out First
+### Chapter 1416 
+<figure>
+	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
+</figure>
+  
+
+  
+  When Han Sen learned Ghost Eye was not from Outer Sky Shelter or Sacred Shelter, he was quite disappointed.
+
+Regardless, he had to accept the fight to meet his quota. After accepting, he went forward to meet his opponent-to-be on the designated battleground. There, Han Sen saw a panther with three eyes. Its coat of fur was dark and menacing, like the blackest coal.
+
+The panther didn’t wait around long, and it ran forward. But it wasn’t doing so in hostility. As it ran, it immediately began to plead, “I’m not here to fight! Wait, hold up! I’m here to discuss an arrangement we might make. I’m not here to fight!”
+
+Han Sen thought he’d been given the opportunity to slay another super creature baby, but hearing this, he was a little taken aback. This was not what he had expected.
+
+“An arrangement? What arrangement?” Han Sen asked, checking the black panther out.
+
+“You are already in first place, and with your geno core having been reinforced nine times already, remaining in that lofty position is pointless. If you throw the match and put me in first place… I’ll be indebted and give you whatever you desire.” The panther spoke everything he could as swiftly as he was able to, in fear of being immediately killed.
+
+The panther knew he wouldn’t have been able to take down Han Sen, so he was cleverly hoping to buy the first place off him.
+
+“Define indebted. What are you willing to offer exactly?” Han Sen was willing to consider such a bargain, but only if the price was right. If the offer was worthless he’d simply kill the panther.
+
+Although no deal had been struck, the panther was exuberantly happy just hearing he was willing to consider a deal. He feared he might have been killed without even being heard out.
+
+“Cost is of no concern, and we can pay you whatever sum you are willing to accept. Purgatory Shelter is a rather fancy place, I’ll have you know. Name your price and we won’t disappoint,” the panther said.
+
+“What does Purgatory Shelter have to offer?” Han Sen was still willing to hear him out, but he pictured the panther as some rich tycoon’s kid who could buy his way up the ladder with daddy’s credit card.
+
+“All sorts! You can get a kilo of Ghost Eye Grass, Hellfire… You know, good stuff!” The panther proceeded to list a number of items, all with peculiar-sounding names Han Sen had never heard of before.
+
+“What about fruit that can provide super geno points?” Han Sen asked.
+
+“No, but we do have a Super Ghost Tree. Its fruit might bear super creature babies. Eating those are better than eating fruits,” the panther said.
+
+“A fancy shelter doesn’t have any fruit? Is that what you’re telling me?” Han Sen didn’t believe him.
+
+The panther squirmed a little and said, “We did have fruit trees, but they were recently harvested and eaten.”
+
+“Then what about super geno cores?” Han Sen asked.
+
+The panther receded into worried thought for a moment. “Don’t you need to kill an emperor or super creature for something like that? I have much respect for you, sir, but even if Purgatory Shelter had one, it would not be offered up in a trade such as this.”
+
+The panther smiled queerly and uncomfortably. He knew he had to keep the offers coming, so he said, “But we do have gemstone geno cores available for trade.”
+
+Han Sen knew he wouldn’t be given a super geno core, but on the slim chance he might get one, he thought it was worth asking.
+
+“Gemstone geno core? Let’s see… let’s see… useless.” Han Sen exaggerated his disappointment in the offer, and then went on to ask, “But for the simple sake of asking, what do they do? Do these gemstone geno cores have extra special properties or powers?”
+
+Han Sen, truthfully, wouldn’t mind a gemstone geno core. Remaining in first place wasn’t much of a concern for him, and swapping it out for a few goodies was a worthwhile thing to do.
+
+The panther responded to his query and answered, “Oh, the powers of these gemstone geno cores are unbelievably good! You’ll be hard-pressed to find better elsewhere. I promise you, if you accept one of these, you won’t be disappointed!”
+
+The panther summoned a geno core for Han Sen to see. He couldn’t display the powers it possessed due to the rules of the realm. But even though its powers had been silenced, Han Sen could get a good look at it.
+
+But it didn’t tell him much. All in all, it looked rather unspectacular. Han Sen could see it was a blue jewel of sorts, and had no clue what it did.
+
+The panther was ready to explain what it was, however. “It is a dark-element geno core called Ghost Armor. It has a very high defense stat against elemental damage. You’d have to use it to see what the armor actually looks like.”
+
+Han Sen could imagine the usefulness such armor might provide. It was a situational armor, for sure, though. Armor that was particularly effective against elemental damage had almost zero properties for defending against raw physical damage.
+
+Style was another concern for Han Sen, so it was unfortunate he was not able to see what it might look like on him while he was in the Geno Core Storage.
+
+“What was that tree you mentioned earlier?” Han Sen went on to ask.
+
+The panther summoned the seed of such a tree and said, “I can’t move the tree, but I can give you the seed of one. You should take it.”
+
+“Very nice. Pantherboy, I think you are a good man.” Han Sen accepted the seed and was immediately able to sense the lifeforce within it.
+
+“Thank you. And what’s more, you should get a feel for this.” The panther then proceeded to hand over the Ghost Armor geno core. Han Sen accepted it, and it was as described. It was a gemstone dark geno core.
+
+“I can give you first place for now. But once you’ve reinforced, you’re going to have to challenge me and hand it back over,” Han Sen stated.
+
+“That is no problem,” the panther agreed.
+
+“Congratulations; you have obtained the first rank in the bronze geno core Geno Core Storage,” Han Sen squinted.
+
+“You have my thanks, good sir!” The panther was clearly struggling to contain his excitement and joy.
+
+“If you ever have the hankering to strike more business deals, look me up.” Han Sen waved and immediately left the Geno Core Storage.
+
+Han Sen’s rank then dropped down to second. In first place was Ghost Eye. Han Sen looked at his crystal egg, just to double check, and he noticed how he still had the nine reinforcements. Nothing had been lost.
+
+Back in the shelter, Han Sen donned his new armor and started casting dark-element abilities. A blue shroud enveloped Han Sen’s skin, which then projected outwards like a holographic armor set around him.
+
+The armor was true to its name. It was not a solid-looking armor set, and Han Sen looked more like a transparent phantom.

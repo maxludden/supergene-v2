@@ -1,0 +1,84 @@
+Title:Symbol 
+Chapter:3313 
+Section:17 
+Book:10 
+CSS:../Styles/style.css 
+viewport: width=device-width
+  
+## Symbol
+### Chapter 3313 
+<figure>
+	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
+</figure>
+  
+
+  
+  “I want to activate the geno tablet, but you and I do not have that power.” Ancient Devil looked around and asked, “Did I not tell you the 33 skies are a new god world from the old leader, and it was broken during the chaos that transpired during the reboot? It became a layer of 33 different skies. The 33 skies were supposed to be whole.”
+
+“How is that related to the sealing of the space tunnels?” Han Sen asked.
+
+“Sky King is affecting the whole 33 skies, but the 33 skies have been broken open. His effectiveness will be weaker because of the broken layers of space. If he is totally awoken and comes over here himself, he will still be unable to pierce through the thirty-three skies. The black hole-like space tunnels are just some unstable gaps around the 33 skies. It is very dangerous inside. Only spirit bodies like life souls can get through them safely. If a creature with a body enters there, there is a high chance they will end up dead. Even Break World elites might not be able to enter such a tunnel, reach the other universe, and emerge alive.”
+
+Han Sen believed that. Up until now, aside from the life souls, Han Sen did not see any universe of kingdom creatures enter the geno universe.
+
+If they were able to go through safely, the God Chaos Party would have done something by now.
+
+Ancient Devil went on to say, “The space tunnels are just some unstable gaps. Just seal up the gaps.”
+
+“How do I seal them?” Han Sen asked with a frown.
+
+Even with God Spirits, which were good with space powers, it was still hard to block the space tunnel.
+
+“We need to use this geno tablet.” Ancient Devil pointed at the geno tablet and said, “This tablet is the center of the 33 skies. When the universe rebooted, the 33 skies were broken. The tablet ended up above the 33 skies.
+
+After saying that, Ancient Devil hesitated. He then said, “The history of the geno tablet is something I am not fully clear about. But hearing it from the old leader, this tablet is the foundation of the universe. If you can control the tablet, you can control the main and the reverse universes. Right now, we do not have the power to assert control of the tablet. With your power, maybe we can make the geno tablet have some use. Although it is only a little, it might be enough to fill up the gaps in space.”
+
+“If that is what you want me to do, then you will be disappointed,” Han Sen said. “I do not have the power needed to activate the geno tablet.”
+
+“Of course, you do not,” Ancient Devil said. “Even back in the day, the old leader could only use a different trick to control the geno tablet. I know the method the old leader used to assert control over the geno tablet. It cannot accomplish something great, but it should be enough to close the gaps in space. When you activate the geno tablet, some geno tablet power will affect it. Even Sky King will not be able to break the 33 skies easily. You can buy yourself some time.” Ancient Devil cast out a spirit light. The spirit light became an image that spoke in front of Han Sen.
+
+“I recorded the method to activate a geno tablet,” Ancient Devil slowly said. “You can have a look at it first. You can do it if you think it will work.” Ancient Devil did not rush Han Sen.
+
+Han Sen did not believe Ancient Devil, so he examined it with great care.
+
+It was not very complicated. He only needed to use his power to leave a special symbol atop the geno tablet. By doing that, it would affect the geno tablet.
+
+He could not completely control the geno tablet, but he could use it. The key was that he needed enough power to leave a mark on the geno tablet.
+
+Ancient Devil gave him 17 special symbols. Each special symbol did different things. One of the symbols was able to fix the 33 skies’ spaces. That included the cracks in space.
+
+Han Sen was a bit suspicious. How could Ancient Devil be so nice and elucidate so many secrets to him? He had written down 17, which was a high number.
+
+Ancient Devil could have just told Han Sen the one symbol that was needed. He was being generous, but that made Han Sen wary of the man.
+
+Ancient Devil seemed to understand what Han Sen was thinking. He coldly said, “If you do not believe me, you can just pick a symbol and try its effect. See if I am lying to you.”
+
+Han Sen lifted his lips. “So, what? With the other 16 symbols even work?”
+
+Ancient Devil smiled. “You are a very suspicious individual. Even after all these years, your personality hasn’t changed a bit.”
+
+“I am who I am,” Han Sen said. “I live a happy life being like this. I do not need to change.”
+
+“You are right.” Ancient Devil nodded. “If you do not believe me, and I do not have enough power to write the symbol down on the geno tablet, it seems like we wasted a trip.”
+
+Han Sen was silent. Ancient Devil was trying to provoke him, but Han Sen had no other choice. Aside from this, there was no other way he could save the geno universe.
+
+This was a difficult decision. This could save the universe or have Han Sen stumble into a trap concocted by Ancient Devil.
+
+Ancient Devil did not seem to worry. He smiled at Han Sen.
+
+Han Sen looked at Ancient Devil and asked, “Are you not afraid I will kill your spirit and draw the symbol down?”
+
+“That is not who you are,” Ancient Devil coldly said. “If you wanted to kill me, you would not have kept me trapped inside Destiny’s Tower.”
+
+Han Sen nodded. “If you knew that, you should have been prepared. Why don’t you tell me?”
+
+“With your power, you can trap my soul. You can trap my soul first. When the geno tablet works and proves my earnestness, you can let me go.” Ancient Devil wanted to be jailed.
+
+“Good. In that case, stay in my Sea of Soul and take a rest.” Han Sen opened his Sea of Soul. He did not force Ancient Devil to go inside. He quietly looked at him.
+
+Ancient Devil smiled. He walked into Han Sen’s Sea of Soul and sat in space.
+
+Han Sen saw Ancient Devil enter his Sea of Soul. He decided to stop hesitating. His Super God Spirit body power exploded. He lifted his finger and drew on the geno tablet.
+
+Life souls kept going to the geno universe through the black holes. The more he delayed, the more life souls were able to enter. Han Sen could not wait any longer.

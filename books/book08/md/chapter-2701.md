@@ -1,0 +1,94 @@
+Title:Giant Prisoners 
+Chapter:2701 
+Section:13 
+Book:8 
+CSS:../Styles/style.css 
+viewport: width=device-width
+  
+## Giant Prisoners
+### Chapter 2701 
+<figure>
+	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
+</figure>
+  
+
+  
+  “Five times… six times…” Han Sen was silently counting each chime. He counted all the way to 12, then the bells fell quiet.
+
+The moment the bells stopped, the doors of every palace opened wide. Some of the buildings looked like modern metal structures, while others were crafted like vintage castles. Regardless of their appearances, all of the palaces opened their doors at the same time, as if they had been rigged to do so automatically.
+
+When the palace doors opened up, a sense of life came to the previously dead and barren ocean. Han Sen could even hear footsteps echoing from the nearest palace.
+
+Even a person who was almost deaf could have heard those booming footsteps. Each one was like a small earthquake, and the sounds pressed against Han Sen’s eardrums like a physical weight.
+
+Those earthquake-like footsteps drew Han Sen’s gaze toward the palace’s door, and he soon saw something massive emerging through the open door frame.
+
+It was a giant that was 100 meters tall. Although it was big, it didn’t seem clumsy or awkward. Instead, it moved its massive body with grace, exuding a sense of explosive power with every motion. If the being wished to, Han Sen figured it could cast power with enough strength and speed to destroy an entire planet with ease.
+
+Han Sen’s brows furrowed as he noticed the manacles attached to the giant’s hands and legs. It gave him the sense that this was a prisoner of some notoriety. The giant’s eyes looked very dull, and it just stared forward into space.
+
+Han Sen quickly realized that the giant he was watching wasn’t the only one that had emerged. A giant now stood in front of every palace across that entire ocean.
+
+All the other giants were bound hand and foot as well, and their eyes were lifeless. They stood quietly in front of their respective buildings.
+
+“They have such large bodies. They aren’t sinking, despite the fact that they’re standing on the surface of the sea. The current seems to be moving them, though. They’re all being pulled in the same direction.” Han Sen hesitated. He wasn’t sure if he should follow and see what was up, as all of this seemed like weird nonsense.
+
+Outer Sky shouldn’t have allowed a foreign object to conduct space teleportation, but the Four Sheep Cube had brought them effortlessly to this strange sea.
+
+Han Sen had visited too many weird places in his time. So, even though this place was very strange, Han Sen wasn’t too shaken. What caught him off guard, however, was the presence of those giants.
+
+There was an incredible gravitas to the presence of the giants, and it made Han Sen wonder if they were deified elites.
+
+But as Han Sen thought about it, he realized that he could see 200 or 300 of the giants. If they were all deified elites, he couldn’t imagine what race they must have represented to have so many deified elites in their ranks.
+
+Even more frightening, these power giants were being treated like prisoners. Their limbs were chained, and something was wrong with their eyes. Who could have imprisoned giants like these?
+
+Han Sen wanted to go and find out, but he concluded that it would be too dangerous. If something had been able to trap those giants, it could likely detect Han Sen’s presence, especially if he went looking for it.
+
+“Never mind. Let’s just find a way to leave this creepy place.” Han Sen picked up Bao’er and returned to the Four Sheep Cube.
+
+“You aren’t going to go see?” Bao’er asked, looking at the giants that were drifting away on the currents.
+
+“It’s too dangerous. For now, let’s just figure out a way to get out of here,” Han Sen answered with a shake of his head. He walked over to the Four Sheep Cube. He remembered Bao’er stepping on one of the sheep heads, which triggered the whirlpool that had brought them to this place.
+
+“Now, we have to take a risk.” Han Sen directed the small pigs to go back into the pool of water in the Four Sheep Cube. He picked up Bao’er and jumped in after them, but not before stepping on one of the bronze sheep heads.
+
+Katcha-cha!
+
+When Han Sen’s foot came down on the bronze sheep head, the two goldfish started to swim around like mad again. The water in the cube became a whirlpool once more.
+
+“We must go back.” Han Sen once more felt a magnetic force emanating from the cube. He and Bao’er were sucked into the cube and its whirlpool. The 16 little piggies were spinning around inside like mad, too.
+
+When the water flow stopped, and Han Sen emerged from the cube, he realized with pleasant surprise that they were back on the shores of Underworld Lake.
+
+“Is the Four Sheep Cube a teleporter? If that is the case, I wonder where it sent us. And what were those giants?” Han Sen looked at the Four Sheep Cube as he mulled these questions over. He continued to think to himself, saying, “This bronze sheep head gives me the ability to teleport. I wonder what the other three sheep heads do. Does each one provide a different function? Or will the others send me to different places?”
+
+Han Sen gave the matter some thought. His curiosity regarding the object had increased immensely, but he didn’t want to take too many risks. If his instincts were correct, those giants were deifieds. And if that was true, wherever they were going had to be very dangerous.
+
+Based on that assumption, Han Sen imagined that the other three bronze sheep heads would lead him to someplace else that was dangerous, too.
+
+Despite all his strengths and talents, Han Sen had a flaw. He could be too curious. He knew how dangerous that sea filled with giants could be, but now that he had discovered such a weird and mysterious place, it would drive him insane if he didn’t go and find out its secrets.
+
+“Bao’er, you stay here.” Han Sen set Bao’er down, planning to visit the giant world alone.
+
+“Dad, I’ll go with you.” Bao’er clutched Han Sen’s leg, not wanting to let go.
+
+“That place is too dangerous. I will go and scout ahead. If it looks fun, I will take you there.” Han Sen had to comfort Bao’er for a while before she agreed to stay behind.
+
+Han Sen took Bao’er someplace far away before returning to the Four Sheep Cube. He used his hand to press down on the sheep head.
+
+Just like before, the two goldfish in the water started to swim in a swift circle. They created a whirlpool in the water that sucked Han Sen inside.
+
+When Han Sen emerged from the Four Sheep Cube, he found himself standing atop that big sea again. The giants had all disappeared. He looked at the sun, and the clock was showing that only a dozen minutes had passed.
+
+Boom!
+
+Han Sen suddenly heard a massive explosion come from where the giants had gone. He could feel the spike of power coming from that direction.
+
+As the power shook the air around him, Han Sen’s face changed. He whispered to himself in a hoarse voice, “That shockwave… It feels like Break Six Skies. Are these giants the legendary Breakskies?”
+
+Break Six Skies was the secret geno art of the Breakskies. The Destroyed were one of the few races with the blood of the Breakskies in them, but they were never as good as the Breakskies themselves.
+
+The legends of the universe claimed that the Breakskies were unable to breed. So, the universe gradually forgot them. If they wanted to extend their bloodline, they had to interbreed with other races to create hybrid Breakskies, like the Destroyed.
+
+If these giants really were Breakskies, then the story of the Breakskies’ fall wasn’t as simple as it initially seemed.

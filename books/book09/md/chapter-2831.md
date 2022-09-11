@@ -1,0 +1,100 @@
+Title:Fell Into the Trap 
+Chapter:2831 
+Section:14 
+Book:9 
+CSS:../Styles/style.css 
+viewport: width=device-width
+  
+## Fell Into the Trap
+### Chapter 2831 
+<figure>
+	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
+</figure>
+  
+
+  
+  God looked at Han Sen, laughed, and said, "If you want to learn, I can teach you, as well."
+
+"It depends on how extreme this extreme level is," Han Sen calmly said. "I need to know if it is worth learning."
+
+"You will have to listen up and not miss out on anything," God said. "Do not take it out on me if you are unable to learn anything." God then started to talk about Sky and Men Combined Together at an extreme level.
+
+This was different from earlier. This time, God explained it all in a very detailed manner. It analyzed every word in every sentence for Han Sen's ears. As God explained, it did not avoid the presence of the Very High Leader. He and the butterfly lady were able to hear it all as well.
+
+What is God planning to accomplish? Now, he is talking about the extreme levels. Why would Very High Leader still want to kill the butterfly lady after hearing it all? Han Sen was confused. He was soon put into shock. Oh, no! Does this mean he is lying to the Very High Leader? Is the actual thing that can be a killer be the extreme levels itself? Perhaps this has nothing to do with the Sky and Men Combined Together skill, and it is just a geno art that has the power of temptation and control Very High Leader and gets him to kill the butterfly lady?
+
+Han Sen quickly tried listening to God's explanation. After listening for a while, he noticed that it really was a tricky geno art. It had the same effect as the Very High Sense. There was a connection with the Dongxuan Sutra and Under the Sky Knife, both of which Han Sen had practiced.
+
+Hearing God's explanation was a benefit for Han Sen too. He used to have some elements he did not understand, but now he understood it all.
+
+Is what God is talking about true? Han Sen really did not understand. God had already told him and Very High Leader what they wanted to hear. What other trump cards could God have?
+
+God got up from the floor and made a very deep geno art as simple as could be. It made it so anyone could understand. God did not hold back anything. It explained Sky and Men Combined Together's Extreme Level Path as crystal clear as one could. The analysis was so clear that even Han Sen, who had never practiced Very High Sense before, already knew what to do with it.
+
+After hearing it all, Very High Leader looked as if he understood a lot. He looked very happy. Clearly, he had learned a lot due to God's explanation. It was like he had sorted out many of the issues he used to have.
+
+"This skill just sounds ordinary and not special," Han Sen said. "I have just casually listened to it and have already learned it."
+
+"Oh, then you should perform it once and see if you have learned it," God coldly said.
+
+This skill is not hard for me. Performing it once can prove this geno art is not worth the Very High Leader killing the butterfly lady. Wait... Han Sen's face changed. He did not perform it how God said. He looked at Very High Leader and finally understood what God meant.
+
+Damn it! Was I a part of his entire scheme? If I learned extreme level skill and Very High Leader did not, that would mean he believes what God said before. If he really thought it was the butterfly lady that stopped him from learning the extreme level skill, that means... Han Sen's brain was spinning. He was thinking about how best he could resolve this situation.
+
+God seemed to know what Han Sen was thinking and said, "Your heart has big love. Practicing Sky and Men Combined Together at an extreme level is not hard. Other people can never learn it like you."
+
+After hearing God say that, Han Sen knew things weren't going according to plan.
+
+"I do not think so." Very High Leader stepped forward and coldly said, "I understand your Sky and Men Combined Together at an extreme level. It is not that hard."
+
+"Did you really learn it?" It looked like God was smiling while speaking, but God was not smiling.
+
+Very High Leader's lips lifted. His body had some weird swirl. It was like his entire body had combined with space and was part of the universe.
+
+Han Sen had never seen someone who could combine with it so perfectly. Between grass, wood, a mountain, and stone, it was like he was a part of them from the beginning.
+
+Blergh!
+
+Suddenly, Very High Leader coughed up some blood. He fell out of Sky and Men Combined Together at an extreme level.
+
+Very High Leader sounded like he could not accept this result. He stared at God and shouted as he asked. "Why? I already understand the extreme levels you taught me. Why am I still being removed from the extreme level of practice?"
+
+"I told you that right now, you are not suitable for this road," God coldly said.
+
+"I do not believe this," Very High Leader said as he wiped the blood from his mouth. "The extreme level skills you have spoken about must be wrong."
+
+God looked at Han Sen and suggested, "To see if it is wrong, why do you not just go and ask him?"
+
+Very High Leader stared at Han Sen as he said, "Show me the extreme level skills you have just learned."
+
+Han Sen frowned. He knew he had fallen into God's trap and was now a chess piece in his game.
+
+If Han Sen did not perform it or said he had not learned it, Very High Leader might not believe him. It would be suspicious. If he performed it and it worked, that meant he would do what God wanted.
+
+Very powerful guy. God put out everything so clearly but still made everyone fall into ulterior schemes. Han Sen already knew he had failed halfway. No matter how he performed or not, the Very High Leader's heart was already ensnared and fixated with all of this.
+
+God looked at Han Sen with interest. It seemed to have enjoyed the fact Han Sen was all tangled up inside. Its eyes flickered with a weird light. It was like God was saying, "How would you choose?"
+
+"OK, I will show you once," Han Sen said with a nod.
+
+After that, Sen some weird waves appeared on Han Sen's body. It looked like Very High Leader in the past. His whole body had combined with the entire area around him. It was like he had become the sky and the ground, and he could not be apart from it.
+
+That was just Sky and Men Combined Together skills. The real extreme level was where Very High Leader failed.
+
+Han Sen did not move. He felt as if his body suddenly changed. All the substances around him, the wood, grass, mountains, and stones, seemed to have heard Han Sen's summoning. They all roared.
+
+The entire goliath star tree began to shiver and shake. The tree full of star fruit was leaning toward Han Sen. It was like it was going to leave the soil and go to Han Sen.
+
+Even the big mountains around were making some groans that echoed. It was like they were answering Han Sen's summons.
+
+"Did it work?" Very High Leader's face looked shocked. He had stared at Han Sen since the beginning. He had done exactly the same thing as Han Sen, but Han Sen had succeeded where he had failed.
+
+"How did he do that?" Very High Leader's face did not look good.
+
+God's face looked surprised too. He knew Han Sen had already seen through his plan. He thought Han Sen would say he had not learned it and perhaps perform a trick while casting it to deliberately fail.
+
+But Han Sen did not do that. He had performed it successfully and worked hard. It worked better than God expected it to.
+
+God squinted his eyes and looked at Han Sen. Did he already give up? It does not seem like it. He does not seem like a guy who would give up easily. Clearly, God wanted to find out what Han Sen was going to do next.
+
+Han Sen's eyes looked a bit cold as he thought, I have already fallen into God's trap. It is impossible to get out now, and the knotted heart Very High Leader is still in turmoil. No matter what I do, it will not go away. In that case... I must make his heart knot bigger...

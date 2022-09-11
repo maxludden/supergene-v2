@@ -1,0 +1,80 @@
+Title:The Scariest Hit 
+Chapter:2876 
+Section:14 
+Book:9 
+CSS:../Styles/style.css 
+viewport: width=device-width
+  
+## The Scariest Hit
+### Chapter 2876 
+<figure>
+	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
+</figure>
+  
+
+  
+  Han Sen was also a little shocked. “Does Little Gold Gold recognize me?”
+
+“How much hatred is in there? Now, he has selected to challenge Dollar at this time.”
+
+“What is the grudge that must exist between Golden Growler and Dollar? Golden Growlers has first place, yet he still wants to challenge Dollar.”
+
+“If Dollar concedes in the match, he can achieve first place, right?”.
+
+“Wouldn’t an elite have the dignity not to do that? Dollar won’t just give up before at least trying to fight.”
+
+“That is hard to tell. Didn’t Demon Alpha concede directly to become third place?”
+
+People were so excited. They were talking ravenously amongst each other. They were shocked that Golden Growler was doing this challenge.
+
+Golden Growler appeared on the space battleground. He stood atop a planet. It looked like he was quietly waiting for the fight to begin.
+
+People tried to guess and see if Dollar was willing to accept and join the fight or just concede and reach first place. Suddenly, a shadow entered the space battleground. It was Dollar.
+
+“He has accepted the fight. He really accepted the fight. The challenge time is over. This will be the final fight.”
+
+“Although Dollar is strong and has that god personality armament, I think Golden Growler is stronger.” “I think so too. After all, Dollar is just butterfly class.”
+
+“Golden Growler easily managed to scare off Very High Leader. Even Very High Leader said no creature in the universe can defeat Golden Growler, and I think he is right.”
+
+The Thousand Treasury was streaming this. They were saying similar things.
+
+Although what happened inside the geno god list could not be streamed or recorded, ordinary creatures did not understand high-level deifieds. Sometimes they did not understand the fights between deified elites. This, the Thousand Treasury used words to describe things. There were two Thousand Treasury deifieds explaining the fights and history of deified elite battlers.
+
+Of course, the Thousand Treasury capitalized on it all by establishing a gambling station. The two speakers would talk about who would win and who would lose.
+
+“Golden Growler used his first rank identity to challenge Dollar,” a deified explained. “That is surprising. Judging from what we have seen, Dollar might stand a lower chance against him. If Golden Growler wins this fight, he will lose his first place. It is hard to predict what the result might look like.” Another deified explained things too. He said, “Dollar accepted the fight. No matter who wins or who loses, this will be the most exciting match out of all the geno god list fights.”
+
+“Yes. Let’s not talk about their grudges. It is very hard to predict who will end up in first place. If you are interested, you can come put a bet down with the Thousand Treasury’s gambling station. The window for putting down your bets will be closing any second now. So, do not miss this final call, people.”
+
+“With that being said, it all comes down to power. Golden Growler should be able to beat Dollar.”
+
+With many races of the universe watching, Han Sen landed on Golden Growler’s planet. A man and a beast looked at each other on a grass field full of yellow sand.
+
+“Very exciting,” the commentator excitedly said. “Two scary deifieds are staring at each other. They are going to launch the scariest attacks ever. Golden Growler is strong, but Dollar is not weak. He is mysterious. His amazing geno arts and the geno god armaments he wields are quite shocking. It will be hard to tell which one of them wins. The fight is going to begin.” After the commentator’s speech, Golden Growler and Han Sen became two invincible elites. They were fighting each other with power. Whenever they moved their hands, it was time to determine the winner.
+
+Another commentator tried his hardest to explain the situation. “People, please do not think they are only staring at each other. In fact, a silent will-fight has begun. If one of their fates has a flaw, they will receive a deadly attack.”
+
+The two commentators were deified, but they were only primitive. Their talents had been decided only through geno fluids. Their power was fairly regular. Their main job was to earn money for the Thousand Treasury. Of course, even now, that was their ultimate goal.
+
+“Golden Growler moved. He is running at Dollar. He is not going quickly, but every step of his had the power to step on stars. They are like the footsteps that not even the sky nor gods can stop. God, it looks like the whole of space is moving with him. How scary is this attack?” The commentator was trying to hype it up.
+
+With all the creatures hearing the commentator, they could see Golden Growler running at Dollar. They grew nervous. They were not sure what sort of attack Golden Growler was going to unleash. It could be one hit that killed Dollar.
+
+“Very fast… Even faster… Even faster again… It feels like I can see ripples in space. It is no wonder Golden Growler is an invincible elite that Very High Leader could not even go against. He gathers up power to the highest level that won’t leak. He seems very light. When he strikes, the sky will break, and the ground will crack. Everyone, please be prepared. Do not get shocked by Golden Growler’s power later and have it affect your will.”
+
+“Ah! Golden Growler jumped. It seems normal, but the trail of his body is so good that you cannot imagine it. It has blocked every way Dollar can go. Dollar cannot fall back. Of course… Dollar is standing there not moving. With Golden Growler’s perfect attack, he cannot retreat. Maybe the space around Dollar is sealed up. He cannot move. Will he be eaten by Golden Growler? We forgot a question. If Dollar is eaten by Golden Growler and will no longer exist, who will obtain first place? Would it still be Golden Growler?” The commentator stood up with excitement.
+
+The other commentator started screaming, “He moved! Dollar finally moved. He has put out his hands. They are so straight yet so crooked. One is up and one is down. It has the most mysterious knowledge of the universe that cannot be imagined. It has reached a level of Return to Origin. We underestimated Dollar. He is the top class in the universe. This attack is going to be the first…” Everyone in the universe felt their eyes open wide. They were seeing the scariest xenogeneic and the most mysterious xenogeneic in the geno god list get together. They were nervous.
+
+Every creature was guessing who would win when they met up. “So close… So close… The strongest hit… The scariest hit… They finally…” The commentator was excitedly shouted. His entire body was in an orgasmic mode.
+
+Every creature in the universe was excited by his speech. Suddenly, the very excited commentator stopped talking.
+
+The two commentators were petrified. It was like they were no longer able to speak.
+
+It was not just them. Every being in the universe watching this fight suddenly froze. They saw what happened on the space battleground, and it had made their mouths turn into an 0-shape.
+
+They saw Golden Growler touch Han Sen’s body. His claws went on Dollar’s shoulders, but he did not open his mouth to eat Dollar. He used his head to rub Dollar’s cheek like a house cat.
+
+Dollar was holding Golden Growler. He stroked his head. He looked like he was playing with his own pet.

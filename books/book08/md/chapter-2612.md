@@ -1,0 +1,88 @@
+Title:Han Yan Walking Sky Path 
+Chapter:2612 
+Section:12 
+Book:8 
+CSS:../Styles/style.css 
+viewport: width=device-width
+  
+## Han Yan Walking Sky Path
+### Chapter 2612 
+<figure>
+	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
+</figure>
+  
+
+  
+  “Bao’er, why don’t you go with Little Auntie?” Han Sen asked Bao’er as they stood before the Sky Door.
+
+“Sure.” Bao’er nodded and flew over to Han Yan. She took Han Yan’s hand and smiled. “Hey, Auntie. Bao’er is going to walk with you.”
+
+But before they went onto Sky Door Island, one of the Sky guardsmen stopped their approach. He looked at Han Sen and said, “Brother Han, the leader issued a command that only Sister Han may traverse the Sky Path. Bao’er cannot cross it again.”
+
+Han Sen was frustrated by that, but he couldn’t actively go against a decree issued by Sky Palace Leader himself. So, Bao’er returned to his side.
+
+Sky Palace Leader was drinking tea at the time, and he murmured to himself. “If the gourds rumble again, it will reduce the amount of holy air in the vine. If this happens again, the holy vine will be killed.” Sky Palace Leader had good reason to be protective of the vine. That plant was the root of Sky Palace, and it was used to vet and grow the students that the Sky wished to train. If Bao’er was allowed to cross Sky Path every time Han Sen brought someone to Sky Palace, the holy gourd vine’s power would fall precipitously. If that happened repeatedly, the holy gourd vine would end up destroyed.
+
+Last time Bao’er traversed Sky Path, she had received enough blessings for tens of thousands of average students. They had lost a lot that day, and Sky Palace couldn’t afford another hit like that.
+
+That aside, the rules of Sky Palace only permitted one person to cross Sky Path at a time. Previously, Bao’er had only been allowed to go with Han Sen because she was so small. But that was why they lost as much as they did. Sky Palace Leader wouldn’t allow that to happen again.
+
+Exquisite watched the Sky Path from afar. She wanted to know how talented Han Sen’s biological sister was. Perhaps she could learn more about Han Sen’s real gene talent level.
+
+An eleven armor talent was too scary. It was difficult to believe that it was a genuine result.
+
+“Brother, don’t worry. I won’t embarrass you.” Han Yan’s entire purpose in life was to catch up with Han Sen. She looked confident in this.
+
+“Don’t exhaust yourself. Just cross it.” Han Sen didn’t want Han Yan to make a scene when she crossed the Sky Path. Making a name for yourself was never a good thing, he had discovered.
+
+Traversing the Sky Path wasn’t that risky, though; when she ascended the stairs that led to Sky Palace, that was when the opportunity to impress the Sky would present itself. If Han Yan performed extremely well there, she could forget about having a quiet life.
+
+Han Yan didn’t know what Han Sen meant. She thought he was saying that to alleviate the pressure she might have been feeling. “Sister Han, you can just stroll across. This is just a small crossing,” Yun Suyi said to comfort Han Yan. She didn’t want her to be nervous.
+
+“Thank you, Sister Yun. I’m going now.” Han Yan walked through Sky Door Island. The people of Sky Palace watched her traverse the narrow Sky Path.
+
+Han Yan already knew that going across Sky Path might trigger the holy air of the gourds. So, when she walked across the gourd vine, she stared down at the holy gourds.
+
+The holy gourds were big and small. They were each cute in their own way, but they showed no sign of activity.
+
+“I have heard Sister Yun say that when Big Brother walked across Sky Path, he didn’t receive the gift of holy air. But he made all the holy gourds shake and shiver. Why is nothing happening while I walk across it?” Han Yan frowned.
+
+She continued to walk, and still, the holy gourds didn’t so much as twitch.
+
+“Of course, without Bao’er there—that naughty kid—the crystallizer couldn’t have triggered the trembling of a thousand gourds.” Han Yan had already walked halfway, and not a single gourd moved. Sky Palace Leader merrily took another sip of his tea. He liked this.
+
+“Brother Han’s sister doesn’t look like she has any special talents. Not a single gourd has chosen to bless her with holy air yet.”
+
+“In this world, only one Han is known as God’s Daddy. Not every Han of the crystallizer race can earn a title like that.”
+
+“It is useless to just be a Han. You should strive to become a God’s Daddy.”
+
+“It is a shame Bao’er was stopped. If she was there, a thousand gourds might move for Han Yan.”
+
+Yun Changkong was a bit disappointed. He had never seen Han Yan before, but still, he had agreed to take her on as a student. He made this decision because she was Han Sen’s biological sister and Yun Suyi had asked him to multiple times.
+
+Yun Changkong didn’t expect Han Yan’s power to be as great as her brother’s, but since she was his real sister, he expected something more. He had high expectations, to say the least. Even if a thousand gourds didn’t move, she should have at least received some holy air.
+
+But right now, it didn’t look as if any holy gourd was going to give her holy air. “Although they are both called Han, this one is not Han Sen. Are you disappointed, Elder Yun?” Elder Six was smiling at Yun Changkong as he spoke. Yun Changkong had accepted a foreign student as his own. This was the first exception for an elder to take on someone foreign in Sky Palace. So, Yun Changkong had a lot riding on this.
+
+Many people in Sky Palace were discussing these proceedings, and many whispers regarded Yun Changkong’s petty attempts to please Han Sen. It damaged Sky Palace Leader’s image, by extension. Many weren’t happy with what Yun Changkong had done.
+
+Elder Six had spoken in a mocking tone.
+
+Of course, it made sense that the other elders were feeling rather sour. Many elders in Sky Palace wanted to build a relationship with Han Sen, but none of them were as close with him as those of the Yun family. When they heard that Yun Changkong had snatched Han Yan as a student, they didn’t take the news well.
+
+Han Sen’s blessing powers alone made many people want to befriend him, and that wasn’t to mention his ownership of the Charming God’s Jian and the Shield of the Medusa’s Gaze. Everyone wanted the best students possible, and if they had a few deifieds, their reputation would shift. How many deifieds did Sky Palace have? And how many could become primitive deified in the future? That rank alone was enough for someone to become famous.Exquisite had watched Han Yan walk over half of Sky Path, and not a single gourd had moved to provide her with something. This disappointed her immensely.
+
+Exquisite’s knowledge of the gourds was that if a person had an eight armor talent or above, quite a few holy gourds of the same element would give out holy air. She hadn’t received any holy air, though. And that meant her talent had to be below eight armor.
+
+If Han Sen’s sister had only ordinary talent, then it didn’t matter how much the big brother mutated; there was no way he had an eleven armor talent.
+
+Seeing that Han Yan was just about to finish Sky Path with no result, Han Sen thought it was a shame that Bao’er hadn’t been allowed to join her. Han Yan didn’t have a chance to absorb the holy air of a thousand gourds.
+
+But this result didn’t surprise Han Sen. After all, no holy gourd had given him holy air when he walked it alone. It was only because Bao’er was there the second time that he received something. She had been the reason that all the gourds released holy air for him.
+
+He had expected that the gourds might refuse to grant Han Yan anything.
+
+Han Yan’s expression remained impassive. She walked all of the way to the end of Sky Path, ready to leave the holy gourds.
+
+But then, Han Yan suddenly stopped. At the end of the holy vine, she looked back at the holy gourds on both sides.

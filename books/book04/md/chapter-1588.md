@@ -1,0 +1,82 @@
+Title:Copyright 
+Chapter:1588 
+Section:4 
+Book:4 
+CSS:../Styles/style.css 
+viewport: width=device-width
+  
+## Copyright
+### Chapter 1588 
+<figure>
+	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
+</figure>
+  
+
+  
+  Han Sen was standing in front of the headquarters of the company Impression Culture when the security guard saw him. He was wearing big sunglasses and a hat, with Littleflower in his arms and Bao’er perched upon his shoulder.
+
+“We have a meeting with your Chief Editor. Here is the appointment slip.” Han Sen handed the slip over to the security guard.
+
+The security guard scanned the slip and then gave Han Sen a look of admiration. He handed the slip back with both hands and said, “You are Xie Qing King, the author of Overbearing President Love Luv Looove! I really love your comic. Can I have your signature?”
+
+“I apologize, but I am merely his manager. Xie Qing King is busy, so he is unable to attend,” Han Sen said.
+
+Xie Qing King became a demigod a few years back, but there was no news about what became of him. Han Sen did not know if he was still alive or where he had gone, following his ascension.
+
+Still, Han Sen continued to handle the matters surrounding his comics. Although there hadn’t been any new material published in the past few years, Overbearing President Love Luv Looove! was still popular. They were actually printed in physical, comic format, and a filming producing company had contacted Impression Culture with the desire to produce an anime and live-action adaptation of the work. Han Sen had come to talk about copyright matters.
+
+“Brother Qing, I am so good to you. Even if you have died, your work has been immortalized. Your life and legacy will go on, even if you aren’t present,” Han Sen thought to himself.
+
+Han Sen wasn’t interested in these sorts of matters, but it was a personal matter regarding Xie Qing King. It might have been the last thing he left behind in this world, and Han Sen didn’t want to see it mishandled.
+
+The security guard looked disappointed, but he still said, “Please enter. The Chief Editor is waiting for you in the board room. An AI will show you the rest of the way there.”
+
+Han Sen followed an AI to the discussion room. He made Littleflower happy as he went.
+
+Ji Yanran had been busy lately, so since Han Sen had some free time, he thought it would be good to bring Littleflower along with him.
+
+They were worried Littleflower might have been affected by the time spent in the crystallizer’s Main Control Room, but nothing had seemed to go awry. Littleflower had grown up like a normal child, and at the tender age of being one year old, he could walk and talk.
+
+But even so, Littleflower was a very quiet boy. Unless someone spent time with him, he’d sit silently all day long.
+
+In the board room, Zuo Lan frowned while looking at the screen. Before Han Sen reached the Impression Building, she had already been watching him. She was disappointed it wasn’t Xie Qing King himself who had shown up, and when she saw Han Sen had brought two kids with him to a discussion about copyrights, she frowned even harder.
+
+Zuo Lan was not afraid of meeting with famous authors and superstars, but she was afraid of consulting with agents and managers. She was especially afraid of this one, as he didn’t look professional. He had brought two kids with him, after all. She didn’t think the discussion would go smoothly.
+
+But Overbearing President Love Luv Looove! was too popular, and after all those years, it was still in the top five. That alone could tell you how popular it was.
+
+Most comics that were still updating and ongoing were not as popular as it, and there were many investors interested in Overbearing President Love Luv Looove! due to its staying power. They wanted to make an anime and live-action adaptation of it.
+
+“Chief Editor Zuo, why has Xie Qing King not come?” The middle-aged man next to her frowned as he watched Han Sen.
+
+“Although Xie Qing King is an author for Impression Culture, he is freelance. He has his own way of doing things. If he allowed his manager to come here, that means he is the one who now has total control,” Zuo Lan said carefully.
+
+Until now, no one knew who Xie Qing King actually was. Zuo Lan herself was quite curious, too.
+
+Zuo Lan really loved Overbearing President Love Luv Looove! as well. Her mind was like that of a normal young lady. She’d love nothing more than to be loved by a man like that.
+
+She was also a little different from most young ladies, and she knew men such as that didn’t exist in the real world. She was smart.
+
+“Did you tell him it was Dong Te Film that wanted to discuss copyright issues? Our president is here, so isn’t he being a little rude?” a secretary-looking woman said, standing behind the middle-aged man.
+
+“Maybe he is busy, and as a result, he couldn’t make it here,” Zuo Lan said.
+
+“What could be more important than this? Dong Te Film has a lot of investment capital.” The woman looked displeased.
+
+Zuo Lan smiled but did not say anything. She did not like how arrogant they were, but business was business. The copyright fee was rather high, and if the deal was a success, Impression Culture could receive 20% of it. That was a big number.
+
+So, even if Zuo Lan hated the woman’s attitude, she had to endure it.
+
+“I didn’t even say anything, and you’re just a secretary talking crap. You’re obviously just a b*tch who sold her body to achieve a modicum of fame.” Zuo Lan looked at her with disdain.
+
+As they were talking, Han Sen reached the meeting room. Zuo Lan turned the monitor off and let Han Sen and the baby inside. She was thinking, “This is bad. Such an unprofessional manager and a slutty b*tch all in one room. These matters of business will be difficult to discuss.”
+
+“Hi. You are Zuo, the Chief Editor? I am Xie Qing King’s manager. Call me San Mu.” Han Sen reached his hand out to Zuo Lan.
+
+Zuo Lan saw that he was holding a kid and wearing a hat and glasses, and she knew he had no manners. She still shook his hand, though, and she said, “Hello. I am indeed Zuo Lan. Allow me to introduce you to Dong Te Film’s president Yu Hetian. He would like to purchase the rights to Overbearing President Love Luv Looove!”
+
+“Hello President Yu. I am San Mu.” Han Sen reached out his hand to Yu Hetian.
+
+Yu Hetian was on a chair, unwilling to stand up. He dropped some cigarette ash and said, “Why is Xie Qing King not here? Are you sure you can handle such big business matters?”
+
+Han Sen was not angry. He just smiled and said, “Xie Qing King is in the sanctuary, and he hasn’t come back yet. And I have total control over Overbearing President Love Luv Looove! I can represent Xie Qing King fully in these matters. You do not have to worry.”

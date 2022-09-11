@@ -1,0 +1,84 @@
+Title:Panorama 
+Chapter:293 
+Section:1 
+Book:1 
+CSS:../Styles/style.css 
+viewport: width=device-width
+  
+## Panorama
+### Chapter 293 
+<figure>
+	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
+</figure>
+  
+
+  
+  Han Sen killed the cloud beast as fast as he could, and heard a voice that almost made himself jump.
+
+> "Super Creature Cloud Beast Killed. No Beast Soul Gained. Eat Its Life Essence To Gain 0 To 10 Super Geno Points. Meat Inedible."
+
+"It works like this… So it works like this…" Han Sen was almost speechless. He could not believe in his wildest dream that the black crystal could be so miraculous that it could even produce a super creature.
+
+Before Han Sen could dissect the body of the cloud beast, it gradually dissolved. A black crystal and a white one fell on the floor.
+
+The black crystal was the one Han Sen found, and the white one was about the size of a pigeon egg, which was the life essence of the cloud beast.
+
+Han Sen could not believe that the seemingly ordinary black crystal could produce super creatures that the entire mankind failed to hunt.
+
+Han Sen became wild with joy as he finally had an access to super geno points, and possibly super beast souls. If he had gained a super beast soul, maybe he could kill super creatures before he finished the fourth phase of Heresy Mantra.
+
+Han Sen quickly went to the market, bought another cloud beast, and fed it with the black crystal. He was very curious to know how long it took for a cloud beast to evolve into a super creature.
+
+It took a creature three month to evolve into a sacred-blood one, and for it to further evolve into a super creature, Han Sen believed it took longer. However, it would take a year and half at most, since it took that long for the previous cloud beast to complete evolution.
+
+After finishing doing that, Han Sen started to savor the life essence of the cloud beast.
+
+> "Life Essence Of Super Creature Cloud Beast Eaten. One Super Geno Point Gained."
+
+> "Life Essence Of Super Creature Cloud Beast Eaten. One Super Geno Point Gained."
+
+…
+
+Han Sen heard the continuous voice and felt on top of the world.
+
+As an incredible strength filled his body, Han Sen felt his bones and flesh were developing again, as if he were a child.
+
+In the end, the cloud beast provided nine super geno points to Han Sen. At this point, he had 19 super geno points and a leap in his physique.
+
+Han Sen found Lin Beifeng and transferred the money and beast souls to him. He did not want any distractions in his life, because his only goal was to evolve with his super geno points maxed out.
+
+The first super evolver in all humans. Han Sen scoffed at the thought of sacred-blood aristocrats. An evolver with his super geno points maxed out should be considered a royalty for sure.
+
+Han Sen could only imagine what kind of benefits he and his family could gain if he evolved with his super geno points maxed out.
+
+His only concern was that it took too long for a super creature to be produced. According to his experience, it should take about nine months to one year for a creature to evolve into a super creature. Although it was great news, Han Sen did not want to wait that long.
+
+At this point, he needed at least 10 super creatures or more to max out his super geno points, which meant he would have to wait more than a decade.
+
+The only solution was to hunt the super creatures in God’s Sanctuary, for which Han Sen must have enough time to improve his ability.
+
+While continuing to practice the third phase of Heresy Mantra, Han Sen used one of the five S class Saint Hall licenses he got from Bai Yishan to buy a hyper geno art called Panorama.
+
+Panorama was the most renowned hyper geno art in the Saint Hall, also known as the "encyclopedia of martial arts." It’s included many techniques from different schools. In the beginning, the Saint Hall wanted to develop a martial art that included all the fundamentals so that everybody could easily improve their physique. However, as more and more techniques were added, the hyper geno art itself became more and more demanding on those who practiced it.
+
+Everyone’s body had different features. And different martial arts had different requirements for one’s body, which was why no one could practice every single martial art. For example, if one was lacking in strength, then one would likely be restrained from practicing the martial arts that focused on strength.
+
+Panorama was a collection of all sorts of fundamental martial arts, which was why it was almost impossible to find someone to practice it.
+
+Later on, the Saint Hall divided Panorama into different subjects and categories, which made it convenient for people to choose the martial arts they could practice.
+
+The original version of Panorama was used by the Saint Hall as a dictionary. Every time someone had some new findings, they would also be added to Panorama so that it would be more convenient for future research.
+
+Many professors from the Saint Hall would use Panorama this way, which made it become a true encyclopedia.
+
+The license needed to purchase the original version of Panorama also became more and more advanced, since it contained a lot of old and new knowledge. At this point, one would need an S-Class license to buy it.
+
+Also, the license must be a universal one, which could only come from a staff member.
+
+Although Panorama had its own geno solutions, the Saint Hall did not guarantee success of practicing Panorama. After all, it was a hyper geno art that required things beyond what geno solutions could make up for.
+
+The reason Han Sen chose Panorama was that he believed if he wanted to hunt super creatures, the least he could do was to adjust his physique to the best and eliminate all his weaknesses.
+
+Han Sen did not receive the best education when he grew up, so his development was not balanced—he was good at certain things, but not so much at others.
+
+Therefore, Han Sen wanted to start from zero and achieve an ideal state in all aspects so that he could prepare himself for hunting super creatures.

@@ -1,0 +1,92 @@
+Title:A Fist Kills Floating Kill 
+Chapter:3389 
+Section:17 
+Book:10 
+CSS:../Styles/style.css 
+viewport: width=device-width
+  
+## A Fist Kills Floating Kill
+### Chapter 3389 
+<figure>
+	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
+</figure>
+  
+
+  
+  “Even if Han Sen’s Break World rate was at the almighty sum of 99%, he should have been refined by now,” Floating Kill thought. To play it safe, he did not bring back his sky floating kill just yet. He let it remain in the area, readying himself for its retrieval when the displacement of time had gone by. Only then would he bring back the sky floating kill.
+
+Suddenly, a golden light was coming from the sky floating kill. It was shaking. In the next second, the whole of the sky floating kill exploded. It became small bits of sand that scattered about everywhere.
+
+Han Sen’s body fell out from within it. It seemed that it had not done him any harm. It had not reduced him to blood water. Not even his clothes had been harmed by the time he had spent inside it.
+
+“Blergh!” When the sky floating kill shattered, Floating Kill coughed up a bevy of blood to coincide with it. His eyes opened wide. He looked at Han Sen’s unharmed figure in complete disbelief.
+
+Han Sen looked at his fists and froze in place. It had been a random punch. It was not some extreme power that he had mustered, but the miraculously solid sky floating kill had still been rendered little more than dust in the wind.
+
+When Floating Kill reacted, he instantly turned around and wanted to run away. A chill was running down his spine. His heart was even colder.
+
+The sky floating kill, boosted by the wretched advance of time, had been unable to damage Han Sen. Therefore, how scary could such a man’s body be? Aside from Qin Xiu, Floating Kill had never witnessed someone so scary.
+
+He knew he would be unable to fight Han Sen. Floating Kill did not dare hang around and fight Han Sen. He wished he could run faster. Floating Kill had not seen someone this scary ever before.
+
+Since he knew he would not be able to beat Han Sen, Floating Kill did not dare stay there and fight the man. The stone clock was still spinning, so he could not escape. Floating Kill kept traveling between the stone clock areas in a desperate bid to escape.
+
+Unfortunately, the speed of every clock area was different. Floating Kill was heavily affected by each of them. It was fine to be in a time area where time ran fast. When it came to a time area that ran really slow, Floating Kill’s motions were much slower.
+
+Han Sen chased after Floating Kill at a pace that was not too fast. No matter which stone clock’s area he entered, he was not affected.
+
+“This body is not affected by the passage of time.” Han Sen was more than pleased with this result. He hurried up, wanting to catch up with Floating Kill.
+
+When Han Sen wanted to use his powers, his body did not adhere to the desires of his mind. He lacked the speed necessary to catch up.
+
+“What is wrong with this body?” Han Sen felt a little bit depressed. He still kept up his pursuit.
+
+Floating Kill kept on escaping, but he suddenly stopped. Up ahead, there were two areas he could go for. One area’s stone clock was spinning at the speed of light. The other one stone clock’s needle barely even moved.
+
+Floating Kill’s lifespan was very high, but he did not dare go into a fast area like that. That speed might have cost him 10 million years in a single second. Even he would not have been able to hold strong against a force of time like that.
+
+As for the other area, time was almost still. If he went inside, he might have stopped moving and become frozen in time.
+
+He watched Han Sen approach him. Han Sen was not very fast and not very slow because he could not be as fast as normal. In Floating Kill’s eyes, Han Sen was still a very scary man. He felt like a mouse being toyed with by a cat.
+
+“Goddamn asshole!” Floating Kill was very angry. As Han Sen kept playing with him, it made his fear of Han Sen even deeper. He did not even have the courage to fight or threaten Han Sen anymore.
+
+If he knew Han Sen could not catch up, which was why he was not fast and not slow, he would have likely felt much different.
+
+Floating Kill gnashed his teeth. He was headed for the stone clock area that was extremely slow in its advance. He also took something out.
+
+Han Sen saw Floating Kill flash with a blue light. It was like blue seawater was wrapping up his body. He then entered the nearly still time area.
+
+In the area where time was stopped, he should not have been able to move. When Floating Kill went inside, he was not stalled by time. He was able to go forward. He was, however, very slow. He was not much faster than a turtle crawling.
+
+Floating Kill kept rushing forward. He felt relieved. He looked at the blue crystal orb and felt much better.
+
+“Luckily, when I went to time sky, Mister Leader gave me this space crack orb. Had I not received this gift, I would have been killed by Han Sen’s hands today. With the protection offered by this orb, I can travel through the time area. Even an absolutely still time area will not be able to stop me. That Han Sen will never be able to catch up.” Floating Kill looked back having all those smarmy thoughts to himself.
+
+When he looked back, Floating Kill’s face changed. He saw Han Sen enter the still time area without his speed slowing down the smallest mote. He was still coming for him at an ordinary pace. It was then that his face turned pale.
+
+Han Sen saw Floating Kill rush to the silent area. He thought, “Floating Kill must have a death wish. If he ran elsewhere, I might not have been able to chase him. Now, he is a very dead man.”
+
+While he was thinking about this, Han Sen walked in. Just like before, this place was an area where the time power did nothing to inhibit his body. Han Sen was behind Floating Kill in no time at all.
+
+“I am going to fight you!” Floating Kill was angry. His face was twisted as he felt forced to gather power. He generated the sky floating kill, moving to suppress Han Sen.
+
+The time in that nearly still area made his motions awfully slow. Even the sky floating kill was becoming slower and slower in its advance.
+
+Han Sen did not back off. He raised his fist and moved toward the sky floating kill.
+
+Pang!
+
+The sky floating kill exploded with a single punch. It was quickly turned into a sky full of yellow dust. After the punch, Han Sen’s fist was not stalled. It was still going further, punching toward Floating Kill’s chest.
+
+Floating Kill did not have a chance of dodging the strike. He gnashed his teeth and put all his power into the space crack orb. The blue water images were clearer. He wanted to use the space crack orb’s power to block Han Sen’s punch.
+
+When Han Sen’s punch landed on the blue watermark, the blue watermark shattered. It was unable to withstand Han Sen’s fist for a single second. It just instantly broke. Even Floating Kill’s space crack orb was shattered.
+
+Seeing Han Sen’s fist come thrusting into his chest, Floating Kill’s eyes opened wide. He looked very shocked. In the end, he thought, “Perhaps Han Sen is scarier than Mister Leader.”
+
+Pang!
+
+Before his thoughts ended, Floating Kill’s body was punched open by Han Sen’s manic fist. He was reduced to a bloody mist.
+
+Floating Kill’s Break World rate was almost maxed out, but he had not been able to resist one of Han Sen’s punches.

@@ -1,0 +1,90 @@
+Title:Trial 
+Chapter:2802 
+Section:14 
+Book:9 
+CSS:../Styles/style.css 
+viewport: width=device-width
+  
+## Trial
+### Chapter 2802 
+<figure>
+	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
+</figure>
+  
+
+  
+  After Han Sen’s meter went past 100 and kept on increasing, the scale was still sinking. It was not going back up. Apparently, the counterweight was unable to balance out the crimes he had committed.
+
+“Destroying an entire race can lead to a counterweight of only 100, so what did this guy do?” Bai Wanjie frowned as he peered at the counterweight on the right.
+
+The number on the scale was now over 200. This kind of sin was reserved for the greatest of villains across the entire universe.
+
+The number on the counterweight increased quickly. It made Bai Wanjie’s heart start to shake. Before long, it was already over 500. That kind of number had to make him the evilest person in the universe. No one else had ever reached such a figure.
+
+The counterweight was still increasing. The left plate, where Han Sen was, was still sinking. It was scary.
+
+“How could this happen?” Bai Wanjie was shocked. Although the Extreme King’s Overbearing Eye wouldn’t kill things, it suppressed the sinner. Under the weight of a sin this big, the person’s body should have been crushed and destroyed by now.
+
+The old man who was kneeling on the floor suddenly raised his head. He looked at Han Sen on the scale. His expression started to look strange.
+
+“Old Iron, can you stop the trial?” Bai Wanjie asked. “When the real trial comes, I am afraid that if this keeps going, he will not be unable to withstand the trial’s power. It will crush his body.”
+
+“OK, but the Extreme King’s Overbearing Eye cannot be controlled by others,” the old man coldly said. “It won’t be controlled by anyone. Even if he is very sinful, he won’t be killed. He will just be suppressed.”
+
+When the old man said that, Bai Wanjie did not say anything more. He kept watching the counterweight’s number increase. Every time the number jumped, it made Bai Wanjie’s heart jump.
+
+The number on the counterweight soared over 1,000. The old man’s face changed. When the second ancestor had slain the butterfly elite, that butterfly elite’s sin was only 1,000 to 2,000. That was the villain of that generation. It was hard to find another like that in recent times.
+
+The old man looked at Bai Wanjie and asked, “Is it really like you described? Is this xenogeneic from the Space Garden?” He was shocked by this level of crime.
+
+“I asked Holy Pirate to capture him from the Space Garden, so I suppose he was correct,” Bai Wanjie replied.
+
+“Holy Pirate is not a man who goes against his word. If he agreed to the task, this should be the correct target. But if this is a son of the Space Garden, why is he deemed to be so evil?” The old man raised his head as he spoke. He saw that Han Sen’s body was chained up like a prisoner.
+
+The old man’s eye looked rather purple. He looked at Han Sen, who was on the scale. He shook his head and said, “Weird. It is so weird… I cannot see through his body. Are two extreme bodies that powerful?”
+
+Bai Wanjie’s heart jumped. He suddenly thought of something.
+
+“Mister White said this xenogeneic was not just a son of the Space Garden. They say he is very talented. There is something special that gave him this body. At one point, the Space Garden was full of green light. At the same time, the god spirit was killed and the geno hall appeared. Is that miracle connected to the god spirit that was killed? Was the god spirit that was killed the Space Garden itself? Did the Space Garden absorb the god’s personality and create a special xenogeneic?” As Bai Wanjie spoke, his belief in such a possibility became more real. His heart raced faster.
+
+“If things are truly like that, I just need to tame this son. I can use his power to suppress the Space Garden and get the god’s personality. Then, I will be made a god spirit…” he thought. Bai Wanjie started to think this truly was a huge opportunity.
+
+“With this much sin, I bet he must have slain a god.” Bai Wanjie could see the counterweight number continue to increase. It made him put more stock in what he had been predicting.
+
+“Two thousand… Three thousand…” The counterweight’s number was breaking the limits. Even the old man was visibly shocked. He had never seen a creature’s sin be this high. This had never happened before.
+
+“This xenogeneic… He does seem a bit weird… Should we stop the trial, then?” The old man looked at Bai Wanjie as he spoke. With such a grand amount of sin, not even he knew if something bad might happen.
+
+Normally, no one controlled the Extreme King’s Overbearing Eye, and it would not kill anyone. For this much sin, the trial was going to be something scary. There was the possibility that this xenogeneic would be crushed.
+
+They were unsure whether the calculation of his sin would stop and his trial would start. If the trial did not have enough power and was done a second time, they would have to wait a month until the Extreme King’s Overbearing Eye could be used again.
+
+Thinking of the Space Garden and having a god’s personality there waiting for him, he could not hold his horses.
+
+“Old Iron, I thought you said if no one controls the Extreme King’s Overbearing Eye, it would not kill anyone,” Bai Wanjie said.
+
+“Yeah, that is how it is supposed to work. It really is like that. In the past, there has never been a creature this sinful.” Old Iron did not keep speaking.
+
+“If things are like that, let us just wait longer.” Bai Wanjie went silent.
+
+“Four thousand… Five thousand… Six thousand…” The sin meter increased its speed. It made the old man’s face change. He had never heard of such a sinful creature before.
+
+Bai Wanjie’s heart was shaking. He said to the old man. “Old Iron, let’s just end this and go to the trial. I am afraid that if this keeps going, his body will not be able to withstand the force of the trial.”
+
+The old man nodded. He stood up and planned on walking up to the scales. Pang! The chain on the left side, which connected the plate to the scale, suddenly broke.
+
+The left side broke, and the right side fell. It meant the scale that represented justice had suddenly broken.
+
+The black and white light that shot out of the statue’s eyes was still carrying on. It kept Han Sen in the air. The other side of the black scale was also hovering in the air. The numbers were still increasing, and they were increasing faster than before.
+
+Amid their shock, the old man and Bai Wanjie saw Han Sen’s score of sin pass the 10,000 mark.
+
+When the scale’s sin number hit 10,000, it stopped increasing. The black and white light from the Extreme King’s Overbearing Eye still hadn’t stopped. There was no sign of a trial going on. It was still shining on Han Sen.
+
+The old man was shocked. He did not know what was going on. He had no idea why the sin meter had stopped. Furthermore, there was no trial. This had never happened before.
+
+“Does this mean the creature’s sin cannot be measured more than this? But the Extreme King’s Overbearing Eye can only display 10,000 at most!” The old man and Bai Wanjie shared the same thought of this possibility.
+
+Pang!
+
+Suddenly, the second ancestor statue that held the Extreme King’s Overbearing Eye was shining. The eyes of the sculpture exploded out of their sockets.

@@ -1,0 +1,92 @@
+Title:Going to Steel Manor 
+Chapter:3107 
+Section:16 
+Book:10 
+CSS:../Styles/style.css 
+viewport: width=device-width
+  
+## Going to Steel Manor
+### Chapter 3107 
+<figure>
+	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
+</figure>
+  
+
+  
+  “Mister, there is a person who calls himself Han Sen here. He is looking for you.” Steel Scene was going to activate the si ming demon race’s power. He wanted to kill Han Sen. Suddenly, someone was out there making this report. “What? Han Sen dared come to Ice Snow City?” Lu San Zhi was furious. Steel Scene frowned and asked, “How many people did he bring?”
+
+“Just one,” the guard replied. “Just one?” Steel Scene was shocked. “Mister, that guy must have come prepared,” Lu San Zhi quickly said.
+
+“What can he actually hope to achieve in my manor?” Steel Scene coldly asked. “I want to see what he hopes to do. Invite him into the lobby.”
+
+Ice Snow City was his nest. Even top-class elites of the Qin Kingdom were always careful in that place. Now, it was Han Sen, and he was alone.
+
+Steel Scene’s heart jumped. He put the si ming demon race, which had turned into Han Sen’s face, into his God Spirit mark. He had everything prepared. He just needed to activate it and kill Han Sen.
+
+But he did not have his genes. Using his own blood to kill someone did have its downsides.
+
+If there was a problem, using the opponent’s genes to kill them did not do much harm to the caster. If he used his own blood to kill, and the skill was reversed, he would suffer big damage. After all, using blood to kill was like using Steel Scene’s blood. Yet, Steel Scene was able to use his will to lock onto Han Sen. It connected to him. Otherwise, it was just a name. Someone might have had the same name as Han Sen.
+
+Steel Scene and Lu San Zhi saw Gong Shu Zhi and Si Tu Ya waiting outside.
+
+“Mister Scene, Han Sen dared come to Steel Manor,” Gong Shu Zhi said while gnashing his teeth. “This will be a good chance to eliminate him. Please, go and kill him. Avenge my son’s death.”
+
+“Of course. But before that, let’s hear what he has to say.” Steel Scene walked into the lobby.
+
+Gong Shu Zhi did not dare deny or say anything rash to Steel Scene, so he said, “Mister Scene, I will go with you. I want to watch him die.”
+
+“Fine,” Steel Scene coldly replied.
+
+Gong Shu Zhi followed Steel Scene. Lu San Zhi was on the other side of him. With one on the left and one on the right, they walked into the lobby together. Si Tu Ya hesitated to go, but she still followed.
+
+Han Sen was admiring a painting on the wall. He saw Steel Scene arrive. He looked at the leader and asked, “Are you Steel Scene?”
+
+“Yes, I am Steel Scene.” Steel Scene sat on the primary seat. His overbearingness accidentally showed up. He looked at Han Sen emotionlessly and asked, “Why have you sought me out?”
+
+He knew everything about Han Sen. He had watched the videotape Lu San Zhi had brought, which was about Han Sen.
+
+Had he not, he would have been unable to target Han Sen.
+
+“I have come here to ask you to kill Gong Shu Zhi and Si Tu Ya,” Han Sen coldly said. “If you do that, I can pretend nothing happened regarding the Sacrifice Copper. I can let bygones be bygones.” After hearing Han Sen say that, Lu San Zhi shouted, “How dare you!”
+
+Gong Shu Zhi looked at Steel Scene and said, “This person is crazy. Please kill him!”
+
+Steel Scene ignored them. He coldly looked at Han Sen. “The Qin Kingdom has its laws. Do you think you can be friends with the crown prince and then suddenly be able to do whatever you want? The crown prince is not the king yet. Even if he was, he could not disregard the laws and allow evil people to do whatever sordid deeds they wished.”
+
+“I think what you say is quite righteous,” Han Sen coldly said. “Are you mocking me?” Steel Scene had been a superior for a long time. He did not use gene races, but that feeling of superiority made people feel pressured. It was like his eyes had blades in them. People’s legs felt soft in his presence.
+
+It was a shame that power only worked on others. Han Sen broke the sky and the ground. He had even broken god temples. It didn’t work on him.
+
+Han Sen ignored him and said, “I did not come here on behalf of the crown prince. I am here to reason with you. I am just going to ask you again. Are you going to kill Si Tu Ya and Gong Shu Zhi, yes or no?”
+
+“What if I don’t kill them?” Steel Scene’s eyes were like that of a hawk. They peered at Han Sen. Even without looking mad, his emotions were very scary.
+
+“Mister Scene, I do not want too much blood on my hands,” Han Sen said with a sigh.
+
+Han Sen was being honest. He did not want to kill unless he had to. He preferred solving his problems with as little of a death toll as possible. He did not want to get his hands dirty.
+
+From the perspective of Steel Scene and the others, his words had made him seem very ignorant.
+
+Lu San Zhi and the others had already shouted. Steel Scene was very angry. He laughed and said, “Fine. Fine. Fine. I would like to see you covered in blood in my manor.”
+
+Han Sen knew this was not negotiable. He stopped talking. He summoned the blood ghost spirit and combined with it.
+
+At the same time, he summoned the blood dragon God Spirit Blood-Pulse and combined with that too.
+
+The blood dragon God Spirit Blood-Pulse had purple scales. They wrapped around Han Sen. The blood ghost spirit made his hair very long and red. He also grew a monkey’s tail. Han Sen’s eyes were affected by the blood dragon God Spirit Blood-Pulse and blood ghost spirit. They changed to a weird purple and red color. His body glowed with purple and red as well. It made him look like an evil demon.
+
+“How dare you use a gene race in Steel Manor! You should die!” Lu San Zhi combined with a thunder fire lion. His punch had thunder and fire as it came at Han Sen.
+
+The thunder fire power turned into a male lion that was pouncing at Han Sen. It was full of scary and explosive power.
+
+Gong Shu Zhi hated Han Sen. He attacked alongside Lu San Zhi. He combined with a god-class gene race, yin wolf. He had leveled it up to ultimate mode. That was his strongest gene race. Gong Shu Zhi’s had the ears of a wolf, and his back developed a wolf’s tail. His body was covered with black fur. He released a cold, black air. He gathered up power in his hands and reached toward Han Sen’s head. That cold, black air changed into the head of a black wolf.
+
+Si Tu Ya gnashed her teeth. Her mouth let out some bird sounds. The noises were reminiscent of a lark, but the acoustics created many shockwaves. The shockwaves were like a tidal wave going to the thunder fire lion and black wolf head. The powers of the thunder fire lion and black wolf head were doubled.
+
+The two scary powers were like a tidal wave buffed by sonic powers. They raged toward Han Sen.
+
+Han Sen looked chill as he faced it. He raised a fist. Purple and red air went into his fists. The sound of a dragon’s cry was heard.
+
+Steel Scene madly shouted, “Oh, no! He really is a god-blood noble! You guys should run!”
+
+It was too late. Han Sen used the blood god dragon combine gene skill and blood dragon flying into the sky weird scene. His fist released a purple and red head. It roared. It looked incredibly overbearing. It destroyed everything. The thunder fire lion and black wolf head blew up. The purple and red head still went forward.

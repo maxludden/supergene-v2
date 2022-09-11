@@ -1,0 +1,94 @@
+Title:Treasure in the Box 
+Chapter:3074 
+Section:16 
+Book:10 
+CSS:../Styles/style.css 
+viewport: width=device-width
+  
+## Treasure in the Box
+### Chapter 3074 
+<figure>
+	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
+</figure>
+  
+
+  
+  “Robbery? From where could I have possibly stolen these things?” Han Sen took out a silver mutant eight sound bug and tossed it to Mister Yang. Mister Yang picked up the eight sound bug egg and looked at it. His eyes almost popped out of his skull. “Mister, did you really dig this up?”
+
+Han Sen laughed and replied, “Of course. Does it look like I gave birth to it?”
+
+Mister Yang was unable to believe it. Han Sen did not know any land pulse skills. He had just randomly gone to Planet Gu Ya to dig around. Yet, he had found a dozen eight sound bug eggs. On top of that, one of them was a mutant eight sound bug. This was an unbelievable thing. It was something of a genuine miracle that was unheard of. If everyone was as lucky as Han Sen, all the misters in the universe would starve to death. This was the first time Mister Yang had doubted his career. He didn’t quite know what to say.
+
+Li Bing Yu could not believe Han Sen had managed to dig up eight sound bugs. She thought, “He must be connected to Qin Bai. It looks like my chance has come.”
+
+“Old Yang, I will hand the gene egg over to you,” Han Sen said to Mister Yang. “Sell it for a good price. Our lives are depending on it.”
+
+“Mister, you shouldn’t sell this mutant eight sound bug gene egg,” Mister Yang said. “Just sell the ordinary eight sound bug eggs. This mutant egg should be kept as a highlight of the shop. With that on display, it will be sure to attract a lot of business.”
+
+“Just see what you can do.” Han Sen was not really interested in money. He only required enough money to get by in the walled jade city.
+
+“Where is Qin Wan’er’s dead body?” Han Sen had a look at the map, but the walled jade city was too big.
+
+It was hard to locate the mysterious place Bai Mo had mentioned. Han Sen bought some frozen gene race blood online. They were low-class, so they did not cost much.
+
+With the quantum transport system, even if it was a few systems far away, they could just drop it in the transport station for the delivery man to take.
+
+Han Sen quickly received a few bags of the gene race blood. He then locked himself in a room.
+
+He put the stone box in a bathtub. He placed the frozen bags of blood atop the stone box. When the blood touched the stone box, some weird symbols lit up. They released a cold and petrifying light.
+
+Wherever the petrifying light touched, regardless if it was metal or flesh, it was petrified. Even Han Sen’s clothes were petrified.
+
+It was a shame that the petrified light could not do anything to Han Sen’s body. All Han Sen felt was something slightly cold. His skin and hair had avoided petrification.
+
+As more blood was poured onto the stone box, the patterns on the box appeared as if they could absorb the blood. All of the blood was absorbed by the patterns.
+
+Han Sen put many bags of blood inside the box. The blood color of the patterns started to appear darker, and the petrifying light grew stronger. When there was only one bag of blood left, Han Sen suddenly heard a “katcha” noise. The stone box opened.
+
+“I wonder what is hidden inside there.” Han Sen was very curious. He opened the stone box and was quite shocked.
+
+The stone box contained a circular stone that was the shape of an egg. There was a mouth on its top, and six holes on its side. The entire stone was grey. All-in-all, it looked like a stone ocarina.
+
+The ocarina was an instrument, and he was no stranger to such an instrument. Ancient Devil had eight generals, and one of them was named Xiang Yin. She gave Han Sen an ocarina and taught him how to blow it.
+
+It was a shame that Han Sen was not very good with music. He tried to learn it for a while, but he never was successful. He only seldomly used it to entertain himself.
+
+Right now, he was seeing an ocarina. He held it in his hand and felt rather sad. When Xiang Yin ascended, he had tried to find her but couldn’t. That made Han Sen feel terrible.
+
+The stone box’s petrified light was gone. Han Sen touched the stone ocarina, sighed, and said, “Little Big Sister Xiang Yin, where are
+
+e are
+
+you?”
+
+It was an old stone ocarina. There were no patterns on it. It was a very rough stone ocarina that did not look very pretty.
+
+The stone ocarina’s surface was not polished very well, and it was rather crude. It looked like something from ancient times.
+
+Han Sen rummaged through the stone box. Aside from that stone ocarina, there was nothing else to find.
+
+“What a weird stone box. Whatever is inside it cannot be anything normal.” Han Sen looked to his left and then his right. Whatever the case was, he couldn’t see anything particularly outstanding about the ocarina. After thinking for a moment, Han Sen put the stone ocarina next to his mouth and tried playing a song. He wanted to see if the stone ocarina possessed any special powers.
+
+As Han Sen blew into it, the ocarina did not play any sound. Aside from the wind, there was nothing
+
+“Weird. Why is there no sound coming from the ocarina?” Han Sen looked at the ocarina in shock. He examined it for a while but did not see anything amiss. The stone ocarina was not damaged. It was like an average ocarina without any clogged holes. The fact that it was not producing any sound was strange.
+
+He again placed the ocarina next to his mouth. This time, Han Sen gathered his Xuan Yellow Sutra and put a strong power in his breath. He blew into the stone ocarina.
+
+“Woohoo!” A very sorrowful ocarina sound was heard. Han Sen moved his finger to create different tones.
+
+After he moved his finger, Han Sen was surprised that the holes had started to produce smoke. The smoke gathered in the air and turned a white cloud.
+
+“What is this?” Han Sen stopped blowing the ocarina. He looked at the white cloud in the air. It looked like the cloud from the monkey king.
+
+From outside, Han Sen suddenly heard the cloud starting to make a very vague sound. The sound was not very quiet, but it was still hard to hear. It was like a woman mumbling. It was like she was reading out a Buddha’s chant.
+
+“Who is in there?” Han Sen frowned. He punched the cloud. The cloud broke around his hand. It vanished. The sound was gone.
+
+“What is this thing?” Han Sen frowned. He picked up the ocarina and started blowing it. The hole of the ocarina generated some smoke that arose to form another cloud.
+
+Han Sen leaned his ear forward to listen. Again, he heard that same, strange mumbling come from the cloud. It sounded close but also far away. It sounded very unstable.
+
+Han Sen listened to it intensely. Eventually, his face changed. The cloud suddenly disappeared again.
+
+He quickly picked up the ocarina and played it to generate another cloud. This time, Han Sen listened more carefully. After a while, his expression looked weird.

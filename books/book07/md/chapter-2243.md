@@ -1,0 +1,98 @@
+Title:Meeting Underground 
+Chapter:2243 
+Section:10 
+Book:7 
+CSS:../Styles/style.css 
+viewport: width=device-width
+  
+## Meeting Underground
+### Chapter 2243 
+<figure>
+	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
+</figure>
+  
+
+  
+  Han Sen looked around the cave, but he couldn’t find another exit. He wasn’t in much of a rush, though. He released Little Star from Destiny’s Tower.
+
+“Little Star, let’s see how you do here.” Han Sen leaped atop Little Star.
+
+“Ookini Ookini!” Little Star bellowed. Starlight began to glow softly from its form as its body—and Han Sen’s—started to become transparent. Then, it raced into the stone.
+
+Little Star had only been gone for ten minutes when Edward appeared in the mouth of the cave. After he entered, he had a look around.
+
+“Not here?” Edward frowned. He was confident in the logical process that had led him there. It took him by surprise when Han Sen was nowhere to be found.
+
+“This guy is a lot of trouble to deal with. Every creature leaves traces of their presence, even if it is only a couple of molecules. He hasn’t left behind anything, however. How has he managed to do something like that?” Edward frowned as he continued poking around.
+
+Although he hadn’t found Han Sen, Edward felt certain that his quarry had indeed entered this cave.
+
+“My lead comes to a dead-end here. It looks as if I will have to find him by another means,” Edward observed to himself, looking around the nest. He looked at one of the walls and then took his leave.
+
+With Little Star’s help, Han Sen had traveled directly through the stone. Together, they must have gone at least a few hundred miles before reaching another underground cave.
+
+Han Sen let Little Star rest for a bit while he went to look around the cave.
+
+“I don’t think Edward will be able to find me anytime soon, but regardless, I cannot emerge just yet. I need to find out what is so special about that stone plate.” Han Sen looked around. That cavern they had found was a segment of a complicated subterranean complex.
+
+That area was devoid of xenogeneics, so Han Sen settled in to rest for a while. As he leaned back against a comfortable outcropping of stone, he thought about how he might proceed.
+
+“The stone plate seems to be something of tremendous value, and very few people know what powers it holds. Some of the upper-echelon of the Extreme King might know, but at the very least, King Bai doesn’t seem to be aware of it. If he was, Ice Blue Knight King wouldn’t have risked disobeying his orders. Sending me back to the Extreme King means giving the stone plate to King Bai.” Han Sen was deep in thought when he suddenly heard a sound coming from deeper within the stone cave. It sounded as if something was crawling around.
+
+Han Sen peered into the cave with his Dongxuan Aura activated. He detected a lifeforce was getting closer to his position.
+
+The lifeforce didn’t seem to be very strong, though, and that helped settle Han Sen’s nerves.
+
+The noise was getting closer, and a few minutes later, Han Sen saw a weird xenogeneic appear in the cave.
+
+A body covered in sleek black fur appeared. It looked startlingly smooth, and its fur glistened. It was about the size of a cat, and its eyes were huge, like shiny pieces of black jewelry. It looked like a big-eyed thief.
+
+Han Sen looked at the xenogeneic, and the xenogeneic looked back at him. They both stared at each other for a while.
+
+Then, the xenogeneic just ignored him. It turned to saunter down another stone path. Its butt wiggled as it walked, waving its tail in a slow rhythm.
+
+Han Sen raised an eyebrow, as the creature’s tail seemed to be holding an item that looked like a bracelet.
+
+It was odd to see the piece of platinum attached to the creature’s tail, rather than being held in the creature’s claws. It looked like the item had been deliberately placed there, though.
+
+Han Sen used his Purple-Eye Butterfly to take a closer look, and he noticed there were a few words inscribed across the item.
+
+“Sacred General Ghost Bone.” Han Sen’s eyes widened, and he made the decision to follow that little critter.
+
+“Is that thing related to General Ghost Bone, by any chance? It doesn’t seem nearly strong enough. At the very most, that thing is no greater than a Viscount. If General Ghost Bone wanted a pet, I doubt he would select something that was so weak.” Han Sen wasn’t in a rush to take down the little beast, and so he just trailed after it.
+
+The little beast showed no sign that it was afraid of him. Without pausing, it meandered its way down a series of caves. It wasn’t in a hurry, and its pace was quite lackadaisical.
+
+Han Sen followed it patiently down the tunnels. And the whole time, he had many thoughts going through his mind. “That ancient city was called Ghost Bone Town, but the Ghost Bone statue there was just like a guard for the gate. Inside the hall of the palace, there was a statue of that Human King. The top of the Human King Statue is what pedestaled the stone plate. What does that mean, I wonder?”
+
+After the beast had been traveling for about an hour, it reached a hidden river. It crouched down on its stomach so it could drink some water.
+
+“This guy has walked so far. Surely he didn’t come all this way for a drink of water,” Han Sen thought in agitation.
+
+Eventually, the beast seemed to have drunk its fill. Without any warning, it leaped into the dark river. It lay on its back in the water like an otter, floating down with the stream.
+
+Han Sen put Little Star away and followed after it.
+
+But soon, the underground river sank into the ground. The creature sank into it, as well. Han Sen gritted his teeth and jumped into the water. He used his Purple-Eye Butterfly as he followed after the creature.
+
+The underground water was fast-flowing, and it was fortunate that Han Sen didn’t encounter any water element xenogeneics. Han Sen followed it for a few hundred miles, but there seemed to be no end in sight.
+
+After an interminable time in the water, the floating beast suddenly swam towards a wall.
+
+Han Sen looked towards it, and there, he saw a small tunnel leading through the stone wall. The hole was around the size of a melon, and the creature wriggled its way in without much trouble.
+
+Han Sen was too big, so he couldn’t follow it in. He summoned Little Star to carry him inside.
+
+Han Sen soon discovered that the hole hadn’t formed naturally. It was actually a metal pipe.
+
+“Why is there a man-made metal pipe here?” Han Sen was surprised.
+
+The little beast drifted down the metal pipe, and Han Sen pursued it atop Little Star. They traveled a couple of miles before the tunnel brightened and Little Star emerged from the wall.
+
+As he looked around, Han Sen found himself gaping in surprise. That place was an underground palace. The metal pipe he had followed brought him out via the mouth of a giant fish statue. Water flowed continuously out of the tube, creating a small waterfall down into a pool.
+
+The pool was made of jade-like stone. The water was very clear, and Han Sen could see all the way to the bottom.
+
+But when Han Sen looked closer, he froze. Inside the pool, there was a black-and-white eye staring back at him.
+
+Han Sen gazed into that stony stare, and his breath caught in his chest.

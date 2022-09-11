@@ -1,0 +1,106 @@
+Title:Sorry to Keep You Waiting 
+Chapter:2137 
+Section:8 
+Book:6 
+CSS:../Styles/style.css 
+viewport: width=device-width
+  
+## Sorry to Keep You Waiting
+### Chapter 2137 
+<figure>
+	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
+</figure>
+  
+
+  
+  “No wonder I haven’t seen Evil Eye use Textless Book to try to free himself.” Han Sen let out a sigh. When he saw spirit sword trigger all those ghastly emotions, he knew things were practically over.
+
+Lone Bamboo could keep himself calm and controlled beneath the pressure of all that sadness, but Evil Eye couldn’t. That meant Evil Eye was trying to fight two forms of willpower at once.
+
+And just as Lone Bamboo had said earlier, Evil Eye had never once experienced the depression that accompanies failure and loss of hope. Now that Evil Eye had to fight against the emotions crushing him, he had little strength left to resist Lone Bamboo. He couldn’t fight back, and he was done for.
+
+“How could it all end like this? This is impossible!” Evil Eye screamed. The purple light in his eyes began to thin and flicker. It was being consumed by blood.
+
+He would have already escaped if he could have, but his body was completely assimilated with Lone Bamboo, and there was nowhere he could run.
+
+If he left Lone Bamboo’s body, his will would be the only thing he could take with him. All the geno teachings he had gathered across the millennia would be left behind.
+
+“No… no…” Evil Eye sounded hopeless, and for the first time, he sounded downright scared. The purple lights of his life began to dim.
+
+The purple butterfly wings behind Lone Bamboo also began to fade away. The flower armor started to wilt, die, and fall. As the flowers and wings disappeared, Lone Bamboo’s real form became more and more visible.
+
+Suddenly, Lone Bamboo’s third eye flashed with purple. A light emerged in the form of a butterfly, and it flapped its wings and tried to fly away.
+
+Katcha!
+
+Han Sen threw a punch. His power couldn’t touch the purple butterfly, as its form was like a non-physical shadow.
+
+“You guys better not bump into me again. If you do, I’ll torture you to death!” The purple butterfly spoke with Evil Eye’s voice, and it sounded horribly bitter and angry. It flapped its wings and headed for the paper.
+
+Pang!
+
+Seeing that the purple butterfly had almost reached the paper, Han Sen used Super Spank from his hand. The blow turned the butterfly into dust.
+
+“Xenogeneic deified being hunted: Purple Eye Butterfly. Obtained Purple Eye Butterfly beast soul.”
+
+Han Sen hadn’t expected to get a kill announcement when the butterfly was destroyed, since what he had killed was the final, fleeting bit of Purple Eye Butterfly’s willpower. It made sense that he hadn’t gotten a xenogeneic gene, though, since Purple Eye Butterfly’s decision to combine with Lone Bamboo’s body had probably negated the gene’s existence.
+
+But Han Sen was more than surprised that he had managed to obtain a deified beast soul. Purple Eye Butterfly had become deified many times, despite having only reached the level of a Marquise during this cycle. Han Sen thought he’d get a Marquise beast soul if he got one at all, and he never dreamed of snagging a deified item.
+
+But Han Sen had missed one crucial fact; whenever Purple Eye Butterfly took a new host, it brought a seed of power with it. Using his deified will and his seed of power, Evil Eye would strengthen his host as much as he could, eventually becoming deified. Once he became deified, power would feed back into his will and his seed, strengthening them even more to prepare for the next cycle.
+
+Evil Eye Butterfly was reborn again and again, and each time, he sought to make his seed stronger. He did this over and over to achieve the final step of ascension.
+
+But so far, he had not managed to reach the final step. He had only gone far enough to become deified.
+
+Lone Bamboo’s flower armor was now all dead, and the color of his eye turned a permanent shade of red. And then, a white and purple armor began to clothe Lone Bamboo. Purple butterfly wings also began to spread from his back. This looked quite different from his old geno armor, and it must have been the result of him combining with Purple Eye Butterfly.
+
+“Sorry to keep you waiting,” Lone Bamboo said calmly as he looked up at Dollar.
+
+The paper for Evil Eye disappeared, and in its stead, a new one manifested. It read, “Sky – Lone Bamboo.”
+
+“Shit! Sacred’s general Purple Eye Butterfly has been killed!”
+
+“It is a shame a deified elite is now gone for good.”
+
+“No one told him to become deified. It was not difficult to kill him.”
+
+“Purple Eye Butterfly was murdered. Those two Marquises killed him!”
+
+“Ha! He should have died a long time ago, anyway.”
+
+“Dollar behaved honorably, though. He didn’t sneak in a quick victory. He could have Lone Bamboo and Evil Eye at the same time, but he didn’t.”
+
+“It looks like this fight is set to continue. Dollar looks strong, but Lone Bamboo is certainly stronger. He broke Purple Eye Butterfly’s will, so he must have a deified will himself.”
+
+“I wonder who will win now?”
+
+Han Sen looked at the restored Lone Bamboo and felt a jolt of happiness run through him. But he kept his calm and said, “That’s okay. I can wait a while longer, if that’s what you need.”
+
+“You can start. I don’t need to rest.” Lone Bamboo shook his head.
+
+The fight hadn’t even started yet. It was like everything had been reset.
+
+Lone Bamboo flapped his butterfly wings and said, “It seems I have combined with Purple Eye Butterfly, and in addition to the wings, I have his purple godlight.”
+
+“That’s okay. Feel free to use it,” Han Sen said.
+
+“Okay.” Lone Bamboo nodded. Then, the symbols of eyes began to light up across the wings. The light spread until it burst out and flew toward Han Sen.
+
+“Lone Bamboo is very strong, and now he has Purple Eye Butterfly’s godlight. I am afraid Dollar won’t stand a chance.” “He is too arrogant. He deserves what’s coming to him.”
+
+You don’t know anything! That was a fine display of chivalry!”
+
+“Only winning can make someone an elite. Losers are pigs and nothing more.”
+
+“But Lone Bamboo’s being an *sshole. Dollar just let him go instead of killing him. It’s not very nice that he now wants to fight him.”
+
+“Winning is all that matters. Dollar is stupid for not finishing him off, so you can’t really fault Lone Bamboo for behaving this way.”
+
+“No matter what, if Dollar is unable to break the Purple Eye godlight, he will lose.”
+
+“Dollar is a really strong individual. I don’t think he is stupid enough to make a mistake like this.”
+
+“Someone as strong as he is should not make such a stupid move. He must have a way in which to deal with the Purple Eye godlight. Otherwise, why would he not strike when he had the chance?”
+
+“If he could defend himself against it, why would he have stayed under Evil Eye’s control for so long earlier? He’s taken this bluff too far. I bet he thought that after their tussle, Lone Bamboo or Evil Eye would be extremely injured when they emerged. But nope. Lone Bamboo wasn’t injured, and on top of that, he has walked away with the benefits of Purple Eye Butterfly.”

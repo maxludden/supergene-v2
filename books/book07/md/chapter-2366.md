@@ -1,0 +1,96 @@
+Title:Back to Night Charm 
+Chapter:2366 
+Section:11 
+Book:7 
+CSS:../Styles/style.css 
+viewport: width=device-width
+  
+## Back to Night Charm
+### Chapter 2366 
+<figure>
+	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
+</figure>
+  
+
+  
+  Katcha!
+
+The green light flashed. Hell King’s head was cut off.
+
+The strange woman was stunned. She stared at the man who looked so skinny, clutching that green sword. All the other creatures around them were dead.
+
+The woman squinted, trying to remember exactly what had happened when she came out of the black stone. She remembered that the skinny man had been in the stone factory when she emerged. He would have been the one she killed first.
+
+But now that she thought about it, she didn’t remember actually killing him; he had been too ordinary to keep her attention. She just tossed some red light his way and ignored him.
+
+“He isn’t dead?” The strange woman looked at the man, who was smiling as he held the green sword. For some reason, when she saw his smile, the woman wanted to smile with him. It was like his smile was contagious.
+
+The woman looked at Ning Yue and said, “You are not bad. If you ally with me, you can use my deified powers. Then, you can become defied as well. Unstoppable. You will become the greatest in the universe.”
+
+Ning Yue smiled and didn’t answer. He walked slowly toward the woman.
+
+“You don’t believe me?” The woman looked intently at Ning Yue’s face. She knew she should be wary, but she couldn’t resist that infectious smile. She found herself treating him as a friend rather than a foe.
+
+“I believe you,” Ning Yue said seriously.
+
+The woman looked relieved. Somehow, what Ning Yue said felt incredibly trustworthy. His words seemed rock-steady, as if whatever he said had to be a universal truth.
+
+The woman sighed, and just as she was about to respond, Ning Yue used the little green sword to lop her head off.
+
+The woman’s head rolled across the ground, with her red eyes still staring at Ning Yue as if she couldn’t believe what he had just done.
+
+Ning Yue sighed and said, “I believe you can give me power, but I cannot beat the one I wish to with power alone. I need to take this step by step, my way, before I can stand before him.”
+
+Ning Yue wiped his little green sword. In his mind, he was still standing in that man’s shadow. Determination flashed through Ning Yue’s eyes. Then they became calm again. He walked up to the bodies of the strange woman and Hell King.
+
+…
+
+Han Sen maintained his claim on the primary root king dragon to absorb the king air. He stayed there for a whole month.
+
+The blood kirin also absorbed a lot of king air, and over the month of training, he healed fully. Over the same period of time, Han Sen managed to get five hundred Duke genes.
+
+But The Story of Genes could only open three gene locks before it stopped. As for the rest of the Duke genes Han Sen collected, he used them to open the gene locks of Jadeskin and the Blood-Pulse Sutra.
+
+Jadeskin seemed to have the same limit of three gene locks.
+
+“Opening the first gene lock grants an astral body. Opening the second gene lock provides a celestial body. Opening the third gene lock provides something above a celestial body. The third body feels different from a celestial body, but I can’t pinpoint exactly what that difference is.” Han Sen was amazed by the results of opening the third gene lock, even if he didn’t fully understand what had happened.
+
+As he trained, he also earned another reward. He managed to bring his Dongxuan Sutra up to the level of Duke. It had an element, but because he didn’t have any more Duke genes, he couldn’t open up any more gene locks.
+
+After The Story of Genes opened its third gene lock, it became difficult to absorb the power of the Kingese in his body. It was like the Kingese had fully merged with Han Sen’s cells, and they could no longer be separated.
+
+Han Sen still wished to stay in King’s Garden to absorb more king air, though. He wanted to open three gene locks for the Blood-Pulse Sutra and the Dongxuan Sutra. His hopes were soon dashed, however, because Bai Ling Shuang eventually showed up.
+
+“Brother Sixteen, I’m headed back to Night Charm Town,” Bai Ling Shuang said in a friendly tone.
+
+“I’d like to go there myself, but I haven’t gotten an invitation.” Han Sen then thought to himself, “There’s no way that she’s randomly being nice. What does she want this time?”
+
+“I’ll have Cher and the drinks ready. I will be the host tonight.” Bai Ling Shuang gave him a lazy smile.
+
+“In that case… I’ll be there.” Han Sen’s eyes were full of greed.
+
+Han Sen didn’t actually want to go, of course. But since Bai Ling Shuang had extended such an explicit invitation, he didn’t think he could turn her down. He would have to go eventually, so agreeing immediately would cast fewer doubts on his identity.
+
+Bai Yi’s ardent desire for Cher was well-known. If he didn’t accept the invitation, that would be very strange.
+
+In the most luxurious suite in Night Charm Town, Han Sen had draped himself over a sofa. He held Cher casually under one arm, and he swirled a glass of wine with his other hand. He looked at Bai Ling Shuang and said, “Sister Ten, tell me what it is you really want. You have been very generous with me this evening. Surely this isn’t simply an opportunity for us to hang out.”
+
+“The exams for the royal children are coming up soon. What are you planning to do about them, Brother Sixteen?” Bai Ling Shuang asked with a smile.
+
+Han Sen had a sip of wine and squeezed Cher’s butt with a smile. “What can I do? I’m just a first-tier King, and half-deified royal children will be competing. Even some deifieds will participate. What chance do I stand?”
+
+Bai Ling Shuang looked like she wanted to roll her eyes, but she still smiled and said, “Maybe not. The exams are something Father has established so that our progress can be reviewed. We don’t need to be number one. We just need to perform well to impress Father. If we do that, we can be rewarded.”
+
+After pausing, Bai Ling Shuang said, “I have witnessed your recent progress with my own eyes, Brother Sixteen. If you perform just as well in the exam, Father will notice. You will be heavily rewarded.”
+
+“I don’t think so,” Han Sen said with an uncomfortable feeling.
+
+Bai Ling Shuang looked at Han Sen for a while and said, “If you really don’t want to get first place in the exams, I have a way in which we can make money. Are you interested in hearing more?”
+
+“I lack pretty much everything. I have a distinct lack of money, too. Please tell me, Sister Ten.” Han Sen suddenly looked much more alert, and he considered Bai Ling Shuang with interest.
+
+She smiled and said, “You know that in the exam, there is a task that sends you to Bone Mountain? Bone Mountain is obscenely dangerous for ordinary royal children. Aside from Brother Four and Sister Three, who are deified, any other royal child that goes there might fail. Even the crown prince. But Brother Sixteen, you are different. You have the Kingese protection. You can surely reach the peak of Bone Mountain.”
+
+“Why don’t you just tell me what you’re after?” Han Sen frowned.
+
+“You help me to get to the peak of Bone Mountain, and I will give you whatever you want.” Bai Ling Shuang’s smile had vanished, and she looked dead serious.

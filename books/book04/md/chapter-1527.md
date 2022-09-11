@@ -1,0 +1,98 @@
+Title:God’s Ruin 
+Chapter:1527 
+Section:4 
+Book:4 
+CSS:../Styles/style.css 
+viewport: width=device-width
+  
+## God’s Ruin
+### Chapter 1527 
+<figure>
+	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
+</figure>
+  
+
+  
+  Han Sen quickly walked to the shelter’s hall. There, he saw a creature floating inside.
+
+“Little Fairy? You’re a demigod now?” Han Sen looked at the small, fairy-like lady with surprise.
+
+“What? Only you are allowed to be a demigod, and I’m not?” Little Fairy lifted her lips. It seemed as if she didn’t like what he had just said.
+
+“No, I just didn’t expect you to ascend so quickly.” Han Sen smiled.
+
+Han Sen had first encountered Little Fairy in the Second God’s Sanctuary, not the Third God’s Sanctuary. For a creature, leveling up was a much more arduous process than it was for a human. Han Sen was genuinely surprised she had become a demigod already.
+
+“Pfft! I became a demigod before you did.” Little Fairy looked at him with disdain.
+
+Han Sen then realized why he hadn’t seen Little Fairy in the Third God’s Sanctuary; it was because she had already become a demigod.
+
+“How did you find out where I’ve been staying?” Han Sen asked Little Fairy. The Fourth God’s Sanctuary was massive, after all.
+
+“That does not matter, but I found you because I know something that will interest you.” Little Fairy smiled.
+
+“What good deeds can you do for me? Forgive my dubiousness,” Han Sen said. Little Fairy was a heartless little creature, and she never even looked back when she ascended to the Third God’s Sanctuary. She just followed the other person through. Han Sen didn’t trust her, and he couldn’t imagine her going out of her way to do something nice for him.
+
+Little Fairy looked visibly annoyed, and she said, “You are a really unappreciative person. I came all this way to take you to God’s Ruin. I thought you’d benefit from the venture, but never mind then. I’m going now.”
+
+Little Fairy said she was going, but her wings flapped at a snail’s pace. She wasn’t leaving anywhere.
+
+“Drop the act and just tell me what this is all about,” Han Sen said. Little Fairy hadn’t changed a bit, and her personality was the same as always. The only difference was that she was now smarter and stronger.
+
+Little Fairy didn’t feel awkward, and she explained why she was there.
+
+She had been living well for herself. When she ascended to the Third God’s Sanctuary, a powerful spirit had taken her. After a few years, it had helped her open ten gene locks, and when the spirit ascended to the Fourth God’s Sanctuary, it brought her along.
+
+Little Fairy was living a nice life. She wasn’t doing as well as she had in the Third God’s Sanctuary, but she had managed to reach gemstone class. She was very talented and powerful, and the spirit continued to help her.
+
+It was a good thing that Little Fairy had come looking for Han Sen. She wanted Han Sen to go to God’s Ruin with her.
+
+God’s Ruin was a sacred place in the Fourth God’s Sanctuary. The item that was said to lie inside possessed a power that distorted dimensions. This was what made it special.
+
+The item had other powers as well, and it appeared in a number of different locations.
+
+Little Fairy was journeying to a ruin that was covered in ice. The place’s power was based on ice, just like Little Fairy herself. So, Little Fairy fancied testing her luck to see if she could get the item.
+
+If she didn’t get it, there was still plenty of stuff for them to get there. She wasn’t lying to Han Sen.
+
+“Many would enjoy visiting such a place. Won’t it be suicide for us to go with the power we have?” Han Sen asked quietly.
+
+Little Fairy smiled and said, “If super class elites were allowed, I wouldn’t have come looking for you. It only lets gemstones and those below inside.”
+
+“Well, in that case, I guess there’s no harm in trying,” Han Sen said.
+
+“Don’t hesitate. Let’s go! The heirs of many elites will be headed there, those from a variety of super shelters,” Little Fairy said.
+
+Han Sen wanted to go, but he didn’t know if he could still enter the ruin if he had a God geno core. A God geno core was a super geno core. If entry was restricted to gemstone geno cores only, he might not be allowed inside.
+
+Han Sen, after thinking things over, decided to give it a shot, regardless. A God geno core was different from a self geno core, so maybe there was a chance he’d be allowed inside.
+
+Even if he couldn’t, he might learn something by going along with the venture for the time being.
+
+“Are there any people from Outer Sky or Sacred going?” Han Sen asked.
+
+“Yeah. Yu Miao from Outer Sky is going, and so is Goddess from Sacred,” Little Fairy said, after thinking.
+
+“Okay. I’ll follow you.” When Han Sen heard those two were going, he definitely wanted in.
+
+Han Sen wasn’t on pleasant terms with either of those women, but it would be ridiculous for Han Sen to go to their respective shelters to try to kill them. Even if Han Sen didn’t earn any relics or items, killing them would make this trip worth it.
+
+That was especially true for Goddess and her cheap dog. He wanted nothing more than to slice them both up. But Han Sen still worried about whether or not he’d be able to go in. If he couldn’t, there was nothing he could do.
+
+Han Sen wasn’t afraid of the potential fallout from killing them both, though. Shadow Shelter now had Gu Qingcheng and Red Pony for back-up. They were powerful.
+
+Gu Qingcheng was a powerful person from Elysium Shelter, and since she feared Red Pony, it couldn’t possibly be any weaker. Even if Outer Sky and Sacred came after Shadow Shelter, it was difficult to tell which of the two would win.
+
+And Outer Sky knew Gu Qingcheng had taken over Shadow Shelter, too. They hadn’t dared to send anyone there, and they didn’t know Han Sen had returned to control it now.
+
+Han Sen packed a few things. He wasn’t going to bring anyone, but Bao’er, Little Silver, and Starsea Beast caught wind of his venture and wanted to come along.
+
+When Little Fairy saw Little Silver and Starsea Beast, her eyes beamed brightly. She convinced Han Sen to bring them along for additional firepower.
+
+Cheap Sheep and Green Cow were loyal, and they wanted to go, too. But Little Fairy turned them down in case they died.
+
+“Little Silver and Starsea Beast have gemstone geno cores, so we can bring them. They aren’t weaker than any super creature’s heir. If I can go, they shouldn’t have to worry about anything.” Han Sen thought about it and decided to let them come.
+
+But Han Sen thought that if he was unable to go inside, he wouldn’t risk them going inside alone. It’d be too dangerous.
+
+Plus, Han Sen was still worried about Little Fairy. There was always the possibility that she was trying to trick them.

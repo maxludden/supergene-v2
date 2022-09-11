@@ -1,0 +1,108 @@
+Title:A Thousand Miles of Blood 
+Chapter:2060 
+Section:8 
+Book:6 
+CSS:../Styles/style.css 
+viewport: width=device-width
+  
+## A Thousand Miles of Blood
+### Chapter 2060 
+<figure>
+	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
+</figure>
+  
+
+  
+  Han Sen used his Stone Cow body to rush forward. The shockwaves came thick and fast from his feet.
+
+Dragon Nineteen, Dragon Fifteen, and Long Ying were up front. Dragon Nineteen did not expect this, and so she had no time to block. She was the first to be struck by the wave of petrification, and she turned to stone in an instant.
+
+Dragon Fifteen and Long Ying were able to quickly evade it. They struck that petrification wave with their Dragon presence. It did little to stop the wave, though, and they felt their bodies begin turning to stone.
+
+Seeing them get petrified, Han Sen started to feel rather cocky. But suddenly, there came a roar. One of the Dragon guards was shining. He created a halo which quickly disabled the active petrification wave.
+
+“Damn! There is a geno art to remove petrification?” Han Sen’s stomach sank, and he stopped using his Stone Cow body, which was too slow.
+
+He revealed his true self, drawing his Blood Feather Knife as he ran for the exit.
+
+The few Dragon Dukes on guard leapt forward. They all cast their Dragon powers and ran towards him.
+
+“That is Han Sen! Kill him!” Dragon Fifteen yelled in fury. He became a xenogeneic and jumped towards Han Sen.
+
+Long Ying was even faster than he was, though, and her spear was fast approaching Han Sen from behind.
+
+Han Sen looked unconcerned. Two small blood-red wings appeared on his ears, and giant dragon wings sprouted from his back. His body turned dark red. He looked more like a dragon than Dragon Fifteen did. And on top of that, he had become far stronger.
+
+“Whoever gets in my way will die.” Han Sen clutched his Blood Feather Knife and raced towards the Duke Dragons. He did not care about Long Ying and Dragon Fifteen’s powers.
+
+As the Dragon presences and the lance converged on Han Sen, he simply flapped his wings and disappeared.
+
+The scary Dragon presences ended up hitting Long Ying’s lance, which created an explosion and a shockwave that sent her and the Dukes stumbling back.
+
+Han Sen was in front of the Duke guards now. His knife immediately slashed towards one of the Dukes with a knife air that looked like a purple fang.
+
+The Duke was still reeling from the shockwave, so he used his lance to try to block the strike.
+
+Dong!
+
+The Blood Feather Knife broke through the Duke’s lance and plunged into his chest. It broke the bones and ravaged the exposed organs.
+
+Han Sen moved quickly towards the gateway out of Return Ruin Sea. Dragon Fifteen and the others chased after him, as all the Dukes collected their power and sent it toward him. It was a wild storm on his heels.
+
+Han Sen kept flashing, using Break Space Flash to teleport a hundred meters at a time. He dodged the attacks while swinging his Blood Feather Knife. Many knife silks were weaved in his wake.
+
+“Argh!” The Duke in the lead came into contact with the first knife silk. He moved too quickly, and the momentum tore his body in half across the silk.
+
+Han Sen was still feeling cocky. The half-deified Blood Feather Knife’s knife silks were far stronger than his usual work. They could cut the body of a Duke with ease. And while that Duke might have been clumsy enough to allow that to happen, it was still an impressive surprise.
+
+But before Han Sen could revel in his happiness, many more Dragons and xenogeneics appeared through the gateway. He hadn’t expected there to be so many Dragons immediately outside Return Ruin Sea.
+
+Seeing this, he knew he would have to kill if he wanted to get out. He used his powers like crazy, diving into the crowd of xenogeneics with his Blood Feather Knife.
+
+“Han Sen! This is the day you die!” Dragon Fifteen turned into a xenogeneic and continued the chase. He held his lance like a drill, spinning through the air as he came.
+
+“The sky is in my hands! You are just a doll. How dare you say that.” Han Sen followed the whims of his knife, casting his skills to the best of his abilities. As he went, he also employed Heavenly Go and the Dongxuan Sutra.
+
+Blergh!
+
+He moved like a mountain spring!
+
+Han Sen’s body was very strong. Wherever he went, knifelights were cast, and there was a ceaseless spraying of blood. Limbs were lopped and scattered all about.
+
+Xius saw Han Sen killing thousands of xenogeneics and Nobles. She witnessed his red body repeatedly flash as the stream of blood became a raging river. Dragon Dukes and even pure Dragons like Dragon Fifteen were unable to bring him harm.
+
+Dragon Fifteen was in the fight, but Xius was out of it. With a look of absolute shock, she watched Han Sen battle the horde of xenogeneics.
+
+Normally, she would think Han Sen was weaker than the Dukes. He’d appear far inferior to them.
+
+But with what she was seeing now, she knew he wasn’t. And she noticed Dragon Fifteen just following Han Sen’s blade like a puppet. Wherever Han Sen went, the others were being dragged. They all did things far slower than Han Sen did.
+
+The feelings elicited were scary. It made Xius’ scalp feel numb, as a chill ran through her heart.
+
+“Those who follow Under the Sky’s path are all dolls.” The words popped into Xius’ head, and she had no idea where they came from.
+
+“Scary man. No wonder he was able to kill Sharon. His knifeskills are way beyond his level,” Xius said to herself.
+
+The mountains and the rivers were dyed with blood, all because of the knife not being in its scabbard.
+
+Han Sen fought for a thousand miles, and wherever he went, Dragons came for him. And on and on, they kept on coming. Han Sen was soaked in blood, and severed heads bounced around his feet.
+
+The invisible knifeskills he employed had taken many lives that were airborne, even. But even so, the xenogeneics continued coming for him.
+
+“Han Sen! If I don’t kill you today, I won’t be a Dragon.” Dragon Fifteen was so mad, his Dragon body came flying forward. The lance was like a needle, and it came spinning towards Han Sen.
+
+Han Sen swung his Blood Feather Knife, and the knifeskill and the lance collided. The knife air was broken.
+
+Long Ying was like a flying dragon. Her lance was like a raging beast. Han Sen flapped his wings and evaded her strike.
+
+If he didn’t have Break Space Flash, he was sure to have been hurt. The power Sharon wielded was too incredible, and Han Sen wouldn’t have been able to kill him without super god spirit. He would have been the one to die.
+
+Countless bones snapped and streams of blood ran everywhere. Han Sen killed across tens of thousands of miles, but there were still many xenogeneics coming for him. He wouldn’t be able to kill them all.
+
+The Dragon were a famous high race of that universe, and they deserved their reputation.
+
+“Han Sen, a grand mistake you have made, making an enemy of the Dragon.” A new, scary Dragon flew down to the battleground.
+
+“Big Brother!” Dragon Fifteen screamed excitedly.
+
+Han Sen was shocked. The leader of the Dragon, Dragon One, had come.

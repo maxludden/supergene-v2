@@ -1,0 +1,92 @@
+Title:Fun Place 
+Chapter:2245 
+Section:10 
+Book:7 
+CSS:../Styles/style.css 
+viewport: width=device-width
+  
+## Fun Place
+### Chapter 2245 
+<figure>
+	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
+</figure>
+  
+
+  
+  “What fun thing are you referring to?” Han Sen asked the Fox Queen worriedly.
+
+“It’s so cold here, with nothing but stone walls and icy water. How many forms of entertainment do you think are available here? Of course, you must know what I’m referring to…” Fox Queen’s eyes smoldered as her voice drifted off. She salaciously licked her red lips, then moved one hand into her white gown. The other hand started to drift across her boobs.
+
+Han Sen’s eyes couldn’t help but follow her hands. He mumbled in his heart, “Being horny is bad. It doesn’t mean anything. At the end of the day, we’re just skeletons.”
+
+Although Fox Queen sounded very seductive, Han Sen doubted that her intentions were as simple as she pretended. She had to be a King class elite, at the very least. God only knew what she was up to.
+
+Han Sen didn’t believe she would lure him all the way there just for a little cuddle time.
+
+She was a King class elite, so she could be planning anything. She was the wife of General Ghost Bone, and Han Sen didn’t even know if the man was dead or alive. If he was still alive, and he caught his wife cheating with Han Sen, things would turn out very poorly for Han Sen.
+
+Fox Queen winked at Han Sen. She brought her hand away from her boobs, revealing the black bone key she had been retrieving. She displayed it in her hand.
+
+The key had hung like a pendant from a necklace made of white jade.
+
+“This will be very fun. Follow me.” Fox Queen winked at Han Sen again. She kept the necklace in her hands as she walked towards the palace.
+
+“What a tease. She sure likes to torture people.” Han Sen watched her walk away, and he couldn’t help but sigh. Still, he followed her.
+
+That palace was elegant. Han Sen had originally thought that it was made of jade, but when he examined the place more closely, he could see that the palace’s doors and pillars were all built from bone.
+
+The bones were semi-transparent like jade, and they glinted beautifully when the light caught them. He didn’t know what creature left bones like that, though.
+
+The bone palace had a primary hall, winged by two lesser halls on either side. The place wasn’t large, and it was mostly decorated with bone adornments. Even the pool was made out of bone, not jade-like stone, as Han Sen had assumed.
+
+The chains that bound Fox Queen were very thin. When she walked, the chains rose from the bottom of the pool. Evidently, they didn’t restrain her movement.
+
+Fox Queen was walking smoothly to the lesser left hall. Han Sen followed after her, and he saw there were many special treasures there.
+
+There was an array of weaponry, sets of armor, jewels of all kinds, herbs, and all sorts of different treasures. Han Sen’s breath caught in his chest as he looked at the place, and he desperately wished all of those goodies belonged to him and only him.
+
+Seeing Han Sen eyeing those treasures with such greed, Fox Queen smiled. She looked directly at him and said, “If you will agree to be my lover, all of this can belong to you. You can take whatever you please. How does that sound?”
+
+Han Sen stopped looking at the treasures and turned his gaze to her. “Did you bring me here just for that?”
+
+Fox Queen gave him a look of disdain. “Of course not. What is the meaning of possessing all that useless stuff?”
+
+After that, Fox Queen walked in front of a wall that housed an enormous mural. Countless demonic faces had been drawn across it.
+
+Han Sen didn’t recognize what kind of demons they were, but it looked like the gates of hell had been swung wide open. Many ghostly forces were trying to crawl out of a dark pit to unleash havoc on an unsuspecting world.
+
+The faces held chilling expressions of greed and blood-lust. As Han Sen looked at the artwork, it seemed like the demons were about to leap to life and start devouring people.
+
+Fox Queen stood on the left side of the mural, in front of the gate to hell. The closed gate was shaped like an enormous skeleton, and it was wreathed in wicked hellfire.
+
+Fox Queen placed the black bone key into the skeleton’s right eye. She twisted the key, and a loud clacking noise came from the mural.
+
+The hellish, skeletal gate opened. The painted gate had become a real gate, which now opened into darkness on the other side of the wall. It was pitch black, like a black hole. A faint wailing noise came from that lightless pit, and hearing it gave Han Sen a chill.
+
+“The fun thing is in there. Do you dare enter?” Fox Queen still stood next to the open door, smiling at Han Sen.
+
+“No.” Han Sen shook his head.
+
+Fox Queen didn’t seem to mind the refusal. “It’s okay. I will ensure your protection. Follow me and I will lead you on a trip to hell.”
+
+After that, Fox Queen stepped towards the hellish skeleton gate.
+
+Han Sen was thinking to himself, “You can go, but I sure as hell am not setting foot in there. God only knows what sort of trap is awaiting me.”
+
+Han Sen was quite resolute in his decision, but he swiftly realized that his body wasn’t obeying him. He was headed into the hellish skeleton, too. He had no control of his limbs, like he was a puppet on strings.
+
+Han Sen looked at Fox Queen in fear. Half of her body was through the gate by this point, but she looked back and gave Han Sen another one of her smiles. She lifted a hand, and it was as if an invisible cord jerked Han Sen towards her.
+
+Han Sen cast his Dongxuan Aura and used the Purple-Eye Butterfly. He could see that Fox Queen was tugging on a chain made of some invisible substance. The chain was looped around Han Sen, allowing her to pull him along easily.
+
+Han Sen frowned. He didn’t know when he had fallen into this trap of hers. He tried casting various powers to see if he could escape from the chains, but it was all to no avail. Nothing he tried worked.
+
+“She managed to tie me up, and I didn’t even notice. This Fox Queen is stronger than I presumed. Maybe she’s actually deified?” Han Sen used a few more powers, but they didn’t work, either. That gave him a big shock.
+
+He couldn’t free himself from the restraints, so he decided to stop fighting them. He allowed Fox Queen to lead him towards the hellish gate.
+
+“I cannot escape if she wishes to kill me with her talents. I would rather walk in there calmly than be dragged in like some dog,” Han Sen thought. And truth be told, he was rather curious about the skeletal gate. Of course, if he had the choice, he wouldn’t be walking inside just to satisfy his curiosity.
+
+Fox Queen smiled. She walked through the gate with Han Sen following.
+
+When Han Sen stepped inside, he felt a sudden force of suction drag his body forward. A bright light shone around him, and he was transported somewhere else in the space of a second.

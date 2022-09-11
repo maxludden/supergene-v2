@@ -1,0 +1,84 @@
+Title:The Use of a God Temple 
+Chapter:3147 
+Section:16 
+Book:10 
+CSS:../Styles/style.css 
+viewport: width=device-width
+  
+## The Use of a God Temple
+### Chapter 3147 
+<figure>
+	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
+</figure>
+  
+
+  
+  Upon hearing it had a wealth authority, Bald Guy lost all interest. He immediately shook his head and declined with a firm negative. After all, his father was the leader of a city. He was not exactly rich, but he never had a lack of money. Earning a lot of money wasn’t something that interested him.
+
+If it was some God Spirit Blood-Pulse skill that could help a God Spirit or a power that could increase one’s combat proficiency, Bald Guy would have immediately accepted the offer. A God of Wealth God Spirit Blood-Pulse was useless for him. After all, he has a complete Blood-Pulse, even if it was a low-level God Spirit Blood-Pulse. It was only destroyed class.
+
+While the three of them discussed things, the God of Wealth Temple, which hovered above the river, went into the river. That was where the break head god temple had been.
+
+“Holy shit! I am not a river god. Why did you sink into the river? This planet has nobody. If it sinks into the water, who is going to go inside and prey?” Han Sen felt depressed, but he could not move the god temple. The god temple was moved by a god’s power earlier. Now that he had left the god temple, the god power in the god temple was gone. Therefore, it sunk.
+
+After the break head god temple was obliterated, Han Sen and the others did not encounter anymore strange goings-on. The whole river glowed, but the land pulse weird scene did not really have a connection to the break head god temple.
+
+After that, Han Sen and the others dug up land pulses around the river without fear. They could do so freely. Although the land pulses themselves might cause harm, the repel evil rhino could deal with whatever was thrown at them. No injuries were sustained. They dug up many gene eggs.
+
+Plus, this was now a territory belonging to the God of Wealth. It was protected by the God of Wealth Temple’s power. The buff powers hardly did a thing to them.
+
+Han Sen decided to name the river God of Wealth River. He would have to think of a way to earn ownership of the planet at a later date so he could go ahead and name the planet God of Wealth Planet. That way, he could invite more people and earn more resources for the God of Wealth Temple. If he did not do that, the broken temple residing at the bottom of a river on a planet where no humans ventured would see no visitors.
+
+The land pulses around the God of Wealth River were very good. They were able to get king-class gene eggs by randomly digging. After digging for a whole day, they found a god-class gene egg. Bald Guy was happy, but he had already told Han Sen he didn’t want anything more when he accepted the hawk. Now, Bald Guy’s sudden excitement was crushed by depression. Han Sen was not interested in ordinary gene eggs. He kept looking at the flying fish next to him.
+
+After the fish absorbed the God Spirit Blood-Pulse, it had become a God Spirit gene race that belonged to a wild god. It would make for a nice sub god in his god temple. But the little flying fish’s situation was rather complicated. If he wanted to make it a sub god like Decapitation Queen, it would be difficult because the flying fish had no god base.
+
+A god base was needed. Aside from destroying other god temples to earn one, the only other way to get one was through giving humans Blood-Pulses. Later, when the humans developed, the God Spirit would reap their benefits. The god temple would then grow stronger. The gene race would become a new sub god and have an empty god base. Unfortunately, Han Sen’s God of Wealth Temple had only just appeared. There were seven slots for a sub god, but there weren’t any god bases.
+
+If a god temple had more sub gods, it would become stronger. If Bald Guy kneeled before God of Wealth Temple’s main god, he could get a main God Spirit’s authority buff. He would have wealth, and he could also have the sub god’s death penalty authority buff. The more sub gods Han Sen claimed, the more authority buffs Bald Guy could be given.
+
+Of course, Han Sen wouldn’t use the God of Wealth’s identity to impart a Blood-Pulse. If people obeyed the sub god, they could only claim the sub god’s Blood-Pulse and authority buff. The main god had nothing to do with the temple and other sub gods.
+
+If all the members of a sub god achieved something, the main god would benefit.
+
+Feng Yin Yin had to be taken by the God of Wealth. Han Sen still counted on finding another buff with a sonic-class sub god. He did not want to waste her sonic-class talents.
+
+As for other people, it depended on their attributes and preferences. Ordinary geniuses could give him a sub god Blood-Pulse while the real rare geniuses could be taken by him.
+
+“Hang on. The Cast God Court method… Why am I sensing that it can create a sub god?” After Han Sen thought of that, his face looked strange.
+
+The God of Wealth River was too big. Han Sen and the others went digging for a few more days, but they did not dig up much.
+
+“This place has too many land pulses. Bald Guy, you might see it. Which land pulse makes this river glow?” Han Sen was not interested in digging ordinary land pulses. The gene eggs were great, but he wanted more God Spirit Blood-Pulses. If he found one, he could great a God Spirit gene race.
+
+Otherwise, with only ordinary gene races at his disposal, he could not make a God Spirit gene race.
+
+“According to the formation of Snake Turtle Hide, that is the most dangerous land pulse,” Bald Guy said. “It should be in the lower stream of the dark river. It is where the snake and turtle bit each other before receding into the turtle shell. Where they fight is the most dangerous place.”
+
+“In that case, let’s go check it out,” Han Sen said.
+
+Bald Guy had a wry smile. “I don’t think we should do that. The river is underground. I do not have enough knowledge to survey land pulses that reside underground. If we dig slowly, I do not know how long it might take. Unless my teacher is willing to help us, we cannot do much about it.”
+
+“If things are really like that, then let’s go and ask Mister Wei,” Han Sen said after a think.
+
+Bald Guy said, “I know you are strong, but others don’t know that. This is the most dangerous place of the Snake Turtle Hide. I am afraid he might not dare come with us.”
+
+“Well, we don’t know if we don’t try,” Han Sen said with a laugh. “We have been here digging for days all for nothing. I am sure Mister Wei will at least consider it.”
+
+Bald Guy said nothing. After packing up, he went back to the base where Sky King was.
+
+After leaving the God of Wealth River, they met Brother Three. When Brother Three saw them all return safe and sound with plenty of gene eggs, he looked angry and jealous.
+
+“Weird. Even with Bald Guy’s repel evil rhino protecting him, they cannot all make use of it. That little girl cannot even use a gene race, yet she returned just fine. Does that mean the Snake Turtle Hide formation is not as scary as we thought? If I do not go close to the underground river, I should be fine.” Brother Three was awfully tempted.
+
+After all, if he dug gene eggs there, he would have to give a lot to Sky King and Han Sen. His teacher, Mister Wei, could only earn 30%. He would get even less than that.
+
+If he went near the river to dig, no matter what he got would belong to him. That was a big difference.
+
+Humans died for wealth. Humans died over food. Brother Three felt determined. He ran to the river and started digging land pulses. He did not get too close to the stream. He stayed 200 miles away from it.
+
+He used a gene race to repel evil, but it was not something as good as the repel evil rhino. It was a lower level.
+
+“The land pulses here are so good. I got a king-class gene egg on my first dig.” Brother Three was feeling perturbed. After digging up a gene race, he almost jumped up for joy. “Huh? That Bald Guy is nothing. If he can dig up these land pulses, I can do it too. I can do it better than him.
+
+Brother Three was excited, but he did not notice the black line on his neck.

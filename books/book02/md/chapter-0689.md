@@ -1,0 +1,104 @@
+Title:Golden Ladybug 
+Chapter:689 
+Section:2 
+Book:2 
+CSS:../Styles/style.css 
+viewport: width=device-width
+  
+## Golden Ladybug
+### Chapter 689 
+<figure>
+	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
+</figure>
+  
+
+  
+  But something was faster than Han Sen. The pink snake was using its legion of snakes for cover, and he didn't know when it had managed to get so close. The small snake was thin like a chopstick, yet when it opened its mouth, it was wide enough to swallow the entire peach.
+
+Seeing the peach about to be swallowed by the pink snake, another gold shadow emerged from the hole in the tree. In one smack, the pink snake was sent flying.
+
+It was another gold-winged ladybug. It grabbed ahold of the pink snake and bared its teeth, ready to sink them right into the slithering fiend.
+
+But the pink snake's body released some red mist like the peach. The bug let go and staggered away, looking dizzy.
+
+The pink snake used this opportunity to escape from the gold-winged bug. But when the bug snapped out of its daze, it went right back after the snake.
+
+At that moment, Han Sen noticed another two gold-winged ladybugs emerge from the hole inside the tree. This gave him quite the shock.
+
+There were more than two gold-winged ladybugs now; bugs that were almost as strong as the super creatures. Four had exited the hole, and heaven knew how many more might still reside within.
+
+Of the two additional gold-winged ladybugs, one targeted the blue beast, whereas the other targeted Han Sen.
+
+Han Sen gritted his teeth, flapped his wings, and fell back a bit. He wasn't sure whether or not there were any more inside the hole, so he didn't dare attack. If he did, he might miss his chance at getting the peach.
+
+The gold-winged ladybug was coming towards Han Sen, and in response, Han Sen swung his rex spike at the gold shadow. But the bug was too nimble, and it evaded the attack with ease. It continued onwards at full speed.
+
+The silver fox looked angry in response, as all the hair on its body stood up. Lightning cracked and sparkled across his coat of fur, which emitted a bolt of lightning that jumped towards the oncoming foe.
+
+The gold-winged ladybug flapped its wings to evade the silver fox's attack and continued its buzzing pursuit of Han Sen.
+
+It was too late to lift the rex spike again, and his heart quickly jumped. The peacock crossbow appeared in his hand, and with it, he smacked the bug that was coming to devour him.
+
+Pang!
+
+The peacock crossbow and the gold-winged ladybug collided. A terrible force was transferred to Han Sen's hand, however, and he was sent spiralling. He was knocked a few dozen meters away but managed to keep his balance. His hand was bleeding, and it felt numb.
+
+"That is some scary power. That little creepy-crawly isn't any weaker than the average super creature." Han Sen was shocked, but he quickly took notice of the gold-winged ladybug resuming its pursuit of him.
+
+Han Sen and the silver fox fought the ladybug together but still, they were at a disadvantage. Han Sen had to use his really good senses, powered by the Dongxuan Sutra, but even with the silver fox's help, he was barely able to maintain his competition with it.
+
+It was difficult to see who was winning the battle that was raging between the other gold-winged ladybug and the blue beast. He could sometimes catch a glimpse of a blue flash that would follow the occasional roar.
+
+The big and small bear used this opportunity to break the black bugs' barrier. They ascended the peach tree as best they could, and with their thick fur and hide, had no fear of the bugs biting them. When they arrived near the peach, their bodies were black, covered in the nibbling insects.
+
+But this time, the big bear had a plan. It stared at the hole in the tree while allowing the little bear to gather the peach.
+
+There was more movement from inside, and indeed, something else was ready to emerge.
+
+But this time, it was not a gold-winged ladybug. It was a ladybug that was plated entirely in gold. Its head was twice the size of the other gold-winged ladybugs.
+
+It flapped its gold wings and shot out of the hole towards the bear cub like a gold shadow.
+
+The black bear roared and used its claws to try to grab the golden ladybug. But it was too fast, and with its rapid wings, it evaded the bear's paws and continued on to the cub.
+
+The big bear roared, as if it was alerting the cub. But the cub, almost having reached the peach, didn't want to give up. It extended its paws and tried to grab it.
+
+Pang!
+
+The golden ladybug hit the cub, and it fell off the tree. It created a big hole in the ground when it landed. From below, the cub cried out in pain.
+
+The big bear no longer cared about the peach, and so it jumped down from the tree, roaring with anger as it chased after the golden ladybug. It was going to save the cub from danger.
+
+Han Sen was frozen. He wondered what the bug might have been, and it seemed to be of the same breed as the gold-winged ladybug. One thing was for certain, however; it was far stronger.
+
+The two bears were fighting against it, but they weren't winning. The bug's mouth was extremely sharp, and even the obsidian-strong fur of the bears could not withstand its bites. The cub was peppered with wounds from the insect assaulter, but fortunately, none were deadly.
+
+The black bear's claws smacked the golden ladybug's shell with a mighty slap, but nothing broke. Furthermore, it appeared entirely unfazed.
+
+The two bears were being ravaged as they did battle with the golden ladybug.
+
+And throughout this entire time, none had the free space or time to grab the peach. Now unopposed, the smaller black bugs resumed their shape as a hand and tried to grab the peach again.
+
+Excitement glistened in Han Sen's eyes. He clenched his jaws and summoned the adiraid. A holy body cracked the air and perched itself atop the tree. It swung its transparent greatsword and severed the hand that had been formed by the black bugs. As she did this, she used her other hand to grab the peach. But when the adiraid tried to pull it, she could not get the peach free.
+
+Her eyes turned cold, and she swung her greatsword to detach the peach from the twig it stubbornly clung to. When she did this, the peach finally came free in her hand.
+
+Han Sen was happy, seeing this. There were no other bugs coming out of the hole in the tree, so it looked like five was all of them. And now, the holy peach was in the adiraid's hand.
+
+Han Sen's hand jumped, and he ordered the adiraid to leave the area. Otherwise, if she was noticed to be holding the peach, she'd become enemy number one for every super creature in the forest.
+
+Boom!
+
+The adiraid flapped its wings and shot off into the sky.
+
+Then the five ladybugs and the super creatures did indeed turn their attention to the adiraid. They all roared, screamed, and screeched with a desire to tear the adiraid apart. They went after her.
+
+Han Sen saw this, so he gritted his teeth and pulled out his rex spike. He traveled to the other peach, the one that hadn't fully ripened yet.
+
+He had never expected there to be five super creature ladybugs guarding the fruit. He was fortunate that the adiraid had managed to pluck the peach when it did.
+
+If he came back for this one when it was ripe, however, he was unsure whether or not he'd be able to get it. If they were aware the adiraid belonged to Han Sen, and he was the one who had obtained it, the other creatures would be especially wary of him.
+
+The five golden ladybugs were too powerful for him to fight, and he didn't want to risk his life any further.
+
+If he wasn't going to risk his life again, he thought he might as well grab the other peach while he was there. Even though it wasn't entirely ripe just yet, it had to be useful somehow. Perhaps it would be less efficient, but it was better than nothing.

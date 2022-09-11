@@ -1,0 +1,100 @@
+Title:Invisible Toxic King Scorpion 
+Chapter:1241 
+Section:3 
+Book:3 
+CSS:../Styles/style.css 
+viewport: width=device-width
+  
+## Invisible Toxic King Scorpion
+### Chapter 1241 
+<figure>
+	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
+</figure>
+  
+
+  
+  Han Sen didn’t lie to Saint Fan, as his body truly had developed a problem.
+
+The ugly biomass had developed a number of unhealthy blisters. They were empty, but they produced deep craters across his body when popped.
+
+These blisters began to appear more and more, honeycombing the mutated being like some beehive. The gross sight of Saint Fan was only becoming more garish and twisted.
+
+“Impossible! My body is fine; I can heal…” Saint Fan was speaking from many of the mouths that composed his body.
+
+He had no idea when this had begun, and the wounds that were webbing their way across him had sprung up on him with surprising speed. It didn’t seem as if he would have noticed, had Han Sen not pointed the issue out to him.
+
+More and more blisters grew, transforming the biomass into a podded mess, not too unlike a thick bunch of grapes. The blisters, when they bloated and became too big, popped to reveal craters in the flesh. Nothing came out of them, but it was clearly a problem.
+
+Saint Fan’s body was full of these holes, and it was like he was fizzing away.
+
+“How is this happening? Heal me, rhino!” Saint Fan commanded.
+
+Holy Rhino cast its holy light on Saint Fan, but something seemed to separate the light from the wounds.
+
+Saint Fan was frightened by what was going on, so he tossed away all the now-grotesque carcasses of spirits and creatures that had previously resided within him.
+
+When he had been reduced to his true self, even his proper body was becoming holey. Things looked dire for him.
+
+“What did you do?!” Saint Fan demanded.
+
+“Nothing; aside from killing you,” Han Sen said, with giddy excitement bubbling beneath his straight-faced words.
+
+At the beginning, when Han Sen’s talons scraped against Saint Fan, the spirit healed immediately after. The toxins Han Sen had deployed within that scratch, however, could not be healed.
+
+Han Sen was not carrying poison around with him; he had actually put a glyph to use. It gleamed across his back now, and it was the glyph that came from the Thorn Scorpion. It had been combined with the Invisible King Scorpion gem beast soul.
+
+<div class="tables">
+	<table class="beast">
+		<tr>
+			<th colspan="2">Beast Soul Gained</th>
+		</tr><tr>
+			<td>Berserk Super Invisible Toxic King Scorpion</td>
+			<td>(Glyph)</td>
+		</tr>
+	</table>
+	<!-- Invisible Toxic King Scorpion Beast Soul: Glyph Type -->
+</div>
+
+Han Sen hadn’t had a chance to try it out yet, and all he had known about it was that it carried and deployed toxic poisons.
+
+The toxic substance was a silent killer, one without smell and taste. It could go totally unnoticed until the effects took action.
+
+After Han Sen attacked Saint Fan, Han Sen initially believed it did nothing. There was no immediate reaction, and with Saint Fan being so strong anyway, it wasn’t entirely unlikely that he could withstand the poison.
+
+If it was effective, Saint Fan would have most likely brought attention to it, as well.
+
+Han Sen only noticed the poison was working when he saw the blisters begin to develop, swell, and pop like a corrosive acid.
+
+Han Sen was happy that the poison had taken effect, but he was more than surprised to learn Saint Fan hadn’t even noticed what was happening to him until Han Sen had pointed it out.
+
+The toxic substance might not have been the strongest in existence, but it was most certainly the most unsettling. It really was quite mind-blowing to learn Saint Fan was completely oblivious to the poison he had been struck with.
+
+Han Sen did not know if he himself could withstand such a toxin, either.
+
+Han Sen really wanted to practice Jadeskin after seeing this, as it increased one’s poison and toxin resistances. It was far better at developing such defenses than the Dongxuan Sutra.
+
+The Dongxuan Sutra was great for building a powerfully-balanced body, but it wasn’t the greatest out there. If it truly was the be-all and end-all, Dongxuan Zi would not have died.
+
+“I definitely need to practice Jadeskin,” Han Sen decided.
+
+Saint Fan’s body was peppered with holes, but he still could not feel anything. He only noticed what was going on due to what his eyes were relaying to him.
+
+What’s more, Saint Fan lifeforce was gradually beginning to fade. He became weaker and weaker, despite his insistence on clinging to the belief that he had not been poisoned and that this was the work of some other phantom menace.
+
+Saint Fan looked at Han Sen with utter contempt, and suddenly, he jumped into the skies, wishing to fly away and abandon the field of battle.
+
+Han Sen patted Little Silver on the head. Then, the furry fiend leaped into the air, split its ten tails, and fired a barrage of electric bullets to fry the airborne Saint Fan.
+
+Saint Fan was incredibly weak by this point, so he was disintegrated into nothing more than dust.
+
+Aside from the rhino, everything that was a part of him disappeared.
+
+Everyone else who was present had just taken a seat to watch the spectacle. They were in awe at what had transpired, but they were also extremely confused. They didn’t have a clue about what had just happened.
+
+Dry Bone King wanted to kill the rhino. It might not have been an active participant in the fight, but it had supported Saint Fan and healed the troops constantly.
+
+“Stop.” Han Sen had a history with the rhino. He had even obtained its tear, as well. Furthermore, the rhino was most likely under contract with the spirit and was only doing as it was commanded. Han Sen didn’t want the rhino to die or be killed so simply.
+
+But Han Sen wasn’t willing to let the rhino go back to help Saint Fan rebuild, either.
+
+“Rhino, I know you have been contracted to help Saint Fan. And I know you were only doing as you were bid to.” Han Sen said this while bringing out his Cruel Bottle. He went on to say, “This bottle is its own little dimension. It can disconnect you from the obligations you are sworn to here, in this world. The contract Saint Fan has with you has no meaning or hold on you inside this bottle. If you wish to switch masters, I will accept you. And if you join me, you can reside inside this bottle until I have finished with Saint Fan once and for all. Only I will have the power to release you once you enter, but you have my word that I won’t hold you for any longer than is necessary.”

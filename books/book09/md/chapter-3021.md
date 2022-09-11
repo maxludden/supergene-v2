@@ -1,0 +1,82 @@
+Title:Armor Appeared 
+Chapter:3021 
+Section:15 
+Book:9 
+CSS:../Styles/style.css 
+viewport: width=device-width
+  
+## Armor Appeared
+### Chapter 3021 
+<figure>
+	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
+</figure>
+  
+
+  
+  Power flowed through Littleflower’s body. The space around him looked twisted. Black and white fire flowed through the destroyed holy hall. It started recovering. It was not just the holy hall. The whole of the darkness that surrounded Sacred had some miraculous changes thanks to that power.
+
+The eternal darkness faded away. The broken buildings started to rebuild. No matter whether or not it was a building that was destroyed or one weathered through time, it was all fixed due to that weird power. Sacred was a ruin, but it now reverted to its former glory like in the good old days. It was unbelievable.
+
+Not long later, the darkness that covered Sacred was completely gone. The whole of the big barren systems recovered with a teeming lifeforce and a spell-binding beauty. Many planets returned to life with life forces again. Broken buildings were renewed.
+
+Even the holy hall and the statues inside the holy hall returned to normal. The only thing that was not fixed was Qin Xiu’s statue. Littleflower, who was wearing the armor, was floating in that spot. The flames were now starting to dim.
+
+“Littleflower, you made it!” Old Cat, who was nearby, opened his eyes wide. He looked at Littleflower, who was wearing the armor. He looked excited as he spoke.
+
+“Did I really become true god class?” Littleflower was happy. He clenched his fist and felt the scary power inside him.
+
+“No, you are not just true god class,” Old Cat said. “Your body’s top is true god class, but the armor gives you a power that exceeds that. Your holy body, combined with the armor, has given you a power that exceeds what a true god class fighter can achieve.”
+
+“Where is Qin Lan? I am going to exact vengeance for what he did to Auntie Mei.” Littleflower held his fists tight as he spoke. His eyes looked murderous.
+
+“He is there…” Old Cat stood atop the roof of the holy hall. He pulled out a paw and pointed into space. Littleflower looked at Old Cat’s paw. He saw the god palace in space.
+
+“Is he a God Spirit? Which is his god temple?” Littleflower’s eyes were on fire as he looked at the god temple.
+
+“He is not a real God Spirit,” Old Cat said. “He is just an obscene traitor of Sacred. Right now, he is inside that god hall. You need to go to the geno hall to see him.”
+
+“The geno hall, huh?” Littleflower stared at the zenith of all the god palaces. His eyes looked full of confidence. The power in his body was wildly surging
+
+Boom!
+
+The presence on Littleflower exploded. It was like a bomb blowing into space. His body kept appearing and disappearing. It was like he teleported into god palace’s radius. He was quickly going to the very top geno hall and god palace.
+
+The god palace had been there for a long time. All of the races were used to the god palace’s existence. Creatures always went to god palaces to make wishes while powerful creatures went there to challenge a God Spirit.
+
+A Feather had just entered the area of a god palace. He was wondering which god temple he should go to make a wish. He suddenly saw a white flame that was not too far away. It was headed to the space near him. It was going to the highest tier of the god palaces.
+
+“Who is flying that fast? Does that person have a death wish?” The Feather moaned. He thought the person who looked like a flame was going to the god temple that was at the highest level to make a wish.
+
+After all, something like Han Sen fighting an Annihilation class God Spirit had only happened once. The Feather quickly noticed that something was wrong. The black and white flame went right past the Disaster class and Annihilation class god temples. It kept flying high up. He watched as it headed for the geno hall that was at the highest point of the god palace pyramid.
+
+“What is he doing?” The Feather was shocked.
+
+In the universe, many people saw Littleflower’s movements. They were all confused as they looked at him.
+
+Sky Palace Leader was staring at Littleflower too. His face looked weird. He suddenly moved and teleported into a secret room. He pressed a button and pulled out a drawing from a big bell.
+
+He took the scroll out of the secret room and looked at Littleflower’s body. He quickly glanced at his scroll. A man clad in armor was on the scroll. That armor was in the form of a man’s body. The face was not visible, but just the man standing there made it known that his power was extreme. It was like a king was descending to earth.
+
+Sky Palace looked at the armor-clad man in the painting. He then looked at Littleflower flying toward the god palaces. His face looked very solemn.
+
+The armor in the painting was pure black, but Littleflower’s armor was pure white. Aside from that, the two of them were exactly the same. They looked like a carbon copy of each other.
+
+“Palace Leader… That person… That armor…” Sky Palace’s first seat quickly went to Sky Palace Leader. He was usually calm, but now he could not make a sentence.
+
+Before Sky Palace’s first seat finished, a woman’s body appeared next to Sky Palace Leader. Her face looked just as shocked. She said, “That armor… Is that the one?”
+
+“It is hard to say. It seems like it, but it is a bit different.” Sky Palace Leader looked at the armor on the scroll. He again glanced at the god palace Littleflower was headed toward. He looked very conflicted. It seemed as if he was not very sure.
+
+In the universe, many old creatures were watching Littleflower with much shock. Even the people in Blood Legion’s palace, such as Human King, looked at Littleflower with surprise.
+
+The red-clothed woman opened her umbrella. She walked over to Human King with the red umbrella covering her face. No one was able to see her face.
+
+“Master, is that Sacred Leader’s armor?” the red-clothed woman asked with confusion.
+
+“I don’t know.” Human King shook his head. The red-clothed woman said, “Based on Han Jinzhi’s prediction, there is less than 12 hours to go. If that really is Sacred Leader’s armor and Sacred Leader is not dead, maybe there is a chance to break the geno hall. None of it seems to be related to Han Sen. It is a shame you gave out so much holy blood. Now, your body is so weak. I am afraid we got tricked by Han Jinzhi. He obviously wanted to use your holy blood and give it to Han Sen for his own benefit.”
+
+Human King smiled and said, “Maybe not. Even though I do not know if that armor was the one that Sacred Leader wore, even if it is, the person wearing it cannot be Sacred Leader. It is still unknown as to whether this person can defeat the geno hall. Perhaps Han Sen might prove useful a little later. Being tricked by him is fine. As long as we can break the geno hall, it is all worth it.” “Why are you so sure the person inside the armor is not Sacred Leader?” the red-clothed woman asked with confusion.
+
+“Did you forget? My blood pulse is very close to Sacred Leader Qin Xiu. If that armor was Sacred Leader Qin Xiu, I would have felt it.” Human King calmly watched as Littleflower flew to the geno hall. He went on to say, “Right now, I do not feel a blood connection to that person there. Perhaps he is slightly related to Qin Xiu’s blood, but it cannot be Qin Xiu.”
+
+As the eyes of countless shocked old antiques watched, Littleflower arrived at the geno hall. He landed on the geno hall’s plaza.

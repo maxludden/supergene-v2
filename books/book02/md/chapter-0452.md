@@ -1,0 +1,86 @@
+Title:Goddess Gang 
+Chapter:452 
+Section:2 
+Book:2 
+CSS:../Styles/style.css 
+viewport: width=device-width
+  
+## Goddess Gang
+### Chapter 452 
+<figure>
+	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
+</figure>
+  
+
+  
+  After finishing his task on the warship, Han Sen had some free time again to enter God’s Sanctuary.
+
+Yang Manli had finished recruiting. 80 to 90% of the people living in that area joined Goddess Gang that Han Sen had formed and signed formal contracts.
+
+Although Han Sen needed to provide some meat at low costs, it was nothing compared to what he had gained. When he was ready to conquer the spirit shelter, all these people needed to play a part. Yang Manli told Han Sen that the recruitment did not go well initially. Because Uncle Qing was the first to join the gang, everyone else followed.
+
+Han Sen nodded and did not speak. The Nings were expressing kindness to him, but Han Sen did not dare to treat them as friends. He still knew too little about things in the past, so he could not decide whether the Nings were friends or enemies.
+
+"Now that Goddess Gang is formed, what’s your next move?" Yang Manli asked Han Sen. She was quite reluctant to call the gang Goddess Gang, because there were less than ten women in the entire gang, and none of them could be called a goddess.
+
+However, Han Sen insisted on the name. Since it was just a name, Yang Manli did not care.
+
+She did not know that in Han Sen’s eyes, the gang members recruited at this point were all just the help. The Goddess Gang he was going to formulate was a group of spirit beauties.
+
+Wherever he appeared in the future, three thousand spirit beauties would clear the way for him, which would be a dream coming true.
+
+Of course, the condition was that his super body king spirit could make spirits give their allegiance to him. Otherwise, his dream would just be a dream. Not to mention a group, he would not even be able to get a few spirits working for him.
+
+"Let them gobble up the meat first, and then we will train them and select the best of them to form the backbone of Goddess Gang. Then, we’ll go conquer the spirit shelter." Han Sen was waiting for zero to come and take her to smash the spirit shelter, so he would spend the time to train these people.
+
+These people did not really take much training, because those who had entered Second God’s Sanctuary were either veterans who had gone through the military service or current soldiers who were still serving. With some light training, they could cooperate pretty well.
+
+Han Sen asked Yang Manli to pick a team which he will lead to hunt, so that he could check out if there were any talented people among them.
+
+"Young master, if you want to hunt, I know exactly the place that suits the team," suggested Uncle Qing when he heard Han Sen was going to do that.
+
+Han Sen heeded his advice and asked him to lead the way. The team marched toward the glaciers uncle Qing was talking about.
+
+Although it was an area of glaciers, avalanche or accidents rarely happened. Han Sen did not worry about that. All they had run into on the way was a few ice-armored beasts, so Han Sen did not bother to move. Riding on the back of the golden growler, Han Sen was reading as he ate the jerked bird leg of the evil-blooded condor while watching the team hunt.
+
+Han Sen looked through the database on Daphne for information about beast soul glyphs and indeed found something.
+
+No one had ever discovered beast soul glyphs in First God’s Sanctuary, but the beast soul type started to come up in Second God’s Sanctuary and above. In addition, only mutant or sacred-blood creatures would produce beast soul glyphs.
+
+The functions of beast soul glyphs were very complicated. Each one had its own unique function. In conclusion, a beast soul glyph would give its user a certain ability.
+
+For example, there was a kind of bear glyph that could enhance one’s strength, and there was a wind beast glyph that would increase the user’s speed.
+
+Since no one had hunted an evil-blooded condor before, Han Sen was not sure what kind of ability he would get. He had been observing for days and did not discover anything different when using the beast soul.
+
+"So, what is the function of the evil-blooded condor glyph?" Han Sen could not figure it out and had to put it aside.
+
+At this point, Han Sen finally understood how great it was to be a gang leader. Watching his subordinates killing creatures bravely, Han Sen knew that he would eventually gain the better half of their labor.
+
+There were not a lot of members in the gang at the moment. In the future, if the Goddess Gang had thousands or tens of thousands of members, he would be able to receive a significant amount of income from his cut of everyday hunting.
+
+It was equally beneficial to the gang members. Compared to hunting alone, it was much easier to hunt in a gang. At the same time, the income was equally good or even better. Their safety was also enhanced.
+
+Of course, because it was a tough area, and most places were unknown to man, it was still dangerous to hunt even in the group. Without a master fighter in the gang, everyone would die once they encountered strong mutant creatures or sacred-blood creatures.
+
+They were not used to hunting blatantly like this for fear that there might be a group of creatures attacking them. Following Han Sen, however, they could quit sneaking around. Although they felt anxious, they felt much better than before.
+
+"Young master, let’s stay in this area. If we move further, there might be mutant creatures." Uncle Qing stopped and said to Han Sen.
+
+"Let’s continue. Mutant creatures are even better," Han Sen commanded the team to go forward, because he was not that interested in hunting primitive creatures.
+
+Although they were following Han Sen’s order, many people started to feel worried, looking left and right for fear that there might really be mutant creatures.
+
+The only person able to fight a mutant creature in this place was Uncle Qing. If others encountered mutant creatures, they were likely to become a meal of the creatures.
+
+Although Yang Manli wanted to talk Han Sen out of it, she knew it would not serve any purpose, because Han Sen would not listen to her at all. Yang Manli ended up saying nothing.
+
+Uncle Qing did not argue either, continuing to lead the way. It was as if as long as Han Sen gave his words, Uncle Qing would do anything for Han Sen.
+
+Han Sen continued to read his ancient language textbook. As long as he had time, Han Sen would still learn the ancient language, hoping to understand Dongxuan Sutra as soon as possible.
+
+However, Dongxuan Sutra was so archaic that Han Sen was only able to understand a small part of it at this point, and that was not even the important part.
+
+All of a sudden, they heard loud hoof beat and beast roar. A giant elephant with white fur rushed toward them from afar, leaving one huge footprint after another. All the glaciers seemed to be shaking. Snowflakes were flowing everywhere.
+
+"White mammoth!" Someone suddenly exclaimed. The entire group scattered like a mob.

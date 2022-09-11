@@ -1,0 +1,96 @@
+Title:Drawing the Disaster to the East 
+Chapter:3215 
+Section:16 
+Book:10 
+CSS:../Styles/style.css 
+viewport: width=device-width
+  
+## Drawing the Disaster to the East
+### Chapter 3215 
+<figure>
+	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
+</figure>
+  
+
+  
+  The Super God Spirit mode and Wan’er’s power were like water and fire. Water could put out fire, and fire could burn water. If there was the same amount, they would put each other out. It was like when Han Sen and Wan’er were together, their powers were suppressed.
+
+After two Wan’ers combined into one, her power exploded. She was much better than Han Sen with his Super God Spirit mode. That was why the scales were now tipped.
+
+In a situation like this, they were restricting each other. If one of their powers was stronger than the other, there would have been a big restriction. Now, Wan’er’s power was twice as strong. It made Han Sen’s Super God Spirit mode useless. He was suppressed because of that.
+
+Fortunately, Han Sen did not rely on only one power. Although his Super God Spirit mode was suppressed, he still had four other geno powers.
+
+Han Sen did not care about the balance of the universe. He broke the rules of the universe and broke the world. He used Galaxy Teleportation to take Bao’er to the entrance of Soldier Knife Sky.
+
+With Wan’er’s situation being like it was, drawing her there was something of a disaster. It was a disaster that could harm innocent people. He preferred taking her to the God Chaos Party people than having her hurt civilians.
+
+Wan’er was like a frozen spirit. Han Sen used Galaxy Teleportation, but he still could not shake her. She steadily followed.
+
+Han Sen saw a gold light. He felt a chill. His body was like the tide bobbing along the waves. It was like he was pushed away by the gold light in his attempt to dodge the scary attack.
+
+Han Sen was going to use the Break World powers to enter Soldier Knife Sky’s space tunnel, but Wan’er’s attack had cut a giant hole in the tunnel.
+
+Without hesitation, he went into Soldier Knife Sky. By doing so, he re-entered the mysterious world of weapons.
+
+Wan’er hurriedly followed Han Sen there. She did not say anything. She just waved her hand at Han Sen’s body.
+
+She was too fast. When her hand came down, it was like she was already slashing at Han Sen. He did not have time to react.
+
+Fortunately, Han Sen’s battle power had already reached the reflection level. Before his brain reacted, his body reacted normally and dodged the scary attack.
+
+Han Sen felt depressed. He shouted at Wan’er, “I thought we were friends! It is fine if you do not remember me, but you do not have to keep chasing me!”
+
+Wan’er behaved as if she had not heard a word he said. She slashed her hand again.
+
+In that world, there were not many people who could fight Wan’er. Han Sen’s Super God Spirit mode was suppressed, but he had a lot of battle experience and power. Wan’er was unable to kill him.
+
+Han Sen knew this would not turn out well if it kept going. He could only fight or escape, hoping to leave Wan’er’s range of pursuit.
+
+He did not want to kill Wan’er, but he did not want to be killed by Wan’er either. Ergo, he had no choice but to run.
+
+Wa-la! Wa-la!
+
+Paper kept flipping and flopping inside Bao’er’s pocket as her book suddenly opened up. From inside, a paper man jumped out and scolded Han Sen by saying, “Han Sen, you are an asshole! Didn’t you promise me you would not leave Jade Wall City? Is your f*cking word nothing but bullshit? You left Jade Wall City and came to the f*cking Soldier Knife Sky. It is fine if you come to Soldier Knife Sky, but you brought Master Bao’er here.”
+
+“Why don’t you shut up for just a minute?” Han Sen moved and evaded Wan’er’s next attack. He said to the paper man, Rocky Dee, “I did not want to come here either, but something forced me here. I had no choice.” “Who made you do this?” Rocky Dee asked that just as Wan’er’s hand moved. A bottomless trench cleaved through the land, which was full of weapons. Many scary weapons were destroyed.
+
+The weapons around the trench did not react. They did not fight back or anything. All they did was tremble as if they were sheep encountering a tiger.
+
+Rocky Dee’s face changed as he shouted, “This is… What is this?”
+
+“I do not know who it is. I only know she fancies killing me. She has already chased me everywhere, so what do you propose I should have done? Do you have any better ideas?” Han Sen spoke as he dodged and flew around. “How could there be such a scary human?” Rocky Dee coldly asked. “You are a magnet for scary people. I can only suppose you have tremendously bad luck. What am I supposed to do?”
+
+“If you cannot think of a solution to this mess, then I will come up with one myself.” Han Sen flew deep into Soldier Knife Sky.
+
+Every layer of the Thirty-Three Days’ skies was broken. God Chaos Party was massive, but they could not connect all of those spaces. They only made a path that led to each one, one by one.
+
+Han Sen wanted to find a way into the second sky. If he kept ascending, it would only be a matter of time before he encountered more members of God Chaos Party.
+
+If there were a few people like Sky King Leader, and they wanted to stop Wan’er, perhaps Han Sen could escape.
+
+Rocky Dee could tell what Han Sen was planning to do. He looked extremely glum as he said, “You must have a death wish. If you do not handle this well, you will find yourself the enemy of both. It is fine for you to die, but don’t let Master Bao’er go down with you.”
+
+Han Sen did not care for anything Rocky Dee said to him. He kept using Galaxy Teleportation in Soldier Knife Sky. Every time he teleported, it was not a great distance away. He did not want to miss the path or tunnel that led to the second sky.
+
+Rocky Dee’s real body was in the Paper God Temple. He felt depressed. It was hard for him to convince the leader to find someone else to kill Han Sen. Now, Han Sen was going after them.
+
+There was also someone absurdly powerful behind him. Rocky Dee had experienced a reboot of the universe. He was a god in two worlds, but he had never seen a human this powerful before.
+
+“Even Qin Xiu was not this scary back in the day. Who is this woman?” Rocky Dee frowned and retreated into thought.
+
+He did not care for Han Sen’s life, but he had to care for Bao’er’s life.
+
+Han Sen was trying to bring this problem to God Chaos Party. Its leader was not a character Han Sen should provoke. If Han Sen did not handle things well, he could end up being attacked by both parties. Then, he would die even faster.
+
+R
+
+With the video the paper man sent, Rocky Dee saw Han Sen reached the second sky’s entrance. His face changed. He gnashed his teeth and abandoned Paper God Temple.
+
+After Weapon God was killed, Soldier Knife Sky was not given a new god to take over the realm. Some members of the God Chaos Party saw Han Sen, but they did not have the power to stop him. They watched Han Sen race through the gate and enter the second sky.
+
+The second sky’s scene was different from Soldier Knife Sky. There were no mounds of weapons that were like seas or mountains. After Han Sen entered it, water was seen in every direction. It was a pure water world.
+
+There was no land or air. That entire world was full of water.
+
+The water there seemed a bit weird. It was not just one color. There were all kinds of liquid colors combined into one. It was like a colorful rainbow liquid world.

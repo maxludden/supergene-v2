@@ -1,0 +1,134 @@
+Title:This Life, This World, This Sky, This Earth; This Single Strike 
+Chapter:583 
+Section:2 
+Book:2 
+CSS:../Styles/style.css 
+viewport: width=device-width
+  
+## This Life, This World, This Sky, This Earth; This Single Strike
+### Chapter 583 
+<figure>
+	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
+</figure>
+  
+
+  
+  The audience that were in their seats couldn't help but stand up and lean forward with their mouths open, to watch Yi Dongmu perform his final strike.
+
+Yi Dongmu's momentum and power had reached maximum capacity, and now, the daggers in his hands finally moved. They travelled at an unimaginable speed, quicker than the wind.
+
+You cannot touch the wind, nor can you see it. The beginning and then end of that strike was untraceable.
+
+Although everyone knew Yi Dongmu was going to strike, when he actually did it, people thought their eyes were playing tricks, as the strike launched out of nowhere.
+
+Its speed was so great, people could not follow the blade and its driving hand, but a collective gasp of shock was still given by the entire audience. Following that tantalizing moment, chills ran down their spines and their faces were drawn of their color; it was as if the spectators themselves each suffered the same strike.
+
+Although they were unable to watch the blade on its journey, everyone was able to imagine it. They pictured it rocketing through the air, cleaving through Han Sen's neck and letting his head be carried by the wind, painting the arena in claret.
+
+In reality, when the sudden gust of gale-force winds started, the blade disappeared from their eyesight. When they felt it, it was already too late.
+
+"Wind strike!" Mister Long shouted. With wide eyes, he watched Yi Dongmu unleash his strike.
+
+But people weren't paying attention to what he was saying anymore, as the focus of the audience and spectators now moved to Han Sen.
+
+Everyone was eager for the result. The scary power of a one hundred and fifty step Sacrifice had built up within a sole man, and it had been delivered to a single opponent through a blade; they did not know how Han Sen could survive it.
+
+Fall back!
+
+Aside from falling back, they did not know how anyone could avoid being the recipient of such a strike.
+
+But then they thought to themselves, who could possibly be able to react and fall back in the time from such a strike?
+
+They imagined if a person sought to dodge the incoming attack, their head would have been removed from their body before their toes had been lifted.
+
+Can't dodge it!
+
+Everyone who thought to put themselves in Dollar's boots and imagine how he might react had their faces turned white, thinking to themselves how they probably wouldn't even see the strike coming.
+
+The wind does not have a shape, but a knife does.
+
+Han Sen's hand did not possess a weapon, and in this terrifying moment, he placed the palms of his hands together like a praying buddha. His eyes did not even look at the knife come his way, and still, he looked so calm and so chill. It was in fascinating contrast to Yi Dongmu's raging, intimidating aura. The people who watched it felt really bad.
+
+Dong!
+
+The extreme attack by Yi Dongmu, the final strike of Sacrifice and the blade of its deliverance, found itself caught and wedged between Han Sen's palms.
+
+It was at that moment the storm stopped and the air became gentle; the excitement that had built up was now empty. Silence robbed the room of its life, and it was as if time stood still.
+
+The brutal attack had been stopped by a man's bare hands.
+
+Everyone's mouth dropped. They scoured the canvas of that scene in absolute shock. No one was able to believe or accept that the strike that had received so much build-up was now over.
+
+It was like a truck going over two hundred miles per hour being brought to an instant stop without any prior sign. The audience felt strange, and they could hardly accept what their eyes told them. Even if a vehicle was going at two hundred miles per hour, slowing down to stop would take some noticeable time.
+
+And even if such a truck had smashed into a wall, considerable damage would be dealt to both objects.
+
+But nothing happened here. Everything just came to an instant stop.
+
+The blade's distance to Dollar's eyebrow was only about an inch, but even that was a great distance.
+
+Dollar was like a buddha that was able to operate and control everything. His palms had their own sky and that moment was forever. Even if the sky was falling and the world was ending, nothing would have allowed his hands to move an additional inch.
+
+It was unfathomable; not a single sound came from the audience seats. It was as if the brains of everyone there could not react. The countless eyes of the spectators just watched those two still, silent people.
+
+Yi Dongmu's hands, still clutching his daggers, were trembling. The strike that was known to kill anything did not even pass his enemy's hand.
+
+The way of the assassin teaches that in failure, it is over for you. This strike took everything for Yi Dongmu to perform, and this was not the result he had expected. His will to continue this fight was now broken. His face was pale as snow and his hands were trembling so hard that he could no longer hold his knife.
+
+Han Sen moved his hand to grab the dagger. He returned it to Yi Dongmu and said, "I accept the passion behind this strike. This life, this world, this sky, this earth; this single strike."
+
+Yi Dongmu's body was shaking. He took the dagger and turned a complicated look on Han Sen.
+
+The battle did not continue. Han Sen quit the virtual platform.
+
+Yi Dongmu and Dollar left, and although the fighters had not determined who was the victor and who was the loser, everyone knew it in their hearts.
+
+"I accept the passion behind this strike... I am going to cry. Poor Yi Dongmu."
+
+"This life, this world, this sky, this earth; this single strike. Yi Dongmu was honored to have these words spoken to him. That attack was so powerful, it was a shame he had to go against Dollar to use it."
+
+"People always like to believe themselves better than others; it is a tragedy of this generation."
+
+"Don't cry Yi Dongmu. We will support you forever. In our hearts, you are the strongest assassin king."
+
+"Dollar is still Dollar."
+
+…
+
+Fang Mingquan gave a long sigh. Feeling sorry, he said, "This attack determines life and death, but for now, they are strangers. One battle fought by two legends; this is something that we will never witness again."
+
+Hearing Fang Mingquan say this, everyone's mood turned a bit dim. Because Dollar and Yi Dongmu made their arrangement, they would never fight again. This was their final match.
+
+"Mister Long, what is your review of this fight?" Fang Mingquan turned to Mister Long and asked.
+
+"This life, this world, this sky, this earth; this single strike." Mister Long repeated that sentence and left the virtual platform.
+
+Almost everyone who watched this fight rewatched it a number of times. But no matter how many times they watched it, they were parched and thirsty for more. They watched it again and again, unable to stop.
+
+"What happened to Yi Dongmu is a shame."
+
+"The passion behind this strike, I want to see it again. I have to see it again!"
+
+"Poor prince."
+
+"I am willing to give up ten years of my life for the opportunity to watch those two fight again."
+
+"I accept the passion behind this strike. I am going to cry; Dollar was too cruel and he robbed Yi Dongmu of his soul."
+
+…
+
+After Fang Mingquan returned to his office, he sorted out the video recording of the battle. It did not need editing; it only needed a title and an article to go alongside it. But this article was not for Dollar, it was for Yi Dongmu.
+
+"Assassin King.
+
+This life and this world never end.
+
+This sky, this earth, and this single strike.
+
+To see the cruel reign all these years, only Yi Dongmu's passion was the most touching."
+
+"This is for my favorite Assassin King Yi Dongmu."
+
+For the result of this fight, few people mentioned Dollar. Most of the talk was directed to Yi Dongmu. Even though he didn't win, the passion behind that strike touched the hearts of all who had seen it. It led to him being given the title Assassin King.
+
+But as for Dollar, he was already an unbeatable deity and people no longer had any interest in talking about him anymore.

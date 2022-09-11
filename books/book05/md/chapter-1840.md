@@ -1,0 +1,80 @@
+Title:Han Family Discipline 
+Chapter:1840 
+Section:7 
+Book:5 
+CSS:../Styles/style.css 
+viewport: width=device-width
+  
+## Han Family Discipline
+### Chapter 1840 
+<figure>
+	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
+</figure>
+  
+
+  
+  The sixth day after their arrival to the base, Han Sen summoned everyone to a plaza.
+
+He had been busy over the past few days, writing out the document of ground rules he dubbed the Han Family Discipline. If there was no rule of law, the place would not be considered complete. It’d be impossible to gather people of different cultures and races, and expect them to live together in harmony, if there weren’t any rules established.
+
+Han Sen had brutally killed a Baron, and the other Barons and Viscounts had behaved awkwardly, following the deed. They wouldn’t disobey one of Han Sen’s orders, but they also wouldn’t fight and prove their worth to him as hard as they would have otherwise.
+
+So, now, Han Sen summoned everyone together. On the stage, he said, “I don’t care where you came from. I don’t care who you are. From now on, you are a servant of the Han family. Everyone here is equal, and there are no exceptions to that.”
+
+The Barons and Viscounts were not happy to hear that. One Viscount frowned and hollered back, “Master! We are here to depend on you. We are here to be managers, not servants.”
+
+Han Sen looked at him coldly, and he replied, “There will be managers, but you are not yet qualified. So, for now, you are all servants.”
+
+“What must we do to become a member of your higher class?” The Viscount looked dim, and he coldly laughed. He seemed to mock the concept.
+
+Han Sen told Zero and Little Angel to roll out a copy of the discipline sheet and post it in the plaza.
+
+“These are my rules of discipline. If you want to be a part of the management team, the qualifications are posted there for your viewing. I hope you will remember the words written here, because they will affect your current way of life. I gave that Baron a second chance yesterday, but now that you know the rules, if that happens again… Don’t blame me for what I do,” Han Sen said darkly.
+
+Everyone moved forward to look at the scroll. Viscounts, Barons, women, and their kids all went to read it.
+
+The Viscounts and Barons looked enraged. It didn’t take long for them to realize that being a servant meant they would not receive any preferential treatment. Aside from a place to live, everything cost money.
+
+The xenogeneics they hunted would have to have half shared with Han Sen. If they sold their kills to Han Sen, they wouldn’t receive money. Instead, they’d receive points.
+
+Those points could be spent in the base. They could get what they wanted with them, and by collecting enough, they could earn member status.
+
+Amidst family members, however, there were also ranks. The lowest one was only a little bit better than a servant. The higher your tier, the greater the benefits you would receive.
+
+But the points required increased more and more, after each upgrade in status. By the end, there was a whole lot of digits required to level up. Even though they were servants, though, Han Sen would still pledge to protect them. The women and kids would have to work for points, too.
+
+But Han Sen would give the women and kids separate work. They could do the brushing up, for example. Han Sen would give the children free food, too, if they needed it.
+
+“Mister Han, what kind of rules are these? We were brought here to be managers. We didn’t sign up for hard labor!”
+
+“I am a Viscount! What you are doing is far too much.”
+
+“What kind of family requires their very own employees to pay so much?”
+
+“I am a Viscount. Wherever I go, I am offered weaponry. In here, you want me to pay for my own food? What is this?” After the Viscounts saw it, they all began to rabble amongst themselves. They all become angry.
+
+“These are the Han family rules, take them or leave them. If anyone breaks the law established there, you full-well know what will happen to you,” Han Sen said unsympathetically.
+
+Han Sen thought they were all spies, anyway. He planned to use all their power in whatever way he could.
+
+“If that is the case, then I am going to leave,” a Viscount said coldly. He wasn’t even referring to Han Sen as his Master now.
+
+“Yes! We are going to leave the Han family, too.” The rest of the Viscounts and Barons all said the same thing.
+
+Han Sen had killed a Baron, but he was a Baron himself. But right then, he only had two young ladies and a silver fox. With four other Viscounts backing them up, the Barons weren’t afraid.
+
+“Shut up!” Han Sen shouted. They were quickly silenced, and he went on to coldly say, “What do you think this place is? This is Planet Eclipse of Narrow Moon. It is my planet, and it is Knife Queen’s place. You cannot just come and go. I am telling you, you are all my servants right now. And without my permission relinquishing you from my service, you will be my servant, even in death.”
+
+Hearing that, the Barons and Viscounts looked poorly. They were all spies, and they knew about Han Sen. Knife Queen had given Han Sen twelve geno fluids for him to become a Baron. She even let him enter the space tunnel.
+
+Han Sen was a famous person, and he also had Ghost Teeth Knife. They did not believe Knife Queen would leave him in that place without any protection.
+
+Knife Queen was ignoring Han Sen right now because she wished to train him. When he was in danger, however, she wouldn’t sit and watch. They were certain that Knife Queen would do anything to ensure Han Sen wasn’t killed by his own servants.
+
+At this point, they were silenced. Even the Viscounts were.
+
+If they were going to fight there, they would be at a disadvantage. Han Sen was a dictator, and nothing good was going to happen to them.
+
+“If you have no problems, then read up on the Han family rules. They come into effect today. You can explore, hunt, and clean; and for as long as you have points, you may benefit from the VIP service.” After that, Han Sen left with Zero and Little Angel.
+
+The three of them went into a warehouse, and there, they guarded the resources. Without permission, no one could go in or out.

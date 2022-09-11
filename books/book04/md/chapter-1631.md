@@ -1,0 +1,112 @@
+Title:Steel 
+Chapter:1631 
+Section:4 
+Book:4 
+CSS:../Styles/style.css 
+viewport: width=device-width
+  
+## Steel
+### Chapter 1631 
+<figure>
+	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
+</figure>
+  
+
+  
+  Dollar’s name was very famous. Humans had also gotten used to referring to him as The Light of Hope.
+
+Even so, there were a few unfriendly voices.
+
+A widely-known professional published an article that presented a number of reasons why Dollar was not actually human, and was in fact a spirit And it repeatedly reiterated that humans should not be so joyous in celebrating the figure.
+
+Words like those incited the ire of Dollar’s fanboys, and debates raged between the camps in the virtual community.
+
+The professional was earnest in his opinion and supported it, but he had even gone so far as to say that even if Dollar was proven to be a human, there was no chance he could breach the top ten Son of Gods. He also predicted Dollar would have trouble in his fifth round and that he would get no further than the seventh match.
+
+Han Sen looked at who his opponent would be in the fifth round. He had only seen who he was to fight in the seventh round, and that was Jade Shura, the supposed Queen of the Shura. He didn’t realize he would also have a strong opponent challenge him in the fifth round.
+
+Aqua Sun Beast was a berserk super creature. Han Sen didn’t realize he would be an opponent.
+
+But Han Sen was a man that wanted to come out on top, and he didn’t care about who or what got in the way. If Jade Shura did not have a special identity, Han Sen would not have cared too much about her, either.
+
+The matches Han Sen had watched the most were not Jade Shura’s, though. They were the matches of Gu Qingcheng,Outer Sky leader, and Sacred leader.
+
+They didn’t encounter strong opponents. Everyone who faced off against them ended up conceding. Gu Qingcheng had a few matches, but her opponents were all killed with a single hit. She didn’t even allow them the berth to draw a weapon.
+
+But today was the day for Han Sen to battle Aqua Sun Beast. Many people came to watch it, and there was a far greater turnout than there was last time.
+
+Because Han Sen’s past four opponents had decided to throw in the towel, many more came to watch, as well. They were all keen to see what sort of power Han Sen possessed.
+
+“That expert who wrote the article; is he a demigod? How did he know Dollar would go up against a berserk super creature on the fifth match?” Wang Yuhang looked at the Martial Hall’s tablet.
+
+
+
+“What? You know about this Aqua Sun Beast?” Tang Zhenliu asked Wang Yuhang.
+
+Wang Yuhang nodded and said, “I asked Cheap Sheep to collect information. Aqua Sun Beast is famous. He claimed eighty- thousand miles of the Aqua Sea, and he eats emperors. He is powerful, and I certainly don’t expect him to concede.”
+
+“What kind of power does it wield?” Lin Feng asked.
+
+“I don’t know. Anyone who’s dared to enter the Aqua Sea has died inside its belly. No one has seen how it kills people.” Wang Yuhang shook his head.
+
+Gu Qingcheng coldly approached them and said, “The power of the Aqua Sun Beast is not as mighty as the Destroyer Wolf. But with that being said, the elites of the Fourth God’s Sanctuary would prefer to challenge the Destroyer Wolf than venture near the Aqua Sea. Perhaps that can give you an idea of how scary it is.”
+
+“Do you know what power it wields?” Wang Yuhang asked.
+
+“I don’t know.” Gu Qingcheng shook her head.
+
+“That expert is smart. Aqua Sun Beast is so mysterious, it might cause Dollar trouble.” Tang Zhenliu frowned.
+
+“What is there to be afraid of? He defeated Six Paths. After doing that, there is no need for him to fear any monster.” Wang Yuhang was confident.
+
+While they discussed, it was time for Dollar and Aqua Sun Beast to do battle.
+
+Han Sen, wrapped up in the holy light, entered the arena. He didn’t see Aqua Sun Beast immediately.
+
+When the time for the creature to join was almost up, a door of light was revealed upon the arena. A beast that looked like a jade kirin came out of it.
+
+It stood in front of Han Sen, not saying anything. All it did was spit out a green orb.
+
+The orb’s size was double that of a basketball, and its color was like green jade. The orb also possessed a strange glowing symbol of some kind.
+
+When the orb showed up, a strange green light covered the entire arena.
+
+Han Sen used holy light to fend off that green light, but the green light didn’t seem to be destructive. He wasn’t entirely sure what it did or what it meant.
+
+Amidst Han Sen’s confusion, he suddenly heard the Aqua Sun Beast roar. Then, the symbol upon the orb began to glow. And then, the same strange symbol appeared on Han Sen’s body. It was atop him, stuck.
+
+“Oh, no! That is the power of a seal.” Jing Jiwu was shocked.
+
+“He has the same power as you do?” Lin Feng looked at him glumly.
+
+Jing Jiwu nodded and said, “It is the same, yes; but I only have it at gemstone class. Its sealing power will be far stronger than mine. Now that Dollar has been touched by that green light, he will have been sealed. I doubt he’ll even be able to move.
+
+“This power can constrict Dollar just like that?” Tang Zhenliu looked to be in disbelief.
+
+Jing Jiwu had a wry smile. “I’m only gemstone class. My sealing power is enough to constrict a super creature for three seconds, though. They can’t move, no matter what. Jade Sun Beast is much stronger than me, and even if Six Paths was the one in the arena, he’d suffer the same fate.”
+
+
+
+“No wonder he is so strong. It looks like we should never underestimate the abilities of a single super creature.” Tang Zhenliu’s face changed.
+
+“Dollar has been too careless. He shouldn’t have allowed himself to be snared right away like that,” Wang Yuhang said.
+
+“It looks like that expert was right. Dollar is in trouble,” Tang Zhenliu said.
+
+The audience could observe the sealing powers of Aqua Sun Beast, and when they saw it, they were shocked.
+
+From what was seen in the match between Han Sen and Six Paths, defeating Han Sen through sheer power was very difficult. No one could be sure.
+
+Aqua Sun Beast’s sealing power was like the issuing of a warning.
+
+“Can Dollar get out of that sealing power?” Xu Mi looked at Han Sen.
+
+“It will be difficult, if it’s possible at all. Aqua Sun Beast is probably one of the best when it comes to sealing powers. It is difficult to evade the beast’s sealing light, but now that he is sealed… Not even emperors can escape something like that,” Furnace Emperor said.
+
+Aqua Sun Beast thought Han Sen was now unable to get away. He grabbed Han Sen with the plan of placing the human in his mouth.
+
+Seeing that the beast was about to bite his head off, Han Sen pulled out a stone pipe and put it to his lips. He took aim and blew into it.
+
+Pang!
+
+A red light went right into Aqua Sun Beast’s mouth. It blew up the beast’s entire head, resulting in a mess of blood.

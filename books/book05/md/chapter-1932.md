@@ -1,0 +1,90 @@
+Title:Gentle and Pure 
+Chapter:1932 
+Section:7 
+Book:5 
+CSS:../Styles/style.css 
+viewport: width=device-width
+  
+## Gentle and Pure
+### Chapter 1932 
+<figure>
+	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
+</figure>
+  
+
+  
+  Everyone looked towards the cup that the Viscount was holding. They heard a cracking sound, then the cup shattered. The pieces and the water splashed down to the table.
+
+Rebecca and the others saw it shatter, and then their eyes widened. Amidst the broken shards of ceramic, there was a moon-like thing. It was still floating where the cup had been.
+
+Du Lishe was simply frozen, and could not speak.
+
+Rebecca’s face changed, and she asked the Viscount, “Did Han Sen really use that teacup?”
+
+The Viscount said, “Yes, I was sitting next to him. I saw everything he did, and that cup has not been touched since.”
+
+“But he has been gone for half an hour. How can the Moon still be there, and how could it have broken the cup? That surely isn’t Moon.” Kriman looked at the sisters with confusion.
+
+The reflection in the water was the beginning of Moon. Putting light in the water wasn’t something that was supposed to last, as it didn’t physically exist. It would fade away quickly without a source of power to keep pumping into it.
+
+Han Sen had been gone for half an hour, and the shape in the water still remained. That meant it wasn’t just an illusion. The light was something solid. It had broken the cup, which no illusion could do.
+
+Rebecca stood up and walked over to Han Sen’s seat. She looked at the light, examining it with a strange expression.
+
+The others came over to surround it, too. Kriman said, “Rebecca, is this Moon? That guy isn’t playing a trick on us, is he?”
+
+Rebecca looked down at the bright moon and said, “It is. And it is much better than what Du Lishe and I can do. It has the secrets of Moon Wheel in it.”
+
+“The secrets of Moon Wheel?” Everyone was shocked.
+
+When Rebecca mentioned Moon Wheel, it got everyone’s attention.
+
+Rebecca pointed at the light and said, “Do you see? This is a solid light. This isn’t just a mere shadow. This is not a reflection. It is a real moon. But it should be impossible for a solid moon to enter the water without at least causing ripples. Everything that touches water should deform it, unless you had the extremely gentle touch of something like Moon Wheel.”
+
+“Rebecca, you and Du Lishe can do something like this, yes?” Sad Night asked Rebecca.
+
+Rebecca shook her head, “My Father practiced Moon Wheel to a half-deified status. This skill stems from Moonlight, so it is easy to learn, but difficult to practice. Not everyone can bring it up to its highest tier. Du Lishe hasn’t practiced Moon Wheel at all. I have practiced it, but I am far from gentle enough to do this. You would have to be a Duke or a King to avoid disturbing the water.”
+
+Everyone’s faces changed. Kriman’s face looked particularly bad, and he asked, “Is it really that hard? Han Sen did not practice Moon Wheel, and he is just a Viscount that practiced Moon. How could he do such a thing? Look closer. He might have tried to trick us or something.”
+
+Rebecca peered into the light for a while, before giving up with a wry smile. “This is Moon, yes. I don’t know how he managed to do this. I have only seen a casting of such quality from my father. Maybe he really did leam something from the Narrow Moon Knife.”
+
+When everyone heard that, they were struck with speechlessness. Kriman’s face was twitching, and it burned.
+
+Du Lishe blushed. She had been so cocky about her generation of three moons, but now, she realized her performance wasn’t anywhere near the same level.
+
+“How can such a genius exist here in this universe? By just looking at a knife and hoping to learn a geno art? This is something most people might never accomplish if they spent their entire lifetime on such an endeavor,” Sad Night said in a frustrated tone.
+
+Rebecca responded simply, “It is easy to discern the truth. The Moon has been here for half an hour. The power is still here. That tells us he has a very strong, but gentle, power. If this moon can remain here for a few days, he must have learned the secrets of Moon Wheel. The light I can cast only lasts a day at the most. And on top of that, the water would be disturbed.”
+
+“We can’t wait here for a few days,” said the Viscount that moved the cup.
+
+“I don’t believe he could have learned the secrets of purity and gentleness from that knife. My father should still be around. We should seek him out and have him take a look. Then we will know the truth.” Du Lishe stood up and looked for Moon Wheel King.
+
+Everyone wanted to know whether or not Han Sen possessed the talent to be so pure and gentle. They did not stop her. Rebecca and Black Steel also went out in search of Moon Wheel King.
+
+Moon Wheel King was talking with a few other Kings. He felt something, and Black-Moon King said, “Let them in.”
+
+Du Lishe and the others entered and bowed before the Kings.
+
+“Don’t you guys think we old farts are boring? What are you doing here?” Black-Moon King smiled.
+
+Du Lishe hastily explained what had occurred to the Kings. She grabbed Moon Wheel King’s arm and said, “Father, come take a look and help us understand what Han Sen did.”
+
+Really? Let me come and take a look.” Moon Wheel King and the others looked shocked. They followed Du Lishe to the garden.
+
+When they returned to the garden, Du Lishe pointed to the light and said, “This is it! Do you think this is Moon, Father?”
+
+Moon Wheel King had seen the light from all the way across the garden. He sighed and said, “Han Sen’s skills are the best. He examined the leftover power I used to activate the knife, and from it, he was able to learn that much? This is very rare.”
+
+Hearing Moon Wheel King say that shocked Du Lishe and the others. They no longer harbored any doubt.
+
+“Father, how gentle is Han Sen?” Rebecca asked.
+
+“I will say thirty percent. I would be glad if you possessed that level of skill when you reach a Duke. It is acceptable to only achieve it upon reaching King class,” Moon Wheel King said.
+
+Everyone was so shocked, they could not speak.
+
+“It is a shame he has such good talents, but even so, he wasn’t able to become a Viscount without consuming two to three hundred waterdrops. He had to swallow a Red Mist Soul to get this geno art and strength. If Yisha gave him everything, he’d be lucky to reach Duke. There is no way he can reach King at this rate,” Night River King growled.
+
+After hearing that, the young ones felt better. Han Sen’s talent was so scary, it was hard not to be disturbed by it.

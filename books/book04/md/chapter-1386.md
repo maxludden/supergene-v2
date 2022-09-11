@@ -1,0 +1,84 @@
+Title:Crystal Core Mutant 
+Chapter:1386 
+Section:4 
+Book:4 
+CSS:../Styles/style.css 
+viewport: width=device-width
+  
+## Crystal Core Mutant
+### Chapter 1386 
+<figure>
+	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
+</figure>
+  
+
+  
+  Black Mountain God frowned upon seeing his enemy. All he could see was a black shadow, and he could not even make out his opponent’s face.
+
+Han Sen had also used Dongxuan Aura to hide his entire body, since it had reached that level. He could be properly seen if his opponent was considerably stronger than he was.
+
+And just in case that didn’t work, he was clad in armor. There was always the chance his enemy had a geno core that could boost their eyesight, so he made sure to wear armor in the event that might happen.
+
+“My name is Black Mountain God. I hail from Sacred Shelter. Tell me; what is your name?” Black Mountain God was unable to see his opponent’s face, and neither could he tell whether the shadow was a spirit or creature. The fact that he might be a human did not even cross Black Mountain God’s mind.
+
+He wanted to be number one more than anything, and he wasn’t really interested in who his enemy was. Unfortunately, Sacred Shelter had told him to do what he could to unmask this new rival, and so, he had to at least ask.
+
+Han Sen threw the Crystal Egg towards his opponent. It barreled through the air, spinning like a bullet as it went.
+
+Black Mountain God was surprised, to say the least. He wasn’t expecting such haste from his enemy, and with the number one geno core coming right for him, he swiftly summoned his Heart Wheel.
+
+He was a creature, too. If he died then and there, he died then and there.
+
+The Heart Wheel’s radius of yellow light was wide. And in that light, the Crystal Core was frozen stiff.
+
+They were both shocked, seeing the egg get stopped still like that. They were both expecting more from the number one geno core.
+
+Black Mountain God was especially surprised for this, whereas Han Sen was disheartened more than anything. He expected a finer performance, considering it had been reinforced nine times.
+
+Black Mountain God could not believe it was practically over already. He cast his Heart Wheel with even greater strength, confident he had stopped the egg for good.
+
+Heart Wheel was one of the best bronze geno cores in the sanctuary, and under the light it emitted, the Crystal Core began to melt.
+
+“How did I become number one with such a garbage geno core?!” Han Sen now knew he’d have to get his hands dirty if he wanted to win.
+
+Black Mountain God couldn’t believe he had destroyed the geno core with the power of his Heart Wheel.
+
+“Was that a Geno Core Storage error? Or am I just fortunate enough to wield something that strikes the Crystal Core’s weakspot?” Black Mountain God then took off into the air. He had a spring in his step, and he wished to melt the egg as much as he could, and reduce it to nothing but dust in the wind.
+
+The shell was half melted as this occurred. With the light continuing to increase in volume, it wouldn’t last. It was sure to be game over very soon.
+
+Han Sen wanted to attack Black Mountain God and stop what the Heart Wheel was doing. There, he could use his full power, and he was still confident he could beat down the winged wretch.
+
+Han Sen had come here for revenge, after all. He wasn’t going to lose again to a crony of Sacred Shelter, and on top of that, grant them first place on the leaderboard.
+
+But then, Han Sen suddenly felt as if his Crystal Core was exuding a strange power only he could feel.
+
+Han Sen was shocked, and watching his melting egg continued to fill him with a strange sensation. He thought to himself, “The Crystal Core looks like an egg, and I’ve even been referring to it as an egg, for the most part. What if it actually IS an egg? What if there’s something inside it?”
+
+Han Sen could sense it becoming stronger, so he stopped going after Black Mountain God and just stared at the Crystal Core.
+
+Black Mountain God had no clue what was happening, but he believed it to be something swell. He was thrilled with himself, and he giddily cackled, “Pah! This is the first rank geno core? Today is the day I become number one, for I am going to utterly annihilate this thing. Mwahaha!”
+
+Han Sen stood atop a decaying, sand-worn tower, watching his precious egg melt.
+
+It was the shell that was melting, and Han Sen could now most certainly tell there was something powerful residing inside it.
+
+Katcha!
+
+The eggshell finally began to collapse, and from the spots where parts of the shell had fallen to the ground, intense beams of light were shining upwards.
+
+“What’s going on? Is something changing? Did I get ahead of myself?” Black Mountain God frowned, but he was still fairly certain in his ability to beat it.
+
+The geno core had been sitting in the light for the longest time. It was like an ant under a magnifying glass, and he knew it should have been destroyed by now. There was definitely something amiss.
+
+Black Mountain God then exerted even more power and strength to destroy the egg. He wanted it gone for good, just in case something else was to happen.
+
+More of the shell began to crumble into nothing beneath that light, and the entire composition of it became thinner.
+
+But eventually, Black Mountain God got his wish. The egg had entirely crumbled into nothing of note, and it simply looked like the trampled egg of some forgotten creature in the sand.
+
+The two combatants looked at the broken egg and noticed a jade-like item residing inside it. Strangely, it had no color.
+
+Han Sen was shocked, seeing his egg now appear like so. The item inside was a skeleton, but it seemed composed, unlike the rest of the egg. It almost looked like a Buddha, legs crossed in lotus pose. However, it exuded a strange aura. One that was equal parts holiness and genuine evil.
+
+Han Sen was surprised seeing this, and he thought to himself, “Did it break too soon? Was it supposed to be a Buddha, but only its skeleton has been left behind due to the light?”

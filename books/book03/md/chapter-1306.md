@@ -1,0 +1,96 @@
+Title:Obsidian Elephant 
+Chapter:1306 
+Section:3 
+Book:3 
+CSS:../Styles/style.css 
+viewport: width=device-width
+  
+## Obsidian Elephant
+### Chapter 1306 
+<figure>
+	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
+</figure>
+  
+
+  
+  “All I can say is, whoever ventures across that mountain does not return,” Lotus Empress said solemnly.
+
+Although Han Sen was sometimes reckless, even he knew it was best to stay away from such a place. If a risk was justified or worthwhile, he would always be the first to take the plunge. But a fruitless risk was never something he’d commit to, as he wasn’t a simple thrill-seeker.
+
+So, Han Sen decided it was best to take the long way around. He thought it would be better to walk additional miles than risk life and limb in the shortcut of cutting across the mountain.
+
+Before he could circle it, though, Han Sen suddenly heard something roar, and then, nearby footsteps. The source of the noise was not too far away, and the sound of footsteps was steadily increasing in volume. Something was already coming for them.
+
+Han Sen frowned, though, thinking there was something amiss about his entire venture thus far.
+
+Lotus Empress had been in this region many times in the past, but nothing like this had occurred in her previous visits.
+
+First, there was the ever-looming presence of Sea Ghost, in a portion of the sea it was not supposed to inhabit. Secondly, something from the mountain was descending down towards them, despite their desire to steer clear of the rise.
+
+“Surely I cannot be this unlucky!” To say things were going awry for Han Sen would be an understatement.
+
+And to make matters worse, there were thick forests dressing the mountainsides. Whatever was coming towards him was cloaked in the dense foliage, rendering Han Sen unable to see what it was.
+
+But it wasn’t long before the creature emerged and revealed itself. It was a big elephant.
+
+It looked as if it was a beast forged from obsidian, and it appeared to be as strong and as sturdy as the material, as well. As the elephant trampled its way out of the forest, each footstep rocked the earth.
+
+Much to their surprise, though, the elephant was not stampeding towards them. It was actually chasing after another person.
+
+The person it was chasing had to be around fifty years old. For a surpasser, an age of fifty years was not too shabby, but he looked worn and beaten, with a ragged appearance befitting someone that was double that age.
+
+The man was clad in a battlesuit of the Alliance, but it was so broken and torn, it looked like the rags of a beggar.
+
+Still, the man did not seem injured. The absence of wounds and blood, despite the tears in his clothing, suggested the man was just about lucky enough to amass a number of near misses.
+
+Fortunately for the man, the obsidian elephant was not the fastest creature. It was quick but lumbering, and it gave the man enough space to breathe and do what it took to remain alive.
+
+The man then started running towards Han Sen, screaming, “Han Sen, save me!”
+
+Han Sen was surprised the man knew who he was. He couldn’t make the man’s face out too clearly in the cover of night, but the voice was very familiar. Whoever it was, it was someone he knew.
+
+The fact that the man was covered in dirt and a variety of different leaves didn’t help Han Sen get a clear image of the man, either.
+
+“Holy shit! Why are you here, Professor Bai?” At long last, Han Sen recognized him as Bai Yishan of Saint Hall.
+
+Bai Yishan was Han Sen’s teacher, to put it modestly. And when Han Sen’s eyes registered who it was, he leapt forward to help him out.
+
+“Be careful! It’s a nine gene lock Obsidian Elephant. It is frighteningly powerful!” Bai Yishan shouted at Han Sen, who was fearlessly joining the fray.
+
+His warnings did little to sway Han Sen’s resolve, of course. Before he could even finish his speech, Bai Yishan saw Han Sen neck-deep in combat with it.
+
+With hands that looked like they were made of crystal, Han Sen turned into a figure of ice.
+
+Pang!
+
+The Obsidian Elephant was going at a blisteringly fast speed, and with a cobra-like reaction, Han Sen was able to snap forward and grab its tusk.
+
+When the two mighty fighters got into it with each other, the landscape was quickly turned into a mess. As if there was a violent earthquake that was causing a landslide, the region was turned upside down in a muddy, dusty haze. The elephant had more than met its match with Han Sen.
+
+Bai Yishan’s jaw was in the dirt. He had spent the last ten years studying the creature, observing its energy flow.
+
+Needless to say, Bai Yishan knew a lot about this creature. At the very least, he knew it was not the sort of creature a person should jovially jump into battle against. Of course, he knew it wasn’t the greatest of creatures. While it did have immense strength, its speed was its Achilles heel.
+
+Still, its power was of such a height that it could one-hit kill any other nine gene lock creature it came up against.
+
+He had seen many creatures unknowingly stumble across it, turn tail, and flee. It was a monster no creature or spirit was willing to mess with. Bai Yishan wanted to study it and create a new hyper geno art he’d tentatively titled the Elephant Sutra.
+
+Fortunately, its slower than ideal speed was exactly what enabled Bai Yishan to study and investigate the creature for such a long time. But he had made a mistake this time and disturbed its rest. He had invoked its ire and angered it a great deal.
+
+Regardless, Bai Yishan was shocked to see Han Sen do battle with it.
+
+“I can’t believe the power of a surpasser can equal or even exceed that of this elephant,” Bai Yishan said out loud.
+
+A second later, his eyeballs almost jumped out the comfort of their sockets.
+
+Han Sen’s muscles quivered, as he picked up the entire elephant in his arms. Then, as if he were throwing logs at some celtic event, he lobbed it onto the ground a good distance away.
+
+Boom!
+
+A fifty-meter-wide crater was formed in the ground, which Han Sen quickly leapt into to re-engage the elephant. Bai Yishan ran forward to catch a glimpse of what would happen next, and he accidentally stumbled into the hole.
+
+Han Sen wondered why the elephant, despite the height it had been thrown at, did not get pulled into the sea above.
+
+“Han Sen! What have you been practicing?” Bai Yishan said, standing back up.
+
+He had been creating the Elephant Sutra in the hopes of formulating a hyper geno art of incredibly raw, unbridled strength. After seeing the feat Han Sen had just performed, he was starting to think he had wasted his time.

@@ -27,13 +27,7 @@ from beanie import Document, init_beanie
 import motor.motor_asyncio
 from motor.motor_asyncio import AsyncIOMotorClient
 
-
 load_dotenv()
-URI = environ.get("LOCALDB")
-DB = environ.get("SUPERGENE_DB")
-
-mconsole = Console()
-
 
 # Max's Log
 try:
@@ -62,4 +56,3 @@ class MyColor(Enum):
     CYAN = 6
     BLUE = 7
     PURPLE = 8
-

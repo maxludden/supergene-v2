@@ -1,0 +1,94 @@
+Title:Galactic Shrimp 
+Chapter:2211 
+Section:10 
+Book:7 
+CSS:../Styles/style.css 
+viewport: width=device-width
+  
+## Galactic Shrimp
+### Chapter 2211 
+<figure>
+	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
+</figure>
+  
+
+  
+  The fight was worse than they had anticipated. The ships possessed tremendous power, and they could probably have obliterated entire planets with ease. Stopping the assault of those scary Galactic Shrimp was beyond their capabilities, though.
+
+A giant lobster would occasionally appear amongst the hordes of smaller shrimp. The lobsters had a frightening enough presence to suggest that they were King class.
+
+Han Sen spotted two of the King class lobsters coming toward them, but the weapons that could destroy planets didn’t have enough power to punch through the shells of those lobster Kings.
+
+The heavy guns spat round after round at the incoming Galactic Lobsters, but even so, they didn’t even slow the monsters down. One of the creatures raised pincers that flashed blue cut off a huge chunk of the ship.
+
+“Aside from the operator of the ship, every King and Duke knight follow me!” Ice Blue Knight King said, then jumped out of the ship through a portal.
+
+Many of the Ice Blue Knights followed Ice Blue Knight King, and then an ice blue knife light cut a blinding mark right through the fabric of space. Countless Galactic Shrimp were killed.
+
+The group of Ice Blue Knights, including Night River King, moved in front of the ship. They were going to cut a path for the ships to escape through.
+
+Night River King hated Han Sen more than ever right then. If it wasn’t for Han Sen, he would have been enjoying his life in Narrow Moon as a lofty King. He wouldn’t have been doing any fighting.
+
+Thinking of this hate, Night River King used his mind to project images of Han Sen onto all of the Galactic Shrimp near him. And as he lifted two teeth-like moon wheel knives, a black water wheel was sent spinning out to kill many of those Galactic Shrimp.
+
+Boom!
+
+The black water wheel hit a lobster’s shell, sending a shower of blue sparks into the night sky. In response, the King Lobster moved its pincer and sliced the black water wheel in two. Then, it flew towards Night River King like a blue missile.
+
+Kill! Kill! Kill!
+
+Blood was everywhere. Bits and pieces of bodies were scattered all over the place. The ship was moving slowly under the cover provided by the Ice Blue Knights, but even still, the ship was hit more than a few times. Each whack caused many more explosions.
+
+Huge bursts of energy exploded through space in all the colors of the rainbow. Each burst was like a sun, consuming many lives.
+
+Han Sen felt a great level of excitement as he watched it all unfold from the comfort of the ship. He thought to himself, “This is what war is really like.”
+
+“Mister White, can I join the fight?” Han Sen asked Mister White.
+
+Han Sen didn’t kill for the fun of it, but he was watching the Galactic Shrimp die in droves. He didn’t want to miss the spoils.
+
+At the very least, the Galactic Shrimp were Marquise. And a great number of them were Dukes. And on top of that, there were King class Galactic Lobsters. If he could get the final hit on one, he might have the opportunity to claim its beast soul.
+
+Crime hadn’t yet grown accustomed to Han Sen’s strange attitude towards things, and so he coldly said, “You are Mister White’s personal guard. Your task is to protect him. You are just a Marquise, and if you go out there, you will only cause trouble.”
+
+Mister White smiled and said, “Han Sen might be here bearing that title, yes, but he isn’t solely a guard. If he wants to go out there, he has my permission. But if you do go, please be careful and perform your best.”
+
+“Thank you, sir. You guys protect Mister White in the meantime.” Han Sen directed the command at Zero and Little Angel.
+
+Without saying another word, Han Sen exited the ship. In his heart, he shouted, “Beast soul baby, big brother is on his way!”
+
+Han Sen summoned his dragon wings on his back and ears. His body was petrified through the Dongxuan Aura. He scanned the entire fight, then flew towards Ice Blue Knight King.
+
+Han Sen didn’t think he could fend off a swathe of Galactic Shrimp by himself, and so he knew he would have to stay next to Ice Blue Knight King to take advantage of the best opportunities. He was going to attack the injured Galactic Shrimp, and by finishing them off, he hoped that he’d receive a goodie or two.
+
+Amidst that messy fight, Han Sen employed the Dongxuan Sutra, Heavenly Go, and Under the Sky knife skills liberally. They made for a useful trio in that scenario. They enabled him to see through the weave of the fight. They also allowed him to identify the safest spots to occupy in the middle of the battlefield. That way, he wouldn’t be in too much danger.
+
+Crime was very surprised when Mister White allowed Han Sen to exit the ship and join in the fight. Marquises were just backup for the Ice Blue Knights, usually. If nothing out of the ordinary was happening, they wouldn’t be allowed to join any fights that came up.
+
+A proper Ice Blue Knight was required to be a Duke.
+
+But Han Sen was having good luck. After getting to Ice Blue Knight King safely, Han Sen killed a shrimp that had slipped behind them without getting attacked.
+
+As he went, Han Sen kept trying to predict how the battle would unfold. He readied himself to rack up some kills.
+
+“Xenogeneic Marquise Galactic Shrimp killed. Xenogeneic gene found.”
+
+Han Sen slashed and killed a Galactic Shrimp. The blue, fluorescent blood sprayed all over him. In no time at all, he had managed to kill thirty of them. Not a single one had given him a beast soul, though. He didn’t have the time to pick up the xenogeneic genes, either. He had to keep going, killing as he went.
+
+There were too many Galactic Shrimp, and Han Sen had to keep teleporting to reorient himself and fix his location. He moved continually between safe spots to give himself some breathing room, but staying away from the bulk of the Galactic Shrimp required him to kill a fair number of them, too.
+
+Ice Blue Knight King’s fight was too dangerous to get very close to, from what Han Sen could see. He saw Ice Blue Knight King slay a King class Galactic Lobster in a flash. Han Sen was unable to get there in time, which made him feel depressed.
+
+Han Sen kept fighting and looking around as he went. He found Night River King engaged with a King class Galactic Lobster. Their fight was a nasty one, for sure.
+
+Night River King held two knives as he used the Night River Beast’s special techniques against the lobster. They ground the lobster’s shell open, revealing the blue meat on the inside. It looked as if the King class Galactic Lobster wasn’t strong enough to repel him.
+
+Han Sen kept fighting, and as he did, he approached Night River King.
+
+“Night River King is evil! This old man is fighting the King class Galactic Lobster, but he stays someplace safe where he won’t be attacked by shrimp. It looks like he’s decided that fighting the lobsters, while dangerous, is a safer bet than tangling with all the shrimp. But because of that, he has given me a chance.” Han Sen slowly drew closer to Night River King.
+
+This was no time to attack Night River King. If the Ice Blue Knights found out what he had done, it would be labeled a crime.
+
+Han Sen’s target was the Galactic Lobster that was engaged with Night River King. He wanted to take advantage of its distraction and injuries.
+
+The guns fired their energy bolts, resulting in an array of explosions erupting all over the place. The capital ship looked like it was in the middle of a rainbow. And beneath those colors was the unchecked carnage of battle. Countless lives were being consumed. It really wasn’t fair.

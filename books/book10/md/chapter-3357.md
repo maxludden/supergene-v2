@@ -1,0 +1,90 @@
+Title:Gourd Seed 
+Chapter:3357 
+Section:17 
+Book:10 
+CSS:../Styles/style.css 
+viewport: width=device-width
+  
+## Gourd Seed
+### Chapter 3357 
+<figure>
+	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
+</figure>
+  
+
+  
+  Katcha!
+
+While Han Sen was checking out the gourd, he witnessed the gourd suddenly break. It was like the little gourd was a lamp that fell from the gourd vine.
+
+When the gourd left the vine, the green gourd vine quickly died. It turned to dust that scattered across the ripples of the pool’s water. After that, it disappeared.
+
+The small gourd continued to float in front of Han Sen. It kept flickering like a heartbeat. It was like a firefly constantly flickering.
+
+Han Sen wondered if he should reach his hand out to grab the little gourd. The small white rat that had been watching all that time finally jumped out from the water. With its mouth opened wide, it revealed its sharp teeth. It was going to try and bite the small gourd.
+
+The small white rat’s actions were too fast and sudden. Han Sen’s mind had been fixated on the gourd. When he noticed the rat, it was already too late.
+
+The small white rat opened its mouth wide. It swallowed the small, hand-sized gourd via its mouth. Before the gobbled gourd could reach its belly, there was some sort of “katcha katcha” noise. The small white rat’s teeth were all over the floor. Its body bounced away and went “patong” into the pond. The splashes were a few inches high.
+
+It was different from when it had been turned into charcoal after nibbling the vine. This time, the body of the small white rat had not been rendered charcoal. What happened to it was certainly scarier than the whole charcoal transformation attack. Now, its body was like ice. When it hit the water, only then did it melt. Within a second, the small white rat’s body became water just like the pond.
+
+Han Sen was frozen after seeing that. The small white rat was not an ordinary thing. Its Break World rate was obviously high, but it had only tried to bite the gourd before being reduced to nothing but water. That was a frightening thing to witness.
+
+Han Sen had wondered if he should take the small gourd or not. Now, he did not dare grab it.
+
+Katcha! Katcha!
+
+After the small white rat dissolved, the small gourd started to exhibit new changes. The shell of the gourd looked like glass. It had lots of cracks across the surface. It spread fast. It was going to shatter.
+
+Of course, in the blink of an eye, the gourd shell that was full of cracks went “katcha” and exploded.
+
+Han Sen’s eyes opened wide. He looked at the gourd, which had suddenly been sundered into bits. He saw a dark red gourd seed floating amidst the rubble of its prior self. After the gourd exploded, the gourd seed went toward Han Sen.
+
+Without thinking, Han Sen took it. The dark red gourd seed landed in his hands. The light started to fade. It quickly looked like an ordinary seed.
+
+“This gourd seed should be the geno seed that big sky demon and the others want, but what is the point of this thing? Are you supposed to just eat it like an ordinary seed?” Han Sen looked at the gourd seed. He had no what he could do with it.
+
+It was just like a pumpkin seed except it was dark red. It looked crystal. It looked like it had been made of blood jade.
+
+He researched the gourd seed again and again, but he had been unable to find anything. Han Sen had no choice but to put it away and return to the pool.
+
+The small white rat did not show up again. He knew it had been killed. He felt kind of sad about it. The small white rat had helped him a lot, yet it had been killed like that.
+
+“I wonder who that small white rat belonged to. Who was it? If it was able to traverse in and around the copper tablet, it must have had some ties to the God Chaos Party.” Han Sen tried to guess. Either way, he had nothing he could use to prove and clear its identity.
+
+When he returned to the rat hole, Han Sen tried to use his Dongxuan Aura to squeeze through the hole of the copper pillar. He tried to peep on big sky demon and her fight with the other two people beyond the hole.
+
+“I do not know if there has been a result and victor in that fight yet,” Han Sen thought. After the Dongxuan Aura reached the hall, he did not receive any resistance. He saw what was in the hole.
+
+Big sky demon, Ancient Devil, and Bury Path God were still there in the hall, but the situation they were in now was rather weird. The three of them were standing like a tripod. They were holding each other’s hands. It was like there was an invisible power floating between the three people. It created a weird balancing mode.
+
+“Big sky demon, you should be happy now. We were all supposed to win, and now you had to bring harm to yourself.” Ancient Devil looked cold as he spoke.
+
+“You and I would have had to fight eventually. I was just getting things prepared. If you and I were not thinking about the same thing, how were you able to block my sky demon dissolving body instantly?” Big sky demon looked pretty. Her face did not look so well though. She was looking rather drained and pale.
+
+Ancient Devil said, “At least I did not fight you before we tried to kill Bury Path God.”
+
+According to their conversation and the situation they seemed to be in, Han Sen could guess that big sky demon suddenly bailed right when they were about to kill Bury Path God. She wanted to kill Ancient Devil and Bury Path God in one fell swoop. She had not expected that Ancient Devil was already prepared for that. Now, the three of them were trapped together.
+
+Bury Path God quietly said, “If this continues, none of us will benefit. Why don’t we just stop now while we’re ahead? We can let bygones be bygones and have what happened between us today be nothing more than water under the bridge. We should use our own power to get the gene seed now.”
+
+“Don’t you even think about it,” big sky demon said with a curl of her lips. She looked at him disdainfully. “Considering Dust Sky is your territory, I highly doubt you will allow us to leave this realm safely. Even if we were allowed to leave safely, you are in Dust Sky. Like being in a moon tower, you get the moon first. We will have no chance to take the gene seed from you and escape.”
+
+Ancient Devil was silent. He did not plan on giving up on what he had gone there for.
+
+Bury Path God could not convince them, so he asked, “Do you know a person called Qin Xiu?”
+
+“Why does it matter if I have heard of him.” Ancient Devil and big sky demon did not know why Bury Path God was mentioning Qin Xiu now of all times.
+
+“Do you not think that person is quite strange?” Bur Path God slowly said, “He was a human who traveled between the main and reverse universes. He kept chasing our leader. How many people were ever able to do something like that?”
+
+Big sky demon seemed to realize something, so she looked at Bury Path Sky and asked, “What are you trying to say?”
+
+Bury Path God was not in a big rush. He slowly said, “When our universe rebooted, humans were able to rise. There was a scary Wu Wei Dao Alpha who was born uniquely. Not even I would have been able to battle him. I suspect he would have become a leader or a reincarnation of the last God Hall Leader.”
+
+“No way,” big sky demon said. “If that was the reborn leader, he should have gone to the geno universe. He died in the universe of kingdoms. Was he also able to reincarnate in the universe of kingdoms?”
+
+“It is like that, according to the theory, but that is a strange point,” Bury Path God said. “The Wu Wei Dao Alpha did, however, have a gene prototype.”
+
+Now, big sky demon and Ancient Devil changed their colors. They fell into deep contemplation. Ancient Devil went quiet before asking, “Are you sure he had a gene prototype?”

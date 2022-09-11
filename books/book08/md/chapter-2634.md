@@ -1,0 +1,82 @@
+Title:Han Sen’s Trouble 
+Chapter:2634 
+Section:12 
+Book:8 
+CSS:../Styles/style.css 
+viewport: width=device-width
+  
+## Han Sen’s Trouble
+### Chapter 2634 
+<figure>
+	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
+</figure>
+  
+
+  
+  After a year spent in recovery, Han Sen was now almost as healthy as he had been before the Medusa’s shield sucked him dry. But rather than making his life easier, recovering from his injuries actually brought him new difficulties.
+
+Before, while his body was known to be damaged, no one had made any demands of him. Now that he was well again, all kinds of people tried to flex their authority or exploit their relationship with Han Sen to ask him to bless their children.
+
+Some of these people were easy for Han Sen to turn down, whereas others were more difficult.
+
+Like Yun Changkong and the Sixth Elder that looked after the Rebate. There were others who had no direct connection to Han Sen, but they were deifieds and high-ranking officers of Sky Palace.
+
+If Han Sen rejected them all, he would offend everyone in Sky Palace. But if he accepted their requests, he would be pestered constantly and he would never get a moment’s rest.
+
+“Brother Han, how is it going?” Han Sen was coming out of the seventh tower when more trouble found him.
+
+He raised his head when he heard the voice calling for him. It was Yu Jing. He was riding a King class xenogeneic mount. It looked as if the man was doing alright for himself.
+
+“I’m doing okay. You haven’t come to me to request a blessing, right?” Yu Jing always had a purpose for visiting Han Sen. At heart, Yu Jing was an evil businessman. Running into him was never a coincidence.
+
+When Yu Jing heard Han Sen say that, he laughed. “You must be really annoyed by the people who’ve been pestering you lately. But you won’t have to suffer it for much longer. In fact, I have a proposal that can return some peace to your life.”
+
+“Oh? And what would that be?” Han Sen looked at Yu Jing with confusion. He didn’t believe Yu Jing would have come all this way just to solve Han Sen’s problem for him. The man wasn’t that nice.
+
+Yu Jing looked serious when he said, “The people of Sky Palace are coming to you privately because there is no official way for them to seek your blessings. If you create an official channel, perhaps set up an auction where people can bid for a blessing or two, then they’ll stop coming to see you privately. You could earn a lot of money and remove some stress from your life at the same time.”
+
+When Han Sen heard this suggestion, he knew Yu Jing was up to something. The idea was stupid. Rather than fixing Han Sen’s problem, it would only be more of a pain in the *ss for him.
+
+Having an auction would allow him to make a lot of money, but it wouldn’t stop the authority figures of Sky Palace from contacting Han Sen personally. If he refused to give blessings outside of the auction, people would just think Han Sen was a greedy person. If he merely sold his blessings without helping the leadership of Sky Palace directly, people might end up hating him. That told Han Sen the idea for an auction probably wouldn’t work. If he altered this method slightly, though, he could allow Sky Palace Leader to determine how his blessing talent was used. The leader would determine who received the blessings, which would take pressure off of Han Sen.
+
+If the Sky Palace deifieds wanted a slot, they would pester Sky Palace Leader instead of Han Sen.
+
+Of course, Han Sen couldn’t use all his power on blessing others. He would have to keep telling the lie that giving out blessings affected his lifespan and strength. He could say that it took two or three years for the negative side-effects of a blessing to dissipate. That way, he would only have to bless on rare occasions.
+
+Han Sen could also claim that Sky Palace Leader completely controlled how the blessings were distributed. If someone came to Han Sen privately, he could say Sky Palace Leader forbade him from giving out blessings outside of the official channel.
+
+If Han Sen offered Sky Palace Leader such a valuable opportunity, there was no way that the man could refuse. It would be a disservice to his people if he let this chance go by.
+
+Thinking of this, Han Sen came up with a plan, and his depression evaporated.
+
+“I don’t want to hold an auction. Giving a blessing severely damages my body. I have no interest in blessing others unless it is absolutely necessary. Earning additional resources isn’t a good enough reason,” Han Sen told Yu Jing.
+
+“That is a crying shame,” Yu Jing mumbled, heartbroken.
+
+“Brother Yu Jing, did you just come here to tell me that?” Han Sen asked Yu Jing, raising an eyebrow.
+
+“Not really. I’m here because someone asked me to conduct trade with you,” Yu Jing quickly said.
+
+“It won’t be something that has to do with blessings, right?” Han Sen asked, suddenly alert.
+
+Yu Jing laughed and said, “Of course not. A half-deified relative of mine wants to ask you to kill a xenogeneic with him. There hasn’t been a chance for him talk to you face-to-face, however. So, he asked me to make the request in his stead.”
+
+“Killing a xenogeneic? Why would he ask me? There are many elites here. If he needed someone, why would he come to me?” Han Sen was shocked. He couldn’t believe some Sky Palace half-deified wanted his help just to kill a xenogeneic.
+
+“My relative is a bit special. He can’t ask the deifieds for help, and he wants to hunt a deified xenogeneic. He heard that you and Lone Bamboo managed to bring down a xenogeneic, and that is why he wanted you to help him. There is plenty of room for negotiation; my relative is very rich,” Yu Jing explained.
+
+This half-deified person was called Yu Kun. He was one of the more experienced half-deifieds in Sky Palace. He was from the same generation as Sky Palace Leader, and he was known to be quite talented.He had a chance to become deified long ago, but something happened in his family that had kept him from doing so. He still wasn’t deified.
+
+“What was so important that he put his ascension on the backburner?” Han Sen asked.
+
+Han Sen wasn’t just asking this out of curiosity. He was worried that this could end up dragging him into some internal conflict within Sky Palace. Han Sen was very careful to avoid involving himself in such things.
+
+Yu Jing understood Han Sen. He smiled and explained, “Don’t worry, Brother Han. No one in Sky Palace has a grudge against Uncle Yu Kun. He hasn’t become deified because of something that happened to his son. His son got involved with the wrong people and accidentally leaked classified information and screwed up some of Sky Palace’s plans. Although this had nothing to do with Uncle Yu Kun, he went to jail for thirty years on his son’s behalf. He was released a few years ago.”
+
+“One of our deifieds would help Uncle Yu Kun if he asked. According to the rules of Sky Palace, he has every right to request aid. But Yu Kun is very ashamed about what his son did to the people of Sky Palace, so he doesn’t want to ask any of the deifieds for help. That is why he wants to work with you. You don’t have to worry that he won’t be able to pay you. He is old and has a lot of money.”
+
+“Let me consider this for a while,” Han Sen answered, carefully not agreeing. Yu Kun’s situation was complex, so Han Sen wanted to consider the potential ramifications for working with the man.
+
+“Okay. Give me a response as soon as you can. Uncle Yu Kun is waiting, and I want to give him an answer,” Yu Jing said.
+
+Han Sen agreed. After saying goodbye to Yu Jing, he left his own little island and headed to the primary island where Sky Palace Leader lived.

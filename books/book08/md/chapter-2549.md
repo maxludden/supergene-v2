@@ -1,0 +1,96 @@
+Title:A Man With Three Options 
+Chapter:2549 
+Section:12 
+Book:8 
+CSS:../Styles/style.css 
+viewport: width=device-width
+  
+## A Man With Three Options
+### Chapter 2549 
+<figure>
+	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
+</figure>
+  
+
+  
+  Han Sen was still falling when the armored man’s hands reached out and wrapped around his head, gripping him firmly. Purple air rose from the hands in streams that flowed like venomous snakes, and they drilled through Han Sen’s body. The purple air bound him, preventing him from moving.
+
+When they saw the armored man grab Han Sen, Elysian Moon and Gu Qingcheng were in shock. Gu Qingcheng’s heart leaped into her throat. She lifted her hands, and thousands of old swords appeared around her. They went soaring over to strike the armored man.
+
+Gleaming blades rained down like a waterfall. Even a planet would be riddled with holes after weathering a storm of those blades.
+
+But the armored man was able to hold Han Sen with one hand and use the other hand to punch through the swordstream that was all around him. The power of that punch flew all the way back to Gu Qingcheng, but it was stopped by the sudden appearance of Elysian Moon’s umbrella shield.
+
+Pang!
+
+That punch broke the swordlight that her umbrella had formed. The armored man gathered strength in his fist again, preparing to attack Gu Qingcheng once more.
+
+“Stop! How dare you be so rude to those two girls. Go back!” Ji Yang Sheng shouted. He had arrived just in time, riding a robotic demon wolf. The armored man lowered its fist and retreated.
+
+“Sorry I’m so late and ended up scaring you, girls.” Ji Yang Sheng smiled at Gu Qingcheng and Elysian Moon.
+
+“So you were the one behind all this,” Elysian Moon said, giving Ji Yang Sheng an icy stare.
+
+“Of course not. I’m just here doing what is right of me to do.” Ji Yang Sheng looked at the armored man holding Han Sen. He smiled and said, “Teacher Han, we meet again. You should have the time to talk to me now, yes?”
+
+“Mr. Ji, I don’t think you have gauged my personality correctly.” Han Sen was being held firmly by the armored man. Purple smoke covered him, and he couldn’t even move his fingers. His face remained impassive, though.
+
+“What do you mean?” Ji Yang Sheng looked at Han Sen with interest. He looked like a cat playing with a mouse.
+
+“Sir, just in case, we should take Han Sen to our core area base,” the Demon King said.
+
+Han Sen laughed and said, “He is right. I have a very bad temper. You better do it quick; otherwise, you won’t have the chance.”
+
+Ji Yang Sheng ignored the Demon King. His face took on an expression that looked something like a smile, but it was far too toothy and feral to be pleasant. He said, “Oh, Han Sen; you are quite powerful. Even under these conditions, you manage to stay so calm. But you are under the Sky Demon Lock. You are certainly stronger than a mere King, but not even a deified elite could break the Sky Demon Lock.”
+
+After that, Ji Yang Sheng turned away, ignoring Han Sen. He directed his attention to Gu Qingcheng and Elysian Moon. “These two girls can be privileged guests of my family. Please don’t worry. You guys are VIPs. The Demon will never think of bringing harm to the two of you. We will treat you very nicely.”
+
+Before Gu Qingcheng and Elysian Moon could answer, Han Sen laughed. “I was wondering why you were doing this to me. It’s because you want the two of them? If you had told me sooner, I would have given them to you. Why go to all this hassle?”
+
+“Shut up! I thought you were quite the character, but I can’t believe you are so obscene. How could you say something like that just as a desperate attempt to survive?” Ji Yang Sheng shouted at Han Sen.
+
+Han Sen sighed. “I’m just telling you the truth. They are very pretty, but they’re actually insatiable monsters. They’d eat your flesh right down to the bones. I’ve suffered so much following them. I will be very happy if you take them away from me. I will build an altar in your honor, and I will praise you every night. I will treat you like a savior,” Han Sen said.
+
+“Huh, whatever you say. You cannot escape this.” Ji Yang Sheng seemed to know what Han Sen was trying to say. It made him laugh coldly.
+
+Han Sen shook his head and sighed. “Mr. Ji, you’re being rather cocky, but we’re only in this situation because of someone else’s work. If it wasn’t for that scary guy in armor, you would be unable to defeat me. You have nothing to be cocky about. It should be that guy there who is cocky.”
+
+Ji Yang Sheng smiled and said, “He is my Demon Doll. He only moves when I move. If you cannot beat my Demon Doll, you aren’t qualified to fight me.”
+
+“Demon Doll? He isn’t an actual Demon?” Han Sen pretended to be surprised.
+
+“Sir, let’s go back to base now.” The Demon King from earlier stopped Han Sen and Ji Yang Sheng’s conversation. He didn’t want the prince to leak details about the Demon Doll.
+
+Ji Yang Sheng wasn’t stupid, though; he knew what was going on. He laughed and said, “Han Sen, stop wasting our time. I won’t kill you. If you behave during your time with the Demon, we will treat you well.”
+
+“What does that mean? Can you define ‘behaving’ for me? Do you want to milk me like a cow? Do you want me to eat grass while you squeeze my udders? You want me to make your sons and grandsons fat and full? You want me to die miserably when there’s nothing left to give?” Han Sen smiled.
+
+“It is nothing like that. If you work, you will be rewarded. If you have this kind of power, you should do things to better the lives of others in this world.”
+
+After that, Ji Yang Sheng spoke to Gu Qingcheng and Elysian Moon. “Ladies, please. You both will be my VIPs forever. No matter where you go, no one will dare hurt you. But if you both don’t want to be my friends, I can’t promise you this.”
+
+Elysian Moon was always cold, but now she suddenly laughed. She was so pretty that she looked like a moon palace fairy. But her face looked as untouchable as a marble sculpture. When she laughed, it was like a flower opening amidst the snowfall. It was so beautiful. It was like realizing the world was alive after believing it to be dead.
+
+Ji Yang Sheng and the other demons were frozen. They were thinking, “This woman is unbelievably pretty.”
+
+Elysian Moon laughed and said happily, “We would like to go with you, but I’m afraid someone else might not.”
+
+“Who won’t?” Ji Yang Sheng asked.
+
+“Him,” Elysian Moon said, looking at Han Sen.
+
+Ji Yang Sheng chuckled darkly. “Mr. Han is in danger. Even if he doesn’t want you to come with us, he has no say in the matter. He doesn’t even have a say in what happens to him. He will be coming with us, so we can all go together, too. So what if he doesn’t want to?”
+
+Elysian Moon shook her head. “It looks like you don’t understand him at all.”
+
+“Do I need to understand him?” Ji Yang Shen said cockily.
+
+“If you understood him, you would know he is a suspicious, cunning, insidious, and cruel person. He doesn’t place trust in anyone aside from himself. He always has a backup plan. Even when he is on the brink of doom, he has an escape route planned and ready to go. If I were you, I wouldn’t be hanging around here to chat. I would chop his head off and grind him into pieces. Then I would burn those pieces until there was nothing left but ash,” Elysian Moon said in a serious voice.
+
+Ji Yang Sheng was shocked. He looked at Han Sen. The man’s body was still wrapped in the toxic snake-like purple air, and the sight made Ji Yang Sheng relax and smile again. “You think too much. He is under the thumb of the Sky Demon Lock. Not even a deified elite could escape this. No matter how evil he is, getting out of this trap is impossible.”
+
+“Really?” Han Sen’s voice asked.
+
+“When…” Before Ji Yang Sheng could speak again, his face grew pale.
+
+The purple mist still surrounded Han Sen, but his body looked like a rainbow. The Sky Demon Lock was melting within that light.

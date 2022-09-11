@@ -1,0 +1,74 @@
+Title:Nine Spin Destiny Mirror 
+Chapter:2388 
+Section:11 
+Book:7 
+CSS:../Styles/style.css 
+viewport: width=device-width
+  
+## Nine Spin Destiny Mirror
+### Chapter 2388 
+<figure>
+	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
+</figure>
+  
+
+  
+  Han Sen wasn’t interested in selling his ticket of admission to Destiny’s Tower, which greatly disappointed Bai Ling Shuang. Luckily, she didn’t push the subject any further.
+
+Two days later, someone from the palace arrived to give Han Sen his exam rewards. The reward was a little different than Bai Ling Shuang had predicted, though.
+
+Han Sen received the pass that would grant him admission to Destiny’s Tower, but he wasn’t given the deified treasure Bai Ling Shuang had mentioned.
+
+After Han Sen considered the issue for a moment, he thought that he understood. Perhaps King Bai was still suspicious, so he withheld the deified treasure typically given to whoever came in first.
+
+“Being given permission to enter Destiny’s Tower is still a great reward. I’m excited to see if that Destiny’s Tower is the same or different from mine.” Han Sen had been curious about the Destiny’s Tower of the Extreme King since he first learned that it existed.
+
+After he sent the officers away, Han Sen slid the pass into his pocket and went to visit Destiny’s Tower. He wasn’t personally in a rush, but he was afraid Fox Queen might learn that he had been given the pass. She would find him quickly, and she would ask him to steal something from the tower, no doubt. That would be way too risky.
+
+After going to Destiny’s Tower, Han Sen understood why it was so difficult to gain permission to go there. The Extreme King didn’t want many people to learn the secrets within Destiny’s Tower, for one. But there was another reason. Opening Destiny’s Tower required the strength of four deified elites. All four had to combine their strength in order to open the door enough for one person to pass through.
+
+Every time Destiny’s Tower was opened, the four deifieds would end up exhausted. It would take them two to three months to recover, and it cost them a very rare and special material.
+
+Although Han Sen had received the permit allowing him to enter Destiny’s Tower, he would have to register before he could use it.
+
+After Han Sen sorted out all the registration forms, he was told he would be allowed access in seventeen days. He had to be there on time. If he was one second late, he would lose his permission to enter Destiny’s Tower.
+
+Han Sen was depressed, but he knew the seventeen days would go by quickly. It was a statement of the Extreme King government’s power that they had four deified elites standing by to open the door. In most races, who knew how long it would take to gather up four deified elites.
+
+But because of the delay, Han Sen lost all hope of avoiding Fox Queen.
+
+As soon as he came home, he found the flirty Fox Queen lying in his bed. Her eyes were like moons as she smiled at Han Sen. “My good brother, did you register to enter Destiny’s Tower?”
+
+“It is done.” Han Sen slumped his shoulders and moved to sit on a chair.
+
+Fox Queen stood up and walked over to Han Sen. She wrapped her arms around Han Sen from behind and let her fingers draw circles across Han Sen’s chest.
+
+Han Sen felt something soft press against his back. Her beautiful face brushed against his, and her red lips came next to his ear and whispered, “Help me smuggle the Fox treasure out of Destiny’s Tower, and I will treat you very well.”
+
+“It’s not as if I don’t want to help… I’m just afraid that if I do, I’ll never again have the chance to talk with you again,” Han Sen said.
+
+Fox Queen laughed. She pulled Han Sen’s cheek down onto her chest and said, “Why would I let you die? I have a way in which you can steal the item, and no one else will ever know. No suspicions will be flung your way. After that, I can help you leave the Extreme King. Then, the Fox race will be greatly indebted to you. If you want, you can come back to the Foxes with me. After all, we have many pretty women for you to spend your time with.”
+
+“Don’t. I am so unlucky, there’s no way I could be fortunate enough to end up in that situation. Why don’t you tell me about this Fox item in Destiny’s Tower? What is the plan for stealing it?” Han Sen said.
+
+Fox Queen looked very sad. She moved around the chair and sat on Han Sen’s lap. Leaning against Han Sen’s neck, she sighed. “I was trapped inside Ghost Bone Palace for too long. After I got out, I realized that the universe of today is vastly different from the universe I used to know. The Extreme King used to be the Sacred Leader’s slaves, but now they’ve become one of the highest races. While the Foxes didn’t fall, our treasure was claimed by the Extreme King. Because of that, my people have been unable to break through and become deified. We have had to use our beauty just to survive.”
+
+After pausing, Fox Queen went on to say, “I have been gathering intel since I left Ghost Bone Palace, and I’ve learned that King Bao was the one who took our treasure. He placed it inside Destiny’s Tower. I cannot go in there, so I have had to come and ask you to fetch it for me.”
+
+Fox Queen looked very pitiable, and her sad expression would have been enough to make most people want to help her. Han Sen knew Fox Queen was much stronger than he was, but he still felt guilty. “What is this treasure of the Foxes? Why would King Bao keep it inside Destiny’s Tower?”
+
+Fox Queen hesitated, but ultimately said, “The treasure is called Nine Spin Destiny Mirror. It is a Fox-exclusive deified treasure. When a Fox becomes King class, they need the Nine Spin Destiny Mirror to be reborn nine times. Then they can become deified. After losing the Nine Spin Destiny Mirror, not a single one of the Fox has been able to become deified. For a higher race, this is so sad. I hope you can understand our plight.”
+
+“And in regards to why King Bao put the Nine Spin Destiny Mirror into Destiny’s Tower, I have no idea. Normally, aside from the Fox, none can make use of the mirror.”
+
+Han Sen frowned. He asked Fox Queen, who was in his arms, “How am I supposed to get the Nine Spin Destiny Mirror out of the tower?”
+
+Fox Queen blinked and said, “I can use a Fox technique on you. Then, you will temporarily have the powers of a Fox. When you see the Nine Spin Destiny Mirror, if it is not bound, you will not even have to move. It will just fly to you. Then, you can hide it on your person and carry it out unseen. It will not be difficult.”
+
+Han Sen nodded and said, “If that is true, then I can give this a shot. But I can only promise you that I will try. I cannot promise you that I will succeed.”
+
+Fox Queen immediately smiled. She lifted Han Sen’s chin and kissed his cheek. She said, “Good Little Brother. You’re doing me a grand service, even if all you do is try. The whole Fox race will hold you in high regard. If you ever need anything, the Foxes and I will give you all the help you require.”
+
+“It’s fine, Sister. If I can really do this, I will help you because of the bond we share.” Han Sen sounded as if he was in agreement, but inside, he was thinking something quite different.
+
+“Okay, I’m not going to say any more of those cheesy phrases. Let’s hurry. I will now place the Fox technique inside you. It will grant you Fox powers for a while.” After that, Fox Queen sat up straight, wrapping her legs around Han Sen’s waist. Then, she kissed him.

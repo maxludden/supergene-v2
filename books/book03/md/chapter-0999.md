@@ -1,0 +1,104 @@
+Title:Blue Ape 
+Chapter:999 
+Section:3 
+Book:3 
+CSS:../Styles/style.css 
+viewport: width=device-width
+  
+## Blue Ape
+### Chapter 999 
+<figure>
+	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
+</figure>
+  
+
+  
+  “Little Han, is it a sacred-blood creature?” Old Huang asked.
+
+Han Sen nodded, saying, “Yes, it is.”
+
+Han Sen brought out his bow and summoned a Sabertooth-Bee Arrow. Then, he took aim at the giant snake’s weakspot.
+
+“Old Huang, ready yourself for a fight.” Han Sen then commanded the party to establish a formation.
+
+Han Sen loosed the arrow. It pierced through the snake’s already-shredded flesh and embedded itself entirely within the beast.
+
+The black snake shrieked in agony, and took off after Han Sen. It expelled a black smoke from its mouth, as it went, and it looked terrifying.
+
+“The snake can breathe a horrid mixture of fire and toxic smoke; run!” Han Sen summoned his Dragon-Blood Snake as he ordered them all to fall back.
+
+The two monsters lashed against each other. Although the giant snake had been severely wounded, it was still more formidable than its new opponent. Without wasting a second, it slithered its way around the Dragon-Blood Snake to ensnare and choke it. So powerfully did it seize Han Sen’s creature, it looked as if its entire body would snap in two-seconds-flat.
+
+The Dragon-Blood Snake squealed in pain as the black snake rotated its head, nearing the mouth of its captured foe. Then it opened its venomous maw wide and cast a gust of toxic smoke down the Dragon-Blood Snake’s throat.
+
+The Dragon-Blood Snake’s muscles relinquished their strength, and it collapsed as if it were drunk. It wished to escape, but it longer had the strength to even attempt to free itself.
+
+Han Sen returned the Dragon-Blood Snake to the Sea of Soul before anything even more foul befell it.
+
+Whoosh!
+
+Another Sabertooth-Bee Arrow was fired, and it drilled through another of the giant snake’s wounds.
+
+The black snake was whipped into a frenzy by Han Sen’s bold attacks, and it lashed towards him with a mouth that breathed fire like a geyser.
+
+The forest around him was turned to cinders, and charred branches cascaded to the ground in a chimney-red, halloween-orange haze. If a portion of the once-green region had been spared the fury of the snake’s fire-wreathed vengeance, it soon fell prey to the fierce disintegrating properties of the beast’s toxic smoke.
+
+Han Sen pranced quickly in retreat, weaving his way past trees and bushes, using what he could as momentary cover.
+
+His sacred-blood armor was able to repel the fire and toxic smoke, thankfully. All he had to do to remain alive was not breathe in the smoke himself.
+
+Using the bushes, Han Sen evaded the snake’s enraged attacks. And after each successful dodge, he fired an arrow at another of the snake’s wounds.
+
+If Han Sen had not gotten as strong as he was, he wouldn’t have been able to keep his head above water and remain toe-to-toe with the foe.
+
+Still, the sacred-blood creature was scary. And despite the barrage of arrows Han Sen fired, and the shrieks of pain they drew from the snake, they didn’t actually slow the creature down. It still came for Han Sen as madly as ever. He could only be thankful the snake had already been injured so severely; had it not, Han Sen wasn’t sure if he could’ve handled it.
+
+The black snake was strong, and it continued as it was for quite some time. But eventually, as all things did, the blood loss took its toll. The creature began to shiver and shake, and its attacks lost the precision and finesse they once had.
+
+Han Sen, braving the inferno, took the opportunity to run loops around the snake. He fired arrow after arrow, each striking the wounds of the giant snake.
+
+After an hour of this, the black snake lost its composure and fell to the ground. It remained there, with at least two hundred arrows protruding from its scaly-skin.
+
+“Sacred-Blood Creature Black Python killed. No beast soul gained. Consume its flesh to gain zero to ten sacred geno points randomly.”
+
+Han Sen felt great relief following that battle. It had almost been too hot for him to handle, and he was supremely thankful the creature had been found wounded. He did not fancy going up against such a foe if it was at full health.
+
+Han Sen then went to fetch Old Huang and his people, and brought them back. As they prepared to transport the creature back, something leapt out of the forest towards the snake’s body. It grabbed the snake, threw it over its shoulder, and ran away.
+
+Everyone was frozen stiff. An ape had just waylaid them; one that was two meters tall and had baby-blue fur.
+
+For it to carry such a creature all by itself was no small feat, and yet despite that, it managed to race through the knotted woods with impressive speed.
+
+“Shit! How dare you take my kill. That belongs to me!” Han Sen’s wrath was quickly incited, and he fired arrows as he yelled at the fleeing simian.
+
+But the ape did not look back, and off it continued to go. It had positioned the snake across its back, too, so that the corpse would be the recipient of any arrows fired at the ape’s back.
+
+“Ooh-ooh-Oohaha!” The blue ape turned around and laughed at Han Sen. Then, it went back to running away.
+
+“F*ck you, monkey!” Han Sen was furious. He had to do something, but first, he told Old Huang to return.
+
+The blue ape continued running through the tangled overgrowth of the forest, and Han Sen planned to go after it. Unfortunately, it too was a sacred-blood creature. And so, to ensure the safety of Old Huang and the others, he made sure they did not follow.
+
+What’s more, he had seen the ape’s claws. It was quite possible that the blue ape was the one responsible for the snake’s initial injuries.
+
+As Han Sen gave chase, the blue ape sped up. It ran faster than Han Sen could.
+
+That surprised him, too. It was as if the blue ape had suddenly activated a speed boost.
+
+“Is it just fast, or has time just sped up?” Han Sen was quite surprised.
+
+The blue ape shone with a blue light as it went, and further and further it raced. When there was a wide enough berth, it would even turn around to taunt Han Sen with a cheeky grin.
+
+Han Sen was unable to catch up, and after a while of chasing it, the thief had gained a lead that increased until it was completely out of sight. Regretfully, Han Sen had to give up the pursuit.
+
+There was no use in Han Sen getting mad, as it was his fault for not being able to match the ape’s speed. He returned to the shelter empty-handed, but did not make a fuss.
+
+What had occurred with the ape did not weight on his mind, either. He soon forgot about it entirely. Failure was to be accepted sometimes, and it was something that happened frequently, when someone wished to hunt creatures.
+
+But a few days later, there were growing reports of a blue-colored fiend making a habit of stealing kills and even wounding people.
+
+Han Sen frowned. With the ape’s power being what it was, he knew the ape could have killed the hunters if it chose to. So, it seemed as if the ape had returned with the desire to provoke them.
+
+“Stay in the shelter over the course of the next few days. I will check it out,” Han Sen commanded his people. Then, he went to the spirit hall and picked up Bao’er. With the baby in-hand, he left the shelter.
+
+Han Sen had been unable to chase the blue ape before, but things might be different with Bao’er in tow. If the ape made an appearance and did something to upset Bao’er, Han Sen was fairly sure she’d use the gourd to make quick work of it.

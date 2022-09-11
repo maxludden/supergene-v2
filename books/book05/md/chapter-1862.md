@@ -1,0 +1,94 @@
+Title:Geno Art in the Moonlight 
+Chapter:1862 
+Section:7 
+Book:5 
+CSS:../Styles/style.css 
+viewport: width=device-width
+  
+## Geno Art in the Moonlight
+### Chapter 1862 
+<figure>
+	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
+</figure>
+  
+
+  
+  There was no use in watching the livestream now, because the moonlight was like a curtain that obscured everything that lay beyond.
+
+Han Sen stood inside the palace. He could feel the moonlight going into his skin. His bones and cells felt alive, as if they were being thoroughly cleansed by blessed water.
+
+“Weird. The power of that moonlight…” As Han Sen wondered about all this, his Jadeskin started running.
+
+The beams of moonlight drifted toward Han Sen and landed on him, as if he were their exact target.
+
+“Ah! They are the same element. That is why I felt that it was similar to Jadeskin.” Han Sen was very happy about this. When the moonlight came through him, his Jadeskin developed even faster.
+
+When the Jadeskin had become xenogeneic, it looked as if it had gone as far as it could possibly go. But now that he had the benefit of the moonlight, it felt like it was going even further. This made Han Sen incredibly happy.
+
+When Han Sen absorbed that moonlight, the light wasn’t reduced. In fact, the luminosity only increased. Within the moonlight, Han Sen was also able to see some sort of text that stood out brighter than the rest of the moon’s light.
+
+When Han Sen read it, he noticed that it was a geno art.
+
+But it did not have a title. So, Han Sen kept reading it, until he realized that it was something quite similar to Jadeskin.
+
+It had not been created by the same entity, but the thought process behind it was surprisingly similar.
+
+That geno art inside the moonlight was more suitable for the geno universe. Jadeskin was tuned for the sanctuaries it originated from, after all. It was impossible to tell which of the two was flat-out better, and that was because the environment was different.
+
+“I am so lucky. I was thinking about how I could modify Jadeskin, and now I have this. Although I cannot copy it directly, it will be perfect if I can find a way to integrate it with Jadeskin for now.” Han Sen was so happy, and he did his best to memorize the content of the text he could see above.
+
+There was more and more moonlight entering him, and it almost started to feel like water. It was like a liquid, thickly flowing into Han Sen.
+
+Han Sen’s body was like jade now. He stood within the glow of the moonlight like an ice statue, letting the moonlight penetrate him. His delicate bones were cleansed by the moonlight, making him as squeaky clean as any statue.
+
+More and more moonlight bathed his body, until his xenogeneic genes started to evolve.
+
+“Am I going to become a Viscount now?” Han Sen was super happy with the prospect of this. Although it was the xenogeneic gene of Jadeskin that was evolving, it was still good enough for him.
+
+Recently, Han Sen had been wondering about how he might make himself a Viscount. And now it seemed that Jadeskin would be the trigger.
+
+Han Sen cast Jadeskin to absorb as much of the light as was possible. He had to make sure that his body received as much as it could. His other body parts were bathed in the moonlight, but what benefitted him most was the xenogeneic body.
+
+His jade-looking body began to glow with a halo. It was a sign that he would soon become a Viscount. After becoming a Viscount, Han Sen could unleash his xenogeneic powers through smoke, fire, and light.
+
+Jadeskin’s power could very well be a light-element one.
+
+Outside of the Moon Palace, moons were rising. Every time a moon rose, the Moon Palace would become brighter.
+
+“I wonder how many moons he will be able to raise?” Yisha was looking at the palace with a fond smile.
+
+She did not expect that Han Sen would be able to raise many, as he was essentially just there to practice. He was only a Baron, and he only had knife powers. She didn’t expect he’d manage to do too well.
+
+With the Moon God power, it was very good for an outsider to be able to raise twelve moons. The most a Rebate had ever raised was thirty-six.
+
+Han Sen was not a Rebate, so Yisha would be happy to see him raise ten moons.
+
+“You can fight to get a higher rank, but not more moons. Twelve moons should be the max an outsider can achieve. Over the past few hundred years, only four or five outsiders have ever been able to raise twelve. The best managed to raise twenty-four,” Icebird Duke said.
+
+The Nobles and civilians were watching the moonrise keenly. They kept counting, each time a new one rose.
+
+One, two, three, four, five.
+
+The moons kept rising, and there were now ten of them above the palace. People were shocked.
+
+“He managed to get ten moons! Han Sen is lucky,” Night River King commented calmly. He was currently playing chess with Black-Moon King.
+
+Black-Moon King smiled and said, “I think he can do more than that.”
+
+“You think he can raise twelve?” Night River King said, after moving one of his pieces.
+
+“More than that, even.” Black-Moon King’s smile did not go anywhere.
+
+Night River King was shocked by the assumption, and so he asked Black Moon King, “You think he can manage to raise more than twelve moons?”
+
+“I suppose,” Black-Moon King said.
+
+“In the past few hundred years, only five outsiders have managed to raise twelve. And there are tens of thousands of competitors this year,” Night River King said.
+
+“Knife Queen selected the boy as her student. She had a reason for making that choice. It wouldn’t be all that surprising,” Black-Moon King said.
+
+“How about we make a wager? If Han Sen can exceed twelve moons, I will give you my Dragon Steel. If he is unable to, you give me the Steel Knife. Black Steel managed to get that Dragon Back Knife, so you don’t need the Steel Knife.” Night River King smiled.
+
+“Okay.” Black-Moon King simply agreed, and then put a black chess piece down on the table.
+
+Eleven moons had managed to rise. The next would be the twelfth. To many of the Rebate, that would be the max he was expected to achieve.

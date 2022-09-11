@@ -1,0 +1,82 @@
+Title:Power of Holy Rhino 
+Chapter:1235 
+Section:3 
+Book:3 
+CSS:../Styles/style.css 
+viewport: width=device-width
+  
+## Power of Holy Rhino
+### Chapter 1235 
+<figure>
+	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
+</figure>
+  
+
+  
+  Han Sen had decided to stay and fight. He brought all his spirits and super creatures outside of the shelter to battle upon the fields. He didn’t want to risk the construct of Thunder Hell Shelter getting destroyed.
+
+After walking a few dozen miles, he and his companions caught sight of the enemy spirits and creatures approaching.
+
+The spirit that led the host was clad in black armor that masked his face. A subtle, dark glow shimmered around the being. He looked like an ancient deity, but Han Sen knew exactly who he was. That was Saint Fan, whom he had seen in the Second God’s Sanctuary. The spirit hadn’t changed much.
+
+Saint Fan Emperor was sitting upon the Holy Rhino, which looked as strong as ever. It glowed with a holy light, acting as a beacon for the army to follow.
+
+What Han Sen had seen, when the Holy Rhino ascended to the Third God’s Sanctuary, was still one of the most incredible sights he had ever witnessed. It was something Han Sen thought was insane. And now, over the time of its existence in the Third God’s Sanctuary, it had been looked after well by Saint Fan Emperor, as it had opened nine gene locks already.
+
+Beside Saint Fan Emperor, there were three king spirits and a few super creatures. Behind the leading line was an army of spirits and creatures, all of varying types, sizes, and shapes.
+
+A few of the creatures looked familiar, as they were the spirits and creatures that had escaped from Thunder Hell Shelter.
+
+Han Sen frowned, noticing this. If Saint Fan had the creatures from Thunder Hell Shelter, he would know everything about the place. He was coming fully prepared, and there were very few trump cards Han Sen had left to play.
+
+When Saint Fan recognized Han Sen, a visible look of shock fell across his face. He said, “Human; it was you who killed Thunder Hell Emperor and claimed his shelter?”
+
+“Yes,” Han Sen answered as he sat upon Golden Growler, eschewing all possible feelings of apprehension.
+
+Saint Fan smiled and said, “I left a mark on you, did I not? I had hoped to have you come to my shelter, but that mare replaced it. Lotus claimed you, did she not? Not that it matters, because you will be mine once more.”
+
+Saint Fan made it sound like he’d soon expect a grovel-like bow by Han Sen, and he’d have no trouble getting a submission from him. Han Sen was aware of how he was making it sound, so Han Sen said, “I’m not so sure about that. In fact, it might be the opposite! Perhaps later, it will be you who belongs to me.”
+
+Seeing Saint Fan there, though, made his mind drift to wonder what power the spirits possessed that allowed them to return to a previous shelter and escort creatures through.
+
+If Han Sen could do this, he thought he’d be able to bring his mother to the Third God’s Sanctuary.
+
+Saint Fan Emperor looked miffed, and he responded to Han Sen by saying, “You might be able to steal Thunder Hell’s spirit stone, but the talent that enabled that is useless against a being as magnificent as I. Get on your knees and you can return to the shelter with your comrades. All deals will be off the table once swords ring, knuckles fly, and bones break.”
+
+“Talking with this fool is pointless, yo. Let’s kill him!” Xie Qing King did not wait, and with a gleam of silver light, he took off running towards the enemy.
+
+Xie Qing King’s power was similar to that of Han Sen’s super king spirit mode. That being said, it wasn’t as effective.
+
+Seeing Xie Qing King come, Saint Fan did not seem to care. It was a king spirit that had come running out to fight, after all.
+
+Xie Qing King ran before a king spirit of the enemy and unleashed a barrage of punches. The enemy’s fists were very quick, and they were able to repel every single hit. The enemy’s fists were like shields.
+
+Pang!
+
+Xie Qing King punched a little harder and broke the fist-shield. Then, another salvo of punches was unleashed.
+
+The king spirit didn’t seem to care much about the punches it was being delivered, though, and it sought to launch a punch of its own at Xie Qing King’s head.
+
+Fortunately, his power did not match Xie Qing King’s power. With a boost, Xie Qing King’s fist was driven into the enemy spirit’s chest, while the enemy spirit’s punch was thrown into Xie Qing King’s head.
+
+A hole was smashed into the king spirit’s body as Xie Qing King’s fist ripped clean through. And when the king spirit’s own fist came into contact with Xie Qing King, it did nothing. The power seemed to have been nullified when it came into contact with the silver light that veiled Xie Qing King.
+
+“Get back to me once you’ve practiced the art of punching walls for a hundred thousand years in a dreadfully boring incarceration… matey,” Xie Qing King said.
+
+Everyone, witnessing Xie Qing King’s coolness and ferociousness in taking the fight to the enemy, were given the hope they needed, but had struggled to find before now.
+
+Saint Fan didn’t care much for his subordinate’s death, though, as the Holy Rhino’s horn began to shine. Immediately, the spirit Xie Qing King had thought to have killed stood up and healed back to full health.
+
+“Our fight is not over,” the king spirit cackled.
+
+Xie Qing King frowned, and he looked to be filled with a murderous rage. He approached the king spirit again. To this, Saint Fan waved his hand, a command to the rest of his companions to begin fighting.
+
+Seeing Saint Fan not want to fight himself, Han Sen responded by commanding Purple Emperor and the rest to deal with the army.
+
+The opponent only had seven king class elites with him, while Saint Fan and the rhino stayed out of the fighting. Purple Emperor, Xie Qing King, and Little Angel were very strong, and they were swiftly able to take control of the battleground.
+
+But Han Sen soon found out that this was pointless. The Holy Rhino was able to heal all the forces that were beaten down, making it impossible to keep the dead, dead.
+
+“It is no wonder they are not afraid to die! Injuries don’t stick,” Han Sen told himself, while frowning.
+
+“Alu-Alu-Alu!” Xie Qing King’s fists were like a couple of silver suns now, as they pummeled the daylight out of the spirit in front of him again. He had torn through every shield and beaten the spirit into a wretched, mangled mess on the floor, ready to be smashed.

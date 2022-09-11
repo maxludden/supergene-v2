@@ -1,0 +1,113 @@
+Title:Blood Dragon God Pulse 
+Chapter:3085 
+Section:16 
+Book:10 
+CSS:../Styles/style.css 
+viewport: width=device-width
+  
+## Blood Dragon God Pulse
+### Chapter 3085 
+<figure>
+	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
+</figure>
+  
+
+  
+  A burning power surged through Han Sen’s body. It made the heat in his body rise. It was like the last purple light of a setting sun.
+
+“This power… It seems to be changing my body’s genes…” Han Sen felt like the cells of his body were being invaded by the heat. It seemed as if he was undergoing some strange changes.
+
+> “Got Blood Dragon God Genes. Blood Dragon God Pulse Opened.” 
+
+In Han Sen’s brain, an announcement played. Han Sen was shocked.
+
+He checked out his information and discovered that there was an option called God Spirit Blood-Pulse.
+
+<div class="tables">
+    <table class="beast">
+        <tr>
+            <th colspan="2">Gene Race</th>
+        </tr><tr>
+            <td>Destroyed God Class</td>
+            <td>Blood Dragon God</td>
+        </tr><tr>
+            <th colspan="2" class="note">Note: Juvenile</th>
+        </tr>
+    </table>
+<!--Blood dragon god: Destroyed class God Spirit Blood-Pulse.-->
+</div>
+
+
+“Is this a God Spirit gene?” Han Sen thought it was unbelievable.
+
+While he was in the geno universe, although he had killed God Spirits and earned God Spirit genes, they were god personalities. However, he was not able to absorb them and use them.
+
+Han Sen had always wondered if true gods really were the final level that a human could evolve to. Now, however, he had absorbed the God Spirit Blood-Pulse. That was not normal.
+
+“Is this a real God Spirit gene? Is this world the same in which humans can get a God Spirit Blood-Pulse from god temples? Are they just the God Spirit Blood-Pulses?” Han Sen looked at the dragon fossil amidst his confusion. The stone was still there, but the dragon bones were gone.
+
+He heard Bald Guy shouting somewhere outside. Han Sen abandoned his thoughts and emerged to save Bald Guy’s life.
+
+Bald Guy was a little annoying, but he was not a bad person. Han Sen did not want him to die right in front of him.
+
+Most importantly, he did not want Gong Shu Jin to get what he wanted.
+
+Han Sen crushed the cold gold blade. He coldly looked at Gong Shu Jin and said, “It looks like you didn’t learn your lesson after Lou Jiu.”
+
+When Gong Shu Jin heard Han Sen talk about Lou Jiu, he looked murderous. His expression didn’t change. He coldly said, “Kill them all, but do not let them die too fast.”
+
+A dozen gene casters agreed on the move. All kinds of powers were directed at Han Sen and Bald Guy. Suddenly, lots of thunder, wind, and fire were everywhere. All kinds of light came striking down.
+
+Han Sen’s expression had yet to change. He just stepped forward, but it was extremely weird. It made people unable to see where he was stepping. At the same time, his fist was striking out.
+
+“Roar!” Han Sen’s fist had purple dragon air striking out with an overbearing presence. It was like it was destroying everything. It punched a dozen gene casters and sent them flying.
+
+Some gene casters had their skulls cracked. Some gene casters had their chests caved in. Some gene casters simply exploded. A dozen gene casters were killed in the blink of an eye. Out of a dozen gene casters, only three survived. Their arms were broken and cracked. They rolled on the ground crying out in agony.
+
+Han Sen did not expect the blood dragon God Spirit Blood-Pulse power to be so overbearing. Seeing the purple dragon air rise, he was shocked.
+
+His punching power was very strong. It was like a Destroyed class God Spirit. It was not just him now having a God Spirit Blood-Pulse.
+
+Bald Guy’s mouth opened wide as he watched the purple air rise. Han Sen was like a God Spirit descending from the sky. Bald Guy’s mouth seemed like it would never close.
+
+Gong Shu Jin’s face was pale. Han Sen killed a dozen gene casters who had combined with king-class gene races in a single punch. Even for him, who had a god-class gene race, that sort of power was not something he could achieve.
+
+“God Spirit combination… He was chosen by a god… A real god-blood noble…” Hua Nong Yue’s expression changed. He ran next to Gong Shu Jin and pulled him away. They moved far from there like a bolt of lightning.
+
+Hua Nong Yue knew how scary a god-blood noble was. It meant he could communicate with God Spirits. Something as powerful as someone being able to combine with a God Spirit was not something they could challenge.
+
+Each god-blood noble had a very strong existence. They were the true leaders and guardians of a kingdom.
+
+Every king in the seven kingdoms was an individual chosen by a god. They were very high-class people. They were able to combine with God Spirits. Nobles like that existed in every kingdom, but there were not many of them. After all, not all humans earned the blessing of a God Spirit.
+
+It was not just something as simple as a God Spirit blessing. It was about fighting with God Spirits. Even the lowest class god-blood noble had a scary battle power that ordinary people did not have.
+
+Gong Shu Jin’s face turned pale the moment he heard the words “god-blood noble.”
+
+Mister Gong Shu had lots of people, but no one would dare to offend a god-blood noble.
+
+“Impossible… He is just a redneck from a small town… How could he be a god-blood noble…” Gong Shu Jin was in complete disbelief.
+
+“Are you going?” Han Sen’s body was enveloped in a purple mist that was like purple dragon air. His body moved. He was already on cloud nine, but he suddenly arrived behind Hua Nong Yue and Gong Shu Jin.
+
+Hua Nong Yue’s eyes looked sharp. His hands pulled Gong Shu Jin far away. His body released lightning. His hair was like a demon god and stood straight up. Red mist light covered his body. It had an aura that could destroy the universe. He waved a punch at Han Sen.
+
+Han Sen was still swinging a punch like normal. The purple dragon air was like an overbearing dragon in the sky that was breaking the universe. It broke Hua Nong Yue’s lightning mist.
+
+Hua Nong Yue’s body was hit by the purple dragon air. He turned into petals that shattered. He was like a sakura flower being blown everywhere. He then looked like a humanoid again, but his face was pale. His clothes were tattered, and he was bloody. Clearly, he could not get rid of all the blood dragon God Spirt Blood-Pulse powers.
+
+Upon seeing all this, Gong Shu Jin was frightened. He knew how strong Hua Nong Yue was. Even Hua Nong Yue had almost been killed with a punch. He thought there was an 80% to 90% chance that Han Sen was a real god-blood noble.
+
+Gong Shu Jin kept flapping his wings in a bid to fly away. He was like an engine. He wanted to fly away really fast.
+
+Although he was fast, it was a shame he was not as fast as Han Sen’s blood dragon God Spirit Blood-Pulse. Han Sen stomped the ground. His body tore through space. He flew behind Gong Shu Jin with his purple dragon air rising. He was like a demon god quickly approaching. He threw a punch at Gong Shu Jin.
+
+Pang!
+
+A fist struck Gong Shu Jin in the back. The shadow of a crane appeared on it. The crane’s shadow spread its wings to protect Gong Shu Jin’s body.
+
+Han Sen’s purple dragon air punched the crane. The crane’s shadow was broken, but the purple dragon air was stopped.
+
+There was a “katcha” noise. The crane necklace on Gong Shu Jin’s chest blew up. Some smoke came out of it. It displayed the face of a white-haired elder.
+
+“I am Gong Shu Zhi. It does not matter how my son offended you, but I will bear the consequence of his actions. Please stop attacking and let my son go free.” That old man’s shadow was that of the famous Gong Shu Zhi from the Qin Kingdom.

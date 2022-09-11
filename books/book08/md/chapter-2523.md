@@ -1,0 +1,94 @@
+Title:Listening Sword 
+Chapter:2523 
+Section:12 
+Book:8 
+CSS:../Styles/style.css 
+viewport: width=device-width
+  
+## Listening Sword
+### Chapter 2523 
+<figure>
+	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
+</figure>
+  
+
+  
+  Han Sen looked at her for a minute. She was spoiled and a touch crazy, but he didn’t want to do as she said. Still, he was not mad. He laughed casually and said, “I have learned all kinds of different geno arts. I’m not a master with them, but I have sufficient skill to use each.”
+
+“The term ‘sufficient’ means different things to different people. Are you sure you have learned these geno arts sufficiently?” Yellow Clothes asked seriously. Her face was solemn.
+
+“I suppose so.” Han Sen didn’t know what was wrong with Yellow Clothes. She was talking like they were competing, and they had to find out which of the two was stronger.
+
+“Okay. In that case, I will test you with the most basic sword skill. Do you know Listening Sword?” Yellow Clothes asked coldly.
+
+“What is Listening Sword?” Han Sen had never heard of the skill.
+
+Yellow Clothes didn’t laugh at Han Sen for his ignorance. She simply explained, “A sword is like a person. A person is like a sound. We can see a person, but until we speak with them, they cannot truly become a friend. You only need a voice to communicate. In that way, we do not learn who people truly are by their appearance. Swords are this way, too. If you just look at its appearance, you cannot understand what is inside the sword. You need to listen to the sword to truly understand the blade. Only then can you understand it.”
+
+This was the first time Han Sen had heard of this. He thought it was a very interesting concept, and so he asked, “People talk, but swords don’t. How can you hear the voice of a sword?”
+
+“The sounds of instruments are not a language, so how can people listen to music and still understand what emotions it conveys and what it means? Although a sword does not speak, when you use a sword to make a sound, you are hearing the voice of the sword. If you know a sword really well, even if you cannot see the sword, you can know what sword it is by the sound it makes,” Yellow Clothes said.
+
+Han Sen didn’t believe what she was saying. He looked at Yellow Clothes and said, “That means I can pull out a sword and randomly swing it, and by that, Lady Clothes will know which sword I wield?”
+
+“Of course,” Yellow Clothes answered. She did so with absolute certainty.
+
+“Great. I have a sword, and I would like you to unveil my sword,” Han Sen said.
+
+“Sure.” Yellow Clothes turned around and closed her eyes. She said to Han Sen, “You can swing your sword for me.”
+
+Han Sen’s heart jumped. Using his body to block her line of sight in case she peeked, he whipped out his Toxic Umbrella Mushroom beast soul.
+
+The Toxic Umbrella Mushroom was a weapon beast soul, but it was not a sword. It was an umbrella. When it was folded, it was three feet long and could be used as a sword.
+
+Han Sen held the toxic umbrella and waved it around with a couple of sword skills. He kept using the Dongxuan Area to scan Yellow Clothes, in case she was using some sort of geno art to see the umbrella.
+
+Han Sen was too suspicious, though. Yellow Clothes wasn’t using any geno arts to watch him. She was merely listening to Han Sen wave his sword around.
+
+Han Sen had only swung his sword twice before Yellow Clothes said, “That’s plenty.”
+
+Han Sen put the toxic umbrella away. He looked at Yellow Clothes and said, “Please tell me what my sword sounded like.”
+
+“This sword is bad,” Yellow Clothes coldly said.
+
+“Why is it bad?” Han Sen asked.
+
+“If you’re using an umbrella as a sword, you should focus on thrusting and sweeping. Your sword skills were just you slashing,” Yellow Clothes said succinctly.
+
+Han Sen wasn’t surprised. Identifying an item by the sounds it made wasn’t difficult. Han Sen could do it, too. Many Kings could do it, so it was nothing special.
+
+Yellow Clothes seemed to understand what Han Sen was thinking, and she said, “Your umbrella sounds very bitter. If I am hearing this correctly, it is likely a toxic umbrella. Its sounds are very pure and concentrated. It is likely a King class weapon.”
+
+“You can distinguish its sounds to that level?” Han Sen was shocked. Even if someone looked at the umbrella, there should have been no way for them to know that it was toxic. Plus, he was the only person in the geno universe who used a toxic umbrella beast soul. There should have been no way for Yellow Clothes to know what it was. How could she know the toxic umbrella was toxic? Han Sen was confused by this.
+
+“Everything has its reason for being. I can hear swords, and I can hear umbrellas. One skill can be like a thousand skills. There is nothing that can escape my hearing.” Yellow Clothes spoke naturally as if it was a universal truth.
+
+Yellow Clothes did sound a bit too boastful, though. Not even a high race alpha would claim to know everything. Yellow Clothes had said this casually, as if it was no big deal.
+
+Han Sen was thinking, “If this woman is this cocky despite being only King class, she must be someone important to the Sky. Why did I not see her when I was in Sky Palace?”
+
+Yellow Clothes could see what Han Sen was thinking, and so she fixed her hair and told him, “If you don’t believe me, you can use a geno art. Without seeing it, I will tell you about it and its element.”
+
+“Interesting. I want to see this very magical listening skill.” Han Sen laughed.
+
+“Yes, please.” Yellow Clothes smiled.
+
+She had tried so hard to get close to Han Sen and speak to him because she wished to get to know him better. But the best way to get to know him was to see how he practiced his geno arts.
+
+The theory of listening to sounds was just an excuse that Yellow Clothes had given so she wouldn’t have to explain her real ability. Yellow Clothes had practiced a secret skill of the Very High. It was called Very High Sense, and it could feel anything.
+
+It wasn’t just about hearing. Even if she blocked all seven of her senses, she could still picture everything around her clearly in her mind. Her ability to hear and feel would not be impaired.
+
+Han Sen didn’t believe what he was being told, though. He paused for a bit and then turned his hands into stone. It was the Petrified skill he had learned from Left Crazy.
+
+Han Sen was thinking, “This Petrified skill makes no sound. I don’t think she will be able to hear anything.”
+
+He only petrified his hands so his arms could still be used. He used his arms to swing his fists. Then he asked Yellow Clothes, who had turned around, “Can you tell what sort of geno art this is?”
+
+Yellow Clothes used her Very High Sense to feel every single moment of Han Sen’s movements. She did not turn around, but seeing it behind her, she said, “Your fists sound very heavy and clumsy. It feels rather natural. If I am hearing it correctly, you have employed a petrification skill. And in regards to your punch, if you want to name it, call it Petrified Punch.”
+
+Han Sen was shocked, and he sighed. “Lady Clothes is so strong.”
+
+“Petrification skills are not mainstream. You use secret geno arts quite casually. If I name one incorrectly, you do not have to come to hunt the core bronze tripod with me,” Yellow Clothes coldly said. She wanted to engage Han Sen’s curiosity so that Han Sen would use the geno arts he was good at. That way, she could find out just who Han Sen really was.
+
+Dollar and the race of humans were an oddity in the geno universe. No one knew where he was from.

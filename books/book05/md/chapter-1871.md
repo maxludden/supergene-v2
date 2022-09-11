@@ -1,0 +1,100 @@
+Title:Cave 
+Chapter:1871 
+Section:7 
+Book:5 
+CSS:../Styles/style.css 
+viewport: width=device-width
+  
+## Cave
+### Chapter 1871 
+<figure>
+	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
+</figure>
+  
+
+  
+  “I want to go to Planet Crooked Rock,” Han Sen told Icebird Duke.
+
+You want to recruit Gana?” Icebird Duke understood Han Sen’s thought process.
+
+Planet Crooked Rock was a place that belonged to the Feathers. The primary race there, however, was the Gana. They were supposed to be a higher race, but for some reason, the Gana on that planet had abandoned their people to join the Feathers.
+
+Now that the Feathers had fallen, Holy Heaven had been closed. They could no longer afford to take care of other planets and races. The planet had not been taken over yet, but many different factions were vying for it. Many wanted to claim it.
+
+Han Sen decided to go to Planet Crooked Rock due to the complications of the races there. Gana was one of the mainstream races, but there were many others there, as well.
+
+Han Sen also fancied trying his luck. If he was able to recruit a few of the Gana, then that wouldn’t be too shabby, either. The Gana were very good at producing medicine from xenogeneic genes. They were known as geniuses, and many factions liked the prospect of procuring their special talents.
+
+But due to the fact that so many different factions wanted them, the Gana had yet to decide which they should follow.
+
+“Not bad. I would like to have some Gana. If I am unable to procure any, there are those of other races to choose from. Either way, there should be a diverse selection to pick from,” Han Sen randomly said.
+
+“You should put your hope into getting those of another race. Don’t bother with the Gana, because our Rebate Gold Jade King went to Gana two months ago and was unable to recruit any. The Gana were way too popular with other races,” Icebird Duke said.
+
+“Let’s take a look first, anyway. If I am lucky enough, they might be willing to slog through the hard times with me!” Han Sen made it sound as if he was kidding.
+
+He was, actually. He didn’t have much hope of recruiting any of the Gana, and his primary goal was to grab Wang Yuhang under the pretense of recruitment.
+
+After he arrived on the planet, he only then noticed how complicated Planet Crooked Rock really was. There were many airships and battleships in the area, all belonging to an array of separate factions. They had each come there to try to recruit the Gana.
+
+Seeing how things were on Planet Crooked Rock, it was obvious that there were many Kings up for grabs.
+
+The flying airship Han Sen had been on was investigated upon arrival. When they declared themselves to be the Rebate, they were granted access to the planet.
+
+If they had been a small race of no renown, they probably wouldn’t have even been allowed to land on the planet. So, the chances of Han Sen meeting up with any of the Gana to try his luck would have been zero.
+
+Icebird Duke brought Han Sen over to meet with Gold Jade King, but they were unable to. It was a Duke that came out to greet them.
+
+“You are Knife Queen’s student, and you are Icebird Duke. I am sorry, but my master is currently unavailable, and he cannot come to meet with you at this time. He has sent me here to aid you in the meantime. If there is anything you require, do not hesitate to make a request.” The Duke certainly sounded polite.
+
+“Thank you very much. We have come here to recruit some people, actually. I wonder if you have a manifest that notes the different populations that reside on Planet Crooked Rock. If you can provide us a copy, we would be most grateful,” Han Sen said.
+
+“That is easy. I will certainly make a copy for you.” The Duke said this, and then went on to say, “Do you two plan on recruiting the Gana?”
+
+“That would be the best-case scenario, yes,” Han Sen answered.
+
+The Duke smiled. “Recruiting the Gana is no small feat. Still, you might try your luck. Who knows? You might be fortunate enough to gather a few.”
+
+“Thanks. I appreciate the advice.” After Han Sen accepted the manifest, he said his goodbyes.
+
+“You guys are looking to recruit the Gana? Ha! So naive. Even if the queen herself had come along, I doubt any Gana would join you.” After Han Sen left, the Duke spoke to himself.
+
+After Han Sen accepted the information he was given, he allowed Icebird Duke to go ahead and scope out those of the less significant races. They could try to recruit a few Nobles out of those.
+
+Judging from the state of things on this planet, though, he thought that it was unlikely he’d procure members of the Gana. The Gana were receiving many generous offers from the big factions; there was no reason for them to go to an undeveloped place populated by Barons.
+
+Han Sen walked around alone, and he also made sure he wasn’t being followed. By his lonesome, he trekked up to a lonely mountain. He found a cave, and after securing it, he teleported back to the sanctuaries.
+
+Han Sen called Wang Yuhang and told him about going to the geno universe. Wang Yuhang was very excited by the prospect, and he told Han Sen he’d come over right away.
+
+The entire Alliance was practically Han Sen’s back garden. And the gardeners were the Ji Family.
+
+Many factions had learned of the existence of the geno universe, and many had aspirations of their people getting strong enough to enter and begin building up a place for their families. But none had yet been capable of going.
+
+Wang Yuhang had been given Han Sen’s xenogeneic genes. He had made it to the Alliance as a human, but without Han Sen’s guidance, he’d likely die if he left the sanctuary by himself. No one went without Han Sen bringing them.
+
+After Han Sen and Wang Yuhang finished talking, Wang Yuhang piloted an aircraft to get to him.
+
+“Little Han, take me to the geno universe! I want to see those ladies with cat ears. If they are as hot as you say they are…” Wang Yuhang came running into the house all happy.
+
+“Don’t rush. You can see them, but you must know that when I bring you over, you have to listen to me. You cannot do anything by yourself,” Han Sen said.
+
+“Sure! I’ll listen to your every word. Except for selecting a wife and making babies, of course.” Wang Yuhang patted his chest.
+
+That is fine. I don’t want to get involved with your wife and kids.” Han Sen then brought Wang Yuhang to Planet Crooked Rock, but Wang Yuhang had not eaten many xenogeneic genes. He hadn’t been in the Alliance very long, either. He still wouldn’t be able to generate geno armor. So, Han Sen knew he’d have to feed the man a lot more genes to produce that, first and foremost.
+
+Han Sen brought Death Goddess and Dragon Lady Chef along, too. They were able to generate their geno armors in the cave.
+
+Lady Chef had been staying in Han Sen’s house in the Alliance. She was in charge of the kitchen there, so she had been able to nibble away at more xenogeneic genes than most of Han Sen’s companions.
+
+Death Goddess had eaten quite a bit, too, so she was ready to generate a geno armor at any point. She could fire arrows on a whim, and so she was quite a scary person to have hanging around the Alliance.
+
+When she was staying in Han Sen’s old house, she had fired arrows and toppled a lot of buildings. Han Sen’s new family home was in a city. It’d be bad news if she woke up in a bad mood and decided to go knocking buildings over with a hail of arrows.
+
+So, Han Sen wanted to bring her to the geno universe to prevent any unfortunate accidents while he was away.
+
+Death Goddess and Lady Chef generated their geno armor in the cave. Han Sen and Wang Yuhang crouched in the cave and kept watch.
+
+Suddenly, Han Sen heard someone’s voice drawing near.
+
+“Oh, no! Having Little Uncle here really is bad luck. Dragon Lady and Death Goddess are in the midst of generating their geno armor. They cannot be disturbed during this process.” Han Sen frowned as the voice drew nearer and nearer.

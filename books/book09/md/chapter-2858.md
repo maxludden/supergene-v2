@@ -1,0 +1,96 @@
+Title:Dragon Race Weapon 
+Chapter:2858 
+Section:14 
+Book:9 
+CSS:../Styles/style.css 
+viewport: width=device-width
+  
+## Dragon Race Weapon
+### Chapter 2858 
+<figure>
+	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
+</figure>
+  
+
+  
+  “The Dragons’ bodies make people really jealous.”
+
+“I told you so. How could Dragon One be killed so easily?”
+
+“He really is the world’s bravest. How can he still live?”
+
+“Causal powers are mysterious. Even if I watched it, I could not block it. But if you wish to kill me, Dragon One, that alone will not be enough.” Dragon One opened his eyes. He looked at Demon Alpha and said, “I do confess that you have what it takes to fight me. It has been a long time since I last had a good fight.”
+
+After that, Dragon One pulled out something. It was a 2-foot long golden rod. It was flat with a rectangular shape. It looked like a ruler. On top of it were numerous Dragon tattoos. They were beautiful and mysterious.
+
+The woman recognized the gold Dragon ruler. “The Dragon race weapon, Blood Dragon Ruler, is in his hands. It looks like Dragon One is the leader of the Dragons.”
+
+Sky Palace Leader seemed to have expected this. “The Dragons spent a lot on Dragon One in this generation. He became true god in a hundred years and will soon be the leader of the Dragons.”
+
+“With the help of the Blood Dragon Ruler race weapon, the chances of his victory increase,” the woman said. “Although Demon Alpha is strong, the Demons became a high race not too long ago. I do not think the Demons have a race weapon to challenge it.”
+
+“Maybe not.” Sky Palace Leader’s response meant nothing.
+
+Roar!
+
+Dragon One was holding his Blood Dragon Ruler as he roared toward the sky. The Blood Dragon Ruler shone with gold. It became many Blood Dragon Shadows. There were eight different shapes of scary Dragon Shadows surrounding Dragon One.
+
+Every Dragon Shadow was like a cruel beast that could destroy the world. They released a scary presence. It was like a random bite could swallow the whole universe and every galaxy.
+
+In the next moment, the eight Dragon Shadows roared in tandem with Dragon One. They all raced into Dragon One’s body.
+
+Pang!
+
+The wings on Dragon One’s back flapped. His body rapidly started to expand. The gold light on his body was pretty, but his back kept flaring up with horrendously large bone spikes. His parted lips displayed menacing fangs. The horns on his head were scary. His draconic wings kept expanding.
+
+Another Dragon head appeared on the side of his shoulder. Soon, there was another one and another one. Many weird Dragon heads kept popping up. Within the space of a moment, Dragon One had become a nine-headed, big, gold Dragon. It was like a scary beast that could claim the world. The nine heads stared down at Demon Alpha.
+
+“Very scary suppression. I can feel how powerful it is by just seeing it. Demon Alpha is facing Dragon One. How much pressure must he be facing?” Although Han Sen was just watching the fight, the nine-headed, gold, giant Dragon One was releasing a pressure that made it difficult for him to breathe. He felt as if he was going to suffocate.
+
+God looked at the nine-headed gold giant Dragon and said, “The Dragons are very interesting. They can put their own gene blood and spirit into a race weapon. This kind of sacrifice is something that cannot be accomplished by many races in this universe.”
+
+“Aren’t these Dragon Shadows the power of the race weapon?” Han Sen asked with shock.
+
+“One of the Dragon Shadows is the soul of the Dragon’s race weapon. If it was an ordinary treasure, even the Dragons could not do it regardless of how much they wanted to. Let’s not say the treasure itself can take that much power. Matching the elements is an issue too. After all, even if they are Dragons, their elements can be completely different. There are seven different elemental gene Dragon true gods. It is hard for them to put their own blood power into the same treasure, but race weapons can completely sort out such a problem. As long as they are Dragons, their power will be absorbed by the Dragon race weapon. That was how Blood Dragon Ruler, which was formed from the genes of seven true gods, was made.”
+
+God paused a moment and said, “With this race weapon, it is like fighting nine true god Dragons together. Even the top elites of the three highest races would probably have to end up dodging it if they had to use their power to fight it.”
+
+God’s face looked excited as he spoke. “If the Dragon race weapon can continue to be passed on to each generation, then Dragon One will be putting his own gene blood and spirit into it. In the future, if another Dragon wants to do it when it reaches 100 or 1,000 Dragons, can you imagine how powerful it would become? Claiming the entire universe would not be difficult.”
+
+“It is not easy to have 100 or 1,000 Dragons. That would take a long time. Thus far, the Dragons have only managed to put the power of seven true gods into it. If you want 100 dragons or 1,000 dragons, god only knows how many billions of years we would have to wait…” Han Sen was not interested in these calculations. After all, human lives were short. He would never live to see that day.
+
+God laughed and said, “God is immortal. A billion years to God is just a second. It is worth the wait.”
+
+Han Sen stopped talking. Since he was not immortal, these kinds of discussions with God hurt his feelings.
+
+Boom!
+
+One of the nine-headed, gold, heads spat out a flame that scorched the sky. It covered most of space.
+
+Demon Alpha’s black shadow flickered. He exited the area where the flame hit. It looked like the fire was burning the sky. He quickly slashed downward with his hands. Suddenly, one of the nine-headed, gold, giant Dragon head’s eyes weirdly flashed. It was as if Demon Alpha’s body was imprisoned. His arms were raised. He could no longer move.
+
+“Fire element and space element power?” Han Sen was in shock.
+
+“After Dragon One combined with the Blood Dragon Ruler, it meant he combined with the Dragon Soul and seven true god class Dragon Power,” God said. “With his gold Dragon body, there are nine true god powers. Not many creatures in this universe can fight against him now. I cannot wait to see 100 Dragons gathering up. What a shame.”
+
+Two more dragon heads instantly appeared to accompany the nine-headed gold Dragon’s form. One of them had laser eyes, and the other spat out black Dragon Breath. They all attacked the frozen Demon Alpha.
+
+Every creature that watched the fight was shocked by Dragon One’s power. They thought Demon Alpha was going to die.
+
+Thunder and Dragon Breath tangled together. Everything was being destroyed by those two scary powers. Demon Alpha’s shadow was going to melt. The darkness became lighter and lighter. Inside the darkness, Demon Alpha’s body was becoming clearer to see.
+
+When the shadow was whittled down to only a thin layer, people could see more of Demon Alpha.
+
+Han Sen kept his eyes focused on Demon Alpha. Now, his eyes were open wide. Inside the shadow, he saw a purple-haired, purple-eyed, Demon woman.
+
+Although he could not see her entire face, this Demon woman gave Han Sen the feeling he used to know her. She was very familiar.
+
+Pang!
+
+The thunder and Dragon Breath tangled together. The final layer was being faded away. Demon Alpha’s face was finally revealed.
+
+Han Sen could finally see Demon Alpha’s face. When he saw her, his body shook. He was in complete disbelief.
+
+Demon Alpha’s face looked exactly the same as Zero’s when she was in Shura mode. Even her body was the same. But Zero looked like a young lady, and Demon Alpha looked mature and cold.
+
+“Are Demon Alpha and Zero twins?” Han Sen was frozen.

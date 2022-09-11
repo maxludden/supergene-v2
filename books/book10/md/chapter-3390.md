@@ -1,0 +1,86 @@
+Title:Sky Clock 
+Chapter:3390 
+Section:17 
+Book:10 
+CSS:../Styles/style.css 
+viewport: width=device-width
+  
+## Sky Clock
+### Chapter 3390 
+<figure>
+	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
+</figure>
+  
+
+  
+  Han Sen wondered what Floating Kill would have thought if he knew the real situation. If he had not resisted, Han Sen would not have killed him.
+
+Because Floating Kill used the sky floating kill to try and restrict Han Sen, and he used the space crack orb’s power, it triggered Han Sen’s body’s natural reaction.
+
+If Floating Kill had tried to escape like a normal person and not fight back, it would have been hard for Han Sen to kill him.
+
+It was a shame that an escape was exactly what resulted in his death. Who would have thought that would happen?
+
+Floating Kill was not a Break World beast. Killing him did not yield a Break World gene. He looked around. An hour had yet to go by. The stone clocks were still spinning.
+
+To Han Sen, this was all pointless. His body was not afraid of time power. Time Sky was a big place, but there was nowhere now he was no longer able to reach.
+
+“It is a shame that I am unable to find out which stone clock is the sky clock. I still have to wait until the spinning has stopped before testing them too.” After Han Sen thought about it, he did not plan on going anywhere. He was just going to wait where he was for time to end.
+
+Not long later, one hour of the time cycle came to an end. Over the course of the next hour, Time Sky did not exhibit any weird changes.
+
+Han Sen walked to the nearest needle and checked it out.
+
+The clocks in the Alliance had three different needles. There was a needle for the hours, minutes, and seconds. The clocks in Time Sky only had one needle. It did not represent the seconds or the minutes, but it did not represent the hour needle either. In theory, it should have represented the hour needle since every section it went through meant one hour. In this place, it actually represented two hours.
+
+All of the stone clocks were like this. Now, all of the stone clock needles had stopped and been no longer moving.
+
+The stone needles did not look like delicate things. Their shape and design had many natural flaws. They looked rather smooth. They did not match up with the clocks of greater technology, but there was a vintage feeling when it came to them.
+
+Han Sen reached out his hand to touch the giant stone needle. He felt as if a chilly feeling was going to prickle him.
+
+The frosty feeling was a consequence of the needle’s natural temperature. If this was before, Han Sen would not have had this heightened sense of feeling. He would have had to use Dongxuan Aura to sense such a thing. Now, the stronger his body was, the lower his sensitivity was.
+
+It was like people who practiced fist-fighting. Their fists were hard and would mature. If their fists hit things that had altered temperatures or a lack of resistance, they would be less sensitive to it.
+
+Han Sen had such a powerful body, but his feelings were still very sensitive. They were perhaps even more sensitive than before. To the powers outside, they were still very powerful as well. The only thing he could not feel was the power within himself. That depressed Han Sen a great deal.
+
+He put his hands on the needle. Han Sen exerted all the power he could and pushed the stone needle clockwise.
+
+Han Sen had his share of doubts regarding truthfulness when it came to what Ancient Devil had told him, but the explanation Ancient Devil had given him was something fairly decent. It made sense, so Han Sen decided to believe him.
+
+According to Ancient Devil, the stone clocks were usually connected to Time Sky. One movement was able to affect the entire body. Moving one needle was like affecting the entire rule powers of Time Sky. Even if Qin Xiu was there, he might not have been able to do any pushing.
+
+The sky clock was Time Sky’s essence. It was the only thing that could change the rule powers of Time Sky, so only it could be pushed alone.
+
+Of course, that all depended on whether or not the sky clock was willing to be pushed. If it did not want him to push it, it would not move.
+
+“No matter what, it all depends on luck.” Han Sen felt a bit angry. He did not like the concept of luck because his luck had always been vile.
+
+Han Sen used his power to push the needle. He soon heard a “katcha” sound. The giant stone needle moved. Han Sen had been pushing it for a while. Eventually, time moved.
+
+“Am I really that lucky? Did I actually find the sky clock?” Han Sen was very happy. He tried pushing some more. He did not push hard, but he was able to push the needle a little.
+
+“Ha! Ha! My luck is back. Ancient Devil! Ancient Devi! You were so not willing to come with me, and now I found the sky clock first. You are going to regret this so much.” Han Sen was so excited that he wanted to laugh at the sky. He had existed for a very long time, and he had finally struck a jackpot.
+
+After feeling that happy, Han Sen swiftly felt terrible. Even though he had found the sky clock, he did not know how to convince the sky clock to move.
+
+“The sky clock is the key to Time Sky. It is just like Sky King and the other life forces. They have high intelligence.” Han Sen looked at the stone needle. He then spoke to the stone needle. “Sky Clock, if you are willing to obey me, I promise you will have a fine laugh. Otherwise, don’t take it out on me for being mean to you. I will break your needle or your soul.”
+
+Han Sen tried to threaten it for a while. He did that for so long that he felt his mouth was going to break. After all that time, the stone clock still did not react.
+
+“It looks like you won’t know what regret is unless I use my strength.” When Han Sen was ready to push the needle further, his heart jumped. He thought, “Hang on! Was Ancient Devil lying to me? What if all the stone clocks can be pushed?”
+
+Although he thought the possibility of that being the case was low, due to Ancient Devil being right about the stone clock and needles being connected to Time Sky, in theory, he should not have been able to push one at all.
+
+Han Sen still harbored doubts. He looked around. He walked up to another stone clock, wanting to see if the other stone clock could be moved.
+
+He moved to a stone clock that was the size of a football field. Han Sen did not hesitate to put his hand on the stone needle. He pushed it a little.
+
+With that small push, the pillar-like needle was pushed really far. The whole area of time around sped up. It was like things fast-forwarded for a while.
+
+Han Sen thought, “Holy shit! Ancient Devil, that asshole, lied to me. But that doesn’t make sense. How am I able to push it?” He thought the stone needle should not have been able to be pushed, but the facts were in front of him. He had no choice but to believe it.
+
+Han Sen readied himself to go out and look for Ancient Devil. He suddenly heard an exciting sound not too far away. “Sky clock…. Sky clock… I finally found sky clock.”
+
+Han Sen was surprised. He went to take a look. He saw a man with bright eyes pushing a stone needle. That person thought Han Sen had found the sky clock.

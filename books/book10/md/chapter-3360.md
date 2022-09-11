@@ -1,0 +1,104 @@
+Title:Died Away 
+Chapter:3360 
+Section:17 
+Book:10 
+CSS:../Styles/style.css 
+viewport: width=device-width
+  
+## Died Away
+### Chapter 3360 
+<figure>
+	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
+</figure>
+  
+
+  
+  When the jade statue heard that, she froze. She looked toward the pool with desperation. Her face changed. “Impossible… Except for my child, no other should have been able to take the gene seed.”
+
+Big sky demon was shocked when she heard that. “Does that mean the gene seed was in the pool at one point in time?”
+
+The jade statue nodded and looked weird. “It was placed there. Bao’er was the password for access. Even if Human Alpha came here, he would not have been able to take it. Who could have taken it?”
+
+“If the jade statue is like Bao’er’s mom, we are relatives. That should enable me to explain this ability of mine,” Han Sen thought. He made the decision to emerge, speak, and explain things to her. If he did that, he could also get the statue to answer a few of his questions and explain what he needed to be elucidated.
+
+Before Han Sen could even leave the rat hole, he saw someone else enter the copper hall. This time, it was Bury Path God.
+
+“Mister Leader?” When Bury Path God saw the jade statue, his reaction was just like that of big sky demon. He immediately kneeled and bowed.
+
+“Little Bury Bury, you are here too.” The jade statue smiled at Bury Path God while she spoke.
+
+When Han Sen heard that, he felt a flare of goosebumps claim his skin. The God Chaos Party’s leader dished out nicknames almost as bad as Han Sen.
+
+Seeing Bury Path God, who was very strong, be called Little Bury Bury, Han Sen felt as if it was rather difficult to believe.
+
+Bury Path God did not mind his nickname. He bowed and stood up to say, “Mister Leader, you are still here.”
+
+The jade statue shook her head and said, “This is but a remnant of my soul. It is the final part. It will soon fade away, so it is good that you are here. Please, take care of my child in the future.”
+
+Bury Path God seriously said, “Mister, I, Bury Path God, promise you no one will bring harm to your child for as long as I live. But please forgive me, I will not be able to treat him as the leader of the 33 skies and God Chaos Party.”
+
+The jade statue coldly laughed and said, “That is fine. It does not matter to me. I am happy as long as she is alive.”
+
+After that, the jade statue pointed at the copper rack and said, “There is something there I would like to give you. You should not have any difficulty recognizing it. You should take it with you.”
+
+Bury Path God raised his head. His eyes glimmered and shone. He could not help himself from screaming and saying, “That is the sky path picture. Are you really giving this to me, Mister?”
+
+Bury Path God’s voice trembled. Obviously, his heart was beating intensely.
+
+“If you want it, it can be yours,” the jade statue coldly said.
+
+Even people like Bury Path God could not contain their glee if something prompted it. With hands that quaked, he gently picked up the picture he was given. He kneeled before the statue and said, “Do not worry, Mister. For as long as I am alive, I will not allow anyone to bully the little master.”
+
+“It brings me relief to hear you feel this way, but gauging the future is a difficult prospect these days,” the jade statue coldly said. “All I can hope is that you try your best.”
+
+Bury Path God wanted to say something, but he suddenly heard a voice come from the copper hall. It was Ancient Devil greeting Mister Leader.
+
+Ancient Devil had finally reached the copper hall. Just like Bury Path God, he kneeled before the statue. Although that was just a statue that contained a fragment of the leader’s soul, he did not dare disrespect it.
+
+“I am glad you are here,” the jade statue coldly said. “I do not have much time. I am so happy for being able to see you three before I depart. Ancient Devil, there is an item for you too. You should go and take it. There is also something I wish to say to you all.”
+
+Ancient Devil did not delay. He walked to the copper rack and collected an item. He put it in his sleeve and then performed a bow to the jade statue.
+
+From the beginning to the end, Ancient Devil did not seem as intense as Bury Path God and big sky demon were. Han Sen was still able to notice a weird glint in Ancient Devil’s eyes.
+
+When Ancient Devil returned to the jade statue, big sky demon started to speak. “Mister, you can tell us anything you want to.”
+
+The jade statue looked at the three of them. She sighed and said, “You three have always been close to me. While we may not share a blood connection, you are as good as children to me.”
+
+“Mister, we have always regarded you as family,” sky demon said. “I came to that acknowledgment a long time ago.”
+
+Bury Path God and Ancient Devil did not speak. Judging from the looks in their eyes, what the jade statue was saying was getting them emotional. They just didn’t have to express it in words.
+
+The jade statue went on to say, “I have never begged anything of anyone, even that person. I never begged him to do anything, but there is something I must beg you three for.”
+
+“Mister Leader, please tell us.” Ancient Devil and the three of them all bowed profusely.
+
+Other people did not understand the leader, but they did. Back in the day, if a person said something softly, this entire thing would not have happened.
+
+Now, she was saying the word “beg.” That was rare. Even if the person that controlled the geno hall and the whole geno universe had not begged before.
+
+“Find the gene seed and take it to my child,” the jade statue said with a serious look. “Without it, my child will not live.”
+
+“Do you not have the gene seed?” Bury Path God and Ancient Devil weren’t around earlier to hear what was spoken. They did not know the gene seed was gone.
+
+“I do not have time. Let Little Daughter tell you.” The jade statue smiled at the three of them. “In this life, it was very nice meeting you.”
+
+The three of them shivered. They wished to say something, but the jade statue closed its eyes. It was like some spirit shattered inside the statue. It rendered the jade statue devoid of a spirit. It became an inanimate object and nothing greater.
+
+“Mister.” Big sky demon looked teary and screamed.
+
+Bury Path God looked at Ancient Devil. They both bowed before the statue.
+
+After bowing, Bury Path God stood up and looked at big sky demon. He asked, “Big sky demon, what’s going on? Who took the gene seed?”
+
+Big sky demon explained all that had happened, but Bury Path God and Ancient Devil weren’t buying her story.
+
+“Big sky demon, do not think you can take the gene seed for yourself and then lie to us,” Bury Path God said. “This belongs to the little master, so none of us can take it.”
+
+Big sky demon grunted. “It does not matter if you do not believe me. Without you guys, I can still find the gene seed for Master Bao’er.”
+
+Ancient Devil did not speak. He looked into the hall, but it could not be discerned what he was thinking.
+
+“If the gene seed is not here, then you should go back. Dust Sky does not welcome you.” Bury Path God looked at the items in the hall. He spoke to them coldly.
+
+“Bury Path God, you are so selfish. Are you not afraid of karma?” Big sky demon looked at him with disdain. She knew those items were priceless.

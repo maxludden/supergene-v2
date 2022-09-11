@@ -1,0 +1,92 @@
+Title:The Fruit 
+Chapter:1003 
+Section:3 
+Book:3 
+CSS:../Styles/style.css 
+viewport: width=device-width
+  
+## The Fruit
+### Chapter 1003 
+<figure>
+	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
+</figure>
+  
+
+  
+  The blue monkey king came swiftly from behind, and Han Sen decided he’d had enough of this ordeal. He stopped dodging and simply activated his super king spirit mode.
+
+Boom!
+
+Han Sen punched the monkey king with tremendous force, which knocked it backwards into a roll. Unexpectedly, it landed perfectly. The strike had hit the monkey’s fist, and the only damage the strike did was to cause the creature’s hand to bruise and swell.
+
+This was an unpleasant surprise. His super king spirit mode had opened its first gene lock, but his fitness level was much higher than a sacred-blood creature’s. For the monkey king to be nearly unfazed by Han Sen’s strike, he couldn’t imagine how many gene locks of its own it had opened.
+
+Han Sen’s super king spirit mode was always on a short fuse. If he stood a chance, he couldn’t waste a single second. He had to take his opponent out before the timer expired. But weirdly, the monkey king was starting to run off again, and Han Sen was unable to catch up.
+
+“How many gene locks has this guy opened?” Han Sen deactivated his super king spirit mode.
+
+Han Sen knew he wouldn’t be able to catch up with the ape, so he thought it best if he saved some strength.
+
+The monkey king looked scared of Han Sen, surprisingly. It stopped, then simply watched him from afar.
+
+The monkey king commanded the other monkeys to follow it, which made them back away from Han Sen. The worst they did was give a mean stare to the intruders of the valley, as they heeded their king’s order.
+
+It was fortunate for Han Sen that the monkey king was somewhat of a wimp. Being unable to beat the monkey king with his ten seconds of super king spirit mode would have left Han Sen in a dire predicament.
+
+With the valley now mostly clear of monkeys, Han Sen decided to explore the area a bit. The only things of note there, aside from the trees, were the oversized dishes and cooking implements. None of them were particularly special or fancy in appearance, and they looked fairly practical and crude. Whatever they were, they were made by hand, that was for sure.
+
+Han Sen didn’t want to spare too much time thinking about those items right now, though. After the fight, he noticed he was feeling rather hungry. He ate some of the red fruits Bao’er had consumed, to fill his empty tummy. They tasted sweet and refreshing.
+
+“It’s no wonder she loves these things. They taste much better than the seedless fruit you can buy back in the Alliance.” Han Sen ate a whole fruit.
+
+> “Super King Self Spirit Gene +1.”
+
+Han Sen was shocked, learning that a single one of those fruits could provide one self geno point.
+
+Yaksha had only managed to grow one Devil King Tree, the fruit of which also provided one self geno point.
+
+“Is it possible that all these trees can be as bountiful as the Devil King Tree’s fruit?” Han Sen, not sparing any time, raced to grab another fruit.
+
+> “Super King Self Spirit Gene +1.”
+
+After Han Sen ate the next, he heard the same announcement. He had rarely been this happy.
+
+“What about this fruit here? Can they provide the same?” Han Sen picked up a yellow fruit, which he had seen a few monkeys consume earlier.
+
+When Han Sen ate this fruit, he heard the announcement play again. He was giddy like a schoolgirl.
+
+“If I eat them all, how many self geno points might I receive in total? I’d wager a fraction of this valley would be enough to cap off my self geno point needs!” Han Sen, reveling in excitement, began munching all the fruit he could.
+
+Unfortunately for him, he was not a super creature and his belly had a limit. After ten of the fruit, he was stuffed and could eat no more.
+
+What disappointed Han Sen the most, though, was that after eating three of the red fruits, his points did not increase any more. It seemed as if by consuming the same fruit three times, and by receiving a self geno point each time, he couldn’t get any more.
+
+“Still, there’s a wide variety of fruit here in the valley. Even if I took three from each, I could still earn myself a few hundred geno points.” Han Sen was not at all disappointed, as there was still plenty to get.
+
+After Han Sen was full, he decided to look around for a way in which he might exit the area. The sides of the valley were tall and steep, and the sky was blocked by an invisible force. He had been trapped.
+
+The monkey king and the monkeys were still in the region, but they did not dare provoke him. In fact, it seemed as if the monkeys themselves were looking for an exit, as well.
+
+After the monkeys had eaten the fruit, their bodies seemed to morph and become stronger. Even the mangy, lanky monkeys were starting to buff-up and look similar to the king.
+
+Han Sen’s face became dire when he noticed this. What’s more, it seemed the monkey king had only just found this place instead of living there, as Han Sen had initially suspected. If they did not know how to leave, then he was stuck there with them.
+
+And by further observation of their behavior, his suspicions were confirmed.
+
+The monkeys had gotten bigger. They weren’t king-sized yet, but it was clear they had opened a few gene locks.
+
+Han Sen made sure to eat as much fruit as he could, whenever space was reclaimed inside his stomach. Before long, he had reached the third tier of super king spirit mode.
+
+His power had not greatly increased, but there was an improvement to the length of the talent.
+
+Han Sen summoned his Disloyal Knight, Meowth, and Golden Growler, and got them to dine on what they could. Following their consumption of the fruit, they each experienced some changes.
+
+After this, though, Han Sen was determined to find a way out. There had to be a way to escape the valley, he just had to find it. But the mystic force that shielded the place proved to be too formidable, and it protected the land there. Han Sen could not even create a cleft in a rock with a mighty strike.
+
+Han Sen realized time itself was rather stiff in the valley, too. It felt as if time was standing still there.
+
+The trees had stopped growing. The ripe fruit did not fall to the ground, and the unripened fruit stayed as they were.
+
+“This valley is a strange place.” Han Sen was a little bewildered by the place he had found himself. But it seemed that, until the cave revealed itself again, he wasn’t going anywhere.
+
+He also realized he couldn’t get in touch with Moment Queen. It was as if such connections were interrupted by the powers of the valley, isolating him.

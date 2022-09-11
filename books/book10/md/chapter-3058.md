@@ -1,0 +1,80 @@
+Title:Demon Descends 
+Chapter:3058 
+Section:16 
+Book:10 
+CSS:../Styles/style.css 
+viewport: width=device-width
+  
+## Demon Descends
+### Chapter 3058 
+<figure>
+	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
+</figure>
+  
+
+  
+  The blood ghost spirit looked very murderous. Its body was like a ghost going for Ghost Kill. It was unknown how much faster it was than how it was before, but Ghost Kill only saw a blurry purple shadow. She was unable to see its body or tracks.
+
+Ghost Kill turned into black smoke and dodged, but Han Sen still heard the black smoke had some humming sounds. When the black smoke turned into Ghost Kill again, her stomach had a few scratch marks, and she was bleeding profusely from them.
+
+“Quickly, run!” Ghost Kill’s expression changed as she shouted at Han Sen. She turned into black smoke and readied herself to flee.
+
+The blood ghost spirit was already very murderous. The purple shadow flashed in front of the black smoke. The black smoke went right past it. When Ghost Kill dropped out of the black smoke, her back displayed a few more bloody scratch marks.
+
+Ghost Kill’s face was looking quite grim. Although they had heard about the scary blood ghost spirit, they did not think the real blood ghost spirit was as scary as what they were encountering now.
+
+In the past, she witnessed the power of the purple-haired monkey and the lone sky dragon. She believed she had the chops to protect herself. That was why she had followed Han Sen.
+
+She was now starting to regret her decision to join him. No one would have thought that the blood ghost spirit was scarier than the lone sky dragon. They were only afraid that the gene race Mo Li used to assassinate Wei’s king was the famous lone sky dragon, but it had to have been the blood ghost spirit.
+
+“It looks like I will have to expose myself.” Ghost Kill knew that to depend on her ghost smoke beast was not going to escort her to deliverance. She wouldn’t beat the blood ghost spirit by relying on that. She needed to combine with another gene race if she sought to live.
+
+If she did that, her plan to get close to Han Sen might completely fail. She had no time to worry about that now.
+
+Ghost Kill’s heart jumped. She was going to summon her best gene race. It was called the space thunder god eagle. She suddenly felt rather dizzy. Her body felt weak. She could not summon the big space thunder god eagle.
+
+“Why is this happening?” Ghost Kill was shocked. She lowered her hands and discovered that the blood coming out from her stomach was turning purple. Purple air was spreading across her body. The god spirit blood pulse mark on her head was infected by the purple air. It had suddenly become bright and dark. It was hard to summon a gene race inside to combine with.
+
+It was too late when Ghost Kill noticed this. She did not know much about the blood ghost spirit. The legends never claimed much in detail either. Nobody knew the blood ghost spirit had such scary powers. If she knew this would have happened, she would not have waited until now to summon her favored gene race.
+
+The blood ghost spirit jumped at her again. It obviously wanted to kill her before dealing with Han Sen.
+
+Han Sen frowned. The metal pillar in his hand was swinging toward the blood ghost spirit. The blood ghost spirit turned and looked at Han Sen. A claw struck the top of the metal pillar. Han Sen felt like there was some power coming from the metal pillar. The blood ghost spirit couldn’t control its body and fell back. It hit the back of the stone wall. When the stone wall was hit, it shattered.
+
+The two of them co-operated to deal with the blood ghost spirit. Even so, they were not able to defeat it. That was especially true of Ghost Kill. She had kept incurring more wounds and was unable to keep up. It also led to the presence of more purple air claiming her. Her wounds were rapidly getting worse. She feared she was not going to last long.
+
+Although Han Sen was not injured, he was suppressed by the power of the world. He could not use all his strength. He was only able to get in some hits.
+
+“I cannot allow things to keep going on like this. I have to force and rip up the power of this world.” Han Sen’s vision became very still. His flesh and bone power kept exploding. He was going against the rules of the world.
+
+He had to tear up the rule powers of the world so he could use his normal, true power. But this would cost him a high price. It cost his body a lot of energy. His body power could not go against the world’s power for an extended amount of time, and he could not get a resupply to recover what was lost.
+
+The most important thing about this was that Han Sen thought the world had God Spirits and the geno hall. Qin Xiu went to the geno universe, which made him an outsider. That was why he was picked on by the God Spirits.
+
+Han Sen’s body now had a little number of Qin Xiu’s genes. He was not going to be repelled by the world completely. If he did not make a big move, perhaps the God Spirits would not find out.
+
+Forcing himself to rip up the world’s rule power would make way too much noise. If it attracted the God Spirits, Han Sen did not know what the consequence might be. He did not know if a sky full of God Spirits would treat him the way they treated Qin Xiu.
+
+If a sky full of God Spirits became his enemy, he would be in the same situation Qin Xiu was in the past.
+
+Now, Han Sen had no choice. He could only rip up the rules and restrictions imposed upon him by the world. He would do it so he could stop the blood ghost spirit.
+
+The power in Han Sen’s body kept rising and exploding. While his power exploded, the rules of the world’s restriction power grew stronger. It limited the power he could use.
+
+Han Sen felt like he was under the pressure of an ocean and 30,000 feet deep. Even if he gave a full-power punch, he would have 30,000-feet of ocean water to contest with. When his power left the water, there would not be much left.
+
+He needed to split the water and break the waves. He punched a hole in the sea so his power could be used in that world.
+
+In this world, Han Sen was only able to use one geno art, which was the Xuan Yellow Sutra. He guessed that the Xuan Yellow Sutra worked normally because it originally belonged to this world. That was why Han Sen guessed the universe of kingdoms was the evidence of the anti-material world.
+
+Although the Xuan Yellow Sutra worked, his body was still being suppressed. Thus, running the Xuan Yellow Sutra was not that useful unless he could completely tear out the restrictions imposed upon him by the world. While the Xuan Yellow Sutra ran, strange red marks formed on Han Sen’s skin. They grew deeper and deeper like he was drunk. Blood was boiling in his body. Ghost Kill tried her best to fight the blood ghost spirit, but she was unable to compete against it. Her skin had been completely dominated by the purple air. Her God Spirit Blood-Pulse mark was completely overtaken by the purple air. God light was no longer visible.
+
+Ghost Kill was depressed. She knew she was not going to survive this. Her body was purple, and she was ravaged with claw lacerations. Her black clothes had been dyed purple as well.
+
+The blood ghost spirit jumped in front of Ghost Kill with claws about to slash her from top to bottom. The jade, hook-like claws were going to begin by digging into her head.
+
+Ghost Kill was no longer able to evade. She watched the blood ghost spirit’s claw come for her head. She knew that with this attack, her head would be pierced through with five punctures. She was about to surely die. There was no way this was going to turn out differently.
+
+“I can’t believe I, Li Bing Yu, who is one of the nine leaders of Tao Palace, is to die here on this day,” Li Bing Yu said with a sigh in her heart. She closed her eyes and anticipated her death. Suddenly, behind the blood ghost spirit, a red flame blew up in the sky like a volcanic eruption. It dyed the whole of the stone palace red.
+
+Almost at the same time, Li Bing Yu saw a strong body come behind the blood ghost spirit. It was burning with a red fire like a demon descending.

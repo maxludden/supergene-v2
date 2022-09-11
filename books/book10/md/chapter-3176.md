@@ -1,0 +1,82 @@
+Title:Losing a Blood-pulse 
+Chapter:3176 
+Section:16 
+Book:10 
+CSS:../Styles/style.css 
+viewport: width=device-width
+  
+## Losing a Blood-pulse
+### Chapter 3176 
+<figure>
+	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
+</figure>
+  
+
+  
+  “Although Zhuo Donglai did not combine with an Annihilation God Spirit, every sword light power is like an Annihilation God Spirit’s attack. This scary power is so shocking. No wonder the Wu Wei Dao Palace Alpha once used the purple mist holy clothes to strike down a kingdom with a single sword hit. It was so overbearing, so how does Han Sen hope to compete against it?” Sky King squinted his eyes as if he was watching a movie.
+
+Rocky Dee sighed and said, “Back then, the Wu Wei Dao Palace Alpha really was a genius who shocked the world. Even our leader made sure to avoid him. It is a shame that he chose not to join my God Chaos Party. If he had, I could have guaranteed him the chance to become someone really big.” Everyone had their will stolen by that beautiful sword. They felt as if they could not beat it.
+
+Han Sen saw the scary sword mind coming for him, but he was not afraid. He used his finger like a sword and pointed it at Zhuo Donglai’s attacks, all of which were headed for this direction.
+
+No sword air shook the sky. He did not muster a powerful sword light. It was like he was gently threading a needle. He did not even try to compare his might with Zhuo Donglai’s sword skills, which were shaking the sky.
+
+When Han Sen thrust forward, the entire audience’s heart brimmed with shock. They all felt as if the knives were striking their hearts and perforating them. Some people felt terrible about it, so they fell back. Many people coughed out blood in awe of the sight. Even though the powerful elites had calm hearts, they looked shocked.
+
+This was the spirit sword skill Han Sen had learned from Six Paths Emperor. The spirit sword skill was not a spirit body sword skill. It was a sword skill that went straight to one’s heart.
+
+This was a sword skill that depended on one’s heart and will. The sword pointed straight to the heart. If one’s heart was lacking in some way, it would be harmed by the sword. This skill had a name, but it meant nothing. It had a spirit, but it was not solid.
+
+The spirit sword did not have the power to harm anyone, but people who were struck by the spirit sword skill would make themselves their enemy.
+
+Zhuo Donglai looked at Han Sen’s sword, which was coming for him. It was like he had suddenly fallen into the grasp of a terrible nightmare. His mind was flooded with all sorts of weird scenes. The guard he had on his will was lost. The strongest purple air coming from the mist was broken. It simply vanished.
+
+“What kind of evil sword skill was that?” The nobles of the seven kingdoms were as much scared as they were shocked. They did not understand what kind of power Han Sen had just used to enable such a weird effect on his opponent.
+
+They always thought the actual power was the base. They forgot about the power they had inside them. Not many people saw how truly amazing Han Sen’s skill was.
+
+Only some top-class elites had been able to witness the granular details of Han Sen’s sword skill. They could not help but compliment him profusely, comparing him to a god when it came to his prowess with a blade.
+
+Han Sen frowned and looked at Zhuo Donglai. Because the spirit sword skill was powerful, he did not think Zhuo Donglai would be defeated by the spirit sword skill so easily. He felt as if there was another reason for Zhuo Donglai being broken.
+
+Suddenly, some god light appeared in space, and a light came down after. It landed on Zhuo Donglai and made his body possess some strange blue light. It was like some power was being pulled away from his body. “Blood-Pulse is taken…” Yan Bei Fei let out a long sigh.
+
+By now, everyone was able to understand what had happened. The God Spirit Blood-Pulse that a God Spirit had given to Zhuo Donglai was being taken away. The God Spirit Blood-Pulse was leaving him. The blue lights, which kept shining on him, gradually wore away the gracious image of power that was once Zhuo Donglai. It was like the man’s life force was slowly escaping him. He was sort of like a dead person.
+
+Boom!
+
+As Zhuo Donglai’s God Spirit Blood – Pulse faded, his purple mist holy clothes were snatched from his body.
+
+To the humans of the universe of kingdoms, the God Spirit Blood-Pulse was the base in which to control gene races. Now, Zhuo Donglai’s God Spirit Blood-Pulse had been taken back. The purple mist holy clothes, which was a rare gene race, were no longer bound to him. They had been set free.
+
+Sky Group Leader looked happy about it. The elder on his side looked happy too. He said, “The purple mist holy clothes are now free. They will return to the pool. When Little Brother goes into the pool, you and I can help him. Little Brother will be protected by the gene race. Then, he can carry on the legacy of the Sky Group.”
+
+Sky Group Leader wanted to force Zhuo Donglai out. It was not just because he wanted him to quit fighting for the Sky Group Leader position. The most important reason was for him to obtain the purple mist holy clothes for himself.
+
+Without actual power, even if the Sky Group Leader forced his son to take on the mantle of being the next Sky Group Leader, he would not be there for long.
+
+If he could get aid from the purple mist holy clothes, the Sky Group Leader’s seat was solidified.
+
+Sky Group Leader had been planning this for a long time. If the purple mist holy clothes returned to the pool, he had a secret skill and treasure to bolster his son’s power. Even though he had wasted his life and all his efforts, he wanted a future for his son.
+
+Although Sky Group Leader felt guilty about Zhuo Donglai, the nature of a real bloodline and an old body and heart still ensured he would do all that he could for his son.
+
+What made Sky Group Leader and the old man feel weird was the fact that the purple mist holy clothes left Zhuo Donglai’s body but did not return to the pool. It floated in front of Zhuo Donglai as if it was looking at Zhuo Donglai. The purple mist flickered like a robe of cloth made of sky mist.
+
+A man and some clothes were floating. The man was old like dry grass. The clothes were shining with a misty light. The scene was very weird. Zhuo Donglai ‘s God Spirit Blood-Pulse had been taken away, and the mysterious light disappeared into space.
+
+Zhu Donglai had lost all the power he once had. He no longer looked like a god. His long purple hair had no more purple mist. His black hair was gone too. His long hair had become white. It was like he had grown old overnight.
+
+Seeing a powerful and pretty man reduced to that drove many women and ladies to feel sorry for him. It made the waterworks come on. They sobbed for their loss.
+
+Many powerful elites felt it was a great shame. They could no longer watch a rare, talented person like that come to such an end. “Sky Group Leader, this guy is too much.” In Wu Wei Dao Palace, some people felt extremely sorry for Zhuo Donglai, but that was Sky Group’s business. Even if they wanted to exact vengeance, they were not able to.
+
+At this time, the purple mist holy clothes continued to float with a purple mist. It was like a God Spirit was descending. It was releasing an endless holy presence of purple mist.
+
+“Are the purple mist holy clothes going to return to the pool?” Sky Group Leader felt terrible about this too. When he saw the purple mist holy clothes rise, he felt excited again.
+
+In the next second, Sky Group Leader’s eyes opened wide. He looked on in utter disbelief.
+
+The purple mist holy clothes descended onto Zhuo Donglai, whose hair was now totally white. They draped and clothed him again like a godly robe. Purple air endlessly covered the sky, making Zhuo Donglai’s body brim with purple air. His presence recovered quickly. He was like some god who had just woken up from a long slumber.
+
+“How is that possible? Impossible… Zhuo Donglai no longer has a God Spirit Blood-Pulse. How can the purple mist holy clothes still select him? That is unbelievable…” Sky Group Leader stood up. He stared at the purple mist holy clothes and Zhuo Donglai in utter disbelief.

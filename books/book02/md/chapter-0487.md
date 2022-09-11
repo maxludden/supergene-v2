@@ -1,0 +1,110 @@
+Title:Berserk Gargoyle 
+Chapter:487 
+Section:2 
+Book:2 
+CSS:../Styles/style.css 
+viewport: width=device-width
+  
+## Berserk Gargoyle
+### Chapter 487 
+<figure>
+	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
+</figure>
+  
+
+  
+  The injury on Han Sen's chest had stopped bleeding. Although it was a decision he made at the moment he saw the spirit girl shifting into a warrior, Han Sen executed it perfectly with his peerless control of his body and timing.
+
+Although the slim silver sword pierced his body, Han Sen managed to avoid all his inner organs. It stabbed him in the gap between his heart and lung. In addition, his heart was the toughest among all inner organs because of the Heresy Mantra. It was probably even tougher than his muscles, which was why Han Sen dared to take such a great risk. It looked very scary, but the danger was not so great and the result was great.
+
+If it was a normal fight, the spirit might be guarded. Han Sen could not even be her match. Without any special tactics, it would be impossible for him to kill her so fast.
+
+Sneak attacks were focused on plots. Without any sacrifice, it would be impossible for someone weaker to beat someone stronger.
+
+After Han Sen killed the royal spirit, the army of creatures lost their leadership and became a mess. The evolvers of Starwheel Shelter roared in excitement, attacking proactively instead of defending themselves.
+
+Momentarily, the situation was completely reversed. The army of creatures was defeated, scattering around, while the evolvers started to chase the creatures falling behind.
+
+Disregarding his injury in the chest, Han Sen launched the strike at the sacred-blood gargoyle closest to him.
+
+The spirit could resurrect in spirit stone, so there was nothing left for Han Sen. If he could not take the opportunity to kill one or two sacred-blood creatures, he would be risking his life for no reason.
+
+Being attacked by Han Sen, the sacred-blood gargoyle did not manage to run away and had to fight him. Its stone-like hands continued to hit the ghost-pawed claws, while the claws were only able to leave shallow marks on the gargoyle's skin.
+
+However, the blood flowing from those marks gradually turned purple and black. Ghost-pawed claws were extremely toxic, which almost defeated Jadeskin. Obviously, this gargoyle did not have any ability to cure toxins.
+
+Han Sen became overjoyed. The toxins of the ferret stayed on its beast soul weapon, which would be extremely helpful for him to hunt sacred-blood creatures in the future. Poison was something very useful, but there were not that many beast souls with this feature.
+
+When Han Sen was feeling excited, the gargoyle raised its head and roared. Its stone-like skin suddenly contracted and turned into the color of steel, looking much tougher. Unexpectedly, it became a berserk creature.
+
+Clank clank clank!
+
+Han Sen made three strikes in a row and failed to cut gargoyle's skin. The gargoyle did not linger and ran away immediately.
+
+It was not easy for Han Sen to have an opportunity to kill a sacred-blood creature, so there was no way he would let it go. Han Sen started to chase the gargoyle as fast as his legs would carry him.
+
+Without running too far, he saw the skin of the gargoyle showing a color of purple. Feeling excited, Han Sen knew that the gargoyle was not cured from the toxins earlier although it became berserk.
+
+Now Han Sen were even more driven to chase after the creature. This gargoyle was most likely doomed. Now the only thing Han Sen worried was that if it died of poison, its meat might not be edible anymore.
+
+However, Han Sen was not afraid of it either. As long as it did not affect the increase of geno points, he was fine with it.
+
+When the evolvers from the shelter came over, Han Sen had already run far, chasing the gargoyle. Except for Guan Tong, no one knew who Han Sen was.
+
+"Does everyone know who the friend killing the spirit was?" The creatures either run away or got killed. After everything was settled, Li Xinglun raised his voice and asked.
+
+Everyone in the crowd looked to each other, feeling confused. They also would like to know who that person was, saving Starwheel Shelter by killing the spirit alone. His bravery and power to behead the queen among thousands of creatures deeply impressed everyone.
+
+"Do we have such a strong man in Starwheel Shelter?"
+
+"I don't think I have ever seen him."
+
+"He seems so young."
+
+"I want to bear his baby."
+
+"…"
+
+Guan Tong flushed, failing to make a sound. She wanted to say that she knew Han Sen, but then she found that she did not even know what his name was or where he came from. Although she opened her mouth, she could not say a word.
+
+Seeing that no one knew the person, Li Xinglun did not hesitate to summon his mount, running in the direction where Han Sen went.
+
+"I must meet such a great character, even just to learn his name." Li Xinglun urged the horse to run fast. Fortunately, the footprints of the gargoyle were clearly imprinted on the way, pointing the right direction for him.
+
+After Han Sen chased the berserk gargoyle on the vast ice field for more than 300 miles, the berserk creature eventually lost its energy because of the poison. Han Sen went up and wielded his claws at it, beheading the creature after more than a hundred strikes.
+
+He only succeeded because the creature was too weak after being poisoned. Otherwise, even a sacred-blood weapon could not cut its skin which had turned so tough after it became berserk.
+
+> "Berserk Sacred-Blood Creature Evil Gargoyle Killed. Beast Soul of Berserk Evil Gargoyle Gained. Meat Inedible."
+
+The voice he heard almost made Han Sen laugh out of happiness. Lady luck was still on his side. After coming to Second God's Sanctuary, he gained a beast soul from each of the three sacred-blood creatures he had killed. His luck was simply peerless.
+
+"Evil gargoyle, I wish it is armor. With a weapon and armor, I would not need to worry about anything." Han Sen quickly looked to his sea of soul and saw the evil gargoyle squatting quietly.
+
+<div class="tables">
+	<table class="beast">
+		<tr>
+			<th colspan="2">Beast Soul Gained</th>
+		</tr><tr>
+			<td>Berserk Sacred-Blood Evil Gargoyle</td>
+			<td>(Glyph)</td>
+		</tr>
+	</table>
+	<!-- Type of beast soul of berserk sacred-blood evil gargoyle: glyph. -->
+</div> 
+
+"Another glyph!" After Han Sen saw it, he was dazed for a while. He still hadn't figured out what was the use of the evil-blooded condor beast soul he gained last time. Unexpectedly, this sacred-blood evil gargoyle was also a glyph.
+
+Han Sen summoned the evil gargoyle and a tattoo in the color of tungsten and shape of a ghost suddenly appeared on his body, looking gruesome. After the tattoo emerged, Han Sen saw that the skin all over his body gleamed like tungsten.
+
+Han Sen summoned the ghost-pawed claws to cut at his own arm and heard clanks of metal on metal. His metal-like arm was only left with some white marks, not even broken.
+
+"Ha-ha, this is great… Fantastic…" After cutting a few times, Han Sen saw the result was the same, which made him feel overjoyed.
+
+This berserk evil gargoyle glyph was much better than the evil-blooded condor glyph the use of which was still unclear. This glyph was the equivalence of a terrific defense hyper geno art. Using this glyph, he could still use beast soul armor, which was quite amazing.
+
+Although Han Sen did not gain beast soul armor as he expected, he was even more pleased with the result.
+
+He took shelter from the wind and took out the ghost-pawed ferret in his backpack. He carefully boned and skinned ferret, cleaned it with snow, sliced the tender meat, dipped it in sauce, and put it into his mouth.
+
+He was on a vast ice field where not even grass could be spotted, so naturally there was no way to make a fire.

@@ -1,0 +1,70 @@
+Title:Mirror Spirit Eye Ring 
+Chapter:2378 
+Section:11 
+Book:7 
+CSS:../Styles/style.css 
+viewport: width=device-width
+  
+## Mirror Spirit Eye Ring
+### Chapter 2378 
+<figure>
+	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
+</figure>
+  
+
+  
+  “That woman is annoying.” Han Sen still didn’t like Fox Queen.
+
+If Han Sen’s identity was exposed, it wouldn’t benefit Fox Queen in any way. She didn’t seem like the type to harm others if she wasn’t going to get anything out of it.
+
+But Han Sen couldn’t apply normal logic when trying to predict Fox Queen’s behavior. She was a Fox, and she had been imprisoned for eons. No one could be certain how she would act.
+
+Han Sen thought about it some more. He had some people he could use. After he returned to Underwater Town, he brought out his Siren Bottle and tapped the left side of it three times. A rainbow fired out of the bottle, then turned into a shadowy shape that slowly composed itself as the Siren Virgin.
+
+Han Sen told her that he had been threatened by Fox Queen. The Siren Virgin looked unconcerned. She calmly said, “Fox Queen won’t sell you out, but if you can reach the top three in the exams and gain access to Destiny’s Tower, that would be a considerable reward.”
+
+“My identity could be exposed any second. Why would I do something to draw so much attention?” Han Sen bore a wry smile.
+
+The Siren Virgin laughed. “Your situation is not as precarious as you believe. King Bai did grow suspicious of you, but if he wants to investigate you, there are only three ways he can do that. First, he could summon you directly. But I don’t think he’s confident that seeing you would help. He never liked Bai Yi much as a son, anyway, so they only rarely met. I actually don’t think he could tell if you were Bai Yi or not. The second method would be to investigate you through Miss Mirror. For other people, that would be the most difficult means of detection to avoid, but for you, it would most likely be the easiest.”
+
+“Why?” Han Sen cocked his head as he looked at the Siren Virgin. He had never told her the story of his time with Miss Mirror, so he didn’t know what had led the Siren Virgin to this conclusion.
+
+The woman pointed at Han Sen’s finger and the ring that was on it. “You are wearing the Mirror Spirit Eye Ring. You are Miss Mirror’s hope. Why would she go and destroy her own hope?”
+
+“Hope? What are you talking about?” Han Sen felt sudden pleasure as he realized that the Siren Virgin seemed to know something about this.
+
+The Siren Virgin smiled kindly. “Miss Mirror is called Miss Mirror because she has a Mirror Spirit King Body. That body provides her with a mirroring ability. She can use her mirror body on an elite, and the stronger the elite becomes, the more she benefits.”
+
+“This ring is Miss Mirror’s mirror body?” Han Sen looked at the ring on his finger with astonishment.
+
+The Siren Virgin nodded and said, “Yes. Mirror body can only be used once. If the mirror body becomes solid and falls into someone else’s hands, then Miss Mirror loses control of it. The new owner would benefit from the mirror body instead. Miss Mirror was quite well-known among the Extreme King for her beauty and intelligence. In her youth, that is. The name Princess Mirror was a very famous one. Many young nobles wanted to marry her, but she was too proud to submit to being in someone’s shadow. She didn’t look up to any of her peers. In the end, she did marry someone, but it was a young outsider. She put the mirror body into a Mirror Spirit Eye Ring and sent it to the young outsider.”
+
+After pausing, the Siren Virgin went on to say, “That handsome young man didn’t disappoint Miss Mirror. He was a Duke, and he leveled up fast with Miss Mirror’s help. Within a hundred years, he had become deified. He caused a big fuss amongst the Extreme King, but sadly, he was killed in a fight, and the Mirror Spirit Eye Ring was lost. I would never have expected it to be in your possession.”
+
+“So, you are saying that when I wear this ring, Miss Mirror can gain something from me? What is she taking?” Han Sen asked apprehensively.
+
+The Siren Virgin laughed. “Don’t worry. The mirror body requires your willpower and intent to function properly. Plus, the information can only be swapped when the two mirror bodies are in close proximity. You must have noticed that Miss Mirror had a ring that was similar to yours. You have to be close together for both of the rings to send messages. And the messages go both ways. You can learn what Miss Mirror’s thoughts are. That was why that young man was able to level up so fast. To have gained the ring as a Duke while Miss Mirror is already deified, you’re either very skilled or very lucky. Her level is much higher than yours.”
+
+“She can’t just take the ring back and give it to another person, can she?” Han Sen wondered.
+
+“It would be much easier for her if the ring could be transferred that simply. However, once the ring has been taken by an outsider, she cannot control it. Since you are wearing the Mirror Spirit Eye Ring, that means you have received the mirror body’s approval. If you die, the mirror body will be damaged. Last time she lost the ring, when a deified died, it must have dealt a fair amount of damage to Miss Mirror’s mirror body. I doubt she wants to go through that again. Otherwise, she would have already killed you and taken the Mirror Spirit Eye Ring back for herself. After all, while you are wearing the ring, she gains nothing.” The Siren Virgin smiled.
+
+Han Sen didn’t understand. His body wasn’t deified yet, but his emotions couldn’t be any less intense than Miss Mirror’s. If the mirror body reflected emotions and willpower, who knew who might be getting the better end of the deal?
+
+But knowing the Mirror Spirit Eye Ring did no harm to his body, Han Sen felt much better. There was no need to worry about the ring doing anything bad to him.
+
+Plus, he now had a much better understanding of why Miss Mirror hadn’t turned him in to King Bai. With that clarified, Han Sen felt much safer.
+
+“That means Miss Mirror won’t want to see me dead, right?” Han Sen felt happy.
+
+“Of course she won’t want you to die. She might even try to protect you. After all, if you die, her mirror body will be damaged, too. And it would take her a very, very long while to recover from the damage that would be inflicted. It might even be permanent,” the Siren Virgin said.
+
+“You said King Bai had three methods. What is the third way?” Han Sen asked.
+
+“As the leader of the Extreme King, King Bai has many ways of obtaining intel. There is no need to worry about ordinary intel gatherers. You are a prince, so most will be unable to investigate you. But King Bai has a network for intel gathering, and it is called Radio Wave. They have eyes all around the universe. It is a very powerful web, and that is what should concern you the most. If your identity is exposed, it will probably be the work of Radio Wave,” the Siren Virgin said.
+
+“I don’t know who might be a member of Radio Wave, so I cannot prevent that.” Han Sen shook his head.
+
+“That is okay. I can tell you everything about Bai Yi. Just do as I say, and no one will be able to prove that you are not Bai Yi,” the Siren Virgin said.
+
+The Siren Virgin proceeded to tell Han Sen about Bai Yi, and she ensured that Han Sen remembered all the details she gave him. This would be a great help for Han Sen in protecting his stolen identity.

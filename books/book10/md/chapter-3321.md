@@ -1,0 +1,96 @@
+Title:Item Nobody Owns 
+Chapter:3321 
+Section:17 
+Book:10 
+CSS:../Styles/style.css 
+viewport: width=device-width
+  
+## Item Nobody Owns
+### Chapter 3321 
+<figure>
+	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
+</figure>
+  
+
+  
+  While Han Sen was thinking, he saw a scary shadow in the air. In the shining god light, it was headed for the 33 skies, which looked like a headstone. It was a powerful Break World beast.
+
+That Break World beast looked like a dragon. When it flew, it had all kinds of old swords go with it. It obviously had a Break World rate of at least 30%. Its Break World power was already solid.
+
+Regarding the Break World rate, this Break World beast was much stronger than Han Sen.
+
+The 33 skies were in between two worlds. Within that emptiness, the Break World beast emerged from the universe of kingdoms. The geno universe could witness this too. When it came before the 33 skies, there was an invisible barrier that prevented those from the outside from approaching.
+
+Boom! Boom! Boom!
+
+The dragon-looking Break World beast roared madly. The old swords were like a river bent on striking the 33 skies. The old swords were blocked by an invisible power. They were broken, as was the creature’s advance. It could not go forward.
+
+Still, the Break World beast did not stop there. It used its body to strike the invisible barrier. The old swords kept surrounding the monster as it kept battering the invisible walls. It was injuring itself. Its draconic horns broke. The beast’s blood poured like rain, yet it would not cease.
+
+“What is it trying to do?” Han Sen asked big sky demon. He did not understand what that Break World beast was trying to achieve.
+
+“It is trying to reach the 33 skies. It is headed for the geno tablet,” Big sky demon quietly replied. Her eyes kept peering at the 33 skies and the geno tablet on display.
+
+“Why is it going to the geno tablet? For what purpose?” Han Sen asked.
+
+“The geno tablet has already returned to its origin. It no longer has a master. No life force can become its master.” After saying that, big sky demon coldly laughed. “It is just a Break World beast that has a 60% Break World rate, yet it actually wants to become the master of the geno tablet. It has a death wish for even trying.”
+
+“Why does it want to become the master of the geno tablet? What benefit would the creature yield from doing that?” Han Sen didn’t understand.
+
+“Back in the day, the God Chaos Party fought against a sky full of God Spirits,” big sky demon said. “They almost managed to destroy the geno hall. The primary reason for doing that was the geno tablet. It was the foundation for a new god world. You had to control the geno tablet to overturn the geno hall and make a new order and kingdom. Even killing God Spirits was a futile endeavor. If the geno hall was still there, and the God Spirits had all been killed, the geno halls would just spawn more God Spirits. Just like back then, when the old leader died for rebooting the universe, the geno hall had a new master.”
+
+Boom!
+
+The dragon-like Break World beast was covered in blood. Its dragon horns broke, and its scales started to flake away. There was a sky full of beast blood. It was pouring down everywhere. It was hard to tell whether or not the creature was dead or alive.
+
+Surprisingly, even such a powerful Break World beast was not able to reach the 33 skies.
+
+Han Sen’s heart jumped. He was going to use Galaxy Teleportation to gain access to 33 skies. He was going to kill the creature while it was on its knees. Getting a free Break World gene could not be argued with.
+
+Before Han Sen moved, big sky demon said, “Do not waste your breath. That Break World beast is from the universe of kingdoms. The 33 skies have recovered. The power that separates the main and reverse universe is not weakened. It is stronger. You can see when it gets close to the 33 skies, but you cannot touch it through the 33 skies unless you are strong enough to break space and gain access to the universe of kingdoms again.”
+
+Han Sen was strong, but he could not break the 33 skies. Now, there weren’t any space cracks. He could not casually travel between the main and reverse universe.
+
+“What a shame.” Han Sen licked his lips and felt very sorry about that.
+
+Many people and creatures thought the same thing as Han Sen. The Break World beast had only just fallen, but a few Break World beasts had already swept forward trying to reap its benefits.
+
+Despite being injured, the Break World beast had a 60% Break World rate. The Break World beasts that went there to reap the benefits watched the fiend still roar. Its broken scales became a number of old swords that immediately slashed a few Break World beasts’ limbs off in all sorts of directions. One was completely beheaded.
+
+“A skinny camel is still bigger than a horse. Even a few 30% Break World rate little boys want to get benefits.” Big sky demon just shook her head.
+
+Han Sen felt sorry about this. If he was on the side of the universe of kingdoms, he would be able to gather many Break World genes.
+
+Roar!
+
+While he was feeling awful about his situation, he noticed a few more Break World beasts go to the 33 skies. Like the dragon before, it was an attempt to break the 33 skies’ barrier to gain access.
+
+A while later, more and more Break World beasts hit the 33 skies. The geno universe was fine. The Break World beasts had only just formed. There were no powerful Break World beasts about.
+
+In the universe of kingdoms, many scary Break World beasts emerged out of nowhere. They tried to access the 33 skies.
+
+The 33 skies’ shield was very mysterious. Many scary creatures struck the barrier of the 33 skies but were unable to move or gain access to the 33 skies.
+
+Many scary creatures were hit and injured. They could not gain access.
+
+A big, gold bird broke the world and went there. It was like gold lightning. It tore through empty space and broke the invisible barrier. It managed to gain access to the 33 skies and the item that looked like a headstone. Then, it was gone.
+
+More Break World beasts were wanting to gain access like the big, gold bird had managed to. When they sprinted there, they went crashing into that invisible barrier. They broke their bones, resulting in blood seeping through cracked skin. They dyed the sky red.
+
+Many Break World beasts tried to attack the 33 skies, but not many were able to gain access.
+
+Suddenly, a holy god light emerged from the sky and the ground. A holy woman approached. She lit up the whole sky. It was Light Goddess, who Han Sen had seen before.
+
+The Annihilation-class Light Goddess looked different from how she did before. It looked as if she had achieved god power. The sky and the ground shined around her.
+
+Many Break World beasts appeared scared and stumbled back in fear. Light Goddess walked to the 33 skies’ invisible barrier. The light suppressed the invisible barrier. She slowly walked into the 33 skies, step by step.
+
+She was Light Goddess. When she went to the 33 skies. The light that shined everything in the universe and never faded was gone. Light Goddess went to the 33 skies and the big headstone.
+
+“Why is she going to the 33 skies? Does she want to control the geno tablet too?” Han Sen wondered.
+
+“So, what if it is a God Spirit going there?” Big sky demon smiled at Han Sen and said, “To face the geno tablet, even God Spirits will fear death. They will want to control the geno tablet to ensure the geno hall still controls the world. Light Goddess is a pioneer. Watch her. The real fighting has yet to begin. Little Lover, take care of Master Bao’er no matter what. I am going. If I make it back, we will continue our relationship from where we left off.”
+
+After that, big sky demon flew into the sky. She was like a demon woman flying into the sky. She was flying to the headstone.
+
+When she flew toward the invisible wall, she waved her fingers to draw some mysterious symbols. She drew the symbols down on the invisible barrier. It was like she was opening a door. She walked inside with ease. She vanished with other creatures into the headstone.

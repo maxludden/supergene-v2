@@ -1,0 +1,98 @@
+Title:Dollar Appears Again 
+Chapter:1694 
+Section:5 
+Book:4 
+CSS:../Styles/style.css 
+viewport: width=device-width
+  
+## Dollar Appears Again
+### Chapter 1694 
+<figure>
+	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
+</figure>
+  
+
+  
+  A humanoid creature that looked like Black God approached, carrying a demonic presence. A black hand covered the sky, crashing down on the area like a mountain. Xie Qing King had to dodge it.
+
+“Father!” Black God looked delighted.
+
+Big Black Sky Devil was one of the best berserk super creatures in the Fourth God’s Sanctuary. He was far stronger than Black God. With him there, Black God thought they could easily beat Xie Qing King.
+
+Xie Qing King, seeing the big hand approaching, acknowledged how wretchedly powerful it was. Still, that did not mean he was afraid.
+
+Xie Qing King was not very good at running. And right now, running would only make him die faster. He stayed where he was, making his body surge with silver light before throwing a punch at the descending hand.
+
+The silver light erupted like a volcano against the hand. But even so, the hand was able to suppress it. It was like lava getting squashed.
+
+Boom!
+
+The hand came down to grip Xie Qing King’s head, which Xie Qing King tried to resist by pushing it back. The ground around his feet began to break, forming cracks that webbed the land for a few dozen miles in each direction.
+
+Big Black Sky Devil’s hand kept pressing down as Xie Qing King held strong against it. His body began to make creaking sounds, suggesting it was going to snap any minute.
+
+“Xie Qing! Obey now and I may just spare your life.” Big Black Sky Devil made the offering with a thundering voice that rolled across the land with echoes.
+
+“I only have two words to give you: get lost!” Xie Qing King ground out
+
+“D*mn you!” Big Black Sky Devil was furious, and his hand pressed down with even greater strength. Xie Qing King’s body continued to make sounds of strain as he trembled beneath the pressure. The ground and rocks all started to fall and collapse around him.
+
+Xie Qing King’s body expanded, as veins coursed across him like toxic snakes. His skin began to tear, allowing silver blood to run free.
+
+“Killing me might be easy, but it’s lonely in hell. Maybe you should come with me?” No matter how much Xie Qing King’s arms shook and almost buckled, his smile did not fade.
+
+After that, the silver light that was bleeding out of Xie Qing King began to grow in intensity. He was like a silver sun, and with that luminosity, Big Black Sky Devil’s hand was unable to crush him. The hand was actually getting pushed back.
+
+Black God was in utter shock. Big Black Sky Devil frowned. He could tell Xie Qing King was willing to extinguish his own life if it meant bringing his enemy down with him.
+
+Big Black Sky Devil was shocked that Xie Qing King was able to unleash such power.
+
+If things kept going the way they were, Xie Qing King would die. He was happily self-destructing; the only question that remained was how far and how strong would the power unleashed be.
+
+There was no turning back now, though. Big Black Sky Devil thrust his powers down on him again, forcing it all into his hand in a bid to crush Xie Qing King.
+
+Suddenly, though, the sky went all bright with rain.
+
+Dollars fell down from the sky, covering the entire area.
+
+Everyone was shocked as the coins fell upon Xie Qing King and the big hand. Their fire and power were suppressed.
+
+Someone walked out from the hail of coins. It was Han Sen, who was still on his way to Big Black Sky Shelter. He wanted to use the teleporter there, but he had stumbled across this fight on his way. He detected the presence of Xie Qing King, and he knew he would have to lend him a hand.
+
+Big Black Sky Devil saw the coins, and when he did, his face changed. “Are you Mister Dollar?”
+
+“Yes, I am Dollar.” Han Sen was legitimately surprised, not expecting himself to be so popular amongst creatures. His reputation even earned him the honorific “Mister.”
+
+After the fighters froze in place for a minute, Big Black Sky Devil retreated. With great politeness, he said, “Why is Mister Dollar attacking? Big Black Sky Shelter hasn’t offended you.”
+
+Han Sen didn’t want to kill him, just strike fear into him. When he achieved what he wanted, he said, “Xie Qing King is my friend. If you could let him go free, that would be great.”
+
+When Big Black Sky Devil heard this, he was quick to respond without a moment of hesitation. “Oh, if I knew he was your friend, we wouldn’t have bothered him!”
+
+“Thank you.” Han Sen did not know Dollar’s name carried such weight.
+
+“You are welcome. If you need Big Black Sky Shelter for anything, please don’t refrain from asking.” Big Black Sky Devil was unabashedly polite.
+
+“There is something I need to ask you, actually. Do you guys have another shelter around here that is owned? I may need to stay there for a while,” Han Sen said.
+
+“You can come to Big Black Sky Shelter if you need to. I would like to hand over the shelter to you.” Big Black Sky Devil actually looked sincere.
+
+“No, that’s okay. I wouldn’t like to be that big of a disturbance. Just find me another shelter nearby, if you can. The closest you are able to,” Han Sen said.
+
+All he wanted to do right now was go back to the Alliance. He wasn’t in the mood to get started with something big like that again right now. It was good that he wouldn’t have to fight for it, though.
+
+“There is one, yes. But it is only gold class. It wouldn’t be an appropriate fit for you,” Black God said.
+
+“That is okay; I will only be here for a few days. Take us there and ask everybody to leave,” Han Sen said.
+
+Big Black Sky Devil did not dare slow these proceedings, and he worked fast. Without delay, he took Han Sen and Xie Qing King to the shelter. Then he emptied the place so they could have the shelter all to themselves.
+
+When they were all gone, Han Sen canceled his Death Armor Swordsman and returned to his normal self.
+
+“Old Han! It is you! I thought you went to the Fifth Sanctuary with Ancient Devil.” Xie Qing King looked confused. Now he knew why Dollar helped him. Earlier, Xie Qing King hadn’t been able to figure out why the elusive Dollar, whom he had never met, had wanted to help him.
+
+“I don’t know where to begin. Something has happened with my family though, and I need to go back. Take care of this shelter while I’m gone.” Han Sen was afraid of what might be happening to his family at that moment He didn’t explain any more than that, and he simply used the teleporter to return to the Alliance.
+
+“Please don’t be too far from home,” Han Sen prayed in his heart. If he was too far, it’d be difficult to get back.
+
+Before he went through the teleporter, though, Han Sen summoned his Death Armor Swordsman appearance as he entered.

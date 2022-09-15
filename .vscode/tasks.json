@@ -4,12 +4,7 @@
     "version": "2.0.0",
     "tasks": [
         {
-            "label": "echo",
-            "type": "shell",
-            "command": "echo Hello"
-        },
-        {
-            "label": "backup mongodb",
+            "label": "Backup MongoDB",
             "command": "/Users/maxludden/dev/venvs/supergene/bin/python /Users/maxludden/dev/py/supergene/tasks/backup.py",
             "type": "shell",
             "group": {
@@ -30,6 +25,58 @@
             },
             "runOptions": {
                 "runOn": "folderOpen",
+                "instanceLimit": 1,
+                "reevaluateOnRerun": true
+            }
+        },
+        {
+            "label": "Onamonapia",
+            "command": "/Users/maxludden/dev/venvs/supergene/bin/python /Users/maxludden/dev/py/supergene/tasks/onamona.py",
+            "type": "shell",
+            "group": {
+                "kind": "none",
+                "isDefault": false
+            },
+            "presentation": {
+                "echo": false,
+                "reveal": "always",
+                "focus": false,
+                "panel": "shared",
+                "showReuseMessage": true,
+                "clear": false
+            },
+            "icon": {
+                "id": "database",
+                "color": "terminal.ansiCyan"
+            },
+            "runOptions": {
+                "runOn": "default",
+                "instanceLimit": 1,
+                "reevaluateOnRerun": true
+            }
+        },
+        {
+            "label": "Add Horizontal Rules",
+            "command": "/Users/maxludden/dev/venvs/supergene/bin/python /Users/maxludden/dev/py/supergene/tasks/hr.py",
+            "type": "shell",
+            "group": {
+                "kind": "none",
+                "isDefault": false
+            },
+            "presentation": {
+                "echo": false,
+                "reveal": "always",
+                "focus": false,
+                "panel": "shared",
+                "showReuseMessage": true,
+                "clear": false
+            },
+            "icon": {
+                "id": "database",
+                "color": "terminal.ansiCyan"
+            },
+            "runOptions": {
+                "runOn": "default",
                 "instanceLimit": 1,
                 "reevaluateOnRerun": true
             }

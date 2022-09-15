@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Cross-border Trade
-### Chapter 341 
+### Chapter 341
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Mr. Xu frowned upon Han Sen's words. Although the sacred-blood beast souls in First God's Sanctuary were rare, the normal value of a sacred-blood beast soul from the First and one from the Second were 3 to 1.
+Mr. Xu frowned upon Han Sen's words. Although the sacred-blood beast souls in First God's Sanctuary were rare, the normal value of a sacred-blood beast soul from the First and one from the Second were 3 to 1.
 
 Although the sacred-blood armor and sacred-blood mount in Sapphire Shelter were not the best, he would not necessarily trade them for even six sacred-blood beast souls in First God's Sanctuary. However, Han Sen was trying to exchange for both using just three, which made Mr. Xu sneer.
 

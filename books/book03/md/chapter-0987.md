@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Dry Angel Corpses
-### Chapter 987 
+### Chapter 987
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “Do you think Split-Space King will show up for the self fight in Shen Xiao?”
+“Do you think Split-Space King will show up for the self fight in Shen Xiao?”
 
 “Of course he will.”
 

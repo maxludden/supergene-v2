@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Private Female Club
-### Chapter 1905 
+### Chapter 1905
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  In Narrow Moon’s Full Moon meeting room.
+In Narrow Moon’s Full Moon meeting room.
 
 Six Kings had shown up for this meeting. Yisha, Moon Wheel King, Night River King, Flower King, Black Moon King, and Shadow King.
 

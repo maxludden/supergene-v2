@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Retrieving His Body Again
-### Chapter 3299 
+### Chapter 3299
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  4
+4
 
 While The Story of Genes was running, Han Sen’s spirit body started to change. He went from having a spirit body back to having a real body.
 

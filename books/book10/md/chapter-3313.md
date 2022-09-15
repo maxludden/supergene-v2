@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Symbol
-### Chapter 3313 
+### Chapter 3313
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “I want to activate the geno tablet, but you and I do not have that power.” Ancient Devil looked around and asked, “Did I not tell you the 33 skies are a new god world from the old leader, and it was broken during the chaos that transpired during the reboot? It became a layer of 33 different skies. The 33 skies were supposed to be whole.”
+“I want to activate the geno tablet, but you and I do not have that power.” Ancient Devil looked around and asked, “Did I not tell you the 33 skies are a new god world from the old leader, and it was broken during the chaos that transpired during the reboot? It became a layer of 33 different skies. The 33 skies were supposed to be whole.”
 
 “How is that related to the sealing of the space tunnels?” Han Sen asked.
 

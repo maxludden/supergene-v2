@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## A Great Victory
-### Chapter 158 
+### Chapter 158
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Ji Yanran looked blankly at the silver figure in the holographic image, unable to link it to that smiling guy.
+Ji Yanran looked blankly at the silver figure in the holographic image, unable to link it to that smiling guy.
 
 "Is it really him who is driving Silver Killer?" Ji Yanran was reluctant to accept this fact. How could that guy who joked around all day with her have such incredible operational skills at warframe?
 

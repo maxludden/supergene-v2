@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Hunting a Thunderhawk
-### Chapter 805 
+### Chapter 805
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  In the northern mountains, the Empty Vines were bearing fruit, and it wouldn't be long before they matured. Moment Queen had made plans to send out subordinates for their retrieval.
+In the northern mountains, the Empty Vines were bearing fruit, and it wouldn't be long before they matured. Moment Queen had made plans to send out subordinates for their retrieval.
 
 But now, she had been claimed by Han Sen and robbed of her ability to command super creatures. She had no choice but to ask Han Sen to collect the fruit on her behalf.
 

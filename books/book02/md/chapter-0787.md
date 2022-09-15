@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Antipathy of Trouble
-### Chapter 787 
+### Chapter 787
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  As Han Sen watched from his seat on the sofa, Ji Yanran danced towards him. Her white top had already been taken off by this point, revealing her slender waist and large breasts, cupped by the caress of her bra in a tantalizing tease.
+As Han Sen watched from his seat on the sofa, Ji Yanran danced towards him. Her white top had already been taken off by this point, revealing her slender waist and large breasts, cupped by the caress of her bra in a tantalizing tease.
 
 Ji Yanran twirled her sexy waist and twerked her spongy bubble butt. She leaned forward over Han Sen as she did this, her hands slowly beginning to unclip her bra and free her eager boobs.
 

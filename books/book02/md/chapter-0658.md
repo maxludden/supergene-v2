@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## The Child of a Super Creature
-### Chapter 658 
+### Chapter 658
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The bone elephant continued to sit beneath the tree without moving. A while later, Han Sen heard a noise come from deeper within the peach forest, a sound that seemed to be coming their way.
+The bone elephant continued to sit beneath the tree without moving. A while later, Han Sen heard a noise come from deeper within the peach forest, a sound that seemed to be coming their way.
 
 It wasn't long before it appeared. It was a small pink snake, slithering towards the giant peach tree. Quietly, it rested against the base of it.
 

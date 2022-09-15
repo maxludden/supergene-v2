@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Black Eating Black
-### Chapter 2004 
+### Chapter 2004
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The Red Reaper’s scythe slashed across the Stone Cow’s neck, but all it dealt was a minor scratch. It couldn’t even be considered an injury.
+The Red Reaper’s scythe slashed across the Stone Cow’s neck, but all it dealt was a minor scratch. It couldn’t even be considered an injury.
 
 After all, there was a level difference between the two. Han Sen couldn’t blame the Red Reaper for not being strong enough.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Swordmark
-### Chapter 1567 
+### Chapter 1567
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “Twelve hours? I doubt he’d be human if he managed that. Out of all the super swordsmen that have tried, only one has ever managed to last twelve hours. And that person isn’t much weaker than Six Paths. Do you really think Han Sen stands a chance?” Furnace Emperor wore a wry smile.
+“Twelve hours? I doubt he’d be human if he managed that. Out of all the super swordsmen that have tried, only one has ever managed to last twelve hours. And that person isn’t much weaker than Six Paths. Do you really think Han Sen stands a chance?” Furnace Emperor wore a wry smile.
 
 “But we need someone that accomplished. Otherwise, how can we be happy with our selection of Xu Mi’s teacher?” Fire Empress said with certainty.
 

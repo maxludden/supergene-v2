@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Fighting 300 Rounds
-### Chapter 3152 
+### Chapter 3152
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “I am willing to.” Du Ru Lan kowtowed.
+“I am willing to.” Du Ru Lan kowtowed.
 
 “If you are willing to, Decapitation Queen, you should take him to the side hall and test his Blood-Pulse.” Han Sen did not plan on giving Burning Lamp God of Wealth’s blood. He wanted it to be given by Decapitation Queen.
 

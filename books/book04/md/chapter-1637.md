@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Invincible
-### Chapter 1637 
+### Chapter 1637
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Gu Qingcheng was more direct. She took out her blade and rushed toward the armored man, summoning a powerful swordlight from her sword.
+Gu Qingcheng was more direct. She took out her blade and rushed toward the armored man, summoning a powerful swordlight from her sword.
 
 The fist and the sword hit each other, and the fire shook and the blade light shattered. The terrifying forces exploded, creating a hole that was larger than a basketball court in the indestructible battlefield.
 

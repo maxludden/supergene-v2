@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Don’t Miss
-### Chapter 1810 
+### Chapter 1810
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Vic coldly hummed. “Without me holding its attention, what could you guys have done? I am the one who exerted the most effort in felling it, so I should get the first choice of the spoils. I want the rabbit teeth! You can have the rest.”
+Vic coldly hummed. “Without me holding its attention, what could you guys have done? I am the one who exerted the most effort in felling it, so I should get the first choice of the spoils. I want the rabbit teeth! You can have the rest.”
 
 “Mister Vic, do not be ridiculous!” Han Sen responded to Vic, his voice hard.
 

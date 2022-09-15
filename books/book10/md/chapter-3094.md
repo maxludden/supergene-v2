@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Si Ming Demon Race
-### Chapter 3094 
+### Chapter 3094
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen ignored the big sky demon. Although he was very tempted by her offer, if the big sky demon wanted to encourage him to murder, it was not so easy.
+Han Sen ignored the big sky demon. Although he was very tempted by her offer, if the big sky demon wanted to encourage him to murder, it was not so easy.
 
 It seemed as if she could feel the object of Han Sen’s gaze. The little girl, standing next to Feng Fei Fei, looked his way. She looked at Han Sen, and the two shared a stare.
 

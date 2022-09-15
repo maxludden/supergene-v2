@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Lone Sky Dragon
-### Chapter 3055 
+### Chapter 3055
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Zhao Jue Ye was in shock and screamed “Lone sky dragon…”
+Zhao Jue Ye was in shock and screamed “Lone sky dragon…”
 
 When Han Sen heard those three names, he frowned. He had heard that name from a story. It was that thing called King Qin’s assassin Mo Li’s gene race. It was the one he used. It seemed to be very famous.
 

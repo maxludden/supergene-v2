@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Cleaning Job
-### Chapter 2216 
+### Chapter 2216
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Right after Han Sen’s team arrived with the Ice Blue Knights, they were given a priority task to exterminate the xenogeneics that could be found around the base.
+Right after Han Sen’s team arrived with the Ice Blue Knights, they were given a priority task to exterminate the xenogeneics that could be found around the base.
 
 The base had been established there for some time, but xenogeneics emerged constantly from the mountains. Those xenogeneic hordes frequently caused trouble for the base.
 

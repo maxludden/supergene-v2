@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Kiting
-### Chapter 325 
+### Chapter 325
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen did not have any room to run. Reaching him in a second, Queen's kick was even more horrendous than the turtle bite.
+Han Sen did not have any room to run. Reaching him in a second, Queen's kick was even more horrendous than the turtle bite.
 
 Han Sen immediately tried to block Queen's incoming leg with both hands, using Diversion and clinging technique, hoping that he could borrow Queen's force.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Follow the Turtle
-### Chapter 335 
+### Chapter 335
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  From the underground river emerged a head that was somewhat like an alligator's. With its mouth wide open, it looked like the monster could easily swallow an entire cow, let alone a human.
+From the underground river emerged a head that was somewhat like an alligator's. With its mouth wide open, it looked like the monster could easily swallow an entire cow, let alone a human.
 
 There were thousands of teeth in its mouth, which looked like a meat grinder. Even a body made of steel would be minced instantaneously.
 

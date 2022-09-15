@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Born Killer
-### Chapter 2176 
+### Chapter 2176
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen looked at Barr with surprise. Han Meng’er’s power was undoubtedly the best out of all Marquises. She was just as powerful as Han Sen when he used Break Six Skies.
+Han Sen looked at Barr with surprise. Han Meng’er’s power was undoubtedly the best out of all Marquises. She was just as powerful as Han Sen when he used Break Six Skies.
 
 But even after being subjected to that massive amount of power, Barr was able to heal at an alarming speed. And on top of that, the lifeforce inside his body became stronger. That had to be something more than a simple healing ability. It was obvious that Barr had a powerful body, and that must have been how he was able to survive Dragon One’s pursuit as a Duke.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Exposed
-### Chapter 2457 
+### Chapter 2457
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The woman looked into her reflection in the pool. Her gaze suddenly sharpened.
+The woman looked into her reflection in the pool. Her gaze suddenly sharpened.
 
 “She can see me!” Han Sen knew this was very bad, but he had already considered this eventuality. If the being Han Sen inhabited was close to a reflective surface, Han Sen knew his presence would be exposed sooner or later. So, he didn’t panic.
 

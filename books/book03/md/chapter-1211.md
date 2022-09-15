@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Killing Big Snake
-### Chapter 1211 
+### Chapter 1211
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen and Bao’er saw the snowball approach them, but before they could react, the snake was right there along with it.
+Han Sen and Bao’er saw the snowball approach them, but before they could react, the snake was right there along with it.
 
 It had a giant mouth with wretched fangs. Its mere breath was pungent enough to slay unsuspecting victims, Han Sen reckoned. And as it loomed over them, it looked ready to swallow them all in one mouthful.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Time Ghost
-### Chapter 2892 
+### Chapter 2892
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Destroyed Leader had been killed during another race’s fight. They were not even connected to those events, but they were heavily damaged.
+Destroyed Leader had been killed during another race’s fight. They were not even connected to those events, but they were heavily damaged.
 
 The Destroyed were the fifth high race. There were many true gods in the Destroyed, but Destroyed Leader was the leader of them all. He still had the highest power and was the most revered.
 

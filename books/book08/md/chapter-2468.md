@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Shadow Ghost
-### Chapter 2468 
+### Chapter 2468
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  While it might have taken some time to describe, in reality, the fight was over in moments. Han Sen managed to freeze two half-deifieds and three Kings in a few steps.
+While it might have taken some time to describe, in reality, the fight was over in moments. Han Sen managed to freeze two half-deifieds and three Kings in a few steps.
 
 “Am I seeing this right? Thunder and Shadow, both of whom are half-deified, were frozen? Barr is still frozen, too. Are crystallizers really this strong?”
 

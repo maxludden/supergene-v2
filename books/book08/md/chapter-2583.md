@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## It’s Hard to Tell if It’s Good or Bad
-### Chapter 2583 
+### Chapter 2583
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen and the others had explored this island many times before. Aside from the mushrooms, there was nothing special to be found.
+Han Sen and the others had explored this island many times before. Aside from the mushrooms, there was nothing special to be found.
 
 They had searched the broken battleship repeatedly, but nothing important was ever discovered.
 

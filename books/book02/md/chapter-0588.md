@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Entering
-### Chapter 588 
+### Chapter 588
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen was shocked as a burning sensation overwhelmed his insides. His kidneys were sizzling with heat, and it felt as if they had become two fireballs ricocheting around his body. Han Sen did not feel good.
+Han Sen was shocked as a burning sensation overwhelmed his insides. His kidneys were sizzling with heat, and it felt as if they had become two fireballs ricocheting around his body. Han Sen did not feel good.
 
 "Damn it! Why are you coming here at this time?" Han Sen did not have the willpower necessary to suppress the riot that was going on inside him.
 

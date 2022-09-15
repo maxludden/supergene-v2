@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Invisible Creature
-### Chapter 1130 
+### Chapter 1130
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Killing the super creature he had proposed to slay would not be easy. Uncle Bug told him the shadow of the creature was what possessed his son, but the actual body he would have to defeat was someplace in the valley.
+Killing the super creature he had proposed to slay would not be easy. Uncle Bug told him the shadow of the creature was what possessed his son, but the actual body he would have to defeat was someplace in the valley.
 
 Han Sen thought about the bugs he had thrown down into the valley, the ones that disappeared, and wondered whether or not they were related to the creature he was preparing to defeat.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Gene Potential
-### Chapter 2572 
+### Chapter 2572
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “Are you mistaken? Isn’t she one of the Sky? Why does it say she is one of the Very High?” Han Sen asked Glasses in his mind. He was trying to keep his surprise under wraps while he read through the rest of the report.
+“Are you mistaken? Isn’t she one of the Sky? Why does it say she is one of the Very High?” Han Sen asked Glasses in his mind. He was trying to keep his surprise under wraps while he read through the rest of the report.
 
 “Target: Very High female. Gene Age Calculation: 23 years”
 

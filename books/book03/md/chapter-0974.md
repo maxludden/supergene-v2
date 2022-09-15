@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Mystic Stone Room
-### Chapter 974 
+### Chapter 974
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The Red-Eye Rabbit jumped and grabbed one of the tree’s fruit. It swallowed it in one gulp, and immediately after doing so, started to roll on the floor as if it was suffering.
+The Red-Eye Rabbit jumped and grabbed one of the tree’s fruit. It swallowed it in one gulp, and immediately after doing so, started to roll on the floor as if it was suffering.
 
 Not long after, it calmed down. It looked weaker than it had before, and its lifeforce was faint. But slowly, it began to return to normal.
 

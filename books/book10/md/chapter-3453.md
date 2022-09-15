@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Universe Class Fight
-### Chapter 3453 
+### Chapter 3453
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Littleflower heard the command. He put away his Holy Spirit Protect to disable its presence on Han Ling’er. He teleported in front of Bao’er and reached out his hand, trying to put the Holy Spirit Protect on her body.
+Littleflower heard the command. He put away his Holy Spirit Protect to disable its presence on Han Ling’er. He teleported in front of Bao’er and reached out his hand, trying to put the Holy Spirit Protect on her body.
 
 After thinking for a moment, Chaos said, “Han Littleflower’s power is certainly weird. That weird spirit body power is similar to the power of a God Spirit, but it is different. It looks like it brushes against the edge of a Universe-class force. His powers might be what is last required to push past the final barrier and have her combine with the super god gene seed. That way, she might be able to take that final step too. Fighting Human King now might be a good idea after all.”
 

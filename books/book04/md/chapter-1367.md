@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## An Awkward Moment
-### Chapter 1367 
+### Chapter 1367
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Jia Shidao was extremely confident in the white-knuckle power his fists could deliver, so he didn’t summon a geno core. The Iron-Fist Martial Hall was made famous by his Iron-Fist Slash, a brutal move when coupled with his fitness level.
+Jia Shidao was extremely confident in the white-knuckle power his fists could deliver, so he didn’t summon a geno core. The Iron-Fist Martial Hall was made famous by his Iron-Fist Slash, a brutal move when coupled with his fitness level.
 
 He had even managed to max out his ordinary, primitive, and mutant geno points, placing his fitness level at over fifteen thousand. Eight thousand of those levels were from mutant geno points alone.
 

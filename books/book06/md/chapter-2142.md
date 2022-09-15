@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Four Season Duke
-### Chapter 2142 
+### Chapter 2142
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Four Season Duke went to the training ground as he usually did. And there, he prepared to start teaching Suppress Evil. But after waiting a while to begin, he noticed there were only a few people in attendance. This made him frown.
+Four Season Duke went to the training ground as he usually did. And there, he prepared to start teaching Suppress Evil. But after waiting a while to begin, he noticed there were only a few people in attendance. This made him frown.
 
 Although the training ground wasn’t usually packed, the seats in his lectures were usually around 90% filled.
 

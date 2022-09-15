@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## The Space Garden
-### Chapter 2778 
+### Chapter 2778
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “Why is that?” Xie Qing King glanced at Dia Robber with a raised eyebrow.
+“Why is that?” Xie Qing King glanced at Dia Robber with a raised eyebrow.
 
 “Since the battle powers of the Flower Gods are extremely low, they focus their efforts on protecting their Space Garden. In all the time that their race has lived here, very few outsiders have ever been able to access the Space Garden. Now it seems like they’re letting everyone in. Don’t you think that is a little suspicious?” Dia Robber said as he sat down.
 

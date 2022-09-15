@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Metal Statue
-### Chapter 2232 
+### Chapter 2232
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  While searching, Han Sen found a territory belonging to the Finger Fire Crow. There was at least fifty thousand of them, so it took them a few hours to get rid of them all. They also found a lot of Fire Crow eggs in the caves that were located there.
+While searching, Han Sen found a territory belonging to the Finger Fire Crow. There was at least fifty thousand of them, so it took them a few hours to get rid of them all. They also found a lot of Fire Crow eggs in the caves that were located there.
 
 Because there were so many Fire Crow eggs and the little Fire Crow’s levels were low, they were pointless to haul back, so they decided to destroy them. It was to prevent them from hatching and one day forming another murder of pesky Fire Crows.
 

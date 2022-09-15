@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Crazy
-### Chapter 1018 
+### Chapter 1018
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “What is it, Brother Han?” Liu Yuxuan asked, looking back at Han Sen.
+“What is it, Brother Han?” Liu Yuxuan asked, looking back at Han Sen.
 
 “There is something I need your help with, before your departure,” Han Sen said.
 

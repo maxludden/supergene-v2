@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Getting a Deified Beast Soul Again
-### Chapter 2893 
+### Chapter 2893
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen knew what was wrong with it. He wanted to break Time Ghost’s Absolute Time. To do that, he had to break the time power area or unleash a speed that could blister through the delaying of time.
+Han Sen knew what was wrong with it. He wanted to break Time Ghost’s Absolute Time. To do that, he had to break the time power area or unleash a speed that could blister through the delaying of time.
 
 After all, Time Ghost’s Absolute Time did not stop time. Time still went by, but it was at a much slower pace. If the speed was faster than the delay, Han Sen could hurt it.
 

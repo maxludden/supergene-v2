@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Metal Statue
-### Chapter 2149 
+### Chapter 2149
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The Guardian Spiders did not look as if they could spin silk, but the claws on the ends of their legs were sharper than any knife. Not even the armor of a Marquise fighter could withstand blows from those.
+The Guardian Spiders did not look as if they could spin silk, but the claws on the ends of their legs were sharper than any knife. Not even the armor of a Marquise fighter could withstand blows from those.
 
 When the red spider emerged from the statue’s mouth, it flew towards the battlers in an instant. Six of its blade-like appendages came swiping down towards the intruders.
 

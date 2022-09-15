@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## You Are Too Weak
-### Chapter 3136 
+### Chapter 3136
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Brother Three was confused. He did not know why Sky King had disembarked. There were no big characters around him to interact with either.
+Brother Three was confused. He did not know why Sky King had disembarked. There were no big characters around him to interact with either.
 
 Brother Three quickly noticed that after emerging from the carriage, Sky King was walking toward Han Sen.
 

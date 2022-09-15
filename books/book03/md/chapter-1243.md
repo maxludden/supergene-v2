@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Good Man’s Standard
-### Chapter 1243 
+### Chapter 1243
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen exited the virtual community and saw Bao’er sitting in front of him. Immediately, she leaped into Han Sen’s chest, loudly proclaiming, “I’m thirsty!”
+Han Sen exited the virtual community and saw Bao’er sitting in front of him. Immediately, she leaped into Han Sen’s chest, loudly proclaiming, “I’m thirsty!”
 
 “I’ll go and get you some water,” Han Sen said, heading for the water dispenser.
 

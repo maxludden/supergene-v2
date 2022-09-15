@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Crape Myrtle's Decision
-### Chapter 3437 
+### Chapter 3437
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen looked at Crape Myrtle and asked, “How was that punch?”
+Han Sen looked at Crape Myrtle and asked, “How was that punch?”
 
 Crape Myrtle’s body calmed down. He then answered, “Not bad.”
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Difficult Client
-### Chapter 299 
+### Chapter 299
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  From a private holographic device, Huang Yulei walked out absentminded. He could not believe what had happened to him in the past hour.
+From a private holographic device, Huang Yulei walked out absentminded. He could not believe what had happened to him in the past hour.
 
 Someone who was not his match to begin with, not only turned the game around, but also used his secret skill Thirteen Slashes to beat him. Huang Yulei was simply speechless.
 

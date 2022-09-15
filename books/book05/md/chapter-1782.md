@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Uncertain Future
-### Chapter 1782 
+### Chapter 1782
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Old Cat went silent for a bit, then went on to say, “Humans are a branch off the crystallizer tree. Because human blood is not pure, and the sanctuaries forced them to grow up fast, their genes aren’t very stable. The future is very uncertain for them, lacking the stability of pure blood.”
+Old Cat went silent for a bit, then went on to say, “Humans are a branch off the crystallizer tree. Because human blood is not pure, and the sanctuaries forced them to grow up fast, their genes aren’t very stable. The future is very uncertain for them, lacking the stability of pure blood.”
 
 Old Cat paused and said, “The few elders that you met on the road made Stay Up Late offers of tribe membership because they wanted a king. It wouldn’t happen overnight, of course. It would take a lot of work. And they would also have to help you refine the deified feather. Even to a big faction like Beast Area, it would be asking a lot of them. So, it’s fairly easy to see why they would choose Stay Up Late. They’d favor a guaranteed success, as there is a lot more risk choosing you due to your instability. That sums up why they didn’t dare to invest in you.”
 

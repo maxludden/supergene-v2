@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## New Shura King
-### Chapter 866 
+### Chapter 866
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  After taking over Devil-Blood Shelter, Han Sen was starting to think he was far more powerful than he should've been. He had two King-class shelters and yet, there'd never be anyone around to occupy them. Ferocious monsters ruled the lands that encompassed the shelters, meaning human occupation was unlikely. This annoyed Han Sen.
+After taking over Devil-Blood Shelter, Han Sen was starting to think he was far more powerful than he should've been. He had two King-class shelters and yet, there'd never be anyone around to occupy them. Ferocious monsters ruled the lands that encompassed the shelters, meaning human occupation was unlikely. This annoyed Han Sen.
 
 Despite owning these two shelters, he realized his inability to earn a single penny from either.
 

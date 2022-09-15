@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Not a Wonderful Match
-### Chapter 135 
+### Chapter 135
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The game room was silent. In a room where more than ten thousand people were watching, none typed anything. Everyone was staring at their screen.
+The game room was silent. In a room where more than ten thousand people were watching, none typed anything. Everyone was staring at their screen.
 
 It was not because the duel was so wonderful, but because it was not at all.
 

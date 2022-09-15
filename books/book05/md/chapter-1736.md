@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Super Spank
-### Chapter 1736 
+### Chapter 1736
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Everyone was in shock. The xenogeneic officer was incredibly hard to deal with already, but now they had a real monster from the outside to contend with.
+Everyone was in shock. The xenogeneic officer was incredibly hard to deal with already, but now they had a real monster from the outside to contend with.
 
 It wasn’t a low-tier xenogeneic like the ones Han Sen had already dealt with before, either. The sanctuary door led to the Big Silence system. It was where the high-level xenogeneics resided. There were high-tier xenogeneics there, very much like the Dukes. If they entered, there’d be a grand disaster, just like what had occurred to the crystallizers.
 

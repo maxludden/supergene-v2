@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## My Time to Shine
-### Chapter 1010 
+### Chapter 1010
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The lightning forest was not the sort of place one could hold lengthy discussions. After a brief talk, they heard wolves howling in the distance.
+The lightning forest was not the sort of place one could hold lengthy discussions. After a brief talk, they heard wolves howling in the distance.
 
 When the sounds subsided, the lightning trees seemed to react as if a message was being relayed, passed from tree to tree.
 

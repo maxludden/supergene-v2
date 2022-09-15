@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Return Ruin Sea
-### Chapter 2036 
+### Chapter 2036
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The silver bug clearly hated Han Sen, perhaps because Han Sen had stolen the Beginning of Ancient God. No matter how hard he tried to climb onto the shore, the bug would thrust him back into the water.
+The silver bug clearly hated Han Sen, perhaps because Han Sen had stolen the Beginning of Ancient God. No matter how hard he tried to climb onto the shore, the bug would thrust him back into the water.
 
 The shadow was growing larger. Han Sen did not think it was just his imagination, and he earnestly believed that something was rising toward him from the depths.
 

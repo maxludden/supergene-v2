@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Singing
-### Chapter 3092 
+### Chapter 3092
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “Do you see that guy who is acting all cocky?” Bald Guy asked as he looked in the man’s direction. “That is one of the four big misters in Jade Wall City. He is Mister God One.”
+“Do you see that guy who is acting all cocky?” Bald Guy asked as he looked in the man’s direction. “That is one of the four big misters in Jade Wall City. He is Mister God One.”
 
 Han Sen looked over and saw a guy who was very handsome and elegant. He was like a sun surrounded by planets and girls. Seeing his attitude, one assumed he was very polite. He caught the attention of many people. There was no doubt he was frequently the center of attention. It was clear that he was not an ordinary person.
 

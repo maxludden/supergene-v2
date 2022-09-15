@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Flowers Know the Sea
-### Chapter 2419 
+### Chapter 2419
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Miss Mirror hadn’t thought Han Sen’s mind was strong, and the unexpected depth of his consciousness struck her with confusion.
+Miss Mirror hadn’t thought Han Sen’s mind was strong, and the unexpected depth of his consciousness struck her with confusion.
 
 It was as if she had received a mystery gift, and she had no idea who had delivered it or what it contained. After opening that special parcel, she only found another mystery box inside. She opened it, layer by layer, but there never seemed to be an end.
 

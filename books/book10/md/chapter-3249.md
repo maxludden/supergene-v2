@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Meeting Again
-### Chapter 3249 
+### Chapter 3249
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “It’s you!” Tian Jing noticed it was Han Sen who had arrived, so she frowned.
+“It’s you!” Tian Jing noticed it was Han Sen who had arrived, so she frowned.
 
 “What a coincidence that we meet again, and out here of all places,” Han Sen said with a smile. “Fate has definitely made us cross
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Using Power to Strike Power
-### Chapter 3433 
+### Chapter 3433
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Self-power could not be used. Han Sen planned on using power to defeat opposing power. It was the most primitive and complicated technique he could perform. Many people knew it but beating power by using power was not often used in a real fight.
+Self-power could not be used. Han Sen planned on using power to defeat opposing power. It was the most primitive and complicated technique he could perform. Many people knew it but beating power by using power was not often used in a real fight.
 
 Normally, it was the stronger person who would beat the weaker person. They used power to whittle down the confidence of an opponent. In a real fight between two people who were of the same level, or when the weak fought against the strong, using powers to beat power skills was hard to use in an actual fight.
 

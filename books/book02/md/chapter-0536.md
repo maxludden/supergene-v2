@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Shura
-### Chapter 536 
+### Chapter 536
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  "What the hell is this?" Han Sen was shocked... literally and figuratively. He clamped down to withstand the electricity that surged into him, and then summoned the Ghost-Pawed Claws to slash wildly at the jellyfish.
+"What the hell is this?" Han Sen was shocked... literally and figuratively. He clamped down to withstand the electricity that surged into him, and then summoned the Ghost-Pawed Claws to slash wildly at the jellyfish.
 
 But the Ghost-Pawed Claws went straight through the gelatinous skin and became lodged inside the creature as well.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## First Breakthrough
-### Chapter 451 
+### Chapter 451
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  When Han Sen started to practice Jadeskin, he was too old in age. Since the foundation was not laid when he was a boy and he had practiced the hyper geno art for a short time, Han Sen was not able to make a big progress with it. Without the help of geno solutions, until this day, he still was not able to make the first breakthrough with Jadeskin.
+When Han Sen started to practice Jadeskin, he was too old in age. Since the foundation was not laid when he was a boy and he had practiced the hyper geno art for a short time, Han Sen was not able to make a big progress with it. Without the help of geno solutions, until this day, he still was not able to make the first breakthrough with Jadeskin.
 
 Han Sen was stuck in a bottleneck and failed to make the breakthrough. However, when he drank the geno solutions to practice Micro Crystal, Jadeskin was activated unexpectedly and was pushed to the first breakthrough.
 

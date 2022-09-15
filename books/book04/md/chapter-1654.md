@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Ancient Sky
-### Chapter 1654 
+### Chapter 1654
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “Are people from Sacred joining the hunt?” Han Sen asked.
+“Are people from Sacred joining the hunt?” Han Sen asked.
 
 Cheap Sheep thought for a moment and then said, “I think so. Someone saw Goddess and other Sacred elites heading for Sunset Valley. If you want to go and take a look, please take us with you!”
 

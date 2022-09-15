@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Real Fake Han Sen
-### Chapter 2812 
+### Chapter 2812
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The ground was destroyed ground. Broken metal and stone buildings were seen everywhere. The broken, metal pieces of machinery were sort of like products from a steampunk era. The buildings seemed even older than them.
+The ground was destroyed ground. Broken metal and stone buildings were seen everywhere. The broken, metal pieces of machinery were sort of like products from a steampunk era. The buildings seemed even older than them.
 
 Stone tripods with bowls atop them, stone stoves, and stone towers were cracked and strewn across the land. A 9-foot stone stove had been split in half. One saw broken stone buildings and tools all around.
 

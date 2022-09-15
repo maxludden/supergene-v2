@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Fair and Square Way to Spli
-### Chapter 2766 
+### Chapter 2766
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “If I said I was lost, would you believe me?” Han Sen asked.
+“If I said I was lost, would you believe me?” Han Sen asked.
 
 Barr raised his eyebrows at the answer. He gave Han Sen a weird look and said, “You are lost out here?”
 

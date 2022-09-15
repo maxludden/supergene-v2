@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Battling a Super Spirit
-### Chapter 802 
+### Chapter 802
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen suddenly stopped. He turned around to look at the spirit, which looked like a true monarch, and noticed his muscles begin to tighten.
+Han Sen suddenly stopped. He turned around to look at the spirit, which looked like a true monarch, and noticed his muscles begin to tighten.
 
 It was not at as if he didn't want to go any further, he was just taken aback. The spirit had locked on an attack, and if he moved an inch further, he'd be cut down.
 

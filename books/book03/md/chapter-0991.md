@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Dragon-blood Ring
-### Chapter 991 
+### Chapter 991
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen saw a red-jade ring drop to the floor. It had been on the man’s finger, but it slipped off when the body withered.
+Han Sen saw a red-jade ring drop to the floor. It had been on the man’s finger, but it slipped off when the body withered.
 
 He was not interested in jewelry, but he gave it a scan to see if it was significant, anyway. It wasn’t, to his knowledge, so Han Sen paid it no mind.
 

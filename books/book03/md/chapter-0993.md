@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Stealing the Source
-### Chapter 993 
+### Chapter 993
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  A light, manifesting in the shape of a dragon, shot out towards Han Sen’s forehead.
+A light, manifesting in the shape of a dragon, shot out towards Han Sen’s forehead.
 
 The light was wickedly fast, and Han Sen was not quick enough to avoid it.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Don’t Stop
-### Chapter 1108 
+### Chapter 1108
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen rushed over to hold Queen. As he held her, he swiftly examined her wounds to check how badly she was hurt.
+Han Sen rushed over to hold Queen. As he held her, he swiftly examined her wounds to check how badly she was hurt.
 
 She had been severely injured, and the sacred-blood armor Han Sen had lent her had been practically destroyed. Only shreds of it remained clinging to her blood-soaked body.
 

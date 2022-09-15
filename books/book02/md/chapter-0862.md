@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Outdated Skts
-### Chapter 862 
+### Chapter 862
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The lounge of the restaurant had all the equipment necessary, so everyone proceeded there at once to spectate the virtual fight.
+The lounge of the restaurant had all the equipment necessary, so everyone proceeded there at once to spectate the virtual fight.
 
 "Little Han, are you okay?" Fat Squad Leader asked, as Han Sen sat inside the hologram machine.
 

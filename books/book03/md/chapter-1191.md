@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Harvest?
-### Chapter 1191 
+### Chapter 1191
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “What?” Han Sen stared at Dragon King and asked, “Then why would the Asura Sutra be on your scale? Were you best buds with Asura?”
+“What?” Han Sen stared at Dragon King and asked, “Then why would the Asura Sutra be on your scale? Were you best buds with Asura?”
 
 “Um…” Dragon King, for once, had been rendered speechless.
 

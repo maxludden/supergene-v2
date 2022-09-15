@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Ancient Devil Bell
-### Chapter 1075 
+### Chapter 1075
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  It was difficult to tell what creature sought to confront them this time. It was grey like steel, and its back had a shield that was similar to that of a turtle’s shell. It reached down to its tail, which was shaped like a drill.
+It was difficult to tell what creature sought to confront them this time. It was grey like steel, and its back had a shield that was similar to that of a turtle’s shell. It reached down to its tail, which was shaped like a drill.
 
 The head of the creature possessed a curved horn. The claws were sharp, and they lined up like a vanguard of spears.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Cactus Fruit
-### Chapter 766 
+### Chapter 766
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  "Wait for me here; do not go anywhere." Han Sen took Zhou Yumei a good distance away and left her some supplies. The silver fox and Little Orange were to stay with her, as well. He returned to the cactus, only bringing the fairy with him.
+"Wait for me here; do not go anywhere." Han Sen took Zhou Yumei a good distance away and left her some supplies. The silver fox and Little Orange were to stay with her, as well. He returned to the cactus, only bringing the fairy with him.
 
 Facing those terrifying super creatures, only the fairy—an adult super creature—could fight back. The silver fox was still very young, so he wouldn't have been much use there.
 

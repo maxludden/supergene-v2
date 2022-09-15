@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Luring Super Creatures
-### Chapter 845 
+### Chapter 845
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  "Why do I always bend over backwards if it means securing a coin or two? I will die for this money, I tell you!" Wang Yuhang was speaking to himself, doing his best to inspire a return of confidence.
+"Why do I always bend over backwards if it means securing a coin or two? I will die for this money, I tell you!" Wang Yuhang was speaking to himself, doing his best to inspire a return of confidence.
 
 "Little Uncle, what you have just said is not down to luck. If you want to make an inspirational speech, don't tell yourself you are going to die!" Han Sen laughed.
 

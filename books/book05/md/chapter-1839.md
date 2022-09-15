@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Two Chances
-### Chapter 1839 
+### Chapter 1839
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “What are you doing?” Han Sen looked at the Baron expressionlessly.
+“What are you doing?” Han Sen looked at the Baron expressionlessly.
 
 Seeing how many people had gathered, the Baron let go of the woman’s arms. He stood up, smiled, and said, “Master, I just want to have some fun with this slave. I have been here for a few days, and I think I’m going to get sick if I don’t.”
 

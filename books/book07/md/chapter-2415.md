@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Stone Field
-### Chapter 2415 
+### Chapter 2415
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The xenogeneic space was a very rocky landscape. The ships landed amidst an enormous field of stones, and the passengers of the ships made camp nearby.
+The xenogeneic space was a very rocky landscape. The ships landed amidst an enormous field of stones, and the passengers of the ships made camp nearby.
 
 On Miss Mirror’s orders, the Spring Rain members began digging into the stone field, unearthing even more rocks.
 

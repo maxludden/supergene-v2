@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Bai Wei“s Visit
-### Chapter 2325 
+### Chapter 2325
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “Why are you so nervous? Didn’t I tell you not to disturb me unless I called for you?” Han Sen asked from the building.
+“Why are you so nervous? Didn’t I tell you not to disturb me unless I called for you?” Han Sen asked from the building.
 
 “My Prince, this is bad! Queen Bai Wei is here,” Lilly quickly said.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Zhuo Dong Lai
-### Chapter 3173 
+### Chapter 3173
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  All the people throughout the kingdoms were in complete shock. An inheritor of a Blood – Pulse from one of the 12 Annihilation God Spirits, God Word King, had chosen not to do battle. It made Ingot, who was the least threatening of the three God of Wealth members, suddenly very popular.
+All the people throughout the kingdoms were in complete shock. An inheritor of a blood-pulse from one of the 12 Annihilation God Spirits, God Word King, had chosen not to do battle. It made Ingot, who was the least threatening of the three God of Wealth members, suddenly very popular.
 
 Everyone started to gossip about why God Word King had decided to avoid fighting. They wondered if it was because he didn’t think he could win or if it had to do with something else.
 
@@ -22,8 +23,6 @@ Sky King felt a bit depressed. He had not expected God Word King to give up the 
 A middle-aged man, who looked like a scholar, was in God Word King’s manor. He was watering the flowers. He kept watering the flowers while he spoke to himself. “On Sept. 18, which is today, I should not go out, make use of any type of weaponry, or try getting into a fight. I should not do anything of the sort.”
 
 Meanwhile, Bao’er thought this turn of events was very boring. She wanted to play, but her opponent had given up. It upset her.
-
-was
 
 Her feelings of dismay only increased when God Word King completely gave up the fight. The fun she had been looking forward to was delayed.
 
@@ -51,9 +50,7 @@ Back in the day, Zhuo Dong Lai wanted Han Sen to be a student so he could give h
 
 When Han Sen heard the name Zhuo Dong Lai, it triggered a tidal wave of memories. It was something he could not forget.
 
-In Sky Party, Zhuo Dong Lai was sitting in a stone pavilion. He stared at the fish in the
-
-pond.
+In Sky Party, Zhuo Dong Lai was sitting in a stone pavilion. He stared at the fish in the pond.
 
 An old man, who looked rather dull, came to sit down in the same stone pavilion. He looked at Zhuo Dong Lai, who was perched in a frozen position upon the banister, and said, “Brother Zhuo, you will be fighting Dollar tomorrow. What do you think? Are you sufficiently prepared?”
 

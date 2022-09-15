@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Planet King Kong
-### Chapter 2313 
+### Chapter 2313
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen’s eyes flashed like lightning as he turned to face the thing coming out of the sand.
+Han Sen’s eyes flashed like lightning as he turned to face the thing coming out of the sand.
 
 It was a humanoid form made of rock. It rose and immediately smashed a fist of stone down toward Han Sen.
 

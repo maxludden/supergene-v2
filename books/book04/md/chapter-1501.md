@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## The Story of Genes
-### Chapter 1501 
+### Chapter 1501
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “Crystallizers wrote in a human language?” Han Sen was very surprised.
+“Crystallizers wrote in a human language?” Han Sen was very surprised.
 
 This seemed to be an impossible scenario. When the first crystallizer ruins were discovered, humans found that the crystallizers used strange symbols for text. Human text associated with a crystallizer ruin had never been witnessed before. Han Sen could read the human text of this book, and he could immediately see that it was titled The Story of Genes.
 

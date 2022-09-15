@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Curse of Immortality
-### Chapter 1105 
+### Chapter 1105
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Over the past few years, Han Sen had studied and learned much alongside Bai Yishan. He spent most of his time researching the powers of the Dollar Toad’s energy flow and developing Saving Money.
+Over the past few years, Han Sen had studied and learned much alongside Bai Yishan. He spent most of his time researching the powers of the Dollar Toad’s energy flow and developing Saving Money.
 
 Creating hyper geno arts was not easy, and he had only managed to create one during all that time.
 

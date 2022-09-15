@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Holy Palace Guardian
-### Chapter 2948 
+### Chapter 2948
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  At almost the exact same time the announcement played, Han Sen heard an angry shout saying, “Stop it!”
+At almost the exact same time the announcement played, Han Sen heard an angry shout saying, “Stop it!”
 
 Han Sen suddenly saw a murderous beast, which looked completely red, roar in the sky, which was very dark and burning red. It was heading toward Han Sen and looked murderous. It spat some red light out at him. The red light was not a flame. It was like a laser. It suddenly doused Han Sen in red light.
 

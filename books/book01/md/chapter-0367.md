@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Coming Back From Death
-### Chapter 367 
+### Chapter 367
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Ye Yufeng felt more and more odd, his brows knitted.
+Ye Yufeng felt more and more odd, his brows knitted.
 
 Suddenly, Ye Yufeng thought of something and appeared to be shocked. He couldn't help exclaiming, "Is that Heavenly Go? Is Dollar a descendent of that person?"
 

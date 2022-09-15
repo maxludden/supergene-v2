@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Heart Sword
-### Chapter 1442 
+### Chapter 1442
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  After hearing Six Paths speak, Han Sen thought it sounded like he was confident in his chances of reaching first place. But the placement test had actually put Six Paths in fifth place.
+After hearing Six Paths speak, Han Sen thought it sounded like he was confident in his chances of reaching first place. But the placement test had actually put Six Paths in fifth place.
 
 Crystal Core had been in fourth place, and when Six Paths conducted his test, he could not pass it.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Taking the Treasure
-### Chapter 1033 
+### Chapter 1033
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen climbed the pine tree, but still couldn’t see Bao’er.
+Han Sen climbed the pine tree, but still couldn’t see Bao’er.
 
 “Bao’er, where are you?” Han Sen shouted.
 

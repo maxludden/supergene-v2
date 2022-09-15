@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Grabbing the Holy Peach
-### Chapter 688 
+### Chapter 688
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The lower peach was different than the upper peach. The lower peach was mostly green and pale and only a little bit red. It looked like it would still take some time for it to mature.
+The lower peach was different than the upper peach. The lower peach was mostly green and pale and only a little bit red. It looked like it would still take some time for it to mature.
 
 The legion of snakes was getting anxious and annoyed. In their impatience, they started to approach the peach tree, ever so slowly. The pink snake was riding the head of a titanboa, which flew in circles of further impatience. It looked as if it wanted to launch itself onto the upper peach, which looked as if it was almost ripe. But it didn't yet; it showed restraint due on account of its fear.
 

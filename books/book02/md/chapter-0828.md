@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Announcing a Secret
-### Chapter 828 
+### Chapter 828
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Every media outlet reported on the event, how a man in his twenties effortlessly beat a royal shura. To humanity, this was a tremendously exciting affair.
+Every media outlet reported on the event, how a man in his twenties effortlessly beat a royal shura. To humanity, this was a tremendously exciting affair.
 
 Han Sen, furthermore, was the future son-in-law of the president. Due to his prestige, all the citizens of the Alliance developed a keen interest in him. They wanted to learn every detail they could about him, large and small. Many people even questioned the manners and etiquette he employed when visiting the bathroom.
 

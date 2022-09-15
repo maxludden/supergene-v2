@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Blueblood Crystallizer?
-### Chapter 2093 
+### Chapter 2093
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “Mister Lone Bamboo, I’ve heard that you are in a rush to find me. What is the matter?” Sleepless Duke asked Lone Bamboo.
+“Mister Lone Bamboo, I’ve heard that you are in a rush to find me. What is the matter?” Sleepless Duke asked Lone Bamboo.
 
 “Kahn delivered some special goods to you. I would like to know what they are.” Lone Bamboo told her directly.
 

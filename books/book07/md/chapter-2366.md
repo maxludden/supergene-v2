@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Back to Night Charm
-### Chapter 2366 
+### Chapter 2366
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Katcha!
+Katcha!
 
 The green light flashed. Hell King’s head was cut off.
 

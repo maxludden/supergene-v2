@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## The Battle With Spirits
-### Chapter 567 
+### Chapter 567
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  When Han Sen left the beast soul shop, he walked out with his desired Purple-Copper Ancient Sword and an additional Armored sacred-blood beast soul.
+When Han Sen left the beast soul shop, he walked out with his desired Purple-Copper Ancient Sword and an additional Armored sacred-blood beast soul.
 
 They were both top-of-their-kind in the sacred-blood league, the ancient sword in particular. It was the best sacred-blood sword a person could get and being able to swap the berserk Inferno Bull for both of these was absolutely worth it. Han Sen was more than happy with the deal.
 

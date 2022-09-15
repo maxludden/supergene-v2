@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Co-operation
-### Chapter 2058 
+### Chapter 2058
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “What did you do to me?” Xius asked simply. She didn’t sound frightened.
+“What did you do to me?” Xius asked simply. She didn’t sound frightened.
 
 “Nothing. It’s just a little insurance to guarantee that we have a jovial co-operation,” Han Sen said with a smile.
 

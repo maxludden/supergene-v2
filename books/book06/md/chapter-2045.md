@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Fighting for the Upside-down Scale
-### Chapter 2045 
+### Chapter 2045
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Pang!
+Pang!
 
 Han Sen’s body exploded as the blades sliced through it. Another Han Sen rushed Dragon Fifteen from the side.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Dead Cycle
-### Chapter 2733 
+### Chapter 2733
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Luckily, although Han Sen wasn’t deified yet, his body was already as strong as a deified. If he was an ordinary half-deified, his body would have been completely crushed by the four disrupted powers.
+Luckily, although Han Sen wasn’t deified yet, his body was already as strong as a deified. If he was an ordinary half-deified, his body would have been completely crushed by the four disrupted powers.
 
 Although Han Sen hadn’t been completely destroyed yet, the situation wasn’t good. When the four powers fell out of rhythm, they began to impact each other with explosive force. No matter how strong Han Sen’s body was, it couldn’t withstand that type of collision for long.
 

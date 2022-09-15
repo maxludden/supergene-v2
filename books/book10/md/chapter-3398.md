@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Bao'er's Weakness
-### Chapter 3398 
+### Chapter 3398
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The drop of blood spread across the transparent crystal clock. It eventually got sucked into the machine and the cogwheels inside. It was then the cogwheels started to spin.
+The drop of blood spread across the transparent crystal clock. It eventually got sucked into the machine and the cogwheels inside. It was then the cogwheels started to spin.
 
 The three needles started to spin. They spun so fast that the whole crystal clock’s light grew brighter and brighter.
 

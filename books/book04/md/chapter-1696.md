@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## God’s Organization’s Assault
-### Chapter 1696 
+### Chapter 1696
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  1696 God’s Organization’s Assaul
+1696 God’s Organization’s Assaul
 
 On Planet Roca, seven creatures dressed in black were hovering in the air above Han Sen’s house. They were watching.
 

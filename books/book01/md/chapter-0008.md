@@ -1,27 +1,28 @@
-Title:Primitive Beast Soul 
-Chapter:8 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+Title:Primitive Beast Soul
+Chapter:8
+Section:1
+Book:1
+CSS:../Styles/style.css
 viewport: width=device-width
-  
+
 ## Primitive Beast Soul
-### Chapter 8 
+### Chapter 8
+
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
-  
 
-  
-  Han Sen didn’t go back to Steel Armor Shelter after leaving Zephyr Valley. In a flash, he killed every swift mantis in a frenzy so that there were none left.
+
+
+Han Sen didn’t go back to Steel Armor Shelter after leaving Zephyr Valley. In a flash, he killed every swift mantis in a frenzy so that there were none left.
 
 "Well, I’ll just go hunt a copper-toothed beast. There are plenty of them near Steel Armor Shelter and there is a high chance of catching a mutant copper toothed beast, so it wouldn’t seem too suspicious if I were to produce a mutant one using the crystal." Han Sen found a habitat of copper-toothed beasts and wanted to catch one that was alone.
 
 Only able to find a small group of copper-toothed beasts, Han Sen went ahead and killed all of them but one, taking advantage of his tough armor.
 
-> "Primitive Creature Copper-Toothed Beast Killed. No Beast Soul Gained. Eat The Flesh Of Copper-Toothed Beast To Gain Zero To Ten Primitive Geno Points Randomly."
+> "Primitive creature Copper-Toothed Beast killed. No beast soul gained. Eat the flesh of Copper-Toothed Beast to gain zero to ten primitive geno points randomly."
 >
-> "Primitive Creature Copper-Toothed Beast Killed. Primitive Beast Soul Of Copper-Toothed Beast Gained. Eat The Flesh Of Copper-Toothed Beast To Gain Zero To Ten Primitive Geno Points Randomly."
+> "Primitive creature Copper-Toothed Beast killed. No beast soul gained. Eat the flesh of Copper-Toothed Beast to gain zero to ten primitive geno points randomly."
 
 Han Sen’s eyes widened in surprise. The forty-three swift mantises and thousands of ordinary creatures he had killed didn’t render a single beast soul. Now he had killed only two copper-toothed beasts and gained a beast soul!
 
@@ -34,14 +35,14 @@ The crescent spear had a bronzy sheen and a menacing look with its crescent-shap
 <div class="tables">
 <table class="beast">
 	<tr>
-		<th colspan="2">Beast Soul Gained</th>
+		<th>Beast Soul Gained</th>
 	</tr><tr>
-		<td>Primitive Copper-Toothed Beast</td>
-		<td>(Spear)</td>
+		<td>Primitive Copper-Toothed Beast<br>
+			<span class="type">(Spear)</td>
 	</tr>
 </table>
-<!-- Type of primitive beast soul of copper-toothed beast: Weapon. -->	
-</div> 
+<!-- Type of primitive beast soul of copper-toothed beast: Weapon. -->
+</div>
 
 Han Sen played with the spear for a while, looking quite fierce. He was taught basic spear skills at school. Han Sen was interested in all kinds of weapons, so he learned well.
 

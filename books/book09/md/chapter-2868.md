@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Space in His Palms
-### Chapter 2868 
+### Chapter 2868
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Buddha had issues with resources and gene talents. Only Burning Lamp was deified, but his lifespan was almost gone. His ability to level up was practically over.
+Buddha had issues with resources and gene talents. Only Burning Lamp was deified, but his lifespan was almost gone. His ability to level up was practically over.
 
 With a guy like that getting into the top 100, it made Han Sen wonder.
 

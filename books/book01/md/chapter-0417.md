@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## A Mentally Troubled Girl
-### Chapter 417 
+### Chapter 417
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen was shocked and quickly stepped back. He was about to summon the holy angel and the golden rock worm king which was severely injured. Han Sen decided to buy himself some time. After all, nothing mattered more than his own life.
+Han Sen was shocked and quickly stepped back. He was about to summon the holy angel and the golden rock worm king which was severely injured. Han Sen decided to buy himself some time. After all, nothing mattered more than his own life.
 
 As Han Sen stepped back, the girl did not attack him, but stared at him with her big eyes. There was no hostility on her face.
 

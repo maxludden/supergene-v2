@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## The Secret of Sacred’s Leader
-### Chapter 2259 
+### Chapter 2259
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “General Ghost Bone was too devious. He integrated your body into the prison’s structure. If I fully broke down the walls of the palace, I would have to destroy your body as well. Breaking the restrictions would kill you.” Han Sen looked at Fox Queen seriously.
+“General Ghost Bone was too devious. He integrated your body into the prison’s structure. If I fully broke down the walls of the palace, I would have to destroy your body as well. Breaking the restrictions would kill you.” Han Sen looked at Fox Queen seriously.
 
 “Keep going.” Fox Queen, hearing Han Sen say this, believed him even more.
 

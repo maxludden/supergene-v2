@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Tentacle Monster
-### Chapter 2581 
+### Chapter 2581
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  That monster was breathtakingly ugly. It was like a giant worm, but countless hair-like tentacles writhed from the sides of its body. The beast crawled out of the black water, its body still dripping the corrosive liquid of the sea.
+That monster was breathtakingly ugly. It was like a giant worm, but countless hair-like tentacles writhed from the sides of its body. The beast crawled out of the black water, its body still dripping the corrosive liquid of the sea.
 
 When the white tiger saw the monster, its expression changed. It roared to the sky, its mouth stretched wide open. Then, a mushroom rain began to storm down on the big monster.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## The Light Son of God
-### Chapter 705 
+### Chapter 705
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  "Is he really that strong?" Fang Mingquan asked Hua Ping with a look of disbelief.
+"Is he really that strong?" Fang Mingquan asked Hua Ping with a look of disbelief.
 
 With a wry smile, Hua Ping said, "You know the Alliance created a forfeit guide, for the Second God's Sanctuary's Divinity's Bout, yes?"
 

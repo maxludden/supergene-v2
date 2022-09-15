@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## The Evolved Angel
-### Chapter 683 
+### Chapter 683
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  A few days passed and the angel had already evolved. When it wasn't in battle mode, it didn't look different; it was still the black-haired loli. But when her battle mode was engaged, she was totally different.
+A few days passed and the angel had already evolved. When it wasn't in battle mode, it didn't look different; it was still the black-haired loli. But when her battle mode was engaged, she was totally different.
 
 She had blonde wavy hair, and she wore armor that looked like jade. Even her wings looked jade. The adiraid looked really holy, and it was difficult to look her in the eye.
 

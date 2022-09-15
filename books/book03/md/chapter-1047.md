@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Killing the Gold Bird
-### Chapter 1047 
+### Chapter 1047
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The fire of the fallen king had been almost wholly extinguished. A few short puffs of fire rose from its beak, but that was the extent of its capabilities. Its lava-like blood had solidified, and the bottom half of its body was ravaged to smoldering cinders.
+The fire of the fallen king had been almost wholly extinguished. A few short puffs of fire rose from its beak, but that was the extent of its capabilities. Its lava-like blood had solidified, and the bottom half of its body was ravaged to smoldering cinders.
 
 Han Sen drew his Phoenix Sword and delivered another strike to its exposed throat, making it gargle in pain as it helplessly drowned on its own blood.
 

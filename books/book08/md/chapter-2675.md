@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Fighting the Mantis Across the Mountains
-### Chapter 2675 
+### Chapter 2675
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “That isn’t the entirety of his power. His physical strength is just one aspect of his abilities. He isn’t some brainless creature that is tossing his entire strength into this fight,” Shale said.
+“That isn’t the entirety of his power. His physical strength is just one aspect of his abilities. He isn’t some brainless creature that is tossing his entire strength into this fight,” Shale said.
 
 “Do you think you will still be able to defeat him?” the Fox woman looked at Shale with interest.
 

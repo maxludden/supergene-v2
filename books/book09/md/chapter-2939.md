@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Space Cycle
-### Chapter 2939 
+### Chapter 2939
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen nodded, but he did not say anything.
+Han Sen nodded, but he did not say anything.
 
 After Nine Thousand King confirmed that, his expression grew even direr. He did not say anything. He quickly ran to the holy garden’s gate and ran out.
 

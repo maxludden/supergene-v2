@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Resting Time
-### Chapter 2046 
+### Chapter 2046
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen put away the scale and rested. His wounds slowly recovered. He did not plan on returning to the geno universe for a while, and instead wanted to stay in the Alliance for a bit.
+Han Sen put away the scale and rested. His wounds slowly recovered. He did not plan on returning to the geno universe for a while, and instead wanted to stay in the Alliance for a bit.
 
 The Dragon were looking for him, and although Dragon Fifteen did not know Han Sen would teleport back to the same point he had left, Han Sen still thought it’d be a bit too risky to head back for the time being.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Inferior to a Cat
-### Chapter 70 
+### Chapter 70
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Lu Weinan agreed, but remained alert when he transferred the mutant beast soul to Han Sen, worried that Han Sen would kill him once having the beast soul.
+Lu Weinan agreed, but remained alert when he transferred the mutant beast soul to Han Sen, worried that Han Sen would kill him once having the beast soul.
 
 Fortunately, Han Sen did not attempt to kill him after receiving the mutant beast soul. He returned to the fire and used a cup to take out some soup. To Lu’s surprise, Han Sen only took some soup and none of the meat.
 

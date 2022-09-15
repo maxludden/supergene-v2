@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## You’re Different
-### Chapter 1369 
+### Chapter 1369
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  When Han Sen saw the person sitting there, he was in shock. It was the woman from the Demi-God Association: the mystic woman. It was the woman who did not say a word.
+When Han Sen saw the person sitting there, he was in shock. It was the woman from the Demi-God Association: the mystic woman. It was the woman who did not say a word.
 
 “Why are you here?” After Han Sen said this, a thought sprang into his mind. He wondered if she might have simply been a mute, and if so, asking her a question was a little inconsiderate.
 

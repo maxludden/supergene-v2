@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Slaying All With Double Blades
-### Chapter 296 
+### Chapter 296
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The combat platform that Han Sen entered was named Gladiator. As an unofficial combat platform, it would not categorize the players based on their status like an official one would.
+The combat platform that Han Sen entered was named Gladiator. As an unofficial combat platform, it would not categorize the players based on their status like an official one would.
 
 On the Gladiator platform, players were able to choose to enter the unevolved section or the evolver section. Since it was not operated by the Alliance, personal information was unknown to the operator.
 

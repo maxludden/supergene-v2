@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Person in the Stone
-### Chapter 2435 
+### Chapter 2435
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Around the same time as the girl broke out of the egg, the human stone in the camp melted like ice. But instead of water, a substance that looked like blood emerged from the melting stone.
+Around the same time as the girl broke out of the egg, the human stone in the camp melted like ice. But instead of water, a substance that looked like blood emerged from the melting stone.
 
 The two guinea pigs inside the warehouse witnessed this happen, and they backed away from the stone with wide eyes. They screamed and turned to run, but when their mouths opened, they stopped mid-stride. Their eyes turned red, and a scary presence came out of them.
 

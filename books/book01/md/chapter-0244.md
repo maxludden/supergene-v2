@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Last Resort
-### Chapter 244 
+### Chapter 244
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen wanted to explore the lake, but the sacred-blood creature would not leave the area, giving Han Sen no chance.
+Han Sen wanted to explore the lake, but the sacred-blood creature would not leave the area, giving Han Sen no chance.
 
 In addition, Han Sen did not want to take the risk in case there were anything dangerous in the lake.
 

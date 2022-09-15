@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Queen in Space Garden
-### Chapter 2842 
+### Chapter 2842
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  When Barr touched Han Sen's hand, his body exploded again. He became a black sun.
+When Barr touched Han Sen's hand, his body exploded again. He became a black sun.
 
 After the explosion, Barr was supposed to regenerate his power. Instead, the onlookers saw something weird. The black sun that had exploded was grabbed and lifted by Han Sen.
 

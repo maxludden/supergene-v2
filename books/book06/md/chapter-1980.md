@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Killing Ant Queen
-### Chapter 1980 
+### Chapter 1980
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  There was no need for Han Sen to fight anymore. The purple smoke was spreading quickly across the ant queen, ripping its wounds apart and sending blood spewing out of it like a burst dam.
+There was no need for Han Sen to fight anymore. The purple smoke was spreading quickly across the ant queen, ripping its wounds apart and sending blood spewing out of it like a burst dam.
 
 Han Sen was too lazy to wait, though. He slashed again and cut the heavily-injured ant queen’s head clean off.
 

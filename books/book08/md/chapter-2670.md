@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Geno Hall’s Message
-### Chapter 2670 
+### Chapter 2670
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  They went back to crossing the wild dunes of the desert. As they walked, Han Sen continued to spot strange shapes rising out of the sand. None of the shapes seemed to be recognizable, and he had no idea where they might have come from, either.
+They went back to crossing the wild dunes of the desert. As they walked, Han Sen continued to spot strange shapes rising out of the sand. None of the shapes seemed to be recognizable, and he had no idea where they might have come from, either.
 
 After they reached an oasis, Li Keer told Han Sen, “The dimensional space here is more stable, so you can open the core area door from here. You won’t be dragged into the anti-material world.”
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Metal Doll
-### Chapter 2316 
+### Chapter 2316
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Fox Queen’s beautiful face darkened. “Are you mocking me by suggesting that I lost to the hands of your teacher?”
+Fox Queen’s beautiful face darkened. “Are you mocking me by suggesting that I lost to the hands of your teacher?”
 
 “You are looking into my words too deeply, sister.” Han Sen laughed.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Giving Out First
-### Chapter 1416 
+### Chapter 1416
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  When Han Sen learned Ghost Eye was not from Outer Sky Shelter or Sacred Shelter, he was quite disappointed.
+When Han Sen learned Ghost Eye was not from Outer Sky Shelter or Sacred Shelter, he was quite disappointed.
 
 Regardless, he had to accept the fight to meet his quota. After accepting, he went forward to meet his opponent-to-be on the designated battleground. There, Han Sen saw a panther with three eyes. Its coat of fur was dark and menacing, like the blackest coal.
 

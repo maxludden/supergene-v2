@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Little White Cat
-### Chapter 2511 
+### Chapter 2511
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The little cat was only around the size of a man’s hand. It looked very cute, and its legs were pink in color. The contrast between the pink fur of its legs and the white fur of its body was quite lovely.
+The little cat was only around the size of a man’s hand. It looked very cute, and its legs were pink in color. The contrast between the pink fur of its legs and the white fur of its body was quite lovely.
 
 The woman picked up the cat from the ground and placed it in her hands. Han Sen could see the woman’s hands in the video. Her fingers were long and delicate, and her skin was flawless. Her hands were beautiful. She didn’t have long nails or any adornments or accessories like rings.
 

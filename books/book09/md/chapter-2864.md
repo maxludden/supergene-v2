@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Sky Armor God Jail
-### Chapter 2864 
+### Chapter 2864
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “That should not be Deep Abyss Knight.” Although ordinary creatures did not know Sky Armor God, they started to wonder after seeing that power.
+“That should not be Deep Abyss Knight.” Although ordinary creatures did not know Sky Armor God, they started to wonder after seeing that power.
 
 Deep Abyss Knight was a dark element deified xenogeneic. No matter how powerful they were, they should not have had the power of a god.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## No. 1 General
-### Chapter 3017 
+### Chapter 3017
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “Sacred’s first general, Purple Fight, I have heard of your name,” Shadow God coldly said upon seeing Purple Fight. “What a shame… All you have left is just your mind now.”
+“Sacred’s first general, Purple Fight, I have heard of your name,” Shadow God coldly said upon seeing Purple Fight. “What a shame… All you have left is just your mind now.”
 
 Purple Fight ignored Shadow God. He looked down to peer at Han Yufei.
 

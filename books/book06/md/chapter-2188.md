@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Dive Heart Practice
-### Chapter 2188 
+### Chapter 2188
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  A year passed.
+A year passed.
 
 Over the course of that year, Han Sen spent a lot of time practicing Jadeskin. He wanted to get that up to the rank of Duke first and foremost. At that point, he would be able to absorb Duke genes. With one hundred Duke genes for a base, he’d be able to level up his other geno arts a little faster.
 

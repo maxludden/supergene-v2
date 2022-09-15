@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Skysword Is My Teacher
-### Chapter 1565 
+### Chapter 1565
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Luo Yu and Luo Hui’s faces were a little pale. While they were still fidgeting nervously, the spirit appeared.
+Luo Yu and Luo Hui’s faces were a little pale. While they were still fidgeting nervously, the spirit appeared.
 
 “Skysword Teacher, you are finally here. I waited for you for the longest time.” The spirit walked in front of Han Sen and bowed seriously. He spoke with much excitement.
 

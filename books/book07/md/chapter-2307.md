@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## King Dragon
-### Chapter 2307 
+### Chapter 2307
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen couldn’t believe that the dragons soaring across the landscape were actually tree roots. They had the heads of dragons, the horns of dragons, the teeth of dragons, and the scales of dragons. They looked so alive, and they didn’t look like plants at all.
+Han Sen couldn’t believe that the dragons soaring across the landscape were actually tree roots. They had the heads of dragons, the horns of dragons, the teeth of dragons, and the scales of dragons. They looked so alive, and they didn’t look like plants at all.
 
 As Han Sen watched them, a flock of birds landed on the back of one of the dragons. The dragon roared, shaking the creature’s beard and exposing its rows of razor-sharp teeth. The dragon’s roar was so loud that it shook the air, scattering all the birds. It really was a living, breathing dragon.
 

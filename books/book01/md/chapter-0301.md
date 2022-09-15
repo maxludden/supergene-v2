@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Another Nest
-### Chapter 301 
+### Chapter 301
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The ghost butterfly boomerang made a curve in the air and flew toward the target.
+The ghost butterfly boomerang made a curve in the air and flew toward the target.
 
 Yang Zikun couldn’t help smiling. He could also make the boomerang fly in such a curve. However, it was impossible to hit the bull’s eye on the targets in the back with a curve like this. The two targets were so close together that a curve was never steep enough for the boomerang to hit the bull’s eye.
 

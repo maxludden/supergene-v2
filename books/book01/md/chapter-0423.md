@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Black Crystal
-### Chapter 423 
+### Chapter 423
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen was dumbstruck by the two words "king spirit." There were many evolvers among humans. In fact, the majority of humans were evolvers. Unevolved persons were usually between sixteen and thirty years old, while the majority of humans between 20 to 300 years old were evolvers. Most people would stay in this status their whole life, and only a few could become surpasser.
+Han Sen was dumbstruck by the two words "king spirit." There were many evolvers among humans. In fact, the majority of humans were evolvers. Unevolved persons were usually between sixteen and thirty years old, while the majority of humans between 20 to 300 years old were evolvers. Most people would stay in this status their whole life, and only a few could become surpasser.
 
 It was not because average evolvers could not gain 100 geno points, but because Third God’s Sanctuary was too dangerous. If one’s fitness index was too low, it was very likely for one to die in Third God’s Sanctuary.
 

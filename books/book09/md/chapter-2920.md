@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Sunglasses
-### Chapter 2920 
+### Chapter 2920
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The skeleton’s clothing was a little bit different. It looked more like ordinary cloth or silk, and the style did not look protective. It was more like a simple fashion style.
+The skeleton’s clothing was a little bit different. It looked more like ordinary cloth or silk, and the style did not look protective. It was more like a simple fashion style.
 
 The clothes were loose like a robe and mostly blue. The sides of the clothing had black flowers for decoration. They looked loose yet somber.
 

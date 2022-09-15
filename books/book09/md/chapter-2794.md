@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## By Mistake
-### Chapter 2794 
+### Chapter 2794
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “Ha! Ha! Little Sen Sen, you look so much better than how you used to be,” Xie Qing King said while patting Han Sen on the head.
+“Ha! Ha! Little Sen Sen, you look so much better than how you used to be,” Xie Qing King said while patting Han Sen on the head.
 
 “Go to hell. You go to the Flower God Leader and see if they have finished the geno fluid that was made by the queen flower. I need it now.” Han Sen pushed Xie Qing King’s hand away. He was terribly upset by what had become of him.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## You Don’t Know My Eye
-### Chapter 2193 
+### Chapter 2193
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The moonlight was bright, and Han Sen still stood near the jade toad. He quietly absorbed all the moon and cold powers he could draw in.
+The moonlight was bright, and Han Sen still stood near the jade toad. He quietly absorbed all the moon and cold powers he could draw in.
 
 The jade toad was treating him well partially because he had proficiency in the practice of Jadeskin. After he absorbed the moon and cold power, his power and aura became closer to the jade toad’s. That was why the jade toad was okay with him being there.
 

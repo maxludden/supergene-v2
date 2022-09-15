@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Please Continue
-### Chapter 228 
+### Chapter 228
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Although Situ Qing was the top among all evolvers and was about to become a surpasser, it did not necessarily mean that he was better at black and white boxing.
+Although Situ Qing was the top among all evolvers and was about to become a surpasser, it did not necessarily mean that he was better at black and white boxing.
 
 Black and white boxing did not have much to do with strength or speed. What was important was the control of one's body, judgement and state of mind.
 

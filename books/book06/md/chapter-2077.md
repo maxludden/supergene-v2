@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Palm
-### Chapter 2077 
+### Chapter 2077
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Back on Planet Eclipse, Han Sen opened the box and found a small data card inside.
+Back on Planet Eclipse, Han Sen opened the box and found a small data card inside.
 
 Han Sen plugged it into a computer so he could view whatever info was stored on it. He quickly found that all the files were on a skill titled Moonlight. The files explained that Moon Wheel, which Han Sen had already learned, was actually a part of Moonlight. Moon Wheel King had written the explanations himself, and he referenced all sorts of skills and experiences as he went.
 

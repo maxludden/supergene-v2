@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Metamorphosis
-### Chapter 378 
+### Chapter 378
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Bang!
+Bang!
 
 The red body flew from the shell, and the white shell fell to the ground, smashing rocks and making the mountain shake. Han Sen wondered how heavy it was.
 

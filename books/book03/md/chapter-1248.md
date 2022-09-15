@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Rich
-### Chapter 1248 
+### Chapter 1248
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen tried it, too. If he stood inside the halo, he would receive buffs. The blue lightning enveloped him, increasing his power and speed. Whenever he struck an enemy, they’d become paralyzed.
+Han Sen tried it, too. If he stood inside the halo, he would receive buffs. The blue lightning enveloped him, increasing his power and speed. Whenever he struck an enemy, they’d become paralyzed.
 
 “That’s pretty good!” Han Sen was delighted with the results. Although it wasn’t a berserk beast soul, and it hadn’t opened its tenth gene lock, Disloyal Knight was far stronger than it used to be. If it consumed more lifedrops and became a berserk beast soul, it’d become as strong as Xie Qing King, Han Sen wagered.
 

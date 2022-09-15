@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Obtaining the Dragon Orb
-### Chapter 990 
+### Chapter 990
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “Bao’er, get back here!” She didn’t heed Han Sen’s call, but she did turn around and wave at him. This prompted him to follow, despite the sirens in his head. When he caught up with her, she had crawled even further forward.
+“Bao’er, get back here!” She didn’t heed Han Sen’s call, but she did turn around and wave at him. This prompted him to follow, despite the sirens in his head. When he caught up with her, she had crawled even further forward.
 
 “Don’t go in there!” Moment Queen shouted. If Han Sen died, she did, too. There was nothing for her to gain in her master’s untimely death.
 

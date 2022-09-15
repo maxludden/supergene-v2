@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Swapping Minds
-### Chapter 2418 
+### Chapter 2418
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  While Miss Mirror was speaking with two of the four Spring Rain Kings, whose names were Red Cloud and Night Wind, a sound erupted from Han Sen’s place, interrupting their discussion.
+While Miss Mirror was speaking with two of the four Spring Rain Kings, whose names were Red Cloud and Night Wind, a sound erupted from Han Sen’s place, interrupting their discussion.
 
 “I am stupid!” someone screamed.
 

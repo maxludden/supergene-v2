@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Mystery Island Appears Again
-### Chapter 618 
+### Chapter 618
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  While Queen was looking away, Han Sen summoned the Deadeye Peacock beast soul.
+While Queen was looking away, Han Sen summoned the Deadeye Peacock beast soul.
 
 A peacock-like bird appeared in front of Han Sen, flapping its wings. It was roughly two feet long.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Sacred Leader’s Secret
-### Chapter 2465 
+### Chapter 2465
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The woman held the white dragon lance loosely in one hand. She swung it almost casually, sending it to strike Meng Lie. The dragon fire of the lance was just like the fire Meng Lie himself had been employing.
+The woman held the white dragon lance loosely in one hand. She swung it almost casually, sending it to strike Meng Lie. The dragon fire of the lance was just like the fire Meng Lie himself had been employing.
 
 Meng Lie’s face paled. He didn’t dare fight the wrathful power of that dragon lance. He stumbled back and cast some gold substance chains, creating a gold shield in front of himself.
 

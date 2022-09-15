@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Jade Drum
-### Chapter 2195 
+### Chapter 2195
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Night River King wanted to kill Han Sen. He even used his crescent blade, but try as he might, he couldn’t lay so much as a finger on Han Sen. When Han Sen left the planet unharmed, Night River’s failure made him a laughingstock to all the Nobles inside Narrow Moon.
+Night River King wanted to kill Han Sen. He even used his crescent blade, but try as he might, he couldn’t lay so much as a finger on Han Sen. When Han Sen left the planet unharmed, Night River’s failure made him a laughingstock to all the Nobles inside Narrow Moon.
 
 Although ordinary Nobles wouldn’t mock Night River King to his face, they were more than happy to discuss it while his back was turned. They were all surprised that Han Sen’s shield was so powerful, and that Night River King had performed so poorly.
 

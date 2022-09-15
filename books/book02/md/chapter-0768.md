@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Mysterious Metal Door
-### Chapter 768 
+### Chapter 768
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Doused in the bright holy light, the army of creatures elected to halt their advance. They just stood there, watching the rhino rise anew like the sun.
+Doused in the bright holy light, the army of creatures elected to halt their advance. They just stood there, watching the rhino rise anew like the sun.
 
 Although the light was bright, it did not harm your eyes to look on it. It was warm and accepting. While Han Sen watched the flames, the bones crumbled away like petals from flowers.
 

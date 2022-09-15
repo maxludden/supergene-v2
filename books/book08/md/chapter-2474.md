@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Herd of Unicorns
-### Chapter 2474 
+### Chapter 2474
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Now Han Sen knew another reason that Lando hadn’t tied him up. Lando knew that the way back to the Extreme King wouldn’t be safe. If he had to hold onto Han Sen in a fight, it would be too much trouble.
+Now Han Sen knew another reason that Lando hadn’t tied him up. Lando knew that the way back to the Extreme King wouldn’t be safe. If he had to hold onto Han Sen in a fight, it would be too much trouble.
 
 Letting Han Sen run off on his own would allow Lando to focus his attention on whoever was attacking them.
 

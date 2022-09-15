@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## What Do You Want?
-### Chapter 2958 
+### Chapter 2958
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Ancient Abyss Grandmaster was waiting for Auntie Mei and the others to get rid of Han Sen in the astral instrument’s realm. Not long later, he saw the zone disappear. With its removal, a body fell out.
+Ancient Abyss Grandmaster was waiting for Auntie Mei and the others to get rid of Han Sen in the astral instrument’s realm. Not long later, he saw the zone disappear. With its removal, a body fell out.
 
 When he had a closer look, Ancient Abyss Grandmaster was shocked. He could not believe what he was seeing.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Shocking Discovery
-### Chapter 397 
+### Chapter 397
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Ning Yue slowly walked into the cold liquid of the evolution pool. Initially, he did not want to become an evolver so soon. Once he finished evolution, he must leave First God's Sanctuary in a short amount of time, otherwise his body would be damaged permanently.
+Ning Yue slowly walked into the cold liquid of the evolution pool. Initially, he did not want to become an evolver so soon. Once he finished evolution, he must leave First God's Sanctuary in a short amount of time, otherwise his body would be damaged permanently.
 
 However, Ning Yue still chose to evolve at this point. He had so many doubts about Han Sen that he felt it was worthwhile for him to evolve. Although he had summoned thirteen evolvers with their sacred geno points maxed out who worked for Starry Group in different shelters, Ning Yue still chose to evolve himself as well. Ning Yue did not want to give Han Sen any opportunity of survival. He only trusted himself with this mission.
 

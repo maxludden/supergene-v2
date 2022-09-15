@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Three-second Hero
-### Chapter 893 
+### Chapter 893
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen wished to dodge, but the phantom weight inhibited him from doing so. He was unable to move a single step, let alone evade the coin completely.
+Han Sen wished to dodge, but the phantom weight inhibited him from doing so. He was unable to move a single step, let alone evade the coin completely.
 
 Using his hand like a sword, Han Sen simulated Steel-Knight King's green light to strike the incoming projectile.
 

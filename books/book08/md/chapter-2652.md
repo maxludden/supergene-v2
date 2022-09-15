@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Headstrong Elder
-### Chapter 2652 
+### Chapter 2652
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen listened carefully as Exquisite explained the situation to him in more detail. The star tree was guarded by seniors of the Very High. Every silkworm of the Very High was allowed one chance to claim star fruit from its boughs.
+Han Sen listened carefully as Exquisite explained the situation to him in more detail. The star tree was guarded by seniors of the Very High. Every silkworm of the Very High was allowed one chance to claim star fruit from its boughs.
 
 But how many star fruit could be collected would be determined by tests conducted by the aforementioned seniors of the Very High.
 

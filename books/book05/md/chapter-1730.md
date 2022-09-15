@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## I Want to Buy Him Back
-### Chapter 1730 
+### Chapter 1730
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen made a silent gesture to Lan Se. Qiao picked up the phone.
+Han Sen made a silent gesture to Lan Se. Qiao picked up the phone.
 
 Qiao answered the call at dinner because it was Hardman calling. Everyone knew what he’d be calling for. Qiao didn’t want Han Sen to get any confusion or doubts, however, so she answered the phone right there in front of him. She didn’t let Hardman know that Lan Se was there with them, too.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Human Dollar
-### Chapter 1790 
+### Chapter 1790
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen lifted his own palm as he faced-off against Mister Ji.
+Han Sen lifted his own palm as he faced-off against Mister Ji.
 
 The maid behind Mister Ji smiled and looked on with disdain. She thought to herself, “This person is arrogant. He thinks he is so great just for killing a few centaurs. He’s actually using his own palm against the master, pah! How dare he think he can compete with the Sky-Demon Sutra.”
 

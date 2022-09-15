@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## First Person Who Dies for You
-### Chapter 1172 
+### Chapter 1172
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen used his Blood-Pulse Sutra to open nine gene locks. He lowered his red body and avoided Dry Bone’s incoming punch.
+Han Sen used his Blood-Pulse Sutra to open nine gene locks. He lowered his red body and avoided Dry Bone’s incoming punch.
 
 Dry Bone was a strong king spirit, and Han Sen’s fitness wasn’t quite up to the level necessary to reliably defeat the spirit. At the very least, he knew he couldn’t fight him head-on.
 

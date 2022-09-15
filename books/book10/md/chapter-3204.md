@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Two Moment Gods
-### Chapter 3204 
+### Chapter 3204
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “Killed Annihilation God Spirit gene race Weapon God. Got God Spirit. Found Annihilation god base.”
+“Killed Annihilation God Spirit gene race Weapon God. Got God Spirit. Found Annihilation god base.”
 
 The announcement sounded in Han Sen’s brain. It made him happy. Along with an Annihilation god base, he received Weapon God’s God Spirit.
 

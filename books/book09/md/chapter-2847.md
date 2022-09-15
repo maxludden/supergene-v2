@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Fighting Yisha
-### Chapter 2847 
+### Chapter 2847
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  He didn't see Han Sen, so Holy Pirate was going to leave. Suddenly, the lady looked in his direction, which shocked Holy Pirate.
+He didn't see Han Sen, so Holy Pirate was going to leave. Suddenly, the lady looked in his direction, which shocked Holy Pirate.
 
 He was very good at hiding his presence. Even true god elites might not find him, so how was that little girl able to?
 

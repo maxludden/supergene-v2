@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Ripe Lotus
-### Chapter 608 
+### Chapter 608
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  When Han Sen returned to the oceanside, Queen was using her sword to skewer and cook fish meat. Although the fire was only fuelled by vines and sticks, it seemed decent enough to last.
+When Han Sen returned to the oceanside, Queen was using her sword to skewer and cook fish meat. Although the fire was only fuelled by vines and sticks, it seemed decent enough to last.
 
 Han Sen saw a few other swords propped up beside the fire as well, each packed with meat. The slices of fish were gold, and the oil sizzled on them in a tantalizingly. Han Sen had to ask, "Is this for me?"
 

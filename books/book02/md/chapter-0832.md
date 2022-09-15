@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Little Fairy's Time to Shine
-### Chapter 832 
+### Chapter 832
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  "Is this the bonepool and Third-Life Bonefish?" Han Sen asked with a frown.
+"Is this the bonepool and Third-Life Bonefish?" Han Sen asked with a frown.
 
 "I don't know. If it isn't, it has to be fairly similar. Perhaps it is a sub-species?" Moment Queen said.
 

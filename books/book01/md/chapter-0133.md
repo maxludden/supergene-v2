@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Ten Thirty Tonight
-### Chapter 133 
+### Chapter 133
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  "Sen, are you going for it?" Shi looked at Han Sen with hidden excitement. He felt even Han Sen’s opponent was Li Yufeng, Han would still win. Although Shi had never seen Li Yufeng play, he believed so. Han Sen’s performance so far made him think that Han must be almost invincible in this game.
+"Sen, are you going for it?" Shi looked at Han Sen with hidden excitement. He felt even Han Sen’s opponent was Li Yufeng, Han would still win. Although Shi had never seen Li Yufeng play, he believed so. Han Sen’s performance so far made him think that Han must be almost invincible in this game.
 
 Lu Meng and Zhang Yang were also looking at Han Sen, awaiting his decision.
 

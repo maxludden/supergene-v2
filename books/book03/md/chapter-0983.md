@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Attacking and Defending Practice
-### Chapter 983 
+### Chapter 983
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen froze. He did not expect Nangong Han to ask him to perform something on stage alongside him. But with the eyes of every student now on him, he could hardly decline.
+Han Sen froze. He did not expect Nangong Han to ask him to perform something on stage alongside him. But with the eyes of every student now on him, he could hardly decline.
 
 “Tutor Nangong, how can I be of service?” Han Sen asked, as he ascended the stage.
 

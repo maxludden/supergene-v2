@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Couldn't Help It
-### Chapter 3080 
+### Chapter 3080
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen was finally aware of the reason why the bald man was staring at the water and not moving. Now that he looked at his reflection in the water, Han Sen only had one feeling
+Han Sen was finally aware of the reason why the bald man was staring at the water and not moving. Now that he looked at his reflection in the water, Han Sen only had one feeling
 
 “So f*cking handsome.” Han Sen knew there was something wrong, but he could not keep his eyes off his reflection. He really liked it. He absolutely adored it. It was like he had encountered the sort of love he had been longing for all his life.
 

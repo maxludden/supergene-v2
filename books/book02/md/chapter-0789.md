@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## A Strike That Cannot Miss
-### Chapter 789 
+### Chapter 789
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  "What is your name?" Han Sen looked at the babyfaced man.
+"What is your name?" Han Sen looked at the babyfaced man.
 
 "Luo Yin," the babyfaced man answered quickly; he didn't seem cold or ireserved.
 

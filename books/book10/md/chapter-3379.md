@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Nothing
-### Chapter 3379 
+### Chapter 3379
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen kept looking around for Break World beasts. He wanted his Break World tally to reach a hundred to see if his Super God Spirit mode might exhibit positive changes.
+Han Sen kept looking around for Break World beasts. He wanted his Break World tally to reach a hundred to see if his Super God Spirit mode might exhibit positive changes.
 
 After killing a few Break World beasts, Han Sen thought his Break World gene tally would hit a hundred. The results made him wonder.
 

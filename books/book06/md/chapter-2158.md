@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Getting Beast Souls
-### Chapter 2158 
+### Chapter 2158
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen slashed the dying Demon Bug King’s wounds. With the cut, the Demon Bug King moaned, but it didn’t die.
+Han Sen slashed the dying Demon Bug King’s wounds. With the cut, the Demon Bug King moaned, but it didn’t die.
 
 He gathered more power and used Tusk alongside his Ghost Teeth Knife. He had to strike the bug fourteen times before hearing the familiar sound he enjoyed oh-so-much.
 

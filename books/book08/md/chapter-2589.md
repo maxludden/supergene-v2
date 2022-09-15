@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Race Weapon
-### Chapter 2589 
+### Chapter 2589
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  When everyone saw the skies of the systems of chaos, they all looked happy.
+When everyone saw the skies of the systems of chaos, they all looked happy.
 
 Han Sen looked around as they emerged, but he couldn’t see a Black Hole Spider anywhere. The space crack they had just exited hung like a rift in the sky.
 

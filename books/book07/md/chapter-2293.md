@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Passing the Test
-### Chapter 2293 
+### Chapter 2293
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “Dad, the woman has no more blood. Dad… he cracked open the woman’s brain…” Bao’er kept reporting what was happening.
+“Dad, the woman has no more blood. Dad… he cracked open the woman’s brain…” Bao’er kept reporting what was happening.
 
 “Bao’er, stop looking!” Han Sen called Bao’er back into his arms. He didn’t want her to see such a bloody scene.
 

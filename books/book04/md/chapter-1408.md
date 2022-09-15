@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Who Will Open the Coffin?
-### Chapter 1408 
+### Chapter 1408
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “Outer Sky and Sacred Shelter want us to find out what is inside that coffin. That has been our primary objective since setting foot in this place, so turning back now is not an option,” Mister Li explained.
+“Outer Sky and Sacred Shelter want us to find out what is inside that coffin. That has been our primary objective since setting foot in this place, so turning back now is not an option,” Mister Li explained.
 
 Wang Zhao and Zhong Sanxiao both looked at each other, and after a moment of silence, the latter spoke. “We have to open the coffin, that much is certain. But it is a needless risk for us all to approach it. Surely, it won’t take the strength of more than one person to go over there and open it alone.”
 

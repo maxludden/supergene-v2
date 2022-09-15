@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Violent Approva
-### Chapter 2200 
+### Chapter 2200
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen frowned. He had tried using his Destiny’s Tower to try to claim the other Jade Drum, but it did not work.
+Han Sen frowned. He had tried using his Destiny’s Tower to try to claim the other Jade Drum, but it did not work.
 
 “This is bad. If I am unable to make a sound with the Jade Drum, I will have no choice but to leave it here.” Han Sen felt bad about this, but he was short on time.
 

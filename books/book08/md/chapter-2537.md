@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Big Evil Beast
-### Chapter 2537 
+### Chapter 2537
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “Who told you I was one of the Very High?” Han Sen asked with confusion.
+“Who told you I was one of the Very High?” Han Sen asked with confusion.
 
 Li Keer wanted to ask this, as well, but she didn’t have a chance to.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Entering Red Mist Valley Again
-### Chapter 1915 
+### Chapter 1915
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Sword Know and the other Viscounts were angry. They followed Han Sen and Wang Yuhang for half the day, and wherever they went, they encountered a great many xenogeneics. And after every fight, the Viscounts were a little more injured. While many xenogeneics were slain, there was no sign of the red mist spring anywhere.
+Sword Know and the other Viscounts were angry. They followed Han Sen and Wang Yuhang for half the day, and wherever they went, they encountered a great many xenogeneics. And after every fight, the Viscounts were a little more injured. While many xenogeneics were slain, there was no sign of the red mist spring anywhere.
 
 In addition, Han Sen took all the materials from the xenogeneics they slew. It upset them quite a bit.
 

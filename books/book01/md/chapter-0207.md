@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Peerless
-### Chapter 207 
+### Chapter 207
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Chapter 207 – Peerless
+Chapter 207 – Peerless
 
 Boom!
 

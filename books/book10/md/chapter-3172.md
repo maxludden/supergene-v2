@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Misunderstanding
-### Chapter 3172 
+### Chapter 3172
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “Fei Fei, do you have something to say?” Ever since Feng Fei Fei had returned, Han Sen felt as if she had been looking at him differently.
+“Fei Fei, do you have something to say?” Ever since Feng Fei Fei had returned, Han Sen felt as if she had been looking at him differently.
 
 Feng Fei Fei felt weirded out. She strangely looked at Han Sen. She hesitated for a while before mustering the courage to finally ask, “Mister Han, do you like Yin Yin?”
 
@@ -29,7 +30,9 @@ Everything was explained. Han Sen was not there on her behalf. He was only in th
 
 Although Han Sen was an excellent man, he was already the father of one child. Feng Yin Yin was just a kid. To let her marry a single father was something she could not accept.
 
-“Don’t worry, Yin Yin knows her stuff. She knows how to measure things and make sound decisions. She will not be led astray.” Han Sen thought Feng Fei Fei was suggesting that he had been spoiling Feng Yin Yin too much and risked turning her into a spoiled brat. When those words entered Feng Fei Fei’s ears, they made her face start looking even weirder. She gnashed her teeth and said, “Mister Han, you are free to say that, but Yin Yin is too small. She cannot really explain how she truly feels. She is not ready to be a stepmother just yet. Please, give her some time. When she grows up, she can choose as she sees fit. If she still decides to be with you, then that is fine. I will not stand in the way.”
+“Don’t worry, Yin Yin knows her stuff. She knows how to measure things and make sound decisions. She will not be led astray.” Han Sen thought Feng Fei Fei was suggesting that he had been spoiling Feng Yin Yin too much and risked turning her into a spoiled brat. 
+
+When those words entered Feng Fei Fei’s ears, they made her face start looking even weirder. She gnashed her teeth and said, “Mister Han, you are free to say that, but Yin Yin is too small. She cannot really explain how she truly feels. She is not ready to be a stepmother just yet. Please, give her some time. When she grows up, she can choose as she sees fit. If she still decides to be with you, then that is fine. I will not stand in the way.”
 
 Han Sen was frozen. He had a strange and shocked expression. “What? No. Um, what are you talking about?”
 
@@ -45,7 +48,7 @@ When Feng Fei Fei heard what he had to say about himself, she profusely blushed.
 
 Before Han Sen could formulate a sentence of some shaky cohesion, Feng Fei Fei was long gone. He was left alone.
 
-Han Sen felt depressed about it, but he also felt a nasty chill run down his spine. It was like there was a spirit staring at him from behind. Han Sen turned around to have a look at what it might have been. He saw Bao’er holding Small Cat. She was sitting on a small, flowery altar. Her were flashing with a weird type of light. She was also smiling at him.
+Han Sen felt depressed about it, but he also felt a nasty chill run down his spine. It was like there was a spirit staring at him from behind. Han Sen turned around to have a look at what it might have been. He saw Bao’er holding Small Cat. She was sitting on a small, flowery altar. Her eyes were flashing with a weird type of light. She was also smiling at him.
 
 “Dad, I saw everything that happened there.” Bao’er’s lips were lifted. She smiled at Han Sen.
 

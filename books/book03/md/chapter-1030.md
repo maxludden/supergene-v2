@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Daddy Is Popular
-### Chapter 1030 
+### Chapter 1030
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen, browsing the aisles of the supermarket, held Bao’er in his arms. He had spent so much time in the sanctuary, returning to the conveniences of civilization made for a nice change of pace.
+Han Sen, browsing the aisles of the supermarket, held Bao’er in his arms. He had spent so much time in the sanctuary, returning to the conveniences of civilization made for a nice change of pace.
 
 Bao’er and Han Sen each had an ice cream, and they were delicious.
 

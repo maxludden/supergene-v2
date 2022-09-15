@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Peeking
-### Chapter 3353 
+### Chapter 3353
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The small white rat could not speak, so it only ran forward and stopped a little. When Han Sen caught up, it kept on running.
+The small white rat could not speak, so it only ran forward and stopped a little. When Han Sen caught up, it kept on running.
 
 It was unknown how long it had been running, and then the small white rat bent its waist and slid down a copper pillar.
 

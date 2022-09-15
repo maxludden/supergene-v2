@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Death Goddess
-### Chapter 1587 
+### Chapter 1587
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Ghost Eye had already schemed what to do, and as soon as the deal was done, he contacted the buyer. But as soon as he made contact with the person, he lost his first rank position.
+Ghost Eye had already schemed what to do, and as soon as the deal was done, he contacted the buyer. But as soon as he made contact with the person, he lost his first rank position.
 
 “Ghost Eye, are you trying to trick me again?” The spirit that wished to make a trade with Ghost Eye spoke with a cold tone of voice.
 

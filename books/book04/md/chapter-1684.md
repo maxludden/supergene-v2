@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Accidentally Meeting Again
-### Chapter 1684 
+### Chapter 1684
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Crash!
+Crash!
 
 Han Sen hit the ground hard, writhing around as if his bones were about to snap. He felt sure that the composition of his body had become softer.
 

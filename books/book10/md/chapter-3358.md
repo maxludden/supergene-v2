@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## The Leader's Real Face
-### Chapter 3358 
+### Chapter 3358
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Bury Path God nodded. “I am not sure if Wu Wei Dao Alpha had the gene prototype or if Qin Xiu really is the Wu Wei Dao Alpha after reincarnating.
+Bury Path God nodded. “I am not sure if Wu Wei Dao Alpha had the gene prototype or if Qin Xiu really is the Wu Wei Dao Alpha after reincarnating.
 
 Big sky demon and Ancient Devil retreated into deep thought. Bury Path God did not say anything more. It was not long before the entire hall fell silent. It was so quiet that if a pin was dropped, it would end up shattering people’s eardrums.
 

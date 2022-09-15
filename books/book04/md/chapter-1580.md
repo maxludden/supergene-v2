@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Fight Destroyer Wolf
-### Chapter 1580 
+### Chapter 1580
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “You’re being suicidal!” The Destroyer Wolf sneered, watching from the side. It wasn’t trying to stop the black dragon at all.
+“You’re being suicidal!” The Destroyer Wolf sneered, watching from the side. It wasn’t trying to stop the black dragon at all.
 
 The black dragon’s trident slammed into the Sacred egg, but it immediately became stuck to the egg, and the egg began absorbing its power. It ended up just like the Rolling Dragon King.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Tutor Han on Stage
-### Chapter 982 
+### Chapter 982
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Having dinner with Ji Yanran, Han Sen informed her that he would be teaching students in archery.
+Having dinner with Ji Yanran, Han Sen informed her that he would be teaching students in archery.
 
 At this, she frowned and said, “If you’re going, that might be a problem.”
 

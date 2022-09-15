@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Strange Fish
-### Chapter 1045 
+### Chapter 1045
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen lowered his head and saw a fat goldfish swimming towards him.
+Han Sen lowered his head and saw a fat goldfish swimming towards him.
 
 The goldfish was around the size of a hand, with a tail that was reminiscent of a butterfly wing. Its head was peculiar, almost like a lionhead goldfish.
 

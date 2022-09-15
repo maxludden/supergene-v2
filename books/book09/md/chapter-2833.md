@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## The Same Skill That Wouldn’t Lose Twice
-### Chapter 2833 
+### Chapter 2833
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Fortunately, this is just a 20-year-old Very High Leader. If it was the Very High Leader of the present, it would not be so easy to trick him. Han Sen felt a modicum of relief, which led him to sigh.
+Fortunately, this is just a 20-year-old Very High Leader. If it was the Very High Leader of the present, it would not be so easy to trick him. Han Sen felt a modicum of relief, which led him to sigh.
 
 Very High Leader stared at Han Sen and asked, "Can you really learn geno arts from just a glance?"
 

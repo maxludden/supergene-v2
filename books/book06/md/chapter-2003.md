@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Stone Cow
-### Chapter 2003 
+### Chapter 2003
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Shi Beifeng’s people had not reacted yet. They were still holding the cage while they stared at the stumbling Crystal Kirin in shock.
+Shi Beifeng’s people had not reacted yet. They were still holding the cage while they stared at the stumbling Crystal Kirin in shock.
 
 The Crystal Kirin lifted itself up off the ground. It wished to fly off, but before long, it fell back down again.
 

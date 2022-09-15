@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## White Tiger
-### Chapter 603 
+### Chapter 603
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  "How about we allow this temporary friend of ours to join us?" Sky Jealousy suggested, her presence breathing out an aura of elegance.
+"How about we allow this temporary friend of ours to join us?" Sky Jealousy suggested, her presence breathing out an aura of elegance.
 
 Tyrant furrowed his brows at the prospect but did not say anything in opposition. If the others had arrived without issue, he wouldn't have given the idea a second thought. But now, there were only five of them left. If they wanted to prove the existence of the creatures they sought, bringing Han Sen and the silver fox along to shoo off any additional mobs would be a great help.
 

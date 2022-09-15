@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## God Spirit Blood Pulse
-### Chapter 3038 
+### Chapter 3038
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “It really is Evil Lotus God’s god temple. Why does this world have the Evil Lotus God’s god temple? What is the difference between the god temples and their existence in both worlds?” Han Sen thought.
+“It really is Evil Lotus God’s god temple. Why does this world have the Evil Lotus God’s god temple? What is the difference between the god temples and their existence in both worlds?” Han Sen thought.
 
 Mister Yang had told him that each city in the universe’s kingdoms had a god temple, and the god temples had existed first. The human cities were built around the god temples.
 

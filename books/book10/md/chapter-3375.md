@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Flying Out of the Sky
-### Chapter 3375 
+### Chapter 3375
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “Dad!” Bao’er saw Han Sen and immediately ran up to him.
+“Dad!” Bao’er saw Han Sen and immediately ran up to him.
 
 “Bao’er, let’s go.” Han Sen picked up Bao’er and readied himself to leave Burning Red Sky. Before they could leave, many space tunnels opened in Burning Red Sky. They looked similar to black holes. Many scary creatures were coming through the black holes.
 

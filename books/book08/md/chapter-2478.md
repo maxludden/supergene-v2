@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Demon Hell Dragon Tattoo
-### Chapter 2478 
+### Chapter 2478
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The Moon doppelganger exploded. Han Sen’s true self appeared on the other side. Without hesitating, Han Sen turned into a blood shadow and fired himself into the eyes of a Duke class unicorn.
+The Moon doppelganger exploded. Han Sen’s true self appeared on the other side. Without hesitating, Han Sen turned into a blood shadow and fired himself into the eyes of a Duke class unicorn.
 
 Pang!
 

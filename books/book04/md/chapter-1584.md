@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Suppress Wolf King
-### Chapter 1584 
+### Chapter 1584
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “That Destroyer Wolf will be a big problem if I don’t kill it.” Han Sen frowned as he watched the Destroyer Wolf roaming wherever it pleased.
+“That Destroyer Wolf will be a big problem if I don’t kill it.” Han Sen frowned as he watched the Destroyer Wolf roaming wherever it pleased.
 
 Destroyer Wolf had seen him become a super king spirit, and the wolf was definitely an enemy now. Han Sen certainly wanted to kill it, but the Destroyer Wolf’s powers of death and space were a difficult combo to deal with. It could easily travel between space faults, so it would be difficult to kill.
 

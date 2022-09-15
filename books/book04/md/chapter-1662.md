@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## The Truth
-### Chapter 1662 
+### Chapter 1662
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “After ten years, she hasn’t grown up. Don’t you think that’s strange?” God’s Retribution said.
+“After ten years, she hasn’t grown up. Don’t you think that’s strange?” God’s Retribution said.
 
 Han Sen sighed, and he knew this was something he couldn’t hide from. He was prepared for such questions, though.
 

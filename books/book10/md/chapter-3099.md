@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Sky Jade
-### Chapter 3099 
+### Chapter 3099
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Pang!
+Pang!
 
 The room’s door was blown open by Si Tu Ya, but no one was able to see what was inside. All they saw was a strong, holy white shadow blocking the door.
 

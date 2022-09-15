@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Silver-eye Ice Snake King
-### Chapter 561 
+### Chapter 561
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The big fluffy tail of the silver fox hooked Han Sen's legs, and tickled him as it moved up and down.
+The big fluffy tail of the silver fox hooked Han Sen's legs, and tickled him as it moved up and down.
 
 Han Sen was beginning to realize that the silver fox had no intention of causing him harm, so he crouched to hold him. Without resisting, the silver fox allowed itself to be picked up in Han Sen's arm and thoroughly hugged. The fox's tail wagged in ecstasy.
 

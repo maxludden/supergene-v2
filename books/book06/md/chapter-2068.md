@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Refining the Jade Spirit of the Seventh Floor
-### Chapter 2068 
+### Chapter 2068
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “I think it was just a coincidence,” Han Sen said with a shrug.
+“I think it was just a coincidence,” Han Sen said with a shrug.
 
 Thousand Feather Crane did not believe in coincidences, but these things happened around Han Sen often. He was used to that.
 

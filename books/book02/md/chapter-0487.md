@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Berserk Gargoyle
-### Chapter 487 
+### Chapter 487
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The injury on Han Sen's chest had stopped bleeding. Although it was a decision he made at the moment he saw the spirit girl shifting into a warrior, Han Sen executed it perfectly with his peerless control of his body and timing.
+The injury on Han Sen's chest had stopped bleeding. Although it was a decision he made at the moment he saw the spirit girl shifting into a warrior, Han Sen executed it perfectly with his peerless control of his body and timing.
 
 Although the slim silver sword pierced his body, Han Sen managed to avoid all his inner organs. It stabbed him in the gap between his heart and lung. In addition, his heart was the toughest among all inner organs because of the Heresy Mantra. It was probably even tougher than his muscles, which was why Han Sen dared to take such a great risk. It looked very scary, but the danger was not so great and the result was great.
 

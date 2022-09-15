@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Really Didn't Teach You?
-### Chapter 754 
+### Chapter 754
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Luo Sulan smiled and said, "Technically, there are two problems. First, I was exiled from my family for running off to marry your father. As such, I can hardly be considered a part of the Luo family. Second, you're asking why we were bullied by our second uncles and aunties? That's a little harder to explain. We owe them; let's leave it at that."
+Luo Sulan smiled and said, "Technically, there are two problems. First, I was exiled from my family for running off to marry your father. As such, I can hardly be considered a part of the Luo family. Second, you're asking why we were bullied by our second uncles and aunties? That's a little harder to explain. We owe them; let's leave it at that."
 
 "We owe them? What is that supposed to mean?" Han Sen didn't expect that answer, and he ended up looking at Luo Sulan with surprise.
 

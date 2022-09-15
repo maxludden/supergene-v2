@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Show Us What You Got
-### Chapter 107 
+### Chapter 107
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  "No way, Fist Guy. This is the guy you told us about?"
+"No way, Fist Guy. This is the guy you told us about?"
 
 "Ass Freak is the master your friend recommended?"
 

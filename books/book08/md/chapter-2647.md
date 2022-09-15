@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Fishing
-### Chapter 2647 
+### Chapter 2647
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen was a little bit curious. He sat down near where the Underworld Silk disappeared into the clouds, and he decided to wait and see what happened.
+Han Sen was a little bit curious. He sat down near where the Underworld Silk disappeared into the clouds, and he decided to wait and see what happened.
 
 But after he waited for a whole hour, the Underworld Silk hadn’t moved an inch. He couldn’t tell if it was working or not.
 

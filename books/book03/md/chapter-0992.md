@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## The Reversed Dragon Scale
-### Chapter 992 
+### Chapter 992
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Moment Queen’s heart pounded in her chest as she watched Bao’er hit the floor with the ring in gleeful childplay. She wished to snatch it back.
+Moment Queen’s heart pounded in her chest as she watched Bao’er hit the floor with the ring in gleeful childplay. She wished to snatch it back.
 
 But if she showed any interest in the ring, she knew Han Sen would take it away from her for good.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Rushing in
-### Chapter 2951 
+### Chapter 2951
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen knew that it was not because the time area was useless. It was because Old Vulture was simply too fast. It was faster than what the time area was able to do to it.
+Han Sen knew that it was not because the time area was useless. It was because Old Vulture was simply too fast. It was faster than what the time area was able to do to it.
 
 This was the first time Han Sen had witnessed someone use speed to break his time area. When it came to speed, Old Vulture had to be the very best in the entire universe. No one should have been able to fight him.
 

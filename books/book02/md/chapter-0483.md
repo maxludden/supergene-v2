@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Ghost-pawed Ferret
-### Chapter 483 
+### Chapter 483
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Since he had practiced Jadeskin, Han Sen was immune to most poisons. After he made the first breakthrough, normal poisons were completely useless on him. The fact that the toxins of this purple ferret were effective on him showed how strong the creature was.
+Since he had practiced Jadeskin, Han Sen was immune to most poisons. After he made the first breakthrough, normal poisons were completely useless on him. The fact that the toxins of this purple ferret were effective on him showed how strong the creature was.
 
 Luckily, Jadeskin was still effective. After the purple blood flowed for a while, his blood turned red and the injury started to heal.
 

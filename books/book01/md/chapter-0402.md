@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## I Choose to Kill
-### Chapter 402 
+### Chapter 402
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The sword skills called Que Yi focused on sacrificing oneself to complete other people's attack. The thirteen evolvers were from different shelters and did not have much time to practice their collaboration. However, with Ning Yue present, they were connected into one killing machine. Even Han Sen could not find any cracks.
+The sword skills called Que Yi focused on sacrificing oneself to complete other people's attack. The thirteen evolvers were from different shelters and did not have much time to practice their collaboration. However, with Ning Yue present, they were connected into one killing machine. Even Han Sen could not find any cracks.
 
 Ning Yue looked extremely calm. All his moves looked effortless but followed some incredible rules. Although his attacks were not aggressive, he managed to turn the moves of the other thirteen evolvers into a part of himself, forcing Han Sen into the vines.
 

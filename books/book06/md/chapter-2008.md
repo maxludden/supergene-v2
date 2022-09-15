@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Demon Stone Cow
-### Chapter 2008 
+### Chapter 2008
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Dong!
+Dong!
 
 After delivering a slash to the Stone Cow’s body, Han Sen fell back and became petrified. Within a second, Han Sen had removed the petrification and moved forward to strike the Stone Cow again.
 

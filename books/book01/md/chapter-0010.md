@@ -1,23 +1,24 @@
-Title:Bloody Slayer 
-Chapter:10 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+Title:Bloody Slayer
+Chapter:10
+Section:1
+Book:1
+CSS:../Styles/style.css
 viewport: width=device-width
-  
+
 ## Bloody Slayer
-### Chapter 10 
+### Chapter 10
+
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
-  
 
-  
-  Han Sen was hiding on the stone hill when the sacred-blood creature charged in his direction. As he was deciding whether to retreat, he saw Son of Heaven shoot down the sacred-blood creature.
+
+
+Han Sen was hiding on the stone hill when the sacred-blood creature charged in his direction. As he was deciding whether to retreat, he saw Son of Heaven shoot down the sacred-blood creature.
 
 Anger surged and Han Sen rushed down the stone hill while summoning the bronze crescent spear. He shot the spear at the monster and hit it in the wounded chest, killing the dying creature.
 
-> "Sacred-Blood Bloody Slayer Killed. Sacred-Blood Beast Soul Bloody Slayer Gained. Eat the Flesh of Bloody Slayer to Gain Zero to Ten Sacred Geno Points Randomly."
+> "Sacred-Blood Bloody Slayer killed. Sacred-Blood beast soul Bloody Slayer gained. Eat the flesh of Bloody Slayer to gain zero to ten sacred geno points randomly."
 
 The voice in the back of his head brought him intense joy. He had just gained another sacred-blood beast soul! His luck was too good to believe.
 
@@ -42,14 +43,14 @@ Although it was too heavy to carry, Han Sen would never leave behind such an exc
 <div class="tables">
 	<table class="beast">
 		<tr>
-			<th colspan="2">Beast Soul Gained</th>
+			<th>Beast Soul Gained</th>
 		</tr><tr>
-			<td>Sacred-Blood Bloody Slayer</td>
-			<td>(Shapeshifting)</td>
+			<td>Sacred-Blood Bloody Slayer<br>
+				<span class="type">(Shapeshifting)</td>
 		</tr>
 	</table>
-	<!-- Type of Sacred-Blood Bloody Slayer’s Beast Soul: Shapeshifting.--> 
-</div> 
+	<!-- Type of Sacred-Blood Bloody Slayer’s Beast Soul: Shapeshifting.-->
+</div>
 
 
 Without thinking, Han Sen summoned the beast soul of bloody slayer and a majestic shadow galloped out, looking just like the monster, only missing the giant axe.

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Cold Light Charm
-### Chapter 2817 
+### Chapter 2817
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Of course, after Second Uncle said that, Evil Lotus flashed by their heads and landed on a mechanical ruin that was not far away.
+Of course, after Second Uncle said that, Evil Lotus flashed by their heads and landed on a mechanical ruin that was not far away.
 
 The xenogeneic was chasing Evil Lotus God. When it saw Second Uncle and the others, it spat out some scary and pink beams of light.
 

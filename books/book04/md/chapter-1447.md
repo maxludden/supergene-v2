@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Because I’m the Master of This Shelter
-### Chapter 1447 
+### Chapter 1447
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen brought Snow Ape to Shadow Shelter, feeling exuberantly happy.
+Han Sen brought Snow Ape to Shadow Shelter, feeling exuberantly happy.
 
 Along the way, Han Sen asked the creature many questions. Snow Ape was the heir of a super creature known as Daymoon Ape. After he was born, though, for reasons he never learned, he was unable to see his parents. Not long after that, Nan Litian captured him and brought him back to the shelter to conducts tests and experiments on him.
 

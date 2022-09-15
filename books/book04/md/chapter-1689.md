@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Treasure in the Box
-### Chapter 1689 
+### Chapter 1689
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Five crystal-looking fingers were held against the box like the keys of a piano.
+Five crystal-looking fingers were held against the box like the keys of a piano.
 
 The thing started to climb out of the metal box in a strange manner, and as it left, the light inside the container dimmed. When the hand came out of the metal box, Han Sen and Old Cat were both shocked seeing it.
 

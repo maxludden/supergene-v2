@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Teacher Han
-### Chapter 2485 
+### Chapter 2485
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  When Lando saw the deified Demon approaching, he tensed.
+When Lando saw the deified Demon approaching, he tensed.
 
 “Please don’t misunderstand, I mean no harm! I would just like a chat with Teacher Han,” the deified Demon shouted, lifting his hands.
 

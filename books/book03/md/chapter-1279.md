@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Strong Killing
-### Chapter 1279 
+### Chapter 1279
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “That… looks like a human.” Xue Chen observed the presence of a young man approaching, but he couldn’t be entirely sure he was a human, given the brashness an individual would require to actually stroll up to a shelter such as that.
+“That… looks like a human.” Xue Chen observed the presence of a young man approaching, but he couldn’t be entirely sure he was a human, given the brashness an individual would require to actually stroll up to a shelter such as that.
 
 Furthermore, if it really was a young human, why would they all be in such a state of panic, and why would Blood River King himself be concerned?
 

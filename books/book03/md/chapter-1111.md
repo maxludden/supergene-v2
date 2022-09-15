@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Squeezing Beast Souls
-### Chapter 1111 
+### Chapter 1111
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  When the super-class mantis fell, all the other mantises that were left on the field scrambled and scurried away. Uncaring for the stragglers, Han Sen returned to the courtyard to examine the blood-egg tree.
+When the super-class mantis fell, all the other mantises that were left on the field scrambled and scurried away. Uncaring for the stragglers, Han Sen returned to the courtyard to examine the blood-egg tree.
 
 Han Sen was not sure if the fruits it bore had matured yet, but he knew whatever he could harvest was different then what he’d usually get. He believed the fist-sized fruit would produce creatures, and weren’t for proper eating.
 

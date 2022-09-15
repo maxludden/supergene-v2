@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## The Power to Conquer a King
-### Chapter 2632 
+### Chapter 2632
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “I am the greatest in my league.” Exquisite lay on the ground. She stared at Han Sen and didn’t try to move. She thought about what Han Sen had told her, and complex emotions washed over her.
+“I am the greatest in my league.” Exquisite lay on the ground. She stared at Han Sen and didn’t try to move. She thought about what Han Sen had told her, and complex emotions washed over her.
 
 “Brother Han is… He’s too strong…”
 

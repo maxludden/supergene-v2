@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Let Go of That Peacock
-### Chapter 2494 
+### Chapter 2494
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The distraught Tianxia Peacock King flapped its wings wildly. It was blazing with rainbow light, and its power ripped haphazardly through the sky, tearing trenches in space wherever it went.
+The distraught Tianxia Peacock King flapped its wings wildly. It was blazing with rainbow light, and its power ripped haphazardly through the sky, tearing trenches in space wherever it went.
 
 Its efforts were futile, though. Its belly was still expanding. The Tianxia Peacock King kept crying.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Sacrificing Everything for Me
-### Chapter 3425 
+### Chapter 3425
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Wang Yuhang’s situation was not going to last. His Super God Spirit body did not do direct damage. All it did was affect the mood of an opponent. He was unable to kill an opponent.
+Wang Yuhang’s situation was not going to last. His Super God Spirit body did not do direct damage. All it did was affect the mood of an opponent. He was unable to kill an opponent.
 
 The worst thing about it was that in his battleground, there was only him and one other creature. That made his Super God Spirit body’s usefulness rather low and next to useless.
 

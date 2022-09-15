@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Fighting Dogs
-### Chapter 2477 
+### Chapter 2477
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The Dragon’s groan rolled across the sky, and blood showered down like rain.
+The Dragon’s groan rolled across the sky, and blood showered down like rain.
 
 Lando was fighting the deified unicorn once more, but all Han Sen could see was the countless droplets of blood in the sky. They landed on the clouds and soaked into them. It was obviously Lando’s Dragon blood.
 

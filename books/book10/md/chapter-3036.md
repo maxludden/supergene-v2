@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Seeing God Temples Again
-### Chapter 3036 
+### Chapter 3036
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Ancient Big God Mountain was an old mountain. Although the name sounded like Ancient God City, it was not in Ancient Big God Mountain. It was somewhere quiet near the mountain.
+Ancient Big God Mountain was an old mountain. Although the name sounded like Ancient God City, it was not in Ancient Big God Mountain. It was somewhere quiet near the mountain.
 
 Han Sen dressed in black clothing and followed Mister Yang to Ancient God City. He curiously looked at everything in Ancient God City.
 

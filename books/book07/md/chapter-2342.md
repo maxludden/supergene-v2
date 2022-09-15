@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Kingese Blowing Up the Body
-### Chapter 2342 
+### Chapter 2342
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  During the process of becoming a Duke, Han Sen’s Ghost Bone Power was wholly refined. Not a single drop of it remained. And that was just to bring him up to Duke level. The Story of Genes had to be fed a scary amount of power for ascension.
+During the process of becoming a Duke, Han Sen’s Ghost Bone Power was wholly refined. Not a single drop of it remained. And that was just to bring him up to Duke level. The Story of Genes had to be fed a scary amount of power for ascension.
 
 The Kingese symbols continued to fall, and it kept pushing The Story of Genes to run full throttle.
 

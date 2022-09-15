@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Admiring the View of Hell Together
-### Chapter 3032 
+### Chapter 3032
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen’s body moved. His movement was not visible, but he was already coming before Qin Xiu. He grabbed Qin Xiu’s head and pushed downward.
+Han Sen’s body moved. His movement was not visible, but he was already coming before Qin Xiu. He grabbed Qin Xiu’s head and pushed downward.
 
 Pang!
 

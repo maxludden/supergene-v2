@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Fighting Dragon Eigh
-### Chapter 2117 
+### Chapter 2117
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  After having witnessed Evil Eye and Rage Man’s battle, Han Sen was in shock. It was primarily due to the manner in which Evil Eye won the fight. Rage Man’s bolt of power had been a combination of five different elemental energies, and Evil Eye broke it in a way that was hauntingly reminiscent of Super Spank. The strike had eliminated the sequence structure of the opponent’s technique and then gone even further to rebuild it.
+After having witnessed Evil Eye and Rage Man’s battle, Han Sen was in shock. It was primarily due to the manner in which Evil Eye won the fight. Rage Man’s bolt of power had been a combination of five different elemental energies, and Evil Eye broke it in a way that was hauntingly reminiscent of Super Spank. The strike had eliminated the sequence structure of the opponent’s technique and then gone even further to rebuild it.
 
 “Evil Eye has a power that is extremely similar to the Dongxuan Sutra. He re御 will be a difficult foe to deal with.” Han Sen frowned.
 

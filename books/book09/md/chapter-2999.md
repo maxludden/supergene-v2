@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Moment's End
-### Chapter 2999 
+### Chapter 2999
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Bao’er kept swinging and swinging. There were crazy, mad explosions going on. Scary powers exploded, wave by wave. Because the destructive power would damage everybody, Moment God had to be fast. She was still able to go through it. Even if a moment was forever, the kill sky hammer’s power was able to break it. Time rewind only rewound a short portion of time. It was impossible to block the hammer’s explosive powers. Seeing that the light scissors in Han Sen’s hands were going to break Golden Growler’s time trap for a second time, one easily saw the Moment God frown.
+Bao’er kept swinging and swinging. There were crazy, mad explosions going on. Scary powers exploded, wave by wave. Because the destructive power would damage everybody, Moment God had to be fast. She was still able to go through it. Even if a moment was forever, the kill sky hammer’s power was able to break it. Time rewind only rewound a short portion of time. It was impossible to block the hammer’s explosive powers. Seeing that the light scissors in Han Sen’s hands were going to break Golden Growler’s time trap for a second time, one easily saw the Moment God frown.
 
 “Kill Sky God really was not enough to be a success or loser,” Moment God coldly said. She raised her jade hand and pulled out a strand of hair. Her hair, which had been tied up, fell down like a waterfall. It reached her ankles.
 

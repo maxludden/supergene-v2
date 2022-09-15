@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Dark Silkworm
-### Chapter 739 
+### Chapter 739
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen watched the scorpion for a while as it continued to dig. It kept on digging until it vanished from sight, and all Han Sen could see was the remaining presence of a hole.
+Han Sen watched the scorpion for a while as it continued to dig. It kept on digging until it vanished from sight, and all Han Sen could see was the remaining presence of a hole.
 
 Han Sen summoned his wings and flew up high to get an aerial view of the hole. Upon inspection, he noted that the hole was a dozen meters deep and it eventually opened up into a cave or cavern of sorts.
 

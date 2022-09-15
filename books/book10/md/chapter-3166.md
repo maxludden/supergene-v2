@@ -6,30 +6,31 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## The Fight Begins
-### Chapter 3166 
+### Chapter 3166
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  <div class="tables">
+<div class="tables">
     <table class="beast">
         <tr>
-            <th colspan="2">Gene Race</th>
+            <th>Gene Race</th>
         </tr><tr>
-            <td>Mutant God Class</td>
-            <td>Blood God Dragon</td>
+            <td>Blood God Dragon<br>
+            	<span class="type">Mutant God Class</td>
         </tr><tr>
-            <td colspan="2" class="note">Note: Ultimate</td>
+            <td class="note">Form: Ultimate</td>
         </tr><tr>
-            <th colspan="2">Skills</th>
+            <th>Skills</th>
         </tr><tr>
-            <td colspan="2">Blood Dragon Flying Into the Sky</td>
+            <td>Blood Dragon Flying into the Sky</td>
         </tr><tr>
-            <td colspan="2">Dragon Consummation</td>
+            <td>Dragon Consummation</td>
         </tr><tr>
-            <td colspan="2">God-blood Change</td>
+            <td>God-Blood Change</td>
         </tr>
     </table>
     <!--Blood God Dragon: Mutant god class (ultimate mode)-->

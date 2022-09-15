@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Back to Space Garden
-### Chapter 3408 
+### Chapter 3408
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  A new type of evolution meant there was no pre-determined direction for him to follow. There was no prior experience he could use for references. Han Sen would not even know how to walk along the paths that now lay before him.
+A new type of evolution meant there was no pre-determined direction for him to follow. There was no prior experience he could use for references. Han Sen would not even know how to walk along the paths that now lay before him.
 
 It was like one person traversing a foggy land alone. The next step might have him stumble upon holy fruit, god grass, gold mountains, or silver mountain. Stepping in another direction might have him plummet from a 10,000-foot-high cliff, encounter toxic snakes, and terrifying beasts. One step could lead to heaven, whereas another step could lead straight to hell.
 

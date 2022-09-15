@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Battling Elysian Moon
-### Chapter 1484 
+### Chapter 1484
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The vortex was so strong. Han Sen tried his hardest to resist, but he was still being pulled towards the umbrella. He was going to be sucked inside.
+The vortex was so strong. Han Sen tried his hardest to resist, but he was still being pulled towards the umbrella. He was going to be sucked inside.
 
 The creatures and spirits saw Han Sen unable to resist, and they felt it was a great shame. A great swordmaster of spectacular skill was going to die before his prime.
 

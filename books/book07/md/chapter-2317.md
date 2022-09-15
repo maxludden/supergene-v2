@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Water Area
-### Chapter 2317 
+### Chapter 2317
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen drew his Ghost Teeth Knife as he felt a chain of water wrap around him. It bound him tightly, and his arms were completely restrained.
+Han Sen drew his Ghost Teeth Knife as he felt a chain of water wrap around him. It bound him tightly, and his arms were completely restrained.
 
 The King class guard didn’t move to attack. He just allowed his AoE to bring Han Sen closer. Han Sen’s limbs were outstretched as he was brought to float before the King guard.
 

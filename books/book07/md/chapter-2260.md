@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Haven
-### Chapter 2260 
+### Chapter 2260
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “If the sanctuaries that Fox Queen mentioned are the sanctuaries that I came from, then the undying spirits she mentioned might be the spirits that I’m familiar with. Only the spirits in the sanctuaries are capable of living forever. If they are killed, they can always respawn at their spirit stone. As long as the spirit stone remains intact, they can live forever.” Han Sen believed those spirits were the spirits that the Sacred Leader had researched.
+“If the sanctuaries that Fox Queen mentioned are the sanctuaries that I came from, then the undying spirits she mentioned might be the spirits that I’m familiar with. Only the spirits in the sanctuaries are capable of living forever. If they are killed, they can always respawn at their spirit stone. As long as the spirit stone remains intact, they can live forever.” Han Sen believed those spirits were the spirits that the Sacred Leader had researched.
 
 When Han Sen considered this research, he thought of two distinct possibilities. One possibility was that the Sacred Leader was merely researching their means of living forever. The other was that the spirits were actually products of that research, created by the Sacred Leader himself.
 

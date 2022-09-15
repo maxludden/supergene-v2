@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Evil Blood
-### Chapter 3066 
+### Chapter 3066
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Fang Qi Yuan was so fast that he could have killed Jian Bu Gu’s. To him, this had been a very rare opportunity.
+Fang Qi Yuan was so fast that he could have killed Jian Bu Gu’s. To him, this had been a very rare opportunity.
 
 If Jian Bu Gu had not decided to avoid fighting anyone for 20 years, even with an army of a thousand men, a thousand horses, and a sky full of battleships, he would not have been able to be beaten.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## The Prisoner at the Rear
-### Chapter 2292 
+### Chapter 2292
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The prisoner approached Han Sen. Although he walked slowly, he was already very close to them. A second later, he was directly behind Han Sen.
+The prisoner approached Han Sen. Although he walked slowly, he was already very close to them. A second later, he was directly behind Han Sen.
 
 As the prisoner walked, his cuffs clinked and clanked. When he came to a stop behind Han Sen, he fell completely silent. Han Sen couldn’t even hear the prisoner breathing or his heart beating. It was as if he no longer existed.
 

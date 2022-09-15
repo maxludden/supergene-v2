@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Crystal Treasure Box
-### Chapter 508 
+### Chapter 508
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen was afraid that the crab might snatch his part after it finished its own, so he summoned the angel, feeding the remaining silver eel to her.
+Han Sen was afraid that the crab might snatch his part after it finished its own, so he summoned the angel, feeding the remaining silver eel to her.
 
 The Archangel was the main force to help him hunt super creatures, so it was essential to Han Sen that she transform again. Sacred-blood meat was not a waste on her.
 

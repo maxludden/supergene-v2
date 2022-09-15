@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## A Star
-### Chapter 152 
+### Chapter 152
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  On the day of the game, Han Sen drove Silver Killer out of the 7th warehouse, because it was allowed to use one’s own warframe in the warframe items.
+On the day of the game, Han Sen drove Silver Killer out of the 7th warehouse, because it was allowed to use one’s own warframe in the warframe items.
 
 After all, all players were skilled in different types of warframes, and it was impossible to ask everyone to drive the same type.
 

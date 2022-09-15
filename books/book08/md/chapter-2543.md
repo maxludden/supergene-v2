@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Failure?
-### Chapter 2543 
+### Chapter 2543
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  When Elysian Moon’s self-cogwheel changed, the genes of her body changed more. Her swordmind became stronger and stronger, slowly climbing closer to the strength of the being that she and Gu Qingcheng created when they combined.
+When Elysian Moon’s self-cogwheel changed, the genes of her body changed more. Her swordmind became stronger and stronger, slowly climbing closer to the strength of the being that she and Gu Qingcheng created when they combined.
 
 Buzz!
 

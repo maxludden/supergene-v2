@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Returning to Origin
-### Chapter 2319 
+### Chapter 2319
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The guard’s water AoE didn’t give him any feeling of security. As those blue wolf eyes stared at him, cold sweat snaked its way down the King’s forehead and across his face.
+The guard’s water AoE didn’t give him any feeling of security. As those blue wolf eyes stared at him, cold sweat snaked its way down the King’s forehead and across his face.
 
 Owooooo!
 

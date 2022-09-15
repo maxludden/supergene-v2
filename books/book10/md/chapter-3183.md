@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Wooden Sword
-### Chapter 3183 
+### Chapter 3183
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “Who are you people? How dare you come to the Feng family! Are you not afraid of the Qin Kingdom’s law?” Feng Fei Fei was protecting Feng Yin Yin and Bao’er as she shouted at Rocky Dee.
+“Who are you people? How dare you come to the Feng family! Are you not afraid of the Qin Kingdom’s law?” Feng Fei Fei was protecting Feng Yin Yin and Bao’er as she shouted at Rocky Dee.
 
 “Beautiful lady, if this was a normal day, I could spend all day discussing the law and other knowledgeable things with you. Alas, today is not a normal day. I have come here for her. Therefore, I am sorry.” Rocky Dee used his cane to point at Bao’er.
 

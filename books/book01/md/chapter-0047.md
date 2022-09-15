@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Z-steel Arrow
-### Chapter 47 
+### Chapter 47
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  "What is the noise outside?" Yang Manli heard it getting more and more noisy outside her office as she was reviewing the data of the sacred-blood creature sent from Son of Heaven.
+"What is the noise outside?" Yang Manli heard it getting more and more noisy outside her office as she was reviewing the data of the sacred-blood creature sent from Son of Heaven.
 
 Yang Manli asked twice, but no one answered. She frowned and went to find out.
 

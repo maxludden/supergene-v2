@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Ji Yanran’s Scheme
-### Chapter 138 
+### Chapter 138
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  In addition to Zhao Lianhua, Ji Yanran was dying to find Han Sen. Now she was sure the boyfriend was not Ouyang Xiaosan, because during the match against Li Yufeng, Ouyang was participating in the training of Martial Arts Society and could not have been at the match.
+In addition to Zhao Lianhua, Ji Yanran was dying to find Han Sen. Now she was sure the boyfriend was not Ouyang Xiaosan, because during the match against Li Yufeng, Ouyang was participating in the training of Martial Arts Society and could not have been at the match.
 
 Also, Ji Yanran did not believe Ouyang could have beaten Li Yufeng by 20 points.
 

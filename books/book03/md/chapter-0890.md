@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## The Power of a Bucket of Water
-### Chapter 890 
+### Chapter 890
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen slowly stepped away. If he wasn't injured, he'd have happily continued his approach, slain the toad, and grabbed the watervine.
+Han Sen slowly stepped away. If he wasn't injured, he'd have happily continued his approach, slain the toad, and grabbed the watervine.
 
 But for now, he couldn't do that. Once he was healed, however, he resolved to return and kill it.
 

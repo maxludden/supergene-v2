@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## The Meeting of Two Metal Beasts
-### Chapter 2154 
+### Chapter 2154
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  After completing his preparations, Han Sen brought Bao’er and Metal Eater to the Metal World.
+After completing his preparations, Han Sen brought Bao’er and Metal Eater to the Metal World.
 
 After they arrived, Han Sen didn’t waste time looking around for a threat. He grabbed Bao’er and Metal Eater in a hurry and teleported away from the area.
 

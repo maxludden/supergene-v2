@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Understanding
-### Chapter 3413 
+### Chapter 3413
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen did not look like the sort of man who spent a lot of time cooking, yet he could modify the spring autumn meat. On top of that, he discovered the best way to cook all three ingredients. It made Dragon Lady shocked, to say the least.
+Han Sen did not look like the sort of man who spent a lot of time cooking, yet he could modify the spring autumn meat. On top of that, he discovered the best way to cook all three ingredients. It made Dragon Lady shocked, to say the least.
 
 Dragon Lady grabbed Han Sen by the wrist and asked, “Tell me, when did you learn how to cook so well?”
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Image on the Crystal Card
-### Chapter 469 
+### Chapter 469
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  "You are all official researchers in the Alliance. Haven't you thought about the consequences?" Ji Yanran frowned at the researchers and said.
+"You are all official researchers in the Alliance. Haven't you thought about the consequences?" Ji Yanran frowned at the researchers and said.
 
 "Consequences? Captain, you are indeed so naïve. Do you think we will stay in the Alliance after we succeed?" A researcher sneered with contempt.
 

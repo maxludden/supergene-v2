@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Ji Yang Sheng
-### Chapter 2545 
+### Chapter 2545
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen was out hunting xenogeneics with Gu Qingcheng and Elysian Moon. All of a sudden, though, he felt a strange movement in his Sea of Soul. Han Sen was surprised by this, and so he looked inside himself. There, he saw the black crystal armor twitching slightly. For an instant, some sort of vortex appeared around his body.
+Han Sen was out hunting xenogeneics with Gu Qingcheng and Elysian Moon. All of a sudden, though, he felt a strange movement in his Sea of Soul. Han Sen was surprised by this, and so he looked inside himself. There, he saw the black crystal armor twitching slightly. For an instant, some sort of vortex appeared around his body.
 
 The vortex only lasted for a second, though. Then, the black crystal armor returned to its usual motionless self as if nothing had occurred.
 

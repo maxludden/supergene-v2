@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Emperor Geno Core
-### Chapter 1555 
+### Chapter 1555
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  After what felt like a century to Han Sen, he heard a giant rumbling noise.
+After what felt like a century to Han Sen, he heard a giant rumbling noise.
 
 Han Sen’s entire body bounced up, hitting the top of the tower, and then fell back to the floor. After that, things went back to normal. The metal tower stopped shaking, the energies suffusing the tower vanished, and everything was quiet.
 

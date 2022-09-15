@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Taking
-### Chapter 1944 
+### Chapter 1944
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Seven Spirit sprinted toward Han Sen. He wanted to slay Han Sen as soon as he fell. But Han Sen only dipped a little, then immediately sprang back to his feet. His speed did not diminish, either, as he kept on running forward.
+Seven Spirit sprinted toward Han Sen. He wanted to slay Han Sen as soon as he fell. But Han Sen only dipped a little, then immediately sprang back to his feet. His speed did not diminish, either, as he kept on running forward.
 
 Seven Spirit’s brow furrowed. He wielded his wooden gong with a thousand Buddha hands.
 

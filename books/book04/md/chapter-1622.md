@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## What’s Happening?
-### Chapter 1622 
+### Chapter 1622
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “If Skysword is regretting that he agreed to the challenge, we don’t have to do this.” God-like was smiling, and he sounded scornful.
+“If Skysword is regretting that he agreed to the challenge, we don’t have to do this.” God-like was smiling, and he sounded scornful.
 
 “No need. Let’s begin,” said Han Sen calmly.
 

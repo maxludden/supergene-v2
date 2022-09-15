@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Entering Big God Mountain Again
-### Chapter 3050 
+### Chapter 3050
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen felt very weird. Up until the text in the test showed up, he had yet to exhibit the syndrome the internet described.
+Han Sen felt very weird. Up until the text in the test showed up, he had yet to exhibit the syndrome the internet described.
 
 According to other testers who had shared their progress, humans with a bad God Spirit Blood-Pulse were more likely to feel dizzy. Many of them even passed out.
 

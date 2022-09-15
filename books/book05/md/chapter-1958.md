@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Skyne
-### Chapter 1958 
+### Chapter 1958
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “Why should I believe you? If I give you Galaxy Sand, what guarantee do I have that you’ll let Speechless go?” Clear Sea King was not mad, and he spoke in a level voice.
+“Why should I believe you? If I give you Galaxy Sand, what guarantee do I have that you’ll let Speechless go?” Clear Sea King was not mad, and he spoke in a level voice.
 
 “Give me Galaxy Sand, and I will take you to her,” Han Sen said implacably.
 

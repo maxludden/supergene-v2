@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## The Seventh Floor
-### Chapter 1968 
+### Chapter 1968
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The woman heard him and smiled. “You are very funny. My name is Yun Sushang. I am a student of the Tenth Elder. You can call me Senior.”
+The woman heard him and smiled. “You are very funny. My name is Yun Sushang. I am a student of the Tenth Elder. You can call me Senior.”
 
 “Greetings, Senior Yun,” Han Sen said, suddenly feeling like he was back in school. It was actually a nice feeling.
 

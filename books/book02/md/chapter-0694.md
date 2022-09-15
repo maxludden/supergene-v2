@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Z-steel Raw Stone
-### Chapter 694 
+### Chapter 694
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen was given many different options of gifts to consider off the Qin family. Eventually, he settled on Z-Steel raw stones.
+Han Sen was given many different options of gifts to consider off the Qin family. Eventually, he settled on Z-Steel raw stones.
 
 The Z-Steel ore always had a lot of contaminants inside it. A thousand grams of Z-Steel ore could be refined to provide only five grams of pure Z-Steel metal.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Gentle and Pure
-### Chapter 1932 
+### Chapter 1932
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Everyone looked towards the cup that the Viscount was holding. They heard a cracking sound, then the cup shattered. The pieces and the water splashed down to the table.
+Everyone looked towards the cup that the Viscount was holding. They heard a cracking sound, then the cup shattered. The pieces and the water splashed down to the table.
 
 Rebecca and the others saw it shatter, and then their eyes widened. Amidst the broken shards of ceramic, there was a moon-like thing. It was still floating where the cup had been.
 

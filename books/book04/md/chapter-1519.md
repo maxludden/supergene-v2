@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Ants That Don’t Do Anything
-### Chapter 1519 
+### Chapter 1519
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Wang Yuhang didn’t know what Han Sen wanted, but he still listened to him. He shouted at the ants, drawing them forward. “You rubbish ants! Come and get me.”
+Wang Yuhang didn’t know what Han Sen wanted, but he still listened to him. He shouted at the ants, drawing them forward. “You rubbish ants! Come and get me.”
 
 When Wang Yuhang yelled, all the Bloodthirsty Ants stopped in their place. They looked over to Wang Yuhang with their red eyes.
 

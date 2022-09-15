@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Liyu Zhen Does Not Believe It
-### Chapter 2657 
+### Chapter 2657
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “That is impossible! I bet he didn’t even kill 1000 King star beetles. How can you claim he did a better job than me?” Liyu Zhen demanded. He simply couldn’t believe this.
+“That is impossible! I bet he didn’t even kill 1000 King star beetles. How can you claim he did a better job than me?” Liyu Zhen demanded. He simply couldn’t believe this.
 
 He knew Han Sen had been chased by a deified star beetle the whole time. There was no way he could still have done a better job than one of the Very High.
 

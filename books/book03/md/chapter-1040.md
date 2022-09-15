@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Phoenix Headlight
-### Chapter 1040 
+### Chapter 1040
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen wanted to approach the doors and examine them, but Brother Seven stopped him and said, “This place is dangerous. Don’t do anything reckless.”
+Han Sen wanted to approach the doors and examine them, but Brother Seven stopped him and said, “This place is dangerous. Don’t do anything reckless.”
 
 “Isn’t that where the Phoenix Eye might reside?” Han Sen asked.
 

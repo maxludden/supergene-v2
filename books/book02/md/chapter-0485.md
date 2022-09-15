@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Hope in Despair
-### Chapter 485 
+### Chapter 485
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  It was almost impossible to see such bloody battles in First God's Sanctuary, so it would be hard for someone who had never experienced this to imagine the scary scenario of creatures attacking a shelter.
+It was almost impossible to see such bloody battles in First God's Sanctuary, so it would be hard for someone who had never experienced this to imagine the scary scenario of creatures attacking a shelter.
 
 Even Han Sen who had witnessed lots of deaths could not help shivering.
 

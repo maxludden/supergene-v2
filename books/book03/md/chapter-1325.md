@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Lost in the Dark
-### Chapter 1325 
+### Chapter 1325
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The summoning bell was the entire reason East Empress had become as famous and well-respected as she had. The summoning bell must have been in the top ten greatest geno treasures of the Third God’s Sanctuary.
+The summoning bell was the entire reason East Empress had become as famous and well-respected as she had. The summoning bell must have been in the top ten greatest geno treasures of the Third God’s Sanctuary.
 
 Three-Eye Emperor must have done her a great favor to be given this as a gift.
 

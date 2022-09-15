@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## The Spirit Showing Fealty
-### Chapter 461 
+### Chapter 461
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Zheng Guoxiong watched Han Sen going in the middle of the mutant creatures with a complicated expression. Twenty years ago, he was as brave as Han Sen.
+Zheng Guoxiong watched Han Sen going in the middle of the mutant creatures with a complicated expression. Twenty years ago, he was as brave as Han Sen.
 
 At that day and age when it was still difficult to hunt a sacred-blood creature, he used his diligence, talent, and special privileges coming from his family to max out his sacred geno points and evolved as a sacred-blood evolver in First God's Sanctuary.
 

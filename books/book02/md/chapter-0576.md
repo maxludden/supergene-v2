@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## The Real and the Fake Ice Skin
-### Chapter 576 
+### Chapter 576
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  As more and more time elapsed, the chilled air within Han Sen was becoming stronger and stronger. His cells were moving, but it felt as if they were turning into crystals.
+As more and more time elapsed, the chilled air within Han Sen was becoming stronger and stronger. His cells were moving, but it felt as if they were turning into crystals.
 
 At the same time, the Dongxue Sutra started running, and a strange feeling compelled Han Sen to stop his practice ofJadeskin.
 

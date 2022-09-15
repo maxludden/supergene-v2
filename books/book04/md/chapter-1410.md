@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## The Coffin Rises
-### Chapter 1410 
+### Chapter 1410
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Everyone was scared, on the precipice of tumbling into full-on panic. They all exhausted as much of their powers as they could trying to free themselves from the coffin, but nothing worked. They were well and truly stuck.
+Everyone was scared, on the precipice of tumbling into full-on panic. They all exhausted as much of their powers as they could trying to free themselves from the coffin, but nothing worked. They were well and truly stuck.
 
 It was like the coffin wasn’t just pulling their bodies, but it was siphoning their strength and power as well. Whenever they released some power as they tried to escape, it was as if they were feeding the coffin.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Han Yan Beginner
-### Chapter 2611 
+### Chapter 2611
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “You would be receiving benefits for nothing. I’m afraid that you’re somehow collecting all the resources in this universe for free,” Exquisite said unsympathetically.
+“You would be receiving benefits for nothing. I’m afraid that you’re somehow collecting all the resources in this universe for free,” Exquisite said unsympathetically.
 
 Han Sen shrugged his shoulders and laughed. “If I go to the Very High, do you think I’m going to take the resources you offer and run?”
 

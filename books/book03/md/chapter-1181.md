@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Trade
-### Chapter 1181 
+### Chapter 1181
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “Didn’t I tell you to follow Qing Jun? Give Zhang Yuchen back to her or die.”
+“Didn’t I tell you to follow Qing Jun? Give Zhang Yuchen back to her or die.”
 
 The handwriting looked as if it had been hastily scribbled. With no concern for what had been written, Han Sen threw it away. He didn’t care for the content of the paper, only who wrote it.
 

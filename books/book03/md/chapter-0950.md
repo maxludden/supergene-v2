@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Special First Time
-### Chapter 950 
+### Chapter 950
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen followed the housekeeper out into the gardens. The area glistened like polished jade, and it skirted the edges of a lake. In the middle of the lake was a stone pavilion. Liu Meng was sitting there, and he smiled at Han Sen.
+Han Sen followed the housekeeper out into the gardens. The area glistened like polished jade, and it skirted the edges of a lake. In the middle of the lake was a stone pavilion. Liu Meng was sitting there, and he smiled at Han Sen.
 
 "Mr. Liu, is the collection you wish to show me the fish in the lake?" Han Sen approached the stone pavilion, and aside from the active fish below the glass surface of the water, saw nothing else there of note.
 

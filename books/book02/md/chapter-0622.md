@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## The Bone of the Mountain Guardian
-### Chapter 622 
+### Chapter 622
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Dong! Dong! Dong!
+Dong! Dong! Dong!
 
 A lance fell, a sword dropped, and a dagger broke.
 

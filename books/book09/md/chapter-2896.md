@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Red Temple
-### Chapter 2896 
+### Chapter 2896
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The giant xenogeneic’s skeleton looked like the bones of dinosaurs. There were wings on its back, but only the bones of its former appearance remained.
+The giant xenogeneic’s skeleton looked like the bones of dinosaurs. There were wings on its back, but only the bones of its former appearance remained.
 
 On the ground below the xenogeneic’s bones, everything appeared petrified. The surface was very rough. There were many carvings on the bones. There were symbols and lines. There were weird crystals on the symbols and lines.
 

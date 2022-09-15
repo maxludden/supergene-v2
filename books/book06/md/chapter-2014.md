@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Under Sky Road’s Puppe
-### Chapter 2014 
+### Chapter 2014
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Thousand Feather Crane and Yun Sushang were shocked, and they were too late to stop what was in motion.
+Thousand Feather Crane and Yun Sushang were shocked, and they were too late to stop what was in motion.
 
 Angia was a top Earl. Even they didn’t think they could beat him. Yun Suyi had only just become an Earl, so it was highly unlikely she’d win.
 

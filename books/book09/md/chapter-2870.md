@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Golden Door
-### Chapter 2870 
+### Chapter 2870
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  While Han Sen was worried about Golden Growler, Golden Growler suddenly opened his mouth. This time, it did not bite in the direction of Very High Leader.
+While Han Sen was worried about Golden Growler, Golden Growler suddenly opened his mouth. This time, it did not bite in the direction of Very High Leader.
 
 Golden Growler’s mouth exuded a gold light. Golden lights came out like a hose. Inside that golden light, something else appeared.
 

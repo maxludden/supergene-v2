@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## This Is Not My Road
-### Chapter 1078 
+### Chapter 1078
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  After a minute of blinding brilliance, the light started to fade to a more bearable level. And as Han Sen looked its way, a demonic voice began to boom from within the glow.
+After a minute of blinding brilliance, the light started to fade to a more bearable level. And as Han Sen looked its way, a demonic voice began to boom from within the glow.
 
 Within the light, Han Sen saw the faint outline of a strong man. He was sitting and speaking.
 

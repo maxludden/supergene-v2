@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Small Surprise
-### Chapter 2291 
+### Chapter 2291
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “I don’t think I really understand. Please explain it to me again,” Han Sen said, trying to keep his shock from showing on his face.
+“I don’t think I really understand. Please explain it to me again,” Han Sen said, trying to keep his shock from showing on his face.
 
 Truthfully, Han Sen understood the geno art perfectly. The geno art was quite familiar to him, and that familiarity shook him to his core. The geno art had an obvious connection to the Dongxuan Sutra. Both arts could benefit each other quite well, and using Mister White’s technique could aid in the development of the Dongxuan Sutra.
 

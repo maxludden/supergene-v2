@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Ice Jade Evil Lady
-### Chapter 3257 
+### Chapter 3257
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Things were worse than Han Sen imagined them to be. Tian Jing hadn’t lied to him. The closer he was to the snowy mountain, the smaller his penis became. It was soon going to become a soybean. Han Sen felt a little bit weird. If this was just like how Tian Jing said, getting close to the ice mountains would make his Yin and Yang reverse. If he really turned into a woman, he could not be certain his Super God Spirit mode could fully recover. Seeing the snow mountain right in front of him, he was not willing to give up. Han Sen quickly generated a mirror. He looked into the mirror and noticed his face had changed a lot. His face, which had previously looked very sharp, was now very soft. His eyes were bigger, and his lashes were longer. His Adam’s apple had become much smaller. It was barely visible.
+Things were worse than Han Sen imagined them to be. Tian Jing hadn’t lied to him. The closer he was to the snowy mountain, the smaller his penis became. It was soon going to become a soybean. Han Sen felt a little bit weird. If this was just like how Tian Jing said, getting close to the ice mountains would make his Yin and Yang reverse. If he really turned into a woman, he could not be certain his Super God Spirit mode could fully recover. Seeing the snow mountain right in front of him, he was not willing to give up. Han Sen quickly generated a mirror. He looked into the mirror and noticed his face had changed a lot. His face, which had previously looked very sharp, was now very soft. His eyes were bigger, and his lashes were longer. His Adam’s apple had become much smaller. It was barely visible.
 
 Han Sen was shocked. “There is no way I am actually turning into a woman, right?”.
 

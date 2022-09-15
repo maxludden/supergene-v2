@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Broken Underworld Silk
-### Chapter 2688 
+### Chapter 2688
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “Have you thought about Under the Sky’s flaws?” Exquisite asked, glancing at Li Keer.
+“Have you thought about Under the Sky’s flaws?” Exquisite asked, glancing at Li Keer.
 
 Li Keer shook her head. “What about you?”
 

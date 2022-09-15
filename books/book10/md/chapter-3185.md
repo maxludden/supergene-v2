@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Extra Story for Commemorating Two Years – the End Is Not the End
-### Chapter 3185 
+### Chapter 3185
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  My name is Han Jinzhi, a five-year-old child in Elephant Kindergarten, year three. I should be at the stage of a flower with a colorful life. To me, all I see is darkness.
+My name is Han Jinzhi, a five-year-old child in Elephant Kindergarten, year three. I should be at the stage of a flower with a colorful life. To me, all I see is darkness.
 
 I am from a family of liars. My father was a liar. My grandfather was a liar. My grandad’s grandad was a liar. I don’t know which grandad it started with, but we are a family of scammers.
 

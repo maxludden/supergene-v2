@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Empty Spirit Princess
-### Chapter 642 
+### Chapter 642
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  It was a female spirit. She was clad in chiffon armor, which highlighted her pair of gorgeous legs. She had sharp ears and a pair of wings on her back, shaped like those of a butterfly. Her eyes were purple, like little amethysts. The spirit was beautiful like an elf.
+It was a female spirit. She was clad in chiffon armor, which highlighted her pair of gorgeous legs. She had sharp ears and a pair of wings on her back, shaped like those of a butterfly. Her eyes were purple, like little amethysts. The spirit was beautiful like an elf.
 
 When Wang Yuhang turned to look at the elf-like spirit, he presented a wry smile and said, "Only now do I regret the opportunity that was given, to try to tackle this place alone. Would I have beaten her, this stunning spirit might have been mine."
 

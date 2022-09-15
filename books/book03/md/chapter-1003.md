@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## The Fruit
-### Chapter 1003 
+### Chapter 1003
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The blue monkey king came swiftly from behind, and Han Sen decided he’d had enough of this ordeal. He stopped dodging and simply activated his super king spirit mode.
+The blue monkey king came swiftly from behind, and Han Sen decided he’d had enough of this ordeal. He stopped dodging and simply activated his super king spirit mode.
 
 Boom!
 

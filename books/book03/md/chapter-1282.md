@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Being Recognized
-### Chapter 1282 
+### Chapter 1282
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen brought Ji Yanran, Bao’er, and Zero with him on the spacecraft to visit Otto Planet. Otto Planet was one big holiday resort, and a single ticket was all it took for a visitor to enjoy the plethora of services available there.
+Han Sen brought Ji Yanran, Bao’er, and Zero with him on the spacecraft to visit Otto Planet. Otto Planet was one big holiday resort, and a single ticket was all it took for a visitor to enjoy the plethora of services available there.
 
 Chasing respite, you could eat and play to your heart’s content. After being given access to the planet, everything there was free. Aside from the caveat that you couldn’t take anything home with you, as that would be theft.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Blade and Baton
-### Chapter 1563 
+### Chapter 1563
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Luo Yu was trying to resist the attacks of the crystal thorns, and he kept slashing the crystal cactus with his blade. He struck the crystal cactus easily every time. He had already covered the entire surface of the cactus in blows, yet he left nothing more than white scratch marks on its surface.
+Luo Yu was trying to resist the attacks of the crystal thorns, and he kept slashing the crystal cactus with his blade. He struck the crystal cactus easily every time. He had already covered the entire surface of the cactus in blows, yet he left nothing more than white scratch marks on its surface.
 
 Han Sen shook his head. “The best aspect of Falsified Sky power is that it hits its target every time, and it can even bypass the defenses and deal damage inside the body. In this case, however, Luo Yu doesn’t have enough power to damage the body of the crystal cactus. Even though he can hit it, he won’t be able to break it.”
 

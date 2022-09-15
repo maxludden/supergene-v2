@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Strange Mountain
-### Chapter 1907 
+### Chapter 1907
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen planned to practice in the mountains. He didn’t need to practice Teeth Knife, but there were too many spies occupying the base. If Han Sen stayed there without practicing, people might grow suspicious.
+Han Sen planned to practice in the mountains. He didn’t need to practice Teeth Knife, but there were too many spies occupying the base. If Han Sen stayed there without practicing, people might grow suspicious.
 
 So, Han Sen headed into the mountains to train. But instead of practicing Teeth Knife as he had told everyone, he began to work on the Dongxuan Sutra.
 

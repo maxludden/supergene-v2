@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Breaking 33 Days
-### Chapter 1421 
+### Chapter 1421
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Boom!
+Boom!
 
 Blue lightning streaked across the entire battleground, and a blue halo formed beneath the feet of all the combatants.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Empirical Sword
-### Chapter 791 
+### Chapter 791
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Qin Xuan let loose a flurry of attacks towards Han Sen, who remained in a defensive position, allowing her to do as she could. He was able to block each and every strike.
+Qin Xuan let loose a flurry of attacks towards Han Sen, who remained in a defensive position, allowing her to do as she could. He was able to block each and every strike.
 
 The dongxuan aura allowed him to sense all things, but Han Sen had previously stuck to only using it to observe lifeforces. As he shifted his focus on the skill, it began to feel more and more like the eighth sense.
 

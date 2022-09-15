@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Sea Bug
-### Chapter 544 
+### Chapter 544
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen had always needed a hyper geno art for underwater fighting. To fight in the water was completely different to fighting on land. The effects of water pressure and resistances were considerable. The shift in the effectiveness of certain land hyper geno arts to how they performed in the water likewise very acute.
+Han Sen had always needed a hyper geno art for underwater fighting. To fight in the water was completely different to fighting on land. The effects of water pressure and resistances were considerable. The shift in the effectiveness of certain land hyper geno arts to how they performed in the water likewise very acute.
 
 Han Sen had many S-Class licenses of the Saint Hall, so spending one more did not concern him much. And now here he was, arriving in the Saint Hall to purchase an additional hyper geno art.
 

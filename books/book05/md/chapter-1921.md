@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Knifemind Shocking the Sky
-### Chapter 1921 
+### Chapter 1921
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen lifted his knife. There was no shiny knifelight, no spiritual glow, but the knifemind was so scary. It felt like a beast that had come to swallow the sky. It could not be avoided, and even space above would find itself fractured.
+Han Sen lifted his knife. There was no shiny knifelight, no spiritual glow, but the knifemind was so scary. It felt like a beast that had come to swallow the sky. It could not be avoided, and even space above would find itself fractured.
 
 Although it was a wrong feeling, it shocked everyone with awe. It was a feeling they couldn’t escape.
 

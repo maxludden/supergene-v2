@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Purple Copper Jian’s Power
-### Chapter 2586 
+### Chapter 2586
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  As Han Sen held the purple copper jian, his entire body was bathed in purple light. It was like an infinite number of purple stars were dancing around him. His whole body appeared blurry, as if his form was being obscured by purple clouds.
+As Han Sen held the purple copper jian, his entire body was bathed in purple light. It was like an infinite number of purple stars were dancing around him. His whole body appeared blurry, as if his form was being obscured by purple clouds.
 
 Some strange power was at work, but Han Sen couldn’t tell what it was. It felt so mysterious and difficult to understand.
 

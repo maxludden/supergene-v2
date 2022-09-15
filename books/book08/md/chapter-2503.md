@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Conspiracy?
-### Chapter 2503 
+### Chapter 2503
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The Ice Blue Knights watched Han Sen through a camera, their jaws clenched.
+The Ice Blue Knights watched Han Sen through a camera, their jaws clenched.
 
 He was like a thief who had run into their house and beaten up their son before proceeding to steal their possessions. After his crimes, instead of running away, he had gone into the backyard for a cup of tea. Wouldn’t that make anyone mad?
 

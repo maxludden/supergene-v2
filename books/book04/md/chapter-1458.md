@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## The Person in the Drawing
-### Chapter 1458 
+### Chapter 1458
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen expected the holy child of the Elysium would have been just that: a child. He had a lot of experience babysitting, all things considered. But when he looked at what the woman was indicating, it wasn’t a person from Elysium he was seeing. In fact, it wasn’t even a spirit.
+Han Sen expected the holy child of the Elysium would have been just that: a child. He had a lot of experience babysitting, all things considered. But when he looked at what the woman was indicating, it wasn’t a person from Elysium he was seeing. In fact, it wasn’t even a spirit.
 
 Han Sen saw a stone that was around ten feet tall. He initially believed it to be a fake mountain, often seen in such gardens as decorations.
 

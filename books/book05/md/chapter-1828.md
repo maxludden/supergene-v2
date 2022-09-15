@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## The Two That Did Not Come Ou
-### Chapter 1828 
+### Chapter 1828
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Yisha pursued an investigation of The Story of Genes. Revising something so complicated was difficult, and could even yield dangerous results. But if no changes were made to it, learning it would be too hard.
+Yisha pursued an investigation of The Story of Genes. Revising something so complicated was difficult, and could even yield dangerous results. But if no changes were made to it, learning it would be too hard.
 
 Raising Han Sen to Duke level would be easy, and the resource costs would not be too hefty. But The Story of Genes made things far more complicated than she had anticipated. And raising Han Sen to Duke had been far more expensive than she expected.
 

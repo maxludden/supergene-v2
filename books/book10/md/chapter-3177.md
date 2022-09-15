@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Breaking the World
-### Chapter 3177 
+### Chapter 3177
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen complicatedly looked at Zhuo Dong Lai, who was exuding a strange sort of power that was different from the power elicited by the purple mist holy clothes.
+Han Sen complicatedly looked at Zhuo Dong Lai, who was exuding a strange sort of power that was different from the power elicited by the purple mist holy clothes.
 
 Zhuo Dong Lai’s body emitted a purple mist and glass-like words. The words looked as if they had been branded onto Zhuo Dong Lai’s flesh. It was like when he was born, it had already been carved into his flesh.
 

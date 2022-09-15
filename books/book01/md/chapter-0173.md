@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Sixty Forty
-### Chapter 173 
+### Chapter 173
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  "Then I will ask him." Han Sen called his friend and said a few words. Then he smiled and said, "He is close and will be here in a minute."
+"Then I will ask him." Han Sen called his friend and said a few words. Then he smiled and said, "He is close and will be here in a minute."
 
 In a minute, they heard a knock on the door. Han Sen opened the door and a guy wearing a hat and sunglasses walked in.
 

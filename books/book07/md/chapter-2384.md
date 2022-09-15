@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## The Alpha’s Water Fairy
-### Chapter 2384 
+### Chapter 2384
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Everyone had a unique personality. Even if two people practiced the same sword skills, their swordminds would develop based on their individualities. Despite starting from the same base, the resulting swordminds might be very different.
+Everyone had a unique personality. Even if two people practiced the same sword skills, their swordminds would develop based on their individualities. Despite starting from the same base, the resulting swordminds might be very different.
 
 Han Sen had a very different personality from the man who had created the Proud Bone Swordmind. Because they were so completely different, there was an extreme gap between their swordminds. Han Sen was having a very hard time trying to understand the Proud Bone swordmind.
 

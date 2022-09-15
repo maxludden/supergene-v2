@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Sacred-blood Knight
-### Chapter 240 
+### Chapter 240
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Lu Weinan was indeed great at escaping. Using his incredible footwork, he was able to take back his hand and run from the tiger.
+Lu Weinan was indeed great at escaping. Using his incredible footwork, he was able to take back his hand and run from the tiger.
 
 Meowth had already thrown itself at Lu Weinan and was ready to launch another attack.
 

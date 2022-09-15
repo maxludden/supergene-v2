@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Number 4
-### Chapter 1570 
+### Chapter 1570
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen himself was surprised. Although he had seen Luo Haitang in Godslayer Shelter, he hadn’t agreed to any of the man’s requests or given him anything. So, why would the old man send a gift? It seemed as if he really wanted to re-establish a connection with Luolan.
+Han Sen himself was surprised. Although he had seen Luo Haitang in Godslayer Shelter, he hadn’t agreed to any of the man’s requests or given him anything. So, why would the old man send a gift? It seemed as if he really wanted to re-establish a connection with Luolan.
 
 But given Luolan’s personality, Han Sen knew what Luo Haitang might have been like. It had been many years since he saw her, and there had been no texting or form of communication in the meantime. If he’d really wanted to send her something, he’d had plenty of time to do it. It wouldn’t have had to be that day, of all days.
 

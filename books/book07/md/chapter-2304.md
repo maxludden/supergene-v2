@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Using a Fist to Punch Eighteen Soldiers
-### Chapter 2304 
+### Chapter 2304
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “The eighteen-weapon strikes get stronger the closer to the end you are. The first hit is about the level of an ordinary Duke-level striking with full strength. I suppose that an ordinary Duke could break the lance with brute force. His fitness isn’t too bad, then.” The woman in the control room thought that she was being pretty generous when she defined Han Sen as “not bad.”
+“The eighteen-weapon strikes get stronger the closer to the end you are. The first hit is about the level of an ordinary Duke-level striking with full strength. I suppose that an ordinary Duke could break the lance with brute force. His fitness isn’t too bad, then.” The woman in the control room thought that she was being pretty generous when she defined Han Sen as “not bad.”
 
 That level of fitness was common for the people of the Extreme King. Even Bai Wei, who had just become a Duke, could probably do the same thing with her Extreme King Punch. Han Sen’s attack wasn’t a very unusual thing for the woman to see.
 

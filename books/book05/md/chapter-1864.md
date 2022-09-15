@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Moon God’s Lesson
-### Chapter 1864 
+### Chapter 1864
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Seventy-two moons were out in the sky. It was an incredibly pretty sight.
+Seventy-two moons were out in the sky. It was an incredibly pretty sight.
 
 The whole of Narrow Moon was silent. The elites like Yisha and Moon Wheel King were completely speechless. They had watched each moon rise.
 

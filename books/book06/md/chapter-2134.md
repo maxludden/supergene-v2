@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Dongxuan Breakthrough
-### Chapter 2134 
+### Chapter 2134
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  As his Sky eye grew stronger, Evil Eye put Han Sen under even greater duress. While Han Sen was able to endure it for the moment, he wouldn’t forever; it was only a matter of time before his hands snapped. They had now been shredded down to the bone, after all.
+As his Sky eye grew stronger, Evil Eye put Han Sen under even greater duress. While Han Sen was able to endure it for the moment, he wouldn’t forever; it was only a matter of time before his hands snapped. They had now been shredded down to the bone, after all.
 
 Evil Eye looked excited. The purple light of his four evil eyes was shining, and his speed and power at greater and greater outputs. He was dying to bring an end to the man that had the audacity to fight him so successfully.
 

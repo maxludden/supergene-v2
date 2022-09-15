@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## I'm Going to Look After You
-### Chapter 880 
+### Chapter 880
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  From inside the silver fox's charred body, a gold light burst forth. The strength of the light gradually increased, and the brighter it got, the darker its body became.
+From inside the silver fox's charred body, a gold light burst forth. The strength of the light gradually increased, and the brighter it got, the darker its body became.
 
 Soon after, the silver fox's body was like smoldering charcoal, with veins of red running along its black body.
 

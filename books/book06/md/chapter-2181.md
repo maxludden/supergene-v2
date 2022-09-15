@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Who Is the Traitor?
-### Chapter 2181 
+### Chapter 2181
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The woman seemed to know what Han Sen was thinking. She smiled at Han Sen, but she did not say anything. Quietly, she continued eating her meal.
+The woman seemed to know what Han Sen was thinking. She smiled at Han Sen, but she did not say anything. Quietly, she continued eating her meal.
 
 Han Sen thought that the woman was definitely a suspicious character, but he could not be sure if she was the traitor of the Destroyed or not.
 

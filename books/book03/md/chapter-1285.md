@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Attacking Saint Fan Shelter
-### Chapter 1285 
+### Chapter 1285
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Xie Yuxin returned to Yu Shaoqing’s side and saw Yu Qianxun beside him, also. She asked, “Qianxun?”
+Xie Yuxin returned to Yu Shaoqing’s side and saw Yu Qianxun beside him, also. She asked, “Qianxun?”
 
 Yu Qianxun stroked her head gently and told her, “It’s fine. There is no need for shame; you have merely encountered a genuine professional, that’s all.”
 

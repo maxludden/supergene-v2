@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Fierce Tiger From Blueblood
-### Chapter 497 
+### Chapter 497
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  "Zheng Yuze did well," on the stands, the chief of the Southwest Galaxy troops nodded and complimented.
+"Zheng Yuze did well," on the stands, the chief of the Southwest Galaxy troops nodded and complimented.
 
 "Chief, I don't think he is the match of Tie Yi. Zheng Yuze had the all he got in his strike, while Tie Yi was still conserving his strength," said the secretary.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Blood Fruit
-### Chapter 1017 
+### Chapter 1017
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “Mister Liu, I thank you. You have greatly opened our eyes,” Chen Hu said.
+“Mister Liu, I thank you. You have greatly opened our eyes,” Chen Hu said.
 
 He believed the beasts were so kind because of Liu Yuxuan’s behavior.
 

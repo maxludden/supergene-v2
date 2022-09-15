@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Chosen by the Monster
-### Chapter 1803 
+### Chapter 1803
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen looked at the green eyes, shining in the dark. Quickly, he recognized what they looked like. They belonged to creatures that looked like lizards. But their heads were much bigger, like a bull’s. Their skin was grey like rocks, enabling them to blend into the darkness. It was difficult to make out the shape of their bodies.
+Han Sen looked at the green eyes, shining in the dark. Quickly, he recognized what they looked like. They belonged to creatures that looked like lizards. But their heads were much bigger, like a bull’s. Their skin was grey like rocks, enabling them to blend into the darkness. It was difficult to make out the shape of their bodies.
 
 The creatures were close to the stone pillars now. They opened their mouths and revealed fangs and snake-like tongues. A strange sort of saliva bubbled around their tongues, as well.
 

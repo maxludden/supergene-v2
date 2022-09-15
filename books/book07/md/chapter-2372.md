@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Play Off
-### Chapter 2372 
+### Chapter 2372
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  While the rainbow raged the bottle, the bottle itself started to float.
+While the rainbow raged the bottle, the bottle itself started to float.
 
 Han Sen’s face paled. A bad feeling suddenly washed over him. He hastily backed away from the altar and returned to the blood kirin.
 

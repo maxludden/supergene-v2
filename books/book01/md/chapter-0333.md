@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Copper Demon
-### Chapter 333 
+### Chapter 333
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  After watching the video of his combat against Queen, Han Sen had gained a lot. The last few steps Queen made pointed out Han Sen's weaknesses.
+After watching the video of his combat against Queen, Han Sen had gained a lot. The last few steps Queen made pointed out Han Sen's weaknesses.
 
 After watching the video repeatedly, Han Sen enjoyed correcting himself little by little.
 

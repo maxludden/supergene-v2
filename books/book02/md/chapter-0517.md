@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## The Shame of Soldiers
-### Chapter 517 
+### Chapter 517
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Yi Dongmu stared at the angel eating the triceratops, feeling dazed. It was very hard for him to imagine that the angel who looked like a little girl would be able to consume the better half of the meat of the triceratops in a little while and did not seem to be stopping anytime soon.
+Yi Dongmu stared at the angel eating the triceratops, feeling dazed. It was very hard for him to imagine that the angel who looked like a little girl would be able to consume the better half of the meat of the triceratops in a little while and did not seem to be stopping anytime soon.
 
 He turned back and looked at Han Sen, seeing Han Sen was eating his leftover barbecue. Yi Dongmu's expression became more complicated.
 

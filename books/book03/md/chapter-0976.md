@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Battle on the River
-### Chapter 976 
+### Chapter 976
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Boom!
+Boom!
 
 The snake was knocked away by the man again. When it crashed into the nearby wall, the entire hall shook violently.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## The Luo Family
-### Chapter 1557 
+### Chapter 1557
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen hesitated, but he still followed Jia Shidao back to Godslayer Shelter.
+Han Sen hesitated, but he still followed Jia Shidao back to Godslayer Shelter.
 
 According to Jia Shidao, there wasn’t only one super creature; instead, there was a group of them. Also, if someone had enough power to break the skin and flesh of those super creatures, it would be easy to kill them all.
 

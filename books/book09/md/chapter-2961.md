@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## The Only Savior
-### Chapter 2961 
+### Chapter 2961
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Now, Han Sen had leveled up to true god class. He could try it again. Perhaps this time he could control the stone lantern.
+Now, Han Sen had leveled up to true god class. He could try it again. Perhaps this time he could control the stone lantern.
 
 The faces of the demon lady and the others did not look good. In the beginning, they did not make use of the race lanterns because of the primary race lantern Han Sen was holding at the time.
 

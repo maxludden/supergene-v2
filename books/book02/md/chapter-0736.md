@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## A Shelter for One
-### Chapter 736 
+### Chapter 736
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Watching an extra large orange furball approach with haste, the silver fox that was still perched on Han Sen's shoulder moved before its master could.
+Watching an extra large orange furball approach with haste, the silver fox that was still perched on Han Sen's shoulder moved before its master could.
 
 The silver fox's hair all stood up, and a charge of silver light began to form across its pelt. With a fierce discharge, a silver thunderbolt struck the super creature that the short-haired lady referred to as Little Orange.
 

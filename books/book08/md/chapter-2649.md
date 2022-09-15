@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Meeting at the Lake
-### Chapter 2649 
+### Chapter 2649
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen looked at the thick stack of yellow papers he had amassed. He wanted to cry. Those pornographic pictures he had fished up over the past few days were enough to compose an entire book. Aside from the yellow papers, he hadn’t been able to catch anything.
+Han Sen looked at the thick stack of yellow papers he had amassed. He wanted to cry. Those pornographic pictures he had fished up over the past few days were enough to compose an entire book. Aside from the yellow papers, he hadn’t been able to catch anything.
 
 “Don’t say that,” he reminded himself. “These pictures look kind of like a comic.”
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Killing Ghost Claw Beast
-### Chapter 1973 
+### Chapter 1973
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “Suyi, say thank you to Han Sen.” Yun Sushang nudged Yun Suyi with a hand.
+“Suyi, say thank you to Han Sen.” Yun Sushang nudged Yun Suyi with a hand.
 
 Yun Suyi was still a bit rattled, but she stepped forward and said to Han Sen, “Thank you for saving me.”
 
@@ -61,7 +62,7 @@ First Day slapped the ground another five times, and then he said something. The
 
 Seeing Han Sen look at him, the Buddha man awkwardly glanced away. He said, “I was sent here to study when I was young. I practiced the Truth Spell of Sky Palace.”
 
-Very nice,” Han Sen said. Ever since Han Sen had been forced to leave Disloyal Knight behind, he hadn’t seen much in the way of buffs and boons.
+“Very nice,” Han Sen said. Ever since Han Sen had been forced to leave Disloyal Knight behind, he hadn’t seen much in the way of buffs and boons.
 
 Yun Sushang and Thousand Feather Crane stood inside the radius of the spell to fight with the Face Centipedes.
 
@@ -83,7 +84,7 @@ Yun Suyi turned around to take a look. A hand bearing jade claws hovered behind 
 
 There was a bullet hole in the stone wall, and black blood seeped out of it.
 
-“Xenogeneic Earl hunted. Jade Ghost Claw Beast: xenogeneic gene found.”
+> “Xenogeneic Earl hunted. Jade Ghost Claw Beast: Xenogeneic Gene Found.”
 
 An announcement played in Han Sen’s head, but it was a shame he did not receive a beast soul.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Virtual Table
-### Chapter 1938 
+### Chapter 1938
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Seeing how shocked Han Sen looked, Hai’er took his reaction for a confirmation. She then murmured, “We shouldn’t talk here. We should find someplace else to chat.”
+Seeing how shocked Han Sen looked, Hai’er took his reaction for a confirmation. She then murmured, “We shouldn’t talk here. We should find someplace else to chat.”
 
 “I think you have the wrong guy; I have no clue about what you’re talking about.” Han Sen acted through his shock.
 

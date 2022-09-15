@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Life Belongs to You
-### Chapter 3178 
+### Chapter 3178
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “Zhuo Dong Lai lost?” Yan Dan looked on in disbelief.
+“Zhuo Dong Lai lost?” Yan Dan looked on in disbelief.
 
 It was not just Yan Dan feeling that way. All the elites from every kingdom were now reeling in shock. Zhuo Dong Lai, who had almost broken the world, still lost. The incredible sword he had used was still incapable of defeating Han Sen. “He lost.” In an old tower, the person inside looked surprised. Wu Wei Dao Palace had not had someone in its ranks who could break the world in many years. Now, someone had managed to achieve the One Dollar Sword Mind. He was able to use one sword to break the world, but he still lost the fight.
 

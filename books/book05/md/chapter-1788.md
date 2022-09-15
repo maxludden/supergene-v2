@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Killing a Xenogeneic Amidst a Thousand Soldiers
-### Chapter 1788 
+### Chapter 1788
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Roar!
+Roar!
 
 One of the Viscounts amidst the nine captains roared. His armor cracked, and his muscles inflated. His skin looked like steel, and his eyes became red. He was turning xenogeneic.
 

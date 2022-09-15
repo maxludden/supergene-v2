@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Spirit?
-### Chapter 734 
+### Chapter 734
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Her beautiful legs were like two lashing dragons, attempting to capture Han Sen like a pair of scissors. They looked ready to cut him down right then and there.
+Her beautiful legs were like two lashing dragons, attempting to capture Han Sen like a pair of scissors. They looked ready to cut him down right then and there.
 
 Han Sen kept evading her capture and tried to plead with the woman, saying, "Lady, I have been wandering the Black Desert by myself for far too long. I thought I had encountered a mirage. I was only concerned with checking whether or not my eyes were playing tricks on me."
 

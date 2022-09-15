@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Back to Tang Village
-### Chapter 3224 
+### Chapter 3224
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen had already been tempted to do that. After hearing Qin Xiu’s last words, it made him completely give up his fleeting thoughts of actually conceding.
+Han Sen had already been tempted to do that. After hearing Qin Xiu’s last words, it made him completely give up his fleeting thoughts of actually conceding.
 
 This was what Han Sen’s personality was like. If things went his way, he was a pleasant person to talk to. Qin Xiu’s last words were very threatening, so it made him stop wanting to concede.
 

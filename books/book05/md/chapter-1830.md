@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Soothing the Knife River
-### Chapter 1830 
+### Chapter 1830
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “Why have they still not returned?” someone asked from the entrance to the tunnel.
+“Why have they still not returned?” someone asked from the entrance to the tunnel.
 
 Black-Moon King had arrived before the space tunnel, and he was waiting for his son.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Holy
-### Chapter 3326 
+### Chapter 3326
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  After the Break World beast was killed, the mist on the floating islands receded and disappeared. Han Sen put away the Break World gene. He was getting ready to fly to the next floating island when he saw one of the 12 jade buildings of the White Jade Jing start to glow. A shadow emerged from the jade building.
+After the Break World beast was killed, the mist on the floating islands receded and disappeared. Han Sen put away the Break World gene. He was getting ready to fly to the next floating island when he saw one of the 12 jade buildings of the White Jade Jing start to glow. A shadow emerged from the jade building.
 
 Han Sen squinted and had a closer look. He looked through the holy light. He noticed that what emerged from the White Jade Jing was a fairy clad in blue clothes.
 

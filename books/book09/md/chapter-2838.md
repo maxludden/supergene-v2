@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Geno God List
-### Chapter 2838 
+### Chapter 2838
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  In the Extreme King's garden, Han Sen was sitting reading books. The lady who looked like Wan'er was sitting nearby watching him.
+In the Extreme King's garden, Han Sen was sitting reading books. The lady who looked like Wan'er was sitting nearby watching him.
 
 Han Sen's eyebrows noticeably rose. After a while of enduring the gaze, he could not help but ask Wan'er, who was actually God in disguise, "Can you not look at me like that?"
 

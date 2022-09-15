@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Make Him Stay
-### Chapter 814 
+### Chapter 814
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen returned his gaze to the Devil-Blood King. He seemed to be faring better than black tiger, and he seemed to have a better handle on enduring the effects. But, before long, his face too began to reveal the purple pattern.
+Han Sen returned his gaze to the Devil-Blood King. He seemed to be faring better than black tiger, and he seemed to have a better handle on enduring the effects. But, before long, his face too began to reveal the purple pattern.
 
 Roar! The black tiger's call was deafening, and it flapped its wings and flew towards the griffin. Its speed had doubled.
 

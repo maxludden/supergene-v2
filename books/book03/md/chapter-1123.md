@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Metal Card
-### Chapter 1123 
+### Chapter 1123
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The broken shells were strange to see. They did not look as if they had been removed from the creatures with a fine weapon. The whole cave was littered with the shells, and there was not a single living thing to be found.
+The broken shells were strange to see. They did not look as if they had been removed from the creatures with a fine weapon. The whole cave was littered with the shells, and there was not a single living thing to be found.
 
 When Han Sen reached the deepest recess of the cave, he was dismayed to learn there was nothing there. No eggs: nothing.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Primal Innocence
-### Chapter 343 
+### Chapter 343
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Fang Guotao was a renowned martial arts specialist who had become popular because he invented a hyper geno art named Primal Innocence.
+Fang Guotao was a renowned martial arts specialist who had become popular because he invented a hyper geno art named Primal Innocence.
 
 Among the unevolved, Primal Innocence was the fad of the moment. Four to five young man out of ten had read Fang's book elaborating on Primal Innocence.
 

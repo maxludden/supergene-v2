@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## The Strongest Genius in History
-### Chapter 1058 
+### Chapter 1058
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “Turn off the stream,” Lou Lan quickly said.
+“Turn off the stream,” Lou Lan quickly said.
 
 Lian Chan agreed. She hastily turned it off, with her face drained of all color.
 

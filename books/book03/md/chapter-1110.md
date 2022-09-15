@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Super Armor
-### Chapter 1110 
+### Chapter 1110
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  When Disloyal Knight was battling another super creature one-on-one, its best weapon was its halo. This was because it had no physical armaments.
+When Disloyal Knight was battling another super creature one-on-one, its best weapon was its halo. This was because it had no physical armaments.
 
 If two armies were going into battle, its halo could weaken the entire enemy horde. Its debuffing capabilities were excellent, and using them was where Disloyal Knight truly shone. But still, one-on-one, it was by no means a poor battler. It wasn’t losing against the mantis, it just wasn’t proving strong enough to kill it.
 

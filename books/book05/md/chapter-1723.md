@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Killing a Xenogeneic
-### Chapter 1723 
+### Chapter 1723
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “Commander, where should I lead it?” Han Sen asked calmly.
+“Commander, where should I lead it?” Han Sen asked calmly.
 
 Guris was shocked that the voice he heard was so relaxed. He barked down the line, “Go to the south-east and buy Mister Tiger some time! Wait until Mister Tiger is able to finish dealing with the other.”
 

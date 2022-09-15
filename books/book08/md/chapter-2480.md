@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Making a Deal
-### Chapter 2480 
+### Chapter 2480
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Lando opened his eyes and instantly froze. The person who had grabbed him was Han Sen, the same person that he had just hurled out of the area. “Why did you come back?”
+Lando opened his eyes and instantly froze. The person who had grabbed him was Han Sen, the same person that he had just hurled out of the area. “Why did you come back?”
 
 “I came back to ask you why you would save me,” Han Sen said casually.
 

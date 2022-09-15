@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Consume
-### Chapter 1952 
+### Chapter 1952
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “Cool! You became an ant; how did you do that? Teach me! If I learn it, I can sneak into any women’s locker rooms that I want to!” Wang Yuhang’s eyes opened wide. He looked at Han Sen, who was being held by Spell, and smiled.
+“Cool! You became an ant; how did you do that? Teach me! If I learn it, I can sneak into any women’s locker rooms that I want to!” Wang Yuhang’s eyes opened wide. He looked at Han Sen, who was being held by Spell, and smiled.
 
 Little Silver, Little Angel, and Dragon Lady looked at Han Sen’s ant body curiously.
 

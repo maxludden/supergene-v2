@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## I Want to Kill People
-### Chapter 3184 
+### Chapter 3184
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  In the space battleground, Yan Dan kept firing his arrows. He was like a crazy storm, flinging arrows at Han Sen without reprieve. He thought he could expose flaws in Han Sen’s heart by telling him what had happened in his absence.
+In the space battleground, Yan Dan kept firing his arrows. He was like a crazy storm, flinging arrows at Han Sen without reprieve. He thought he could expose flaws in Han Sen’s heart by telling him what had happened in his absence.
 
 The arrows did not harm Han Sen. His body was still able to keep that fight-to-survive mode going. Not a single arrow was able to bring harm to his body.
 

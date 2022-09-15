@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Scary Possibility
-### Chapter 3428 
+### Chapter 3428
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “God Hall Leader, who is this Human King?” Light Goddess asked with shock. “He can absorb Qin Xiu’s soul and body.”
+“God Hall Leader, who is this Human King?” Light Goddess asked with shock. “He can absorb Qin Xiu’s soul and body.”
 
 It was not only Light Goddess feeling this way. Many of the other Annihilation-class main gods were in shock as well. When Qin Xiu faced Human King, he looked defenseless.
 

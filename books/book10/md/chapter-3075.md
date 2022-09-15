@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Many Nobles Are Beneath the Prince's Feet
-### Chapter 3075 
+### Chapter 3075
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The sounds coming from the cloud were something Han Sen had heard before. They were the same sounds that had accompanied Golden Growler’s golden door.
+The sounds coming from the cloud were something Han Sen had heard before. They were the same sounds that had accompanied Golden Growler’s golden door.
 
 No one knew what was beyond the golden door. Whatever was pulled inside it was dead, that much was certain. At least, no one was able to leave when pulled inside.
 

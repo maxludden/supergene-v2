@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Jian and Sword
-### Chapter 3332 
+### Chapter 3332
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Yes, he was sticking in it. Han Sen quickly realized that his body had a problem. He used the Dongxuan Aura to scan his body. He was very shocked and jumped.
+Yes, he was sticking in it. Han Sen quickly realized that his body had a problem. He used the Dongxuan Aura to scan his body. He was very shocked and jumped.
 
 Han Sen was no stranger to the location he was in. There were weapons in every direction. The endless weapons forest suggested that this was the first sky of the 33 skies. It was Soldier Weapon Sky, which was also sometimes called Soldier Knife Sky. Han Sen had killed Weapon God there and retrieved Weapon God’s God Spirit. This was also the place where he had taken out the Inch Grey Sword.
 

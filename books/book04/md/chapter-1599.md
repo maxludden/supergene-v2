@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Fluorescent River
-### Chapter 1599 
+### Chapter 1599
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The king of mice stopped in front of the holes in the sand, then it called to the group of mice behind it. The sand mice immediately ran into the holes.
+The king of mice stopped in front of the holes in the sand, then it called to the group of mice behind it. The sand mice immediately ran into the holes.
 
 Nobody knew how deep the holes were, but they looked like an abyss. A great many sand mice had already entered, but it still wasn’t full.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Fairy
-### Chapter 3443 
+### Chapter 3443
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  A shocking number of Break World beasts had come. They were like dark clouds blanketing the sky, unceasing in their advance. Wang Yuhang was riding his bike out of the bai sema. He was already in his ultimate Super God Spirit mode. His entire body was so pretty to look at. Wherever the bike was, a bloody cascade came falling as the Break World beasts started to rip each other to shreds.
+A shocking number of Break World beasts had come. They were like dark clouds blanketing the sky, unceasing in their advance. Wang Yuhang was riding his bike out of the bai sema. He was already in his ultimate Super God Spirit mode. His entire body was so pretty to look at. Wherever the bike was, a bloody cascade came falling as the Break World beasts started to rip each other to shreds.
 
 Tang Zhenliu was having fun watching. He laughed and said, “Good job, Little Uncle. Is this all the God Chaos Party can throw at us? What was the point of bringing in all of those Break World beasts? With Little Uncle here, if a thousand come, a thousand will die. If 10,000 come, 10,000 will die.”
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Big Sky Demon
-### Chapter 3081 
+### Chapter 3081
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen’s heart had a dangerous feeling. His love for the woman was growing. He knew that if he really walked up next to the girl, great danger would befall him.
+Han Sen’s heart had a dangerous feeling. His love for the woman was growing. He knew that if he really walked up next to the girl, great danger would befall him.
 
 Since he found the crux of his issues, he stopped hesitating. He exploded with the Xuan Yellow Sutra. He forced himself to break the rules of the world that suppressed him. His entire body was like a demon exploding with a red flame.
 

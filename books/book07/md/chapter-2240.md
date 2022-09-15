@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Ice Blue Power
-### Chapter 2240 
+### Chapter 2240
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “Han Sen, you can still turn back from this,” Ice Blue Knight King said gravely.
+“Han Sen, you can still turn back from this,” Ice Blue Knight King said gravely.
 
 Han Sen didn’t answer, though. Instead, he kept thinking.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Berserk Super Creature
-### Chapter 655 
+### Chapter 655
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Lu Hui was quickly realizing that the bone elephant was indestructible. He called for his archers to fire arrows at it from another direction, in an attempt to at least draw its attention away from its current course, so it could be led away from the Devil's Shelter it currently was galloping towards. If it reached the shelter, the shelter would be destroyed.
+Lu Hui was quickly realizing that the bone elephant was indestructible. He called for his archers to fire arrows at it from another direction, in an attempt to at least draw its attention away from its current course, so it could be led away from the Devil's Shelter it currently was galloping towards. If it reached the shelter, the shelter would be destroyed.
 
 The mounted bowmen were directly under Lu Hui's command. They started provoking the bone elephant with a tight, tidy formation that shifted and weaved its way to the accompaniment of a drumbeat.
 

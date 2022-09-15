@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Death Is Coming
-### Chapter 1663 
+### Chapter 1663
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Because Han Sen could not provide the geno armor, he was unable to strike a deal with God’s Retribution.
+Because Han Sen could not provide the geno armor, he was unable to strike a deal with God’s Retribution.
 
 But Han Sen wasn’t expecting anyone to help him in the first place. He might be in danger in the Alliance, but he didn’t think God’s Organization could bring him any harm in the Fourth God’s Sanctuary.
 

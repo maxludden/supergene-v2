@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Becoming an Earl
-### Chapter 1969 
+### Chapter 1969
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The seventh floor’s Jade Air flowed out like a liquid. It hung visibly in the air.
+The seventh floor’s Jade Air flowed out like a liquid. It hung visibly in the air.
 
 Han Sen used Petrify to turn his flesh into stone, so he didn’t feel it very much when the Jade Air connected with his body. He used The Story of Genes to absorb the Jade Air.
 

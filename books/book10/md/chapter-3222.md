@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Only the Stronger Earn Respect
-### Chapter 3222 
+### Chapter 3222
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen had stopped Bao’er from attacking, but Bury Path God’s power had hit him hard. Although he used power to resist the impact of his fall, he still felt as if his bones were hurting something fierce.
+Han Sen had stopped Bao’er from attacking, but Bury Path God’s power had hit him hard. Although he used power to resist the impact of his fall, he still felt as if his bones were hurting something fierce.
 
 “Dust Sky’s substance chains are so weird,” Han Sen said with a look of seriousness. “Even Super Spank power is unable to break them. They would only end up absorbed too. There is likely only one option to break one of these substance chains.”
 

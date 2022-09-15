@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Not Even a God Can Block It
-### Chapter 1819 
+### Chapter 1819
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Yisha frowned. It was obvious that the man had given her a challenge that was harder than she initially thought
+Yisha frowned. It was obvious that the man had given her a challenge that was harder than she initially thought
 
 Han Sen had already generated his geno armor, so it was too late for him to change technique now. Aside from humans, not many creatures could practice two geno arts in order to create two types of geno armor.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## The Xenogeneic Born in the Bone Blood
-### Chapter 2247 
+### Chapter 2247
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen looked at Fox Queen without speaking. Truth be told, he didn’t actually believe everything that she had told him.
+Han Sen looked at Fox Queen without speaking. Truth be told, he didn’t actually believe everything that she had told him.
 
 People say that beautiful women are often liars. Judging from how pretty she was, she had to be an absolutely fantastic liar.
 

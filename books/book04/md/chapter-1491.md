@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Do It by Yourself
-### Chapter 1491 
+### Chapter 1491
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen looked around him, and he was able to understand why there were no other creatures around. They must have vacated the area in fear of the big purple crab. Watching the big purple crab use its shell to block the king spirits’ attack was enough for Han Sen to tell how strong it was.
+Han Sen looked around him, and he was able to understand why there were no other creatures around. They must have vacated the area in fear of the big purple crab. Watching the big purple crab use its shell to block the king spirits’ attack was enough for Han Sen to tell how strong it was.
 
 While the crab was occupied by the king spirits, Han Sen took the time to examine it. Its shell was black and purplish, like obsidian. Its entire body was like that, and you couldn’t see a single gap or crevice in its form. It was like it had been wholly forged from steel.
 

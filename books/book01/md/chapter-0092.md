@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Atomic Fission
-### Chapter 92 
+### Chapter 92
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen was thrilled to see Qin Xuan moving away. A storm of katana strikes poured on the lady as Bladestorm was fully brought into play. Each strike was faster than the last. Qin Xuan was forced to defend herself and had no chance to attack.
+Han Sen was thrilled to see Qin Xuan moving away. A storm of katana strikes poured on the lady as Bladestorm was fully brought into play. Each strike was faster than the last. Qin Xuan was forced to defend herself and had no chance to attack.
 
 Han Sen knew well that Qin Xuan was nimble. He had been practicing Ghosthaunt for a long time now and had improved a lot on his footwork. However, he had never been able to get close to her in any combat except for the first time when she had underestimated him.
 

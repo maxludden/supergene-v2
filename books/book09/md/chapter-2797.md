@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Going to King’s Kingdom Again
-### Chapter 2797 
+### Chapter 2797
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “How about I tell you the secret of the chessboards, and you let me go,” Han Sen said. “Just pretend you have never seen me before.”
+“How about I tell you the secret of the chessboards, and you let me go,” Han Sen said. “Just pretend you have never seen me before.”
 
 Holy Pirate had to shake his head. “Even thieves have a moral code. I accepted a job and received the sky silk picture. I cannot go back on my word and break my promise.”
 

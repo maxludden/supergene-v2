@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Ancient God Space
-### Chapter 2022 
+### Chapter 2022
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen was in a bad mood. He had been in Ancient God for half a day, and he had already walked thirty miles. He was sweating.
+Han Sen was in a bad mood. He had been in Ancient God for half a day, and he had already walked thirty miles. He was sweating.
 
 Under the protection of Yun Changkong, the tenth elder, Han Sen arrived in the Ancient God space. When he arrived, though, he realized that some power had entangled him. The power he felt was reminiscent of Sky Heart Lock. It was a little different, but the effects were similar. It hindered Han Sen’s movement.
 

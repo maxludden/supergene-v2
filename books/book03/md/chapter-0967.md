@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Cocky Little Bear
-### Chapter 967 
+### Chapter 967
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen’s fitness level was just over a thousand. Compared to sacred-blood creatures, which had fitness levels of over two thousand, it was not difficult to understand why slaying such beasts was a trying task.
+Han Sen’s fitness level was just over a thousand. Compared to sacred-blood creatures, which had fitness levels of over two thousand, it was not difficult to understand why slaying such beasts was a trying task.
 
 Han Sen could only use dongxuan movements to help him evade the onslaught of attacks that came his way.
 

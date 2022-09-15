@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Stranger
-### Chapter 199 
+### Chapter 199
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  "Sister, what brought you here?" Han Sen took Huangfu to a green area outside the warehouse. No one was nearby since it was approaching midnight.
+"Sister, what brought you here?" Han Sen took Huangfu to a green area outside the warehouse. No one was nearby since it was approaching midnight.
 
 "Can’t I come to you for no reason?" Huangfu looked at Han Sen ambiguously.
 

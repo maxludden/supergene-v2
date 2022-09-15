@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Tree Door
-### Chapter 910 
+### Chapter 910
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen had better eyesight, and he saw that the person was dead far before Chu Ming did.
+Han Sen had better eyesight, and he saw that the person was dead far before Chu Ming did.
 
 The dead person was a man, and he was clad in an outfit of the Alliance. He had been there for some time, it seemed.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Purple-haired Monkey
-### Chapter 3053 
+### Chapter 3053
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Raging wind blades came flying out of the woods. It was like knives cutting the branches and trees. They quickly cut down a few of them in the forest.
+Raging wind blades came flying out of the woods. It was like knives cutting the branches and trees. They quickly cut down a few of them in the forest.
 
 Han Sen and the others saw them clearly. The wind blades were coming out of Ou Yang Qiu Shan. The young man’s situation was very bad.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Waiting for You to Defeat Me
-### Chapter 1483 
+### Chapter 1483
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  One Hundred Swords couldn’t correctly cast Ten Thousand Swords on Han Sen, and without further ado, he conceded and abandoned the battleground.
+One Hundred Swords couldn’t correctly cast Ten Thousand Swords on Han Sen, and without further ado, he conceded and abandoned the battleground.
 
 Although Han Sen won, it wasn’t a scary and unsettling victory like Elysian Moon’s wins. When Han Sen reached the next round, all his opponents decided to fight until there was no choice for them but to concede.
 

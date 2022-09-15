@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Archery Queen
-### Chapter 1799 
+### Chapter 1799
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Yisha hated Han Sen. Her power was amassing, building in strength. The purple flame broke through the enforced limit of Demon Grave. The power in her body was increasing.
+Yisha hated Han Sen. Her power was amassing, building in strength. The purple flame broke through the enforced limit of Demon Grave. The power in her body was increasing.
 
 But breaking through the power limit did not mean the suppression of Demon Grave was ineffective. Yisha’s power was too strong, so she broke past a limit She was crossing a line that allowed her to use a power that was not supposed to be in play there. Only elites like Yisha, who were halfway to becoming a god, had the power to do this. Not even an average King class could accomplish the same thing.
 

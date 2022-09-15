@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Pick One
-### Chapter 2515 
+### Chapter 2515
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “Fortune teller, where will you run this time?” A woman was gripping a knife in a rock-steady hand. She was holding the knife to an old man’s neck.
+“Fortune teller, where will you run this time?” A woman was gripping a knife in a rock-steady hand. She was holding the knife to an old man’s neck.
 
 Cough, cough!
 

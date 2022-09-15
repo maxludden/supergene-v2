@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Sister Wei Wei
-### Chapter 540 
+### Chapter 540
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Blood flows through all living things. After 36 small cycles, a major cycle is completed. Han Sen felt the heaviness of his body disperse, taking on the weight of a feather. There was a serenity to his existence that he had not previously felt, as if the cells in his body had all come alive. His metabolism had quickened, and it energized his cells. The sweet smell of fresh, virgin grass permeated the air.
+Blood flows through all living things. After 36 small cycles, a major cycle is completed. Han Sen felt the heaviness of his body disperse, taking on the weight of a feather. There was a serenity to his existence that he had not previously felt, as if the cells in his body had all come alive. His metabolism had quickened, and it energized his cells. The sweet smell of fresh, virgin grass permeated the air.
 
 "Hey, did you apply perfume?" Ji Yanran was sitting next to Han Sen and looked at him. She sniffed and drew herself closer, so that she could inhale his scent.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Bury Path God
-### Chapter 3220 
+### Chapter 3220
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  It had to be said that reverse Super God Spirit mode was very strong. Although it was affected by the power in Dusk Sky, it was not like ordinary power that was sapped away quickly. The power was still very destructive.
+It had to be said that reverse Super God Spirit mode was very strong. Although it was affected by the power in Dusk Sky, it was not like ordinary power that was sapped away quickly. The power was still very destructive.
 
 Although it was affected too, the situation was better for her than it was for Han Sen.
 

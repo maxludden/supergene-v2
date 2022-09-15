@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## It Is Too Easy to Beat You
-### Chapter 134 
+### Chapter 134
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  This duel had caught the attention of the entire school. No one dared to gamble in a military school, but students were betting in private and more were betting on Li Yufeng.
+This duel had caught the attention of the entire school. No one dared to gamble in a military school, but students were betting in private and more were betting on Li Yufeng.
 
 After all, Li Yufeng was the best player on campus and his skills were indeed amazing. For the last two years, the reason Blackhawk got good ranking in the Alliance was him. So students trusted him.
 

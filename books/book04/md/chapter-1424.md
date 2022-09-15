@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Killing
-### Chapter 1424 
+### Chapter 1424
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “D*mn you all!” Han Sen gritted his teeth.
+“D*mn you all!” Han Sen gritted his teeth.
 
 Han Sen allowed the spirits to hear what Luo Lan said because he wished for them
 

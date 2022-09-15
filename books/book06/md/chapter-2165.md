@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Knife Cuts Ocean Mountain
-### Chapter 2165 
+### Chapter 2165
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen continued to grip the handle of the knife as he knelt, motionless. He was frozen; controlling the knife silk took every ounce of his concentration.
+Han Sen continued to grip the handle of the knife as he knelt, motionless. He was frozen; controlling the knife silk took every ounce of his concentration.
 
 If he did not focus on the knife silks, they would hit the mountain instead of traveling the thousands of meters he needed them to.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## The Chance for Escape
-### Chapter 1466 
+### Chapter 1466
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Although the woman in the painting wasn’t willing to elaborate on her association with Gu Qingcheng, Han Sen thought it might have been for the best. Gu Qingcheng was most likely watching his every move, anyway.
+Although the woman in the painting wasn’t willing to elaborate on her association with Gu Qingcheng, Han Sen thought it might have been for the best. Gu Qingcheng was most likely watching his every move, anyway.
 
 But Han Sen got ahead of himself, and it turned out she hadn’t actually seen him enter the painting. She watched him intently, but she had only seen Han Sen standing in front of the stone doing absolutely nothing. She hadn’t seen him enter the image on the rock, at all.
 

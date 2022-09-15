@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Faking the Test
-### Chapter 2206 
+### Chapter 2206
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Over the past few centuries, the Extreme King had put much of their focus on the systems of chaos. The Ice Blue Knights were pioneers, and their primary killing fields were those dangerous systems. They knew little about matters concerning other places in the universe. Because of this, they were unaware of who Han Sen was.
+Over the past few centuries, the Extreme King had put much of their focus on the systems of chaos. The Ice Blue Knights were pioneers, and their primary killing fields were those dangerous systems. They knew little about matters concerning other places in the universe. Because of this, they were unaware of who Han Sen was.
 
 The Extreme King did have an information gathering department, so they did know a thing or two about Han Sen. But the Extreme King thought only people like Moon Wheel King or Yisha were worth focusing on. Not many people knew Night River King, at all. The only people that cared for that sort of information were the locals of Narrow Moon.
 

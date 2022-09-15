@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Breakthrough
-### Chapter 3339 
+### Chapter 3339
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The jian’s body was delivered another gash as a consequence of the saw sword. After the slash, Han Sen was sent flying away. He struck a shield. The jian’s body pierced through the shield. He was now behind the shield.
+The jian’s body was delivered another gash as a consequence of the saw sword. After the slash, Han Sen was sent flying away. He struck a shield. The jian’s body pierced through the shield. He was now behind the shield.
 
 The little girl came out of nowhere. She clutched the handle of the jian and pulled Han Sen away from the broken shield.
 

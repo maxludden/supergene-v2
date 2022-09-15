@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Go Back
-### Chapter 3241 
+### Chapter 3241
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  It was very quiet inside the old temple. There was still a scary light being released, along with subtle chanting.
+It was very quiet inside the old temple. There was still a scary light being released, along with subtle chanting.
 
 “Jing Zhen is hoping we can take back the dragon air,” Jing Zhen prayed again.
 

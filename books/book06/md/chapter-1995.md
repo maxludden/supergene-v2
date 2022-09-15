@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## One Sword Wakes the Heart Demon
-### Chapter 1995 
+### Chapter 1995
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “Damn! This guy has a powerful sonic skill?” The audience at Sky Palace had their mouths wide open.
+“Damn! This guy has a powerful sonic skill?” The audience at Sky Palace had their mouths wide open.
 
 Yun Suyi looked very happy. She looked at Yun Changkong and asked, “Dad, does that mean that Han Sen passed the test?”
 

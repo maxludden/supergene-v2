@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Glory
-### Chapter 710 
+### Chapter 710
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Victory! Non-stop victory.
+Victory! Non-stop victory.
 
 Dollar won again and again, which thrilled the Alliance. More and more people became excited about the Divinity's Bout, as the focus on Dollar increased.
 

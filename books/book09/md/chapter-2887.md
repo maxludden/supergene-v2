@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Pressuring Burning Lamp
-### Chapter 2887 
+### Chapter 2887
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “It is a shame Han Sen did not join the geno god list fights. If he had taken part, they would have been even more exhilarating.”
+“It is a shame Han Sen did not join the geno god list fights. If he had taken part, they would have been even more exhilarating.”
 
 “It is no wonder why he has chosen to challenge the Buddha. He really is quite strong.”
 

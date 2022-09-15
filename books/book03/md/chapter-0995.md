@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Invisible Versus an Equal
-### Chapter 995 
+### Chapter 995
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  A white light shone brightly as Han Sen stepped onto the physical clouds of Shen Xiao. Then, he said, “I’m afraid this will be my final fight in the third spirit base. No one will dare fight me, after what they are about to see. That being said, I’ll grant you the opportunity to forfeit before we begin.”
+A white light shone brightly as Han Sen stepped onto the physical clouds of Shen Xiao. Then, he said, “I’m afraid this will be my final fight in the third spirit base. No one will dare fight me, after what they are about to see. That being said, I’ll grant you the opportunity to forfeit before we begin.”
 
 The spirits that watched, all believed Han Sen was trying to bluff his way out of the fight.
 

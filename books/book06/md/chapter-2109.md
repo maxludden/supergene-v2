@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Geno Being Scroll
-### Chapter 2109 
+### Chapter 2109
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen sat in an airship on his way back to Sky Palace. When the ship dropped out of hyperspeed, Han Sen was suddenly overwhelmed by a sense of extreme worry and nervousness.
+Han Sen sat in an airship on his way back to Sky Palace. When the ship dropped out of hyperspeed, Han Sen was suddenly overwhelmed by a sense of extreme worry and nervousness.
 
 Without hesitation, Han Sen summoned his Demon Bug Bai Sema to protect himself. Then, there was a light. Everything was consumed by that sudden scary power that was faster than the speed of sound.
 

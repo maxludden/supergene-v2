@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Fighting an Angel
-### Chapter 212 
+### Chapter 212
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Crack!
+Crack!
 
 As a mutant weapon, the spear was cut into halves by the diamond sword.
 

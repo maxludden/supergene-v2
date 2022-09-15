@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Whose Broadsword
-### Chapter 37 
+### Chapter 37
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  A crowd of spectators started to gather. They were used to seeing Han Sen getting bullied.
+A crowd of spectators started to gather. They were used to seeing Han Sen getting bullied.
 
 "How do you want me to compensate you?" said Han Sen calmly, watching Liu Feng approaching him.
 

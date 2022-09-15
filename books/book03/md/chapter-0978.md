@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## The White Aqua Dragon Is Set Free
-### Chapter 978 
+### Chapter 978
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The dragon’s rage put the water in turmoil, which made it a struggle for Han Sen to stay on course. Right now, he was attempting to dive towards the rocks to which the dragon’s chains were anchored.
+The dragon’s rage put the water in turmoil, which made it a struggle for Han Sen to stay on course. Right now, he was attempting to dive towards the rocks to which the dragon’s chains were anchored.
 
 After diving down to a depth of one hundred meters, he still couldn’t see the bottom of the lake, but he did see where the chains led.
 

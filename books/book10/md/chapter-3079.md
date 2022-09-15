@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Holy Light River
-### Chapter 3079 
+### Chapter 3079
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Holy Light River was on the highest highland on Planet Gu Ya called Mi La Di Ya. It was the highest river there. It had the name “river in the sky.”
+Holy Light River was on the highest highland on Planet Gu Ya called Mi La Di Ya. It was the highest river there. It had the name “river in the sky.”
 
 The number of people that dared to go there were few. The entire length of Holy Light River was a few dozen thousands of miles long. It had countless smaller rivers branching off it too. Wherever the river reached, it was in proximity with a super big land pulse. In the past few billions of years, God only knew how many gene races had been birthed by it.
 

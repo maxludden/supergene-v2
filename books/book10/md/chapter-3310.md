@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Student Meeting a Teacher
-### Chapter 3310 
+### Chapter 3310
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Pang!
+Pang!
 
 An airship was hit by a shockwave unleashed by a Break World beast’s tail whip. It created a big hole. The ship lost control and rolled around in the air.
 

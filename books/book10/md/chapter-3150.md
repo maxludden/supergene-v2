@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Qin Bai Practicing With the Sword
-### Chapter 3150 
+### Chapter 3150
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “Han Sen, you have a daughter that old!” Qin Bai looked at Bao’er with shock.
+“Han Sen, you have a daughter that old!” Qin Bai looked at Bao’er with shock.
 
 Qin Bai wasn’t in the mood to concern himself with that. He quickly asked, “Han Sen, do you have a method or not? Tell me quickly.”
 

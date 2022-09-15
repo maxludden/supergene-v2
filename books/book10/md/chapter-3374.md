@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Almost Died
-### Chapter 3374 
+### Chapter 3374
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Following the strong will, Han Sen’s body started to dissolve.
+Following the strong will, Han Sen’s body started to dissolve.
 
 Han Sen, Wan’er, and Chaos split into three separate entities. They all flew in different directions.
 

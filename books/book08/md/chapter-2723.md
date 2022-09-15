@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Weird Black Crystal
-### Chapter 2723 
+### Chapter 2723
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Empty God wasn’t afraid of Han Sen, but this whole scenario was too embarrassing for him to bear. He had tried to trick a mere child, but he had failed miserably. More than once. He had also lost a true god item—the Star Gauge Mirror.
+Empty God wasn’t afraid of Han Sen, but this whole scenario was too embarrassing for him to bear. He had tried to trick a mere child, but he had failed miserably. More than once. He had also lost a true god item—the Star Gauge Mirror.
 
 He started to step toward them, but he knew that he couldn’t do anything to Han Sen. He couldn’t take the Star Gauge Mirror back, and Han Sen might even mock him for trying.
 

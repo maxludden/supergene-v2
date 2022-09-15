@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Cheating
-### Chapter 87 
+### Chapter 87
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Yang Manli led Han Sen in front of a sealed device the size of a train compartment. The device was around 150 feet long. She turned it on and entered some data before she took off her jacket, revealing a black professional training suit underneath.
+Yang Manli led Han Sen in front of a sealed device the size of a train compartment. The device was around 150 feet long. She turned it on and entered some data before she took off her jacket, revealing a black professional training suit underneath.
 
 The suit was made of a material unknown to Han Sen, which had a formfitting effect. Han Sen noticed that Yang Manli had a great body. Her legs were especially long and straight, seducing one to touch them.
 

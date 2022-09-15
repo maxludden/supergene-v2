@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Crystallized Body
-### Chapter 1080 
+### Chapter 1080
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen was too injured to fly, so he summoned Disloyal Knight and commanded that he pick Han Sen up and fly him to safety instead.
+Han Sen was too injured to fly, so he summoned Disloyal Knight and commanded that he pick Han Sen up and fly him to safety instead.
 
 Han Sen had not been physically damaged, but the light had crystallized his organs, veins, muscles, and bones.
 

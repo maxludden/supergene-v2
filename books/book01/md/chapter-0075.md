@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## One in a Hundred
-### Chapter 75 
+### Chapter 75
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  "Do not be afraid, Dollar is on his own and we can join forces to get rid of him first," a young man geared up and said.
+"Do not be afraid, Dollar is on his own and we can join forces to get rid of him first," a young man geared up and said.
 
 "Exactly, let’s get rid of the little angel first." Someone looked at Han Sen greedily, as if he were looking at a naked woman.
 
@@ -57,7 +58,7 @@ Fortunately, it took him only a second before he took the pen and said yes.
 
 But the next second, Han Sen was embarrassed. These little girls only gave him a pen, but did not give him any kind of paper. Where should he sign?
 
-"Where do I sign?" Hansson asked in a hoarse voice.
+"Where do I sign?" Han Sen asked in a hoarse voice.
 
 "Dollar, can you please sign here?" A plump girl stuck out her breasts, stretching out her blouse.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Treasure in the Box
-### Chapter 3074 
+### Chapter 3074
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “Robbery? From where could I have possibly stolen these things?” Han Sen took out a silver mutant eight sound bug and tossed it to Mister Yang. Mister Yang picked up the eight sound bug egg and looked at it. His eyes almost popped out of his skull. “Mister, did you really dig this up?”
+“Robbery? From where could I have possibly stolen these things?” Han Sen took out a silver mutant eight sound bug and tossed it to Mister Yang. Mister Yang picked up the eight sound bug egg and looked at it. His eyes almost popped out of his skull. “Mister, did you really dig this up?”
 
 Han Sen laughed and replied, “Of course. Does it look like I gave birth to it?”
 

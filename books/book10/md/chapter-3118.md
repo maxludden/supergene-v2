@@ -6,30 +6,31 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Top-class Talent Gene Race
-### Chapter 3118 
+### Chapter 3118
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  <div class="tables">
+<div class="tables">
     <table class="beast">
         <tr>
-            <th colspan="2">Gene Race</th>
+            <th>Gene Race</th>
         </tr><tr>
-            <td>Mutant God Class</td>
-            <td>Gold Wing Peacock King</td>
+            <td>Gold Wing Peacock King<br>
+            	<span class="type">Mutant God Class</de>
         </tr><tr>
-            <td colspan="2" class="note">Note: Ultimate</td>
+            <td class="note">Form: Ultimate</td>
         </tr><tr>
-            <th colspan="2">Skills</th>
+        	<th>Skills</th>
         </tr><tr>
-            <td colspan="2">Gold God Ring</td>
+        	<td>Gold God Ring</td>
         </tr><tr>
-            <td colspan="2">Peakock King eye</td>
+        	<td>Peacock King Eye</td>
         </tr><tr>
-            <td colspan="2">Sky Full of Feathers</td>
+        	<td>Sky Full of Feathers</td>
         </tr>
     </table>
     <!--Gold wing peacock king: Mutant god-class gene race (ultimate mode)-->
@@ -58,9 +59,7 @@ A blurry, gold, glassy god light shone on Han Sen. The peacock wings, which were
 
 After combining with it, Han Sen was affected by the gold wing peacock king’s genes and presence. His face and body seemed to become longer. He looked rather pretty but somewhat like an evil king.
 
-Bald Guy looked at Han Sen with shock. After a while, he swallowed his saliva and asked, “Han Sen, what is that gene race you have? Where did you get it from? Do you still have
-
-it?”
+Bald Guy looked at Han Sen with shock. After a while, he swallowed his saliva and asked, “Han Sen, what is that gene race you have? Where did you get it from?”
 
 Li Bing Yu looked at Han Sen. She had a strange expression. After combining with the gold wing peacock king, Han Sen looked far too pretty and handsome. He looked more handsome than an evil god. His entire body had an evil, pretty aura that was quite attractive.
 

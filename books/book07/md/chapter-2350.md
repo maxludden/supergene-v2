@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Water God Level Up
-### Chapter 2350 
+### Chapter 2350
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Katcha!
+Katcha!
 
 The gold light spun. Han Sen’s hands were so strong that he managed to pull two of the dragon’s teeth right out.
 

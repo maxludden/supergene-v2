@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Cactus
-### Chapter 1561 
+### Chapter 1561
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “What do you want?” Han Sen looked at Luo Yu, frowning.
+“What do you want?” Han Sen looked at Luo Yu, frowning.
 
 Luo Yu curled his lips and said, “You want to go hunt some super creatures, right? Then, to respect Luo Lan, I’ll give you this chance.”
 

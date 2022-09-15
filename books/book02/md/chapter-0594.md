@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Ridiculous
-### Chapter 594 
+### Chapter 594
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  "Brother Han, you have treated me like a little brother. If you are willing to help me, I will treat you with the reverence of a real brother." Qi Xiuwen looked at Han Sen when he spoke.
+"Brother Han, you have treated me like a little brother. If you are willing to help me, I will treat you with the reverence of a real brother." Qi Xiuwen looked at Han Sen when he spoke.
 
 "If I said I was willing to help you, would you honestly believe I would?" Han Sen responded, looking calmly back at Qi Xiuwen.
 

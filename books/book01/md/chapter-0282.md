@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Same Price
-### Chapter 282 
+### Chapter 282
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Xu Ruyan was a bit worried that Han Sen might know about the life lotus. Although few people had seen a nest, all the information was readily available on the Skynet. If Han Sen could tell that there was a nest here, that would be horrible news to her.
+Xu Ruyan was a bit worried that Han Sen might know about the life lotus. Although few people had seen a nest, all the information was readily available on the Skynet. If Han Sen could tell that there was a nest here, that would be horrible news to her.
 
 Not seeing Han Sen all day, Xu Ruyan became a bit uneasy. She quickly consulted with Fu Shan and went to find Han Sen along with him and some other guys.
 

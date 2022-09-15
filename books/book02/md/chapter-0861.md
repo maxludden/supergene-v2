@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Royal Princess Team
-### Chapter 861 
+### Chapter 861
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The Crystallizer civilization lessons he had received in the past were mostly the same, but this time, Han Sen noticed they were going into a lot more depth.
+The Crystallizer civilization lessons he had received in the past were mostly the same, but this time, Han Sen noticed they were going into a lot more depth.
 
 After the training was over, Han Sen went to a restaurant with Fat Squad Leader and his teammates.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Back to the Stone Hall
-### Chapter 2258 
+### Chapter 2258
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “Shit! Why are they here?” Han Sen reacted immediately, directing Little Star to dive back into the dark river.
+“Shit! Why are they here?” Han Sen reacted immediately, directing Little Star to dive back into the dark river.
 
 Before Little Star escaped beneath the dark waters, Han Sen felt a frightening wash of power come for him. Within one second, the river was vaporized into nothing.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Crystal Furnace
-### Chapter 2570 
+### Chapter 2570
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen thought for a while. He brought a few pieces of fruit out of Destiny’s Tower to give to the Crocodile God.
+Han Sen thought for a while. He brought a few pieces of fruit out of Destiny’s Tower to give to the Crocodile God.
 
 “This little Crocodile God is just a baby. It should be an easy thing to please. All I need to do is keep it happy, then I can do anything I want. I wonder if it is a vegetarian? I don’t have much meat stockpiled at the moment.” Ever since Han Sen started collecting King xenogeneic genes, he hadn’t been eating anything else. The fruit was something he had saved for Bao’er.
 

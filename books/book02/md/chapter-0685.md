@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Shocking the Alliance Again
-### Chapter 685 
+### Chapter 685
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Huang Yunlong was the north's champion and top human evolver; not even Han Sen could beat him easily.
+Huang Yunlong was the north's champion and top human evolver; not even Han Sen could beat him easily.
 
 But before the adiraid, his persona had shriveled to that of a fleeing scoundrel. The adiraid caught up with him easily. A few cuts and slices removed his armor. Then, his helmet was removed, which came terrifyingly close to taking his scalp off along with it.
 

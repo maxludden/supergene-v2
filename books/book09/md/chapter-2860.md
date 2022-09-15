@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Deep Abyss Knight
-### Chapter 2860 
+### Chapter 2860
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “I can’t believe this. Dragon One was killed like that… The Dragon… It is game over…” The woman’s voice sounded extremely weird. Although no one could see Demon Alpha’s body in space, her vision was still scouring that portion of the empty. It was like a body that looked like a Demon and a ghost was in front of the woman.
+“I can’t believe this. Dragon One was killed like that… The Dragon… It is game over…” The woman’s voice sounded extremely weird. Although no one could see Demon Alpha’s body in space, her vision was still scouring that portion of the empty. It was like a body that looked like a Demon and a ghost was in front of the woman.
 
 Sky Palace Leader sighed and said, “Success is brave, but there is also bravery in failure. I hope the Dragons will be able to overcome this loss. I hope they do not sink in the river of time.”
 

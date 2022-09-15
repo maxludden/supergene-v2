@@ -1,18 +1,19 @@
-Title:Ass Freak 
-Chapter:2 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+Title:Ass Freak
+Chapter:2
+Section:1
+Book:1
+CSS:../Styles/style.css
 viewport: width=device-width
-  
+
 ## Ass Freak
-### Chapter 2 
+### Chapter 2
+
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
-  
 
-  
+
+
   Han Sen was stunned by the sudden voice in his head, and he could hardly believe it was true. Sacred-blood creature and sacred-blood beast soul: were those even real?
 
 The creatures of God’s Sanctuary were divided into four parts: ordinary creatures, primitive creatures, mutant creatures and sacred-blood creatures. Different geno points could be gained by eating flesh of creatures of different types.
@@ -23,7 +24,7 @@ Sacred-blood beast souls were without any doubt the best beast souls. Any sacred
 
 When Han Sen finally realized what had really happened, he was almost trembling. Holding the dagger to pick open the shell of the black beetle, he filled his mouth with meat as tender as jelly.
 
-> "Flesh Of Black Beetle Eaten. One Sacred Geno Point Gained."
+> "Flesh of Black Beetle eaten. One sacred geno point gained."
 
 Feeling the flesh turn to energy and hearing the voice in his mind almost brought Han Sen to tears.
 
@@ -31,9 +32,9 @@ He grabbed a claw and sucked out all meat from it, feeling waves of energy hitti
 
 There was not much difference between eating a sacred-blood black beetle and eating a crab. After sucking the meat clean from all six claws, Han Sen started to cut the meat inside the shell.
 
-> "Flesh Of Black Beetle Eaten. One Sacred Geno Point Gained."
+> "Flesh of Black Beetle eaten. One sacred geno point gained."
 >
-> "Flesh Of Black Beetle Eaten. One Sacred Geno Point Gained."
+> "Flesh of Black Beetle eaten. One sacred geno point gained."
 
 The strange voice continuously sounded in Han Sen’s mind and made him feel on top of the world.
 

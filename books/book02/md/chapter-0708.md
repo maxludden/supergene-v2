@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## A Father's Love
-### Chapter 708 
+### Chapter 708
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Everyone was shocked; they had no idea why Dollar just stopped fighting all of a sudden. They believed, if he accepted the strike that was coming his way, he'd end up half dead.
+Everyone was shocked; they had no idea why Dollar just stopped fighting all of a sudden. They believed, if he accepted the strike that was coming his way, he'd end up half dead.
 
 Everyone thought Dollar might have had a trump card up his sleeve, but he didn't. Queen's leg struck Han Sen's head without resistance.
 

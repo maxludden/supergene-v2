@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Messy Fight
-### Chapter 2182 
+### Chapter 2182
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The whole of Steel City was a chaotic mess. All the Dukes and Marquises had been gathered in the city, and the tension was electric. The different races all suspected one-another, which led to many conflicts and brawls that served no purpose.
+The whole of Steel City was a chaotic mess. All the Dukes and Marquises had been gathered in the city, and the tension was electric. The different races all suspected one-another, which led to many conflicts and brawls that served no purpose.
 
 Ultimately, the traitor stayed hidden. And above all, that meant Han Sen had no choice but to remain where he was. He was not allowed to leave.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Zhao Ning'er
-### Chapter 3261 
+### Chapter 3261
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  In many types of species, the right to mate was something to achieve.
+In many types of species, the right to mate was something to achieve.
 
 Male deer wanted to mate. When they fought off their opponents, they would lock horns. They would continue to fight even if their antlers broke.
 

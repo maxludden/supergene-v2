@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Geno God Square
-### Chapter 1414 
+### Chapter 1414
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “Isn’t the pendant a geno core given by this God dude? Can its power really not be enough to open the coffin?” Han Sen asked the creature. He wasn’t too surprised the Nine-Life Cat was able to talk, given its reputation.
+“Isn’t the pendant a geno core given by this God dude? Can its power really not be enough to open the coffin?” Han Sen asked the creature. He wasn’t too surprised the Nine-Life Cat was able to talk, given its reputation.
 
 Nine-Life Cat squinted its eyes responded to him, saying, “This thing is not a geno core. If God had it, of course he could open the coffin. But you are not God. It’s perfectly normal for you not to be able to open it.”
 

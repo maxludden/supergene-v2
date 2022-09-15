@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Scapegoat
-### Chapter 2844 
+### Chapter 2844
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  "A time and space real super god body with Huangfu Jing's personal super strong attack powers makes her a killing queen-kind of existence." Han Sen could not help but compliment her.
+"A time and space real super god body with Huangfu Jing's personal super strong attack powers makes her a killing queen-kind of existence." Han Sen could not help but compliment her.
 
 "Interesting time and space movement talents. Since when have crystallizers been so talented?" God squinted and looked at Huangfu Jing exiting the stage with elegance.
 

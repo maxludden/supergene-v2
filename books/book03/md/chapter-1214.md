@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Thorn Is Born
-### Chapter 1214 
+### Chapter 1214
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  A red rose burst forth and stood erect in the pool. Its lifeforce was strange, wavering queerly between powerful and weak.
+A red rose burst forth and stood erect in the pool. Its lifeforce was strange, wavering queerly between powerful and weak.
 
 Snowball approached the pool, but he was clearly afraid of this enigmatic flower. As Han Sen observed the rose, he felt a rumble come from his Sea of Soul.
 

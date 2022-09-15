@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Chaos
-### Chapter 1794 
+### Chapter 1794
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen frowned, but he didn’t have much of an opinion about Mister Ji breaking promises.
+Han Sen frowned, but he didn’t have much of an opinion about Mister Ji breaking promises.
 
 Mister Ji and Yisha’s purposes were similar, so that did make them competitors. It was to be expected that they would fight and trick each other when co-operating.
 

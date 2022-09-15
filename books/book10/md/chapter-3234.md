@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Half a Candle
-### Chapter 3234 
+### Chapter 3234
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “Night God No Moon? Isn’t that the name given to Moon God by the Qin Kingdom? Does she have a gene race in the Qin Kingdom?” Han Sen was shocked by this.
+“Night God No Moon? Isn’t that the name given to Moon God by the Qin Kingdom? Does she have a gene race in the Qin Kingdom?” Han Sen was shocked by this.
 
 If there was a gene race left behind by Moon God, it could be unique.
 

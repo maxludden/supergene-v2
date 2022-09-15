@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Red-robed Child
-### Chapter 2791 
+### Chapter 2791
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  It was wild to be able to control the powers of a plant xenogeneic, but the Space Garden was not populated by high-level xenogeneic plants yet. The primitive deifieds had all been summoned there.
+It was wild to be able to control the powers of a plant xenogeneic, but the Space Garden was not populated by high-level xenogeneic plants yet. The primitive deifieds had all been summoned there.
 
 After looking at Han Sen, the red-robed child suddenly developed a strange smile. Han Sen then saw the plant xenogeneics all around gather power. They were not going for Han Sen. They were going for the red-robed child.
 

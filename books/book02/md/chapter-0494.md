@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## The Use of Black Crystal
-### Chapter 494 
+### Chapter 494
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen told Queen the story in details. The reason he was explaining was to let people know that he learned the footwork from Queen, in case anyone recognized the footwork.
+Han Sen told Queen the story in details. The reason he was explaining was to let people know that he learned the footwork from Queen, in case anyone recognized the footwork.
 
 Huangfu Pingqing was surprised hearing the story. "So that's what has happened. You are indeed a genius for making her treat you differently."
 

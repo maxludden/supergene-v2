@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## God of Wealth Descends
-### Chapter 3145 
+### Chapter 3145
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  When the god temple revealed itself, Han Sen was a little afraid.
+When the god temple revealed itself, Han Sen was a little afraid.
 
 This god temple was too familiar. It was the God of Wealth Temple. He had used the Sky God Crown to enter it.
 
@@ -31,7 +32,7 @@ The god temple was surrounded by mist. Han Sen entered the temple. The door clos
 
 “Long time no see. You have been doing well recently.” God put down the wine cup and smiled at Han Sen.
 
-“I am doing OK.” Han Sen knew this wasn’t just a social call.
+“I am doing okay.” Han Sen knew this wasn’t just a social call.
 
 God sighed. “You are doing well, but I am not doing well. That is because I have to keep wiping your ass. Don’t you think this is getting rather depressing?”
 
@@ -83,12 +84,12 @@ Of course, the messages were from the god temple.
 
 The most direct message was about Blood-Pulses. Han Sen knew the rules about them, such as how God Spirits gave them to humans. It was quite restricted. If a random human was given any Blood-Pulse, it would be pointless for the God Spirits. It might have even harmed them.
 
-Han Sen had seen that. He had forced the Feather Fairy to give Mister Yang a God Spirit Blood-Pulse. It was very awkward for the Feather Fairy. If he was not careful, the Feather Fairy might have been harmed because after giving Mister Yang a Blood – Pulse.
+Han Sen had seen that. He had forced the Feather Fairy to give Mister Yang a God Spirit Blood-Pulse. It was very awkward for the Feather Fairy. If he was not careful, the Feather Fairy might have been harmed because after giving Mister Yang a Blood-Pulse.
 
 Giving humans a Blood-Pulse was good for God Spirits, but the humans who received a God Spirit Blood-Pulse needed to use their God Spirit Blood-Pulse to develop. The stronger the human was, the greater the benefits a God Spirit could receive. It made the God Spirits stronger.
 
 If a human with the God Spirit Blood-Pulse died, the God Spirit was also damaged.
 
-Selecting a good human to give a Blood – Pulse to was a very serious proposition for a God Spirit. That was especially true when it came to inherited god-blood nobles. It might have far-reaching consequences that plagued the rest of their life.
+Selecting a good human to give a Blood-Pulse to was a very serious proposition for a God Spirit. That was especially true when it came to inherited god-blood nobles. It might have far-reaching consequences that plagued the rest of their life.
 
 To summarize, they had to pick humans with talent and potential if they wanted to give out a God Spirit Blood-Pulse if they wanted to earn things and not lose things.

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Beating a Half-deified
-### Chapter 2266 
+### Chapter 2266
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen stood on the lotus mountain, watching with great delight as the blood kirin entered the fray. Han Sen guessed that the creature had finished consuming the black kirin, because it was now half-deified. On top of that, it was still inside the White Bone Hell. The ferocity of its attack sent Edward and Ice Blue Knight King reeling back.
+Han Sen stood on the lotus mountain, watching with great delight as the blood kirin entered the fray. Han Sen guessed that the creature had finished consuming the black kirin, because it was now half-deified. On top of that, it was still inside the White Bone Hell. The ferocity of its attack sent Edward and Ice Blue Knight King reeling back.
 
 After mere seconds had passed, the blood kirin had already torn two King class Ice Blue Knights to shreds. Joy sparked in Han Sen’s chest as he saw the wretchedly wild face of the creature.
 

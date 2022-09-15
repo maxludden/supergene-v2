@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Stream of Swords
-### Chapter 2410 
+### Chapter 2410
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The huge furnace’s appearance caught Han Sen completely off guard. He quickly shoved as much power as possible into his Dongxuan Area. It was impossible for him to completely stop the Swords from the Furnace and the fire area. This giant copper furnace was a genuine half-deified beast. It was probably only one small step away from being deified. It was almost stronger than Dragon One.
+The huge furnace’s appearance caught Han Sen completely off guard. He quickly shoved as much power as possible into his Dongxuan Area. It was impossible for him to completely stop the Swords from the Furnace and the fire area. This giant copper furnace was a genuine half-deified beast. It was probably only one small step away from being deified. It was almost stronger than Dragon One.
 
 But, thankfully, it didn’t have substance chains, so it couldn’t be a real deified.
 

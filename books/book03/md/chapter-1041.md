@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Phoenix Eye
-### Chapter 1041 
+### Chapter 1041
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Brother Seven looked to where Han Sen had picked up his lamp, and then his face changed.
+Brother Seven looked to where Han Sen had picked up his lamp, and then his face changed.
 
 “The fourth lamp; that was supposed to be a lamp of the living. Now, its light symbolizes death. He is going to die!” Brother Seven ran towards the lanterns and picked up the seventh lantern. Then he followed after Han Sen.
 

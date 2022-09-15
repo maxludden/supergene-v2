@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Blood Dragon Flies to the Sky
-### Chapter 3083 
+### Chapter 3083
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  That parcel of land had a lot of dark red grass. It looked different when compared to other places. Aside from that place, everywhere else was green and jade-like. Only that parcel of land was dark red.
+That parcel of land had a lot of dark red grass. It looked different when compared to other places. Aside from that place, everywhere else was green and jade-like. Only that parcel of land was dark red.
 
 Bald Guy said it was called dragon grass, but it wasn’t just the name of this grass. Any grass that was close to the Sea Dragon Woman’s area would become dark red and be titled dragon grass.
 

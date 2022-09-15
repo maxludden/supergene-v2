@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Water Fairy
-### Chapter 2333 
+### Chapter 2333
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The water fairy sat behind Han Sen and massaged his shoulders. Han Sen was definitely enjoying the massage, but he was disappointed and couldn’t help but say, “It’s just a servant?”
+The water fairy sat behind Han Sen and massaged his shoulders. Han Sen was definitely enjoying the massage, but he was disappointed and couldn’t help but say, “It’s just a servant?”
 
 It had taken a lot of work for Han Sen to get into the Pavilion, and he had also risked exposure. It wasn’t worth it if he had only gotten a servant girl for his efforts.
 

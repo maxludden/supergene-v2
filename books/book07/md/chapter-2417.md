@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## The Advantages of Gene Transference
-### Chapter 2417 
+### Chapter 2417
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen took a moment to look around, trying to place where he was within the core area. He wasn’t in the mood to hunt core xenogeneics at the moment. After he had confirmed his location, he just returned to camp.
+Han Sen took a moment to look around, trying to place where he was within the core area. He wasn’t in the mood to hunt core xenogeneics at the moment. After he had confirmed his location, he just returned to camp.
 
 Han Sen walked out of his private room, then suddenly jerked to a stop. Falling Leaf and Bao’er were staring each other down. Falling Leaf’s face, meanwhile, was covered in paper.* She was holding two cards, and she looked very serious.
 

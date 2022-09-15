@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## The Dongxuan Sutra’s Tenth Gene Lock
-### Chapter 1331 
+### Chapter 1331
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The chef finally made a move, but it wasn’t in the way Three-Eye Emperor predicted. Rather, she moved her empty left hand.
+The chef finally made a move, but it wasn’t in the way Three-Eye Emperor predicted. Rather, she moved her empty left hand.
 
 The hand burst into a limb of bright fire. Swiftly, she looked as if she attempted to grab hold of Three-Eye Emperor’s head.
 

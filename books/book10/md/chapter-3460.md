@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Dollar
-### Chapter 3460 
+### Chapter 3460
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “Mister… Please… Give us the order to fight back! Even if we get destroyed along with the universe, we do not want to be humiliated in such a fashion.” Light Goddess and the other God Spirits all kneeled before Crape Myrtle, pleading for him to act.
+“Mister… Please… Give us the order to fight back! Even if we get destroyed along with the universe, we do not want to be humiliated in such a fashion.” Light Goddess and the other God Spirits all kneeled before Crape Myrtle, pleading for him to act.
 
 “Damn it! Why has he still not revealed himself? Has it really not worked?” Crape Myrtle looked toward the evolution wall with a serious gaze. He stood up and approached it.
 

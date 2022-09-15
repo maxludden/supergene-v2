@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Rescue
-### Chapter 1596 
+### Chapter 1596
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen was horrified. He tried to dodge the attacks from Lin Feng, and at the same time, he yelled, “What’s happening, Lin Feng?”
+Han Sen was horrified. He tried to dodge the attacks from Lin Feng, and at the same time, he yelled, “What’s happening, Lin Feng?”
 
 Han Sen knew that Lin Feng was controlled, but he didn’t know if only Lin Feng’s body was possessed, or if his mind was as well.
 

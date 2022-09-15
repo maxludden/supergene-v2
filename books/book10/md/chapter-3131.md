@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Going Back to Gold Crystal System
-### Chapter 3131 
+### Chapter 3131
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  After taking Bao’er to a safe place, Han Sen asked her how she had got there.
+After taking Bao’er to a safe place, Han Sen asked her how she had got there.
 
 “The old liar brought me here,” Bao’er said.
 
@@ -33,9 +34,7 @@ As for the Four Sheep Cube, the old liar had spent a fortune getting it from Bao
 
 “Dad, do not leave me behind again. I missed you. I always want to follow you.” Bao’er held Han Sen’s neck. She sounded very cute.
 
-Han Sen looked hurt. He rubbed Bao’er’s head and said, “In the future, I will always be with you. We will not be separated again. By the way, how are Littleflower and Ling’er? Is your
-
-mom OK?”
+Han Sen looked hurt. He rubbed Bao’er’s head and said, “In the future, I will always be with you. We will not be separated again. By the way, how are Littleflower and Ling’er? Is your mom okay?”
 
 Bao’er nodded. “They are fine. I told Mom and my brother and sister that you will be fine too. Mom is waiting for you to go home.”
 

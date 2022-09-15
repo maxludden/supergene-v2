@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## The Gate Is Wide Open
-### Chapter 1608 
+### Chapter 1608
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Outer Sky King’s appearance was rather similar to Yu Miao’s. He was a guy, but he was still very pretty.
+Outer Sky King’s appearance was rather similar to Yu Miao’s. He was a guy, but he was still very pretty.
 
 However, when people saw him, they wouldn’t notice that beauty right away. They’d sense a scary aura.
 

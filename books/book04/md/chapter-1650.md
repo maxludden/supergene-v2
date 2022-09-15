@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Killing Blood Dog
-### Chapter 1650 
+### Chapter 1650
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  It happened in a millisecond. The Blood Dog’s body suddenly split up into multiple parts, and they all became smaller Blood Bats. They then flew towards Dragon Lady.
+It happened in a millisecond. The Blood Dog’s body suddenly split up into multiple parts, and they all became smaller Blood Bats. They then flew towards Dragon Lady.
 
 Dragon Lady was not weak; she was a king spirit, after all. She was also one of the strongest king spirits there was. Seeing the Blood Bats come towards her, though, she couldn’t help but scream. She summoned a big pot out of the sky and used it to trap the Blood Bats inside.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Bug Fight
-### Chapter 903 
+### Chapter 903
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  A blonde, purple-eyed woman emerged from beneath the green bushes that cradled the red roses.
+A blonde, purple-eyed woman emerged from beneath the green bushes that cradled the red roses.
 
 She didn't quite look human, and an emerald was embedded in her forehead.
 

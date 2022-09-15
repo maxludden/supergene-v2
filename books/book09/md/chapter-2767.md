@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## A Xenogeneic Space That Seems Familiar
-### Chapter 2767 
+### Chapter 2767
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “It is a shame they aren’t exploring the big barren system. Otherwise, I would have gone with them for free,” Han Sen said to himself.
+“It is a shame they aren’t exploring the big barren system. Otherwise, I would have gone with them for free,” Han Sen said to himself.
 
 But not long after, he encountered someone he was familiar with once again. He saw Dragon One flying quickly toward him.
 

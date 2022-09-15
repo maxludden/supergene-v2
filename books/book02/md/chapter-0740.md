@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Ice Silkworm
-### Chapter 740 
+### Chapter 740
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen put away his energy and immediately retreated, and then used his Jadeskin to unlock his gene lock.
+Han Sen put away his energy and immediately retreated, and then used his Jadeskin to unlock his gene lock.
 
 Although Dongxuan Sutra and Jadeskin were comparable after opening the gene lock, there were still some notable differences. Jadeskin also focused on enhancing the seventh sense, although although it wasn't as detailed as the Dongxuan Sutra, it had a greater range. The range of the Dongxuan Sutra's enhancement to the seventh sense was limited to the length of the dongxuan aura.
 

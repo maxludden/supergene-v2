@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Holy Cactus
-### Chapter 765 
+### Chapter 765
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The direction the white rhino traveled was the direction Han Sen himself had been moving all this time.
+The direction the white rhino traveled was the direction Han Sen himself had been moving all this time.
 
 It wasn't easy, finding a powerful super creature as tame as this. Given that, Han Sen didn't mind riding it for as long as he could. Although the white rhino did not go very fast, it didn't go very slow, either. In fact, it was a little bit faster than the Golden Roarer.
 

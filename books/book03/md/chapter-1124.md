@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Dongxuan Sutra’s Fifth Tier
-### Chapter 1124 
+### Chapter 1124
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen had managed to collect three Life Geno Essences by this point, but none had been fully absorbed.
+Han Sen had managed to collect three Life Geno Essences by this point, but none had been fully absorbed.
 
 “I need to get my *ss in gear. Otherwise, I won’t be able to absorb it.” Han Sen thought about buying a geno fluid to help synthesize and speed up the absorption process. He was tempted, but he ultimately chose not to.
 

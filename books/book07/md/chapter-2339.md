@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Begging for Kingese
-### Chapter 2339 
+### Chapter 2339
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “Ah, how interesting.” Miss Mirror leaned closer to her mirror as the next symbol fell.
+“Ah, how interesting.” Miss Mirror leaned closer to her mirror as the next symbol fell.
 
 Han Sen was confused. He had thought that the king tree was giving out words that would improve Bai Qing Xia’s genes, but seeing this, there was a possibility that he had misunderstood.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Tear It Up
-### Chapter 2950 
+### Chapter 2950
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “So, are you guys revolting?” Nine Thousand King’s expression changed.
+“So, are you guys revolting?” Nine Thousand King’s expression changed.
 
 The demon lady, Auntie Mei, laughed at Han Sen. “You are Little Master’s father. You are a guest here. You are a guest in Sacred, but the holy spirit is very important. It is an item for your son. I am sure you would not want to steal what belongs to your son, would you? I hope you are willing to return the holy spirit.”
 

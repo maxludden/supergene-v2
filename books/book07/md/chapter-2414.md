@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## God Battle Ruin
-### Chapter 2414 
+### Chapter 2414
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Miss Mirror sat in front of her computer. She looked at the information on the screen, locked in deep thought.
+Miss Mirror sat in front of her computer. She looked at the information on the screen, locked in deep thought.
 
 All the documents pertained to Han Sen. It was everything that had been recorded of him since the fight when Kong Fei had snuffed out and relit a lantern. It informed her of everything he did, all the way up until he disguised himself as Bai Yi. The records of it were all there.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Silent Deadlight
-### Chapter 1381 
+### Chapter 1381
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  When Han Sen saw the beam, it was too late for him to dodge. Instead, he threw his fist at it.
+When Han Sen saw the beam, it was too late for him to dodge. Instead, he threw his fist at it.
 
 Boom!
 

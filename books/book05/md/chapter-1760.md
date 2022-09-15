@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Golden Growler Evolves
-### Chapter 1760 
+### Chapter 1760
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Xina flew a few thousand meters away, and she didn’t stop in her ascent She lowered her head and suddenly looked very shocked.
+Xina flew a few thousand meters away, and she didn’t stop in her ascent She lowered her head and suddenly looked very shocked.
 
 There was not even enough time for her to scream as the holy light gleamed in her frightened eyes. It had pierced right through her body.
 

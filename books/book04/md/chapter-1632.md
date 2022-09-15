@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## The Seventh Round Has Come
-### Chapter 1632 
+### Chapter 1632
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The professional in the virtual community got stomped on. Everyone commented and asked for his opinion on how Dollar effortlessly broke the fifth opponent’s head.
+The professional in the virtual community got stomped on. Everyone commented and asked for his opinion on how Dollar effortlessly broke the fifth opponent’s head.
 
 “Your prediction was accurate, and Dollar really was given a lot of trouble—the blood must have taken ages to clean!”
 

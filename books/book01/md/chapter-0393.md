@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Golden Growler Again
-### Chapter 393 
+### Chapter 393
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen spent two more days in Devil Desert and found no more sacred-blood creatures. He went to the area where the sacred-blood fox king used to be and failed to find it.
+Han Sen spent two more days in Devil Desert and found no more sacred-blood creatures. He went to the area where the sacred-blood fox king used to be and failed to find it.
 
 To Han Sen's surprise, golden rock worm king had accomplished its transformation.
 

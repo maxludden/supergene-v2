@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Severe Consequences
-### Chapter 201 
+### Chapter 201
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  When Wen Xiuxiu thought the interviews could not continue, she saw the online broadcasting had started and switched to stream the competition.
+When Wen Xiuxiu thought the interviews could not continue, she saw the online broadcasting had started and switched to stream the competition.
 
 Soon the first line-ups of both teams were shown and first up were St. Germain’s five members.
 

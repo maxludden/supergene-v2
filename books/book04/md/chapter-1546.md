@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Easy Travel
-### Chapter 1546 
+### Chapter 1546
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  In the Godlight Tunnel, there was only the super class Yu Miao, Little Lion King, Starsea Beast, Han Sen, and Six Paths remaining.
+In the Godlight Tunnel, there was only the super class Yu Miao, Little Lion King, Starsea Beast, Han Sen, and Six Paths remaining.
 
 Bao’er was in Han Sen’s arms. When Han Sen introduced her to others, he would always say she was a pet beast soul. Pet beast souls did not possess geno cores, so they wouldn’t feel the pressure experienced in the tunnel.
 

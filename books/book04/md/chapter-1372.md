@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Bad Battle With Nan Litian
-### Chapter 1372 
+### Chapter 1372
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Pang!
+Pang!
 
 The rubberized spear collided with the umbrella. Han Sen had hoped for it to be a flaccid hit, but the power of the spear was too great, and it managed to maintain some of its hardness. When it struck Han Sen, he was still knocked back a good distance.
 

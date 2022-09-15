@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## The Words Engraved in the Car
-### Chapter 2453 
+### Chapter 2453
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen was happy. He assumed it was some high-class geno art, but it was written in the common language of the universe. Since it was written in a language he knew, it would be easy for him to remember.
+Han Sen was happy. He assumed it was some high-class geno art, but it was written in the common language of the universe. Since it was written in a language he knew, it would be easy for him to remember.
 
 But when he looked a little closer, he realized the words weren’t a geno art. In fact, their content was confusing, almost nonsensical.
 

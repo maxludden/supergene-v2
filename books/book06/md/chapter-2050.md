@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Father and Daughter That Came From Nowhere
-### Chapter 2050 
+### Chapter 2050
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  All the shura were frozen. A human child, who was six years old at the most, could throw around a third-rank goldhorned shura fighter as if he was nothing more than a toy.
+All the shura were frozen. A human child, who was six years old at the most, could throw around a third-rank goldhorned shura fighter as if he was nothing more than a toy.
 
 In their eyes, Bao’er was no longer a kid. She was a monster.
 

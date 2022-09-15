@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Her
-### Chapter 20 
+### Chapter 20
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The next morning, Han Sen was on the train going to the teleport station, with many passengers sharing his destination.
+The next morning, Han Sen was on the train going to the teleport station, with many passengers sharing his destination.
 
 Most people could not afford a teleport device, so they had to enter God’s Sanctuary using a public teleport station.
 

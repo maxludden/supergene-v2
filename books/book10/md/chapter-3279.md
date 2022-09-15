@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Ancient Devil's Identity
-### Chapter 3279 
+### Chapter 3279
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Zhao Ning’er had become a Break World beast. Her power had become very strong because of that. Her sonic power was scary. Even if she did not deliberately use power and just casually sang, she sounded very magical. Her performances easily affected the hearts of people.
+Zhao Ning’er had become a Break World beast. Her power had become very strong because of that. Her sonic power was scary. Even if she did not deliberately use power and just casually sang, she sounded very magical. Her performances easily affected the hearts of people.
 
 She had a concert in a venue that had the capacity to fit 1 million people. The entire place was full. Many people wanted to buy tickets, but they were unable to. That alone signaled how attractive Zhao Ning’er was.
 

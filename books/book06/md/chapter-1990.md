@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Fenghou Pills
-### Chapter 1990 
+### Chapter 1990
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Outside the exam arena, Yun Suyi was chasing after Lone Bamboo. He left as soon as Han Sen started fighting.
+Outside the exam arena, Yun Suyi was chasing after Lone Bamboo. He left as soon as Han Sen started fighting.
 
 “Brother Lone Bamboo, please wait!” Yun Suyi shouted as she chased after Lone Bamboo.
 

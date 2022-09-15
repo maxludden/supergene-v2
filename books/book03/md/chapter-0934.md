@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Moment Gene
-### Chapter 934 
+### Chapter 934
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  "Do you want to be imprisoned in the Sea of Soul from now unto eternity, or would you like to control the shelter?" Han Sen said, sternly looking at Moment Queen.
+"Do you want to be imprisoned in the Sea of Soul from now unto eternity, or would you like to control the shelter?" Han Sen said, sternly looking at Moment Queen.
 
 Moment Queen had a conflicted expression. Humanity acknowledged the existence of spirit bases, but very few knew what they were exactly.
 

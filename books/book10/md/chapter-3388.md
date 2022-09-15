@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Suppress
-### Chapter 3388 
+### Chapter 3388
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  After a while, Floating Kill noticed the time. He used the sky treasure tower. The tower grew very large. It was like it was covering the sky and the ground. It covered the entire time area they were in.
+After a while, Floating Kill noticed the time. He used the sky treasure tower. The tower grew very large. It was like it was covering the sky and the ground. It covered the entire time area they were in.
 
 Han Sen’s location was limited. If he wanted to avoid the suppression of the tower, he would have to quickly get to another stone clock’s area.
 

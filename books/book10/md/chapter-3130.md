@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Big Nice Guy
-### Chapter 3130 
+### Chapter 3130
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “She is Han Sen’s daughter? Is that just a coincidence?” Sky King’s heart flashed with many thoughts, but his face did not seem to change. He behaved as if he did not know Han Sen.
+“She is Han Sen’s daughter? Is that just a coincidence?” Sky King’s heart flashed with many thoughts, but his face did not seem to change. He behaved as if he did not know Han Sen.
 
 Han Sen stroked Bao’er’s head as he asked, “Bao’er, what are you doing here?”
 
@@ -67,7 +68,7 @@ When he looked at the flying fish that was ready to go, Sky King gnashed his tee
 
 After that, Sky King transferred a gene race to Han Sen.
 
-“Got god-class gene race eight-armed evil dragon. Growth mode is ultimate.”
+> “Got god-class gene race eight-armed evil dragon. Form is ultimate.”
 
 “Old Mister is very nice. It is an honor for me and my daughter to have met you.” Han Sen smiled and thanked him.
 
@@ -75,7 +76,7 @@ Sky King gnashed his teeth, planning on how to respond. When Han Sen finished, h
 
 Bao’er was holding the flying fish. She kept walking and looking back, waving at Sky King. “Mister Nice Guy, let’s play again next time we meet.”
 
-Sky King did not expect Han Sen to just leave like that. He was frozen. “Surely he cannot actually recognize me.”
+Sky King did not expect Han Sen to just leave like that. He was frozen. “Surely he cannot actually not recognize me.”
 
 He did not think this was possible. If Han Sen did not know him, when he saw the eight-armed evil dragon, he would have reacted.
 

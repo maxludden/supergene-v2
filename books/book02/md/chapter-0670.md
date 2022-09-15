@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Berserk Peacock Crossbow
-### Chapter 670 
+### Chapter 670
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The man and the bear stared at each other for three seconds. Then, Wang Yuhang screamed, turned, and started running away. The giant white bear heaved itself out the water, and with the big fish still in its mouth, gave chase to the running man. It ignored Han Sen and Li Xinglun completely.
+The man and the bear stared at each other for three seconds. Then, Wang Yuhang screamed, turned, and started running away. The giant white bear heaved itself out the water, and with the big fish still in its mouth, gave chase to the running man. It ignored Han Sen and Li Xinglun completely.
 
 "That little uncle can really..." Li Xinglun was motionless as he watched the scene. Those words were the only few he could conjure.
 

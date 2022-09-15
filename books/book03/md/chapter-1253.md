@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## The Egg That Loves to Drink
-### Chapter 1253 
+### Chapter 1253
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Pang!
+Pang!
 
 The bottom of the bottle broke again.
 

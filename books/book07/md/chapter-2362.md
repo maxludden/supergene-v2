@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Getting a Beast Soul Again
-### Chapter 2362 
+### Chapter 2362
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The rainbow sea conch kept running, but the fire across its shell couldn’t be extinguished. It was like a flaming wheel blazing a trail through the water and across the sand. The fire refused to go out.
+The rainbow sea conch kept running, but the fire across its shell couldn’t be extinguished. It was like a flaming wheel blazing a trail through the water and across the sand. The fire refused to go out.
 
 “The little red bird, the harbinger of death!” Han Sen was grinning like an idiot. Although he knew the little red bird had become a deified elite, being able to damage another deified elite like that was remarkably impressive.
 

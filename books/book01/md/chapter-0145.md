@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Olympic-size Appetite
-### Chapter 145 
+### Chapter 145
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  When Lin Beifeng arrived at a crevice of the mountain, Han Sen was shocked.
+When Lin Beifeng arrived at a crevice of the mountain, Han Sen was shocked.
 
 A crevice was cracked into the mountain for either an earthquake or other reasons. Many giant blue ants the size of mice were going in and out of the crevice. From afar, they could only see an ocean of blue lights, so there should be at least one or two hundred of them.
 

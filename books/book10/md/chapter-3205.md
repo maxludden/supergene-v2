@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## The History Behind Inchapter Grey Sword
-### Chapter 3205 
+### Chapter 3205
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen and Bao’er were happily having hot pot. Suddenly, something shook inside the fanny pack across Bao’er’s waist. Bao’er opened it up. A book leaped out of it.
+Han Sen and Bao’er were happily having hot pot. Suddenly, something shook inside the fanny pack across Bao’er’s waist. Bao’er opened it up. A book leaped out of it.
 
 The pages quickly opened and flipped themselves until the shape of a black, human silhouette jumped onto the table. It pointed at Han Sen and shouted, “Han Sen! Han Sen! Can’t you just stay home? Why did you have to go to Soldier Knife Sky to kill Weapon God? Do you have a death wish or something? Now, the temporary leader has tasked me with killing you in the next three days. What am I supposed to do?”
 

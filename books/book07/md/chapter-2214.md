@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Galactic Lobster Beast Soul
-### Chapter 2214 
+### Chapter 2214
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “These are the systems of chaos, and anything can happen here. Ready yourselves for death,” Mister White said when Han Sen returned to the ship.
+“These are the systems of chaos, and anything can happen here. Ready yourselves for death,” Mister White said when Han Sen returned to the ship.
 
 No one had expected to encounter the Galactic Shrimp just as they were leaving that system, and the Ice Blue Knights had taken a lot of casualties. The majority of them had made it through, though. All in all, the battle had gone well.
 

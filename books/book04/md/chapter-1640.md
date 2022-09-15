@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Sen Luo Illusion
-### Chapter 1640 
+### Chapter 1640
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The fight between Han Sen and the Armored Man was Han Sen’s fourth fight Aside from Sacred’s master, Han Sen also defeated two other Son of God’s. Though he defeated them, his performance seemed to pale in comparison to the Armored Man.
+The fight between Han Sen and the Armored Man was Han Sen’s fourth fight Aside from Sacred’s master, Han Sen also defeated two other Son of God’s. Though he defeated them, his performance seemed to pale in comparison to the Armored Man.
 
 The Armored Man didn’t have to fight at all, as all his opponents immediately conceded. Han Sen wasn’t as frightening as he was.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Sparring With a Coach
-### Chapter 139 
+### Chapter 139
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The reason that the moves seemed strange was that Builder was holding a thick and long alloy tube in each of its four hands, wielding the tubes as swords like a human. Because Builder itself was too cumbersome and had four arms, its actions looked very odd.
+The reason that the moves seemed strange was that Builder was holding a thick and long alloy tube in each of its four hands, wielding the tubes as swords like a human. Because Builder itself was too cumbersome and had four arms, its actions looked very odd.
 
 Luo Xiangyang looked at it and was slightly surprised. Anyone able to drive Builder like this must had reached the level of an evolver.
 

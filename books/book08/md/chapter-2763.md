@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Judgment a Second Ago
-### Chapter 2763 
+### Chapter 2763
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  To be more accurate, the geno art had been transcribed across many tablets, and Han Sen had only seen one part of it.
+To be more accurate, the geno art had been transcribed across many tablets, and Han Sen had only seen one part of it.
 
 According to legend, the Buddha had gained so much strength in recent times because they were researching the broken Flush Real Sutra. That was how they had risen to such prominence in the universe.
 

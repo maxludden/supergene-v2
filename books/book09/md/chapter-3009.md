@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Ancient God King Blood
-### Chapter 3009 
+### Chapter 3009
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “Don’t be so worried,” Ancient Origin God coldly said. “I just wanted a drop of his blood. It is not like I was going to put him inside the baby god wok to cook. Why are you being so nervous?”
+“Don’t be so worried,” Ancient Origin God coldly said. “I just wanted a drop of his blood. It is not like I was going to put him inside the baby god wok to cook. Why are you being so nervous?”
 
 Han Sen and Dragon Lady felt relieved, but Han Sen was still curious. He looked at Ancient Origin God and asked, “Why do you my blood?”
 

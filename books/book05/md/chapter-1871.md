@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Cave
-### Chapter 1871 
+### Chapter 1871
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “I want to go to Planet Crooked Rock,” Han Sen told Icebird Duke.
+“I want to go to Planet Crooked Rock,” Han Sen told Icebird Duke.
 
 You want to recruit Gana?” Icebird Duke understood Han Sen’s thought process.
 

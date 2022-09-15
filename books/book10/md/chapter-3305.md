@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Star Tyrannosaurus Rex
-### Chapter 3305 
+### Chapter 3305
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Dong!
+Dong!
 
 Scary power hit the star tyrannosaurus rex in the back of the head. It was like she was striking a block of steel. Huangfu Jing’s slashing power was not even able to leave the slightest mark on her foe’s skull.
 

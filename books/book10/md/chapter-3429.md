@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## New Opponent
-### Chapter 3429 
+### Chapter 3429
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  If Human King succeeded, it would be fine. If Qin Xiu took over Human King’s body and combined with him, he would be able to repair the flaws in his genes. The consequences of that happening would be so frightening that even the God Spirits would be quaking in their boots.
+If Human King succeeded, it would be fine. If Qin Xiu took over Human King’s body and combined with him, he would be able to repair the flaws in his genes. The consequences of that happening would be so frightening that even the God Spirits would be quaking in their boots.
 
 “If Qin Xiu comes back from the brink to eat Human King, even if Bao’er successfully combines with the gene seed, the chance of her being able to beat Qin Xiu would shrink to a mere 50,” God Hall Leader said. “That means it is all down to the luck that governs the flip of a coin. But it does not matter what her fighting experience is. There is absolutely no chance her fighting experience can match Qin Xiu. Her chance of winning will be considerably lower.”
 

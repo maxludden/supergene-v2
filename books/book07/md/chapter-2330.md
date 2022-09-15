@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Understanding the Statue
-### Chapter 2330 
+### Chapter 2330
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Because King Bai was still around, his statue was sealed. Treasure seekers would have to wait until he had passed away before his statue was revealed in the Pavilion.
+Because King Bai was still around, his statue was sealed. Treasure seekers would have to wait until he had passed away before his statue was revealed in the Pavilion.
 
 The statue wasn’t being shown right then to avoid giving his children the opportunity to crack the statue. Why that would have been a bad thing, the stone didn’t say. As a result, Han Sen didn’t understand.
 

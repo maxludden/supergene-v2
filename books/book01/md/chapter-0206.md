@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## The Battle Between the Angel and the Evil
-### Chapter 206 
+### Chapter 206
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The surprise Nalan felt soon went away and Nalan restored his calm. Even though he could not see through Han Sen’s mind, Nalan could see through his body.
+The surprise Nalan felt soon went away and Nalan restored his calm. Even though he could not see through Han Sen’s mind, Nalan could see through his body.
 
 The body could make a lot of deceptive appearances, but under the Acala Mantra, he could see almost every inch of Han Sen’s muscle. It was almost impossible to fool Nalan.
 

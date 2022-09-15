@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## A Card
-### Chapter 1051 
+### Chapter 1051
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen conceded and decided to oblige Xie Qing King’s desire. Once they exited there, they would travel to Sword-Furnace Shelter together.
+Han Sen conceded and decided to oblige Xie Qing King’s desire. Once they exited there, they would travel to Sword-Furnace Shelter together.
 
 For Han Sen to allow this, though, he had to have something in return. For Xie Qing King to remain at Sword-Furnace Shelter, he would have to aid Han Sen in taking down Holy-Sword Shelter.
 

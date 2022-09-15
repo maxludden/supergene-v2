@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Yan Bei Fei
-### Chapter 3167 
+### Chapter 3167
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  When the matches started, Bao’er and Feng Yin Yin only used their gene races to fight. They did not bother going into the battlegrounds, so there was no reason to fear for their safety.
+When the matches started, Bao’er and Feng Yin Yin only used their gene races to fight. They did not bother going into the battlegrounds, so there was no reason to fear for their safety.
 
 When Han Sen saw the small flying fish, which was under Bao’er’s control, enter the space battleground, he knew it would be difficult for her to lose.
 
@@ -25,11 +26,9 @@ Yan Bei Fei was a royal of the Yan Kingdom. There was no guarantee that he did n
 
 Chen Seven was in a good. He made his king-class gene race ascend to adult mode. He was ready to fight in the god fights.
 
-He did not have any lofty, high-rank expectations. If he could at least perform reasonably well in the god fights, perhaps the God Spirit he believed in would be more impressed with him. That meant he had a chance to receive a better God Spirit Blood – Pulse.
+He did not have any lofty, high-rank expectations. If he could at least perform reasonably well in the god fights, perhaps the God Spirit he believed in would be more impressed with him. That meant he had a chance to receive a better God Spirit Blood-Pulse.
 
 The god fights were only for humans to participate in. For God Spirits, it was like a trial.
-
-el
 
 The God Spirits could see their believers fight. By watching them, the God Spirits could measure the strength of someone and see if they had a bright future ahead of them or not. If there was a member of its congregation that did not look outstanding but performed really well in the god fights, they might be given a second Blood-Pulse.
 
@@ -61,8 +60,6 @@ The adult body of the tyrannosaurus rex king was large. It was three stories hig
 
 “Old Seven, murder that small fish. Do not play nice. Being nice to the enemy is being cruel to yourself.”
 
-ere
-
 Chen Seven’s friends and family were watching the video in front of a god temple. They were very hyped in their support of Chen Seven.
 
 Although he could not hear their voices, Chen Seven was exuberant. He commanded the tyrannosaurus rex king to rush the small flying fish. It opened its bloody mouth and tried to swallow the small flying fish.
@@ -79,7 +76,7 @@ The wind blew. The charcoal-looking tyrannosaurus rex king turned into dust and 
 
 Chen Seven and his friends and family were crazily excited a second ago. Now, they looked petrified. Their mouths were agape, and their eyes were open wide. It looked as if they might roll out of their sockets.
 
-They suddenly felt that the world was f*cking cruel.
+They suddenly felt that the world was fucking cruel.
 
 Chen Seven instantly reacted. In a whoosh, he departed the battleground. He was afraid to go any closer, fearing the small flying fish would toast him too.
 

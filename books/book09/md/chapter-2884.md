@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Knife Descends on the Buddha Kingdom
-### Chapter 2884 
+### Chapter 2884
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Afterward, things got even better. The geno god list randomly opened. He was able to rely on that knife and reach the top 100. He ended up in the 80th position. He received a true god weapon and the material of a true god.
+Afterward, things got even better. The geno god list randomly opened. He was able to rely on that knife and reach the top 100. He ended up in the 80th position. He received a true god weapon and the material of a true god.
 
 After all that happened, he felt incredibly lucky. Burning Lamp himself found it difficult to believe.
 

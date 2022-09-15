@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Dead Man’s Arrow
-### Chapter 947 
+### Chapter 947
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  "My Baron, do you wish me to rid the field of that human?" the royal spirit Dragon Demon asked.
+"My Baron, do you wish me to rid the field of that human?" the royal spirit Dragon Demon asked.
 
 In response, Thorn Baron said, "Yes. Do it at once; quick and clean. We have wasted far too much time as it is."
 

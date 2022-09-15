@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Big Bad Luck
-### Chapter 3323 
+### Chapter 3323
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Space Garden was saved, but they had only managed to keep the area around the base. It was unknown how many Break World beasts were out there hiding in the forest. They were combining with the life souls. The longer time went by, the more their Break World rate increased.
+Space Garden was saved, but they had only managed to keep the area around the base. It was unknown how many Break World beasts were out there hiding in the forest. They were combining with the life souls. The longer time went by, the more their Break World rate increased.
 
 Han Sen left the base area. He held a Break World gene in his hands. This Break World gene had come from Black King. He did not have the time to refine it.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Exclusive Gene Race
-### Chapter 3087 
+### Chapter 3087
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The purple gene egg was godly. With the way it glowed, it looked like something abnormal.
+The purple gene egg was godly. With the way it glowed, it looked like something abnormal.
 
 Han Sen was just holding the gene egg, but the blood dragon God Spirit Blood-Pulse was already reacting to it. It was wandering around it.
 
@@ -32,12 +33,13 @@ The blood dragon God Spirit Blood-Pulse was bursting. The small snake was sucked
 <div class="tables">
     <table class="beast">
         <tr>
-            <th colspan="2">Gene Race</th>
+            <th>Gene Race</th>
         </tr><tr>
-            <td>Mutant God Class</td>
-            <td>Blood Dragon</td>
+            <td>Mutant God Class<br>
+            	<span class="type">Blood Dragon
+            </td>
         </tr><tr>
-            <th colspan="2" class="note">Note: Juvenile Exclusive Gene Race</th>
+            <th class="note">Note: Juvenile Exclusive Gene Race</th>
         </tr>
     </table>
 <!--Blood dragon: Mutant god-class gene race (juvenile blood god dragon exclusive gene race)-->

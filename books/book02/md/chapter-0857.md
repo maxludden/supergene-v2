@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Geno Seed
-### Chapter 857 
+### Chapter 857
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen's heart beat faster and faster, as his kidneys kicked into overdrive to produce energy. His body was charged with the element of thunder, and the tolling of a bell chimed. The fusion of thunder and sonic forces was driven directly into her belly.
+Han Sen's heart beat faster and faster, as his kidneys kicked into overdrive to produce energy. His body was charged with the element of thunder, and the tolling of a bell chimed. The fusion of thunder and sonic forces was driven directly into her belly.
 
 The silver fox exerted more effort than ever before, focusing all it could to defend its master. It channeled its energy into an explosive, electric charge and fired a lightning thunderbolt towards her face.
 

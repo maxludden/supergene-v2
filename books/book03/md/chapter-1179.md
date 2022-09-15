@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Angel of Principality
-### Chapter 1179 
+### Chapter 1179
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Angel of Principality: Pet Type Evolution
+Angel of Principality: Pet Type Evolution
 
 Han Sen looked at her stats. From what he could tell, it was only the name that had changed. The rest was the same.
 

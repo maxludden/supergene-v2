@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Evil Knife
-### Chapter 1832 
+### Chapter 1832
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The scimitar was activated. It didn’t roar like Dragon’s Back did. There was not even a wheeze. There was no light shining into the sky; all that could be seen was a dark purple aura.
+The scimitar was activated. It didn’t roar like Dragon’s Back did. There was not even a wheeze. There was no light shining into the sky; all that could be seen was a dark purple aura.
 
 Buzz!
 

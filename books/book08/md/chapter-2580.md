@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## The Snakes Are Coming
-### Chapter 2580 
+### Chapter 2580
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen immediately loved his new bow. He had recently used Autumn Wind’s Wind String, but the bow already possessed an owner. Forcing it open hadn’t felt good.
+Han Sen immediately loved his new bow. He had recently used Autumn Wind’s Wind String, but the bow already possessed an owner. Forcing it open hadn’t felt good.
 
 But this Six Core Snake Bow was different. Han Sen held its body and pulled the string effortlessly. The cogwheels across it spun as he drew the string back, and it didn’t cost him any strength to make use of it. And the power the bow could unleash was just as great as he had hoped. In fact, this bow was capable of shooting projectiles with more power than Wind String could have managed.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Gourd Absorb
-### Chapter 968 
+### Chapter 968
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Bao’er clutched her gourd tightly, and from the tip of it, a black hole formed.
+Bao’er clutched her gourd tightly, and from the tip of it, a black hole formed.
 
 The atmosphere around it broke, and in that space, the very composition of the dimension fragmented. And then, from all around, everything began to be sucked into it.
 

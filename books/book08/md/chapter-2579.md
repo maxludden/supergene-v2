@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Claiming Another Deified Beast Soul
-### Chapter 2579 
+### Chapter 2579
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  With Han Sen controlling the Six Core God Snake, the small Crocodile God became cocky. The Six Core God Snake had beat him up earlier, and so he gnashed his teeth now in rage. His body unleashed a black light, and even more heavy substance chains thudded into the Six Core God Snake. The Six Core God Snake’s movements slowed to a crawl. There was no way that it could escape the planet now.
+With Han Sen controlling the Six Core God Snake, the small Crocodile God became cocky. The Six Core God Snake had beat him up earlier, and so he gnashed his teeth now in rage. His body unleashed a black light, and even more heavy substance chains thudded into the Six Core God Snake. The Six Core God Snake’s movements slowed to a crawl. There was no way that it could escape the planet now.
 
 Two of its cogwheels were destroyed now, and it was heavily injured. It moved with snail-like speed. The small Crocodile God’s gravity substance chains were pinning it in place, keeping it from avoiding Han Sen’s attacks.
 

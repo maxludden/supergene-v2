@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## You Lose
-### Chapter 2524 
+### Chapter 2524
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “In that case, I will give it a shot.” Han Sen had passed his years of always wanting to win. He wasn’t fond of Yellow Clothes’ personality, at all. If he didn’t have to hunt a core bronze tripod alongside her, that was more than fine with him.
+“In that case, I will give it a shot.” Han Sen had passed his years of always wanting to win. He wasn’t fond of Yellow Clothes’ personality, at all. If he didn’t have to hunt a core bronze tripod alongside her, that was more than fine with him.
 
 “I can use whatever geno art I desire?” Han Sen asked for confirmation.
 

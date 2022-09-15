@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## It's Not That Good
-### Chapter 774 
+### Chapter 774
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen was preparing to go out when he received a message saying he should expect another visitor.
+Han Sen was preparing to go out when he received a message saying he should expect another visitor.
 
 When Han Sen heard this, he frowned. Visitors weren't permitted there, so he thought it was strange to hear someone was coming to see him.
 

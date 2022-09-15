@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Return
-### Chapter 287 
+### Chapter 287
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen did not have any intention to follow them into the nest, which he knew very well was basically empty.
+Han Sen did not have any intention to follow them into the nest, which he knew very well was basically empty.
 
 At this point, Han Sen had already come down from the mountain and ran away with the dead sacred-blood ghost-eyed bear.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Blood Spring
-### Chapter 718 
+### Chapter 718
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  In an ancient forest resided a gentle spring and basin. It did not flow with water, nay. It flowed with blood. A creature guarded this spring, and had done so since it was born. The Zhao family believed this beast to be a super creature. They had done battle with it many times, and on each occasion, their forces were dealt grievous harm and forced to retreat.
+In an ancient forest resided a gentle spring and basin. It did not flow with water, nay. It flowed with blood. A creature guarded this spring, and had done so since it was born. The Zhao family believed this beast to be a super creature. They had done battle with it many times, and on each occasion, their forces were dealt grievous harm and forced to retreat.
 
 Fortunately for those that fought it, the super creature never left the spring it guarded. It never gave chase, and this allowed the Zhao family to continue provoking the beast and attempting the same fight many times.
 

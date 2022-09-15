@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Listening Sword
-### Chapter 2523 
+### Chapter 2523
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen looked at her for a minute. She was spoiled and a touch crazy, but he didn’t want to do as she said. Still, he was not mad. He laughed casually and said, “I have learned all kinds of different geno arts. I’m not a master with them, but I have sufficient skill to use each.”
+Han Sen looked at her for a minute. She was spoiled and a touch crazy, but he didn’t want to do as she said. Still, he was not mad. He laughed casually and said, “I have learned all kinds of different geno arts. I’m not a master with them, but I have sufficient skill to use each.”
 
 “The term ‘sufficient’ means different things to different people. Are you sure you have learned these geno arts sufficiently?” Yellow Clothes asked seriously. Her face was solemn.
 

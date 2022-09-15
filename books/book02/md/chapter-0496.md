@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Strength Test
-### Chapter 496 
+### Chapter 496
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  "Brother, which department are you from?" In the warm-up area of the military contest, a young soldier asked Han Sen who was sitting next to him will stop
+"Brother, which department are you from?" In the warm-up area of the military contest, a young soldier asked Han Sen who was sitting next to him will stop
 
 "I am from a warship, a cookhouse soldier." Han Sen replied.
 

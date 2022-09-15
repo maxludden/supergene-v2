@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## The Conquest of Holy-sword Shelter
-### Chapter 1069 
+### Chapter 1069
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Inside Holy-Sword Shelter, Holy-Sword Emperor’s face was green. The other spirits there were all in fear.
+Inside Holy-Sword Shelter, Holy-Sword Emperor’s face was green. The other spirits there were all in fear.
 
 Han Sen and Xie Qing King were not sneaky in their approach of the shelter. Fearlessly, they waltzed before its gate. Before they had come, though, they had made stops at twelve of Holy-Sword Emperor’s other shelters, including Sword-Palace Shelter. They were each claimed, resulting in the destruction of Holy-Sword Emperor’s son’s spirit stone, too.
 

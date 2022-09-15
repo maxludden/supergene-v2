@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## One Slash Cuts the Cause
-### Chapter 2857 
+### Chapter 2857
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Dragon One looked at Demon Alpha like a king looking down on peasants. Behind his back were a pair of gold wings, but it did not look as if he was going to do anything.
+Dragon One looked at Demon Alpha like a king looking down on peasants. Behind his back were a pair of gold wings, but it did not look as if he was going to do anything.
 
 “Demon Alpha, I have heard that the Demons are masters of causal powers,” Dragon One coldly said while standing still. “Show me what you can do.”
 

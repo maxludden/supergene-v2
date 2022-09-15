@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Disastrous Luck
-### Chapter 2152 
+### Chapter 2152
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Klinsmann was very smart. He hastily removed himself from the Breaksky doll to ensure his own survival when the construct was swallowed. But when Klinsmann was still in the air, the little beast’s tongue flew out and snared Klinsmann, then jerked him back into its mouth. Klinsmann didn’t even have a chance to scream.
+Klinsmann was very smart. He hastily removed himself from the Breaksky doll to ensure his own survival when the construct was swallowed. But when Klinsmann was still in the air, the little beast’s tongue flew out and snared Klinsmann, then jerked him back into its mouth. Klinsmann didn’t even have a chance to scream.
 
 Han Sen had thought the Breaksky dolls would stall the Metal Beast, buying the Marquises enough time to escape from the metal city. When he looked back, though, he saw that all of them had already been destroyed.
 

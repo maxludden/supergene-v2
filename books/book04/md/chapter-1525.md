@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Back on Top
-### Chapter 1525 
+### Chapter 1525
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “You’ll soon find out whether or not I’m lying. And I’m striving for more than just being in the top ten; I’m going to be first,” Han Sen said coldly.
+“You’ll soon find out whether or not I’m lying. And I’m striving for more than just being in the top ten; I’m going to be first,” Han Sen said coldly.
 
 “If you ever do become number one, I’ll cut my head off and be your chair.” Little Jade Lion King scoffed.
 

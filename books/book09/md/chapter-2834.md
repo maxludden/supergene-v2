@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Lucky Gamble?
-### Chapter 2834 
+### Chapter 2834
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  God seemed to understand what Han Sen was thinking and coldly said, "It is futile. Have you heard of representing general trends? The general means nature like how fire does not have a shape. You cannot see the wind. Water can flow. Every substance has its own nature. Once you catch that nature, whatever chances come will never leave it. It seems like there are a lot of changes, but in the end, it will always return to its nature."
+God seemed to understand what Han Sen was thinking and coldly said, "It is futile. Have you heard of representing general trends? The general means nature like how fire does not have a shape. You cannot see the wind. Water can flow. Every substance has its own nature. Once you catch that nature, whatever chances come will never leave it. It seems like there are a lot of changes, but in the end, it will always return to its nature."
 
 Han Sen knew what God was saying. It meant Very High Leader was originally an emotionless person. No matter what Han Sen did, he could not change who he was. He also could not change the situation they were in.
 

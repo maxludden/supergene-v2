@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Dongxuan Sutra Level Up
-### Chapter 1913 
+### Chapter 1913
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The centipede opened its mouth to eat the little mink. It suddenly stopped, though, and it turned to look behind itself. Tap! Tap! Tap!
+The centipede opened its mouth to eat the little mink. It suddenly stopped, though, and it turned to look behind itself. Tap! Tap! Tap!
 
 Han Sen’s body was jerking like a poorly-built robot as he slowly approached.
 

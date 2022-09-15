@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## He Is Different
-### Chapter 1672 
+### Chapter 1672
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  1672 He Is Differen
+1672 He Is Differen
 
 Inside Han Manor, Ji Yanran was holding Littleflower and talking to Luo Lan. Zero was sitting near them.
 

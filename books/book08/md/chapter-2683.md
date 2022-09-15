@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Leveling Up to Half-deified
-### Chapter 2683 
+### Chapter 2683
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “Why even bother? Losing is better than dying!” The fox woman sighed mournfully from the distance as she watched.
+“Why even bother? Losing is better than dying!” The fox woman sighed mournfully from the distance as she watched.
 
 The seal was right behind Han Sen. He could teleport away before the punch came down on him, and it seemed like the only viable choice to ensure his own survival. But he didn’t. Instead, he carried on fighting with his now-broken body.
 

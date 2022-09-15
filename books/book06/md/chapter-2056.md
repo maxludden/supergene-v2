@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Stone Cow
-### Chapter 2056 
+### Chapter 2056
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Xius and the Dragon lady did not lower their voices, so Han Sen could hear everything they said clearly.
+Xius and the Dragon lady did not lower their voices, so Han Sen could hear everything they said clearly.
 
 “Trying to take me as a mount? How dare you! Even if I was willing to, wouldn’t you need legs?” Han Sen wondered how he might get out of this particular predicament.
 

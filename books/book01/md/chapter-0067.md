@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Mutant Sawfish
-### Chapter 67 
+### Chapter 67
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen found a safe spot, picked up some branches and made a fire. Boiling a pot of water, he threw some pieces of snake king meat into the water and cooked slowly.
+Han Sen found a safe spot, picked up some branches and made a fire. Boiling a pot of water, he threw some pieces of snake king meat into the water and cooked slowly.
 
 The snake was not too big. After thoroughly boiled, there were only about two bowls of soup left. Han Sen poured them out from the pot and gobbled the meat up.
 

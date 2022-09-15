@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Steelknight King Beast Soul
-### Chapter 841 
+### Chapter 841
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Inside the waiting area, Han Sen looked relaxed. Dong Lin had calculated their strategy very well, and their pangolin was indeed a very strong creature. Their only mistake was picking the wrong opponent.
+Inside the waiting area, Han Sen looked relaxed. Dong Lin had calculated their strategy very well, and their pangolin was indeed a very strong creature. Their only mistake was picking the wrong opponent.
 
 If they had discussed business formally, Han Sen would not have opposed the idea of putting on a show in their favor, to boost the sales and renown of their new pet pill product. With money to line his own pocket in return, they'd have both benefitted.
 

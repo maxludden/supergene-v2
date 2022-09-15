@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## News From Old Friends
-### Chapter 1620 
+### Chapter 1620
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  When Han Sen arrived at the martial hall and was preparing to sign up, he saw both Gu Qingcheng and Red Pony there. Apparently, they were both going to sign up for the Divinity’s Bout as well.
+When Han Sen arrived at the martial hall and was preparing to sign up, he saw both Gu Qingcheng and Red Pony there. Apparently, they were both going to sign up for the Divinity’s Bout as well.
 
 Han Sen was dazed. If all of them signed up in Shadow Shelter, the three would need to fight each other before Divinity’s Bout to determine which of them could enter Divinity’s Bout.
 

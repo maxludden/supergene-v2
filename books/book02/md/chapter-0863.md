@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Alpha Control
-### Chapter 863 
+### Chapter 863
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Fortunately, warframe fights were not determined by simple speed. There were many contributing factors that lead to victory; if much of the fight had relied on speed, Han Sen would never have been able to catch up to King of War.
+Fortunately, warframe fights were not determined by simple speed. There were many contributing factors that lead to victory; if much of the fight had relied on speed, Han Sen would never have been able to catch up to King of War.
 
 King of War was very powerful. It had a very high defense, and it possessed many different weapons. This meant its size was less than an ideal; it was big, and as a result, clumsy and a little stiff to move. This was where the SKTS could prove itself.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Gold Armor General
-### Chapter 2516 
+### Chapter 2516
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Dragon One and Dia Robber knew many people were watching them, but they didn’t care.
+Dragon One and Dia Robber knew many people were watching them, but they didn’t care.
 
 Killing the Gold Armor General was an incredibly ambitious goal, and it would be a cooperative effort. Keeping their preparations under wraps would be almost impossible, so they didn’t bother to try.
 

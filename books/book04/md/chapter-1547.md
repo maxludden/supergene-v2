@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## The Darkness Seemed So Far Away
-### Chapter 1547 
+### Chapter 1547
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen increased his pace, leaving Six Paths behind. Six Paths was getting far too tired, and he slowed down. With him slowing down and Han Sen speeding up, the distance between the two greatly increased.
+Han Sen increased his pace, leaving Six Paths behind. Six Paths was getting far too tired, and he slowed down. With him slowing down and Han Sen speeding up, the distance between the two greatly increased.
 
 Six Paths frowned. He didn’t let Han Sen’s progress affect him, though, and he continued at the pace he himself was most comfortable with.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Stone Cow Valley
-### Chapter 2005 
+### Chapter 2005
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Pang! Pang!
+Pang! Pang!
 
 The bullets struck the Stone Cow from afar. They made the Stone Cow angry, but after repeated hits, its speed was slower than that of a snail. It couldn’t come after Han Sen.
 

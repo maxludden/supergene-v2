@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Trade
-### Chapter 215 
+### Chapter 215
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Sitting on a rock, Han Sen saw Huangfu Pingqing approaching.
+Sitting on a rock, Han Sen saw Huangfu Pingqing approaching.
 
 Wearing a half armor, skirt and Boots, Huangfu Pingqing's thighs were exposed. Her figure was so attractive that Han Sen swallowed nervously.
 

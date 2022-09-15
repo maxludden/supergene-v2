@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Planet Under the Ice
-### Chapter 3255 
+### Chapter 3255
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The ice fields had many systems. If it was not for the leadership of Tian Jing, Han Sen would never have thought that an unremarkable place was where the rare gene egg would be found.
+The ice fields had many systems. If it was not for the leadership of Tian Jing, Han Sen would never have thought that an unremarkable place was where the rare gene egg would be found.
 
 A small, ice mountain was in front of them. It was surrounded by many more ice mountains. It was only a few hundred feet high. It was not very tall. Compared to the other ice mountains, which were a few thousand feet high, that small ice mountain was not very eye-catching
 

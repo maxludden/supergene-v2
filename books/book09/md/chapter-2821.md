@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## God Spirit Fight
-### Chapter 2821 
+### Chapter 2821
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  "Sky Vine Radish's god spirit? Are you the creature that killed the god? Did you take Sky Vine Radish's god spirit? I did not expect that a lowlife creature could do that." Evil Lotus God stood up. He was still coughing up blood. His eyes were staring at Sky Vine Radish, who stood before Han Sen. Clearly, he could see Sky Vine Radish.
+"Sky Vine Radish's god spirit? Are you the creature that killed the god? Did you take Sky Vine Radish's god spirit? I did not expect that a lowlife creature could do that." Evil Lotus God stood up. He was still coughing up blood. His eyes were staring at Sky Vine Radish, who stood before Han Sen. Clearly, he could see Sky Vine Radish.
 
 Second Uncle and the others were even more shocked. When the god's sadness happened, it made for a popular topic of conversation. For it now to be revealed that it was a xenogeneic that killed the god, it was pretty difficult to fathom.
 

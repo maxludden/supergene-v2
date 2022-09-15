@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Black and White Three
-### Chapter 194 
+### Chapter 194
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  As Ouyang dodged, Han Sen’s fist froze in the air.
+As Ouyang dodged, Han Sen’s fist froze in the air.
 
 It was obvious that if this punch was a black one, Han Sen would not be able to stop it, which meant it was a white fist.
 

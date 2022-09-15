@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Must Save Her
-### Chapter 3446 
+### Chapter 3446
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “Little Gold Gold!” Ling’er saw Golden Growler’s mouth was bleeding blood. Now, Bird Elder and his people were unleashing more scary powers her way. She screamed.
+“Little Gold Gold!” Ling’er saw Golden Growler’s mouth was bleeding blood. Now, Bird Elder and his people were unleashing more scary powers her way. She screamed.
 
 Golden Growler ignored the blood that was oozing from his mouth. His eyes were shining gold. He opened up his mouth again. This time, when the mouth opened, it did not release a scary gold light. He was spitting out a golden door.
 

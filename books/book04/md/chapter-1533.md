@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## The Chimenea That Went by
-### Chapter 1533 
+### Chapter 1533
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “Is there a problem with this place?” Han Sen frowned as he looked around. He didn’t notice anything out of the ordinary.
+“Is there a problem with this place?” Han Sen frowned as he looked around. He didn’t notice anything out of the ordinary.
 
 God’s Retribution looked serious when he spoke next. He said, “It’s more than just a problem. It’s a big problem! I have been to this area before, and these flowers are frightening things. You’d do well to avoid touching them.”
 

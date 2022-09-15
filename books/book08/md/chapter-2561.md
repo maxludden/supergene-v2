@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## What Is Equality?
-### Chapter 2561 
+### Chapter 2561
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen was shocked. He thought they might all be storming over to mob him, but they had actually all come to him for a blessing. That realization made him feel much safer.
+Han Sen was shocked. He thought they might all be storming over to mob him, but they had actually all come to him for a blessing. That realization made him feel much safer.
 
 “To be honest, performing blessings can harm my body and reduce my lifespan. After blessing someone, it takes me half a year to recover. My lifespan is also cut down by a hundred years. If I didn’t need the xenogeneic genes, I wouldn’t have accepted Barr’s offer. So, if you offer me two thousand, four thousand, or even five thousand now, I won’t do it. I’m sorry if I have to disappoint you like this,” Han Sen said, feeling bad about the words even as they came out of his mouth.
 

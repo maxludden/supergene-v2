@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## A Big Tree in the Forest
-### Chapter 909 
+### Chapter 909
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Seeing this tall, lonely tree from afar, Han Sen frowned. The tree possessed a grand lifeforce, but there was nothing else alive in its proximity.
+Seeing this tall, lonely tree from afar, Han Sen frowned. The tree possessed a grand lifeforce, but there was nothing else alive in its proximity.
 
 There were no creatures near it, so Han Sen thought it was a little strange.
 

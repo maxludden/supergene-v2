@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Asura’s Betrayal
-### Chapter 1317 
+### Chapter 1317
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “Well, now that I know you’re on my side, I have a problem you might be able to help me with.” Han Sen went on to tell Dragon King about the coming siege Moment Queen had reported.
+“Well, now that I know you’re on my side, I have a problem you might be able to help me with.” Han Sen went on to tell Dragon King about the coming siege Moment Queen had reported.
 
 “Are you saying the entire Third God’s Sanctuary is against us? And who is Godslayer Luo, anyway?” Dragon King asked, with widened eyes.
 

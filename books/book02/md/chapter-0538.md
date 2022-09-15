@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Frost Sutra
-### Chapter 538 
+### Chapter 538
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The exchange event was taking place in a large auditorium. By they arrived, many young people had already arrived in groups of their own.
+The exchange event was taking place in a large auditorium. By they arrived, many young people had already arrived in groups of their own.
 
 Han Sen and Ji Yanran's coming was not given too much attention. Ji Yanran wasn't the only member of the Ji family, after all; nor was she a person of any particular outstanding renown.
 

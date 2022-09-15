@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Super Spirit
-### Chapter 800 
+### Chapter 800
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen tried his hardest to cast the holy light and heal the big monster's wounds, and it wasn't long before its vitality was restored enough for it to continue its fight with renewed vigor. Han Sen felt relieved.
+Han Sen tried his hardest to cast the holy light and heal the big monster's wounds, and it wasn't long before its vitality was restored enough for it to continue its fight with renewed vigor. Han Sen felt relieved.
 
 "At least I have a grip on the situation for the time being." Han Sen returned his focus to the armored phantom.
 

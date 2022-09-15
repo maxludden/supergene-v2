@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Blood Legion’s Secret
-### Chapter 1412 
+### Chapter 1412
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “So, if that is a good thing, why are we fighting? Bleeding is no good,” Han Sen said with caution, stepping backwards as he kept up the lie.
+“So, if that is a good thing, why are we fighting? Bleeding is no good,” Han Sen said with caution, stepping backwards as he kept up the lie.
 
 “Blood is all. We are proud of blood, and we use blood to celebrate. If you are an heir of the Qin family, then your sacrifice is even more welcome. When I become sovereign to the legion, I will handsomely reward your family.” Mister Li, as he spoke, came nearer to Han Sen.
 

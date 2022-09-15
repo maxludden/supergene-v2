@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Birthday Party
-### Chapter 3091 
+### Chapter 3091
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Mister Yang felt as if he was dreaming. He could not believe what was happening to him atop that Holy Light Mountain.
+Mister Yang felt as if he was dreaming. He could not believe what was happening to him atop that Holy Light Mountain.
 
 The superior, well-respected God Spirit had listened to Han Sen’s commands. He even referred to him as a mister.
 

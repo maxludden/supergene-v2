@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## The Real Show
-### Chapter 1281 
+### Chapter 1281
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “What you saw previously was just me stretching out,” Doll said.
+“What you saw previously was just me stretching out,” Doll said.
 
 “Okay then, skip the opening acts and get on with the real show,” Han Sen said, looking at Doll. If summoning and riding a dragon was just flexing her muscles, then how strong must the spirit have been?
 

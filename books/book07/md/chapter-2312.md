@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Universe Geno Lock
-### Chapter 2312 
+### Chapter 2312
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen’s day hadn’t gone well. He beat Bai Wuchang, but the primary root king dragon was taken by another prince.
+Han Sen’s day hadn’t gone well. He beat Bai Wuchang, but the primary root king dragon was taken by another prince.
 
 Han Sen wasn’t strong enough to beat another King class prince and seven half-deified guards. Even if he could have won, Bai Wei didn’t want to offend the prince. Thet relinquished the primary root.
 

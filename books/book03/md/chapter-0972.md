@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Unbelievable Rabbit King
-### Chapter 972 
+### Chapter 972
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen sat down near the campfire and started cooking another bee.
+Han Sen sat down near the campfire and started cooking another bee.
 
 So far, he had only cooked four out of the sixteen he had hunted. He had eaten one, and so had the rabbit king.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Dongxuan Break World
-### Chapter 3226 
+### Chapter 3226
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen’s body had just received the gold little gourd’s gold light moisturization. It made the main and reverse Dongxuan Sutra’s power increase, but it did not rip up his body.
+Han Sen’s body had just received the gold little gourd’s gold light moisturization. It made the main and reverse Dongxuan Sutra’s power increase, but it did not rip up his body.
 
 The two powers slowly melded together, making things start to become calm again. Suddenly, there was a flash. A weird person, who looked like a lizard, appeared in front of Han Sen. His red eyes were not looking at Han Sen. They were looking at Han Sen’s Inch Grey Sword. His face was full of greed.
 

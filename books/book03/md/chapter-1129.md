@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Han Sen’s Guess
-### Chapter 1129 
+### Chapter 1129
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Seeing Uncle Bug’s murderous look, Han Sen could now see how cruel of a person he must have really been.
+Seeing Uncle Bug’s murderous look, Han Sen could now see how cruel of a person he must have really been.
 
 Han Sen sighed, unsure whether or not he’d be able to pluck more information from him. Thinking this, he decided to tell him, “Uncle Bug, I was in that valley the other night.”
 

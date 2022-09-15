@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Prediction
-### Chapter 648 
+### Chapter 648
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Suddenly, Han Sen thought that if the beast soul had to be chosen to use the gem beast soul for evolution, did that mean humans using the Life Geno essence had to follow the same rule?
+Suddenly, Han Sen thought that if the beast soul had to be chosen to use the gem beast soul for evolution, did that mean humans using the Life Geno essence had to follow the same rule?
 
 All the creatures in the First Shelter, including super creatures, only had to evolve with meat. Therefore, you could eat their Life Geno essence right away.
 

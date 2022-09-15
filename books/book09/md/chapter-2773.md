@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## God Phoenix’s Request
-### Chapter 2773 
+### Chapter 2773
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  After the phoenix lifted Han Sen into the air, it rocketed forward with blinding speed. This was nothing like the slow, ponderous way the bird had moved when it first approached Two Ape Mountain.
+After the phoenix lifted Han Sen into the air, it rocketed forward with blinding speed. This was nothing like the slow, ponderous way the bird had moved when it first approached Two Ape Mountain.
 
 Before Han Sen could say anything, he saw that they were heading toward one of the suns in the sky. The orb glowed with power and heat as they shot recklessly toward it.
 

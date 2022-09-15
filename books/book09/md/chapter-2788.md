@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Big Fire Burns the Flowers
-### Chapter 2788 
+### Chapter 2788
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  They were still wildly powerful. As they went, their bodies kept changing. They had become extremely strong. When Bai Wanjie unleashed his power against a Flower God, he could only send them flying. The Flower Gods were never slow in catching up.
+They were still wildly powerful. As they went, their bodies kept changing. They had become extremely strong. When Bai Wanjie unleashed his power against a Flower God, he could only send them flying. The Flower Gods were never slow in catching up.
 
 Bai Wanjie, who was a deified elite, was the only one who could do that. The others from the Extreme King were doing even worse. There weren’t many of the Extreme King following Bai Wanjie. Most of them looked to be riddled with injuries. It appeared as if many had been killed.
 

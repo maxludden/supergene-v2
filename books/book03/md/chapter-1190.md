@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Asura Betrayal
-### Chapter 1190 
+### Chapter 1190
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  While Han Sen was flying back, someone called out his name. When he turned around to take a look, he saw an eight-year-old child squirming and writhing around on the ground as if in pain.
+While Han Sen was flying back, someone called out his name. When he turned around to take a look, he saw an eight-year-old child squirming and writhing around on the ground as if in pain.
 
 “Baby Ghost?” Han Sen was surprised to see him there.
 

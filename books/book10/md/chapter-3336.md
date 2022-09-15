@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Jian Ou
-### Chapter 3336 
+### Chapter 3336
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The woman drew out the purple copper sword, which was glowing with a purple and red flame. It was like an endless power was coming out with the sword and going into the woman’s body.
+The woman drew out the purple copper sword, which was glowing with a purple and red flame. It was like an endless power was coming out with the sword and going into the woman’s body.
 
 Han Sen was shocked to see this. He saw it get pulled out by the native right from the ground. It was not completely free though. A special connection was forming between the purple copper sword and woman.
 

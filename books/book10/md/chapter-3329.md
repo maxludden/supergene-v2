@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Back to the First Floor
-### Chapter 3329 
+### Chapter 3329
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen pointed at the gourd symbol and asked, “What is the meaning of this gourd symbol on the tablet?”
+Han Sen pointed at the gourd symbol and asked, “What is the meaning of this gourd symbol on the tablet?”
 
 White King said, “That was left behind by the fairy that made the White Jade Jing. It is a sign of the fairy.”
 

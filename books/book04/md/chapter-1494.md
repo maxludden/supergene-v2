@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Fight Between a Fish and a Crab
-### Chapter 1494 
+### Chapter 1494
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  It wasn’t easy, suffering that first barrage of lightning. It had damaged the Bulwark Umbrella, covering it in cracks. The crab, seeing that Han Sen was not dead, swung its pincers to provoke the eel more.
+It wasn’t easy, suffering that first barrage of lightning. It had damaged the Bulwark Umbrella, covering it in cracks. The crab, seeing that Han Sen was not dead, swung its pincers to provoke the eel more.
 
 The eel became even angrier, and it fired an even greater discharge of lightning towards the crab.
 

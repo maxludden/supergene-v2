@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## The Creatures Attacking
-### Chapter 946 
+### Chapter 946
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  "Walk in a circle and keep walking!" Thorn Baron was angry, but she had to maintain her composure in order to effectively lead and issue appropriate commands for the situation.
+"Walk in a circle and keep walking!" Thorn Baron was angry, but she had to maintain her composure in order to effectively lead and issue appropriate commands for the situation.
 
 Han Sen's arrow was a silent killer, but it could still be seen with the naked eye.
 

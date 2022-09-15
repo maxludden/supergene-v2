@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Mutant Eight Sound Bug
-### Chapter 3072 
+### Chapter 3072
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Although Han Sen had watched a video online about the eight sound bugs, compared to what he was seeing in real life, he was given a nasty shock.
+Although Han Sen had watched a video online about the eight sound bugs, compared to what he was seeing in real life, he was given a nasty shock.
 
 A butterfly, which was as small as a fairy, suddenly flickered like a white light that should have been the bug’s body. Aside from its body just being a white slate and several wriggling tentacles, it was like a human. That thing was sort of like a mini butterfly.
 

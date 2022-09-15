@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## An Accident
-### Chapter 3223 
+### Chapter 3223
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Bury Path God’s power was incredibly strong. The whole of Dust God shook under the duress of his power. It felt like that power could bury the entire sky, ground, and space around No matter how strong his power was, he could not keep his knees away from the ground. Qin Xiu held Wan’er and went down to Bury Path God. Every step he took made the suppression power applied to Bury Path God seem even heavier.
+Bury Path God’s power was incredibly strong. The whole of Dust God shook under the duress of his power. It felt like that power could bury the entire sky, ground, and space around No matter how strong his power was, he could not keep his knees away from the ground. Qin Xiu held Wan’er and went down to Bury Path God. Every step he took made the suppression power applied to Bury Path God seem even heavier.
 
 Patong!
 
@@ -45,9 +46,7 @@ Even when the old leader was there, no one had humiliated Bury Path God like tha
 
 “Do you obey me or not?” Qin Xiu looked at Bury Path God from a high place. He looked at him as if he was looking at a small ant. “Qin Xiu, you do not have what it takes to talk to me like this. Kill me if you have the guts to.” Bury Path God’s body was on the ground. He was not scared.
 
-Qin Xiu lifted his lips to display a smile. He looked at Wan’er, who was now fast asleep, and said, “Dying does not come so easily. If you offend me, I will kill you. You wanted to take Wan’er’s body for yourself. How can I let you die easily? Obey me or kneel here forever as an apology to Wan’er. I leave the decision to
-
-you.”
+Qin Xiu lifted his lips to display a smile. He looked at Wan’er, who was now fast asleep, and said, “Dying does not come so easily. If you offend me, I will kill you. You wanted to take Wan’er’s body for yourself. How can I let you die easily? Obey me or kneel here forever as an apology to Wan’er. I leave the decision to you.”
 
 The creatures of the God Chaos Party were shocked. Qin Xiu wanted Bury Path God to be buried there forever so that he could never do anything. What kind of humiliation was that? To Bury Path God, that was worse than reincarnation.
 

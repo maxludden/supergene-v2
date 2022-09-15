@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Second-generation Qi Gong
-### Chapter 668 
+### Chapter 668
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Hui Haifeng accepted Han Sen's friend request. He sent a message, asking, "What was that skill called?"
+Hui Haifeng accepted Han Sen's friend request. He sent a message, asking, "What was that skill called?"
 
 Han Sen contemplated his answer for a minute, and then replied, "Elephant-Rex Strike."
 

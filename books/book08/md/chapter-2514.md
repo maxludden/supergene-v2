@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Dragon Tooth Dagger
-### Chapter 2514 
+### Chapter 2514
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Bai Wan Jie hadn’t expected that Dragon One and the others would make a serious effort to kill Gold Armor General. But based on what he had just learned, it seemed that Dragon One and Dia Robber really intended to take on Gold Armor General.
+Bai Wan Jie hadn’t expected that Dragon One and the others would make a serious effort to kill Gold Armor General. But based on what he had just learned, it seemed that Dragon One and Dia Robber really intended to take on Gold Armor General.
 
 “My Prince, Dragon One and Dia Robber didn’t seem to be joking. I think they’re actually planning to fight Gold Armor General. Should we prepare? Should we steal the kill before they arrive?” Nightmare Knight asked Bai Wan Jie.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Coach
-### Chapter 481 
+### Chapter 481
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Qin Xuan sent the tutorial of Thunder Knife to Han Sen, and Han Sen started to teach her.
+Qin Xuan sent the tutorial of Thunder Knife to Han Sen, and Han Sen started to teach her.
 
 Half an hour was a short amount of time. After explaining some techniques and demonstrating, Han Sen asked Qin Xuan to imitate him twice. And then half an hour was gone.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Redhead Cricket
-### Chapter 1450 
+### Chapter 1450
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Tzi Tzi Tzi Tzi!
+Tzi Tzi Tzi Tzi!
 
 Han Sen looked towards the deeper recesses of the cave. A red light was quickly approaching them.
 

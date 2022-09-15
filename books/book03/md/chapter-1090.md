@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Frost Jade
-### Chapter 1090 
+### Chapter 1090
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  When the faction was originally split into four families, the Xue family was given the Frost Sutra. The primary reason for this was how well it suited them.
+When the faction was originally split into four families, the Xue family was given the Frost Sutra. The primary reason for this was how well it suited them.
 
 The Frost Sutra relied on yin power and the ice element. Members of the Xue family had a body-type that was comprised of both traits, which made them the best candidates to learn it.
 

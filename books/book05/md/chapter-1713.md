@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Noble
-### Chapter 1713 
+### Chapter 1713
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “Weak!” Han Sen gave a wry smile.
+“Weak!” Han Sen gave a wry smile.
 
 Han Sen wished to rebut, but Lan Se’s communicator rang, cutting him off. She picked it up and said, “This is Lan Se, go ahead.”
 

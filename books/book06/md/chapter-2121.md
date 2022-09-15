@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## The Name of Dollar
-### Chapter 2121 
+### Chapter 2121
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Dragon Eight tried to force himself to get up, but the figure on the coin was displaying a mighty number eight. His hands trembled in exertion as he attempted to rise, but nothing came of it. He couldn’t get up.
+Dragon Eight tried to force himself to get up, but the figure on the coin was displaying a mighty number eight. His hands trembled in exertion as he attempted to rise, but nothing came of it. He couldn’t get up.
 
 Dragon Eight’s dragon fire was burning like a bonfire, but try as he might to rise, he just couldn’t get back on his feet.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Stand Up
-### Chapter 712 
+### Chapter 712
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Seeing Han Sen still managing to stand up, the chests of many people felt heavy with sunken emotions.
+Seeing Han Sen still managing to stand up, the chests of many people felt heavy with sunken emotions.
 
 When the Light Son of God looked at Han Sen again, there was no longer disdain in his expression. Instead, he looked at Han Sen with respect. He considered the Dollar he was up against to be a genuine opponent.
 

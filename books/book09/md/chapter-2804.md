@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## I Want You
-### Chapter 2804 
+### Chapter 2804
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  "Little Kid, do you want to be like him, taking whatever you want and tricking whoever you want?" Bai King walked before Han Sen and suddenly reached out his hand. He patted Han Sen on the head, smiled, and pointed at Bai Wanjie.
+"Little Kid, do you want to be like him, taking whatever you want and tricking whoever you want?" Bai King walked before Han Sen and suddenly reached out his hand. He patted Han Sen on the head, smiled, and pointed at Bai Wanjie.
 
 Han Sen was frozen as he looked at Bai King. He did not know what he was talking about.
 

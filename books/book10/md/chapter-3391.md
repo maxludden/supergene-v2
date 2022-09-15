@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Doing the Opposite
-### Chapter 3391 
+### Chapter 3391
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  That person did not know who Han Sen was either. His eyes were straight and fixed on Han Sen’s clock. The man pulled out his knife and immediately started slashing toward Han Sen.
+That person did not know who Han Sen was either. His eyes were straight and fixed on Han Sen’s clock. The man pulled out his knife and immediately started slashing toward Han Sen.
 
 Han Sen wanted to fight back, but he thought about it some more. He ended up retreating. He pretended to be angry and shouted, “I found the sky clock first! What makes you think you can steal my stuff?”
 

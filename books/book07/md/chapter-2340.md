@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## First Person in a Thousand Year
-### Chapter 2340 
+### Chapter 2340
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Everyone was frozen. They didn’t know what was going on. Han Sen felt a sharp pain in his heart. He had no clue why the word water had just stopped above him.
+Everyone was frozen. They didn’t know what was going on. Han Sen felt a sharp pain in his heart. He had no clue why the word water had just stopped above him.
 
 The next second, the symbol on Han Sen’s forehead fired away from him like a cannonball. It whooshed back up into the sky, flying into the leaves at the top of the tree and vanishing.
 

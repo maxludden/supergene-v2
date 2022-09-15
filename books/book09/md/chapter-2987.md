@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Got a God Personality Again
-### Chapter 2987 
+### Chapter 2987
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  I was
+I was
 
 “That strong?” Han Sen was shocked. The most shocking thing about this situation came later. After Kill Sky God was injured, he was so shocked that he wanted to escape but could not even turn around.
 

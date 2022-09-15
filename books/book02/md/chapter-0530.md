@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Twin
-### Chapter 530 
+### Chapter 530
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen wanted to take back Mad Shield, but the sword of the girl was too fast indeed. Before he took Mad Shield back, another flash flew across.
+Han Sen wanted to take back Mad Shield, but the sword of the girl was too fast indeed. Before he took Mad Shield back, another flash flew across.
 
 Crack!
 

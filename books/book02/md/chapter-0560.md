@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Unbelievable Creature
-### Chapter 560 
+### Chapter 560
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen's face changed. The silver fox had only just been born, but it was already so quick. What's more, it was accelerating as it got nearer. Before long, it stood just five meters from them. For a brief moment, Han Sen thought about summoning his wings to escape.
+Han Sen's face changed. The silver fox had only just been born, but it was already so quick. What's more, it was accelerating as it got nearer. Before long, it stood just five meters from them. For a brief moment, Han Sen thought about summoning his wings to escape.
 
 But the silver fox didn't do anything. It just stood there watching Han Sen with its phoenix-like eyes.
 

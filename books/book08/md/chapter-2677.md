@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Eight Hole Emperor
-### Chapter 2677 
+### Chapter 2677
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Shale glanced toward Mo Fang, and Mo Fang lifted his lips while looking back at Shale. Neither said a word, but they each knew what the other was thinking.
+Shale glanced toward Mo Fang, and Mo Fang lifted his lips while looking back at Shale. Neither said a word, but they each knew what the other was thinking.
 
 “Butterfly, are you with us, or are you with Shale?” Mo Fang asked, looking at the Fox woman.
 

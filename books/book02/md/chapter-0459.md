@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Abnormal Shelter
-### Chapter 459 
+### Chapter 459
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  With someone being the first, many more stood out to break off their contract and leave the Goddess Gang.
+With someone being the first, many more stood out to break off their contract and leave the Goddess Gang.
 
 Not many people believed that Han Sen could really conquer the spirit shelter. There were so many mutant creatures in the spirit shelter, and an aristocrat spirit who was basically immortal. Those were all huge troubles.
 

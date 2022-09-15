@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Battling Feather
-### Chapter 1691 
+### Chapter 1691
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  1691 Battling Feather
+1691 Battling Feather
 
 Fear gripped Han Sen’s throat, but he found himself falling back before Old Cat even made the suggestion. He summoned his Death Armor Swordsman beast soul and transformed into the Death Armor Swordsman.
 

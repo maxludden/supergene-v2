@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Watching the Destroyed Inheritance
-### Chapter 2187 
+### Chapter 2187
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The three lights of the triangle merged to become a swirling grey color. When you looked at the symbol from one side, the grey color shifted to black, and if you looked from the other side, the grey turned white.
+The three lights of the triangle merged to become a swirling grey color. When you looked at the symbol from one side, the grey color shifted to black, and if you looked from the other side, the grey turned white.
 
 The triangle seemed to pulse with that mystic grey. The color stained Han Meng’er’s power grey, as well.
 

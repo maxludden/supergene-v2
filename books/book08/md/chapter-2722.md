@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Good Guy Uncle
-### Chapter 2722 
+### Chapter 2722
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “Can’t do what? I’m offering you a true god item that can foretell the future, but all you want is to read comics and win the lottery,” Empty God muttered bitterly. “The item itself is its own benefit. You can predict what is going to happen in a certain place in the future.”
+“Can’t do what? I’m offering you a true god item that can foretell the future, but all you want is to read comics and win the lottery,” Empty God muttered bitterly. “The item itself is its own benefit. You can predict what is going to happen in a certain place in the future.”
 
 “That has nothing to do with me. If it doesn’t let me get lots of delicious food and great-looking clothes, then it is useless to me.” Bao’er was no longer interested. She returned to playing on the Star Fruit, swinging her body around it. She no longer wanted to talk about it.
 

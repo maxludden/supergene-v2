@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Traveling and Studying
-### Chapter 3194 
+### Chapter 3194
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  When Qin Bai heard what he said, he developed a wry smile and replied, “It is very hard for me to leave the palace for any duration of time. I always have to come up with excuses to leave the palace and see you. Why would my father allow me to travel and study with you?”
+When Qin Bai heard what he said, he developed a wry smile and replied, “It is very hard for me to leave the palace for any duration of time. I always have to come up with excuses to leave the palace and see you. Why would my father allow me to travel and study with you?”
 
 “Just give it a go,” Han Sen said with a smile. “Perhaps your father might agree. By the way, when you ask your father, you can tell him that Mister Jian is going too.” “I would not dare tell my father something like that,” Qin Bai said with a sigh. “He is going to say I am a loser.”
 

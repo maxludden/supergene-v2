@@ -1,23 +1,24 @@
-Title:Unexpected Encounter 
-Chapter:17 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+Title:Unexpected Encounter
+Chapter:17
+Section:1
+Book:1
+CSS:../Styles/style.css
 viewport: width=device-width
-  
+
 ## Unexpected Encounter
-### Chapter 17 
+### Chapter 17
+
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
-  
 
-  
-  Fortunately, Han Sen's feet were also wrapped in armor, and the scorpion tail couldn’t hurt him at all.
+
+
+Fortunately, Han Sen's feet were also wrapped in armor, and the scorpion tail couldn’t hurt him at all.
 
 Han Sen stepped on the quartz scorpion and crushed it.
 
-> "Primitive Creature Quartz Scorpion Killed. No Beast Soul Gain. Eat The Flesh Of Quartz Scorpion To Gain Zero To Ten Primitive Geno Points."
+> "Primitive Creature Quartz Scorpion killed. No beast soul gain. Eat the flesh of Quartz Scorpion to gain zero to ten primitive geno points."
 
 Han Sen picked up the dead scorpion, put it into a prepared bag, and walked further into the cave with the bag on his back.
 

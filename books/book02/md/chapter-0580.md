@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## If You Lose, Tell Me Who You Are
-### Chapter 580 
+### Chapter 580
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Yi Dongmu did not use the face blur function, and his cold and proud face was on display for all to see.
+Yi Dongmu did not use the face blur function, and his cold and proud face was on display for all to see.
 
 "He is so handsome. This is like a scene from Hamlet; I hope Yi Dongmu can finally exact his revenge." A woman watched Yi Dongmu, her face blushing red.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Pickup
-### Chapter 605 
+### Chapter 605
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen hadn't been in the sea long before he saw Queen approaching. Like an arrow, she bolted into the sea. The blood on her body brought a misty haze of red flowers to the water, and it looked beautiful.
+Han Sen hadn't been in the sea long before he saw Queen approaching. Like an arrow, she bolted into the sea. The blood on her body brought a misty haze of red flowers to the water, and it looked beautiful.
 
 He then saw a flash of white light descend across the tumultuous waves of the sea, and it violently scraped and clawed its way across the sea surface.
 

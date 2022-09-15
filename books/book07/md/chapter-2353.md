@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Nine-headed Bird
-### Chapter 2353 
+### Chapter 2353
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “Ridiculous!” Han Sen shouted, pretending to be angry. He used his king area to cover Nine-Headed Bird.
+“Ridiculous!” Han Sen shouted, pretending to be angry. He used his king area to cover Nine-Headed Bird.
 
 The water area shrouded Nine-Headed Bird, turning into a rain of water that restricted Nine-Headed Bird’s body.
 

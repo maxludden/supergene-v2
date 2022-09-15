@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Evil Eye
-### Chapter 2113 
+### Chapter 2113
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen was not the only one taking notice of Littleflower, though. Not by a long shot. The whole geno universe had started to pay attention to the previously-unknown Viscount named Littleflower.
+Han Sen was not the only one taking notice of Littleflower, though. Not by a long shot. The whole geno universe had started to pay attention to the previously-unknown Viscount named Littleflower.
 
 Most people didn’t give Han Sen a second thought due to the score he had ended up on, and the title of Sacred was a far more enticing subject to talk about.
 

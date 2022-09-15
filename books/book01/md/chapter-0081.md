@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Well-behaved Soldier
-### Chapter 81 
+### Chapter 81
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The scripture of Jadeskin opened with these words, "Jade skin and flawless body, evils away and spells vain."
+The scripture of Jadeskin opened with these words, "Jade skin and flawless body, evils away and spells vain."
 
 When he sipped the water, Han Sen knew something was wrong, but he still drank it without hesitation.
 

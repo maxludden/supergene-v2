@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## I'm Afraid This Will Be Difficult
-### Chapter 726 
+### Chapter 726
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  "Qian Jiang, how can you say that? We are cooperating to take down the shelter together; we have plenty of time to discuss this," Brother Fist said, frowning.
+"Qian Jiang, how can you say that? We are cooperating to take down the shelter together; we have plenty of time to discuss this," Brother Fist said, frowning.
 
 Qian Jiang, from the Thunder Shelter, replied, "If we are cooperating, then we should use the contract we have already signed and settled on. For you to go out in search of someone else is a concern of yours, where the rewards come directly out of your own shares. You cannot burden us with someone whose aid we have not asked for. Why should we give him anything?"
 

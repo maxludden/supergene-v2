@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Godslayer Shelter
-### Chapter 1556 
+### Chapter 1556
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The leader of those humans seemed to be Iron Fist Jia Shidao.
+The leader of those humans seemed to be Iron Fist Jia Shidao.
 
 When Han Sen joined the Demigod Association, he had come into conflict with Jia Shidao, and it ended pretty badly.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Roast Goose
-### Chapter 807 
+### Chapter 807
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  While Han Sen was still thinking, he heard a woman laugh. He wasn't sure from which direction it came.
+While Han Sen was still thinking, he heard a woman laugh. He wasn't sure from which direction it came.
 
 "Have humans come here, as well? Or was that just another spirit?" Han Sen looked around him but failed to see anyone.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Crazy Creature
-### Chapter 336 
+### Chapter 336
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen stared down the cliff and was shocked. So were Jin Rijie, Jin Qiuli and Sun Minghua.
+Han Sen stared down the cliff and was shocked. So were Jin Rijie, Jin Qiuli and Sun Minghua.
 
 They had followed the turtle for two days, which had gone deeper and deeper. They felt something must be wrong, they were already on the cliff.
 

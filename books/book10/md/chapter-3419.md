@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## The Geno Tablet Fights Begin
-### Chapter 3419 
+### Chapter 3419
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Moon God did not carry on with this subject. She addressed Han Sen and said, “You are good. Your body is strong. I cannot say for certain that you are greater than Qin Xiu, but in this universe, you certainly rank amongst the best. Few could ever hope to rival you. With the way your body is, fighting alongside Bao’er would be beneficial. You could aid her a lot.”
+Moon God did not carry on with this subject. She addressed Han Sen and said, “You are good. Your body is strong. I cannot say for certain that you are greater than Qin Xiu, but in this universe, you certainly rank amongst the best. Few could ever hope to rival you. With the way your body is, fighting alongside Bao’er would be beneficial. You could aid her a lot.”
 
 After Han Sen thought about it, he thought what she said made sense. With Bao’er’s power, she would be able to activate the power inside Han Sen’s body. Perhaps he could see where the limitations of his body resided.
 

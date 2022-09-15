@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Fruit Tree
-### Chapter 2269 
+### Chapter 2269
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Previous Index Next Add Bookmarks
+Previous Index Next Add Bookmarks
 
 Fox Queen move closer to get a better look at the tree, but she soon started to frown. “Is there something inside the tree? Is the holy monument inside the tree?”
 

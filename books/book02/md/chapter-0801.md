@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Zenith of Perception
-### Chapter 801 
+### Chapter 801
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen felt as if he was being bullied by two legendary elites. Not a single second went by, without his life dangling by a thread.
+Han Sen felt as if he was being bullied by two legendary elites. Not a single second went by, without his life dangling by a thread.
 
 The spirit's speed was so high, it might as well have been teleportation. Coupled with the armored phantom's indestructible greatsword, Han Sen could do little but dodge, dodge, and dodge some more.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Humans That Should Not Exist
-### Chapter 3160 
+### Chapter 3160
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen hurriedly asked, “What? The universe was rebooted once. Is this the consequence of it being rebooted? Does this mean everything in the universe has to start from scratch?”
+Han Sen hurriedly asked, “What? The universe was rebooted once. Is this the consequence of it being rebooted? Does this mean everything in the universe has to start from scratch?”
 
 God shook his head. “It’s not like that. Reboot God Spirits can reboot things, but they cannot really return the universe to how it was in the beginning. There is so much I could explain, but I don’t have the time to tell you everything.”
 
@@ -21,7 +22,9 @@ God shook his head. “It’s not like that. Reboot God Spirits can reboot thing
 
 God seriously said, “I really am a Reboot God Spirit, and I can reset things. But do you know the price it costs to reboot the universe?”
 
-“What price would you pay?” Han Sen asked. “Didn’t I tell you the last temple owner rebooted the universe?” God asked with a smile.
+“What price would you pay?” Han Sen asked. 
+
+“Didn’t I tell you the last owner of the geno temple rebooted the universe?” God asked with a smile.
 
 Han Sen froze. He suddenly realized something. God meant that the last geno hall owner activated the universe reboot powers. That was why he was the last one.
 
@@ -75,7 +78,7 @@ Han Sen only had one member in his God of Wealth Temple. It was the little bald 
 
 After thinking about it, he departed the God of Wealth Temple. He went straight to the Feng family’s castle.
 
-“San Mu, are you OK?” When Feng Yin Yin saw Han Sen return, she worriedly looked at him.
+“San Mu, are you okay?” When Feng Yin Yin saw Han Sen return, she worriedly looked at him.
 
 She and Bao’er had seen Han Sen be burned by a black flame. She was worried, so she stayed in the garden waiting for him to return.
 

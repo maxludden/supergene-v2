@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Robbery?
-### Chapter 3073 
+### Chapter 3073
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Feng Fei Fei looked at Han Sen with surprise. Rejecting the temptation of money was not difficult, but he should have considered it before rejecting Mister Jin.
+Feng Fei Fei looked at Han Sen with surprise. Rejecting the temptation of money was not difficult, but he should have considered it before rejecting Mister Jin.
 
 Gong Shu Jin was the son of the Gong Shu Ban, who had the title of a genius. When he was young, he was already very famous in the jade wall city. He was not just very good at fighting since he had the talent of Mister Gong Shu’s land-pulse skill. He was not a very high-level officer of the Qin Kingdom, but his reputation was not something ordinary either. Mister Gong Shu was a big mister in the Qin Kingdom, which was rare. God only knew how many nobles wanted to establish a good relationship with him. They wanted to hire him and have him locate land pulses for them. He knew a lot of people in the Qin Kingdom.
 

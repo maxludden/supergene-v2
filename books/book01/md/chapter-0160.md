@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## My Mother Says Girlfriends Are for Cheeky Guys
-### Chapter 160 
+### Chapter 160
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Ji Yanran bowed her head and bit her lip. She had mixed feelings and had never dreamed that she would feel this way.
+Ji Yanran bowed her head and bit her lip. She had mixed feelings and had never dreamed that she would feel this way.
 
 "Sister, shouldn’t you honor the contract now?" Han Sen pouted.
 

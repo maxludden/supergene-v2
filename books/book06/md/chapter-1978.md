@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Ant Nes
-### Chapter 1978 
+### Chapter 1978
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Boom!
+Boom!
 
 A white light exploded amidst the horde of ants. A mushroom cloud was generated, and it rocked the entire cavern.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Wavy Sword Mind
-### Chapter 3154 
+### Chapter 3154
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Qin Bai looked frightened. He kept stuttering, unsure of what to say.
+Qin Bai looked frightened. He kept stuttering, unsure of what to say.
 
 Han Sen said, “Mister Crown Prince has been practicing sword skills here.”
 
@@ -22,8 +23,6 @@ Han Sen said, “Mister Crown Prince has been practicing sword skills here.”
 The way Han Sen spoke was like he was lying without blinking. It enabled Jia Shi Zhen to confirm that he was a dog without any boundaries.
 
 The match of chess was only halfway done. There was no time to put it away. Thus, to still tell her Qin Bai was practicing sword skills was ridiculous. No one would have believed his words, let alone Jia Shi Zhen.
-
-as
 
 “Teacher, I really was practicing sword skills.” Jia Shi Zhen did not believe him, so Qin Bai felt as if he was been wronged. He had suffered so much there, but Jia Shi Zhen believed he had done nothing but play around. He felt awfully wronged.
 

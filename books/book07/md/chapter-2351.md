@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Breaking the Door
-### Chapter 2351 
+### Chapter 2351
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  While Han Sen was staring at the geno hall, the black crystal armor inside his Sea of Soul suddenly released a mysterious substance. It wrapped around Han Sen, covering him completely. After that, Han Sen couldn’t even detect his own presence. It was as if he didn’t exist.
+While Han Sen was staring at the geno hall, the black crystal armor inside his Sea of Soul suddenly released a mysterious substance. It wrapped around Han Sen, covering him completely. After that, Han Sen couldn’t even detect his own presence. It was as if he didn’t exist.
 
 Han Sen quickly thought back to the time with Kong Fei. “When the geno hall appeared previously, the black crystal armor did something similar to this. Is the black crystal armor connected to the geno hall? Or is it simply afraid of the geno hall?”
 

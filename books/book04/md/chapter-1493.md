@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## A Cruel Crab
-### Chapter 1493 
+### Chapter 1493
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The crab swung its claws, but they couldn’t reach Han Sen and Bao’er who were now on its back. After a while, the crab gave up trying to kill Han Sen. Instead, it just started to go back the way it had come.
+The crab swung its claws, but they couldn’t reach Han Sen and Bao’er who were now on its back. After a while, the crab gave up trying to kill Han Sen. Instead, it just started to go back the way it had come.
 
 The gold word upon its back, overbearing, eventually dissipated as well. Han Sen became human again, holding Bao’er as he stood on the back of the crab. They weren’t sure what to do.
 

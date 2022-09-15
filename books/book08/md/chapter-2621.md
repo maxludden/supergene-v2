@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## At6 Gene Mutant People
-### Chapter 2621 
+### Chapter 2621
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “Lady Exquisite, can you tell which of the city’s items are geno treasures?” Han Sen asked Exquisite.
+“Lady Exquisite, can you tell which of the city’s items are geno treasures?” Han Sen asked Exquisite.
 
 Exquisite shook her head. “No, but I can see something you cannot.”
 

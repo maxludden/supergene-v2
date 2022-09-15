@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Under the Plum Tree
-### Chapter 3120 
+### Chapter 3120
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen looked at Bald Guy and asked, “What is this land pulse’s plum tree weird scene?”
+Han Sen looked at Bald Guy and asked, “What is this land pulse’s plum tree weird scene?”
 
 Bald Guy touched his big, bald head. He looked rather embarrassed as he said, “Although I cannot tell what this weird scene is, I am pretty sure it is an amazing one.”
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Ghost Knife Skill
-### Chapter 2499 
+### Chapter 2499
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen mulled over how Teacher Ancient Abyss could so accurately calculate his proposed escape route. Telling Bai Wuchang where to wait for Han Sen might not have been all that difficult because Teacher Ancient Abyss was a smart person. Especially since Han Sen’s journey hadn’t been particularly leisurely; pursuers had been hot on his heels the whole time. It made him alert.
+Han Sen mulled over how Teacher Ancient Abyss could so accurately calculate his proposed escape route. Telling Bai Wuchang where to wait for Han Sen might not have been all that difficult because Teacher Ancient Abyss was a smart person. Especially since Han Sen’s journey hadn’t been particularly leisurely; pursuers had been hot on his heels the whole time. It made him alert.
 
 “Enough of this! Come fight me. I’m going to win this time,” Bai Wuchang’s said, as the power within him exploded. His entire body took on a golden glow. It was his Ghost King Body.
 

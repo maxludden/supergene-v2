@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## So Many Crimes and No Regret
-### Chapter 3025 
+### Chapter 3025
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Lone Bamboo drew his sword. He was going into the sky.
+Lone Bamboo drew his sword. He was going into the sky.
 
 There was a sudden movement in space. A powerful bai sema trapped the area. Lone Bamboo tried slashing the bai sema. Since there were light shadows, the strike was unable to break the barrier.
 

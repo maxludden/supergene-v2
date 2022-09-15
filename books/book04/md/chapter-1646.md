@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Man in the Can
-### Chapter 1646 
+### Chapter 1646
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The room looked just like the crystallizer’s Main Control Room. There were many active crystallizer machines. He had already expected such sights, so Han Sen wasn’t surprised by their presence.
+The room looked just like the crystallizer’s Main Control Room. There were many active crystallizer machines. He had already expected such sights, so Han Sen wasn’t surprised by their presence.
 
 But this crystallizer-like room was inhabited; Han Sen saw a person inside.
 

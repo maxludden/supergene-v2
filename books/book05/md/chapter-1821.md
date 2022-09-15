@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Favorite Subordinate
-### Chapter 1821 
+### Chapter 1821
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Yisha allowed Han Sen to write down the content of The Story of Genes so she could look over it. She wanted to help Han Sen learn and modify the later parts to facilitate his practice.
+Yisha allowed Han Sen to write down the content of The Story of Genes so she could look over it. She wanted to help Han Sen learn and modify the later parts to facilitate his practice.
 
 Because the practice method was so demanding, if no changes were made, it would be much harder to level up and ascend. It would be even harder to generate geno armaments. He would need to be a god to practice it in its entirety.
 

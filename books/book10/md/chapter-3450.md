@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Holy Spirit Protect
-### Chapter 3450 
+### Chapter 3450
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Human King only wanted to stop Littleflower. He really did not plan on using Han Ling’er as a meat shield to block Littleflower’s fist.
+Human King only wanted to stop Littleflower. He really did not plan on using Han Ling’er as a meat shield to block Littleflower’s fist.
 
 Who would have known Littleflower’s fist was not going to stop at all? It hit Han Ling’er’s belly. Han Ling’er’s belly glowed with white light. Littleflower’s body had the shadow of an angel. With that punch, it went right through Han Ling’er’s body.
 

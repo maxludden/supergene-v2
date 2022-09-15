@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Defenseless Woman
-### Chapter 759 
+### Chapter 759
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen was taken aback at the sight of the black-flame phoenix soaring across the horizon. Its speed was incredible, and it disappeared from sight within the blink of an eye.
+Han Sen was taken aback at the sight of the black-flame phoenix soaring across the horizon. Its speed was incredible, and it disappeared from sight within the blink of an eye.
 
 A heat wave descended from the sky and almost cooked Han Sen's body hair.
 

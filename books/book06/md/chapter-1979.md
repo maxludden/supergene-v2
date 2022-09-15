@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Crazy Killing
-### Chapter 1979 
+### Chapter 1979
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “Brother Han, are you really confident in this?” Yu Jing asked, staring at Han Sen.
+“Brother Han, are you really confident in this?” Yu Jing asked, staring at Han Sen.
 
 “Yes,” Han Sen answered with certainty.
 

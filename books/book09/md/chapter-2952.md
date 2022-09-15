@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Silly and Clumsy
-### Chapter 2952 
+### Chapter 2952
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Bzzt!
+Bzzt!
 
 Han Sen felt as if he was shaking with the sonic power and going to fall apart.
 

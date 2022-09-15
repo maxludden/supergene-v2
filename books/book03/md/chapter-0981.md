@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Tutor
-### Chapter 981 
+### Chapter 981
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Life-and-Death Breakthrough was something Han Sen had heard of before, but he did not really know what it meant. He believed doing that could enable him to become a demigod, allowing him to practice the next Dongxuan Sutra.
+Life-and-Death Breakthrough was something Han Sen had heard of before, but he did not really know what it meant. He believed doing that could enable him to become a demigod, allowing him to practice the next Dongxuan Sutra.
 
 Of course, that was just him guessing.
 

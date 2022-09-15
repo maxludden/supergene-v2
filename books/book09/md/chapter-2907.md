@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Weird Deified Xenogeneic
-### Chapter 2907 
+### Chapter 2907
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Although Han Sen was only butterfly class now, in the universe, no one treated him like one.
+Although Han Sen was only butterfly class now, in the universe, no one treated him like one.
 
 Han Sen looked at everyone. He noticed the around eight people were deified primitives who all hailed from different races.
 

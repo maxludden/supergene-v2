@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## The Power of Science
-### Chapter 2262 
+### Chapter 2262
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen’s fingers brushed the silver handle, and before he moved to grip it completely, silver lightning leaped out at his fingers.
+Han Sen’s fingers brushed the silver handle, and before he moved to grip it completely, silver lightning leaped out at his fingers.
 
 A vibration moved through Han Sen’s body, and then he felt as if he had lost control of his own consciousness. There was a sharp cracking noise, and Han Sen was sent rocketing away. His flight ended when he crashed into a white bone wall.
 

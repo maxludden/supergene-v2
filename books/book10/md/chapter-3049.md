@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## God Spirit Blood-pulse Test
-### Chapter 3049 
+### Chapter 3049
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen did not understand the reason for testing, but the method of doing so was simple enough. He just needed to sit in a chair in the virtual community. Then, a circular room would begin spinning. It would spin faster and faster.
+Han Sen did not understand the reason for testing, but the method of doing so was simple enough. He just needed to sit in a chair in the virtual community. Then, a circular room would begin spinning. It would spin faster and faster.
 
 On the spinning walls, some words would appear. The tester was required to memorize the words. The more words they remembered, the more powerful the God Spirit Blood-Pulse was.
 

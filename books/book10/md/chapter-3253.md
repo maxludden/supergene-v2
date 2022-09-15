@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## The Hand That Draws a Knife
-### Chapter 3253 
+### Chapter 3253
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Tian Jing was no stranger to that voice. She heard who the master of the voice was but could not believe the master of that voice was appearing there now to shout out what he did.
+Tian Jing was no stranger to that voice. She heard who the master of the voice was but could not believe the master of that voice was appearing there now to shout out what he did.
 
 When she turned around, she saw the person speaking was the one she imagined. She was so shocked about this turnabout that she could not describe how she felt.
 

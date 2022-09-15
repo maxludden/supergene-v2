@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Steel
-### Chapter 1631 
+### Chapter 1631
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Dollar’s name was very famous. Humans had also gotten used to referring to him as The Light of Hope.
+Dollar’s name was very famous. Humans had also gotten used to referring to him as The Light of Hope.
 
 Even so, there were a few unfriendly voices.
 

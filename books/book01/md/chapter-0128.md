@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## A Skulk of Foxes
-### Chapter 128 
+### Chapter 128
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen and Gambler exchanged a look and ran after her, in case of any accident.
+Han Sen and Gambler exchanged a look and ran after her, in case of any accident.
 
 Wang Mengmeng's fighting skills were impressive. She could even match the mutant creature using several hyper geno arts.
 

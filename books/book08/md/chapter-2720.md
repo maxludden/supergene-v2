@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Star Gauge Mirror
-### Chapter 2720 
+### Chapter 2720
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Her eyes brightened with interest.
+Her eyes brightened with interest.
 
 Empty God’s lips curled up at the corners. He looked cocky as he said, “Do you want it? Just say you want it and it is yours.”
 

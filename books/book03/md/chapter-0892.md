@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Dollar’s Strength
-### Chapter 892 
+### Chapter 892
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  After the time the three had spent together, they were no longer wary Han Sen's presence and were comfortable with him there. On this day, after exiting to the garden, Han Sen grabbed the water bucket as he routinely did.
+After the time the three had spent together, they were no longer wary Han Sen's presence and were comfortable with him there. On this day, after exiting to the garden, Han Sen grabbed the water bucket as he routinely did.
 
 When Han Sen reached the watervine, the copper toad was still there. The watervine had grown three copper coins that had a sparkly, almost gold-like sheen to them. Although this fruit did not look fully mature yet, it was obviously getting close.
 

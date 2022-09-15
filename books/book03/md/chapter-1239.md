@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Little Silver Has Come to Save His Master
-### Chapter 1239 
+### Chapter 1239
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The howling sounded from afar, but its carrier was quickly closing the distance.
+The howling sounded from afar, but its carrier was quickly closing the distance.
 
 When the howling came to an abrupt end, a creature emerged from the brush of the nearby forest.
 

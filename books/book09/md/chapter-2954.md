@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Space Charm
-### Chapter 2954 
+### Chapter 2954
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Bao’er had shone Nine-Spin Destiny Mirror on Old Vulture. It did not look as if it had been hurt. Not long after it was hit with the light, Old Vulture became afraid of Nine-Spin Destiny Mirror’s light. He did not want it to touch him again.
+Bao’er had shone Nine-Spin Destiny Mirror on Old Vulture. It did not look as if it had been hurt. Not long after it was hit with the light, Old Vulture became afraid of Nine-Spin Destiny Mirror’s light. He did not want it to touch him again.
 
 The scene seemed frozen. The demon lady was like a headless fly shouting at the eyeless big beast. “Eyeless, go to the opposite side of the holy palace!”
 

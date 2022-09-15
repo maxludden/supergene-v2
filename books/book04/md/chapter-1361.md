@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Killing a Gold Dragon
-### Chapter 1361 
+### Chapter 1361
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  When the sheep saw the drowsy creatures that were unable to fight back, it ran over to them.
+When the sheep saw the drowsy creatures that were unable to fight back, it ran over to them.
 
 “Don’t!” Han Sen stopped Cheap Sheep in his hasty approach and moved closer to examine what state they were in.
 

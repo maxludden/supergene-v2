@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Playing Dead
-### Chapter 3351 
+### Chapter 3351
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “If this is just playing dead, I can do it too,” Han Sen gnashed his teeth. He controlled his body and toned down all of the presence and reactions inside him. He even made his heart stop beating.
+“If this is just playing dead, I can do it too,” Han Sen gnashed his teeth. He controlled his body and toned down all of the presence and reactions inside him. He even made his heart stop beating.
 
 Although all of his power was restricted by Dust Sky, he could still control his body. Doing this was nothing special. Han Sen was a professional when it came to things like this.
 

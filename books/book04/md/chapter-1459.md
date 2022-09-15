@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## It Can’t Be Real
-### Chapter 1459 
+### Chapter 1459
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “You’re familiar with using a sword?” Han Sen looked at the green-clothed woman in the painting.
+“You’re familiar with using a sword?” Han Sen looked at the green-clothed woman in the painting.
 
 “Seeing your sword skills, I understand enough.” The voice sounded from the stone again.
 

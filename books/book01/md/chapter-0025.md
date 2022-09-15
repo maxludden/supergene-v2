@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Ghosthaunt
-### Chapter 25 
+### Chapter 25
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  "He seems to have great strength, speed and explosiveness, which indicates that he has fairly high geno points, unless he is practicing hyper geno arts." Qin Xuan looked at some data, but didn’t worry too much about it.
+"He seems to have great strength, speed and explosiveness, which indicates that he has fairly high geno points, unless he is practicing hyper geno arts." Qin Xuan looked at some data, but didn’t worry too much about it.
 
 Han Sen's data was indeed better than average, but data like this can be seen anywhere in the shelter. It was only a bit unexpected that it belonged to Han Sen.
 

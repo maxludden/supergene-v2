@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Third Sister
-### Chapter 2544 
+### Chapter 2544
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Two days later, Gu Qingcheng and Elysian Moon were happy to report to Han Sen that they had not grown any older. Although their connection was still there, they no longer had to combine if they wanted to survive.
+Two days later, Gu Qingcheng and Elysian Moon were happy to report to Han Sen that they had not grown any older. Although their connection was still there, they no longer had to combine if they wanted to survive.
 
 Han Sen let out a long sigh. This was the best result he could have hoped for. If the problem hadn’t been resolved when he completed their genes, he had no other ideas on how to fix the issue. In the meantime, he spent all his energy practicing Big Destroyed. As he attempted to practice Big Destroyed safely, he wasn’t putting in enough power to fully cast Big Destroyed. But as time passed, and he practiced more and more, he was able to generate Big Destroyed’s light. But the Big Destroyed light he created wasn’t even enough to kill a Duke in its current state. That meant it couldn’t be used to consume King class xenogeneic genes.
 

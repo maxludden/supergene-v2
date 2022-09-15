@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Wipeout
-### Chapter 121 
+### Chapter 121
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  A few seconds later, Shi Zhikang’s face collapsed. Eyes wide and hands shaking, Shi exclaimed, "Sen, you asshole, are you the reincarnation of Taka Kato?"
+A few seconds later, Shi Zhikang’s face collapsed. Eyes wide and hands shaking, Shi exclaimed, "Sen, you asshole, are you the reincarnation of Taka Kato?"
 
 Seeing Han Sen's hand quickly moving as if he was having spasms, Shi Zhikang was more and more shocked and panicked, as he had not touched many spots near him.
 

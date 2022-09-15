@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Mountains of Meat
-### Chapter 445 
+### Chapter 445
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen looked at all the beast souls he owned and finally had his eyes on the blood snail beast soul. It was a super pet armor, but it was no longer that effective in front of a sacred-blood creature in Second God’s Sanctuary. Han Sen decided to try the black crystal on it as an experiment.
+Han Sen looked at all the beast souls he owned and finally had his eyes on the blood snail beast soul. It was a super pet armor, but it was no longer that effective in front of a sacred-blood creature in Second God’s Sanctuary. Han Sen decided to try the black crystal on it as an experiment.
 
 The super beast souls were all surrounding the black crystal, while the archangel had lost her interest in it. Han Sen could not tell whether it was because the black crystal was no longer useful to her, or that she had not transformed yet.
 

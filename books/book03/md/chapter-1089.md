@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Why Would It React?
-### Chapter 1089 
+### Chapter 1089
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The woman looked at Han Sen with eyes that were sharp like stabbing stilettos.
+The woman looked at Han Sen with eyes that were sharp like stabbing stilettos.
 
 Han Sen was not a person who was easily intimidated, so despite her heart-chilling presence, he was able to smile and ask her, “Are you here to deliver the geno fluid?”
 

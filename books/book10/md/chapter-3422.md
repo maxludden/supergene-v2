@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Cause God Spirit
-### Chapter 3422 
+### Chapter 3422
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “I am going to learn it.” Han Sen did not move.
+“I am going to learn it.” Han Sen did not move.
 
 “If you insist on becoming my enemy, then you cannot take it out on me for being cruel,” Demon Alpha said while looking at him coldly. She looked at him as if he was already a dead man.
 

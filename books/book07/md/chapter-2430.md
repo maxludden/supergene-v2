@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Taking the Sword
-### Chapter 2430 
+### Chapter 2430
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “If we can grab that sword, maybe we can use it to widen the tree hole and retrieve the requiem tree egg,” Night Wind said, his eyes bright with anticipation.
+“If we can grab that sword, maybe we can use it to widen the tree hole and retrieve the requiem tree egg,” Night Wind said, his eyes bright with anticipation.
 
 “That might actually work. Maybe someone or something wants us to go back and retrieve that sword,” Han Sen said.
 

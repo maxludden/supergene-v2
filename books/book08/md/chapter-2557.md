@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Han Family’s Son
-### Chapter 2557 
+### Chapter 2557
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Tang Ming’er had only just entered the sanctuaries, and although her geno arts weren’t bad, her genes hadn’t been reinforced. She was weak, and she couldn’t outrun the giant demon centipede. The centipede caught up within seconds.
+Tang Ming’er had only just entered the sanctuaries, and although her geno arts weren’t bad, her genes hadn’t been reinforced. She was weak, and she couldn’t outrun the giant demon centipede. The centipede caught up within seconds.
 
 Tang Ming’er held Littleflower as she dashed away, but the skies suddenly turned dark. An enormous shadow fell over the ground. Without looking up, she knew the giant demon centipede’s mouth was hanging agape over their heads.
 

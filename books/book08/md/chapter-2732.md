@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Weird Scene Like a Tide
-### Chapter 2732 
+### Chapter 2732
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Bzzt!
+Bzzt!
 
 Before they could figure out what was happening, a shadow rose from the spring water. A watery manifestation of an old, giant beast appeared.
 

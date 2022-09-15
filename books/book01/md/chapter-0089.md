@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## I’m the Strongest
-### Chapter 89 
+### Chapter 89
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  "Now, do you have something to say to me?" Yang Manli approached Han Sen who was standing like a statute.
+"Now, do you have something to say to me?" Yang Manli approached Han Sen who was standing like a statute.
 
 Han Sen hadn’t reached a certain level in Jadeskin, so his fatigue wasn’t cleared away completely. Having stood there for over three hours, he was drenched in sweat.
 

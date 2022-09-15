@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Taking Advantage
-### Chapter 1628 
+### Chapter 1628
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “Who is in danger?” Tang Zhenliu asked.
+“Who is in danger?” Tang Zhenliu asked.
 
 “Dollar. He is gambling. Even if you’ve successfully gambled a hundred times, all it takes is one loss. If he loses, he’ll be done for,” Gu Qingcheng explained.
 

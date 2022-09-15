@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Home Run
-### Chapter 41 
+### Chapter 41
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  In the unevolved test hall of the physical test center, Zhao Boshan looked at "A-level" displayed on the virtual screen and was secretly feeling proud of himself.
+In the unevolved test hall of the physical test center, Zhao Boshan looked at "A-level" displayed on the virtual screen and was secretly feeling proud of himself.
 
 In order to get A-level in the test, an unevolved person must reach more than 10.0 in at least 100 items, including strength, speed, quickness, leaping ability, muscle toughness, bone strength and organ function.
 

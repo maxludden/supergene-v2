@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Little Uncle's Super God Spirit Body
-### Chapter 3345 
+### Chapter 3345
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Yet, the Break World beasts were forming a path for Wang Yuhang that enabled him to enter.
+Yet, the Break World beasts were forming a path for Wang Yuhang that enabled him to enter.
 
 The space tunnel never opened for long. Wang Yuhang did not have time to take care of the heavily injured Break World beasts. He kept speeding things up. He became a light and entered the 33 skies.
 

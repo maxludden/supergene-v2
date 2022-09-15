@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## The Power of Bad Luck
-### Chapter 3256 
+### Chapter 3256
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen did not care for very much. With the fitness and power of his body, and with his Super God Spirit mode’s invincible power, in those two universes, things rarely went wrong for him.
+Han Sen did not care for very much. With the fitness and power of his body, and with his Super God Spirit mode’s invincible power, in those two universes, things rarely went wrong for him.
 
 “I am afraid I will have to disappoint you,” Han Sen said. His expression suddenly changed. His manly face started to become feminine. He did not become completely like a woman. It was neither Yin nor Yang. It was a little weird, but he started to sound like a special creature from ancient times. Han Sen was shocked. He focused his mind on one part of his body. When he felt it, he was relieved.
 

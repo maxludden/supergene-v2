@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Sky Tree
-### Chapter 1165 
+### Chapter 1165
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “I have only just arrived. This is my first time doing this,” Han Sen said.
+“I have only just arrived. This is my first time doing this,” Han Sen said.
 
 “You’ll need to put your back into it and work hard. There may be no guards here, but you have a quota of ten walnut powder sacks a day. If you don’t meet that quota, they’ll bump you back down a level. Then, you’ll have to do the test all over again,” the man explained.
 

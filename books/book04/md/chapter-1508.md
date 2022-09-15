@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## A Man Like God
-### Chapter 1508 
+### Chapter 1508
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Ji Yanran took Littleflower over to see the Ji family for a while. It was safer for them to be there, too, since they had a high number of demigods for protection, not to mention Old Man Ji himself.
+Ji Yanran took Littleflower over to see the Ji family for a while. It was safer for them to be there, too, since they had a high number of demigods for protection, not to mention Old Man Ji himself.
 
 Han Sen stayed at home teaching Bao’er. She was quite smart, but she never grew. A child such as her was unable to go to kindergarten or learn anything at school, either.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Han Yan Walking Sky Path
-### Chapter 2612 
+### Chapter 2612
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “Bao’er, why don’t you go with Little Auntie?” Han Sen asked Bao’er as they stood before the Sky Door.
+“Bao’er, why don’t you go with Little Auntie?” Han Sen asked Bao’er as they stood before the Sky Door.
 
 “Sure.” Bao’er nodded and flew over to Han Yan. She took Han Yan’s hand and smiled. “Hey, Auntie. Bao’er is going to walk with you.”
 

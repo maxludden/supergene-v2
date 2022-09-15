@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Trapped Between the Bones
-### Chapter 629 
+### Chapter 629
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen and Queen continued on their current trajectory, silently praying the raven wouldn't show up.
+Han Sen and Queen continued on their current trajectory, silently praying the raven wouldn't show up.
 
 But when they reached the garden of bones, they noticed the donkey's reluctance to approach.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Blood-bone Knife
-### Chapter 873 
+### Chapter 873
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen looked in the direction that Son of Fate's gaze had stiffened, and noticed it was Zero who he had seen. She had emerged from the Tree King and was now approaching them.
+Han Sen looked in the direction that Son of Fate's gaze had stiffened, and noticed it was Zero who he had seen. She had emerged from the Tree King and was now approaching them.
 
 Zero had already returned to her human form, but her hands held a red knife.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Half-man and Half-beast
-### Chapter 3343 
+### Chapter 3343
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen tried it a few times, but it seemed certain that it would not work. He was unable to touch the girl.
+Han Sen tried it a few times, but it seemed certain that it would not work. He was unable to touch the girl.
 
 The girl reached out her hand to try and hold onto Han Sen, but that did not work either. She was unable to touch him, and her body was trapped and suspended by that light. She was unable to exit it.
 

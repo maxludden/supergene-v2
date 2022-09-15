@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Trapped in the Thirty-third Sky
-### Chapter 3314 
+### Chapter 3314
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The geno tablet’s text lit up. It kept releasing mysterious thoughts. It was like it was trying to tell Han Sen he did not have permission to activate the geno tablet.
+The geno tablet’s text lit up. It kept releasing mysterious thoughts. It was like it was trying to tell Han Sen he did not have permission to activate the geno tablet.
 
 Han Sen did not care. His fingers continued to draw across the geno tablet. His body’s power was being amassed on the tip of his finger. It drew a lot of finger marks for a while.
 

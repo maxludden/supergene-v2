@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Elysian Moon Changing
-### Chapter 2542 
+### Chapter 2542
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The two beautiful women looked like flowers made of jade, and Han Sen couldn’t turn his back on either of them. He wasn’t their enemy, so he couldn’t simply choose which one should die.
+The two beautiful women looked like flowers made of jade, and Han Sen couldn’t turn his back on either of them. He wasn’t their enemy, so he couldn’t simply choose which one should die.
 
 But when he thought about the arrogant, perfectionist, blood-thirsty being they combined to become, he knew that he had to do something. It wasn’t just the other races of the universe that would fall under their wrath—eventually, they would go after humans as well.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## There Once Was an Invincible Geno Core
-### Chapter 1574 
+### Chapter 1574
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “The Destroyer Wolf at rank 139 on the super geno core leaderboard won’t be all that easy to kill,” Gu Qingcheng said.
+“The Destroyer Wolf at rank 139 on the super geno core leaderboard won’t be all that easy to kill,” Gu Qingcheng said.
 
 “May I ask what your rank is on the super geno core leaderboard?” Han Sen asked, out of genuine curiosity.
 

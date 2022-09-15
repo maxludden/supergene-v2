@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Researching Dongxuan Again
-### Chapter 790 
+### Chapter 790
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Although Han Sen was unable to trace the path of the Falsified-Sky power, it was cast by a human. That meant Han Sen could tell exactly when Luo Yin cast the move.
+Although Han Sen was unable to trace the path of the Falsified-Sky power, it was cast by a human. That meant Han Sen could tell exactly when Luo Yin cast the move.
 
 With this knowledge, Han Sen should be able to fight in a way that would prevent his opponent from casting any Falsified-Sky powers. No matter how powerful a skill was, it was pointless if it could not be used.
 

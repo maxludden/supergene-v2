@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Killing the Purple Scorpion
-### Chapter 746 
+### Chapter 746
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Despite the fact that the fairy continued to chase him, Han Sen still decided to push on and make his escape. After all, the twin-tail scorpion was only a first-generation super creature, as opposed to the second-generation one that lusted for his blood.
+Despite the fact that the fairy continued to chase him, Han Sen still decided to push on and make his escape. After all, the twin-tail scorpion was only a first-generation super creature, as opposed to the second-generation one that lusted for his blood.
 
 Han Sen wanted to escape the underground labyrinth, first and foremost. Despite being drained of energy, he still had to keep his gene lock open to enable his flight. He just hoped the twin-tail scorpion would not be made aware of his presence.
 

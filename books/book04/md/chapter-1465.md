@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Who Is She?
-### Chapter 1465 
+### Chapter 1465
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “This woman definitely didn’t create this sword skill. If she had, she wouldn’t be using it so angrily and allowing me to notice the unifying thread.” Han Sen was happy to learn this. That being said, he noticed it was only one branch of the greater trunk of the skill.
+“This woman definitely didn’t create this sword skill. If she had, she wouldn’t be using it so angrily and allowing me to notice the unifying thread.” Han Sen was happy to learn this. That being said, he noticed it was only one branch of the greater trunk of the skill.
 
 This thread, the particular moveset he was tracking, was like the starting point of a ball of twine. From this, Han Sen could unravel it all, bit by bit, and get to the core of what lay under the hood of the skill.
 

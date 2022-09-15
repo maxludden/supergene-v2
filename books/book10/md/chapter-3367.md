@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## A Life of Chaos
-### Chapter 3367 
+### Chapter 3367
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Tail Fire Beast was a Break World beast with a Break World rate of 95% or above. It increased Han Sen’s Break World gene tally by eight, so the reward for the effort was not too shabby.
+Tail Fire Beast was a Break World beast with a Break World rate of 95% or above. It increased Han Sen’s Break World gene tally by eight, so the reward for the effort was not too shabby.
 
 “Bao’er, this is for you.” Han Sen carried Bao’er to a no man’s land. He used his Burning Red Sky leader’s power to hide the Burning Red Sky rules. He took out the gourd seed and passed it to Bao’er.
 

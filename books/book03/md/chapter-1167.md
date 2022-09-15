@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Interracial Love
-### Chapter 1167 
+### Chapter 1167
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Zhang Yuchen kicked them away, and before Han Sen could even ask what was going on, the door was slammed in their faces.
+Zhang Yuchen kicked them away, and before Han Sen could even ask what was going on, the door was slammed in their faces.
 
 “Tiger, what’s going on? Is there a grudge between the two?” Han Sen asked Cheng Hu.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## God Chaos Party Old Nest
-### Chapter 3192 
+### Chapter 3192
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  When Han Sen returned to the Feng family castle, he felt a bit depressed. The xuan holy turtle was good stuff. It was a rare gene race. It was just that it was a newborn baby that had recently hatched. It had a scary level of defense. After combining with it, one had a xuan holy body. It enabled the body’s strength to increase and gave it a shake-back power.
+When Han Sen returned to the Feng family castle, he felt a bit depressed. The xuan holy turtle was good stuff. It was a rare gene race. It was just that it was a newborn baby that had recently hatched. It had a scary level of defense. After combining with it, one had a xuan holy body. It enabled the body’s strength to increase and gave it a shake-back power.
 
 The xuan holy turtle was good at everything. The only problem was the fact the xuan holy turtle used earth elemental powers. It did not go well with the Dongxuan Sutra or Jadeskin. Therefore, it could not be used with the reverse gene races of those two skills.
 

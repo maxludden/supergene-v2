@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## My Toy
-### Chapter 1642 
+### Chapter 1642
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The woman’s fist hit Bao’er. Bao’er didn’t even try to dodge or block it. She just glared at the woman.
+The woman’s fist hit Bao’er. Bao’er didn’t even try to dodge or block it. She just glared at the woman.
 
 Dang!
 

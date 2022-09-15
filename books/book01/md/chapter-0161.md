@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Pet Evolution
-### Chapter 161 
+### Chapter 161
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  In Han Sen’s room at Steel Armor Shelter, Han Sen was taken aback by the black tiger with a third eye on its forehead in front of him. The tiger’s claws looked like they were made from black metal. Han Sen could not believe it was Meowth that he was looking at. What was more surprising to him was the change in Meowth’s data.
+In Han Sen’s room at Steel Armor Shelter, Han Sen was taken aback by the black tiger with a third eye on its forehead in front of him. The tiger’s claws looked like they were made from black metal. Han Sen could not believe it was Meowth that he was looking at. What was more surprising to him was the change in Meowth’s data.
 
 <div class="tables">
 	<table class="beast">

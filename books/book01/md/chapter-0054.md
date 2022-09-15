@@ -1,23 +1,26 @@
-Title:Small Gift 
-Chapter:54 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+Title:Small Gift
+Chapter:54
+Section:1
+Book:1
+CSS:../Styles/style.css
 viewport: width=device-width
-  
+
 ## Small Gift
-### Chapter 54 
+### Chapter 54
+
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
-  
 
-  
-  > "Meat Of Copper-Toothed Beast Eaten. One Sacred Geno Point Gained."
 
-> "Meat Of Copper-Toothed Beast Eaten. One Sacred Geno Point Gained."
+> "Meat of Copper-Toothed Beast eaten. One Sacred-Blood geno point gained."
+>
+> "Meat of Copper-Toothed Beast eaten. One Sacred-Blood geno point gained."
 
-"..."
+
+***
+
+<br>
 
 Two days later, Han Sen finished a big pot of copper-toothed beast meat and even sucked the bones clean. He threw the bones into the fire so that there was nothing left.
 
@@ -79,7 +82,7 @@ Fang Jingqi said, "It so happens that a classmate of mine is also there. His nam
 
 "A mutant beast soul. Are you still not interested?" asked Fang Jingqi slowly.
 
-" A mutant beast soul!" Han Sen looked at him, slightly surprised. He immediately understood why Fang Jingqi had mentioned Fist Guy.
+"A mutant beast soul!" Han Sen looked at him, slightly surprised. He immediately understood why Fang Jingqi had mentioned Fist Guy.
 
 Fang Jingqi looked at Han Sen with faint smile, "Let’s go to the combat pit and have a fight. Regardless of the outcome, I will let Fist Guy give you a mutant beast soul. Sen, what do you think about this gift?"
 

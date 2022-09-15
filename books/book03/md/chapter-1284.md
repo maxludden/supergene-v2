@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Real Professional
-### Chapter 1284 
+### Chapter 1284
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Seeing the Sky Warrior approach, Han Sen wasn’t going to fall back or be intimidated. Eagerly, he thrust forward to meet with it, his own laser sword in-hand.
+Seeing the Sky Warrior approach, Han Sen wasn’t going to fall back or be intimidated. Eagerly, he thrust forward to meet with it, his own laser sword in-hand.
 
 The SKTS lacked mobility in comparison to the opposition, however. The speed and thrusting capabilities were inferior to the model he was going up against, which put him at a disadvantage when it came to the needs for agility, and there’d be no way around that.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## First-person Perspective
-### Chapter 2451 
+### Chapter 2451
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Taking out the Wanjie Rubix Cube, he used it in accordance with the instructions given to him by Fang Qing Yu. He made contact with Fang Qing Yu’s step-father and streamed the video over to him.
+Taking out the Wanjie Rubix Cube, he used it in accordance with the instructions given to him by Fang Qing Yu. He made contact with Fang Qing Yu’s step-father and streamed the video over to him.
 
 …
 

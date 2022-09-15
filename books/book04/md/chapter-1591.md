@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Hypothesis
-### Chapter 1591 
+### Chapter 1591
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Second Uncle smiled and said, “That man can survive no matter where he goes. He’s not the sort to lay down and die.”
+Second Uncle smiled and said, “That man can survive no matter where he goes. He’s not the sort to lay down and die.”
 
 “Where is he?” Han Sen asked.
 

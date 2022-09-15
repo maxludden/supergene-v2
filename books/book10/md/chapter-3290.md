@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Geno Hall
-### Chapter 3290 
+### Chapter 3290
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Feng Fei Fei and Feng Yin Yin were with Bao’er. They did not tell Bao’er about Han Sen being missing. They were worried about Bao’er getting upset.
+Feng Fei Fei and Feng Yin Yin were with Bao’er. They did not tell Bao’er about Han Sen being missing. They were worried about Bao’er getting upset.
 
 Seeing Bao’er merrily eat, drink, and watch her favorite comedies, she looked very happy. Feng Fei Fei sighed and thought, “If something happened to Han Sen, I really don’t know how I will explain it to Bao’er.”
 

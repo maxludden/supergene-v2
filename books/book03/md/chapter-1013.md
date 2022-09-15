@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Human Elite
-### Chapter 1013 
+### Chapter 1013
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  All the wolves had left. Before the group of travelers also continued their journey, they gathered up the carcasses of the slain wolf kings, and a few mutant ones, to take with them.
+All the wolves had left. Before the group of travelers also continued their journey, they gathered up the carcasses of the slain wolf kings, and a few mutant ones, to take with them.
 
 They traveled with greater care from then on, but met no more resistance from the forest’s occupants. Four days later, they found the other end of that place.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Rare Beast Island
-### Chapter 2001 
+### Chapter 2001
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  After that fight, Sky Palace students frequently debated whether Han Sen or Lone Bamboo was stronger. The discussions never yielded any answers, though.
+After that fight, Sky Palace students frequently debated whether Han Sen or Lone Bamboo was stronger. The discussions never yielded any answers, though.
 
 Lone Bamboo had become a Marquise, but Han Sen remained an Earl. If they were to have a rematch, it wouldn’t be for a long time. However, Han Sen’s performance in the fight had garnered him much respect from all of the students of Sky Palace.
 

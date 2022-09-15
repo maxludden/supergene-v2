@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Attacking a Shelter
-### Chapter 1023 
+### Chapter 1023
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Silver lightning burst out of the silver fox and collided with the golden light.
+Silver lightning burst out of the silver fox and collided with the golden light.
 
 Boom!
 

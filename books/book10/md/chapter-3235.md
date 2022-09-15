@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Mirror Moon Candle
-### Chapter 3235 
+### Chapter 3235
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  As Han Sen got closer to the candle, the cold air felt very heavy. Even someone like Han Sen, who had a strong body, felt the cold air penetrate him.
+As Han Sen got closer to the candle, the cold air felt very heavy. Even someone like Han Sen, who had a strong body, felt the cold air penetrate him.
 
 “Weird. This power does not seem to be a cold element. Otherwise, Jadeskin should have been able to resist it. Now, the cold air goes into my body, but Jadeskin does not react. It is not just a cold element. It isn’t that simple.” Han Sen was more interested in that half-burned candle.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Go to Your Home
-### Chapter 2837 
+### Chapter 2837
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen knew that he had finally gotten through to the butterfly lady. He looked at God next to him. He saw God just sit there and watch like a member of the audience. God was not going to prohibit Han Sen from trying.
+Han Sen knew that he had finally gotten through to the butterfly lady. He looked at God next to him. He saw God just sit there and watch like a member of the audience. God was not going to prohibit Han Sen from trying.
 
 Han Sen took a deep breath and said, "Stopping him is not that hard. You just need to destroy his geno art and body. Take him with you and keep him alive. But throughout his whole life, do not allow him to practice again. Have him hover between life and death where he can see his way forward but cannot do anything to venture there. I am sure the pain he suffers will be as grand as yours. That way, you can relish in the pain he feels each and every day. Isn't that better than killing him?"
 

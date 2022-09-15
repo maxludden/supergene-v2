@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Going to the Mountain and Asking a God for Help
-### Chapter 3089 
+### Chapter 3089
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Li Bing Yu’s face turned red. She looked as if she had been electrified as she leaped off Han Sen. She grabbed the white towel, covered her body, and ran out of Han Sen’s room.
+Li Bing Yu’s face turned red. She looked as if she had been electrified as she leaped off Han Sen. She grabbed the white towel, covered her body, and ran out of Han Sen’s room.
 
 Big sky demon’s power was too strong. It was an irresistible power. Li Bing Yu was able to see what was happening, but there was nothing she could do to stop it. It was not done by her own will, but she could not resist the temptation of the demon.
 
@@ -31,7 +32,9 @@ There was no way, so Han Sen had to drop his blood onto the pure light salamande
 
 The pure light salamander that hatched was a big, jade white tadpole. Its body and claws were small. Its body was half-transparent. It looked as if it was a carving on some old jade. It looked very tiny and cute.
 
-“Got king-class gene race pure light salamander.” The announcement played.
+> “Got king-class gene race pure light salamander.” 
+
+The announcement played.
 
 Han Sen tried to combine with the pure light salamander. It was still a juvenile, so the pure light salamander’s power was bound to be weak. Han Sen felt a purified power melt inside him. His head quickly grew a white jade horn. If a gene race entered the proximity, the jade horn emitted a response. According to the gene-race element, the horn changed color to reflect what it was.
 

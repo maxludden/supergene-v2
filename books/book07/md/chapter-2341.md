@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## The Secret of Kingese
-### Chapter 2341 
+### Chapter 2341
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “Brother, don’t do this! I only wanted to collect two Kingese. No, actually. Just one would have been fine. Can we stick to doing just that?” Han Sen felt his delicate nerves couldn’t endure this torture anymore.
+“Brother, don’t do this! I only wanted to collect two Kingese. No, actually. Just one would have been fine. Can we stick to doing just that?” Han Sen felt his delicate nerves couldn’t endure this torture anymore.
 
 This was testing the very functioning of his heart.
 

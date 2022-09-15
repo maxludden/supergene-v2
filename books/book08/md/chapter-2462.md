@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Real or Fake
-### Chapter 2462 
+### Chapter 2462
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen didn’t speak. He quickly turned around and activated his Area.
+Han Sen didn’t speak. He quickly turned around and activated his Area.
 
 Han Sen caught his breath. The woman was standing not too far behind Han Sen, and she was smiling.
 

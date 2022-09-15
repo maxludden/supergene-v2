@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Deadeye Peacock Beast Soul
-### Chapter 617 
+### Chapter 617
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The Dongxuan Sutra absorbed the essence of the lotus roots into the body's cells. It generated new cells faster, pushing the old and damaged ones away at a hastened rate. All the while, the proficiency of the Dongxuan Sutra improved.
+The Dongxuan Sutra absorbed the essence of the lotus roots into the body's cells. It generated new cells faster, pushing the old and damaged ones away at a hastened rate. All the while, the proficiency of the Dongxuan Sutra improved.
 
 The constant improvements of the Dongxuan Sutra made Han Sen smell nicer and nicer. The fragrance that graced him was strong, but it wasn't overwhelming.
 
@@ -104,4 +105,3 @@ When he returned from his daydream, it was to the realization that he had obtain
 	</table>
 	<!-- Super Creature Beast Soul: Deadeye Peacock Bow Type -->
 </div>
-

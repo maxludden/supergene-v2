@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## One Good Harp
-### Chapter 3275 
+### Chapter 3275
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen stroked the body of the phoenix head harp and complimented it. “It really is one good harp.” The phoenix head harp was able to use his power. It turned into asking heart power. With the phoenix head harp’s power, he was able to make Bury Path God spill blood.
+Han Sen stroked the body of the phoenix head harp and complimented it. “It really is one good harp.” The phoenix head harp was able to use his power. It turned into asking heart power. With the phoenix head harp’s power, he was able to make Bury Path God spill blood.
 
 Even if Han Sen did not know how to conduct music or play an instrument, a harp like that was still something he really loved.
 

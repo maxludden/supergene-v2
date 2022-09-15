@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## I’m Ji Yanran’s Boyfriend
-### Chapter 171 
+### Chapter 171
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  "Sweetie, are you waiting for someone?" Qu Lili suddenly asked.
+"Sweetie, are you waiting for someone?" Qu Lili suddenly asked.
 
 "No," Ji Yanran replied absentmindedly.
 

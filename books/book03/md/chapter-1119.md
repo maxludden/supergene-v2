@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Purple Vine
-### Chapter 1119 
+### Chapter 1119
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The lantern fish king was eventually going solo, for it had gone so fast, none of its brethren had been able to keep up. Only Han Sen could stick with it. Bao’er was still sitting atop the fish king, and as she sat there, she had a serious look on her face.
+The lantern fish king was eventually going solo, for it had gone so fast, none of its brethren had been able to keep up. Only Han Sen could stick with it. Bao’er was still sitting atop the fish king, and as she sat there, she had a serious look on her face.
 
 Han Sen kept following the fish king at this speed for two whole days. Fortunately, the wings were a beast soul. If he was using his own energy to fly, he would have been knackered far earlier.
 

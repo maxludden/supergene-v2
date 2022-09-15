@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## A Man With Three Options
-### Chapter 2549 
+### Chapter 2549
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen was still falling when the armored man’s hands reached out and wrapped around his head, gripping him firmly. Purple air rose from the hands in streams that flowed like venomous snakes, and they drilled through Han Sen’s body. The purple air bound him, preventing him from moving.
+Han Sen was still falling when the armored man’s hands reached out and wrapped around his head, gripping him firmly. Purple air rose from the hands in streams that flowed like venomous snakes, and they drilled through Han Sen’s body. The purple air bound him, preventing him from moving.
 
 When they saw the armored man grab Han Sen, Elysian Moon and Gu Qingcheng were in shock. Gu Qingcheng’s heart leaped into her throat. She lifted her hands, and thousands of old swords appeared around her. They went soaring over to strike the armored man.
 

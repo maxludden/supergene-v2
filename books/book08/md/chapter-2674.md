@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## One Fighting Four
-### Chapter 2674 
+### Chapter 2674
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “It looks like Han Sen is stronger than I thought. Even if I was half-deified, I don’t think I would be able to suppress him with my current power,” Shale said thoughtfully.
+“It looks like Han Sen is stronger than I thought. Even if I was half-deified, I don’t think I would be able to suppress him with my current power,” Shale said thoughtfully.
 
 Han Sen looked down on the bloodied-but-not-yet dead Gru. He was going to finish him with a final shot. He wasn’t on good terms with the Extreme King, and someone like Gru would definitely be used against him. It would only lead to trouble further down the line. He knew he would need to finish the man off then and there.
 

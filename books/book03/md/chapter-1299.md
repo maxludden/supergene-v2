@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Desperate Wine
-### Chapter 1299 
+### Chapter 1299
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “No God Emperor!” Empty Witch exclaimed.
+“No God Emperor!” Empty Witch exclaimed.
 
 Han Sen and Lotus Empress’s faces changed, both equally surprised to see he had been hunting them.
 

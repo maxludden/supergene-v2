@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Turning Into an an
-### Chapter 1949 
+### Chapter 1949
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Burning Lamp had suffered thousands of years of pain, but he refused to die. He wanted to remain long enough to see a new deified amongst the Buddha. Seven Spirit was his greatest hope of achieving this. But now that hope had been stolen from him, and it was difficult to fathom just how angry Burning Lamp really was.
+Burning Lamp had suffered thousands of years of pain, but he refused to die. He wanted to remain long enough to see a new deified amongst the Buddha. Seven Spirit was his greatest hope of achieving this. But now that hope had been stolen from him, and it was difficult to fathom just how angry Burning Lamp really was.
 
 The Buddha commoners were in shock. It had been years since Burning Lamp had been seen in person outside the palace, but now he stood in the city beside the western door. Many Kings were following him, also. The citizens of the city wondered what had happened.
 

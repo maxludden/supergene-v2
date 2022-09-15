@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Mystic Ligh Super Gene
-### Chapter 1806 
+### Chapter 1806
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen looked around carefully. Aside from the glowing silk, there was nothing else he could see.
+Han Sen looked around carefully. Aside from the glowing silk, there was nothing else he could see.
 
 The sound of a heartbeat lasted for about a minute before it came to a stop.
 

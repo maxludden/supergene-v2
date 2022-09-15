@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Fighting
-### Chapter 3442 
+### Chapter 3442
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The battleships and scary creatures were covering the sky and the daylight. It was like the whole of Space Garden was now covered in clouds.
+The battleships and scary creatures were covering the sky and the daylight. It was like the whole of Space Garden was now covered in clouds.
 
 “Where is Han Sen?” Amidst the many scary creatures, someone walked forward. It was Itchy. He looked down on Space Garden and boomed his voice like rolling thunder. The whole of Space Garden quaked in response.
 

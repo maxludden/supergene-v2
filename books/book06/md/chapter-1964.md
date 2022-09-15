@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Whose Road to the Sky
-### Chapter 1964 
+### Chapter 1964
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen was suffering beneath the Sky Palace text. He could not focus on anything else, and he did not hear what Thousand Feather Crane had said to him.
+Han Sen was suffering beneath the Sky Palace text. He could not focus on anything else, and he did not hear what Thousand Feather Crane had said to him.
 
 Thousand Feather Crane could see Han Sen suffering, though. And without thinking, he moved to grab hold of him. “Relax, it is okay.” Thousand Feather Crane smiled as he helped Han Sen.
 

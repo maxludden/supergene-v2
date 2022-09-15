@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Sea Dragon Woman
-### Chapter 3082 
+### Chapter 3082
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen threw a punch into the water. The water exploded. The woman’s reflection shattered with the waves. In between the shattered waves of water, he saw the woman twist her smile.
+Han Sen threw a punch into the water. The water exploded. The woman’s reflection shattered with the waves. In between the shattered waves of water, he saw the woman twist her smile.
 
 When the water’s surface was calm again, Han Sen had another look. The reflection in the water was his face. He was not seeing the woman again.
 

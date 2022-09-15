@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## The Dinosaur Is Born
-### Chapter 1132 
+### Chapter 1132
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen returned Disloyal Knight to the Sea of Soul. He wanted to flee the valley, and he believed with his super armor and super king spirit mode active, he could still manage that much.
+Han Sen returned Disloyal Knight to the Sea of Soul. He wanted to flee the valley, and he believed with his super armor and super king spirit mode active, he could still manage that much.
 
 He had been unable to slay the transparent scorpion, and that was partially due to his inability to see the foe. He knew he’d have to figure out a way to see it before he returned to try again.
 

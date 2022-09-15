@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## The Battle Between Super Creatures
-### Chapter 678 
+### Chapter 678
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Perhaps it was because of the snake group, but Han Sen did not see any other creatures. The Peach Forest seemed to be solely for the countless snakes.
+Perhaps it was because of the snake group, but Han Sen did not see any other creatures. The Peach Forest seemed to be solely for the countless snakes.
 
 Inside the Peach Forest, Han Sen had no idea how far he had now traveled. All that occupied his vision were snakes and trees. As he went, the roar of the bear came closer and closer.
 

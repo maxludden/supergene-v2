@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Cannot Explain
-### Chapter 3407 
+### Chapter 3407
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen thought he would see the same scene he saw when watching Bao’er conduct the same test, but he quickly realized things were not right.
+Han Sen thought he would see the same scene he saw when watching Bao’er conduct the same test, but he quickly realized things were not right.
 
 The droplet of blood he allowed to fall onto the circular shape of the clock was like a little red tadpole. It floated across the surface of the wheel. It was not absorbed by the wheel like it should have been.
 

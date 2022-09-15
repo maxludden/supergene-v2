@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Meeting Again
-### Chapter 1022 
+### Chapter 1022
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen’s body surged with red fire, and the bugs that swarmed around Wang Yu were blackened and burnt. The man had been saved, but only barely. He could not stand up, let alone fight.
+Han Sen’s body surged with red fire, and the bugs that swarmed around Wang Yu were blackened and burnt. The man had been saved, but only barely. He could not stand up, let alone fight.
 
 Chen Hu was next in line to suffer, though. He screamed, and Han Sen watched as he fell to the ground. A fireball was sent his way, incinerating the hungry bugs that sought to do him harm.
 

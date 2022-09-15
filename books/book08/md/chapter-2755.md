@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## God’s Farm
-### Chapter 2755 
+### Chapter 2755
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The Four Sheep Cube was Han Sen’s only chance of escape. He couldn’t stop trying. He wouldn’t give up hope until he had tried journeying to all four locations.
+The Four Sheep Cube was Han Sen’s only chance of escape. He couldn’t stop trying. He wouldn’t give up hope until he had tried journeying to all four locations.
 
 Han Sen gnashed his teeth as he pressed down another sheep head. The Four Sheep Cube was activated again, and it sucked Han Sen inside it.
 

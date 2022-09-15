@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## A Way to Absorb Life Geno Essences
-### Chapter 1524 
+### Chapter 1524
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Little Jade Lion King was worried about the geno core in second place, She-King Blade. The ones between third and tenth place were known to him, and he only had to tell them not to accept any challenges from Crystal Core. They’d listen.
+Little Jade Lion King was worried about the geno core in second place, She-King Blade. The ones between third and tenth place were known to him, and he only had to tell them not to accept any challenges from Crystal Core. They’d listen.
 
 She-King Blade, the one in second place, belonged to a human. He had never seen the human before, but he did know that the human was strong. The spirits that challenged her would usually get killed straight away.
 

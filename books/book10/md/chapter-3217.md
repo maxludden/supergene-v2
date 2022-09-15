@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## The Third Sky
-### Chapter 3217 
+### Chapter 3217
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The third sky was quite different from the other two skies. If Han Sen did not know that it was just one of 33 different skies, he would have believed it was a perfectly normal human world.
+The third sky was quite different from the other two skies. If Han Sen did not know that it was just one of 33 different skies, he would have believed it was a perfectly normal human world.
 
 The third sky had cities, which had all the amenities a city typically possessed. There were streets for vehicles, as well as docks of all shapes and sizes. Most importantly, there were people. There were vast droves of people there. They all exhibited a range of emotions. Many of them were sad, and many of them were happy. Many were at different points of the spectrum in between. It did not matter how one viewed it, but this was indeed a city. By all accounts, it was a bona fide human city.
 
@@ -43,7 +44,7 @@ He was ready to teleport again. Han Sen briefly looked at the deep trench Wan’
 
 The other half of the bridge was hanging in the air. Below it was a deep, dark, and mysterious trench.
 
-At this time, there was a five- or six-year-old girl holding onto one of the rebars. She was hanging in the air. It looked like she was going to fall. As she clung for her life, she kept crying out, “Mom! Mom!”
+At this time, there was a five or six-year-old girl holding onto one of the rebars. She was hanging in the air. It looked like she was going to fall. As she clung for her life, she kept crying out, “Mom! Mom!”
 
 Han Sen looked at the girl and teleported toward her. He picked up the girl without issue.
 
@@ -59,9 +60,7 @@ Shadow God exploded with shadows. He manifested many clown shadows. One could no
 
 The shadows, which looked like clones, seemed alive. They were all trying to escape in different directions.
 
-Wan’er’s hand flashed. The gold light cut through the body of a clown. The clown screamed. God blood spilled out of it like rain. “How did you see where I was?” Shadow God looked at his body, which had been cut in half, and screamed. His head then fell to the
-
-ground.
+Wan’er’s hand flashed. The gold light cut through the body of a clown. The clown screamed. God blood spilled out of it like rain. “How did you see where I was?” Shadow God looked at his body, which had been cut in half, and screamed. His head then fell to the ground.
 
 It was not just Shadow God who died. Many elites from God Chaos Party’s headquarters were frozen stiff. Shadow God was one of God Chaos Party’s eight kings, which included Weapon God and Liquid God.
 

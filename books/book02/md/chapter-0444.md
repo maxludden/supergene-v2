@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Evolution of Angel Finished
-### Chapter 444 
+### Chapter 444
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen did not have any recollection about a beast soul glyph, so he had no idea what it was used for. He tried to summon the beast soul glyph of evil-blooded condor, and the condor suddenly appeared as a black shadow. The shadow then issued a scream before it disappeared in Han Sen’s body.
+Han Sen did not have any recollection about a beast soul glyph, so he had no idea what it was used for. He tried to summon the beast soul glyph of evil-blooded condor, and the condor suddenly appeared as a black shadow. The shadow then issued a scream before it disappeared in Han Sen’s body.
 
 Han Sen looked at his body carefully and saw that he had a new tattoo of black condor, which was spreading its wings and ready to attack. The condor looked so fierce and gloomy that he almost felt like it was real and would claw out someone’s heart at any minute.
 
@@ -43,7 +44,17 @@ The lolita gained Han Sen’s permission and became so excited that she immediat
 
 Han Sen was in no mood to watch her eating and quickly checked her current status.
 
-Super beast soul archangel: Pet (can further evolve)
+<div class”tables”>
+    <table class=“beast”>
+         <tr>
+            <th cold pan=“2”>Beast Soul</th>
+         </tr><tr>
+             <td>Sacred-Blood Archangel</td>
+             <td>(Pet)</td>
+         </tr>
+    </table>
+    !<—Super beast soul archangel: Pet (can further evolve)—>
+</div>
 
 Seeing such a simple introduction, Han Sen felt completely dumbstruck. Archangel sounded a lot more impressive than holy angel, and there was no problem with the super beast soul status, or "pet," or the note "can further evolve." However, the problem was that the pet no longer had her transformed state.
 

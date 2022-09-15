@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Angel Feather Clothes
-### Chapter 1776 
+### Chapter 1776
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Ever since the aircraft was cut down, the road had stayed quiet. No others made an appearance.
+Ever since the aircraft was cut down, the road had stayed quiet. No others made an appearance.
 
 “Brother Kong, you are so powerful. Of course you might be fearless, but we are merely ordinary men. If the Feathers try to take us out, then I fear things might turn out poorly.” Han Sen spoke to Kong Fei as they walked.
 

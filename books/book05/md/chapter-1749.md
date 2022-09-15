@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Killing Feather
-### Chapter 1749 
+### Chapter 1749
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The female Feather used her golden feather pendant to protect herself. She kept trying to attack Han Sen, unleashing swordlights continuously, her attacks forming a net over Han Sen.
+The female Feather used her golden feather pendant to protect herself. She kept trying to attack Han Sen, unleashing swordlights continuously, her attacks forming a net over Han Sen.
 
 Both Mr. Tiger and the female Feather were Baron class, but her skills far exceeded those of Mister Tiger. It seemed like the geno universe had better skills, but ordinary people just didn’t get to see them.
 

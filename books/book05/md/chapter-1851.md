@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Center of Narrow Moon
-### Chapter 1851 
+### Chapter 1851
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen was interested in those paintings. He kept looking at them, fascinated by the depiction of Rebate being slaves. But in the paintings, Han Sen could not see what beings had enslaved them.
+Han Sen was interested in those paintings. He kept looking at them, fascinated by the depiction of Rebate being slaves. But in the paintings, Han Sen could not see what beings had enslaved them.
 
 The carriage, and the slave masters that it held, were all enveloped in bright light. So much so, you could not identify the beings inside it.
 

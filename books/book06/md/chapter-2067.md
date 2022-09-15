@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Jade Spirit
-### Chapter 2067 
+### Chapter 2067
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen went to the second White Jade Jing with Thousand Feather Crane and the others.
+Han Sen went to the second White Jade Jing with Thousand Feather Crane and the others.
 
 When they passed the first floor, they saw many students guarding the jade wall. On the jade wall were paintings of a jade beast. A few of the Sky students were standing guard before each of them.
 

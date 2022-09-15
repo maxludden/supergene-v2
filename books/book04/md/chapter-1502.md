@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Ten Years
-### Chapter 1502 
+### Chapter 1502
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  After Han Sen’s discussion with Sieg, he noticed something was wrong when he next tried to use his communicator to connect to Skynet. It came as an extreme shock.
+After Han Sen’s discussion with Sieg, he noticed something was wrong when he next tried to use his communicator to connect to Skynet. It came as an extreme shock.
 
 While they only a single day had passed inside the Main Control Room, outside in the Alliance, ten years had gone by.
 

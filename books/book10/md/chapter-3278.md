@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Meeting a Life Soul Again
-### Chapter 3278 
+### Chapter 3278
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The scary sword air kept slashing Han Sen. Although this was all taking place inside his dreams, it made Han Sen feel physically damaged.
+The scary sword air kept slashing Han Sen. Although this was all taking place inside his dreams, it made Han Sen feel physically damaged.
 
 If it was a creature with a weak will undergoing this, even in a dream, their will would be totally broken. They would never wake up, and their body would die. They would be rendered vegetables.
 

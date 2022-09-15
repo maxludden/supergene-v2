@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## A Needle
-### Chapter 2279 
+### Chapter 2279
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Because Han Sen had used a fair amount of his own power, it activated the hell power in his body. The ghost statue came to life and flapped its wings. It rose above Han Sen, then dropped like a hawk, its feet outstretched to grab Han Sen.
+Because Han Sen had used a fair amount of his own power, it activated the hell power in his body. The ghost statue came to life and flapped its wings. It rose above Han Sen, then dropped like a hawk, its feet outstretched to grab Han Sen.
 
 There was no way he would be able to dodge. The ghost statue was drawn toward Han Sen’s hell power like a magnet. When its feet came down, they were going to smash Han Sen into a pulp. The statue fell, and its claws closed around Han Sen.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Qigong Master?
-### Chapter 384 
+### Chapter 384
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen did not believe that Ning Yue never looked into his background. Either Han Sen's great grandfather was a friend to the Nings, or the death of Han Sen's father had something to do with Starry Group, Ning Yue's behaviors were strange.
+Han Sen did not believe that Ning Yue never looked into his background. Either Han Sen's great grandfather was a friend to the Nings, or the death of Han Sen's father had something to do with Starry Group, Ning Yue's behaviors were strange.
 
 "What is the name of the friend? Maybe he is in my family," Han Sen probed with a smile.
 

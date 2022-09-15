@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## The Possibility of Leveling Up
-### Chapter 1896 
+### Chapter 1896
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “I don’t know,” Han Sen said quietly.
+“I don’t know,” Han Sen said quietly.
 
 Yisha sighed and said, “I don’t know if the Red Mist Spring is a good thing or a bad thing, but for you, it might be an opportunity. It’s possible that this spring could make your Spell geno armament level up. It could become a Viscount.”
 

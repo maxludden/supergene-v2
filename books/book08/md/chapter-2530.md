@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## The Sea Sky Eye
-### Chapter 2530 
+### Chapter 2530
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen promised to help Li Keer kill a deified xenogeneic, but Li Keer didn’t know where the xenogeneic she needed actually lived. She only knew which system it was said to be in. Han Sen had to go to that system with her.
+Han Sen promised to help Li Keer kill a deified xenogeneic, but Li Keer didn’t know where the xenogeneic she needed actually lived. She only knew which system it was said to be in. Han Sen had to go to that system with her.
 
 But this time, Li Keer didn’t offer to teach God’s Wander to Han Sen first. She was going to wait until Han Sen slew the deified xenogeneic before giving him the final part.
 

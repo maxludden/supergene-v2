@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## First Men in God’s Sanctuary
-### Chapter 383 
+### Chapter 383
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  After waking up, the rest of the group quickly understood what had happened. They shot murderous looks at Zhu Ting, and someone even drew his weapon out.
+After waking up, the rest of the group quickly understood what had happened. They shot murderous looks at Zhu Ting, and someone even drew his weapon out.
 
 Han Sen stopped him. That person asked Han Sen, "Mr. Han, what are you doing?"
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## An Unexpected Journey
-### Chapter 1397 
+### Chapter 1397
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The spirit returned to his spirit stone, but Han Sen expected this. Regardless, Han Sen ventured up to the top of the mountain and began removing the black sand. There was a large mound of the stuff, and after much digging, Han Sen was able to find the lizard that had been buried.
+The spirit returned to his spirit stone, but Han Sen expected this. Regardless, Han Sen ventured up to the top of the mountain and began removing the black sand. There was a large mound of the stuff, and after much digging, Han Sen was able to find the lizard that had been buried.
 
 The lizard was not dead yet, but it was in poor shape. The black sand had suffocated it and crept its way into the lizard’s body. The lungs and organs were stuffed with sand, and its death was inevitable.
 

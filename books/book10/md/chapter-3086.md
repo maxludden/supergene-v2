@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Finally Got a Gene Egg
-### Chapter 3086 
+### Chapter 3086
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “Responsibility? How are you going to accept responsibility?” Han Sen coldly looked at Gong Shu Zhi’s shadow.
+“Responsibility? How are you going to accept responsibility?” Han Sen coldly looked at Gong Shu Zhi’s shadow.
 
 “I have some savings,” Gong Shu Zhi said. “If you let my son go, I can give you money or gene eggs. If you want to be a leader of a town, I can help you do that too.”
 

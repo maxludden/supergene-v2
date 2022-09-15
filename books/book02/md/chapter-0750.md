@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Proposal
-### Chapter 750 
+### Chapter 750
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Proposing was not something that came easy to Han Sen. Killing a super creature was easier for him, because he at least had some experience with that, as opposed to marital duties and responsibilities.
+Proposing was not something that came easy to Han Sen. Killing a super creature was easier for him, because he at least had some experience with that, as opposed to marital duties and responsibilities.
 
 "Proposal." Han Sen searched the word on the Skynet, and the term generated billions of results.
 

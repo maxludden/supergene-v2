@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Strange Mark
-### Chapter 1845 
+### Chapter 1845
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  
+
 
 “Don’t look. Return to your homes. No one can leave their rooms; if you do, you will be killed,” Han Sen said. The Barons quickly returned to their shelters as instructed.
 

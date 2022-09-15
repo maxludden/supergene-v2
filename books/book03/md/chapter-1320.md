@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Another Lock
-### Chapter 1320 
+### Chapter 1320
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “If Ancient Devil Emperor killed a demigod, what would he gain from obtaining a core and its blood? Minus the whole being erased business, mind you.” Han Sen wondered this, reflecting on all he had been told in his conversation with Dragon King.
+“If Ancient Devil Emperor killed a demigod, what would he gain from obtaining a core and its blood? Minus the whole being erased business, mind you.” Han Sen wondered this, reflecting on all he had been told in his conversation with Dragon King.
 
 With the magnitude of Ancient Devil Emperor power, he was the sort to have no problem ascending to the Fourth God’s Sanctuary and becoming a demigod. From what he had heard, there would be no need for him to try something as risky as challenging a demigod in the Third God’s Sanctuary.
 

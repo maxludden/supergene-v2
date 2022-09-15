@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Merge Bloodlines
-### Chapter 1583 
+### Chapter 1583
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The bloodline of the Sacred egg came from both Sacred’s master and Destroyer Empress, but after absorbing the power of death from Rolling Dragon King and the black dragon and being born from the black pond, she had too much deathly power. Her hereditary abilities from Destroyer Empress were completely activated, and they suppressed her inheritance from Sacred’s master.
+The bloodline of the Sacred egg came from both Sacred’s master and Destroyer Empress, but after absorbing the power of death from Rolling Dragon King and the black dragon and being born from the black pond, she had too much deathly power. Her hereditary abilities from Destroyer Empress were completely activated, and they suppressed her inheritance from Sacred’s master.
 
 There was too much deathly power piling up in her body, which was very bad for a newborn baby.
 

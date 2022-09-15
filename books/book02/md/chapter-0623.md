@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## White Bones and Withered Rattan
-### Chapter 623 
+### Chapter 623
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  A few hundred-meter long bones lay strewn across the mountainside, and much of the area was wreathed with vines. Strangely, they were all shrivelled and withered, and many had knitted their way across the bones that were scattered about.
+A few hundred-meter long bones lay strewn across the mountainside, and much of the area was wreathed with vines. Strangely, they were all shrivelled and withered, and many had knitted their way across the bones that were scattered about.
 
 Han Sen curiously observed the bones. They had a diffuse, ancient aura of power, one that was dormant, as if it were slumbering. This power seemed to ward away creatures from coming anywhere near them, too.
 

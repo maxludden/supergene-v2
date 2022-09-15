@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Fallen Slaughter
-### Chapter 1605 
+### Chapter 1605
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “Where is the human?” Fallen Slaughter looked around, but there were no humans about.
+“Where is the human?” Fallen Slaughter looked around, but there were no humans about.
 
 “Over there!” Qing Ya called out, pointing in a specific direction.
 

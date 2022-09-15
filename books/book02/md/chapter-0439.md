@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Snow Spider
-### Chapter 439 
+### Chapter 439
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  "You are right, and thinking in the right direction. However, I don't have so much time to waste. That's why I want to conquer that spirit shelter in one month," Han Sen said calmly.
+"You are right, and thinking in the right direction. However, I don't have so much time to waste. That's why I want to conquer that spirit shelter in one month," Han Sen said calmly.
 
 "One month?" Yang Manli stared at Han Sen, as if he was a lunatic.
 

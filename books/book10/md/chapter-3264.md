@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Bad Egg
-### Chapter 3264 
+### Chapter 3264
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “What do you mean?” Han Sen looked at Zhang Huan with interest.
+“What do you mean?” Han Sen looked at Zhang Huan with interest.
 
 Zhang Huan looked at the old man and carefully said, “Back in the day, when the Wu Wei Dao Alpha broke space, the leader gave the Ultimate Egg to one of his students. That Wu Wei Dao Palace student could not hatch it, so he decided on passing it down generation by generation. It is unknown how many generations there have been since, but no one has been able to hatch it. Eventually, a Wu Wei Dao Palace student was murdered by a supreme elite who took the egg for themselves and carried it around. The Ultimate Egg was robbed of its proper owner. Then, this old man came into possession of it.”
 

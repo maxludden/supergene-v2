@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Demon Alpha
-### Chapter 2856 
+### Chapter 2856
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Holding the Sky Vine Radish God Lance, Han Sen opened the door of the next palace. He saw a xenogeneic inside that looked like a lion. He lifted the Sky Vine Radish God Lance and struck it.
+Holding the Sky Vine Radish God Lance, Han Sen opened the door of the next palace. He saw a xenogeneic inside that looked like a lion. He lifted the Sky Vine Radish God Lance and struck it.
 
 It was a butterfly class xenogeneic. Because it was not Han Sen’s opponent anymore, he skipped it and did not bother killing it.
 

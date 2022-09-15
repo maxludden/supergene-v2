@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Mister God Spirit
-### Chapter 3244 
+### Chapter 3244
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Saying Han Sen had become some sort of good officer was something no one in Jade Wall City believed.
+Saying Han Sen had become some sort of good officer was something no one in Jade Wall City believed.
 
 However, they all agreed that Han Sen’s sword skills were strong. It made everyone’s faces change. No matter how much they disliked Han Sen, they had to confess that his sword skills were very strong, and he was likely the No. 1 swordsmen in the universe.
 

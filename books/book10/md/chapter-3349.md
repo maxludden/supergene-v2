@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Bury Creature's Place
-### Chapter 3349 
+### Chapter 3349
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  In front of an intelligent elite like Ancient Devil, Han Sen was not planning to lie, even if he did not know how to lie.
+In front of an intelligent elite like Ancient Devil, Han Sen was not planning to lie, even if he did not know how to lie.
 
 Plus, saying something honest would have made Ancient Devil suspicious.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Time Fight
-### Chapter 3403 
+### Chapter 3403
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “Moment God, do you not remember that this is Time Sky? I am afraid your time powers will not be as effective here.” Han Sen used the sky clock.
+“Moment God, do you not remember that this is Time Sky? I am afraid your time powers will not be as effective here.” Han Sen used the sky clock.
 
 The sky clock’s needles moved. Time Sky’s many stone clocks were moved because of the sky clock’s power. Moment God’s time river was affected by many different time areas. She immediately lost her advantage. Before she reached Han Sen, the time river scattered. It did not pose a threat to Han Sen. It was all thanks to the sky clock he was wielding against her.
 

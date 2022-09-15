@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Aegean Sea
-### Chapter 266 
+### Chapter 266
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Blackhawk's opponents in the next few rounds were not strong teams, which gave them more opportunities to practice.
+Blackhawk's opponents in the next few rounds were not strong teams, which gave them more opportunities to practice.
 
 With their newly gained confidence and Han Sen's incredible spinning arrows, Blackhawk became the champion of this year's archery tournament.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## The Talents a Creature Can Learn
-### Chapter 634 
+### Chapter 634
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  After Han Sen concluded another round of training, he opened his eyes and looked at the gourd with much surprise.
+After Han Sen concluded another round of training, he opened his eyes and looked at the gourd with much surprise.
 
 Han Sen noticed strange streams of energy circling around it like wind. It was not unlike what occurred to the Queen on the day she improved her Heavenly Go alongside him.
 

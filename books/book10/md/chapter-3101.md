@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Gold Electric Mark
-### Chapter 3101 
+### Chapter 3101
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen had just returned to the hotel when Mister Yang excitedly said, “Mister… All… All gone… The gene races we sell… Aside from the mutant eight sound bug… People bought them all….”
+Han Sen had just returned to the hotel when Mister Yang excitedly said, “Mister… All… All gone… The gene races we sell… Aside from the mutant eight sound bug… People bought them all….”
 
 Han Sen understood what had happened. He had impressed everyone at the party, and the people in attendance were rich and famous. They probably visited his shop with curiosity. It was nothing out of the ordinary for them to want to buy a few things.
 
@@ -61,9 +62,7 @@ Han Sen did not allow himself to think about it. He could not feel the emotions 
 
 If what was inside the gold lightning mark was real, that was too shocking. Han Sen thought it was unbelievable.
 
-Although he had not read all of the lightning’s text, just reading a single word was enough to be shocking. The words were how to create a
-
-god.
+Although he had not read all of the lightning’s text, just reading a single word was enough to be shocking. The words were how to create a god.
 
 The way to make a god had nothing to do with how to grow a god-class gene race. It was the way to make a real God Spirit.
 

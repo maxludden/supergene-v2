@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Starsea Orb
-### Chapter 1380 
+### Chapter 1380
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “This is Outer Sky’s territory. It would be best not to expose ourselves,” the woman said, pulling the dog away.
+“This is Outer Sky’s territory. It would be best not to expose ourselves,” the woman said, pulling the dog away.
 
 “Well, since we’re here, shouldn’t we look around?” the dog pleaded.
 

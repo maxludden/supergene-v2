@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Yi Dong Mu's Secret Skill
-### Chapter 564 
+### Chapter 564
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen fed a black crystal to the silver-eye ice snake king, and then brought the silver fox back with him. On his way, he encountered several other humans, and passed by them nervously. He held the fox extra tight, afraid that it might attack someone. It was fortunate, then, that the silver fox gave no particular reaction at all.
+Han Sen fed a black crystal to the silver-eye ice snake king, and then brought the silver fox back with him. On his way, he encountered several other humans, and passed by them nervously. He held the fox extra tight, afraid that it might attack someone. It was fortunate, then, that the silver fox gave no particular reaction at all.
 
 That put Han Sen at ease, for at least now - the silver fox was behaving unlike any other super creature, and it didn't seem likely to attack humans on sight.
 

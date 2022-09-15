@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Angel Dollar
-### Chapter 63 
+### Chapter 63
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Fang Mingquan didn’t find Dollar and stopped looking. He returned to his studio in excitement and started to edit the footage he took.
+Fang Mingquan didn’t find Dollar and stopped looking. He returned to his studio in excitement and started to edit the footage he took.
 
 "My future’s on this video!" Fang Mingquan stayed up all night editing the footage.
 

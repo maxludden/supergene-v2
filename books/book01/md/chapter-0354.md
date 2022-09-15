@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Sprint
-### Chapter 354 
+### Chapter 354
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Initially Han Sen thought since Mr. Yu was an evolver with all his geno points maxed out, he would be able to last a while facing a super creature.
+Initially Han Sen thought since Mr. Yu was an evolver with all his geno points maxed out, he would be able to last a while facing a super creature.
 
 However, Mr. Yu died so fast and in such a horrifying way, which made Han Sen shiver.
 

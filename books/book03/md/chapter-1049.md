@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Holy-sword Doll
-### Chapter 1049 
+### Chapter 1049
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “Xie Qing King, if you do not know when to relent, then do not blame me for the actions I take.” Holy-Sword Emperor’s fear soured and became anger when he saw how cocky and boisterous the old spirit continued to be.
+“Xie Qing King, if you do not know when to relent, then do not blame me for the actions I take.” Holy-Sword Emperor’s fear soured and became anger when he saw how cocky and boisterous the old spirit continued to be.
 
 Holy-Sword Emperor raised his hands as he had before, and his ten fingers quickly became ten lethal swords. But it went above and beyond what Han Sen had previously endured. The ten split up into a hundred. The hundred split up into a thousand. The thousand then split up into ten thousand.
 

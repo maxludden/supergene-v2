@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Mutant Gene
-### Chapter 1977 
+### Chapter 1977
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  After killing the Xuanyuan Dragon, the crew left Xuanyuan Cave.
+After killing the Xuanyuan Dragon, the crew left Xuanyuan Cave.
 
 Han Sen didn’t feel very well, and First Day and Yun Sushang were injured. They couldn’t keep going. They also had to carry out the dead bodies of the Xuanyuan Dragon and Ghost Claw Beasts.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Accidents Happen
-### Chapter 3373 
+### Chapter 3373
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Katcha!
+Katcha!
 
 There were cracks all over Han Sen’s armor. Within them, a familiar power existed.
 

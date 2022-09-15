@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Crystallizer High Race
-### Chapter 2891 
+### Chapter 2891
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The faces of the Buddha looked pale. The marks on their foreheads disappeared. It made their bodies violently shake like they had been hurt. Their bodies were in pain as they shook. Their life forces decreased.
+The faces of the Buddha looked pale. The marks on their foreheads disappeared. It made their bodies violently shake like they had been hurt. Their bodies were in pain as they shook. Their life forces decreased.
 
 Blergh!
 

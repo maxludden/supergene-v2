@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Fish in a Bottle
-### Chapter 2699 
+### Chapter 2699
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The incident in Jail Demon Hall had yet to be explained. Although it was suggested that the raging of the Red Blood Demon might have been somehow connected to the Blood Marrow Geno Fluid, the Inspection Department came to no ultimate conclusion. And before the incident, no one had known that the Bone Marrow Geno Fluid could produce this sort of effect. The warehouse frequently offered that type of geno fluid when they ran out of the ordinary ones, so it all seemed like one giant coincidence. No one should have been responsible for what occurred.
+The incident in Jail Demon Hall had yet to be explained. Although it was suggested that the raging of the Red Blood Demon might have been somehow connected to the Blood Marrow Geno Fluid, the Inspection Department came to no ultimate conclusion. And before the incident, no one had known that the Bone Marrow Geno Fluid could produce this sort of effect. The warehouse frequently offered that type of geno fluid when they ran out of the ordinary ones, so it all seemed like one giant coincidence. No one should have been responsible for what occurred.
 
 But Han Sen thought things couldn’t have been that simple. He firmly believed the event had something to do with Liyu Zhen and Li Xue Cheng. Li Xue Cheng had visited him not long before the lockdown took place. The timing was too suspicious to be a coincidence.
 

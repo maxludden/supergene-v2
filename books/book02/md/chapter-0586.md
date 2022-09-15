@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Poison Test
-### Chapter 586 
+### Chapter 586
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The silver fox saw the red mushroom, opened its mouth, and swallowed it.
+The silver fox saw the red mushroom, opened its mouth, and swallowed it.
 
 And then Han Sen and the fox looked at each other. There was no movement for quite some time.
 

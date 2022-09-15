@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Nightmare
-### Chapter 1503 
+### Chapter 1503
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  When he went back to Shadow Shelter, it didn’t seem as if much at all had changed. Before he entered, he came across Cheap Sheep and Green Cow. They were waiting at the gate, one at either side.
+When he went back to Shadow Shelter, it didn’t seem as if much at all had changed. Before he entered, he came across Cheap Sheep and Green Cow. They were waiting at the gate, one at either side.
 
 “What are you two doing here?” Han Sen stood where he was, looking at the pair as if they were made of stone.
 

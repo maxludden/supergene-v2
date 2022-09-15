@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Temporarily Passed
-### Chapter 1889 
+### Chapter 1889
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “Where is Icebird Duke?” Yisha asked Han Sen as they stood on the Knife Battleship.
+“Where is Icebird Duke?” Yisha asked Han Sen as they stood on the Knife Battleship.
 
 “Queen, I do not know where Icebird Duke is.” Han Sen gave her a wry smile. He wasn’t planning on admitting anything. Plus, no one had survived on that planet, and they were all trapped in Purgatory Heaven. As long as he did not admit what had happened, no evidence would be unearthed to suggest otherwise.
 

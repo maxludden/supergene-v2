@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Self-torturing Knife
-### Chapter 2872 
+### Chapter 2872
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “Weird. How has his body recovered already?” Han Sen was looking at Pluto Peacock’s wounds where Burning Lamp came out from. He was shocked by what he had seen.
+“Weird. How has his body recovered already?” Han Sen was looking at Pluto Peacock’s wounds where Burning Lamp came out from. He was shocked by what he had seen.
 
 Burning Lamp was in the underworld. Now, his body had completely recovered. The blue-green transparent color was gone.
 

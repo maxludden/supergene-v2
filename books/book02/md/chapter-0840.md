@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Pet Pill
-### Chapter 840 
+### Chapter 840
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen's communicator did not stop ringing, and the number of calls were overwhelming. They mostly came from good friends.
+Han Sen's communicator did not stop ringing, and the number of calls were overwhelming. They mostly came from good friends.
 
 Diligently, Han Sen answered them all, and each caller had contacted Han Sen to tell him about a new pet pill Dong Lin had created. They wanted to warn him.
 

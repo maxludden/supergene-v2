@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Strange Sensing Ability
-### Chapter 599 
+### Chapter 599
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  "Everything is born a-laya, it's already here, it is full and clear; the same as nirvana."
+"Everything is born a-laya, it's already here, it is full and clear; the same as nirvana."
 
 Han Sen didn't receive any new icy powers after unlocking his first gene lock, but the strength of his body was dramatically increased. That wasn't the most important boon he had received, however.
 

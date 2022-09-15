@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## United
-### Chapter 2993 
+### Chapter 2993
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Rain slid down the roof. It landed on a stone board and created some bubbles.
+Rain slid down the roof. It landed on a stone board and created some bubbles.
 
 Looking outside, there was an old house at the peak of a mountain. There were also lots of other mountains. The rain created a layer of mist that draped the mountains.
 

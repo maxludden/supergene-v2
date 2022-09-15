@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Obtaining the Treasure
-### Chapter 612 
+### Chapter 612
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  "This blood-scale armor is mine, okay? Now we are even." Queen frowned, looking back at the island. There was no more screaming or squealing to be heard, and with the rest of the creatures having either escaped or been killed, the island was quiet.
+"This blood-scale armor is mine, okay? Now we are even." Queen frowned, looking back at the island. There was no more screaming or squealing to be heard, and with the rest of the creatures having either escaped or been killed, the island was quiet.
 
 It still looked like hell, though. Bodies and blood were everywhere, and just looking at it made their skin crawl.
 

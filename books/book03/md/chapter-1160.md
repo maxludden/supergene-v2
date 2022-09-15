@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Consumer Treatment
-### Chapter 1160 
+### Chapter 1160
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  After sending the kid off, Han Sen held Ji Yanran and spoke with her for a while.
+After sending the kid off, Han Sen held Ji Yanran and spoke with her for a while.
 
 “There’s a new aircraft in-store today. Would you like to go give it a try?” Ji Yanran said, as she drew invisible circles on Han Sen’s arm.
 

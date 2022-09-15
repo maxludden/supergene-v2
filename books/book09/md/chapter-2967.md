@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Fighting in a God Palace
-### Chapter 2967 
+### Chapter 2967
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The green-haired beast madly roared, “Let Little Mountain Leader go!” The green pillar of light came out of its mouth. It was headed for Moment God.
+The green-haired beast madly roared, “Let Little Mountain Leader go!” The green pillar of light came out of its mouth. It was headed for Moment God.
 
 The Gana woman gathered up power. She made a crystal orb of light spread. It became many waves that added to the green light beam. It was like an amplifier. It made the green light beam much bigger. It was like a god light that could destroy the world headed for Moment God.
 

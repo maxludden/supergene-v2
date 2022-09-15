@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Kill You Forever
-### Chapter 1149 
+### Chapter 1149
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen looked inside the door and saw the shadow kneeling. There were no more musical notes or energy signatures left to scan. Xiang Yin would probably not make it.
+Han Sen looked inside the door and saw the shadow kneeling. There were no more musical notes or energy signatures left to scan. Xiang Yin would probably not make it.
 
 “You lose. Badly! Now, watch as she dies! I am different; I have many more ways to play with you.” Yaksha began to cackle like a mad scientist.
 

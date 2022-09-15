@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Educating a Noob
-### Chapter 2224 
+### Chapter 2224
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  After returning to his room, Han Sen called out to Little Angel. He told her and the rest of his companions to be careful and to not venture out alone anymore.
+After returning to his room, Han Sen called out to Little Angel. He told her and the rest of his companions to be careful and to not venture out alone anymore.
 
 “Is Edward really that scary? If he does not dare come here and steal the item, what do we have to be afraid of?” Ji Qing looked rather confused.
 

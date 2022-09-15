@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Battling Blood Legion’s Leader
-### Chapter 1411 
+### Chapter 1411
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The group that had been betrayed were nothing more than skeletal husks now, frail shadows of their former selves that clung to the most meager tethers of life. They were so brittle and aged, they could not even stand.
+The group that had been betrayed were nothing more than skeletal husks now, frail shadows of their former selves that clung to the most meager tethers of life. They were so brittle and aged, they could not even stand.
 
 “Come. Deliver thine blood,” Mister Li coldly said.
 

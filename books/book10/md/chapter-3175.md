@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## One Sword Destroys a Kingdom
-### Chapter 3175 
+### Chapter 3175
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “How is that possible? Hasn’t he only been practicing sword skills for a year?” The old man looked at Sky Group Leader high above with shock.
+“How is that possible? Hasn’t he only been practicing sword skills for a year?” The old man looked at Sky Group Leader high above with shock.
 
 Sky Group Leader saw the god light screen was displaying a bit of purple mist. After a while, he sighed and said, “Zhuo Dong Lai really is some strange sort of genius, which is very rare to find.”
 

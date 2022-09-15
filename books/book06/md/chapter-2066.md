@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Teacher
-### Chapter 2066 
+### Chapter 2066
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “Luckily, you only killed Dragon Thirteen. She was not one of the prestigious nine. Her death was inconsequential, so the grudge won’t be all that deep. Now that Yu Shanxin has interceded on your behalf, the Dragon shouldn’t bother you anymore. Do you think you can remove the spell on me now?” Xius had actually come up to Han Sen to get the spell removed.
+“Luckily, you only killed Dragon Thirteen. She was not one of the prestigious nine. Her death was inconsequential, so the grudge won’t be all that deep. Now that Yu Shanxin has interceded on your behalf, the Dragon shouldn’t bother you anymore. Do you think you can remove the spell on me now?” Xius had actually come up to Han Sen to get the spell removed.
 
 “We’re still in territory belonging to the Dragon. Let’s wait until I’m out of it first.” Han Sen resumed walking.
 

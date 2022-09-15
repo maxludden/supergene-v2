@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## One Skill Breaks Ten Thousand Skills
-### Chapter 2132 
+### Chapter 2132
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  When the flowers on Evil Eye’s armor opened in bloom, the mass of his power reached a truly frightening level. He was much scarier than even Dragon Eight’s gold Dragon body.
+When the flowers on Evil Eye’s armor opened in bloom, the mass of his power reached a truly frightening level. He was much scarier than even Dragon Eight’s gold Dragon body.
 
 “Your knowledge and control are better than mine, it would appear. But so what? Before a sufficient amount of raw, physical power, you have no hope of triumphing. You will ultimately lose.” Evil Eye looked at Han Sen coldly.
 

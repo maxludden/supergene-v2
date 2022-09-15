@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Expensive Food
-### Chapter 28 
+### Chapter 28
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  "Buddy, what’s your name?" Lin Beifeng threw a lighter at Han Sen.
+"Buddy, what’s your name?" Lin Beifeng threw a lighter at Han Sen.
 
 "Han Sen." Han Sen caught the lighter and lit the cigarette. Made from the tobacco produced from Schwarzwald, the cigarettes were harmless to the body and especially refreshing.
 

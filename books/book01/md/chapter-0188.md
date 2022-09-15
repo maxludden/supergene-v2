@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Ghost Butterfly
-### Chapter 188 
+### Chapter 188
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The sacred-blood black-feathered beast king tried to wiggle free, but was pinned back down by Han Sen. Growling, it did not struggle again.
+The sacred-blood black-feathered beast king tried to wiggle free, but was pinned back down by Han Sen. Growling, it did not struggle again.
 
 As Han Sen was wondering why it had stopped, he saw the lights were disturbed by the beast king’s growl and started to fly toward Han Sen and the beast king.
 

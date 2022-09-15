@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Fighting Fire With Fire
-### Chapter 1257 
+### Chapter 1257
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Emblazoned across the red shield, Han Sen noticed the faint outline of a fish. It was like a shark, but it was even more fearsome looking than that. Behind the head of this image, there was a tentacle-like limb that reached over. From this tentacle, something hung.
+Emblazoned across the red shield, Han Sen noticed the faint outline of a fish. It was like a shark, but it was even more fearsome looking than that. Behind the head of this image, there was a tentacle-like limb that reached over. From this tentacle, something hung.
 
 Han Sen thought it was a human hanging from the tentacle. It was quite the unnerving picture.
 

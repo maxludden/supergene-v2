@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Third God's Sanctuary
-### Chapter 883 
+### Chapter 883
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The gourd was trembling in Han Sen's hand. At its tip, a black hole-like distortion had manifested, warping the very dimension around it.
+The gourd was trembling in Han Sen's hand. At its tip, a black hole-like distortion had manifested, warping the very dimension around it.
 
 "Is something going to be born from the gourd now? Did the Evolution Pool really help it?" Han Sen was excited, looking at the gourd.
 

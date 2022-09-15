@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Red-eye Rabbit
-### Chapter 970 
+### Chapter 970
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Rustle. Rustle. Rustle.
+Rustle. Rustle. Rustle.
 
 As the bushes rustled, a white shadow leapt out.
 

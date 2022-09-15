@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Fair Trade
-### Chapter 948 
+### Chapter 948
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Dragon Demon cried against the insubordination of the creatures that wished to flee and yelled at them to stay, but they did not listen. He lacked the authority, for he and the creatures had signed a contract with Thorn Baron. She was the sole person either party could accept commands from.
+Dragon Demon cried against the insubordination of the creatures that wished to flee and yelled at them to stay, but they did not listen. He lacked the authority, for he and the creatures had signed a contract with Thorn Baron. She was the sole person either party could accept commands from.
 
 The humans were exuberantly happy, following the quick turn of events. Under Old Huang's lead, they chased off the creature horde into the woods and away from the shelter, slaying stragglers.
 

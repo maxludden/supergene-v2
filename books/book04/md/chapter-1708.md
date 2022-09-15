@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Entering the Ruins Again
-### Chapter 1708 
+### Chapter 1708
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “It’s nothing too exciting. That is the remains of a Nine-Life Cat. It is their leftover genes,” Old Cat said with a slight tone of awkwardness.
+“It’s nothing too exciting. That is the remains of a Nine-Life Cat. It is their leftover genes,” Old Cat said with a slight tone of awkwardness.
 
 “Does that mean there is more than one?” Han Sen asked.
 

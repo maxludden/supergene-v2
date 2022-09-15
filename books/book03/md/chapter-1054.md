@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Shura Punch
-### Chapter 1054 
+### Chapter 1054
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “Lian Chan is streaming! Hmm, but that place doesn’t look remotely shura. There are human artifacts everywhere.”
+“Lian Chan is streaming! Hmm, but that place doesn’t look remotely shura. There are human artifacts everywhere.”
 
 “That’s because it is a human place. I wonder what My Goddess is doing there?”
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Statue With a Thousand Hands and Eyes
-### Chapter 2439 
+### Chapter 2439
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Miss Mirror’s rainbow powers kept swinging. They broke many of the reflections in the mirrors, but Han Sen’s body remained completely undamaged.
+Miss Mirror’s rainbow powers kept swinging. They broke many of the reflections in the mirrors, but Han Sen’s body remained completely undamaged.
 
 “My Lady, if you still had a deified body, it is safe to say that my Jadeskin wouldn’t be able to endure your powerful sword strikes. But now, you aren’t too different from me. You are a first-tier King class opponent. Unless you strike me with the broken sword, hitting my reflections isn’t going to hurt me,” Han Sen said.
 

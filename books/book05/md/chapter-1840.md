@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Han Family Discipline
-### Chapter 1840 
+### Chapter 1840
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The sixth day after their arrival to the base, Han Sen summoned everyone to a plaza.
+The sixth day after their arrival to the base, Han Sen summoned everyone to a plaza.
 
 He had been busy over the past few days, writing out the document of ground rules he dubbed the Han Family Discipline. If there was no rule of law, the place would not be considered complete. It’d be impossible to gather people of different cultures and races, and expect them to live together in harmony, if there weren’t any rules established.
 

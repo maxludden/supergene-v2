@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Reverse Blood Line
-### Chapter 3026 
+### Chapter 3026
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Jinzhi gave Han Sen geno fluid. It could make the blue blood calm down. Now, Han Sen had started his Blood-Pulse Sutra. It made his blue blood power explode.
+Han Jinzhi gave Han Sen geno fluid. It could make the blue blood calm down. Now, Han Sen had started his Blood-Pulse Sutra. It made his blue blood power explode.
 
 Almost at the exact same time, Han Sen’s Nine-Life Cat tattoo revealed itself again.
 

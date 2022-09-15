@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Opening a Chest
-### Chapter 855 
+### Chapter 855
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The blood of super creatures not only stained the plaza; there was so much of it that a pool had formed, flooding the paved area. The blue bell was already in the midst of evolving, so Han Sen thought it was a shame to see so much blood go to waste.
+The blood of super creatures not only stained the plaza; there was so much of it that a pool had formed, flooding the paved area. The blue bell was already in the midst of evolving, so Han Sen thought it was a shame to see so much blood go to waste.
 
 The airborne crane let out an ear-piercing screech at the precise moment the dragon swooped in to tear its head off. The golden chest fell to the ground, and was quickly taken away by a centipede-like worm.
 

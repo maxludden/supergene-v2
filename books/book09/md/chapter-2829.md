@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## A Different Kind of God
-### Chapter 2829 
+### Chapter 2829
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  "How did they beat you?" Han Sen was holding in the urge to ask, but he buckled. He knew he was now getting closer to the truth behind what happened to the seventh team. This god could certainly be the one encountered by the seventh team.
+"How did they beat you?" Han Sen was holding in the urge to ask, but he buckled. He knew he was now getting closer to the truth behind what happened to the seventh team. This god could certainly be the one encountered by the seventh team.
 
 "Do you think I will expose my weaknesses to you?" God asked with a laugh.
 

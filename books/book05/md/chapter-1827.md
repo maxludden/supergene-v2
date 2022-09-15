@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Showing of Tusk
-### Chapter 1827 
+### Chapter 1827
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Yisha told Han Sen he had to prove himself if he wished to obtain more resources. So, Han Sen wanted this opportunity to show off. Now that this man had willingly delivered himself on a platter, Han Sen wasn’t going to let this chance slip away.
+Yisha told Han Sen he had to prove himself if he wished to obtain more resources. So, Han Sen wanted this opportunity to show off. Now that this man had willingly delivered himself on a platter, Han Sen wasn’t going to let this chance slip away.
 
 The man, who was named Gauss, looked at Han Sen angrily. If Han Sen had been using the Earl horse knife, he assuredly wouldn’t have been as enraged as he was now.
 

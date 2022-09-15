@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Jade Building Strange Scene
-### Chapter 1981 
+### Chapter 1981
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen wanted to sit by himself, but he didn’t seem to have that option. People were everywhere on the sixth floor.
+Han Sen wanted to sit by himself, but he didn’t seem to have that option. People were everywhere on the sixth floor.
 
 Fortunately, Yu Jing did not mention anything about them killing xenogeneics together. He quietly asked, “Brother Han, will you participate in Sky Palace’s exam?”
 

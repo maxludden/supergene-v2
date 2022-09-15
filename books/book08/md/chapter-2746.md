@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Buried Dragon Sea
-### Chapter 2746 
+### Chapter 2746
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Now that they had the Sit and Forget Sutra, Li Keer and Exquisite had no more time to follow Han Sen around. The two of them had to relinquish all their other duties and focus on practicing. They needed to take the time to practice the Sit and Forget Sutra now, while their memories were still fresh.
+Now that they had the Sit and Forget Sutra, Li Keer and Exquisite had no more time to follow Han Sen around. The two of them had to relinquish all their other duties and focus on practicing. They needed to take the time to practice the Sit and Forget Sutra now, while their memories were still fresh.
 
 Han Sen wasn’t keen on focusing on the Sit and Forget Sutra. Although the geno art was certainly amazing, its style wasn’t very suitable for him.
 

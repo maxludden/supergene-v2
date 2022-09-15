@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## The Plan
-### Chapter 363 
+### Chapter 363
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Ye Yufeng looked at Han Sen with complicated feelings and limped outside. As he ran, he kept looking back and saw the black metal wolf had thrown itself at Han Sen at the same high speed.
+Ye Yufeng looked at Han Sen with complicated feelings and limped outside. As he ran, he kept looking back and saw the black metal wolf had thrown itself at Han Sen at the same high speed.
 
 Ye Yufeng did not have the heart to watch. Although he felt terrible, Han Sen was already doomed. If he did not leave fast enough, his life saved by Han Sen would also end there.
 

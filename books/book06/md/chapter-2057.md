@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Conspiracy
-### Chapter 2057 
+### Chapter 2057
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “What is wrong with this woman? Does she have some sort of grudge against me?” Han Sen was depressed.
+“What is wrong with this woman? Does she have some sort of grudge against me?” Han Sen was depressed.
 
 Even the Dragon thought Han Sen had left Return Ruin Sea by now, but Xius was still determined to find him. That was why he was so depressed.
 

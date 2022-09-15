@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Where the Relic Lies
-### Chapter 2369 
+### Chapter 2369
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen frowned, and Lilly looked upset. Then he realized something.
+Han Sen frowned, and Lilly looked upset. Then he realized something.
 
 Han Sen was riding atop the blood kirin, following slowly behind Lan Haixin. He behaved as if he didn’t care, but the truth was, he didn’t know where the relic was. He stayed carefully behind Lan Haixin where he wouldn’t have to lead the party.
 

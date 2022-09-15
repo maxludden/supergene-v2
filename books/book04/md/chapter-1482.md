@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Sword Skills of a God
-### Chapter 1482 
+### Chapter 1482
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Seeing Han Sen’s opponent was Xu Mi, Elysian Moon frowned and said to herself, “Xu Mi is far too powerful. If Han Sen is hit, I don’t think he’ll even have the time to concede. If I was him, I’d turn tail and run right this second.”
+Seeing Han Sen’s opponent was Xu Mi, Elysian Moon frowned and said to herself, “Xu Mi is far too powerful. If Han Sen is hit, I don’t think he’ll even have the time to concede. If I was him, I’d turn tail and run right this second.”
 
 In the arena, Xu Mi approached Han Sen. He hadn’t drawn his weapon, and the spirit just looked at the human and said, “A human once told me every man has a price for everything. How much are your sword skills worth? What would you accept as payment for teaching me your technique?”
 

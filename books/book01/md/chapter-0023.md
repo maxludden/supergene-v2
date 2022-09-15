@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Obsidian Dragon
-### Chapter 23 
+### Chapter 23
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Roar!
+Roar!
 
 The giant snake shrieked and rushed madly toward Son of Heaven, who was covered in egg, leaving Han Sen alone.
 

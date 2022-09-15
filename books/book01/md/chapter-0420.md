@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Preparation Before Evolution
-### Chapter 420 
+### Chapter 420
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  After Zero threw herself at the firebird like a cannonball, she went through the burning body of the firebird and appeared on the other side. Landing heavily on the mountain’s feet and even broke a part of the mountain.
+After Zero threw herself at the firebird like a cannonball, she went through the burning body of the firebird and appeared on the other side. Landing heavily on the mountain’s feet and even broke a part of the mountain.
 
 In Zero’s hand, there was a red and golden spirit wiggling like flames. The firebird quickly issued a scream, as its body made up of flames simply exploded and turned into fireworks.
 

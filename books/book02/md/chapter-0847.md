@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## This Is Too Much
-### Chapter 847 
+### Chapter 847
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  They waited the night out together, and on the next day, they returned to Devil-Blood Shelter. But this time, they approached from another side and looked for the perfect opportunity to draw out more super creatures.
+They waited the night out together, and on the next day, they returned to Devil-Blood Shelter. But this time, they approached from another side and looked for the perfect opportunity to draw out more super creatures.
 
 Wang Yuhang had only one more vial of Angel Gene Fluid left, so he'd have to use it sparingly. Therefore, Han Sen opted for a more careful route this time, and only aimed to attract one or two powerful super creatures. In the meantime, Wang Yuhang would be sidelined a good distance away, ready for the pull, lest his poor luck ruin Han Sen's precision.
 

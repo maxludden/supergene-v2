@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Three Questions
-### Chapter 2936 
+### Chapter 2936
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The scariest thing was that Han Sen slowly noticed that his own eyes were shutting too. It was as if he was becoming extremely tired. He was not able to open his eyes anymore. No matter how much he struggled and tried to open his eyes, nothing seemed to work. His eyelids refused to open. They just wanted to close.
+The scariest thing was that Han Sen slowly noticed that his own eyes were shutting too. It was as if he was becoming extremely tired. He was not able to open his eyes anymore. No matter how much he struggled and tried to open his eyes, nothing seemed to work. His eyelids refused to open. They just wanted to close.
 
 “Stop resisting! It is useless. The sword lights of the nine-eyed sword can rob the vision of every being in this universe. When facing the nine-eyed sword, no creature has an eye.” Nine Thousand King raised his nine-eyed sword. He looked evil as he said, “It is not just that either. When you see the eyes on the nine-eyed sword, you are almost dead!”
 

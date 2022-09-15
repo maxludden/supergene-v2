@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Raven
-### Chapter 1847 
+### Chapter 1847
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Inside the base, people continued to become infected. Han Sen wanted to leave, taking Little Angel, Zero, and the others with him. But he was not sure if the strange contagion had already spread to his companions. If he left now, with an infection amongst them, things could turn pretty bleak.
+Inside the base, people continued to become infected. Han Sen wanted to leave, taking Little Angel, Zero, and the others with him. But he was not sure if the strange contagion had already spread to his companions. If he left now, with an infection amongst them, things could turn pretty bleak.
 
 If they stayed there and did get infected, at least Deep Blue Viscount might be able to deduce a way in which it could be stopped.
 

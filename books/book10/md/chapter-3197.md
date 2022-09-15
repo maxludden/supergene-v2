@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Method
-### Chapter 3197 
+### Chapter 3197
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “Han Sen, why is it like this? Why am I now able to grab the diamond great sword with the wooden sword in my hand? Why did it approve of me?” Qin Bai looked at Han Sen with confusion.
+“Han Sen, why is it like this? Why am I now able to grab the diamond great sword with the wooden sword in my hand? Why did it approve of me?” Qin Bai looked at Han Sen with confusion.
 
 “There is a solution to everything in this world. It all depends on whether or not your solution is the correct one. This small, wooden sword is one such method, but it can only help you claim an ordinary weapon.” Han Sen was not going to tell him that the small wooden sword’s sword mind was equal to Jian Bu Gu’s. There would not be a sword that did not approve of Jian Bu Gu’s sword.
 
@@ -33,9 +34,7 @@ Han Sen looked around. He looked at a knife and pointed it out to Qin Bai. He sa
 
 It was a beautiful, long knife with a scabbard. The scabbard and handle were encrusted with gems. It seemed to be brightly twinkling. It was very shiny.
 
-“Nope,” Han Sen said with certainty. “You don’t need anything. You just need to go over there and pick it up. I promise you it will obey
-
-you.”
+“Nope,” Han Sen said with certainty. “You don’t need anything. You just need to go over there and pick it up. I promise you it will obey you.”
 
 “Really?” Qin Bai did not believe him.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Bloodthirsty Ants
-### Chapter 1518 
+### Chapter 1518
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Nothing happened after the battle on Fantis. Unexpectedly, it was as if the New Community forgot the entire thing transpired.
+Nothing happened after the battle on Fantis. Unexpectedly, it was as if the New Community forgot the entire thing transpired.
 
 Entering the sanctuary again, Han Sen realized he was unable to use the crystal armor. Even if he wore the crystal armor on his way in, when he appeared inside the sanctuary, the connection he felt with it would be severed and its power could not be maintained.
 

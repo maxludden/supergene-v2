@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Fallen God
-### Chapter 2786 
+### Chapter 2786
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Bzzt!
+Bzzt!
 
 In that green, ripped space, a giant thing that looked like the temple of some ancient god emerged from the crack.
 

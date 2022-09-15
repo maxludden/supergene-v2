@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Galaxy Sand
-### Chapter 1956 
+### Chapter 1956
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Clearly, the Meka Battle King and Clear Sea King had their sights on Little Seven. Han Sen was wondering if he should back out now, but as he was considering his options, a few people came out of the house. It was Speechless and the other Buddhas.
+Clearly, the Meka Battle King and Clear Sea King had their sights on Little Seven. Han Sen was wondering if he should back out now, but as he was considering his options, a few people came out of the house. It was Speechless and the other Buddhas.
 
 Han Sen did not see Clear Sea King; it was just the young Buddha men and women. Han Sen’s heart jumped.
 

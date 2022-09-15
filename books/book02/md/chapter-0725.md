@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Death Knell
-### Chapter 725 
+### Chapter 725
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  After consuming the Thousand-Blade Blood Dragon Baby, Han Sen spent some time researching the energy flow of the blue bell. If he could simulate its energy flow, he could absorb its Life Geno essence.
+After consuming the Thousand-Blade Blood Dragon Baby, Han Sen spent some time researching the energy flow of the blue bell. If he could simulate its energy flow, he could absorb its Life Geno essence.
 
 Han Sen used Dongxuan Sutra to simulate Death Knell's energy flow and felt his entire body vibrate. He heard the sound of a bell ring, and his body throbbed to its chime.
 

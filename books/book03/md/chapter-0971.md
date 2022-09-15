@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Mutant Sabertooth Bee
-### Chapter 971 
+### Chapter 971
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “Hmm, so it is an ordinary creature.” Han Sen frowned even more.
+“Hmm, so it is an ordinary creature.” Han Sen frowned even more.
 
 The Red-Eye Rabbits around him were all ordinary, which meant their boss could be no greater than primitive. But the thieving Red-Eye Rabbit Han Sen had first encountered had opened seven of its gene locks.
 

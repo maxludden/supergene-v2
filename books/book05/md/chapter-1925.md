@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Red Mist King
-### Chapter 1925 
+### Chapter 1925
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen felt as if his body was taken through the red mist. He felt as if he was sinking. When his body came to a stop, he saw the seven minks wrapped up in the same plume of red mist, right next to him.
+Han Sen felt as if his body was taken through the red mist. He felt as if he was sinking. When his body came to a stop, he saw the seven minks wrapped up in the same plume of red mist, right next to him.
 
 The red mist then cocooned itself around him, too. As the mist was attaching itself to him, a strange message penetrated his brain.
 

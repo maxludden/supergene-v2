@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Seckill
-### Chapter 85 
+### Chapter 85
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  But soon, Liu Hongtao’s smile disappeared.
+But soon, Liu Hongtao’s smile disappeared.
 
 The moment the martial stele lit up, Dollar summoned the bloody slayer and ran toward the ape called Luo like a hurricane, a golden spear in his hand.
 

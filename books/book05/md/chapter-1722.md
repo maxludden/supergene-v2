@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## First Battle With a Xenogeneic
-### Chapter 1722 
+### Chapter 1722
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen recognized what he was seeing. Judging from its appearance, it was a Kate.
+Han Sen recognized what he was seeing. Judging from its appearance, it was a Kate.
 
 It looked like a human, but it had cat ears and a cat tail, too. That meant it was a Kate.
 

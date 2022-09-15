@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Assassinate
-### Chapter 3445 
+### Chapter 3445
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “There might be a way, but who are we going to send in there?” an Elder asked.
+“There might be a way, but who are we going to send in there?” an Elder asked.
 
 The God Chaos Party elites were attacking Space Garden. It seemed as if sounding the retreat would not be the right course of action.
 

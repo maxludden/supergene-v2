@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Invitation
-### Chapter 597 
+### Chapter 597
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen couldn't take his eyes off Princess Yin and Princess Yang. The Mermaid Princess had the ability to control the Crystal Palace, so he wondered if either of these princesses possessed any special abilities he could employ, as well.
+Han Sen couldn't take his eyes off Princess Yin and Princess Yang. The Mermaid Princess had the ability to control the Crystal Palace, so he wondered if either of these princesses possessed any special abilities he could employ, as well.
 
 Princess Yin and Princess Yang looked at each other. They raised up their swords together, producing two lights; one silver and one gold. Then, in a flash, they both fused together to become a whole new woman clad in gold and silver armor. One iris was gold, the other silver. One hand clutched a silver sword, whereas the other held a golden sword.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## A Test
-### Chapter 80 
+### Chapter 80
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  After returning home, Han Sen showed Yan the tutorial of Holy Angel and asked her to memorize it.
+After returning home, Han Sen showed Yan the tutorial of Holy Angel and asked her to memorize it.
 
 With the holographic demonstration, it was not difficult to learn. Being intelligent, Yan memorized Holy Angel after watching just a few times.
 

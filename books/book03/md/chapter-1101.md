@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Humans and Spirits Are Happy
-### Chapter 1101 
+### Chapter 1101
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  People who hadn’t seen Han Sen fight before were in shock. The rainfall of coins was insane.
+People who hadn’t seen Han Sen fight before were in shock. The rainfall of coins was insane.
 
 Su Xiaoqiao was excited when he saw the coins be unleashed. He had witnessed their might before, but he still harbored wariness. He wasn’t entirely sure they’d be as effective against such a powerful spirit.
 

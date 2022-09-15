@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Three Statues
-### Chapter 1255 
+### Chapter 1255
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Blood River King stood at the tallest rampart of the castle, overlooking the river.
+Blood River King stood at the tallest rampart of the castle, overlooking the river.
 
 The Blood River ran fast, and the banks sometimes burst, but flooding had never been this bad before. Much of the shelter had been submerged.
 

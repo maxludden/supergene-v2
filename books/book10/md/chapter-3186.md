@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## One Arrow Pierces Through the Heart
-### Chapter 3186 
+### Chapter 3186
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The god fights were a fighting competition governed by God Spirits. Every rule was conducted and enforced by God Spirits. If people conceded, they earned the protection of a God Spirit. Not even the royals of the seven kingdoms and those with inherited Blood-Pulses were allowed to break the rules.
+The god fights were a fighting competition governed by God Spirits. Every rule was conducted and enforced by God Spirits. If people conceded, they earned the protection of a God Spirit. Not even the royals of the seven kingdoms and those with inherited Blood-Pulses were allowed to break the rules.
 
 Han Sen was making a God Spirit lock in a person who had already conceded the fight and was leaving the space battleground. This seemed impossible.
 

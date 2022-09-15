@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Evolving Wall
-### Chapter 3439 
+### Chapter 3439
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “Don’t be too surprised,” God said with a laugh. “I am the Geno Hall Leader. I cannot allow everyone to know I actually joined the geno tablet fights. Finding a doppelganger to stand in for me is not too difficult.”
+“Don’t be too surprised,” God said with a laugh. “I am the Geno Hall Leader. I cannot allow everyone to know I actually joined the geno tablet fights. Finding a doppelganger to stand in for me is not too difficult.”
 
 Han Sen understood that the geno hall and geno tablet’s relationship was like the ruling party and opposition party. The Geno Hall Leader was the real president. Allowing another president to join the election for another party was very inappropriate. “Is Crape Myrtle another one of your names?” Han Sen asked. God shook his head. “No. Crape Myrtle is my real name. It’s just that no one knows that.”
 

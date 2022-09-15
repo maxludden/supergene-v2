@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## A Man Who Came From Hell
-### Chapter 3229 
+### Chapter 3229
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Exquisite sighed and said, “I have still been unsuccessful with Very High Forget Love.”
+Exquisite sighed and said, “I have still been unsuccessful with Very High Forget Love.”
 
 “Auntie Exquisite, do you know this man?” The Very High young man guard looked at Exquisite strangely.
 
@@ -63,9 +64,7 @@ Tang Zhenliu came running out with a hearty laugh. “Holy shit! Old Han, are yo
 
 “Mister Dollar, you are back.” Finally, someone shouted Dollar’s name.
 
-Upon hearing that, Yu Wu Shuang was stunned into submission. “Mister Dollar… He is Han Sen, the man who saved the world. He is the master of Space Garden. I thought he died. Can creatures really come back from
-
-hell?”
+Upon hearing that, Yu Wu Shuang was stunned into submission. “Mister Dollar… He is Han Sen, the man who saved the world. He is the master of Space Garden. I thought he died. Can creatures really come back from hell?”
 
 The whole of Space Garden was bubbling like boiling water. The news spread all over the Very High. Some of the high races quickly received the news about the man who came back from hell.
 

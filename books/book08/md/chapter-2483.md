@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## The Name Heard Across the Universe
-### Chapter 2483 
+### Chapter 2483
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  That fight was destined to become a legend in the geno universe. Before the day was out, the battle was being discussed across the universe.
+That fight was destined to become a legend in the geno universe. Before the day was out, the battle was being discussed across the universe.
 
 It was amazing that Lando had defeated and tamed the Tianxia Unicorn, but Han Sen’s actions had stolen the show. Han Sen had somehow turned Lando into a deified mid-fight.
 

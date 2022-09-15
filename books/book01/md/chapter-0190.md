@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## An Invite From Martial Arts Society
-### Chapter 190 
+### Chapter 190
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  "Do not cry. I am fine. I hunted some other creatures on the way and it took some time. Sorry to make you worry." Han Sen patted Wang Mengmeng who were in tears his arms.
+"Do not cry. I am fine. I hunted some other creatures on the way and it took some time. Sorry to make you worry." Han Sen patted Wang Mengmeng who were in tears his arms.
 
 "Brother Han, you scared me," said Wang Mengmeng choking, her eyes watery.
 

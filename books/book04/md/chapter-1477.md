@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Meeting Six Paths Again
-### Chapter 1477 
+### Chapter 1477
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  After listening to that sound, Han Sen’s face changed. It wasn’t music played by a piano; it was the sound of a sword that was reminiscent of one.
+After listening to that sound, Han Sen’s face changed. It wasn’t music played by a piano; it was the sound of a sword that was reminiscent of one.
 
 Han Sen looked in the direction that the sound was coming from, and he felt a powerful force. Someone seemed to be fighting there. After a while, Han Sen decided to mask his presence and sneak over there to see who was in combat.
 

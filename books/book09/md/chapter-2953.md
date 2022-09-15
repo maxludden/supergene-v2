@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Father and Daughter Fighting Three Brutal Beasts
-### Chapter 2953 
+### Chapter 2953
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The time area was unable to stall them for very long. Their powers still tried to strike them in the end.
+The time area was unable to stall them for very long. Their powers still tried to strike them in the end.
 
 “Bao’er, take it!” Han Sen threw the Nine-Spin Destiny Mirror to Bao’er. He took out his cause karma knife. He threw it in the air and used his mouth to bite the cause karma knife.
 

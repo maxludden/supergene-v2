@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Striking Ghost-sword
-### Chapter 1029 
+### Chapter 1029
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen wished to spar with Ghost-Sword Prince for a while longer, but the snake had commanded his troops to commence an attack on the shelter.
+Han Sen wished to spar with Ghost-Sword Prince for a while longer, but the snake had commanded his troops to commence an attack on the shelter.
 
 Han Sen opened his eighth gene lock, which made Taia gleam with a dark purple light and look like calcified blood.
 

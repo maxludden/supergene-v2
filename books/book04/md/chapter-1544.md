@@ -1,19 +1,20 @@
-Title:Why Didn’t They Level Up 
+Title:Why Didn't They Level Up 
 Chapter:1544 
 Section:4 
 Book:4 
 CSS:../Styles/style.css 
 viewport: width=device-width
   
-## Why Didn’t They Level Up
-### Chapter 1544 
+## Why Didn't They Level Up
+### Chapter 1544
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  After leveling up, Queen didn’t walk any further. She said, “My fitness isn’t good enough to proceed. I won’t bother trying to go any further, and I’ll simply wait for you guys here.”
+After leveling up, Queen didn’t walk any further. She said, “My fitness isn’t good enough to proceed. I won’t bother trying to go any further, and I’ll simply wait for you guys here.”
 
 Han Sen could see she was actually able to go forward a little bit more, but chose not to. Han Sen really admired her character, and he imagined Queen’s Heavenly Go must have been fiercer than ever by now.
 

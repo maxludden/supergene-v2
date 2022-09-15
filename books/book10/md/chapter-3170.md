@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Zhong Miao Yin
-### Chapter 3170 
+### Chapter 3170
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  When Han Sen won, Feng Yin Yin and Bao’er had already achieved victories of their own and returned. They had easily crushed their opponents.
+When Han Sen won, Feng Yin Yin and Bao’er had already achieved victories of their own and returned. They had easily crushed their opponents.
 
 Feng Yin Yin was delighted, but Bao’er was upset. “I couldn’t go in and play. It was so lame.”
 

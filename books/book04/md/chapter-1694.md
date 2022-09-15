@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Dollar Appears Again
-### Chapter 1694 
+### Chapter 1694
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  A humanoid creature that looked like Black God approached, carrying a demonic presence. A black hand covered the sky, crashing down on the area like a mountain. Xie Qing King had to dodge it.
+A humanoid creature that looked like Black God approached, carrying a demonic presence. A black hand covered the sky, crashing down on the area like a mountain. Xie Qing King had to dodge it.
 
 “Father!” Black God looked delighted.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Killing
-### Chapter 1692 
+### Chapter 1692
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Every punch Han Sen delivered to the Feather was extremely hard, making the being bleed profusely.
+Every punch Han Sen delivered to the Feather was extremely hard, making the being bleed profusely.
 
 The Feather’s speed and strength were no worse than Han Sen’s, but its experience and skill were considerably lacking.
 

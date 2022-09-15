@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Underground River
-### Chapter 21 
+### Chapter 21
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  In addition to Han Sen, Son of Heaven and his gang were also joined by a few thugs they paid to come along. The group left Steel Armor Shelter and marched into the mountains.
+In addition to Han Sen, Son of Heaven and his gang were also joined by a few thugs they paid to come along. The group left Steel Armor Shelter and marched into the mountains.
 
 Although they expected nothing good to happen, they still wanted to take the chance for the sake of the generous reward.
 

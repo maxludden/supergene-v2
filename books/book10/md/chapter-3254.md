@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Life Soul
-### Chapter 3254 
+### Chapter 3254
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “Who are you?” Both of Chu Yuan’s hands were gone. His eyes were blood-red as they peered at Han Sen.
+“Who are you?” Both of Chu Yuan’s hands were gone. His eyes were blood-red as they peered at Han Sen.
 
 “I am just the father of a child,” Han Sen coldly said.
 

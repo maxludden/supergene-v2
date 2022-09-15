@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## God’s Curse
-### Chapter 2753 
+### Chapter 2753
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “We need to go see the leader at once. Bring your coral with us.”
+“We need to go see the leader at once. Bring your coral with us.”
 
 Han Sen and Exquisite were shocked. Uncle Nine’s Very High Sense was at a very high level, so the chances of him getting emotional were very low.
 

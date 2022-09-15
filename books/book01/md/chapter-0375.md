@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Han Sen’s Guess
-### Chapter 375 
+### Chapter 375
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Ning Yue was quite a talker and always knew the right thing to say. He would never make people feel awkward or stressed.
+Ning Yue was quite a talker and always knew the right thing to say. He would never make people feel awkward or stressed.
 
 Initially, Han Sen thought it would not be easy for him to leave the place. At least, Ning Yue would not let him go easily. However, Ning Yue simply talked to him for a while before sending him back, without any intention to probe. It turned out to be a quite pleasing conversation.
 

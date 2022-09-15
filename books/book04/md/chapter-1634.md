@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Useless Falsified-sky Power
-### Chapter 1634 
+### Chapter 1634
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Everyone’s focus was on Han Sen. They knew watching Jade Shura was pointless. Falsified-Sky power was invisible anyway, and if they watched her, they wouldn’t see how the attack killed him.
+Everyone’s focus was on Han Sen. They knew watching Jade Shura was pointless. Falsified-Sky power was invisible anyway, and if they watched her, they wouldn’t see how the attack killed him.
 
 “Is Dollar playing around? This is Falsified-Sky power he’s up against!” Tang Zhenliu’s hands were getting sweaty. He wasn’t related to the Luo family, and it was a shura using that power. He earnestly hoped Dollar would win. Nobody replied to him, because they didn’t know the answer, either. Everyone was intensely focused on Dollar.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Shell King
-### Chapter 1452 
+### Chapter 1452
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  There was a wall behind Han Sen that was a few hundred meters long. And suddenly, a large crack had developed horizontally across it. It was like a crevice to hell, and a red light bled out from its opening, as if it was ready to swallow all that gazed upon it.
+There was a wall behind Han Sen that was a few hundred meters long. And suddenly, a large crack had developed horizontally across it. It was like a crevice to hell, and a red light bled out from its opening, as if it was ready to swallow all that gazed upon it.
 
 The wall was a giant Stoneshell, and the mini Stoneshells Han Sen had previously been dealing with were all fixed to its body.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Encountering the Black Hole Spider Again
-### Chapter 2506 
+### Chapter 2506
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “I don’t know… I have only heard about it. If this really is the Shield of the Medusa’s Gaze, then her eyes ought to be able to open. The legends say that if she opens her eyes, even a god would cry. But it has been too long… Many people have heard the legend, but anyone who might have looked on the Shield of the Medusa’s Gaze is probably dead by now. Only an immortal could confirm the validity of this thing. Even in the Thousand Treasures Alliance, I am afraid only a few elders might be able to confirm its identity,” Fang Qing Yu said.
+“I don’t know… I have only heard about it. If this really is the Shield of the Medusa’s Gaze, then her eyes ought to be able to open. The legends say that if she opens her eyes, even a god would cry. But it has been too long… Many people have heard the legend, but anyone who might have looked on the Shield of the Medusa’s Gaze is probably dead by now. Only an immortal could confirm the validity of this thing. Even in the Thousand Treasures Alliance, I am afraid only a few elders might be able to confirm its identity,” Fang Qing Yu said.
 
 Han Sen frowned. If this was the Shield of the Medusa’s Gaze, the Extreme King must have seen him retrieve it.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Devil-blood
-### Chapter 849 
+### Chapter 849
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Through the use of his dongxuan aura, Han Sen was able to predict every single movement of the red-maned lion, the big-mawed beast, the black bat, and the scimitar-witch.
+Through the use of his dongxuan aura, Han Sen was able to predict every single movement of the red-maned lion, the big-mawed beast, the black bat, and the scimitar-witch.
 
 Every time they attacked, every time they turned, every twitch of muscle; it was all foreseen by Han Sen. He orchestrated each of their movements, unbeknownst to them. With everything going to plan exactly as he wished, he was feeling very good.
 

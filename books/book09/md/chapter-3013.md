@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Doesn't Know
-### Chapter 3013 
+### Chapter 3013
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen was shocked. Han Jinzhi had him seek out Han Yufei, but Han Yufei did not know who Han Jinzhi was. That was quite a weird twist. “You don’t know a Han Jinzhi? He is an old man, and something of a fortune teller. He has double-eyelids above long and narrow eyes.” Han Sen described Han Jinzhi’s appearance. Han Yufei shook her head. “You know that I was trapped in Two Worlds Mountain. Unless he is someone from Sacred era, how am I supposed to know who he is?”.
+Han Sen was shocked. Han Jinzhi had him seek out Han Yufei, but Han Yufei did not know who Han Jinzhi was. That was quite a weird twist. “You don’t know a Han Jinzhi? He is an old man, and something of a fortune teller. He has double-eyelids above long and narrow eyes.” Han Sen described Han Jinzhi’s appearance. Han Yufei shook her head. “You know that I was trapped in Two Worlds Mountain. Unless he is someone from Sacred era, how am I supposed to know who he is?”.
 
 Han Sen was shocked. He thought, “Yes. Han Jinzhi is not so old. He might be old for humans, but before someone like Han Yufei, he is less than a few years old. How could he know who Han Yufei was?”
 

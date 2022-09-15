@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Archery Master
-### Chapter 36 
+### Chapter 36
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  "Yuan, you can let us go, but according to our contract, this is a breach. You will have to pay us the rest of the money," sneered Liu Feng.
+"Yuan, you can let us go, but according to our contract, this is a breach. You will have to pay us the rest of the money," sneered Liu Feng.
 
 "Just go." Yuan threw a few stacks of money at them and didn’t look at them again.
 

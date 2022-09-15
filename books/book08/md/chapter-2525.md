@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Cutting Cucumbers and Slicing Vegetables
-### Chapter 2525 
+### Chapter 2525
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “Lady, why are those two words written on your back?” Little Butterfly asked with curiosity.
+“Lady, why are those two words written on your back?” Little Butterfly asked with curiosity.
 
 Li Keer nibbled her lips as her face flushed. After a while, she released a burst of laughter, then suddenly grew strangely serious. “Dollar is good. He can mask his actions from my Very High Sense.”
 

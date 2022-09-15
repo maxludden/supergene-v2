@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Who Is Evil?
-### Chapter 3307 
+### Chapter 3307
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The four-taloned, evil bird’s face twisted grotesquely. Afterward, its body instantly exploded. It turned into a bloody mist that went everywhere.
+The four-taloned, evil bird’s face twisted grotesquely. Afterward, its body instantly exploded. It turned into a bloody mist that went everywhere.
 
 Moment God did not stop. Time all around her crawled to a standstill. She stepped out from the other side of the system. Another Break World creature was destroying things there.
 

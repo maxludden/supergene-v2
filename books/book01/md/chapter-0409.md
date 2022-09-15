@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Not Interested
-### Chapter 409 
+### Chapter 409
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Being able to be instructed by Jia Sidao himself was the dream of many among the celebrities and aristocrats. However, Han Sen was not really interested in it.
+Being able to be instructed by Jia Sidao himself was the dream of many among the celebrities and aristocrats. However, Han Sen was not really interested in it.
 
 If it was before, Han Sen would consider it. Jia Sidao was a demigod after all, and Iron Fist was one of the most well-known hyper geno arts.
 

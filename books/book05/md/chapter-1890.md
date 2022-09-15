@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Returning to the Red Mist Valley
-### Chapter 1890 
+### Chapter 1890
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen thought about it, though, and he decided that the bike was probably quite suitable for someone like Wang Yuhang. If the man could use it to escape things chasing him, then it would be useful enough. Perhaps when the armament evolved some more, it would develop other abilities.
+Han Sen thought about it, though, and he decided that the bike was probably quite suitable for someone like Wang Yuhang. If the man could use it to escape things chasing him, then it would be useful enough. Perhaps when the armament evolved some more, it would develop other abilities.
 
 Yisha learned nothing from her trip to Planet Crooked Rock. All the factions were now in search of Purgatory Heaven, but no one had turned up any leads yet.
 

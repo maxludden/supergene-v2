@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Tornado Wolf
-### Chapter 315 
+### Chapter 315
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The second day he spent in Dark Swamp, Han Sen saw from afar that an island was floating in the sky. He was suddenly thrilled and thought, there is a Mystery Island in Dark Swamp!
+The second day he spent in Dark Swamp, Han Sen saw from afar that an island was floating in the sky. He was suddenly thrilled and thought, there is a Mystery Island in Dark Swamp!
 
 A Mystery Island meant a sacred-blood beast soul. In the past, Han Sen needed a sacred-blood ghost butterfly boomerang to kill the holy angel, but now he no longer needed that. In the entire First God’s Sanctuary, there was hardly any sacred-blood creature that he could not kill.
 

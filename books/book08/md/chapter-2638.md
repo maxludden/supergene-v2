@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Demon Abyss Beast King
-### Chapter 2638 
+### Chapter 2638
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “Mr. Zuo Yu, Yu Kun asked Han Sen to kill the Demon Abyss Beast King for him. They are going to the Demon Abyss.” In the hall, a Sky Palace student was talking to a Sky man in black armor. He had grey hair
+“Mr. Zuo Yu, Yu Kun asked Han Sen to kill the Demon Abyss Beast King for him. They are going to the Demon Abyss.” In the hall, a Sky Palace student was talking to a Sky man in black armor. He had grey hair
 
 “Yu Kun has practiced the Deep Abyss Demon Spell. If he gets the Demon Abyss Beast King’s deified gene, he can become deified. But the fact that he has managed to secure Han Sen’s assistance is surprising,” Zuo Yu said emotionlessly.
 

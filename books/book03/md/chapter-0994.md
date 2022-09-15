@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Ancient Demon Emperor Tree
-### Chapter 994 
+### Chapter 994
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Dragon King had been returned to the ring by Han Sen. When Demon Emperor entered the Fourth God’s Sanctuary, not a single sanctuary had been discovered by humans yet.
+Dragon King had been returned to the ring by Han Sen. When Demon Emperor entered the Fourth God’s Sanctuary, not a single sanctuary had been discovered by humans yet.
 
 When he was about to enter the Fourth God’s Sanctuary, his equipment became useless, so he gave all of it to his subordinates.
 

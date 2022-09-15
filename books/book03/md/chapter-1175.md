@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Mystic Paper
-### Chapter 1175 
+### Chapter 1175
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “Life Geno Essence absorbed: super geno points +1.”
+“Life Geno Essence absorbed: super geno points +1.”
 
 A little while later, Han Sen was able to gain a super geno point. It made him very pleased.
 

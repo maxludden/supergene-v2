@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Sheep Jade Body
-### Chapter 3330 
+### Chapter 3330
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “That’s a very powerful body…” Han Sen was very happy.
+“That’s a very powerful body…” Han Sen was very happy.
 
 It was not as if Han Sen had found a way to analyze the sheep’s body. It was just that because the body was so perfect, the Break World rate was probably 95%.
 

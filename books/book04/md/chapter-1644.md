@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Real Blood Promotion
-### Chapter 1644 
+### Chapter 1644
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The Armored Man stared at Destiny Tower, and the flame of the body erupted like a volcano, and the aura he exuded became unimaginable.
+The Armored Man stared at Destiny Tower, and the flame of the body erupted like a volcano, and the aura he exuded became unimaginable.
 
 “The Armored Man is trying to kill Dollar directly. His power is so horrible when he gathers it like this. It seems that he’s gathering more power than he used to defeat Gu Qingcheng.”
 

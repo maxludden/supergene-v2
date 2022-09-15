@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## My Opponent Isn“t a Student
-### Chapter 2267 
+### Chapter 2267
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen jumped onto the blood kirin’s back. Then, the blood kirin roared and flew towards Ice Blue Knight King and the others.
+Han Sen jumped onto the blood kirin’s back. Then, the blood kirin roared and flew towards Ice Blue Knight King and the others.
 
 “Ignore those other guys and kill him first,” Han Sen instructed, thrusting his Thunder God Spike toward Ice Blue Knight King.
 

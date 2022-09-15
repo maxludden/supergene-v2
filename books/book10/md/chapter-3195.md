@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Soldier Weapon Sky
-### Chapter 3195 
+### Chapter 3195
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Even the universe’s buffer zones were places ordinary people could not go.
+Even the universe’s buffer zones were places ordinary people could not go.
 
 Han Sen used Break World powers at a spot God Hall Leader told him to go to gain access. When he did as he was instructed, he created a space tunnel. He then took many people inside.
 
@@ -31,9 +32,7 @@ Thousand Mile Reach said, “Thirty-Three Days is better than the universe becau
 
 “It is not that easy,” Thousand Mile Reach said. “Let’s not mention the fact that ordinary people can’t enter the Solder Knife Sky realm, but even if they could, they could only take a weapon one by one. If we force them out, most of them will become dust. You cannot take them all. Plus, some of these weapons have scary existences. Their powers can be scarier than those of a God Spirit. Even if you could take them back, if you shock them, you might not stay alive to even start doing that.” “Does that mean these weapons are actually gene races?” Han Sen asked.
 
-“You might say that, but these weapons are different from ordinary gene races,” Thousand Mile Reach said after a brief think. “For starters, they are not in egg mode. They cannot have a God Spirit mark. They are only half weapons and half gene races, so they cannot move by themselves. Even while they are asleep, they will only wake up when pulled
-
-out.11
+“You might say that, but these weapons are different from ordinary gene races,” Thousand Mile Reach said after a brief think. “For starters, they are not in egg mode. They cannot have a God Spirit mark. They are only half weapons and half gene races, so they cannot move by themselves. Even while they are asleep, they will only wake up when pulled out.
 
 “If I can pull out a weapon that is as good as a God Spirit, does that mean we can have a god weapon?” Qin Bai was showing a lot of interest. He looked at the weapons around him. He seemed to really want to give it a go.
 

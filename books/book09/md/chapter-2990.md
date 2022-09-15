@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Love Killing Pigs
-### Chapter 2990 
+### Chapter 2990
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Pang!
+Pang!
 
 Han Sen’s body was like a sponge being squeezed by the young man’s hand. Suddenly, another version of his body appeared behind the young man.
 

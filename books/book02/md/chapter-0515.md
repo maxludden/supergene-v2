@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Dollar Would Be Better
-### Chapter 515 
+### Chapter 515
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  "How long have you spent in God's Sanctuary?" Yi Dongmu asked Han Sen.
+"How long have you spent in God's Sanctuary?" Yi Dongmu asked Han Sen.
 
 "Not long, just a few days." Han Sen said.
 

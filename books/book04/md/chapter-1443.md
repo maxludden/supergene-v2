@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## The Most Delicious Food
-### Chapter 1443 
+### Chapter 1443
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  It wasn’t just physical attacks he had to deal with; Han Sen had to battle within the mindscape. There was no skill involved there.
+It wasn’t just physical attacks he had to deal with; Han Sen had to battle within the mindscape. There was no skill involved there.
 
 You could lie to others about the power you possessed, but you could never truly lie to yourself. If Han Sen’s mind was weak, his nemesis would not have to exert effort in trying to kill him. If Han Sen was weak, Six Paths could just ask Han Sen to kill himself and he’d do what was bidden.
 

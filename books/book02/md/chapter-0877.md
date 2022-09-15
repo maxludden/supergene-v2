@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Thunder Beasts Fight
-### Chapter 877 
+### Chapter 877
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  On the thunder-wreathed mountaintop rested a silver-thunder flower, and in its center, the bud flickered with gold electricity.
+On the thunder-wreathed mountaintop rested a silver-thunder flower, and in its center, the bud flickered with gold electricity.
 
 Near the thunder flower were two super creatures locked in combat with each other.
 

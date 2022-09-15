@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Endless Sky Path
-### Chapter 2138 
+### Chapter 2138
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen felt the purple godlight wrap around him. He was restricted, and just like before, he was unable to move a muscle. Since Lone Bamboo was using the godlight as a Marquise, Han Sen doubted that he would be able to last very long.
+Han Sen felt the purple godlight wrap around him. He was restricted, and just like before, he was unable to move a muscle. Since Lone Bamboo was using the godlight as a Marquise, Han Sen doubted that he would be able to last very long.
 
 But if Lone Bamboo could keep it up for even just a second, that would be enough time for him to defeat Han Sen with a single attack.
 

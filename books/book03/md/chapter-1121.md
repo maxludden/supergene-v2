@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Forest of a Thousand Insects
-### Chapter 1121 
+### Chapter 1121
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  "In the future?" Han Sen was surprised, and it seemed as if Bao'er wanted that vine even more than he had thought.
+"In the future?" Han Sen was surprised, and it seemed as if Bao'er wanted that vine even more than he had thought.
 
 Considering her words, he decided against finishing off the fish king. Killing super creatures was no longer a monumental task for Han Sen, so it was worth putting this one aside if it meant keeping Bao'er happy.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Honest Cow-headed Monster
-### Chapter 2710 
+### Chapter 2710
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “You see, we are not your sacrifice, and yet you are asking us to give you something valuable. That is simply not appropriate.” Han Sen could see that the bull monster’s intelligence wasn’t very high, and he could tell that the creature was afraid of the Shield of the Medusa’s Gaze. So, he stopped playing nice.
+“You see, we are not your sacrifice, and yet you are asking us to give you something valuable. That is simply not appropriate.” Han Sen could see that the bull monster’s intelligence wasn’t very high, and he could tell that the creature was afraid of the Shield of the Medusa’s Gaze. So, he stopped playing nice.
 
 When it heard what Han Sen said, the bull monster started to get angry. Before it could react, though, Han Sen continued. “How about this: we’ll make a wager. If you win, I will give you the shield as a sacrifice.”
 

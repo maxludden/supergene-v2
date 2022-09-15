@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Weird Girl
-### Chapter 2434 
+### Chapter 2434
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen felt something very powerful coming his way. His body leaned back reflexively, trying to get away from it. The blonde girl leaped on top of him.
+Han Sen felt something very powerful coming his way. His body leaned back reflexively, trying to get away from it. The blonde girl leaped on top of him.
 
 Miss Mirror didn’t move as the girl jumped and wrapped her arms around Han Sen’s neck, her weight slamming into his chest and taking him to the ground. They both became entangled, just as the fifth picture on the screen had shown.
 

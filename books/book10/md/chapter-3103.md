@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Cast God Court
-### Chapter 3103 
+### Chapter 3103
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  At long last, he had had the chance to see the complete gold lightning mark. He now knew the lightning’s language was Cast God Court.
+At long last, he had had the chance to see the complete gold lightning mark. He now knew the lightning’s language was Cast God Court.
 
 When he looked further down, Han Sen felt rather strange. The Cast God Court detailed how to create a god. It was not about turning oneself into a God Spirit. It was about turning a gene race into a God Spirit.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Jadeskin
-### Chapter 13 
+### Chapter 13
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  While Xue Longyan was struggling to kick Han Sen, the latter ignored him and rammed his face with the cow head. It didn’t take long before Xue Longyan’s body went limp. When Han Sen finally calmed down, he was already dead, with his face smashed in like a hunk of meat.
+While Xue Longyan was struggling to kick Han Sen, the latter ignored him and rammed his face with the cow head. It didn’t take long before Xue Longyan’s body went limp. When Han Sen finally calmed down, he was already dead, with his face smashed in like a hunk of meat.
 
 With the body of a bloody slayer and sacred-blood beast soul armor, even those who practiced hyper geno arts couldn’t resist such brutal impact.
 

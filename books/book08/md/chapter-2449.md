@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Demon Spirit
-### Chapter 2449 
+### Chapter 2449
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The giant black beetle flew at high speed toward the last location shown in the video. When they arrived, they found many cloud beasts in the midst of battle. But because they were surrounded by so many clouds, they could only catch occasional glimpses of the battleground.
+The giant black beetle flew at high speed toward the last location shown in the video. When they arrived, they found many cloud beasts in the midst of battle. But because they were surrounded by so many clouds, they could only catch occasional glimpses of the battleground.
 
 Bao Qin ordered the black beetle to be brought to a stop, then turned back to the old butler. “Let’s not get too close to the battleground. Before we enter, we should send someone in to scout.”
 

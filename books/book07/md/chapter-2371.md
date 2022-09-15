@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Taking the Treasure
-### Chapter 2371 
+### Chapter 2371
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Lan Haixin turned around and looked at the old Siren woman. Clearly, she had never seen the relic before either.
+Lan Haixin turned around and looked at the old Siren woman. Clearly, she had never seen the relic before either.
 
 The old Siren woman quickly said, “You don’t have to worry, My Prince. This is the relic of our race, the Siren Bottle. The holy bottle comes from a barren era. It was crafted from the materials harvested from ancient deified xenogeneic creatures. It cannot be faked. Plus, only the Siren’s holy virgin blood can activate it. Check it out and you will see that it is real.”
 

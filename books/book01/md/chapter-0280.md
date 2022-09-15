@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## White Jade Skeleton
-### Chapter 280 
+### Chapter 280
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Bang!
+Bang!
 
 The green gold was not a tough material and only 1 inch thick. With Han Sen's strike, a six-foot-tall 1-foot-wide opening suddenly appeared.
 

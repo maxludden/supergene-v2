@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Big Reward
-### Chapter 724 
+### Chapter 724
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen looked at the bell once more and then walked near the corpse of the blood centipede. When Han Sen touched it with a bit of strength, it crumbled into dust.
+Han Sen looked at the bell once more and then walked near the corpse of the blood centipede. When Han Sen touched it with a bit of strength, it crumbled into dust.
 
 "This blood centipede's essence has been drained by the bell." Han Sen was surprised.
 

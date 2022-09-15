@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Like the Tutorial
-### Chapter 449 
+### Chapter 449
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Just a dozen seconds later, almost every soldier widened their eyes.
+Just a dozen seconds later, almost every soldier widened their eyes.
 
 Han Sen was jumping up and down on the carefully placed metal walls, fast and steady. He managed to fulfill many actions that looked extremely scary flawlessly with a sense of rhythm. As he stepped on the leaning or reversed metal walls, he was so smooth that people almost forgot that it was Sprint at level 10.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## East King Garden
-### Chapter 2814 
+### Chapter 2814
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Second Uncle looked up at the man, who looked like a god, and thought of something. His eyes started to narrow. "Do you come from the god hall?" He looked at the man with a moderate amount of fear as he spoke.
+Second Uncle looked up at the man, who looked like a god, and thought of something. His eyes started to narrow. "Do you come from the god hall?" He looked at the man with a moderate amount of fear as he spoke.
 
 "You have a little knowledge," the young man coldly said. He removed his hand from Second Uncle's head.
 

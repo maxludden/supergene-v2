@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Marriage
-### Chapter 1081 
+### Chapter 1081
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Ji Ruozhen brought in a few demigods to check out Han Sen and evaluate whether or not there was something they could do for him, but nothing worthwhile came from their observations. The crystals were firmly lodged in his body and had become a part of him. The demigods were strong, and even though they could have broken the crystals, destroying them would mean destroying the organs. And destroying the organs would mean killing Han Sen.
+Ji Ruozhen brought in a few demigods to check out Han Sen and evaluate whether or not there was something they could do for him, but nothing worthwhile came from their observations. The crystals were firmly lodged in his body and had become a part of him. The demigods were strong, and even though they could have broken the crystals, destroying them would mean destroying the organs. And destroying the organs would mean killing Han Sen.
 
 A few days later, a middle-aged man came to see Han Sen with Ji Yanwu.
 

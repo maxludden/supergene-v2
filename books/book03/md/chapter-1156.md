@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Empress Coin
-### Chapter 1156 
+### Chapter 1156
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Dragon King examined the coin, and after a while, he tossed it back to Han Sen.
+Dragon King examined the coin, and after a while, he tossed it back to Han Sen.
 
 “What is it? Say something, would you?” Han Sen frowned.
 

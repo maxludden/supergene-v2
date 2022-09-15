@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## The King's Declaration
-### Chapter 709 
+### Chapter 709
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  In addition to his supreme fitness level, Han Sen wore berserk super armor. He also simulated the cub's energy flow to make his body not far-off the strength of obsidian. That was how he managed to shrug off Queen's attacks.
+In addition to his supreme fitness level, Han Sen wore berserk super armor. He also simulated the cub's energy flow to make his body not far-off the strength of obsidian. That was how he managed to shrug off Queen's attacks.
 
 If he had not simulated that energy, the armor itself would not have been enough. After all, Queen knew how to make use of Yin Force, and no armor could withstand all that power.
 

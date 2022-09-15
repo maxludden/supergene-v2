@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Martial Ring
-### Chapter 73 
+### Chapter 73
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen returned to Steel Armor Shelter, expecting trouble from Qin Xuan as he had disappeared for so many days. However, he did not see Qin Xuan at all.
+Han Sen returned to Steel Armor Shelter, expecting trouble from Qin Xuan as he had disappeared for so many days. However, he did not see Qin Xuan at all.
 
 Not just Qin Xuan, there was almost no one on the streets. The entire Steel Armor Shelter seemed empty.
 

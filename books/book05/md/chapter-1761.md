@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Roar
-### Chapter 1761 
+### Chapter 1761
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen had managed to put away some savings, and so he decided to buy a house for himself in the south.
+Han Sen had managed to put away some savings, and so he decided to buy a house for himself in the south.
 
 It was in a slum, and there were many hobos and creatures living there. This was what Han Sen needed. A place where it wasn’t strange to have other creatures appear.
 

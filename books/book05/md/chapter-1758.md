@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Archangel Bone Arrow
-### Chapter 1758 
+### Chapter 1758
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Lone Wolf was a Baron xenogeneic, and he was in the top tier of his class. Lone Wolf thought little of Han Sen, who he believed to be an ordinary person with only geno armor. Geno armor that he was prohibited from wearing, too.
+Lone Wolf was a Baron xenogeneic, and he was in the top tier of his class. Lone Wolf thought little of Han Sen, who he believed to be an ordinary person with only geno armor. Geno armor that he was prohibited from wearing, too.
 
 After Lone Wolf used his xenogeneic genes, he was incredibly swift. He leaped right in front of Han Sen with the plan of ripping through his neck. But suddenly, Han Sen tripped over a dead body and evaded the attack through pure luck.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Deified Fight
-### Chapter 2285 
+### Chapter 2285
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “That guy seemed very spirited… What would make him run away in such a hurry?” Han Sen looked at Yisha with confusion.
+“That guy seemed very spirited… What would make him run away in such a hurry?” Han Sen looked at Yisha with confusion.
 
 Yisha sighed and said, “Maybe its power takes a long time to regenerate. That strike he unleashed might have cost him most of the power he had gathered.”
 

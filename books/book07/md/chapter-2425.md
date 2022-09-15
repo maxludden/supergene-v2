@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Broken City
-### Chapter 2425 
+### Chapter 2425
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “We can’t get into the city. Talking about it is useless,” Han Sen said, looking at the undamaged city door.
+“We can’t get into the city. Talking about it is useless,” Han Sen said, looking at the undamaged city door.
 
 Night Wind’s power was strong, and it far exceeded Han Sen’s capabilities. Han Sen didn’t stand a chance of opening Du God City’s door if Night Wind had failed, and Miss Mirror had fallen to King class. They really didn’t seem to have any options.
 

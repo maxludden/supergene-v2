@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Blood Dragon God Pulse
-### Chapter 3085 
+### Chapter 3085
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  A burning power surged through Han Sen’s body. It made the heat in his body rise. It was like the last purple light of a setting sun.
+A burning power surged through Han Sen’s body. It made the heat in his body rise. It was like the last purple light of a setting sun.
 
 “This power… It seems to be changing my body’s genes…” Han Sen felt like the cells of his body were being invaded by the heat. It seemed as if he was undergoing some strange changes.
 
@@ -26,12 +27,10 @@ He checked out his information and discovered that there was an option called Go
 <div class="tables">
     <table class="beast">
         <tr>
-            <th colspan="2">Gene Race</th>
+            <th>God Spirit Blood-Pulse</th>
         </tr><tr>
-            <td>Destroyed God Class</td>
-            <td>Blood Dragon God</td>
-        </tr><tr>
-            <th colspan="2" class="note">Note: Juvenile</th>
+            <td>Destroyed God Class<br>
+            <span class="type">(Blood Dragon God)</td>
         </tr>
     </table>
 <!--Blood dragon god: Destroyed class God Spirit Blood-Pulse.-->

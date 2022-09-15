@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Copper Fruit
-### Chapter 895 
+### Chapter 895
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen wished to explain, but Qu Lanxi had already left the house and headed into the garden to catch up with Chu Ming.
+Han Sen wished to explain, but Qu Lanxi had already left the house and headed into the garden to catch up with Chu Ming.
 
 Han Sen merely shook his head and started eating the meat by himself.
 

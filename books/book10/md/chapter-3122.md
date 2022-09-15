@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Lawbreaker
-### Chapter 3122 
+### Chapter 3122
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “Are you really the creator of the Cold Sutra. Are you Moon God? Hang on… Did you mention the Witch? That must mean you are from the geno universe… Wait, no… That can’t be it because you aren’t restricted by the powers of this world…” Han Sen looked at the white-clothed woman in shock. His mind was racing for answers.
+“Are you really the creator of the Cold Sutra. Are you Moon God? Hang on… Did you mention the Witch? That must mean you are from the geno universe… Wait, no… That can’t be it because you aren’t restricted by the powers of this world…” Han Sen looked at the white-clothed woman in shock. His mind was racing for answers.
 
 The woman did not answer him. She reached out her hand and pointed at Han Sen. This time, her presence changed. Two different powers were gathering in her fingers. It made the hairs on the back of Han Sen’s neck stand.
 
@@ -37,11 +38,9 @@ The two of them got away. They saw the God Spirit approach with a terrifying pre
 
 Without pausing, the God Spirit broke space and departed. He simply disappeared.
 
-Night God No Moon landed on an isolated planet. Han Sen followed. She looked at him with interest and said, “I can’t believe that aside from Qin Xiu, there are other people able to travel between the two worlds. Who are
+Night God No Moon landed on an isolated planet. Han Sen followed. She looked at him with interest and said, “I can’t believe that aside from Qin Xiu, there are other people able to travel between the two worlds. Who are you?”
 
-you?”
-
-“I am Han Sen. I am a human. I am a good friend of the Witch Han Yufei. If you are one of the Witch, how did you end up here?” Han Sen namedropped Han Yufei.
+“I am Han Sen. I am a human. I am a good friend of the Witch Han Yufei. If you are one of the Witch, how did you end up here?” Han Sen name-dropped Han Yufei.
 
 Night God No Moon did not answer him. She just asked, “Was you Cold Sutra given to you by Han Yufei?”
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Power That Exceeds the Capabilities of Humanity
-### Chapter 1514 
+### Chapter 1514
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  While Shafei was shouting at Tina, Yi Dongmu’s eyes went cold. His speedy body suddenly unleashed an unbelievable power. It was like all the speed and power he could possibly possess was let out in a single moment.
+While Shafei was shouting at Tina, Yi Dongmu’s eyes went cold. His speedy body suddenly unleashed an unbelievable power. It was like all the speed and power he could possibly possess was let out in a single moment.
 
 Buzz!
 

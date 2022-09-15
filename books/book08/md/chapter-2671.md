@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Silkworm Bouts Begin
-### Chapter 2671 
+### Chapter 2671
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Li Keer and Han Sen reached the valley right before the silkworm fights were going to begin. When Exquisite saw them both heading toward her, she sighed in relief.
+Li Keer and Han Sen reached the valley right before the silkworm fights were going to begin. When Exquisite saw them both heading toward her, she sighed in relief.
 
 She expected Han Sen to lose at least one of his fights, but if he didn’t participate in the contest at all, the Very High would hate him even more.
 

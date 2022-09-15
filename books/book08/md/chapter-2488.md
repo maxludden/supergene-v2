@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Hunting Cloud Beasts
-### Chapter 2488 
+### Chapter 2488
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen fell back two steps in surprise. In the center of the spider plant, there was a white fire that was like a little lantern.
+Han Sen fell back two steps in surprise. In the center of the spider plant, there was a white fire that was like a little lantern.
 
 Han Sen looked close. In reality, it wasn’t a fire; it was a halo.
 

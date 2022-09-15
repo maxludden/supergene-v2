@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Drinking Spring Water
-### Chapter 1918 
+### Chapter 1918
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  
+
 
 Before they could do anything, Han Sen had already flown over towards the ball of light and grabbed it before it could explode. The red thing looked like a glob of jelly in Han Sen’s hand. Without a single mote of hesitation, Han Sen shoved it into his mouth and swallowed it.
 

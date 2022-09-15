@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Bully Annie
-### Chapter 518 
+### Chapter 518
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  "What do you want?" Annie thought Han Sen wanted her to suppress her strength to fight him.
+"What do you want?" Annie thought Han Sen wanted her to suppress her strength to fight him.
 
 Annie did not mind that. Even if she had to lower her strength, she believed she could beat Han Sen completely.
 

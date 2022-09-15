@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Disloyal Knight’s Coming
-### Chapter 1073 
+### Chapter 1073
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “A super creature?” Han Sen stood up and set himself ablaze with red fire. He spread his black raven wings and transformed into a gold raven. Then, he immediately flew towards the red Devil Fang.
+“A super creature?” Han Sen stood up and set himself ablaze with red fire. He spread his black raven wings and transformed into a gold raven. Then, he immediately flew towards the red Devil Fang.
 
 Pang!
 

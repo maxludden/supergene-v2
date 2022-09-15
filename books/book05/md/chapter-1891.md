@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Red Mist Mink
-### Chapter 1891 
+### Chapter 1891
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The little beast got hit, and it squealed in agony. It turned around and jumped towards Han Sen. Han Sen was very fast, and because his rabbit shoes were Duke class, he had Duke class speed to run with.
+The little beast got hit, and it squealed in agony. It turned around and jumped towards Han Sen. Han Sen was very fast, and because his rabbit shoes were Duke class, he had Duke class speed to run with.
 
 The beast was only Earl class, so it was much slower than Han Sen.
 

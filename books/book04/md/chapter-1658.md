@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## An Item With No Master
-### Chapter 1658 
+### Chapter 1658
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  All the elites outside the valley were now dead. Death Goddess, who had been wholly stained with blood, now raced into the valley. She joined in, helping Han Sen endlessly slay the elites with her arrows.
+All the elites outside the valley were now dead. Death Goddess, who had been wholly stained with blood, now raced into the valley. She joined in, helping Han Sen endlessly slay the elites with her arrows.
 
 The elders hadn’t expected a situation like this, and they all sounded furious over what was happening.
 

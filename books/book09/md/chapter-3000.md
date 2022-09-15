@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Blue Blood Appears
-### Chapter 3000 
+### Chapter 3000
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  While everyone was watching, a man and a woman approached Han Sen, who was still repeating his actions with the light scissors. He was unable to get out of it. He had no other choice.
+While everyone was watching, a man and a woman approached Han Sen, who was still repeating his actions with the light scissors. He was unable to get out of it. He had no other choice.
 
 “Who are these two guys?” Although Han Sen was stuck in a loop, his mind was not caught in the cycle. He was still lucid and aware. He felt weird as he watched the man and a woman walk in front of him.
 

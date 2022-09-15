@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## One Punch to Blow Up a God
-### Chapter 2405 
+### Chapter 2405
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen made this wish because he wanted to know which great-granddad Han Jinzhi actually was. If Han Jinzhi had been an ordinary man, then he would have already died and left the world. In that case, God wouldn’t be able to find out where he was. At most, God would track him back to a gravesite.
+Han Sen made this wish because he wanted to know which great-granddad Han Jinzhi actually was. If Han Jinzhi had been an ordinary man, then he would have already died and left the world. In that case, God wouldn’t be able to find out where he was. At most, God would track him back to a gravesite.
 
 If Han Sen’s great-granddad was actually the legendary figure he’d been told about, then Han Jinzhi had already escaped the powers of a God once. He must have been really powerful himself. This man who called himself God should have had a hard time finding someone like that.
 

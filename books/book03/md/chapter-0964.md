@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Ancient Hall
-### Chapter 964 
+### Chapter 964
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen returned from Han Lei's house with a box of items.
+Han Sen returned from Han Lei's house with a box of items.
 
 While Han Sen was there, his uncle repeatedly mentioned his debts. Han Sen eventually gave him some money.
 

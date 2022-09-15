@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Absorbing Ice Power
-### Chapter 575 
+### Chapter 575
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Xue Yi Kuang was like a demon. His eyes gleamed red and his body was wholly crystallized. The atmosphere around him swirled with a biting frost. Although it couldn't deal damage, if an ordinary person were to touch it, it would make them feel as if they were falling into an ice cave.
+Xue Yi Kuang was like a demon. His eyes gleamed red and his body was wholly crystallized. The atmosphere around him swirled with a biting frost. Although it couldn't deal damage, if an ordinary person were to touch it, it would make them feel as if they were falling into an ice cave.
 
 Han Sen used all of his power to run hisJadeskin skill, and it was only enough to repel the invasion of the frosty air that sought to consume him. He did not dare touch Xue Yi Kuang's actual body because his ice powers were simply too strong.
 

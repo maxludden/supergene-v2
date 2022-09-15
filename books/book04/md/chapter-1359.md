@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## The Freeze
-### Chapter 1359 
+### Chapter 1359
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen’s Jadeskin provided great cold resistance, but even he felt extremely chilly now.
+Han Sen’s Jadeskin provided great cold resistance, but even he felt extremely chilly now.
 
 Dragon Lady and the sheep were quivering and shivering due to the cold, prompting the former to light herself on fire. That helped her out a bit, but the gnaw of the ice was so strong and bitter, it couldn’t help shake the freeze.
 

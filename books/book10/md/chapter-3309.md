@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Evacuation
-### Chapter 3309 
+### Chapter 3309
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Knowing they were both OK, Han Sen flashed his body outside of the base.
+Knowing they were both OK, Han Sen flashed his body outside of the base.
 
 He saw a cow-headed monster with demonic wings on its back. It was attacking the base. Qin Xuan, Zero, Exquisite, and Moment Queen were attacking the monster that had the head of a cow.
 

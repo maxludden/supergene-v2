@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Knife Lock Dragon Nine
-### Chapter 2064 
+### Chapter 2064
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “How is that possible?” Xius was shocked.
+“How is that possible?” Xius was shocked.
 
 She had heard of Dragon Nine before, as his Blood Dragon Light was famous. The concentrated powers Dragon Nine wielded were likely the greatest out of all the Dragons in existence. When Dragon One was a Marquise, not even he was as mighty as Dragon Nine.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Almost Got Ruined
-### Chapter 1092 
+### Chapter 1092
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  When she saw Han Sen look at her like a hungry black eel, as if she was a whore, she was quickly infuriated.
+When she saw Han Sen look at her like a hungry black eel, as if she was a whore, she was quickly infuriated.
 
 If she did not need to find out whether or not Han Sen had indeed learned Jadeskin, she would have slapped him already.
 

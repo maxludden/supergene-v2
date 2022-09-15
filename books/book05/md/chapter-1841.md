@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Jadeskin Breakthrough
-### Chapter 1841 
+### Chapter 1841
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The women knew that if they wanted to live, they would have to work. So, they decided to listen to Han Sen and bring the kids who were old enough to work with them. They did things like housework and cooking.
+The women knew that if they wanted to live, they would have to work. So, they decided to listen to Han Sen and bring the kids who were old enough to work with them. They did things like housework and cooking.
 
 The Barons weren’t like that, of course. Many of them simply decided to observe, whereas others decided to leave the base. For what purposes, they weren’t sure.
 

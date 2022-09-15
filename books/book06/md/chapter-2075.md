@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Get Pregnant With Just a Rub?
-### Chapter 2075 
+### Chapter 2075
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Ice crystals kept spreading across the Blood Feather Knife, and it looked as if everything within the vacuumed container was going to freeze. The ice crystals grew, branching out like blood vessels. It was scary to watch.
+Ice crystals kept spreading across the Blood Feather Knife, and it looked as if everything within the vacuumed container was going to freeze. The ice crystals grew, branching out like blood vessels. It was scary to watch.
 
 “Yu Shanxin must be half-deified. If he wasn’t, there’s no way he could freeze the vacuum.” Han Sen was surprised.
 

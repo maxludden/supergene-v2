@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## A Babe
-### Chapter 136 
+### Chapter 136
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Zhao Lianhua looked depressed. "Liu, I do not even know who this person is. Where should I start looking?"
+Zhao Lianhua looked depressed. "Liu, I do not even know who this person is. Where should I start looking?"
 
 Liu Jianguo paused and said, "Go look anyway. In any case, we must have him. He is too important for us. With him, we would soar and it would be much easier for you to seek sponsorship in the future."
 

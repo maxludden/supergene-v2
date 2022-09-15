@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Solo Show
-### Chapter 394 
+### Chapter 394
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Broken buildings and damaged bodies were everywhere. People were crying and shouting.
+Broken buildings and damaged bodies were everywhere. People were crying and shouting.
 
 Those who could fight in Steel Armor Shelter, no matter which gang they were from, had all joined the fight. No one wanted to see Steel Armor Shelter ruined. If they lost their own room, which was their safe space, everything would become difficult for them in God's Sanctuary.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Path Hidden Cave
-### Chapter 2100 
+### Chapter 2100
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Suddenly, Han Sen’s eyes brightened. It looked as if he knew what he wanted.
+Suddenly, Han Sen’s eyes brightened. It looked as if he knew what he wanted.
 
 Sky Palace’s leader smiled at Han Sen. “Tell me. Whatever you need! I see your Master Yisha as a genuine student, and you are my student by extension. So, shirk any guilt and ask of me whatever you desire.”
 

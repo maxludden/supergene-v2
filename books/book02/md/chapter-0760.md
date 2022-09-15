@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## The Creature That Bears Holy Light
-### Chapter 760 
+### Chapter 760
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  A lone luminescent dandelion brushed by the tent, carried by the gentle breeze. Han Sen initially thought it was some special sort of creature that had drawn near, and although it wasn't, he still eyed it with a modicum of concern.
+A lone luminescent dandelion brushed by the tent, carried by the gentle breeze. Han Sen initially thought it was some special sort of creature that had drawn near, and although it wasn't, he still eyed it with a modicum of concern.
 
 It was a surprise to see the bevy of lights as little more than flowers, and it was a most curious phenomenon. When they had pitched the tent that evening, none of the flowers were around.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Pay
-### Chapter 2049 
+### Chapter 2049
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  You guys aren’t from Planet Sky Cloud?” the middle-aged shura asked Han Sen with rhetorical certainty.
+You guys aren’t from Planet Sky Cloud?” the middle-aged shura asked Han Sen with rhetorical certainty.
 
 “We aren’t. We’re here on business,” Han Sen answered. “You guys only serve shura, huh?”
 

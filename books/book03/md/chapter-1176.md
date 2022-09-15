@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Hard Labor
-### Chapter 1176 
+### Chapter 1176
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen thought super creatures and king spirits were awesome beings of an unbridled power, coupled with near-prophetic intelligence and behavior that presented them as deity-like figures. This image he had of them became extremely distorted when he witnessed them enter the Sky Fruit: their grace was discarded in favor of being simple, hard-working miners.
+Han Sen thought super creatures and king spirits were awesome beings of an unbridled power, coupled with near-prophetic intelligence and behavior that presented them as deity-like figures. This image he had of them became extremely distorted when he witnessed them enter the Sky Fruit: their grace was discarded in favor of being simple, hard-working miners.
 
 The Sky Fruit nuts were not too tough, but the shells around them were like spherical bulwarks. To retrieve the nuts, the shells had to be broken. But there were also barriers to break.
 

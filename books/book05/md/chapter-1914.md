@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Give Me Back My Stuff
-### Chapter 1914 
+### Chapter 1914
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “What is wrong with you? Where are you taking us?” One of the Viscounts looked at Wang Yuhang very angrily.
+“What is wrong with you? Where are you taking us?” One of the Viscounts looked at Wang Yuhang very angrily.
 
 They’d been waylaid by many xenogeneics on the road, and they had yet to see any hint of the red mist spring. The many injuries they had suffered were taking a toll.
 

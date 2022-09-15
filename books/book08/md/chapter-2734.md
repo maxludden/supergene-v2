@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Leveling Up to Deified
-### Chapter 2734 
+### Chapter 2734
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Spell took on her female form and appeared in front of Han Sen. In a moment, she had rushed into Han Sen’s body and combined with him. And then, Han Sen’s body underwent some amazing changes.
+Spell took on her female form and appeared in front of Han Sen. In a moment, she had rushed into Han Sen’s body and combined with him. And then, Han Sen’s body underwent some amazing changes.
 
 After he successfully combined with Spell, Han Sen’s body restructured dramatically. He wanted to use the changes of his body to redirect the routes of the four geno arts. He hoped that doing so would let him find a way for all four geno arts to co-exist at the same time.
 

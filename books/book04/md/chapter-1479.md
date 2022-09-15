@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Sky Sword
-### Chapter 1479 
+### Chapter 1479
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  All the spirits were in shock, but Six Paths’s expression was veiled. He complimented Han Sen by saying, “This sword has the essence of Sky Sword.”
+All the spirits were in shock, but Six Paths’s expression was veiled. He complimented Han Sen by saying, “This sword has the essence of Sky Sword.”
 
 There had only been a hundred slashes, and Red Dragon had to drop his Black Dragon Spear to avoid losing his hands.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Divinity's Bout
-### Chapter 703 
+### Chapter 703
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Fang Mingquan entered the battle arena from the shelter and found his seat. He looked to the center of the arena, waiting for Divinity's Bout to begin.
+Fang Mingquan entered the battle arena from the shelter and found his seat. He looked to the center of the arena, waiting for Divinity's Bout to begin.
 
 Although Fang Mingquan was in a royal shelter that had half a million people in it, the arena itself could seat very few.
 

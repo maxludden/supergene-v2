@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## A Sudden Desire to Kill
-### Chapter 1370 
+### Chapter 1370
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen was curious to see who Nan Litian really was. Thus far, the man had been a complete enigma. After walking outside the gate, Han Sen looked ahead to see a human riding atop a black unicorn.
+Han Sen was curious to see who Nan Litian really was. Thus far, the man had been a complete enigma. After walking outside the gate, Han Sen looked ahead to see a human riding atop a black unicorn.
 
 Han Sen could clearly see it was a human, and if he had to venture a guess, he would say he was around thirty years old. Of course, looks could be deceptive.
 

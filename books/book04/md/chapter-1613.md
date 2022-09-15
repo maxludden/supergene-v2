@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Weird Shura Change
-### Chapter 1613 
+### Chapter 1613
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Cheap Sheep and Green Cow were terrified, and they bolted back into the shelter. They almost hugged each other out of fear.
+Cheap Sheep and Green Cow were terrified, and they bolted back into the shelter. They almost hugged each other out of fear.
 
 “What do we do without the boss? Can they deal with the threat?” Green Cow said as she ran back.
 

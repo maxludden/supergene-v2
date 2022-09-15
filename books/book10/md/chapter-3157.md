@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Rocky Dee
-### Chapter 3157 
+### Chapter 3157
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  When it came to dealing with positive and negative skills, the biggest problem was striking a fine balance. The power of the Xuan Yellow Sutra and Blood-Pulse Sutra had to be perfectly balanced if they were to be merged. That was integral. In the universe of kingdoms, Han Sen was unable to use the Blood-Pulse Sutra’s power unless he broke the rules of suppression that dictated the world. Breaking the rules was the only way he could use of Blood-Pulse Sutra.
+When it came to dealing with positive and negative skills, the biggest problem was striking a fine balance. The power of the Xuan Yellow Sutra and Blood-Pulse Sutra had to be perfectly balanced if they were to be merged. That was integral. In the universe of kingdoms, Han Sen was unable to use the Blood-Pulse Sutra’s power unless he broke the rules of suppression that dictated the world. Breaking the rules was the only way he could use of Blood-Pulse Sutra.
 
 Even so, in a situation in which one power received support from the rules of the world and the other was repelled by the powers of the world, wanting to strike a perfect balance between the two powers was extraordinarily difficult.
 
@@ -47,7 +48,7 @@ Rocky Dee seriously said, “There is a saying that if you take a life, you pay 
 
 “That sounds fair, but I am not interested in joining the God Chaos Party,” Han Sen said.
 
-Rocky Dee was not aggravated by the rejection. He maintained his elegance and smiled. “That is OK. If you do not think that will work, I have another suggestion.”
+Rocky Dee was not aggravated by the rejection. He maintained his elegance and smiled. “That is okay. If you do not think that will work, I have another suggestion.”
 
 “Tell me.” Han Sen looked at Rocky Dee with interest.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## The Place Where Treasure Lies
-### Chapter 2282 
+### Chapter 2282
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen and Yisha were unable to make the calculations to determine the correct path. But instead of marching ahead recklessly, they could follow the traces left behind by Mister White. In the end, that proved to be a very effective solution for navigating the palaces.
+Han Sen and Yisha were unable to make the calculations to determine the correct path. But instead of marching ahead recklessly, they could follow the traces left behind by Mister White. In the end, that proved to be a very effective solution for navigating the palaces.
 
 Han Sen, Yisha, and the blood kirin followed Mister White’s tracks through each teleporter door. Han Sen was the guide. Thankfully, they didn’t encounter any dangers along the way.
 

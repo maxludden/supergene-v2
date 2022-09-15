@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Making a Butterfly by Hand
-### Chapter 2604 
+### Chapter 2604
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The people of Sky Palace could see the God Spirit Touch on Han Sen’s hand. Then a red light manifested in Han Sen’s palm. It was then that they realized what was going on.
+The people of Sky Palace could see the God Spirit Touch on Han Sen’s hand. Then a red light manifested in Han Sen’s palm. It was then that they realized what was going on.
 
 “There it is! There it is! Here it comes again. It must be that thing… you know what I’m talking about.”
 

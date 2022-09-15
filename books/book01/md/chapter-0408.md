@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Iron Fist Demigod
-### Chapter 408 
+### Chapter 408
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The white sand desert looked desolate and dismal under the moonlight. Occasionally, some howling could be heard. The firewood was crackling. Next to the fire, Han Sen was barbecuing some meat with the bony fish arrow as the skewer.
+The white sand desert looked desolate and dismal under the moonlight. Occasionally, some howling could be heard. The firewood was crackling. Next to the fire, Han Sen was barbecuing some meat with the bony fish arrow as the skewer.
 
 Meowth was lying on Han Sen's legs in its untransformed state, its eyes fixed on the sizzling barbecue, trying to reach out its paw at times. However, it seemed to fear the fire and quickly withdrew its paw.
 

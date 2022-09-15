@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Entering the Dragon Pool Again
-### Chapter 2040 
+### Chapter 2040
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  With Han Sen leading, Long Shan’s family arrived safely upon the western beach. Many Spiky Turtles covered the beach, but there were no giant ones among them.
+With Han Sen leading, Long Shan’s family arrived safely upon the western beach. Many Spiky Turtles covered the beach, but there were no giant ones among them.
 
 Han Sen’s assumption was correct; when they put
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Accidentally Seeing
-### Chapter 2900 
+### Chapter 2900
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen thought there was too much that could not be explained. If the spirits were composed of the God Spirits Sacred Leader tried to replicate, why did the spirits have a true body that could not be exterminated?
+Han Sen thought there was too much that could not be explained. If the spirits were composed of the God Spirits Sacred Leader tried to replicate, why did the spirits have a true body that could not be exterminated?
 
 There were some other muddy details that Han Sen couldn’t quite fit into the jigsaw puzzle. Now, Han Sen was having a hard time trying to think.
 

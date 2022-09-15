@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## The Army Comes
-### Chapter 1669 
+### Chapter 1669
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  After Han Sen returned to the shelter, he asked the Armored Man more about what happened.
+After Han Sen returned to the shelter, he asked the Armored Man more about what happened.
 
 Armored Man was very angry, and he had no way of releasing his rage. He started ranting, and Han Sen understood what had happened.
 

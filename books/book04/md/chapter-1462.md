@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Number One Again
-### Chapter 1462 
+### Chapter 1462
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Qiuming hadn’t expected Han Sen’s fitness to have developed far faster than his geno core had. His body far exceeded what his geno core was capable of, and if he had used his geno cores, the attack wouldn’t have been half as devastating.
+Qiuming hadn’t expected Han Sen’s fitness to have developed far faster than his geno core had. His body far exceeded what his geno core was capable of, and if he had used his geno cores, the attack wouldn’t have been half as devastating.
 
 “Discovering the sanctuaries has allowed humans to acquire superpowers. While that is most certainly good, there are downsides to this. It has given humanity a freedom of possibilities, and this unlimited wealth of possibilities has resulted in many believing they are above the law.” Ji Yanran was discussing this with Han Sen as she flew the airship home.
 

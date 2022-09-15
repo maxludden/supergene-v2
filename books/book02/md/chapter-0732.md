@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## The Devil Doesn't Believe in Tears
-### Chapter 732 
+### Chapter 732
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen was worried, as this wasn't like before. If his attackers were ordinary elites, then the Special Squad would have no issue protecting anyone. But the shura he had encountered didn't even seem human. As such, Han Sen was worried about the safety of his mother if she remained out in the shelter.
+Han Sen was worried, as this wasn't like before. If his attackers were ordinary elites, then the Special Squad would have no issue protecting anyone. But the shura he had encountered didn't even seem human. As such, Han Sen was worried about the safety of his mother if she remained out in the shelter.
 
 Qin Xuan heard what Han Sen had to say and quickly contacted her supervisor, asking where Luo Sulan had gone. She was out in the shelter, and members of the Special Squad had escorted her on a hunt.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Dragon Corpse
-### Chapter 2044 
+### Chapter 2044
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The battle continued to rage upon the surface of the sea. Fortunately, it had little effect on the ocean depths.
+The battle continued to rage upon the surface of the sea. Fortunately, it had little effect on the ocean depths.
 
 Suddenly, there was a boom and something massive fell into the sea.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Sacred Egg
-### Chapter 1578 
+### Chapter 1578
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “Correct, that’s the Sacred egg. However, its shell is too solid. We’ve tried everything we could think of, but nothing could break the eggshell. We then resorted to using the water from the black pond to erode the shell of the Sacred egg. You came here at the right time. After another forty or fifty hours, the eggshell will be completely eroded, after which we can enjoy this Sacred egg,” said the Destroyer Wolf.
+“Correct, that’s the Sacred egg. However, its shell is too solid. We’ve tried everything we could think of, but nothing could break the eggshell. We then resorted to using the water from the black pond to erode the shell of the Sacred egg. You came here at the right time. After another forty or fifty hours, the eggshell will be completely eroded, after which we can enjoy this Sacred egg,” said the Destroyer Wolf.
 
 The Rolling Dragon just stared at Han Sen coldly, like a sculpture made of iron. Han Sen wasn’t sure if it was because it couldn’t understand the human language, or because it didn’t want to talk to him.
 

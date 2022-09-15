@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Early Days
-### Chapter 404 
+### Chapter 404
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The Secret Service were the first men who ever used the teleport technology. The very first who came to God's Sanctuary were not Han Jingzhi and the ancestor of the Nings, but ordinary crewmembers.
+The Secret Service were the first men who ever used the teleport technology. The very first who came to God's Sanctuary were not Han Jingzhi and the ancestor of the Nings, but ordinary crewmembers.
 
 After they arrived at God's Sanctuary, they found something and had a few accidents. Only two persons made it back to the Alliance.
 

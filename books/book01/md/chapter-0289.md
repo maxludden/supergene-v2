@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Stronger Hyper Geno Arts
-### Chapter 289 
+### Chapter 289
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  There was not anything about super creatures on the Skynet or the special squad insider materials. It was very likely that humans had never killed a super creature so far.
+There was not anything about super creatures on the Skynet or the special squad insider materials. It was very likely that humans had never killed a super creature so far.
 
 Maybe some people had encountered super creatures. But since they were not able to kill one, they would never know that it was a super creature, but took for granted that it was an especially strong sacred-blood creature.
 

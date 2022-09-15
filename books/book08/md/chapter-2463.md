@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## World Print
-### Chapter 2463 
+### Chapter 2463
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “This is really the place.” The dragon was too big to land on the island, so it circled overhead. The Extreme King man stood atop the head of the dragon, peering down at the island.
+“This is really the place.” The dragon was too big to land on the island, so it circled overhead. The Extreme King man stood atop the head of the dragon, peering down at the island.
 
 Han Sen was shocked, and he thought to himself, “The Extreme King have gotten here so quickly?”
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Dollar Shows Off
-### Chapter 2119 
+### Chapter 2119
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “It is no wonder that the Dragon are considered the bravest in the world. With an attack power like this, they do not have to fear anyone on the same level,” Han Sen complimented his opponent.
+“It is no wonder that the Dragon are considered the bravest in the world. With an attack power like this, they do not have to fear anyone on the same level,” Han Sen complimented his opponent.
 
 His power wasn’t as great as Dragon Eight’s. Jadeskin made his body sturdier, but when it leveled up to Marquise, it gave him some ice powers, too. The evolution wasn’t entirely focused on making his body sturdier, so when compared to the gold Dragon body, he was in inferior shape.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Trapped in Stoneshell King’s Shell
-### Chapter 1454 
+### Chapter 1454
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  <div class="tables">
+<div class="tables">
 	<table class="beast">
 		<tr>
 			<th colspan="2">Beast Soul Gained</th>

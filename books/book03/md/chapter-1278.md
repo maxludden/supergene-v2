@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Coming Close
-### Chapter 1278 
+### Chapter 1278
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Xue Yucheng still thought Han Sen was joking, but seeing him walk forward unrelentingly, he quickly followed after him.
+Xue Yucheng still thought Han Sen was joking, but seeing him walk forward unrelentingly, he quickly followed after him.
 
 “What are you thinking, man?” Xue Yucheng’s face was looking grimmer by the second. He was now writhing in his disbelief, which made him bleed even more.
 

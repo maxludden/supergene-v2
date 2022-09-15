@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Xenogeneic Demon Dragon
-### Chapter 2033 
+### Chapter 2033
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Her blood spread like flower petals. Her powerful Dragon body could not hold strong against the countless wounds that were being ravaged by the Teeth power. Her body was ultimately tom apart.
+Her blood spread like flower petals. Her powerful Dragon body could not hold strong against the countless wounds that were being ravaged by the Teeth power. Her body was ultimately tom apart.
 
 Han Sen moved into a hidden passage nearby. There, he started to use his own strength to purge his body of the Evilbreaker Lance’s power.
 

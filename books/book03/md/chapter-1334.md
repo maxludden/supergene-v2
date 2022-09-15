@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## God’s Retribution’s Goodbye
-### Chapter 1334 
+### Chapter 1334
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Shortly after, Han Sen had managed to claim over a million miles of land for humans. Unfortunately, there were hardly any humans in a position to handle the shelters and land, so he had to allow spirits to remain alive and serve as stewards for the time being.
+Shortly after, Han Sen had managed to claim over a million miles of land for humans. Unfortunately, there were hardly any humans in a position to handle the shelters and land, so he had to allow spirits to remain alive and serve as stewards for the time being.
 
 The spirits were right in this assumption. When they feared Han Sen’s takeover, they guessed he would need to keep the spirits alive to handle matters. And aside from saving humans, he couldn’t actually take over and rule the Third God’s Sanctuary. It just wasn’t feasible.
 

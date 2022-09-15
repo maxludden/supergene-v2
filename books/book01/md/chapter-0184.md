@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Probe
-### Chapter 184 
+### Chapter 184
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Seeing the golden rock worm king eating the bodies up and growing in size, Huangfu Pingqing could not help feeling surprised.
+Seeing the golden rock worm king eating the bodies up and growing in size, Huangfu Pingqing could not help feeling surprised.
 
 "Mr. Han, is this a sacred-blood beast soul pet?" Huangfu looked at Han Sen and asked.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Queen Bai Wei
-### Chapter 2223 
+### Chapter 2223
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “Knight King, the new member you are telling us about is her?” Han Sen looked at Bai Wei strangely.
+“Knight King, the new member you are telling us about is her?” Han Sen looked at Bai Wei strangely.
 
 “Yes, Bai Wei is the latest addition to your team. Please co-operate with her.” Ice Blue Knight King smiled.
 

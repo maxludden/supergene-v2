@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## You Belong to Me
-### Chapter 817 
+### Chapter 817
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen happily agreed. He would receive a gift without having to risk his life, .
+Han Sen happily agreed. He would receive a gift without having to risk his life, .
 
 Seeing the fruit outside the Empty Spirit Witch, he then thought of something.
 

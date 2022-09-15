@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Jadeskin Levels Up to King Class
-### Chapter 2416 
+### Chapter 2416
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen had realized almost instantly that Falling Leaf wasn’t an ordinary woman. She was very good at hiding her energy so that the average person would be unable to discern her level, but Han Sen had his Dongxuan Area. There was no way that Falling Leaf could hide her King class power from him.
+Han Sen had realized almost instantly that Falling Leaf wasn’t an ordinary woman. She was very good at hiding her energy so that the average person would be unable to discern her level, but Han Sen had his Dongxuan Area. There was no way that Falling Leaf could hide her King class power from him.
 
 Although Han Sen couldn’t tell how many tiers she had unlocked, she had definitely surpassed the first couple of tiers.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Triggering the Restrictions
-### Chapter 2694 
+### Chapter 2694
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Aside from providing him with healing geno fluids, she gave him other kinds of geno fluids as well. They could help with all sorts of things involving his body and his practice. They were fluids synthesized by the Very High themselves. Due to the wealth of resources available in Outer Sky, Han Sen was being given access to resources that few Kings could ever hope to get their hands on.
+Aside from providing him with healing geno fluids, she gave him other kinds of geno fluids as well. They could help with all sorts of things involving his body and his practice. They were fluids synthesized by the Very High themselves. Due to the wealth of resources available in Outer Sky, Han Sen was being given access to resources that few Kings could ever hope to get their hands on.
 
 The Very High didn’t have a large population. They didn’t have many people devoted to producing healing geno fluids, but they also rarely used healing geno fluids themselves. So, most of the time, the Very High created the geno fluids quite slowly. They kept enough on hand for ordinary use, but as Han Sen stubbornly continued to fight the Red Blood Demon, he had created a situation that the Very High were uniquely unprepared for.
 

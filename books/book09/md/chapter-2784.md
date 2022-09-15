@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Sky Vine Radish
-### Chapter 2784 
+### Chapter 2784
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Violet tried to shy back from Han Sen, but he had lost all control of his body. Han Sen continued to approach him with the placidity of an all-powerful god.
+Violet tried to shy back from Han Sen, but he had lost all control of his body. Han Sen continued to approach him with the placidity of an all-powerful god.
 
 Just as Han Sen was about to reach Violet, the flower on Violet’s head suddenly flashed with light. Many green sproutlings surged out of Violet’s scalp and wrapped down around his body like jade tentacles. The vines formed a green set of armor.
 

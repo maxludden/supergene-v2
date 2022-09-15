@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Huge Gain
-### Chapter 523 
+### Chapter 523
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The article "Dollar spotted at Yellowstone Beach" soon gained a lot of attention on the Skynet.
+The article "Dollar spotted at Yellowstone Beach" soon gained a lot of attention on the Skynet.
 
 The article depicted how Dollar came from nowhere, beat all the porcupines, gained the allegiance of the spirit, and killed the giant boar with one punch, and other details. In the end, it also praised Dollar for not staying for the compliments.
 

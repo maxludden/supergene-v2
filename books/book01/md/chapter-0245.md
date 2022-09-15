@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Beetle Knight
-### Chapter 245 
+### Chapter 245
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  In darkness, Han Sen shapeshifted into the color shifter and moved in the direction of the lake. The sacred-blood creatures were on the other side of the lake, but Han Sen was still taking extra care when moving.
+In darkness, Han Sen shapeshifted into the color shifter and moved in the direction of the lake. The sacred-blood creatures were on the other side of the lake, but Han Sen was still taking extra care when moving.
 
 Until he slowly entered the lake, the sacred-blood creatures were still unaware of his presence. He let out a sigh of relief.
 

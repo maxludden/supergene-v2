@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## The Sky Mind Like Knife
-### Chapter 1897 
+### Chapter 1897
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “Sky Mind like knife. What does that mean?” Qing Li held the wood board and wrote down the four words. She looked at Han Sen with a modicum of confusion. She knew the four words, but she did not understand the meaning of their combination.
+“Sky Mind like knife. What does that mean?” Qing Li held the wood board and wrote down the four words. She looked at Han Sen with a modicum of confusion. She knew the four words, but she did not understand the meaning of their combination.
 
 “Go home and look it over. When you understand it, you can write it. And when you can write it, I will take you as a student.” Han Sen smiled.
 

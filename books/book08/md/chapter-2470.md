@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Three Hit Promise
-### Chapter 2470 
+### Chapter 2470
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen was unable to shake the Dragon’s pursuit, so he stopped running.
+Han Sen was unable to shake the Dragon’s pursuit, so he stopped running.
 
 Lando came to a stop directly in front of Han Sen. Instead of striking, he just looked at Han Sen and asked, “You are the Han Sen that the Extreme King want?”
 

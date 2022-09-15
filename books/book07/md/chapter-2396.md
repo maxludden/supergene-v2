@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Planet Dark Zone
-### Chapter 2396 
+### Chapter 2396
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Once the half-deified core demon bugs were slain, the rest of the bugs descended into chaos. Dragon One and Han Sen got busy killing them. Some of them managed to escape, but most were killed.
+Once the half-deified core demon bugs were slain, the rest of the bugs descended into chaos. Dragon One and Han Sen got busy killing them. Some of them managed to escape, but most were killed.
 
 The group counted their spoils and found that they had two mutant core genes and eighty-six ordinary core genes.
 

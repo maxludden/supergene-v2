@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Beaten to an Egg
-### Chapter 3060 
+### Chapter 3060
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Some things are not possible to understand in a short amount of time. Han Sen stopped thinking about it and walked over to the collapsed stone wall. He moved the broken rocks, checking to see if the blood ghost spirit was dead or not. If it was not dead, he would give it another punch or two. If it was dead, he wagered it would make a nice snack for Small Cat.
+Some things are not possible to understand in a short amount of time. Han Sen stopped thinking about it and walked over to the collapsed stone wall. He moved the broken rocks, checking to see if the blood ghost spirit was dead or not. If it was not dead, he would give it another punch or two. If it was dead, he wagered it would make a nice snack for Small Cat.
 
 Small Cat had eaten a lot of overbearing bug meat, but it had yet to fully recover its strength. Its body was still frail. It did not evolve yet either. It required more food.
 

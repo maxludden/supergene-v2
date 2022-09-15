@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Sky Heart Lock
-### Chapter 2017 
+### Chapter 2017
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “Okay, you can go.” The leader of Sky Palace waved his hand, indicating Han Sen could leave.
+“Okay, you can go.” The leader of Sky Palace waved his hand, indicating Han Sen could leave.
 
 Cough cough. “Mister Leader, you are so powerful. With a flick of your fingers, you can inhibit all my movements. That is impressive.” Han Sen’s feet did not move.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## T-rex Beast Soul
-### Chapter 646 
+### Chapter 646
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The blinded T-rex continued to fly across the sky, getting hammered by Han Sen and the silver fox's attacks. Over time, its health got visibly worse, but it still stubbornly refused to give up the ghost.
+The blinded T-rex continued to fly across the sky, getting hammered by Han Sen and the silver fox's attacks. Over time, its health got visibly worse, but it still stubbornly refused to give up the ghost.
 
 Heaven knew how much blood the T-rex had lost over the course of their battle, and it chilled Han Sen to watch it continue to spew up more and more, as it carried on attempting an airborne escape.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Human King Appeared
-### Chapter 3340 
+### Chapter 3340
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “You should just come out and meet with your real body.” Han Sen used his will to talk to Qin Xiu’s clone. The ice-jade jian he had become suddenly started to fly. It carried ice-jade light and pierced through the woman’s forehead.
+“You should just come out and meet with your real body.” Han Sen used his will to talk to Qin Xiu’s clone. The ice-jade jian he had become suddenly started to fly. It carried ice-jade light and pierced through the woman’s forehead.
 
 Usually, the soul of a member of the soldiers was transferred to the victor of combat. The fighters would live together and die together. If a member of the soldiers was killed, the holy weapon was killed with it.
 

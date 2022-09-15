@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Blow Blood
-### Chapter 1573 
+### Chapter 1573
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “You and your secret can go to hell.” Han Sen wasn’t having any of it. Wearing the Ghost Armor given to him by Ghost Eye, he dashed in front of the creature and attempted to punch its head in.
+“You and your secret can go to hell.” Han Sen wasn’t having any of it. Wearing the Ghost Armor given to him by Ghost Eye, he dashed in front of the creature and attempted to punch its head in.
 
 “I have an emperor geno core! I was going to give it to you, please take it!” Ghost Eye screamed, seeing he’d be unable to dodge the manic fist.
 

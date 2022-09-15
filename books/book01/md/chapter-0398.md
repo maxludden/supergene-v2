@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Dongxuan Sutra
-### Chapter 398 
+### Chapter 398
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The latter part of the scroll was a statement of the writer. According to him, he was a Taoist who styled himself as "Dongxuan." He was the leader of an organization called Xuan Men. Having committed himself to Taoism, he eventually reached the state where he could break through the vacuum.
+The latter part of the scroll was a statement of the writer. According to him, he was a Taoist who styled himself as "Dongxuan." He was the leader of an organization called Xuan Men. Having committed himself to Taoism, he eventually reached the state where he could break through the vacuum.
 
 However, after breaking through the vacuum, Dongxuan found that he did not reach heaven. Or, the heaven he reached was different from his imagination. He appeared in a different world, where everything was beyond his comprehension. Unfortunately, although Dongxuan was successful in breaking through the vacuum, his body was severely injured by the shift. Shortly after he reached this world, he wrote down the scroll and died.
 

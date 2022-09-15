@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Super Meat
-### Chapter 395 
+### Chapter 395
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  "Kill it…" Many people were shouting their hearts out, wishing they were able to kill golden growler and even alive like Han Sen. Humans had never experienced such cruelty in First God's Sanctuary. The blood of family and friends made them furious.
+"Kill it…" Many people were shouting their hearts out, wishing they were able to kill golden growler and even alive like Han Sen. Humans had never experienced such cruelty in First God's Sanctuary. The blood of family and friends made them furious.
 
 Buzzing its four wings, the golden rock worm king quickly went after the golden growler. When it was about to catch up with the lion, Han Sen deliberately slowed down a little bit as he did not want anyone to see him kill the golden growler. Han Sen wondered if the golden growler would disappear like other super creatures, which would look suspicious to other people.
 

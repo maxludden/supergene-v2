@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Red Liquid
-### Chapter 1614 
+### Chapter 1614
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Dong!
+Dong!
 
 Gu Qingcheng’s sword and Sha Linjia’s fist collided. Neither of them reeled back, and they came at each other repeatedly, strike after strike, neither of them appearing to have the upper hand.
 

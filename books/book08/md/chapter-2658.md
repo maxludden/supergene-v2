@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Star Fruit
-### Chapter 2658 
+### Chapter 2658
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  According to legend, the star tree was a shadow of the universe. Star fruit represented the stars of the universe, so each star fruit held xenogeneics that were specific to the star system that the fruit represented. Thus, star fruit from a single tree could produce many different types of xenogeneics.
+According to legend, the star tree was a shadow of the universe. Star fruit represented the stars of the universe, so each star fruit held xenogeneics that were specific to the star system that the fruit represented. Thus, star fruit from a single tree could produce many different types of xenogeneics.
 
 Of course, that was just a legend. The tree worked a little differently in reality, but the star fruit really did produce different kinds of xenogeneics. And they were at least King class.
 

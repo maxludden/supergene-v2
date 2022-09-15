@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Another Gourd
-### Chapter 1505 
+### Chapter 1505
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “Little Uncle, why are you here?” Han Sen asked the man who was only a minor distance away. It was the unluckiest man he had ever met: Wang Yuhang.
+“Little Uncle, why are you here?” Han Sen asked the man who was only a minor distance away. It was the unluckiest man he had ever met: Wang Yuhang.
 
 Meeting a friend in the sanctuary ought to have been a happy thing, but seeing Wang Yuhang only made Han Sen feel fear.
 

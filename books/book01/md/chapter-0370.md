@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Beast Soul Add-on
-### Chapter 370 
+### Chapter 370
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The students named Wang Di was also in the senior year. He was top three in Martial Arts Department, and rather well known on campus.
+The students named Wang Di was also in the senior year. He was top three in Martial Arts Department, and rather well known on campus.
 
 With his good looks, the guy had a bright future ahead of him.
 

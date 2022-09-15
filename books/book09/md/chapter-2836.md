@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## A Butterfly That Can Only Have One Relationship in Their Entire Life
-### Chapter 2836 
+### Chapter 2836
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The sky full of deathly butterfly shadows was like an underworld river flooding toward Very High Leader. They peeled off his flesh. Even his god body could not withstand the butterfly shadow's power. His entire body, up and down, had been ravaged to display the bones inside.
+The sky full of deathly butterfly shadows was like an underworld river flooding toward Very High Leader. They peeled off his flesh. Even his god body could not withstand the butterfly shadow's power. His entire body, up and down, had been ravaged to display the bones inside.
 
 Han Sen was not happy about this. Clearly, things could not be over that simple. God had planned for every twist and turn and would not lose the bet on this seemingly expected outcome.
 

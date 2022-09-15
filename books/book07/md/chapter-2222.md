@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Gold Fire Peacock
-### Chapter 2222 
+### Chapter 2222
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen flapped his dragon wings and flew behind the lava peacock. He slashed as quickly as he could, but the lava peacock was still able to avoid each strike.
+Han Sen flapped his dragon wings and flew behind the lava peacock. He slashed as quickly as he could, but the lava peacock was still able to avoid each strike.
 
 “I do not believe I cannot kill you!” Han Sen dodged the lava peacock’s squirting of lava and thrust his Ghost Teeth Knife forward, firing a knife silk at the lava peacock, but the peacock managed to dodge the knife silk net easily, and it did not even come into contact with its body.
 

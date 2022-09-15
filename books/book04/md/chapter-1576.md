@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Clue
-### Chapter 1576 
+### Chapter 1576
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “Destroyer Wolf got away through a space crack. What clue do you think you can find here?” Elysian Moon said, frowning.
+“Destroyer Wolf got away through a space crack. What clue do you think you can find here?” Elysian Moon said, frowning.
 
 “Let’s just look around. Perhaps we can find some clues,” Han Sen said as he walked.
 

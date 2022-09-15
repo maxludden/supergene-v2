@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Exchange Even
-### Chapter 1898 
+### Chapter 1898
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “Gone? How can they be gone?” Du Lishe asked curiously.
+“Gone? How can they be gone?” Du Lishe asked curiously.
 
 Qing Li explained it, and then let her take a look at the broken wood chips.
 

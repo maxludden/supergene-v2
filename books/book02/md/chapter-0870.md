@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Black Coffin
-### Chapter 870 
+### Chapter 870
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The area surrounding the Dark Haunted Tree King became a shura hellscape. Zero approached the trunk of the tree, as the corpses of countless mutilated bats lay scattered across the ground. They had all been killed, and their black blood puddled on the forest floor.
+The area surrounding the Dark Haunted Tree King became a shura hellscape. Zero approached the trunk of the tree, as the corpses of countless mutilated bats lay scattered across the ground. They had all been killed, and their black blood puddled on the forest floor.
 
 The bugs flew around in the air aimlessly, not wanting to approach Zero. Even the Tree King itself shook with fear, and as it trembled, leaves cascaded to the ground and a low noise vibrated the air.
 

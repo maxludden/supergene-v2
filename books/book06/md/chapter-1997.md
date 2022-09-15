@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Knife and Sword Battle
-### Chapter 1997 
+### Chapter 1997
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The knife and the sword made a crackling noise when they clashed. The knife and sword airs broke at the same time.
+The knife and the sword made a crackling noise when they clashed. The knife and sword airs broke at the same time.
 
 Slashing. Thrusting. Swiping. Han Sen and Lone Bamboo’s techniques were very simple, but they were also very deadly.
 

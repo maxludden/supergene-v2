@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Fate Monument
-### Chapter 2944 
+### Chapter 2944
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Suddenly, amidst the ruins, Han Sen found a very well-preserved statue. It was the statue of a ghost car.
+Suddenly, amidst the ruins, Han Sen found a very well-preserved statue. It was the statue of a ghost car.
 
 Han Sen pointed at the statue and asked, “This thing… Is it one of Sacred’s holy beast Ghost Car?”
 

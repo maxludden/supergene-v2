@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Qin Bai the Witness
-### Chapter 3111 
+### Chapter 3111
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Steel Scene was murdered inside Ice Snow God Temple. Gong Shu Zhi, Si Tu Ya, and Lu San Zhi were murdered inside Ice Snow City’s Steel Manor. The news was heard all over Jade Wall City.
+Steel Scene was murdered inside Ice Snow God Temple. Gong Shu Zhi, Si Tu Ya, and Lu San Zhi were murdered inside Ice Snow City’s Steel Manor. The news was heard all over Jade Wall City.
 
 The king’s guard’s main general was a character who lived in Jade Wall City and enjoyed quite a high reputation. He was in charge of the safety of Jade Wall City, yet he was murdered inside his own house. It had been over a century since something that terrible had happened in Jade Wall City.
 
@@ -24,8 +25,6 @@ The ripple effects of this event were likely very bad.
 Many high-class nobles knew about it. They knew about what had happened. They thought Feng Fei Fei and Han Sen were going to wind up injured, yet Han Sen had turned up fine. He had actually gone to Steel Manor and slew Steel Scene. When they heard the news, they were so shocked that they were rendered speechless.
 
 This thing affected too many things. Liu Xian Xian and the others quickly reported the events and summoned the elites of the king’s guard. They raced to Feng Fei Fei’s castle.
-
-le
 
 The king’s guards had 14 branches. Steel Scene was the leader of the entire king’s guards, but that did not mean he was the strongest in the king’s guards. The real power of the king’s guards resided in Zhao Long from Dragon Guard and Liu Xian Xian from the Phoenix Feather.
 
@@ -61,7 +60,9 @@ But this was the crown prince of the Qin Kingdom. It was Qin Bai who had said it
 
 Zhao Long did not believe the words of the famous and spoiled crown prince, but his identity was too noble. He had to bite his tongue and just say, “Mister Crown Prince, thousands of guards and their family members witnessed Han Sen murder people. If this was really a setup, he has to come and help us with the investigation. If it is a setup, we can prove his innocence.”
 
-Qin Bai pointed at Zhao Long and the others while he shouted, “Asshole! Are all you people in the king’s guard rubbish? Are you all idiots? The king’s guard is in charge of the kingdom’s safety. He was the general of the king’s guard, yet he was murdered at home. You guys cannot even protect yourselves. Is there any point in keeping the rest of you employed? The Qin Kingdom’s safety depends on you trash people protecting us all. I am afraid if someone invaded the palace and cut off my head and my father’s head, you guys would have no clue what happened.” “My apologies.” Zhao Long and the others kneeled to make their apology. The main general of the king’s guard had been murdered. That was a humiliation the king’s guard had never had to endure.
+Qin Bai pointed at Zhao Long and the others while he shouted, “Asshole! Are all you people in the king’s guard rubbish? Are you all idiots? The king’s guard is in charge of the kingdom’s safety. He was the general of the king’s guard, yet he was murdered at home. You guys cannot even protect yourselves. Is there any point in keeping the rest of you employed? The Qin Kingdom’s safety depends on you trash people protecting us all. I am afraid if someone invaded the palace and cut off my head and my father’s head, you guys would have no clue what happened.” 
+
+“My apologies.” Zhao Long and the others kneeled to make their apology. The main general of the king’s guard had been murdered. That was a humiliation the king’s guard had never had to endure.
 
 “Get lost!” Qin Bai madly shouted. “I told you I was with Han Sen the entire time. He cannot be the murderer. Hurry up and find the real murderer, you useless people!”
 

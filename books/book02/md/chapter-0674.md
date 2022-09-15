@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Shocking the Alliance
-### Chapter 674 
+### Chapter 674
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Even though members of the Ji family did not believe it was true, many others had come to ask them about Han Sen's obtaining a Life Geno essence. Many officers and organizations from all across the Alliance came to ask them, all due to the belief that Han Sen was a part of the Ji family.
+Even though members of the Ji family did not believe it was true, many others had come to ask them about Han Sen's obtaining a Life Geno essence. Many officers and organizations from all across the Alliance came to ask them, all due to the belief that Han Sen was a part of the Ji family.
 
 Being in such a spotlight forced the Ji family to take the topic seriously. Words of the deed also reached the very top of the family, Ji Ruozhen.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Sacrifice
-### Chapter 3207 
+### Chapter 3207
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Xie Qing King was not as optimistic about this as Han Yufei was. He worriedly said, “If there is an elite out there who can break the barrier between worlds to enter our universe, it could very well be a grave disaster for us all.”
+Xie Qing King was not as optimistic about this as Han Yufei was. He worriedly said, “If there is an elite out there who can break the barrier between worlds to enter our universe, it could very well be a grave disaster for us all.”
 
 Han Yufei shook her head and said, “You think too much. If they break the world and come, then the rules of our universe will restrict them. It will be just like Qin Xiu back then. No matter how strong he was or how many God Spirits he was able to kill when he came to our universe, he was unable to defeat the true elites. He could not fight for long.”
 

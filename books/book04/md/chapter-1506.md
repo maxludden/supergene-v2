@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Human Emperor
-### Chapter 1506 
+### Chapter 1506
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen saw the green gourd, but he did not stare at it. He didn’t want the elder to get the wrong idea.
+Han Sen saw the green gourd, but he did not stare at it. He didn’t want the elder to get the wrong idea.
 
 The gourd looked different than the one Bao’er had come out of, and it felt different, too. Han Sen could not quite put his finger on the reason why, though.
 

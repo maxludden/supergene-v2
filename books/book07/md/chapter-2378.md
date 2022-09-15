@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Mirror Spirit Eye Ring
-### Chapter 2378 
+### Chapter 2378
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “That woman is annoying.” Han Sen still didn’t like Fox Queen.
+“That woman is annoying.” Han Sen still didn’t like Fox Queen.
 
 If Han Sen’s identity was exposed, it wouldn’t benefit Fox Queen in any way. She didn’t seem like the type to harm others if she wasn’t going to get anything out of it.
 

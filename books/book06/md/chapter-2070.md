@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Red Cloud Beast
-### Chapter 2070 
+### Chapter 2070
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  After White Real departed, Han Sen and Lone Bamboo continued walking up Rainbow Cloud Peak.
+After White Real departed, Han Sen and Lone Bamboo continued walking up Rainbow Cloud Peak.
 
 “This is the highest point of Rainbow Cloud Peak. That Cloud Beast is a rare sight.” Lone Bamboo sat atop Rainbow Cloud Peak.
 

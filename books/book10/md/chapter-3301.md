@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Science Test
-### Chapter 3301 
+### Chapter 3301
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “Not only for humans and humans?” Han Sen’s eyes twitched. He started to imagine many strange things.
+“Not only for humans and humans?” Han Sen’s eyes twitched. He started to imagine many strange things.
 
 It looked as if she was able to see into Han Sen’s mind and discern what he was thinking. Han Yufei explained, “It is not in the way you think. It is more like how the humans in the sanctuaries absorb the gene signals from other creatures so they can strengthen their genes. The idea of the rebirth machine is to modify genes so that the good genes can be inherited by the next generation. They can filter out the bad genes, such as sickness. Of course, no matter how much we modify our genes, we will need a good gene base. My people, the Witch, have very good genes. If we can mix the genes with the good genes of another creature, we can make a good life that is beyond what both races can achieve.”
 

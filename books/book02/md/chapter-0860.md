@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Training
-### Chapter 860 
+### Chapter 860
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen learnt more about Geno Seeds from Ji Yanran. Perusing the information she provided him, though, he noted that it wasn't very substantial. He did learn that Geno Seeds were able to absorb all manners of genes, and which genes they absorbed would affect what grew inside them.
+Han Sen learnt more about Geno Seeds from Ji Yanran. Perusing the information she provided him, though, he noted that it wasn't very substantial. He did learn that Geno Seeds were able to absorb all manners of genes, and which genes they absorbed would affect what grew inside them.
 
 Some could grow geno equipment, whereas others could grow creatures. Others could form spirits or beast souls. What they chose to grow was influenced by the energies they absorbed.
 

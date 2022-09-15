@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## I Can Do It
-### Chapter 554 
+### Chapter 554
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen looked at what Zhu Ting had brought with him. They were a few sheets of parchment, with words written upon them. Despite not being printed words, they were not handwritten, either; they looked as if they had been rubbed in.
+Han Sen looked at what Zhu Ting had brought with him. They were a few sheets of parchment, with words written upon them. Despite not being printed words, they were not handwritten, either; they looked as if they had been rubbed in.
 
 "What is this?" Han Sen took a look at one of the papers. The words he read were as small as tadpoles, but they contained knowledge pertaining to Qi Gong.
 

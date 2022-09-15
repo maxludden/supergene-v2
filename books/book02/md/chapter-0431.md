@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## One More Time
-### Chapter 431 
+### Chapter 431
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Gradually, Han Sen felt that it was not because Lu Bin did not have the intention to kill, but because Lu Bin’s intention to kill was too strong.
+Gradually, Han Sen felt that it was not because Lu Bin did not have the intention to kill, but because Lu Bin’s intention to kill was too strong.
 
 If there was one lamp in a room, then it would be easy to tell where the light was from. However, if the room was filled with lamps, there was little point in figuring out the source of the light.
 

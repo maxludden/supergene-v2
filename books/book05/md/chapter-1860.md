@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Lead Runner
-### Chapter 1860 
+### Chapter 1860
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen had nothing to prepare, so he went back to hunting xenogeneics as he usually did. He also spent time practicing his geno arts.
+Han Sen had nothing to prepare, so he went back to hunting xenogeneics as he usually did. He also spent time practicing his geno arts.
 
 When the Moon God Festival began, Han Sen was sent to Planet Blade. It was one of the eleven primary planets, and Moon God Altar could be accessed from there.
 

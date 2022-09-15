@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## The Invitation From Digang
-### Chapter 165 
+### Chapter 165
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  In the stationmaster’s office of the teleport station on Planet Roca, Qin Xuan and Yang Manli were watching a video—the edited game recording made by Fang Mingquan.
+In the stationmaster’s office of the teleport station on Planet Roca, Qin Xuan and Yang Manli were watching a video—the edited game recording made by Fang Mingquan.
 
 "He is this good at warframes?" Yang Manli could not believe Han Sen was the one driving Silver Killer.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## The Treasure
-### Chapter 472 
+### Chapter 472
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Feeling the numbness in his brain, Han Sen was alerted by the coolness from his pituitary, making his brain clearer than ever.
+Feeling the numbness in his brain, Han Sen was alerted by the coolness from his pituitary, making his brain clearer than ever.
 
 "Brain crystals are indeed fantastic stuff. Unfortunately, its effect will fade gradually. In the end, the brain will only be developed slightly." Han Sen put away the rest of the brain crystals and looked to the triangular exit in the center of the room.
 

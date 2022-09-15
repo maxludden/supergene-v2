@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Deified Five Stages
-### Chapter 2565 
+### Chapter 2565
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen gnashed his teeth as he tried to get up. He used all of his power to do so, and that included opening his ninth-tier Dongxuan Area. Yet despite that, his body was still pinned to the ground. It didn’t look as if he would be leaving anytime soon.
+Han Sen gnashed his teeth as he tried to get up. He used all of his power to do so, and that included opening his ninth-tier Dongxuan Area. Yet despite that, his body was still pinned to the ground. It didn’t look as if he would be leaving anytime soon.
 
 It wasn’t only Han Sen suffering this. Li Keer and Exquisite were desperately trying to get free, as well. Their faces looked more than grim. They weren’t acting this time. This situation was beyond their control.
 

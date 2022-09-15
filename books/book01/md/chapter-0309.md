@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Threaten
-### Chapter 309 
+### Chapter 309
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  After Han Sen left the training hall, he felt extremely sore. Blue veins stood out all over his body, which looked frightening.
+After Han Sen left the training hall, he felt extremely sore. Blue veins stood out all over his body, which looked frightening.
 
 Han Sen knew that it was because he had used Heresy Mantra for too long, which was a heavy burden on his body.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Demon God Sword Spirit
-### Chapter 3237 
+### Chapter 3237
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “You should die for humiliating the Qin family. Not even the king can protect your precious asshole in this place.” Qin Yuan looked murderous. He really wanted Han Sen dead.
+“You should die for humiliating the Qin family. Not even the king can protect your precious asshole in this place.” Qin Yuan looked murderous. He really wanted Han Sen dead.
 
 Han Sen was a famous, evil officer. He was the person most favored by the crown prince, and that was already more than enough to place him squarely in Qin Yuan’s bad books.
 

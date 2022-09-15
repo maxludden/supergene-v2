@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Mirror Moon
-### Chapter 3233 
+### Chapter 3233
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “Please tell me, Mister Han,” Qin Jing Zhen seriously said. “I have already told you that if it does not hurt the Qin Kingdom, I would do anything for this.”
+“Please tell me, Mister Han,” Qin Jing Zhen seriously said. “I have already told you that if it does not hurt the Qin Kingdom, I would do anything for this.”
 
 Han Sen thought for a moment and said, “There are legends in the Qin Kingdom that claim there is a gene race called the dark big evil dragon king. It has the coldest power and most Yin. If you can give me that gene race, there is a 100% guarantee that I will be able to extend your life for at least three years. If you are lucky, you will have another five years to live.”
 

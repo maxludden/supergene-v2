@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Naive Spirit Brother
-### Chapter 913 
+### Chapter 913
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Flame Giant's behavior was quite amusing, at first. But now, it had grown annoying. Ignoring him, Han Sen decided to fly his island to others in order to challenge their residing spirits and obtain more spirit geno points.
+Flame Giant's behavior was quite amusing, at first. But now, it had grown annoying. Ignoring him, Han Sen decided to fly his island to others in order to challenge their residing spirits and obtain more spirit geno points.
 
 Many islands, however, did not contain spirits. Han Sen had to fly around for quite a while, observing empty islands with no spirits on them. When he did find a spirit, he was dismayed to learn that they had no rank, and he therefore couldn't challenge them.
 

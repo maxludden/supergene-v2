@@ -6,42 +6,78 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## God of Wealth Blood-pulse
-### Chapter 3162 
+### Chapter 3162
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  He knew it was just an illusion and a weird scene. Still, seeing the money tree with lots of coins hanging from its boughs and feeling the aura of the gold money tree and a sky full of stars made him open his eyes wide.
+He knew it was just an illusion and a weird scene. Still, seeing the money tree with lots of coins hanging from its boughs and feeling the aura of the gold money tree and a sky full of stars made him open his eyes wide.
 
 The coins on the money tree fell off. They were going straight for Feng Yin Yin. They melted into her body. Her body was given a God Spirit mark that resembled a coin. It immediately started to shine. Its voluminosity grew brighter and brighter.
 
 The tree full of coins fell. It all melted into Feng Yin Yin’s body. At the same time, the Sky God Crown received a wonderful message.
 
-Spirit Strength: Ten star
+<div class="tables">
+	<table class="beast">
+		<tr>
+			<th>Blood-Pulse Test Results</th>
+		</tr><tr>
+			<td>Spirt Strength<br>
+				<span class="type">✭✭✭✭✭✭✭✭✭✭
+			</td>
+		</tr><tr>
+			<td>Gene Potential<br>
+				<span class="type">✭✭✭✭✭✭✭✭✭✭
+			</td>
+		</tr><tr>
+			<td>Compatibility<br>
+				<span class="type">✭✭✭✭✭✭✭✭✭⭐︎
+			</td>
+		</tr><tr>
+			<th>Overall Rating</th>
+		</tr><tr>
+			<td>S-Class Blood-Pulse Inheritor</td>
+		</tr>
+	</table>
+	<!--Spirit Strength: Ten star-->
+	<!--Gene potential: Ten star-->
+	<!--Compatibility: Nine star-->
+	<!--Overall: S-class Blood-Pulse inheritor-->
+</div>
 
-Gene potential: Ten star
+“Do the God Spirits use this to decide who to give their blood-pulses to?” 
 
-Compatibility: Nine star
+At the same time, Han Sen received even more messages from the Sky God Crown.
 
-Overall: S-class Blood-Pulse inheritor
-
-“Do the God Spirits use this to decide who to give their Blood – Pulses to?” At the same time, Han Sen received even more messages from the Sky God Crown.
-
-There were options for giving the person’s Blood-Pulse. There were four choices: one corner, broken, perfect, and inheritor.
-
-One corner meant one God Spirit Blood-Pulse would be given at random. It was the lowest level a God Spirit Blood-Pulse could impart. It gave a person a small God Spirit Blood-Pulse. It did not do much. It just made people a beginner-level gene caster.
-
-Broken God Spirit Blood – Pulses were better. Some features of the God Spirits were there, but they were not complete. They were not strong either.
-
-There was no need to explain things about perfect. It basically meant giving a person a perfect God Spirit Blood-Pulse and creating a contract. When the person needed it, they could call upon the God Spirit’s contract to combine and fight with their aid.
-
-God Spirits were able to use their inherited Blood-Pulse. It gave them extra power to fight.
-
-Of course, God Spirits gave humans these benefits to make humans grow. When humans had a contract with a gene race, God Spirits would take some of that power for themselves. It was mutually beneficial, as it helped humans grow. When humans gained a gene race, God Spirits were able to take some of that power. The stronger the gene race was, the more power they were able to take for themselves.
-
-The power taken away was used to make a god base.
+<div class="tables">
+	<table class="beast">
+		<tr>
+			<th>Select Type of Blood-Pulse</th>
+		</tr><tr>
+			<td>One-Corner Blood-Pulse<br>
+				<span class="note".>Beginner level blood-pulse. May be given at random.</td>
+		</tr><tr>
+			<td>Broken Blood-Pulse<br>
+				<span class="note">Intermediate level blood-pulse. Allows bearer to borrow some power from the God of Wealth</td>
+		</tr><tr>
+			<td>Perfect Blood-Pulse<br>
+				<span class="note">Advanced Blood-Pulse. Forms a contract with the God of Wealth allowing the bearer permission to combine and fight with your aid. Bearer's growth and gene races will contribute to the overall power of the God of Wealth. This power may be used to create a god base.</td>
+		</tr><tr>
+			<td>Inheritor Blood-Pulse<br>
+				<span class="note">Bestows the bearer and their descendants with a Perfect Blood-Pulse.</td>
+		</tr>
+	</table>
+	<!--There were options for giving the person’s Blood-Pulse. There were four choices: one corner, broken, perfect, and inheritor.-->
+	<!--One corner meant one God Spirit Blood-Pulse would be given at random. It was the lowest level a God Spirit Blood-Pulse could impart. It gave a person a small God Spirit Blood-Pulse. It did not do much. It just made people a beginner-level gene caster.-->
+	<!--Broken God Spirit Blood – Pulses were better. Some features of the God Spirits were there, but they were not complete. They were not strong either.-->
+	<!--There was no need to explain things about perfect. It basically meant giving a person a perfect God Spirit Blood-Pulse and creating a contract. When the person needed it, they could call upon the God Spirit’s contract to combine and fight with their aid.-->
+	<!--God Spirits were able to use their inherited Blood-Pulse. It gave them extra power to fight.-->
+	<!--Of course, God Spirits gave humans these benefits to make humans grow. When humans had a contract with a gene race, God Spirits would take some of that power for themselves. It was mutually beneficial, as it helped humans grow. When humans gained a gene race, God Spirits were able to take some of that power. The stronger the gene race was, the more power they were able to take for themselves.-->
+	<!--The power taken away was used to make a god base.-->
+</div>
 
 When God Spirits gave humans a Blood Pulse, it also meant risking the chance of causing damage to themselves. If the human selected was not very good, a God Spirit would not dare give them a perfect Blood-Pulse. It would not give out an inheritor Blood-Pulse.
 
@@ -66,8 +102,6 @@ Han Sen thought, “I don’t know when the power of the Sky God Crown will be r
 Han Sen told Feng Fei Fei, “This is our secret. Don’t tell anyone, and that includes your Auntie.” He did not want people looking at him like he was a monster.
 
 “This will be a secret between you and me,” Feng Yin Yin said as she blinked her eyes. “Now, we wait for Feng Yin Yin to get a gene race. After that, I will start reaping my benefits.” Han Sen was very hopeful, but he did not know how many gene races Feng Yin Yin could earn before giving him the necessary power to make a god base.
-
-ieces
 
 After thinking it over, Han Sen decided to bring out a king-class gene egg to give to Feng Yin Yin. He smiled and said, “Try this out. Can you use your God of Wealth Blood-Pulse to hatch it?”
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Connect Evolve
-### Chapter 1836 
+### Chapter 1836
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “Congratulations!” Han Sen was so happy. Gu Qingcheng had become a Noble on her first go, and that saved him a Magnet Fruit
+“Congratulations!” Han Sen was so happy. Gu Qingcheng had become a Noble on her first go, and that saved him a Magnet Fruit
 
 “I will walk around and sign-up near your ship.” Gu Qingcheng then left the abandoned building. She was not scared of the foreign world she had just been brought into. In fact, she was quite curious.
 

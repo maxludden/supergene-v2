@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## God Spirit
-### Chapter 2787 
+### Chapter 2787
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  When Sky Vine Radish self-destructed, Han Sen used his super god spirit body to survive the scary self-destructive powers.
+When Sky Vine Radish self-destructed, Han Sen used his super god spirit body to survive the scary self-destructive powers.
 
 The things around him were not so lucky. Everything else had been destroyed by that explosion. There was not even dust left.
 

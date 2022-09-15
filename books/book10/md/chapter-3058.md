@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Demon Descends
-### Chapter 3058 
+### Chapter 3058
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The blood ghost spirit looked very murderous. Its body was like a ghost going for Ghost Kill. It was unknown how much faster it was than how it was before, but Ghost Kill only saw a blurry purple shadow. She was unable to see its body or tracks.
+The blood ghost spirit looked very murderous. Its body was like a ghost going for Ghost Kill. It was unknown how much faster it was than how it was before, but Ghost Kill only saw a blurry purple shadow. She was unable to see its body or tracks.
 
 Ghost Kill turned into black smoke and dodged, but Han Sen still heard the black smoke had some humming sounds. When the black smoke turned into Ghost Kill again, her stomach had a few scratch marks, and she was bleeding profusely from them.
 

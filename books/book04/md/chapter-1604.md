@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Common Enemy
-### Chapter 1604 
+### Chapter 1604
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Flowing Sand Dune was three hundred square miles, and it was definitely a forbidden place in Wind Song Desert. Even the storm wouldn’t come to this place.
+Flowing Sand Dune was three hundred square miles, and it was definitely a forbidden place in Wind Song Desert. Even the storm wouldn’t come to this place.
 
 Black Horn Dragon was lying on the dune, enjoying the sun and having a nap.
 

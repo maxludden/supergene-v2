@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Who Is the Star?
-### Chapter 174 
+### Chapter 174
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  All of Digang’s campaigns had been about the concept of super biological warframe, but none had shown the appearance of this new warframe.
+All of Digang’s campaigns had been about the concept of super biological warframe, but none had shown the appearance of this new warframe.
 
 At this time, Digang was seizing the time to shoot the commercials for SKTS for publicity.
 

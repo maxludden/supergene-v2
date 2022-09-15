@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Battle Buddha
-### Chapter 1941 
+### Chapter 1941
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen carried Hai’er as he ran, but it wasn’t because he had any sympathy for her. He wanted a witness. If he had one, it might prove useful further down the line.
+Han Sen carried Hai’er as he ran, but it wasn’t because he had any sympathy for her. He wanted a witness. If he had one, it might prove useful further down the line.
 
 Han Sen used his rabbit shoes to run, but he still looked gloomy. Seven Spirit Buddha was keeping up with him, and the gap between them was slowly closing.
 

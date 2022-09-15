@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Picked Up One
-### Chapter 1991 
+### Chapter 1991
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Not long after, Yu Jing was driving a flying beast car to Han Sen’s Jade Island. He hauled a whole bunch of xenogeneic genes out of the car. There were twenty-three of them.
+Not long after, Yu Jing was driving a flying beast car to Han Sen’s Jade Island. He hauled a whole bunch of xenogeneic genes out of the car. There were twenty-three of them.
 
 “Brother Han, what do you need this many xenogeneic genes for? Will they help in the fight against Lone Bamboo tomorrow?” Yu Jing asked Han Sen.
 

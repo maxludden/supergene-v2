@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Strange Fruit Forest
-### Chapter 867 
+### Chapter 867
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The group walked for a few more days in the sanctuary, leaving behind the lands frequently visited by humans. Before long, Han Sen and Zero found themselves standing at the eaves of a fruity forest. The trees there were about thirty to forty meters high, and their trunks were massive. Dotted among the branches of the trees were black fruits, each the size of a fist. Han Sen retrieved one and cut it open. It was fairly tough to cut through, and when the fruit opened up, it let out a stinky, nauseating smell.
+The group walked for a few more days in the sanctuary, leaving behind the lands frequently visited by humans. Before long, Han Sen and Zero found themselves standing at the eaves of a fruity forest. The trees there were about thirty to forty meters high, and their trunks were massive. Dotted among the branches of the trees were black fruits, each the size of a fist. Han Sen retrieved one and cut it open. It was fairly tough to cut through, and when the fruit opened up, it let out a stinky, nauseating smell.
 
 After traveling another few hundred miles, they were confused to find themselves still inside the forest they thought they could soon pass through. Their minds struggled to comprehend how large and sprawling that forest must have been.
 

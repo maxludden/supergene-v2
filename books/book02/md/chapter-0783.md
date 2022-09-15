@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Devil-eye Beast Soul
-### Chapter 783 
+### Chapter 783
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen's hand hadn't come down on the fairy yet, but suddenly, the little fairy blew frosty air towards his face. Ice and frost accumulated on his eyebrows, and he shivered from the sudden cold.
+Han Sen's hand hadn't come down on the fairy yet, but suddenly, the little fairy blew frosty air towards his face. Ice and frost accumulated on his eyebrows, and he shivered from the sudden cold.
 
 The fairy stuck her tongue out at Han Sen and laughed.
 

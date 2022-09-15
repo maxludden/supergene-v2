@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Bad Fight
-### Chapter 2591 
+### Chapter 2591
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The sky was full of fire, and it was all headed for Meng Lie. Meng Lie swung his knife, and the sea of fire parted like it had been cut with a pair of scissors. The fire fell away to either side of the man and faded.
+The sky was full of fire, and it was all headed for Meng Lie. Meng Lie swung his knife, and the sea of fire parted like it had been cut with a pair of scissors. The fire fell away to either side of the man and faded.
 
 A cold, golden knife light suddenly flew toward the little red bird. If the little red bird hadn’t dodged the attack in time, it would have been cut in half.
 

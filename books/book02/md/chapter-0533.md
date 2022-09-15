@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Snow-lady Beast Soul
-### Chapter 533 
+### Chapter 533
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  There were a lot of negatives associated with the "Dual" sword skill, and they created problems that would arise during combat. This made Han Sen realize that creating a sword skill was no easy task.
+There were a lot of negatives associated with the "Dual" sword skill, and they created problems that would arise during combat. This made Han Sen realize that creating a sword skill was no easy task.
 
 But Han Sen had no other choice. Any new sword skill creation required vigorous combat testing, so he had to be patient and make a note of every flaw he noticed during battle, in order to rectify and improve later.
 

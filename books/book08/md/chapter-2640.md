@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Outer Sky
-### Chapter 2640 
+### Chapter 2640
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “What should I tell her? Am I just supposed to walk up and tell her that I want to join the Very High despite everything that happened? I would feel so cheap after the fuss I made,” Han Sen thought. He was on his way to the Sky’s Water House. He considered many different ways that he might approach the subject with Exquisite, but nothing he came up with seemed very good. When Han Sen arrived at the doorstep of the Water House, he came face to face with Exquisite. She still looked rather pale. She opened her mouth to speak, but no sound came out.
+“What should I tell her? Am I just supposed to walk up and tell her that I want to join the Very High despite everything that happened? I would feel so cheap after the fuss I made,” Han Sen thought. He was on his way to the Sky’s Water House. He considered many different ways that he might approach the subject with Exquisite, but nothing he came up with seemed very good. When Han Sen arrived at the doorstep of the Water House, he came face to face with Exquisite. She still looked rather pale. She opened her mouth to speak, but no sound came out.
 
 “I can’t jump straight into this conversation. I just can’t,” Han Sen thought, suppressing a wry smile.
 

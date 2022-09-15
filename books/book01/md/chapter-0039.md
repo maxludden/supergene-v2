@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Saint Paul: Part 1
-### Chapter 39 
+### Chapter 39
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  "Let’s talk about this another time. I have to go now, and thank you so much for all your help. I’ll buy you dinner sometime," said Han Sen, ready to go back.
+"Let’s talk about this another time. I have to go now, and thank you so much for all your help. I’ll buy you dinner sometime," said Han Sen, ready to go back.
 
 He knew that what Qin Xuan said made sense, but he had his own plan. He wanted to get an aristocratic title before he turned 20 and went to serve, because aristocrats had certain privileges in the army and would not be sent to the front.
 

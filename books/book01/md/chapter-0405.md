@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## The Power of Angel
-### Chapter 405 
+### Chapter 405
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  If Starry Group did not do it, how can I explain my father's accident? Han Sen felt puzzled. Although Ning Yue must still be hiding something and could not be trusted completely. He could not have lied because of the aqua reaper.
+If Starry Group did not do it, how can I explain my father's accident? Han Sen felt puzzled. Although Ning Yue must still be hiding something and could not be trusted completely. He could not have lied because of the aqua reaper.
 
 In addition, before the accident, his father did ask them to find the Nings, which meant the Nings were unlikely to be responsible for the accident. It also seemed that Han Sen's father already knew something was going to happen.
 

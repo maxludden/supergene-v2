@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Gargoyle
-### Chapter 456 
+### Chapter 456
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen was very satisfied with Treading Cloud, which was a secret hyper geno art that he could not even learn at Saint Hall. It was worth it to pay an S-Class Saint Hall license and a berserk beast soul.
+Han Sen was very satisfied with Treading Cloud, which was a secret hyper geno art that he could not even learn at Saint Hall. It was worth it to pay an S-Class Saint Hall license and a berserk beast soul.
 
 Just like that, Han Sen and Zhu Ting agreed on the time of the trade. Zhu Ting could teach Han Sen the footwork himself, but he had to obtain the special geno solutions from the Chens.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Angry Steel Army
-### Chapter 1786 
+### Chapter 1786
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  In a town in the north, the Taurus Viscount—whose name was Angry Steel—was looking at the image in front of him. He was watching the Seven Mirrors airship.
+In a town in the north, the Taurus Viscount—whose name was Angry Steel—was looking at the image in front of him. He was watching the Seven Mirrors airship.
 
 Next to Angry Steel, there was a man. He had purple eyes and hair, horns, and white clothes. He, too, was watching the videostream.
 

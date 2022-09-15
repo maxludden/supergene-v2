@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## A Punch
-### Chapter 3035 
+### Chapter 3035
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  One punch. Han Sen felt as if he had just enjoyed a nice sleep. He felt so good that he almost groaned.
+One punch. Han Sen felt as if he had just enjoyed a nice sleep. He felt so good that he almost groaned.
 
 He opened his eyes. What he saw in front of him gave him a shock. He wasn’t able to figure out what had happened to him in the space of a second.
 

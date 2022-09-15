@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## His Reputation
-### Chapter 676 
+### Chapter 676
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen returned to the shelter. Near the Devil's Mountain, Lu Hui and the Northern Master Huang Yunlong sent someone over, hoping to cooperate with Han Sen to hunt another super creature.
+Han Sen returned to the shelter. Near the Devil's Mountain, Lu Hui and the Northern Master Huang Yunlong sent someone over, hoping to cooperate with Han Sen to hunt another super creature.
 
 Han Sen neither accepted nor refused. He merely said, "Maybe one day."
 

@@ -1,19 +1,20 @@
-Title:Mutant Creature 
-Chapter:18 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+Title:Mutant Creature
+Chapter:18
+Section:1
+Book:1
+CSS:../Styles/style.css
 viewport: width=device-width
-  
+
 ## Mutant Creature
-### Chapter 18 
+### Chapter 18
+
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
-  
 
-  
-  "What are you doing?" Qin Xuan frowned.
+
+
+"What are you doing?" Qin Xuan frowned.
 
 "I’ll take you out after picking up the corpse of the mutant quartz scorpion you killed." Han Sen continued to go inside.
 
@@ -29,7 +30,7 @@ Although Qin Xuan had guessed it, she was still surprised to see that Han Sen ha
 
 Han Sen put the corpse of the mutant scorpion in his bag first before he started to fill it with primitive scorpions. There were still a few that wouldn’t fit in there, and he didn’t waste those but ate all the flesh until he had cleaned them up.
 
-> "Primitive Quartz Scorpion Flesh Eaten. Four Primitive Geno Points Gained."
+> "Primitive Quartz Scorpion flesh eaten. Four primitive geno points gained."
 
 "I haven’t seen anyone quite like you, willing to eat such disgusting things." Qin Xuan had never met someone who had such nice equipment but remained so stingy.
 
@@ -85,7 +86,7 @@ Han Sen went back to his original look and returned to the shelter with his bag.
 
 There was no one guarding the gate anymore: they had searched for Dollar for so long and found nothing, so they had to give up.
 
-Dollarcidentally, Han Sen ran into Han Hao and his friends again.
+Dollar accidentally, Han Sen ran into Han Hao and his friends again.
 
 "Nice to see you again, Ass Freak! You have a full bag with you. How many mutant creatures did you hunt?" A young man ridiculed him.
 

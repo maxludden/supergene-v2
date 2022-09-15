@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Shocking Destroyed Power
-### Chapter 2175 
+### Chapter 2175
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Barr’s hand came into contact with the tip of the arrow, and the expressions on Barr’s faces hardened. A black light that looked indestructible cloaked his hand, and it looked like the arrow would shatter against it.
+Barr’s hand came into contact with the tip of the arrow, and the expressions on Barr’s faces hardened. A black light that looked indestructible cloaked his hand, and it looked like the arrow would shatter against it.
 
 That black arrow seemed to be sharper than expected, though. And when the black arrow came against the black light, it did not break. Barr’s power was unable to deflect it. The arrow flashed into Barr’s hand like black lightning, and it spun as fast as a drillhead.
 

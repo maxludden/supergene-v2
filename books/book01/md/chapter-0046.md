@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Endurance
-### Chapter 46 
+### Chapter 46
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  "Even if I am sleeping with Qin Xuan, I wouldn’t bother her with this. Moreover, there is really nothing going on," explained Han Sen.
+"Even if I am sleeping with Qin Xuan, I wouldn’t bother her with this. Moreover, there is really nothing going on," explained Han Sen.
 
 "In our gang, Manli would only listen to Qin Xuan. So, unless she helps us, we won’t be able to go tomorrow." Su Xiaqiao held Han Sen’s hand, "Brother, dignity is worthless, but the sacred-blood creature is priceless. If you really have something going on with Qin Xuan, you need to beg her and let her do whatever she wants with you. You need to focus on the big picture."
 

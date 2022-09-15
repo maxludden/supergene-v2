@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Taoism
-### Chapter 2599 
+### Chapter 2599
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen didn’t believe him, but he hadn’t yet tried the test that Yu Shanxin had suggested. He wanted to help Lone Bamboo, but he wasn’t going to the Very High on his friend’s behalf.
+Han Sen didn’t believe him, but he hadn’t yet tried the test that Yu Shanxin had suggested. He wanted to help Lone Bamboo, but he wasn’t going to the Very High on his friend’s behalf.
 
 Seeing Han Sen leave, Yu Shanxin smiled. He did not get mad at Han Sen’s rejection.
 

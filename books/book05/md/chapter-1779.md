@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## One Person, One Race
-### Chapter 1779 
+### Chapter 1779
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The angel figure that the gold flame had created gathered up a power that was indestructible. It looked as if it would only take one hit to destroy an entire galaxy. It could destroy the future.
+The angel figure that the gold flame had created gathered up a power that was indestructible. It looked as if it would only take one hit to destroy an entire galaxy. It could destroy the future.
 
 Many powerful races were thinking that the Feathers were practically almighty.
 

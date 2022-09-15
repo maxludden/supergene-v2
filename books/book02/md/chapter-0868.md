@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Dark Haunted Forest
-### Chapter 868 
+### Chapter 868
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  "Die?" Han Sen looked at the woman with shock.
+"Die?" Han Sen looked at the woman with shock.
 
 "Follow me." The woman gestured for Han Sen and Zero to accompany her, then she turned around and ventured deeper into the forest.
 

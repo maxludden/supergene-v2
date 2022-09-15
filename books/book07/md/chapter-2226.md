@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Undying Bird Nes
-### Chapter 2226 
+### Chapter 2226
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “What is the level of this Undying Bird?” Han Sen asked with a frown. The name of the beast didn’t sound like one that would bode well.
+“What is the level of this Undying Bird?” Han Sen asked with a frown. The name of the beast didn’t sound like one that would bode well.
 
 “Deified.” Bai Wei did not hesitate to give him an answer.
 

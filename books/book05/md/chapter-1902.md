@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Buddha Touching a Flower
-### Chapter 1902 
+### Chapter 1902
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen stood in front of the testing gold rock, and his mind moved quickly.
+Han Sen stood in front of the testing gold rock, and his mind moved quickly.
 
 No Flower’s Touching Flower Finger mind was not a King class display, but to young Nobles, it certainly seemed that strong.
 

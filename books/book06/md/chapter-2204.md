@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Black-moon King Visit
-### Chapter 2204 
+### Chapter 2204
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Meng’er and the others finished off the remainder of the Shadow Bees effortlessly. They managed to collect a lot of xenogeneic genes through the effort, and many of them earned Shadow Bee beast souls.
+Han Meng’er and the others finished off the remainder of the Shadow Bees effortlessly. They managed to collect a lot of xenogeneic genes through the effort, and many of them earned Shadow Bee beast souls.
 
 The beast souls were arrows that wielded a toxic fire. When Han Meng’er killed the second Duke Shadow Bee, she earned a Duke toxic arrow beast soul.
 

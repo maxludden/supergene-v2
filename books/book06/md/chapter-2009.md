@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## The Feather Comes
-### Chapter 2009 
+### Chapter 2009
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  One month passed. Han Sen left Rare Beast Island and returned the tablet to Shi Beifeng.
+One month passed. Han Sen left Rare Beast Island and returned the tablet to Shi Beifeng.
 
 “Brother Han, if you’d like, you can stay for longer. It is okay.” Shi Beifeng had come to say goodbye to Han Sen, who was going to leave the island.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Fighting Fire With Fire
-### Chapter 1348 
+### Chapter 1348
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen was taken aback. He thought the slippery, worm-tongued Cheap Sheep had played a magic trick on him.
+Han Sen was taken aback. He thought the slippery, worm-tongued Cheap Sheep had played a magic trick on him.
 
 Looking at the red figure that had just appeared on the plain, he noticed it was the chef. Unfortunately for her, she looked to be in very sorry shape, and the red color was the blood that soaked her person.
 

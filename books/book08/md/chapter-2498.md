@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Saiyan
-### Chapter 2498 
+### Chapter 2498
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “Saiyan!” Han Sen’s face changed.
+“Saiyan!” Han Sen’s face changed.
 
 If there was a race in the universe that could drive a battleship into the Tianxia System, it would be the Saiyan.
 

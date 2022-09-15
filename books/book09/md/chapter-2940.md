@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Han Yu Fei
-### Chapter 2940 
+### Chapter 2940
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  There was another reason he remembered. It was because the woman had the same surname as him. It was Han, so that was another major point as to why he recalled the name.
+There was another reason he remembered. It was because the woman had the same surname as him. It was Han, so that was another major point as to why he recalled the name.
 
 “Which race was Han Yufei? What was her position in Sacred?” Han Sen asked.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Should Be Killed
-### Chapter 824 
+### Chapter 824
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Boom!
+Boom!
 
 Yu Qielan's body shattered the atmosphere. It was as if he teleported directly in front of Huang Xiao, with his big hand reaching out for the young man's head.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## The Geno Art That Has a Problem
-### Chapter 1818 
+### Chapter 1818
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “Thank you, My Queen.” Han Sen’s eyes felt wet She had been really helpful, and even given a precious gift to her enemy.
+“Thank you, My Queen.” Han Sen’s eyes felt wet She had been really helpful, and even given a precious gift to her enemy.
 
 Han Sen thought that if she found out he was Dollar, she’d be so angry that she’d most likely stroke out and die.
 

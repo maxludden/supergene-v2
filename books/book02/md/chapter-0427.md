@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Certification as Aristocrat
-### Chapter 427 
+### Chapter 427
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  It was very crowded in the Certification Bureau. All the service windows had long lines in front of them, but the majority of the people were there for the certification as mutant evolvers and primitive evolvers. Although the mutant evolvers also had the status of aristocrat, their status was significantly lower than sacred-blood aristocrats.
+It was very crowded in the Certification Bureau. All the service windows had long lines in front of them, but the majority of the people were there for the certification as mutant evolvers and primitive evolvers. Although the mutant evolvers also had the status of aristocrat, their status was significantly lower than sacred-blood aristocrats.
 
 Men were doing better and better in First God’s Sanctuary, and more and more people were able to kill a super creature. However, those who could max out on sacred geno points were still quite limited.
 

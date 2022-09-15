@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Fighting the Shelter
-### Chapter 1606 
+### Chapter 1606
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  > "Berserk Super Creature Fallen Slaughter Killed. Beast Soul Gained. Geno Core Destroyed. Flesh Cannot Be Eaten. Collect the Life Geno Essence to Gain One to Ten Super Geno Points Randomly."
+> "Berserk Super Creature Fallen Slaughter Killed. Beast Soul Gained. Geno Core Destroyed. Flesh Cannot Be Eaten. Collect the Life Geno Essence to Gain One to Ten Super Geno Points Randomly."
 
 By the time the announcement came to an end, Han Sen had already grabbed Fallen Slaughter’s Life Geno Essence. Without slowing down, he kept running forward.
 

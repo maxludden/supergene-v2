@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Benefi
-### Chapter 2248 
+### Chapter 2248
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen looked at the blood kirin, and his eyes shone as if he was looking at a giant, delicious piece of cake.
+Han Sen looked at the blood kirin, and his eyes shone as if he was looking at a giant, delicious piece of cake.
 
 Now he finally understood how the child of a mere Viscount had reached King class after being born amidst the bones.
 

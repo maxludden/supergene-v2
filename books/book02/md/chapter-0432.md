@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## The Impossible Eighth Kick
-### Chapter 432 
+### Chapter 432
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Lu Bin also roared, his kicks going up from the ground, meeting Han Sen's kicks in the air, making sonic booms.
+Lu Bin also roared, his kicks going up from the ground, meeting Han Sen's kicks in the air, making sonic booms.
 
 Boom!
 

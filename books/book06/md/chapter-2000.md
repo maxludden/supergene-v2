@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## The Battle Ends
-### Chapter 2000 
+### Chapter 2000
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The students watched the fight with gaping mouths. Han Sen’s power didn’t seem as strong as Lone Bamboo’s, but it felt as if the contestants were somehow even. The situation almost seemed self-contradictory.
+The students watched the fight with gaping mouths. Han Sen’s power didn’t seem as strong as Lone Bamboo’s, but it felt as if the contestants were somehow even. The situation almost seemed self-contradictory.
 
 The King class observers noticed Han Sen’s energy, and when they saw it, they were shocked. They felt the same thing that the students felt, but they could understand a bit more.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Very High
-### Chapter 2536 
+### Chapter 2536
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  In that instant, the faces of Bai Wan Jie and all the royal knights grew pale. They all knew that what had just happened wasn’t a dream. Hundreds of Kings and half-deifieds had summoned and unleashed their power.
+In that instant, the faces of Bai Wan Jie and all the royal knights grew pale. They all knew that what had just happened wasn’t a dream. Hundreds of Kings and half-deifieds had summoned and unleashed their power.
 
 But without moving, Han Sen had erased everyone’s power in the blink of an eye. What he had done was scarcely believable.
 

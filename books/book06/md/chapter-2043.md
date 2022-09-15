@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Escaping Under the Sea
-### Chapter 2043 
+### Chapter 2043
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The giant Spiky Turtle was swimming deep into the sea. Han Sen hung onto to creature, using its large body to avoid the scary shockwaves as they went. When he reached an area outside of the effective radius of the shockwaves, he let go of the turtle. He looked over his shoulder and saw many Spiky Turtles swimming deep into the sea around them.
+The giant Spiky Turtle was swimming deep into the sea. Han Sen hung onto to creature, using its large body to avoid the scary shockwaves as they went. When he reached an area outside of the effective radius of the shockwaves, he let go of the turtle. He looked over his shoulder and saw many Spiky Turtles swimming deep into the sea around them.
 
 Han Sen was afraid he might have swum too deep. He didn’t want to escape from the shockwave, only to become food for the xenogeneics that lurked in the depths of the sea. So, he didn’t dive any further.
 

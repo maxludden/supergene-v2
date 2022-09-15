@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## The Same Stone Mountain
-### Chapter 2460 
+### Chapter 2460
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen looked at the woman, his expression carefully veiled. He wanted to know, but the woman obviously wanted something in return. He would need to know what she wanted before he agreed to some sort of bargain.
+Han Sen looked at the woman, his expression carefully veiled. He wanted to know, but the woman obviously wanted something in return. He would need to know what she wanted before he agreed to some sort of bargain.
 
 The woman smiled at him. “I will tell you, but you will have to help me with something first. Do it, and I will explain everything.”
 

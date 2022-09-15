@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Reborn
-### Chapter 2759 
+### Chapter 2759
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  While Han Sen was still trying to figure out what was going on, his left arm started to move. It was like the blood in his arm was driving his muscles forward. Han Sen’s brain definitely wasn’t telling his arm to move, but his hand reached out to grip the blood coral anyway.
+While Han Sen was still trying to figure out what was going on, his left arm started to move. It was like the blood in his arm was driving his muscles forward. Han Sen’s brain definitely wasn’t telling his arm to move, but his hand reached out to grip the blood coral anyway.
 
 Han Sen looked at his hand in consternation, but he couldn’t stop it. His left hand gripped the part of the blood coral that looked like a dragon’s head.
 

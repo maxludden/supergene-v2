@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Betrayal
-### Chapter 3250 
+### Chapter 3250
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  After eating, Tian Jing and the others were going to continue their journey. She said to Han Sen, “We will have to go our separate ways now. If we meet again further down the road, do not hate us for behaving impolitely.”
+After eating, Tian Jing and the others were going to continue their journey. She said to Han Sen, “We will have to go our separate ways now. If we meet again further down the road, do not hate us for behaving impolitely.”
 
 “Fine. We will go our own way here,” Han Sen said with a nod as he exited the ice cave.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Invincible Pet Armor
-### Chapter 391 
+### Chapter 391
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The golden rock worm king which had lost its appetite for a long time suddenly opened its mouth wide and swallowed the black-feathered beast king's body in its entirety, making the rest of the group dumbstruck.
+The golden rock worm king which had lost its appetite for a long time suddenly opened its mouth wide and swallowed the black-feathered beast king's body in its entirety, making the rest of the group dumbstruck.
 
 Everyone could tell that the body indeed belonged to the sacred-blood black-feathered beast king. Originally, they thought Han Sen would save the body for himself. Who knows that Han Sen had fed the whole body to his pet. It was simply impressive.
 

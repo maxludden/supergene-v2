@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Ring
-### Chapter 1594 
+### Chapter 1594
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “Lin Feng?” Han Sen asked when he heard the man’s voice. With much glee, he ran over to him.
+“Lin Feng?” Han Sen asked when he heard the man’s voice. With much glee, he ran over to him.
 
 Encountering friends in such a place was always a very happy occurrence.
 

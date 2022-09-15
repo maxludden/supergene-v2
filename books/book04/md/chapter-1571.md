@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Qi Gong Caster
-### Chapter 1571 
+### Chapter 1571
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “It doesn’t matter if I can or not. If you don’t believe me, just pretend I’m not. But just tell me who told you these things.” Gu Qingcheng knew Han Sen, and she knew it couldn’t have been Han Sen who saw those events. Someone must have told him. So, Gu Qingcheng had no reason to be suspicious about what he had told her.
+“It doesn’t matter if I can or not. If you don’t believe me, just pretend I’m not. But just tell me who told you these things.” Gu Qingcheng knew Han Sen, and she knew it couldn’t have been Han Sen who saw those events. Someone must have told him. So, Gu Qingcheng had no reason to be suspicious about what he had told her.
 
 “I’m not sure. I met someone, but I don’t know anything about him. I never saw him again, after that.” Han Sen didn’t know who the person was, so he couldn’t tell her.
 

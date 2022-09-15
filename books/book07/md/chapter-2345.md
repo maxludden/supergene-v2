@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Mirror Spirit Eye
-### Chapter 2345 
+### Chapter 2345
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Chu Nan locked the door to Han Sen and the blood kirin’s jail cell, and he was just about to leave when someone else walked up. It was Prince Swordstar.
+Chu Nan locked the door to Han Sen and the blood kirin’s jail cell, and he was just about to leave when someone else walked up. It was Prince Swordstar.
 
 “My Prince.” Chu Nan and his servant bowed courteously.
 

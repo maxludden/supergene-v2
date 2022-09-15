@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Aqua Reaper Beast Soul
-### Chapter 339 
+### Chapter 339
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  "Right now!" A cold light flashed in Han Sen's golden eyes. The spinning spear left the bow with a strong force, flying toward the screeching creature.
+"Right now!" A cold light flashed in Han Sen's golden eyes. The spinning spear left the bow with a strong force, flying toward the screeching creature.
 
 Whoosh!
 

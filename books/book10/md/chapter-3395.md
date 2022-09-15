@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Becoming a Leader Again
-### Chapter 3395 
+### Chapter 3395
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Ancient Devil frowned and said, “Han Sen, if you and I keep doing this, we will attract the attention of other people. It is only a matter of time before others come. When that happens, it will be bad for both of us.”
+Ancient Devil frowned and said, “Han Sen, if you and I keep doing this, we will attract the attention of other people. It is only a matter of time before others come. When that happens, it will be bad for both of us.”
 
 “I am fine with that,” Han Sen said with a smile. “Other people are easier to deal with than you.”
 

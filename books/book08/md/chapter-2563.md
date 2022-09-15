@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Try Your Best
-### Chapter 2563 
+### Chapter 2563
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Two demon crocodiles appeared at the same time. Han Sen teleported over to the one that was farther from him. He gave the closer one to Exquisite, as he didn’t want to steal the kill from her.
+Two demon crocodiles appeared at the same time. Han Sen teleported over to the one that was farther from him. He gave the closer one to Exquisite, as he didn’t want to steal the kill from her.
 
 Gravity was strong there. Even teleportation happened slowly beneath that level of pressure. When Han Sen teleported near the demon crocodile, Exquisite had already killed the creature.
 

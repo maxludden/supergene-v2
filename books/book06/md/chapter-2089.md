@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Suppress Evil Technique
-### Chapter 2089 
+### Chapter 2089
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen did not know what a “geno being scroll” was. After Han Sen asked Yu Jing, he learned that it was a treasure from the geno hall. It appeared in the geno hall once a century, and any race could compete for it. They could test themselves inside.
+Han Sen did not know what a “geno being scroll” was. After Han Sen asked Yu Jing, he learned that it was a treasure from the geno hall. It appeared in the geno hall once a century, and any race could compete for it. They could test themselves inside.
 
 Geno being scrolls would place the names of the top ten thousand on it, individually organized from best to worst.
 

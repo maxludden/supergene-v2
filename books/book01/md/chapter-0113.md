@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## My Conquest Is the Sea of Stars
-### Chapter 113 
+### Chapter 113
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen could not immediately go back now, so he first teleported out of God’s Sanctuary and as soon as he was in the Alliance, he saw on his comlink many unanswered calls from Fang Jingqi. He called back and heard Fang’s relieved voice, "You are not dead yet?"
+Han Sen could not immediately go back now, so he first teleported out of God’s Sanctuary and as soon as he was in the Alliance, he saw on his comlink many unanswered calls from Fang Jingqi. He called back and heard Fang’s relieved voice, "You are not dead yet?"
 
 "Good people are not so easy to die. Tell Fist Guy that I cannot go see him right now and will give him the mutant mount back." Their contract stipulated that if the sacred-blood creature was hunted, Han Sen could have a mutant beast soul mount, but since the scaled armadillo was taken by the silver bird, Fist Guy’s gang must have gone back with nothing. There was no reason for Han Sen to keep the mount.
 

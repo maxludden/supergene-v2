@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## God Corpse
-### Chapter 2782 
+### Chapter 2782
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Bai Wanjie used a deified weapon to slice straight through a Flower God’s brain. But even though its bisected brain and body fell into the soil, the creature healed so fast that the process could be seen with the naked eye. The creature was back on its feet in moments.
+Bai Wanjie used a deified weapon to slice straight through a Flower God’s brain. But even though its bisected brain and body fell into the soil, the creature healed so fast that the process could be seen with the naked eye. The creature was back on its feet in moments.
 
 That big Space Garden was filled to the brim with the acoustics of killing. The Kings were basically all dead, and the deified elites themselves were not faring very well. Deified blood was everywhere.
 

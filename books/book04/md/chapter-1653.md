@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Message
-### Chapter 1653 
+### Chapter 1653
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Guardian Spirit looked at Golden Growler in shock, and it was obvious he was thinking about something.
+Guardian Spirit looked at Golden Growler in shock, and it was obvious he was thinking about something.
 
 “Dragon Lady, you try as well,” Han Sen said to her. He didn’t have much hope she’d be successful, but he did hope he’d be able to take a few of the armors back with him.
 

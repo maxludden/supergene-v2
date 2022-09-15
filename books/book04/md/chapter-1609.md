@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## One Sword to Break Outer Sky
-### Chapter 1609 
+### Chapter 1609
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Dong!
+Dong!
 
 Before Han Sen ran inside the glass palace, the crystal shoe on his foot slipped off and went flying forward of its own volition.
 

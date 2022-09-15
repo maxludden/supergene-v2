@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Before the Testing Gold Rock
-### Chapter 1901 
+### Chapter 1901
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “If no one can compete against No Flower, this round will be over,” Moon Wheel King said, as he stood up.
+“If no one can compete against No Flower, this round will be over,” Moon Wheel King said, as he stood up.
 
 He understood the thoughts of those from Moon Garden, though. He knew no one else from Moon Garden could compete with what they had just witnessed. So, he did not want to waste any further time. It’d only reflect poorly on the Rebate and Moon Garden.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Knife Grave
-### Chapter 1824 
+### Chapter 1824
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  
+
 
 “Queen didn’t tell you before you came?” Black Steel frowned.
 

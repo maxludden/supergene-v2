@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Can You Not Treat Me Like a Monster?
-### Chapter 1951 
+### Chapter 1951
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Planet Eclipse.
+Planet Eclipse.
 
 Wang Yuhang was riding his bike across the mountains. He was wearing a pair of eye-catching sunglasses.
 

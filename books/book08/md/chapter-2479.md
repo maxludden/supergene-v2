@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Tianxia’s Power
-### Chapter 2479 
+### Chapter 2479
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen was getting chased by the unicorn Kings. The herd of unicorns was fleeing as fast as they could, so he couldn’t use his eye ability to escape. He frowned.
+Han Sen was getting chased by the unicorn Kings. The herd of unicorns was fleeing as fast as they could, so he couldn’t use his eye ability to escape. He frowned.
 
 The gold unicorn King pursued Han Sen relentlessly. The beast clearly wanted to end him.
 

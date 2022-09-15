@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Spring Eye Opened
-### Chapter 1916 
+### Chapter 1916
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Without the plants, the red mist had smothered the entire cave. Fortunately, Han Sen had his Dongxuan Aura to help him see things clearly.
+Without the plants, the red mist had smothered the entire cave. Fortunately, Han Sen had his Dongxuan Aura to help him see things clearly.
 
 After they entered the cave, the minks returned to where they were born. Then, they started digging with their little paws. They wanted to burrow through the stone. The little minks had just been born, however, and they were only Baron class. They were still very weak, so they could only leave small scratches across the rock.
 

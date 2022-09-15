@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Revenge
-### Chapter 249 
+### Chapter 249
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  "Captain, it is a sacred-blood creature we are going to hunt. I don't think we could bring any irrelevant person," objected Yang Manli when hearing Qing was also coming.
+"Captain, it is a sacred-blood creature we are going to hunt. I don't think we could bring any irrelevant person," objected Yang Manli when hearing Qing was also coming.
 
 "Han Sen, this is such a good opportunity. I really would like to see how you hunt. Please bring me with you." The condition was not a compulsory one written in the mission, so Qing had to beg Han Sen.
 

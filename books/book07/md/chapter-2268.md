@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Holy Monumen
-### Chapter 2268 
+### Chapter 2268
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “My good little brother, are you really that naive? Surely you don’t think that the blood kirin’s power is sufficient to challenge someone like me?” Fox Queen smiled at Han Sen and the blood kirin as she stood before the mountain.
+“My good little brother, are you really that naive? Surely you don’t think that the blood kirin’s power is sufficient to challenge someone like me?” Fox Queen smiled at Han Sen and the blood kirin as she stood before the mountain.
 
 “Big sis, you’re far too suspicious. Have you forgotten about the close bond between us? Why would I ever want to attack my big sister? When I realized that you’d been freed, I wanted to come and celebrate the occasion with you. I just thought I would bring along the blood kirin,” Han Sen said.
 

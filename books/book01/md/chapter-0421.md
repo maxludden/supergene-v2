@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Biggest Problem
-### Chapter 421 
+### Chapter 421
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  "Sacred-blood beast soul aura… Sacred-blood beast soul add-on… Sacred-blood shapeshifting beast soul… Sacred-blood beast soul weapon… Sacred-blood wings…" Zhong Zhenhong could not help reading the beast soul list out loud. His voice became more grim every time he finished reading one. Even his hand holding the document was shaking.
+"Sacred-blood beast soul aura… Sacred-blood beast soul add-on… Sacred-blood shapeshifting beast soul… Sacred-blood beast soul weapon… Sacred-blood wings…" Zhong Zhenhong could not help reading the beast soul list out loud. His voice became more grim every time he finished reading one. Even his hand holding the document was shaking.
 
 He knew very well what these beast souls meant. Although humans had developed in God’s Sanctuary for almost 2 decades and there were more and more who could kill a sacred-blood creature, it did not mean it was an easy thing to hunt sacred-blood creatures. More than 90% of humans could never hunt a sacred-blood creature, let alone gain a sacred-blood blood beast soul.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Legendary Extreme King
-### Chapter 2311 
+### Chapter 2311
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Bai Wuchang had been strung up like a caught rabbit while fighting a Duke. The news spread through the Extreme King like wildfire. It became a well-known tale far and wide. Bai Wuchang had been beaten and hung upside-down by a Duke. And that Duke was Bai Wei’s own Royal Guard. No one believed the story when they first heard it.
+Bai Wuchang had been strung up like a caught rabbit while fighting a Duke. The news spread through the Extreme King like wildfire. It became a well-known tale far and wide. Bai Wuchang had been beaten and hung upside-down by a Duke. And that Duke was Bai Wei’s own Royal Guard. No one believed the story when they first heard it.
 
 After all, Bai Wuchang had the infamous Phantom Ghost King Body. He was the sort of foe that gave King class opponents headaches. How could he have been beaten so handily by a mere Duke?
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Falsified-sky Sutra?
-### Chapter 997 
+### Chapter 997
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “Why is the dragon scale inscribed with shura text?” Han Sen had tried his best to translate it, but it was mostly to no avail. So he turned his attention back to Dragon King and started interrogating him for information. But the spirit was tight-lipped, and no death threat Han Sen could make was enough to force him to talk.
+“Why is the dragon scale inscribed with shura text?” Han Sen had tried his best to translate it, but it was mostly to no avail. So he turned his attention back to Dragon King and started interrogating him for information. But the spirit was tight-lipped, and no death threat Han Sen could make was enough to force him to talk.
 
 “It’s like the sky, but it is not. It is asura.” As Zero returned, bringing back the meatfeast of a hunt to the shelter, she started talking to herself when seeing the dragon scale.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Well Lotus
-### Chapter 2971 
+### Chapter 2971
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “There are many primitive Light Well Lotuses,” the Extreme King old man said with a laugh. “Consider them as a gift from me. The Extreme King will still have nothing to do with you. Isn’t that perfect?”
+“There are many primitive Light Well Lotuses,” the Extreme King old man said with a laugh. “Consider them as a gift from me. The Extreme King will still have nothing to do with you. Isn’t that perfect?”
 
 What he said was kind of soft and hard. It also made sense. If he was an ordinary person who could not get the true god class Light Well Lotus, he would not make things any worse by offending the Extreme King.
 
@@ -21,15 +22,28 @@ But Han Sen was very determined to get the true god class Light Well Lotus. He w
 
 Han Sen did not speak. He looked at the primitive class Light Well Lotuses around and waved his lance. He broke the Light Well Lotus.
 
-“Deified Xenogeneic hunted. Light Well Lotus: deified xenogeneic gene found.”
+> “Deified Xenogeneic hunted. Light Well Lotus: deified xenogeneic gene found.”
 
 All the Light Well Lotuses were cut by Han Sen. Many announcements played in his head. Han Sen collected the Light Well Lotuses he cut down and threw them into his Destiny’s Tower.
 
-“Deified Xenogeneic hunted. Light Well Lotus: deified xenogeneic gene found. Deified beast soul obtained.”
+> “Deified Xenogeneic hunted. Light Well Lotus: deified xenogeneic gene found. Deified beast soul obtained.”
 
 After killing a hundred Light Well Lotuses, he finally received the beast soul announcement. He looked into his Sea of Soul.
 
-[Deified beast soul Light Well Lotus: Bai Sema-type (incomplete)]
+<div class=“tables”>
+  <table class=“beast”>
+    <tr>
+      <th>Beast Soul</th>
+    </tr><tr>
+      <td>Deified Light Well Lotus</td>
+    </tr><tr>
+      <td>(Bai Sema)</td>
+    </tr><tr>
+      <td class=“note”>Note: Incomplete</td>
+    </tr>
+  </table>
+  <!--[Deified beast soul Light Well Lotus: Bai Sema-type (incomplete)-->
+</div>
 
 Han Sen was not in the mood to take a look at what the Light Well Lotus bai sema could do. He continued slashing all the Light Well Lotuses around. He received 213 Light Well Lotuses. Out of them all, he only received one beast soul.
 
@@ -67,11 +81,24 @@ Han Sen wanted the Light Well Lotus, but he did not want the Light Well. Han Sen
 
 With the power of the Sky Vine Radish God Lance, Han Sen slashed it a dozen times to cut it.
 
-“Deified Xenogeneic hunted. Light Well Lotus: deified xenogeneic gene found. Deified beast soul obtained.”
+> “Deified Xenogeneic hunted. Light Well Lotus: deified xenogeneic gene found. Deified beast soul obtained.”
 
 Han Sen was very happy. He did not expect to get another beast soul. He had a look inside his Sea of Soul.
 
-[Deified beast soul Light Well Lotus: Bai Sema (perfect)]
+<div class=“tables”>
+  <table class=“beast”>
+    <tr>
+      <th>Beast Soul</th>
+    </tr><tr>
+      <td>Deified Light Well Lotus</td>
+    </tr><tr>
+      <td>(Bai Sema)</td>
+    </tr><tr>
+      <td class=“note”>Note: Perfect</td>
+    </tr>
+  </table>
+  <!--[Deified beast soul Light Well Lotus: Bai Sema (perfect)]-->
+</div>
 
 Seeing the word “perfect,” Han Sen was made even more thrilled. It was a perfect-class beast soul. It was equal to a true god class beast soul. He still did not know what the Light Well Lotus bai sema was for.
 

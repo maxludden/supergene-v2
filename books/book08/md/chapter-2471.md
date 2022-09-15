@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Murder Name
-### Chapter 2471 
+### Chapter 2471
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “Two more hits!” Lando said, plumes of icy air flowing over his lips. He behaved as if nothing had happened at all.
+“Two more hits!” Lando said, plumes of icy air flowing over his lips. He behaved as if nothing had happened at all.
 
 “This guy is really scary, but I have only unlocked the first tier of Jadeskin. If I was also half-deified, he wouldn’t be acting so cocky.” Han Sen took two steps back and frowned.
 

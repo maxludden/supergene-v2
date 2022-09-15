@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Traveling With a Beast
-### Chapter 269 
+### Chapter 269
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Sitting on the back of the golden lion, Han Sen was quite upset. He thought he would eventually have an opportunity to leave the lion, but it turned out he was being naïve.
+Sitting on the back of the golden lion, Han Sen was quite upset. He thought he would eventually have an opportunity to leave the lion, but it turned out he was being naïve.
 
 The golden lion was enormous and had an incredible speed. The flocks of birds were following the golden lion everywhere, treating it like a stable food source. The leftover meat of the lion's meal would always go into the birds' belly.
 

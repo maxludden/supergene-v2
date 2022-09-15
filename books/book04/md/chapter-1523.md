@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Never Reach the Top Ten
-### Chapter 1523 
+### Chapter 1523
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Little Jade Lion King stepped onto the battlefield and let out a lion roar that sounded like thunder. The entire arena trembled at the sound.
+Little Jade Lion King stepped onto the battlefield and let out a lion roar that sounded like thunder. The entire arena trembled at the sound.
 
 Han Sen was not scared; he was actually happy. He could immediately tell it was the heir of a super creature. Killing spirits on a geno battleground was useless, but killing super creatures was useful. You could get their beast souls, their Life Geno Essences, and in some instances, their flesh.
 

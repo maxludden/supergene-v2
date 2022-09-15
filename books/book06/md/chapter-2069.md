@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Rainbow Cloud Peak
-### Chapter 2069 
+### Chapter 2069
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “They are both spirits guarded by Jade Air, and yet, there is so much difference between them. I need to get more Jade Fairy Spirit Orbs to level up my Jadeskin. Maybe the results will surprise me,” Han Sen thought to himself.
+“They are both spirits guarded by Jade Air, and yet, there is so much difference between them. I need to get more Jade Fairy Spirit Orbs to level up my Jadeskin. Maybe the results will surprise me,” Han Sen thought to himself.
 
 Han Sen still left with Lone Bamboo to travel to Rainbow Cloud Peak. On the way, Han Sen tried to refine the Jade Tiger Spirit Orb. It was very difficult for him, and after using it, he felt as if he had been thrust into an ice cave. It took him a lot of effort to completely refine the orb.
 

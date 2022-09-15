@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Textbook Example
-### Chapter 1195 
+### Chapter 1195
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Fang Mingquan entered the virtual community and sent a message to Yuan Zhufeng.
+Fang Mingquan entered the virtual community and sent a message to Yuan Zhufeng.
 
 Fang Mingquan had scheduled an interview with Yuan Zhufeng, and despite the fact that they could only meet inside the virtual community, he had still been very excited for the occasion.
 

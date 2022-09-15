@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Beat Me and You Can Fight Dollar
-### Chapter 825 
+### Chapter 825
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The four of them returned to the plaza in a glum mood. Although they did not really know Huang Xiao, they felt awful upon learning what had happened to him.
+The four of them returned to the plaza in a glum mood. Although they did not really know Huang Xiao, they felt awful upon learning what had happened to him.
 
 "Please, fulfill your obligation and bring me Dollar. He is your strongest young one, after all."
 

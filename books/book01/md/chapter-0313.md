@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Emperor Returns
-### Chapter 313 
+### Chapter 313
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  When Jing Jiya's arrow was about to hit Han Sen's, something unbelievable happened. Jing Jiya's arrow did not move aside, but was leaning toward Han Sen's arrow like it was a magnet.
+When Jing Jiya's arrow was about to hit Han Sen's, something unbelievable happened. Jing Jiya's arrow did not move aside, but was leaning toward Han Sen's arrow like it was a magnet.
 
 Bang!
 

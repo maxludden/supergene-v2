@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## The Deal of Broken Shield
-### Chapter 1621 
+### Chapter 1621
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Before the creatures from Sacred arrived at the shelter, a group was already moving out of the shelter, led by Night Empress. Han Sen also saw Lotus Empress among the spirits and creatures, and he was happy.
+Before the creatures from Sacred arrived at the shelter, a group was already moving out of the shelter, led by Night Empress. Han Sen also saw Lotus Empress among the spirits and creatures, and he was happy.
 
 “Sister Lotus is so lucky. She found her mom after she became a demigod,” Han Sen thought.
 

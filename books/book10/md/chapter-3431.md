@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Flaws Exposed
-### Chapter 3431 
+### Chapter 3431
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen looked dim. Ever since his body evolved, this was the first he had witnessed something like this. He could not tell what was authentic when it came to Crape Myrtle, whose entire body was veiled by fog.
+Han Sen looked dim. Ever since his body evolved, this was the first he had witnessed something like this. He could not tell what was authentic when it came to Crape Myrtle, whose entire body was veiled by fog.
 
 Han Sen could even see through Demon Alpha, who had the power of Bao’er’s father, but he was unable to do what he did against her to Crape Myrtle.
 

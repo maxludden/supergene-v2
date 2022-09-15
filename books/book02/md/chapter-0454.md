@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Take Me With You
-### Chapter 454 
+### Chapter 454
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  After killing the white mammoth, Han Sen had established his prestige in Goddess Gang. People had officially recognized him as the leader. Many young people even saw him as an idol.
+After killing the white mammoth, Han Sen had established his prestige in Goddess Gang. People had officially recognized him as the leader. Many young people even saw him as an idol.
 
 The Goddess Gang had become more and more organized. Han Sen was very generous to the members that worked hard, awarding them with lots of meat.
 

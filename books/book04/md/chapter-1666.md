@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Born Invincible
-### Chapter 1666 
+### Chapter 1666
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The attack did not look like Gu Qingcheng’s swordlight, which was obviously ridiculously powerful. But that was the good thing about Han Sen’s attack; it looked simple, but it left Ancient Devil with no option other than receiving the strike.
+The attack did not look like Gu Qingcheng’s swordlight, which was obviously ridiculously powerful. But that was the good thing about Han Sen’s attack; it looked simple, but it left Ancient Devil with no option other than receiving the strike.
 
 Han Sen still didn’t know how Ancient Devil had killed Bone Witch. Killing him would prevent him from harming any more of the inhabitants of Han Sen’s shelter.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## The Power of the Blood-pulse Sutra
-### Chapter 2054 
+### Chapter 2054
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  After going back home, Han Sen used the teleporter to return to the lower level sanctuaries. Then, he went to the human king shelter and found the holy coffin.
+After going back home, Han Sen used the teleporter to return to the lower level sanctuaries. Then, he went to the human king shelter and found the holy coffin.
 
 Han Sen had been unable to open it before. Now, he was still unable to open it. It made him frown.
 

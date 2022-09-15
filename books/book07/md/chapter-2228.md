@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Way of Life and Death
-### Chapter 2228 
+### Chapter 2228
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Bai Wei took her first step along the stone stairs, and she did so with ease. There was no special power working against her on those stairs, and she proceeded easily, so it seemed.
+Bai Wei took her first step along the stone stairs, and she did so with ease. There was no special power working against her on those stairs, and she proceeded easily, so it seemed.
 
 Bai Wei frowned. She did not feel anything from the stairs. The stone staircase really did seem to be exactly what it looked like. If Bai Wei went quickly, she could do a few laps of the simple stone staircase in the space of an hour.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Under the Sky
-### Chapter 1982 
+### Chapter 1982
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen felt that the Jade Air had become very pure. It allowed his Jadeskin to ascend in level very quickly. But the Jade Air’s time of eruption was far too short for satisfaction. When the Jade Air dispersed, Han Sen wanted more.
+Han Sen felt that the Jade Air had become very pure. It allowed his Jadeskin to ascend in level very quickly. But the Jade Air’s time of eruption was far too short for satisfaction. When the Jade Air dispersed, Han Sen wanted more.
 
 “What is your name?” Han Sen opened his eyes and saw the arrogant man looking at him. His voice sounded cold.
 

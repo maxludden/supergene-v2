@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Under the Sky Knife
-### Chapter 2686 
+### Chapter 2686
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “Impossible… This is impossible…” They felt as if they were going to suffocate.
+“Impossible… This is impossible…” They felt as if they were going to suffocate.
 
 A half-deified was fighting a deified and was no worse for wear. It made them feel more and more nervous about how things were going to turn out. They were afraid that the unthinkable might actually happen, and they might lose their bet.
 

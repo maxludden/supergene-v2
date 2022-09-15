@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## A Geno Core That Can Evolve
-### Chapter 1434 
+### Chapter 1434
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The coins landed on the gold mask, but the phantom did not relent at all.
+The coins landed on the gold mask, but the phantom did not relent at all.
 
 With his fist, Han Sen moved forward to punch the gold mask, and when his fist was about to meet with it, his hand went right through it. It was like an ethereal object.
 

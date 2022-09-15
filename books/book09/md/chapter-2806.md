@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Nine-defense Palace
-### Chapter 2806 
+### Chapter 2806
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen followed Bai Wanjie out of the palace. Bai King had asked Bai Wanjie to take him to the Nine-Defense Palace, but he had not explained what the Nine-Defense Palace was.
+Han Sen followed Bai Wanjie out of the palace. Bai King had asked Bai Wanjie to take him to the Nine-Defense Palace, but he had not explained what the Nine-Defense Palace was.
 
 As he walked alongside Bai Wanjie, Han Sen asked, "Crown Prince, what is the Nine-Defense Palace?"
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Creepy Valley
-### Chapter 902 
+### Chapter 902
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen and Qu Lanxi continued their journey, and after a dozen miles of walking, they hadn't managed to find a single iron bug. From his slaying of the tree crabs, Han Sen was able to obtain three beast soul armor sets.
+Han Sen and Qu Lanxi continued their journey, and after a dozen miles of walking, they hadn't managed to find a single iron bug. From his slaying of the tree crabs, Han Sen was able to obtain three beast soul armor sets.
 
 They didn't slay any tree crabs they encountered after that, but snuck around them instead. The sack they had brought with them was already stuffed, so killing more would be pointless.
 

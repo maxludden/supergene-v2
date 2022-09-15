@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Are You Afraid of Needles
-### Chapter 2280 
+### Chapter 2280
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “If you weren’t there, what would be the point of me staying in that palace of yours?” Han Sen asked distractedly as he turned the needle over in his hands.
+“If you weren’t there, what would be the point of me staying in that palace of yours?” Han Sen asked distractedly as he turned the needle over in his hands.
 
 “That is my business, just do as you’re told,” Yisha said.
 

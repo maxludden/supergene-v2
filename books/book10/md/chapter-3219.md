@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Dust Sky
-### Chapter 3219 
+### Chapter 3219
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  One sky. One world. Han Sen went through nine skies without seeing anyone from the God Chaos Party. “They’ve even cleared out nine entire skies. It looks like God Chaos Party has been really busy these past few years.” Han Sen kept on rushing. He used this chance to see how many skies God Chaos Party had actually opened. It was not because of God Hall Leader giving him benefits. Han Sen just wanted to know how much progress God Chaos Party had made with this endeavor of theirs.
+One sky. One world. Han Sen went through nine skies without seeing anyone from the God Chaos Party. “They’ve even cleared out nine entire skies. It looks like God Chaos Party has been really busy these past few years.” Han Sen kept on rushing. He used this chance to see how many skies God Chaos Party had actually opened. It was not because of God Hall Leader giving him benefits. Han Sen just wanted to know how much progress God Chaos Party had made with this endeavor of theirs.
 
 If the God Chaos Party had really opened 33 skies, then he could use the final part of the path to access the geno universe. He would not have to use the God of Wealth Temple to enter the geno universe for a few meager days.
 

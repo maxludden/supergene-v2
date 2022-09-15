@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## King Class Dongxuan Battle Body
-### Chapter 2391 
+### Chapter 2391
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen could feel two powers battling inside him, but even so, his facial expression remained unchanged.
+Han Sen could feel two powers battling inside him, but even so, his facial expression remained unchanged.
 
 He had thought of a way to deal with the power invading his body some time ago. Instead of the unimaginably horrible force that Fox Queen considered it, Han Sen had realized that it was just power like any other. It wasn’t too bad.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Absolute Champion
-### Chapter 327 
+### Chapter 327
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Qian Hezhen had spent a lot of time on Gladiator recently, but he was feeling more and more pressure. It was more and more difficult for him to defeat Han Sen.
+Qian Hezhen had spent a lot of time on Gladiator recently, but he was feeling more and more pressure. It was more and more difficult for him to defeat Han Sen.
 
 In the beginning, Qian Hezhen was only intrigued by Han Sen's unexpected tricks.
 

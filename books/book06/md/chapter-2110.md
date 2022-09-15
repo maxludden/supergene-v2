@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## The Fighting Begins
-### Chapter 2110 
+### Chapter 2110
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The shadowed images left the inhabitants of the geno universe in a state of awe as they cycled through elite after elite. Then, they became dust across the scroll. And when all was said and done, nothing remained of them.
+The shadowed images left the inhabitants of the geno universe in a state of awe as they cycled through elite after elite. Then, they became dust across the scroll. And when all was said and done, nothing remained of them.
 
 The names disappeared from the lists, leaving only empty brackets. All the names from a century ago were gone, including the names of the number one King, number one Duke, and number one Marquise. All that remained were the empty ranks now.
 

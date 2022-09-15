@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Small Bug Power
-### Chapter 2123 
+### Chapter 2123
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The next set of bouts in the Geno Being Scroll was underway. When Han Sen was transported into his next battleground, he found himself standing in a forest that was tangled with a copious number of trees.
+The next set of bouts in the Geno Being Scroll was underway. When Han Sen was transported into his next battleground, he found himself standing in a forest that was tangled with a copious number of trees.
 
 Across the entire universe, many different races tuned it to spectate Han Sen’s fight. Han Sen’s contest was now receiving more attention than the fight of any King.
 

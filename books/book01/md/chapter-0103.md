@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## The Fight Between the King and the Imposter
-### Chapter 103 
+### Chapter 103
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  It turned out to be a 12.0 magnitude earthquake in the press indeed.
+It turned out to be a 12.0 magnitude earthquake in the press indeed.
 
 Lin Feng had asked someone to meet him in the final, yet that someone was not Yi Dongmu, but Dollar, who was considered an imposter.
 

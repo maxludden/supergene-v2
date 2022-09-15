@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Training
-### Chapter 225 
+### Chapter 225
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The semi-annual assessment began.
+The semi-annual assessment began.
 
 When it was the turn of the group that Han Sen was in, many students who had finished their assessment or were still waiting for it came to see how well Han Sen could do.
 

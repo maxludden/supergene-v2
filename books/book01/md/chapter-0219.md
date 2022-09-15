@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Hand of Devil
-### Chapter 219 
+### Chapter 219
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  "What are you doing?" Ji Yanran smiled and asked.
+"What are you doing?" Ji Yanran smiled and asked.
 
 "Nothing, just to remove all his desires to play the game hand of God. He has to pay for wanting to steal you," Han Sen said with his eyes narrowed.
 

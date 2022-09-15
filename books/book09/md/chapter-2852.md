@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Leveling Up Failed?
-### Chapter 2852 
+### Chapter 2852
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  God smiled and looked at Han Sen and said, "You leveled up fast. If you wish to win this game of chess, you will have to work harder."
+God smiled and looked at Han Sen and said, "You leveled up fast. If you wish to win this game of chess, you will have to work harder."
 
 "Let's play again some other time. For now, I need to practice and get ready for the next fight." Han Sen wanted to keep playing chess, but his temper was something special. The more he lost, the more he wanted to go on. He wanted to keep trying until he beat his opponent.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## God of Wealth Temple
-### Chapter 3146 
+### Chapter 3146
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Picking the right human to give a Blood-Pulse to was like venture capitalizing. It depended on whether or not one had good eyesight. One also needed variety. If one or two humans were able to develop quite well in the future, benefits could be reaped.
+Picking the right human to give a Blood-Pulse to was like venture capitalizing. It depended on whether or not one had good eyesight. One also needed variety. If one or two humans were able to develop quite well in the future, benefits could be reaped.
 
 It was a shame the God of Wealth Temple was there. Not many humans were able to go there. The places Han Sen could select were minimal, which made him feel quite depressed.
 

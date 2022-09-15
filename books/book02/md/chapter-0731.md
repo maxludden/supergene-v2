@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Wiped Out
-### Chapter 731 
+### Chapter 731
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The adiraid spread its wings and flew past the blood-horned shura. She swung her greatsword and sliced the arm and shoulder of one.
+The adiraid spread its wings and flew past the blood-horned shura. She swung her greatsword and sliced the arm and shoulder of one.
 
 The blood-horn shura that was dealt the blow, however, acted as if it did not even feel pain. Without a care for the bleeding puncture, it swung its beast soul sword towards the adiraid's neck.
 

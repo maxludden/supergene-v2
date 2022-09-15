@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Do You Really Understand?
-### Chapter 3018 
+### Chapter 3018
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  In the ice bunker’s testing room, Han Sen looked weird.
+In the ice bunker’s testing room, Han Sen looked weird.
 
 “About that, Teacher Han, can that really make me control blue blood power?” Han Sen stood atop an ice platform with one leg. He raised his hands to balance himself out. He looked like an old chicken standing. He had been doing this for more than 10 hours now. Han Yufei forced him to stand like that the entire time. She did not allow him to do anything else. She hadn’t injected him with any geno fluids or anything of the sort either. She hadn’t taught him a new geno art, which made Han Sen very suspicious.
 

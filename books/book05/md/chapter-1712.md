@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Planet Kate
-### Chapter 1712 
+### Chapter 1712
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  In the plaza, there was music playing. There was a fountain, and there was a statue depicting a cat. It stood at a height of forty meters, and it was situated in the direct center of the plaza. It looked to have been made of gold.
+In the plaza, there was music playing. There was a fountain, and there was a statue depicting a cat. It stood at a height of forty meters, and it was situated in the direct center of the plaza. It looked to have been made of gold.
 
 Han Sen was sitting on the foot of the statue, and he looked at everything in disbelief.
 

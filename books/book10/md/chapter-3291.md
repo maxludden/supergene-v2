@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Goddess
-### Chapter 3291 
+### Chapter 3291
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  This was a voice Han Sen was no stranger to. In the past, Ancient God’s Water God attacked the geno hall. The master of this voice suppressed the assault.
+This was a voice Han Sen was no stranger to. In the past, Ancient God’s Water God attacked the geno hall. The master of this voice suppressed the assault.
 
 When Golden Growler attacked the geno hall, the master of that voice appeared there as well.
 

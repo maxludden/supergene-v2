@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## The Man That Creates Deified Beings
-### Chapter 2482 
+### Chapter 2482
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “This can’t be real!” As Wang Yuhang stared at the screen, it looked like his eyes were about to pop out of their sockets.
+“This can’t be real!” As Wang Yuhang stared at the screen, it looked like his eyes were about to pop out of their sockets.
 
 Many other people were having similar reactions. Countless elites of all sorts of different races had their eyes glued to the screen in disbelief.
 

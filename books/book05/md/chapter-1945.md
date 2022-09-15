@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Luo Ji’s Guess
-### Chapter 1945 
+### Chapter 1945
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Seven Spirit had four faces. The left one was smiling. The right one was crying. The back one was evil and very scary- looking.
+Seven Spirit had four faces. The left one was smiling. The right one was crying. The back one was evil and very scary- looking.
 
 The eight arms were raised at a variety of different angles. A spirit spell powered his strange body as he flew forward.
 

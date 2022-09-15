@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Snatch
-### Chapter 609 
+### Chapter 609
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Luckily, the silver fox wasn't too stubborn. Despite its craving for the seeds, it still leapt into Han Sen's arms when called.
+Luckily, the silver fox wasn't too stubborn. Despite its craving for the seeds, it still leapt into Han Sen's arms when called.
 
 Han Sen took a long sigh, and with Queen, ran off. They didn't draw near to the sea, either, so they tucked themselves into a hidden spot near the base of the hills.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Cheating Device
-### Chapter 115 
+### Chapter 115
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  "Should be similar." Han Sen began to play in training mode, which could not be skipped and was meant to show new players how to use the versus version.
+"Should be similar." Han Sen began to play in training mode, which could not be skipped and was meant to show new players how to use the versus version.
 
 Han Sen used to play the single-player version and had no opponent. In training mode, there was a hand trying to beat him to the spots, which took some effort for him to get used to, so he looked a bit clumsy.
 

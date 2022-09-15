@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Firebird Again
-### Chapter 419 
+### Chapter 419
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The rule about teleport was that you would go out through the same teleport device used to enter God’s Sanctuary, no matter where you had been in God’s Sanctuary.
+The rule about teleport was that you would go out through the same teleport device used to enter God’s Sanctuary, no matter where you had been in God’s Sanctuary.
 
 If the teleport device was damaged, then the person would be teleported to a device nearby. The rule never changed. Han Sen did not believe there would be such a coincidence that Zero teleported into God’s Sanctuary via the exact same device as he did. It was simply unbelievable.
 

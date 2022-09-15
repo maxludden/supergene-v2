@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## White Dragon
-### Chapter 977 
+### Chapter 977
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  A cloud of red and purple mist obscured Han Sen’s sight. Fortunately for him, he could still use his dongxuan aura to keep track of the man.
+A cloud of red and purple mist obscured Han Sen’s sight. Fortunately for him, he could still use his dongxuan aura to keep track of the man.
 
 With no hesitation, Han Sen stabbed the man again.
 

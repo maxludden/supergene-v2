@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Completely Erased
-### Chapter 1319 
+### Chapter 1319
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “Well, it might be normal for some demigods to refer to themselves as gods, right? It’s in their title, after all. I know enough stuffy spirits around these parts that have a god complex,” Han Sen said, grasping at straws for a possible reason why the spirit might have called itself God.
+“Well, it might be normal for some demigods to refer to themselves as gods, right? It’s in their title, after all. I know enough stuffy spirits around these parts that have a god complex,” Han Sen said, grasping at straws for a possible reason why the spirit might have called itself God.
 
 “Well, those thoughts crossed our minds, too. And thinking it to be arrogance, we wanted to kill it even more. That, however, was when the spirit said something else.” When Dragon King’s sentence came to a close, his face drooped into an unsettling grimace.
 

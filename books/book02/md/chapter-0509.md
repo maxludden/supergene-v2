@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Crystal Palace
-### Chapter 509 
+### Chapter 509
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Seeing nothing dangerous had happened, Han Sen quickly walked up to the crystal treasure box and had a look.
+Seeing nothing dangerous had happened, Han Sen quickly walked up to the crystal treasure box and had a look.
 
 Han Sen blinked and failed to react in time. In the treasure box there was a woman, whose lower body was a fishtail. Her upper body was naked and pale, with two scallops covering her boobs.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Slaughter
-### Chapter 303 
+### Chapter 303
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  "No wonder none of them went inside. This is God damn mission impossible!" Gambler shook his head after seeing what was behind the wall.
+"No wonder none of them went inside. This is God damn mission impossible!" Gambler shook his head after seeing what was behind the wall.
 
 "Damn those sons of bitches." The two new members at the special squad Zheng Chi and Zhou Qingyu looked frightened as well.
 

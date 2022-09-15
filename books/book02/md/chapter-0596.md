@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Silver Ladybug Mother
-### Chapter 596 
+### Chapter 596
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  "Han Sen, you rock! How did you do that? You dealt Dong Lin a significant blow." In the communicator, Tang Zhenliu was staring at Han Sen in awe.
+"Han Sen, you rock! How did you do that? You dealt Dong Lin a significant blow." In the communicator, Tang Zhenliu was staring at Han Sen in awe.
 
 That person in Dong Lin looked for Tang's family, desiring reconciliation with Han Sen.
 

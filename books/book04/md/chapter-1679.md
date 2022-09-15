@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Successful Ascension
-### Chapter 1679 
+### Chapter 1679
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  A power went into his Sea of Soul. All the beast souls and geno cores suffered underneath that strength.
+A power went into his Sea of Soul. All the beast souls and geno cores suffered underneath that strength.
 
 Han Sen felt terrible. He heard someone say it was best not to bring geno cores and beast souls to level up. But Han Sen wasn’t prepared for any of this, as he had been pulled inside unexpectedly. The beast souls and geno cores were in there with him right now, and they were subject to the cleansing.
 

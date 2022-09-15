@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## The Elites That Are Fighting
-### Chapter 1530 
+### Chapter 1530
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  When the Black Seahorses looked at Bao’er, they did not do anything. They simply resumed pulling the chimenea and kept on moving. They moved at a faster pace this time, though, and within a few seconds, they had crossed a great distance.
+When the Black Seahorses looked at Bao’er, they did not do anything. They simply resumed pulling the chimenea and kept on moving. They moved at a faster pace this time, though, and within a few seconds, they had crossed a great distance.
 
 When the big chimenea left the area, the freezing force reduced. The accumulated frost began to fade, and the ice that trapped Han Sen’s companions began to thaw.
 

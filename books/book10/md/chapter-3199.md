@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## One-inchapter Thinking, Then One-inch Grey
-### Chapter 3199 
+### Chapter 3199
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  That sword did not appear to be very special. It was made of bronze and looked rather antique. It had no frills or special adornments. It was just a sword that had some interesting and old text scrawled across it.
+That sword did not appear to be very special. It was made of bronze and looked rather antique. It had no frills or special adornments. It was just a sword that had some interesting and old text scrawled across it.
 
 “One-inch thinking, then one-inch grey.” Han Sen slowly read the words on the sword out. They were only a few words, but it enabled the people there to feel what it was like to miss someone profusely. Jian Bu Gu said, “Yes. This is the sword. When I first encountered it, I thought it was just an obsessed-type of a sword.”
 

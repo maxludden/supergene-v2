@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Dragon Race Weapon
-### Chapter 2858 
+### Chapter 2858
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “The Dragons’ bodies make people really jealous.”
+“The Dragons’ bodies make people really jealous.”
 
 “I told you so. How could Dragon One be killed so easily?”
 

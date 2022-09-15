@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## For Your Convenience
-### Chapter 2692 
+### Chapter 2692
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Mister White did mention, however, that there were risks associated with practicing the Xuan Yellow Sutra. The geno art could theoretically reverse a person’s bloodline, but doing so would be very dangerous. Attempting such a feat would have consequences throughout Han Sen’s body. If his body was unable to withstand those effects, the ramifications could be dire.
+Mister White did mention, however, that there were risks associated with practicing the Xuan Yellow Sutra. The geno art could theoretically reverse a person’s bloodline, but doing so would be very dangerous. Attempting such a feat would have consequences throughout Han Sen’s body. If his body was unable to withstand those effects, the ramifications could be dire.
 
 Han Sen was very tempted to learn it because of the scary powers that the Xuan Yellow Sutra offered, but the risks were severe enough to make him hesitate.
 

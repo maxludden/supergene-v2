@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Time Sky
-### Chapter 3385 
+### Chapter 3385
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  When Han Sen heard him, his eyes went bright. He asked, “What is the difference with you now after your Super God Spirit body finished evolving.”
+When Han Sen heard him, his eyes went bright. He asked, “What is the difference with you now after your Super God Spirit body finished evolving.”
 
 “My Super God Spirit body became an ultimate Super God Spirit body. It is just stronger,” Ning Yue casually said.
 

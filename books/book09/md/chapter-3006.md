@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Baby God Wok
-### Chapter 3006 
+### Chapter 3006
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  A dead xenogeneic body was in the giant steel pot. It was entirely shelled and looked like a centipede. It was at the bottom of the pot.
+A dead xenogeneic body was in the giant steel pot. It was entirely shelled and looked like a centipede. It was at the bottom of the pot.
 
 Although the shell had been cooked, it was a bit red. The shell was a bit different from Empty Dragon King, who was black. Still, Han Sen knew for sure that it was Empty Dragon King.
 

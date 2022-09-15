@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Solving the Puzzle
-### Chapter 511 
+### Chapter 511
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The next day, Han Sen logged into the virtual camp at the time agreed with Tang Zhenliu.
+The next day, Han Sen logged into the virtual camp at the time agreed with Tang Zhenliu.
 
 According to the ID name that Tang Zhenliu told him, Han Sen added him as a friend. Tang Zhenliu accepted Han Sen's request and invited him to enter the room, changing the setting to "no audience allowed."
 

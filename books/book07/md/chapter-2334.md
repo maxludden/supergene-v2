@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Blood Area
-### Chapter 2334 
+### Chapter 2334
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  King class was divided into nine different tiers. Becoming half-deified required a person to break through all nine tiers. A further barrier had to be surpassed before someone could become fully deified.
+King class was divided into nine different tiers. Becoming half-deified required a person to break through all nine tiers. A further barrier had to be surpassed before someone could become fully deified.
 
 Instead of being recognized separately, these nine tiers were typically just grouped under King class, however. The power of a King’s area-of-effect grew with each tier that was surpassed.
 

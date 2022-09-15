@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Devil Fang
-### Chapter 1072 
+### Chapter 1072
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “What was the Devil Orb you spoke of?” Han Sen asked.
+“What was the Devil Orb you spoke of?” Han Sen asked.
 
 “Ancient Devil Shelter possessed a tree, cultivated by an emperor. The tree itself was simply named ‘Devil.’ If it bore fruit, it would have been able to create demonic dimensions. Unfortunately for Ancient Devil Emperor, he was unable to find success in this venture.”
 

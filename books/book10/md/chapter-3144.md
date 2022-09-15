@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Annihilation God Base
-### Chapter 3144 
+### Chapter 3144
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Super God Spirit mode was activated. A scary power suddenly tore through the rules of the world. It made Han Sen feel like a god as he glowed with a white flame.
+Super God Spirit mode was activated. A scary power suddenly tore through the rules of the world. It made Han Sen feel like a god as he glowed with a white flame.
 
 “How is that possible… Is that presence…” Decapitation Queen’s face froze in shock.
 
@@ -71,7 +72,7 @@ Ding!
 
 There was a crunching sound. Something had made itself known in the broken god temple. Han Sen’s power was unable to destroy it, so it fell into the lake.
 
-> “Killed God Spirit Gene Race: Decapitation Queen. Found an Annihilation-class God Base.”
+> “Killed God Spirit Gene Race: Decapitation Queen. Found an Annihilation-Class God Base.”
 
 Han Sen reached out his hand to pick up the item that had fallen from the destroyed god temple. It was a cube made of wood. It was like a Rubik’s cube, but it could not be spun around. It looked very old. It had some weird, old symbols on it. One side displayed a carving of the guillotine and Decapitation Queen.
 

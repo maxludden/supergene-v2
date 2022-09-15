@@ -1,19 +1,19 @@
-Title:Sacred-blood Copper-toothed Beast 
-Chapter:53 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+Title:Sacred-blood Copper-toothed Beast
+Chapter:53
+Section:1
+Book:1
+CSS:../Styles/style.css
 viewport: width=device-width
-  
+
 ## Sacred-blood Copper-toothed Beast
-### Chapter 53 
+### Chapter 53
+
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
-  
 
-  
-  After wrapping up the dead body of the purple-winged dragon, everyone returned to Steel Armor Sanctuary and Qin Xuan called Han Sen into her office.
+
+After wrapping up the dead body of the purple-winged dragon, everyone returned to Steel Armor Sanctuary and Qin Xuan called Han Sen into her office.
 
 "Did you get the beast soul?" Qin Xuan stared at Han Sen.
 
@@ -42,15 +42,14 @@ Back in his room, Han Sen could not help but smiled and started to review his ne
 <div class="tables">
 	<table class="beast">
 		<tr>
-			<th colspan="2">Beast Soul Gained</th>
+			<th>Beast Soul Gained</th>
 		</tr><tr>
-			<td>Sacred-Blood Purple-Winged Dragon</td>
-			<td>Flying</td>
+			<td>Sacred-Blood Purple-Winged Dragon<br>
+				<span class="type">(Flying)</td>
 		</tr>
 	</table>
 	<!-- Type of Sacred-Blood Purple-Winged Dragon’s Beast Soul: Flying. -->
-</div> 
-
+</div>
 
 
 The introduction was brief, but reminded Han Sen of so much he had heard about this type of beast soul. A flying beast soul meant the beast soul could turn into wings that could give its owner the ability to fly like a bird.
@@ -89,6 +88,6 @@ He did not want to waste any time before he started to feed the next sacred-bloo
 
 Taking the primitive creature he had bought back to his room, Han Sen didn’t hesitate before he killed the sacred-blood copper-toothed beast. It was far less strong than a wild sacred-blood creature and was easily slaughtered.
 
-> "Sacred-Blood Copper-Toothed Beast Killed. No Beast Soul Gained. Eat Its Meat To Gain One To Ten Sacred Geno Points Randomly."
+> "Sacred-Blood Copper-Toothed Beast killed. No beast soul gained. eat its meat to gain zero to ten Sacred-Blood geno points randomly."
 
 Although there was no beast soul gained, Han Sen was still over the moon. He quickly set up a pot and was ready to make a stew.

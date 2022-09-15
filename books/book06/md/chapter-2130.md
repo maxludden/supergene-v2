@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Dismantling Coin
-### Chapter 2130 
+### Chapter 2130
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The surface of the bronze scroll flashed, showing two fighters who appeared amidst the dunes of a desert. One was clad in a suit of gold armor, whereas the other was garbed in white and purple armor. Their body shapes were remarkably similar.
+The surface of the bronze scroll flashed, showing two fighters who appeared amidst the dunes of a desert. One was clad in a suit of gold armor, whereas the other was garbed in white and purple armor. Their body shapes were remarkably similar.
 
 This is it, it’s going to start!” Everyone felt a great deal of relief in their hearts. After what happened with the no-show Lone Bamboo, many Nobles feared the same issue might plague the anticipated finale.
 

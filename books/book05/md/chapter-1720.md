@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Baron Gene
-### Chapter 1720 
+### Chapter 1720
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “There was a problem generating my geno armor. This is a medicine that should help, and so I am heating it up,” Han Sen said.
+“There was a problem generating my geno armor. This is a medicine that should help, and so I am heating it up,” Han Sen said.
 
 The Kate men nodded and no longer seemed interested.
 

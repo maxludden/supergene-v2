@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## My Life Is My Life
-### Chapter 1400 
+### Chapter 1400
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen followed Mister Li closely, as they all entered and ventured between the narrow pathways of the shelter. They said that as long as they did not approach that one construct, their passage would mostly be fine.
+Han Sen followed Mister Li closely, as they all entered and ventured between the narrow pathways of the shelter. They said that as long as they did not approach that one construct, their passage would mostly be fine.
 
 Still, that was no reason to shirk caution. Everyone was on high-alert, and their eyes remained peeled for the slightest foreign motion, intently scanning every new viewpoint they could. This was not a place they could afford to let their guard down.
 

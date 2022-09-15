@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Killing Light Son of God
-### Chapter 715 
+### Chapter 715
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The spectators all froze in their seats. The Light Son of God was getting pummeled by Han Sen over and over, until he was black and blue from head to toe.
+The spectators all froze in their seats. The Light Son of God was getting pummeled by Han Sen over and over, until he was black and blue from head to toe.
 
 Left-punch, right-punch, elbow-strike, knee-strike—the Light Son of God was like a punching bag, getting attacked without reprieve. His face was a sordid, disfigured mess.
 

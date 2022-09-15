@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Fight
-### Chapter 2265 
+### Chapter 2265
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “Please don’t tell me Han Sen is your fake name,” Fox Queen said, smiling at Han Sen.
+“Please don’t tell me Han Sen is your fake name,” Fox Queen said, smiling at Han Sen.
 
 “My name is Han Sen. San Mu is just a nickname. Only close family and my bestest friends call me by that name,” Han Sen said shyly.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Try Again
-### Chapter 364 
+### Chapter 364
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  "Name it," said Ye Yufeng.
+"Name it," said Ye Yufeng.
 
 "Come down with me again and kill the wolf," said Han Sen calmly.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Deified Star Beetle
-### Chapter 2655 
+### Chapter 2655
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “This is exactly what I wanted, but this isn’t the right time. I can’t use beast souls to fight. I would have to use my own power to fight it, but I’m afraid that wouldn’t be enough to defeat a deified star beetle.” Han Sen was troubled by this most recent development.
+“This is exactly what I wanted, but this isn’t the right time. I can’t use beast souls to fight. I would have to use my own power to fight it, but I’m afraid that wouldn’t be enough to defeat a deified star beetle.” Han Sen was troubled by this most recent development.
 
 Star beetles were very good at physical-reinforcement. Even a primitive deified beetle would have a shell that was considerably harder than most primitive deifieds. Even if Han Sen could make use of his peacock soul robe or his Six Core Snake Bow, punching through that shell would be no small feat. Plus, there was the added fact that he couldn’t make use of those tools right now.
 

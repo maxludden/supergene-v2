@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Teacher Han
-### Chapter 2143 
+### Chapter 2143
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Over the course of the past few days, in which Four Season Duke attended the lectures given by Han Sen, he had selected a seat closer and closer to the stage each time. And on this day, he had snagged himself a front row seat.
+Over the course of the past few days, in which Four Season Duke attended the lectures given by Han Sen, he had selected a seat closer and closer to the stage each time. And on this day, he had snagged himself a front row seat.
 
 When he stood up, everyone turned to look at him.
 

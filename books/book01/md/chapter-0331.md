@@ -1,19 +1,20 @@
-Title:Manoeuvre 
+Title:Manoeuver 
 Chapter:331 
 Section:1 
 Book:1 
 CSS:../Styles/style.css 
 viewport: width=device-width
   
-## Manoeuvre
-### Chapter 331 
+## Manoeuver
+### Chapter 331
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  "Han Sen!" Jin Rijie escaped death and was as pale as a sheet of paper. Seeing Han Sen who had knocked the turtle down with the sledgehammer, he was suddenly thrilled.
+"Han Sen!" Jin Rijie escaped death and was as pale as a sheet of paper. Seeing Han Sen who had knocked the turtle down with the sledgehammer, he was suddenly thrilled.
 
 "Don't stay here. Run!" Han Sen watched the turtle solemnly.
 

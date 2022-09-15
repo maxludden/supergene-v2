@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Misunderstanding
-### Chapter 1647 
+### Chapter 1647
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  1647 Misunderstanding
+1647 Misunderstanding
 
 Splash!
 

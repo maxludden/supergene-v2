@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Fighting Alone
-### Chapter 366 
+### Chapter 366
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen could tell that the Chen brothers were having second thoughts and did not feel hopeful anymore.
+Han Sen could tell that the Chen brothers were having second thoughts and did not feel hopeful anymore.
 
 If it was not for the fact that Han Sen had saved his life, Ye Yufeng would probably give up as well.
 

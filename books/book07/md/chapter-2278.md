@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Unbreakable Statue
-### Chapter 2278 
+### Chapter 2278
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “Plus, I know that there is hell blood in the statue, but I don’t know where it is concentrated. And since you are still so weak, I’m not even sure you can damage it. On top of that, even if I do get the hell blood, the success rate of activating my own hell blood is low. That is why I have told you it is a one in a billion chance. If you have a method of escape, I suggest you make use of it now.” By the time Yisha finished speaking, her face had grown even paler.
+“Plus, I know that there is hell blood in the statue, but I don’t know where it is concentrated. And since you are still so weak, I’m not even sure you can damage it. On top of that, even if I do get the hell blood, the success rate of activating my own hell blood is low. That is why I have told you it is a one in a billion chance. If you have a method of escape, I suggest you make use of it now.” By the time Yisha finished speaking, her face had grown even paler.
 
 Han Sen turned to face the statue, then he activated his Purple-Eye Butterfly.
 

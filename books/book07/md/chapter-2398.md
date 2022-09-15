@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Xenogeneic Chase
-### Chapter 2398 
+### Chapter 2398
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen and the others fell back. They immediately expanded their King areas as they stared at the goose egg stone.
+Han Sen and the others fell back. They immediately expanded their King areas as they stared at the goose egg stone.
 
 Katcha… Katcha…
 

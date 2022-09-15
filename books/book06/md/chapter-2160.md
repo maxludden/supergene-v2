@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Violent Explosion
-### Chapter 2160 
+### Chapter 2160
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Boom!
+Boom!
 
 Yuya and the others were fighting hard when they heard an explosion echo from afar. There was a light blooming among all those xenogeneics.
 

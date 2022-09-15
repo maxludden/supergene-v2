@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Blood Dragon Flying Into the Sky
-### Chapter 3108 
+### Chapter 3108
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Steel Scene suddenly turned into an ice and snow battle god. His black hair was now snow white. His skin was crystalized. His entire body unleashed an aura of cold air. Snowflakes surrounded him. He punched toward Han Sen’s blood dragon flying into the sky weird scene, but it was too late.
+Steel Scene suddenly turned into an ice and snow battle god. His black hair was now snow white. His skin was crystalized. His entire body unleashed an aura of cold air. Snowflakes surrounded him. He punched toward Han Sen’s blood dragon flying into the sky weird scene, but it was too late.
 
 Boom!
 

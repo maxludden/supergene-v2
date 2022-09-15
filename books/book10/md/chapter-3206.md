@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Mirror Lake Changes
-### Chapter 3206 
+### Chapter 3206
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Back in the geno universe, Ling’er sat upon a stool in Space Garden. She placed her hands up against her jaw to cradle it and stared up into the sky to daydream. “Little Ling’er, did you miss Brother Yuhang?” A man approached her with a smile on his face. He smiled at Ling’er.
+Back in the geno universe, Ling’er sat upon a stool in Space Garden. She placed her hands up against her jaw to cradle it and stared up into the sky to daydream. “Little Ling’er, did you miss Brother Yuhang?” A man approached her with a smile on his face. He smiled at Ling’er.
 
 “Grandad Yuhang! You have come back so quickly.” Ling’er looked at Wang Yuhang with surprise.
 

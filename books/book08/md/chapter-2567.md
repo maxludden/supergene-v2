@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Another Crocodile God
-### Chapter 2567 
+### Chapter 2567
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  In the universe outside the core area, the heirs of deifieds were known for having better-than-average genes. They had incredible potential, but when they were born, they weren’t that different from ordinary people or creatures. They would still need to level up.
+In the universe outside the core area, the heirs of deifieds were known for having better-than-average genes. They had incredible potential, but when they were born, they weren’t that different from ordinary people or creatures. They would still need to level up.
 
 It was like the deified jade toad that lived in Narrow Moon. Its small offspring started at the lowest class of xenogeneic, and they would have to level up over the years. Most of them would never reach deified rank, though. And what rank they reached would be largely dependent on what resources they had available.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Solo Assassin
-### Chapter 550 
+### Chapter 550
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Yang Manli was unnerved. The forces of the Blackgod Shelter were mighty, with seven elites with over 100 sacred geno points. Not to mention their reserves of an additional 200 troops that were branded as powerful evolvers, as well. The combined forces that had set out to attack them were much too strong for the Goddess Shelter to repel.
+Yang Manli was unnerved. The forces of the Blackgod Shelter were mighty, with seven elites with over 100 sacred geno points. Not to mention their reserves of an additional 200 troops that were branded as powerful evolvers, as well. The combined forces that had set out to attack them were much too strong for the Goddess Shelter to repel.
 
 If Han Sen was going to concede, Yang Manli didn't know what to do; she'd be uncomfortable, and most likely upset, too.
 

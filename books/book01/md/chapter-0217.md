@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Too Young
-### Chapter 217 
+### Chapter 217
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Qin Xuan was no stranger to the Saint Hall. Although the Saint Hall was part of the military, it had a special status. All departments in the military and even forces outside the military were always watching the Saint Hall closely.
+Qin Xuan was no stranger to the Saint Hall. Although the Saint Hall was part of the military, it had a special status. All departments in the military and even forces outside the military were always watching the Saint Hall closely.
 
 This was all due to the hyper geno arts developed by the organization. Even within the military, the licenses used to purchase at the Saint Hall were limited.
 

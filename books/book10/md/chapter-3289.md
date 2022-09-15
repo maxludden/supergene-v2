@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Big Explosion
-### Chapter 3289 
+### Chapter 3289
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Zhao Qiu Yi and Zhao Ning’er watched Han Sen explode with light. The light expelled was so bright that they could not even open their eyes. There was just bright light. Nothing else could be seen.
+Zhao Qiu Yi and Zhao Ning’er watched Han Sen explode with light. The light expelled was so bright that they could not even open their eyes. There was just bright light. Nothing else could be seen.
 
 After the light dimmed, Han Sen’s body vanished. All that was left in the cave were the items Han Sen had thrown around.
 

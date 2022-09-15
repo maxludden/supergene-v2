@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## The Hall Shrouded in Death
-### Chapter 1877 
+### Chapter 1877
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “So what if it is a deified item? Without the deified one to control it, what can they really do?” a King asked, his voice hard. His body looked very bright. He took his subordinates and a Gana outside the hall.
+“So what if it is a deified item? Without the deified one to control it, what can they really do?” a King asked, his voice hard. His body looked very bright. He took his subordinates and a Gana outside the hall.
 
 His godlights tore through the darkness, lighting up the outside of the hall. The Nobles in his employ followed him. They traveled through the dark, wanting to return to their ships.
 

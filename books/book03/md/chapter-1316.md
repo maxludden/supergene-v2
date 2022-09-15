@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## One Versus the Whole Sanctuary
-### Chapter 1316 
+### Chapter 1316
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  It took Han Sen four days to return to Moving Star Shelter.
+It took Han Sen four days to return to Moving Star Shelter.
 
 By the time he got back, the fight was already over and the crisis had been averted, or at the very least met head-on during his absence and resolved in a massive battle he had missed out on.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Unsettling in the Mind
-### Chapter 424 
+### Chapter 424
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen looked to his mind and saw the cursed wolf, golden growler, holy angel, and other super beast souls were sitting in a circle, staring at one thing greedily with fierce looks.
+Han Sen looked to his mind and saw the cursed wolf, golden growler, holy angel, and other super beast souls were sitting in a circle, staring at one thing greedily with fierce looks.
 
 Meowth and beetle knight were standing afar, clearly coveting the item as well. However, they were afraid of the seven super beast souls and did not dare to come any closer.
 

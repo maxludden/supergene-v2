@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Blood Eye Evil God Beast Soul
-### Chapter 2450 
+### Chapter 2450
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen watched the battle in the hopes of finding an opportunity to score some easy kills, but something soon happened that made him rethink his plans.
+Han Sen watched the battle in the hopes of finding an opportunity to score some easy kills, but something soon happened that made him rethink his plans.
 
 Music wafted into Han Sen’s ears. Upon hearing the first note, Han Sen’s mind seemed to buzz, like the vibration that would be left behind if someone struck him on the head with a hammer.
 

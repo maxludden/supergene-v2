@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Doctor Sexy
-### Chapter 1341 
+### Chapter 1341
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “I have a lot of different powers,” Han Sen started by saying.
+“I have a lot of different powers,” Han Sen started by saying.
 
 Associating himself with a sheep would be strange, but this was a chance for Han Sen to be part of a crowd, he believed. Strength in numbers was a legitimate concept, after all.
 

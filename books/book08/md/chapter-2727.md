@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## I Am Not Convinced
-### Chapter 2727 
+### Chapter 2727
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Although the monkey wasn’t affected by the cold power, it wasn’t long until its eyes started to become heavy. Soon, it slumped down on a Star Fruit and fell into a deep sleep.
+Although the monkey wasn’t affected by the cold power, it wasn’t long until its eyes started to become heavy. Soon, it slumped down on a Star Fruit and fell into a deep sleep.
 
 Han Sen saw that it didn’t have a single flake of ice sticking to it. He had expected that the ice power might not work on the Six-Eared Macaque, but the sleeping powers that came with it were not something the Six-Eared Macaque could withstand.
 

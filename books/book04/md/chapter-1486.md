@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Real Blood Power
-### Chapter 1486 
+### Chapter 1486
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “If it wasn’t for you, I wouldn’t have had to do that.” Elysian Moon endured her painful and weakened state, speaking to the surface of the umbrella.
+“If it wasn’t for you, I wouldn’t have had to do that.” Elysian Moon endured her painful and weakened state, speaking to the surface of the umbrella.
 
 She wanted to take a look at Han Sen’s image, but she froze in shock when her eyes noticed its absence.
 

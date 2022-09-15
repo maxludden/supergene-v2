@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Black Crystal Rain
-### Chapter 3369 
+### Chapter 3369
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Blood was everywhere. Wan’er’s shiny god body had a small blood mark.
+Blood was everywhere. Wan’er’s shiny god body had a small blood mark.
 
 Suddenly, fire knife airs were coming down to cover the sky and ground to break the gold light that was protecting Wan’er’s body. Many knife airs cut her clothes to impart many small marks on her body.
 

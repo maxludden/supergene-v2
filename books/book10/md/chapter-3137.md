@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Thirty Percent Benefit
-### Chapter 3137 
+### Chapter 3137
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “Mister Wei, please explain to me the details you have about Bee Planet,” Sky King said to Mister Wei.
+“Mister Wei, please explain to me the details you have about Bee Planet,” Sky King said to Mister Wei.
 
 Mister Wei remained silent. He did not speak. Sky King understood what Mister Wei was worried about. He said, “Mister, please explain it to me. The people in this carriage are all my friends. There are no outsiders in here.”
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Pretending to Be a Prince
-### Chapter 2322 
+### Chapter 2322
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  On his way to Planet Wind Zone, Han Sen sent a coded message.
+On his way to Planet Wind Zone, Han Sen sent a coded message.
 
 Han Sen took a deep breath before typing in the number that he wanted to send the message to. It was the number that Mister White had given him.
 

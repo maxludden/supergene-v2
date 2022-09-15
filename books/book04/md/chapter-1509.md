@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Three Years
-### Chapter 1509 
+### Chapter 1509
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “But the man has one major disadvantage: he cannot access the sanctuaries. If your life is in danger, you can enter there. There might be many New Community elites to square-off against in the sanctuary, but at least you will not have to suffer the wrath of their leader.”
+“But the man has one major disadvantage: he cannot access the sanctuaries. If your life is in danger, you can enter there. There might be many New Community elites to square-off against in the sanctuary, but at least you will not have to suffer the wrath of their leader.”
 
 Saying that, the man’s expression became complicated all of a sudden. “My son, you are far greater than I ever thought you would be. Having a son like you makes me immensely proud. You need to stay alive, to take care of your mother and Little Yan. Your wife is good, and Littleflower is cute. I will also do everything I can to ensure the safety of these things, and hopefully, one day, we can meet again.”
 

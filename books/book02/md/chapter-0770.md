@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Rouge
-### Chapter 770 
+### Chapter 770
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The corpse of the holy rhino was expansive, but after the vast swathe of creatures came together to eat it, it didn't last long. Soon, all the blood had been consumed. Han Sen picked up his gourd from the wet sand, and it appeared to have been dyed red, and it had a much more attractive look to it. Naturally, Han Sen assumed it had indeed absorbed much blood.
+The corpse of the holy rhino was expansive, but after the vast swathe of creatures came together to eat it, it didn't last long. Soon, all the blood had been consumed. Han Sen picked up his gourd from the wet sand, and it appeared to have been dyed red, and it had a much more attractive look to it. Naturally, Han Sen assumed it had indeed absorbed much blood.
 
 The blue bell, on the other hand, was adorned with a number of red etchings of a variety of different symbols. Han Sen was unable to discern what they meant, however.
 

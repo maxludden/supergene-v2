@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Shadow Toxic Bee Enclave
-### Chapter 2203 
+### Chapter 2203
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen took Huangfu Jing back with him to Planet Eclipse. She had just earned her own Jade Drum, and since she was worried about being ambushed while out-and-about, she wanted to stay there for some time. She would wait until things settled down before moving on.
+Han Sen took Huangfu Jing back with him to Planet Eclipse. She had just earned her own Jade Drum, and since she was worried about being ambushed while out-and-about, she wanted to stay there for some time. She would wait until things settled down before moving on.
 
 Sonic Butterfly King had learned where Han Sen came from, but it would be pointless to go after Han Sen when he was already so far behind. He managed to get in touch with people to block Han Sen’s way, but they were unable to find him, either. So, eventually, Sonic Butterfly King decided to give up.
 

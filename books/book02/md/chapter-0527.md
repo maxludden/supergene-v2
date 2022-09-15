@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Silver Beetle
-### Chapter 527 
+### Chapter 527
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  "I am afraid I have to let you down. I am the enemy of Blackgod, so it should be inconvenient for me to go with you?" Han Sen smiled and said.
+"I am afraid I have to let you down. I am the enemy of Blackgod, so it should be inconvenient for me to go with you?" Han Sen smiled and said.
 
 "You are the one who injured Blackgod and stole the snake fish king?" Li Xinglun suddenly remembered, looking at Han Sen in surprise.
 

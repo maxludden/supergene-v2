@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Seven Twists
-### Chapter 359 
+### Chapter 359
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  "Clear!" Chen Zichen shouted and summoned a spear more than 6 feet long. He stepped on the cliff and stabbed the spear at the bird.
+"Clear!" Chen Zichen shouted and summoned a spear more than 6 feet long. He stepped on the cliff and stabbed the spear at the bird.
 
 The rest of the group quickly dodged. They dug their fingers into the rocks and quickly climbed up.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Holy Palace Changing
-### Chapter 2988 
+### Chapter 2988
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “He…” Auntie Mei wanted to say something, but a hand squeezed her head. It twisted her head, ripped it off, and threw it to the ground like trash.
+“He…” Auntie Mei wanted to say something, but a hand squeezed her head. It twisted her head, ripped it off, and threw it to the ground like trash.
 
 Auntie Mei’s head rolled across the floor. Her eyes were wide open. They were full of misery and appeared as if she did not want to die yet.
 

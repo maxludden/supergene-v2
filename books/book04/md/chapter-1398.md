@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## The Beast on the Bronze Coffin
-### Chapter 1398 
+### Chapter 1398
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “Yu Xuan, now that I am a part of the Outer Sky Shelter territory, perhaps you could tell me more about what I will be walking into? The more intel I have going in, the better I can perform.” Han Sen knew the mission would be dangerous, so he would have preferred going in with at least some semblance of an idea of what he might face.
+“Yu Xuan, now that I am a part of the Outer Sky Shelter territory, perhaps you could tell me more about what I will be walking into? The more intel I have going in, the better I can perform.” Han Sen knew the mission would be dangerous, so he would have preferred going in with at least some semblance of an idea of what he might face.
 
 Yu Xuan looked at Qing Le, prompting him to speak. He said, “Unfortunately, we don’t know much about the shelter. And as for what our previous team faced on the inside, there is no proof that can verify the claims made by the three who made it out.”
 

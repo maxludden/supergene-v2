@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Promised Him
-### Chapter 2486 
+### Chapter 2486
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Kiek’s magnetic area wasn’t the strongest King area in the Extreme King, but he was still a member of the third-highest race in the universe. His Magnet King Body was nothing to take lightly, especially since he was half-deified. Normal King class xenogeneics were unable to walk under the influence of his magnetic area.
+Kiek’s magnetic area wasn’t the strongest King area in the Extreme King, but he was still a member of the third-highest race in the universe. His Magnet King Body was nothing to take lightly, especially since he was half-deified. Normal King class xenogeneics were unable to walk under the influence of his magnetic area.
 
 Bao’er was just a kid, and she was somehow ignoring Kiek’s magnetic area. That surprised him a lot.
 

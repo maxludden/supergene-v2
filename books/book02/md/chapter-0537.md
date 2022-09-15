@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Qi Gong
-### Chapter 537 
+### Chapter 537
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Ji Yanran patiently explained what it was all about, but Han Sen quickly understood what she really meant. In his heart, he felt shocked.
+Ji Yanran patiently explained what it was all about, but Han Sen quickly understood what she really meant. In his heart, he felt shocked.
 
 The information he could gather on the Skynet regarding surpassers was rather limited. The population of the entire Alliance exceeded several billion, but the amount of registered surpassers was below one million.
 

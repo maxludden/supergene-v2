@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Exceeding Ultimate Mode
-### Chapter 793 
+### Chapter 793
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  "Scabbard?" Han Sen was unsure what he meant. Qin Xuan was only seeking to learn a new sword skill; it wasn't as if she was being melted down and reforged into a blade herself. What scabbard?
+"Scabbard?" Han Sen was unsure what he meant. Qin Xuan was only seeking to learn a new sword skill; it wasn't as if she was being melted down and reforged into a blade herself. What scabbard?
 
 "The most important aspect of Empirical Sword lies in the ruler's heart. If there is no heart, there can be no sword. But this heart..." Qin Taixuan sighed and then continued to say, "The absolute power is dependent on the heart. If the heart sinks, so too does the power. She needs a person to keep her feeling as if she were in danger. She needs a person who gives her purpose to proceed and strive ever forward, not to remain where she is and be content. Only that can sharpen the sword, the sword that will be sheathed inside the scabbard you will embody."
 

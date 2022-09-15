@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## The Reaper’s Busy Day
-### Chapter 1200 
+### Chapter 1200
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The captain was frozen when Han Sen re-appeared. He flashed between being visible and invisible, as each re-appearance coincided with a strike that brought several shura soldiers down in a haze of blood and pained screams.
+The captain was frozen when Han Sen re-appeared. He flashed between being visible and invisible, as each re-appearance coincided with a strike that brought several shura soldiers down in a haze of blood and pained screams.
 
 The shura that were still standing fired their weapons as they had been doing the entire time, but it was as if they were firing blanks. Despite the barrage of laser fire that was being cast each second, none of the shots were able to find their target. The Panic Terminal was blackened by the laser scorch marks.
 

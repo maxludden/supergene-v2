@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Amazing Talent
-### Chapter 96 
+### Chapter 96
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Qin Xuan felt suffocated as she almost stopped breathing when she saw Han Sen’s hands dancing madly.
+Qin Xuan felt suffocated as she almost stopped breathing when she saw Han Sen’s hands dancing madly.
 
 Halfway through evoler-3, Han Sen had made no mistake yet. His hands were moving so fast that sometimes all she could see was the afterimage, which amazed her.
 

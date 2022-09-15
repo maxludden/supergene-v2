@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Royal Spirit
-### Chapter 484 
+### Chapter 484
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen was too lazy to move in the first place. After hearing from the woman that there was a human shelter nearby, he decided to rest on her back, letting her carry him to the other side of the snow mountain.
+Han Sen was too lazy to move in the first place. After hearing from the woman that there was a human shelter nearby, he decided to rest on her back, letting her carry him to the other side of the snow mountain.
 
 The lady was quite tall, almost like a man. It was hard to tell how old she was. Han Sen felt she should not be too old. Her fitness seemed quite ordinary as well. He thought her fitness index was probably less than thirty. She should be a mutant evolver who had entered God's Sanctuary not long ago, which explained her low fitness level.
 

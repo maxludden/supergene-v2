@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Dollar Is Trending
-### Chapter 493 
+### Chapter 493
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen won every fight he was in for a dozen times. Because many fans were trying to match with him, the better half of his opponents were his fans, among whom a girl even asked for his signature, blushing.
+Han Sen won every fight he was in for a dozen times. Because many fans were trying to match with him, the better half of his opponents were his fans, among whom a girl even asked for his signature, blushing.
 
 "This is a virtual platform. There is no way I am able do that." Han Sen had to log out of the official platform. If he kept going like this, it would not help him at all.
 

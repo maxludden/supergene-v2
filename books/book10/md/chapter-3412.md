@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Spring Autumn Meat
-### Chapter 3412 
+### Chapter 3412
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The Spring Autumn Meat contained three ingredients. The first was a heap of spring spices. The second ingredient was autumn mushrooms, and the third was a prime cut of thunder beast meat.
+The Spring Autumn Meat contained three ingredients. The first was a heap of spring spices. The second ingredient was autumn mushrooms, and the third was a prime cut of thunder beast meat.
 
 The skin of a thunder beast was tough. Although it was not a high-class xenogeneic, ordinary weapons were unable to damage its skin. The meat, however, was very fresh. That was especially true of the meat on its back. It was very thin and small. It made for excellent food to fry.
 

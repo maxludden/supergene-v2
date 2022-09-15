@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Giant Prisoners
-### Chapter 2701 
+### Chapter 2701
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “Five times… six times…” Han Sen was silently counting each chime. He counted all the way to 12, then the bells fell quiet.
+“Five times… six times…” Han Sen was silently counting each chime. He counted all the way to 12, then the bells fell quiet.
 
 The moment the bells stopped, the doors of every palace opened wide. Some of the buildings looked like modern metal structures, while others were crafted like vintage castles. Regardless of their appearances, all of the palaces opened their doors at the same time, as if they had been rigged to do so automatically.
 

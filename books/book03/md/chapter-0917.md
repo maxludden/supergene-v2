@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Skill Negation
-### Chapter 917 
+### Chapter 917
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  "Ah, it's The King of Truth. Has he come to challenge The King?"
+"Ah, it's The King of Truth. Has he come to challenge The King?"
 
 "Ooh, another entertaining spectacle for us to watch. I wonder which is the stronger of the two?"
 

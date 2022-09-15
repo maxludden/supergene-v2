@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Strange Valley
-### Chapter 1125 
+### Chapter 1125
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “Uncle Bug, where are you off to?” Han Sen asked, looking at Uncle Bug.
+“Uncle Bug, where are you off to?” Han Sen asked, looking at Uncle Bug.
 
 “I am going to Redbug Lake to collect some more meat,” Uncle Bug answered.
 

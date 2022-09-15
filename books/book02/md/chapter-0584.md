@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Red-scale Dragon
-### Chapter 584 
+### Chapter 584
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  "Watching Dollar battle is so boring. I want to watch Han Sen battle Yi Dongmu; two assassins fighting each other would be pretty fun!" Tang Zhenliu sat on his sofa rewatching the video of Yi Dongmu and Dollar's final battle.
+"Watching Dollar battle is so boring. I want to watch Han Sen battle Yi Dongmu; two assassins fighting each other would be pretty fun!" Tang Zhenliu sat on his sofa rewatching the video of Yi Dongmu and Dollar's final battle.
 
 "A battle between two assassins would be too fatal," Lin Feng said quietly.
 

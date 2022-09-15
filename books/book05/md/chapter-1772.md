@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Searching for Treasure
-### Chapter 1772 
+### Chapter 1772
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  A swordmind itself did not have power, and you couldn’t kill others with it. But a swordmind represented the extent of a swordsman’s skill, and it showed how much their sword skills connected with the earth. The more synergy a swordsman had with the earth, the more powerful his skills would be when they were unleashed.
+A swordmind itself did not have power, and you couldn’t kill others with it. But a swordmind represented the extent of a swordsman’s skill, and it showed how much their sword skills connected with the earth. The more synergy a swordsman had with the earth, the more powerful his skills would be when they were unleashed.
 
 Someone with a strong swordmind could make even common sword skills incredibly powerful.
 

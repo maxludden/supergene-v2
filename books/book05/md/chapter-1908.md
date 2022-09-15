@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Crystallizer
-### Chapter 1908 
+### Chapter 1908
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Quickly, Han Sen noticed he was able to read the text contained within the diary. It was written in the ancient language of humans—a text often used by the crystallizers. There were, however, a variety of symbols not even he could understand. All-in-all, he didn’t understand everything together.
+Quickly, Han Sen noticed he was able to read the text contained within the diary. It was written in the ancient language of humans—a text often used by the crystallizers. There were, however, a variety of symbols not even he could understand. All-in-all, he didn’t understand everything together.
 
 There were some formulas jotted down. Han Sen wasn’t very good at science. He had learned a bit in school, but he had forgotten most of that by now.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Perseverance Matters
-### Chapter 88 
+### Chapter 88
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  "Who told you about the protection mechanism?" Yang Manli stared at Han Sen madly. Of course, she knew about this trick.
+"Who told you about the protection mechanism?" Yang Manli stared at Han Sen madly. Of course, she knew about this trick.
 
 "What protection mechanism? I do not understand what you are talking about?" Han Sen looked innocent.
 

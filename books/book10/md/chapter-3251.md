@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Chu Yuan
-### Chapter 3251 
+### Chapter 3251
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “If I were you, I would not take another step forward,” a voice bellowed from the sky.
+“If I were you, I would not take another step forward,” a voice bellowed from the sky.
 
 Zhen Xia and the others raised their heads to look. They saw nine Holy Wen White Deer drawing a carriage. They had just ripped through space to arrive. They came down and stopped next to Zhen Xia. The voice came from within the jade carriage.
 

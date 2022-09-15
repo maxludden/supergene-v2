@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Battle on the Ice Lake
-### Chapter 743 
+### Chapter 743
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The little angel's greatsword delivered a great cut to the blobby jellyfish. But in the next second, the wound it suffered was immediately healed.
+The little angel's greatsword delivered a great cut to the blobby jellyfish. But in the next second, the wound it suffered was immediately healed.
 
 The tentacles reached out towards the little angel, but she swung her greatsword and cut them down before they could get too close.
 

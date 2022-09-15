@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## The Test of Feng Yin Yin's Talent
-### Chapter 3161 
+### Chapter 3161
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Feng Fei Fei walked over and told Han Sen, “Mister Han and Fei Fei, I understand your noble intentions, but Little Yin’s sonic talents are exceptional. We still hope she can receive a sonic God Spirit Blood-Pulse.”
+Feng Fei Fei walked over and told Han Sen, “Mister Han and Fei Fei, I understand your noble intentions, but Little Yin’s sonic talents are exceptional. We still hope she can receive a sonic God Spirit Blood-Pulse.”
 
 Aside from the reason Han Fei Fei pointed out, there was an additional reason that she merely felt bad for suggesting. The God of Wealth Han Sen suggested was something Feng Fei Fei had never of before. Besides the fact it wasn’t one of the 12 Annihilation-class main gods, there wasn’t a God of Wealth amid the famous Disaster God Spirits.
 

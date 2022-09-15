@@ -6,11 +6,11 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Disaster
-### Chapter 2397 
+### Chapter 2397
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
-  
   

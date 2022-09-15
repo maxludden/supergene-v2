@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## How About a Baby?
-### Chapter 752 
+### Chapter 752
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen never expected things to turn out so well; it was quite the surprise.
+Han Sen never expected things to turn out so well; it was quite the surprise.
 
 When he returned, he contacted his mother. He hoped that she could rendezvous for a meet and greet with the Ji family.
 

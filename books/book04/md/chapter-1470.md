@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Bulwark Umbrella’s Defense
-### Chapter 1470 
+### Chapter 1470
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen and Elysian Moon were both incredibly fast runners, and the minotaurs had a hard time keeping up with them.
+Han Sen and Elysian Moon were both incredibly fast runners, and the minotaurs had a hard time keeping up with them.
 
 But when Han Sen turned around to get a peek, his face changed. There were at least two hundred of the fiends pursuing them, and now they were raising their ruby spears up towards the sky, ready to launch them from a distance.
 

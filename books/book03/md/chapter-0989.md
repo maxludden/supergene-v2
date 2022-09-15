@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## The Emperor’s Spirit Orb
-### Chapter 989 
+### Chapter 989
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Moment Queen stopped and explained, “If the ritual did not work, the emperor will not have been brought back to life. But regardless, his lifeforce is still in-play. If its existence continues in this way, it will instead become a spirit orb. Think of it as a weakened spirit stone, that is unable to revive anything. But, it can be consumed by other spirits. If another spirit consumes a spirit orb, they are granted a considerable number of self geno points.”
+Moment Queen stopped and explained, “If the ritual did not work, the emperor will not have been brought back to life. But regardless, his lifeforce is still in-play. If its existence continues in this way, it will instead become a spirit orb. Think of it as a weakened spirit stone, that is unable to revive anything. But, it can be consumed by other spirits. If another spirit consumes a spirit orb, they are granted a considerable number of self geno points.”
 
 “How do you know there’ll still be a spirit orb? What if the emperor has already taken it?” Han Sen frowned.
 

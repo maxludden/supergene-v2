@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Crystallizer Key
-### Chapter 475 
+### Chapter 475
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  "For this, what do you think?" Li Mingtang said casually, and his skin suddenly turned into gold. Instantaneously, he had a gold body, looking like the Buddha himself.
+"For this, what do you think?" Li Mingtang said casually, and his skin suddenly turned into gold. Instantaneously, he had a gold body, looking like the Buddha himself.
 
 "Super Diamond Body! You obtained Super Diamond Body!" Han Sen was shocked, watching Li Mingtang with a golden body.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Every Punch Is Strong
-### Chapter 714 
+### Chapter 714
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The Light Son of God was firing on all cylinders, trying to catch Han Sen with his beams, but he couldn't. No matter how fast he fired, Han Sen seemed able to predict his every move, resulting in a miss every time.
+The Light Son of God was firing on all cylinders, trying to catch Han Sen with his beams, but he couldn't. No matter how fast he fired, Han Sen seemed able to predict his every move, resulting in a miss every time.
 
 Han Sen knew this was his opportunity. He knew he could keep dodging the Light Son of God's attacks, and all he would have to do was touch him to claim victory.
 

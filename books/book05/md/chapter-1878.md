@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Purgatory Beast
-### Chapter 1878 
+### Chapter 1878
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  When the Gana’s Holy Lady saw the item Han Sen was holding, her face changed completely. She looked at Han Sen with pretty eyes and said, “Where did you get this?”
+When the Gana’s Holy Lady saw the item Han Sen was holding, her face changed completely. She looked at Han Sen with pretty eyes and said, “Where did you get this?”
 
 “Guna asked me to save you, but I am afraid I am too weak. Now I might have that chance, though,” Han Sen coldly said.
 

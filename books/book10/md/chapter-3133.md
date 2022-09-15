@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Blood Eye Butterfly
-### Chapter 3133 
+### Chapter 3133
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “Where are the gene races?” Han Sen saw the skinning hide, but he did not see any of the gene races that were said to be protecting it.
+“Where are the gene races?” Han Sen saw the skinning hide, but he did not see any of the gene races that were said to be protecting it.
 
 “If you can see that far, look toward the skinning hide’s grassy heart person’s face,” Bald Guy said.
 

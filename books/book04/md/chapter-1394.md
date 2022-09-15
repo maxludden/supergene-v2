@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Creepy Shelter
-### Chapter 1394 
+### Chapter 1394
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  In the drawing, a building resided beyond the gates and ramparts; one that looked like a tower.
+In the drawing, a building resided beyond the gates and ramparts; one that looked like a tower.
 
 It was very wide on the bottom, but became gradually thinner, all the way up. The entire thing looked to be approximately fifty meters tall. What stood out most to Han Sen was the mural that had been wrought into the stone of the construct.
 

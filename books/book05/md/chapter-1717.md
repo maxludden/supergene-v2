@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Contract
-### Chapter 1717 
+### Chapter 1717
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “That outsider really made the geno tree chime?” In a manager’s office of Black Gold Group, Hardman asked his subordinates in shock.
+“That outsider really made the geno tree chime?” In a manager’s office of Black Gold Group, Hardman asked his subordinates in shock.
 
 Those subordinates of Black Gold Group had been the two behind him in the test.
 

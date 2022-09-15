@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## On Fire
-### Chapter 124 
+### Chapter 124
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Wang Long felt that this time he was even faster than usual and felt complacent about his performance. When he felt that he must have won, the game suddenly ended and he was stupefied.
+Wang Long felt that this time he was even faster than usual and felt complacent about his performance. When he felt that he must have won, the game suddenly ended and he was stupefied.
 
 <table class="score">
     <tr>

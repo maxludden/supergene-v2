@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## The Secret of the Chessboard
-### Chapter 2796 
+### Chapter 2796
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  With Han Sen’s chess talent, he was unable to tell what was so special about the 17 stalemates. At the very least, he was unable to tell if any secrets had yet to be discovered.
+With Han Sen’s chess talent, he was unable to tell what was so special about the 17 stalemates. At the very least, he was unable to tell if any secrets had yet to be discovered.
 
 “Does that mean the secret of the chessboards isn’t actually in the chessboards?” Han Sen tried to analyze the stalemates via a different perspective.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Emperor Staff
-### Chapter 2533 
+### Chapter 2533
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  All the royal knights were lined up, surrounding a giant eyeball that looked like a blue gem. It was as big as a moon. Although the knights were all Kings who had powerful areas, most of the knights weren’t using their powers.
+All the royal knights were lined up, surrounding a giant eyeball that looked like a blue gem. It was as big as a moon. Although the knights were all Kings who had powerful areas, most of the knights weren’t using their powers.
 
 They had been split up into teams, and every team had a leader. Under the leader’s command, the Kings released their powers and areas one by one. The process was smooth, and there were no errors or faults. The knights worked together like a well-oiled machine, and the fight was precise, tidy, and unhindered.
 

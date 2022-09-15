@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## A Very Disappointing Item
-### Chapter 2721 
+### Chapter 2721
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The Star Gauge Mirror wasn’t useful for him, but its power was excellent nonetheless. It could rewind time, and that power alone made it exceedingly overpowered.
+The Star Gauge Mirror wasn’t useful for him, but its power was excellent nonetheless. It could rewind time, and that power alone made it exceedingly overpowered.
 
 However, Empty God and the many gods like him were always… economical with the truth. The power of the Star Gauge Mirror wasn’t a lie, but there were limitations to what it could present. Normal people couldn’t use the mirror on a whim as Empty God could.
 

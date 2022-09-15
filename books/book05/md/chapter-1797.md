@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Treasure in the Lake
-### Chapter 1797 
+### Chapter 1797
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  What do you mean?” Han Sen asked, with a frown.
+What do you mean?” Han Sen asked, with a frown.
 
 “If you want to live, listen to me and follow my instructions closely. If you want to die, death can come easily. Just take a look at the wound on your arm for assurance,” Yisha said coldly.
 

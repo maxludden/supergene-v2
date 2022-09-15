@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Daphne
-### Chapter 407 
+### Chapter 407
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  "Sister, is the warframe force you're going to join called Daphne?" Han Sen looked at the information AI displayed incredulously.
+"Sister, is the warframe force you're going to join called Daphne?" Han Sen looked at the information AI displayed incredulously.
 
 "Daphne? We're supposed to go to the royal warframe force." Wang Mengmeng looked to the display without doubt and was also shocked by the information.
 

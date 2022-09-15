@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Ghost Eye Beast
-### Chapter 1757 
+### Chapter 1757
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “So the purple lotus’s suction only applies to geno armor and geno armaments. It doesn’t seem to affect the body.” Han Sen shook out his arms and looked around.
+“So the purple lotus’s suction only applies to geno armor and geno armaments. It doesn’t seem to affect the body.” Han Sen shook out his arms and looked around.
 
 Many other people had discovered this secret, too. And after giving up their geno armors, they were all free.
 

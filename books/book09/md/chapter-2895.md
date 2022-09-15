@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Familiar Machine
-### Chapter 2895 
+### Chapter 2895
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen thought, “There are so many princes and princesses that are deified now. How many resources has this cost them? Have the resources of the Extreme King all been depleted now?”
+Han Sen thought, “There are so many princes and princesses that are deified now. How many resources has this cost them? Have the resources of the Extreme King all been depleted now?”
 
 After reading it all, he made a mental record of all the princes and princesses he would be accompanying. Bai King made it sound like it was supposed to be a casual affair. If the princes and princesses ended up dead, there was no doubt Bai King would be very angry. It was not likely that Han Sen’s time in the Extreme King would be as joyful as it had been.
 

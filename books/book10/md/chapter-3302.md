@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Weird Super God Spirit Body
-### Chapter 3302 
+### Chapter 3302
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The blonde Wan’er had the will of the Qin Kingdom’s Wan’er. The black-haired Qin Wan’er had the will of the Witch Wan’er. It did not matter which will was in control. She would always retain the memories from both worlds. It was just her personality that would greatly differ depending on which was in control.
+The blonde Wan’er had the will of the Qin Kingdom’s Wan’er. The black-haired Qin Wan’er had the will of the Witch Wan’er. It did not matter which will was in control. She would always retain the memories from both worlds. It was just her personality that would greatly differ depending on which was in control.
 
 The blonde Qin Wan’er called Qin Xiu a brother. The black-haired Qin Wan’er added his name, Qin Xiu, after it.
 

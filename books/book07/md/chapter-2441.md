@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## The Screen Is Gone
-### Chapter 2441 
+### Chapter 2441
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Wan’er struck too fast for Han Sen to dodge. His fast reflexes moved his head far enough back that she didn’t strike him directly, but her fingertips still tore into his face.
+Wan’er struck too fast for Han Sen to dodge. His fast reflexes moved his head far enough back that she didn’t strike him directly, but her fingertips still tore into his face.
 
 Three deep gashes were torn into Han Sen’s face. The clefts were so deep that his skull became visible through them.
 

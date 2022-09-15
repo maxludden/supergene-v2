@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Sneak Attack Skills
-### Chapter 24 
+### Chapter 24
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Qin Xuan had made up her mind to kick Han Sen’s ass. The first time, when Han Sen stabbed her in the rear, she could attribute it to his ignorance, while the harassment on the train couldn’t be a coincidence.
+Qin Xuan had made up her mind to kick Han Sen’s ass. The first time, when Han Sen stabbed her in the rear, she could attribute it to his ignorance, while the harassment on the train couldn’t be a coincidence.
 
 Having identified Han Sen as a freak and bastard, Qin Xuan walked up to him with anger in her eyes and said, "You start."
 

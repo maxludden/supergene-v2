@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Crisis
-### Chapter 1682 
+### Chapter 1682
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  1682 Crisis
+1682 Crisis
 
 “Officer, Black Tiger and Lou Jia have been killed. Their operations failed. But, Han Sen entered Ancient Devil’s path of ascension and made it into the Alliance. Surely that can allow us to confirm that he is the heir of Han Jinzhi, yes? He could be protecting his family also, explaining why the two operatives were killed.” A man spoke to the officer with anger.
 

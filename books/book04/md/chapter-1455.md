@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## The Battle for Meat
-### Chapter 1455 
+### Chapter 1455
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The skin was easy to heal, but bones and veins were not. Fortunately, the red Ganoderma was able to provide effective healing for all three.
+The skin was easy to heal, but bones and veins were not. Fortunately, the red Ganoderma was able to provide effective healing for all three.
 
 Han Sen stayed in the shell for four days, until he was fully healed. Without those red mushrooms, it would have taken at least ten times that long.
 

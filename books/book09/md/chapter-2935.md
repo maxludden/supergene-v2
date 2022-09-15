@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Holy Garden Fight
-### Chapter 2935 
+### Chapter 2935
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “What weird thing?” Han Sen looked at him with interest.
+“What weird thing?” Han Sen looked at him with interest.
 
 Yang Yun Sheng had a wry smile as he said, “In the dark, I heard a woman crying.”
 

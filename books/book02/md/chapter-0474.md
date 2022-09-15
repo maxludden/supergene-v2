@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Efficiency
-### Chapter 474 
+### Chapter 474
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Simulating crystals were an impressive creation, which many human scholars called a miracle.
+Simulating crystals were an impressive creation, which many human scholars called a miracle.
 
 It was impossible for a human to become a rock, let alone a gun. However, simulating crystals were beyond their limitations.
 

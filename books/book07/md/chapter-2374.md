@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Holy Bottle Liquid
-### Chapter 2374 
+### Chapter 2374
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “Elder… why?” Lan Haixin looked at the old Siren woman with utter disbelief. Her voice trembled.
+“Elder… why?” Lan Haixin looked at the old Siren woman with utter disbelief. Her voice trembled.
 
 “Why?” The old Siren woman’s face was twisted. She gritted her teeth and said, “I want to know why, too. I want to know why I am so talented, and yet, not a single Siren was able to appreciate my accomplishments. Is it because I don’t have the blood of the holy virgin? Is that why that b*tch became the holy virgin instead? If a traitor like that was able to become the holy virgin, why couldn’t I?”
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Test Results
-### Chapter 2207 
+### Chapter 2207
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The final test was the geno tree. Han Sen stood before it and cut his finger. He let a droplet of blood fall onto the geno tree.
+The final test was the geno tree. Han Sen stood before it and cut his finger. He let a droplet of blood fall onto the geno tree.
 
 As everyone watched Han Sen’s blood fall onto the geno tree, Night River King stared at Han Sen intently. He wanted to make sure that Han Sen didn’t try to cheat his way through this too.
 

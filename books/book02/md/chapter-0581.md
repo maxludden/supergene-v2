@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Sacrifice
-### Chapter 581 
+### Chapter 581
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Yi Dongmu didn't think much. There was only one heartfelt desire right now - defeat Dollar.
+Yi Dongmu didn't think much. There was only one heartfelt desire right now - defeat Dollar.
 
 Yi Dongmu clutched his daggers upside down like fangs, and his eyes were fixed calmly upon Han Sen. He seemed to be wholly relaxed, as if his breathing had achieved a constant, uninterruptible rhythm.
 

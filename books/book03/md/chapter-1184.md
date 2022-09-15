@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## You’re All Going to Die Here
-### Chapter 1184 
+### Chapter 1184
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen removed the Dragon-Blood Ring from his finger. If Immortal Emperor truly was Sky King, he’d recognize Dragon King right away. Han Sen and Dry Bone King arrived at the Immortal Hall. Han Sen was eager to see what Immortal Emperor looked like.
+Han Sen removed the Dragon-Blood Ring from his finger. If Immortal Emperor truly was Sky King, he’d recognize Dragon King right away. Han Sen and Dry Bone King arrived at the Immortal Hall. Han Sen was eager to see what Immortal Emperor looked like.
 
 Qing Jun and Ghost Eye were there, as well. When Baby Ghost saw Han Sen, a visible look of surprise came over his face. Han Sen waved at him cheekily and then went to sit down.
 

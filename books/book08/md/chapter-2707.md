@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## God Spirit Storm
-### Chapter 2707 
+### Chapter 2707
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen could feel a weird sort of presence being released from Bao Lian’s body. Even Han Sen had to compliment him, saying, “The Extreme King’s king bodies are so scary. Just using his king body has allowed him to increase his presence by many multiples. The deifieds of an ordinary race cannot fight against the deifieds of the Extreme King.”
+Han Sen could feel a weird sort of presence being released from Bao Lian’s body. Even Han Sen had to compliment him, saying, “The Extreme King’s king bodies are so scary. Just using his king body has allowed him to increase his presence by many multiples. The deifieds of an ordinary race cannot fight against the deifieds of the Extreme King.”
 
 While Han Sen was still lost in thought, Bao Lian closed his eyes and said, “I didn’t want to kill you, but you seem to be seeking your death. Don’t blame me for doing what you have asked me to do.”
 

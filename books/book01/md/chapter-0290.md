@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Heresy Mantra
-### Chapter 290 
+### Chapter 290
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Bai Yishan paused and did not continue.
+Bai Yishan paused and did not continue.
 
 Han Sen, on the other hand, was overjoyed. He thought there was no hope and did not expect to get a positive answer. He quickly asked Bai Yishan, "Professor, do you have any hyper geno art in mind?" Bai Yishan hesitated and then continued, "It's not exactly a hyper geno art. You know that hyper geno arts all came from ancient martial arts. More than 20 years ago, an incomplete version of 'Heresy Sutra' was unearthed. Since it was incomplete, most ancient martial arts recorded in the book are no longer suitable for practice. Only in ancient martial art called 'Heresy Mantra' was relatively complete. If you could practice this ancient martial art to a certain level, it would be easy for you to break gold with bare hands."
 

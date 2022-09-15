@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## The Legendary Man on the Ice Fields
-### Chapter 553 
+### Chapter 553
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The Blackgod's Shelter had had a change in ownership in the span of a single night. This was news that startled many.
+The Blackgod's Shelter had had a change in ownership in the span of a single night. This was news that startled many.
 
 The Blackgod Shelter also changed its name, becoming the Goddess Shelter. The same also applied to the smaller branches of the Blackgod Shelter, so that they too adopted the new name of Goddess Shelter.
 

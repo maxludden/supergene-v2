@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Daybreak Spear
-### Chapter 666 
+### Chapter 666
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen was wielding the rex spike, sprinting towards Sea Wind. The rex spike in his hand began spinning; the opener for Toxic-Dragon Drill. Before, Han Sen had already learnt Screw, the lance skill, and this ability was cast with great finesse and power.
+Han Sen was wielding the rex spike, sprinting towards Sea Wind. The rex spike in his hand began spinning; the opener for Toxic-Dragon Drill. Before, Han Sen had already learnt Screw, the lance skill, and this ability was cast with great finesse and power.
 
 The rex spike was heavy and hard. If cast against a greatshield, the greatshield would be broken into splinters.
 

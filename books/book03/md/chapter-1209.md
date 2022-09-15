@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Trapped
-### Chapter 1209 
+### Chapter 1209
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  What emerged from the white ball was a creature, one that was as small as a snowball. It was a furry little thing, and it wasn’t too different from a Pomeranian puppy, in terms of its appearance.
+What emerged from the white ball was a creature, one that was as small as a snowball. It was a furry little thing, and it wasn’t too different from a Pomeranian puppy, in terms of its appearance.
 
 The plush snowball looked at Han Sen and barked with a rage. Woof! Woof! Woof!
 

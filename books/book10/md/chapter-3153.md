@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Jia Shi Zhen
-### Chapter 3153 
+### Chapter 3153
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Hearing that Qin Bai had been playing checkers for two days in the Feng family castle, without his ass leaving the chair once to touch the sword, Jia Shi Zhen was extremely worried.
+Hearing that Qin Bai had been playing checkers for two days in the Feng family castle, without his ass leaving the chair once to touch the sword, Jia Shi Zhen was extremely worried.
 
 Other kingdoms had many inheritors. There was always a choice in who succeeded the throne. The Qin Kingdom only had one crown prince. He was sure to be the next one wearing the crown. If Qin Bai continued his ridiculous behavior, the Qin Kingdom’s lofty position would likely fall.
 
@@ -28,8 +29,6 @@ In the beginning, Jia Shi Zhen had the attitude to not totally trust those words
 Han Sen returned to Feng Castle and saw Bao’er playing games with Qin Bai. Bao’er seemed happy, but Qin Bai did not look to be faring as well.
 
 Feng Yin Yin was watching their engagement with interest. In fact, during the past two days, she and Bao’er had been playing games with Qin Bai. She had just learned checkers, so she was really interested in it. She thought Qin Bai was like her, which was why she gave up her rest time to play checkers with them.
-
-as
 
 Only God knew that Qin Bai now hated playing chess. For as long as he lived, he never wanted to play another game of chess. He believed he would throw up the next time he heard someone even mention the checkers.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## The Two Powers That Cannot Be Trapped
-### Chapter 1327 
+### Chapter 1327
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  No God Emperor was the number one Son of God of the Third God’s Sanctuary, but that was the first rank among the spirits that competed in Divinity’s Bout. Not all emperors showed interest in the affair.
+No God Emperor was the number one Son of God of the Third God’s Sanctuary, but that was the first rank among the spirits that competed in Divinity’s Bout. Not all emperors showed interest in the affair.
 
 The general consensus among spirits was that the mightiest throughout the entire Third God’s Sanctuary was a spirit called Ruin Emperor; an emperor that far exceeded No God Emperor’s capabilities, as well.
 

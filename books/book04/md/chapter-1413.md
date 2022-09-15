@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## The Whole Story
-### Chapter 1413 
+### Chapter 1413
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “Are you insinuating that the entire human race originated in the sanctuaries?” Han Sen screamed and felt his voice crack.
+“Are you insinuating that the entire human race originated in the sanctuaries?” Han Sen screamed and felt his voice crack.
 
 “That is the secret Blood Legion has harbored since our founding.” Mister Li said.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Against the Monster
-### Chapter 250 
+### Chapter 250
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  On her way back, Yang Manli rode her mount following Han Sen, watching her boss with mixed feelings.
+On her way back, Yang Manli rode her mount following Han Sen, watching her boss with mixed feelings.
 
 Yang Manli suddenly felt that Han Sen had become someone she did not know. The guy who she used to despise had grown so strong.
 

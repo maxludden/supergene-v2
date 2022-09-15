@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Fairy Queen Beast Soul
-### Chapter 118 
+### Chapter 118
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  > "Sacred-blood Creature Shreeky Beast Killed. No Beast Soul Gained. Eat Its Meat to Gain Zero to Ten Sacred Geno Points."
+> "Sacred-blood Creature Shreeky Beast Killed. No Beast Soul Gained. Eat Its Meat to Gain Zero to Ten Sacred Geno Points."
 
 Han Sen had little interest in listening to the voice. He was staring at the meat cooking in the pot with his mouth watering. His stomach was rumbling as he was starving.
 

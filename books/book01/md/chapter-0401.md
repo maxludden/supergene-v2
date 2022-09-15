@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## No. 107
-### Chapter 401 
+### Chapter 401
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  "Where is No. 107?" Han Sen spitted out some blood in his mouth and asked quietly.
+"Where is No. 107?" Han Sen spitted out some blood in his mouth and asked quietly.
 
 "You will know when we get there." Ning Yue did not talk to Han Sen again and hit the road.
 

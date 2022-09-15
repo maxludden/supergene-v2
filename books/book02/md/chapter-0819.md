@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## A Group of Shura
-### Chapter 819 
+### Chapter 819
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  "Is this its gear?" Han Sen picked up the armor and steel greatsword. They were quite heavy, but after giving it a few swings, Han Sen thought the sword felt good to wield.
+"Is this its gear?" Han Sen picked up the armor and steel greatsword. They were quite heavy, but after giving it a few swings, Han Sen thought the sword felt good to wield.
 
 Han Sen tried to simulate the energy flow of the armored phantom, and when he did, the steel greatsword emitted a beam of green light that was a few meters long. The light was much stronger than when he used it on his Flaming Rex Spike. It seemed to be exclusive gear, and it delighted Han Sen to receive even more good spoils from his recent escapades.
 

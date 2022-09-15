@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Super Geno Core Battle
-### Chapter 1538 
+### Chapter 1538
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The spirit, seeing the lion’s stamp, looked frightened. He didn’t say anything more, and simply turned around to take his leave.
+The spirit, seeing the lion’s stamp, looked frightened. He didn’t say anything more, and simply turned around to take his leave.
 
 The other spirits and creatures remained where they were, but they didn’t say anything. They still wanted to get into the Godlight Tunnel, but they were curious as to how things might develop first.
 

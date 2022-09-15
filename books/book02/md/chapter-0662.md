@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## The Red Pony
-### Chapter 662 
+### Chapter 662
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  "Holy smokes! I escape the territory of the wolves only to end up in the realm of horses?" Han Sen was glum as he watched the winged-horses – the pegasi – approach. He wanted to slap himself, thinking, "Why did I even come here in the first place? I should have stuck to searching for solo super creatures!"
+"Holy smokes! I escape the territory of the wolves only to end up in the realm of horses?" Han Sen was glum as he watched the winged-horses – the pegasi – approach. He wanted to slap himself, thinking, "Why did I even come here in the first place? I should have stuck to searching for solo super creatures!"
 
 "Trying to take advantage of others will get me killed," Han Sen sighed.
 

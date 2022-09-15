@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Violent Hitting
-### Chapter 1307 
+### Chapter 1307
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Before Han Sen could answer, the elephant was back on its feet, charging towards him. To keep his teacher from getting hurt, Han Sen pushed Bai Yishan out of the way. Then, with his fist primed, he launched a punch directly into the elephant’s sturdy head.
+Before Han Sen could answer, the elephant was back on its feet, charging towards him. To keep his teacher from getting hurt, Han Sen pushed Bai Yishan out of the way. Then, with his fist primed, he launched a punch directly into the elephant’s sturdy head.
 
 The elephant came to a sudden stop. It didn’t fly away or even reel back. Like a car driving head-on into a concrete wall, it hit Han Sen’s fist and stopped still. Silence returned to the ears of all there for a moment, right before the elephant slumped to the ground.
 

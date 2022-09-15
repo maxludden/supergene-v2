@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## One-punch Victory
-### Chapter 704 
+### Chapter 704
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  After what Hua Ping told him, Fang Mingquan started to worry. He didn't want Dollar to go up against something so fiercely powerful.
+After what Hua Ping told him, Fang Mingquan started to worry. He didn't want Dollar to go up against something so fiercely powerful.
 
 As they spoke, the two combatants entered their battleground. One combatant was three meters tall and clad in black armor. He looked terrifying. His movements were almost like a mechanical robot, built from steel.
 

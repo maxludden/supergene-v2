@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Cannot Keep Pretending
-### Chapter 2327 
+### Chapter 2327
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Cher’s beauty would make anyone’s heart jump, but in Han Sen’s eyes, she was completely unappealing.
+Cher’s beauty would make anyone’s heart jump, but in Han Sen’s eyes, she was completely unappealing.
 
 Han Sen had seen many beautiful people in the world. There were countless numbers of them, but he was now past the stage in which he took people for their face value. What was inside was better than what was outside.
 

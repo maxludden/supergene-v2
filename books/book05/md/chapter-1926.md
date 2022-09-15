@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Watching a Ceremony
-### Chapter 1926 
+### Chapter 1926
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Fortunately, now that he was a student of someone who was half-deified, Han Sen had some level of authority across Narrow Moon. It gave him access to information that the ordinary Rebates were not permitted to know.
+Fortunately, now that he was a student of someone who was half-deified, Han Sen had some level of authority across Narrow Moon. It gave him access to information that the ordinary Rebates were not permitted to know.
 
 Han Sen could not find out anything about the origin of the red mist orb, but he was able to learn about the red mist minks and the Red Mist King.
 

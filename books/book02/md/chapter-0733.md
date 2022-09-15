@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## This Must Be a Hallucination
-### Chapter 733 
+### Chapter 733
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The Blue Crystal team found Luo Sulan out near the mountains and quickly brought her back to the shelter. Wu Qinggang killed one sacred-blood creature and managed to chase away the other two before returning himself.
+The Blue Crystal team found Luo Sulan out near the mountains and quickly brought her back to the shelter. Wu Qinggang killed one sacred-blood creature and managed to chase away the other two before returning himself.
 
 The Blue Crystal team believed things were not as simple as they might have initially seemed, as those sacred-blood creatures should not have appeared where they were in the first place. But aside from their intrusion, nothing else happened; Luo Sulan was safe.
 

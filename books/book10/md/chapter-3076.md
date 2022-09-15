@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Scary Gene Race
-### Chapter 3076 
+### Chapter 3076
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen could not say anything. After making up his mind, he decided to go take a look. Mister Yang did not know much. He provided him with some basic information. Although the king’s alpha temple was heavily guarded, and there was a ceremony each year, ordinary people could not get close. The best they could do was film things from afar. So, there was a lot of information about it on the internet.
+Han Sen could not say anything. After making up his mind, he decided to go take a look. Mister Yang did not know much. He provided him with some basic information. Although the king’s alpha temple was heavily guarded, and there was a ceremony each year, ordinary people could not get close. The best they could do was film things from afar. So, there was a lot of information about it on the internet.
 
 Han Sen browsed and did some research on it online. He did so for a while and learned about the location of the king’s alpha temple. He knew what the place looked like, so he knew what to look for.
 

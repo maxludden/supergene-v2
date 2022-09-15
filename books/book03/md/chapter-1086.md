@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## That Really Is Dollar
-### Chapter 1086 
+### Chapter 1086
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “That really is Dollar!” Su Xiaoqiao exclaimed in shock. He had no idea what had just happened, but the landscape of battle had immediately morphed.
+“That really is Dollar!” Su Xiaoqiao exclaimed in shock. He had no idea what had just happened, but the landscape of battle had immediately morphed.
 
 Dollars scattered across all the Raging Beasts, peppering them.
 

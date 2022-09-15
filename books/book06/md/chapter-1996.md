@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Fight Me
-### Chapter 1996 
+### Chapter 1996
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “Living is hard, and life is grey.”
+“Living is hard, and life is grey.”
 
 This time, Han Sen had to acknowledge the fact that he had done something to harm another person that would not benefit himself. He had broken a dam that restrained the turmoil and pain of a thousand lifetimes. It had unleashed a demon.
 

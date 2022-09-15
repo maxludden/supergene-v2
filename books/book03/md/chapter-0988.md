@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Place of Sacrifice
-### Chapter 988 
+### Chapter 988
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “Are they creatures or spirits?” Han Sen wondered, as he examined the eyeless angels with confusion.
+“Are they creatures or spirits?” Han Sen wondered, as he examined the eyeless angels with confusion.
 
 Han Sen summoned Thorn Baron to hear her input. “Thorn, do you have any idea what these are?”
 

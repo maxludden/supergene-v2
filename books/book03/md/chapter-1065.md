@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Black Unicorn Beetle
-### Chapter 1065 
+### Chapter 1065
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Approaching the ruin, Han Sen spotted a well inside. Upon going closer for a look, he noticed it was filled to the brim with water.
+Approaching the ruin, Han Sen spotted a well inside. Upon going closer for a look, he noticed it was filled to the brim with water.
 
 Aside from that well, which was in fairly good condition, everything else inside the house was a mess. The place had been in decay for a long time, it appeared.
 

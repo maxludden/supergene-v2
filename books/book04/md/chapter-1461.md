@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## One Punch Breaks the Armor
-### Chapter 1461 
+### Chapter 1461
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Pat! The old man slapped Zhou Changlong across the face. His face immediately started to swell up, and his men froze in place.
+Pat! The old man slapped Zhou Changlong across the face. His face immediately started to swell up, and his men froze in place.
 
 “Brother-in-law, why did you hit me?” Zhou Changlong stared at the old man, one hand pressed against his sore face.
 

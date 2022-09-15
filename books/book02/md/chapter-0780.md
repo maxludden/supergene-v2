@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Bug Fight
-### Chapter 780 
+### Chapter 780
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen watched the flower open from afar. Slowly, the petals unfurled; it was a beautiful thing to watch.
+Han Sen watched the flower open from afar. Slowly, the petals unfurled; it was a beautiful thing to watch.
 
 Not long after, the sky went dark and the moon arose. Under the gleaming moonlight, the flower fully opened.
 

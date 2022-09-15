@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Unlocking the Gene Lock
-### Chapter 598 
+### Chapter 598
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  On the other side of the royal shelter was a large mountain. Past the far side of this mountain, however, there wasn't much snow. There was another royal shelter there, controlled by another faction whose owner had unlocked their first gene lock. Developing a shelter on the other side was a difficult thing.
+On the other side of the royal shelter was a large mountain. Past the far side of this mountain, however, there wasn't much snow. There was another royal shelter there, controlled by another faction whose owner had unlocked their first gene lock. Developing a shelter on the other side was a difficult thing.
 
 The big mountain in between was called "Devil's Mountain," and it was occupied by a number of powerful creatures. The slopes of the mountain were coarse, rugged, and steep, which put any would-be fighters on that terrain at a big disadvantage. Only a few people possessed what it took to hunt there, but even those never ventured too far.
 

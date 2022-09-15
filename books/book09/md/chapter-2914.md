@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## God Punishment Sword
-### Chapter 2914 
+### Chapter 2914
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The ability to come to the big barren systems, kill xenogeneics, and do the cleanup was not something an average deified could do.
+The ability to come to the big barren systems, kill xenogeneics, and do the cleanup was not something an average deified could do.
 
 “One of the cleaners must have been a true god elite and a strong one at that.” Han Sen kept looking around as he flew forward.
 

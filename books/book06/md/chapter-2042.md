@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Battle in the Dragon Pool
-### Chapter 2042 
+### Chapter 2042
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen only noticed now that the helmet on the seat turtle statue had a circular, plate-sized slot in the top.
+Han Sen only noticed now that the helmet on the seat turtle statue had a circular, plate-sized slot in the top.
 
 The Spiky Turtle King’s body landed atop the helmet. It withdrew its neck and limbs into its shell and dropped neatly into the slot. It was a perfect fit.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Absorbing a Gene Skill
-### Chapter 3171 
+### Chapter 3171
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The gold wing peacock king swallowed the sonic god bird’s body. The gold light glowed even stronger. The peacock opened its beak and made some bird sounds in Zhong Miao Yin’s direction.
+The gold wing peacock king swallowed the sonic god bird’s body. The gold light glowed even stronger. The peacock opened its beak and made some bird sounds in Zhong Miao Yin’s direction.
 
 Suddenly, shaky shockwaves were felt throughout the place. It was the sonic god bird’s shaky shockwave from moments before.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Berserk
-### Chapter 437 
+### Chapter 437
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen stepped back, while Meowth had already thrown itself at the ice-armored beast.
+Han Sen stepped back, while Meowth had already thrown itself at the ice-armored beast.
 
 Boom boom!
 

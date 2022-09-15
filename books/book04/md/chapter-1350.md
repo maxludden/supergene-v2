@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## First Self Geno Core
-### Chapter 1350 
+### Chapter 1350
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  It was different than the typical flow of energy. This time, Han Sen’s body was generating a strange substance that was new to him. It came out of his cells and went to sit in his Sea of Soul. And as this transparent substance gathered together, he was able to see it clearly.
+It was different than the typical flow of energy. This time, Han Sen’s body was generating a strange substance that was new to him. It came out of his cells and went to sit in his Sea of Soul. And as this transparent substance gathered together, he was able to see it clearly.
 
 The substance was a little like water, but thick like a gel. It was like a non-newtonian fluid, but different, as well. It was difficult for Han Sen to determine what it was, exactly.
 

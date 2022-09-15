@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Epilogue
-### Chapter 3462 
+### Chapter 3462
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  On a nameless island, Han Sen and his family were having a vacation.
+On a nameless island, Han Sen and his family were having a vacation.
 
 “Yanran, do you want to eat this?” Han Sen put down a slab of grilled meat in front of a seven- or eight-year-old girl.
 

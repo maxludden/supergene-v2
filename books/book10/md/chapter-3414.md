@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Special Genius
-### Chapter 3414 
+### Chapter 3414
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “Mister White said my body can be used in any field. Does that mean my body will become a genius that is talented in everything? No matter what I do or what I learn, will I be better than others?” Han Sen read the Xuan Men Hidden Real Explanation and came to understand Xuan Men a whole of a lot more. He had tried learning it for many years, but now he was understanding it a lot more.
+“Mister White said my body can be used in any field. Does that mean my body will become a genius that is talented in everything? No matter what I do or what I learn, will I be better than others?” Han Sen read the Xuan Men Hidden Real Explanation and came to understand Xuan Men a whole of a lot more. He had tried learning it for many years, but now he was understanding it a lot more.
 
 Although reading that book did not mean he had learned Xuan Men, it was not like before when he only knew a small amount.
 

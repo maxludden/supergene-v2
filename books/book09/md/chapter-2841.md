@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Suicidal
-### Chapter 2841 
+### Chapter 2841
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Although it was separated through the geno god list, one could still feel Barr's scary presence.
+Although it was separated through the geno god list, one could still feel Barr's scary presence.
 
 Normal creatures only sensed that Barr was powerful. It was hard to tell exactly how strong he was. The faces of the deified elites participating in the geno god list all exhibited different amounts of change.
 

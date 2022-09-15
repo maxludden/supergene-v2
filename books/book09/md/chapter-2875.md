@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Final Challenge
-### Chapter 2875 
+### Chapter 2875
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  A coin was shining on Maha God Elephant’s head. It was like Maha God Elephant was being suppressed by an entire mountain. It was not that fast before, but it was even slower now.
+A coin was shining on Maha God Elephant’s head. It was like Maha God Elephant was being suppressed by an entire mountain. It was not that fast before, but it was even slower now.
 
 Even with Han Sen’s power magnified to 13, it still wasn’t enough to suppress Maha God Elephant. The god elephant’s tusks were still raised. The beast was trying to skewer Han Sen. “You still won’t concede.” Han Sen laughed. He cast a golden light, which landed on the god elephant. It made the number on the coin on the Maha God Elephant’s forehead increase a bit. It went from 13 to 14. The god elephant’s body became heavier. It was harder for it to walk.
 

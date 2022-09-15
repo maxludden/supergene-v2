@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Beast Soul of Nightmare
-### Chapter 526 
+### Chapter 526
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  When Han Sen was at the nest again, he summoned all his beast souls.
+When Han Sen was at the nest again, he summoned all his beast souls.
 
 For the time he spent in the Alliance, the golden pincer king had already been evolved into a berserk sacred-blood beast soul, and the golden armor looked even better at this point.
 
@@ -71,15 +72,27 @@ There were many cells at this place. However, as he went deeper, he did not see 
 
 Walking up to the egg, Han Sen broke it with the claws and heard the familiar voice.
 
-"Producing beast soul…" Han Sen saw a piece of fog coming out of the egg, which gradually became a beast soul in front of him.
+> "Producing beast soul…" 
+
+Han Sen saw a piece of fog coming out of the egg, which gradually became a beast soul in front of him.
 
 The beast soul looked like it was made of tungsten. It looked like a tiger or a panther. With a horn looking like a lightning bolt, the creature had wings on its back. As it blinked, it looked incredibly fierce.
 
 The beast soul turned into a light, entering Han Sen's sea of soul. He suddenly heard a voice.
 
-"Beast soul produced. Sacred-blood beast soul nightmare gained."
+> "Beast Soul Produced. Sacred-Blood Beast Soul Nightmare Gained."
 
-Han Sen quickly looked at the information of nightmare and saw it was a flying beast soul.
+<div class=“tables”>
+    <table class=“beast”>
+        <tr>
+            <th colspan=“2”>Beast Soul</th>
+        </tr><tr>
+            <td>Sacred-Blood Nightmare</td>
+            <td>(Flying)</td>
+        </tr>
+    </table>
+    <!--Han Sen quickly looked at the information of nightmare and saw it was a flying beast soul. -->
+</div>
 
 He summoned nightmare and suddenly had a huge pair of tungsten devil wings on his back, looking rather cool.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## The Woman in the Wooden House
-### Chapter 2455 
+### Chapter 2455
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen was hesitant. He didn’t know if he should stay in the demon spirit’s eyes or jump to the eyes of this woman.
+Han Sen was hesitant. He didn’t know if he should stay in the demon spirit’s eyes or jump to the eyes of this woman.
 
 From what the woman had said, he could guess that she had been imprisoned in this house by the demon spirit. If Han Sen leaped into her eyes, even if she never discovered his presence, there was a chance he might never leave that place.
 

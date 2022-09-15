@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Gold Mask
-### Chapter 1433 
+### Chapter 1433
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen and Ling Mei’er were on their way to a gold shelter. The Underworld was a sprawling labyrinth that featured all sorts of places.
+Han Sen and Ling Mei’er were on their way to a gold shelter. The Underworld was a sprawling labyrinth that featured all sorts of places.
 
 Creeping across many of the rocks were thick, hardy vines.
 

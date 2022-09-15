@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Yin Ghost Head
-### Chapter 2798 
+### Chapter 2798
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Out of the top three in the universe, the Extreme King was the race with the most outsiders. They had also raised many deified outsiders for themselves. Most of those outsider deifieds were loyal, and they only worked for the Extreme King. They rarely returned to their own races.
+Out of the top three in the universe, the Extreme King was the race with the most outsiders. They had also raised many deified outsiders for themselves. Most of those outsider deifieds were loyal, and they only worked for the Extreme King. They rarely returned to their own races.
 
 Mister Yin was one of the outsider deifieds the Extreme King had raised. It was a Ghost Head elite that had been raised by Bai Wanjie and his faction. He worked for Bai Wanjie.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Judgment
-### Chapter 2865 
+### Chapter 2865
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  When Han Sen became butterfly class and his left eye combined with the true god class Extreme King’s Overbearing Eye, he accidentally leveled up.
+When Han Sen became butterfly class and his left eye combined with the true god class Extreme King’s Overbearing Eye, he accidentally leveled up.
 
 It was a shame he failed to achieve true god class. Although his leveling up had failed, the Extreme King’s Overbearing Eye absorbed Han Sen’s xenogeneic power. It resulted in a change. It combined with Han Sen’s xenogeneic body, turning his left eye into a true god class existence.
 

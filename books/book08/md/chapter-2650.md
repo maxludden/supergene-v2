@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Different Kind of Luck
-### Chapter 2650 
+### Chapter 2650
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “Why should I let you see them?” Han Sen asked, his voice relaxed and unhurried. He casually rolled up the paper, then turned a cold glance on Liyu Zhen as he spoke.
+“Why should I let you see them?” Han Sen asked, his voice relaxed and unhurried. He casually rolled up the paper, then turned a cold glance on Liyu Zhen as he spoke.
 
 Liyu Zhen looked at Han Sen with disdain, then chuckled darkly. “You are with the Very High now.”
 

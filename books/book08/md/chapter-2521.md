@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Armored Beast
-### Chapter 2521 
+### Chapter 2521
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen still wanted to ask Wan’er about a few things, but it really did appear that she had just fallen asleep again. She looked exhausted, but happiness still glowed from her face. She lay against Han Sen’s chest, curled up in a merry little ball. She was like a helpless kitten.
+Han Sen still wanted to ask Wan’er about a few things, but it really did appear that she had just fallen asleep again. She looked exhausted, but happiness still glowed from her face. She lay against Han Sen’s chest, curled up in a merry little ball. She was like a helpless kitten.
 
 Han Sen tried to wake her up, but there was no reaction. She must have been a very deep sleeper.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## One Hand Fighting Back Enemies
-### Chapter 3100 
+### Chapter 3100
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Dou Tian Yu’s Jade Demon Punch was so evil and overbearing because a God Spirit Blood-Pulse was an exclusive gene race. The power it was able to cast was more normal than an ordinary god-class gene race.
+Dou Tian Yu’s Jade Demon Punch was so evil and overbearing because a God Spirit Blood-Pulse was an exclusive gene race. The power it was able to cast was more normal than an ordinary god-class gene race.
 
 No matter how overbearing and cruel he was, he was blocked by the red punches. He could not get close to the room.
 
@@ -79,7 +80,7 @@ In Gong Shu Manor, Gong Shu Zhi was frozen. He saw the si ming demon race, which
 
 After he said that, Si Tu Ya, who had messy hair and a lot of blood on her face, rushed in. She asked, “Mister, is your si ming demon race broken?”
 
-“What did that b*tch Feng Fei Fei do?” Gong Shu Zhi madly asked.
+“What did that bitch Feng Fei Fei do?” Gong Shu Zhi madly asked.
 
 Si Tu Ya’s face looked like soil. She knew Gong Shu Zhi’s si ming demon race was broken. She told him about Han Sen being able to fight Dou Tian Yu while healing Feng Fei Fei at the same time.
 

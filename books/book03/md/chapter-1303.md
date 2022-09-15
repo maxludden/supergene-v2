@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## No Dirt Fruit
-### Chapter 1303 
+### Chapter 1303
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  After opening ten gene locks, Han Sen wanted to take down Cup Demon Shelter, but Lotus Empress needed his help before he could do that.
+After opening ten gene locks, Han Sen wanted to take down Cup Demon Shelter, but Lotus Empress needed his help before he could do that.
 
 She told Han Sen what she wanted to do.
 

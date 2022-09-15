@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## I'll Call Him Big Boss
-### Chapter 888 
+### Chapter 888
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  "Chu Ming, it is too early for jokes. Go get washed and get ready for work," Qu Lanxi said as she walked outside in her misty-eyed haze. She glimpsed the Dragon-Blood Tree and her mouth dropped.
+"Chu Ming, it is too early for jokes. Go get washed and get ready for work," Qu Lanxi said as she walked outside in her misty-eyed haze. She glimpsed the Dragon-Blood Tree and her mouth dropped.
 
 "You weren't joking. How in the sanctuaries did the Dragon-Blood Tree spring back to life?" She ran in front of the tree and noticed the presence of small, newly sprouted leaves adorning the branches of the tree.
 

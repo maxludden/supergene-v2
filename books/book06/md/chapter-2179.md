@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## I’ll Eat You
-### Chapter 2179 
+### Chapter 2179
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen and his group traveled across a number of mountains and swamps. He was able to find a few xenogeneic corpses, but he couldn’t find a single one that was still alive.
+Han Sen and his group traveled across a number of mountains and swamps. He was able to find a few xenogeneic corpses, but he couldn’t find a single one that was still alive.
 
 They couldn’t find any Duke xenogeneics, and not even any low level ones, either.
 

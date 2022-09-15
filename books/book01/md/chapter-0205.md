@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Yin Yang Blast
-### Chapter 205 
+### Chapter 205
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen stared at Nalan who was a year or two senior to Han Sen himself and had good-looking features. Nalan was not particularly handsome, but still looks good.
+Han Sen stared at Nalan who was a year or two senior to Han Sen himself and had good-looking features. Nalan was not particularly handsome, but still looks good.
 
 Nalan’s eyes were like water in wells that could show reflections. Deep in his dark pupils, there were lights of wisdom.
 

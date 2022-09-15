@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Child Combine Liquid
-### Chapter 2074 
+### Chapter 2074
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “Take these vials of Child Combine Liquid, and he will come,” said the head researcher. Talking about the Child Combine Liquid made his face twitch. It looked as if he had gotten a sudden toothache.
+“Take these vials of Child Combine Liquid, and he will come,” said the head researcher. Talking about the Child Combine Liquid made his face twitch. It looked as if he had gotten a sudden toothache.
 
 “Isn’t it a waste to give him that?” Old Dong and the other teachers were in shock.
 

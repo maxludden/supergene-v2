@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Power of Holy Rhino
-### Chapter 1235 
+### Chapter 1235
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen had decided to stay and fight. He brought all his spirits and super creatures outside of the shelter to battle upon the fields. He didn’t want to risk the construct of Thunder Hell Shelter getting destroyed.
+Han Sen had decided to stay and fight. He brought all his spirits and super creatures outside of the shelter to battle upon the fields. He didn’t want to risk the construct of Thunder Hell Shelter getting destroyed.
 
 After walking a few dozen miles, he and his companions caught sight of the enemy spirits and creatures approaching.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Strange Stone Hall
-### Chapter 2219 
+### Chapter 2219
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The small city was shaped into a simple square. The well was at the center of the city’s plaza, and at the end of every long street radiating out from the city center, the city’s walls were visible at the far ends.
+The small city was shaped into a simple square. The well was at the center of the city’s plaza, and at the end of every long street radiating out from the city center, the city’s walls were visible at the far ends.
 
 Behind the plaza was a stone palace, and on both sides of the gates stood stone statues. On the left side was a Nine-Life Cat statue. Aside from it being bigger than an actual Nine-Life Cat, it looked exactly the same in all its features. It even gave off an identical feeling. It was creepily similar.
 

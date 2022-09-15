@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Expensive Life
-### Chapter 2946 
+### Chapter 2946
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen did not have many high expectations. After all, its mother had a soul that weighed a measly 26 kilograms. The small goldfish’s soul would likely be less than half of that.
+Han Sen did not have many high expectations. After all, its mother had a soul that weighed a measly 26 kilograms. The small goldfish’s soul would likely be less than half of that.
 
 But the fate monument’s number managed to hit three digits, and it was increasing fast. The numbers were rising like mad. A second later, it hit four digits.
 

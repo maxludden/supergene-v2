@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Died Away
-### Chapter 3360 
+### Chapter 3360
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  When the jade statue heard that, she froze. She looked toward the pool with desperation. Her face changed. “Impossible… Except for my child, no other should have been able to take the gene seed.”
+When the jade statue heard that, she froze. She looked toward the pool with desperation. Her face changed. “Impossible… Except for my child, no other should have been able to take the gene seed.”
 
 Big sky demon was shocked when she heard that. “Does that mean the gene seed was in the pool at one point in time?”
 

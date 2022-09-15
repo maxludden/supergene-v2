@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Core Xenogeneic
-### Chapter 2394 
+### Chapter 2394
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  This was the first time Han Sen had seen a core xenogeneic. They looked like a group of insects, all of them with wings.
+This was the first time Han Sen had seen a core xenogeneic. They looked like a group of insects, all of them with wings.
 
 The bodies were humanoid. They had four limbs, but their heads were unusually small. They were one and a half meters tall, and their whole bodies were shelled in an aqua-blue material. Their shells were so smooth and glossy that Han Sen could see his reflection in them. A pair of blue transparent wings sprouted from each bug’s back. When the bugs flew, their wings moved so fast that they turned into a blur.
 

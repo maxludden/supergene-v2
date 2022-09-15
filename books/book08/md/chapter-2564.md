@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Crocodile God
-### Chapter 2564 
+### Chapter 2564
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Li Keer and Exquisite were feeling something beyond shock; as they watched Dollar make kill after kill, they were growing numb. They couldn’t wrap their heads around how Dollar was doing this.
+Li Keer and Exquisite were feeling something beyond shock; as they watched Dollar make kill after kill, they were growing numb. They couldn’t wrap their heads around how Dollar was doing this.
 
 He had used the Very High’s teleportation ability to beat a member of the Very High. Even Exquisite, whose face was forever cold and expressionless, looked shocked.
 

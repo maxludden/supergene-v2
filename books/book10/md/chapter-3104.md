@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Sacrifice Copper
-### Chapter 3104 
+### Chapter 3104
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “Commander Lu, why are you here? What do you need?” Feng Fei Fei took along a butler to welcome him in. She stood opposite the king’s guards.
+“Commander Lu, why are you here? What do you need?” Feng Fei Fei took along a butler to welcome him in. She stood opposite the king’s guards.
 
 The king’s guard was in charge of Jade Wall City’s defenses. There were 14 squadrons of riders in their midst, and there were 14 commanders. The commanders were controlled by Steel Scene.
 

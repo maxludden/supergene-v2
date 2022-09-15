@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Hand of God Duel
-### Chapter 123 
+### Chapter 123
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  With the explanation from Shi Zhikang, Han Sen got the gist of things.
+With the explanation from Shi Zhikang, Han Sen got the gist of things.
 
 In the beginning, Shi was playing against Birdy. Shi was rather poor at this game and hardly ever won on Battlenet, so he bragged a little after he had won several rounds against Birdy.
 

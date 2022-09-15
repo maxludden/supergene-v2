@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Guardian of the Door
-### Chapter 1892 
+### Chapter 1892
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen had seen many bald people, but very few women. And he definitely hadn’t seen a bald woman that pretty before. Her delicate face, and the grace she exuded, made it easy to ignore the fact that she had no hair.
+Han Sen had seen many bald people, but very few women. And he definitely hadn’t seen a bald woman that pretty before. Her delicate face, and the grace she exuded, made it easy to ignore the fact that she had no hair.
 
 She was different from Budda King. This Buddha woman did not possess a scar, and she only had that red dot on her forehead.
 

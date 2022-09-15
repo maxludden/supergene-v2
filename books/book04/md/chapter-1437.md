@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Quite Familiar
-### Chapter 1437 
+### Chapter 1437
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen saw a big hole in the side of his house, and an old man anxiously pushing Bao’er’s head into a suitcase.
+Han Sen saw a big hole in the side of his house, and an old man anxiously pushing Bao’er’s head into a suitcase.
 
 Bao’er herself was holding onto Littleflower, whose face was flushed the color red as if he’d been bleeding.
 

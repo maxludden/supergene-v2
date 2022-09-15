@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Feels Like Queen
-### Chapter 348 
+### Chapter 348
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen arrived at Professor Yan's lab and completed the test. Afterwards, he watched Jing Jiya's test.
+Han Sen arrived at Professor Yan's lab and completed the test. Afterwards, he watched Jing Jiya's test.
 
 The tests Jing Jiya was doing was completely different from the one Han Sen did. Jing Jiya was using very special devices, and it should have been Han Sen in his place.
 

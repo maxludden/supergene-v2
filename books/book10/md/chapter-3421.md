@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Fighting Demon Alpha
-### Chapter 3421 
+### Chapter 3421
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen and Demon Alpha looked at each other. Nobody struck first.
+Han Sen and Demon Alpha looked at each other. Nobody struck first.
 
 “I cannot believe my first opponent turns out to be you.” Demon Alpha had a black lace veil covering her face as she coldly sighed.
 

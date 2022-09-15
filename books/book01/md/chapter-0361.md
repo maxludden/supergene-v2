@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Metal Wolf
-### Chapter 361 
+### Chapter 361
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  "We are two people and you are alone. Why do you get to keep all those things to yourself?" Chen Nanxing shouted.
+"We are two people and you are alone. Why do you get to keep all those things to yourself?" Chen Nanxing shouted.
 
 "If you have a way to kill the sacred-blood creature, I would have no problem having our stuff reversed," said Ye Yufeng.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Petrified
-### Chapter 1037 
+### Chapter 1037
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Xie Qing King must have broken down a dozen walls, each one a shortcut through what had to be some manner of maze. There were countless branching pathways, each guided by thick walls that were around one meter tall. It was in this wall-breaking way that they proceeded.
+Xie Qing King must have broken down a dozen walls, each one a shortcut through what had to be some manner of maze. There were countless branching pathways, each guided by thick walls that were around one meter tall. It was in this wall-breaking way that they proceeded.
 
 Alu-Alu!
 

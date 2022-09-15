@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Xenogeneics Coming
-### Chapter 2490 
+### Chapter 2490
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Once he had agreed to go with Meng Lie, Han Sen pretended to be the perfect picture of subservience. He followed along as if he had no interest in escaping. As Meng Lie headed through the Tianxia System toward the Extreme King worlds, Han Sen trailed after him without any reluctance.
+Once he had agreed to go with Meng Lie, Han Sen pretended to be the perfect picture of subservience. He followed along as if he had no interest in escaping. As Meng Lie headed through the Tianxia System toward the Extreme King worlds, Han Sen trailed after him without any reluctance.
 
 Meng Lie wasn’t worried about Han Sen trying to run off, but after they had traveled for a short while, a lot of cloud beasts began to attack from the surrounding clouds.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Researching Positivity and Negativity as One
-### Chapter 3156 
+### Chapter 3156
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Qin Bai looked at Han Sen and Jia Shi Zhen. He did not understand the very high-level swordsmanship on display, but he could read people’s faces.
+Qin Bai looked at Han Sen and Jia Shi Zhen. He did not understand the very high-level swordsmanship on display, but he could read people’s faces.
 
 Han Sen looked calm. Jia Shi Zhen looked serious. She even had a cold sweat. By seeing that, he could tell which of the pair were winning
 

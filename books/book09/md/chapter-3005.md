@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Trade of Luck
-### Chapter 3005 
+### Chapter 3005
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Pang!
+Pang!
 
 Han Sen felt as if his body had hit water. He was following the stream, continuously rolling in its flow. He did not know how far he had rolled. He stabilized his body and came out of the water. He realized he was emerging from a lake. He saw many grass fields around and clear blue skies overhead. The lake was so clean that it was like a mirror.
 

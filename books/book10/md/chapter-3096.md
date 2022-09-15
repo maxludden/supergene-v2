@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Birthday Gift
-### Chapter 3096 
+### Chapter 3096
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  After Han Sen told them his shop name, Feng Fei Fei thought it sounded familiar. But she paid in no true mind and did not make the connection.
+After Han Sen told them his shop name, Feng Fei Fei thought it sounded familiar. But she paid in no true mind and did not make the connection.
 
 Everyone was talking and laughing. The shadow of the big sky demon suddenly appeared next to Han Sen. She came from behind and held Han Sen’s chest. She whispered into his ear, “My little lover, that pretty singer has been doomed by a gene race. She is dying. Do you want to let her die?”
 

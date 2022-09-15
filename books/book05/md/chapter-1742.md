@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Evolving Again
-### Chapter 1742 
+### Chapter 1742
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Bao’er’s small body was in the air. The gold dot on her forehead began to spread, dyeing the entirety of her little body gold. She looked like a small sun.
+Bao’er’s small body was in the air. The gold dot on her forehead began to spread, dyeing the entirety of her little body gold. She looked like a small sun.
 
 The golden light had so much energy, Han Sen bathed in its glow. He felt as if he was back inside his mother, swimming in the lifeforce.
 

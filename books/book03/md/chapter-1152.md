@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## A Super Creature That Loves Food
-### Chapter 1152 
+### Chapter 1152
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  After an extensive session of testing, Han Sen was able to confirm the Thorn Scorpion glyph imbued his attacks with a lethal venom.
+After an extensive session of testing, Han Sen was able to confirm the Thorn Scorpion glyph imbued his attacks with a lethal venom.
 
 The toxins were extremely corrosive, but they had to contact blood to work. Once Han Sen came into contact with a creature’s blood, it’d boil and fizz like acid.
 

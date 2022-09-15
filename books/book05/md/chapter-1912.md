@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## This Is Unique
-### Chapter 1912 
+### Chapter 1912
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  On a planet of Narrow Moon, a Rebate mother was praying sincerely.
+On a planet of Narrow Moon, a Rebate mother was praying sincerely.
 
 “God of the Rebate, please allow my child to evolve a second time, despite having already generated armor. I will give everything I have for this.” The mother’s face looked so sad.
 

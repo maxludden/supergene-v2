@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Bone Scroll
-### Chapter 1217 
+### Chapter 1217
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen first thought it was Bao’er that had been tugging his hair, but he was holding her against his chest. Realizing this, he knew it couldn’t have been her.
+Han Sen first thought it was Bao’er that had been tugging his hair, but he was holding her against his chest. Realizing this, he knew it couldn’t have been her.
 
 When he saw Snowball’s frightened face, he knew something was wrong. It was at this moment instinct kicked in, and he threw a punch backwards to see what may have lurked behind him.
 

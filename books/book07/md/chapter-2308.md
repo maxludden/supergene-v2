@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## One Hit Promise
-### Chapter 2308 
+### Chapter 2308
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen and Bai Wei spent a few hours waiting atop the golden king dragon. The king dragon still hadn’t gone underground when a few men approached them. That made Bai Wei feel rather nervous.
+Han Sen and Bai Wei spent a few hours waiting atop the golden king dragon. The king dragon still hadn’t gone underground when a few men approached them. That made Bai Wei feel rather nervous.
 
 Because Han Sen’s eyes were better than Bai Wei’s, he knew exactly who was coming. The sight made him frown.
 

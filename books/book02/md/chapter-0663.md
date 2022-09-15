@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Subterranean Monster
-### Chapter 663 
+### Chapter 663
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The red pony was hesitant to approach at first, but after circling them for some time, it acknowledged there was no danger. After coming to this realization, it was happy to stay in Han Sen's company.
+The red pony was hesitant to approach at first, but after circling them for some time, it acknowledged there was no danger. After coming to this realization, it was happy to stay in Han Sen's company.
 
 Although Han Sen still wanted to kidnap the red pony, he wasn't going to rush things until he was sure it was comfortable. He watched it walk around and waved to it occasionally, appearing as friendly as he could.
 

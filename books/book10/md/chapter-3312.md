@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Managerf
-### Chapter 3312 
+### Chapter 3312
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Ancient Devil did not look any different. He carried on with his subject of conversation and said, “According to the old leader’s plans, the 33 skies were to become the universe’s core area that could control both the main and the reverse universes. If they were to control them, they would require a manager. So, when they designed the 33 skies, they established the plan for a manager to operate in the 33 skies. That means they created a creature from 33 skies to become the manager. That way, they could make the 33 skies run.”
+Ancient Devil did not look any different. He carried on with his subject of conversation and said, “According to the old leader’s plans, the 33 skies were to become the universe’s core area that could control both the main and the reverse universes. If they were to control them, they would require a manager. So, when they designed the 33 skies, they established the plan for a manager to operate in the 33 skies. That means they created a creature from 33 skies to become the manager. That way, they could make the 33 skies run.”
 
 “Are you saying Sky King is a creature the 33 skies made?” Han Sen understood what Ancient Devil meant to say.
 

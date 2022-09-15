@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Forming a Stone
-### Chapter 2584 
+### Chapter 2584
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  There was no getting rid of Ning Yue, so Han Sen had to bring her with him. Gu Qingcheng, Elysian Moon, Bao’er, and the little red bird also came along. Fang Qing Yu decided to stay behind.
+There was no getting rid of Ning Yue, so Han Sen had to bring her with him. Gu Qingcheng, Elysian Moon, Bao’er, and the little red bird also came along. Fang Qing Yu decided to stay behind.
 
 The further into the depths they went, the scarier the wind became. Whenever the wind blew, not even Gu Qingcheng and Elysian Moon could keep their balance. They didn’t know why the wind was becoming so strong as they went deeper.
 

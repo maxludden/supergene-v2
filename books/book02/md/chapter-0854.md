@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Stealing the Chests
-### Chapter 854 
+### Chapter 854
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Roar!
+Roar!
 
 The creatures were awoken from their daze. Han Sen didn't know which monster began roaring first, but after that roar, they all began rushing to the peak.
 

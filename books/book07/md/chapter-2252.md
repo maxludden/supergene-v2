@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## I Really Am San Mu
-### Chapter 2252 
+### Chapter 2252
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen quickly retreated, and he summoned his gold Demon Bug King Bai Sema to shield his exterior.
+Han Sen quickly retreated, and he summoned his gold Demon Bug King Bai Sema to shield his exterior.
 
 Boom!
 

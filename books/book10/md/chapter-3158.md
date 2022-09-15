@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Death Silhouette
-### Chapter 3158 
+### Chapter 3158
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “The crystallizers were powerful, but they were not strong enough to overcome reincarnation. How were they connected to the God Chaos Party?” Han Sen wondered. He could not figure out why.
+“The crystallizers were powerful, but they were not strong enough to overcome reincarnation. How were they connected to the God Chaos Party?” Han Sen wondered. He could not figure out why.
 
 Han Sen was certain about one thing. Rocky Dee’s phone number only worked before midnight. It meant that after midnight, the God Chaos Party would deal with him in their own way.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Omen
-### Chapter 3068 
+### Chapter 3068
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “Old Liar, I am hungry.” On the streets, there was a pretty little girl who looked like a doll. She was pulling the sleeves of the old man next to her. Her eyes were wide open as she looked at him. She made sure to make herself appear extra pitiable.
+“Old Liar, I am hungry.” On the streets, there was a pretty little girl who looked like a doll. She was pulling the sleeves of the old man next to her. Her eyes were wide open as she looked at him. She made sure to make herself appear extra pitiable.
 
 Her face looked like she was starving, and she had a lack of clothes. It was like she was abused. It made others want to take pity on her and cry when they heard the stories she told. The corners of the old man’s eyes twitched. A half a day ago, Bao’er ate the most expensive meal in the most expensive restaurant and had emptied his wallet of every penny it contained. Even he was starting to believe it. He wanted to smack his mouth and curse himself for being useless. He could not even raise a little girl well.
 

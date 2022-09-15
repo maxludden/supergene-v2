@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## A New Community
-### Chapter 1498 
+### Chapter 1498
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  A big battleship had leaped out of slipspace, appearing directly above Han Sen’s airship.
+A big battleship had leaped out of slipspace, appearing directly above Han Sen’s airship.
 
 “A shura battleship?” Han Sen and Ji Yanran’s faces changed when they saw it. The ship looked strange, and it wasn’t similar to any human ship they had seen before. It didn’t quite look like a shura ship, either.
 

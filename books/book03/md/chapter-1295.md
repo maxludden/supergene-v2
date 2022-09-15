@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Hit the Drum and Get Fruit
-### Chapter 1295 
+### Chapter 1295
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Dragon King told Han Sen, “Demigods return for genes.”
+Dragon King told Han Sen, “Demigods return for genes.”
 
 “Why would demigods require genes from the Third God’s Sanctuary?” Han Sen wasn’t sure how or why this would be.
 

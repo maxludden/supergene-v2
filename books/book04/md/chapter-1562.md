@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Crystal Cactus
-### Chapter 1562 
+### Chapter 1562
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Ordinary cacti were not a threat to Luo Yu and the others. They had the power of Falsified Sky, and none of the cacti could even defend themselves against them.
+Ordinary cacti were not a threat to Luo Yu and the others. They had the power of Falsified Sky, and none of the cacti could even defend themselves against them.
 
 However, Han Sen also realized that Luo Yu and the others had only practiced the first half of the Falsified-Sky Sutra. He didn’t understand why Luo Haitang hadn’t even taught his direct family members the complete version of the Falsified-Sky Sutra.
 

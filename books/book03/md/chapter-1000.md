@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Battling the Ape King
-### Chapter 1000 
+### Chapter 1000
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen left the shelter with Bao’er. He killed a few primitive class bugs at first, to see if that would draw the ape out.
+Han Sen left the shelter with Bao’er. He killed a few primitive class bugs at first, to see if that would draw the ape out.
 
 Not long after, it had indeed come to steal his kills. It crept near to Han Sen and watched him.
 

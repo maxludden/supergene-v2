@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Weird Creature
-### Chapter 385 
+### Chapter 385
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The evolvers were so close to the creature that the snail suddenly turned into a snake with wings and left its shell, throwing itself at one of the evolvers.
+The evolvers were so close to the creature that the snail suddenly turned into a snake with wings and left its shell, throwing itself at one of the evolvers.
 
 The person quickly wielded his broadsword at the snake. Yang Yongcheng and the other person also started to attack.
 

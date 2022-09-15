@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Transparent King Scorpion Beast Soul
-### Chapter 1133 
+### Chapter 1133
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen had saved ten bucks and knew he could not wait any longer. If the dinosaur lost its grip of the scorpion, he’d lose its position and lose the only chance he had in ending the threat.
+Han Sen had saved ten bucks and knew he could not wait any longer. If the dinosaur lost its grip of the scorpion, he’d lose its position and lose the only chance he had in ending the threat.
 
 A coin, with the number ten on it, was set free to spiral through the air and home in on its target.
 

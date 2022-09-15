@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Swap
-### Chapter 2605 
+### Chapter 2605
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The meeting ended quickly. The story of Han Sen making a butterfly in the palms of his hands spread across all of Sky Palace. The Sky Palace students were delighted by the result.
+The meeting ended quickly. The story of Han Sen making a butterfly in the palms of his hands spread across all of Sky Palace. The Sky Palace students were delighted by the result.
 
 When they were alone, Bixi and Exquisite discussed what had happened. Bixi frowned and asked her, “You want to make Han Sen your silkworm?”
 

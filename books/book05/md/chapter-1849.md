@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## The Real Purpose
-### Chapter 1849 
+### Chapter 1849
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “They are my personal guards,” Han Sen said.
+“They are my personal guards,” Han Sen said.
 
 So far, they only had Deep Blue Viscount’s word that the lotus roots could suppress the mark. Until it was confirmed, Han Sen wasn’t willing to let Xie Qing King and Gu Qingcheng take any risks.
 

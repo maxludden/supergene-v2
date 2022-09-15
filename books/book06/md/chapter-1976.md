@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Slap Your Turtle, Son
-### Chapter 1976 
+### Chapter 1976
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The Xuanyuan Dragon turned to Han Sen and breathed out smoke. Han Sen fell back and swung the Ghost Teeth Knife, breaking the black smoke.
+The Xuanyuan Dragon turned to Han Sen and breathed out smoke. Han Sen fell back and swung the Ghost Teeth Knife, breaking the black smoke.
 
 Xuanyuan Dragon spun around and put its attention back on Yun Sushang. Thousand Feather Crane was coming, but he was not as fast as the dragon.
 

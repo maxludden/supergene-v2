@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Forced Entry
-### Chapter 2264 
+### Chapter 2264
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  When the blood kirin saw that Han Sen wasn’t eating anything, it turned around to continue consuming the corpse by itself. It looked as if it wasn’t going to stop until every last morsel of the black kirin had been consumed.
+When the blood kirin saw that Han Sen wasn’t eating anything, it turned around to continue consuming the corpse by itself. It looked as if it wasn’t going to stop until every last morsel of the black kirin had been consumed.
 
 Han Sen had no interest in watching the beast eat, so he decided to leave the cave. He leaped into the blood water and swam back the way he had come. The cave had no other exits, so he had to leave via the same blood pond.
 

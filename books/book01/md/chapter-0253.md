@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## An Invite From the Monster
-### Chapter 253 
+### Chapter 253
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen had only studied the team members of the Alliance Central Military Academy, and did not have much knowledge of other military schools. Nor did he know Qiu Mingmei's name. He signed for her and gave her the piece of paper back.
+Han Sen had only studied the team members of the Alliance Central Military Academy, and did not have much knowledge of other military schools. Nor did he know Qiu Mingmei's name. He signed for her and gave her the piece of paper back.
 
 "Thank you so much. I wish that we could have a match together." Qiu Mingmei was very excited and returned to her team.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Touching a Gemstone
-### Chapter 2018 
+### Chapter 2018
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “Mister Dream, what do you require?” Han Sen didn’t think that the creature’s smile was very nice.
+“Mister Dream, what do you require?” Han Sen didn’t think that the creature’s smile was very nice.
 
 Dream Beast did not say anything, but his eyes flashed. Han Sen felt a power come upon him, and his heavy body started to fly.
 

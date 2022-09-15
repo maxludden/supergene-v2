@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Practicing
-### Chapter 2630 
+### Chapter 2630
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  At that moment, the Sky Palace students felt as if giant boulders had been lifted from their shoulders. They breathed deep sighs of relief.
+At that moment, the Sky Palace students felt as if giant boulders had been lifted from their shoulders. They breathed deep sighs of relief.
 
 Han Sen was the best in the Sky Palace, but Exquisite faced him calmly. For some time, Han Sen hadn’t been able to harm a single hair on her head. The woman had stood against his attacks, as steady as a mountain. Seeing Han Sen’s attacks fail had crushed the Sky Palace students and prevented them from breathing. It made them think Exquisite was a god that couldn’t be beaten.
 

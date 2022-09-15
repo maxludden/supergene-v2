@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Lava Valley
-### Chapter 2221 
+### Chapter 2221
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  After Edward returned to the Ice Blue Knights, he went to the information room. He perused the records of the various knight teams. After speeding through them, he frowned. He looked over to the information manager and said, “These are all the videos recorded over the past month?”
+After Edward returned to the Ice Blue Knights, he went to the information room. He perused the records of the various knight teams. After speeding through them, he frowned. He looked over to the information manager and said, “These are all the videos recorded over the past month?”
 
 “Yes, inspector,” the information manager politely answered.
 

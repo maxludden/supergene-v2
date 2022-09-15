@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Kill Sky God
-### Chapter 2985 
+### Chapter 2985
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Teleporting so fast through broken space made the scary power from behind become weaker. When Han Sen exited the broken space area. He did not see that Annihilation God Spirit follow. Bai King must have halted its pursuit.
+Teleporting so fast through broken space made the scary power from behind become weaker. When Han Sen exited the broken space area. He did not see that Annihilation God Spirit follow. Bai King must have halted its pursuit.
 
 “The spirit weapon the Extreme King made was stronger than the Holy Kirin. That is surprising.” Han Sen was shocked.
 

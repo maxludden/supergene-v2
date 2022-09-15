@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Moving Stuff With My Mind
-### Chapter 479 
+### Chapter 479
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Because of the huge accident during the exploration of this Crystallizer ruin, Daphne was asked to go back immediately. It was yet to be determined whether they would be punished.
+Because of the huge accident during the exploration of this Crystallizer ruin, Daphne was asked to go back immediately. It was yet to be determined whether they would be punished.
 
 Fortunately, the two advanced crystals that Han Sen brought back were submitted to the Alliance by Ji Yanran, which excused her from potential sanction.
 

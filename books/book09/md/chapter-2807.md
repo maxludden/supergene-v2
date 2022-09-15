@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Can Only Move Mouth
-### Chapter 2807 
+### Chapter 2807
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  A very powerful xenogeneic... It looks like it is not just primitive deified. Han Sen knew that his arrows wouldn't be able to hurt the fiend. Before his body recovered, he did not think he would be able to do anything to it.
+A very powerful xenogeneic... It looks like it is not just primitive deified. Han Sen knew that his arrows wouldn't be able to hurt the fiend. Before his body recovered, he did not think he would be able to do anything to it.
 
 The xenogeneic did not react, though. It just coldly looked at Han Sen as if he was a clown.
 

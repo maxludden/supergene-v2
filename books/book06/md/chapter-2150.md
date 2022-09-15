@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## The Power That Comes From the Plane
-### Chapter 2150 
+### Chapter 2150
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “Han Sen, I have heard your name before, but I certainly did not expect to see you here.” The three-headed, six-armed statue stepped in front of the Bai Sema. The bird head in its center peered directly at Han Sen. It looked how a demon might, when staring at a defenseless baby in an abandoned stroller.
+“Han Sen, I have heard your name before, but I certainly did not expect to see you here.” The three-headed, six-armed statue stepped in front of the Bai Sema. The bird head in its center peered directly at Han Sen. It looked how a demon might, when staring at a defenseless baby in an abandoned stroller.
 
 To Han Sen and the others, the strength of the metal statues was awe-inspiring. They were completely surrounded. And of course, the dragonfly-like xenogeneics were still flying about. There were too many of the insects to count, which made the situation of Han Sen’s team completely depressing.
 

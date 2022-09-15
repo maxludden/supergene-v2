@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Extraordinary
-### Chapter 238 
+### Chapter 238
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  After the manager left, Huangfu Pingqing smiled at Han Sen and asked, "Do you know why this restaurant is named Queen?"
+After the manager left, Huangfu Pingqing smiled at Han Sen and asked, "Do you know why this restaurant is named Queen?"
 
 Han Sen shook his head and thought, "How am I supposed to know that? I'm not part of your organization."
 

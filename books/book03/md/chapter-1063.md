@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Blasphemy
-### Chapter 1063 
+### Chapter 1063
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “It’s good that you know about Instructor Han and the Seventh Team.” Sunset nodded as she spoke, and she proceeded to say, “Now, again; listen to every word I tell you.”
+“It’s good that you know about Instructor Han and the Seventh Team.” Sunset nodded as she spoke, and she proceeded to say, “Now, again; listen to every word I tell you.”
 
 Sunset told Han Sen, “Our team accepted an order that commanded us to breach another dimension. Things went wrong upon going there.”
 

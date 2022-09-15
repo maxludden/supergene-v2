@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Hired to Fight
-### Chapter 371 
+### Chapter 371
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  After returning to his dorm, Han Sen dialed Huangfu Pingqing's number and saw her in the holographic image.
+After returning to his dorm, Han Sen dialed Huangfu Pingqing's number and saw her in the holographic image.
 
 Huangfu Pingqing was wearing a black strap gown. The low-cut showed off her deep cleavage. The contrast of black and white made her breasts stand out.
 

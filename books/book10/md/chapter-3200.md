@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## The Style of That Sword
-### Chapter 3200 
+### Chapter 3200
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “Looking back and smiling, Bai Meisheng, the sixth palace has no color…”
+“Looking back and smiling, Bai Meisheng, the sixth palace has no color…”
 
 It was such a beautiful poem. The scene made people’s hearts jump.
 

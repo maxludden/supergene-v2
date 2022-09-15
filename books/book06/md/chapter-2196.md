@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Sound
-### Chapter 2196 
+### Chapter 2196
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  As he spoke to Huangfu Jing, Han Sen had a look at the route and estimated the travel time it would take for him to get there. “Don’t register it just yet. Wait for me on Planet Jade Drum. I’ll be there in four days; can you wait that long?”
+As he spoke to Huangfu Jing, Han Sen had a look at the route and estimated the travel time it would take for him to get there. “Don’t register it just yet. Wait for me on Planet Jade Drum. I’ll be there in four days; can you wait that long?”
 
 Since the entry pass for Planet Jade Drum was only valid for ten days, visitors would be forced out if their allotted time expired. That was why Han Sen had to confirm that he would make it in time.
 

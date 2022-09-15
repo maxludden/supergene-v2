@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Real Wolf King
-### Chapter 1012 
+### Chapter 1012
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The wolves and wolf kings stopped their flight. They stood where they were, trembling in fear of something else.
+The wolves and wolf kings stopped their flight. They stood where they were, trembling in fear of something else.
 
 “What’s wrong with them now?” Chen Hu wondered, with a look of confusion.
 

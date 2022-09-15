@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Night Treasure
-### Chapter 1158 
+### Chapter 1158
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen could not wrap his head around it, which was disappointing to him.
+Han Sen could not wrap his head around it, which was disappointing to him.
 
 He thought the rock would be a tangible treasure he could take with him and somehow utilize, but as far as he could tell, it was just a large slab of rock hewn from an even bigger slab of rock. After a three-year investigation of its origin piece, Han Sen had not discovered anything inherently special about it, either. It was just a tough stone, for all the intents and purposes he could fathom.
 

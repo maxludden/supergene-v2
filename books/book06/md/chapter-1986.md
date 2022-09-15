@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Red Coral
-### Chapter 1986 
+### Chapter 1986
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Thousand Feather Crane started to say something more, but the Jade Air erupted. The four of them focused on absorbing the Jade Air, which had become unusually strong around Han Sen. The Jade Air eventually turned back to normal, and there was no more pure Jade Air to take in. Han Sen was more sure about his line of thinking now.
+Thousand Feather Crane started to say something more, but the Jade Air erupted. The four of them focused on absorbing the Jade Air, which had become unusually strong around Han Sen. The Jade Air eventually turned back to normal, and there was no more pure Jade Air to take in. Han Sen was more sure about his line of thinking now.
 
 When the first Jade Air ended, Yun Suyi came up to the seventh floor. There, they all discussed the exam and the unexpected entrance of Lone Bamboo.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Bone Is Scabbard
-### Chapter 2850 
+### Chapter 2850
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The history of the Return Empty Scabbard was something special. It was a bone torn from the body of Sky Armor God.
+The history of the Return Empty Scabbard was something special. It was a bone torn from the body of Sky Armor God.
 
 Back then, only a very few core superiors knew that the rib bone of Sky Armor God was actually his god's personality. It was not a complete god's personality though. Only a part of it had been cut out as Sky Armor God escaped, so the rib bone was not a complete god's personality. There was no sign of a god's sadness manifesting afterward either. If the god's personality had been cut out of the man completely, and a god's sadness showed up, Knife King would've become super famous all around the universe.
 

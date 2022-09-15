@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## The King Is Back
-### Chapter 490 
+### Chapter 490
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  After Wang Dongyun had thought of it, he could no longer hold it back. Wang Dongyun then recorded all the following fights by Kill Dollar.
+After Wang Dongyun had thought of it, he could no longer hold it back. Wang Dongyun then recorded all the following fights by Kill Dollar.
 
 After Wang Dongyun watched several rounds, Kill Dollar suddenly left the virtual platform. Wang Dongyun then watched what he recorded repeatedly.
 
@@ -45,7 +46,7 @@ In recent years he had seen lots of articles and videos with titles like this. M
 
 After watching the video, Fang Mingquan's face suddenly became grim. He was so excited that he was shivering.
 
-Although the person in the video used the face blur function and all he could see was his ID name, he had a feeling that this person was Dollar. After watching the video seriously, Fang Mingquan was quite surprised. "Indeed, it is Dollar. Even among revolvers, he is the absolute top. I have never seen anything like this."
+Although the person in the video used the face blur function and all he could see was his ID name, he had a feeling that this person was Dollar. After watching the video seriously, Fang Mingquan was quite surprised. "Indeed, it is Dollar. Even among evolvers, he is the absolute top. I have never seen anything like this."
 
 Without any hesitation, Fang Mingquan edited the video into a more solid version, ready to show it during his show time.
 
@@ -69,7 +70,7 @@ Fang Mingquan played the video in his show and announced the return of Dollar wi
 
 "My King, you're eventually back. Please accept my allegiance. I've been waiting for so long."
 
-"What king? He was not necessarily able to beat Lin Feng when he was unevolved. Not to mention he is now in Second God's Sanctuary. He has not been there for many years. How strong can he be? There are so many revolvers who could kill him."
+"What king? He was not necessarily able to beat Lin Feng when he was unevolved. Not to mention he is now in Second God's Sanctuary. He has not been there for many years. How strong can he be? There are so many evolvers who could kill him."
 
 "Fuck off. My Dollar is invincible anywhere he goes. What the heck do you know?"
 

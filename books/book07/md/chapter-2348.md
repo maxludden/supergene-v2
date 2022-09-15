@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Flu
-### Chapter 2348 
+### Chapter 2348
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “Is the Ancient Water God going to die soon?” Han Sen asked with a frown.
+“Is the Ancient Water God going to die soon?” Han Sen asked with a frown.
 
 Alang’s eyes opened wide as he looked at Han Sen, and he said, “How could you say something like that? Aren’t you worried that the Ancient Water God will hear you and kill you?”
 

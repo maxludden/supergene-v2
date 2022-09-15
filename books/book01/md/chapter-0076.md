@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Holy Angel
-### Chapter 76 
+### Chapter 76
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Just by reading the descriptions, Han Sen was already feeling excited. Except for the ones that had high prerequisites and could only be practiced by those with evolver or higher status, Han Sen wanted every hyper geno art listed in there.
+Just by reading the descriptions, Han Sen was already feeling excited. Except for the ones that had high prerequisites and could only be practiced by those with evolver or higher status, Han Sen wanted every hyper geno art listed in there.
 
 Unfortunately, one license could only be used to purchase one hyper geno art. Han Sen wanted to choose one that laid the foundation for better fitness for his sister. With such a hyper geno art, Han Yan wouldn’t be inferior to those posh school students. She would even be better than them, because even posh schools didn’t offer such advanced hyper geno arts to students.
 

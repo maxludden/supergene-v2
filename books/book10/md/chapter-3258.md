@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Recognizing Leadership
-### Chapter 3258 
+### Chapter 3258
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  When she saw the first drop of blood going in and getting closer to the ice jade evil lady’s forehead, Tian Jing’s heart rate started to rise.
+When she saw the first drop of blood going in and getting closer to the ice jade evil lady’s forehead, Tian Jing’s heart rate started to rise.
 
 As time went by, the drop of blood was able to touch the skin of the ice jade evil lady’s forehead. It enabled Tian Jing to see the blood and ice jade evil lady’s skin combine. It formed a strange connection.
 

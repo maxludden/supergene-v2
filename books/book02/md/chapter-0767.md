@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Holy Rhino
-### Chapter 767 
+### Chapter 767
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Even the black-flame phoenix and dark cloud refused to draw closer at this time. It was the same for Han Sen, who chose to only watch the gallons of blood stain the black sand.
+Even the black-flame phoenix and dark cloud refused to draw closer at this time. It was the same for Han Sen, who chose to only watch the gallons of blood stain the black sand.
 
 "Roar!"
 

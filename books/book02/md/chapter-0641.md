@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Misunderstanding
-### Chapter 641 
+### Chapter 641
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen entered the menacing metal shelter. All of a sudden, he saw a dark figure fly across the Mystery Island. He furrowed his brows and called aloud, "I have already issued a command prohibiting access to the Mystery Island. Who has disobeyed my orders and come?"
+Han Sen entered the menacing metal shelter. All of a sudden, he saw a dark figure fly across the Mystery Island. He furrowed his brows and called aloud, "I have already issued a command prohibiting access to the Mystery Island. Who has disobeyed my orders and come?"
 
 Standing on the high wall of the metal shelter, Han Sen noticed it was the figure of a man that was nearing. He did not have a pet like the silver fox by his side, and he was being chased by a host of monsters.
 

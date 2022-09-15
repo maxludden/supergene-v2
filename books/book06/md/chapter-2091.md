@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Kahn
-### Chapter 2091 
+### Chapter 2091
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen followed Li Duo through Night Ring 12th Street. They checked out a few places, with many of them being murder scenes. Han Sen used his Dongxuan Aura to scan each area for details.
+Han Sen followed Li Duo through Night Ring 12th Street. They checked out a few places, with many of them being murder scenes. Han Sen used his Dongxuan Aura to scan each area for details.
 
 The strangest thing was that the only traces Han Sen picked up had been left by Night Ghosts. He couldn’t see any sign of there being any other creatures around.
 

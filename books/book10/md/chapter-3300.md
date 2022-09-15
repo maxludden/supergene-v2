@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Rebirth Machine
-### Chapter 3300 
+### Chapter 3300
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “Sister Keer, do you have time to walk around out there today?” A young man of the Very High looked elegant as he went in front of Li Keer. He smiled at her warmly.
+“Sister Keer, do you have time to walk around out there today?” A young man of the Very High looked elegant as he went in front of Li Keer. He smiled at her warmly.
 
 “I do not have time.” Li Keer rejected the advance. She seemed very annoyed.
 

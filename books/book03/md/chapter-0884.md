@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Black Crystal Mutation
-### Chapter 884 
+### Chapter 884
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The black crystal in the Sea of Soul was like a blackhole, absorbing the lifeforce around it.
+The black crystal in the Sea of Soul was like a blackhole, absorbing the lifeforce around it.
 
 Han Sen was shocked. Ever since he found the black crystal, there hadn't been anything amiss with it. But now, the black crystal was absorbing lifeforces, and it was quite terrifying to see.
 

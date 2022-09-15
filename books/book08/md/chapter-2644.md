@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## The God Spirit Touch Becomes a Fairy
-### Chapter 2644 
+### Chapter 2644
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  As Han Sen was wondering what the God Spirit Touch wanted, he suddenly received a thought. “Give me a few more drops of your blood.”
+As Han Sen was wondering what the God Spirit Touch wanted, he suddenly received a thought. “Give me a few more drops of your blood.”
 
 Han Sen was shocked. He had encountered a God Spirit Touch before, so he knew that they were capable of basic communication. This God Spirit Touch was far stronger than the last one he had seen, though.
 

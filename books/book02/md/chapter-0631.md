@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## The Raven's Treasure
-### Chapter 631 
+### Chapter 631
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  "Are you okay?" The Queen looked at the wound on Han Sen's back in fright.
+"Are you okay?" The Queen looked at the wound on Han Sen's back in fright.
 
 From shoulder to waist, his back had been sliced entirely open. The gash was so deep, his spine was visible.
 

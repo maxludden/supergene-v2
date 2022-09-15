@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Born Emperor
-### Chapter 1221 
+### Chapter 1221
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Looking at the spirit stone directly before him, Han Sen quickly fell into the grasp of greed. He flew towards the forehead of the statue and to grab the stone. Han Sen knew he would have to grab it before it completely formed and the spirit was given shape.
+Looking at the spirit stone directly before him, Han Sen quickly fell into the grasp of greed. He flew towards the forehead of the statue and to grab the stone. Han Sen knew he would have to grab it before it completely formed and the spirit was given shape.
 
 The creatures roared at the intruder that soared above them as if he was humiliating their god.
 

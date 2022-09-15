@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Free Spirit Geno Points
-### Chapter 1333 
+### Chapter 1333
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Inside the ninth spirit base, a few spirits were discussing amongst themselves.
+Inside the ninth spirit base, a few spirits were discussing amongst themselves.
 
 “Six-Arm, did you hear about the human and his Super Spank?”
 

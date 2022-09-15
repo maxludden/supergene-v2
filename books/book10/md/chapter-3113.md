@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## 3 Chess Legion
-### Chapter 3113 
+### Chapter 3113
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Thousand Mile Reach knew Han Sen was not an ordinary person. After all, he had been able to kill Steel Scene in Ice Snow God Temple. There was no doubt that Han Sen was a god-blood noble, and his Blood-Pulse and gene race was stronger than Steel Scene.
+Thousand Mile Reach knew Han Sen was not an ordinary person. After all, he had been able to kill Steel Scene in Ice Snow God Temple. There was no doubt that Han Sen was a god-blood noble, and his Blood-Pulse and gene race was stronger than Steel Scene.
 
 What did that matter? The grand teacher of the Qin Kingdom was the strongest elite around. He was far greater than Steel Scene. He would not have been allowed to be the king’s teacher had that not been the case.
 

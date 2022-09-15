@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## The Wall of Destiny
-### Chapter 1401 
+### Chapter 1401
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  On the final side of that construct, there were no diagrams or depictions. Instead, there was only text and a lot of it.
+On the final side of that construct, there were no diagrams or depictions. Instead, there was only text and a lot of it.
 
 Han Sen believed this might have been the second half of Life Door at first, but he soon realized it wasn’t. It was a simple, poignant text that concerned itself with destiny.
 

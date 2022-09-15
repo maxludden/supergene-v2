@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Reverse Time and Space
-### Chapter 3458 
+### Chapter 3458
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “What is Crape Myrtle waiting for?” Tai Yi asked with a frown. “Bao’er cannot beat Qin Xiu. If he does not reboot the universe now, there will be no chance of rebooting it later.”
+“What is Crape Myrtle waiting for?” Tai Yi asked with a frown. “Bao’er cannot beat Qin Xiu. If he does not reboot the universe now, there will be no chance of rebooting it later.”
 
 In the geno hall, Light Goddess and Moment God, two of the 12 main Annihilation-class God Spirits, were bewildered. They did not know what Crape Myrtle was waiting for either.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Reversing Bloodline
-### Chapter 2696 
+### Chapter 2696
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “D*mn it! This isn’t the way.” Han Sen felt terrible. His power was no match for the monster’s, and the skills he had were losing their effectiveness.
+“D*mn it! This isn’t the way.” Han Sen felt terrible. His power was no match for the monster’s, and the skills he had were losing their effectiveness.
 
 “I have to try this out!” As Han Sen teleported away, he used the moment’s reprieve to pull out a piece of gear. It was a peculiar bottle. The handle was the tail of two sirens. It was the holy item Siren Bottle from the sirens in the Extreme King.
 

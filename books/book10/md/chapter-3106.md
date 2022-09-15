@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Exclusive Si Ming Demon Race
-### Chapter 3106 
+### Chapter 3106
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Upon reading Lu San Zhi’s report, Steel Scene coldly said, “This is ridiculous.”
+Upon reading Lu San Zhi’s report, Steel Scene coldly said, “This is ridiculous.”
 
 “Mister Scene, Han Sen has a special connection with the crown prince,” Lu San Zhi said. “I don’t think taking him down will be as easy as we initially presumed.”
 

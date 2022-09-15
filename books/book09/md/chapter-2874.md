@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Maha God Elephant
-### Chapter 2874 
+### Chapter 2874
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen hastily appeared on the space battleground. He saw a red, giant elephant also appear across the distance of space between them.
+Han Sen hastily appeared on the space battleground. He saw a red, giant elephant also appear across the distance of space between them.
 
 That giant elephant was all red. Its body had a burning red flame. If one went to feel it, one would notice that the blaze did not have a temperature.
 

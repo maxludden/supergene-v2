@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Dragon Beast Soul
-### Chapter 2355 
+### Chapter 2355
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen floated down until his feet rested on the surface of the water. He had no plans to escape. He looked at Nine-Headed Bird and said, “I will remain standing here. You can use whatever sort of power you wish, and if my feet cause any ripples in the water, then I forfeit and lose.”
+Han Sen floated down until his feet rested on the surface of the water. He had no plans to escape. He looked at Nine-Headed Bird and said, “I will remain standing here. You can use whatever sort of power you wish, and if my feet cause any ripples in the water, then I forfeit and lose.”
 
 When Nine-Headed Bird heard Han Sen’s declaration, he drifted down to the sea’s surface as well. His bird-with-nine-heads appearance returned to something human-like again. He smiled and said, “As I should have expected from a prince of the Extreme King: you are true to your word.”
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## One Life Is Too Shor
-### Chapter 2943 
+### Chapter 2943
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “Deified gene +1.”
+“Deified gene +1.”
 
 Han Sen’s brain had the geno increase announcement playing, but he did not care about it. In the next cycle, those points would be out of his system.
 

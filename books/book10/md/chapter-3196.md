@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Pulling Out a Sword
-### Chapter 3196 
+### Chapter 3196
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “Mister Crown Prince, let’s summon a gene race to protect your body before you draw the sword of your choice.” Thousand Mile Reach and Jia Shi Zhen did not delay. One went left, and one went right. They followed Qin Bai, ready to save him the moment he needed to be saved.
+“Mister Crown Prince, let’s summon a gene race to protect your body before you draw the sword of your choice.” Thousand Mile Reach and Jia Shi Zhen did not delay. One went left, and one went right. They followed Qin Bai, ready to save him the moment he needed to be saved.
 
 “There is no need.” Qin Bai walked up to the big sword. He reached his hand out to touch the sword’s grip, but it was too high. After he touched the handle, he could not use any strength.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Golden Lion
-### Chapter 267 
+### Chapter 267
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  When the yacht stopped in front of a garden-like island, Ji Lingfeng came off the yacht on the back of his bodyguard-- he was so drunk that he couldn't even walk himself.
+When the yacht stopped in front of a garden-like island, Ji Lingfeng came off the yacht on the back of his bodyguard-- he was so drunk that he couldn't even walk himself.
 
 Ji Lingfeng went straight to bed when he reached the vila on the island. Han Sen and Ji Yanran had to have dinner without him.
 

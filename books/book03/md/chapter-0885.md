@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Debt
-### Chapter 885 
+### Chapter 885
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Qu Lanxi and Chu Ming were engaged in merry conversation as they walked, but that soon came to an end when they entered the field and caught sight of their Ink-Sword Tree.
+Qu Lanxi and Chu Ming were engaged in merry conversation as they walked, but that soon came to an end when they entered the field and caught sight of their Ink-Sword Tree.
 
 They had spent the last three years cultivating it, and in a few more days, they'd have been able to harvest the thirty-four ordinary gene weapons. But now, the tree had suddenly died.
 

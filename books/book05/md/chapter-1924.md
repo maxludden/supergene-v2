@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Red Copper Palace
-### Chapter 1924 
+### Chapter 1924
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen tried to simulate the energy flow of the little minks. He could do this by transforming the Dongxuan Sutra’s power into the power the little minks possessed.
+Han Sen tried to simulate the energy flow of the little minks. He could do this by transforming the Dongxuan Sutra’s power into the power the little minks possessed.
 
 Han Sen didn’t think it’d be difficult to do, as the little minks had only just been born. But it actually took Han Sen seven or eight days to simulate their energy.
 

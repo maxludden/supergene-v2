@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Ocean Monumen
-### Chapter 2162 
+### Chapter 2162
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Before Han Sen went back to Narrow Moon, he had some things to wrap up in Sky Palace. Half a month after his returning from Metal World, Han Sen finished all his outstanding business issues and went to meet with the Sky Palace leader.
+Before Han Sen went back to Narrow Moon, he had some things to wrap up in Sky Palace. Half a month after his returning from Metal World, Han Sen finished all his outstanding business issues and went to meet with the Sky Palace leader.
 
 “Go. Leave your name upon the ocean monument. Wherever you go, remember you have Sky Palace to call a home,” said the Sky Palace leader.
 

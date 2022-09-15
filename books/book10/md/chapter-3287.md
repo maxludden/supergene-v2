@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Ultimate Reverse
-### Chapter 3287 
+### Chapter 3287
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “Use your power to help me put out the flames that wreathe me or break the half-burned candle,” Han Sen said to Zhao Ning’er.
+“Use your power to help me put out the flames that wreathe me or break the half-burned candle,” Han Sen said to Zhao Ning’er.
 
 Zhao Ning’er immediately turned into a phoenix head harp. She plucked her strings and made the asking heart sounds go to the half-burned candle, but the powerful harp sounds went through the candle and assaulting fire. Mirror Moon was not impacted in the least.
 

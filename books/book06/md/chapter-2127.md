@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Abandoning the Fight
-### Chapter 2127 
+### Chapter 2127
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  On the day Dollar and Lone Bamboo were supposed to fight, a great number of elites turned their attention to the match. They focused on it more than they did any of the King fights.
+On the day Dollar and Lone Bamboo were supposed to fight, a great number of elites turned their attention to the match. They focused on it more than they did any of the King fights.
 
 “Who do you think will win?”
 

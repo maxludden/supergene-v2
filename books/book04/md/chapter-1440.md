@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## The Grateful Shelter Master
-### Chapter 1440 
+### Chapter 1440
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen returned the coin geno core that was still atop the maggot king, and as soon as it was removed, the creatures all had their powers returned.
+Han Sen returned the coin geno core that was still atop the maggot king, and as soon as it was removed, the creatures all had their powers returned.
 
 Perhaps that was one con of the geno core. It had to be stuck on a creature to collect power, but once it was removed from that creature, the power returned to any creatures it had been absorbed from, and the negative effects that plagued the conduit-creature were removed.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Flaming Porcupine
-### Chapter 900 
+### Chapter 900
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  "I can mask our scent, robbing the creatures that could locate us through our scent of their abilities to find us. Furthermore, I can detect the faint traces and scents of those that have gone before us. I can read the area," Qu Lanxi explained to Han Sen.
+"I can mask our scent, robbing the creatures that could locate us through our scent of their abilities to find us. Furthermore, I can detect the faint traces and scents of those that have gone before us. I can read the area," Qu Lanxi explained to Han Sen.
 
 Han Sen was surprised. Her abilities did not lend themselves to combat proficiency, but they would be extremely useful, all the same.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Kill Them All
-### Chapter 157 
+### Chapter 157
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The gorgeous killing feast had just begun.
+The gorgeous killing feast had just begun.
 
 Silver Killer was moving quickly with the powerful Destroyer behind it. The crazy killing made one warframe after another explode. People were almost trembling watching the fragments of warframes sent in the air by gunfire.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Qin Xiu
-### Chapter 2942 
+### Chapter 2942
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  It did not just look like one. It really did come alive. The statue’s eyes were lively, and the body turned soft. She stood up and looked at everyone in the pavilion. Nine Thousand King watched as the jade statue was revived. His body shook. He did not look powerful anymore. The light of the battle armor quickly disappeared. The eye closed tightly. There was a thud as he kneeled in front of the revived statue. His head touched the floor. He did not dare raise his head as he said, “Servant Number 9 is greeting Miss Wan’er. Do you remember Number 9, Miss Wan’er?”
+It did not just look like one. It really did come alive. The statue’s eyes were lively, and the body turned soft. She stood up and looked at everyone in the pavilion. Nine Thousand King watched as the jade statue was revived. His body shook. He did not look powerful anymore. The light of the battle armor quickly disappeared. The eye closed tightly. There was a thud as he kneeled in front of the revived statue. His head touched the floor. He did not dare raise his head as he said, “Servant Number 9 is greeting Miss Wan’er. Do you remember Number 9, Miss Wan’er?”
 
 Han Sen thought, “This old man Nine Thousand King knew Sacred Leader’s sister was called Wan’er and he did not tell me.”
 

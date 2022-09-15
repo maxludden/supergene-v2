@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## The Moon’s Reflection on Water
-### Chapter 1931 
+### Chapter 1931
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen’s desire to perform Moon had little to do with satisfying Kriman.
+Han Sen’s desire to perform Moon had little to do with satisfying Kriman.
 
 Han Sen thought learning Moon was a challenge from Yisha, so he wanted to prove to Yisha that he was a genius. He didn’t want her suspicions taking root.
 

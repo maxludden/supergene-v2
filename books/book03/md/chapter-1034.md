@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## The Phoenix Descends and the Emperor Dies
-### Chapter 1034 
+### Chapter 1034
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen was shocked. He was a strong man, and he could lift even the heaviest of items. This feather, though, would require a heft far beyond his capabilities. U.pdated b.y
+Han Sen was shocked. He was a strong man, and he could lift even the heaviest of items. This feather, though, would require a heft far beyond his capabilities. U.pdated b.y
 
 It was heavier than any metal he had ever known. But not wanting to give up, Han Sen flexed and prepared to give it another go.
 

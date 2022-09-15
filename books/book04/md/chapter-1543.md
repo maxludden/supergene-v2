@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Leveling Up Under Pressure
-### Chapter 1543 
+### Chapter 1543
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The tunnel had the same width as an air raid shelter. It was wide enough for a car to pass through, but that was about it. Every one mile, a beam of sunlight would bathe a portion of the tunnel from above. It made the place seem longer than it actually was, and it felt extremely weird.
+The tunnel had the same width as an air raid shelter. It was wide enough for a car to pass through, but that was about it. Every one mile, a beam of sunlight would bathe a portion of the tunnel from above. It made the place seem longer than it actually was, and it felt extremely weird.
 
 After each checkpoint of light, the pressure permeating the atmosphere of the tunnel increased. The gemstone class creatures that were the heirs of super creatures could only make it through fourteen of those checkpoints. They were unable to go any further than that.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Angia’s Plan
-### Chapter 2013 
+### Chapter 2013
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Angia and his companions had come to Sky Palace because they had to. The rest of the Feather race was depending on them to make friends with the Sky.
+Angia and his companions had come to Sky Palace because they had to. The rest of the Feather race was depending on them to make friends with the Sky.
 
 They wanted to quickly integrate with the population of Sky Palace so they could be considered natural members. When they came there, they brought a lot of treasures to hand out. Blood Feather Knife was one of them.
 

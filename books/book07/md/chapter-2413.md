@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Exploding Furnace
-### Chapter 2413 
+### Chapter 2413
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The furnace had become semi-transparent under the heat of its own flames. The coin hit the side of the furnace with so much force that it started to cave in on itself. A small hole formed in the surface, and the coin disappeared into that hole.
+The furnace had become semi-transparent under the heat of its own flames. The coin hit the side of the furnace with so much force that it started to cave in on itself. A small hole formed in the surface, and the coin disappeared into that hole.
 
 It felt like time was standing still. Dragon One and Dia Robber didn’t see the coin come out on the other side, so they assumed that the coin was still stuck to the furnace where it had originally landed. They doubted the coin would have enough power to penetrate the furnace.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Shura Qi
-### Chapter 1738 
+### Chapter 1738
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  When Han Sen saw Luo Haitang, he was shocked.
+When Han Sen saw Luo Haitang, he was shocked.
 
 The Luo Haitang he saw now was completely different. The man was so slim that he was practically skin and bones. His eyes were sunk deep in their sockets, and his hair was white. He looked like a dying old man, and not the fabled Godslayer Luo that Han Sen had known.
 

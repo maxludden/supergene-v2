@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Touching Flower Finger
-### Chapter 1899 
+### Chapter 1899
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The worker brought a testing gold rock on stage. Everyone looked at No Flower, wondering what geno art he was going to perform.
+The worker brought a testing gold rock on stage. Everyone looked at No Flower, wondering what geno art he was going to perform.
 
 Although No Flower was bald, he looked poised and elegant. He bowed before them, and to the surprise of all the Nobles who were present, he said, “I am going to perform a geno art called Touching Flower Finger.”
 

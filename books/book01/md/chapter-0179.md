@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Limited Edition
-### Chapter 179 
+### Chapter 179
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The application period was only two days, after which a Skynet qualifier would be held, and the top nine would to join Han Sen as finalists to compete in the Digang Warframe Match on September 10.
+The application period was only two days, after which a Skynet qualifier would be held, and the top nine would to join Han Sen as finalists to compete in the Digang Warframe Match on September 10.
 
 Many commented that Digang was rather stingy by awarding only the top three with SKTS--so fussy over a warframe. The most expensive warframe for civil use at the time was the King series of Starry Group, which cost no more than a dozen million and could be customized as required.
 

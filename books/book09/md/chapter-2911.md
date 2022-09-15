@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Ghost Car
-### Chapter 2911 
+### Chapter 2911
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  This bird had four wings and was very big. Its feathers were very long, especially those on its back. They were like a stream of knives on the creature’s back, reminiscent of a waterfall.
+This bird had four wings and was very big. Its feathers were very long, especially those on its back. They were like a stream of knives on the creature’s back, reminiscent of a waterfall.
 
 It had nine small necks and nine bird heads. It looked like a phoenix. Its small feathers were like small blades. It was very white and very murderous.
 

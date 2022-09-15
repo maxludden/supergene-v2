@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Killing Spree
-### Chapter 130 
+### Chapter 130
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Wang Mengmeng watched what was happening with eyes widened. It felt like riding a roller coaster, but this experience was more horrifying than any roller coaster.
+Wang Mengmeng watched what was happening with eyes widened. It felt like riding a roller coaster, but this experience was more horrifying than any roller coaster.
 
 She was lying on the back of Han Sen, and had the same angle of view as him. She watched all his movements, dodging, turning, wielding, charging.
 

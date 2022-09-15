@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Little Orange
-### Chapter 735 
+### Chapter 735
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Dong!
+Dong!
 
 The man yanked the chain, and a powerful force tugged Han Sen towards him. Han Sen was shocked, but he let go of the Flaming Rex Spike that had become entangled with the chain.
 

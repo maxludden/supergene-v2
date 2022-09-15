@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Devil Desert
-### Chapter 126 
+### Chapter 126
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  "Yanran, we have been roommates and sisters for three years. It’s okay you did not tell others, but why didn’t you tell me?" Qu Lili asked Ji Yanran, grinning.
+"Yanran, we have been roommates and sisters for three years. It’s okay you did not tell others, but why didn’t you tell me?" Qu Lili asked Ji Yanran, grinning.
 
 "Tell you what?" Ji Yanran was confused.
 

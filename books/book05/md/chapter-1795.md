@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## The Fight on the Statue
-### Chapter 1795 
+### Chapter 1795
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  After entering the area with the grapevines, things became much easier for Han Sen.
+After entering the area with the grapevines, things became much easier for Han Sen.
 
 The fighting skills that the four Chaos employed were rather simple and a little clumsy, but they weren’t weak. One versus one, Han Sen might win. But against four of them at the same time, there was a high chance he could stumble and fall.
 

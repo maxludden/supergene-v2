@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Waterfall on God Mountain
-### Chapter 1001 
+### Chapter 1001
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen chased the ape king, but again, he was unable to keep up. He could have sworn the simian fiend was cheating, and before long, it had completely disappeared from sight.
+Han Sen chased the ape king, but again, he was unable to keep up. He could have sworn the simian fiend was cheating, and before long, it had completely disappeared from sight.
 
 But with the king gone, the other monkeys still tried to attack Han Sen. After sealing their seventh sense, he went into hiding.
 

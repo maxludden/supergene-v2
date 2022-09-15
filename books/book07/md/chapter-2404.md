@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Han Sen Makes His Wish
-### Chapter 2404 
+### Chapter 2404
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen thought of many different things he could wish for. He thought of wishing for God to be dead or for Han Sen himself to become God. Both of those seemed like wishes that God would be unable to fulfill, and thus would be forced to renege on his bargain.
+Han Sen thought of many different things he could wish for. He thought of wishing for God to be dead or for Han Sen himself to become God. Both of those seemed like wishes that God would be unable to fulfill, and thus would be forced to renege on his bargain.
 
 But when Han Sen thought about it some more, he realized that those wishes wouldn’t work. If Han Sen wished for God to die, he needed a way to make sure that God really was dead.
 

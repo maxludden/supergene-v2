@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Even President Ji Would Be Afraid
-### Chapter 1460 
+### Chapter 1460
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen looked around. Rainflower Planet had Rainflower Trees all across it. There were countless places to watch the blossoming of the trees, from the plains to the mountains. There was no particular need for them to relinquish their position.
+Han Sen looked around. Rainflower Planet had Rainflower Trees all across it. There were countless places to watch the blossoming of the trees, from the plains to the mountains. There was no particular need for them to relinquish their position.
 
 Han Sen checked the man out and coldly told him, “There are many other places here to sit. Demigod Qiuming doesn’t have to sit here, does he?”
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Pressure
-### Chapter 3456 
+### Chapter 3456
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Qin Xiu brought everyone pressure, and he was much scarier than Human King. When Qin Xiu brought back his body, there was no killing behavior and or anything soft. That scariness was silent, and it was spreading. It made Huangfu Jing, Lin Feng, and the others feel cold without being cold. Their bodies were quaking incessantly.
+Qin Xiu brought everyone pressure, and he was much scarier than Human King. When Qin Xiu brought back his body, there was no killing behavior and or anything soft. That scariness was silent, and it was spreading. It made Huangfu Jing, Lin Feng, and the others feel cold without being cold. Their bodies were quaking incessantly.
 
 Bao’er had not said a word ever since Qin Xiu returned. She looked at Chaos, Han Ling’er, and the others. She drank Qin Xiu’s blood without hesitation.
 

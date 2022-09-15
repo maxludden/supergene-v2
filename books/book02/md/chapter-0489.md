@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Kill Dollar
-### Chapter 489 
+### Chapter 489
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen tried a couple of times, but even "Dollar9527" was registered as well.
+Han Sen tried a couple of times, but even "Dollar9527" was registered as well.
 
 Feeling quite upset, Han Sen wrote "Kill Dollar" in his ID name, which was eventually usable.
 

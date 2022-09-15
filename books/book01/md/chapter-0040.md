@@ -1,19 +1,20 @@
-Title:Saint Paul: Part 2 
+Title:Three Possibilities 
 Chapter:40 
 Section:1 
 Book:1 
 CSS:../Styles/style.css 
 viewport: width=device-width
   
-## Saint Paul: Part 2
-### Chapter 40 
+## Three Possibilities
+### Chapter 40
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  "What are you doing here?" Han Lei was surprised to see Han Sen here.
+"What are you doing here?" Han Lei was surprised to see Han Sen here.
 
 "Taking Yan to school," replied Han Sen.
 

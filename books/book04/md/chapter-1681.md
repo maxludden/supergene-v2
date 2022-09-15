@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Tattoo
-### Chapter 1681 
+### Chapter 1681
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  1681 Tattoo
+1681 Tattoo
 
 Inside the bathroom, Han Sen looked at himself in the mirror. He was topless, observing his back.
 

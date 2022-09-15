@@ -1,19 +1,20 @@
-Title:Doppelg?nger Beast Soul 
+Title:Doppelgänger Beast Soul 
 Chapter:246 
 Section:1 
 Book:1 
 CSS:../Styles/style.css 
 viewport: width=device-width
   
-## Doppelg?nger Beast Soul
-### Chapter 246 
+## Doppelgänger Beast Soul
+### Chapter 246
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  <div class="tables">
+<div class="tables">
 	<table class="beast">
 		<tr>
 			<th colspan="2">Beast Soul Gained</th>

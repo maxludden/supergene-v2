@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Holy Tear of Nirvana
-### Chapter 771 
+### Chapter 771
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen touched his forehead and felt nothing. It was smooth and free from wrinkles, like usual.
+Han Sen touched his forehead and felt nothing. It was smooth and free from wrinkles, like usual.
 
 But Zhou Yumei's face did not look like she was telling him a lie. Han Sen pulled out a mirror from his pack—the one that was used for the Beetle Knight—and had a look.
 

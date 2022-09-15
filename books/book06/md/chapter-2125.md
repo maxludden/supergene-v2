@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Coming for You
-### Chapter 2125 
+### Chapter 2125
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Kun was not in the present battleground, and when the small bugs were crushed, so too was her vision. She had now lost all sight of Han Sen.
+Kun was not in the present battleground, and when the small bugs were crushed, so too was her vision. She had now lost all sight of Han Sen.
 
 Kun was taken aback by this, needless to say. The first thing she did, though, was spawn another swarm of small bugs with her small bug powers. They took off in flight, fanning across the area and rabidly searching for Han Sen.
 

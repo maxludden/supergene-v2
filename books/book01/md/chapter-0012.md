@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Who Is Scum?
-### Chapter 12 
+### Chapter 12
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Soon, Han Sen saw a young man walking towards the pond in ragged clothes. He was covered with cuts and bruises all over and looked extremely tired.
+Soon, Han Sen saw a young man walking towards the pond in ragged clothes. He was covered with cuts and bruises all over and looked extremely tired.
 
 "Friend, there are iron-toothed crocodiles in the pool," Han Sen came out of the bushes and cried from afar. He meant well in warning the young man, but was also afraid that he might alert the crocodiles that he wanted to hunt.
 

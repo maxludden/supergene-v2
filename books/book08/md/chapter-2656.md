@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Who Will Take Care of It
-### Chapter 2656 
+### Chapter 2656
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “Not bad. He has been holding on for this long, but why hasn’t he tried to escape the star tree?” Liyu Zhen murmured casually to himself. He glanced in Han Sen’s direction but didn’t go towards him.
+“Not bad. He has been holding on for this long, but why hasn’t he tried to escape the star tree?” Liyu Zhen murmured casually to himself. He glanced in Han Sen’s direction but didn’t go towards him.
 
 The deified star beetle was pursuing Han Sen because Liyu Zhen had enhanced the presence of death around him. Liyu Zhen had killed many star beetles himself, though. The deified star beetle could smell that, too.
 

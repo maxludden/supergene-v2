@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Perfect Robbery
-### Chapter 958 
+### Chapter 958
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Thorn Baron suddenly saw a handsome spirit appear, shrouded in a white light. As her pupils shrank, her mouth widened in joy.
+Thorn Baron suddenly saw a handsome spirit appear, shrouded in a white light. As her pupils shrank, her mouth widened in joy.
 
 Thunder-Devil King saw the expression on her face, but he believed she was trying to trick him into dropping his guard. He didn't feel the presence of anything behind him.
 

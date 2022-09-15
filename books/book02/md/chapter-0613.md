@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Opportunity
-### Chapter 613 
+### Chapter 613
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen recognized the sound as belonging to the peacock they encountered earlier, which had received a nasty sting on its face. It flew far away after that, and they didn't think they'd run into it again so soon.
+Han Sen recognized the sound as belonging to the peacock they encountered earlier, which had received a nasty sting on its face. It flew far away after that, and they didn't think they'd run into it again so soon.
 
 "Its screams are ones of pain and suffering. Is it because of the poison?" Queen asked, looking in the direction the squeals were coming from.
 

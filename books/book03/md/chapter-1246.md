@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Battle Gene Beast Soul
-### Chapter 1246 
+### Chapter 1246
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  After the silver fox gobbled up and swallowed the hand, nothing much happened. Little Silver shook for a minute, then simply walked over to Han Sen’s sleeping quarters and took a nap.
+After the silver fox gobbled up and swallowed the hand, nothing much happened. Little Silver shook for a minute, then simply walked over to Han Sen’s sleeping quarters and took a nap.
 
 Han Sen used his Dongxuan Aura to examine the silver fox’s lifeforce after a brief worry that something might have been wrong, but from what he could tell, all was fine.
 

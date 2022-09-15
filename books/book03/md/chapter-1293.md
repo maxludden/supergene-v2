@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## The Light Is Dark
-### Chapter 1293 
+### Chapter 1293
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen looked at Moving Star Emperor and said, “Are you saying those that don’t understand are filthy? Why don’t you go ahead and explain what the Luminous Stone is, then?”
+Han Sen looked at Moving Star Emperor and said, “Are you saying those that don’t understand are filthy? Why don’t you go ahead and explain what the Luminous Stone is, then?”
 
 Moving Star Emperor rebutted with, “Pah! You don’t deserve to know.”
 

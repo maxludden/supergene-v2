@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Can’t Bully People
-### Chapter 1826 
+### Chapter 1826
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Black Steel didn’t hesitate. He grabbed Han Sen’s hand and lowered himself down.
+Black Steel didn’t hesitate. He grabbed Han Sen’s hand and lowered himself down.
 
 Han Sen grabbed the nearest blade and let Black Steel dangle slowly downwards.
 

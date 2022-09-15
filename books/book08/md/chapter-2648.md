@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Yellow Paper
-### Chapter 2648 
+### Chapter 2648
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  When the potential reward was high enough, Han Sen could be a very patient man. He squatted down near the lake, and he didn’t move for half the day. In fact, in all that time, he didn’t even blink. He was hoping he would be able to fish something out.
+When the potential reward was high enough, Han Sen could be a very patient man. He squatted down near the lake, and he didn’t move for half the day. In fact, in all that time, he didn’t even blink. He was hoping he would be able to fish something out.
 
 Bao’er spun her gold sword around, playing with it casually. But after a while, she grew tired of the weapon. She put it away inside her little gourd. She returned to Han Sen’s side with her hand on her jaw. She watched him fish.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Getting News
-### Chapter 2347 
+### Chapter 2347
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “I can’t even see a graveyard nearby. What important person died and is going to be buried here? Are they going to scatter the ashes into the ocean, maybe? Like a burial at sea?” Han Sen wondered.
+“I can’t even see a graveyard nearby. What important person died and is going to be buried here? Are they going to scatter the ashes into the ocean, maybe? Like a burial at sea?” Han Sen wondered.
 
 To be entirely honest, Han Sen didn’t actually believe Miss Mirror’s claim. But with so many elites having shown up, something big had to have been going down.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Simple Version of the Frost Sutra
-### Chapter 1088 
+### Chapter 1088
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  After meeting with the Ji family, they went to the planet where the Xue family resided.
+After meeting with the Ji family, they went to the planet where the Xue family resided.
 
 The planet was snow-white, unsurprisingly. It was covered in ice, and the only season was winter. The temperature never left the negative end of the thermometer, and it was considered a hot day whenever it reached the heights—or lows, if preferred—of minus ten degrees.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Long Bright Lantern
-### Chapter 2929 
+### Chapter 2929
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  After Han Sen stepped past the stone pillar, he realized that behind every pillar there was a long, bright lantern. They looked like streetlamps that went all the way into the darkness.
+After Han Sen stepped past the stone pillar, he realized that behind every pillar there was a long, bright lantern. They looked like streetlamps that went all the way into the darkness.
 
 Aside from the very dim, long bright lanterns that shone, every other area around them was pitch black. Even with the Dongxuan Sutra’s feeling power, one could not go into the darkness. Han Sen saw many broken universal cogwheels on the edge of the darkness. Everyone was shocked by the scene.
 

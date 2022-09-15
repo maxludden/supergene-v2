@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Phoenix-like Creature
-### Chapter 349 
+### Chapter 349
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Desperado then realized he was right. It was what Queen made him feel.
+Desperado then realized he was right. It was what Queen made him feel.
 
 Although A Soldier on Warship was no match to Queen and did not bring him the same pressure, the feeling was the same.
 

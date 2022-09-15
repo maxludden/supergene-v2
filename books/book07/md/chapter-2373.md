@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Killing
-### Chapter 2373 
+### Chapter 2373
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen’s eyes looked cold. He knew that the old woman had successfully provoked the other Sirens.
+Han Sen’s eyes looked cold. He knew that the old woman had successfully provoked the other Sirens.
 
 “Lan Haixin, I hope you don’t regret your decision,” Han Sen said in an emotionless voice. He let go of the blood kirin’s head, then pulled out the Thunder God Spike and Ghost Teeth Knife that were attached to his waist.
 

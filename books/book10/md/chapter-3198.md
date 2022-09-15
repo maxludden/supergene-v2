@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## One Sword
-### Chapter 3198 
+### Chapter 3198
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  A bolt of lightning struck through the air. It looked like the sky and the earth were torn in two. All the weapons in the sky were like storms. They had the power to destroy the sky and the earth. Suddenly, they all started to rain down.
+A bolt of lightning struck through the air. It looked like the sky and the earth were torn in two. All the weapons in the sky were like storms. They had the power to destroy the sky and the earth. Suddenly, they all started to rain down.
 
 Qin Bai was so shocked that he screamed. He held his head and hid behind Thousand Mile Reach.
 

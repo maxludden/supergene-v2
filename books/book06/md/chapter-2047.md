@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Shura Arrive
-### Chapter 2047 
+### Chapter 2047
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  After Han Sen left Planet Sea, he absorbed more of the deified blood that was on the Blood Feather Knife. He did this every day, and he felt his Blood-Pulse Sutra approaching its peak.
+After Han Sen left Planet Sea, he absorbed more of the deified blood that was on the Blood Feather Knife. He did this every day, and he felt his Blood-Pulse Sutra approaching its peak.
 
 He kept investigating the Upside-Down Scale, too. He hadn’t used it for anything yet. And while it was good for evolving his blood, he’d only make use of it when he needed to.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## The Goddess Army's Thirteenth General
-### Chapter 656 
+### Chapter 656
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The formation failed. The bone elephant was too quick and the riders were unable to exit its path in time. Many of them were stepped on, crushed beneath the elephant's feet. Their squelchy remains were scattered and stained across each of the elephant's subsequent footprints.
+The formation failed. The bone elephant was too quick and the riders were unable to exit its path in time. Many of them were stepped on, crushed beneath the elephant's feet. Their squelchy remains were scattered and stained across each of the elephant's subsequent footprints.
 
 Fear began to take hold of their hearts, one which could not be kept at bay. The strength of that fearsome beast was far beyond what any of the fighters were expecting. Its unheeding rampage now sent chills down the spines of all who looked at it.
 

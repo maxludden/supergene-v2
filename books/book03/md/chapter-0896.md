@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Spirit Gene
-### Chapter 896 
+### Chapter 896
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen did not move. He cast the Dongxuan Sutra, which had his fingers generate a coin, and fired it at the approaching monkey.
+Han Sen did not move. He cast the Dongxuan Sutra, which had his fingers generate a coin, and fired it at the approaching monkey.
 
 Pat!
 

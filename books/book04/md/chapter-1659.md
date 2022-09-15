@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Suppressing All of the Tribe
-### Chapter 1659 
+### Chapter 1659
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Even Illusion Elder and the other three elders were in shock. They had used the Ancient Sky Mirror because it was a safe haven, but now they found themselves unable to escape from their refuge.
+Even Illusion Elder and the other three elders were in shock. They had used the Ancient Sky Mirror because it was a safe haven, but now they found themselves unable to escape from their refuge.
 
 Some super elites began to wish that they had never used the mirror at all.
 

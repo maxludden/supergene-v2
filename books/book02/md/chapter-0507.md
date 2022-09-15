@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Golden Crab
-### Chapter 507 
+### Chapter 507
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Ding!
+Ding!
 
 The seemingly clumsy body of the golden crab suddenly bounced, facing Han Sen with its head. The golden pincer blocked Han Sen's claws.
 

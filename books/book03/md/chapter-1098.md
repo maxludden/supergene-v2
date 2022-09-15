@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## I’ll Take Care of You for the Rest of My Life
-### Chapter 1098 
+### Chapter 1098
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  When Han Sen signed up in the Martial Hall, he used the name Dollar.
+When Han Sen signed up in the Martial Hall, he used the name Dollar.
 
 If you were in a populated shelter, everyone would have to compete against each other to secure a position in the tournament. Only the best of each shelter could join Divinity’s Bout.
 

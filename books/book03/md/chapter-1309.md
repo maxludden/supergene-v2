@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Battling No God
-### Chapter 1309 
+### Chapter 1309
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen thought the island would be something of an unspoiled paradise, like the Garden of Eden. He envisioned it to be a place of pure splendor and untouched beauty, but that image was quickly scorched away when his eyes finally caught sight of their destination.
+Han Sen thought the island would be something of an unspoiled paradise, like the Garden of Eden. He envisioned it to be a place of pure splendor and untouched beauty, but that image was quickly scorched away when his eyes finally caught sight of their destination.
 
 The trees were little more than naked sticks, zig-zagging from the ground without their leaves, which lay scattered on the ground, black and dead. The landscape itself looked as if it had been wholly composed of mud, where grass was afraid of growing.
 

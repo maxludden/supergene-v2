@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Who Reaps the Benefits
-### Chapter 1727 
+### Chapter 1727
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  A train’s horn cracked the air, while powerful aircraft flew through the sky above.
+A train’s horn cracked the air, while powerful aircraft flew through the sky above.
 
 Han Sen was a little confused when it came to Kate technology. You could see old steam trains, but you could also see nuclear-fueled aircraft. Some people even rode creatures on the street.
 

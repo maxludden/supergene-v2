@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Armored Man’s Background
-### Chapter 1636 
+### Chapter 1636
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “I haven’t seen it yet, so I can’t be sure,” said Gu Qingcheng calmly.
+“I haven’t seen it yet, so I can’t be sure,” said Gu Qingcheng calmly.
 
 “Was there something like the Iron Chimenea in ancient times?” Han Sen found it hard to believe.
 

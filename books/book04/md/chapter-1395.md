@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Black Wind
-### Chapter 1395 
+### Chapter 1395
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “Dad, is Mom having a baby?” Bao’er asked, with a surprisingly serious tone.
+“Dad, is Mom having a baby?” Bao’er asked, with a surprisingly serious tone.
 
 “Yes, you will become a big sister,” Han Sen said, with a reassuring smile.
 

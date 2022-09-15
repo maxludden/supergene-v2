@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Blood Snail Beast Soul
-### Chapter 387 
+### Chapter 387
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  "Any last word?" Han Sen did not reply but asked.
+"Any last word?" Han Sen did not reply but asked.
 
 Ning Yue coughed and said, "Maybe you do not know that there is a type of beast soul called doppelgänger. The person standing in front of you is merely a doppelgänger. Even if you kill me right away, you will only be destroying a beast soul. So how about we have a nice talk instead?"
 

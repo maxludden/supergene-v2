@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Sky and Men Combined at an Extreme Level
-### Chapter 2830 
+### Chapter 2830
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Very High Leader saw Han Sen and God, frowned, and asked, "Who are you people? How dare you come to the star tree."
+Very High Leader saw Han Sen and God, frowned, and asked, "Who are you people? How dare you come to the star tree."
 
 If this was a normal race, if an important place was suddenly invaded, they would not have spoken like this. They would have attacked before doing anything.
 

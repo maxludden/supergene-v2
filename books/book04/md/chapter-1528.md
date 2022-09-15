@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Frozen Forest
-### Chapter 1528 
+### Chapter 1528
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen packed some things and followed Little Fairy to God’s Ruin. Bao’er, Little Silver, and Starsea Beast were coming along with them, as well.
+Han Sen packed some things and followed Little Fairy to God’s Ruin. Bao’er, Little Silver, and Starsea Beast were coming along with them, as well.
 
 Starsea Beast had grown much bigger by now. Its body was big like that of a dinosaur’s. But even so, its eyes remained as innocent-looking as ever. Every time Han Sen saw them, it made him feel as if he was meeting the eyes of a child.
 

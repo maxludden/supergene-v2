@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Game on
-### Chapter 211 
+### Chapter 211
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  There was normally only one sacred-blood creature on one Mystery Island. Han Sen did not worry he might run into any danger and sat down on a tree where he could watch the sacred-blood creature, waiting for the three to come.
+There was normally only one sacred-blood creature on one Mystery Island. Han Sen did not worry he might run into any danger and sat down on a tree where he could watch the sacred-blood creature, waiting for the three to come.
 
 In less than half an hour, the three persons had arrived, faster than Han Sen had thought.
 

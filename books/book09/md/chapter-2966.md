@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Moment God
-### Chapter 2966 
+### Chapter 2966
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “What is going on? What happened to Golden Growler?” Han Sen’s face did not change. He could not figure out what was going on just yet.
+“What is going on? What happened to Golden Growler?” Han Sen’s face did not change. He could not figure out what was going on just yet.
 
 The demon lady seemed to understand Han Sen was focusing on Golden Growler. She looked at the god temple and Golden Growler and said, “Mister, that is the god temple of Moment God. Back then, when all those God Spirits descended, Moment God was there. He was a God Spirit that governed time. If I see things correctly, then Golden Growler must have been struck by his Moment Forever. That moment lasts forever. I am afraid his life will see it trapped at that moment. He will never escape that.”
 

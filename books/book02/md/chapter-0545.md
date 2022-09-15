@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Killing a Sacred-blood Beneath the Sea
-### Chapter 545 
+### Chapter 545
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  "A sacred-blood creature." Han Sen was not alarmed and instead was feeling happy. He had been looking for a sacred-blood creature to train upon, after all. Now, with a poisonous sea bug king appearing right before him, Han Sen considered it the best thing ever.
+"A sacred-blood creature." Han Sen was not alarmed and instead was feeling happy. He had been looking for a sacred-blood creature to train upon, after all. Now, with a poisonous sea bug king appearing right before him, Han Sen considered it the best thing ever.
 
 He did not remain idle, and swam quickly towards the poisonous sea bug king. However, he noticed that its body strangely appeared to be shrinking. A new dark liquid was emitted from its large spikes. This substance made the entire water glow in a bright purple haze.
 

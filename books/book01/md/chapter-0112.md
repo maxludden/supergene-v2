@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## The Archer
-### Chapter 112 
+### Chapter 112
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen ignored her urging and drew the string of Doomsday at the black-tailed monkeys sweeping across the slope, screaming.
+Han Sen ignored her urging and drew the string of Doomsday at the black-tailed monkeys sweeping across the slope, screaming.
 
 The youths thought Han Sen was out of his mind. How many of the monkeys could he possibly kill? Once he was besieged by them, one scratch would mean death.
 

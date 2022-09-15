@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Breaking the World Failed
-### Chapter 3288 
+### Chapter 3288
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen knew he did not have much time left. If his power was consumed too much, even if he had a way to break the world with his Super God Spirit mode, he would not have the power needed to break the world.
+Han Sen knew he did not have much time left. If his power was consumed too much, even if he had a way to break the world with his Super God Spirit mode, he would not have the power needed to break the world.
 
 He needed to let his Super God Spirit mode break the world, but his power was too far depleted.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Fighting Under the Water
-### Chapter 506 
+### Chapter 506
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  "Guard the ice holes nearby. I don't believe he will not come out," Blackgod commanded coldly.
+"Guard the ice holes nearby. I don't believe he will not come out," Blackgod commanded coldly.
 
 The temperature of the water in the frozen lake was incredibly low. Even someone with a fitness level above a hundred could not last long under the water. In addition, Han Sen could not breathe under the water, which was why Blackgod believed that Han Sen could not stay longer than five minutes under the water before he appeared in other ice holes.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Fighting God Snake
-### Chapter 2578 
+### Chapter 2578
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  If it wasn’t for the small Crocodile God’s body having a high mass that made it tougher than the average deified xenogeneic, it would have been ripped to shreds by the Six Core God Snake.
+If it wasn’t for the small Crocodile God’s body having a high mass that made it tougher than the average deified xenogeneic, it would have been ripped to shreds by the Six Core God Snake.
 
 It was a shame the small Crocodile God was so young. Its body wasn’t strong enough to completely repel the damage done to it by the Six Core God Snake’s space powers. More and more wounds appeared on its body as time went by. The small Crocodile God was so scared that it looked like the creature was about to wet itself.
 

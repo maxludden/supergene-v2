@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Sunrise Palace
-### Chapter 3294 
+### Chapter 3294
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  When the flower died down, the flower’s vines wrapped around the skeleton came back to life. They started to grow bones and flesh. Han Sen was shocked by this development.
+When the flower died down, the flower’s vines wrapped around the skeleton came back to life. They started to grow bones and flesh. Han Sen was shocked by this development.
 
 “Is this skeleton not fully dead yet? Is it going to revive?” Han Sen looked at the skeleton. He seemed hopeful.
 

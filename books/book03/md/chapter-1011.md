@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Killing the Wolf King
-### Chapter 1011 
+### Chapter 1011
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Lightning was tearing the battlefield asunder, and it sapped the fighters of their hope of triumph. But suddenly, from the corner of their eyes, a red flame danced.
+Lightning was tearing the battlefield asunder, and it sapped the fighters of their hope of triumph. But suddenly, from the corner of their eyes, a red flame danced.
 
 Han Sen was standing there, a red flame encompassing his being. He raised his hand and a thousand firebirds shot out, hungry for murder. There were so many of them, they covered the skies like a veil.
 

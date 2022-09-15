@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## The Bet
-### Chapter 952 
+### Chapter 952
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  There was a strength tester in the training room. Liu Meng punched it hard, and on the display, the number 1203 appeared.
+There was a strength tester in the training room. Liu Meng punched it hard, and on the display, the number 1203 appeared.
 
 "This is my fitness level. My strongest skill has unlocked its third gene lock. If you haven't reached that level yet, then I can only open one gene lock to match a similar strength to your own," Liu Meng said.
 

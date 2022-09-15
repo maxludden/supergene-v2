@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## The Secret of the Life Geno Essence
-### Chapter 673 
+### Chapter 673
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen, Wang Yuhang, and Li Xinglun sat in a triangular formation in an ice cave. They placed the fist-sized Life Geno essence in the middle.
+Han Sen, Wang Yuhang, and Li Xinglun sat in a triangular formation in an ice cave. They placed the fist-sized Life Geno essence in the middle.
 
 Wang Yuhang gulped, asking, "Is this really a Life Geno essence?"
 

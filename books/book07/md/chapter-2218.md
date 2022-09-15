@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Ghost Bone Town
-### Chapter 2218 
+### Chapter 2218
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Sacred had been the strongest faction in the entire universe, at one point in time. It had maintained that lofty position for a while, too.
+Sacred had been the strongest faction in the entire universe, at one point in time. It had maintained that lofty position for a while, too.
 
 Now there were the Very High, the Ancient God, and the Extreme King. That trio composed the best of the best. But back then, only Sacred had enough power to govern the entire universe.
 

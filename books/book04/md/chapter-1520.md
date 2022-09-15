@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Slaying the Ant King
-### Chapter 1520 
+### Chapter 1520
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “Oh no!” Spirit Twelve and Spirit Thirteen felt a chill.
+“Oh no!” Spirit Twelve and Spirit Thirteen felt a chill.
 
 Han Sen led the army of ants into the shelter, and the red-eyed ants skittered everywhere once inside. They couldn’t catch Han Sen, so they merely dined on whatever other creatures happened to be in their way. Even the buildings and constructs were broken in their rampage.
 

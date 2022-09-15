@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Achilles’ Heel
-### Chapter 365 
+### Chapter 365
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The four of them entered the nest one by one as they planned. This time, Chen Nanxing was the first.
+The four of them entered the nest one by one as they planned. This time, Chen Nanxing was the first.
 
 Chen Nanxing was walking with a sacred-blood shield over his head. His task was to block the first attack from the metal wolf so that Ye Yufeng had the time to use time curse on the wolf.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## The Glory of One Shot
-### Chapter 2673 
+### Chapter 2673
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen had planned to spend more time observing Gru’s sword skills, but now he had to fight.
+Han Sen had planned to spend more time observing Gru’s sword skills, but now he had to fight.
 
 Han Sen’s fingers twitched, and Spell’s twin pistols roared madly, rapidly spitting out bullets.
 

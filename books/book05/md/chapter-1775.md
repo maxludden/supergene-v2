@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## White Feather Dyed Red
-### Chapter 1775 
+### Chapter 1775
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “Do they know about Xina?” Han Sen wondered to himself.
+“Do they know about Xina?” Han Sen wondered to himself.
 
 He was not afraid, but Stay Up Late had only just become a Baron. He could not return to the sanctuary, so it’d be dangerous if the Feathers thought about going after him, too.
 

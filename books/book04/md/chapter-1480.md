@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Main Battleground
-### Chapter 1480 
+### Chapter 1480
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  If Han Sen was competing with a power that lacked the speed to drive it, he would have little trouble.
+If Han Sen was competing with a power that lacked the speed to drive it, he would have little trouble.
 
 Power was pointless if it couldn’t reach an opponent; in this case, Han Sen. Xu Mi’s sword might have carried the strength of a mountain or the force of a super creature, but while it was being tracked by Han Sen’s Dongxuan Aura, it wouldn’t find a target. The fight was playing out in advance in Han Sen’s mind, as if Xu Mi was a puppet on strings.
 

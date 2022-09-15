@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Extortion
-### Chapter 2225 
+### Chapter 2225
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Outside of the Ice Blue system, Night River King was in the middle of slaying a bunch of xenogeneics that were planning to invade. His face turned pale before long, and he was left gasping.
+Outside of the Ice Blue system, Night River King was in the middle of slaying a bunch of xenogeneics that were planning to invade. His face turned pale before long, and he was left gasping.
 
 After he was forced into the Ice Blue Knights, Night River King had been forced into the frontline ranks to be the first vanguard against any xenogeneic enclaves that wished to invade the system. This engagement, however, had a few too many xenogeneics to deal with. Even Kings like him were left exhausted after the fight, and with how it had been each and every day, he couldn’t stand how things were working out for him.
 

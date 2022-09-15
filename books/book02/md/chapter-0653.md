@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## I'll Buy It
-### Chapter 653 
+### Chapter 653
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  It was a black T-rex beast soul. Its name was "Rex Spike." It was a heavy metal weapon that was about two meters long.
+It was a black T-rex beast soul. Its name was "Rex Spike." It was a heavy metal weapon that was about two meters long.
 
 From the booklet provided, the weapon looked like a giant umbrella that was folded. The end was sharp and it had a hilt at the bottom.
 
@@ -47,7 +48,7 @@ The T-rex let out a horrible roar as a geyser of flame shot out of its mouth. Th
 
 It was just a virtual image, coming from the Sea of Soul. It did not spit out real fire, because if it did, the entire house would have been little more than smoldering cinders by that point.
 
-"Rex Spike has successfully combined with Fire-Scale T-rex Gemstone. The evolution has provided you a Flaming Rex Spike super beast soul."
+> "Rex Spike has successfully combined with Fire-Scale T-rex Gemstone. The evolution has provided you a Flaming Rex Spike Super Beast Soul."
 
 Han Sen almost jumped up in happiness. He quickly summoned the Flaming Rex Spike and immediately saw that it had increased in length. It was now certainly longer than two meters. It was colored a dark red and encircled in an aura of flame. The weapon now looked even more wretched and cruel, like some violent beast.
 

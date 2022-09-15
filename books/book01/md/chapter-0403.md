@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Nine-life Cat
-### Chapter 403 
+### Chapter 403
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  For some reason, Ning Yue started to shiver when watched by the ugly beast soul. It felt like his soul was shaking.
+For some reason, Ning Yue started to shiver when watched by the ugly beast soul. It felt like his soul was shaking.
 
 Without hesitation, Ning Yue turned his sword around and stabbed it at his own chest, trying to kill himself.
 

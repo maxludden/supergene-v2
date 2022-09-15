@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Weird Woman
-### Chapter 413 
+### Chapter 413
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen pondered and took back the holy angel. He shapeshifted into the color shifter and leaned against the mountain wall, turning into a part of the rocks. No one could tell he was there
+Han Sen pondered and took back the holy angel. He shapeshifted into the color shifter and leaned against the mountain wall, turning into a part of the rocks. No one could tell he was there
 
 The rumbling continued for a while before it softened. Very soon, Han Sen saw the evil goblin king came from a wide hole.
 

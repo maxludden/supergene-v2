@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## The Name Is Heard
-### Chapter 923 
+### Chapter 923
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen went out to take a peek at the vine every now and then, but the wyvern now protected it valiantly. It was angry, and it wasn't going to lax its temperament any time soon.
+Han Sen went out to take a peek at the vine every now and then, but the wyvern now protected it valiantly. It was angry, and it wasn't going to lax its temperament any time soon.
 
 Seeing the wyvern spit out such sweltering flames, Han Sen estimated it had most likely opened its fifth gene lock. And with it being a sacred-blood creature, it was unlikely he could topple the foe.
 

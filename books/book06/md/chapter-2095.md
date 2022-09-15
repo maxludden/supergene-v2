@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Night Ghost Betrayal
-### Chapter 2095 
+### Chapter 2095
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The whole base was infested with Night Ghosts. Han Sen and Lone Bamboo were trapped. If they wanted to escape, they would have to fight and kill their way through the host of Night Ghosts.
+The whole base was infested with Night Ghosts. Han Sen and Lone Bamboo were trapped. If they wanted to escape, they would have to fight and kill their way through the host of Night Ghosts.
 
 But there were thousands of them, and there were more than a thousand Dukes. Han Sen and Lone Bamboo had only just become Marquises, and they were carrying an injured man between them. It would not be easy for the three of them to escape. Han Sen looked up at the Night Ghosts that were looking down at them like hungry tigers. Then he turned to her, emotionlessly.
 

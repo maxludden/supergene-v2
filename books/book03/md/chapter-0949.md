@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Special Collection
-### Chapter 949 
+### Chapter 949
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The next day, a spacecraft came to pick up Han Sen. Clearly, but perhaps unexpectedly, Annie had revealed herself to be a bit of a scrooge. The spacecraft was only a shuttle that was to bring him and Annie to the spaceport so they could charter public transportation and make their own way to Atlantic Planet.
+The next day, a spacecraft came to pick up Han Sen. Clearly, but perhaps unexpectedly, Annie had revealed herself to be a bit of a scrooge. The spacecraft was only a shuttle that was to bring him and Annie to the spaceport so they could charter public transportation and make their own way to Atlantic Planet.
 
 "Did you have a blind date with one of their men? Did you not fancy him enough for a second date? Am I to come along with you, all so you can pretend I'm your hot and sexy new boyfriend?" Han Sen jested.
 

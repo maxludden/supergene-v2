@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Warehouse
-### Chapter 2156 
+### Chapter 2156
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Beneath the pit, there was a space that was reminiscent of a warehouse. Inside that space, Han Sen saw many giant metal cubes sitting in lines. They looked like storage containers, but they were bigger than the sort of boxes you’d expect to find in a warehouse.
+Beneath the pit, there was a space that was reminiscent of a warehouse. Inside that space, Han Sen saw many giant metal cubes sitting in lines. They looked like storage containers, but they were bigger than the sort of boxes you’d expect to find in a warehouse.
 
 When Han Sen got closer, he realized that each cube was covered in giant handprints. He had seen one of these metallic cubes before in Narrow-Moon; the blue metal cube the Rebate had retrieved from the Ligu Ruins looked just like the boxes he was seeing now.
 

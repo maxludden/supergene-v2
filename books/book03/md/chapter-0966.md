@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Ability to Control Bugs
-### Chapter 966 
+### Chapter 966
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  "Oh my God! What is this monster?" Li Yutian was shocked.
+"Oh my God! What is this monster?" Li Yutian was shocked.
 
 A giant bug, as big as a bus, shout out from beneath the earth. Its tentacles looked like discolored versions of the vines of the forest, laden with lethal thorns. After Han Sen sliced one of its lecherous appendages, the foe was enraged. It charged at Han Sen in a frenzy.
 

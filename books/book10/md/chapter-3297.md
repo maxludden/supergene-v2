@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Thirty-third Sky
-### Chapter 3297 
+### Chapter 3297
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen was shocked by what was in the 33rd sky. This was the final layer of the 33 skies. According to theory, this should have been the most dangerous layer.
+Han Sen was shocked by what was in the 33rd sky. This was the final layer of the 33 skies. According to theory, this should have been the most dangerous layer.
 
 Everything Han Sen was seeing was the complete opposite of dangerous. This place had a sea of clouds everywhere. It was like heaven. Amidst the endless sea of clouds, there was a tablet. It was like it was touching the sky and touching hell. Even from quite far away, one could make out the words scribed on the tablet.
 

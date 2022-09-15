@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Got Surrounded
-### Chapter 1155 
+### Chapter 1155
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Boom!
+Boom!
 
 Han Sen hit the wall of the cave like a cannonball, and in the haze of dust and debris that accompanied his fall, he spat out blood.
 

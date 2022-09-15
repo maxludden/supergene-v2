@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Zero’s Second Evolution
-### Chapter 1837 
+### Chapter 1837
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Zero first generated her white geno armor, then underwent the process a second time. There was no pause between the sequences. Her geno armor simply melted and reshaped itself into a white knife. It looked like a dagger made of bone.
+Zero first generated her white geno armor, then underwent the process a second time. There was no pause between the sequences. Her geno armor simply melted and reshaped itself into a white knife. It looked like a dagger made of bone.
 
 As Han Sen found himself joyous in the realization that Zero could evolve a second time, her bone knife suddenly cracked. It gave him quite a shock.
 

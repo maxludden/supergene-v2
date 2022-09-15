@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Getting Upset Over Money
-### Chapter 3067 
+### Chapter 3067
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Fang Qi Yuan eventually decided to concede. He agreed to give Han Sen the Holy Wen White Deer.
+Fang Qi Yuan eventually decided to concede. He agreed to give Han Sen the Holy Wen White Deer.
 
 A tame gene race could be transferred between people that had a God Spirit Blood-Pulse but being able to transfer did not guarantee it could be used.
 

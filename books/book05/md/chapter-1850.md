@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Purple Copper Palace
-### Chapter 1850 
+### Chapter 1850
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  A group of people followed Deep Blue Viscount as he led the way to the palace. Suddenly, Han Sen felt as if something on his back was moving.
+A group of people followed Deep Blue Viscount as he led the way to the palace. Suddenly, Han Sen felt as if something on his back was moving.
 
 Han Sen pretended to fetch some water, so he could reach around and feel his back. It was the box with the steel feather inside. It was moving.
 

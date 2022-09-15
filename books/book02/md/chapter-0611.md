@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## An Unbelievable Sense of Power
-### Chapter 611 
+### Chapter 611
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen wanted to jump into the sea, but the blood crystal wasp prevented him from getting close enough. He had to dodge in according to the wasp's attacks, so he wasn't able to go where he wanted to.
+Han Sen wanted to jump into the sea, but the blood crystal wasp prevented him from getting close enough. He had to dodge in according to the wasp's attacks, so he wasn't able to go where he wanted to.
 
 It did not matter what skills Han Sen used or how wickedly fast they were; the wasp only had to flap its wings to destroy any plan Han Sen devised.
 

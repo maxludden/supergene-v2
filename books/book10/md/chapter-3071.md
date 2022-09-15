@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Cricket Cave
-### Chapter 3071 
+### Chapter 3071
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  A black-bodied, red-headed big cricket came out of the gap in the stone. It battled the big, dark green gecko. The cricket was only the size of a fist. It was much smaller than the big gecko, but it was very fast. It was not at a disadvantage while it fought. The black and green, the two shadows, battled on the banks of the pool. The fight was intense to watch.
+A black-bodied, red-headed big cricket came out of the gap in the stone. It battled the big, dark green gecko. The cricket was only the size of a fist. It was much smaller than the big gecko, but it was very fast. It was not at a disadvantage while it fought. The black and green, the two shadows, battled on the banks of the pool. The fight was intense to watch.
 
 Han Sen found it a fun spectacle to view. The levels of the two gene races were not very high. They were viscounts at the most, but their methodology of battle was brutally intense. It was like watching crickets fight.
 

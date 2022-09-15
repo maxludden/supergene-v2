@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Cup Demon Comes
-### Chapter 1311 
+### Chapter 1311
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Moving Star Shelter was riddled with bugs. It had been besieged and overwhelmed by a torrent of insects. There were ladybugs on the ground, like tanks to shelter infantry, and giant flying centipedes hovering and clogging the sky.
+Moving Star Shelter was riddled with bugs. It had been besieged and overwhelmed by a torrent of insects. There were ladybugs on the ground, like tanks to shelter infantry, and giant flying centipedes hovering and clogging the sky.
 
 A variety of toxic insects, of varying proportions, dimensions, and powers, were coming from all around. If there was one constant between them all, it was that they were each a mighty creature that could take more than a few hits with a swatter to down.
 

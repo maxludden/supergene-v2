@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Life Is Shor
-### Chapter 2256 
+### Chapter 2256
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen had just remembered that Little Angel was associated with a holy element. Ghost Bone powers seemed to be afraid of light or something like that, as those two powers did not connect. There was nothing too unusual about Little Angel being unable to absorb that stuff.
+Han Sen had just remembered that Little Angel was associated with a holy element. Ghost Bone powers seemed to be afraid of light or something like that, as those two powers did not connect. There was nothing too unusual about Little Angel being unable to absorb that stuff.
 
 “In that case, there is only one thing to try. Dongxuan Sutra and The Story of Genes are difficult to level up, and even with the Ghost Bone powers here, bringing them up to Duke won’t be something that can be achieved in a short amount of time.
 

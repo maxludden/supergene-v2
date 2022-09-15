@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Good Uncle
-### Chapter 1435 
+### Chapter 1435
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Tang Rubei’s nickname was Ghost Hand. He called himself the best thief, and through the employ of state-of-the-art technology, he hadn’t once botched a job in over sixty years.
+Tang Rubei’s nickname was Ghost Hand. He called himself the best thief, and through the employ of state-of-the-art technology, he hadn’t once botched a job in over sixty years.
 
 Someone had paid him a high price to steal Han Sen’s son Littleflower, and that was why he was on Planet Roca. He waited until everyone was gone before breaking in to complete his objective.
 

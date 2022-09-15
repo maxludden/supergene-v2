@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## God Bird
-### Chapter 2770 
+### Chapter 2770
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Barr was a primitive deified elite. With his full power, he could devastate a planet with a single punch. But he couldn’t resist those branches that reached out and began to wrap themselves around him. The branches tied him up like a cocoon, with only his head poking out above the leaves.
+Barr was a primitive deified elite. With his full power, he could devastate a planet with a single punch. But he couldn’t resist those branches that reached out and began to wrap themselves around him. The branches tied him up like a cocoon, with only his head poking out above the leaves.
 
 Barr wasn’t the only one to be caught; even the transmutation class Elder Nader was unable to escape. He released his power in a massive surge, but under the force of the branches, his power was like snow melting under a spring sun. His attempts to protect himself dissolved into nothing, and then the branches bound him firmly.
 

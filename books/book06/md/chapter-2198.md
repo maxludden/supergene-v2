@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Digging Up the Jade Drum
-### Chapter 2198 
+### Chapter 2198
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  This was the first time Han Sen had been able to see Huangfu Jing’s super god body up-close. Although her level was low, her teleportation skill was still a league better than his own Break Space Flash.
+This was the first time Han Sen had been able to see Huangfu Jing’s super god body up-close. Although her level was low, her teleportation skill was still a league better than his own Break Space Flash.
 
 Break Space Flash only let him move in a direct line. It appeared as if Huangfu Jing’s teleportation ability had no such limitations. She could appear at any location she wished to. And when she used her geno art attacks, her powers teleported along with them. It was quite sick.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Indestructible Cup
-### Chapter 1314 
+### Chapter 1314
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Moment Queen was overjoyed for a short while. She had not expected Xie Qing King would be able to actually open ten gene locks and defeat Gold General.
+Moment Queen was overjoyed for a short while. She had not expected Xie Qing King would be able to actually open ten gene locks and defeat Gold General.
 
 But whether or not he’d live to see another day had yet to be determined. He had exhausted far too much strength and energy in unleashing that devastating hit, and it had left him on death’s door. At the very least, he had helped turn the tides on the enemy and give them a hope of pulling through to emerge victorious.
 

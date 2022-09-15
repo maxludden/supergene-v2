@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Statue
-### Chapter 2272 
+### Chapter 2272
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Creatures in the geno universe only had one soul, but Han Sen’s Sea of Soul held many beast souls. Since each silver sycee could only freeze one soul at a time, Han Sen used eight beast souls to neutralize the sycees.
+Creatures in the geno universe only had one soul, but Han Sen’s Sea of Soul held many beast souls. Since each silver sycee could only freeze one soul at a time, Han Sen used eight beast souls to neutralize the sycees.
 
 Han Sen played with a silver sycee in his hand and stroked the blood kirin’s head. He looked at Mister White and said, “Which way should we head now?”
 

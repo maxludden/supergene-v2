@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## The Name of Dollar
-### Chapter 1585 
+### Chapter 1585
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Boom!
+Boom!
 
 Amidst the angry roaring, Destroyer Wolf’s head fell to the ground. No matter how loudly it roared, it could not move.
 

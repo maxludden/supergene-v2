@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## White King City
-### Chapter 2625 
+### Chapter 2625
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “How do I get these two guys out of the core area?” Han Sen wondered as he flew behind the small crocodile god and bronze furnace. They looked as if they could kill God himself, and take down Buddha as well if he happened to wander by. If any other xenogeneics got a whiff of them, the terrified creatures would run away as fast as they could. This made Han Sen so happy.
+“How do I get these two guys out of the core area?” Han Sen wondered as he flew behind the small crocodile god and bronze furnace. They looked as if they could kill God himself, and take down Buddha as well if he happened to wander by. If any other xenogeneics got a whiff of them, the terrified creatures would run away as fast as they could. This made Han Sen so happy.
 
 The bronze furnace was getting closer to becoming deified, and the small crocodile god was already very powerful. If he could take them out of the core area, their powers would be very useful.
 

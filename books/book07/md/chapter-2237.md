@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## I
-### Chapter 2237 
+### Chapter 2237
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen and his team didn’t receive any more missions. They suspected that Ice Blue Knight King was grounding them to ensure Bai Wei’s safety, but they couldn’t be certain. They were stuck in the base for two weeks, and they weren’t given a single excuse to leave it.
+Han Sen and his team didn’t receive any more missions. They suspected that Ice Blue Knight King was grounding them to ensure Bai Wei’s safety, but they couldn’t be certain. They were stuck in the base for two weeks, and they weren’t given a single excuse to leave it.
 
 But for Han Sen, that was ideal. After what happened with Night River King, who knew if other assassins might be lurking outside the base with Ancient Warrior Statues, just waiting for their chance to kill him.
 

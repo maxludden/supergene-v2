@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Throat Slitting
-### Chapter 374 
+### Chapter 374
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen had to go through a lot of procedures before he could officially represent Wang Di. The most important part was the geno test. In order to determine whether Han Sen was an unevolved person or an evolver, he must go through a strict test.
+Han Sen had to go through a lot of procedures before he could officially represent Wang Di. The most important part was the geno test. In order to determine whether Han Sen was an unevolved person or an evolver, he must go through a strict test.
 
 Since there was a clear distinction between the genes of an evolver and an unevolved person, it was not difficult to tell that Han Sen was unevolved. However, this test could not show was fitness level.
 

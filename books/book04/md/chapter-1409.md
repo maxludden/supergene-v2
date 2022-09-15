@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Opening the Coffin
-### Chapter 1409 
+### Chapter 1409
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  When Han Sen touched the pendant, he was scalded by the heat it had generated.
+When Han Sen touched the pendant, he was scalded by the heat it had generated.
 
 “The pendant did not have a reaction to the leader of Blood Legion, assuming that was who he was. But why is it reacting so strongly to this? Is this the real Nine-Life Cat? Or maybe what I saw was an apparition, and the bones of the leader actually reside in this coffin.” There was a lot to question and a lot to be wary of.
 

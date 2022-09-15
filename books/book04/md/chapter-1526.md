@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Getting Super Geno Points
-### Chapter 1526 
+### Chapter 1526
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Yan accepted the challenge and entered the geno battleground with excitement. There, she saw Han Sen standing.
+Han Yan accepted the challenge and entered the geno battleground with excitement. There, she saw Han Sen standing.
 
 “Big Brother, how is this possible… The Real Blood geno core is yours? You have three self-geno cores?” Han Yan had always thought Han Sen was strong; he was her role model, after all. But even for him, this was shocking.
 

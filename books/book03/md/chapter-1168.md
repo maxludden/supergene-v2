@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Level Up
-### Chapter 1168 
+### Chapter 1168
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The door opened, and Zhang Yuchen walked through.
+The door opened, and Zhang Yuchen walked through.
 
 “Zhang Yuchen, I now have permission to kill you. Do you have any last words?” Qiu Ping showed no reluctance in his confrontation.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Real Blood
-### Chapter 1407 
+### Chapter 1407
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The Blood-Pulse Sutra’s geno core was a miniature version of Han Sen himself. It was like a little figurine, shaped to replicate his body perfectly.
+The Blood-Pulse Sutra’s geno core was a miniature version of Han Sen himself. It was like a little figurine, shaped to replicate his body perfectly.
 
 As Han Sen stared at it, his bewilderment heightened, as something most strange occurred.
 

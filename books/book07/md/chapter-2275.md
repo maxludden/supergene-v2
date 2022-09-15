@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Thirteen Bridges
-### Chapter 2275 
+### Chapter 2275
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The third checkpoint was completely different from the two prior checkpoints they had visited. Although it was a palace, too, it was much larger than the others. The floor of the palace wasn’t covered in stone, but water. It was a large lake, with many bridges running across it.
+The third checkpoint was completely different from the two prior checkpoints they had visited. Although it was a palace, too, it was much larger than the others. The floor of the palace wasn’t covered in stone, but water. It was a large lake, with many bridges running across it.
 
 The jade bridges were in the shape of a crescent moon, and there were thirteen of them. They spanned the entirety of the palace, and each one seemed to connect to a separate teleporter on the opposite side of the lake.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Crystallizer
-### Chapter 433 
+### Chapter 433
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  After traveling through half of the Alliance in spaceship, Han Sen arrived at Galaxy Dongyin. When he saw Daphne at a space harbor, Han Sen was dazed.
+After traveling through half of the Alliance in spaceship, Han Sen arrived at Galaxy Dongyin. When he saw Daphne at a space harbor, Han Sen was dazed.
 
 Initially, Han Sen believed that since even a soldier of its cookhouse was a major, Daphne should at least be an advanced warship, if not the best in the Alliance.
 

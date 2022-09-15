@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Time and Space
-### Chapter 1273 
+### Chapter 1273
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The super king spirit’s power enabled Han Sen to escape the clutches of the coppering.
+The super king spirit’s power enabled Han Sen to escape the clutches of the coppering.
 
 Nothing had yet been able to defeat Han Sen and his super king spirit mode. And additional debilitative techniques had always been rendered useless against him in this form, like the toad that fired coins that formed the basis of Saving Money.
 

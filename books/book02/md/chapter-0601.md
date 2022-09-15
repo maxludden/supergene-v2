@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Powerful Power
-### Chapter 601 
+### Chapter 601
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen ascended the cliff wall a dozen meters or so, and in a few more steps, he would reach the lizard-creature.
+Han Sen ascended the cliff wall a dozen meters or so, and in a few more steps, he would reach the lizard-creature.
 
 Han Sen had secretly activated his gene lock, and with it, he could sense the creature's desire to turn around. When it did, he also had the foresight to know the creature would extend its tongue. In the next second, the lizard shot out its long, red, spiky tongue towards him.
 

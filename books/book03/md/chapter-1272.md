@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Copper Statue
-### Chapter 1272 
+### Chapter 1272
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Seeing the man leave, Han Sen had to ask, “God’s Retribution, of the thirteen members, was one of them named Han?”
+Seeing the man leave, Han Sen had to ask, “God’s Retribution, of the thirteen members, was one of them named Han?”
 
 “No. You should leave now,” the man said.
 

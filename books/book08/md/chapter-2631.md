@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Random Punch
-### Chapter 2631 
+### Chapter 2631
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “I am the greatest of my level.” Suddenly, everyone felt very differently about the words that Han Sen had just spoken.
+“I am the greatest of my level.” Suddenly, everyone felt very differently about the words that Han Sen had just spoken.
 
 Exquisite’s body hit the ground with a thump. When she rose to her feet, she did so like a shambling zombie. Her bloody face and broken nose had instantly returned to normal. She was as pretty as she had been before Han Sen’s punch, and it didn’t look as if she had sustained any injuries.
 

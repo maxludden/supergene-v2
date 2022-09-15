@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Map
-### Chapter 288 
+### Chapter 288
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen thought that since he had been gone for so long, a new head of the special squad must have been appointed in his stead. After all, there were rules about that.
+Han Sen thought that since he had been gone for so long, a new head of the special squad must have been appointed in his stead. After all, there were rules about that.
 
 What he did not expect was that he still had the position, and Yang Manli had taken care of all the business of the special squad.
 

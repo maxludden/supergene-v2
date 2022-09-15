@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Endless Sea
-### Chapter 1304 
+### Chapter 1304
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  When Han Sen saw the Endless Sea, he was taken aback. He was mesmerized by the sea that hung overhead, with fish swimming below its glittering waves as if all was normal.
+When Han Sen saw the Endless Sea, he was taken aback. He was mesmerized by the sea that hung overhead, with fish swimming below its glittering waves as if all was normal.
 
 Han Sen thought the primary threat would be those sea creatures.
 

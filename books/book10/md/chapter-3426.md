@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Good Relationship With People
-### Chapter 3426 
+### Chapter 3426
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Boom! Boom!
+Boom! Boom!
 
 The 16 battlegrounds had invisible barriers blocking fighters and keeping them contained in their own arenas. After the fight ended, the invisible barriers of the two arenas crumbled away. The winners of the two arenas would then have to keep on fighting to which would reach the top eight.
 

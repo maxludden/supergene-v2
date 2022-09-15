@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Ten Thousand Race Articles
-### Chapter 3438 
+### Chapter 3438
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “Qin Xiu was consumed by another guy to become something even scarier,” Crape Myrtle said. “If Bao’er can successfully combine with the gene seed, she might be able to defeat Qin Xiu. Currently, if she wants to beat that guy, there is likely only a 50% chance she can succeed. And that is my most hopeful estimate.”
+“Qin Xiu was consumed by another guy to become something even scarier,” Crape Myrtle said. “If Bao’er can successfully combine with the gene seed, she might be able to defeat Qin Xiu. Currently, if she wants to beat that guy, there is likely only a 50% chance she can succeed. And that is my most hopeful estimate.”
 
 “What? Did that actually happen? Who managed to consume Qin Xiu?” Han Sen could not believe a person like Qin Xiu had been consumed by someone else.
 

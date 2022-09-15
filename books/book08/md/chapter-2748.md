@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Pursuit
-### Chapter 2748 
+### Chapter 2748
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Pang!
+Pang!
 
 Gritting his teeth, Han Sen raised the Shield of the Medusa’s Gaze right in front of himself. It deflected the lightning that was about to touch down on him.
 

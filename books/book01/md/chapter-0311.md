@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Spinning Away
-### Chapter 311 
+### Chapter 311
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen waved at his friends and entered the archery range. At the same time, Jing Jiya also entered the range.
+Han Sen waved at his friends and entered the archery range. At the same time, Jing Jiya also entered the range.
 
 "Han Sen, there is something that I should probably tell you beforehand," Jing Jiya walked over to Han Sen and said with a smile.
 

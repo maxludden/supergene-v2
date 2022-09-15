@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Beyond Expectations
-### Chapter 1697 
+### Chapter 1697
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  1697 Beyond Expectations
+1697 Beyond Expectations
 
 Golden Growler was like Han Sen. He hadn’t matured after ascending, and his fitness was worse than Gugia’s and Buck’s. But the power of his geno armor closed the gap and fixed this issue. Golden Growler and his gold geno armor were quite compatible, and the creature could make use of 60% of its power. That was higher than Gugia’s compatibility with his. It was through this large buff that he could beat Gugia.
 

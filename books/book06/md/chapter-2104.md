@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Pool of Rebirth
-### Chapter 2104 
+### Chapter 2104
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Holy Heaven’s Pool of Rebirth was one of the most famous pools in the geno universe. Very few items existed that could help Kings level up, but Pool of Rebirth was one of them.
+Holy Heaven’s Pool of Rebirth was one of the most famous pools in the geno universe. Very few items existed that could help Kings level up, but Pool of Rebirth was one of them.
 
 The Pool of Rebirth had its flaws, though. The chance of making a King half-deified was low, and there was a great deal of risk in even making an attempt. Even so, many other races coveted the treasure.
 

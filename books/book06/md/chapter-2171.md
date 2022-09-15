@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Guarding the Door
-### Chapter 2171 
+### Chapter 2171
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  After leaving Planet Blade, Han Sen did not see the woman again. He asked Black Steel about her, and he was told that Extreme King had indeed sent someone there. But aside from Moon Wheel King and the other Kings, no one had been granted an audience with her. Her identity was still a bit of a mystery to them.
+After leaving Planet Blade, Han Sen did not see the woman again. He asked Black Steel about her, and he was told that Extreme King had indeed sent someone there. But aside from Moon Wheel King and the other Kings, no one had been granted an audience with her. Her identity was still a bit of a mystery to them.
 
 Han Sen had a bit of an interest in the entities of Extreme King now, especially after witnessing the punching skill employed by that woman. Their levels and bodies were of a similar capacity, but that punch she unleashed was truly frightening. Han Sen had many geno arts, but he believed the only one that could effectively combat her was Break Six Skies.
 

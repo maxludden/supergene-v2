@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Crystallizer Creator
-### Chapter 2458 
+### Chapter 2458
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen had the strong urge to use his super god spirit power to escape the falling net, but ultimately, he chose not to. Instead, he allowed himself to be captured by the crystal net.
+Han Sen had the strong urge to use his super god spirit power to escape the falling net, but ultimately, he chose not to. Instead, he allowed himself to be captured by the crystal net.
 
 “Who are you? How are you using abilities that should belong only to the Blood Eye Evil God?” the woman asked Han Sen, who was now trapped on the ground like a fish in a net.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Fighting Yan Dan (two)
-### Chapter 3180 
+### Chapter 3180
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  When Han Sen entered the space battleground, Yan Dan was already waiting inside.
+When Han Sen entered the space battleground, Yan Dan was already waiting inside.
 
 Upon seeing Han Sen arrive, Yan Dan immediately combined with his gene race. His back featured a spread of glorious bird wings. His power vastly increased in a short amount of time.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Moon Palace With a Moon
-### Chapter 1861 
+### Chapter 1861
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “Hey! What happened? His speed is increasing!” A dozen Viscounts were trying to stop Han Sen, and they had all managed to get very close to him. But now, at that range, they were finding it getting more and more difficult to close the gap.
+“Hey! What happened? His speed is increasing!” A dozen Viscounts were trying to stop Han Sen, and they had all managed to get very close to him. But now, at that range, they were finding it getting more and more difficult to close the gap.
 
 “He can run even faster than this? Not bad for a Baron, I suppose! But it is naive to think this will be enough to shake off a Viscount.” A Viscount smiled as he accelerated.
 

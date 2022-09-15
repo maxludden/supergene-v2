@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Recruiting Members
-### Chapter 1835 
+### Chapter 1835
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The magnetic fields of Planet Eclipse were a mess. There were frequent magnetic storms, so most tools did not work there. And there were many mountains on the planet, which rendered its landscape a complicated one. It was a harsh place to live.
+The magnetic fields of Planet Eclipse were a mess. There were frequent magnetic storms, so most tools did not work there. And there were many mountains on the planet, which rendered its landscape a complicated one. It was a harsh place to live.
 
 Many years ago, an Earl had earned permission to develop this place. He built a base in a region known as Mirror Lake, and using that place as a hub, he went out and killed many xenogeneics.
 

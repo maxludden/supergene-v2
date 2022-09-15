@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Only One Can Live
-### Chapter 2540 
+### Chapter 2540
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “What happened? Is it because of the mushrooms?” Han Sen pointed at the plants that were on both of their heads.
+“What happened? Is it because of the mushrooms?” Han Sen pointed at the plants that were on both of their heads.
 
 Gu Qingcheng shook her head. “I told you, I’m not a person of the modern age. I am a Qi Gong user of ancient times.”
 

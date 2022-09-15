@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Moon God Festival
-### Chapter 1859 
+### Chapter 1859
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen held an orb that was around the same size as a man’s fist. It shone like a miniature sun. If you looked at it closely, you could see there was something gold swimming inside it.
+Han Sen held an orb that was around the same size as a man’s fist. It shone like a miniature sun. If you looked at it closely, you could see there was something gold swimming inside it.
 
 <div class="tables">
 	<table class="beast">

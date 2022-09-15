@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Ghost-toothed Snake King
-### Chapter 66 
+### Chapter 66
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Qin Xuan asked Han Sen to give Blackhawk more thoughts, as he would benefit a lot from such experience.
+Qin Xuan asked Han Sen to give Blackhawk more thoughts, as he would benefit a lot from such experience.
 
 Han Sen left Qin Xuan's office thinking to himself, "Qin Xuan is really kind, but how can I leave mother and Yan now? Before I turn 20 when I have to serve, I need to constantly go home and take care of them. In the meantime, I must earn enough money so that when I’m off to the army, they could live a good life without care."
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## One Move
-### Chapter 2535 
+### Chapter 2535
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “What the f*ck is going on?” Bai Wan Jie was angry and frustrated, but more than anything else, he was simply confused.
+“What the f*ck is going on?” Bai Wan Jie was angry and frustrated, but more than anything else, he was simply confused.
 
 Gold Armor General had been killed by Dollar and Dragon One. Why would it have appeared here, all of a sudden? And on top of that, it had taken the Sea Sky Eye’s core gene and the Sky God Pillar.
 

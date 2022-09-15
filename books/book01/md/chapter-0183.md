@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Huangfu Pingqing
-### Chapter 183 
+### Chapter 183
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  "Do you know the rest of them?" Han Sen did not answer, but asked.
+"Do you know the rest of them?" Han Sen did not answer, but asked.
 
 "No." Wang Mengmeng shook her head after looking carefully.
 

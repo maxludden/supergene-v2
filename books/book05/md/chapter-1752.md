@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Third Master
-### Chapter 1752 
+### Chapter 1752
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Western Gran City’s elites were all drawn to that bottomless hole. Even xenogeneics were lured there. Han Sen and Mister Tiger were starting to feel some relief. Mister Tiger had called Han Sen, and although he did not dare say much, they chatted about run-of-the-mill subjects. Mister Tiger did mention that their cover story had not been exposed, though.
+Western Gran City’s elites were all drawn to that bottomless hole. Even xenogeneics were lured there. Han Sen and Mister Tiger were starting to feel some relief. Mister Tiger had called Han Sen, and although he did not dare say much, they chatted about run-of-the-mill subjects. Mister Tiger did mention that their cover story had not been exposed, though.
 
 Han Sen had nothing to do for the time being, and when there was no one around at night, he often found himself returning to the sanctuary. There he had melted down the blue crystal tentacle and cooked it
 

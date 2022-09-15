@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Falling Into the Black Hole
-### Chapter 1756 
+### Chapter 1756
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen felt as if something was wrong. He stayed outside the door and just watched.
+Han Sen felt as if something was wrong. He stayed outside the door and just watched.
 
 The Noble that used the hammer to break the door swiftly went towards the metal vine. He grabbed the lotus and the flower.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Son of the Moon
-### Chapter 1866 
+### Chapter 1866
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “Bullshit! Why did he join the fight? An Earl fighting a Baron? What is this?” An old man that was of a higher rank saw the beautiful man step into the fight. This displeased him a lot.
+“Bullshit! Why did he join the fight? An Earl fighting a Baron? What is this?” An old man that was of a higher rank saw the beautiful man step into the fight. This displeased him a lot.
 
 When most average people saw this, however, they did not mind. In fact, they were quite excited to see the beautiful man fight.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Claiming an Emperor
-### Chapter 1222 
+### Chapter 1222
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The newborn king spirit’s face changed. With two purple swords, he repeatedly tried to slash Han Sen.
+The newborn king spirit’s face changed. With two purple swords, he repeatedly tried to slash Han Sen.
 
 Dong!
 

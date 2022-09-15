@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## The Charm of a Soldier
-### Chapter 498 
+### Chapter 498
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Seeing that even Zheng Yuze failed at the test, the soldiers of Southwest Galaxy felt disappointed.
+Seeing that even Zheng Yuze failed at the test, the soldiers of Southwest Galaxy felt disappointed.
 
 "Dammit, even Zheng Yuze failed. The Tiger of Blueblood must be so content," said the young soldier sitting next to Han Sen disappointedly.
 

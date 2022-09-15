@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Admission
-### Chapter 116 
+### Chapter 116
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  "Sister, so I won, right?" Han Sen walked over with a smile. Having such a pretty girlfriend when he just entered the school was something he would be quite proud of.
+"Sister, so I won, right?" Han Sen walked over with a smile. Having such a pretty girlfriend when he just entered the school was something he would be quite proud of.
 
 "You used a cheating device, so it does not count," Ji Yanran said angrily.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Death Demon Dragon
-### Chapter 1389 
+### Chapter 1389
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen saw Dragon Lady in full-sprint, and right on her heels was a terrifying mantis out for her blood.
+Han Sen saw Dragon Lady in full-sprint, and right on her heels was a terrifying mantis out for her blood.
 
 The mantis kept on swinging its scythes as it went, in large arcs that hewed the stones and vegetation all around her.
 

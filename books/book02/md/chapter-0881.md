@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Finishing the Blood-pulse Sutra
-### Chapter 881 
+### Chapter 881
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  "Why?" Han Sen asked, not understanding.
+"Why?" Han Sen asked, not understanding.
 
 "Your great-grandfather was renowned for his cruelty in the Third God's Sanctuary. Every spirit there will hate him with a passion. If you don't want a perpetual bounty on your head, keep your familial tie to him a secret. But since you didn't learn the Falsified-Sky Sutra, that shouldn't be too much of a problem." Luo Lan smiled.
 

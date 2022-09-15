@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Both Wounded
-### Chapter 243 
+### Chapter 243
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  In the beginning, Lu Weinan would come back at times. Recently, however, Han Sen rarely saw him. Han Sen did not know if Lu Weinan had given up or gone to seek others' help.
+In the beginning, Lu Weinan would come back at times. Recently, however, Han Sen rarely saw him. Han Sen did not know if Lu Weinan had given up or gone to seek others' help.
 
 With no one around, Han Sen thought about using his bow and arrows to shoot at the sacred-blood creatures. However, he did not even have a sacred-blood beast soul arrow. Even if he could hit the creature, a mutant arrow could not cause enough harm anyway.
 

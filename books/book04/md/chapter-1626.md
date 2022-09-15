@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Flick Sword
-### Chapter 1626 
+### Chapter 1626
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The people that weren’t skilled probably felt nothing when watching the fight. But the faces of all the powerful spectators changed, particularly when they imagined what things would be like if they were facing Six Paths themselves. They were in utter shock, and they had no clue how they’d respond to such a strike.
+The people that weren’t skilled probably felt nothing when watching the fight. But the faces of all the powerful spectators changed, particularly when they imagined what things would be like if they were facing Six Paths themselves. They were in utter shock, and they had no clue how they’d respond to such a strike.
 
 Everyone’s eyes moved to Han Sen, wondering how he’d deal with the situation.
 

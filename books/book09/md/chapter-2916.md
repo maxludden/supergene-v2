@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Trash Sea
-### Chapter 2916 
+### Chapter 2916
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “Can you pull it out?” Han Sen looked at Bao’er with shock.
+“Can you pull it out?” Han Sen looked at Bao’er with shock.
 
 “I think I can,” Bao’er said with a nod.
 

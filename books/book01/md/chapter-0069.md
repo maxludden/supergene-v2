@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## White Underwear Flag
-### Chapter 69 
+### Chapter 69
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Lu Weinan was sick of eating the meat of poisonous-clawed beast these days. Relying on his mutant iron-feathered bird beast soul, he flew into Dark Swamp to hunt mutant creatures and only killed this one poisonous-clawed beast in days.
+Lu Weinan was sick of eating the meat of poisonous-clawed beast these days. Relying on his mutant iron-feathered bird beast soul, he flew into Dark Swamp to hunt mutant creatures and only killed this one poisonous-clawed beast in days.
 
 This beast was larger than a cow, and he had been eating its meat for more than half a month and still had a thigh left. He had only gained five mutant geno points from it so far.
 

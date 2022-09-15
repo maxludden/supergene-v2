@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Fighting Evil Lotus
-### Chapter 2820 
+### Chapter 2820
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Not long later, Han Sen had killed 30 to 40 Cold Light Charms. The xenogeneics from the big barren systems were cruel. They knew they were unable to fight him, but they were not afraid of death. They fought until the bitter end.
+Not long later, Han Sen had killed 30 to 40 Cold Light Charms. The xenogeneics from the big barren systems were cruel. They knew they were unable to fight him, but they were not afraid of death. They fought until the bitter end.
 
 Second Uncle and the others were as much shocked as they were happy. They had believed they were going to die, but they were now more alive than ever. Han Sen had exploded with a strong power that was beyond the realms of imagination.
 

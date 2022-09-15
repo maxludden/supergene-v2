@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Slashing Fan
-### Chapter 1288 
+### Chapter 1288
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Everyone was shocked by what happened. Even Saint Fan’s face twitched, as an expression of horrid surprise suddenly overcame him.
+Everyone was shocked by what happened. Even Saint Fan’s face twitched, as an expression of horrid surprise suddenly overcame him.
 
 Between his two eyebrows was a wound that bled.
 

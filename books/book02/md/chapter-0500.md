@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## You Have Lost Already
-### Chapter 500 
+### Chapter 500
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  However, Tie Yi was not just being arrogant. The reason he was showing such confidence was not because he looked down on his opponent.
+However, Tie Yi was not just being arrogant. The reason he was showing such confidence was not because he looked down on his opponent.
 
 For Tie Yi, it was less important to beat Han Sen. His main goal was to earn the approval of Ji Yanran and the Jis. Otherwise, even if he had become a guard of Ji Yanran's, he would not receive too much attention.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Eye Change
-### Chapter 2803 
+### Chapter 2803
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The old man and Bai Wanjie were in shock. The Extreme King’s Overbearing Eye was a supremely important item for the Extreme King. If something happened to it, it would affect the Extreme King a lot.
+The old man and Bai Wanjie were in shock. The Extreme King’s Overbearing Eye was a supremely important item for the Extreme King. If something happened to it, it would affect the Extreme King a lot.
 
 Pang!
 

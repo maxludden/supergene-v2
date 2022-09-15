@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Worse Than Animals
-### Chapter 2927 
+### Chapter 2927
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen frowned and looked at Nine Thousand King. He did not know who he was. Han Sen did not know much about Sacred, and he had never heard of this person.
+Han Sen frowned and looked at Nine Thousand King. He did not know who he was. Han Sen did not know much about Sacred, and he had never heard of this person.
 
 Nine Thousand King looked at Han Sen. He then glanced at Qige and quietly said, “This dog hybrid is not important to me.”
 

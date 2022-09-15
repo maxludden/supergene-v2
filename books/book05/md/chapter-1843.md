@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Killing a Viscount Xenogeneic
-### Chapter 1843 
+### Chapter 1843
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  
+
 
 Han Sen saw the gully up ahead, which had been correctly marked on the map. With Little Silver by his side, the two snuck into it.
 

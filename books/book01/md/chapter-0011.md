@@ -1,15 +1,18 @@
-Title:Who Is Dollar? 
-Chapter:11 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+Title:Who Is Dollar?
+Chapter:11
+Section:1
+Book:1
+CSS:../Styles/style.css
 viewport: width=device-width
-  
+
 ## Who Is Dollar?
-### Chapter 11 
+### Chapter 11
+
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
+
+
 
 Han Sen was digging a pit at the foot of the mountain, planning to bury the giant golden axe there.
 
@@ -67,57 +70,11 @@ The entire Steel Armor Shelter was looking for Dollar, yet no one connected him 
 
 Son of Heaven also put a price on his head, and even offered to pay a reward for any substantive information. The price was so good that even Han Sen wanted to offer himself for the reward.
 
-> "Primitive green-scaled beast flesh eaten. One primitive geno point gained."
+> "Primitive Green-Scaled Beast flesh eaten. One primitive geno point gained."
 
 Han Sen squatted in the bushes, watching a deep pond near him while chewing meat jerky made from the green-scaled beast.
 
-
-<div class="tables">
-  <table class="status">
-    <tr>
-      <th colspan="2">Han Sen</th>
-    </tr><tr>
-      <th class="note" colspan="2">Unevolved</th>
-    </tr><tr>
-      <td>Lifespan</td>
-      <td>200 years</td>
-    </tr><tr>
-      <th colspan="2">Geno Points</th>
-    </tr><tr>
-      <td>Required to Evolve</td>
-      <td>100</td>
-    </tr><tr>
-      <th colspan="2">Geno Points Gained</th>
-    </tr><tr>
-      <td>Ordinary</td>
-      <td>91</td>
-    </tr><tr>
-      <td>Primitive</td>
-      <td>26</td>
-    </tr><tr>
-      <td>Mutant</td>
-      <td>0</td>
-    </tr><tr>
-      <td>Sacred-blood</td>
-      <td>8</td>
-    </tr><tr>
-      <th colspan="2">Beast Souls</th>
-    </tr><tr>
-      <td>Sacred-Blood</td>
-      <td>Black Beetle</td>
-      <td colspan="2" class="note">(Armor)</td>
-    </tr><tr>
-      <td>Sacred-Blood</td>
-      <td>Bloody Slayer</td>
-      <td colspan="2" class="note">(Shapeshifting)</td>
-    </tr><tr>
-      <td>Primitive</td>
-      <td>Copper-Toothed Beast</td>
-      <td colspan="2" class="note">(Spear)</td>
-    </tr>
-  </table>
-  <!-- Up until this point, he had gained 91 ordinary geno points, 26 primitive geno points, zero mutant geno points and eight sacred geno points. -->
-</div>
+Up until this point, he had gained ninety-one ordinary geno points, twenty-six primitive geno points, zero mutant geno points, and eight sacred geno points.
 
 The copper-toothed beast was still slowly evolving, so Han Sen could only go out to hunt some primitive creatures, hoping to gain more primitive geno points.
 

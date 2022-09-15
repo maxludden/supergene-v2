@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## A Tree Hole
-### Chapter 1162 
+### Chapter 1162
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The boar continued to eat ravenously, despite its literal shortcoming, until it reached the size of an ant. Han Sen observed it intently, wondering why the boar might have wanted that to happen.
+The boar continued to eat ravenously, despite its literal shortcoming, until it reached the size of an ant. Han Sen observed it intently, wondering why the boar might have wanted that to happen.
 
 The consumption of one of those walnuts did not seem to impart any benefits. It merely brought pain and made the consumer shrink. And now, the boar had lost all semblance of its previous, intimidating look.
 

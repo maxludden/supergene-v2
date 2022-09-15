@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Fulfill Your Wishes
-### Chapter 2978 
+### Chapter 2978
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen thought, “Is an Annihilation class God Spirit’s authority just wealth? Those gods used to say they could do anything and fulfill any wish they wanted to. That is such a big scam. According to the God Spirit rules, God Spirits could not give fake information. If they lied, they would not be able to finalize a trade. They would not receive the life spans they sought. To compose a trade, God Spirits would use everything they could. I really don’t understand why they seem to be so keen on seeking out years.”
+Han Sen thought, “Is an Annihilation class God Spirit’s authority just wealth? Those gods used to say they could do anything and fulfill any wish they wanted to. That is such a big scam. According to the God Spirit rules, God Spirits could not give fake information. If they lied, they would not be able to finalize a trade. They would not receive the life spans they sought. To compose a trade, God Spirits would use everything they could. I really don’t understand why they seem to be so keen on seeking out years.”
 
 Sky God Crown’s message had not included that. Therefore, Han Sen was unable to find out.
 

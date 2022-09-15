@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Meeting Old Cat Again
-### Chapter 1781 
+### Chapter 1781
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Stay Up Late shook his head and bowed before the beast, apologizing. “I appreciate the offer, but no thank you.”
+Stay Up Late shook his head and bowed before the beast, apologizing. “I appreciate the offer, but no thank you.”
 
 The beast, hearing Stay Up Late reject the offer, stopped talking. He moved his body and flew up into space. He disappeared into the cosmos.
 

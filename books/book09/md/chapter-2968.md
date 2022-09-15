@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Times Goes Back
-### Chapter 2968 
+### Chapter 2968
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  If he was able to save Golden Growler, perhaps there was a chance. Even if it was hard to fight Moment God, they could still possibly escape.
+If he was able to save Golden Growler, perhaps there was a chance. Even if it was hard to fight Moment God, they could still possibly escape.
 
 Moment God looked very cold. She did not have any emotions. The 10 fingers on her hands came together. The very 10 ten fingers made a weird print and pressed forward.
 

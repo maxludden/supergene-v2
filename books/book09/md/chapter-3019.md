@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Absolutely Still
-### Chapter 3019 
+### Chapter 3019
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen felt as if he was food on the chopping board. Anyone could have done something to him.
+Han Sen felt as if he was food on the chopping board. Anyone could have done something to him.
 
 Dragon Lady used all kinds of skills to torture him. She used a knife to slash and an ax to strike. She used fire to burn and water to boil. She used almost every method, even going so far as to sprinkle spices on him. Han Sen wondered if Dragon Lady had wanted to do this to him for a long time. It was as if she wanted to eat him and see what he tasted like.
 

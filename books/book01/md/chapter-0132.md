@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Another Sacred-blood Beast Soul
-### Chapter 132 
+### Chapter 132
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The sacred-blood fox king didn’t even move when seeing the arrow approach. It even showed contempt in its eyes.
+The sacred-blood fox king didn’t even move when seeing the arrow approach. It even showed contempt in its eyes.
 
 But soon, the fox king was aghast. That arrow was not meant for the fox king, but a bean-sized eye of the golden rock worm.
 

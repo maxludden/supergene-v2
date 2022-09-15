@@ -6,7 +6,8 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Swift Mantis
-### Chapter 5 
+### Chapter 5
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>

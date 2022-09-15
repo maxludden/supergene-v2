@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Demon Bug Disaster
-### Chapter 2080 
+### Chapter 2080
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen thought the Blue Gold Demon Bug had an overwhelming urge to kill, and it had gone for the xenogeneics first because they were closest.
+Han Sen thought the Blue Gold Demon Bug had an overwhelming urge to kill, and it had gone for the xenogeneics first because they were closest.
 
 Han Sen summoned Spell as a sniper rifle and used the scope to track the Blue Gold Demon Bug as it flew above the xenogeneics. It opened its mouth and let out a high-pitched screech.
 

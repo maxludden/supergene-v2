@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## The Ice Skin Battle
-### Chapter 574 
+### Chapter 574
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Lately, Han Sen's life had seemed to be going smoothly. He managed to collect a lot of taxes from people at the Blackgod Shelter, successfully commanded evolvers to hunt for him, and had been given the opportunity to visit the royal shelter as much as he pleased to train against his ultimate foe; the days had become relaxing and stress-free.
+Lately, Han Sen's life had seemed to be going smoothly. He managed to collect a lot of taxes from people at the Blackgod Shelter, successfully commanded evolvers to hunt for him, and had been given the opportunity to visit the royal shelter as much as he pleased to train against his ultimate foe; the days had become relaxing and stress-free.
 
 Han Sen's life was going well. Xue Yi Kuang's life was not going well. He had traveled 10,000 miles to the ice fields before noticing Han Sen was the current owner of the Blackgod Shelter.
 

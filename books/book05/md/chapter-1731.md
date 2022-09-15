@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Lockdown
-### Chapter 1731 
+### Chapter 1731
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Qiao looked glum. Over the last few days, she had kept her ears to the ground and tried to find the location of more xenogeneics. But strangely, it was as if they had all vanished from existence. It was like she was deaf and blind, unable to learn anything.
+Qiao looked glum. Over the last few days, she had kept her ears to the ground and tried to find the location of more xenogeneics. But strangely, it was as if they had all vanished from existence. It was like she was deaf and blind, unable to learn anything.
 
 Qiao knew why, though. It was because she hadn’t agreed to return Han Sen. Hardman was using his ties and relationships with others to prevent her from getting news of any more xenogeneics.
 

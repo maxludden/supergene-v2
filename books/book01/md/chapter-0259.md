@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Amazing Tactics
-### Chapter 259 
+### Chapter 259
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Less than five minutes until the game started, everyone opened their mouth wide. Even the online viewers forgot to comment and could not believe their own eyes.
+Less than five minutes until the game started, everyone opened their mouth wide. Even the online viewers forgot to comment and could not believe their own eyes.
 
 Because the entire field had a blocking system, the Alliance Central Military Academy players could not hear or see the audience, otherwise they would know that something was wrong.
 

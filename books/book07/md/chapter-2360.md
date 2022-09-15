@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Rainbow Crystal Sea Conch
-### Chapter 2360 
+### Chapter 2360
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen knew with a single glance that he was looking at a deified creature. It was nothing like the black, mountainous sea conch.
+Han Sen knew with a single glance that he was looking at a deified creature. It was nothing like the black, mountainous sea conch.
 
 Han Sen grabbed the blood kirin and turned to run, but it was too late. A rainbow-like aura covered the sea around him.
 

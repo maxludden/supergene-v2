@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Sky Palace Throne
-### Chapter 1737 
+### Chapter 1737
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen held Littleflower, and as he did, he felt the power extinguish. He fell to the ground and almost broke his bones.
+Han Sen held Littleflower, and as he did, he felt the power extinguish. He fell to the ground and almost broke his bones.
 
 After getting his vision back, Han Sen saw a broken palace around him. It was made of jade and metal, and it looked as if he had ended up in heaven.
 

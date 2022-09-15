@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Really Can
-### Chapter 1686 
+### Chapter 1686
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  1686 Really Can
+1686 Really Can
 
 “Surrounded,” Han Sen thought.
 

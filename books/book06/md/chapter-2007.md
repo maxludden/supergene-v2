@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Stone Statue
-### Chapter 2007 
+### Chapter 2007
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen didn’t like doing it, but he still ran inside the valley. The speed of the rabbit shoes quickly brought him beneath the little valley’s tree.
+Han Sen didn’t like doing it, but he still ran inside the valley. The speed of the rabbit shoes quickly brought him beneath the little valley’s tree.
 
 Han Sen leaped atop the tree, using the Dongxuan Aura to look inside the hole. He noticed that it was quite spacious within and that most of the tree was hollow.
 

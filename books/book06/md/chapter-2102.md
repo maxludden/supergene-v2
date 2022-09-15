@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Communication
-### Chapter 2102 
+### Chapter 2102
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen learned a lot from the seventy-two original gene kill spells.
+Han Sen learned a lot from the seventy-two original gene kill spells.
 
 Suppress Evil was based on the seventy-two original gene kill spells. Han Sen used his Dongxuan Aura to study the original gene kill spells, and through this, his proficiency with Suppress Evil improved rapidly. He reached the eighth tier after just one year.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## It’s That Dollar
-### Chapter 1496 
+### Chapter 1496
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen conducted a few tests. When the arm shield absorbed an impact, the gold word overbearing would show up and the inflicted force would be repelled by the spellwork of that word.
+Han Sen conducted a few tests. When the arm shield absorbed an impact, the gold word overbearing would show up and the inflicted force would be repelled by the spellwork of that word.
 
 “That’s scary. The arm shield has a powerful anti-shock conductivity. This is much stronger than any defensive armor.” Han Sen was satisfied with the arm shield. Its only con was its weight. If it reached a certain size, Han Sen would not even be able to move it.
 

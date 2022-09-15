@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Refining Mutant Blood
-### Chapter 2019 
+### Chapter 2019
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen was going crazy, having to dig through the sand with his tongue for the job. Han Sen could withstand a lot, but Dream Beast’s ability to read his mind was particularly annoying.
+Han Sen was going crazy, having to dig through the sand with his tongue for the job. Han Sen could withstand a lot, but Dream Beast’s ability to read his mind was particularly annoying.
 
 Han Sen thought of many different ways in which he might be able to protect his thoughts from the mind-reading ability, but nothing seemed to work.
 

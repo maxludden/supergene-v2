@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Battling a Fairy
-### Chapter 757 
+### Chapter 757
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  In the middle of the Black Desert, Han Sen and the little angel walked. They were a good distance away from the shelter, since Han Sen wanted to use a beast soul associated with Dollar. As such, he didn't want Zhou Yumei to see.
+In the middle of the Black Desert, Han Sen and the little angel walked. They were a good distance away from the shelter, since Han Sen wanted to use a beast soul associated with Dollar. As such, he didn't want Zhou Yumei to see.
 
 Han Sen ran across the desert sands, all the while observing the regions he paced through.
 

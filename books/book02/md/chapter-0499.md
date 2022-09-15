@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Fighting to Be Soldier King
-### Chapter 499 
+### Chapter 499
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Only someone with charisma could be a general. A soldier that could not make his comrades trust him could only be a good soldier at best, instead of a general.
+Only someone with charisma could be a general. A soldier that could not make his comrades trust him could only be a good soldier at best, instead of a general.
 
 Obviously, Han Sen was equipped with this charisma. It was just he had not got a chance to use it properly.
 

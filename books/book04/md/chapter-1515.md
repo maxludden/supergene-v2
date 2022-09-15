@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## God’s Armor
-### Chapter 1515 
+### Chapter 1515
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “It’s no wonder. That thing is the chairman’s geno armor. She might not be able to wield its full strength, but it’s already so frightening. It really is the only sort of power a god could have.” Shafei looked at the sword strikes and complimented what she saw.
+“It’s no wonder. That thing is the chairman’s geno armor. She might not be able to wield its full strength, but it’s already so frightening. It really is the only sort of power a god could have.” Shafei looked at the sword strikes and complimented what she saw.
 
 Han Sen was still alive and had not been killed yet, but Shafei could see that he was underneath the incoming sword strike. Shafei felt incredibly happy, and she thought to herself, “I can’t believe Han Sen was that difficult to kill. It is lucky she brought the chairman’s geno armor with her. If she hadn’t, the mission would have been a failure and I would have been punished.”
 

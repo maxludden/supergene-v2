@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Copyright
-### Chapter 1588 
+### Chapter 1588
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen was standing in front of the headquarters of the company Impression Culture when the security guard saw him. He was wearing big sunglasses and a hat, with Littleflower in his arms and Bao’er perched upon his shoulder.
+Han Sen was standing in front of the headquarters of the company Impression Culture when the security guard saw him. He was wearing big sunglasses and a hat, with Littleflower in his arms and Bao’er perched upon his shoulder.
 
 “We have a meeting with your Chief Editor. Here is the appointment slip.” Han Sen handed the slip over to the security guard.
 

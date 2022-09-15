@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Blood Dragon’s Anger
-### Chapter 2063 
+### Chapter 2063
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen did not care. He kept on swinging knife airs at his foe. Most of them failed, but many were able to come close to the basic shape that he needed. It was like a plucked string, vibrating to produce tones that could break the sky.
+Han Sen did not care. He kept on swinging knife airs at his foe. Most of them failed, but many were able to come close to the basic shape that he needed. It was like a plucked string, vibrating to produce tones that could break the sky.
 
 Dragon Nine’s Evilbreaker Blood Dragon Light was unable to touch Han Sen, and it made him furrow his brows in frustration. The Blood Dragon Light flowed brighter, and the light in his wings became solid. It was like a fog of blood obscuring the sky.
 

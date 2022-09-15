@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Three Palms
-### Chapter 3416 
+### Chapter 3416
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “How dare you speak her name,” Moon God coldly said. “If I knew you would turn out to be such a heartless person, I would have rather upset her than save your life.”
+“How dare you speak her name,” Moon God coldly said. “If I knew you would turn out to be such a heartless person, I would have rather upset her than save your life.”
 
 Han Sen now understood why Moon God wanted to fight Qin Xiu. Qin Xiu wanted to revive his real sister, Qin Wan’er. The Witch Wan’er was Qin Wan’er reincarnated, but she was not Qin Wan’er.
 

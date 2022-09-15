@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Blue Blood Myth
-### Chapter 2973 
+### Chapter 2973
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  When God’s Retribution saw Han Sen, he checked him out with a look of surprise. It made Han Sen’s heart skip. He asked, “What are you looking at?”
+When God’s Retribution saw Han Sen, he checked him out with a look of surprise. It made Han Sen’s heart skip. He asked, “What are you looking at?”
 
 “You got hit by Moment God, who is an Annihilation God Spirit, yet you are fine,” God’s Retribution said with a smile. “It seems Godfather Han lives up to his title.”
 

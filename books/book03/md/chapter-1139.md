@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Surprising Fruit
-### Chapter 1139 
+### Chapter 1139
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Things began smoothly enough. No hassle was posed by other creatures, as they all seemed to avoid the Blue Dinosaur. Furthermore, Han Sen could hide his lifeforce.
+Things began smoothly enough. No hassle was posed by other creatures, as they all seemed to avoid the Blue Dinosaur. Furthermore, Han Sen could hide his lifeforce.
 
 The further they went, the more the smell intensified. Soon, a number of rock rats emerged, and their countless numbers made it difficult for the Blue Dinosaur to continue moving forward.
 

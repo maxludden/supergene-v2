@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Lantern Fish
-### Chapter 1118 
+### Chapter 1118
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The lifeforce of the big fish was extremely powerful, unlike anything Han Sen had ever seen before. He had seen much during his time in the Third God’s Sanctuary, but nothing was comparable to that river fiend.
+The lifeforce of the big fish was extremely powerful, unlike anything Han Sen had ever seen before. He had seen much during his time in the Third God’s Sanctuary, but nothing was comparable to that river fiend.
 
 Han Sen grabbed Queen and did not move a muscle. The fish in front of them might have opened ten of its gene locks, so the last thing Han Sen wanted to risk was a provocation of its ire.
 

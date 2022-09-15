@@ -15,6 +15,7 @@ from rich.style import Style
 from rich.theme import Theme
 from functools import wraps
 from ujson import load, dump
+from pathlib import Path
 
 mconsole = Console()
 
@@ -22,15 +23,26 @@ mconsole = Console()
 # > BASE
 def generate_base():
     """Generate base directory for the project."""
-    if platform() == "Linux":
-        ROOT = "home"
-    else:
-        ROOT = "Users"  # < Mac
-    BASE = f"/{ROOT}/maxludden/dev/py/supergene"
+    BASE = Path.cwd()
     return BASE
-
-
 BASE = generate_base()
+
+
+max_theme = Theme(
+    {
+        "debug": "bold bright_cyan",  #             #00ffff
+        "info": "bold cornflower_blue",  #          #249df1
+        "success": "bold bright_green",  #          #00ff00
+        "warning": "bold bright_yellow",  #         #ffff00
+        "error": "bold orange1",  #                 #ff8800
+        "critical": "bold reverse bright_red",  #   #ff0000
+        "key": "italic blue_violet",  #             #5f00ff
+        "value": "bold bright_white",  #            #ffffff
+        "title": "bold purple",  #                  #af00ff
+    }
+)
+
+console = Console(theme=max_theme)
 
 # > Current Run
 def get_last_run() -> int:
@@ -72,9 +84,8 @@ def new_run() -> int:
     mconsole.clear()
     return run
 
-
 current_run = new_run()
-mconsole.rule(title=f"\n\n\nRun {current_run}\n\n\n")
+console.rule(title=f"\n\n\nRun {current_run}\n\n\n")
 
 
 # > Configure Loguru Logger Sinks
@@ -94,8 +105,8 @@ sinks = log.configure(
         ),
         dict(  # . Rich Console Log > INFO
             sink=(
-                lambda msg: mconsole.log(
-                    msg, markup=True, highlight=True, log_locals=True
+                lambda msg: console.log(
+                    msg, markup=True, highlight=True, log_locals=False
                 )
             ),
             level="INFO",
@@ -103,7 +114,7 @@ sinks = log.configure(
         ),
         dict(  # . Rich Console Log > ERROR
             sink=(
-                lambda msg: mconsole.log(
+                lambda msg: console.log(
                     msg, markup=True, highlight=True, log_locals=True
                 )
             ),
@@ -188,80 +199,3 @@ def time(*, level="DEBUG"):
         return wrapped
 
     return wrapper
-
-
-'''
-def inspect_func(*, level="DEBUG", entry: bool=True, exit: bool=True):
-    """Create a decorator that can be used to record the entry, *args, **kwargs,as well ass the exit and results of a decorated function.
-
-    Args:
-        entry (bool, optional):
-            Should the entry , *args, and **kwargs of given decorated function be logged? Defaults to True.
-
-        exit (bool, optional):
-            Should the exit and the result of given decorated function be logged? Defaults to True.
-
-        level (str, optional):
-            The level at which to log to be recorded.. Defaults to "DEBUG".
-    """
-
-    def wrapper(func):
-        name = func.__name__
-        log.debug(f"Checking function {name}.")
-        function_dict = {
-            "name": name,
-        }
-
-        @wraps(func)
-        def wrapped(*args, **kwargs):
-            inspect_log = log.opt(depth=1)
-            if entry:
-                function_dict["args"] = args
-                function_dict["kwargs"] = kwargs
-                inspect_log.log(
-                    level,
-                    f"Entering '{name}'\n<code>\nargs:\n{args}'\nkwargs={kwargs}</code>",
-                )
-            result = func(*args, **kwargs)
-            if exit:
-                inspect_log.log(
-                    level, f"Exiting '{name}'<code>\nresult:\n<{result}</code>"
-                )
-                function_dict["result"] = str(result)
-
-            panel_title_str = f"Called {name}(args, kwargs)"
-            panel_title = Text(
-                panel_title_str,
-                justify = justify,
-                style = Style(
-                    color = "purple",
-                    bgcolor = "white",
-                    bold = True,
-                )
-            )
-            result_str = f"Result: {result}"
-            result = Text(
-                result_str,
-                justify = justify
-                style=Style(
-                    color="purple",
-                    bgcolor="white",
-                )
-            )
-
-                ))
-            inspect_panel = Panel(
-                Text(f" Called {function_dict["result"]}",
-                    style=Style(
-                        color="white",
-                        bgcolor="purple"
-                        bold = True
-                    ),
-                    title
-                    )),
-            return result
-            )
-            return wrapped
-
-    return wrapper
-    '''

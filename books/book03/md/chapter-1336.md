@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## The Third Contract Between Humans and Spirits
-### Chapter 1336 
+### Chapter 1336
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Undead Emperor was given a lot of information about Han Sen by the other spirits, so his expectations had already been realistically set. The spirits called upon Undead Emperor to help slay Han Sen due to his undying body, but just like always, the results shocked them.
+Undead Emperor was given a lot of information about Han Sen by the other spirits, so his expectations had already been realistically set. The spirits called upon Undead Emperor to help slay Han Sen due to his undying body, but just like always, the results shocked them.
 
 The previously-thought-to-be-indestructible body of Undead Emperor was utterly annihilated by Han Sen’s slap.
 

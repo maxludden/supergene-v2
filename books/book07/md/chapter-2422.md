@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Scarlet Eye
-### Chapter 2422 
+### Chapter 2422
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Night Wind’s face was tight and worried, and he had also brought a video back with him.
+Night Wind’s face was tight and worried, and he had also brought a video back with him.
 
 When that video was played, Han Sen understood Night Wind’s expression.
 

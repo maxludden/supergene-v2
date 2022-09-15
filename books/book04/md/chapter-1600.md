@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Cinderella
-### Chapter 1600 
+### Chapter 1600
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “Help me, Little Star.” Han Sen saw Little Silver and Bao’er sitting on the back of Little Star, and nothing seemed to be happening to them. As for Little Star, it didn’t seem to be affected by that pulling force at all. It was floating in the sky, relaxed. Han Sen called for Little Star’s attention, and at the same time, he pulled back his power and stopped fighting that pulling force. Instead, he dived.
+“Help me, Little Star.” Han Sen saw Little Silver and Bao’er sitting on the back of Little Star, and nothing seemed to be happening to them. As for Little Star, it didn’t seem to be affected by that pulling force at all. It was floating in the sky, relaxed. Han Sen called for Little Star’s attention, and at the same time, he pulled back his power and stopped fighting that pulling force. Instead, he dived.
 
 Splash!
 

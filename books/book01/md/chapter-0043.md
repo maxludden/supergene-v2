@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Age Difference
-### Chapter 43 
+### Chapter 43
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  While everyone was discussing who Dollar was, Han Sen was practicing archery alone in a waste factory near his home, avoiding entering God’s Sanctuary in case Qin Xuan would send him to Bullseye.
+While everyone was discussing who Dollar was, Han Sen was practicing archery alone in a waste factory near his home, avoiding entering God’s Sanctuary in case Qin Xuan would send him to Bullseye.
 
 "If I had not used beast souls, my strength would only have been rated 9.1 due to the lack of mutant geno points. If I could max out on mutant geno points, my rating would reach 12," secretly calculated Han Sen while he was resting. The improvement in physical fitness levels got more and more difficult as he became stronger.
 

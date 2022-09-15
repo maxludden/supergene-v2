@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## The Fight That Was Meant to Be
-### Chapter 2628 
+### Chapter 2628
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  As the two of them returned from their fight in White King City, Han Sen’s heart was unsettled. Both Black King City and White King City gave Han Sen the unsettling feeling that he was being watched by some larger entity.
+As the two of them returned from their fight in White King City, Han Sen’s heart was unsettled. Both Black King City and White King City gave Han Sen the unsettling feeling that he was being watched by some larger entity.
 
 But the Sky didn’t have the power to control the White Jade Jing. If someone really did have authority over that place, that would be truly scary. Han Sen and Lone Bamboo had worked together to kill the deified xenogeneic in White King City. News of their feat spread through Sky Palace like wildfire. The next day, when Han Sen decided to go to Black King City, he found Exquisite standing on his little jade island.
 

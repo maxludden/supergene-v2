@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Godslayer Legend
-### Chapter 1315 
+### Chapter 1315
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Moment Queen had been looking for the true spirit, but in her constant re-watches of the video she had recorded in her mind, she did notice something.
+Moment Queen had been looking for the true spirit, but in her constant re-watches of the video she had recorded in her mind, she did notice something.
 
 With every bug that became Cup Demon Emperor, she saw another smaller bug writhe around them. It was like a little football, but its dominant color was black, and it possessed a cup on its back.
 

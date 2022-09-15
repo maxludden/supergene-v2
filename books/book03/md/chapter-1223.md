@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Ice Wolf God Armor
-### Chapter 1223 
+### Chapter 1223
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Ice Wolf God’s flesh and Life Geno Essence were great rewards, but Han Sen was happiest about gaining ownership of the Purple Emperor and the beast soul.
+Ice Wolf God’s flesh and Life Geno Essence were great rewards, but Han Sen was happiest about gaining ownership of the Purple Emperor and the beast soul.
 
 Han Sen looked at the beast soul with much joy.
 

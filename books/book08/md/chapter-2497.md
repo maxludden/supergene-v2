@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## The Use of the Story of Genes
-### Chapter 2497 
+### Chapter 2497
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Seeing Spell’s self-cogwheel, Han Sen reached his hand out to touch her forehead. He activated The Story of Genes’ self-cogwheel.
+Seeing Spell’s self-cogwheel, Han Sen reached his hand out to touch her forehead. He activated The Story of Genes’ self-cogwheel.
 
 Katcha!
 

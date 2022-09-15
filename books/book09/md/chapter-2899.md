@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## New Guessing
-### Chapter 2899 
+### Chapter 2899
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  His method of geno art usage was common, so it did not look special. It looked like the other princes and princesses could use them too.
+His method of geno art usage was common, so it did not look special. It looked like the other princes and princesses could use them too.
 
 When Bai Wanjie used them, all the geno arts combined like a glove. He was able to block the undead’s attacks and start to establish a much-needed advantage.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Leveling Up While Fighting
-### Chapter 2680 
+### Chapter 2680
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The two of them continued fighting, but they were unable to deal damage to each other.
+The two of them continued fighting, but they were unable to deal damage to each other.
 
 Han Sen kept altering his knife skills. Shale’s punching skill didn’t change in the face of Han Sen’s rapidly mutating attacks. The two of them fought as hard and fast as they could, but neither of them could gain the upper hand.
 

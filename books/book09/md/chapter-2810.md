@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Lost Land
-### Chapter 2810 
+### Chapter 2810
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  "Can I go with you to the Real Old System?" Han Sen asked. "I want to help out the Extreme King too."
+"Can I go with you to the Real Old System?" Han Sen asked. "I want to help out the Extreme King too."
 
 "If you want to go, you need to ask Second Uncle," Bao Ying said. "He is in charge this time."
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Undying Bird Challenge
-### Chapter 2227 
+### Chapter 2227
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen smiled. He did not mind the threat. The Demon Bug King Bai Sema wouldn’t even buckle to the attacks of a King class creature. Therefore, he did not think he had to worry about the tiny little lava bugs.
+Han Sen smiled. He did not mind the threat. The Demon Bug King Bai Sema wouldn’t even buckle to the attacks of a King class creature. Therefore, he did not think he had to worry about the tiny little lava bugs.
 
 “Undying Bird really resides on this island?” Ji Qing asked curiously.
 

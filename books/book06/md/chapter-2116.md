@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Evil Eye
-### Chapter 2116 
+### Chapter 2116
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen didn’t get to see Littleflower fight, so he went to watch others fight instead.
+Han Sen didn’t get to see Littleflower fight, so he went to watch others fight instead.
 
 Of the Marquises, he managed to watch Dragon Eight and Lone Bamboo fight. Han Sen wanted to see Evil Eye fight, but he soon learned that all of Evil Eye’s opponents gave up whenever they were pitted against him. No one wished to battle someone that frightening.
 

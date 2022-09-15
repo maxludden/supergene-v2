@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Stealing
-### Chapter 514 
+### Chapter 514
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  "Brother… Watch out…" When Blackgod was about to make a strike, he suddenly heard his friend calling him and felt ominous.
+"Brother… Watch out…" When Blackgod was about to make a strike, he suddenly heard his friend calling him and felt ominous.
 
 Blackgod was indeed quite impressive and decisive. The moment he heard the voice, he directly fell forward.
 

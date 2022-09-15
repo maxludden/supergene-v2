@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Blood-red Tree
-### Chapter 898 
+### Chapter 898
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen was afraid something bad might happen, so he stuck to using the name San Mu. He had been there for a long time, so had grown accustomed to him under his assumed name. But once, during a conversation, he let slip that his real surname was Han.
+Han Sen was afraid something bad might happen, so he stuck to using the name San Mu. He had been there for a long time, so had grown accustomed to him under his assumed name. But once, during a conversation, he let slip that his real surname was Han.
 
 Chu Ming and Qu Lanxi had been in the Third God's Sanctuary for far too long, so it was unlikely they had heard of the name Han Sen. They actually believed Han was a fake surname he was trying to use to trick them.
 

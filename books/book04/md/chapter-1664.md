@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Ringtone
-### Chapter 1664 
+### Chapter 1664
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen looked glum. He had been keeping an eye on the entire shelter, and Bone Witch died under his watch. What’s more, he couldn’t even tell how. Although he had been drinking tea with Han Menger and Bao’er, Dongxuan Aura was on the whole time. It was surveying everything.
+Han Sen looked glum. He had been keeping an eye on the entire shelter, and Bone Witch died under his watch. What’s more, he couldn’t even tell how. Although he had been drinking tea with Han Menger and Bao’er, Dongxuan Aura was on the whole time. It was surveying everything.
 
 Han Sen saw Bone Witch clearly. She had been watching from atop the tower, and as she was on her patrol, she simply died. There had been no warning signs.
 

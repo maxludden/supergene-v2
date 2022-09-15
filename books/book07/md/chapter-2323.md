@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Princess
-### Chapter 2323 
+### Chapter 2323
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  When they neared the center of the city, Han Sen and Bao’er’s eyes opened wide. The beautiful ocean plaza was full of garbage, but the eeriest thing was the presence of skulls. There was an abundance of them from a variety of different races. They lay in piles around the plaza, making marring the scene with their darkened, stained surfaces.
+When they neared the center of the city, Han Sen and Bao’er’s eyes opened wide. The beautiful ocean plaza was full of garbage, but the eeriest thing was the presence of skulls. There was an abundance of them from a variety of different races. They lay in piles around the plaza, making marring the scene with their darkened, stained surfaces.
 
 But the plaza only held the skulls. There weren’t any skeletal corpses around.
 

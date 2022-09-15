@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Knife Air Like Silk
-### Chapter 2032 
+### Chapter 2032
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen dodged. He was like a shadow as he slipped around Dragon Thirteen’s lance. He was even faster than before. “Two Sky Heart Locks?” Dragon Thirteen’s face went slack.
+Han Sen dodged. He was like a shadow as he slipped around Dragon Thirteen’s lance. He was even faster than before. “Two Sky Heart Locks?” Dragon Thirteen’s face went slack.
 
 Han Sen was a powerful Earl. It was shocking to learn he was carrying even just one Sky Heart Lock. No one would have ever expected he might be carrying two of them.
 

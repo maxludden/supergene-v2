@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Super Biological Warframe
-### Chapter 148 
+### Chapter 148
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  
+
 > "Sacred-blood Phantom Ant Killed. Beast Soul of Sacred-blood Phantom Ant Gained. Eat Its Meat to Gain Zero to Ten Sacred Geno Points Randomly."
 >
 

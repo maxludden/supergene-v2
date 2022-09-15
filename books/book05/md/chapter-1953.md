@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## The Han Family Daughter Is Born
-### Chapter 1953 
+### Chapter 1953
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Since Han Sen had nothing better to do, he tried using Consume. He did not know if he could use it now that he was in human form. It surprised him that he was actually able to activate the geno art.
+Since Han Sen had nothing better to do, he tried using Consume. He did not know if he could use it now that he was in human form. It surprised him that he was actually able to activate the geno art.
 
 When he used Consume, something changed in his stomach. It was like a xenogeneic’s, but not as strong. His stomach became much stronger than usual, though.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Dead Dragon Body
-### Chapter 2751 
+### Chapter 2751
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  After confirming that there wasn’t any danger, Han Sen reached his hand out to touch it. The object was hot to the touch, and the texture of the surface felt kind of like snakeskin or the scales of some other sort of creature.
+After confirming that there wasn’t any danger, Han Sen reached his hand out to touch it. The object was hot to the touch, and the texture of the surface felt kind of like snakeskin or the scales of some other sort of creature.
 
 But snakes were cold-blooded animals. Their scales were supposed to feel cool, but this black thing was burning hot. It glowed like heated steel.
 

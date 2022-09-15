@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Floating Kill Elder
-### Chapter 3387 
+### Chapter 3387
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen wanted to ask Ancient Devil if he fought against Bury Path God and big sky demon over the relics. If he asked that, Ancient Devil would know he had been there. Therefore, Han Sen did not ask him anything about that.
+Han Sen wanted to ask Ancient Devil if he fought against Bury Path God and big sky demon over the relics. If he asked that, Ancient Devil would know he had been there. Therefore, Han Sen did not ask him anything about that.
 
 Ancient Devil kept walking. He eventually said, “It is pointless to keep on following me. I do not know where the sky clock is. I am only trying my luck like you.”
 

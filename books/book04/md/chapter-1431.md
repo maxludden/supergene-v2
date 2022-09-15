@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Ling Mei’er’s Bad Situation
-### Chapter 1431 
+### Chapter 1431
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “We are considered adults the moment we generate a self geno core. And once that happens, we are sent away from Dark Spirit Shelter in the expectation we will survive and thrive.” There was a glimmer of sadness veiled behind the curtains of her speech, despite her attempt to put on a brave and proud face.
+“We are considered adults the moment we generate a self geno core. And once that happens, we are sent away from Dark Spirit Shelter in the expectation we will survive and thrive.” There was a glimmer of sadness veiled behind the curtains of her speech, despite her attempt to put on a brave and proud face.
 
 Han Sen thought to himself, “It looks like Dark Spirit controls most of the Underworld. If they didn’t have a firm grip on the entire place, they wouldn’t let their people come and go freely.”
 

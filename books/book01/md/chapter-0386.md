@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Who Is in Charge
-### Chapter 386 
+### Chapter 386
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen more or less had learned the strengths and shortcomings of the creature. This was exactly the opportunity he had been waiting for—the shapeshifting time limit of the evolvers was up, so that they no longer dared to fight the creature closely. As long as Han Sen could face the creature alone, he will have his opportunity.
+Han Sen more or less had learned the strengths and shortcomings of the creature. This was exactly the opportunity he had been waiting for—the shapeshifting time limit of the evolvers was up, so that they no longer dared to fight the creature closely. As long as Han Sen could face the creature alone, he will have his opportunity.
 
 "Mr. Han, let's go back first. We will organize another campaign," Ning Yue exclaimed at Han Sen with his brows knitted.
 

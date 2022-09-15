@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## New Jadeskin
-### Chapter 1094 
+### Chapter 1094
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen felt a great relief wash over him, having figured out the problem of the Xue family. It also meant that the Frost Sutra was safe, and there was no problem if he was to learn it.
+Han Sen felt a great relief wash over him, having figured out the problem of the Xue family. It also meant that the Frost Sutra was safe, and there was no problem if he was to learn it.
 
 The Frost Sutra was not as good as Dongxuan Sutra, of course, but it could still open ten gene locks.
 

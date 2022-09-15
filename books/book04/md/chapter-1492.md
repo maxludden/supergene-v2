@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Gold-patterned Crab
-### Chapter 1492 
+### Chapter 1492
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The five spirits that were closing in on Han Sen were in a hurry. Under the buffs of the Butterfly geno core, Han Sen’s speed and power made him just as strong as them. His movement was strange, and when the five of them surrounded him, they felt that their powers were suppressed and unusable.
+The five spirits that were closing in on Han Sen were in a hurry. Under the buffs of the Butterfly geno core, Han Sen’s speed and power made him just as strong as them. His movement was strange, and when the five of them surrounded him, they felt that their powers were suppressed and unusable.
 
 Many times they thought they were going to hit Han Sen, but their strikes would end up being deflected by an attack coming from one of their own. Try as they might, they couldn’t hit him.
 

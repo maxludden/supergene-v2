@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Blood Sacrifice
-### Chapter 3209 
+### Chapter 3209
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “Destiny breaks… Blood-Pulse spills… The alpha king’s prophecy has come true…” The priest looked very excited. He let the blood merrily fall on him as he kowtowed before Qin Jing Zhen. “My King, the alpha king’s prophecy appeared. This is a good sign for the prosperity of the Qin Kingdom. Please use the special method for performing a blood sacrifice.”
+“Destiny breaks… Blood-Pulse spills… The alpha king’s prophecy has come true…” The priest looked very excited. He let the blood merrily fall on him as he kowtowed before Qin Jing Zhen. “My King, the alpha king’s prophecy appeared. This is a good sign for the prosperity of the Qin Kingdom. Please use the special method for performing a blood sacrifice.”
 
 Qin Jing Zhen looked conflicted. He stared at the blood pool of the Destiny Well without saying a word.
 

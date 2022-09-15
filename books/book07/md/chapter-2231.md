@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## The Crisis Is Close
-### Chapter 2231 
+### Chapter 2231
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “You guys took the item. Shouldn’t you be leaving now? Stop bothering the resting place of Undying Bird.” The old woman did not look happy. She waved her hand.
+“You guys took the item. Shouldn’t you be leaving now? Stop bothering the resting place of Undying Bird.” The old woman did not look happy. She waved her hand.
 
 “You take it,” Bai Wei said to Han Sen as she let go of the item.
 

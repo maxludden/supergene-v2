@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Core Area
-### Chapter 468 
+### Chapter 468
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  "Wang Hou, you are also a soldier of the Alliance. Aren't you afraid of the sanction by military laws?" Ji Yanran exclaimed at Wang Hou.
+"Wang Hou, you are also a soldier of the Alliance. Aren't you afraid of the sanction by military laws?" Ji Yanran exclaimed at Wang Hou.
 
 "Military laws?" Wang Hou smiled contemptuously, summoned a golden beast soul sword and slashed at Han Sen who was next to Ji Yanran. He snorted and said, "There is no laws here."
 

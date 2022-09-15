@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Disloyal Knight Beast Soul
-### Chapter 941 
+### Chapter 941
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The fist carried a destructive light. The power was so great that it shone straight through Han Sen's hand like an x-ray, revealing the skeleton beneath his flesh.
+The fist carried a destructive light. The power was so great that it shone straight through Han Sen's hand like an x-ray, revealing the skeleton beneath his flesh.
 
 Han Sen's Water-Thunder skill smashed against the Disloyal Knight's back.
 

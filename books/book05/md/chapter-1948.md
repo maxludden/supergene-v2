@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Soul Armor
-### Chapter 1948 
+### Chapter 1948
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen stopped in his tracks. He couldn’t figure out what had just happened.
+Han Sen stopped in his tracks. He couldn’t figure out what had just happened.
 
 The light spell was stuck to Seven Spirit’s forehead. It shone brightly, and Qing Jun started to scream as it gleamed.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Seven Spirit Buddha
-### Chapter 1940 
+### Chapter 1940
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen didn’t bother to contradict her again. He followed the big group across the desert.
+Han Sen didn’t bother to contradict her again. He followed the big group across the desert.
 
 There was a huge crowd around them initially, but many people quickly began to tire and turn back.
 

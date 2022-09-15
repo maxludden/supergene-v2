@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Narrow Moon Knife
-### Chapter 1928 
+### Chapter 1928
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Moon was a softer geno art. To create light, you could not use pure power.
+Moon was a softer geno art. To create light, you could not use pure power.
 
 When Yisha gave Moon to Han Sen, she hadn’t shown him how to perform it. Han Sen believed this was because she herself was not well-versed with Moon, and even if she knew how to perform it, she couldn’t do it spectacularly well.
 

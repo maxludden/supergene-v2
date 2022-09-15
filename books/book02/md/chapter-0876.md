@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## They Dare Believe They Can Strike Me?
-### Chapter 876 
+### Chapter 876
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  "Perhaps it is because I am not a wretched man who has committed several atrocities?" Han Sen coldly said.
+"Perhaps it is because I am not a wretched man who has committed several atrocities?" Han Sen coldly said.
 
 "You..." Lui Gui was quickly infuriated by the response he was given. He pointed his finger towards Han Sen and barked, "You must have done something!"
 

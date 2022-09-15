@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Geno Tablet Changes
-### Chapter 3396 
+### Chapter 3396
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “Why have you brought me here?” Once upon a time, Han Sen had been the leader of Burning Red Sky. That was because he stole the seat of another. He was not taken to the geno tablet last time. He was instead chased off by enemy forces. He did not have the chance to go the way he did now. He did not really know what leaders of the skies were even supposed to do.
+“Why have you brought me here?” Once upon a time, Han Sen had been the leader of Burning Red Sky. That was because he stole the seat of another. He was not taken to the geno tablet last time. He was instead chased off by enemy forces. He did not have the chance to go the way he did now. He did not really know what leaders of the skies were even supposed to do.
 
 “I am not supposed to tell you, who are just a candidate. Since you did help me return to my origin, I suppose I am willing to tell you. The competition for the establishment of 33 skies’ leaders is basically a selection process for me to find a host. When a leader shows up, they are brought here to have their genes tested to see if they reach my requirements.”
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Brutal Force
-### Chapter 154 
+### Chapter 154
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The Warframe Society members were overjoyed to see this. They were slowing their warframes down to bypass the obstacle wall, while Han Sen could not do that at the speed he was going.
+The Warframe Society members were overjoyed to see this. They were slowing their warframes down to bypass the obstacle wall, while Han Sen could not do that at the speed he was going.
 
 "What a fool! Doesn’t matter if his warframe is good," thought the Warframe Society members contemptuously.
 

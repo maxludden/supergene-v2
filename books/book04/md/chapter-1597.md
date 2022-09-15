@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## We’ll Meet Again
-### Chapter 1597 
+### Chapter 1597
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “You’ve come out already, so I don’t need to stay dead anymore.” Han Sen smiled mildly. He was holding the Split-Knife, and at the same time, he checked Jing Jiwu’s body with his Dongxuan Aura. Jing Ji Wu seemed to have been poisoned, but it wasn’t deadly.
+“You’ve come out already, so I don’t need to stay dead anymore.” Han Sen smiled mildly. He was holding the Split-Knife, and at the same time, he checked Jing Jiwu’s body with his Dongxuan Aura. Jing Ji Wu seemed to have been poisoned, but it wasn’t deadly.
 
 Blood Bone Demon realized that she had been tricked, and tricked in front of Qing Ya. She got furious and screamed, “Kill him. Kill him now.”
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Xenogeneic Geno Ar
-### Chapter 1984 
+### Chapter 1984
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Old Night Island was very big. There were mountains, forests, and even oceans. Han Sen went there and chased a flying bird. He caught up with it and cut its head off.
+Old Night Island was very big. There were mountains, forests, and even oceans. Han Sen went there and chased a flying bird. He caught up with it and cut its head off.
 
 > “Xenogeneic Earl Hunted. Forest Bird: Xenogeneic Gene Found.”
 

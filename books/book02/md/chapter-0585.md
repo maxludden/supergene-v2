@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Red Mushrooms
-### Chapter 585 
+### Chapter 585
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen was amazed. Seeing a creature bring its children to eat was an incredibly rare sight, one that few people would ever be given the honor of seeing.
+Han Sen was amazed. Seeing a creature bring its children to eat was an incredibly rare sight, one that few people would ever be given the honor of seeing.
 
 When the snow turtles began to dig into their food, the screech of a bird came out of the sky. A golden bird dropped into view. As if it had been searching for the turtles, it came down at an extremely high speed with its talons raised and ready to snatch them.
 

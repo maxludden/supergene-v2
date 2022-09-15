@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Bad Fight
-### Chapter 1420 
+### Chapter 1420
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “Let No God handle him; we will proceed onwards, to the shelter.” Ruin Emperor coldly said, and commanded the rest of his subordinates to avoid Xie Qing King and head for the human shelter.
+“Let No God handle him; we will proceed onwards, to the shelter.” Ruin Emperor coldly said, and commanded the rest of his subordinates to avoid Xie Qing King and head for the human shelter.
 
 “Spirits! Are you going to betray the treaty established with The King?!” a disdainful voice bellowed across the landscape. And then, many others approached.
 

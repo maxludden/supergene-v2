@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Four Symbols Seal
-### Chapter 2290 
+### Chapter 2290
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The light symbol hummed on Han Sen’s hand like an energy converter. When Han Sen sent power into the light symbol, his energy was transformed into sealing power.
+The light symbol hummed on Han Sen’s hand like an energy converter. When Han Sen sent power into the light symbol, his energy was transformed into sealing power.
 
 Green Dragon, White Tiger, Red Bird, and Black Turtle. Four beasts made up the symbols, and Han Sen was represented by the Red Bird. As his power flowed into the symbol, the symbol swirled around in his hand like a flaming bird.
 

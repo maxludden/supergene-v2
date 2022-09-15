@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Sight of Gods
-### Chapter 600 
+### Chapter 600
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  After seeing Han Sen enter a testing lobby, Annie was again watching his every move. Quickly, she went to the observation room so she could see how he was performing.
+After seeing Han Sen enter a testing lobby, Annie was again watching his every move. Quickly, she went to the observation room so she could see how he was performing.
 
 The test Han Sen was undertaking had been designed to accurately measure the dexterity of his abilities. He had never taken this test before, so Annie did not actually know what his proper level was.
 

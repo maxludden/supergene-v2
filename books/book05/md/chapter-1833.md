@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Knife Blank
-### Chapter 1833 
+### Chapter 1833
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  
+
 
 Black-Moon King nodded slightly, then shook his head. The nobles around were confused, and they weren’t sure what that meant. No one was going to ask now, though. They were happy to wait until Black-Moon King finished his investigation. They were still very curious about the knife.
 

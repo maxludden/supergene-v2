@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Hunger
-### Chapter 291 
+### Chapter 291
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Bai Yishan was very efficient and since Han Sen all the information of Heresy Mantra the second day.
+Bai Yishan was very efficient and since Han Sen all the information of Heresy Mantra the second day.
 
 Since Heresy Mantra had not been adapted into a hyper geno art, it was written in an ancient language and was very hard to read.
 

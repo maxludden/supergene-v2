@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## I Get Half
-### Chapter 1193 
+### Chapter 1193
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  If there was one power Han Sen was afraid of, it had to be time. Time and space were a freakish duo, but the former definitely made him the wariest. What it could achieve was both fascinating and frightening, and this was what Han Sen thought as he looked at Moment Queen now.
+If there was one power Han Sen was afraid of, it had to be time. Time and space were a freakish duo, but the former definitely made him the wariest. What it could achieve was both fascinating and frightening, and this was what Han Sen thought as he looked at Moment Queen now.
 
 Humans could control space, but not time. They were not technologically advanced enough for time manipulation. In the sanctuary, things were a little different, and time there could be controlled, or at the very least manipulated.
 

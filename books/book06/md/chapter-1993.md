@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Competing Skills
-### Chapter 1993 
+### Chapter 1993
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “Sister, can Han Sen win?” Yun Suyi’s hands were drenched in sweat. She grabbed Yun Sushang’s shoulder as she felt her body go soft. She feared she’d faint if she didn’t stabilize herself.
+“Sister, can Han Sen win?” Yun Suyi’s hands were drenched in sweat. She grabbed Yun Sushang’s shoulder as she felt her body go soft. She feared she’d faint if she didn’t stabilize herself.
 
 “I really don’t know,” Yun Sushang said, but she felt bad about it.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Fearless Dragon
-### Chapter 2120 
+### Chapter 2120
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Ding!
+Ding!
 
 The number displayed upon the coin was one. When Dragon Eight stepped forward, that figure became two. Already, the pressure upon him was twice as heavy. That was precisely why Dragon Eight had fallen to his knees with such a force that the earth caved in.
 

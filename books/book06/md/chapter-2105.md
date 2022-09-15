@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Fighting in the Pool of Rebirth
-### Chapter 2105 
+### Chapter 2105
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen reached out his hand to touch the energy that looked like water. It now made sense that this place was called the Pool of Rebirth, as the energy it possessed was very thick and very much like liquid.
+Han Sen reached out his hand to touch the energy that looked like water. It now made sense that this place was called the Pool of Rebirth, as the energy it possessed was very thick and very much like liquid.
 
 When he touched that energy, he felt as if his body was being overwhelmed by a sudden surge of hormones. All of his cells throbbed, as if they were on the precipice of exploding.
 

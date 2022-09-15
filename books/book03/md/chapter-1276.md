@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Moment’s Enemy
-### Chapter 1276 
+### Chapter 1276
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Moment Queen paused for some time, and when she resumed her speech, she said, “If I said I was an empress, would you believe me?”
+Moment Queen paused for some time, and when she resumed her speech, she said, “If I said I was an empress, would you believe me?”
 
 “Of course I would.” Han Sen had seen a few empresses in his time, so he wasn’t afraid of them.
 

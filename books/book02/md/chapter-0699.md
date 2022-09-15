@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Ant Egg
-### Chapter 699 
+### Chapter 699
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The cave was rather small, and Han Sen could only crawl. He held back his energy and crawled for one hundred meters before reaching the end. This was as far as the pangolin had dug, and the creature was still busy.
+The cave was rather small, and Han Sen could only crawl. He held back his energy and crawled for one hundred meters before reaching the end. This was as far as the pangolin had dug, and the creature was still busy.
 
 "What is this guy doing?" Han Sen watched it for a while, observing how quickly the pangolin worked. It seemed as if it was digging a route into the back of the cave where the ant king was protecting the primary entrance.
 

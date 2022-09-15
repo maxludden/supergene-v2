@@ -67,6 +67,7 @@
     src: "White Modesty.ttf"";
 
 }
+
 /***** End of Fonts **********/
 
 html {
@@ -118,6 +119,7 @@ h5 {
     font-size: 0.9em;
     line-height: 1;
 }
+
 /* End of Headers */
 
 /****** Images *********/
@@ -126,6 +128,7 @@ img {
     margin-left: auto;
     margin-right: auto;
 }
+
 /****** End of Images *********/
 
 /************** Body ***************/
@@ -152,7 +155,7 @@ table {
     width: 95%;
     margin-left: auto;
     margin-right: auto;
-    border: 1px solid var(--main-border-color);
+    border: none;
     border-collapse: collapse;
 }
 
@@ -165,6 +168,7 @@ th {
     text-align: center;
     border: none
 }
+
 td {
     font-size: 1em;
     padding: 10px;
@@ -174,15 +178,34 @@ td {
     text-align: center;
 }
 
+.status {
+    border: none;
+}
+
+.status td:nth-child(1) {
+    text-align: left;
+}
+
+.status td:nth-child(2) {
+    text-align: right;
+}
+
+.status tr:nth-child(odd) {
+    background-color: var(--alternate-bg-color);
+}
+
 .status1 {
     border: none;
 }
-.status1 td:nth-child(1){
+
+.status1 td:nth-child(1) {
     text-align: left;
 }
+
 .status1 td:nth-child(2) {
     text-align: right;
 }
+
 .status1 tr:nth-child(odd) {
     background-color: var(--alternate-bg-color);
 }
@@ -191,7 +214,7 @@ td {
     text-align: center;
     font-family: Urbanist-Thin, Urbanist-Regular, "Myriad Pro", helvetica, sans-serif;
     font-size: 0.8em;
-    background-color:var(--main-bg-color);
+    background-color: var(--main-bg-color);
     color: var(--main-color);
     border: none;
 }
@@ -199,9 +222,11 @@ td {
 .geno-r {
     border: none;
 }
+
 .geno-r td:nth-child(1) {
     text-align: left;
 }
+
 .geno-r td:nth-child(2) {
     text-align: right;
 }
@@ -210,9 +235,10 @@ td {
     border: none;
 }
 
-.geno td:nth-child(odd){
+.geno td:nth-child(odd) {
     text-align: left;
 }
+
 .geno td:nth-child(even) {
     text-align: right;
 }
@@ -226,7 +252,8 @@ td {
     border-top: none;
     border-bottom: none;
 }
-.beast td{
+
+.beast td {
     text-align: center;
 }
 
@@ -241,6 +268,67 @@ td {
     background-color: var(--alternate-bg-color);
 }
 
+.article-reply {
+    width: 70%;
+    padding: 1.5em;
+    margin-left: auto;
+    margin-right: auto;
+    color: var(--alternate-color);
+    background-color: var(--alternate-bg-color);
+    font-family: Urbanist-Italic;
+    border: 1px solid var(--alternate-color);
+    border-radius: 5%;
+}
+
+.article {
+    width: 70%;
+    padding: 1.5em;
+    margin-left: auto;
+    margin-right: auto;
+    color: var(--alternate-color);
+    background-color: var(--alternate-bg-color);
+    font-family: Urbanist-Italic;
+    border: 1px solid var(--alternate-color);
+    border-radius: 5%;
+}
+
+.alert {
+    padding: 1.5em;
+    margin-left: auto;
+    margin-right: auto;
+    color: var(--alternate-color);
+    background-color: var(--alternate-bg-color);
+    font-family: Urbanist-Italic;
+    border: 1px solid var(--alternate-color);
+    border-radius: 5%;
+}
+
+.article {
+    padding: 1.5em;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    color: var(--alternate-color);
+    background-color: var(--alternate-bg-color);
+    font-family: Urbanist-Italic;
+    border: 1px solid var(--alternate-color);
+    border-radius: 5%;
+}
+
+.title {
+    font-family: "Urbanist-Black", "Lemon/Milk", "Myriad Pro", helvetica, sans-serif;
+    font-size: 2em;
+    line-height: 1.5em;
+    text-align: center;
+    text-decoration: underline;
+}
+
+.sig {
+    font-family: "White Modesty";
+    font-size: 4em;
+    line-height: 1.5em;
+    text-align: center;
+}
 
 /* Table Div */
 .tables table {
@@ -255,6 +343,7 @@ td {
 .tables table:first-child {
     margin-top: 50px;
 }
+
 .center {
     display: table;
     width: auto;

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Breaking the World
-### Chapter 3159 
+### Chapter 3159
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “Breaking the world… Underworld Silhouette…” Rocky Dee coldly shouted. The black flames on his body turned white. The flames were strong. There were like ice that could not be broken.
+“Breaking the world… Underworld Silhouette…” Rocky Dee coldly shouted. The black flames on his body turned white. The flames were strong. There were like ice that could not be broken.
 
 The black paper man was burned by the white fire, which turned it white. It was wrapped up by the white fire.
 
@@ -45,7 +46,11 @@ The god altar moved. A man stood atop the god altar. It was God, who Han Sen was
 
 God blinked. It looked like he was smiling, but he wasn’t smiling. “I am OK with it, but two worlds are suffering damage because of you. When the worlds are destroyed, don’t say I did not warn you.”
 
-“Is it really that bad?” Han Sen did not believe his breaking the rules could cause so much damage. Qin Xiu must have done it a lot in the past. “You have been in this universe for quite a while of time now, haven’t you?” God asked. “Therefore, being the curious being that you are, you must know quite a bit about this world and how it operates by now. Am I correct? If so, have you heard about how this universe came to have so many god pulses and gene eggs in the first place?” “Ah, regarding that, I heard the reason that there are so many god pulses and gene eggs is that the geno universe had too many God Spirits die,” Han Sen said.
+“Is it really that bad?” Han Sen did not believe his breaking the rules could cause so much damage. Qin Xiu must have done it a lot in the past. 
+
+“You have been in this universe for quite a while of time now, haven’t you?” God asked. “Therefore, being the curious being that you are, you must know quite a bit about this world and how it operates by now. Am I correct? If so, have you heard about how this universe came to have so many god pulses and gene eggs in the first place?” 
+
+“Ah, regarding that, I heard the reason that there are so many god pulses and gene eggs is that the geno universe had too many God Spirits die,” Han Sen said.
 
 “That is one of the reasons. The opposite of a creature being born is dying. God pulses and land pulses are not.” God paused and asked, “How about that? After your fight with Qin Xiu, the two universes underwent big changes. What became clear to us was that creatures grow quickly. Things that were not supposed to be here have shown up far too early.”
 
@@ -67,4 +72,4 @@ God knew what Han Sen was getting at, but he still said, “It is very simple. W
 
 Han Sen rolled his eyes. “Wow, you sure make it sound easy as pie. How am I supposed to find wild Annihilation God Spirits with ease?”
 
-“It isn’t easy. If it was, the God Chaos Party would not have just almost broken the geno hall. He made the last leader reopen the universe to destroy the God Chaos Party.” God sighed.
+“It isn’t easy. If it was, the God Chaos Party would not have just almost broken the geno hall. He made the last leader reboot the universe to destroy the God Chaos Party.” God sighed.

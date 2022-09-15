@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## The History of Ancient Devil
-### Chapter 3400 
+### Chapter 3400
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Ancient Devil brought Han Sen in with me to take a sneaky route. Han Sen did not feel anything on his way down. The powers of the Mirror Lake did not do anything to harm his body.
+Ancient Devil brought Han Sen in with me to take a sneaky route. Han Sen did not feel anything on his way down. The powers of the Mirror Lake did not do anything to harm his body.
 
 Han Sen thought, “This body should be able to see me through to the other side of Mirror Lake, but I do not know what resides on the other side of Mirror Lake. Is Ancient Devil really going to go right through Mirror Lake?”
 

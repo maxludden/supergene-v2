@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Moon Blade
-### Chapter 491 
+### Chapter 491
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The evolver matched with Han Sen was completely dazed after he entered the battlefield, seeing how packed the stands were. Wang Xun had no idea what had happened.
+The evolver matched with Han Sen was completely dazed after he entered the battlefield, seeing how packed the stands were. Wang Xun had no idea what had happened.
 
 Although he was a sacred-blood evolver and was quite well known for that, he had never had such a treatment. The limit of the audience was several million, which was surprisingly filled up momentarily.
 

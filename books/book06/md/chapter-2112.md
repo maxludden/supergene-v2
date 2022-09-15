@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## There Are Still Creatures Like That?
-### Chapter 2112 
+### Chapter 2112
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Crazy Cow Viscount kept attacking Littleflower, but despite all its efforts, it could not hit him. All its scary punches ended up flying harmless past or hitting the ground, kicking up a flurry of sand.
+Crazy Cow Viscount kept attacking Littleflower, but despite all its efforts, it could not hit him. All its scary punches ended up flying harmless past or hitting the ground, kicking up a flurry of sand.
 
 “Don’t run! Fight Grandpa Cow,” Crazy Cow Viscount shouted as he chased after Littleflower.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Beast Vine
-### Chapter 1120 
+### Chapter 1120
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The clouds only remained open for a second, but in that time, Han Sen was able to discern that the vines were not growing from the mountaintop. They were actually the appendages of a monster.
+The clouds only remained open for a second, but in that time, Han Sen was able to discern that the vines were not growing from the mountaintop. They were actually the appendages of a monster.
 
 In the space of that brief look, the image of the monstrosity was seared into Han Sen’s mind. The vines had a mind of their own, but they grew out of a living creature. This was something he had seen before.
 

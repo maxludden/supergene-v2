@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Scary Battle Talen
-### Chapter 2678 
+### Chapter 2678
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “He has such frightening strength… How many races with hidden power are there, scattered across the universe?” Li Keer murmured in surprise.
+“He has such frightening strength… How many races with hidden power are there, scattered across the universe?” Li Keer murmured in surprise.
 
 Han Sen, Dollar, and now Shale—all of them were fierce. And yet, they weren’t members of high races. In fact, their ancestry was barely even noteworthy. And yet, they all had crazy powers that even the Very High had never seen before.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Co-operative Partner
-### Chapter 1572 
+### Chapter 1572
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Gu Qingcheng nodded. “You are right. The rooms you and I went to were similar. There were some differences, however. I guess those must have been crystallizer items, but I didn’t know that at the time. And when I actually returned from there, I was unable to find the entrance I had originally used.”
+Gu Qingcheng nodded. “You are right. The rooms you and I went to were similar. There were some differences, however. I guess those must have been crystallizer items, but I didn’t know that at the time. And when I actually returned from there, I was unable to find the entrance I had originally used.”
 
 Han Sen thought the sanctuaries definitely had some association with the crystallizers now. When he entered the Main Control Room, he himself had been taken ten years into the future. He had no reason to doubt what she was telling him.
 

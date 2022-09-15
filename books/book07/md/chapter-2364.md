@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## King Air Gene
-### Chapter 2364 
+### Chapter 2364
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “Bai Yi…” Prince Swordstar shouted. He sounded as if he was about to eat someone.
+“Bai Yi…” Prince Swordstar shouted. He sounded as if he was about to eat someone.
 
 Katcha!
 

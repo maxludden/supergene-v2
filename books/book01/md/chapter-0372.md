@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Ning Yue
-### Chapter 372 
+### Chapter 372
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Huangfu Pingqing did not know what was wrong with Han Sen to make such a decision. Although that man just evolved one or two years ago and thus had a low count of geno points among evolvers, his fitness index should still be around forty, which was way beyond any unevolved person.
+Huangfu Pingqing did not know what was wrong with Han Sen to make such a decision. Although that man just evolved one or two years ago and thus had a low count of geno points among evolvers, his fitness index should still be around forty, which was way beyond any unevolved person.
 
 Attacks from an unevolved person were basically useless on that man. In addition, the man had practiced a hyper geno art called Iron Jacket, which could change the structure of one's body cells. The user would have incredible defense and could not even be hurt by a weapon. Han Sen would stand no chance facing this guy.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Hopeless
-### Chapter 1906 
+### Chapter 1906
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “This is the life a woman should have. I’ve wasted my life; I should have gotten rich instead.” Lu Xiaomei was as pretty as the next snobbish woman. She was reveling in the high-tier service, and she was almost in tears.
+“This is the life a woman should have. I’ve wasted my life; I should have gotten rich instead.” Lu Xiaomei was as pretty as the next snobbish woman. She was reveling in the high-tier service, and she was almost in tears.
 
 Bao’er called for a high-class massage, food, and drinks she had never tried before. She showed Lu Xiaomei what it felt like to be royalty.
 

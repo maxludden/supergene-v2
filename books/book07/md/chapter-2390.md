@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Ancient Blood Dragon Lady
-### Chapter 2390 
+### Chapter 2390
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen didn’t speak. He focused on his Dongxuan Sutra, using its strength to guide the torrent of power that was surging through him. He tried to direct it toward his self-universe cogwheel.
+Han Sen didn’t speak. He focused on his Dongxuan Sutra, using its strength to guide the torrent of power that was surging through him. He tried to direct it toward his self-universe cogwheel.
 
 Although Han Sen was proficient with the techniques of Yin Yang Blast and Yin Yang Change, Fox Queen was putting so much power into him that it was difficult for him to guide the vast quantity.
 

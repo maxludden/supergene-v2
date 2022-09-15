@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Qin Family’s Secret
-### Chapter 985 
+### Chapter 985
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  For Han Sen, archery was not difficult. It was a combat profession he adored, and when it was his time to teach students, he committed to the lectures with keen sincerity.
+For Han Sen, archery was not difficult. It was a combat profession he adored, and when it was his time to teach students, he committed to the lectures with keen sincerity.
 
 “Tutor Han, I have heard you know of the skill called ‘Drillhead.’ Could you teach us that?” a person asked. He was young, and wanted to learn a cool technique.
 

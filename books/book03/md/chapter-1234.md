@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Saint Fan Is Coming
-### Chapter 1234 
+### Chapter 1234
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Dragon King thought the geno plant would still take another forty years to mature, so that meant forty days for Han Sen and his waterdrops. In forty days, he could obtain the items it was going to yield.
+Dragon King thought the geno plant would still take another forty years to mature, so that meant forty days for Han Sen and his waterdrops. In forty days, he could obtain the items it was going to yield.
 
 He still wasn’t sure what the hand or the hammer items were, but Dragon King seemed certain that the knight was a Twin Knight, despite the peculiarity of it being born on this tree.
 

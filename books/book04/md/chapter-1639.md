@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Sacred Domain
-### Chapter 1639 
+### Chapter 1639
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Goddess was in the Martial Hall of Sacred shelter, watching the Divinity’s Bout A man covered in holy light walked onto the battlefield.
+Goddess was in the Martial Hall of Sacred shelter, watching the Divinity’s Bout A man covered in holy light walked onto the battlefield.
 
 Almost everyone in the Fourth Sanctuary knew about Dollar now. However, as Goddess looked at Dollar, she felt that he seemed familiar. It wasn’t because she had seen his fights like everyone else; she felt that she had met Dollar before, but she couldn’t recall when or where.
 

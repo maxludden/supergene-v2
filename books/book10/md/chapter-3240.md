@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Black Dragon Promise
-### Chapter 3240 
+### Chapter 3240
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Qin Yuan’s back had the shadow of a black dragon on it. It looked like it was there, but it was not there. It was in the mist. It did not look real.
+Qin Yuan’s back had the shadow of a black dragon on it. It looked like it was there, but it was not there. It was in the mist. It did not look real.
 
 Han Sen waved the Demon God Sword Spirit and mustered an invisible sword air to come lashing out at Qin Yuan. That sword air was unavoidable.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Red Crystal
-### Chapter 476 
+### Chapter 476
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  After seeing those green crystals, Ji Yanran started to whisper.
+After seeing those green crystals, Ji Yanran started to whisper.
 
 "There are nest crystals here! How can we possibly walk over there?" Ji Yanran asked Li Mingtang.
 

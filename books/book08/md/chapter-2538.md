@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Killing Big Evil Beast
-### Chapter 2538 
+### Chapter 2538
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  This time, Dragon Blood Evilbreaker didn’t have enough power to contain their enemy. It was still effective, though. Things didn’t go awry as they had last time when they fought the Gold Armor General.
+This time, Dragon Blood Evilbreaker didn’t have enough power to contain their enemy. It was still effective, though. Things didn’t go awry as they had last time when they fought the Gold Armor General.
 
 Han Sen was holding his Dragon Tattoo Tooth Dagger tightly. He teleported behind Big Evil Beast. His time learning teleportation skills hadn’t been wasted; he was able to appear next to Big Evil Beast in a moment.
 

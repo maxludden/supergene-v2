@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Moving Star Emperor
-### Chapter 1292 
+### Chapter 1292
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Fortunately, the jue was only shaking. Nothing else happened.
+Fortunately, the jue was only shaking. Nothing else happened.
 
 Han Sen knew that, for as long as there was no alcohol inside it, there shouldn’t be any more incidents. For all he knew, it could have been having alcoholic withdrawals.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Digging Egg
-### Chapter 3040 
+### Chapter 3040
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  A giant king class gene race overbearing bug was blown up by Han Sen in one punch. The shattered shell was scattered everywhere. It dyed the whole of the god temple red and scared everybody.
+A giant king class gene race overbearing bug was blown up by Han Sen in one punch. The shattered shell was scattered everywhere. It dyed the whole of the god temple red and scared everybody.
 
 In the plaza, not even the birds dared to tweet. Everyone’s eyes opened wide, and their mouths became circular shapes. They were all petrified as they looked at Han Sen, who was inside the god temple.
 

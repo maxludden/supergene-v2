@@ -1,19 +1,19 @@
-Title:Great Gift for Great Man 
-Chapter:58 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+Title:Great Gift for Great Man
+Chapter:58
+Section:1
+Book:1
+CSS:../Styles/style.css
 viewport: width=device-width
-  
+
 ## Great Gift for Great Man
-### Chapter 58 
+### Chapter 58
+
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
-  
 
-  
-  "How much is that knife?" asked Han Sen curiously.
+
+"How much is that knife?" asked Han Sen curiously.
 
 "A hundred million," the blacksmith said coldly, pushing Hen Sen out.
 
@@ -29,7 +29,7 @@ The angle of the blade was very small, about just 20 degrees; the edge of the bl
 
 Han Sen drew the alpha alloy broadsword out and slashed the dagger at the the broadsword to test the hardness and toughness of the dagger. Alloy with 5 percent Z-steel should be much stronger than this broadsword so it shouldn’t chip.
 
-Crack!
+*Crack!*
 
 The broadsword was chopped into halves by the dagger and half of the blade fell to the ground.
 

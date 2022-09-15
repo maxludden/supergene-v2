@@ -1,19 +1,20 @@
-Title:Getting Hide 
+Title:Skinning Hide 
 Chapter:3132 
 Section:16 
 Book:10 
 CSS:../Styles/style.css 
 viewport: width=device-width
   
-## Getting Hide
-### Chapter 3132 
+## Skinning Hide
+### Chapter 3132
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen and the others sat atop Bald Guy’s God Wind Dragon. The journey seemed hurried. Bald Guy knew where the key planet of Ghost Starlight was.
+Han Sen and the others sat atop Bald Guy’s God Wind Dragon. The journey seemed hurried. Bald Guy knew where the key planet of Ghost Starlight was.
 
 The first planet had been destroyed. They had to leave the system. They needed to find the next Ghost Starlight land. Bald Guy could not help but ask, “Old Han, did you find a god pulse in the core?”
 
@@ -60,8 +61,6 @@ Mister God One smiled. “Brother Xia is Mister Wei’s student. You must have h
 “You found a skinning hide?” Bald Guy was shocked.
 
 Mister God One nodded and said, “If it was not for a land pulse that shocked the sky, I would not have asked Mister Han to help.”
-
-SC
 
 Han Sen looked at Bald Guy, who explained, “Skinning hide is a land pulse with a weird scene. A strange grass grows on the land pulse and absorbs the weird scene of the land pulse. If you do not see the grass up close, you would not know that it was a land pulse. When a skinning hide appears, there will be a land pulse that shocks the world. There is a very high chance of getting a god-class gene egg there. But…”
 

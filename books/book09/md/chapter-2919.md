@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Floating
-### Chapter 2919 
+### Chapter 2919
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The way the big goldfish talked about how to get the treasure also seemed strange. Han Sen wondered if the big goldfish was trying to trick them.
+The way the big goldfish talked about how to get the treasure also seemed strange. Han Sen wondered if the big goldfish was trying to trick them.
 
 After considering the big goldfish’s intelligence, the chance that it could make up a complicated story to fool someone was minimal. In the end, Han Sen decided to go and do what the big goldfish said.
 

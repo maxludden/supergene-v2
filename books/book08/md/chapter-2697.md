@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Beating a Deified
-### Chapter 2697 
+### Chapter 2697
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Although Han Sen was still mostly outmatched by the Red Blood Demon, he discovered that his powerful predictive abilities, when used in concert with God’s Wander, were allowing him to begin protecting himself from the creature’s attacks.
+Although Han Sen was still mostly outmatched by the Red Blood Demon, he discovered that his powerful predictive abilities, when used in concert with God’s Wander, were allowing him to begin protecting himself from the creature’s attacks.
 
 “Has the Xuan Yellow Sutra started working? But this effect is much weaker than I thought it would be. It has only made the Red Blood Demon a little bit slower…” Even though his thoughts were negative, Han Sen was quite happy with this result.
 

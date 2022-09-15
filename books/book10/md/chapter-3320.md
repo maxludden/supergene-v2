@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Complete 33 Skies
-### Chapter 3320 
+### Chapter 3320
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Seeing the 24-stroke geno spell light up, Han Sen was not happy. He did not know if the 24-stroke password would even work.
+Seeing the 24-stroke geno spell light up, Han Sen was not happy. He did not know if the 24-stroke password would even work.
 
 The skeleton that was latched onto Han Sen saw the 24 symbols light up. It lost its voice and screamed, “How do you know the 24-stroke light spell?”
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Dead End
-### Chapter 473 
+### Chapter 473
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Oval parasite crystals threw themselves at Ji Yanran and Han Sen like bouncing balls in increasing numbers, making the couple cringe.
+Oval parasite crystals threw themselves at Ji Yanran and Han Sen like bouncing balls in increasing numbers, making the couple cringe.
 
 "Run!" Without any hesitation, Han Sen took Ji Yanran's hand to run toward the exit of the treasure. Although parasite crystals could be crushed, there were so many of them that even Han Sen could not fend them all off since they would grow on human body as long as they touched the skin.
 

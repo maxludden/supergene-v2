@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Bone
-### Chapter 925 
+### Chapter 925
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen grabbed ahold of the dinosaur's neck, wishing to slow it down and allow Qu Lanxi to return safely. But the dinosaur was too powerful, and when it leapt towards the open door, it fell through into the shelter.
+Han Sen grabbed ahold of the dinosaur's neck, wishing to slow it down and allow Qu Lanxi to return safely. But the dinosaur was too powerful, and when it leapt towards the open door, it fell through into the shelter.
 
 Boom!
 

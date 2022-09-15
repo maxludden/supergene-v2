@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Diversion
-### Chapter 306 
+### Chapter 306
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  "He is not. I was able to beat him each time in a very short amount of time. His fitness is just so-so, but…" Desperado paused.
+"He is not. I was able to beat him each time in a very short amount of time. His fitness is just so-so, but…" Desperado paused.
 
 "But what?" asked Huang Yulei hurriedly.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Six Pictures
-### Chapter 2427 
+### Chapter 2427
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The figures had hands, legs, and heads, just like humans. Oddly, though, they didn’t have faces.
+The figures had hands, legs, and heads, just like humans. Oddly, though, they didn’t have faces.
 
 Where there should have been noses, eyes, and mouths, there was empty space instead. They were blank and faceless men.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## No Dragon
-### Chapter 2752 
+### Chapter 2752
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  His super god spirit body made him invincible. That was its defining feature, and it could rid him of any negative energies that were impacting his body. But if he was being affected by energy that was coming from within him instead of invading from outside his body, then his super god spirit body wouldn’t make any changes to it.
+His super god spirit body made him invincible. That was its defining feature, and it could rid him of any negative energies that were impacting his body. But if he was being affected by energy that was coming from within him instead of invading from outside his body, then his super god spirit body wouldn’t make any changes to it.
 
 “Does this mean the freckles indicate that my body is changing on its own?” Han Sen considered the possibility, but it didn’t seem to hold water. “Unless I was affected by an outside force, I shouldn’t be growing freckles in the first place. Why will my super god spirit not purge the freckles like it does everything else?”
 

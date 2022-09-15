@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Blackgod's Hopelessness
-### Chapter 534 
+### Chapter 534
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  "Han Sen..." Li Xing Lun was a little nervous. Judging from his knowledge of Blackgod, he knew his true intent.
+"Han Sen..." Li Xing Lun was a little nervous. Judging from his knowledge of Blackgod, he knew his true intent.
 
 "It's okay. If someone wants to give me the beast soul for free, I will gladly accept it. So it's settled." Han Sen stopped Li Xing Lun from talking.
 

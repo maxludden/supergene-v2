@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## The Origins of Xenogeneics
-### Chapter 1813 
+### Chapter 1813
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen moved behind Yisha silently, and just as he was about to hit her over the head, his heart sank.
+Han Sen moved behind Yisha silently, and just as he was about to hit her over the head, his heart sank.
 
 Yisha had been standing near the pool, looking into it But when Han Sen silently slipped up to the side of the pool, he saw his shadow and Yisha’s. She was looking at him with shock.
 

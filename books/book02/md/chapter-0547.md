@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## A Burnt Shelter
-### Chapter 547 
+### Chapter 547
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  "What's going on? That blue seahorse just incinerated the entire shelter." Han Sen watched as the shelter was engulfed in blue flames. His mind froze in shock.
+"What's going on? That blue seahorse just incinerated the entire shelter." Han Sen watched as the shelter was engulfed in blue flames. His mind froze in shock.
 
 The blue flames reached a dozen miles in length, and they writhed around the entirety of the Seabed Shelter. Stranger still was the fact that no spirit or creature seemed to have escaped from there.
 

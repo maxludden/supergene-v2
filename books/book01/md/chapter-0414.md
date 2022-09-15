@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Lunatic?
-### Chapter 414 
+### Chapter 414
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen was scared by the idea that Shura might be able to survive in God’s Sanctuary.
+Han Sen was scared by the idea that Shura might be able to survive in God’s Sanctuary.
 
 Shura’s physique was much better than human in the first place. If they were able to survive in God’s Sanctuary and gain geno points, the consequences would be dire.
 

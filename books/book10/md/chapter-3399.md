@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Keeping a Promise
-### Chapter 3399 
+### Chapter 3399
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen went back to Time Sky. The sky clock had yet to return to its ordinary shape. It still looked like a gravestone.
+Han Sen went back to Time Sky. The sky clock had yet to return to its ordinary shape. It still looked like a gravestone.
 
 Han Sen looked at the sky clock and said, “The geno tablet fights are going to start. Shouldn’t you go back to the geno tablet and be a host now?”
 

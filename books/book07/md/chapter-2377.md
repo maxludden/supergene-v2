@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Destiny’s Tower
-### Chapter 2377 
+### Chapter 2377
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Back in Underwater Town, Han Sen decided to leave Bao’er in the company of Lan Haixin, in case the Siren tried to do something that would give him a headache later on.
+Back in Underwater Town, Han Sen decided to leave Bao’er in the company of Lan Haixin, in case the Siren tried to do something that would give him a headache later on.
 
 A commoner could die, and no trouble would be caused, but if a princess died, that could have dire repercussions for Planet Water Zone. King Bai and many others would take the event quite seriously. So, Han Sen needed to keep an eye on Lan Haixin.
 

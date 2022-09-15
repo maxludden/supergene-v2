@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Bottomless Hole
-### Chapter 1753 
+### Chapter 1753
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The car drove to the western side of the city and came to a stop.
+The car drove to the western side of the city and came to a stop.
 
 They parked the heavy car on the road. The vehicle started to shake, as if some phantom power was pulling it forward.
 

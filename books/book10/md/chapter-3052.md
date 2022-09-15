@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Blood Ghost Spirit
-### Chapter 3052 
+### Chapter 3052
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “I want to see what thing you are,” Ouyang Qiu Shan coldly grunted. He flapped the wings on his back, wanting to borrow the wind and fly.
+“I want to see what thing you are,” Ouyang Qiu Shan coldly grunted. He flapped the wings on his back, wanting to borrow the wind and fly.
 
 Peaceful suddenly stopped him and quietly said, “Let’s figure out where things stand first. Ancient Big God Mountains have many scary and cruel gene races. Perhaps what we have now encountered is a scary guy. Do not underestimate such a foe.”
 

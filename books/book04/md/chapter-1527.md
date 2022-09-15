@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## God’s Ruin
-### Chapter 1527 
+### Chapter 1527
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen quickly walked to the shelter’s hall. There, he saw a creature floating inside.
+Han Sen quickly walked to the shelter’s hall. There, he saw a creature floating inside.
 
 “Little Fairy? You’re a demigod now?” Han Sen looked at the small, fairy-like lady with surprise.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Spare My Life, Please
-### Chapter 1347 
+### Chapter 1347
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Ten hours passed, and when Han Sen slew his eighth Jade Snail, he managed to obtain a second beast soul. He gave this to Bao’er.
+Ten hours passed, and when Han Sen slew his eighth Jade Snail, he managed to obtain a second beast soul. He gave this to Bao’er.
 
 Han Sen wasn’t planning on killing any more than he had to, especially after collecting everything he had been hoping to get.
 

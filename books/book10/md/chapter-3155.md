@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Comparing Sword Skills
-### Chapter 3155 
+### Chapter 3155
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “Teacher Jia, what do you think of my sword skills?” After Qin Bai finished his performance with Wavy Sword Skill, Jia Shi Zhen looked surprised. She couldn’t believe what she had just witnessed. Qin Bai suddenly exploded with confidence. He looked at Jia Shi Zhen with confidence.
+“Teacher Jia, what do you think of my sword skills?” After Qin Bai finished his performance with Wavy Sword Skill, Jia Shi Zhen looked surprised. She couldn’t believe what she had just witnessed. Qin Bai suddenly exploded with confidence. He looked at Jia Shi Zhen with confidence.
 
 Usually, he never dared to talk to Jia Shi Zhen like that. Now, he was cocky. He did not have the fear he usually harbored.
 

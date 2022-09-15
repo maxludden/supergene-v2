@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Transfer Order
-### Chapter 2238 
+### Chapter 2238
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  When Han Sen arrived at Ice Blue Knight King’s office, the Knight King and Mister White were already there. They both looked at Han Sen with strange intensity as he entered.
+When Han Sen arrived at Ice Blue Knight King’s office, the Knight King and Mister White were already there. They both looked at Han Sen with strange intensity as he entered.
 
 “Ahem… Mister Knight King. Is there something you require of me?” Han Sen asked with a cough.
 

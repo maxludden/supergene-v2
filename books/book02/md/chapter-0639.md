@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Aero Skill
-### Chapter 639 
+### Chapter 639
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  "Brother Han, I have already told you everything. Fix me, quick!" Chen Ran begged.
+"Brother Han, I have already told you everything. Fix me, quick!" Chen Ran begged.
 
 "Old Chen, I really would like to fix you and set you free. But in addition to not telling me the truth, you are trying to kill me." Han Sen looked at Chen Ran sighed.
 

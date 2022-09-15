@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Real Empty Fruit
-### Chapter 815 
+### Chapter 815
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  "Who?" Han Sen was shocked by the sudden instruction. He looked around, but again, the voice was accompanied by no nearby person. Han Sen gritted his teeth and bid for Moment Queen to follow him. He wanted to get as far away from this strange place as he could right now.
+"Who?" Han Sen was shocked by the sudden instruction. He looked around, but again, the voice was accompanied by no nearby person. Han Sen gritted his teeth and bid for Moment Queen to follow him. He wanted to get as far away from this strange place as he could right now.
 
 When he lifted his leg, Han Sen felt something. He dashed out of the way just as the ground cracked open and a lashing vine suddenly appeared.
 

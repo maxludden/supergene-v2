@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Loving Bad Women
-### Chapter 3164 
+### Chapter 3164
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “Miss Feng, you are being too polite,” Han Sen said. “I would not dare to punish you, but there is one thing I would like your help with.”
+“Miss Feng, you are being too polite,” Han Sen said. “I would not dare to punish you, but there is one thing I would like your help with.”
 
 “If there is something you need, I will try my best to do it,” Feng Fei Fei seriously said. “Even if it costs me everything, I will do all in my power to fulfill your wishes.”
 

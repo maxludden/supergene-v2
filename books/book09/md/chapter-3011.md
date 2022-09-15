@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Forever Standing by Her Side
-### Chapter 3011 
+### Chapter 3011
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  When Dragon Lady held the bronze tool, it kept shining with a rainbow color. The lifeforce was like a rainbow mist.
+When Dragon Lady held the bronze tool, it kept shining with a rainbow color. The lifeforce was like a rainbow mist.
 
 Han Sen was very jealous as he watched. That bronze tool was probably made of many true god class xenogeneics. He was able to hear some god demon big beast crying and roaring. One cup of geno fluid was worth many years of Han Sen’s work. Those 300 Ancient Gods, which was every Ancient God’s blood, made it enough to boost someone to true god elite status.
 

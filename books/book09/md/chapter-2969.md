@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Breaking Point
-### Chapter 2969 
+### Chapter 2969
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Xie Qing King asked, “Did you notice that the God Spirit that defeated you looked like Moment Queen?”
+Xie Qing King asked, “Did you notice that the God Spirit that defeated you looked like Moment Queen?”
 
 Han Sen nodded. “I am starting to think the spirits inside the sanctuaries are partially created from the God Spirits of God Spirits.”
 

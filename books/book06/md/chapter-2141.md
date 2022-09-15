@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Suppress Evil Punch
-### Chapter 2141 
+### Chapter 2141
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “Suppress Evil? This is both the best and worst geno art to consider teaching.” Sky Path Garden’s leader squinted his eyes and looked over the training ground.
+“Suppress Evil? This is both the best and worst geno art to consider teaching.” Sky Path Garden’s leader squinted his eyes and looked over the training ground.
 
 “Leader, why do you say that?” White Real asked.
 

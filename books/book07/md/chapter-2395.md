@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Move Mountain Area
-### Chapter 2395 
+### Chapter 2395
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Pang!
+Pang!
 
 Han Sen’s fist and the half-deified bug’s claw collided. The blade-like claws of the beast scratched Han Sen’s armor, drawing a few light marks across its surface. The armor, however, wasn’t broken.
 

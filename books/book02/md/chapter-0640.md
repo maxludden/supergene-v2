@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Shelter of the Mystery Island
-### Chapter 640 
+### Chapter 640
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Back at the royal shelter, Han Sen asked to see Yang Manli for a report on recent happenings during his absence.
+Back at the royal shelter, Han Sen asked to see Yang Manli for a report on recent happenings during his absence.
 
 Because very few people owned high-class wings, Yang Manli was off having a quick look at the Mystery Island. They hadn't attacked the royal shelter there yet, due to their lack of the necessary strength.
 

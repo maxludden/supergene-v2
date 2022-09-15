@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Picking Up the Treasure
-### Chapter 1783 
+### Chapter 1783
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  After Stay Up Late was gone, Han Sen went back to Gran City by his lonesome. He walked for half a day, and then he saw many ships soaring through the atmosphere. He also heard many explosions.
+After Stay Up Late was gone, Han Sen went back to Gran City by his lonesome. He walked for half a day, and then he saw many ships soaring through the atmosphere. He also heard many explosions.
 
 “Planet Kate really is in a mess. I hope Qiao, Lan Se, and Mister Tiger are okay,” Han Sen thought to himself.
 

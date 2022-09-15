@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## God Chaos Party
-### Chapter 3143 
+### Chapter 3143
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  When the white flame touched the evil, black, and purple spirit, it was like it had met gasoline. The entire god temple lit up in a fire.
+When the white flame touched the evil, black, and purple spirit, it was like it had met gasoline. The entire god temple lit up in a fire.
 
 The power possessing Han Sen and Bald Guy vanished. They regained control of their bodies.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Tiger Amidst the Sheep
-### Chapter 1615 
+### Chapter 1615
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Almost at the same time, Sha Linjia waved his fist that was wreathed in red flame towards Gu Qingcheng’s sword. Two scary forces collided.
+Almost at the same time, Sha Linjia waved his fist that was wreathed in red flame towards Gu Qingcheng’s sword. Two scary forces collided.
 
 Boom!
 

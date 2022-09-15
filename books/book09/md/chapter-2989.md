@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Copied Body
-### Chapter 2989 
+### Chapter 2989
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Dong!
+Dong!
 
 The young man’s hand almost touched Han Sen’s neck when a knife light suddenly blocked it. The knife light and hand light hit each other. It left a bloody mark on the young man’s hand.
 

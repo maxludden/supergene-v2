@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Shield
-### Chapter 2096 
+### Chapter 2096
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “Let’s see how many attacks you can block,” Sleepless Duke shouted. The other Night Ghosts began to cackle, gathering up a force of ghost air.
+“Let’s see how many attacks you can block,” Sleepless Duke shouted. The other Night Ghosts began to cackle, gathering up a force of ghost air.
 
 Han Sen had raised a single shield against an entire army. Sleepless Duke thought he must have a death wish.
 

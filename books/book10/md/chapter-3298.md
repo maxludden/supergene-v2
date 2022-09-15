@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Exiting the Thirty-three Skies
-### Chapter 3298 
+### Chapter 3298
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Ancient Devil peered at the geno tablet for a very long time. He then turned around and left.
+Ancient Devil peered at the geno tablet for a very long time. He then turned around and left.
 
 Han Sen had been watching Ancient Devil intently for a long time. He immediately followed him. As Ancient Devil was flying, he suddenly disappeared. It was like he was able to slip into an invisible tunnel no one else could enter.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Tang Zhenliu
-### Chapter 77 
+### Chapter 77
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  One of the familiar faces was Fang Jingqi. Han Sen had never seen him again since playing red hands with him and was surprised to see him here today.
+One of the familiar faces was Fang Jingqi. Han Sen had never seen him again since playing red hands with him and was surprised to see him here today.
 
 As for the other person, Han Sen felt like having seen him somewhere, but the guy was in a high collar windbreaker, a hat and a pair of oversized sunglasses, which made it difficult for Han Sen to tell who he was.
 

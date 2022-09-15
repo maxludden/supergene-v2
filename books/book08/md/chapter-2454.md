@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Small Island in the Clouds
-### Chapter 2454 
+### Chapter 2454
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “You’re saying that I should use the Wanjie Rubix Cube to leak my location?” Han Sen immediately understood what the Treasure Identifier Elder was implying.
+“You’re saying that I should use the Wanjie Rubix Cube to leak my location?” Han Sen immediately understood what the Treasure Identifier Elder was implying.
 
 The Treasure Identifier Elder nodded and said, “Yes. The Extreme King have come looking for you, not your companions. If you keep letting them know where you are, they won’t have any reason to conduct a general search that might endanger Qing Yu and the others.”
 

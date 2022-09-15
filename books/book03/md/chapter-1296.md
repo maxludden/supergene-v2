@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## The Real Holy Baby Fruit
-### Chapter 1296 
+### Chapter 1296
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The emperor frowned. Then he interlocked the fingers of both hands to form some sort of dome around a new flame he was conjuring.
+The emperor frowned. Then he interlocked the fingers of both hands to form some sort of dome around a new flame he was conjuring.
 
 With great fervor, he unleashed another fireborne punch at the drum. The power used was frightening, but the sound emitted by the drum was even quieter than the first time he had hit it.
 

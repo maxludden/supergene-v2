@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Injured White Bear
-### Chapter 965 
+### Chapter 965
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Back in the underground shelter, Han Sen called for Moment Queen to retrieve the Dragon-Blood Snake and go out hunting on his behalf.
+Back in the underground shelter, Han Sen called for Moment Queen to retrieve the Dragon-Blood Snake and go out hunting on his behalf.
 
 Although she did not want to do this, she acknowledged it was about time she did something for him. It had been a while, after all.
 

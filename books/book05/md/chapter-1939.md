@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Heaven
-### Chapter 1939 
+### Chapter 1939
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “Why are you following me?” Han Sen asked, looking at Hai’er.
+“Why are you following me?” Han Sen asked, looking at Hai’er.
 
 Hai’er sauntered casually behind him. “I gave you my end of the bargain, so of course I’m going to follow you. Heaven is going to open in a few days, and until then, I am attaching myself to you.”
 

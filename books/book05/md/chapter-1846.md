@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Survivor
-### Chapter 1846 
+### Chapter 1846
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Upon hearing what Black Steel said, Han Sen knew that the man must know something about this. But now was not the time to ask, so he was going to wait until Black Steel arrived.
+Upon hearing what Black Steel said, Han Sen knew that the man must know something about this. But now was not the time to ask, so he was going to wait until Black Steel arrived.
 
 But soon, Han Sen’s worries became reality. More people in the base began to develop strange egg markings on their foreheads. It seemed to be spreading.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Bai Wuchang
-### Chapter 2302 
+### Chapter 2302
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Out of all the royal children, it was rare for someone like Bai Wei—especially at her age—to not have visited The Grave of Soldiers and Kings.
+Out of all the royal children, it was rare for someone like Bai Wei—especially at her age—to not have visited The Grave of Soldiers and Kings.
 
 This wasn’t a negative commentary on Bai Wei’s skill, however. If she went to The Grave of Soldiers and Kings alone, she would have to be at least King class to pass the test.
 

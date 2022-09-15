@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Big Pirate
-### Chapter 1765 
+### Chapter 1765
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “Cheap bastard! Selfish! No wonder he calls himself Dollar.” The lady muttered to herself continuously as she walked. Han Sen had agreed to help her get a silver goat, but he had taken Purple-Moon Sword’s sister blade. One was short and the other was long; they were a pair.
+“Cheap bastard! Selfish! No wonder he calls himself Dollar.” The lady muttered to herself continuously as she walked. Han Sen had agreed to help her get a silver goat, but he had taken Purple-Moon Sword’s sister blade. One was short and the other was long; they were a pair.
 
 Han Sen was happy about receiving them, though. He hadn’t examined them properly yet, but they at least looked far better than the Rhino Horn Dagger.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Han Sen’s Trouble
-### Chapter 2634 
+### Chapter 2634
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  After a year spent in recovery, Han Sen was now almost as healthy as he had been before the Medusa’s shield sucked him dry. But rather than making his life easier, recovering from his injuries actually brought him new difficulties.
+After a year spent in recovery, Han Sen was now almost as healthy as he had been before the Medusa’s shield sucked him dry. But rather than making his life easier, recovering from his injuries actually brought him new difficulties.
 
 Before, while his body was known to be damaged, no one had made any demands of him. Now that he was well again, all kinds of people tried to flex their authority or exploit their relationship with Han Sen to ask him to bless their children.
 

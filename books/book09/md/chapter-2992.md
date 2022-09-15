@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Holy Body Geno Fluid
-### Chapter 2992 
+### Chapter 2992
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “We must find a place to talk,” Bai King said to Han Sen with a merry laugh.
+“We must find a place to talk,” Bai King said to Han Sen with a merry laugh.
 
 “OK.” Han Sen wanted to know why Bai King saved him earlier, as well as why Bai King was happy letting him claim all the benefits he wanted.
 

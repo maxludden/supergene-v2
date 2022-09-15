@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Self Cogwheels
-### Chapter 2386 
+### Chapter 2386
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen was very curious about that sword light rain. Although people said King Bai had destroyed the sword light, Han Sen didn’t think the reality of what had happened was quite that simple.
+Han Sen was very curious about that sword light rain. Although people said King Bai had destroyed the sword light, Han Sen didn’t think the reality of what had happened was quite that simple.
 
 Han Sen summoned the Siren Virgin so that she could take a look at the sword light rain. He also told her about the sword light that had appeared atop Rot Bone Mountain’s peak. He didn’t reveal that he was the one who had destroyed the knoll atop that mountain, however.
 

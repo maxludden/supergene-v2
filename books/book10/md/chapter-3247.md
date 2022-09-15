@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Do You Know Knife?
-### Chapter 3247 
+### Chapter 3247
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Across those big, endless ice fields, even if Han Sen had to use his Dongxuan Aura to look. He could not find any land pulses or gene eggs. It made Han Sen confess that his skill had a very specific purpose. No matter how strong his powers were, he was not going to be as good as Mister Yang or Bald Guy when it came to sniffing out potential land pulses.
+Across those big, endless ice fields, even if Han Sen had to use his Dongxuan Aura to look. He could not find any land pulses or gene eggs. It made Han Sen confess that his skill had a very specific purpose. No matter how strong his powers were, he was not going to be as good as Mister Yang or Bald Guy when it came to sniffing out potential land pulses.
 
 Tian Jing and Zhen Xia were obviously professionals. They had a profound knowledge of land pulse discovery skills. According to the information Bao’er was sending him, Tian Jing and Zhen Xia were looking for a shocking sky god pulse that possibly contained a rare gene race called an ice jade evil lady.
 

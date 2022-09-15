@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## The Exposed Shelter
-### Chapter 548 
+### Chapter 548
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen left the virtual training camp in a good mood. After practicing with Xiang Fei, the Dual sword skill had significantly improved.
+Han Sen left the virtual training camp in a good mood. After practicing with Xiang Fei, the Dual sword skill had significantly improved.
 
 Han Sen took a shower, all the while humming a song. When he was done, he lay down on the bed right as his communicator rang. Taking a look at who was calling, he saw it was Qin Xuan.
 

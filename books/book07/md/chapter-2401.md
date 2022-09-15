@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Do You Believe That This World Has a God
-### Chapter 2401 
+### Chapter 2401
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen had long been curious about Destiny’s Tower, and that was because this stone Destiny’s Tower was just like the metal Destiny’s Tower inside his Sea of Soul. Aside from the towers being made of different materials—one having been made of stone and other having been made of metal—there was no difference.
+Han Sen had long been curious about Destiny’s Tower, and that was because this stone Destiny’s Tower was just like the metal Destiny’s Tower inside his Sea of Soul. Aside from the towers being made of different materials—one having been made of stone and other having been made of metal—there was no difference.
 
 Four deified elites used their powers to force open the gate to Destiny’s Tower. Only one person could go in while the gate was being held up. Once he received the signal, Han Sen immediately ran into the tower.
 

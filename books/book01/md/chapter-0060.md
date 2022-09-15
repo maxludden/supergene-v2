@@ -1,19 +1,18 @@
-Title:Golden-horned Shura 
-Chapter:60 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+Title:Golden-horned Shura
+Chapter:60
+Section:1
+Book:1
+CSS:../Styles/style.css
 viewport: width=device-width
-  
+
 ## Golden-horned Shura
-### Chapter 60 
+### Chapter 60
+
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
-  
 
-  
-  Han Sen made some brief explanation to Zhang Danfeng after he parted with Lin Beifeng.
+HHan Sen made some brief explanation to Zhang Danfeng after he parted with Lin Beifeng.
 
 Han Sen understated everything and didn’t say much about Han Hao, as he knew Zhang Danfeng wouldn’t let Han Hao off easily had he told Zhang Danfeng what had really happened.
 
@@ -25,9 +24,9 @@ There were almost no human activities there, so he would definitely return with 
 
 Han Sen suddenly heard a glitch sound and all the lights started flashing. Surprised, he looked up and saw a meteor-like fireball quickly falling from the sky toward his direction.
 
-"Warning… Warning… Unidentified flying object detected..."
+<p class="article">"Warning… Warning… Unidentified flying object detected..."</p>
 
-Bang!
+*Bang!*
 
 After the alarm of the planet's defense system sounded for a few times, the fireball hit a tall building followed by an explosion. It turned dark as the electricity was out.
 
@@ -61,7 +60,7 @@ Face covered in tears and hands covered with dust and blood, she was almost desp
 
 The little girl gradually lost her strength and her clothes was slowly tearing. From such a height, even an adult who had max mutant geno points would fall to death, not to mention a kid.
 
-Bam!
+*Bam!*
 
 Next to the little girl, the door of the Shura aircraft suddenly opened and out came a Shura with a single golden horn on his head and a white mask that covered all his face but his eyes.
 
@@ -81,7 +80,7 @@ The Shura came out from the aircraft and saw little girl crying. With a cruel gl
 
 Han Sen summoned the black beetle, bloody slayer and purple-winged dragon all at once and turned himself into a giant winged centaur covered in golden armor, and even his wings were covered in golden armor.
 
-Boom!
+*Boom!*
 
 The huge wings brought him to the middle of the building almost instantaneously. Taking the girl with one hand, Han Sen grabbed the blade of the Shura’s katana with his other hand.
 

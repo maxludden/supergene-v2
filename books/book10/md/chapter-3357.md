@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Gourd Seed
-### Chapter 3357 
+### Chapter 3357
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Katcha!
+Katcha!
 
 While Han Sen was checking out the gourd, he witnessed the gourd suddenly break. It was like the little gourd was a lamp that fell from the gourd vine.
 

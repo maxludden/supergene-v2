@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Stone Man
-### Chapter 2420 
+### Chapter 2420
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  When Han Sen reached the control room, Miss Mirror, Red Cloud, and Night Wind were there staring at the rock through a monitor.
+When Han Sen reached the control room, Miss Mirror, Red Cloud, and Night Wind were there staring at the rock through a monitor.
 
 The stone had been locked inside a warehouse. No one was allowed to physically approach the warehouse, though. Whenever any creature approached the stone, something strange would happen.
 

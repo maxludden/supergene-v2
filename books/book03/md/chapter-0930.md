@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Phoenix Body
-### Chapter 930 
+### Chapter 930
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  "Ridiculous!" Hearing what Han Sen said, The King of Day could do nothing but scoff indignantly.
+"Ridiculous!" Hearing what Han Sen said, The King of Day could do nothing but scoff indignantly.
 
 Phoenix King took the jive calmly, though. He was not swayed by what Han Sen said, and merely responded, "This is good. Perhaps that is what we should do; of course, the reality will be the reverse. I kill you, and then you proceed to kill yourself ninety-nine times. Okay?"
 

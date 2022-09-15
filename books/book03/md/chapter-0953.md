@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Odin’s Eye
-### Chapter 953 
+### Chapter 953
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  After a lengthy silence, Green's face returned to a smile and he said, "You are already a demigod. What do you need that for?"
+After a lengthy silence, Green's face returned to a smile and he said, "You are already a demigod. What do you need that for?"
 
 "If I can't use it, then I could at least provide it to my student." Zhuo Donglai smiled.
 

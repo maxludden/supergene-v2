@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## The Hope to Break What Binds
-### Chapter 2253 
+### Chapter 2253
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Ghost Bone’s will had been destroyed by the black crystal armor. The Ghost Bone power was now left inside Han Sen’s body, and although Han Sen could not make much use of it, his power was the same as that restrictive power. That provided him a new possibility.
+Ghost Bone’s will had been destroyed by the black crystal armor. The Ghost Bone power was now left inside Han Sen’s body, and although Han Sen could not make much use of it, his power was the same as that restrictive power. That provided him a new possibility.
 
 Han Sen needed to find a way in which he could break the restrictions, and by doing so, perhaps be able to escape that place.
 

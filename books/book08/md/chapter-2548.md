@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Familiar Presence
-### Chapter 2548 
+### Chapter 2548
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The armored man vanished from Gu Qingcheng and Elysian Moon’s vision. Then, he reappeared in front of Han Sen. His striking fist approached Han Sen’s belly. Just as the armored man’s fist was about to hit Han Sen, Han Sen’s body suddenly disappeared. He reappeared elsewhere. His fast escape was a product of the teleportation abilities he had been practicing.
+The armored man vanished from Gu Qingcheng and Elysian Moon’s vision. Then, he reappeared in front of Han Sen. His striking fist approached Han Sen’s belly. Just as the armored man’s fist was about to hit Han Sen, Han Sen’s body suddenly disappeared. He reappeared elsewhere. His fast escape was a product of the teleportation abilities he had been practicing.
 
 Without a moment’s hesitation, the armored man threw another punch. And with it, his body vanished just like last time. He appeared in front of Han Sen.
 

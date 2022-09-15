@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## The Battle of the Arrow
-### Chapter 1768 
+### Chapter 1768
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Blergh!
+Blergh!
 
 Hawei opened his mouth, and blood leaked over his lips. The arrow neatly punctured his heart, bringing him down to the ground. He kept twitching, and his faint breaths would only sustain himself briefly. Death would soon claim him.
 

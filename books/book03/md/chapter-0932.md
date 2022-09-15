@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## When Next We Meet, I’ll Buy You a Drink
-### Chapter 932 
+### Chapter 932
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen was incredibly happy at this news. They had run out of food a long time ago, and now they had the opportunity to restock.
+Han Sen was incredibly happy at this news. They had run out of food a long time ago, and now they had the opportunity to restock.
 
 Han Sen called for Qu Lanxi and Little Wind to accompany him and Chu Ming in the hunt of creatures. He wasn't going to waste a single second, as he wasn't sure when the shelter would move to the outskirts of the forest again.
 

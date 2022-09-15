@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Time Wheel Spins
-### Chapter 3386 
+### Chapter 3386
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “What is that supposed to mean?” Han Sen did not really understand the way Ancient Devil was thinking.
+“What is that supposed to mean?” Han Sen did not really understand the way Ancient Devil was thinking.
 
 Ancient Devil said, “It is easy to understand. It is like the way many machines are affected by electromagnetic pulses. Time here can change its speed. For time-element beings, that can cause a great disturbance. If they fought here, they would have to figure out how to fix the disturbance problem. Other power elements are not as affected here. They can fight here. The more powerful you are with time elements, the worse you will be in Time Sky. Of course, if their time power can go beyond Time Sky, none of this can affect them. If you were able to control time, time-element elites will not be affected here. They would be invincible. Now, no one has a time power that can exceed Time Sky.”
 

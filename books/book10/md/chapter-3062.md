@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Reverse Life Cycle
-### Chapter 3062 
+### Chapter 3062
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  When they had almost left Ancient Big God Mountain, Li Bing Yu suddenly said, “If it was me, I would not go into town right now.”
+When they had almost left Ancient Big God Mountain, Li Bing Yu suddenly said, “If it was me, I would not go into town right now.”
 
 “Why?” Han Sen looked at Li Bing Yu with interest.
 

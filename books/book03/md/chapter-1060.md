@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Wrong Delivery
-### Chapter 1060 
+### Chapter 1060
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen frowned. He had been stung by something. On his hand, there was a red dot that oozed a droplet of blood.
+Han Sen frowned. He had been stung by something. On his hand, there was a red dot that oozed a droplet of blood.
 
 Han Sen scanned the wound and was relieved to learn he had not been poisoned or infected by the stinger, whatever it was.
 

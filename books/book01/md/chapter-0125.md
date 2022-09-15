@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Who Is Your Boyfriend?
-### Chapter 125 
+### Chapter 125
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Later they noticed the game itself, and then found that My-girlfriend-is-Ji-Yanran had the upper hand. He also seemed to be very fast and had an overwhelming advantage.
+Later they noticed the game itself, and then found that My-girlfriend-is-Ji-Yanran had the upper hand. He also seemed to be very fast and had an overwhelming advantage.
 
 A simple look would not reveal much, but with Liu as the reference, they could tell how fast he was.
 

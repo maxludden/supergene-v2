@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Shura’s Martial Art
-### Chapter 64 
+### Chapter 64
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  "That’s really me?" Han Sen couldn’t believe he looked so good. The way the video was edited made him blush a little.
+"That’s really me?" Han Sen couldn’t believe he looked so good. The way the video was edited made him blush a little.
 
 At that time, he was only doing what he could to help the children out. Although the fall in the end looked tragic, he was in fact able to kick the Shura off him and fly away when they were about to hit the ground. It was not quite as risky as it looked.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Fleeing Team
-### Chapter 1005 
+### Chapter 1005
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  On the slopes of that mountain, a group of people were traveling. They were a mixture of young and old people, and there were about two hundred people in total. They were sluggish and in disarray, and upon closer inspection, many were wounded. Some had been more grievously injured than others, with many having lost entire limbs. It was a horrifying scene.
+On the slopes of that mountain, a group of people were traveling. They were a mixture of young and old people, and there were about two hundred people in total. They were sluggish and in disarray, and upon closer inspection, many were wounded. Some had been more grievously injured than others, with many having lost entire limbs. It was a horrifying scene.
 
 “Uncle San, are we going to make it?” a young woman asked an elderly person, as she rode upon a unicorn.
 

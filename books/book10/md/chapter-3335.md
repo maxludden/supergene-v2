@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Pulling Out the Sword
-### Chapter 3335 
+### Chapter 3335
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “You are tricking me,” the purple copper sword said. It was furious. It now knew it had been well and truly duped by Han Sen.
+“You are tricking me,” the purple copper sword said. It was furious. It now knew it had been well and truly duped by Han Sen.
 
 “If wanted to choose a man, so you chose a man,” Han Sen said with a smile. “If you wanted a woman, you should have chosen a woman. I let you pick first. What you are saying now is plain unfair.”
 

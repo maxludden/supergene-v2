@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Sheep
-### Chapter 1340 
+### Chapter 1340
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen placed the Dust Bug on his finger. The geno core was so small, he needed the Dongxuan Aura just to see it.
+Han Sen placed the Dust Bug on his finger. The geno core was so small, he needed the Dongxuan Aura just to see it.
 
 Dust Bug: Earth Element Bronze Geno Core
 

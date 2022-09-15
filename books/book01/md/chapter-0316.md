@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Feeding My Pet
-### Chapter 316 
+### Chapter 316
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  "That does not even make sense. We do not have sacred-blood beast souls from Second God’s Sanctuary, even if we do, it is impossible that we exchange them for something in First God’s Sanctuary," said Ma Mingjun with his brows knitted.
+"That does not even make sense. We do not have sacred-blood beast souls from Second God’s Sanctuary, even if we do, it is impossible that we exchange them for something in First God’s Sanctuary," said Ma Mingjun with his brows knitted.
 
 The sacred-blood beast souls in Second God’s Sanctuary were much harder to come by than those in First God’s Sanctuary, and thus much more valuable.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Being Eaten!
-### Chapter 2153 
+### Chapter 2153
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “How could it have vanished?” Han Sen mumbled in confusion.
+“How could it have vanished?” Han Sen mumbled in confusion.
 
 The Sun Raven was a baby, but it was a deified creature from the geno universe. Its deified genes were so stable that Han Sen was unable to absorb them. It would be pointless for a creature in the Alliance to steal it.
 

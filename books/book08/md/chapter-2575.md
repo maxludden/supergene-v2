@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Geno Art Swapped for Fruit
-### Chapter 2575 
+### Chapter 2575
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The Very High were admired by all. No matter where Exquisite and Li Keer went, they were as popular as the stars and the moon.
+The Very High were admired by all. No matter where Exquisite and Li Keer went, they were as popular as the stars and the moon.
 
 Even when the Extreme King’s princes and princesses met with them, the royal children would be extra polite to them. They would treat the two Very High like VIPs at all times, not willing to do anything that might offend them.
 

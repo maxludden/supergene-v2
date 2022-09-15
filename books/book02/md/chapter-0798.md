@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Getting Into the Shelter
-### Chapter 798 
+### Chapter 798
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The fog lay heavy, and Han Sen made sure to summon his most useful beast souls before entering the mist. He pierced into the clouds without hindrance, but as he entered, a frightful feeling crept along his spine and chilled him to the bone.
+The fog lay heavy, and Han Sen made sure to summon his most useful beast souls before entering the mist. He pierced into the clouds without hindrance, but as he entered, a frightful feeling crept along his spine and chilled him to the bone.
 
 Han Sen saw a fire-wreathed shadow approach from his side. If he wasn't wearing his devil-eye mask, he wouldn't have caught its coming.
 

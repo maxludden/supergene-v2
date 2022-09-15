@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Second Uncle
-### Chapter 1589 
+### Chapter 1589
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  When Zuo Lan heard what Han Sen said, she wasn’t sure if what he was telling the truth, but she understood.
+When Zuo Lan heard what Han Sen said, she wasn’t sure if what he was telling the truth, but she understood.
 
 The secretary could only roll her eyes and say, “This is a big business matter, and he goes to the sanctuary? And what is this attitude of yours? And what is with these children? Are you a manager or a babysitter?”
 

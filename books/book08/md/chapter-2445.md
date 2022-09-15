@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Tianxia System
-### Chapter 2445 
+### Chapter 2445
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “Mister Quin, why are we not going to the White River System? We seem to be headed for Tianxia System instead.” An Extreme King knight looked Bao Quin with confusion.
+“Mister Quin, why are we not going to the White River System? We seem to be headed for Tianxia System instead.” An Extreme King knight looked Bao Quin with confusion.
 
 “The White River System is currently in turmoil. Interstellar pirates are everywhere there. It might seem easy for Han Sen to slip through the chaos, but it is a very populated place. Han Sen has a bold personality, so it most likely compelled him to go to the Tianxia System,” Bao Quin deduced tonelessly.
 

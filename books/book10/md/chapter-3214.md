@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Invincible Stance
-### Chapter 3214 
+### Chapter 3214
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  In the darkness, a gold shadow was quaking. It was becoming brighter too. Within a few seconds, Wan’er was able to walk right out of that dark. She effortlessly strolled out of the painting
+In the darkness, a gold shadow was quaking. It was becoming brighter too. Within a few seconds, Wan’er was able to walk right out of that dark. She effortlessly strolled out of the painting
 
 “No… Impossible…” The painting’s god face changed. His face was full of shock. Before the universe rebooted, he had been the strongest elite. Even members of the God Chaos Party were afraid of him.
 

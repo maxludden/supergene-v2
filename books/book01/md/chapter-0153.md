@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## The Hilarious Destroyer
-### Chapter 153 
+### Chapter 153
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  In Blackhawk Military Academy, many students were also watching the live show hosted by Fang Mingquan. No one could be in all the match venues at the same time, so some students in other venues were watching warframe games through Fang’s program.
+In Blackhawk Military Academy, many students were also watching the live show hosted by Fang Mingquan. No one could be in all the match venues at the same time, so some students in other venues were watching warframe games through Fang’s program.
 
 But most of them watched because of the fame of Fang Mingquan. Military school students were mostly in First God’s Sanctuary and all knew of Fang.
 

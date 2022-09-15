@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Thorned History
-### Chapter 959 
+### Chapter 959
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  "Are you done staring?" Han Sen asked.
+"Are you done staring?" Han Sen asked.
 
 Thorn Baron looked at Han Sen and mumbled, "You are The King?"
 

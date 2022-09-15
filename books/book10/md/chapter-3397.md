@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Test
-### Chapter 3397 
+### Chapter 3397
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen just shrugged his shoulders in response. “It’s fine if you do not want to test me. Once I have reached a standard you deem to be suitable, it will be your loss.”
+Han Sen just shrugged his shoulders in response. “It’s fine if you do not want to test me. Once I have reached a standard you deem to be suitable, it will be your loss.”
 
 “That will be impossible,” the geno tablet answered with certainty.
 

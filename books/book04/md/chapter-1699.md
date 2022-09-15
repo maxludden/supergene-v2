@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Officer From the Past
-### Chapter 1699 
+### Chapter 1699
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “Night, it’s been a long time. It is nice to see you.” The officer smiled. And oh, he was handsome; as handsome as a God. He slowly walked over to Stay Up Late.
+“Night, it’s been a long time. It is nice to see you.” The officer smiled. And oh, he was handsome; as handsome as a God. He slowly walked over to Stay Up Late.
 
 “It is good to see you again.” Stay Up Late felt touched.
 

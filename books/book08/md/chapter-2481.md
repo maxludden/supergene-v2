@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Daddy of Gods
-### Chapter 2481 
+### Chapter 2481
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “If he’s the master of all celestial beings, then I’m the daddy of all gods,” said a King class elite with a tremendous belly-laugh.
+“If he’s the master of all celestial beings, then I’m the daddy of all gods,” said a King class elite with a tremendous belly-laugh.
 
 Many other elites were saying similar things. They enjoyed mocking others, and with what was happening on the video stream, it was too easy. It was like two crazy people putting on a comedy skit.
 

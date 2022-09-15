@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Leftover Power
-### Chapter 2736 
+### Chapter 2736
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen kept firing his two pistols without reprieve, countering each of Shale’s punching powers. No matter how strong Shale’s punches were, none of them could come close to touching Han Sen.
+Han Sen kept firing his two pistols without reprieve, countering each of Shale’s punching powers. No matter how strong Shale’s punches were, none of them could come close to touching Han Sen.
 
 It had taken Li Chun Qiu mere moments to confirm that when Shale used Star Explode, his power only equaled Han Sen. His expression looked strained, and he thought to himself, “If this is Han Sen’s base power, then that is too scary.”
 

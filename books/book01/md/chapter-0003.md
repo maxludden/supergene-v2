@@ -1,18 +1,19 @@
-Title:Sacred-blood Armor 
-Chapter:3 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+Title:Sacred-blood Armor
+Chapter:3
+Section:1
+Book:1
+CSS:../Styles/style.css
 viewport: width=device-width
-  
+
 ## Sacred-blood Armor
-### Chapter 3 
+### Chapter 3
+
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
-  
 
-  
+
+
   Han Sen returned to his room, made a fire, and started boiling the black beetle claws and shells in a pot.
 
 Without tools and know-how, he could only use the most primitive methods to process the shells and extract the geno essence.
@@ -49,7 +50,7 @@ Its light green scales had now completely turned a dark green color. Its teeth h
 
 Han Sen was pleasantly surprised and pulled out the dagger from his waist. He rushed to the front of the cage and stabbed the dagger into the lower belly of the green-scaled beast. With a turn of the dagger, the green scaled beast stopped struggling.
 
-> "Primitive Creature Green-Scaled Beast Killed. No Beast Soul Gained. Eat The Flesh Of The Primitive Green-Scaled Beast To Gain Zero To Ten Points Randomly."
+> "Primitive creature Green-Scaled Beast killed. No beast soul gained. Eat the flesh of the Primitive Green-Scaled Beast to gain zero to ten points randomly."
 
 The strange voice sounded in Han Sen’s mind and left him stunned.
 
@@ -68,56 +69,51 @@ Without tools and means, his primitive method couldn’t extract all geno essenc
 Han Sen realized that he had gained a sacred-blood beast soul of a black beetle when he killed the golden black beetle, and he quickly accessed his profile.
 
 <div class="tables">
-
-<table class="status">
-	<tr>
-		<th colspan="2">Han Sen</th>
-	</tr><tr>
-		<td>Status</td>
-			<td>Unevolved</td>
-	</tr><tr>
-		<td>Lifespan</td>
-		<td>200 years</td>
-	</tr>
-</table>
-<!-- Han Sen: Not evolved. -->
-<!-- Status: None -->
-<!-- Life span: 200 years. -->
-
-<table class="geno-r">
-	<tr>
-		<th colspan="2">Geno Points</th>
-	</tr><tr>
-		<td>Required to Evolve</td>
-		<td>100</td>
-	</tr>
-</table>
-<!-- Requirements for evolution: 100 geno points. -->
-
-<table class="geno">
-	<tr>
-		<th colspan="2">Geno Points Gained</th>
-	</tr><tr>
-		<td>Ordinary</td>
-		<td>79</td>
-	</tr><tr>
-		<td>Sacred-Blood</td>
-		<td>8</td>
-	</tr>
-</table>
-<!-- Geno points gained: 79 geno points; 8 sacred geno points. --> 
-
-<table class="beast">
-	<tr>
-		<th colspan="2">Beast Souls Gained</th>
-	</tr><tr>
-		<td> Sacred-Blood Black Beetle</td>
-		<td>(Armor)</td>
-	</tr>
-</table> 
-<!-- Beast soul gained: Sacred-Blood Black Beetle.-->
-<!-- Type of sacred-blood black beetle’s beast soul: Armor. -->
-
+	<table class="status">
+		<tr>
+			<th colspan="2">Han Sen</th>
+		</tr><tr>
+			<td>Status</td>
+				<td>Unevolved</td>
+		</tr><tr>
+			<td>Lifespan</td>
+			<td>200 years</td>
+		</tr>
+	</table>
+	<!-- Han Sen: Not evolved. -->
+	<!-- Status: None -->
+	<!-- Life span: 200 years. -->
+	<table class="geno-r">
+		<tr>
+			<th colspan="2">Geno Points</th>
+		</tr><tr>
+			<td>Required to Evolve</td>
+			<td>100</td>
+		</tr>
+	</table>
+	<!-- Requirements for evolution: 100 geno points. -->
+	<table class="geno">
+		<tr>
+			<th colspan="2">Geno Points Gained</th>
+		</tr><tr>
+			<td>Ordinary</td>
+			<td>79</td>
+		</tr><tr>
+			<td>Sacred-Blood</td>
+			<td>8</td>
+		</tr>
+	</table>
+		<!-- Geno points gained: 79 geno points; 8 sacred geno points. -->
+	<table class="beast">
+		<tr>
+			<th>Beast Souls</th>
+		</tr><tr>
+			<td> Sacred-Blood Black Beetle<br>
+				<span class="type">(Armor)</td>
+		</tr>
+	</table>
+	<!-- Beast soul gained: Sacred-Blood Black Beetle.-->
+	<!-- Type of sacred-blood black beetle’s beast soul: Armor. -->
 </div>
 
 "What would the armor of sacred-blood black beetle’s beast soul look like?" Before Han Sen finished the thought, a golden shadow shot out of thin air, looking exactly like the golden black beetle.

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Pulling the String
-### Chapter 2554 
+### Chapter 2554
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen held Wind String, and his fingers caressed the bowstring. It shivered at his touch, like he was brushing against a dragon or a tiger.
+Han Sen held Wind String, and his fingers caressed the bowstring. It shivered at his touch, like he was brushing against a dragon or a tiger.
 
 Swords had sword souls, and bows had a spirit of their own, too. The higher level it was, the harder it was for others to make use of it. Han Sen used his Dongxuan Sutra powers to activate the treasure. He was able to make use of most treasures, but that was because most treasures didn’t already have owners. This Wind String did have a master, and even with Han Sen using his Dongxuan Area powers, it resisted. He was unable to pull the string back.
 

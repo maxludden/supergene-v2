@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## The View That Contains a Thousand Birds
-### Chapter 1038 
+### Chapter 1038
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “Who are you?” Holy-Sword Emperor asked.
+“Who are you?” Holy-Sword Emperor asked.
 
 “That is of no concern to you,” Han Sen said.
 

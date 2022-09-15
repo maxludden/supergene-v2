@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Du God City
-### Chapter 2424 
+### Chapter 2424
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The stone path was exactly the same as the video depicted. It was unremarkable in the beginning, and Han Sen and the others reached the statue with a thousand hands and a thousand eyes.
+The stone path was exactly the same as the video depicted. It was unremarkable in the beginning, and Han Sen and the others reached the statue with a thousand hands and a thousand eyes.
 
 But Han Sen could clearly feel that the closer he got to the statue, the stronger the strange impulses became.
 

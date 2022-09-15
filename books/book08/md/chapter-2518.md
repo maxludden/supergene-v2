@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## The Plan Fails
-### Chapter 2518 
+### Chapter 2518
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Bai Wan Jie looked on from far away. Behind him were a hundred royal knights. They were all lined up in a formation, and the weakest knight in their ranks was King class.
+Bai Wan Jie looked on from far away. Behind him were a hundred royal knights. They were all lined up in a formation, and the weakest knight in their ranks was King class.
 
 Very few races in the universe could gather up an army of knights like that. And Bai Wan Jie had only brought a small segment of their knights.
 

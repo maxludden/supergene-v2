@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Ling Mei’er
-### Chapter 1429 
+### Chapter 1429
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “Snake King, this egg looks special. Does it belong to a super creature?” The lady dismounted the snake and ventured towards the egg; she stroked the egg as she spoke.
+“Snake King, this egg looks special. Does it belong to a super creature?” The lady dismounted the snake and ventured towards the egg; she stroked the egg as she spoke.
 
 The big snake nodded to the lady.
 

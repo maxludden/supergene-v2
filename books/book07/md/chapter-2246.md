@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## White Bone Hell
-### Chapter 2246 
+### Chapter 2246
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  When Han Sen’s vision returned to him, a very disturbing sight greeted his eyes.
+When Han Sen’s vision returned to him, a very disturbing sight greeted his eyes.
 
 White bones were everywhere. In one place, they had been piled up to form a small mountain. It was difficult to fathom how many lives had been lost there.
 

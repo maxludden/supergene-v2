@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Little Red Bird Shows Off
-### Chapter 2361 
+### Chapter 2361
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The faces of Han Sen and the blood kirin were squashed together. Han Sen hesitated, trying to decide if he should take the blood kirin with him to the sanctuaries. Even if the powers of the sanctuary harmed the creature, it was better than being squeezed into a sausage then and there.
+The faces of Han Sen and the blood kirin were squashed together. Han Sen hesitated, trying to decide if he should take the blood kirin with him to the sanctuaries. Even if the powers of the sanctuary harmed the creature, it was better than being squeezed into a sausage then and there.
 
 The rainbow sea conch didn’t move. It kept pushing the glass down on Han Sen and the blood kirin in a cruel bid to crush them. The black sea conch was standing just outside the glass, and it seemed darkly amused. It moved around a little, and small black things emerged from its shell. They were the black sea conches.
 

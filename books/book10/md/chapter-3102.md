@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Steel Scene
-### Chapter 3102 
+### Chapter 3102
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Before Han Sen went to find Feng Yin Yin, Feng Fei Fei had already brought her to where he lived.
+Before Han Sen went to find Feng Yin Yin, Feng Fei Fei had already brought her to where he lived.
 
 “San Mu, I had a discussion with my auntie,” Feng Yin Yin happily said as she tugged at his arms. “You should move into our house.”
 
@@ -37,7 +38,13 @@ She thought people like Han Sen would have some sort of fetish, but it was actua
 
 “You can tell me anything,” Han Sen said as he looked at Feng Fei Fei and sat down on the couch.
 
-Feng Fei Fei had a serious expression as she looked at Han Sen. She bowed and said, “I am here to thank you for saving my life. I am also here to save your life.” “What do you mean?” Han Sen looked at Feng Fei Fei with interest. Feng Fei Fei did not answer. Instead, she bluntly asked, “Am I correct that it was you who killed Mister Gong Shu Jin?” “Let’s say I did. What about it?” Han Sen did not deny it.
+Feng Fei Fei had a serious expression as she looked at Han Sen. She bowed and said, “I am here to thank you for saving my life. I am also here to save your life.” 
+
+“What do you mean?” Han Sen looked at Feng Fei Fei with interest. 
+
+Feng Fei Fei did not answer. Instead, she bluntly asked, “Am I correct that it was you who killed Mister Gong Shu Jin?” 
+
+“Let’s say I did. What about it?” Han Sen did not deny it.
 
 Feng Fei Fei sighed and said, “Gong Shu Jin died because of me. I understand if Gong Shu Zhi cannot let me go. If he really wants to kill me, he will kill you too.”
 
@@ -48,8 +55,6 @@ Feng Fei Fei nodded. “I asked a friend to investigate. It was Gong Shu Zhi. He
 Han Sen smiled at Feng Fei and asked, “If you knew it was Gong Shu Zhi and Si Tu Ya, why are you letting them walk free?”
 
 “I do not want to let them go, but I can only watch them go. Yesterday, they were invited to Ice Snow City.” Feng Fei Fei, upon seeing Han Sen appear confused, explained, “Ice Snow City belongs to a god-blood noble, Steel Scene. He inherited a God Spirit Blood-Pulse and has incredible power. Furthermore, Steel Scene has the kingdom’s guard. He is an important character in the Qin Kingdom. I am just a singer. Although I am quite famous, no one would dare offend Mister Steel Scene on behalf of a singer.”
-
-le
 
 “Why would Steel Scene seek to protect Gong Shu Zhi?” Han Sen quietly asked.
 
@@ -63,7 +68,7 @@ Feng Fei Fei sought Han Sen out so the two of them could go against Steel Scene 
 
 Plus, in Jade Wall City, Steel Scene was not able to randomly go and murder someone.
 
-Han Sen said anything. He looked a bit murderous. It was as if he had just made a decision.
+Han Sen didn't say anything. He looked a bit murderous. It was as if he had just made a decision.
 
 Han Sen decided to live with Feng Fei Fei. He did not try to slow this process down. He had Jiang Shi and Mister Yang pack their bags. They went to the castle in Jade Wall City that Feng Fei Fei lived in.
 

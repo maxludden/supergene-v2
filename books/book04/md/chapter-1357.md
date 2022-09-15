@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## One-hit Kill
-### Chapter 1357 
+### Chapter 1357
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Without hesitation or concern for himself, Han Sen reached for Bao’er to place her behind him. But before he could, the doll’s eyes flashed red. Then, strangely, it looked surprised.
+Without hesitation or concern for himself, Han Sen reached for Bao’er to place her behind him. But before he could, the doll’s eyes flashed red. Then, strangely, it looked surprised.
 
 Han Sen examined Bao’er, and much to his relief, he saw she had not been turned into wood.
 

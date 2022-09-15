@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Destroyed or Not?
-### Chapter 2965 
+### Chapter 2965
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The god palaces were quiet as they hung in space. It seemed as if it was between a real presence and a dream. It was such a big god palace, but it did not take over the real system.
+The god palaces were quiet as they hung in space. It seemed as if it was between a real presence and a dream. It was such a big god palace, but it did not take over the real system.
 
 Aside from the thunder god earlier, the doors to the god temples around were closed shut, as was the door to the geno hall high above. It was unknown if God Spirits existed there.
 

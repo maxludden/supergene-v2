@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Three Month Promise
-### Chapter 1904 
+### Chapter 1904
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The exchange was supposed to be a stage for Moon Garden and its members, but Han Sen’s Buddha writing and Gu Qingcheng’s display of sword skills made the aforementioned members—and the Buddhas—look rather lame. Han Sen was on the tip of everyone’s tongue now.
+The exchange was supposed to be a stage for Moon Garden and its members, but Han Sen’s Buddha writing and Gu Qingcheng’s display of sword skills made the aforementioned members—and the Buddhas—look rather lame. Han Sen was on the tip of everyone’s tongue now.
 
 People thought Gu Qingcheng was a family member of Han Sen. Believing that, it meant one member of his family could beat Speechless Buddha. Han Sen also had Teeth Knife and created a mind simply by watching a Buddha’s performance. It was all so unbelievable. The whole of Narrow Moon was fascinated.
 

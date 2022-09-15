@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Human-faced Scorpion
-### Chapter 1126 
+### Chapter 1126
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen’s pupils shrank as he saw three of the bugs vanish.
+Han Sen’s pupils shrank as he saw three of the bugs vanish.
 
 With no indication of another creature or unexpected movement, they disappeared right in front of his eyes.
 

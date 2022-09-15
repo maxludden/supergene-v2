@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Raven Feather Bolt
-### Chapter 632 
+### Chapter 632
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  "Judging from the silver fox's reaction, that gourd surely presents no threat. But if it was something good, why would the silver fox go back to sleep?" Han Sen was still unable to determine whether the gourd was good or bad, but he wasn't willing to take the risk. Once he was healed, he planned to take the gourd out someplace far from the roads others tread and discard it.
+"Judging from the silver fox's reaction, that gourd surely presents no threat. But if it was something good, why would the silver fox go back to sleep?" Han Sen was still unable to determine whether the gourd was good or bad, but he wasn't willing to take the risk. Once he was healed, he planned to take the gourd out someplace far from the roads others tread and discard it.
 
 It would be best to throw it somewhere deep into the wild, in case something emerged from the gourd that would harm innocent people.
 

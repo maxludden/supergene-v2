@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Wolfpack
-### Chapter 1404 
+### Chapter 1404
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Everyone shared a similar reaction to Han Sen. As soon as they saw what lay ahead, they all wished to flee.
+Everyone shared a similar reaction to Han Sen. As soon as they saw what lay ahead, they all wished to flee.
 
 They ran into the invisible barrier behind them face first. Many of their faces even started to bleed, due to the speed at which they tried to escape.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Sos
-### Chapter 369 
+### Chapter 369
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Although the disappearance of the egg gave Han Sen some thoughts, he could not confirm any of it.
+Although the disappearance of the egg gave Han Sen some thoughts, he could not confirm any of it.
 
 After splitting the meat of the sacred-blood creature with Ye Yufeng, Han Sen returned to Steel Armor Shelter and ate the meat on the way. When Han Sen returned to the shelter, he had gained two more sacred geno points and now had eighty-five.
 

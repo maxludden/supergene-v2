@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Luo Family’s Secret
-### Chapter 1084 
+### Chapter 1084
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Luo Lan had spoken a lot, all to explain to Han Sen where the Falsified-Sky Sutra had come from. He still had many lingering questions, however, and one of those was why the family was so insistent on them learning it.
+Luo Lan had spoken a lot, all to explain to Han Sen where the Falsified-Sky Sutra had come from. He still had many lingering questions, however, and one of those was why the family was so insistent on them learning it.
 
 Luo Lan continued to explain. “It is because the blood of the shura has thinned a lot since then. There was an argument in the Luo family, suggesting they interbreed with the shura again and revitalize their blood. Others were, of course, against the idea. We are humans, and that’s what they believed we should remain. Hybrids were not necessary. It split the family in two. Those who wished to keep the family as purely human remained in the Alliance. The others went off to live with the shura.”
 

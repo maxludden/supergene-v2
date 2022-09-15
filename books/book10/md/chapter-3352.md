@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Copper Room
-### Chapter 3352 
+### Chapter 3352
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  There was no Evil God Beard inside the hole, so there was no longer a need to worry about anything.
+There was no Evil God Beard inside the hole, so there was no longer a need to worry about anything.
 
 Han Sen played dead, but he felt like something was stepping on his head. He then heard the squeaking noise again. It came from the little white rat.
 

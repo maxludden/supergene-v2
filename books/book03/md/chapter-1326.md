@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Ruin Emperor
-### Chapter 1326 
+### Chapter 1326
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Screams howled from the dark, but with the emperor spectators not being able to see what was going on within the metaphysical black that had enveloped their assaulting army, it made them nervous to see the results.
+Screams howled from the dark, but with the emperor spectators not being able to see what was going on within the metaphysical black that had enveloped their assaulting army, it made them nervous to see the results.
 
 Gu Demon Emperor and Three-Eye Emperor looked frightened, suspecting the worse to have happened. The noises were squeamish and driven from agony, and they weren’t the sounds of humans being mercilessly slain.
 

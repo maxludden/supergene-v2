@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Golden Rock Worm King
-### Chapter 131 
+### Chapter 131
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  When the angry sacred-blood fox king limped back to the top of the dune, the team had dashed out of the skulk.
+When the angry sacred-blood fox king limped back to the top of the dune, the team had dashed out of the skulk.
 
 Almost without any hesitation, Han Sen roared at Wang Mengmeng, "Summon your mount."
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Injured Pony
-### Chapter 1362 
+### Chapter 1362
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Dragon Lady and Cheap Sheep were worried. If Han Sen’s horn had not been able to penetrate the Gold Dragon, would there be much of a point in him using his bare fists? Surely, a slap had to be weaker.
+Dragon Lady and Cheap Sheep were worried. If Han Sen’s horn had not been able to penetrate the Gold Dragon, would there be much of a point in him using his bare fists? Surely, a slap had to be weaker.
 
 Confused and concerned, they watched in bewilderment as his palm was driven effortlessly through the Gold Dragon, as if the frightening creature was merely composed of water.
 

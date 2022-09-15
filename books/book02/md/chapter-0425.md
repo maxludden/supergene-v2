@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Second God’s Sanctuary
-### Chapter 425 
+### Chapter 425
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen looked at the person and became surprised. The gorgeous figure of Zero appeared in the teleport device.
+Han Sen looked at the person and became surprised. The gorgeous figure of Zero appeared in the teleport device.
 
 No… It is impossible that she's an evolver. How can she end up here? Even if she was an evolver, it is highly unlikely for her to end up at the same spot as me. The chance is so slim and there must be something wrong… Han Sen was lost, gazing at Zero.
 

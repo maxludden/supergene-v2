@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Sword Shadow
-### Chapter 3201 
+### Chapter 3201
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen clutched the bronze sword. Bao’er, Jia Shi Zhen, Qin Bai, and Thousand Mile Reach all had their eyes open wide as they watched him. They kept wondering whether or not Han Sen would end up being affected by the power of the sword and was going to repulsively dance like the man before him had done.
+Han Sen clutched the bronze sword. Bao’er, Jia Shi Zhen, Qin Bai, and Thousand Mile Reach all had their eyes open wide as they watched him. They kept wondering whether or not Han Sen would end up being affected by the power of the sword and was going to repulsively dance like the man before him had done.
 
 Facing a sword that could break the world, Han Sen did not dare underestimate things. He channeled power into his hands. It was one main power and one power reversed. The two types of power started to surge and generate a Break World power. It was directed into the sword through Han Sen’s hands. The Blood-Pulse Sutra and Xuan Yellow Sutra created this Break World power. It was able to analyze the origin of a lifeforce. It could also dissolve and rebuild it. That was the power it had. It could discern the building blocks of a creature’s origin with remarkable accuracy.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Dug Something Ou
-### Chapter 1685 
+### Chapter 1685
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “What are you digging?” Han Sen wondered. He knew that he couldn’t steal whatever it was from the Nine-Life Cat, as ten thousand fitness wasn’t much in the Fourth God’s Sanctuary.
+“What are you digging?” Han Sen wondered. He knew that he couldn’t steal whatever it was from the Nine-Life Cat, as ten thousand fitness wasn’t much in the Fourth God’s Sanctuary.
 
 Han Sen couldn’t use his geno armor in the sanctuaries, so he knew he’d be unable to beat the Nine-Life Cat. Fortunately, he still had Destiny’s Tower, and that meant he wasn’t afraid.
 

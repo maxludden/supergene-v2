@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Not All Evolvers Are Good
-### Chapter 351 
+### Chapter 351
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Those who had evolved with sacred geno points maxed out almost had no need in First God's Sanctuary. And once punished by the God's Sanctuary rules, they would suffer incredible damage. So, most people would simply enter Second God's Sanctuary.
+Those who had evolved with sacred geno points maxed out almost had no need in First God's Sanctuary. And once punished by the God's Sanctuary rules, they would suffer incredible damage. So, most people would simply enter Second God's Sanctuary.
 
 Even if they chose to stay in First God's Sanctuary, they would never be allowed to participate in the chosen contest in First God's Sanctuary. The most they could do was to kill some sacred-blood creatures, which would not matter that much to them.
 

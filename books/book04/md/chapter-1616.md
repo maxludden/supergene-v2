@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Evolved
-### Chapter 1616 
+### Chapter 1616
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Little Angel didn’t change much. She still had that white cape, and her hair looked tidy. The angel wings on her back and the halo on her head didn’t show up under non-fighting mode. Her face was so pure that it seemed she was actually from heaven.
+Little Angel didn’t change much. She still had that white cape, and her hair looked tidy. The angel wings on her back and the halo on her head didn’t show up under non-fighting mode. Her face was so pure that it seemed she was actually from heaven.
 
 However, Han Sen knew that this was only the ordinary status of the angel. Her combat mode was totally different.
 

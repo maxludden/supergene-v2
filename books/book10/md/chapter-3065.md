@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Holy Wen White Deer
-### Chapter 3065 
+### Chapter 3065
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Turin Planet was different from ordinary planets. It was a planet without a god temple. Without a god temple, there were no cities to be built around the absent god temple.
+Turin Planet was different from ordinary planets. It was a planet without a god temple. Without a god temple, there were no cities to be built around the absent god temple.
 
 Thus, Planet Turin was a very rare planet with multiple cities. On Turin, there were a few hundred smaller cities.
 

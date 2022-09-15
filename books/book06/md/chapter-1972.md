@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Xuanyuan Cave
-### Chapter 1972 
+### Chapter 1972
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “Can it fly while carrying heavy items?” Han Sen asked, examining the bird.
+“Can it fly while carrying heavy items?” Han Sen asked, examining the bird.
 
 “Yes; it is much stronger than Baron class Jade Night Cranes, but it has no legs and its wings are damaged,” Yun Suyi repeated. “It can’t fly any faster than an average Baron. And its fighting abilities cannot compare with a Viscount mount.”
 
@@ -37,7 +38,42 @@ The crane’s belly hit the ground as it frantically flapped its wings. The crea
 
 Han Sen gave it some food and let it stay on the stone. Then, Han Sen returned to the house. Before he went to Xuanyuan Cave, he wanted to come to grips with his powers. He took stock of his possessions.
 
-Earl class Spell geno armament. Duke beast soul rabbit shoes. Earl beast soul Red Mist Mink Glove, and King weapon Ghost Teeth Knife.
+<div class=“tables”>
+<tables class=“center70”>
+  <tr>
+    <th colspan=“2”>Geno Armament/Body</th>
+  </tr><tr>
+    <td>Story of Genes</td>
+    <td>Earl</td>
+  </tr><tr>
+    <td>Jadeskin</td>
+    <td>Viscount</td>
+  </tr><tr>
+    <td>Dongxuan Sutra</td>
+    <td>Viscount</td>
+  </tr><tr>
+    <td>Blood-Pulse Sutra</td>
+    <td>Viscount</td>
+  </tr><tr>
+    <th colspan=“2”>Beast Souls</th>
+  </tr><tr>
+    <td>Duke Rabbit Shoes</td>
+    <td>(Shoes)</td>
+  </tr><tr>
+    <td>Earl Red Mist Mink</td>
+    <td>(Glove)</td>
+  </tr><tr>
+    <td>Earl Golden Buddha Body</td>
+    <td>(Spirit Armor)</td>
+  </tr><tr>
+    <th colspan=“2”>Equipment</th>
+  </tr><tr>
+    <td>Ghost Teeth Knife</td>
+    <td>(King)</td>
+  </tr>
+</table>
+<!-- Earl class Spell geno armament. Duke beast soul rabbit shoes. Earl beast soul Red Mist Mink Glove, and King weapon Ghost Teeth Knife. -->
+</div>
 
 With Ghost Teeth Knife there, his Teeth Knife skills would still be the best to use. Teeth Knife wouldn’t have any breakthroughs, though, so he planned to focus on a different geno art.
 

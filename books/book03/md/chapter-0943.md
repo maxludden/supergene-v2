@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Defending the Shelter
-### Chapter 943 
+### Chapter 943
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  "This is..." Old Huang and everyone there looked at the Dragon-Blood Snake in wonder. They thought it was some small, average pet beast soul.
+"This is..." Old Huang and everyone there looked at the Dragon-Blood Snake in wonder. They thought it was some small, average pet beast soul.
 
 Han Sen let the pet do the explaining for him, by having it unleash its gene locks.
 

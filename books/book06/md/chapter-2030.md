@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## The Braves
-### Chapter 2030 
+### Chapter 2030
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “A powerful skill. A very powerful skill,” Dragon Thirteen complimented. She looked around, unable to determine where those knife airs were hiding.
+“A powerful skill. A very powerful skill,” Dragon Thirteen complimented. She looked around, unable to determine where those knife airs were hiding.
 
 “That is too much of a compliment.” Han Sen smiled.
 

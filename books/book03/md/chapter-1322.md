@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Let’s Go
-### Chapter 1322 
+### Chapter 1322
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The three-eyed spirit observed Han Sen closely now, paying more attention to him than anyone else. And as he watched him intently, the young man turned around and smiled. This gave him a shock.
+The three-eyed spirit observed Han Sen closely now, paying more attention to him than anyone else. And as he watched him intently, the young man turned around and smiled. This gave him a shock.
 
 “He knows we are here?” the three-eyed spirit gasped in surprise.
 

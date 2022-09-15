@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Rock-paper-scissors
-### Chapter 78 
+### Chapter 78
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  "Drinking without a drinking game is always a little boring. How about we play a little game?" It only took a short while before Tang Zhenliu suggested a game.
+"Drinking without a drinking game is always a little boring. How about we play a little game?" It only took a short while before Tang Zhenliu suggested a game.
 
 "Drinking game? We have a kid here." Qu wange rolled her eyes at Tang.
 

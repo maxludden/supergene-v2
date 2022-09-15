@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Emerald Man of Stone
-### Chapter 778 
+### Chapter 778
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen had the feeling he had been granted the duty of saving the world. He turned away from Lin Beifeng and had a quick peek into the bag he had been given. There really was a book in there, and the paper looked fairly modern. It must have been produced in the Alliance in the past few years, and was undoubtedly waterproof, fireproof, and bugproof.
+Han Sen had the feeling he had been granted the duty of saving the world. He turned away from Lin Beifeng and had a quick peek into the bag he had been given. There really was a book in there, and the paper looked fairly modern. It must have been produced in the Alliance in the past few years, and was undoubtedly waterproof, fireproof, and bugproof.
 
 Han Sen was a little disappointed, learning that it was not some ancient codex. If it was, he believed he could sell it for a high price as an antique.
 

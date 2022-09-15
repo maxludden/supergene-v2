@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Bao’er Enters Kindergarten
-### Chapter 1858 
+### Chapter 1858
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  When they emerged from the mountain, it didn’t seem as if anything had been affected by the events that occurred inside. The landscape was the same as it was before they entered.
+When they emerged from the mountain, it didn’t seem as if anything had been affected by the events that occurred inside. The landscape was the same as it was before they entered.
 
 Back in the base, Black Steel took Captain Wood to an airship where he could heal and recover.
 

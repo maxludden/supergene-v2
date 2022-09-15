@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## The Prophecy Comes True
-### Chapter 2432 
+### Chapter 2432
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “This is rather ominous,” Han Sen thought in his heart.
+“This is rather ominous,” Han Sen thought in his heart.
 
 He quickly reviewed the facts. There was a giant requiem tree inside Du God City. The tree contained a giant requiem egg, and there was a girl frozen within that egg, for some reason. The girl had a Nine-Life Cat tattoo across her entire back. Han Sen’s mind raced for an explanation, but he couldn’t come up with one.
 

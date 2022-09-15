@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Guardian Spirit
-### Chapter 1651 
+### Chapter 1651
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Golden Growler went sniffing around the ground. It seemed to be tracking Blood Dog’s scent, and after a while, it began running forward.
+Golden Growler went sniffing around the ground. It seemed to be tracking Blood Dog’s scent, and after a while, it began running forward.
 
 Broken stone buildings were everywhere, and their presence there made Han Sen frown. Golden Growler kept moving, and after a hundred miles, there was a large number of stone tablets scattered across a clearing.
 

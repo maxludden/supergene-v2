@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Tester Comes to Attack
-### Chapter 3260 
+### Chapter 3260
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “Mister Leader, I have already gone to have a look,” Bury Path God said while bowing politely to the old tower. “The level-17 life soul over Chu Yuan was killed by Han Sen. His life soul is gone too.”
+“Mister Leader, I have already gone to have a look,” Bury Path God said while bowing politely to the old tower. “The level-17 life soul over Chu Yuan was killed by Han Sen. His life soul is gone too.”
 
 “It was him. Now it makes sense.” Qin Xiu’s voice came out from the old tower.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Creature in the Chimenea
-### Chapter 1551 
+### Chapter 1551
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  When Han Sen took a look inside, he was shocked. Inside the chimenea, a pair of eyes were looking up at him.
+When Han Sen took a look inside, he was shocked. Inside the chimenea, a pair of eyes were looking up at him.
 
 Fortunately, Han Sen had been through a lot, so he maintained his cool and did not look away. Instead, he just stared right back at the eyes.
 

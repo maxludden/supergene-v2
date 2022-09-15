@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Life Door
-### Chapter 1136 
+### Chapter 1136
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Back in his room, Han Sen started to read the scroll he had been given. He was quite surprised.
+Back in his room, Han Sen started to read the scroll he had been given. He was quite surprised.
 
 He thought he had received another copy of the Blood-Pulse Sutra, and that was what Uncle Bug had found all those years ago. This was actually a different Qi Gong, and it was called Life Door.
 

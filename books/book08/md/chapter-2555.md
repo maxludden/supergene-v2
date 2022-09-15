@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## One Arrow Shocks Ten Thousand Races
-### Chapter 2555 
+### Chapter 2555
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen drew Wind String, and the predatory roar coming from the bow grew ever louder. Nearby Kings felt their hearts pounding in their chests. They felt as if their hearts were going to explode.
+Han Sen drew Wind String, and the predatory roar coming from the bow grew ever louder. Nearby Kings felt their hearts pounding in their chests. They felt as if their hearts were going to explode.
 
 As everyone drowned in this shock, they knew they had to leave the area and watch Han Sen from a greater distance.
 

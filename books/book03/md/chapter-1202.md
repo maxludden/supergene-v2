@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Unlucky Shura King
-### Chapter 1202 
+### Chapter 1202
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  When Han Sen heard what Old Xu said, he was shocked.
+When Han Sen heard what Old Xu said, he was shocked.
 
 The Angel Gene fluid the Zhao family had created was not their original creation, after all. It had been based on that vial of liquid.
 

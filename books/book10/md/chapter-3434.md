@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## I Will Show You How It Breaks
-### Chapter 3434 
+### Chapter 3434
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen had encountered many elites in his time traveling across the world. There had always been a few that he considered extremely powerful.
+Han Sen had encountered many elites in his time traveling across the world. There had always been a few that he considered extremely powerful.
 
 None were like this Crape Myrtle, who made him feel as if he was being put under a microscope. The man made him feel as if his body was being watched.
 

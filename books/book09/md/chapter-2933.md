@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Pavilion
-### Chapter 2933 
+### Chapter 2933
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  After his encounter with the death angel, Han Sen did not dare use his Dongxuan Aura to peep into people in case something happened.
+After his encounter with the death angel, Han Sen did not dare use his Dongxuan Aura to peep into people in case something happened.
 
 In a hellhole like that, it was best for him not to do anything he was uncertain about.
 

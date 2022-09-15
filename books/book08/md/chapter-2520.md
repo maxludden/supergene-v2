@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Wan’er Wakes Up
-### Chapter 2520 
+### Chapter 2520
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “Deified Xenogeneic hunted: Gold Robot General. Xenogeneic gene found. Obtained Gold Robot General beast soul.”
+“Deified Xenogeneic hunted: Gold Robot General. Xenogeneic gene found. Obtained Gold Robot General beast soul.”
 
 Han Sen was thrilled. “I got its beast soul. Am I on a lucky streak to keep receiving their beast souls these days?”
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Dog Hybrid
-### Chapter 2926 
+### Chapter 2926
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The dog-faced man coldly grunted. He took two steps back. He went behind the stone pillar. There were 10,000 red scale lights landing on the door. The broken pillar next to the door had a space swirl generate. The red scale lights landed on it, and it vanished. It was like it had absorbed the door.
+The dog-faced man coldly grunted. He took two steps back. He went behind the stone pillar. There were 10,000 red scale lights landing on the door. The broken pillar next to the door had a space swirl generate. The red scale lights landed on it, and it vanished. It was like it had absorbed the door.
 
 “Very good Sacred. The door is broken and only two pillars remain, but it can still hold firm against an attack delivered by a true god creature. It is no wonder why they were the scariest existence in the universe.” Han Sen sighed.
 

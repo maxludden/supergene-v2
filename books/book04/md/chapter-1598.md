@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Sand Mouse Group
-### Chapter 1598 
+### Chapter 1598
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “Chairman, our plan has failed. Blood Bone Demon was killed. I take full responsibility.” Inside the New Community’s headquarters, Qing Ya stood with his head lowered.
+“Chairman, our plan has failed. Blood Bone Demon was killed. I take full responsibility.” Inside the New Community’s headquarters, Qing Ya stood with his head lowered.
 
 The Chairman of New Community said, “I already know what happened to Blood Bone Demon. That has nothing to do with you. You’re not responsible for her stupidity.”
 

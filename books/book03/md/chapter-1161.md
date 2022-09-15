@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Changes
-### Chapter 1161 
+### Chapter 1161
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen spent the next few days with Ji Yanran, attempting to make babies. The following week, Han Sen decided to return to the shelter.
+Han Sen spent the next few days with Ji Yanran, attempting to make babies. The following week, Han Sen decided to return to the shelter.
 
 “Now, where might I next find a super creature?” Han Sen mulled to himself.
 

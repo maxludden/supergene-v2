@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Ending an Era
-### Chapter 251 
+### Chapter 251
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The atmosphere during the training of the school team was somewhat depressing. After they saw the result of the draw, many old members found it devastating to meet the Alliance Central Military Academy in the second round.
+The atmosphere during the training of the school team was somewhat depressing. After they saw the result of the draw, many old members found it devastating to meet the Alliance Central Military Academy in the second round.
 
 Invincible monster. For the old team members, the pressure was simply too much.
 

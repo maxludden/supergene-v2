@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Crazy Consume
-### Chapter 2730 
+### Chapter 2730
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen grinned widely at the sensation. That hot air was some kind of lifeforce. The Good Fortune Pool should also reinforce his genes, but that lifeforce alone would benefit him a great deal.
+Han Sen grinned widely at the sensation. That hot air was some kind of lifeforce. The Good Fortune Pool should also reinforce his genes, but that lifeforce alone would benefit him a great deal.
 
 Under the cleansing power of that intense lifeforce, Han Sen felt his body filling with energy. It was like he could play Mahjong for three days in a row without getting tired.
 

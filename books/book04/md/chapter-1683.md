@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Testing the Gun
-### Chapter 1683 
+### Chapter 1683
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  1683 Testing the Gun
+1683 Testing the Gun
 
 “Tell my Dad not to worry when you go back. I will deal with it.” After that, Han Sen moved closer to Blind Man and said quietly, “There is something I need you to tell my Dad, too. Tell him not to generate geno armor, and if possible, come and meet me. There is something important I wish to tell him.”
 

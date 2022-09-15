@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Tornado Knife
-### Chapter 510 
+### Chapter 510
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  At a remote corner of the frozen lake, Han Sen made an ice hole from underneath the water and climbed out. He shook off the water on his body and quickly left the lake for the icefield seeing no one was around.
+At a remote corner of the frozen lake, Han Sen made an ice hole from underneath the water and climbed out. He shook off the water on his body and quickly left the lake for the icefield seeing no one was around.
 
 Han Sen wanted to go to Starwheel Shelter to ask Li Xinglun about the detailed information of Blackgod Shelter. Only when he had more information about his enemy could he hit his enemy harder.
 

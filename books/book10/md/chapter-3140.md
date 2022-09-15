@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Break Head Wire
-### Chapter 3140 
+### Chapter 3140
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen used his hands to rub it. It was like the black line was under the skin. He was unable to rub it away.
+Han Sen used his hands to rub it. It was like the black line was under the skin. He was unable to rub it away.
 
 Bald Guy pointed at Bao’er and screamed, “Bao’er’s neck has it too!”
 

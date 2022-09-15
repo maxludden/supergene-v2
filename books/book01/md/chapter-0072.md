@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Hunting Frenzy
-### Chapter 72 
+### Chapter 72
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Lu Weinan’s heart was trembling. The swarm was only about 600 feet from Han Sen. With the speed of the hornets, they could make it back in seconds. In addition, the queen hornet, which could be sacred-blood, was eyeing Han Sen. His situation was critical.
+Lu Weinan’s heart was trembling. The swarm was only about 600 feet from Han Sen. With the speed of the hornets, they could make it back in seconds. In addition, the queen hornet, which could be sacred-blood, was eyeing Han Sen. His situation was critical.
 
 Looking at the queen hornet flying over, Han Sen narrowed his eyes, stepped back and threw the mutant sawfish spear at it.
 

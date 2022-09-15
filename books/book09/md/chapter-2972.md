@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Resources Delivered
-### Chapter 2972 
+### Chapter 2972
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  They did not stop him, and they were like refugees waiting for the army to help them. They opened the gate and prepared vehicles. They gave Han Sen whatever he wanted. They were afraid Han Sen was not being able to be given enough like a person not eating enough food because there wasn’t enough to go around.
+They did not stop him, and they were like refugees waiting for the army to help them. They opened the gate and prepared vehicles. They gave Han Sen whatever he wanted. They were afraid Han Sen was not being able to be given enough like a person not eating enough food because there wasn’t enough to go around.
 
 “What happened? Did all the people in the Extreme King suffer a brain stroke?” Han Sen had a confused expression. He was expecting some strong and hard battles, during which he could kill all the people he wanted to for fun.
 

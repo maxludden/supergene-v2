@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Knocking Out the Chosen
-### Chapter 170 
+### Chapter 170
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  "Yanran, go to the campus community site!" Qu Lili suddenly poked Ji Yanran with a finger and whispered.
+"Yanran, go to the campus community site!" Qu Lili suddenly poked Ji Yanran with a finger and whispered.
 
 "Stop it. We are in class." Ji Yanran was not in a good mood since she had not seen Han Sen for days.
 

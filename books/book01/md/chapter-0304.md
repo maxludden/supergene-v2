@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Devil Sword
-### Chapter 304 
+### Chapter 304
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Zheng Chi and Zhou Qingyu were dumbstruck. They had never seen someone so powerful.
+Zheng Chi and Zhou Qingyu were dumbstruck. They had never seen someone so powerful.
 
 "Incredible." Seeing Han Sen killing the murky beast, Zheng Chi couldn't remove his stare from Han Sen.
 

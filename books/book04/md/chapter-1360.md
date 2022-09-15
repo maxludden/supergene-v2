@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Bulwark Umbrella
-### Chapter 1360 
+### Chapter 1360
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen was taken aback when he saw what emerged from his Sea of Soul. It was an umbrella. It was thin-framed and elegant, like the sort you’d see fancy women use.
+Han Sen was taken aback when he saw what emerged from his Sea of Soul. It was an umbrella. It was thin-framed and elegant, like the sort you’d see fancy women use.
 
 Its color was blacker than the filthiest coal, though. Even its handle was.
 

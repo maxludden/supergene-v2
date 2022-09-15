@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Red Sleeve Building
-### Chapter 3265 
+### Chapter 3265
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “Is the Ultimate Egg that evil?” Han Sen asked with shock.
+“Is the Ultimate Egg that evil?” Han Sen asked with shock.
 
 Jia Shi Zhen quietly explained, “The Wu Wei Dao Alpha was a legendary figure. Legends claim that when he was born, a sky full of stars fell with a weird scene. Although he was a human, his talent was like those of a rare gene race. His body possessed an ultimate sort of power like a scary character of some wild era. Legends claim the Ultimate Egg was an egg born alongside him, and that it wields magical powers. For some reason, it has never sought to hatch.” “Up until the time the alpha broke space, the Ultimate Egg had yet to hatch. So, the alpha handed it down to a student who would guard it. The Ultimate Egg kept being passed down through inheritance, all down the line of Wu Wei Dao Palace. Therefore, in this world, no matter if it was someone from the Wu Wei Dao Palace or an elite of the seven kingdoms, they have all wanted the Ultimate Egg. When some people ended up having it, a lot of misfortune befell them. Even their heirs were never safe from harm. They had to beg Wu Wei Dao Palace to take the egg back.”
 

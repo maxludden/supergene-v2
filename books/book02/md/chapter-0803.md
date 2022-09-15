@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Claiming the Empress
-### Chapter 803 
+### Chapter 803
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  "Argh!" Amidst the silver lightning, the electricity coursed through and electrified the spirit's body. She looked up and screamed out to the heavens in pain.
+"Argh!" Amidst the silver lightning, the electricity coursed through and electrified the spirit's body. She looked up and screamed out to the heavens in pain.
 
 The silver lightning leapt and crackled all around her continuously, and with every jolt of electricity, cracks appeared in her armor.
 

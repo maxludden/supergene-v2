@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Silver Destroyer
-### Chapter 2626 
+### Chapter 2626
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  It took an unusual person to be able to see the twelve towers and five cities. That was especially true of the five cities. Only the people that could see them were allowed to enter.
+It took an unusual person to be able to see the twelve towers and five cities. That was especially true of the five cities. Only the people that could see them were allowed to enter.
 
 Han Sen followed Lone Bamboo into White King City. It was different from Black King City. White King City was a giant, circular construct that sort of resembled an amphitheater in Rome.
 

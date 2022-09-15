@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## The Traitor’s Heir
-### Chapter 1371 
+### Chapter 1371
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen thought it best to take refuge in Hidden Valley, but another thirty miles of travel was no small distance with his life in perpetual danger.
+Han Sen thought it best to take refuge in Hidden Valley, but another thirty miles of travel was no small distance with his life in perpetual danger.
 
 He stumbled again, and acknowledging he was going to fail the latest dodge, he summoned his Bulwark Umbrella for a defense. The umbrella clashed against the spear and repelled it, but it was not without cost. The sound it made was terrible, and the umbrella sounded as if it was on the precipice of shattering.
 

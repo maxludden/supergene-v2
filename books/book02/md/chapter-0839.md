@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Qi Family's Scheme
-### Chapter 839 
+### Chapter 839
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The stadium that hosted the pet matches could seat five hundred thousand attendees. The turnout was even larger than expected, however, and it wasn't long before all the seats were taken.
+The stadium that hosted the pet matches could seat five hundred thousand attendees. The turnout was even larger than expected, however, and it wasn't long before all the seats were taken.
 
 Fortunately, Han Sen had been invited to compete in the matches directly, and did not have to compete in the knockout stages for eligibility in the final competition. Being given a slot in the top one hundred saved him much time.
 

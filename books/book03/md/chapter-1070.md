@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Copper Statue
-### Chapter 1070 
+### Chapter 1070
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The sword lit up, and red flames burst out to color the sky.
+The sword lit up, and red flames burst out to color the sky.
 
 Han Sen combined his phoenix techniques with Aero, which put him at an advantage. The greatsword’s power was almost as strong as Han Sen, it just fell a touch short.
 

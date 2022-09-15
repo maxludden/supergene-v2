@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Ice, Fire, Double Sky
-### Chapter 3365 
+### Chapter 3365
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The fire was very unique. Just as it left the Tail Fire Beast’s mouth, it activated all the fire elements in the universe’s universal cogwheels. The power of the fire subdued the rules of all the others. It created an absolute fire rule seal.
+The fire was very unique. Just as it left the Tail Fire Beast’s mouth, it activated all the fire elements in the universe’s universal cogwheels. The power of the fire subdued the rules of all the others. It created an absolute fire rule seal.
 
 This was an absolute Break World power. It was the type of power only Break World creatures that had a Break World rate over 90% could use. It was very close to an ultimate aura.
 

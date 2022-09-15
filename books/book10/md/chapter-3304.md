@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Life Soul Creates Chaos
-### Chapter 3304 
+### Chapter 3304
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Bury Path God started to look awfully heavy. He did not know how Qin Xiu had managed to accomplish what he had done, but he thought this must have had something to do with Shoot Shadow controlling the life soul test subject Sky King.
+Bury Path God started to look awfully heavy. He did not know how Qin Xiu had managed to accomplish what he had done, but he thought this must have had something to do with Shoot Shadow controlling the life soul test subject Sky King.
 
 They looked at Shoot Shadow. He looked very red. He looked more excited than any other scary creature.
 

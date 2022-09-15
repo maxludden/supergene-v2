@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## God’s Retribution
-### Chapter 1271 
+### Chapter 1271
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The man had found Han Sen, so there was no use in hiding any further. When Han Sen emerged from the bushes, he did so drenched in water.
+The man had found Han Sen, so there was no use in hiding any further. When Han Sen emerged from the bushes, he did so drenched in water.
 
 “Friend, what are you talking about? What fruit?” Han Sen played dumb.
 

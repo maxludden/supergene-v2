@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Getting Into the Geno Hall
-### Chapter 2878 
+### Chapter 2878
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen was on the geno god list. He understood what Golden Growler meant. Thus, he conceded and gained the geno god list’s first-place position.
+Han Sen was on the geno god list. He understood what Golden Growler meant. Thus, he conceded and gained the geno god list’s first-place position.
 
 Although he knew Golden Growler wanted him to go to the geno hall and become a God Spirit, seeing the geno hall instantly made him a bit worried.
 

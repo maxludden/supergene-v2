@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Study the Ancient Language
-### Chapter 524 
+### Chapter 524
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The members of Goddess Gang all bought some meat and beast soul set a very low price. However, people outside of the gang could only purchase the meat and beast souls at a high price. Even so, there were still many people competing for them.
+The members of Goddess Gang all bought some meat and beast soul set a very low price. However, people outside of the gang could only purchase the meat and beast souls at a high price. Even so, there were still many people competing for them.
 
 The resources at Goddess Shelter were so limited that if they did not compete for it, lots of people wanted it.
 

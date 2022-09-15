@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## One in a Billion Chance
-### Chapter 2277 
+### Chapter 2277
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The Hell Ghosts on both sides stared coldly at Han Sen and the blood kirin. They were like a crowd gathered to watch a funeral procession. It didn’t seem as if they wished to do anything to stop the intruders, though.
+The Hell Ghosts on both sides stared coldly at Han Sen and the blood kirin. They were like a crowd gathered to watch a funeral procession. It didn’t seem as if they wished to do anything to stop the intruders, though.
 
 As Han Sen continued to walk, he thought about his situation. “Those who are outside of this bridge can see what is actually going on, so the Hell Ghosts really are just statues. They only appear to be alive because I am on the bridge. It could be just a feeling or the adverse effect of some type of power that gives them the appearance of life. The Hell Ghosts aren’t attacking us, but they might be configured to release power of some sort.”
 

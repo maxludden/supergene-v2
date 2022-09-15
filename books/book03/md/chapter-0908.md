@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Claiming Qing Ming
-### Chapter 908 
+### Chapter 908
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The green spear collided with the red dagger to a shocking result—the green spear was knocked away.
+The green spear collided with the red dagger to a shocking result—the green spear was knocked away.
 
 The dagger and Han Sen moved like a descending rainbow; one that would touch down at Qing Ming's heart.
 

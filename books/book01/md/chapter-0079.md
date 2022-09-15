@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## One Win
-### Chapter 79 
+### Chapter 79
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen was no master at rock-paper-scissors, but he had made an effort to improve his ability to make more accurate predictions. It wasn’t for games, but for knowing in advance a creature’s habits and movements.
+Han Sen was no master at rock-paper-scissors, but he had made an effort to improve his ability to make more accurate predictions. It wasn’t for games, but for knowing in advance a creature’s habits and movements.
 
 For an archer, it was undoubtedly a very important ability.
 

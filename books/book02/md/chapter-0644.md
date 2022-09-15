@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Killing the T-rex
-### Chapter 644 
+### Chapter 644
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Pang!
+Pang!
 
 Han Sen fired the bolt at the T-rex's eyelid once more, but again it blinked and the bolt couldn't pierce through it entirely.
 

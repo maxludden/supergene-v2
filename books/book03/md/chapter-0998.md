@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Blind Man’s Stuff
-### Chapter 998 
+### Chapter 998
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen opened the package, which had been delivered to him in a recyclable box, and saw a lone envelope inside.
+Han Sen opened the package, which had been delivered to him in a recyclable box, and saw a lone envelope inside.
 
 Needless to say, he was taken aback. Sending someone a primitive letter in that day and age was very unusual.
 

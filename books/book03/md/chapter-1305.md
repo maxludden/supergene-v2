@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Being Watched
-### Chapter 1305 
+### Chapter 1305
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  In great haste, a swarm of Endless Swordfish was headed in Han Sen’s direction. They didn’t come for him, but simply sped past him as if they were attempting to get away from something that lay in the direction Han Sen was traveling.
+In great haste, a swarm of Endless Swordfish was headed in Han Sen’s direction. They didn’t come for him, but simply sped past him as if they were attempting to get away from something that lay in the direction Han Sen was traveling.
 
 Han Sen understood their behavior, acknowledging that they were fleeing some unseen menace on the horizon. They weren’t there to cause trouble.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Trapped Fight
-### Chapter 2027 
+### Chapter 2027
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The group saw Han Sen and approached him. One of them was a Buddha, and one of them had purple horns. He was a Demon.
+The group saw Han Sen and approached him. One of them was a Buddha, and one of them had purple horns. He was a Demon.
 
 The others were comprised of different races. In total, there were six of them.
 

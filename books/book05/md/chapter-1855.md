@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Egg in the Fire
-### Chapter 1855 
+### Chapter 1855
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The three of them sped up. They chased after Captain Wood’s group for a dozen miles, before coming across a body crumpled on the floor. It looked as if the person had died a long time ago, but strangely, the clothing the body wore belonged to one of the Barons that had previously accompanied them.
+The three of them sped up. They chased after Captain Wood’s group for a dozen miles, before coming across a body crumpled on the floor. It looked as if the person had died a long time ago, but strangely, the clothing the body wore belonged to one of the Barons that had previously accompanied them.
 
 And there wasn’t just one such body. A little further on, they found more Baron corpses. The manner in which they died seemed to reflect what had occurred to Wind Viscount. Their heads had been blown open, leaving a gaping hole.
 

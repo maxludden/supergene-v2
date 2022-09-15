@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Shura Ship
-### Chapter 1197 
+### Chapter 1197
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The ship was rattling and shaking like mad, as passengers scrambled in their attempts to reach the Panic Terminal.
+The ship was rattling and shaking like mad, as passengers scrambled in their attempts to reach the Panic Terminal.
 
 Fortunately, most of the people on board were humans with a good fitness level. They were unfazed and unshaken by the sudden bombardment from a hostile force.
 

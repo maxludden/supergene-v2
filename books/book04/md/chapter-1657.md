@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Endless Killing
-### Chapter 1657 
+### Chapter 1657
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Surrounding Han Sen never worked. With his Dongxuan movement, he could easily escape any possible entrapment. And in this way, he slipped away and proceeded onwards into Sunset Valley.
+Surrounding Han Sen never worked. With his Dongxuan movement, he could easily escape any possible entrapment. And in this way, he slipped away and proceeded onwards into Sunset Valley.
 
 Many super elites were going after him, but two of the elders just laughed coldly at Han Sen. They didn’t chase him, and instead, they went after Death Goddess.
 

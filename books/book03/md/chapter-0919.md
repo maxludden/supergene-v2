@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Come to Me
-### Chapter 919 
+### Chapter 919
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Flower Empress stepped closer to Han Sen, trepidatiously. When she was within arm's reach, he still hadn't moved an inch; he really was going to let her hit him.
+Flower Empress stepped closer to Han Sen, trepidatiously. When she was within arm's reach, he still hadn't moved an inch; he really was going to let her hit him.
 
 "Your arrogance will soon take flight, making way for the tears that are to follow," Flower Empress said to herself, as she observed Han Sen's pretty face. A cloud of light, filled with flower-like holographic shapes, enshrouded her fist. With it raised and primed, she launched forward to hit Han Sen.
 

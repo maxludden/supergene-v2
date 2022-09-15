@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Close Call
-### Chapter 2679 
+### Chapter 2679
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “Haha! I knew Shale wouldn’t lose. Did Mo Fang and Han Sen seriously think that they could fight Shale?” Li Xue Cheng was so excited that he couldn’t help but cackle.
+“Haha! I knew Shale wouldn’t lose. Did Mo Fang and Han Sen seriously think that they could fight Shale?” Li Xue Cheng was so excited that he couldn’t help but cackle.
 
 Relief washed over Liyu Zhen. If Shale were to lose, their lives would become very difficult in the near future.
 

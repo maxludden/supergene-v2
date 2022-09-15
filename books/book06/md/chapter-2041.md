@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Ruins at the Bottom of the Pool
-### Chapter 2041 
+### Chapter 2041
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  When Han Sen had lived in the Alliance, he had been good in the water. After spending several months in the Dream Lake, his talents underwater only improved. He had become so proficient that he could
+When Han Sen had lived in the Alliance, he had been good in the water. After spending several months in the Dream Lake, his talents underwater only improved. He had become so proficient that he could
 
 swim easily, even if he was tied up.
 

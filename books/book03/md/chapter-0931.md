@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Killing Phoenix King
-### Chapter 931 
+### Chapter 931
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The clouds pierced the wall of fire. The cold air could freeze the cells of others, and almost immediately, the flaming phoenix was metamorphosed into its own opposite; it was turned into a statue of ice.
+The clouds pierced the wall of fire. The cold air could freeze the cells of others, and almost immediately, the flaming phoenix was metamorphosed into its own opposite; it was turned into a statue of ice.
 
 Boom!
 

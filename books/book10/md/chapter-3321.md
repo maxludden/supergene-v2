@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Item Nobody Owns
-### Chapter 3321 
+### Chapter 3321
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  While Han Sen was thinking, he saw a scary shadow in the air. In the shining god light, it was headed for the 33 skies, which looked like a headstone. It was a powerful Break World beast.
+While Han Sen was thinking, he saw a scary shadow in the air. In the shining god light, it was headed for the 33 skies, which looked like a headstone. It was a powerful Break World beast.
 
 That Break World beast looked like a dragon. When it flew, it had all kinds of old swords go with it. It obviously had a Break World rate of at least 30%. Its Break World power was already solid.
 

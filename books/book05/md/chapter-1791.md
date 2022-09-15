@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Demon Grave
-### Chapter 1791 
+### Chapter 1791
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “Demon Grave?” Han Sen frowned and looked at Mister Ji.
+“Demon Grave?” Han Sen frowned and looked at Mister Ji.
 
 Mister Ji nodded and said, “Yes, Demon Grave. It was an ordinary xenogeneic space, but a battle once transpired there. Something went awry. Anyone who enters there now has their powers suppressed to the level of an ordinary bumpkin in geno armor. Even a King would be like a commoner there, and the same applies to any weaponry that enters.”
 

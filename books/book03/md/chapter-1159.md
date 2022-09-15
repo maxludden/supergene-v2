@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Night Cloak
-### Chapter 1159 
+### Chapter 1159
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “Neither the king spirits in his employ, nor Nine Emperor himself, saw the Night Cloak coming. Even you wouldn’t be able to detect someone wearing it,” Dragon King said.
+“Neither the king spirits in his employ, nor Nine Emperor himself, saw the Night Cloak coming. Even you wouldn’t be able to detect someone wearing it,” Dragon King said.
 
 Han Sen was delighted, so much so, he didn’t even care for Dragon King’s explanation being in a condescending tone. If the item was as good as he said, he really had stumbled upon a most extraordinary treasure.
 

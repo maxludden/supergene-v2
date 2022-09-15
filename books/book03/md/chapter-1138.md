@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Mother Tree
-### Chapter 1138 
+### Chapter 1138
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “Uncle Liu, can you provide us passage to this tree?” Han Sen asked, thinking to himself, “If the treasure is going to mature, I need to see it!”
+“Uncle Liu, can you provide us passage to this tree?” Han Sen asked, thinking to himself, “If the treasure is going to mature, I need to see it!”
 
 “You don’t want to go there; trust me. Countless creatures have amassed there. Your life is of considerably more important than the fruit,” Liu Yunhui said.
 

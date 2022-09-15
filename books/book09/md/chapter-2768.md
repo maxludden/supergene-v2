@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Between Two Mountains
-### Chapter 2768 
+### Chapter 2768
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  This place looked like the area in which Han Sen had first found the little red bird. Even the mountains and stones were charcoal. The little red bird was born in a place just like this, if you removed the additional suns from the equation.
+This place looked like the area in which Han Sen had first found the little red bird. Even the mountains and stones were charcoal. The little red bird was born in a place just like this, if you removed the additional suns from the equation.
 
 “This is an impressive use of the fire element. It turned this whole place into charcoal. That isn’t something ordinary heat can do,” Dragon One said in awe.
 

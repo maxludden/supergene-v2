@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Sacred-blood Black-feathered Beast
-### Chapter 185 
+### Chapter 185
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen did not have time to explain to Wang Dongling. He summoned his mutant three-eyed beast mount and called Wang Mengmeng, "Mengmeng, let’s go."
+Han Sen did not have time to explain to Wang Dongling. He summoned his mutant three-eyed beast mount and called Wang Mengmeng, "Mengmeng, let’s go."
 
 Han Sen had seen what the sacred-blood fox king could do, and these black-feathered beasts might also have a king like that. Constantly seeing them around gave him a bad feeling. Since he had taken Wang Mengmeng here, he needed to be responsible for the safety, not to mention the trust she placed in him.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Shadow God
-### Chapter 3216 
+### Chapter 3216
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen absorbed the Extreme King prince’s water origin, so he was no stranger to water powers. His movement in the water was not negatively affected. He looked like a fish that had been given water.
+Han Sen absorbed the Extreme King prince’s water origin, so he was no stranger to water powers. His movement in the water was not negatively affected. He looked like a fish that had been given water.
 
 Wan’er was not affected by the rainbow liquid either. Like a ghost, she pursued Han Sen.
 

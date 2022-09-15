@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Special Assignment
-### Chapter 406 
+### Chapter 406
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen summoned the golden growler and had an even better same experience then driving a top sports car. As the mount ran, Han Sen felt the objects next to him were going back like a blur. In addition, on the golden growler's back, Han Sen felt absolutely no bumps.
+Han Sen summoned the golden growler and had an even better same experience then driving a top sports car. As the mount ran, Han Sen felt the objects next to him were going back like a blur. In addition, on the golden growler's back, Han Sen felt absolutely no bumps.
 
 Within less than an hour, Han Sen had already returned to Steel Armor Shelter. This trip would have taken him one or two days before, and this was not even the full speed of the golden growler.
 

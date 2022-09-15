@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Repel Evil Rhino
-### Chapter 3139 
+### Chapter 3139
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen and the others were incredibly free to as they wished. After Han Sen heard that something weird happened there, he planned on taking Bao’er there to dig. He did not believe the land pulse could harm them.
+Han Sen and the others were incredibly free to as they wished. After Han Sen heard that something weird happened there, he planned on taking Bao’er there to dig. He did not believe the land pulse could harm them.
 
 If there was a god pulse that could shock the world, perhaps they could find a rare gene egg there. Han Sen was lacking in those.
 

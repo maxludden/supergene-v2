@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Ten Thousand Gourds Move Again
-### Chapter 2086 
+### Chapter 2086
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Mountain. River. Sun. Moon. Knife. Axe. Sword. Spear. The holy air came out again, all headed towards Han Sen. They entered through his forehead, one after another.
+Mountain. River. Sun. Moon. Knife. Axe. Sword. Spear. The holy air came out again, all headed towards Han Sen. They entered through his forehead, one after another.
 
 “Good Bao’er! I raised you well, after all.” Han Sen was so happy, he wanted to pick her up and kiss her cheeks.
 

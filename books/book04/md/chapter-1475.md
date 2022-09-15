@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Strong Super Pet Armor
-### Chapter 1475 
+### Chapter 1475
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Through the hole that had been seared through the door, you could see a beautiful blue flame butterfly that was a Firetail Geno Battle Soul.
+Through the hole that had been seared through the door, you could see a beautiful blue flame butterfly that was a Firetail Geno Battle Soul.
 
 But this blue flame butterfly was different from the ones Han Sen had dealt with previously. The ones Han Sen had seen the day before were just a little bigger than the average human hand. This one, with wings spread, was an entire meter across. The blue fire that it carried danced into strange symbols, unlike the ordinary Firetail Geno Battle Souls.
 

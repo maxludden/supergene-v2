@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Nine Spin Destiny Mirror
-### Chapter 2388 
+### Chapter 2388
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen wasn’t interested in selling his ticket of admission to Destiny’s Tower, which greatly disappointed Bai Ling Shuang. Luckily, she didn’t push the subject any further.
+Han Sen wasn’t interested in selling his ticket of admission to Destiny’s Tower, which greatly disappointed Bai Ling Shuang. Luckily, she didn’t push the subject any further.
 
 Two days later, someone from the palace arrived to give Han Sen his exam rewards. The reward was a little different than Bai Ling Shuang had predicted, though.
 

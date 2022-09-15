@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## The Fight in Front of the Hall
-### Chapter 3022 
+### Chapter 3022
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Every race was shocked. Up until now, only Han Sen, Bai King, and a few others had challenged an Annihilation class God Spirit. Now, someone was going straight to the geno hall. People were stunned. Littleflower landed on the geno hall plaza. Before he started speaking, a serious and cold god voice sounded in the god hall. “Do you know how bad the crime of humiliating the god hall is?”
+Every race was shocked. Up until now, only Han Sen, Bai King, and a few others had challenged an Annihilation class God Spirit. Now, someone was going straight to the geno hall. People were stunned. Littleflower landed on the geno hall plaza. Before he started speaking, a serious and cold god voice sounded in the god hall. “Do you know how bad the crime of humiliating the god hall is?”
 
 The scary God Spirit door of the geno hall opened. Many lamp fires were shining from the interior. A body with a lantern fire walking out. One was not able to see the face, but it was still scary. People would have been scared by just seeing it. Littleflower stared at the shadow of the person who had emerged from the geno hall and said, “I did not mean to offend the God Spirits, but I have come here for Qin Lan. Give me Qin Lan, and I will leave.”
 

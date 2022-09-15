@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Ice Blue Knight King
-### Chapter 2205 
+### Chapter 2205
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “Do I have to go?” Han Sen asked with a frown.
+“Do I have to go?” Han Sen asked with a frown.
 
 “It is merely a recommendation of mine,” Black-Moon said quietly. “But the dragons don’t tend to swim with fish, and tigers don’t like living with dogs. This is your opportunity to get out of here.”
 

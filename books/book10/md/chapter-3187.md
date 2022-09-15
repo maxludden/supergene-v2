@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Cutting Paper
-### Chapter 3187 
+### Chapter 3187
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  A mountain pierced through the skies. A strange god temple was on its peak.
+A mountain pierced through the skies. A strange god temple was on its peak.
 
 The god temple’s structure was very defined. The primary hall was only nine feet tall. It had a few side halls. Overall, it looked very large, but a large god temple like that gave people the feeling that it could easily break. It was hard to describe how weird it was.
 

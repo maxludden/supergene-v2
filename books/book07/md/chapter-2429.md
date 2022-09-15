@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Requiem Tree Egg
-### Chapter 2429 
+### Chapter 2429
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “Trees make babies? Is this requiem tree a xenogeneic?” Han Sen asked in confusion.
+“Trees make babies? Is this requiem tree a xenogeneic?” Han Sen asked in confusion.
 
 Miss Mirror shook her head. “I don’t know if the requiem tree is a xenogeneic, but it doesn’t produce babies. The tree egg is essentially a collection of the tree’s resin. The more energy a requiem tree takes in, the more resin it can produce. That resin gathers inside the tree hole to become an orb. It looks something like an ant egg. They are called tree eggs.”
 

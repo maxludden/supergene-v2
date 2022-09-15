@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Treasure in the Sea
-### Chapter 521 
+### Chapter 521
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The three sails rose at the same time. The mysterious and gorgeous crystal sailboat slowly rose from the bottom of the lake and floated in the water in a magical way, looking magnificent.
+The three sails rose at the same time. The mysterious and gorgeous crystal sailboat slowly rose from the bottom of the lake and floated in the water in a magical way, looking magnificent.
 
 "My girl, march toward the ocean." Han Sen was incredibly excited. This crystal sailboat was much better than a submarine. It was an interstellar warship in the water.
 

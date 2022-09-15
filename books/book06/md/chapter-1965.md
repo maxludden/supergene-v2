@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## White Jade Jing
-### Chapter 1965 
+### Chapter 1965
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen had walked the sky jade steps, and everyone knew Thousand Feather Crane had to carry him into Sky Palace.
+Han Sen had walked the sky jade steps, and everyone knew Thousand Feather Crane had to carry him into Sky Palace.
 
 This was far too weird, though. Han Sen had almost passed out when he was brought inside. Thousand Feather Crane continued carrying him until they reached the leader of Sky Palace.
 

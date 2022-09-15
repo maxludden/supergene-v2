@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Pulling a Carriage
-### Chapter 2551 
+### Chapter 2551
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “Keep them alive. I have things I need to ask them,” Han Sen said to Elysian Moon, who was on the verge of taking Ji Yang Sheng’s life.
+“Keep them alive. I have things I need to ask them,” Han Sen said to Elysian Moon, who was on the verge of taking Ji Yang Sheng’s life.
 
 Elysian Moon lowered her paper umbrella and looked expressionlessly at Ji Yang Sheng and the others. The three left alive were severely injured. Even from an idle glance, it was clear that they were in bad shape.
 

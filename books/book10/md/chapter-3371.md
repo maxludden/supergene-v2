@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Fighting Qin Xiu
-### Chapter 3371 
+### Chapter 3371
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “Hm, where did they go?” Qin Xiu looked at Sky King with an unhappy gaze. He was more than glum.
+“Hm, where did they go?” Qin Xiu looked at Sky King with an unhappy gaze. He was more than glum.
 
 Sky King’s heart jumped. The spirit mirror began to display strange changes. They were no longer in Burning Red Sky. They were actually in another sky.
 

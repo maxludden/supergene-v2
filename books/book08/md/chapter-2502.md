@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## There Is Treasure
-### Chapter 2502 
+### Chapter 2502
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The Ice Blue Knights watched in impotent rage as the white whale flew away. Although there were countless weapons and cannons primed and ready to fire at it, no one dared to push the button on that damaged white whale. They only stared at the white whale as it left, until it departed their vision.
+The Ice Blue Knights watched in impotent rage as the white whale flew away. Although there were countless weapons and cannons primed and ready to fire at it, no one dared to push the button on that damaged white whale. They only stared at the white whale as it left, until it departed their vision.
 
 Ice Blue Knight King still looked conflicted. He felt helpless about it all, but he also felt rather happy. Although he would never say it out loud, the fact that Han Sen held Bai Wuchang as a hostage would mean that Ice Blue Knight King’s supervisors wouldn’t require him to chase Han Sen down. They didn’t want the Ice Blue Knights and Han Sen to fight after all, and that brought him some relief.
 

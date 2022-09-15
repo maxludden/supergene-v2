@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Hunting King Class Xenogeneics
-### Chapter 2359 
+### Chapter 2359
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  As far as Han Sen knew, Bai Yi cleared Planet Water Zone a long time ago. Even Lan Haixin hadn’t bothered sending out hunting parties. But now, Han Sen had met two King class xenogeneics in a row. Both were in the same vicinity, too. This posed a big problem.
+As far as Han Sen knew, Bai Yi cleared Planet Water Zone a long time ago. Even Lan Haixin hadn’t bothered sending out hunting parties. But now, Han Sen had met two King class xenogeneics in a row. Both were in the same vicinity, too. This posed a big problem.
 
 Pulling out his Thunder God Spike, Han Sen went towards the King class electric eel.
 

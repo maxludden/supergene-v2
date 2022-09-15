@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Infinite Power
-### Chapter 590 
+### Chapter 590
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen did not plead for Queen to stay. After all, what had happened earlier was far too embarrassing.
+Han Sen did not plead for Queen to stay. After all, what had happened earlier was far too embarrassing.
 
 "After I unlock the first gene lock, where should I go to find you?" Han Sen asked.
 

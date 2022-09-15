@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Wolfpack Gone Stupid
-### Chapter 1009 
+### Chapter 1009
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen looked at Lin He with great respect. He knew he would most likely never see the man again, but he admired his willingness to give his life and draw the wolves away so that the rest could escape.
+Han Sen looked at Lin He with great respect. He knew he would most likely never see the man again, but he admired his willingness to give his life and draw the wolves away so that the rest could escape.
 
 Han Sen did not believe he himself could perform such a courageous and selfless act.
 

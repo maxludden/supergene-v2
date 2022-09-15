@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Sacred Ruin
-### Chapter 2925 
+### Chapter 2925
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “I am afraid that in this universe, it might be difficult to find another Dead Area Demon Dragon.” Han Sen licked his lips and felt a bit disheartened. He spoke to himself sadly.
+“I am afraid that in this universe, it might be difficult to find another Dead Area Demon Dragon.” Han Sen licked his lips and felt a bit disheartened. He spoke to himself sadly.
 
 The ability to get a beast soul or not was something Han Sen could not control. As for what the chances were, he did not know yet.
 

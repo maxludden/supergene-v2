@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Super Creature?
-### Chapter 924 
+### Chapter 924
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The barbed bushes that encircled the tree shook, until something emerged.
+The barbed bushes that encircled the tree shook, until something emerged.
 
 When Han Sen laid his eyes on the beast before him, he started to immediately sweat bullets. He could feel the wretched sense of the creature that was headed his way from fifty meters away.
 

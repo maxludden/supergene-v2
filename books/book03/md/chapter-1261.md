@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Getting Another Super Beast Soul
-### Chapter 1261 
+### Chapter 1261
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  As Han Sen relished the joy, Little Angel delivered the Life Geno Essence to him. He accepted it and then returned Little Angel and Disloyal Knight.
+As Han Sen relished the joy, Little Angel delivered the Life Geno Essence to him. He accepted it and then returned Little Angel and Disloyal Knight.
 
 “Not bad; I got another beast soul!” Han Sen smiled as he told Qin Xuan.
 

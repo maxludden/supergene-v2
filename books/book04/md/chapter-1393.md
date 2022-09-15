@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## A Shelter That Is Exclusive to Humans
-### Chapter 1393 
+### Chapter 1393
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen had heard about Outer Sky Shelter from Metal Demon. It was a super shelter, one that had greater notoriety and fame than even Sacred Shelter.
+Han Sen had heard about Outer Sky Shelter from Metal Demon. It was a super shelter, one that had greater notoriety and fame than even Sacred Shelter.
 
 The King Bell geno core, which was in second place on the bronze geno core leaderboard, came from Outer Sky Shelter, as a matter of fact.
 

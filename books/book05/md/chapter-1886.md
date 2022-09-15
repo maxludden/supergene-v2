@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## I Make the Calls
-### Chapter 1886 
+### Chapter 1886
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Guya looked at Buddha King. The clouds that trapped Buddha King rose up and drifted over to her.
+Guya looked at Buddha King. The clouds that trapped Buddha King rose up and drifted over to her.
 
 “Did you take the leader?” Guya asked Buddha King expressionlessly.
 

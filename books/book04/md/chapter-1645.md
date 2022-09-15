@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Son of God Reward
-### Chapter 1645 
+### Chapter 1645
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  When Han Sen left the arena, much of the audience had yet to react. Everything had occurred so quickly, their minds were having trouble processing it.
+When Han Sen left the arena, much of the audience had yet to react. Everything had occurred so quickly, their minds were having trouble processing it.
 
 They had expected a shocking battle, but not like that. And it ended very abruptly.
 

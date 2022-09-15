@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Losing Control
-### Chapter 2421 
+### Chapter 2421
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen felt a chill. This was no longer funny.
+Han Sen felt a chill. This was no longer funny.
 
 Ning Yue’s mental endurance was almost as good as Han Sen’s, but Ning Yue had been dramatically affected by the green sword. Han Sen didn’t know what to do with the changes that were occurring.
 

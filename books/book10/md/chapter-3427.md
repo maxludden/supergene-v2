@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## I Can Go Up, and It Is Fine
-### Chapter 3427 
+### Chapter 3427
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen could not hear what everyone was saying, but he did not care.
+Han Sen could not hear what everyone was saying, but he did not care.
 
 After Wang Yuhang conceded, Han Sen thought his fight in the top eight to reach the top four would not start for a while. That was because his first two fights had ended blisteringly quickly. The real fights between others probably wouldn’t be ending any time soon.
 

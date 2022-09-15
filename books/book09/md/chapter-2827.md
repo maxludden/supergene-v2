@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## A Gamble That Depends on Power
-### Chapter 2827 
+### Chapter 2827
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  I wonder if the method to kill a god is useful with God's Knife. Han Sen's heart jumped. He summoned Sky Vine Radish and threw a punch toward God's Knife.
+I wonder if the method to kill a god is useful with God's Knife. Han Sen's heart jumped. He summoned Sky Vine Radish and threw a punch toward God's Knife.
 
 Pang!
 

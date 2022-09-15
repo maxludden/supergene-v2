@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Second Time Into Jade Dragon Mountains
-### Chapter 357 
+### Chapter 357
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen felt more puzzled since his mother showed him everything. Originally, he only wanted to find out whether Starry Group was behind his father's accident. However, everything seemed to be more complicated than he had thought.
+Han Sen felt more puzzled since his mother showed him everything. Originally, he only wanted to find out whether Starry Group was behind his father's accident. However, everything seemed to be more complicated than he had thought.
 
 Han Sen thought Starry Group must have something to do with his father's death, but his father asked his mother to go to the Nings, owners of Starry Group before he died. It was so self-contradicting that Han Sen still could not understand what had happened.
 

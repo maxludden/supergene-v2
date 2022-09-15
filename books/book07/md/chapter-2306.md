@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## King Tree
-### Chapter 2306 
+### Chapter 2306
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The ring gleamed a beautiful silver, and there was a green jewel-like eye at its top. It looked gorgeous.
+The ring gleamed a beautiful silver, and there was a green jewel-like eye at its top. It looked gorgeous.
 
 Han Sen turned the ring over and over in his hands, his face set in intense concentration.
 

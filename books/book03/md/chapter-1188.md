@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Angel’s Kiss
-### Chapter 1188 
+### Chapter 1188
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “How could this asshole become an emperor? Ten gene locks open? No way! The Sky Tree hasn’t even fully recovered yet,” Dragon King said.
+“How could this asshole become an emperor? Ten gene locks open? No way! The Sky Tree hasn’t even fully recovered yet,” Dragon King said.
 
 Pang!
 

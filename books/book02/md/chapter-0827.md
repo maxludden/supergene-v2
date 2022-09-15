@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## I Am Not Going to Stop, So What?
-### Chapter 827 
+### Chapter 827
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  "I am going to kill you!" The royal shura was embarrassed, and his rage was inflamed. He looked as if he was preparing to attack Han Sen again.
+"I am going to kill you!" The royal shura was embarrassed, and his rage was inflamed. He looked as if he was preparing to attack Han Sen again.
 
 "Please, try to preserve whatever remains of your dignity." The demigod now stood in front of Han Sen with the presence of a mountain. With a look as cold as ice, he spoke to the royal shura.
 

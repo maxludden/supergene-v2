@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Laboratory
-### Chapter 1690 
+### Chapter 1690
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  1690 Laboratory
+1690 Laboratory
 
 Old Cat was shocked. He leaped down from the tablet and ran toward Han Sen.
 

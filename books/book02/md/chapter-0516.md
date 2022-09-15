@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Killed by One Strike
-### Chapter 516 
+### Chapter 516
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Meowth that was eating suddenly bristled. It bared its teeth toward the direction of the noise and growled fiercely.
+Meowth that was eating suddenly bristled. It bared its teeth toward the direction of the noise and growled fiercely.
 
 Han Sen stared at the direction of the snowcapped mountain, and soon saw a creature that looked like a triceratops rushing out from behind the mountain.
 

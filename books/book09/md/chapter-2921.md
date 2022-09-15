@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Statue on the Mountain Path
-### Chapter 2921 
+### Chapter 2921
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Things such as bacteria had been decomposed by the purple light substances, so nothing dirty was left.
+Things such as bacteria had been decomposed by the purple light substances, so nothing dirty was left.
 
 When Han Sen put the clothes on, he tried using power to activate the clothing’s power. He thought if it was not a god personality armament, it had to at least be a treasure.
 

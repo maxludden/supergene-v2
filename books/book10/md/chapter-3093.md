@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Sonic Attack
-### Chapter 3093 
+### Chapter 3093
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Feng Fei Fei was not going to let something so insignificant annoy her, but she still wanted to test Han Sen’s mind. She put a drop of mysterious power into her singing. It was the phoenix voice from the holy phoenix. The grudge between Han Sen and Gong Shu Jin was something no one knew more about than Feng Fei Fei. Now, Gong Shu Jin had died. Although it was only a speculated rumor, Feng Fei Fei was suspicious about Han Sen’s involvement.
+Feng Fei Fei was not going to let something so insignificant annoy her, but she still wanted to test Han Sen’s mind. She put a drop of mysterious power into her singing. It was the phoenix voice from the holy phoenix. The grudge between Han Sen and Gong Shu Jin was something no one knew more about than Feng Fei Fei. Now, Gong Shu Jin had died. Although it was only a speculated rumor, Feng Fei Fei was suspicious about Han Sen’s involvement.
 
 She supposed it had something to do with Han Sen, but she did not want to believe it. Seeing Han Sen there, she decided she might as well use her voice to test his fortitude. She wanted to know if Han Sen was telling the truth and if he had the power to murder Gong Shu Jin.
 
@@ -27,8 +28,6 @@ Han Sen did not move. The sound was unbearable. It would have been utterly frigh
 
 When Feng Fei Fei witnessed Han Sen display no reaction, and he even had the audacity to wink at her, she was shocked. She really wanted to win.
 
-as
-
 She increased the phoenix sound power. It was in her voice. It was like the sound of a phoenix on cloud nine. It started to break the sky. It was like it was going to draw Han Sen into a vortex.
 
 Other people could not hear it at all. Even Bald Guy, who was next to Han Sen, had no such feelings. He still looked drunk in the pleasure of hearing Feng Fei Fei’s voice.
@@ -36,8 +35,6 @@ Other people could not hear it at all. Even Bald Guy, who was next to Han Sen, h
 Han Sen looked as if he did not feel anything either. Although he heard the sounds, the sounds did not affect him in the least.
 
 Feng Fei Fei saw Han Sen smiling at her. For some reason, she felt as if the smile was extra spiteful. She powered up the phoenix sound power.
-
-SO
 
 No matter how far Feng Fei Fei increased the phoenix sound power, Han Sen shrugged it off as if he did not hear it. He just kept smiling at her, which made Feng Fei Fei believe her phoenix sound power might have a problem.
 

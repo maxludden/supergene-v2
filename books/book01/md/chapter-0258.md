@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## The Only Chance
-### Chapter 258 
+### Chapter 258
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Situ Xiang did not know what to say. She wanted to win more than anybody. However, the gap between the two teams was too big.
+Situ Xiang did not know what to say. She wanted to win more than anybody. However, the gap between the two teams was too big.
 
 Situ Xiang had no clue herself as to how to beat the strongest military school. But as a coach, she could not tell her team that they had no hope.
 

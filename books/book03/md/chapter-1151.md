@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Thorn Scorpion Beast Soul
-### Chapter 1151 
+### Chapter 1151
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  When Han Sen moved the underground shelter again, there was only Queen, Bao’er, and Zero left.
+When Han Sen moved the underground shelter again, there was only Queen, Bao’er, and Zero left.
 
 Old Huang and his people stayed in the Dark Shelter they had just liberated. This was by their choice, of course. Han Sen wanted to go deep into Thorn Forest; a knotted realm where none of the others would have a chance of hunting. Therefore, they decided to remain there in the new shelter.
 

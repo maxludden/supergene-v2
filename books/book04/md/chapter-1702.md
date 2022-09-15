@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Heart Eye
-### Chapter 1702 
+### Chapter 1702
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Pang!
+Pang!
 
 Han Sen used his dongxuan movements, thinking he could dodge the officer’s strikes. But he was hit, and he fell like a star. When he hit the earth, the impact created a big hole amidst the ruins and rubble.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Lucky Guy
-### Chapter 166 
+### Chapter 166
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  "Say it." Yang Manli did not want to spare any words on this lucky yet shameless guy.
+"Say it." Yang Manli did not want to spare any words on this lucky yet shameless guy.
 
 If soldiers had the chance to endorse any Digang products, they would probably even do it for free. Not to mention Digang’s offer had been very generous considering Han Sen’s identity.
 

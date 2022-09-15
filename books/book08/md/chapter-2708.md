@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## No Choice
-### Chapter 2708 
+### Chapter 2708
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “Leave me here and go on.” Han Sen could see that Exquisite’s face was drenched in sweat, and the energy flows in her body weren’t circulating correctly. He knew she had used Galaxy Teleport too many times. Her body had a limit, and she was almost tapped out.
+“Leave me here and go on.” Han Sen could see that Exquisite’s face was drenched in sweat, and the energy flows in her body weren’t circulating correctly. He knew she had used Galaxy Teleport too many times. Her body had a limit, and she was almost tapped out.
 
 But Exquisite ignored what Han Sen told her. She thought for a minute, then said, “I have found a way. We will teleport to Bao Lian. Bao Lian won’t let himself be trapped in the same God Spirit Storm he placed on you. So, if we followed where he went, we might be able to find a way to erase the power he put on you.”
 

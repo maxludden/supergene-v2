@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Crazy Simulating Crystals
-### Chapter 465 
+### Chapter 465
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  "Captain, let the guards follow you." The leader of the guards, Li Lu stood up and saluted.
+"Captain, let the guards follow you." The leader of the guards, Li Lu stood up and saluted.
 
 The guards were all the combatants that remained on Daphne.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Opportunity
-### Chapter 1225 
+### Chapter 1225
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “Old Huang, why is the emperor bringing so many king spirits and super creatures with him?” In a forest, two humans spoke with each other in a hushed volume.
+“Old Huang, why is the emperor bringing so many king spirits and super creatures with him?” In a forest, two humans spoke with each other in a hushed volume.
 
 “The emperor’s son, Thunder Devil King, was bullied. The emperor sought retribution, so he sent a small host of king spirits and super creatures to where the enemy was said to reside. They were all killed,” the elderly man said.
 

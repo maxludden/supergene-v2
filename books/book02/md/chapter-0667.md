@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## The Oppressor
-### Chapter 667 
+### Chapter 667
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen was having a hard time under the oppression of Hui Haifeng's barrage of spear strikes. The fast-paced attacks restricted any use of his rex spike.
+Han Sen was having a hard time under the oppression of Hui Haifeng's barrage of spear strikes. The fast-paced attacks restricted any use of his rex spike.
 
 If he used his Dual skill, he'd have no trouble thwarting his opponent. But Han Sen was here for the sole purpose of improving his rex spike skills. As much as he wanted to, he had to forget using the Dual skill and hold strong the way he was going.
 

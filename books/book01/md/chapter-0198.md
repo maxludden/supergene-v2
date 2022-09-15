@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Kept Man
-### Chapter 198 
+### Chapter 198
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  After Wen Xiuxiu had done the interviews, she had even less faith in Blackhawk since she did not even see Ouyang Xiaosan during the interview.
+After Wen Xiuxiu had done the interviews, she had even less faith in Blackhawk since she did not even see Ouyang Xiaosan during the interview.
 
 "Well, I will just read more about St. Germain and talk more about them during the live." Wen Xiuxiu returned the room arranged for her on campus, casually wrote a newsletter, and checked St. Germain’s team online.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## With Light and Dust
-### Chapter 3410 
+### Chapter 3410
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “Sure.” Chaos nodded in agreement.
+“Sure.” Chaos nodded in agreement.
 
 Han Sen took Bao’er back with him to Space Garden. He called for his family to convene. Together with Bao’er, they all had dinner.
 

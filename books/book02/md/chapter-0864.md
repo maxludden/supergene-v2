@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## One Mouth and a Demigod
-### Chapter 864 
+### Chapter 864
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Zhuo Donglai watched the screen with an excitement in his heart. It reminded him of himself, in the days of his youth.
+Zhuo Donglai watched the screen with an excitement in his heart. It reminded him of himself, in the days of his youth.
 
 "He is not from the Luo family, and he did not practice Falsified-Sky Sutra. This is interesting, and now I have come to the decision that yes, I will recruit him as my student." Zhuo Donglai smiled.
 

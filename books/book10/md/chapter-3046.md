@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Looking at an Angel
-### Chapter 3046 
+### Chapter 3046
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The white-clothed young man reacted quickly. He went behind Han Sen and grabbed him by the clothes.
+The white-clothed young man reacted quickly. He went behind Han Sen and grabbed him by the clothes.
 
 Han Sen was going to throw the landlord’s stupid son away since they did not know each other. He did not know if the young man was a good guy or a bad guy, and he did not want to be his meat shield.
 

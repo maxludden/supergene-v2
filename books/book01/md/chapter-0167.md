@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Looking for Trouble
-### Chapter 167 
+### Chapter 167
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen hesitated, since he did not recognize this student.
+Han Sen hesitated, since he did not recognize this student.
 
 "It is natural that you do not know me. I am also in the Department of Archery. You did our department right in Starry Cup. I would give the seat to none but you. Come here." The student smiled and offered Han Sen his own seat.
 

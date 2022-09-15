@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Evil Sword
-### Chapter 2368 
+### Chapter 2368
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen coughed awkwardly to fill the silence.
+Han Sen coughed awkwardly to fill the silence.
 
 “Have you tried using your little sword to fix the situation?” Han Sen suddenly realized he was talking about Ning Yue’s “little sword,” and he quickly shook his head to get rid of the thought.
 

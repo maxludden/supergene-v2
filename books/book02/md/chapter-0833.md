@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Breaking Falsified-sky With a Single Hand
-### Chapter 833 
+### Chapter 833
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen immediately activated his dongxuan aura. The invisible powers he had once been unable to track could now be locked-onto and followed.
+Han Sen immediately activated his dongxuan aura. The invisible powers he had once been unable to track could now be locked-onto and followed.
 
 Reaching out his hand, he brought with it the power of thunder. He swung his fist forward, but it did not seem to connect with Luo Yin's attack at all.
 

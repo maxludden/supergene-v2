@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Wolfpack
-### Chapter 1008 
+### Chapter 1008
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Lin Weiwei and her people looked through the darkness in confusion, and Han Sen did not say anything more.
+Lin Weiwei and her people looked through the darkness in confusion, and Han Sen did not say anything more.
 
 It didn’t take long for her face to change and exclaim, “Han Sen is right! Many creatures are fast approaching.”
 

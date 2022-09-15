@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Playing Chess
-### Chapter 2532 
+### Chapter 2532
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “That means Bai Wan Jie is confident that he’ll be able to obtain a Sea Sky Eye?” Han Sen frowned.
+“That means Bai Wan Jie is confident that he’ll be able to obtain a Sea Sky Eye?” Han Sen frowned.
 
 Li Keer smiled. “That is why I said, if you think this is too troublesome, you don’t have to help me locate and destroy the creature. I want the Sea Sky Eye, but not as much as the Extreme King do.”
 

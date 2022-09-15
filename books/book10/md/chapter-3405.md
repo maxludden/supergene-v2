@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Women That Don't Listen
-### Chapter 3405 
+### Chapter 3405
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “The sub-gods still belong to her, making their power a part of hers,” Bury Path God said. He briefly paused and said, “Such time power… Han Sen is not a time element. Time Sky will not do much to affect him, but I do not think he can block this reversal of time.”
+“The sub-gods still belong to her, making their power a part of hers,” Bury Path God said. He briefly paused and said, “Such time power… Han Sen is not a time element. Time Sky will not do much to affect him, but I do not think he can block this reversal of time.”
 
 It was not just Bury Path God that thought of things this way. Upon seeing all of this, big sky demon frowned and said, “Moment God is stronger than before. She is stronger than when she was rebooted. Against the rules of Time Sky, she alone is supreme. She is taking control of the rules of Time Sky for herself. It is no wonder why she is the main god of time powers. Can this little guy, Han Sen, handle her?”
 

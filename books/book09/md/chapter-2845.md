@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Golden Growler
-### Chapter 2845 
+### Chapter 2845
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Finally, it is the fourth round. I wonder if Golden Growler is Little Gold Gold. Han Sen stared at the space battleground in contemplation, waiting for Golden Growler to be revealed.
+Finally, it is the fourth round. I wonder if Golden Growler is Little Gold Gold. Han Sen stared at the space battleground in contemplation, waiting for Golden Growler to be revealed.
 
 If Golden Growler was really Little Gold Gold, Han Sen was worried about who its opponent might have been.
 

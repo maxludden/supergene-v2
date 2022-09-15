@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Sparring Partner
-### Chapter 326 
+### Chapter 326
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Chapter 326 - Sparring Partner
+Chapter 326 - Sparring Partner
 
 Until the next day when Han Sen received the geno solution Overload, he closed the video of his combat against Queen.
 

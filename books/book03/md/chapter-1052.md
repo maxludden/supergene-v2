@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## A Door to a New World
-### Chapter 1052 
+### Chapter 1052
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen left Xie Qing King in the shelter and returned to the Alliance. Xie Qing King had said that he wanted to read some human books, and while Han Sen was happy to oblige, he didn’t have any books he could give the spirit. After all, Han Sen could not risk leaking important human information.
+Han Sen left Xie Qing King in the shelter and returned to the Alliance. Xie Qing King had said that he wanted to read some human books, and while Han Sen was happy to oblige, he didn’t have any books he could give the spirit. After all, Han Sen could not risk leaking important human information.
 
 The deal was still in place, too, in which Xie Qing King would help Han Sen eliminate Holy-Sword Emperor and conquer Holy-Sword Shelter. So, by giving Xie Qing King books as requested, Han Sen thought he’d be in a better mood to assist.
 

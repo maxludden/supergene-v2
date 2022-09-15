@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Returning to the Return Ruin Sea
-### Chapter 2055 
+### Chapter 2055
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen’s power was enough to compare with a Marquise due to the dragon wing buffs and Break Space Flash. Those two abilities made Han Sen far stronger.
+Han Sen’s power was enough to compare with a Marquise due to the dragon wing buffs and Break Space Flash. Those two abilities made Han Sen far stronger.
 
 Without hesitation, Han Sen took out his Demon Stone Cow mutant gene and used the Blood-Pulse Sutra to refine it.
 

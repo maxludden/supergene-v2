@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## The Pilgrimage of a Thousand Birds
-### Chapter 1035 
+### Chapter 1035
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The platform lowered. It descended slowly, until it came to a stop before a stone door.
+The platform lowered. It descended slowly, until it came to a stop before a stone door.
 
 “Is this the entrance to Phoenix Shelter?” Han Sen was delighted, thinking he might have found it.
 

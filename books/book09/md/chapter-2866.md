@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## God Sadness Appears Again
-### Chapter 2866 
+### Chapter 2866
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Boom!
+Boom!
 
 Purple light shot into the sky. It became an empty sky crack in space. A silent, sad mind was all across the universe.
 

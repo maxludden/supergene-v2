@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Twin-tail Purple Scorpion
-### Chapter 738 
+### Chapter 738
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  "No." Han Sen pushed her away and went back to lie down on the bench.
+"No." Han Sen pushed her away and went back to lie down on the bench.
 
 "Why? I can pay you!" Zhou Yumei quickly suggested.
 

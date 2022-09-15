@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Treading Upon Sharp Knives
-### Chapter 147 
+### Chapter 147
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen drew the string of the horn bow to the fullest and aimed his black stinger arrow at the giant phantom ant. He paused for a second before shooting the arrow.
+Han Sen drew the string of the horn bow to the fullest and aimed his black stinger arrow at the giant phantom ant. He paused for a second before shooting the arrow.
 
 Clank!
 

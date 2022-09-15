@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## This Life, This World, This Sky, This Earth; This Single Strike
-### Chapter 583 
+### Chapter 583
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The audience that were in their seats couldn't help but stand up and lean forward with their mouths open, to watch Yi Dongmu perform his final strike.
+The audience that were in their seats couldn't help but stand up and lean forward with their mouths open, to watch Yi Dongmu perform his final strike.
 
 Yi Dongmu's momentum and power had reached maximum capacity, and now, the daggers in his hands finally moved. They travelled at an unimaginable speed, quicker than the wind.
 

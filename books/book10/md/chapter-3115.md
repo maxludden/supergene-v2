@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Teacher Jian Bu Gu
-### Chapter 3115 
+### Chapter 3115
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Thousand Mile Reach was very shocked. He almost forgot the way out while leaving Feng Castle.
+Thousand Mile Reach was very shocked. He almost forgot the way out while leaving Feng Castle.
 
 “That man had to be Jian Bu Gu. It has to be! It has to be Teacher Jian, but how could he…” Thousand Mile Reach was very confused. He could not understand why Grand Teacher Jian Bu Gu would call himself Han Sen’s servant. That was far too shocking.
 
@@ -53,9 +54,7 @@ Thousand Mile Reach looked weird as he said, “My King, I do not know if there 
 
 To King Jing Zhen, Jian Bu Gu was not just a teacher. It was like the relationship between Thousand Mile Reach and Qin Bai. Jian Bu Gu watched King Jing Zhen grow up. He was not just an officer. They were more like father and son. Deep inside King Jing Zhen’s heart, Jian Bu Gu was a very special person whom he had relied on. It was not something people easily understood.
 
-Jian Bu Gu was different from Thousand Mile Reach. He was not a harsh teacher, but he had shaped King Jing Zhen into becoming a good
-
-king.
+Jian Bu Gu was different from Thousand Mile Reach. He was not a harsh teacher, but he had shaped King Jing Zhen into becoming a good king.
 
 Ten years ago, King Jing Zhen wanted to kick Wu Wei Dao Palace out of the Qin Kingdom. He forced Jian Bu Gu, who had deep ties with the Wu Wei Dao Palace, to fight them.
 

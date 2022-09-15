@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Fighting Ancient Jade
-### Chapter 1103 
+### Chapter 1103
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen’s next opponent was another king spirit.
+Han Sen’s next opponent was another king spirit.
 
 The king spirit’s title was Ancient Jade. It was a name that exuded a sort of grace or elegance, but in all truth, the name betrayed the fighter’s true self. He was an eight-meter-tall spirit of mighty power and stone.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Old Dragon-blood Tree
-### Chapter 886 
+### Chapter 886
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen rested at their cabin for a few more days, and although he hadn't fully recovered, he could now walk around.
+Han Sen rested at their cabin for a few more days, and although he hadn't fully recovered, he could now walk around.
 
 Han Sen had suffered tremendous injuries, and because there were no medical tools in the vicinity, he had to rely on simple medicine and the Blood-Pulse Sutra for healing. He wagered it would take another two whole months before he was back to a clean bill of health.
 

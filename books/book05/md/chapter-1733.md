@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Sanctuary’s Gate
-### Chapter 1733 
+### Chapter 1733
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  A strange power burst out from the officer. It became a blast in the air and then quickly disappeared. After one second, a vortex manifested in the sky. It was light, and the dimensions inside whirled and twisted.
+A strange power burst out from the officer. It became a blast in the air and then quickly disappeared. After one second, a vortex manifested in the sky. It was light, and the dimensions inside whirled and twisted.
 
 The sky was like a lake with a whirlpool. It was scary, and even elites like Gu Qingcheng frowned.
 

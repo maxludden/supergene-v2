@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Fun Place
-### Chapter 2245 
+### Chapter 2245
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “What fun thing are you referring to?” Han Sen asked the Fox Queen worriedly.
+“What fun thing are you referring to?” Han Sen asked the Fox Queen worriedly.
 
 “It’s so cold here, with nothing but stone walls and icy water. How many forms of entertainment do you think are available here? Of course, you must know what I’m referring to…” Fox Queen’s eyes smoldered as her voice drifted off. She salaciously licked her red lips, then moved one hand into her white gown. The other hand started to drift across her boobs.
 

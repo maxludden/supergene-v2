@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## The Deal With a Hundred Tribes
-### Chapter 1430 
+### Chapter 1430
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Ling Mei’er shook her head and proclaimed to Han Sen, “I cannot leave here!”
+Ling Mei’er shook her head and proclaimed to Han Sen, “I cannot leave here!”
 
 “Why not?” Han Sen asked.
 

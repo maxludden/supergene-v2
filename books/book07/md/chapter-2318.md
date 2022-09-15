@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Waking Up Shocked
-### Chapter 2318 
+### Chapter 2318
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen knew that he had shot himself in the foot. That King guard was aligned with the element of water, but that didn’t imply affiliation with cold and yin force powers.
+Han Sen knew that he had shot himself in the foot. That King guard was aligned with the element of water, but that didn’t imply affiliation with cold and yin force powers.
 
 The fire element was known to restrict the water element, but under the right conditions, they could actually make each other more dangerous.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Geno Tree
-### Chapter 1714 
+### Chapter 1714
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Lan Se brought Han Sen to a testing room. She wanted to test his fitness and see what sort of job he’d be eligible for.
+Lan Se brought Han Sen to a testing room. She wanted to test his fitness and see what sort of job he’d be eligible for.
 
 Han Sen thought Planet Kate resembled a modern society, so the testing methods should also resemble those of the Alliance, where all tests were conducted through various apparatus.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## God Cannot Save You
-### Chapter 168 
+### Chapter 168
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  "Han Sen, come up and spar with Yu Mingzhi in black and white boxing practice." Professor Yan did not want to waste any time and directly called Han Sen.
+"Han Sen, come up and spar with Yu Mingzhi in black and white boxing practice." Professor Yan did not want to waste any time and directly called Han Sen.
 
 Han Sen had to stand up and go up the stage.
 

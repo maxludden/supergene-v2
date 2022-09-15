@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Battle in the Deep Sea
-### Chapter 2747 
+### Chapter 2747
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The water around Han Sen became dark blue, and the color started to drift straight through the substance chains that protected Han Sen’s body. The color was about to touch down on Han Sen’s body like a plume of blue smoke.
+The water around Han Sen became dark blue, and the color started to drift straight through the substance chains that protected Han Sen’s body. The color was about to touch down on Han Sen’s body like a plume of blue smoke.
 
 Han Sen’s eyes hardened, and his body transformed into icy jade. He lifted a hand and an icy jade substance chain suddenly crystallized large portions of the water around him, freezing the toxic substance chains in place.
 

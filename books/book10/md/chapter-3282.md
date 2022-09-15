@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Light Stream Dragon Spear
-### Chapter 3282 
+### Chapter 3282
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Sky King looked frozen. The presence of the light stream dragon spear made his heart jump. It was a sign that he felt a sense of danger.
+Sky King looked frozen. The presence of the light stream dragon spear made his heart jump. It was a sign that he felt a sense of danger.
 
 After all, Sky King used to be a very strong and powerful person. The moment his heart jumped, he decided he needed to strike first. He was going to suppress Shoot Shadow.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## God Body Evolved
-### Chapter 2731 
+### Chapter 2731
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  But after another half hour, Han Sen still hadn’t emerged from the Good Fortune Pool. Now, even Li Chun Qiu’s face looked stunned.
+But after another half hour, Han Sen still hadn’t emerged from the Good Fortune Pool. Now, even Li Chun Qiu’s face looked stunned.
 
 “It has been an hour, and he still isn’t out yet… This should be what a primitive deified can achieve, right?” Shale said with shock.
 

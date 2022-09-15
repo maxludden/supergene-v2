@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Bee Planet
-### Chapter 3135 
+### Chapter 3135
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  When Han Sen and the others reached the next planet in Ghost Starlight, there was a mountain of dead bodies and a sea of blood. The bodies of all kinds of creatures and human elites were on this giant planet. The planet looked like it was full of holes. It almost looked like a beehive. The scarier thing about it was a giant horde of bees in the sky that looked like a cloud. They covered the sky, and they almost covered the entire planet.
+When Han Sen and the others reached the next planet in Ghost Starlight, there was a mountain of dead bodies and a sea of blood. The bodies of all kinds of creatures and human elites were on this giant planet. The planet looked like it was full of holes. It almost looked like a beehive. The scarier thing about it was a giant horde of bees in the sky that looked like a cloud. They covered the sky, and they almost covered the entire planet.
 
 Many nobles were far away from this planet. They only watched it. No one dared to approach the planet. “Brother, what’s going on?” Bald Guy asked someone nearby. That person should have been alone. He had an ice-cold personality. When he heard the question, he said, “This planet had countless toxic bees emerge from underground. They killed everything on the planet. Everyone thinks this planet has a land pulse that can shock the sky. After a few powerful people entered, no one has made it out alive. These toxic bees are scary.”
 

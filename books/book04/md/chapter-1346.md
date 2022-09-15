@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Jade Snail
-### Chapter 1346 
+### Chapter 1346
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  There were a dozen Jade Snails occupying the valley, but because they were all so slow, they weren’t going to be much of a threat at all.
+There were a dozen Jade Snails occupying the valley, but because they were all so slow, they weren’t going to be much of a threat at all.
 
 Their geno cores were the shells upon their backs. Although they could not be used to harm Han Sen, they offered the snail an incredibly high level of defense. Even primitive creatures would have a difficult time breaking those shells open.
 

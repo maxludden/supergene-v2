@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## A Mushroom You Cannot Touch
-### Chapter 1448 
+### Chapter 1448
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “Boss, you are really smart and really strong. Qing Le was such trouble, and you found someone to get rid of him.” Inside the spirit hall, Cheap Sheep praised him proudly.
+“Boss, you are really smart and really strong. Qing Le was such trouble, and you found someone to get rid of him.” Inside the spirit hall, Cheap Sheep praised him proudly.
 
 Green Cow also chimed in to say, “Boss, you are blessed. You are so young and so handsome; all the woman cows are sure to fall for you, head over heels.”
 

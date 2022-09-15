@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Scary Weapon
-### Chapter 1068 
+### Chapter 1068
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen could not wait to sleep on a bed of those purple crystal cores. Doing so would be better than rolling on a bed of cash.
+Han Sen could not wait to sleep on a bed of those purple crystal cores. Doing so would be better than rolling on a bed of cash.
 
 Ji Yanran and Han Sen were not professional scientists, so the correct terminology escaped them. What they did know was that the purple crystal cores were anti-material weapons. They were explosive devices that released obliterating energy upon detonation.
 

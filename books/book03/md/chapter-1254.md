@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Jue
-### Chapter 1254 
+### Chapter 1254
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Inside the pot, amidst the broken shell, was a bronze goblet: a jue.
+Inside the pot, amidst the broken shell, was a bronze goblet: a jue.
 
 The surface of the jue was decorated with an array of beautiful engravings and symbols. It was filled to the brim with an alcohol that looked like warm, red wine. The jue was submerged in the water of the pot, but the water did not mix with the red concoction inside the jue. It remained separate.
 

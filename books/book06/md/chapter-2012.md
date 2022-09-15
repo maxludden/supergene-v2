@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Blood Feather Knife
-### Chapter 2012 
+### Chapter 2012
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The Feather students that lived on Cloud Island were busy preparing the knife event.
+The Feather students that lived on Cloud Island were busy preparing the knife event.
 
 “Angia, do you think Han Sen will come?” asked a Feather lady called An Lingxin.
 

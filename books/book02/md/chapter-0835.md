@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Little Auntie
-### Chapter 835 
+### Chapter 835
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  When Han Sen returned, he asked around. The general consensus was that no one really knew what Dong Lin was doing by allowing his participation.
+When Han Sen returned, he asked around. The general consensus was that no one really knew what Dong Lin was doing by allowing his participation.
 
 "Is Dong Lin really going to be this nice?" Han Sen struggled to believe they would.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Unbelievable Dream
-### Chapter 1227 
+### Chapter 1227
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Boom!
+Boom!
 
 Thunder Hell Emperor’s lightning lashed towards Han Sen, who was in the shape of a raven. He wanted to incinerate Han Sen with his electricity and burn him to ash.
 

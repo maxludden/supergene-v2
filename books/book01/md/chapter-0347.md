@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Unworthy as an Enemy
-### Chapter 347 
+### Chapter 347
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  "I don't understand why you're lingering in First God's Sanctuary," said Huangfu Pingqing with a sigh after Son of Heaven left.
+"I don't understand why you're lingering in First God's Sanctuary," said Huangfu Pingqing with a sigh after Son of Heaven left.
 
 "I need to stay for lots of reasons," said Han Sen calmly.
 

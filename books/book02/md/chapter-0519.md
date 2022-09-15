@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Hunting on the Bottom of the Lake
-### Chapter 519 
+### Chapter 519
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  "You really dare to fight me?" Annie was dazed. She did not believe that Han Sen dared to fight her. In terms of real fighting abilities, Han Sen was quite weak compared to her.
+"You really dare to fight me?" Annie was dazed. She did not believe that Han Sen dared to fight her. In terms of real fighting abilities, Han Sen was quite weak compared to her.
 
 "Yes, but hands only." Han Sen smiled.
 

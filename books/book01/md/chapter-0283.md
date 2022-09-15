@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Trading for Beast Souls
-### Chapter 283 
+### Chapter 283
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen had carefully observed the footwork and dagger skills of the white jade skeleton. In addition to the skeleton's movements that could not be achieved by any human, its footwork and dagger skills alone were very impressive.
+Han Sen had carefully observed the footwork and dagger skills of the white jade skeleton. In addition to the skeleton's movements that could not be achieved by any human, its footwork and dagger skills alone were very impressive.
 
 Both its footwork and dagger skills were always out of order. Even Han Sen who was great at prejudgment cannot capture held the skeleton moved and attacked.
 

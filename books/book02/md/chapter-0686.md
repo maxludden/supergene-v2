@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Peach Trees Mature
-### Chapter 686 
+### Chapter 686
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  "Daddy, you sure have a lot of free time recently." Ji Yanran smiled at Ji Ruozhen's image on the video chat.
+"Daddy, you sure have a lot of free time recently." Ji Yanran smiled at Ji Ruozhen's image on the video chat.
 
 "I can't help it; my future son-in-law is far too talented!" Ji Ruozhen looked like he was joking.
 

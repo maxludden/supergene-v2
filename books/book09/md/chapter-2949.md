@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Weird Atmosphere
-### Chapter 2949 
+### Chapter 2949
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Sky Palace’s first seat’s expression changed. He immediately waved his sleeves. Space resided within his sleeves. He wanted to suck the eyeless big beast into it.
+Sky Palace’s first seat’s expression changed. He immediately waved his sleeves. Space resided within his sleeves. He wanted to suck the eyeless big beast into it.
 
 Just as the eyeless big beast was about to approach the sleeves, it suddenly stopped. The creature’s mouth turned into a speaker in space. It blew wind at Sky Palace’s first seat.
 

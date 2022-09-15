@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## The Conditions for Joining
-### Chapter 2208 
+### Chapter 2208
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen was indulging himself with quality drinks and food hot off the grill, but he suddenly looked up and let his face go blank. Something powerful was coming his way, and it extinguished the fire in a single moment. Not even smoke was left to rise from the ashes.
+Han Sen was indulging himself with quality drinks and food hot off the grill, but he suddenly looked up and let his face go blank. Something powerful was coming his way, and it extinguished the fire in a single moment. Not even smoke was left to rise from the ashes.
 
 “Han Sen, how dare you cheat on my tests!” Ice Blue Knight King barked. He stood with his arms crossed over his chest, a man clad in green clothing beside him.
 

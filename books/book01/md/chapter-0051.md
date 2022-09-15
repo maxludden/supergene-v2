@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## My Beast Soul
-### Chapter 51 
+### Chapter 51
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Son of Heaven's proposal was a risky one, but it was indeed their best chance to kill the sacred-blood creature. The creature was now lying on the mountain top bleeding, its wings hardly moving. If they missed this opportunity, they might never be able to kill it.
+Son of Heaven's proposal was a risky one, but it was indeed their best chance to kill the sacred-blood creature. The creature was now lying on the mountain top bleeding, its wings hardly moving. If they missed this opportunity, they might never be able to kill it.
 
 Finally, Qin Xuan agreed with Son of Heaven, but she decided to go up the mountain, leaving Son of Heaven and Yang Manli, the only two mutant beast soul arrow owners, at the foot of the mountain.
 

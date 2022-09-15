@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Permission to Enter Destiny’s Tower
-### Chapter 2387 
+### Chapter 2387
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “I failed again?” Han Sen looked pale. His power buzzed feebly, and his lifeforce was at a very low level.
+“I failed again?” Han Sen looked pale. His power buzzed feebly, and his lifeforce was at a very low level.
 
 Han Sen had cast all the Dongxuan Sutra power that he was able to. He used all his energy trying to push the cogwheel and get it moving, so he could open its area and ascend to King class. Getting the cog moving should not have been this difficult.
 

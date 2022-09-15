@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Healing
-### Chapter 1471 
+### Chapter 1471
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen was not surprised, as he never fully trusted Elysian Moon.
+Han Sen was not surprised, as he never fully trusted Elysian Moon.
 
 “Telling me that now is pointless. Let’s just figure out how we’re going to live through the next couple hours. Let me examine your wounds.” Han Sen checked out her pierced shoulder.
 

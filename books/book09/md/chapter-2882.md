@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Meeting a Person Again
-### Chapter 2882 
+### Chapter 2882
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The altar was broken, but it no longer had any cracks. It had recovered and looked like new. There was still no Godlight or God Spirit spawning on the altar.
+The altar was broken, but it no longer had any cracks. It had recovered and looked like new. There was still no Godlight or God Spirit spawning on the altar.
 
 “Thank you so much, Little Brother. This is your reward. I trust we will meet again.” Tai Yi threw something to Han Sen as he walked to the altar.
 

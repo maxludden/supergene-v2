@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Ape Beast Soul
-### Chapter 84 
+### Chapter 84
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Finally, Dollar and Luo Tianyang’s codes were displayed on the martial stele. Each digit in Han Sen’s code was an eight, so everyone knew that was him.
+Finally, Dollar and Luo Tianyang’s codes were displayed on the martial stele. Each digit in Han Sen’s code was an eight, so everyone knew that was him.
 
 Luo Tianyang went on the stage first. From his leisurely look, it seems that he was confident about the upcoming match, which made Su Xiaoqiao quite nervous.
 

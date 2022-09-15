@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Carried by an Arrow
-### Chapter 186 
+### Chapter 186
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  With so many black-feathered beasts, it would take them a while to kill them all even if the beasts did not fight back, not to mention the mutant and sacred-blood black-feathered beasts.
+With so many black-feathered beasts, it would take them a while to kill them all even if the beasts did not fight back, not to mention the mutant and sacred-blood black-feathered beasts.
 
 And now they had been trapped in the bodies of the black-feathered beasts. If they did not manage to go out, they would be torn apart before the king came to them.
 

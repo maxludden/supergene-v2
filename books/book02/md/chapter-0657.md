@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## The Holy Statue Under the Peach Tree
-### Chapter 657 
+### Chapter 657
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The peach forest was red, like the blush of a young lady. The place seemed to go on forever, and it was filled with the energy of youth.
+The peach forest was red, like the blush of a young lady. The place seemed to go on forever, and it was filled with the energy of youth.
 
 When Han Sen walked into the peach tree forest, he was quite surprised. All the peach trees had dragonflies flying around them. The pink flowers on the trees were wide open and rivers of them flowed down to the ground in harmonic beauty.
 

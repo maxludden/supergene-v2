@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Deified Speed
-### Chapter 2298 
+### Chapter 2298
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  There were many things that couldn’t be truly understood by merely reading a book; instead, they had to be figured out by each individual. The teachings of the Xuan Men were this sort of knowledge.
+There were many things that couldn’t be truly understood by merely reading a book; instead, they had to be figured out by each individual. The teachings of the Xuan Men were this sort of knowledge.
 
 Han Sen planned to find a few people that could research the Xuan Men information on his behalf and determine what content might be suitable for humans to learn. He also wanted to establish a special school in the Alliance that would teach the Xuan Men techniques to other humans. He wanted to pass on the knowledge and expand the lineage of the Xuan Men.
 

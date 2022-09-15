@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Headless Rockman
-### Chapter 1553 
+### Chapter 1553
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  He didn’t know when the chimenea had begun spewing icy fire again, but that’s what it was now doing.
+He didn’t know when the chimenea had begun spewing icy fire again, but that’s what it was now doing.
 
 The mouths of the eleven Black Seahorses were shaped like megaphones. They spat out frosty air at the white metal tower.
 

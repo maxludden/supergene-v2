@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Thunder God Spike
-### Chapter 2263 
+### Chapter 2263
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  As the sword-like weapon was slowly removed, the mysterious symbols on its surface began to leap and dance like mad. It looked as if countless fairies of silver thunder were dancing across it.
+As the sword-like weapon was slowly removed, the mysterious symbols on its surface began to leap and dance like mad. It looked as if countless fairies of silver thunder were dancing across it.
 
 The silver lightning still crackled out of the sword. It was like there was a silver dragon now flying around the cavern.
 

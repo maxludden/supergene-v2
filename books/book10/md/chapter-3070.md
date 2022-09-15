@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Night Cry Valley
-### Chapter 3070 
+### Chapter 3070
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen thought Night Cry Valley would not have had any people there for that place had eight sound bugs. The area had no land pulses, and eight sound bugs were difficult to catch. No one should have been there.
+Han Sen thought Night Cry Valley would not have had any people there for that place had eight sound bugs. The area had no land pulses, and eight sound bugs were difficult to catch. No one should have been there.
 
 Shortly after Han Sen entered the valley, he saw a woman. Her face was covered with a green veil. She was sitting atop a large rock in Night Cry Valley. Her eyes were closed. It looked as if she was resting.
 

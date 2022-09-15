@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Night Ghost
-### Chapter 2090 
+### Chapter 2090
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Night Ring 12th Street, capital city of Planet Night Ghost.
+Night Ring 12th Street, capital city of Planet Night Ghost.
 
 Planet Night Ghost was a planet belonging to Sky Palace. The planet was mostly populated by the Night Ghosts, however. They weren’t a higher race, but they sure enjoyed fighting. They were only active at night, and if it weren’t for being nocturnal, they’d have likely left Planet Night Ghost and become a higher race.
 

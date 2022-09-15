@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Exposing Himself
-### Chapter 2328 
+### Chapter 2328
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “Should I kill her or not?” Han Sen thought to himself.
+“Should I kill her or not?” Han Sen thought to himself.
 
 Cher’s power was stronger than Han Sen had expected. His ice powers didn’t work on her very well, and when Han Sen saw that Cher was about to free herself, he knew that her escaping would result in him being exposed.
 

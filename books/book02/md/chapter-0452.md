@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Goddess Gang
-### Chapter 452 
+### Chapter 452
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  After finishing his task on the warship, Han Sen had some free time again to enter God’s Sanctuary.
+After finishing his task on the warship, Han Sen had some free time again to enter God’s Sanctuary.
 
 Yang Manli had finished recruiting. 80 to 90% of the people living in that area joined Goddess Gang that Han Sen had formed and signed formal contracts.
 

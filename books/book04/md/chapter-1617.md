@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Meeting
-### Chapter 1617 
+### Chapter 1617
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “Where is he? I’ll seize him now,” said Qing Ya, surprised.
+“Where is he? I’ll seize him now,” said Qing Ya, surprised.
 
 “No need,” said the Chairman of the New Community. All of a sudden, the force of his body surged, and the space in the meeting room became tight and claustrophobic.
 

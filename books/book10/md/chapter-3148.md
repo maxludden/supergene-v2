@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Vice President
-### Chapter 3148 
+### Chapter 3148
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Sky King saw Han Sen and the others return from their venture safe and sound. He wasn’t too surprised. He laughed and asked, “Brother Han and Bao’er, what are the fruits of your labors like this time?”
+Sky King saw Han Sen and the others return from their venture safe and sound. He wasn’t too surprised. He laughed and asked, “Brother Han and Bao’er, what are the fruits of your labors like this time?”
 
 Han Sen did not beat around the bush and told it to him straight. “The rewards were average. We only managed to dig up one god-class gene egg. We are only coming back to ask Mister Wei for help. We want Mister Wei to help us locate the primary land pulse in the river.” “I am afraid that might prove difficult,” Sky King quietly said. “It is not that I do not want to help you, but Mister Wei is not one of my men. He has always avoided such dangerous formations. I am afraid it will be a lot to ask of him. How about this? I will come with you to seek out Mister Wei. He might be more inclined to agree with me there.”
 

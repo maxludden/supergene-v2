@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Only Chance
-### Chapter 338 
+### Chapter 338
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Since the scorching gray smoke was almost fatal, Jin Rijie, Jin Mingli and Sun Minghua were forced to step back. However, Han Sen stayed still.
+Since the scorching gray smoke was almost fatal, Jin Rijie, Jin Mingli and Sun Minghua were forced to step back. However, Han Sen stayed still.
 
 This might be his best chance to kill a super creature. If he retreated at this point, he was not sure if he could pick up the life essence, and he definitely would not be able to gain any beast soul.
 

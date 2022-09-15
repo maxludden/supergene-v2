@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Cracked Egg
-### Chapter 559 
+### Chapter 559
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen and Yi Dong Mu took a few steps back, watching the silver and metal egg with high alert. It was only an egg, but it discharged great torrents of electricity – it certainly wasn't normal.
+Han Sen and Yi Dong Mu took a few steps back, watching the silver and metal egg with high alert. It was only an egg, but it discharged great torrents of electricity – it certainly wasn't normal.
 
 If a creature did reside inside the egg, even as a newborn, they suspected it might possess terrible, powerful abilities.
 

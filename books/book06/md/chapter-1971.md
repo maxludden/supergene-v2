@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Jade Crane
-### Chapter 1971 
+### Chapter 1971
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Yun Suyi let the flying tiger soar at full speed. It raced into the clouds in less than a second. When she turned around, no one was behind her.
+Yun Suyi let the flying tiger soar at full speed. It raced into the clouds in less than a second. When she turned around, no one was behind her.
 
 “Hmph! You made me wait so long; you deserve it!” Yun Suyi did not allow her tiger to slow down. She flew straight to the xenogeneic island.
 

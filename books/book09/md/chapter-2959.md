@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Sacred Race Lantern
-### Chapter 2959 
+### Chapter 2959
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Roar!
+Roar!
 
 Old Vulture and the eyeless big beast made loud roaring noises. They both spat out a stone lantern. They lined them up beside the demon lady in the holy palace. The stone lanterns were releasing lights that covered the entirety of the holy palace.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Perfect
-### Chapter 1863 
+### Chapter 1863
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “Twelve moons? Han Sen is lucky! Being blessed by Moon God’s twelve moons will have made him stronger.” Moon- Wheel King was sipping on a cup of tea as he spoke.
+“Twelve moons? Han Sen is lucky! Being blessed by Moon God’s twelve moons will have made him stronger.” Moon- Wheel King was sipping on a cup of tea as he spoke.
 
 Yisha smiled. She was satisfied that Han Sen had been able to raise a twelfth moon.
 

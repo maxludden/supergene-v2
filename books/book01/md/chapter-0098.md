@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## An Interesting Person
-### Chapter 98 
+### Chapter 98
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen approached Tang, holding a dagger backhandedly, a way he had learned from Yi.
+Han Sen approached Tang, holding a dagger backhandedly, a way he had learned from Yi.
 
 Two feet away from Tang, Han Sen suddenly wielded the dagger and stabbed it at him from an unexpected angle.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Xenogeneic Genes
-### Chapter 1719 
+### Chapter 1719
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen looked at the information available on the internet, but he could not find any others who were associated with the sanctuaries. It seemed no one else on Kate was.
+Han Sen looked at the information available on the internet, but he could not find any others who were associated with the sanctuaries. It seemed no one else on Kate was.
 
 Han Sen wanted to know if things worked like they did in the sanctuaries. Where did genes come from? Were there beast souls to get? Stuff like that.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Mystic Valley
-### Chapter 1002 
+### Chapter 1002
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Bao’er sat upon a branch of the tree with a fruit in her hands. Then, she took a big bite. A lot of juice flowed out of the fruit, and it emitted a pleasant fragrance.
+Bao’er sat upon a branch of the tree with a fruit in her hands. Then, she took a big bite. A lot of juice flowed out of the fruit, and it emitted a pleasant fragrance.
 
 Bao’er ate the fruit whole in a few more bites. Then she licked her lips and immediately went for another.
 

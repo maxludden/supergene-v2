@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Going Through the 33 Skies
-### Chapter 3296 
+### Chapter 3296
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen was shocked. He looked at his hand. It had a purple light shining on it. A small, purple flower revealed itself.
+Han Sen was shocked. He looked at his hand. It had a purple light shining on it. A small, purple flower revealed itself.
 
 “It is the Otherside Flower.” Han Sen looked at the little purple flower. It had 13 petals. There were no more and no less. This was the small, purple flower Han Sen had seen before.
 

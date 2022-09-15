@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## The Scary Angel
-### Chapter 684 
+### Chapter 684
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Although Lu Hui was only leader of the Blueblood Force's Reserve Team, it was still a lofty position, representative of his abilities.
+Although Lu Hui was only leader of the Blueblood Force's Reserve Team, it was still a lofty position, representative of his abilities.
 
 Huang Yunlong had done his best to hide his people's presence, but when they entered Lu Hui's territory, they did not go unnoticed.
 

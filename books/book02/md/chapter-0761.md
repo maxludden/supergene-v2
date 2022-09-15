@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Bloodlust Mosquito
-### Chapter 761 
+### Chapter 761
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  There was no use turning back now, and Han Sen opted to push on and find out what was going on. The super creatures they had encountered all seemed to ignore them, as if something greater attracted them. If he came to a place where they all had gathered together, he resolved to go around them and simply continue on his way.
+There was no use turning back now, and Han Sen opted to push on and find out what was going on. The super creatures they had encountered all seemed to ignore them, as if something greater attracted them. If he came to a place where they all had gathered together, he resolved to go around them and simply continue on his way.
 
 Han Sen, with Zhou Yumei in tow, continued walking in the same direction. The fairy was still inside the scallop shell, refusing to come out. Whether or not she could by now was still up in the air, as her entire body was rotting. In a few more days, she'd most likely be melted into a bloody goop entirely.
 

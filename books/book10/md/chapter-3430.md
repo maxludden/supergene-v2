@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Crape Myrtle
-### Chapter 3430 
+### Chapter 3430
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “There are only four people who can walk this path and take this step. Even if I am not encountering Qin Xiu in this round, I am bound to meet him eventually. The next round I will probably encounter Qin Xiu.” Han Sen did not care which opponent he was going to encounter.
+“There are only four people who can walk this path and take this step. Even if I am not encountering Qin Xiu in this round, I am bound to meet him eventually. The next round I will probably encounter Qin Xiu.” Han Sen did not care which opponent he was going to encounter.
 
 Seeing the area open up ahead of him, he watched a person emerge from the clouds. Han Sen was shocked by who it was.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## To Escape or Not to Escape
-### Chapter 737 
+### Chapter 737
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The silver fox continued playing with Little Orange, getting it to chase itself around and around.
+The silver fox continued playing with Little Orange, getting it to chase itself around and around.
 
 While this was occurring, Han Sen lay down on Zhou Yumei's bench. He drank another one of her beverages, and at the same time, asked her questions that piqued his widespread curiosity.
 

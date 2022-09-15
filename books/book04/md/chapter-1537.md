@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Godlight Tunnel
-### Chapter 1537 
+### Chapter 1537
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Because they were unable to nab the treasure inside, Six Paths and God’s Retribution also planned on leaving. Little Fairy did, too, despite her reluctance to abandon the treasure.
+Because they were unable to nab the treasure inside, Six Paths and God’s Retribution also planned on leaving. Little Fairy did, too, despite her reluctance to abandon the treasure.
 
 Just in case they got lost again, Han Sen allowed Starsea Beast to guide them back to where they had been before they encountered the flowers.
 

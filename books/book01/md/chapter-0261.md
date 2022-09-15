@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Duel
-### Chapter 261 
+### Chapter 261
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  "Amazing Blackhawk… Amazing Han Sen… This is definitely an epoch-making game. The Alliance Central Military Academy was never pushed this far before. Blackhawk is only one step from victory, but that one step is so difficult, because in front of them is the best player in the Military Academy League, Jing Jiwu," said Wen Xiuxiu, thrilled.
+"Amazing Blackhawk… Amazing Han Sen… This is definitely an epoch-making game. The Alliance Central Military Academy was never pushed this far before. Blackhawk is only one step from victory, but that one step is so difficult, because in front of them is the best player in the Military Academy League, Jing Jiwu," said Wen Xiuxiu, thrilled.
 
 The viewers also became excited. At an absolute advantage, Blackhawk still lost three players to Jing Jiwu, who was indeed a monster.
 

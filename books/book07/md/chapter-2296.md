@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Can’t Stop You
-### Chapter 2296 
+### Chapter 2296
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Yisha and Han Sen returned to the base of the Ice Blue Knights, where they ran into Ice Blue Knight King. It was fairly obvious that he had been unable to navigate the palace maze, and had thus decided to return.
+Yisha and Han Sen returned to the base of the Ice Blue Knights, where they ran into Ice Blue Knight King. It was fairly obvious that he had been unable to navigate the palace maze, and had thus decided to return.
 
 When he saw Yisha and Han Sen come back together, Ice Blue Knight King’s eyes widened.
 

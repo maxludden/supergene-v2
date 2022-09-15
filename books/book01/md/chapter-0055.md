@@ -1,19 +1,19 @@
-Title:Ten Thousand per Slap 
-Chapter:55 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+Title:Ten Thousand per Slap
+Chapter:55
+Section:1
+Book:1
+CSS:../Styles/style.css
 viewport: width=device-width
-  
+
 ## Ten Thousand per Slap
-### Chapter 55 
+### Chapter 55
+
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
-  
 
-  
-  Han Sen knew Fang Jingqi had misunderstood him. He smiled back at Fang Jingqi, "Let’s not to go to the combat pit. Would you play a small game with me here at home?"
+
+Han Sen knew Fang Jingqi had misunderstood him. He smiled back at Fang Jingqi, "Let’s not to go to the combat pit. Would you play a small game with me here at home?"
 
 Xue Xi shot Han Sen a look of disapproval, but this time Han Sen did not respond to her.
 
@@ -23,9 +23,9 @@ Han Sen knew a guy like Fang Jingqi would not give up unless he was defeated.
 
 "Have you ever played red hands?" Han Sen asked with a faint smile.
 
-Fang Jingqi turned down the corners of his mouth, "Of course, but that’s such an easy game."
+Fang Jingqi turned down the corners of his mouth, "Of course, but that’s such an easy game."[^red hands]
 
-"Red hands" was a game played between two players. One player (the "slappee") placed their hands palm down, hovering above the other player's (the "slapper") hands. The slapper hovered their hands below the slappee's, palms up. The two players' hands should be touching each other.
+<!--"Red hands" was a game played between two players. One player (the "slappee") placed their hands palm down, hovering above the other player's (the "slapper") hands. The slapper hovered their hands below the slappee's, palms up. The two players' hands should be touching each other.-->
 
 The slapper was on offense, and attempted to bring his hands over to slap the backsides of his opponent's hands. This must be done with sufficient speed, because the slappee's goal was to pull their hands away, and out of the area where the hands overlap, to avoid the slap. If the slapper missed the hands of the slappee during the slap, then the roles must switch.
 
@@ -107,4 +107,6 @@ Xue Xi blushed, "Sen, that’s so corny."
 
 "Vulgar..." Fang Jingqi said with his face grim, and suddenly felt a pain on the back of his hands.
 
-Snap!
+*Snap!*
+
+[^red hands]: "Red hands" was a game played between two players. One player (the "slappee") placed their hands palm down, hovering above the other player's (the "slapper") hands. The slapper hovered their hands below the slappee's, palms up. The two players' hands should be touching each other.

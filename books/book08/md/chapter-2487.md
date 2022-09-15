@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Piece of Cloud
-### Chapter 2487 
+### Chapter 2487
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen and Lando searched in a circular pattern, but they had yet to find the white whale. Han Sen was sick with worry.
+Han Sen and Lando searched in a circular pattern, but they had yet to find the white whale. Han Sen was sick with worry.
 
 Right now, Han Sen wished he had practiced one of Mister White’s skills. That way, he could calculate where Bao’er had gone. Even just a direction would do. Right now, anything was better than running around like a headless chicken.
 

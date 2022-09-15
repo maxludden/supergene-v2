@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## An Incredible Son
-### Chapter 1560 
+### Chapter 1560
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen observed Luo Haitang carefully with his Dongxuan Aura, and he indeed found something unusual.
+Han Sen observed Luo Haitang carefully with his Dongxuan Aura, and he indeed found something unusual.
 
 Luo Haitang’s life force was indeed powerful, but it was too much. That kind of power was like a bonfire burning hard. The greater the fire was, the more quickly the body would be burned out.
 

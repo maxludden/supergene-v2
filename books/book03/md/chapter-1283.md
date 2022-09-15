@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Skts of Yore
-### Chapter 1283 
+### Chapter 1283
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “You’re serious? You want to challenge me?” Xie Yuxin was legitimately surprised.
+“You’re serious? You want to challenge me?” Xie Yuxin was legitimately surprised.
 
 WAA was the top warframe league across the entire Alliance. Those who were eligible to compete in such a league were the best of the best; true professionals in every sense of the word. They might not have received much fame, but that was no slight to their talents.
 

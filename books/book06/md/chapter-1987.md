@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Blood God Mantis
-### Chapter 1987 
+### Chapter 1987
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The body of the Blood God Mantis was only a tenth of the size of the plant it was munching. It ate slowly, but when it ate a bit of the coral, its belly did not swell. Its body did glow strangely, however.
+The body of the Blood God Mantis was only a tenth of the size of the plant it was munching. It ate slowly, but when it ate a bit of the coral, its belly did not swell. Its body did glow strangely, however.
 
 Before it finished eating the red coral, another aspect of its body changed. The shadow of a red reaper appeared on it. Its hands held a scythe, like a tool to harvest souls.
 

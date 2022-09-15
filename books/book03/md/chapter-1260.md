@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Fish King’s Reappearance
-### Chapter 1260 
+### Chapter 1260
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Above the water of the river, a million flying fish had appeared. They were all following its winding course upstream.
+Above the water of the river, a million flying fish had appeared. They were all following its winding course upstream.
 
 “It looks like the fish king is on its way to tangle with the vine again.” Han Sen was surprised, and as he looked over, he saw the big, familiar fish. Its scales gleamed like a trove of gold in the sunlight; fitting for the king it was.
 

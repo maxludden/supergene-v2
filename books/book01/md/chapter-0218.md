@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Weaker Than I
-### Chapter 218 
+### Chapter 218
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Bai Yishan did some due diligence on Han Sen. With his level of security clearance, Bai Yishan could see the classified files and found out that Han Sen was a member of the special squad.
+Bai Yishan did some due diligence on Han Sen. With his level of security clearance, Bai Yishan could see the classified files and found out that Han Sen was a member of the special squad.
 
 This discovery was great news to him, since it was relatively easy for the Saint Hall to transfer someone from the military. Although the special Squad were difference from ordinary soldiers, it would still be easy to accomplish.
 

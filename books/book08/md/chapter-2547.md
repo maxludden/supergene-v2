@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Not Teleportation
-### Chapter 2547 
+### Chapter 2547
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The creature looked humanoid. Because it was wrapped up in black armor, it was impossible to tell exactly what it looked like. It just stood behind the Demon King.
+The creature looked humanoid. Because it was wrapped up in black armor, it was impossible to tell exactly what it looked like. It just stood behind the Demon King.
 
 “Sir, I have brought you the Demon Doll.” The Demon King brought the Demon Doll before Ji Yang Sheng, then raised both hands, presenting a purple horn.
 

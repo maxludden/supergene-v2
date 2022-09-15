@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Fairy Flowers
-### Chapter 2645 
+### Chapter 2645
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  When Exquisite returned to the wooden house, she frowned. It seemed that Han Sen had already left. The further away from her that Han Sen was, the weaker her connection with him became. Now, she could only sense what direction Han Sen had gone off in and get a faint feel for his current state of emotion.
+When Exquisite returned to the wooden house, she frowned. It seemed that Han Sen had already left. The further away from her that Han Sen was, the weaker her connection with him became. Now, she could only sense what direction Han Sen had gone off in and get a faint feel for his current state of emotion.
 
 All Exquisite could tell was that Han Sen was feeling happy. She couldn’t really feel anything other than that.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Battling Shura Again
-### Chapter 1053 
+### Chapter 1053
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The shura agreed that Han Sen could take the place of one other human member on one condition: he would have to defeat the shura leader to prove himself.
+The shura agreed that Han Sen could take the place of one other human member on one condition: he would have to defeat the shura leader to prove himself.
 
 “We can pick whoever we want to go, so why should we require their permission now?” Han Sen frowned, upon hearing the terms for his acceptance.
 

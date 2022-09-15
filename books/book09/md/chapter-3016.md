@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Shadow God
-### Chapter 3016 
+### Chapter 3016
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “Sacred’s remnants, come out and die!” A godly voice echoed throughout space. The ice walls of the ice bunker’s laboratory exploded. The tools were breaking and falling apart.
+“Sacred’s remnants, come out and die!” A godly voice echoed throughout space. The ice walls of the ice bunker’s laboratory exploded. The tools were breaking and falling apart.
 
 Han Yufei’s eyes suddenly looked cold. She was holding a scalpel. She ran out of the ice bunker’s laboratory and exited the ice bunker. She pulled a metal orb out of her pocket and threw it.
 

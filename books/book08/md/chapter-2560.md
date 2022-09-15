@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Godfather Han Sen
-### Chapter 2560 
+### Chapter 2560
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  As the white light shone brighter and brighter in the dark, it became impossible to miss. Many deified elites noticed its presence, and their faces were all drawn in shock.
+As the white light shone brighter and brighter in the dark, it became impossible to miss. Many deified elites noticed its presence, and their faces were all drawn in shock.
 
 As he watched through a video screen, Ji Yang Sheng noticed the white dot. The white dot was too small, though. It didn’t necessarily mean that Barr was deified yet, so he wasn’t sure what it meant.
 

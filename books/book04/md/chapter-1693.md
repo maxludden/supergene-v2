@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Bone
-### Chapter 1693 
+### Chapter 1693
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen put the item in his hand. It was around ten centimeters long, and it looked like a bone. But it didn’t feel like a bone; it actually felt heavier than metal.
+Han Sen put the item in his hand. It was around ten centimeters long, and it looked like a bone. But it didn’t feel like a bone; it actually felt heavier than metal.
 
 It was obscured in a lot of blood, so it was hard to discern its original appearance. He wiped it all away to reveal its true form.
 

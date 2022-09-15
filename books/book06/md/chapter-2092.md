@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## The Secrets of Night Ghost
-### Chapter 2092 
+### Chapter 2092
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  In the base, Han Sen was led to two puddles of black water. It was the same manner of death that the others had died. When Han Sen scanned the area, he could only detect traces of the Taurus and Kahn. There were also some Night Ghost substances, but there was nothing beyond that.
+In the base, Han Sen was led to two puddles of black water. It was the same manner of death that the others had died. When Han Sen scanned the area, he could only detect traces of the Taurus and Kahn. There were also some Night Ghost substances, but there was nothing beyond that.
 
 After checking all the cameras, they could not locate the murderer. Those two Taurus officers had died in their rooms.
 

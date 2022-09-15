@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Killing Sky King
-### Chapter 1189 
+### Chapter 1189
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Katcha!
+Katcha!
 
 Han Sen felt as if his body had been freed from the clutches of chains he never knew existed. The holy light enveloped Han Sen’s entire body, wings, and greatsword. He felt as if he was submerged beneath water, floating free.
 

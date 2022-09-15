@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## King of the Ice Fields
-### Chapter 595 
+### Chapter 595
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  "Today, I saw a lot."
+"Today, I saw a lot."
 
 "He is too strong. That elite had unlocked his first gene lock, but Han Sen whipped him like a dog."
 

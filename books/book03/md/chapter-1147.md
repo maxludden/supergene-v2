@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Crimson Fruit
-### Chapter 1147 
+### Chapter 1147
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Even more creatures were joining the fray; a dozen insects, each a meter long, began to rise from the lake.
+Even more creatures were joining the fray; a dozen insects, each a meter long, began to rise from the lake.
 
 The super creatures were bee-lining for Han Sen, that much was clear.
 

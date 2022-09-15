@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## The Greenhouse Changes
-### Chapter 1709 
+### Chapter 1709
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “What is this?” asked Xie Qing King, holding his nose and looking at the bodies and the liquids around them.
+“What is this?” asked Xie Qing King, holding his nose and looking at the bodies and the liquids around them.
 
 “They are creatures held for testing and experimentation. Some are prototypes of something else—like him.” Old Cat jumped toward one of the crystal tanks, and he spoke with eyes fixed on it.
 

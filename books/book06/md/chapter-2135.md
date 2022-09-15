@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Breaking Out of the Cocoon to Become a Butterfly
-### Chapter 2135 
+### Chapter 2135
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “Lone Bamboo!” The Sky Palace leader’s face suddenly went ashen.
+“Lone Bamboo!” The Sky Palace leader’s face suddenly went ashen.
 
 And it wasn’t only the Sky Palace leader feeling this way. Everyone watching the fight was in shock. Behind the veil of that white and purple armor, the combatant was revealed to be none other than Lone Bamboo of Sky Palace.
 

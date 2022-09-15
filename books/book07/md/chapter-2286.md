@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Crystallizer Technology
-### Chapter 2286 
+### Chapter 2286
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Boom!
+Boom!
 
 Han Sen was about to say something, but a scary sound cut him off. And then, the white whale suddenly flipped and started to sink.
 

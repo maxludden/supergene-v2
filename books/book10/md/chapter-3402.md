@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Fighting Moment God Again
-### Chapter 3402 
+### Chapter 3402
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  When the humans of the universe of kingdoms saw Moment God challenge Han Sen, they were outright dumbstruck. She was one of the 12 primary Annihilation God Spirits. Now, she was looking to challenge the infamous Han Sen. In their eyes, Moment God was much stronger.
+When the humans of the universe of kingdoms saw Moment God challenge Han Sen, they were outright dumbstruck. She was one of the 12 primary Annihilation God Spirits. Now, she was looking to challenge the infamous Han Sen. In their eyes, Moment God was much stronger.
 
 Han Sen was surprised. “When Time Sky did not have a leader, Moment God did not go to Time Sky to wage combat for the position. Now, she wants to challenge me. What does that mean?”
 

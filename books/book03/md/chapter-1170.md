@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Man’s Ocean
-### Chapter 1170 
+### Chapter 1170
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Seeing Han Sen walk towards the fourth floor, Qiu Ping chose to follow.
+Seeing Han Sen walk towards the fourth floor, Qiu Ping chose to follow.
 
 Han Sen asked around for the entrance that would take him to the prestigious fifth floor, as that was his next destination.
 

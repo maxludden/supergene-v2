@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## A Way to Break It
-### Chapter 2761 
+### Chapter 2761
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  He had never been as embarrassed as he was right then. He had needed a little girl to step in and save his life. If Gu Wan’er hadn’t stalled God’s Knife for him, he never would’ve had the chance to use the Four Sheep Cube to escape.
+He had never been as embarrassed as he was right then. He had needed a little girl to step in and save his life. If Gu Wan’er hadn’t stalled God’s Knife for him, he never would’ve had the chance to use the Four Sheep Cube to escape.
 
 And he had even told Gu Wan’er not to get in his way. But in the end, this was how things had turned out. He would never forget the expression on Gu Wan’er’s face when he had to leave her.
 

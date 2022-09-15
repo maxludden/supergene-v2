@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Is He a Plant
-### Chapter 344 
+### Chapter 344
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Seeing everyone gazing at himself and hearing Fang Guotao's words, Han Sen was mortified.
+Seeing everyone gazing at himself and hearing Fang Guotao's words, Han Sen was mortified.
 
 Although he was not interested in Primal Innocence, Fang Guotao was invited by the school and never offended him, so he decided not to embarrass Fang.
 

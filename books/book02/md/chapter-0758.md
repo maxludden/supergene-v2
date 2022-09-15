@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Taking Care of the Fairy
-### Chapter 758 
+### Chapter 758
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The fairy's escape was extremely quick, and even the little angel had great difficulty catching up to her. But quite abruptly, the fairy slowed down. It seemed as if her burst of speed had chugged and come to an end, due to a complete exhaustion of her own strength. Now, even slower than usual, it fluttered away from the battle.
+The fairy's escape was extremely quick, and even the little angel had great difficulty catching up to her. But quite abruptly, the fairy slowed down. It seemed as if her burst of speed had chugged and come to an end, due to a complete exhaustion of her own strength. Now, even slower than usual, it fluttered away from the battle.
 
 Han Sen and the little angel followed the fairy to the black mountain, and watched it retreat into the mouth of the cave the scorpion had once dug. Together, they followed the fairy inside.
 

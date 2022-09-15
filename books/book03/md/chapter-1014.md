@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Liu Yuxuan’s Scheme
-### Chapter 1014 
+### Chapter 1014
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “Uncle San and Weiwei, follow me to the shelter,” Liu Yuxuan said, with surprising passion.
+“Uncle San and Weiwei, follow me to the shelter,” Liu Yuxuan said, with surprising passion.
 
 He had not lied when he told them he was quite an important figure in the king spirit shelter. But he had opened eight gene locks, not because he was strong, but rather because the king spirit liked him and helped him a great deal. Over the course of a few years, he had been given over eight hundred spirit genes. It was that generosity that allowed him to open the gene locks. He wasn’t a genius.
 

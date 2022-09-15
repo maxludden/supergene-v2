@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Unknown Power
-### Chapter 3381 
+### Chapter 3381
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  When the three girls saw Han Sen, Dragon Lady Chef called him over.
+When the three girls saw Han Sen, Dragon Lady Chef called him over.
 
 Han Sen spoke to Zero and explained to her why he had come there. Dragon Lady said, “You did not need to find Zero for that. You only have to find me. I am very good when it comes to killing people.”
 

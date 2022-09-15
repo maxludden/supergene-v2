@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Fighting Yan Dan
-### Chapter 3179 
+### Chapter 3179
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The fights whittling down the roster from eight to four annoyed Han Sen. His opponent was going to be Yan Dan from the Yan Kingdom. That was fine with him, but Bao’er and Feng Yin Yin had to fight each other.
+The fights whittling down the roster from eight to four annoyed Han Sen. His opponent was going to be Yan Dan from the Yan Kingdom. That was fine with him, but Bao’er and Feng Yin Yin had to fight each other.
 
 Regardless of who won, one of them would lose a slot that cost a lot of god power to get.
 

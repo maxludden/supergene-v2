@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## White Deer
-### Chapter 838 
+### Chapter 838
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Ji Qing returned from Yi Dongmu's place with an altered perception of Han Sen.
+Ji Qing returned from Yi Dongmu's place with an altered perception of Han Sen.
 
 "Brother-in-law, if you ever find the time, please teach me something." Ji Qing believed Han Sen must have been a very powerful person to have Yi Dongmu request his assistance in training, and then to point out every mistake he was able to notice. One could learn many things from practicing with Han Sen.
 

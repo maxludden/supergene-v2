@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## The Name on the Grave
-### Chapter 1715 
+### Chapter 1715
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “I can’t tell. Your genes are good if you managed to make the flowers ring.” Lan Se told Han Sen as they drove away.
+“I can’t tell. Your genes are good if you managed to make the flowers ring.” Lan Se told Han Sen as they drove away.
 
 “If I have good genes, does that mean I am eligible for a good job?” Han Sen smiled.
 

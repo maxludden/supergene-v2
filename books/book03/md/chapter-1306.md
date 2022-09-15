@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Obsidian Elephant
-### Chapter 1306 
+### Chapter 1306
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “All I can say is, whoever ventures across that mountain does not return,” Lotus Empress said solemnly.
+“All I can say is, whoever ventures across that mountain does not return,” Lotus Empress said solemnly.
 
 Although Han Sen was sometimes reckless, even he knew it was best to stay away from such a place. If a risk was justified or worthwhile, he would always be the first to take the plunge. But a fruitless risk was never something he’d commit to, as he wasn’t a simple thrill-seeker.
 

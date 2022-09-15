@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## The Shocking Fight
-### Chapter 664 
+### Chapter 664
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The pegasi king's clouds began to spread, falling down on the massive creature below like bombs. They clung to the tentacles, restraining them like glue.
+The pegasi king's clouds began to spread, falling down on the massive creature below like bombs. They clung to the tentacles, restraining them like glue.
 
 Caught within the thick, muculent clouds, the monster could not get its tentacles free. It struggled and thrashed madly, but to no avail.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Main Control Room
-### Chapter 1500 
+### Chapter 1500
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Luckily, the beetle had a galactic map of its own. It was better than the ones the Alliance had, and with it, Ji Yanran was able to determine their location. They were in the Barrens, a place the Alliance had name Plato.
+Luckily, the beetle had a galactic map of its own. It was better than the ones the Alliance had, and with it, Ji Yanran was able to determine their location. They were in the Barrens, a place the Alliance had name Plato.
 
 It wasn’t a long journey to return to the bubble of space humans occupied, and with the speed of the beetle, they estimated that the journey would only take half a day.
 

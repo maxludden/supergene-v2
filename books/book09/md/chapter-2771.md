@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## You Can Eat This
-### Chapter 2771 
+### Chapter 2771
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “You. Answer this question.” The phoenix turned to another King class noble. That person was also a student of Elder Nader, and he was asked the same question.
+“You. Answer this question.” The phoenix turned to another King class noble. That person was also a student of Elder Nader, and he was asked the same question.
 
 “Master…” The guy seemed to be on the verge of tears. He spoke to Elder Nader with a trembling voice.
 

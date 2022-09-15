@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Broken Egg
-### Chapter 22 
+### Chapter 22
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  There was no doubt that this giant snake was a sacred-blood creature. Aquatic creatures were hard enough to kill, let alone a sacred-blood creature.
+There was no doubt that this giant snake was a sacred-blood creature. Aquatic creatures were hard enough to kill, let alone a sacred-blood creature.
 
 With his normal gang, Son of Heaven didn’t even dare to hunt it, but was only trying to fill out the group, so that they could safely reach the other side.
 

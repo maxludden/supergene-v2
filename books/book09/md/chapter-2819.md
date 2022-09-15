@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Cold Light Charm’s Beast Soul
-### Chapter 2819 
+### Chapter 2819
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Beads of sweat cascaded down from Second Uncle's brow. He had a complicated expression as he wiped them away.
+Beads of sweat cascaded down from Second Uncle's brow. He had a complicated expression as he wiped them away.
 
 Han Sen exploded with a power that was greater than his own. It was perhaps even better than Cold Light Charm. For such power to be controlled by a small body like that was concerning. Second Uncle feared Han Sen's body might not be able to keep going. He worried his body might blow up at any moment.
 

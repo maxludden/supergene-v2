@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Crying
-### Chapter 859 
+### Chapter 859
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  "Come here," Han Sen said, and Moment Queen unwillingly approached.
+"Come here," Han Sen said, and Moment Queen unwillingly approached.
 
 Han Sen pushed her on the ground and slapped her round buttocks. The slap was so loud, she trembled with wide eyes.
 

@@ -1,19 +1,20 @@
-Title:Sacred-blood Creature 
-Chapter:9 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+Title:Sacred-blood Creature
+Chapter:9
+Section:1
+Book:1
+CSS:../Styles/style.css
 viewport: width=device-width
-  
+
 ## Sacred-blood Creature
-### Chapter 9 
+### Chapter 9
+
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
-  
 
-  
-  Han Sen returned to his room, tied the copper-toothed beast to a cage and put the black crystal in front of it. The beast gobbled up the black crystal greedily.
+
+
+Han Sen returned to his room, tied the copper-toothed beast to a cage and put the black crystal in front of it. The beast gobbled up the black crystal greedily.
 
 After an entire day, Han Sen noticed some changes to the copper-toothed beast. Its fur had been gray-black like a wild boar, and its fangs had been bronze. Now its fur also started to show a bit of bronze luster, and the fangs had become brighter in color.
 

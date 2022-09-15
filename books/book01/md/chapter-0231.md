@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Anything but Having a Baby
-### Chapter 231 
+### Chapter 231
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen stood on the back of the golden worm king, dragging the huge iron hammer which was even heavier than the gold axe of the bloody slayer. With the hammer Han Sen could not fly at all. He had to use the golden worm king to drag it along. The sacred-blood creature was inedible, and Han Sen did not have much luck. Without the beast soul, the sacred-blood gear was his only trophy.
+Han Sen stood on the back of the golden worm king, dragging the huge iron hammer which was even heavier than the gold axe of the bloody slayer. With the hammer Han Sen could not fly at all. He had to use the golden worm king to drag it along. The sacred-blood creature was inedible, and Han Sen did not have much luck. Without the beast soul, the sacred-blood gear was his only trophy.
 
 When he eventually pulled the hammer out of the valley, Han Sen asked Huangfu Pingqing who was dazed, "Miss Huangfu, how much do you think this sacred-blood gear is worth?"
 

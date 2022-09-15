@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Pottery Powder
-### Chapter 2816 
+### Chapter 2816
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  "Kirin power!" Evil Lotus's face changed. His body brimmed with a god light that pushed the red light away. The skin on his face and hair returned to normal.
+"Kirin power!" Evil Lotus's face changed. His body brimmed with a god light that pushed the red light away. The skin on his face and hair returned to normal.
 
 Everyone was shocked. They all generated powers to get ready, but they did not notice there was a problem. It was like the power had focused solely on Evil Lotus.
 

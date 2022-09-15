@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Opponent
-### Chapter 1478 
+### Chapter 1478
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen followed Six Paths, searching for the Geno Core Tablet that would allow them to enter the main battleground.
+Han Sen followed Six Paths, searching for the Geno Core Tablet that would allow them to enter the main battleground.
 
 If he couldn’t finish the trial of the main battleground, he wouldn’t be able to leave. Staying in that realm, with the constant risk of encountering super Geno Battle Souls, would be dangerous. So he followed after Six Paths, who was an emperor. He didn’t even need geno cores to kill the foes they encountered.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Good Fortune Pool
-### Chapter 2729 
+### Chapter 2729
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “How could this happen?” Shale’s face had gone blank with shock. He shook himself, turning to go back to the Star Tree.
+“How could this happen?” Shale’s face had gone blank with shock. He shook himself, turning to go back to the Star Tree.
 
 Li Chun Qiu stopped him and said, “It is too late to go back now. We’ve been gone for too long, and the creature must have escaped into Outer Sky and disappeared by now.”
 

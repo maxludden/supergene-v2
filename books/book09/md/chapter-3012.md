@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Han Yufei
-### Chapter 3012 
+### Chapter 3012
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  On the cold planet, a man and a woman traversed a snow area. The man was holding a little baby wearing fur.
+On the cold planet, a man and a woman traversed a snow area. The man was holding a little baby wearing fur.
 
 Ancient Origin God had made a space element Ancient God teleport to help Han Sen, Dragon Lady, and the ancient spirit seed get to the planet. It saved Han Sen a lot of trouble. Han Sen thought it would not be difficult to find someone on the icy planet. When he reached it, he realized it would not be easy.
 

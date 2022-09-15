@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## The Awkward Encounter
-### Chapter 1695 
+### Chapter 1695
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Since the teleporter he’d come out of was entirely random, there were too many possibilities. He could come out of a public teleporter, or even a private one.
+Since the teleporter he’d come out of was entirely random, there were too many possibilities. He could come out of a public teleporter, or even a private one.
 
 Han Sen donned his Death Armor Swordsman appearance before stepping inside, in case someone saw him come through and questioned how he had been able to do that. This was something not even he could explain.
 

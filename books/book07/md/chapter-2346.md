@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Identity Exposed
-### Chapter 2346 
+### Chapter 2346
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen didn’t believe what Miss Mirror told him. He had inspected that ring many times, and he had never seen any semblance of a soul inside it.
+Han Sen didn’t believe what Miss Mirror told him. He had inspected that ring many times, and he had never seen any semblance of a soul inside it.
 
 When Han Sen heard what she said, he raised his hand. He tilted the ring’s green, eye-shaped gem toward his own face. He examined the gem’s reflective surface carefully, and said, “I do see my own reflection, but any gem would show me that.”
 

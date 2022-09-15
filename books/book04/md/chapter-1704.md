@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## You Don’t Have to Understand
-### Chapter 1704 
+### Chapter 1704
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The sound of breaking flesh felt good to listen to. Seeing the blood cascade from the torn skin, the officer became ravenously excited.
+The sound of breaking flesh felt good to listen to. Seeing the blood cascade from the torn skin, the officer became ravenously excited.
 
 Pang!
 

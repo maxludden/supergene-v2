@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## God Descending
-### Chapter 3306 
+### Chapter 3306
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “I do not know how it has managed to break the world. If we are unable to kill it, Space Garden will be in big danger.” Gu Qingcheng was holding her greatsword. She pointed it at the star tyrannosaurus rex. Her sword mind kept rising.
+“I do not know how it has managed to break the world. If we are unable to kill it, Space Garden will be in big danger.” Gu Qingcheng was holding her greatsword. She pointed it at the star tyrannosaurus rex. Her sword mind kept rising.
 
 Huangfu Jing did not speak. She flashed next to the star tyrannosaurus rex and moved quickly. She was like a war machine attacking the star tyrannosaurus rex from different angles.
 

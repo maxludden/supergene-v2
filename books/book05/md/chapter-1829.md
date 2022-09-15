@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## The Knife That Destroys the Sky and Earth
-### Chapter 1829 
+### Chapter 1829
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  After the eleventh knife rain, there were so many knives on the ground. They were all over the place, and there was hardly a place to step.
+After the eleventh knife rain, there were so many knives on the ground. They were all over the place, and there was hardly a place to step.
 
 Han Sen’s feet walked across the handles, and Black Steel was standing in front of a knife. Han Sen thought the knife looked fairly normal.
 

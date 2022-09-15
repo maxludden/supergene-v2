@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Thunder Mountain
-### Chapter 874 
+### Chapter 874
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen made plans to travel to Thunder Mountain, but before he left, someone came looking for him.
+Han Sen made plans to travel to Thunder Mountain, but before he left, someone came looking for him.
 
 "Mister Han, we are from Angel Gene. We would like to request your aid in slaying a super creature. Provided you have the time, we are happy to discuss the price for such an appeal." Zhao Xuebin was one of Angel Gene's managers, and he smiled as he made the request.
 

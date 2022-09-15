@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Someone Good
-### Chapter 106 
+### Chapter 106
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Articles about Dollar could be seen everywhere on the Skynet. But it was too late to write about him as Contest Center was the only program everyone talked about. The peer shows were much less popular.
+Articles about Dollar could be seen everywhere on the Skynet. But it was too late to write about him as Contest Center was the only program everyone talked about. The peer shows were much less popular.
 
 A lot of businesses were looking for Dollar and wished to hire him to endorse their products. Some people wanted to dig out his true identity and there were all kinds of speculations, but no one was certain anyway.
 

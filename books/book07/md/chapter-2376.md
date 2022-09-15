@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Siren Virgin
-### Chapter 2376 
+### Chapter 2376
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “Little Xinxin, you are still as cute and naive as ever.” The white-scaled woman smiled at Lan Haixin as she spoke.
+“Little Xinxin, you are still as cute and naive as ever.” The white-scaled woman smiled at Lan Haixin as she spoke.
 
 “You… why are you here? I thought you were…” Lan Haixin was having difficulty composing her sentences. The situation was so incredibly unexpected that her mind was struggling to adapt.
 

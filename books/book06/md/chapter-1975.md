@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Xuanyuan Dragon
-### Chapter 1975 
+### Chapter 1975
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The creature’s scales were as black as ink. Its head had no horns, but the ears were fixed with black wings. Its belly had talons, like those of an eagle. It was coming his way, and black smoke billowed around it. It looked very creepy.
+The creature’s scales were as black as ink. Its head had no horns, but the ears were fixed with black wings. Its belly had talons, like those of an eagle. It was coming his way, and black smoke billowed around it. It looked very creepy.
 
 The Xuanyuan Dragon was too fast, and there were still the Ghost Claw Beasts to fend off. Even if the Ghost Claw Beasts hadn’t been there, Han Sen’s group still wouldn’t have been able to outrun the dragon.
 

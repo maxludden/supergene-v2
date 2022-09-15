@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Life Essence
-### Chapter 272 
+### Chapter 272
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen finally understood why he could not even hurt the baby golden growler. They were not even on the same level. Although the golden growler was just born, it obviously had the characteristics of a super creature already.
+Han Sen finally understood why he could not even hurt the baby golden growler. They were not even on the same level. Although the golden growler was just born, it obviously had the characteristics of a super creature already.
 
 "The black crystal that I got from that black beetle, could it also be the life essence of some super creature?"
 

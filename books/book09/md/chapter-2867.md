@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Top 100 List
-### Chapter 2867 
+### Chapter 2867
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen thought he would have trouble getting into the top 100, but his opponent gave up. His enemy did not appear on the space battleground for their fight. Han Sen realized that killing Sky Armor God had created an interesting effect. Before figuring out who he was, even top class deified elites feared him.
+Han Sen thought he would have trouble getting into the top 100, but his opponent gave up. His enemy did not appear on the space battleground for their fight. Han Sen realized that killing Sky Armor God had created an interesting effect. Before figuring out who he was, even top class deified elites feared him.
 
 Just like this round, the opponent was the top class. It was a true god class xenogeneic that was very powerful. Even he did not dare go to the space battleground to fight. These people are overestimating my abilities. But that is good. It saves me a lot of trouble. Han Sen departed the space battleground. After entering the top 100 rounds, the modes of fighting had changed. The matches were no longer simple deathmatches.
 

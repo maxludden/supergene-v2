@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Star Tree
-### Chapter 2651 
+### Chapter 2651
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  On a ship that was headed to the Andromeda system, a crystallizer woman turned to a man next to her. She looked afraid.
+On a ship that was headed to the Andromeda system, a crystallizer woman turned to a man next to her. She looked afraid.
 
 “Are you a crystallizer?” she asked.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Failure
-### Chapter 1652 
+### Chapter 1652
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen summoned his Overbearing Shield and Split-Blade, then transformed into Fallen Slaughter. Split-Blade was sent thrusting at Guardian Spirit
+Han Sen summoned his Overbearing Shield and Split-Blade, then transformed into Fallen Slaughter. Split-Blade was sent thrusting at Guardian Spirit
 
 Split-Blade went right into Guardian Spirit’s body, but his body was actually like a genuine spirit’s. The body faded away with the attack of that blade.
 

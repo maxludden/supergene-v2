@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Forever a Slave
-### Chapter 2979 
+### Chapter 2979
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen felt a bit regretful about allowing Fox Queen to enter the god temple and make a wish. After she made her wish, he was unable to hurt or kick Fox Queen to the curb. He was not allowed to reject the wish. He had a find a way to make her wish come true.
+Han Sen felt a bit regretful about allowing Fox Queen to enter the god temple and make a wish. After she made her wish, he was unable to hurt or kick Fox Queen to the curb. He was not allowed to reject the wish. He had a find a way to make her wish come true.
 
 Han Sen saw that the Nine Spin Destiny Mirror was only worth 300 years of her life span. That was too little for him, so he did not want to make the trade.
 

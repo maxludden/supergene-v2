@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Becoming a Gold Raven
-### Chapter 1050 
+### Chapter 1050
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  When the crow wings spread, Han Sen transformed into a raven. He had shapeshifted to appear just like the Three-Claw Gold Ravens he and Xie Qing King had just done battle with.
+When the crow wings spread, Han Sen transformed into a raven. He had shapeshifted to appear just like the Three-Claw Gold Ravens he and Xie Qing King had just done battle with.
 
 And indeed, that was the beast soul he had just received—it was a shapeshifting beast soul. It made him resemble the fierce creature he had just triumphed over.
 

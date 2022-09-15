@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## The Purple Copper Jian That Cannot Be Gotten Rid of
-### Chapter 2588 
+### Chapter 2588
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  1
+1
 
 “This must be happening because of the jian.” Han Sen gritted his teeth, but no matter how long he spent trying to find out what the precise problem was, he couldn’t figure it out. That made Han Sen feel very unsettled.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Mystic Armor Revives
-### Chapter 1504 
+### Chapter 1504
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  As he expected, when Han Sen tried to practice with The Story of Genes, his body and energy were unable to resonate or yield any results.
+As he expected, when Han Sen tried to practice with The Story of Genes, his body and energy were unable to resonate or yield any results.
 
 This was not unexpected, though, as the requirements for The Story of Genes were far too high. This didn’t just apply to humans; he wagered even the highest-class demigods in the Fourth God’s Sanctuary would not fit the bill.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Refining a Life Geno Essence
-### Chapter 682 
+### Chapter 682
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen didn't feel too disappointed. His heart had been preparing for this dreary result. After all, the Golden Roarer spat it out to him way back when, and this one had been dug out of the corpse of a dead super creature like all the rest.
+Han Sen didn't feel too disappointed. His heart had been preparing for this dreary result. After all, the Golden Roarer spat it out to him way back when, and this one had been dug out of the corpse of a dead super creature like all the rest.
 
 Han Sen was not sure what generation the Golden Roarer belonged to, so there was still some uncertainty there.
 

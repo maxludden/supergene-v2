@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Infiltrating the Shelter
-### Chapter 906 
+### Chapter 906
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen and Qu Lanxi spared no time in running to Qing Ming Shelter. There, they saw Chu Ming hanging from above the gate. His body was caked in dried blood, and other wounds oozed without healing. He looked to be dying.
+Han Sen and Qu Lanxi spared no time in running to Qing Ming Shelter. There, they saw Chu Ming hanging from above the gate. His body was caked in dried blood, and other wounds oozed without healing. He looked to be dying.
 
 Han Sen was quickly brought to anger. Humans were treated as little more than free-range slaves in the Third God's Shelter, and any little mistake was met with wicked, brutal punishments.
 

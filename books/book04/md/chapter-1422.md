@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## The Altar Descends
-### Chapter 1422 
+### Chapter 1422
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Dragon King was in shock. Luo Lan was Han Sen’s mother, and if she died during this conflict, it would drive Han Sen mad.
+Dragon King was in shock. Luo Lan was Han Sen’s mother, and if she died during this conflict, it would drive Han Sen mad.
 
 Everyone who looked upon Luo Lan wished to help her, but she was coming under fire from all directions, just as they themselves were. A rescue did not seem possible.
 

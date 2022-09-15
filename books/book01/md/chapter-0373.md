@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Satan
-### Chapter 373 
+### Chapter 373
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen then asked about all the opponents that he might encounter and agreed to fight on Wang Di's behalf. He asked Wang Di to give the beast souls to him before the battle.
+Han Sen then asked about all the opponents that he might encounter and agreed to fight on Wang Di's behalf. He asked Wang Di to give the beast souls to him before the battle.
 
 The beast souls were a sacred-blood beast soul add-on and a sacred-blood beast soul weapon. Because they were not in the same shelter, Han Sen asked Huangfu Pingqing to use or her connections in Wang Di's shelter to receive the two beast souls, which Han Sen could retrieve anytime later.
 

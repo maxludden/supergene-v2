@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Xuan Men’s Successor
-### Chapter 1219 
+### Chapter 1219
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  As Han Sen wondered whether or not he should escape, the man spoke with eyes fixed on him in observation. “I cannot believe Xuan Men still exists.”
+As Han Sen wondered whether or not he should escape, the man spoke with eyes fixed on him in observation. “I cannot believe Xuan Men still exists.”
 
 The repeated shocks of this entire scenario had rattled Han Sen’s nerves, but he responded to the man and asked, “You are of Xuan Men?”
 

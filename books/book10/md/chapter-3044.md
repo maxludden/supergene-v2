@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Make You Be My Servant
-### Chapter 3044 
+### Chapter 3044
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “It sounds very powerful. Is it just a gene race?” Han Sen put the little cat next to him and looked at it. Aside from the fact that it looked like Old Cat, there was nothing inherently special about it.
+“It sounds very powerful. Is it just a gene race?” Han Sen put the little cat next to him and looked at it. Aside from the fact that it looked like Old Cat, there was nothing inherently special about it.
 
 Han Sen picked up the little cat. Its body was facing down. It stared at Han Sen with big, innocent eyes. It looked like some innocent little thing that did not know anything.
 

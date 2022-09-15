@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## The Extreme King’s Secre
-### Chapter 2295 
+### Chapter 2295
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen looked at that man, who was similar to his age. He coughed awkwardly and hesitantly asked, “Um, so, what should I call you?”
+Han Sen looked at that man, who was similar to his age. He coughed awkwardly and hesitantly asked, “Um, so, what should I call you?”
 
 In the past, Han Sen had received a secret Xuan Men skill from the man. But the man said he wasn’t going to take any students. And Han Sen was also able to obtain Dongxuan Zi’s legacy. He didn’t know which of the two was a more important figure.
 

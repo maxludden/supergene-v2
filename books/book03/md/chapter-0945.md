@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## The Unseen Shooter
-### Chapter 945 
+### Chapter 945
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  "She is Thorn Baron! Hmph, I suppose that rules out my use of the red dagger. If she sees that, she'll recognize me." Han Sen was glad he had decided to bring a bow.
+"She is Thorn Baron! Hmph, I suppose that rules out my use of the red dagger. If she sees that, she'll recognize me." Han Sen was glad he had decided to bring a bow.
 
 After opening his second gene lock, Han Sen's dongxuan aura had improved a considerable amount. Its effective radius had greatly increased, and it now allowed Han Sen to inspect and observe every member of Thorn Baron's team.
 

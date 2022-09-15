@@ -1,19 +1,20 @@
-Title:Mutant Three-eyed Cat 
-Chapter:26 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+Title:Mutant Three-eyed Cat
+Chapter:26
+Section:1
+Book:1
+CSS:../Styles/style.css
 viewport: width=device-width
-  
+
 ## Mutant Three-eyed Cat
-### Chapter 26 
+### Chapter 26
+
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
-  
 
-  
-  Ghosthaunt should really be called skin-to-skin, as all movements were aimed at one thing, which was to stick on the opponent.
+
+
+Ghosthaunt should really be called skin-to-skin, as all movements were aimed at one thing, which was to stick on the opponent.
 
 Wrapping, blocking and winding, all sorts of movements allowed the body to act like a snake to tightly trap the limbs of the opponent, so that there was no way for the opponent to attack.
 
@@ -67,8 +68,7 @@ Now what he really needed was mutant and sacred-blood geno points. Han Sen wante
 		</tr>
 	</table>
 	<!-- Type of Beast Soul of Mutant Three-Eyed Cat: Pet. -->
-</div> 
-
+</div>
 
 
 Han Sen summoned the mutant three-eyed cat, and a little black kitty the size of his palm appeared. It was rubbing at the foot of Han Sen, looking just like a normal pet cat with its tiny body and wide eyes.

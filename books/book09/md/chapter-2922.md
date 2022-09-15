@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Fighting the Dragon
-### Chapter 2922 
+### Chapter 2922
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The dragon head, horn, and beard all rose as the dragon moaned. Its voice pierced through the universe and space. It made the snow mountain and ice mountain collapse. The ice fields broke.
+The dragon head, horn, and beard all rose as the dragon moaned. Its voice pierced through the universe and space. It made the snow mountain and ice mountain collapse. The ice fields broke.
 
 Han Sen was hanging in space. He used all of his power with the Dongxuan Aura to suppress the dragon’s cry. His body was shaken. He felt as if he would fall apart any second.
 

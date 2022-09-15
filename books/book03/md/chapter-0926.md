@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## The Dumb Dinosaur
-### Chapter 926 
+### Chapter 926
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The dinosaur's interest was only suppressed by its fear. It stood behind Han Sen, wondering if it should approach.
+The dinosaur's interest was only suppressed by its fear. It stood behind Han Sen, wondering if it should approach.
 
 Observing the bone himself, Han Sen couldn't note anything particularly remarkable about it. With no value to himself, he just decided to throw it to the dinosaur and say, "This is what you wanted, isn't it? Take it; it's all yours."
 

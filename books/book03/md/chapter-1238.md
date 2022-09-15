@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Dangerous
-### Chapter 1238 
+### Chapter 1238
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen’s face was not looking good. If you touched Saint Fan Emperor’s body, your limbs could sink and become one with him, and any subsequent hits meant bringing damage to yourself. This was what had occurred to them.
+Han Sen’s face was not looking good. If you touched Saint Fan Emperor’s body, your limbs could sink and become one with him, and any subsequent hits meant bringing damage to yourself. This was what had occurred to them.
 
 Saint Fan Emperor did not feel any pain, and amidst all this, he smiled and said, “Xie Qing King, that is a name not unfamiliar to me. I heard of the power you wielded back when I was first born. I must say, the claims of your talents are overrated.”
 

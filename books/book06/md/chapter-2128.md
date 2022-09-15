@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## I Am Invincible
-### Chapter 2128 
+### Chapter 2128
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “Alu-Alu-Alu!”
+“Alu-Alu-Alu!”
 
 The insane storm of punches was difficult to comprehend. Xie Qing King’s eyes gleamed with a fiery silver. The silver punches he threw were indestructible. Odoga had a snowflake’s chance in trying to repel those wild hits headed his way.
 

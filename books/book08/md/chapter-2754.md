@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## The Hope to Break Free
-### Chapter 2754 
+### Chapter 2754
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen didn’t know how they were going to suppress the blood coral and the thing below it, but four days later, the elite warriors began to gather in the Very High Leader’s palace. When the last of them arrived, there were four true god elites and a dozen butterflies. It was a very powerful team.
+Han Sen didn’t know how they were going to suppress the blood coral and the thing below it, but four days later, the elite warriors began to gather in the Very High Leader’s palace. When the last of them arrived, there were four true god elites and a dozen butterflies. It was a very powerful team.
 
 They investigated Han Sen’s scales before they left, but sadly, every attempt to remove the scales failed. They even tried peeling off Han Sen’s skin, but nothing seemed to work. The scales remained firmly in place.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Calculating Destiny
-### Chapter 1816 
+### Chapter 1816
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “What bet?” Yisha asked expressionlessly.
+“What bet?” Yisha asked expressionlessly.
 
 “I will pick someone whose life is comparable to an ant, and if you can make him challenge his fate by gaining independence from you and becoming a duke, then I lose. I will find the person that you want me to find. How does that sound?” the man said seriously.
 

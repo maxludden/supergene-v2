@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Aristocrat Spirit
-### Chapter 442 
+### Chapter 442
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen stared at the black bird and the giant snow spider that were about to be strangled to death. If he gave them a blow at the right moment, he might be able to get himself a sacred-blood beast soul.
+Han Sen stared at the black bird and the giant snow spider that were about to be strangled to death. If he gave them a blow at the right moment, he might be able to get himself a sacred-blood beast soul.
 
 However, before Han Sen found the perfect opportunity, there was a beast roar from the other end of the ice valley followed by loud hoofbeat.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Holy Heaven
-### Chapter 1746 
+### Chapter 1746
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “Is that your daughter?” In Qiao’s house, Qiao and Lan Se looked at Han Sen and Bao’er—who was sitting on the sofa—in shock.
+“Is that your daughter?” In Qiao’s house, Qiao and Lan Se looked at Han Sen and Bao’er—who was sitting on the sofa—in shock.
 
 “Yeah, I went out to bring her here,” Han Sen said.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Corpse-chewing Maggots
-### Chapter 1438 
+### Chapter 1438
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen wanted to see the Holy Vine and the Holy Fruit, which were in the Dark Spirit Shelter. Many super creatures occupied that place, though, so he knew he couldn’t just go there.
+Han Sen wanted to see the Holy Vine and the Holy Fruit, which were in the Dark Spirit Shelter. Many super creatures occupied that place, though, so he knew he couldn’t just go there.
 
 “Wait a bit and we will go,” Han Sen said. Just as he was about to return to their shelter, he heard an echo coming from a nearby tunnel. It sounded like a rat nibbling wood.
 

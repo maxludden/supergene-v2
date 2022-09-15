@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Fixing the Altar
-### Chapter 2881 
+### Chapter 2881
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen thought, “Tai Yi? Is that the white-haired Tai Yi Bao’er met, or is it the Tai Yi from the scroll? Is it the one that killed a god?”
+Han Sen thought, “Tai Yi? Is that the white-haired Tai Yi Bao’er met, or is it the Tai Yi from the scroll? Is it the one that killed a god?”
 
 Tai Yi turned his head. He walked into the metal temple and headed for the metal altar.
 

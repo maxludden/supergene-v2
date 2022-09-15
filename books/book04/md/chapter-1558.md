@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Luo Haitang
-### Chapter 1558 
+### Chapter 1558
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “Why are we doing this in the near future instead of now?” asked Han Sen.
+“Why are we doing this in the near future instead of now?” asked Han Sen.
 
 Jia Shidao answered, “I’ve talked about this with the Luo’s, but I haven’t reached an agreement with them yet. It might take a little time, but you can relax. After I’ve reached a deal with the Luo’s, I’ll definitely count you in.”
 

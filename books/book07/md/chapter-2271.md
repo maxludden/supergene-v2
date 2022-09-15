@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Taking the Silver Sycee
-### Chapter 2271 
+### Chapter 2271
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “No, I will figure out how to get out of this by myself,” Han Sen said coldly.
+“No, I will figure out how to get out of this by myself,” Han Sen said coldly.
 
 Mister White shook his head and smiled. “That is no ordinary fruit, as you should be able to feel. It has you locked in place with no hope of escape. Even the strength of the blood kirin wasn’t enough to free you.”
 

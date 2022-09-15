@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Vampire
-### Chapter 2403 
+### Chapter 2403
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Just as Han Sen predicted, if God was a creature that had Causal powers, then he could reverse Causal relationships.
+Just as Han Sen predicted, if God was a creature that had Causal powers, then he could reverse Causal relationships.
 
 For example, take a person who wished for one million dollars. Normally, the person would have to work for ten years to earn that much money.
 

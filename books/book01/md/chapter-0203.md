@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Black Fist Emperor
-### Chapter 203 
+### Chapter 203
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  "Ha-ha, why have the St. Germain team stopped commenting?"
+"Ha-ha, why have the St. Germain team stopped commenting?"
 
 "Genius, well-done."
 

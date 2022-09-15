@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## You Are Too Weak
-### Chapter 1192 
+### Chapter 1192
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen didn’t buy Hyperspace in the end, since he didn’t meet the ideal time king spirit geno point requirement yet. He still wanted to buy a hyper geno art that dealt simple, non-fancy high damage, too.
+Han Sen didn’t buy Hyperspace in the end, since he didn’t meet the ideal time king spirit geno point requirement yet. He still wanted to buy a hyper geno art that dealt simple, non-fancy high damage, too.
 
 But he decided that could wait for the time being, so he could consult Moment Queen about her lending him time geno points.
 

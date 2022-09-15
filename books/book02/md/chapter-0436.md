@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## First Hunting
-### Chapter 436 
+### Chapter 436
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  "Great job, Colonel." After returning to the cookhouse, Han Sen gave the fat squad leader a thumbs-up.
+"Great job, Colonel." After returning to the cookhouse, Han Sen gave the fat squad leader a thumbs-up.
 
 "Great my ass. I asked you to send a nutrition plan. What took you so long?" The fat squad leader said, upset.
 

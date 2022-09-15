@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Killing Purgatory Beasts
-### Chapter 1879 
+### Chapter 1879
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  On the aircraft, Guna was able to witness the changes transpiring outside the window. She screamed, “Guya activated Purgatory Heaven?”
+On the aircraft, Guna was able to witness the changes transpiring outside the window. She screamed, “Guya activated Purgatory Heaven?”
 
 “What is Purgatory Heaven?” Wang Yuhang asked Guna.
 

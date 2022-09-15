@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Jadeskin’s Second Tier
-### Chapter 2476 
+### Chapter 2476
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Killing! Crazy killing!
+Killing! Crazy killing!
 
 Han Sen didn’t know how many unicorns he had killed so far, but after dealing out so much death, it seemed that a hazy red film had formed over his vision.
 

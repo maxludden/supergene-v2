@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Surround and Kill the Xenogeneic
-### Chapter 2517 
+### Chapter 2517
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “It finally begins.” Bai Wan Jie looked at the people fighting in space. His eyes gleamed with excitement.
+“It finally begins.” Bai Wan Jie looked at the people fighting in space. His eyes gleamed with excitement.
 
 The moment Dragon One and the Gold Armor General appeared, the Gold Armor General’s saw sword was buzzing. The swordlight flashed toward them.
 

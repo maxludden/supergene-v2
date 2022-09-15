@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## The Woman in the Stone
-### Chapter 2365 
+### Chapter 2365
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The stones were dark like ink, but they were also dull. The stones absorbed any light that shone against them, giving nothing back.
+The stones were dark like ink, but they were also dull. The stones absorbed any light that shone against them, giving nothing back.
 
 The Duke class elites were wearily lifting their shovels to strike the stone. Sparks flew with each hit, and bits of the stone crumbled away and split.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Jade-gold Tree
-### Chapter 842 
+### Chapter 842
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  "Haha, that is so funny! Why would the Qi family even do all this? Their pet pills really were effective, and things would have turned out much better for them if they had instead just come and hired you to do something promotional." Huangfu Pingqing met with Han Sen to receive her portion of the beast pills they had agreed on. She smiled and continued by saying, "I'm afraid the price of the pet pills will be significantly reduced now."
+"Haha, that is so funny! Why would the Qi family even do all this? Their pet pills really were effective, and things would have turned out much better for them if they had instead just come and hired you to do something promotional." Huangfu Pingqing met with Han Sen to receive her portion of the beast pills they had agreed on. She smiled and continued by saying, "I'm afraid the price of the pet pills will be significantly reduced now."
 
 Han Sen shrugged his shoulders and said, "Yep, and there's nothing I can do now. I'm an easy person to talk to, so I'm perplexed by their hesitation to consult me."
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Professor
-### Chapter 221 
+### Chapter 221
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  "I'm so sorry..." Ji Yanran held Qu Lili's arm and apologized.
+"I'm so sorry..." Ji Yanran held Qu Lili's arm and apologized.
 
 "Forget it. I now understand that girls would give up anything for their men." Qu Lili looks to Han Sen and asked, "Genius, would you come with us?"
 

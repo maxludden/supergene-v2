@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Crushing Power
-### Chapter 593 
+### Chapter 593
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Yang Manli and her people followed Han Sen to the Spirit Hall, where Han Sen used his swords to utterly suppress the twin spirits. Through his ceaseless barrage of sword strikes, the twin spirits could not gain ground and push back, and it fell back further and further.
+Yang Manli and her people followed Han Sen to the Spirit Hall, where Han Sen used his swords to utterly suppress the twin spirits. Through his ceaseless barrage of sword strikes, the twin spirits could not gain ground and push back, and it fell back further and further.
 
 "There is something sinister and malevolent about this Han Sen. He has been in the Second God's Sanctuary for less than a year, so how can he be so powerful? He is somehow managing to suppress two royal spirits simultaneously. And as for what happened earlier..." Zhu Ting bore a strange look, and he seemed to be disturbed by his thoughts.
 

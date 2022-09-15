@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Combined Evolution
-### Chapter 647 
+### Chapter 647
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  "Brother Han, you are back! Did you kill the creature?" Wang Yuhang asked Han Sen, with great enthusiasm in his voice.
+"Brother Han, you are back! Did you kill the creature?" Wang Yuhang asked Han Sen, with great enthusiasm in his voice.
 
 "I thought you'd be able to tell just by looking at my face. Had I killed it, I would have brought its flesh back, wouldn't I?" Han Sen shrugged.
 

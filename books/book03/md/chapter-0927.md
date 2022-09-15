@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Arrival in the Second Spirit Base
-### Chapter 927 
+### Chapter 927
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  After opening his second gene lock, Han Sen noticed his super spirit mode was considerably more powerful. While this was advantageous for a number of obvious reasons, there was a certain drawback that weighed on his mind.
+After opening his second gene lock, Han Sen noticed his super spirit mode was considerably more powerful. While this was advantageous for a number of obvious reasons, there was a certain drawback that weighed on his mind.
 
 This mostly stemmed from the fact that his fitness hadn't risen to coincide with the second gene unlock. With an even greater burst of strength, using super spirit mode could very well last even less time than it had before.
 

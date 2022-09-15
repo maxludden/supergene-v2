@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Entering the Painting
-### Chapter 1463 
+### Chapter 1463
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “A new geno core has immediately reached first place again? Is this world truly changing?” The woman frowned, and then asked the spirit, “Which geno core reached the top?”
+“A new geno core has immediately reached first place again? Is this world truly changing?” The woman frowned, and then asked the spirit, “Which geno core reached the top?”
 
 The spirit answered, “Master, it was a geno core called Bulwark Umbrella. It even managed to displace Six Paths, which now sits at second place.”
 

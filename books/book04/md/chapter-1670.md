@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## The Battle Begins
-### Chapter 1670 
+### Chapter 1670
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Buzz!
+Buzz!
 
 Han Menger, who was next to Han Sen, fired her Death Bone. An arrow was loosed and it slew a creature that was quickly approaching. She strung her bow again as a beast from Ancient Devil’s side leaped forward with a roar. Its body was running to meet with the arrow.
 

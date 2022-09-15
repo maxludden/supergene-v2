@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Cheater of the Second-generation
-### Chapter 748 
+### Chapter 748
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Without a choice in the matter, Han Sen quickly brought Zhou Yumei back to the shelter.
+Without a choice in the matter, Han Sen quickly brought Zhou Yumei back to the shelter.
 
 Although the little angel could distract the maniacal fairy, the creature would not allow them a single break or moment's rest if they attempted the trip while it was after them. And this was a trip that would require stops, so they couldn't continue with the fairy on their heels. And Han Sen was responsible for the life of Zhou Yumei right now, as well. So, he had to share concern for her, too.
 

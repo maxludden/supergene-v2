@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Ten Years of My Life
-### Chapter 196 
+### Chapter 196
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Huangfu sat up and said, "In principle, the two sacred-blood ones had to be shown at the auction. But if you want it, I can sell it to you beforehand. In that case, we would have to trade with the estimated price. I am not the sole owner of the business and can do nothing about that."
+Huangfu sat up and said, "In principle, the two sacred-blood ones had to be shown at the auction. But if you want it, I can sell it to you beforehand. In that case, we would have to trade with the estimated price. I am not the sole owner of the business and can do nothing about that."
 
 "How much is it?" Han Sen asked again.
 

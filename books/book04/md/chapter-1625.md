@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Sky Sword Path
-### Chapter 1625 
+### Chapter 1625
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Amongst the human demigods, and even the creature and spirit demigods, the Falsified-Sky Sutra was an infamous technique. And furthermore, it was always associated with Godslayer Luo.
+Amongst the human demigods, and even the creature and spirit demigods, the Falsified-Sky Sutra was an infamous technique. And furthermore, it was always associated with Godslayer Luo.
 
 Of course, alongside Godslayer Luo, the entire Luo family possessed and practiced the Falsified-Sky Sutra, as well. It was just that none others of the family were as frightening with the skill as he was.
 

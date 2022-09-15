@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Mushroom
-### Chapter 2509 
+### Chapter 2509
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The white whale came down into the mushroom forest, and its crash landing sent many mushrooms flying. It finally slid to a stop when it came up against a line of mushrooms that were a few dozen meters tall.
+The white whale came down into the mushroom forest, and its crash landing sent many mushrooms flying. It finally slid to a stop when it came up against a line of mushrooms that were a few dozen meters tall.
 
 But the mushrooms they did break, releasing a rainbow-colored mist. When Han Sen and the others looked closer, they could see a nearly infinite abundance of rainbow-colored spores forming the foggy veil.
 

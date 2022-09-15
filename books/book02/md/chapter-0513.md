@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Snake Fish King
-### Chapter 513 
+### Chapter 513
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen was hiding inside the ice cave, biting the meat jerky as he observed the situation from the gap he kept deliberately.
+Han Sen was hiding inside the ice cave, biting the meat jerky as he observed the situation from the gap he kept deliberately.
 
 A large number of snake fish started to climb out of the ice River and reached the beach covered in ice. More and more fish arrived, yet no one knew what they were trying to do. More than a thousand people had gathered from the Blackgod Shelter, hunting the snake fish that had arrived.
 

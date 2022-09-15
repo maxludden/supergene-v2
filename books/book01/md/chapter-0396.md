@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Molested by a Pet
-### Chapter 396 
+### Chapter 396
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Very soon, Han Sen found out sadly that the meat was as tough as ever. Han Sen chewed the meat and felt as if he was chewing calfskin. There was no way his teeth could tear up the meat.
+Very soon, Han Sen found out sadly that the meat was as tough as ever. Han Sen chewed the meat and felt as if he was chewing calfskin. There was no way his teeth could tear up the meat.
 
 In the end, Han Sen decided to simply swallow the meat since the slice was quite thin. However, after he swallowed it up, nothing had happened.
 

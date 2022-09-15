@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Ice Snow Goddess
-### Chapter 3109 
+### Chapter 3109
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen was not in a rush to chase after Steel Scene. He threw a punch toward Lu San Zhi.
+Han Sen was not in a rush to chase after Steel Scene. He threw a punch toward Lu San Zhi.
 
 Lu San Zhi was already heavily injured. He was unable to block the strike. With all of the guards and workers there, Han Sen was still able to kill him with one strike via his blood dragon flying into the sky weird scene.
 

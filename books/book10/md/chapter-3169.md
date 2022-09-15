@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Not Really Nice Skill
-### Chapter 3169 
+### Chapter 3169
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen was disappointed. Yan Bei Fei’s knife mind was not bad, but there was still a distance between it and the universe of kingdom’s truly top-class elites.
+Han Sen was disappointed. Yan Bei Fei’s knife mind was not bad, but there was still a distance between it and the universe of kingdom’s truly top-class elites.
 
 Yan Bei Fei suddenly stopped unleashing his knife skills. He stopped attacking Han Sen and held a knife up to the sky.
 

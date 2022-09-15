@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Royal Garden
-### Chapter 1688 
+### Chapter 1688
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen and Old Cat looked inside the metal box. There was a bright light inside, seething like boiling water. But it didn’t spill.
+Han Sen and Old Cat looked inside the metal box. There was a bright light inside, seething like boiling water. But it didn’t spill.
 
 Katcha noises were coming from the light, and the noises made them both shiver with a chill.
 

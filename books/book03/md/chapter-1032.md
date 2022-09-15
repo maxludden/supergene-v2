@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## There Is Treasure
-### Chapter 1032 
+### Chapter 1032
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen reached the desert, map in hand.
+Han Sen reached the desert, map in hand.
 
 It was very detailed, and there were many points of interest marked on it. Locating his exact position was not at all difficult.
 

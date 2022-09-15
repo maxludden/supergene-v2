@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Stone Tablet Bird
-### Chapter 2908 
+### Chapter 2908
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  In the next moment, everyone was shocked. Han Sen was surprised too.
+In the next moment, everyone was shocked. Han Sen was surprised too.
 
 Rainbow light flew out of the punch mark. It turned into a white falcon. It surrounded Bai Wushang as it flew.
 

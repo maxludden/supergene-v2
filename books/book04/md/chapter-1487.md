@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Back to Elysium
-### Chapter 1487 
+### Chapter 1487
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Zhou Donglai really was waiting for him, right outside the Geno Core Tablet. He was waiting for Elysian Moon to come out.
+Zhou Donglai really was waiting for him, right outside the Geno Core Tablet. He was waiting for Elysian Moon to come out.
 
 He had realized that she had tricked him, and so he wanted to grab hold of her and ask her questions whenever she decided to emerge. But then, all of a sudden, the tablet began to shine.
 

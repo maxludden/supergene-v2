@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Difficult Decision
-### Chapter 2635 
+### Chapter 2635
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “You don’t want to offend people, so you want me to do it for you? You are quite smart,” Sky Palace Leader said to Han Sen with a smile.
+“You don’t want to offend people, so you want me to do it for you? You are quite smart,” Sky Palace Leader said to Han Sen with a smile.
 
 Han Sen hadn’t explained his true purpose, but Sky Palace Leader immediately recognized what he was doing.
 

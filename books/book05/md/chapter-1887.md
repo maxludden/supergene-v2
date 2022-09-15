@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Give You a Chance
-### Chapter 1887 
+### Chapter 1887
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “Did you really just say that? Are you sick?” Guna asked, lifting her lips in a sneer.
+“Did you really just say that? Are you sick?” Guna asked, lifting her lips in a sneer.
 
 Guya looked at Han Sen and slowly said, “Han Sen, you are special. That is why I have given you this opportunity. You have the chance to be friends with the Gana. This is Purgatory Heaven; unless a deified elite appears, no one can challenge my will. Buddha King is a good example for you to follow. Or do you not want to end up like him?”
 

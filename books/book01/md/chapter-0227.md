@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Small Request
-### Chapter 227 
+### Chapter 227
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The next morning, Han Sen was waiting for Huangfu Pingqing in front of the teleport station.
+The next morning, Han Sen was waiting for Huangfu Pingqing in front of the teleport station.
 
 He got a text from the Office of Academic Affairs when he just saw Huangfu Pingqing. In the text, he was asked to attend a training by Situ Qing.
 

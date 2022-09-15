@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Shooting the Commercial
-### Chapter 177 
+### Chapter 177
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The whole process of shooting the commercial lasted a total of thirteen days, much less than the original plan. Liu Changming and Xu Wenchang were more than satisfied with the result.
+The whole process of shooting the commercial lasted a total of thirteen days, much less than the original plan. Liu Changming and Xu Wenchang were more than satisfied with the result.
 
 Han Sen too was happy about everything. In addition to working with a beautiful actress, he also ended up having his Silver Killer modified.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Killing Goblin King
-### Chapter 411 
+### Chapter 411
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The bony fish arrow flashed across the sky and reached one of the two heads of the giant evil goblin king.
+The bony fish arrow flashed across the sky and reached one of the two heads of the giant evil goblin king.
 
 The evil goblin king quickly stood up like a snake, all the three-fingered hands under its body facing the incoming arrow.
 

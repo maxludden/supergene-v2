@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Back to Space Garden
-### Chapter 3227 
+### Chapter 3227
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “Hunted Annihilation God Spirit gene race Hate Ghost.”
+> “Hunted Annihilation God Spirit Gene Race Hate Ghost.”
 
 It was just a simple announcement that played in which nothing got left behind. Even Hate Ghost’s dust was absorbed by the tai chi substance. The kill was so clean that not a single speck of him remained.
 
@@ -61,9 +62,9 @@ Although Han Sen had owned the black crystal armor for a long time, he had not r
 
 “What is a gene origin?” Han Sen had heard about this before, but he never really understood what it meant.
 
-God Hall Leader sighed and said, “It is something that is very hard to explain. You can treat it as the beginning of a gene.”
+God Hall Leader sighed and said, “It is something that is very hard to explain. You can treat it as the origin of all genes.”
 
-“Do these things really exist?” Han Sen did not dare believe it.
+“Does something like that really exist?” Han Sen did not dare believe it.
 
 Every creature was born in a different environment. The structure of everything’s genes was different. If all the creatures had the same origin, which was what was being suggested, Han Sen found it impossible to believe.
 
@@ -83,7 +84,7 @@ Han Sen returned to the God of Wealth Temple. He used the Sky God Crown to get a
 
 The Sky God Crown was spinning. Han Sen’s entire body was wrapped up by god light as he traveled through space. When Han Sen’s vision returned, the things around him already had changes that flipped the sky and the earth.
 
-“This is… Extreme King… I am back…” Han Sen’s body felt very light. He was no longer restricted by the universe he was in. He looked around and felt genuinely good. Although using the Sky God Crown to enter the geno universe had a short time limit, it did not much matter. He was back, and that was what mattered the most.
+“This is… The Extreme King Kingdom… I am back…” Han Sen’s body felt very light. He was no longer restricted by the universe he was in. He looked around and felt genuinely good. Although using the Sky God Crown to enter the geno universe had a short time limit, it did not much matter. He was back, and that was what mattered the most.
 
 Han Sen could not wait to use Galaxy Teleportation to enter Space Garden first.
 

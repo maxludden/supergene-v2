@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Grenade Mushroom
-### Chapter 1449 
+### Chapter 1449
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “Bao’er, help Dad get another one.” Han Sen thought if there was a sacred-blood beast soul up for grabs from the mushrooms, he couldn’t leave satisfied with an ordinary one.
+“Bao’er, help Dad get another one.” Han Sen thought if there was a sacred-blood beast soul up for grabs from the mushrooms, he couldn’t leave satisfied with an ordinary one.
 
 Bao’er went to pick one up, but Han Sen suddenly blurted out, “That one? That’s only like the size of a fist. Surely it can’t have anything good inside it. Instead, grab that big one there.”
 

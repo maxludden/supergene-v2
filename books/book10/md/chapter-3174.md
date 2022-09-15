@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Purple Mist That Comes From the East
-### Chapter 3174 
+### Chapter 3174
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Everyone chose to watch this fight because God of Wealth’s name had become rather outstanding in the fights. Three people from the same God Spirit had already reached the top 16. It was a magnificently rare achievement.
+Everyone chose to watch this fight because God of Wealth’s name had become rather outstanding in the fights. Three people from the same God Spirit had already reached the top 16. It was a magnificently rare achievement.
 
 Plus, his opponent was to be the supremely talented young man from Wu Wei Dao Palace, Zhuo Dong Lai, whose name was already known throughout the world. Aside from the Qin Kingdom, the power of the Wu Wei Dao Palace was something that lurked in the dark fringes. To the other six kingdoms the power of the Wu Wei Dao Palace was considered the greatest in the universe.
 
@@ -73,9 +74,7 @@ This Zhuo Dong Lai had a jade face and black hair. His eyes were like ink, and h
 
 As for his appearance, he was at least a lot more beautiful than the old man Han Sen used to know.
 
-Zhuo Dong Lai checked out Han Sen too. He did not even look as if he had come there to fight. He seemed rather relaxed as he asked, “Aside from knife skills, what else are you
-
-good at?”
+Zhuo Dong Lai checked out Han Sen too. He did not even look as if he had come there to fight. He seemed rather relaxed as he asked, “Aside from knife skills, what else are you good at?”
 
 “I know a bit about everything,” Han Sen replied. “I am a jack of all trades and master of none.”
 

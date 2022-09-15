@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Entering Core Area
-### Chapter 2624 
+### Chapter 2624
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Sky Palace Leader said it would take a few days to finish his preparations of sealing the Charming God’s Jian. Han Sen agreed to leave the weapon with him in the meantime. He was the leader of Sky Palace, so it was unlikely that he’d be greedy enough to steal the Charming God’s Jian for himself. Even if he did steal it, though, Han Sen wouldn’t mind. As long as the weapon no longer plagued him with women or returned to him when he tried to get rid of it, he wouldn’t mind anything that would get the item away from him.
+Sky Palace Leader said it would take a few days to finish his preparations of sealing the Charming God’s Jian. Han Sen agreed to leave the weapon with him in the meantime. He was the leader of Sky Palace, so it was unlikely that he’d be greedy enough to steal the Charming God’s Jian for himself. Even if he did steal it, though, Han Sen wouldn’t mind. As long as the weapon no longer plagued him with women or returned to him when he tried to get rid of it, he wouldn’t mind anything that would get the item away from him.
 
 “If it can be sealed, I wonder if I can ask Sky Palace Leader to seal Ning Yue’s little green sword as well,” Han Sen thought to himself.
 

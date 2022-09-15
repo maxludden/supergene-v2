@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Stop It
-### Chapter 3252 
+### Chapter 3252
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Chu Yuan looked at Tian Jing and said, “Miss Tian, I, Chu Yuan, will make a promise that if you take me to find the real ice jade evil lady gene egg, your life will be safe. You will be allowed to leave the Chu Kingdom alive.”
+Chu Yuan looked at Tian Jing and said, “Miss Tian, I, Chu Yuan, will make a promise that if you take me to find the real ice jade evil lady gene egg, your life will be safe. You will be allowed to leave the Chu Kingdom alive.”
 
 Tian Jing gnashed her teeth as she responded, “Mister Chu Yuan’s personality might not be as mighty as ordinary people.” Her body went under more and more pressure.
 

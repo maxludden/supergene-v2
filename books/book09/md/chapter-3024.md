@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## I'm Back
-### Chapter 3024 
+### Chapter 3024
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “No matter how strong Qin Xiu was, he was abandoned by the world. No matter how hard he tried, he could not gain the approval of the world. I am different. I have his power, and I have the genes of God Spirits. It makes me the king of the universe. The whole universe will serve me.”
+“No matter how strong Qin Xiu was, he was abandoned by the world. No matter how hard he tried, he could not gain the approval of the world. I am different. I have his power, and I have the genes of God Spirits. It makes me the king of the universe. The whole universe will serve me.”
 
 It was like Qin Lan was being answered. The whole universe was resonating with the holy spine. In space, countless numbers of weird powers went to the holy spine. It made the holy spine and Qin Lan’s power all the more powerful. It was going to break the sky.
 

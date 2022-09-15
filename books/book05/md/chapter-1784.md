@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Killing
-### Chapter 1784 
+### Chapter 1784
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “Say, brother~friend! Are you from a higher race?” Lao Zhuoma was going to call Han Sen “brother,” but it wasn’t appropriate. So, he called him “friend.”
+“Say, brother~friend! Are you from a higher race?” Lao Zhuoma was going to call Han Sen “brother,” but it wasn’t appropriate. So, he called him “friend.”
 
 Lao Zhuoma thought Han Sen was from a higher race, because normal Barons should never reach that sort of level. It didn’t matter how much they practiced, they just couldn’t.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Trial
-### Chapter 342 
+### Chapter 342
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen was not able to refuse them and summoned the sacred-blood phantom ant armor.
+Han Sen was not able to refuse them and summoned the sacred-blood phantom ant armor.
 
 Yang Zikun was dumbstruck. He asked directly, "Brother, could you sell me this armor? I will trade the other sacred-blood beast soul in Sapphire Shelter for this one. One for one."
 

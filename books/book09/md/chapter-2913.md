@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Drifting Away From the Road
-### Chapter 2913 
+### Chapter 2913
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  It was unknown what the doll was made of. When the grey dust fell away from it, it looked rather clean. The gem pendant on its chest looked even brighter.
+It was unknown what the doll was made of. When the grey dust fell away from it, it looked rather clean. The gem pendant on its chest looked even brighter.
 
 Tick. Tick. Tick. Tick.
 

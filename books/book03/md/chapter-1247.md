@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Shapeshifting Knight
-### Chapter 1247 
+### Chapter 1247
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  There was a lake before them, one that was illuminated by glowing algae that glinted along the surface. Due to it being dead water, it was too murky to see what lay below.
+There was a lake before them, one that was illuminated by glowing algae that glinted along the surface. Due to it being dead water, it was too murky to see what lay below.
 
 Han Sen activated his Dongxuan Sutra and scanned the lake. At the center of the lake, he was able to detect something strong. It was almost frighteningly strong.
 

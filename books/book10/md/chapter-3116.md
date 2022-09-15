@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Super God Spirit Blood-pulse Appears
-### Chapter 3116 
+### Chapter 3116
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The whole of the Big Qin Kingdom wanted Han Sen dead, but who would have figured Han Sen would not end up arrested? He was holed up in the Feng family’s castle surrounded by the king’s guards. 1
+The whole of the Big Qin Kingdom wanted Han Sen dead, but who would have figured Han Sen would not end up arrested? He was holed up in the Feng family’s castle surrounded by the king’s guards.
 
 Although the king had extended comfort to the Steel family, the king did not talk about Han Sen being responsible for the killing of Steel Scene. The officers on the case only said they were investigating it.
 
@@ -23,9 +24,7 @@ There were even officers outside the palace kowtowing. They were shouting variou
 
 This time, inside the palace, there was not much movement. Only the officers who were on the case were given an answer a few days later. After the investigation, other people were deemed responsible for the murder of Steel Scene. It was revealed that Han Sen was set up.
 
-The officers in the government had many sources. Everybody knew that no one had investigated the case properly. Han Sen was not questioned the entire time he was inside the Feng Castle. How was the case over so
-
-soon?
+The officers in the government had many sources. Everybody knew that no one had investigated the case properly. Han Sen was not questioned the entire time he was inside the Feng Castle. How was the case over so soon?
 
 The entirety of Jade Wall City was reeling in shock. Overnight, Han Sen had become the biggest villain in the kingdom. Crown Prince Qin Bai had become the most ridiculous and dumbest crown prince in history.
 
@@ -45,8 +44,6 @@ Han Sen did not care. He just hid inside the Feng Castle, eating and drinking.
 
 Upon hearing that, Qin Bai felt better, but he was still worried. The Qin Kingdom’s nobles were the most powerful in the seven kingdoms. They were willing to fight against the royals. Qin Bai knew about that. Outside, many nobles were surrounding Feng Castle. That made him worry profusely.
 
-CI
-
 It was only now Han Sen learned that the Qin Kingdom’s nobles had such power. Not even the royals were able to clamp down on them.
 
 This time, he had killed Steel Scene and triggered the nobles and their benefits. He had started a conflict between the nobles and royals.
@@ -61,7 +58,7 @@ Han Sen thought the nobles were going to keep annoying them. After two days, the
 
 Feng Fei Fei had other people go to figure it out. The Gold Crystal System had an infinite light. It covered the whole system, turning it into a rainbow sun.
 
-Everyone knew this was the weird scene of a super God Spirt Blood-Pulse showing up. The nobles did not have time to keep annoying Han Sen. They all ran to the Gold Crystal System to dig up a gene egg. According to the Qin Kingdom’s first mister, Mister Wei, who was Bald Guy’s master, that God Spirit Blood-Pulse had a weird scene that shocked the world. That place probably had a high-class God Spirit Blood – Pulse.
+Everyone knew this was the weird scene of a super God Spirt Blood-Pulse showing up. The nobles did not have time to keep annoying Han Sen. They all ran to the Gold Crystal System to dig up a gene egg. According to the Qin Kingdom’s first mister, Mister Wei, who was Bald Guy’s master, that God Spirit Blood-Pulse had a weird scene that shocked the world. That place probably had a high-class God Spirit Blood-Pulse.
 
 It made the nobles go crazy. If there was an Annihilation class God Spirit Blood-Pulse and they had possessed it, then they would go into the skies with one step. Even if they could not get an Annihilation class God Spirit Blood-Pulse, this was a super God Spirit Blood-Pulse. There were many gene eggs, so there would eventually be a god-class gene race. “I have never seen such a super God Spirit Blood-Pulse before. Let’s go and take a look.” Han Sen knew the nobles and officers would not let him go so easily, but he did not want to be trapped with the Feng family and do nothing. He wanted to explore. After witnessing the power of Thousand Mile Reach, he thought getting a powerful God Spirit Blood-Pulse or gene race would be a good thing. It would help him achieve all the things he had wanted to do.
 

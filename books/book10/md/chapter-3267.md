@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Mud Man
-### Chapter 3267 
+### Chapter 3267
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen and the old man, in their mud-man shape, were on the table. They looked like two inanimate objects. One would never have thought that they were two grand elites who were once very scary and famous.
+Han Sen and the old man, in their mud-man shape, were on the table. They looked like two inanimate objects. One would never have thought that they were two grand elites who were once very scary and famous.
 
 After doing that, Zhao Ning’er took out a mirror. The mirror displayed Bury Path God’s image.
 

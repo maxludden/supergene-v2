@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Fighting No God
-### Chapter 1298 
+### Chapter 1298
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen ran towards the battleground, but he felt something was amiss.
+Han Sen ran towards the battleground, but he felt something was amiss.
 
 The plaza looked bigger than it had earlier, and the illusion of a greater size seemed to expand until the cobbled ground stretched on for a distance that could only be assumed to be infinite.
 

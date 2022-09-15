@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Blue Blood Starts
-### Chapter 3001 
+### Chapter 3001
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The body near the geno hall’s door did not do anything. It looked at Han Sen, who was covered in blue blood, and quietly said, “I hope you will not regret this.”
+The body near the geno hall’s door did not do anything. It looked at Han Sen, who was covered in blue blood, and quietly said, “I hope you will not regret this.”
 
 After saying that, the shadow turned around and left. It disappeared inside the bright lights of the hall. The geno hall’s door was closed.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Blue Copper Bell
-### Chapter 723 
+### Chapter 723
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The tolling of the bell, when he had been further down the mountain, was not as strong as what he was hearing now. Because he was so close to it, every ring was like a thunderbolt that convulsed his body and caused him to spit blood from his mouth.
+The tolling of the bell, when he had been further down the mountain, was not as strong as what he was hearing now. Because he was so close to it, every ring was like a thunderbolt that convulsed his body and caused him to spit blood from his mouth.
 
 Dong! Dong! Dong!
 

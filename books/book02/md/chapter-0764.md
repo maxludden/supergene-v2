@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Holy Cleanliness
-### Chapter 764 
+### Chapter 764
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen and Zhou Yumei were shocked; a white rhino exited the lake. The water level dropped significantly as it emerged.
+Han Sen and Zhou Yumei were shocked; a white rhino exited the lake. The water level dropped significantly as it emerged.
 
 "Isn't that the white rhino we saw a while back?" Han Sen was taken aback.
 

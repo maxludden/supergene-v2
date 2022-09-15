@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Sleeping Place
-### Chapter 2428 
+### Chapter 2428
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Night Wind obeyed the command and deployed his substance chains to clear the rubble behind the screen. The three of them hauled their junkie Duke along with them, moving around the screen and proceeding forward.
+Night Wind obeyed the command and deployed his substance chains to clear the rubble behind the screen. The three of them hauled their junkie Duke along with them, moving around the screen and proceeding forward.
 
 Blood came from every orifice of the Duke’s body. He wasn’t dead yet, but his prospects weren’t looking good. That was especially true of his eyes; they had turned entirely red, and even the whites of his eyes had been consumed by the new color.
 

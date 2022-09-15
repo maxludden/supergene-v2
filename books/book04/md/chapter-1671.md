@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Operation Star
-### Chapter 1671 
+### Chapter 1671
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “Come and hit me, you dumb*ss!” Wang Yuhang ran, shaking his *ss vigorously as he went. Many creatures were behind him.
+“Come and hit me, you dumb*ss!” Wang Yuhang ran, shaking his *ss vigorously as he went. Many creatures were behind him.
 
 It looked risky, but Wang Yuhang could run like mad. He may have been dealt a number of injuries, but none of the wounds put him in critical status.
 

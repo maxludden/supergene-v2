@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Earning Money and Not Afraid of Trouble
-### Chapter 2531 
+### Chapter 2531
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  After Dia Robber departed, Han Sen and the others continued their search for the Sea Sky Eye. They were unable to find the Sea Sky Eye, but they did find royal knights of the Extreme King.
+After Dia Robber departed, Han Sen and the others continued their search for the Sea Sky Eye. They were unable to find the Sea Sky Eye, but they did find royal knights of the Extreme King.
 
 When crown prince Bai Wan Jie saw Han Sen and the others, he brought the royal knights with him to fly over and meet with them. He looked at Dollar and said, “Brother Dollar, this is a coincidence. I didn’t expect to meet you here.”
 

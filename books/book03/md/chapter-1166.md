@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Trade With a Dragon
-### Chapter 1166 
+### Chapter 1166
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “What is this?” Han Sen frowned, seeing Dragon King cackle like a maniac.
+“What is this?” Han Sen frowned, seeing Dragon King cackle like a maniac.
 
 Dragon King managed to recompose himself and respond, “Kid, I have quite the opportunity for you. I’m keen to see if you’d dare accept.”
 

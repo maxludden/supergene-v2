@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Colleagues
-### Chapter 273 
+### Chapter 273
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  No one would answer Han Sen's question. All the people went back into the jungle.
+No one would answer Han Sen's question. All the people went back into the jungle.
 
 "Miss, what is this about?" Han Sen caught up with the woman he saw first and asked.
 

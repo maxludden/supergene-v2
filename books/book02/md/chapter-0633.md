@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Absorbing Perfume
-### Chapter 633 
+### Chapter 633
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  "Old Chen, I am surprised you have found the time to come visit me." Han Sen opened the door to the sight of Chen Ran standing outside it, alone.
+"Old Chen, I am surprised you have found the time to come visit me." Han Sen opened the door to the sight of Chen Ran standing outside it, alone.
 
 "Zhu Ting said you are a good friend of his. I heard from him that you were here, and so I have come to see you. Why didn't you say so before? If you had, perhaps our acquaintance and travel together would have been far more cordial." Chen Ran smiled.
 

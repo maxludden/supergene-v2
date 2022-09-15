@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## The Broken Scabbard
-### Chapter 2848 
+### Chapter 2848
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  "You being dead and me being alive is the best gamble to bet on," Yisha coldly said. A jade, crystal-looking Teeth Knife was brewing in her hands. It quickly came flying at Han Sen.
+"You being dead and me being alive is the best gamble to bet on," Yisha coldly said. A jade, crystal-looking Teeth Knife was brewing in her hands. It quickly came flying at Han Sen.
 
 The purple knife air became a roaring, swallowing, evil ghost. It slashed toward Han Sen.
 

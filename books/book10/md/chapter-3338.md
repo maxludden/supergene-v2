@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Fighting Qin Xiu Again
-### Chapter 3338 
+### Chapter 3338
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen was never too interested in things that were not pretty, but he would never have guessed the purple copper sword was actually Asura, the alpha of the Demon race.
+Han Sen was never too interested in things that were not pretty, but he would never have guessed the purple copper sword was actually Asura, the alpha of the Demon race.
 
 He carried the little girl through the Soldier Weapon Sky while in flight. He hoped to find a trace or two of Bao’er. Now, Soldier Weapon Sky was bigger than ever. Han Sen flew through the air for half a day, and he had yet to find a single sign of Bao’er’s body. It made him feel really bad.
 

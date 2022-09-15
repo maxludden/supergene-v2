@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## The Xue Family’s Guest
-### Chapter 1096 
+### Chapter 1096
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “Piece of cake!” Wang Lin turned to look at the Frost Sutra again.
+“Piece of cake!” Wang Lin turned to look at the Frost Sutra again.
 
 But as Wang Lin read, his face began to soften and change. There was indeed a mention of frost, but there was no inherent focus on the element.
 

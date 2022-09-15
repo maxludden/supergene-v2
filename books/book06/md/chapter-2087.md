@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## The Differences Between People
-### Chapter 2087 
+### Chapter 2087
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The elders shouted at each other, fists clenched and blood vessels pulsing. It looked like the fight was about to get physical.
+The elders shouted at each other, fists clenched and blood vessels pulsing. It looked like the fight was about to get physical.
 
 When Bao’er received the ten thousand holy airs, their behavior left them with little dignity. But when Bao’er asked for Han Sen’s bounty of holy air, even their pride abandoned them.
 

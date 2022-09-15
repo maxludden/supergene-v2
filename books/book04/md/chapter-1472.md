@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Rushing Into Something
-### Chapter 1472 
+### Chapter 1472
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen retreated a bit, trying to get a better look at what it was. It wasn’t a big fish like he initially presumed it to be.
+Han Sen retreated a bit, trying to get a better look at what it was. It wasn’t a big fish like he initially presumed it to be.
 
 Its body did look like that of a fish, but it had legs. It didn’t have any scales, and its body was made up of a keratinous shell. The color of the beast was black like ink.
 

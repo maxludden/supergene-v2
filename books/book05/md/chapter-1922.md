@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Spell Evolution
-### Chapter 1922 
+### Chapter 1922
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen kept fighting and consuming the spring water he could get. His mind was thinking about the little bug on his forehead, so he wasn’t paying attention to anything else.
+Han Sen kept fighting and consuming the spring water he could get. His mind was thinking about the little bug on his forehead, so he wasn’t paying attention to anything else.
 
 Han Sen thought what he had taken was just a larger water drop. It sure tasted like ordinary spring water, but after swallowing it, he acknowledged that something might have been wrong. It was as if he swallowed a vat of lava, and his entire body flared up with pain. He was burning on the inside with a sensation that was worse than any cut.
 

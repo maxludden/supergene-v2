@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Forced Entry
-### Chapter 2059 
+### Chapter 2059
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “You can really only remain a Stone Cow for another two days?” Xius asked, looking at Han Sen.
+“You can really only remain a Stone Cow for another two days?” Xius asked, looking at Han Sen.
 
 “Yes.” Han Sen nodded.
 

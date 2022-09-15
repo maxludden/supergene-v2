@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## The Strongest Skill
-### Chapter 955 
+### Chapter 955
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Odin's Eye could expose a target's weakest point, and it was not like the Falsified-Sky Sutra. Han Sen had his own method of evaluating his opponents, though, through his Dongxuan Sutra. He used it trace his foe's attacks and effectively block each one.
+Odin's Eye could expose a target's weakest point, and it was not like the Falsified-Sky Sutra. Han Sen had his own method of evaluating his opponents, though, through his Dongxuan Sutra. He used it trace his foe's attacks and effectively block each one.
 
 Fighting Liu Meng was not easy. He was around the same level as Han Sen, and he was exceptionally talented. Since he was unable to break through Liu Meng's defense, Han Sen knew victory would not come easy when it was his turn to attack.
 

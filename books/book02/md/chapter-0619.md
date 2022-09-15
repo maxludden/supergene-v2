@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## I'll Follow You
-### Chapter 619 
+### Chapter 619
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  After speaking with Zhu Ting, Yang Manli also called. He talked to her for a while and expressed his desire for her to remain available and prepared for what was to come.
+After speaking with Zhu Ting, Yang Manli also called. He talked to her for a while and expressed his desire for her to remain available and prepared for what was to come.
 
 There was nothing Han Sen could do right now, since he was near Whitestone Beach. Returning to the Icefield on such short notice would prove difficult. Even returning within a month would be a remarkable achievement.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Using the Fifth Dongxuan
-### Chapter 1146 
+### Chapter 1146
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  A shadow of blood emerged from the floor as Han Sen barred Yaksha’s way once more.
+A shadow of blood emerged from the floor as Han Sen barred Yaksha’s way once more.
 
 “Do you really want to die that much? That’s fine by me!” Yaksha was now getting infuriated with Han Sen. He and Disloyal Knight had wasted too much time already, and Yaksha knew now that he had to take them out.
 

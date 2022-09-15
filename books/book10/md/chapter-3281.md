@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## God Chaos Party Assault
-### Chapter 3281 
+### Chapter 3281
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  A big electric storm was brewing in the space around them. All kinds of colors flowed, veiling the sky.
+A big electric storm was brewing in the space around them. All kinds of colors flowed, veiling the sky.
 
 A ship crew member ran into the room. He looked shocked as he shouted, “Mister, this is bad! We have encountered a giant magnetic storm! The ship is losing control!”
 

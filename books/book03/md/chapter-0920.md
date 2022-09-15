@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Repo Man
-### Chapter 920 
+### Chapter 920
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Flower Empress believed Han Sen could not take her attacks anymore. He hadn't been defeated completely, but that was fine.
+Flower Empress believed Han Sen could not take her attacks anymore. He hadn't been defeated completely, but that was fine.
 
 "You have been crushed by my Flower Stamp, haven't you? I don't think you can hit me. You're probably using all of your power to withstand the crushing weight of my flowers, but if you divert any of that power into attacking me, they'll kill you." Flower Empress cackled maniacally, a sharp contrast to her beautiful face.
 

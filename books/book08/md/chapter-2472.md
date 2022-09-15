@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Dark Area
-### Chapter 2472 
+### Chapter 2472
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen followed Lando through the sea of clouds. They encountered many elites who had come in search of Han Sen, but whenever those elites saw Lando, they gave him a wide berth. No one would dare to go against Lando—especially face to face.
+Han Sen followed Lando through the sea of clouds. They encountered many elites who had come in search of Han Sen, but whenever those elites saw Lando, they gave him a wide berth. No one would dare to go against Lando—especially face to face.
 
 But Han Sen could still feel the weight of many eyes resting on him. And that sensation gradually increased as time went by. Technological gadgets were of no use in the Tianxia System, but that didn’t mean that the various bounty hunters had no way of tracking him. Many people with eyes and video powers, especially the Kings with such talents, could watch Lando and Han Sen from tens of thousands of miles away.
 

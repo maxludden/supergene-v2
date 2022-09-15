@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Queen; She Who Cannot Calm Down
-### Chapter 606 
+### Chapter 606
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Queen felt as angry as she did awkward, having no idea what Han Sen was doing. But when she looked down at the afflicted area, she noticed the wound was starting to fade away as the silver fox licked her. She stared at the creature in bewilderment.
+Queen felt as angry as she did awkward, having no idea what Han Sen was doing. But when she looked down at the afflicted area, she noticed the wound was starting to fade away as the silver fox licked her. She stared at the creature in bewilderment.
 
 Han Sen looked at the silver fox, but his eyes subconsciously moved to look elsewhere. He noticed Queen was breathing quite rapidly and her chest was beating hard. The jiggling almost caused Han Sen to lose all composure.
 

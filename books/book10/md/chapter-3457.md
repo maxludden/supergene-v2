@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Ended
-### Chapter 3457 
+### Chapter 3457
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “What is Qin Xiu doing? Does he not want to kill Bao’er?” Moon God was confused as she looked at Tai Yi.
+“What is Qin Xiu doing? Does he not want to kill Bao’er?” Moon God was confused as she looked at Tai Yi.
 
 Anyone was able to tell that if Qin Xiu wanted to kill Bao’er, it would not be difficult. Bao’er was strong, but her experience and ability to control things was far inferior to Qin Xiu.
 

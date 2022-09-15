@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Different Version
-### Chapter 2456 
+### Chapter 2456
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “The Shocking World Record of the Extreme King. In the beginning of the Extreme King, the sky and ground welcomed this race…” the woman said, reading the prologue in a smooth voice. She broke off, and a scornful chuckle rolled out of her throat. “Very presumptuous. He was just a slave of Sacred Leader, so how dare he say that?”
+“The Shocking World Record of the Extreme King. In the beginning of the Extreme King, the sky and ground welcomed this race…” the woman said, reading the prologue in a smooth voice. She broke off, and a scornful chuckle rolled out of her throat. “Very presumptuous. He was just a slave of Sacred Leader, so how dare he say that?”
 
 “It seems as if this woman is connected to the Sacred Leader somehow. It also looks like the Extreme King’s alpha once belonged to Sacred, maybe as a low-level servant?” Han Sen thought in surprise.
 

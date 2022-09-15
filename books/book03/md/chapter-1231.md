@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Mystic Well
-### Chapter 1231 
+### Chapter 1231
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Everyone was talking about the subject, but no real results were coming of the discussions.
+Everyone was talking about the subject, but no real results were coming of the discussions.
 
 Assaulting Saint Fan Shelter pre-emptively would have to be done differently than their attack on Thunder Hell Shelter. Saint Fan Shelter was a mysterious construct, and it was encircled by a moat. The Night Cloak could not be used to breach the place without being seen.
 

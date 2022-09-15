@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## New Understanding
-### Chapter 525 
+### Chapter 525
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  After chatting with Professor Xu for a long while, Han Sen felt he was inspired. The materials he got from Professor Xu were also a great help to him. For the things that he couldn't understand before, he had managed to perceive them after reading Professor Xu's materials.
+After chatting with Professor Xu for a long while, Han Sen felt he was inspired. The materials he got from Professor Xu were also a great help to him. For the things that he couldn't understand before, he had managed to perceive them after reading Professor Xu's materials.
 
 After that, when he read Dongxuan Sutra again, he had many new understandings. Although there were still places that he did not understand, he had a more profound grasp of the text.
 

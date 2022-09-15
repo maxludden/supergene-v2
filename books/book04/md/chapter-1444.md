@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## God Wood
-### Chapter 1444 
+### Chapter 1444
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “Is this something good?” When Han Sen saw Moment Queen’s face, his heart jumped.
+“Is this something good?” When Han Sen saw Moment Queen’s face, his heart jumped.
 
 “Of course it is! Where did you get it from? But I wonder why it has become a wooden sword. What a waste.” The way Moment Queen looked at Han Sen was like a spoiled woman.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Eighteen Hits
-### Chapter 2303 
+### Chapter 2303
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “Bai Wuchang has a strange personality, so Father never planned on letting him succeed to the throne. He still loves him dearly, of course. Bai Wuchang is the only one who has never recruited guards for fighting, but Father still provides him resources in order to level up,” Bai Wei said.
+“Bai Wuchang has a strange personality, so Father never planned on letting him succeed to the throne. He still loves him dearly, of course. Bai Wuchang is the only one who has never recruited guards for fighting, but Father still provides him resources in order to level up,” Bai Wei said.
 
 “He takes care of him that much? Won’t the other sons and daughter get jealous?” Han Sen asked with shock.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Doing This Is Wrong
-### Chapter 3008 
+### Chapter 3008
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “Why are you here?” Han Sen and the white-clothed lady both spoke at almost the same time.
+“Why are you here?” Han Sen and the white-clothed lady both spoke at almost the same time.
 
 The lady in front of him was the Dragon Lady Chef. She had left Space Garden to practice. She had yet to return. Han Sen wondered where she had gotten to. He certainly did not expect to run into her there.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Every Knife Shows Blood
-### Chapter 2758 
+### Chapter 2758
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “Stay away! This is the battleground of men. This is nothing for you to be involved in,” Han Sen said over his shoulder, keeping his eyes on the red demon.
+“Stay away! This is the battleground of men. This is nothing for you to be involved in,” Han Sen said over his shoulder, keeping his eyes on the red demon.
 
 After Han Sen combined his four geno arts, the Dongxuan Area’s power increased exponentially. Han Sen discovered that this God’s Knife wasn’t really a knife. It was a xenogeneic. Although it was a living creature, its body and soul were like knives.
 

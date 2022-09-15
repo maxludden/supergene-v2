@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Ice Snake Bolt
-### Chapter 620 
+### Chapter 620
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  In the Whitesand Shelter's market, Huangfu Pingqing walked alongside Han Sen, often turning to observe him.
+In the Whitesand Shelter's market, Huangfu Pingqing walked alongside Han Sen, often turning to observe him.
 
 "I know I am handsome. If you like my appearance that much, why don't we book a room together, so you can inspect me in all my splendor?" Han Sen asked her. He felt awkward, getting stared at by her.
 

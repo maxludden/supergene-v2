@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Another Nest
-### Chapter 358 
+### Chapter 358
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  "All right," Han Sen replied and accelerated a little bit.
+"All right," Han Sen replied and accelerated a little bit.
 
 However, Han Sen was still going slowly and making sure he had everything under control. Half a day into the mountains, Han Sen saw a group of creatures looking like a cross between a cow and a horse running in the mountains. Han Sen looked carefully and determined that they were all mutant creatures. There seemed to be no sacred-blood creatures among them.
 

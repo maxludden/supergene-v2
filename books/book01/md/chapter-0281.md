@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Disorder
-### Chapter 281 
+### Chapter 281
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Ding!
+Ding!
 
 Han Sen summoned the three-blade harpoon in his left hand and blocked the dagger in his face.
 

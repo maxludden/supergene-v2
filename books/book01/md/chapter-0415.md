@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Human?
-### Chapter 415 
+### Chapter 415
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  On another thought, Han Sen was not even sure if he could hurt her with the cursed wolf dagger, given how strong she was. The gap between himself and someone with a fitness level over 100 was simply too big.
+On another thought, Han Sen was not even sure if he could hurt her with the cursed wolf dagger, given how strong she was. The gap between himself and someone with a fitness level over 100 was simply too big.
 
 Han Sen watched the Shura girl banging her head against the floor in pain with a complex look. He suddenly found that the cave seemed to be very well lit. As he took a closer look, he saw the full moon was shining through the cave from the crack above.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Kill
-### Chapter 1499 
+### Chapter 1499
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen’s eyes were filled with murder, and he threw a punch towards Naga. His powerful fist did not look special, at all. But the power he had gathered up in that one thrown fist was enough to sunder an alloy battleship.
+Han Sen’s eyes were filled with murder, and he threw a punch towards Naga. His powerful fist did not look special, at all. But the power he had gathered up in that one thrown fist was enough to sunder an alloy battleship.
 
 A fight seemed unavoidable, so Han Sen thought he should be the one to get the first punch in.
 

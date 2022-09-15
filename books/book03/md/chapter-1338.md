@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## The Road to Becoming a Demi-god
-### Chapter 1338 
+### Chapter 1338
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen stared at his Nine-Life Cat for a while longer. It confirmed to him that the pill was genuine and that it would have helped him open the special gene lock. The nature of that lock, however, was a different question entirely.
+Han Sen stared at his Nine-Life Cat for a while longer. It confirmed to him that the pill was genuine and that it would have helped him open the special gene lock. The nature of that lock, however, was a different question entirely.
 
 He paid extra attention to Bao’er following this, but he did not notice any changes in her behavior or abilities. It was exactly the same thing that occurred to Han Sen himself, following his opening of the Life Door.
 

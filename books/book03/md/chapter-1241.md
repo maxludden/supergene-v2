@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Invisible Toxic King Scorpion
-### Chapter 1241 
+### Chapter 1241
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen didn’t lie to Saint Fan, as his body truly had developed a problem.
+Han Sen didn’t lie to Saint Fan, as his body truly had developed a problem.
 
 The ugly biomass had developed a number of unhealthy blisters. They were empty, but they produced deep craters across his body when popped.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## The Fifth God’s Sanctuary
-### Chapter 1619 
+### Chapter 1619
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “Did you go to the Alliance automatically after you entered the Fifth Sanctuary?” Han Sen couldn’t believe what he had just heard, but he couldn’t think of any other possible explanations.
+“Did you go to the Alliance automatically after you entered the Fifth Sanctuary?” Han Sen couldn’t believe what he had just heard, but he couldn’t think of any other possible explanations.
 
 Han Yufei nodded his head and then shook it “To be exact, this universe is the Fifth Sanctuary.”
 

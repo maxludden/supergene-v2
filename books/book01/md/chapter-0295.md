@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Unrivaled
-### Chapter 295 
+### Chapter 295
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Everyone was dumbstruck, almost unable to believe what they saw and heard.
+Everyone was dumbstruck, almost unable to believe what they saw and heard.
 
 Although Jing Jiya was a freshman, he was the champion in the Archery Society, the Warframe Society, and the Hand of God Society--a true star on campus.
 

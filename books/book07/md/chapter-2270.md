@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Silver Sycee
-### Chapter 2270 
+### Chapter 2270
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The steel twig was unexpectedly tough. It took Han Sen a long while to cut through it so he could claim the silver fruit for himself.
+The steel twig was unexpectedly tough. It took Han Sen a long while to cut through it so he could claim the silver fruit for himself.
 
 When he finally sawed through the twig, the silver fruit dropped from the tree. Han Sen reached out his hand to grab it. But the moment the silver sycee touched his hand, Han Sen’s eyes widened.
 

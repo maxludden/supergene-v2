@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Going to Steel Manor
-### Chapter 3107 
+### Chapter 3107
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “Mister, there is a person who calls himself Han Sen here. He is looking for you.” Steel Scene was going to activate the si ming demon race’s power. He wanted to kill Han Sen. Suddenly, someone was out there making this report. “What? Han Sen dared come to Ice Snow City?” Lu San Zhi was furious. Steel Scene frowned and asked, “How many people did he bring?”
+“Mister, there is a person who calls himself Han Sen here. He is looking for you.” Steel Scene was going to activate the si ming demon race’s power. He wanted to kill Han Sen. Suddenly, someone was out there making this report. “What? Han Sen dared come to Ice Snow City?” Lu San Zhi was furious. Steel Scene frowned and asked, “How many people did he bring?”
 
 “Just one,” the guard replied. “Just one?” Steel Scene was shocked. “Mister, that guy must have come prepared,” Lu San Zhi quickly said.
 

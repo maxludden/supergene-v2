@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Blood Contract
-### Chapter 1213 
+### Chapter 1213
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “Dragon King, are there any better ways to control a super creature?” Han Sen asked.
+“Dragon King, are there any better ways to control a super creature?” Han Sen asked.
 
 Dragon King was quick to misinterpret his words and he said, “Don’t worry; when you get me a new body, I would never betray you. A sordid deed such as that would not even flicker in the depths of my most wretched nightmares. And you, sir, are an inspiration. You are as mighty as a giant! You are a role model to me, of sorts.”
 

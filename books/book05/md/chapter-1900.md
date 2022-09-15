@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Summoned Buddha
-### Chapter 1900 
+### Chapter 1900
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “Qing Li, what are you talking about?” Du Lishe asked from her seat next to Qing Li.
+“Qing Li, what are you talking about?” Du Lishe asked from her seat next to Qing Li.
 
 “I think Han Sen wrote better than No Flower did,” Qing Li answered.
 

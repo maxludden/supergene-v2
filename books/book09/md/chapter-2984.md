@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## God Spirit Descends
-### Chapter 2984 
+### Chapter 2984
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  In the god palaces, the god temple under the geno hall began to release a 3,000-foot-long light. It was like a sun exploding.
+In the god palaces, the god temple under the geno hall began to release a 3,000-foot-long light. It was like a sun exploding.
 
 Previously, the lifeforce was like a sea. The god temple that released the scary god light was suddenly dead. The shining gold god temple was dim. It was like some dust had been scattered.
 

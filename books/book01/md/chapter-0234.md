@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Unstoppable
-### Chapter 234 
+### Chapter 234
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Yang Manli was very satisfied with her performance. She had outdone herself because of her strong desire to beat Han Sen and prove herself to Qin Xuan. Although she was still rated A, her score was among the top in A level. She had killed much more black birds and had also increased her speed by three minutes.
+Yang Manli was very satisfied with her performance. She had outdone herself because of her strong desire to beat Han Sen and prove herself to Qin Xuan. Although she was still rated A, her score was among the top in A level. She had killed much more black birds and had also increased her speed by three minutes.
 
 As Yang Manli walked out of the test scene, she saw that both Qin Xuan and Han Sen were there and thought, "He is out so early, which meant he was even faster than me. Then he must have not killed enough black birds or have even shot a white one."
 

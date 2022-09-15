@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Tough Will
-### Chapter 2021 
+### Chapter 2021
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Inside a storage shed in a kindergarten, Lu Zimei was in a strange position. She was sweating and her skin was red.
+Inside a storage shed in a kindergarten, Lu Zimei was in a strange position. She was sweating and her skin was red.
 
 “I can do it…” Lu Zimei was lying on the floor, gasping.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Defrosted Man
-### Chapter 744 
+### Chapter 744
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen did not hear an announcement, and when he looked at the fairy, he knew exactly what had happened.
+Han Sen did not hear an announcement, and when he looked at the fairy, he knew exactly what had happened.
 
 Without hesitation, Han Sen smacked the fairy's head with his Flaming Rex Spike.
 

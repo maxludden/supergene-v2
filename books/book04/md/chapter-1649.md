@@ -1,19 +1,20 @@
-Title:Summoning an Ingredien 
+Title:Summoning an Ingredient 
 Chapter:1649 
 Section:4 
 Book:4 
 CSS:../Styles/style.css 
 viewport: width=device-width
   
-## Summoning an Ingredien
-### Chapter 1649 
+## Summoning an Ingredient
+### Chapter 1649
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  With Stay Up Late around, Han Sen didn’t dare go anywhere. He was afraid that if he left, Stay Up Late might harm his family. Fortunately, though, there was no explicit need for Han Sen to return to the sanctuary, due to the fact he had already maxed out his geno points. He could practice with hyper geno arts from the comfort of his own home.
+With Stay Up Late around, Han Sen didn’t dare go anywhere. He was afraid that if he left, Stay Up Late might harm his family. Fortunately, though, there was no explicit need for Han Sen to return to the sanctuary, due to the fact he had already maxed out his geno points. He could practice with hyper geno arts from the comfort of his own home.
 
 Stay Up Late did not do anything outstanding. And while he was living with Han Sen, he actually helped out with the housework.
 

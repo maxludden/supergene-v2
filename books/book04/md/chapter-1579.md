@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Fighting for the Sacred Egg
-### Chapter 1579 
+### Chapter 1579
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “Is there a creature here that not even the Destroyer Wolf and the Rolling Dragon know of? Perhaps they know about it, but they’re letting the creature hide here for some reason?” Han Sen frowned.
+“Is there a creature here that not even the Destroyer Wolf and the Rolling Dragon know of? Perhaps they know about it, but they’re letting the creature hide here for some reason?” Han Sen frowned.
 
 Han Sen was very confident about his Dongxuan Aura. He was certain that the molecules belonged to the creature he had been looking for before. Also, these molecules were very recent.
 

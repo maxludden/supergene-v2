@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## One White Feather and Three Thousand Stars
-### Chapter 1780 
+### Chapter 1780
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Kong Fei stood in front of Mosi Mountain, which had been sundered in two. He was standing in the rain, letting it drench his body. He stood there in solemn silence, without speaking a word.
+Kong Fei stood in front of Mosi Mountain, which had been sundered in two. He was standing in the rain, letting it drench his body. He stood there in solemn silence, without speaking a word.
 
 A while later, Kong Fei sighed and said, “You guys have wanted to leave for all eternity. Even in death, you still wish to be free. I guess a burial is not what you’re interested in.”
 

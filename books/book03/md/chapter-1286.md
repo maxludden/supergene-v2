@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Blowing Up the Lake
-### Chapter 1286 
+### Chapter 1286
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  All the humans, spirits, and creatures of the shelter were able to become a part of Saint Fan Emperor, reduced to a bulbous, fleshy mass whenever the wretched spirit desired the transformation.
+All the humans, spirits, and creatures of the shelter were able to become a part of Saint Fan Emperor, reduced to a bulbous, fleshy mass whenever the wretched spirit desired the transformation.
 
 Many of the elder people considered committing suicide to avoid such a ghastly fate. But they knew that if they tried, Saint Fan would have them resurrected and forced to endure a punishment far greater than any that a grueling death could deal them.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Upstream Fish
-### Chapter 1117 
+### Chapter 1117
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen ended up not looking for Li Singhua in his lab, as he could have been rather busy. So, he sent him a message instead. That way, he could ask all the questions he wished to pose to the man.
+Han Sen ended up not looking for Li Singhua in his lab, as he could have been rather busy. So, he sent him a message instead. That way, he could ask all the questions he wished to pose to the man.
 
 He didn’t really even expect a reply. But that very night, Li Singhua gave his response, answering each of Han Sen’s questions with keen insight. He even provided Han Sen with links to further reading material on the subjects.
 

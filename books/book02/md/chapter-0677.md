@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Pink Little Snake
-### Chapter 677 
+### Chapter 677
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Qin Wenzhao was a young man who was polite and knew his place, so Han Sen had no problem with becoming his guardian.
+Qin Wenzhao was a young man who was polite and knew his place, so Han Sen had no problem with becoming his guardian.
 
 What surprised Han Sen the most, though, was how talented Qin Wenzhao looked. Now that super creatures had been found, Han Sen wondered why the Qin family allowed him to become an evolver so soon. He could have waited another few years to see if he could collect super geno points.
 

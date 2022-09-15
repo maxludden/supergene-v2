@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Nothing Out of the Ordinary
-### Chapter 2194 
+### Chapter 2194
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The highly corrosive power of that black water was something like a whetstone. It looked like a grinder that could wear a diamond down into dust. It whirled continuously just outside the blue shield.
+The highly corrosive power of that black water was something like a whetstone. It looked like a grinder that could wear a diamond down into dust. It whirled continuously just outside the blue shield.
 
 Night River King was confident in his Night River Beast God. The geno art didn’t have overwhelming strike power like Yisha_s Teeth powers, which could one-hit-kill almost any enemy.
 

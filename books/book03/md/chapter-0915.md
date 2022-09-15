@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## There Are Many Kings, but Amongst Them, Only One Ruler
-### Chapter 915 
+### Chapter 915
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen stood upon his spirit base island like a god. His white hair drifted with the ethereal breeze, and his handsome face was as calm and composed as ever. He lifted a fist and launched it at the purple lightning that was bearing down on him.
+Han Sen stood upon his spirit base island like a god. His white hair drifted with the ethereal breeze, and his handsome face was as calm and composed as ever. He lifted a fist and launched it at the purple lightning that was bearing down on him.
 
 His super king spirit mode made him better than a king spirit, so he was unafraid of what Thunderdevil King sought to do. They had both only opened their first gene locks, so with the improved spirit mode, Han Sen already worked from a position of greater strength.
 

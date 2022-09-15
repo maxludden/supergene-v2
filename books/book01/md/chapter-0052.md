@@ -1,19 +1,19 @@
-Title:Purple-winged Dragon 
-Chapter:52 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+Title:Purple-winged Dragon
+Chapter:52
+Section:1
+Book:1
+CSS:../Styles/style.css
 viewport: width=device-width
-  
+
 ## Purple-winged Dragon
-### Chapter 52 
+### Chapter 52
+
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
-  
 
-  
-  Han Sen found a place that was not so steep and held Doomsday in both hands while watching the fight on the mountain top. Pulling out a Skyfall arrow from his quiver, he shot it at the sacred-blood creature.
+
+Han Sen found a place that was not so steep and held Doomsday in both hands while watching the fight on the mountain top. Pulling out a Skyfall arrow from his quiver, he shot it at the sacred-blood creature.
 
 He barely hurt the sacred-blood creature with his arrows and two were shot at Son of Heaven who was fighting the sacred-blood creature.
 
@@ -67,7 +67,7 @@ Suddenly, an alloy arrow was shot from the slope and disappeared in the creature
 
 Son of Heaven suddenly raged. And everyone else was shocked. In the blink of an eye, the sacred-blood creature had fallen at the foot the mountain and died.
 
-> "Sacred-Blood Creature Purple-Winged Dragon Killed. Sacred-Blood Beast Soul Of Purple-Winged Dragon Gained. Eat The Flesh Of Purple-Winged Dragon To Gain Zero To Ten Sacred-Blood Geno Points Randomly."
+> "Sacred-Blood creature Purple-Winged Dragon killed. Sacred-Blood beast soul of Purple-Winged Dragon gained. Eat the flesh of Purple-Winged Dragon to gain zero to ten Sacred-Blood geno points randomly."
 
 The voice sounded in Han Sen’s mind. Han Sen almost shed tears for happiness. However, he managed to fake disappointment, helplessness and frustration.
 

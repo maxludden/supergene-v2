@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## The Grave of Soldiers and Kings
-### Chapter 2301 
+### Chapter 2301
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen went to meet with Yisha. He told her about the agreement he had made with Bai Wei.
+Han Sen went to meet with Yisha. He told her about the agreement he had made with Bai Wei.
 
 When Yisha heard the details, she said, “It is good that you are going with the Extreme King. If you stayed in Narrow Moon, it is unlikely that you would find enough resources to reach King class. Although I am the ruling queen of Narrow Moon, I cannot plunder all of its resources for the sole purpose of making you a King. You will eventually have to blaze your own trail, and going with the Extreme King isn’t a bad way to start down that path.”
 

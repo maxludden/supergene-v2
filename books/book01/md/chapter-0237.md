@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Queen Restaurant
-### Chapter 237 
+### Chapter 237
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen's roommates all widened their eyes, staring at Huangfu Pingqing who had walked up to Han Sen.
+Han Sen's roommates all widened their eyes, staring at Huangfu Pingqing who had walked up to Han Sen.
 
 "What's the matter?" Asked Han Sen reluctantly.
 

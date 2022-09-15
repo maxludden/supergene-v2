@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Dongxuan Mutation
-### Chapter 1674 
+### Chapter 1674
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Lou Jia waited until Han Yufei was gone, and they were at their most relieved. He reached his hand out to Ji Yanran, hoping to take Littleflower.
+Lou Jia waited until Han Yufei was gone, and they were at their most relieved. He reached his hand out to Ji Yanran, hoping to take Littleflower.
 
 Stay Up Late frowned and wanted to help, but just as he was going to strike, he stopped. There were two scary powers coming out of Ji Yanran.
 

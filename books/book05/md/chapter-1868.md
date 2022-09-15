@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Black Cliff Wish
-### Chapter 1868 
+### Chapter 1868
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The moon itself did not glow. It borrowed the power of the sun to glow. The moon that provided the geno art was the same. Its light was used to light up one’s spirit, and it worked very well.
+The moon itself did not glow. It borrowed the power of the sun to glow. The moon that provided the geno art was the same. Its light was used to light up one’s spirit, and it worked very well.
 
 But it was hard to find light treasure. For now at least, Han Sen did not know of a location in which he could find something like that.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Weird Temple
-### Chapter 3142 
+### Chapter 3142
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The guillotine was an execution device used for carrying out death sentences. In ancient times, some countries used the guillotine to legally execute people. A famous queen was once brought to the guillotine after being sentenced to death.
+The guillotine was an execution device used for carrying out death sentences. In ancient times, some countries used the guillotine to legally execute people. A famous queen was once brought to the guillotine after being sentenced to death.
 
 The guillotine looked like a doorframe. It had a platform at the bottom and a blade above that looked like a gate. When the blade was brought up to the highest point, the prisoner’s head was placed on the platform below. Afterward, the rope holding the blade up was cut. The small gate-like, heavy blade then dropped. No matter how strong someone’s neck was, it was still severed.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Meeting Old People Again
-### Chapter 3348 
+### Chapter 3348
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  To say it was just a small white rat was not right though. Although it was white, it was quite long. It was more like a small weasel.
+To say it was just a small white rat was not right though. Although it was white, it was quite long. It was more like a small weasel.
 
 Han Sen would not be surprised by whatever the creature was. What really surprised Han Sen was that when the little rascal stole his meat to eat, its body possessed wind power. If it did not, it could not have lunged as far as it did.
 

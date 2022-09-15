@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## God Ring
-### Chapter 1539 
+### Chapter 1539
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Goddess smiled and summoned God Ring. It seemed as if she wasn’t playing around.
+Goddess smiled and summoned God Ring. It seemed as if she wasn’t playing around.
 
 Little Jade Lion saw that Goddess really was going to use God Ring to fight the Lionheart Stamp, and when he did, he felt far more secure.
 

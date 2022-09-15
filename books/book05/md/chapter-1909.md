@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Petrify
-### Chapter 1909 
+### Chapter 1909
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen started running out of the lodge. The man might be lying, but it was better to run than risking everything by remaining. If Han Sen was transported to another star system, that’d be pretty bad.
+Han Sen started running out of the lodge. The man might be lying, but it was better to run than risking everything by remaining. If Han Sen was transported to another star system, that’d be pretty bad.
 
 When he made it some distance away, Han Sen turned around to face the man and ask, “What is your name?”
 

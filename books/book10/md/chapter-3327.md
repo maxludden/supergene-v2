@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## White Jade Jing History
-### Chapter 3327 
+### Chapter 3327
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “Black King.” Han Sen suddenly thought of the blue-clothed fairy mentioning someone.
+“Black King.” Han Sen suddenly thought of the blue-clothed fairy mentioning someone.
 
 The blue-clothed fairy coldly said, “If you know, that means you know you will not be dying for no reason. This is all because of what you did. It made the thousand jade fairies of the Black King City unable to be free.”
 

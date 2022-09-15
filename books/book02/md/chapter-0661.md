@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Grey-wolf King
-### Chapter 661 
+### Chapter 661
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Because the wolf king had several hundred thousand lesser wolves, finding the pack's location was not too difficult.
+Because the wolf king had several hundred thousand lesser wolves, finding the pack's location was not too difficult.
 
 Yang Manli delivered the information to Han Sen within a couple of days. The wolf pack was easy to find, but hunting the alpha amidst several hundred thousand other wolves would be a task that required proper strength.
 

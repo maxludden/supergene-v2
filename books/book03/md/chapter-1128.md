@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Uncle Bug
-### Chapter 1128 
+### Chapter 1128
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The man tried his hardest to kill himself, repeatedly. But each and every time, the shadow stopped him. Uncle Bug was crying again, with a face that was full of regret and pain.
+The man tried his hardest to kill himself, repeatedly. But each and every time, the shadow stopped him. Uncle Bug was crying again, with a face that was full of regret and pain.
 
 The man had been savagely injured, but he couldn’t be free and allow himself to die.
 

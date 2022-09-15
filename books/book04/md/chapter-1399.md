@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Entering the Shelter
-### Chapter 1399 
+### Chapter 1399
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen waited at a camp near the shelter for two days, before the expedition was set to begin and they could leave for that enigmatic construct.
+Han Sen waited at a camp near the shelter for two days, before the expedition was set to begin and they could leave for that enigmatic construct.
 
 He was able to see the shelter faintly, from the distance the camp had been established. The entire time they were there, an eerie fog draped the serrated walls and ramparts, pooling over to drown the grounds they stood upon.
 

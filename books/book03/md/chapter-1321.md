@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Biggest Problem
-### Chapter 1321 
+### Chapter 1321
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “Giant God Emperor has come; child of Godslayer Luo, come forth and challenge me!” The spirit’s voice was unbearably loud and frighteningly deep. When he spoke, his voice boomed, and the reverberations rattled one’s chest and shook the land around.
+“Giant God Emperor has come; child of Godslayer Luo, come forth and challenge me!” The spirit’s voice was unbearably loud and frighteningly deep. When he spoke, his voice boomed, and the reverberations rattled one’s chest and shook the land around.
 
 “That’s one big boi!” Han Sen muttered, in half-jest.
 

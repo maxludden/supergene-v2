@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## I’ll Take the Third God’s Sanctuary as a Gift for You
-### Chapter 1228 
+### Chapter 1228
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  After learning Han Sen had recovered, people knew it was only a matter of time before he got to doing something big. This was beyond their wildest dreams, though, and no expected Han Sen to be capable of achieving such a feat.
+After learning Han Sen had recovered, people knew it was only a matter of time before he got to doing something big. This was beyond their wildest dreams, though, and no expected Han Sen to be capable of achieving such a feat.
 
 He had brought down an emperor-class shelter in the Third God’s Sanctuary. Even in the super gene era, no one had believed it to be a remotely possible endeavor.
 

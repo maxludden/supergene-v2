@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Ji Yanran
-### Chapter 119 
+### Chapter 119
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  To enhance team spirit among students, Blackhawk always trained students by room. So the leader of a room would have more say in most things. That was why they were all trying to be the leader.
+To enhance team spirit among students, Blackhawk always trained students by room. So the leader of a room would have more say in most things. That was why they were all trying to be the leader.
 
 "Shi Zhikang, that does not really make sense. Age does not represent anything. I think as a leader, one must be intelligent to gain most benefits for our room. My IQ is 167. How about you? "A gentle and delicate teenager blinked and said.
 

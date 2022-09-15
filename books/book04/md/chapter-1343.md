@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Got a Cow Head
-### Chapter 1343 
+### Chapter 1343
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  It was nighttime, but the glade was brightly lit beneath the gracious glow of the moon. Han Sen witnessed the slayer of the three-horned beast, and he noted how familiar its killer looked.
+It was nighttime, but the glade was brightly lit beneath the gracious glow of the moon. Han Sen witnessed the slayer of the three-horned beast, and he noted how familiar its killer looked.
 
 “No way!” Han Sen saw it was a woman with dragon-scaled skin, draconic horns, and wings. She was wielding a cleaver.
 

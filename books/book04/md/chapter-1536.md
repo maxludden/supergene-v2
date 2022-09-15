@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Secret Skill
-### Chapter 1536 
+### Chapter 1536
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “And what method would that be?” Everyone turned to look at Six Paths. Little Fairy was the one who asked, desperate for a solution.
+“And what method would that be?” Everyone turned to look at Six Paths. Little Fairy was the one who asked, desperate for a solution.
 
 Six Paths said quietly, “The Space-Vortex Shield means there is a dimension beyond it. No matter how strong we are, we will be sucked inside. That is, unless we have the necessary power to break through space. If we don’t have that power, we can’t break through the barrier.”
 

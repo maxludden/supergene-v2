@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Giving Up Victory
-### Chapter 1056 
+### Chapter 1056
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  What Han Sen had just performed was not exactly like Bai Yishan’s Yin Yang Blast. It was a modified variant which employed twists Han Sen had decided to incorporate himself. One new component was a simulation of Bao’er’s energy flow.
+What Han Sen had just performed was not exactly like Bai Yishan’s Yin Yang Blast. It was a modified variant which employed twists Han Sen had decided to incorporate himself. One new component was a simulation of Bao’er’s energy flow.
 
 Yu Tuoshan’s punch was supposed to hold the power of a bulldozer, which should have annihilated his opponent. And in essence, it was. Through a simulation of Bao’er’s energy, Han Sen was able to absorb all of the strength the shura had put into his strike and reverse it. It was very promptly returned to the sender.
 

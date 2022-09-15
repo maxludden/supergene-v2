@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Pick for Us
-### Chapter 2541 
+### Chapter 2541
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen was frozen as he watched Elysian Moon and Gu Qingcheng’s bodies becoming one. The process was pretty much like how Han Sen could combine himself with Little Angel.
+Han Sen was frozen as he watched Elysian Moon and Gu Qingcheng’s bodies becoming one. The process was pretty much like how Han Sen could combine himself with Little Angel.
 
 But when Han Sen combined with Little Angel, Han Sen’s body was the primary controller. Little Angel was secondary.
 

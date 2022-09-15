@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Road to the Sky
-### Chapter 1963 
+### Chapter 1963
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “Strange. All the gourds showed a reaction, but they didn’t give out a holy aura. This is really strange.” Inside a building, a man of the Sky race frowned as he looked upon Han Sen traversing the Sky Road. He was in deep thought.
+“Strange. All the gourds showed a reaction, but they didn’t give out a holy aura. This is really strange.” Inside a building, a man of the Sky race frowned as he looked upon Han Sen traversing the Sky Road. He was in deep thought.
 
 Everyone in Sky Palace showed a similar expression. They had never seen a holy gourd react that way, and so no one knew what it meant.
 

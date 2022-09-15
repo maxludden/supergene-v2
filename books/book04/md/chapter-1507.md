@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Mystic Power Returns
-### Chapter 1507 
+### Chapter 1507
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “I’m not going. I still haven’t announced the fact that I’m not dead, and I don’t want people to see me before I do,” Han Sen said after thinking for a minute.
+“I’m not going. I still haven’t announced the fact that I’m not dead, and I don’t want people to see me before I do,” Han Sen said after thinking for a minute.
 
 Wang Yuhang smiled. “What is there to be afraid of? It’s been ten years. Aside from close friends, no one will really remember you. Perhaps they might remember your name as the one who was a super aristocrat, but they might have forgotten what you look like.”
 

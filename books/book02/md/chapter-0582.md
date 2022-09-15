@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## The Final Strike
-### Chapter 582 
+### Chapter 582
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Ten steps... Twenty steps... Thirty steps... Everyone could calculate that the distance between Yi Dongmu and Han Sen was about fifty steps. If Han Sen still did not strike, then Yi Dongmu would be right in front of him in about fifty more steps.
+Ten steps... Twenty steps... Thirty steps... Everyone could calculate that the distance between Yi Dongmu and Han Sen was about fifty steps. If Han Sen still did not strike, then Yi Dongmu would be right in front of him in about fifty more steps.
 
 Yi Dongmu had only walked thirty steps, yet his momentum had already risen a great deal. It was as if he had been possessed by a god. With every step, his momentum increased.
 

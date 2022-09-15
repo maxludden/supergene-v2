@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Xenogeneic Material
-### Chapter 1726 
+### Chapter 1726
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Now Han Sen understood why Qiao had bought him. With that dagger, you could kill xenogeneics even if you weren’t a Noble.
+Now Han Sen understood why Qiao had bought him. With that dagger, you could kill xenogeneics even if you weren’t a Noble.
 
 Still, it wouldn’t work if given to the average soldier. They lacked the speed and physical prowess to match a xenogeneic, and they would likely end up killed before ever getting a chance to use the weapon.
 

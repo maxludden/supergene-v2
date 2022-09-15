@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Charm
-### Chapter 2623 
+### Chapter 2623
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “Woman, what are you doing?” The Liu Widow was leaning down to kiss him, so Han Sen used his hands to stop the descent of her lips.
+“Woman, what are you doing?” The Liu Widow was leaning down to kiss him, so Han Sen used his hands to stop the descent of her lips.
 
 “I want you… Don’t you want the Liu family’s treasure? If you can love me like I want you to, I will give you anything you want.” Liu Widow was staring at him like a wolf in heat.
 

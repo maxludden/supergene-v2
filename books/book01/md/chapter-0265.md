@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Long Live the Emperor
-### Chapter 265 
+### Chapter 265
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  If you are the emperor
+If you are the emperor
 
 Let me crown you
 

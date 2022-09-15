@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Making Something Complicated Something Simple
-### Chapter 1531 
+### Chapter 1531
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “God’s Retribution is here?” Han Sen looked surprised as he watched the human fighting Six Paths.
+“God’s Retribution is here?” Han Sen looked surprised as he watched the human fighting Six Paths.
 
 God’s Retribution wasn’t using a weapon; he simply used his body to fight. He didn’t seem to be at a disadvantage, either. His body was stronger than Shafei’s, who was a fourth rank shura fighter. And up against Six Paths, he wasn’t breaking a sweat.
 

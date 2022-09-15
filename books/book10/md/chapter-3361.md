@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Question
-### Chapter 3361 
+### Chapter 3361
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “My poor Bao’er. She does not even get to see her birth mother.” Han Sen sighed. He remained waiting in hiding, watching what was going on outside the hole.
+“My poor Bao’er. She does not even get to see her birth mother.” Han Sen sighed. He remained waiting in hiding, watching what was going on outside the hole.
 
 Han Sen did not know what items the God Chaos Party Leader had left behind. He did not know what any of them were for. Judging from the faces of Bury Path God and Ancient Devil, he knew they had to be something special.
 

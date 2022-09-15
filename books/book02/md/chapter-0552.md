@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Killing the Boss Amidst a Thousand Soldiers
-### Chapter 552 
+### Chapter 552
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen was in the air, and had raised his feet as if to tread invisible stairs. His body that had looked set to descend began rising up once more, and like an airborne projectile, he was homing in on Blackgod once more.
+Han Sen was in the air, and had raised his feet as if to tread invisible stairs. His body that had looked set to descend began rising up once more, and like an airborne projectile, he was homing in on Blackgod once more.
 
 Everyone was astounded. The ability to obtain power from the air and enable a person to leap again was extraordinary. People didn't believe their eyes.
 

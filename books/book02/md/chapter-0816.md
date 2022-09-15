@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Holy Spirit
-### Chapter 816 
+### Chapter 816
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  "I am me; I that swallowed the seed of the Holy Empty. I was reborn. My genes advanced and took me to the Third God's Sanctuary but now... I do not know if I am truly myself." The female voice sounded heavy and solemn.
+"I am me; I that swallowed the seed of the Holy Empty. I was reborn. My genes advanced and took me to the Third God's Sanctuary but now... I do not know if I am truly myself." The female voice sounded heavy and solemn.
 
 Han Sen's heart leapt at the words, and he asked, "Are you the same as these super creatures?"
 

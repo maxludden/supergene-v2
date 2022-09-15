@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Blow Blood
-### Chapter 1582 
+### Chapter 1582
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen frowned, and a three-foot-long pipe that looked like it was made of grey stone showed up in his hands.
+Han Sen frowned, and a three-foot-long pipe that looked like it was made of grey stone showed up in his hands.
 
 That stone pipe was a geno core called Blow Blood that Han Sen had obtained from Ghost Eye. He had been using his geno core Real Blood to break its restrictions, so both geno cores had been sitting unused in his Sea of Soul.
 

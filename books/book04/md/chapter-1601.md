@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Three Fruit
-### Chapter 1601 
+### Chapter 1601
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen tried a lot of things, but he still couldn’t get the crystal shoe off his foot. That shoe seemed to have been permanently attached to him, and he couldn’t even get the thing to wiggle.
+Han Sen tried a lot of things, but he still couldn’t get the crystal shoe off his foot. That shoe seemed to have been permanently attached to him, and he couldn’t even get the thing to wiggle.
 
 After a short while, a sand mouse managed to cross the entire fluorescent lake and reached the island.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Kingese
-### Chapter 2337 
+### Chapter 2337
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Seeing Bai Qing Xia striking with his palm, Han Sen unleashed another Shocking Sky Punch.
+Seeing Bai Qing Xia striking with his palm, Han Sen unleashed another Shocking Sky Punch.
 
 He would have liked to use other techniques, but he had only just started using his Bai Yi disguise. He hadn’t yet had the time to learn any other skills. He had been lucky to learn this punch from the Extreme King alpha’s statue, but using other skills might expose him.
 

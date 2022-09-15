@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Traitor of the Destroyed
-### Chapter 2173 
+### Chapter 2173
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The tadpoles bathed in the glow of the moonlight, happily absorbing every ounce of the light they were receiving from the moon.
+The tadpoles bathed in the glow of the moonlight, happily absorbing every ounce of the light they were receiving from the moon.
 
 Now, Han Sen understood how the guardian benefitted. When the deified toad spat out moons, everything would freeze. Even the light stilled. The creatures and people around would not know what was occurring, save for the guardian with the tablet for protection. Only the guardian would witness the moons and share the moonlight.
 

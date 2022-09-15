@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Spinning Spear
-### Chapter 242 
+### Chapter 242
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen did not find anything peculiar about the lake, which was quite shallow.
+Han Sen did not find anything peculiar about the lake, which was quite shallow.
 
 There were a lot of grass growing in the water and around the lake. Otherwise, there was nothing special about it.
 

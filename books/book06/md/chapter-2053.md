@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Path
-### Chapter 2053 
+### Chapter 2053
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The shura queen walked to the altar and stood before the shura coffin. After bowing sincerely before it, she drew a dagger and stabbed at the head of the coffin.
+The shura queen walked to the altar and stood before the shura coffin. After bowing sincerely before it, she drew a dagger and stabbed at the head of the coffin.
 
 The dagger was purple, and it had been forged from a strange material. It sort of looked like her horns, but it was darker, and it looked heavier.
 

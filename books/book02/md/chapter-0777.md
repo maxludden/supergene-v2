@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Blind Man
-### Chapter 777 
+### Chapter 777
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Brother Blind's namesake was not derived from any blight of blindness. In fact, his vision far exceeded the capabilities of most.
+Brother Blind's namesake was not derived from any blight of blindness. In fact, his vision far exceeded the capabilities of most.
 
 He was called Brother Blind, however, because of how much he sought money. As long as there was money on offer, he'd take whatever job or task he could. He would commit any sordid deed, even murder, due to his blindness in the presence of money.
 

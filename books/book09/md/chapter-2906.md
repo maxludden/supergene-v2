@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Going to the God Area Again
-### Chapter 2906 
+### Chapter 2906
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  After Wan’er appeared, the crystal light around him stopped. Under her gold light, the big crystal egg was like ice meeting the sun. It melted quickly.
+After Wan’er appeared, the crystal light around him stopped. Under her gold light, the big crystal egg was like ice meeting the sun. It melted quickly.
 
 It was not just the big crystal egg melting. Even the blonde-haired lady, who looked very similar to Wan’er, was melting. Her body, which had once been like a statue, became soft and started to melt. In the end, she melted into a liquid. She went into the bottom of the mountain and the crystal wheel.
 

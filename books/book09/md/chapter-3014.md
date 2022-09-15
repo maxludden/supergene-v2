@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## A Lead on Sacred Leader
-### Chapter 3014 
+### Chapter 3014
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “Of course, this is right.” After one hour, Han Yufei looked very excited. She stared at the data board with an enthralled glow. Han Sen was depressed, so he asked, “What is the situation now? Is there a way to take the blue blood power out of my body?”
+“Of course, this is right.” After one hour, Han Yufei looked very excited. She stared at the data board with an enthralled glow. Han Sen was depressed, so he asked, “What is the situation now? Is there a way to take the blue blood power out of my body?”
 
 “Answer a few of my questions first.” Han Yufei did not wait for Han Sen to agree. She immediately asked, “You come from the sanctuaries, right?”
 

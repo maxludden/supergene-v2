@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Meeting Wan'er
-### Chapter 3295 
+### Chapter 3295
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  He did not find anything weird on him, so Han Sen chose to ignore it. He was trying to remember The Story of Genes.
+He did not find anything weird on him, so Han Sen chose to ignore it. He was trying to remember The Story of Genes.
 
 In the past, Han Sen relied solely on his own power until he remembered everything that man had said. It was like he had copied and pasted the words into his mind. He did not really research the meaning behind his words though.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Through Hell
-### Chapter 263 
+### Chapter 263
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  "You think you could dodge Jing Jiwu's arrow unintentionally? Even at 900 feet, I'll bet you could not," replied Qin Cheng quietly.
+"You think you could dodge Jing Jiwu's arrow unintentionally? Even at 900 feet, I'll bet you could not," replied Qin Cheng quietly.
 
 "This Han Sen is really somebody. Can Jing Jiwu still win?" exclaimed the team member.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Judgment
-### Chapter 193 
+### Chapter 193
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Ouyang Xiaosan was not shaken by Han Sen's words. staring at Han Sen, he was making his judgment based on his ability and experience.
+Ouyang Xiaosan was not shaken by Han Sen's words. staring at Han Sen, he was making his judgment based on his ability and experience.
 
 There was no doubt that this was a white fist. Ouyang Xiaosan thought it was simply impossible to be a black fist.
 

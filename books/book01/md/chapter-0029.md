@@ -1,19 +1,20 @@
-Title:Stormbird 
-Chapter:29 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+Title:Stormbird
+Chapter:29
+Section:1
+Book:1
+CSS:../Styles/style.css
 viewport: width=device-width
-  
+
 ## Stormbird
-### Chapter 29 
+### Chapter 29
+
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
-  
 
-  
-  "Sen, you are so fit! You must have maxed out on mutant geno points. " Lin Beifeng stopped climbing as he felt his arms hurting too much, while Han Sen was still climbing briskly.
+
+
+"Sen, you are so fit! You must have maxed out on mutant geno points. " Lin Beifeng stopped climbing as he felt his arms hurting too much, while Han Sen was still climbing briskly.
 
 "Hang in there. There is a rock sticking out up there, and we can go there and rest." Han Sen looked down at Lin Beifeng.
 
@@ -55,7 +56,7 @@ After some hesitation, Han Sen approached the egg and cut a hole in the egg shel
 
 Suddenly the sweet juice filled Han Sen’s mouth.
 
-> "Sacred-blood Creature Stormbird’s Egg Eaten. No Sacred Geno Point Gained."
+> "Sacred-blood Creature Stormbird’s egg eaten. No sacred geno point gained."
 
 Although no sacred-blood geno point was gained, the fact that the egg was indeed a sacred-blood creature left Han Sen in joy.
 

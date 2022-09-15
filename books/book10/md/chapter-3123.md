@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Break World Power
-### Chapter 3123 
+### Chapter 3123
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen told her about Qin Xiu wanting to break the geno hall and that he had fought him.
+Han Sen told her about Qin Xiu wanting to break the geno hall and that he had fought him.
 
 Night God No Moon was shocked after hearing the story. She checked him out in greater detail. After a while, she said, “Having evolved to that level, World King God was beaten by you? Your body and power are weird.”
 

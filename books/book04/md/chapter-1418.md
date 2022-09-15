@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## The Spirits Return
-### Chapter 1418 
+### Chapter 1418
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Real Blood Geno Core reached first place and created a big fuss across the Fourth God’s Sanctuary.
+Real Blood Geno Core reached first place and created a big fuss across the Fourth God’s Sanctuary.
 
 “What’s going on recently? Another geno core has jumped to first place? Who could create a geno core that scary?”
 

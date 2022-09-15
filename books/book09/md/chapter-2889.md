@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Every God Helps the Buddha
-### Chapter 2889 
+### Chapter 2889
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “Destroyed Leader!” Han Sen recognized him and frowned.
+“Destroyed Leader!” Han Sen recognized him and frowned.
 
 Destroyed Leader was a true god class elite. His power was very great. He was No. 13 on the geno god list.
 

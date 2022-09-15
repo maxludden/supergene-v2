@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Activate Potential
-### Chapter 2818 
+### Chapter 2818
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen was holding the skull head. The eye sockets fired out two beams of green light. It was a shame that when they touched the Cold Light Charm's pink beams of light, the green light was destroyed. It was not on the same level of power.
+Han Sen was holding the skull head. The eye sockets fired out two beams of green light. It was a shame that when they touched the Cold Light Charm's pink beams of light, the green light was destroyed. It was not on the same level of power.
 
 Han Sen's face did not change. He expected that the Yin Head Ghost beast soul's power would be insufficient. Almost at the exact moment, the green light was destroyed, Han Sen activated his Sky Star Wolf glyph's power.
 

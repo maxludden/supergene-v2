@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Doll
-### Chapter 2912 
+### Chapter 2912
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The big barren systems. That place was like a heaven for those in search of high-level xenogeneics. There were all kinds of deified xenogeneics, but all of them seemed to be in a perpetual rage. Therefore, it was a dangerous place to venture.
+The big barren systems. That place was like a heaven for those in search of high-level xenogeneics. There were all kinds of deified xenogeneics, but all of them seemed to be in a perpetual rage. Therefore, it was a dangerous place to venture.
 
 With Han Sen’s current power, there was no need to worry too much about it.
 

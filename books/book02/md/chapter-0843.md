@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Angel Gene Fluid
-### Chapter 843 
+### Chapter 843
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  It would take a long time for the Jade-Gold Tree to mature, so there was no rush right now. Han Sen examined the pills he had won, and taking one of each, he lined them up before the silver fox and his other pets to see if they were interested.
+It would take a long time for the Jade-Gold Tree to mature, so there was no rush right now. Han Sen examined the pills he had won, and taking one of each, he lined them up before the silver fox and his other pets to see if they were interested.
 
 When the fairy saw the medicine, one in particular caught her eye. But just as she was about to grab it, the silver fox gobbled it up.
 

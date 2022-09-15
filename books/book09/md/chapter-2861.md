@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## God Spirit Landing
-### Chapter 2861 
+### Chapter 2861
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Deep Abyss Knight was a xenogeneic. He had an armored knight upper body and the lower body of an octopus. Many black, metal tentacles wriggled around his lower body. It was like he had a weird shadow. Even the space around him was twisted.
+Deep Abyss Knight was a xenogeneic. He had an armored knight upper body and the lower body of an octopus. Many black, metal tentacles wriggled around his lower body. It was like he had a weird shadow. Even the space around him was twisted.
 
 Han Sen had watched the Deep Abyss Knight fight before. He knew that the Deep Abyss Knight was a dark element xenogeneic. He could release very strong and corrosive dark powers. His defensive attributes were very high. If a xenogeneic of the same level attacked his armor, one would be able to break it.
 

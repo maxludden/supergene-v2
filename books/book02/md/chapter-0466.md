@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Parasite Crystal
-### Chapter 466 
+### Chapter 466
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  "Li!" Seeing the warframe of Li Lu was shot down, the two soldiers shot at the red crystal warframes madly using laser guns.
+"Li!" Seeing the warframe of Li Lu was shot down, the two soldiers shot at the red crystal warframes madly using laser guns.
 
 "Come inside. Quickly," Ji Yanran exclaimed at the two soldiers, but it was too late.
 

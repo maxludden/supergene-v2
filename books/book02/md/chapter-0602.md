@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Maelstrom
-### Chapter 602 
+### Chapter 602
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  As they neared the island, they espied three people standing on the shoreline. Two men and a woman, each clad in beast soul armor. They looked refined and elegant, and it was plain to see that these were not ordinary evolvers.
+As they neared the island, they espied three people standing on the shoreline. Two men and a woman, each clad in beast soul armor. They looked refined and elegant, and it was plain to see that these were not ordinary evolvers.
 
 "Big Sis, what took you so long?" the woman yelled from afar.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Evil Spirit Spring
-### Chapter 3041 
+### Chapter 3041
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen went before the slope of the mountain. He lifted his fist and prepared to punch the slope. Mister Yang quickly ran ahead to stop him. “Mister! Don’t do that. Before the gene egg hatches, it is very weak. You cannot apply much force to it. If it is broken, the gene inside will be useless.”
+Han Sen went before the slope of the mountain. He lifted his fist and prepared to punch the slope. Mister Yang quickly ran ahead to stop him. “Mister! Don’t do that. Before the gene egg hatches, it is very weak. You cannot apply much force to it. If it is broken, the gene inside will be useless.”
 
 Han Sen pulled his fist back. He looked at Mister Yang and asked, “How do I dig up the gene egg?”
 

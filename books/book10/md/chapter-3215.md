@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Drawing the Disaster to the East
-### Chapter 3215 
+### Chapter 3215
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The Super God Spirit mode and Wan’er’s power were like water and fire. Water could put out fire, and fire could burn water. If there was the same amount, they would put each other out. It was like when Han Sen and Wan’er were together, their powers were suppressed.
+The Super God Spirit mode and Wan’er’s power were like water and fire. Water could put out fire, and fire could burn water. If there was the same amount, they would put each other out. It was like when Han Sen and Wan’er were together, their powers were suppressed.
 
 After two Wan’ers combined into one, her power exploded. She was much better than Han Sen with his Super God Spirit mode. That was why the scales were now tipped.
 

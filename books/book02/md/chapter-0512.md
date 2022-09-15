@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Sullen Tang Zhenliu
-### Chapter 512 
+### Chapter 512
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Qin Xuan was overjoyed, thinking Han Sen was trying to teach her. She did not save any energy and cut at Han Sen with Thunder Knife at full speed.
+Qin Xuan was overjoyed, thinking Han Sen was trying to teach her. She did not save any energy and cut at Han Sen with Thunder Knife at full speed.
 
 Han Sen had been practicing Thunder Knife as well recently, so he was quite familiar with the skill. When Qin Xuan just raised her hand, before the skill was launched, she felt she had to stop.
 

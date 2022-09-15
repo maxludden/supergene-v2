@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Crape Myrtle's Backstory
-### Chapter 3432 
+### Chapter 3432
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Figuring out that Han Sen’s body had a few issues was not difficult. Being able to trick his body and also injure him to a desperate point without the power in his body activating was something, by all accounts, scary.
+Figuring out that Han Sen’s body had a few issues was not difficult. Being able to trick his body and also injure him to a desperate point without the power in his body activating was something, by all accounts, scary.
 
 Fortunately, without exploding power, Han Sen had a scary body strength. Ten million starlights came down on him but only left a small red mark on his skin.
 

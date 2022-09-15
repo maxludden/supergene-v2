@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## No One Can Stop
-### Chapter 3218 
+### Chapter 3218
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  After Shadow God was killed, the city streets, aircraft, humans, and everything else was gone. The third sky was suddenly turned into a land of ash. It was now the remnants of a former well-developed human area. Everywhere one looked was now just a land of cracks and streams of lava. One could sometimes see volcanos exploding far away. The volcanic dust was everywhere. The sky was dark, but there were no clouds. It was the dust that the erupting volcanos kicked up.
+After Shadow God was killed, the city streets, aircraft, humans, and everything else was gone. The third sky was suddenly turned into a land of ash. It was now the remnants of a former well-developed human area. Everywhere one looked was now just a land of cracks and streams of lava. One could sometimes see volcanos exploding far away. The volcanic dust was everywhere. The sky was dark, but there were no clouds. It was the dust that the erupting volcanos kicked up.
 
 The land looked like doomsday had happened. Han Sen scanned the area around him until he spotted a god temple. The god temple was made of a mirror. It looked like a maze made of mirrors.
 
@@ -29,9 +30,7 @@ The Blood-Pulse Sutra and Xuan Yellow Sutra were running at the same time. The t
 
 Boom!
 
-Han Sen’s Break World power struck the Shadow God Temple, but the Shadow God Temple did not break like he expected it would. He saw a red Break World power strike the Shadow God Temple, which was like a god temple reflecting a thousand other god temples in the mirage. Han Sen realized he had almost hit himself with the Break World
-
-power.
+Han Sen’s Break World power struck the Shadow God Temple, but the Shadow God Temple did not break like he expected it would. He saw a red Break World power strike the Shadow God Temple, which was like a god temple reflecting a thousand other god temples in the mirage. Han Sen realized he had almost hit himself with the Break World power.
 
 Fortunately, the reaction time of his body was extraordinarily quick. He managed to avoid his own punch. The Shadow God Temple reflected the Break World power back at Wan’er, who was swiftly on her way. Wan’er just waved her hand to break it.
 
@@ -61,7 +60,7 @@ Katcha!
 
 Han Sen cut open the Shadow God Temple, which was already in the middle of breaking. The temple shattered. Han Sen cut the god altar in half.
 
-“Destroyed Annihilation-class god temple. Found Annihilation-class god base.”
+> “Destroyed Annihilation-class god temple. Found Annihilation-class god base.”
 
 Han Sen saw that the broken god altar had a god base. He quickly grabbed it and teleported away. The entire process was so smooth that it was like water. It was clean and quick. It did not drag like mud. It was like he had practiced this a million times.
 
@@ -75,9 +74,7 @@ Han Sen saw that the broken god altar had a god base. He quickly grabbed it and 
 
 Han Sen did not think poorly of his behavior. He was thinking, “I destroyed Shadow God Temple. I did not get the notification for killing Shadow God though. That means Shadow God did not revive inside Shadow God Temple. I wonder if it was just the god temple being too slow to revive him or Wan’er’s power being able to kill God Spirits for good.”
 
-There was no time for Han Sen to dwell on such riddles. Wan’er was still close behind, and she was not slowing down. Han Sen used what he had at his disposal. Even still, it was proving insufficient to ditch her. He felt depressed and thought, “Why is Wan’er continuing to chase me? Is it because I am too handsome? Am I too attractive? Otherwise, why would she not go after the Qin family instead? Why does she insist on coming after
-
-me?”
+There was no time for Han Sen to dwell on such riddles. Wan’er was still close behind, and she was not slowing down. Han Sen used what he had at his disposal. Even still, it was proving insufficient to ditch her. He felt depressed and thought, “Why is Wan’er continuing to chase me? Is it because I am too handsome? Am I too attractive? Otherwise, why would she not go after the Qin family instead? Why does she insist on coming after me?”
 
 Now that he thought about it some more, Han Sen’s heart jumped. “It cannot be because of my Super God Spirit mode, can it? My Super God Spirit mode goes against her power. Maybe she is sub-consciously wanting to destroy anything that might one day pose a threat to her? Is that why she is so committed to destroying me?”
 

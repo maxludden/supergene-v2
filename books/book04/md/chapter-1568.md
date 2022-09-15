@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Broken Swordmind
-### Chapter 1568 
+### Chapter 1568
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The endless swordmind kept rushing against Han Sen’s will, and even Han Sen found it difficult to withstand. He felt as if he was falling into an abyss, where hope and lifeforces were gone forever.
+The endless swordmind kept rushing against Han Sen’s will, and even Han Sen found it difficult to withstand. He felt as if he was falling into an abyss, where hope and lifeforces were gone forever.
 
 If others were in his shoes, their wills would have broken. They would have given up. But Han Sen did not know what giving up meant. Beneath that pressure, his mind was still as hard as brushed steel, and he clung to the small amount of faith he had.
 

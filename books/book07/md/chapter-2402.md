@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## God’s Wish
-### Chapter 2402 
+### Chapter 2402
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen’s heart jumped. He didn’t mind hearing about deifieds, but he really did mind hearing the word “God.”
+Han Sen’s heart jumped. He didn’t mind hearing about deifieds, but he really did mind hearing the word “God.”
 
 This sensitivity came from his time in the sanctuaries. Since he first entered the sanctuaries, he had come to despise the word “God.” Even hearing it would put him in a bad mood for a long time.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Consume Skill
-### Chapter 1950 
+### Chapter 1950
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “Han Sen! I’ve brought harm down on you. I cannot believe the Buddha had an ulterior motive for inviting me there.” Back on the ship, Yisha placed the ant down on the table and sighed.
+“Han Sen! I’ve brought harm down on you. I cannot believe the Buddha had an ulterior motive for inviting me there.” Back on the ship, Yisha placed the ant down on the table and sighed.
 
 Han Sen wished to speak, but he could not. He had become an ant, and he could no longer use any geno arts. He really was like a normal ant.
 

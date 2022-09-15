@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Simulating Crystal
-### Chapter 464 
+### Chapter 464
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen did not know what was wrong with the nine-life cat or why it would suddenly react so strangely. However, undoubtedly, the change was definitely related to the Crystallizer ruin. However, Han Sen did not know what the connection between the nine-life cat and the Crystallizer ruin was.
+Han Sen did not know what was wrong with the nine-life cat or why it would suddenly react so strangely. However, undoubtedly, the change was definitely related to the Crystallizer ruin. However, Han Sen did not know what the connection between the nine-life cat and the Crystallizer ruin was.
 
 Daphne landed on the Crystallizer ruin and made a comprehensive scan and analysis of the planet. Same to other Crystallizer ruins, only the surface of the planet could be scanned by human equipment. The inner space of the Crystallizer architectures was unknown to people. The analysis of air and water showed the planet was normal, habitable according to human standards. Other Crystallizer ruins were mostly the same, so nothing was special about this one.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Pet Battle
-### Chapter 834 
+### Chapter 834
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Back in the Alliance, Han Sen made plans to go on Skynet and see if anyone had encountered any super creatures that would be viable for him to fight. With this information, he could return to the sanctuary and slay them. If he kept doing this, he believed he'd max out his super geno points in no time.
+Back in the Alliance, Han Sen made plans to go on Skynet and see if anyone had encountered any super creatures that would be viable for him to fight. With this information, he could return to the sanctuary and slay them. If he kept doing this, he believed he'd max out his super geno points in no time.
 
 But before he concluded his research, he received a message from Huangfu Pingqing, who he hadn't seen in a long time. She wanted Han Sen's advice picking a beast soul in the virtual community.
 

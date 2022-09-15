@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Crystallizer Survivor
-### Chapter 1698 
+### Chapter 1698
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Yufei’s expression looked dire. The gap between their strengths was too wide to cover. If Rudy and the others used geno armor that originally belonged to others, Han Yufei reckoned he could make battle with them. He could possibly kill them, too.
+Han Yufei’s expression looked dire. The gap between their strengths was too wide to cover. If Rudy and the others used geno armor that originally belonged to others, Han Yufei reckoned he could make battle with them. He could possibly kill them, too.
 
 But someone who had generated their own self-geno armor was in another league entirely.
 

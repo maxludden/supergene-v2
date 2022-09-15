@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Someone Comes to Visit
-### Chapter 1661 
+### Chapter 1661
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  After a few days, many creatures and spirits had come to harass the shelter. There hadn’t yet been any elites, though.
+After a few days, many creatures and spirits had come to harass the shelter. There hadn’t yet been any elites, though.
 
 Still, with Ancient Sky Mirror there, Han Sen didn’t lose much. The place did not have the power of Moon Spring, but Ancient Sky Mirror had many super elites inside it. When the mirror started to lose energy, Han Sen could refine the souls inside for nourishment. As a result, there was no need for concern with the mirror’s energy.
 

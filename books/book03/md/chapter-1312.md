@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Fighting With Full Power
-### Chapter 1312 
+### Chapter 1312
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Gold General landed in front of Xie Qing King’s battered and bloodied body. With each step, cracks formed on the ground, as an extra to his intimidating approach.
+Gold General landed in front of Xie Qing King’s battered and bloodied body. With each step, cracks formed on the ground, as an extra to his intimidating approach.
 
 “Yes.” Gold General laughed and threw a wretched punch towards Xie Qing King.
 

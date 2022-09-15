@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## A Shocking Discovery in the Alliance
-### Chapter 649 
+### Chapter 649
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Unfortunately for Han Sen, it was a common occurrence that what he was most afraid of was exactly what he'd end up suffering. Han Sen began climbing the mountain, and his greatest fear was realized; Wang Yuhang was also there, killing monsters.
+Unfortunately for Han Sen, it was a common occurrence that what he was most afraid of was exactly what he'd end up suffering. Han Sen began climbing the mountain, and his greatest fear was realized; Wang Yuhang was also there, killing monsters.
 
 When Wang Yuhang saw Han Sen, he was delightfully surprised. He finished off the creature he was engaged in combat with and enthusiastically ran towards Han Sen. He asked aloud, "Brother Han, have you come looking for me?"
 

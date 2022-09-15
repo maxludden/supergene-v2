@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Black Crystal Stone
-### Chapter 3056 
+### Chapter 3056
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  In the symbols etched into the wall, Han Sen saw something with which he was very familiar.
+In the symbols etched into the wall, Han Sen saw something with which he was very familiar.
 
 The carved symbol was in the shape of an egg. It looked like a pigeon egg with a thousand stars floating inside it. It looked like a small universe that existed within.
 

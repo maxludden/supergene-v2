@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## You Deserve It
-### Chapter 1026 
+### Chapter 1026
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  When the shadow arrived, it felt as if the entire expanse had been veiled with a cloak of darkness.
+When the shadow arrived, it felt as if the entire expanse had been veiled with a cloak of darkness.
 
 The creature was a fox. It was different than the silver fox, not only in that its coat was black, but it had a look of murder in its eyes. It was evil.
 

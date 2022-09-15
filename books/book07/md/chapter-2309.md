@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Phantom Ghost King Body
-### Chapter 2309 
+### Chapter 2309
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Bai Canglang took his four guards with him as he marched away. He turned hard eyes on Red Sleeve and said, “Who told you that you could cast a deadly attack on Han Sen?”
+Bai Canglang took his four guards with him as he marched away. He turned hard eyes on Red Sleeve and said, “Who told you that you could cast a deadly attack on Han Sen?”
 
 “Maybe we can overlook the fact that Knife Queen rejected your offer, but for that Duke to disobey your wishes? I just wanted to make an example of what can happen to anyone who dares to cross you,” Red Sleeve said as she lowered her head.
 

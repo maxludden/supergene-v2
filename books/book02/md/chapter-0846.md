@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Little Fox Master
-### Chapter 846 
+### Chapter 846
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Roar!
+Roar!
 
 The minotaur was electrified. Its fur and bushy mane stood up on ends, starched. Not wasting a second, Han Sen followed up with a cruel smack to its head.
 

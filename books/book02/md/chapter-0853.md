@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Golden Chests Mature
-### Chapter 853 
+### Chapter 853
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  "Is it going to hatch?" Han Sen wondered as he fingered the gourd. At this strange moment, the gourd was having some sort of reaction; whether that was good or bad had yet to be determined.
+"Is it going to hatch?" Han Sen wondered as he fingered the gourd. At this strange moment, the gourd was having some sort of reaction; whether that was good or bad had yet to be determined.
 
 If a super creature did end up jumping out of the gourd, there was no certainty over its allegiance. Only after it emerged would it become apparent whether it was a friend or foe.
 

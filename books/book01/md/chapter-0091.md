@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Steel Armor Championship
-### Chapter 91 
+### Chapter 91
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  On the day of the final match between Dollar and Qin Xuan, the stands were packed with at least a dozen hundred thousand audience. Even many of those who didn’t register came.
+On the day of the final match between Dollar and Qin Xuan, the stands were packed with at least a dozen hundred thousand audience. Even many of those who didn’t register came.
 
 In addition to it being the final match, it was popular also thanks to the fame of Dollar and Qin Xuan.
 

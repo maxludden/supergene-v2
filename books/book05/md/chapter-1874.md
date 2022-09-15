@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Gana’s Destruction
-### Chapter 1874 
+### Chapter 1874
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen carried Guna back to the ship and secured a spot for Meng’er.
+Han Sen carried Guna back to the ship and secured a spot for Meng’er.
 
 Han Sen had thought Icebird Duke would be able to collect some Nobles during his absence, even if they were merely Barons. Things hadn’t turned out quite as he’d expected them to, though.
 

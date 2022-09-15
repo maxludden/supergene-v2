@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Magic
-### Chapter 1933 
+### Chapter 1933
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Moon Wheel King was right. Han Sen’s Moon only had thirty percent of his own gentle power, and that was because Han Sen’s Dongxuan Sutra had only been able to simulate thirty percent.
+Moon Wheel King was right. Han Sen’s Moon only had thirty percent of his own gentle power, and that was because Han Sen’s Dongxuan Sutra had only been able to simulate thirty percent.
 
 Han Sen’s Dongxuan Sutra was still at a low level, though, so he was still pleased that he had managed to simulate thirty percent. If his Dongxuan Sutra ascended, it would not be difficult to increase that percentage.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Lone Bamboo
-### Chapter 1985 
+### Chapter 1985
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “Why would this happen? Why would Lone Bamboo take part in the exam? He doesn’t need to.” Yu Jing did not understand how he could be so unlucky. If it was any other Earl student, he believed Han Sen stood a firm chance. He would have had a high probability of winning.
+“Why would this happen? Why would Lone Bamboo take part in the exam? He doesn’t need to.” Yu Jing did not understand how he could be so unlucky. If it was any other Earl student, he believed Han Sen stood a firm chance. He would have had a high probability of winning.
 
 But Lone Bamboo made Yu Jing feel powerless and hopeless.
 

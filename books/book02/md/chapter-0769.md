@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## You Are Mine
-### Chapter 769 
+### Chapter 769
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  "Will you follow me along the path of evolution?" the man said with a cold tone of voice, looking at the rhino.
+"Will you follow me along the path of evolution?" the man said with a cold tone of voice, looking at the rhino.
 
 "Roof!" the rhino responded to the man. Then, it began flying towards the metal door. Hovering beside the man, it turned around to look at the desert as if it was going to miss the place.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Firetail Butterfly King
-### Chapter 1476 
+### Chapter 1476
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen looked at what was going on for a while and then stopped, turning to run directly into the butterfly swarm. He collected all the Core Lights from the fallen butterflies and killed a number more on his way through.
+Han Sen looked at what was going on for a while and then stopped, turning to run directly into the butterfly swarm. He collected all the Core Lights from the fallen butterflies and killed a number more on his way through.
 
 They were good stuff, and Han Sen needed them to fast-track his four self geno cores to gold class.
 

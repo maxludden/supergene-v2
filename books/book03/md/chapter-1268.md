@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Pinecone
-### Chapter 1268 
+### Chapter 1268
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  There was a green pinecone in the fish king’s head. It was half-embedded, and it shone an ominous green like a third eye. The light pulsated, and when the pinecone lit up, it caused the fish king’s body to twitch.
+There was a green pinecone in the fish king’s head. It was half-embedded, and it shone an ominous green like a third eye. The light pulsated, and when the pinecone lit up, it caused the fish king’s body to twitch.
 
 The fish did not look like it had been dealt a grievous blow, but it seemed to be incapacitated. The fish was submitting to the water, and it was sinking fast.
 

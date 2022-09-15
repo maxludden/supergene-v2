@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Blackgod
-### Chapter 505 
+### Chapter 505
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen glanced at those people. Those people did not have any fishing tools or personal belongings, so they did not seem to be fishing here.
+Han Sen glanced at those people. Those people did not have any fishing tools or personal belongings, so they did not seem to be fishing here.
 
 "Fuck off." Han Sen said coldly.
 

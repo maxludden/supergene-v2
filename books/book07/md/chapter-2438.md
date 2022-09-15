@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Jadeskin Area
-### Chapter 2438 
+### Chapter 2438
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “I am giving you one last chance,” Miss Mirror said, her voice as harsh as a winter wind.
+“I am giving you one last chance,” Miss Mirror said, her voice as harsh as a winter wind.
 
 She didn’t want to kill Han Sen. After all, he was the master of the Mirror Spirit Eye Ring. Killing him would deal a lot of damage to the Mirror Spirit Eye Ring, which would affect Miss Mirror herself very severely.
 

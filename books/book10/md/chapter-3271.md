@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Phoenix Head Harp
-### Chapter 3271 
+### Chapter 3271
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Seeing Zhao Ning’er turned into a white god bird. As she approached the gene egg, she suddenly saw a knife air rise up not too far from the coast. It suddenly slashed in front of Bury Path God to almost hit the gene egg.
+Seeing Zhao Ning’er turned into a white god bird. As she approached the gene egg, she suddenly saw a knife air rise up not too far from the coast. It suddenly slashed in front of Bury Path God to almost hit the gene egg.
 
 Bury Path God looked into the sky and put the gene egg away. His other hand became a fist that was thrown forward in a punch to hit the sword air.
 

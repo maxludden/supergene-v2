@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Reverse
-### Chapter 3394 
+### Chapter 3394
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Ancient Devil flashed with shock. Han Sen made things that seemed heavy be operated as if they were light. Bit by bit, he weakened the attacks of his opposition. He seemed like a very capable person for doing something like that. He had a powerful aura. It was the type of aura only the old leader had shown before.
+Ancient Devil flashed with shock. Han Sen made things that seemed heavy be operated as if they were light. Bit by bit, he weakened the attacks of his opposition. He seemed like a very capable person for doing something like that. He had a powerful aura. It was the type of aura only the old leader had shown before.
 
 With what Ancient Devil knew about Han Sen, the man had only been born about 40 years ago. How had he been able to practice and accomplish so much in such a short amount of time? He was like the greatest person to ever arise across the entire breadth of history.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Polar Night Forum
-### Chapter 33 
+### Chapter 33
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen didn’t go far to hunt these days. He was on his own, so unless he went somewhere no one would go, it wasn’t likely he could find mutant or sacred-blood creatures before the gangs of Qin Xuan, Son of Heaven or Fist Guy did.
+Han Sen didn’t go far to hunt these days. He was on his own, so unless he went somewhere no one would go, it wasn’t likely he could find mutant or sacred-blood creatures before the gangs of Qin Xuan, Son of Heaven or Fist Guy did.
 
 Han Sen went on the Skynet and logged into a forum called "Polar Night" whose members were people from different planets currently struggling in God’s Sanctuary. Here, people from the same shelter could exchange information and needs. Although the Alliance had a similar official site, it was much easier for people to go on Polar Night because all you needed was a username. On the official site, you’d need to register with your real identity.
 

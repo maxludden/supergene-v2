@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Planet Eclipse
-### Chapter 1834 
+### Chapter 1834
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “Get ready for what?” Han Sen asked. Having a planet to oneself should be a good thing, but Yisha’s tone didn’t make it sound as if it was.
+“Get ready for what?” Han Sen asked. Having a planet to oneself should be a good thing, but Yisha’s tone didn’t make it sound as if it was.
 
 “You are my student now, so I will take care of everything. But if you have your own planet, that means you will have to be on your own. I cannot take part in its development, and you will have to pay taxes. The numbers aren’t small, either.” Yisha went on to say, “Narrow Moon has a lot of planets, but the good ones have already been taken by the current Kings and Nobles. There aren’t many left to choose from. Only the poor and cheap planets, really. If you don’t do a good job, make a lot of money, and pay the necessary taxes, it is likely that people will start laughing at you.”
 

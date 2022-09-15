@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Losing a Blood-pulse
-### Chapter 3176 
+### Chapter 3176
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “Although Zhuo Donglai did not combine with an Annihilation God Spirit, every sword light power is like an Annihilation God Spirit’s attack. This scary power is so shocking. No wonder the Wu Wei Dao Palace Alpha once used the purple mist holy clothes to strike down a kingdom with a single sword hit. It was so overbearing, so how does Han Sen hope to compete against it?” Sky King squinted his eyes as if he was watching a movie.
+“Although Zhuo Donglai did not combine with an Annihilation God Spirit, every sword light power is like an Annihilation God Spirit’s attack. This scary power is so shocking. No wonder the Wu Wei Dao Palace Alpha once used the purple mist holy clothes to strike down a kingdom with a single sword hit. It was so overbearing, so how does Han Sen hope to compete against it?” Sky King squinted his eyes as if he was watching a movie.
 
 Rocky Dee sighed and said, “Back then, the Wu Wei Dao Palace Alpha really was a genius who shocked the world. Even our leader made sure to avoid him. It is a shame that he chose not to join my God Chaos Party. If he had, I could have guaranteed him the chance to become someone really big.” Everyone had their will stolen by that beautiful sword. They felt as if they could not beat it.
 

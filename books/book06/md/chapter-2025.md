@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Silver Winged Beetle
-### Chapter 2025 
+### Chapter 2025
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The xenogeneic looked like it had been made entirely from silver. It sort of looked like a trilobite. It was, however, one meter long.
+The xenogeneic looked like it had been made entirely from silver. It sort of looked like a trilobite. It was, however, one meter long.
 
 When Han Sen saw the trilobite-looking silver xenogeneic, he frowned. In his dream, he had not encountered this xenogeneic.
 

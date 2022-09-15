@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## One Punch One Kiss
-### Chapter 918 
+### Chapter 918
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The King of Truth shook his head and responded, "I have no idea what happened. The mirror was obliterated; it didn't stand a chance."
+The King of Truth shook his head and responded, "I have no idea what happened. The mirror was obliterated; it didn't stand a chance."
 
 "If you are unaware of why you lost, then why don't you try again?" The King of Day suggested.
 

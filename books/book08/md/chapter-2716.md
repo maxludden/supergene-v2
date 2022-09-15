@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Immortal Dragon
-### Chapter 2716 
+### Chapter 2716
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Gru didn’t know what Han Sen was thinking, though. He looked down at the two xenogeneics and said, “A Moon Rhino and an Immortal Dragon. They are rare xenogeneics, but it is a shame they are only King class. If they were deified, they would be worth a lot of money. That would be especially true of the Immortal Dragon. If an Immortal Dragon can become deified, then its substance chains can make others practically immortal as well. For as long as the Immortal Dragon retains its power, anyone it has vowed to protect is essentially unkillable. It is a shame that deified Immortal Dragons are incredibly rare. In all the history I have learned, I have only heard of three deified Immortal Dragons.”
+Gru didn’t know what Han Sen was thinking, though. He looked down at the two xenogeneics and said, “A Moon Rhino and an Immortal Dragon. They are rare xenogeneics, but it is a shame they are only King class. If they were deified, they would be worth a lot of money. That would be especially true of the Immortal Dragon. If an Immortal Dragon can become deified, then its substance chains can make others practically immortal as well. For as long as the Immortal Dragon retains its power, anyone it has vowed to protect is essentially unkillable. It is a shame that deified Immortal Dragons are incredibly rare. In all the history I have learned, I have only heard of three deified Immortal Dragons.”
 
 “Their powers aren’t sufficient at King class?” Han Sen asked with curiosity.
 

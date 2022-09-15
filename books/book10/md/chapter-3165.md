@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## God Fight Begins
-### Chapter 3165 
+### Chapter 3165
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen forced himself to break the rules of the world. In the short amount of time he had, he summoned Spell.
+Han Sen forced himself to break the rules of the world. In the short amount of time he had, he summoned Spell.
 
 Spell hadn’t really changed much. Her white armor, long white hair, and white eyes all looked beautiful. She looked like a Venus statue.
 
@@ -73,7 +74,7 @@ In the god fights, a person could enter or use a gene race to fight. If one enco
 
 That was what Han Sen thought, but he was a God Spirit. He could not sign up. He took off the Sky God Crown and signed up.
 
-Han Sen used the name Dollar to join. Upon seeing him use that nickname, used the title “Ingo.” She wanted to join.
+Han Sen used the name Dollar to join. Upon seeing him use that nickname, used the title “Ingot.” She wanted to join.
 
 Feng Yin Yin thought it was funny. She thought about her own name and decided on Lucky.
 

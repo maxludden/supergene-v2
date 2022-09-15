@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Sacrifice Sword Skill
-### Chapter 635 
+### Chapter 635
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Chen Ran's face dimmed. He coldly smiled and responded, "What a genius."
+Chen Ran's face dimmed. He coldly smiled and responded, "What a genius."
 
 After that, Chen Ran waved his hand, and the arrows of his followers loosed upon Han Sen like rain.
 

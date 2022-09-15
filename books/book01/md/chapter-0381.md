@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Secret Service
-### Chapter 381 
+### Chapter 381
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  "You're quite tough…" Han Sen gave Zhu Ting a thumbs-up and grappled at him again.
+"You're quite tough…" Han Sen gave Zhu Ting a thumbs-up and grappled at him again.
 
 Zhu Ting suddenly screamed and twitched like crazy. The pain was unbearable for any normal person.
 

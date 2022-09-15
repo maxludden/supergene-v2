@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## My Girlfriend Is Ji Yanran
-### Chapter 120 
+### Chapter 120
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  "Brother, do you still want that sacred-blood bow? I haven’t been able to reach you and Fist Guy has already entered Second God’s Sanctuary." Han Sen answered the call and immediately heard Fang Jingqi’s complaint.
+"Brother, do you still want that sacred-blood bow? I haven’t been able to reach you and Fist Guy has already entered Second God’s Sanctuary." Han Sen answered the call and immediately heard Fang Jingqi’s complaint.
 
 Han Sen suddenly smacked his forehead and cried, "I am sorry. I was in military training and was not allowed to use comlink. I have completely forgotten about this. Is the bow still there?"
 

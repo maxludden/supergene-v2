@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## One Second Is a Thousand Years
-### Chapter 2941 
+### Chapter 2941
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen’s heart felt that chill. It seemed like his eyes were shutting, and he had no control over them. It was different from how it felt when he faced the nine-eyed sword. This time, Han Sen not only felt tired, but his will also seemed to be blurry.
+Han Sen’s heart felt that chill. It seemed like his eyes were shutting, and he had no control over them. It was different from how it felt when he faced the nine-eyed sword. This time, Han Sen not only felt tired, but his will also seemed to be blurry.
 
 “It is no wonder that is a god personality armament. It is much stronger than that nine-eyed sword.” Han Sen’s will was like steel, so it was not easy for Nine Thousand King’s god personality armament to try and control him. The big goldfish was affected by the rabid power. Its will was not so clear. It swam toward the pavilion.
 

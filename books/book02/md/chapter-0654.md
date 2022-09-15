@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## The Creature That Came From Devil's Mountain
-### Chapter 654 
+### Chapter 654
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen looked at the man with uncertain eyes, not sure whether he was being serious or if he was merely joining in with the jest. Seven billion was not a small amount, and generally, even the richest of people never carried such money around with them.
+Han Sen looked at the man with uncertain eyes, not sure whether he was being serious or if he was merely joining in with the jest. Seven billion was not a small amount, and generally, even the richest of people never carried such money around with them.
 
 "For that price, are you certain?" Han Sen, still looking, asked the man.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Who Will Prevent Me From Lighting Up a Lantern for the Crystallizers?
-### Chapter 2890 
+### Chapter 2890
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  There were only 10,000 higher races. Only 20 out of those higher races could have true god elites.
+There were only 10,000 higher races. Only 20 out of those higher races could have true god elites.
 
 Now, many higher-race true gods were appearing. Whoever was behind this must have been a very scary foe.
 

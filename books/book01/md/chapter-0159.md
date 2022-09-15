@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## A Fact
-### Chapter 159 
+### Chapter 159
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  More people wanted to know where to buy a warframe like Silver Killer. They had searched the Skynet for all products available, but found nothing like it.
+More people wanted to know where to buy a warframe like Silver Killer. They had searched the Skynet for all products available, but found nothing like it.
 
 Many people had guessed that it was custom-made, but still have no idea which company had produced it, as there was no imprint on Silver Killer.
 

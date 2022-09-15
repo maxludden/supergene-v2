@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Legendary Gene Egg
-### Chapter 3034 
+### Chapter 3034
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “Found it… I finally found it… So many people died… We finally found it…”
+“Found it… I finally found it… So many people died… We finally found it…”
 
 In a very dark underground cave, an underground river led to a waterfall. It had a very deep drop. A booming sound echoed to the very bottom of the water.
 

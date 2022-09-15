@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## No Need to Know Me
-### Chapter 317 
+### Chapter 317
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Su Xinmei thought the notion of appearance fee was ridiculous, but seeing Han Sen’s arrogant look, she became worked up and said, "A mutant beast soul? Hear it is. Summon your pet. I would like to see what kind of pet deserves to be fed sacred-blood meat."
+Su Xinmei thought the notion of appearance fee was ridiculous, but seeing Han Sen’s arrogant look, she became worked up and said, "A mutant beast soul? Hear it is. Summon your pet. I would like to see what kind of pet deserves to be fed sacred-blood meat."
 
 Su Xinmei transferred a mutant beast soul to Han Sen, which was nothing to her.
 

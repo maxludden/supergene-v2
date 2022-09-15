@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## A Letter Without Words
-### Chapter 956 
+### Chapter 956
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The next day, as Han Sen and Annie were leaving, Liu Meng was nowhere to be seen. His face had been beaten and bruised. Thinking it wasn't appropriate for the young scion of the Lan Te family to be seen in such a state, the housekeeper accompanied them on their exit.
+The next day, as Han Sen and Annie were leaving, Liu Meng was nowhere to be seen. His face had been beaten and bruised. Thinking it wasn't appropriate for the young scion of the Lan Te family to be seen in such a state, the housekeeper accompanied them on their exit.
 
 Before they boarded the starship, the housekeeper gave a gift to Han Sen and Annie each. He told them they were gifts from Liu Meng.
 

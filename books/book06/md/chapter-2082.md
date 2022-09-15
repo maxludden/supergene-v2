@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Blue Gold Demon Bug
-### Chapter 2082 
+### Chapter 2082
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  That massive power, brought down with Yisha’s knife, tore its body in half. The part with the head fell down to roll through the streets of the city.
+That massive power, brought down with Yisha’s knife, tore its body in half. The part with the head fell down to roll through the streets of the city.
 
 Han Sen and the others were busy killing the smaller xenogeneics. When Han Sen saw half of its body coming toward him, his first thought wasn’t to get an easy kill; it was to dodge the thing.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Purple Copper Sword
-### Chapter 3337 
+### Chapter 3337
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  So far, Han Sen had yet to find a way to reclaim his soul.
+So far, Han Sen had yet to find a way to reclaim his soul.
 
 Although it was possible that if the little girl died, Han Sen’s soul mark would return to him, that was just a possibility and not a guarantee. Han Sen did not want to take any unnecessary risks for the time being.
 

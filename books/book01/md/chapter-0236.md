@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## More or Less
-### Chapter 236 
+### Chapter 236
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  "We can only know after a match," replied Han Sen with a smile.
+"We can only know after a match," replied Han Sen with a smile.
 
 The senior team members cast odd looks at him. If the comment was from any other freshman, they would definitely tell the person all about the bad performances of Blackhawk in history.
 

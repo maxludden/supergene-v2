@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Evolvers in First God’s Sanctuary
-### Chapter 350 
+### Chapter 350
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen continued to ask, but the blacksmith did not answer any of his questions and hung up.
+Han Sen continued to ask, but the blacksmith did not answer any of his questions and hung up.
 
 There was nothing Han Sen could do. If the weapon could not be made into a sword, it did not make sense for him to purchase it.
 

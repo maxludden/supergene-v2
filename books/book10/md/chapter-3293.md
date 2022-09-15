@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Purple Flower
-### Chapter 3293 
+### Chapter 3293
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  1
+1
 
 “I do not know if Jian Bu Gu’s flower is still here.” Han Sen looked at the broken walls and flew toward them. As he got closer to the broken walls, he noticed a person sitting next to them.
 

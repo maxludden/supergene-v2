@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Ice Geno Core
-### Chapter 2712 
+### Chapter 2712
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “Third Sister, you’re telling me that when you woke up again, the God Spirit Storm was gone?” Li Keer asked, looking at Exquisite with sheer disbelief.
+“Third Sister, you’re telling me that when you woke up again, the God Spirit Storm was gone?” Li Keer asked, looking at Exquisite with sheer disbelief.
 
 Exquisite’s expression was strange. “That is what Han Sen told me.”
 

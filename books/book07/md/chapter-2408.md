@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Furnace
-### Chapter 2408 
+### Chapter 2408
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Almost word for word, Dragon One said the same thing to the Dragon Kings.
+Almost word for word, Dragon One said the same thing to the Dragon Kings.
 
 Han Sen didn’t know what they were planning, and neither did he want to know. He flew through space for around an hour before he found a lone core xenogeneic flying through the darkness.
 

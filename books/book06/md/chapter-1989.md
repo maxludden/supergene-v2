@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Who He Came Here For?
-### Chapter 1989 
+### Chapter 1989
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  On Sky Path Island, four different classes of people awaited their exam: Barons, Viscounts, Earls, and Marquises.
+On Sky Path Island, four different classes of people awaited their exam: Barons, Viscounts, Earls, and Marquises.
 
 The most popular section today would be the Earl examination. Many Kings and Nobles had gone there, and the stands were very full. It made the other three look so quiet.
 

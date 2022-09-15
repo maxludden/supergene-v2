@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Frozen Power
-### Chapter 2172 
+### Chapter 2172
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The deified toad’s freezing powers were unusual. Even Han Sen, with his Jadeskin, was still being frozen by the ice inside him. Try as he might, he could not remove the frosting from his skin.
+The deified toad’s freezing powers were unusual. Even Han Sen, with his Jadeskin, was still being frozen by the ice inside him. Try as he might, he could not remove the frosting from his skin.
 
 Without Jadeskin’s cold elemental abilities and great resistance to ice, any ordinary Marquise would have been frozen stiff long before this.
 

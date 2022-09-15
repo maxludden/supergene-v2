@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Dead Lock
-### Chapter 2433 
+### Chapter 2433
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Miss Mirror was severely injured, and she wouldn’t be getting back to her feet anytime soon. Blood continued to trickle past her lips, but luckily, her lifeforce still seemed stable. She was wounded, but not dying.
+Miss Mirror was severely injured, and she wouldn’t be getting back to her feet anytime soon. Blood continued to trickle past her lips, but luckily, her lifeforce still seemed stable. She was wounded, but not dying.
 
 Han Sen turned around and looked at the blonde girl, and he noticed that she had turned around to look at him, too. They stared at each other, only a single step separating them.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Traitor Nangong Han
-### Chapter 984 
+### Chapter 984
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Nangong Han was an old man in the sanctuary. He had endured many trials in his time there, and his Shadow Punch was no joke.
+Nangong Han was an old man in the sanctuary. He had endured many trials in his time there, and his Shadow Punch was no joke.
 
 Now, he was more shocked than he had ever been. Through the years, he had never been put in such an awkward position.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Beautiful Woman Coming
-### Chapter 3088 
+### Chapter 3088
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The Holy Light River was very dangerous. There were a few places not even Han Sen dared to go. He was not afraid of dying. He was just afraid of being trapped and not being able to get out.
+The Holy Light River was very dangerous. There were a few places not even Han Sen dared to go. He was not afraid of dying. He was just afraid of being trapped and not being able to get out.
 
 Fortunately, he received guidance from Feather Fairy. He knew a lot about the region. Through the advice he had been given, Han Sen was able to avoid many of the pitfalls and perils. He was able to find the pure light salamanders he sought and safely make it back to the teleporter. On his way back, he also managed to obtain another dozen viscount-class and earl-class gene eggs. He planned to use them to keep the shop running.
 

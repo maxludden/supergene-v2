@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Scary Ice Geno Art
-### Chapter 2717 
+### Chapter 2717
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The godlights that came from the wolf’s eyes shot toward Gru like four bolts of lightning. Gru remained stalwart, though. He had already prepared his defense, and when the four-eyed wolf unleashed the attack, Gru lifted his mirror shield.
+The godlights that came from the wolf’s eyes shot toward Gru like four bolts of lightning. Gru remained stalwart, though. He had already prepared his defense, and when the four-eyed wolf unleashed the attack, Gru lifted his mirror shield.
 
 The green godlights slammed straight into the mirror shield, but they were reflected away. The attack was unable to damage the shield, and as he watched, Han Sen felt a little bit jealous.
 

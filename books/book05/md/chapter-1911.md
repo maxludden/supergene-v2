@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Sharpen
-### Chapter 1911 
+### Chapter 1911
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen’s body could not move, and despite the fact that he still had control over his senses, he couldn’t tell what element the green light was. He wasn’t in a rush, though. The xenogeneic’s power was amazing, but at the end of the day, it was only a Viscount. Han Sen had Marquise armor on, and that meant he had no reason to be afraid.
+Han Sen’s body could not move, and despite the fact that he still had control over his senses, he couldn’t tell what element the green light was. He wasn’t in a rush, though. The xenogeneic’s power was amazing, but at the end of the day, it was only a Viscount. Han Sen had Marquise armor on, and that meant he had no reason to be afraid.
 
 Plus, he had his super king spirit body to rely on. All things considered, Han Sen was feeling pretty secure.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Great-grandad
-### Chapter 3004 
+### Chapter 3004
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “Believe? All creatures will die one day.” Han Sen was not mad, so that was how he replied.
+“Believe? All creatures will die one day.” Han Sen was not mad, so that was how he replied.
 
 The old man shook his head. He did not continue with that particular subject. He pulled out an object and gave it to Han Sen. “This is for you. It should help you.”
 

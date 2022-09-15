@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## As You Wish
-### Chapter 310 
+### Chapter 310
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Hearing Jing Jiya's words, Han Sen smiled and patted him on the shoulder. "Jing Jiya, if you want to threaten someone, you'll have to be smart. When you speak, try to act like a tough guy so that I might be scared."
+Hearing Jing Jiya's words, Han Sen smiled and patted him on the shoulder. "Jing Jiya, if you want to threaten someone, you'll have to be smart. When you speak, try to act like a tough guy so that I might be scared."
 
 Jing Jiya's face became grim. He said, "Brother, I am not joking."
 

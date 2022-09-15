@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Snake Turtle Hide
-### Chapter 3138 
+### Chapter 3138
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The planet was part of Ghost Starlight. The whole planet was full of land pulses. One only needed to take three steps to discover another small pulse. If one took 10 steps, one could probably find a big pulse. If one used a shovel to dig a bit, one might get a gene egg. Of course, that was a bit exaggerated, but there were many land pulses and gene eggs. In a few short days, they were able to dig up a thousand gene eggs. Although there were no god-class gene eggs, there were a lot of king-class gene eggs. On the fifth day of their dig, something happened. A big dragon space knight died. In the beginning, no one noticed it. The rider was sleeping in a tent with a few other riders.
+The planet was part of Ghost Starlight. The whole planet was full of land pulses. One only needed to take three steps to discover another small pulse. If one took 10 steps, one could probably find a big pulse. If one used a shovel to dig a bit, one might get a gene egg. Of course, that was a bit exaggerated, but there were many land pulses and gene eggs. In a few short days, they were able to dig up a thousand gene eggs. Although there were no god-class gene eggs, there were a lot of king-class gene eggs. On the fifth day of their dig, something happened. A big dragon space knight died. In the beginning, no one noticed it. The rider was sleeping in a tent with a few other riders.
 
 The next day, he just stopped breathing. His body was already cold when it was discovered. He had no wounds, and the other knight riders had not heard anything. They thought he must have died from a sickness of some kind.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Elder
-### Chapter 3236 
+### Chapter 3236
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  For it to be related to the powers that governed reincarnation was something rather spooky.
+For it to be related to the powers that governed reincarnation was something rather spooky.
 
 Han Sen was still unable to figure out what the half-burned candle actually was. Even an Annihilation-class main god had no direct association with the processes of reincarnation. Plus, that half-burned candle was just a wild, evolved God Spirit gene race.
 

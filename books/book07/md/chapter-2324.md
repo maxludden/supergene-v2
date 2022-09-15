@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Bai Yi’s Secre
-### Chapter 2324 
+### Chapter 2324
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen rummaged around the building. Mister White hadn’t told him exactly where the information he needed was, so he presumed it would be easy to find. If it wasn’t, Mister White should have told him—that was the logic.
+Han Sen rummaged around the building. Mister White hadn’t told him exactly where the information he needed was, so he presumed it would be easy to find. If it wasn’t, Mister White should have told him—that was the logic.
 
 But Han Sen searched the entire building from top to bottom and found nothing. The only place he hadn’t checked was Bai Yi’s computer.
 

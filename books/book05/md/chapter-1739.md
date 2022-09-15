@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Doll
-### Chapter 1739 
+### Chapter 1739
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Littleflower climbed up and looked at the beast at the end of his bed. He was curious.
+Littleflower climbed up and looked at the beast at the end of his bed. He was curious.
 
 The beast stood up and walked around him, observing, all the while smiling. The beast was Old Cat. When the sanctuary gate was open, he had managed to sneak back in. Everyone was focusing on the xenogeneic monster and officer; no one had seen the cat sneak inside.
 

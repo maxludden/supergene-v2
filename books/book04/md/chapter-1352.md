@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Power of the Bouncy Egg
-### Chapter 1352 
+### Chapter 1352
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen was in a daze. The ape that had just hit him was the one that had confused him earlier.
+Han Sen was in a daze. The ape that had just hit him was the one that had confused him earlier.
 
 The ape’s talons were incredibly strong and swift, and they should have torn Han Sen to shreds upon contact. But when the knife-like nails came upon him, they were like rubber. They did not damage him in the least.
 

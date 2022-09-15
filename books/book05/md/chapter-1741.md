@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Mutant Treasure
-### Chapter 1741 
+### Chapter 1741
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “Dollar.” Ling Mei’er was delighted to see Han Sen. She already knew Han Sen was his true identity, but that mattered little at this point
+“Dollar.” Ling Mei’er was delighted to see Han Sen. She already knew Han Sen was his true identity, but that mattered little at this point
 
 “Mei’er, Elder; why are you here?” Han Sen asked in confusion.
 

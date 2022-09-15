@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## First Fight
-### Chapter 1100 
+### Chapter 1100
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “Dollar is really taking part?” In the Martial Hall of Trench Shelter, many people wanted to see Dollar’s name on the list.
+“Dollar is really taking part?” In the Martial Hall of Trench Shelter, many people wanted to see Dollar’s name on the list.
 
 “Dollar versus Fei Yu King? What?! This is legit?”
 

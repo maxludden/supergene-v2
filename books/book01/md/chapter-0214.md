@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Huangfu’s Offer
-### Chapter 214 
+### Chapter 214
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  A teenage girl with long dark hair stood barefoot in front of Han Sen, wearing a white dress, her eyes blinking.
+A teenage girl with long dark hair stood barefoot in front of Han Sen, wearing a white dress, her eyes blinking.
 
 "Beast Soul pet... Another one." Looking at the Holy Angel in the form of a pretty little girl, Han Sen did not know how to react.
 

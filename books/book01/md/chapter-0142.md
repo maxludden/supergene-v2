@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## The Invitation From Luo Xiangyang
-### Chapter 142 
+### Chapter 142
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Luo Xiangyang originally wanted to persuade Han Sen to join the Warframe Society, but was delayed by something else. When he had finished his other business on this day, he returned to school and immediately came to the Heavy Warframe Society.
+Luo Xiangyang originally wanted to persuade Han Sen to join the Warframe Society, but was delayed by something else. When he had finished his other business on this day, he returned to school and immediately came to the Heavy Warframe Society.
 
 When Luo Xiangyang arrived at the Heavy Warframe Society, the society members just decided on their application in the upcoming Starry Cup.
 

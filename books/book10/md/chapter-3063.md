@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Understanding the Cause
-### Chapter 3063 
+### Chapter 3063
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen was very eager to keep reading it. He continued reading what was in the back of the notebook. He wanted to learn more and find out what the black-crystal stone was.
+Han Sen was very eager to keep reading it. He continued reading what was in the back of the notebook. He wanted to learn more and find out what the black-crystal stone was.
 
 Bai Mo had mentioned that the black-crystal stone could open the tunnel between two worlds. Qin Xiu might have made use of the black-crystal stone to enter the geno universe.
 

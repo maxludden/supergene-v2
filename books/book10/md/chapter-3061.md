@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Favor for the Savior
-### Chapter 3061 
+### Chapter 3061
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Li Bing Yu’s will was very strong. She awoke from her coma very quickly.
+Li Bing Yu’s will was very strong. She awoke from her coma very quickly.
 
 The moment she opened her eyes, Li Bing Yu saw Han Sen’s smiling face. She remembered what she saw before she passed out and immediately jumped from the ground, staring at Han Sen.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## The Landlord's Stupid Son
-### Chapter 3045 
+### Chapter 3045
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Who would have suspected that Han Sen’s reaction would end up surprising Mister Yang? He was not angry. He actually laughed.
+Who would have suspected that Han Sen’s reaction would end up surprising Mister Yang? He was not angry. He actually laughed.
 
 Han Sen pointed at the overbearing bug and asked, “I don’t need to be your servant, but if I kill it, can I have its body?”
 

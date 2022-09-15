@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Beast Soul Add-on
-### Chapter 305 
+### Chapter 305
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Hao was quite upset. He could not understand, for the love of God, why Han Sen, who was the pariah in Steel Armor Shelter, had become a military school student, a movie star in a commercial, and now the number one in the shelter.
+Han Hao was quite upset. He could not understand, for the love of God, why Han Sen, who was the pariah in Steel Armor Shelter, had become a military school student, a movie star in a commercial, and now the number one in the shelter.
 
 The Disciples and the Fist Gang both respected Han Sen a lot. Even their leaders called Han Sen brother. Han Hao had also heard that Yang Manli, who was leading the Steel Armor Gang, turned out to be Han Sen's deputy.
 

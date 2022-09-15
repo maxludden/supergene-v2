@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Buried
-### Chapter 2779 
+### Chapter 2779
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen had noticed the same thing. Violet was the only Flower God they had seen this entire time. The only other people around them were members of other races. Since being in the Space Garden, they had yet to see a single other Flower God.
+Han Sen had noticed the same thing. Violet was the only Flower God they had seen this entire time. The only other people around them were members of other races. Since being in the Space Garden, they had yet to see a single other Flower God.
 
 This was the home of the Flower Gods. Even if something had happened, they still should have been encountering other members of Violet’s race.
 

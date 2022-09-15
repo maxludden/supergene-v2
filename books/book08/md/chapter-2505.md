@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Medusa’s Gaze
-### Chapter 2505 
+### Chapter 2505
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  A beam of purple light burst into the sky, and the shape of a beautiful woman appeared within it. Her lower body was scaled and serpentine, and her black hair was a bunch of snakes, as well. Her eyes were shut. She looked beautiful, elegant, cold, and creepy.
+A beam of purple light burst into the sky, and the shape of a beautiful woman appeared within it. Her lower body was scaled and serpentine, and her black hair was a bunch of snakes, as well. Her eyes were shut. She looked beautiful, elegant, cold, and creepy.
 
 When Ice Blue Knight King and the Extreme King elites saw the snake-like woman in the beam of light and squinted to get a clearer look, they looked shocked.
 

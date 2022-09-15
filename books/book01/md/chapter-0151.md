@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Fang Mingquan’s Discovery
-### Chapter 151 
+### Chapter 151
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  "I cannot agree on this term. Can we use a different one?" Han Sen said frankly.
+"I cannot agree on this term. Can we use a different one?" Han Sen said frankly.
 
 Although he was sure that he would not lose, but he would not bet with what belonged to others. It was a matter of principle.
 

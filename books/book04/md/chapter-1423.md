@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## A Poor Woman Gets Bullied
-### Chapter 1423 
+### Chapter 1423
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  When the altar appeared, there was nothing that the creatures surrounding it could do. And almost immediately, they felt their lifeforces leave them, drifting towards the altar
+When the altar appeared, there was nothing that the creatures surrounding it could do. And almost immediately, they felt their lifeforces leave them, drifting towards the altar
 
 There were too many creatures, and so many lifeforces went towards the altar. They gathered up around the bust atop it.
 

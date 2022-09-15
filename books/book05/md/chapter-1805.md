@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Heartbea Super Gene
-### Chapter 1805 
+### Chapter 1805
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The little monster grunted at Han Sen and Yisha, wanting them to go inside quickly.
+The little monster grunted at Han Sen and Yisha, wanting them to go inside quickly.
 
 Yisha did not enter yet, though. Instead, she walked up to Han Sen and quietly told him, “I don’t know exactly what to expect once we enter that hole. How about we put our grudge aside and co-operate to get through this?”
 

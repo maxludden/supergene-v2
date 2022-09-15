@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Not in the Mood Today
-### Chapter 928 
+### Chapter 928
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Heavenly Empress left with Flower Empress, and after they were out of earshot of the others, she asked, "So, you have a crush on The King?"
+Heavenly Empress left with Flower Empress, and after they were out of earshot of the others, she asked, "So, you have a crush on The King?"
 
 Flower Empress blushed and said, "It that a bad thing?"
 

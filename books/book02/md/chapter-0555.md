@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Frottage
-### Chapter 555 
+### Chapter 555
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  "Zhu Ting, I'm not done with you!" Yelling continued to erupt from inside the room.
+"Zhu Ting, I'm not done with you!" Yelling continued to erupt from inside the room.
 
 Because Ji Yanran had to have a meeting, she turned off her communicator. In a frenzy, Han Sen ran to the teleporter and returned to the shelter. "Zhu Ting, you son of a troll! Come out here!"
 

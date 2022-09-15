@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Sonic-thunder Punch
-### Chapter 756 
+### Chapter 756
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The last time Han Sen saw Sonic-Thunder Punch, he fancied buying it. But back then, he was browsing for skills to be used by his other-self, Dollar. Therefore, he ended up buying Elephant-Disc Punch.
+The last time Han Sen saw Sonic-Thunder Punch, he fancied buying it. But back then, he was browsing for skills to be used by his other-self, Dollar. Therefore, he ended up buying Elephant-Disc Punch.
 
 This time, Han Sen was free to buy Sonic-Thunder Punch as himself, from the Saint Hall. Having done so, he was keen to start into its practice.
 

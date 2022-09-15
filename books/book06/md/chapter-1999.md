@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Dongxuan Breakthrough
-### Chapter 1999 
+### Chapter 1999
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Ghost Teeth Knife’s fire was getting scary. The power kept building, and Lone Bamboo was on the verge of losing all control. He was going to generate the strongest strike he could to end the fight and kill Han Sen.
+Ghost Teeth Knife’s fire was getting scary. The power kept building, and Lone Bamboo was on the verge of losing all control. He was going to generate the strongest strike he could to end the fight and kill Han Sen.
 
 The frightening knife flames lay seemed to exert incredible force on the broken arena, and the floor had already dropped a few feet. Han Sen’s knifemind and depression were harming him. He could not unleash the power or the sensations inside his body.
 

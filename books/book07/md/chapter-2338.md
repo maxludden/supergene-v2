@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Ai Qing Xia’s Words
-### Chapter 2338 
+### Chapter 2338
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “Ah, so opening the king body can attract the Kingese. I thought this was something special,” Han Sen thought to himself.
+“Ah, so opening the king body can attract the Kingese. I thought this was something special,” Han Sen thought to himself.
 
 As he mulled this over, one leaf suddenly stood out among the galaxy of shining Kingese. The Kingese upon it was shining brighter than the sun.
 

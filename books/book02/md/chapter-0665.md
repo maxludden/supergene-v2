@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Champion Spear
-### Chapter 665 
+### Chapter 665
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  When Han Sen saw the pegasi king arrive, the first thing he thought to do was run. He stretched his legs and took off, but it was to no avail. He wasn't half as quick as the pegasi king, and it caught up in no time at all. It landed in front of him.
+When Han Sen saw the pegasi king arrive, the first thing he thought to do was run. He stretched his legs and took off, but it was to no avail. He wasn't half as quick as the pegasi king, and it caught up in no time at all. It landed in front of him.
 
 The red pony leapt off the pegasi king's back and happily ran up to Han Sen. With its head, it rubbed him as best it could. Then, it spit something out of its mouth onto the ground.
 

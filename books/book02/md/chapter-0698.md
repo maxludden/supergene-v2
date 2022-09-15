@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Ant Nest
-### Chapter 698 
+### Chapter 698
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Fortunately, the ant king was not particularly fast when compared to other super creatures. If the ant king had a speed akin to the raven Han Sen once encountered, he feared the little angel would have been unable to defeat it.
+Fortunately, the ant king was not particularly fast when compared to other super creatures. If the ant king had a speed akin to the raven Han Sen once encountered, he feared the little angel would have been unable to defeat it.
 
 Han Sen watched for a while and when the chance arose, the trumpeting of elephants fueled a power inside his body. The power surged into the Flaming Rex Spike, which swung down onto the ant king.
 

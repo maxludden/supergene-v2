@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Aqua Fruit
-### Chapter 1266 
+### Chapter 1266
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen now knew it was too late to stop what had been put into motion, so he quickly tried to think how he might best help the fish king.
+Han Sen now knew it was too late to stop what had been put into motion, so he quickly tried to think how he might best help the fish king.
 
 The light of its presence was rapidly approaching, and the water was in turmoil as it came.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Second Absorption
-### Chapter 782 
+### Chapter 782
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  With the aid of Han Sen's bolts, little angel finally managed to land a strike on the Devil-Eye Spider. When the sword was driven through the spider's body, green blood squirted from the orifice.
+With the aid of Han Sen's bolts, little angel finally managed to land a strike on the Devil-Eye Spider. When the sword was driven through the spider's body, green blood squirted from the orifice.
 
 It took another two strikes with the little angel's greatsword for her to finish it off.
 

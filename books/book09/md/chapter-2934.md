@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Meat in the Pot
-### Chapter 2934 
+### Chapter 2934
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “Bao’er, you are a nice child.” Han Sen used his hands to accept the meat. It smelled so delicious that Han Sen almost bit his tongue off.
+“Bao’er, you are a nice child.” Han Sen used his hands to accept the meat. It smelled so delicious that Han Sen almost bit his tongue off.
 
 “Dad, you should drink some wine. It tastes so good, too.” Bao’er put the wine bottle next to Han Sen’s mouth.
 

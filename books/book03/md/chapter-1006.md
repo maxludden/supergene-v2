@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Three Days, Three Years
-### Chapter 1006 
+### Chapter 1006
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  A monster appeared on the slopes ahead, wreathed in fire. A man, who was looking Han Sen’s way, was suddenly set ablaze.
+A monster appeared on the slopes ahead, wreathed in fire. A man, who was looking Han Sen’s way, was suddenly set ablaze.
 
 Han Sen frowned at the sight, but thought it fortunate he had stumbled across the group right before a crisis befell them. Now, he had an opportunity to prove his worth and removed any shadows of doubt they harbored that he might not have been who he said he was.
 

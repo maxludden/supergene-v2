@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Two Break World Methods
-### Chapter 3370 
+### Chapter 3370
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “Is Qin Xiu mad? What did he do to Wan’er?” Han Sen frowned. Based on the way Qin Xiu supposedly loved Wan’er, the man should not have done anything that would negatively impact Wan’er.
+“Is Qin Xiu mad? What did he do to Wan’er?” Han Sen frowned. Based on the way Qin Xiu supposedly loved Wan’er, the man should not have done anything that would negatively impact Wan’er.
 
 What was happening to Wan’er now was far too weird. He could not think of a reason as to why Qin Xiu would turn Wan’er into something like this.
 

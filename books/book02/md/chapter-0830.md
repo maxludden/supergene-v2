@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Transparent Little Fish
-### Chapter 830 
+### Chapter 830
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  In the pool, in the direction the silver fox was looking, swam a fish.
+In the pool, in the direction the silver fox was looking, swam a fish.
 
 The fish wasn't very large. In fact, it was only about ten centimeters long, and it was semi-transparent. The bones were transparent, as well, and the only way you could properly catch sight of it was by spotting its blood vessels. If you didn't peer at the water carefully and look for it that way, you wouldn't notice it existed at all.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Soloing All the Group Fights
-### Chapter 1893 
+### Chapter 1893
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Dragon Lady followed Han Sen into the base. Wang Yuhang and Xie Qing King then took up positions on opposite sides of the gate. They were like two soldiers, just smiling at the intruders.
+Dragon Lady followed Han Sen into the base. Wang Yuhang and Xie Qing King then took up positions on opposite sides of the gate. They were like two soldiers, just smiling at the intruders.
 
 “Brother King, what is your least favorite meal?” Wang Yuhang, standing at the side of the gate, suddenly decided to ask.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Tianxia’s Seven Gods
-### Chapter 2491 
+### Chapter 2491
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The longer he fought, the more confused Meng Lie became. Even if an ordinary deified xenogeneic wasn’t very smart, it would still know to retreat when it was losing a fight. It wouldn’t just relentlessly continue to attack a more powerful opponent.
+The longer he fought, the more confused Meng Lie became. Even if an ordinary deified xenogeneic wasn’t very smart, it would still know to retreat when it was losing a fight. It wouldn’t just relentlessly continue to attack a more powerful opponent.
 
 But that kirin wanted a fight to the death no matter what. It didn’t care for its life, which made it surprisingly difficult to counter. But the thing that concerned Meng Lie the most was the idea that someone was orchestrating all this. If that mysterious person could control deified xenogeneics, Meng Lie didn’t want to imagine how strong they might be.
 

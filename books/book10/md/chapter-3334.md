@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## I Want a Man
-### Chapter 3334 
+### Chapter 3334
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “We both used our power,” Han Sen said. “Therefore, you cannot take the blame out on me.”
+“We both used our power,” Han Sen said. “Therefore, you cannot take the blame out on me.”
 
 “Just wait until I get my body back. I will kill you. I will tear you apart and grind you into dust.” The purple copper sword seemed to know that being angry was pointless. After it said that, it stopped talking to Han Sen. There was no way to tell what it was thinking.
 

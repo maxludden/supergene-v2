@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Fighting Yan Dan (three)
-### Chapter 3181 
+### Chapter 3181
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “Can you tell that quickly?” Yan Dan asked with an evil smile. “Your feelings are certainly quite sensitive, but we are old friends. Therefore, you are free to guess who I am.”
+“Can you tell that quickly?” Yan Dan asked with an evil smile. “Your feelings are certainly quite sensitive, but we are old friends. Therefore, you are free to guess who I am.”
 
 “Rocky Dee,” Han Sen said with a frown.
 

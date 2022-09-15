@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Holy Place
-### Chapter 1745 
+### Chapter 1745
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  A copper furnace that was a hundred meters tall connected to the palace in the clouds. It was obvious that the enormous place used to be quite glorious.
+A copper furnace that was a hundred meters tall connected to the palace in the clouds. It was obvious that the enormous place used to be quite glorious.
 
 But that place was now in ruin. It was empty and quiet Even the sky had abandoned it, leaving the palace dark and forlorn. The darkness veiled that once-wonderful place, giving it no tomorrow.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Dream
-### Chapter 2020 
+### Chapter 2020
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Habits could be very scary things. Han Sen had been on Dream Island for three months now, and he had grown used to having two Sky Heart Locks on his body.
+Habits could be very scary things. Han Sen had been on Dream Island for three months now, and he had grown used to having two Sky Heart Locks on his body.
 
 Aside from moving slower, he was living like a normal person.
 

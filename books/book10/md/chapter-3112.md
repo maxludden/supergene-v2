@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Courage
-### Chapter 3112 
+### Chapter 3112
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  King Jing Zhen’s office desk was stacked with letters from the officers. Even if he did not open them, he was aware that the content included more bad-mouthing of the prince and requests to take a deeper look into the case involving Steel Scene’s death. He knew the content would be very intense.
+King Jing Zhen’s office desk was stacked with letters from the officers. Even if he did not open them, he was aware that the content included more bad-mouthing of the prince and requests to take a deeper look into the case involving Steel Scene’s death. He knew the content would be very intense.
 
 It was like if he did not kill Han Sen, he would be a bad king. It was like they were saying if Han Sen was not dead, he would become a tyrannical villain governing the government.
 

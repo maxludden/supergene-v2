@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Cocky Red Cloud
-### Chapter 2071 
+### Chapter 2071
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Lone Bamboo chased the red cloud up into the air, slashing faster and faster with his blade. But the red cloud was way too quick, and it managed to avoid each and every one of Lone Bamboo’s sword airs.
+Lone Bamboo chased the red cloud up into the air, slashing faster and faster with his blade. But the red cloud was way too quick, and it managed to avoid each and every one of Lone Bamboo’s sword airs.
 
 “I will help!” Han Sen drew his knife and swung it towards the red cloud. He summoned the wings on his ears, and his speed increased.
 

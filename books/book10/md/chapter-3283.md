@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Violent Suppression
-### Chapter 3283 
+### Chapter 3283
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “Getting locked on by the dragon spear’s power is something not even a real God Spirit can escape. You should just concede.” Shoot Shadow used one hand to hold the dragon spear. The other hand generated a weird, dark power.
+“Getting locked on by the dragon spear’s power is something not even a real God Spirit can escape. You should just concede.” Shoot Shadow used one hand to hold the dragon spear. The other hand generated a weird, dark power.
 
 The dark shadow-looking power did not come from the dragon spear. It was Shoot Shadow’s Break World power.
 

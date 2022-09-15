@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Demon Grave
-### Chapter 1792 
+### Chapter 1792
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Mister Ji told Han Sen that the Aqua-Scale Snakes were a powerful race, but of the lesser variety. They were strong enough to challenge the higher races that were in the geno hall. They had tried once, but fell short of being able to claim a lantern. The high race had killed almost all of them in return for the boldness.
+Mister Ji told Han Sen that the Aqua-Scale Snakes were a powerful race, but of the lesser variety. They were strong enough to challenge the higher races that were in the geno hall. They had tried once, but fell short of being able to claim a lantern. The high race had killed almost all of them in return for the boldness.
 
 The Aqua-Scale Armor was made from the xenogeneic snakes that had died in the battle. It eventually came into Demon’s possession, and then Mister Ji’s personal ownership.
 

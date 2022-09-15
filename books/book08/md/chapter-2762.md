@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Dead Yesterday, Alive Today
-### Chapter 2762 
+### Chapter 2762
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Ancient Devil gave Han Sen a predatory grin. “Haven’t you heard about dying and then being reborn? If you don’t die, how are you supposed to dodge Super Space Slash?”
+Ancient Devil gave Han Sen a predatory grin. “Haven’t you heard about dying and then being reborn? If you don’t die, how are you supposed to dodge Super Space Slash?”
 
 Han Sen had heard of rebirth before, but he didn’t know what it had to do with Super Space Slash. He wanted to find a way to counter Super Space Slash because he wanted to live. What was the point of killing himself?
 

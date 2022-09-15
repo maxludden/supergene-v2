@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Wind String
-### Chapter 2553 
+### Chapter 2553
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Because of the videos that Kings in the core area made and distributed, many elites across the universe were able to watch what was going on there. After hearing what Elysian Moon said, many angry eyes focused on Han Sen. Countless young men wanted to beat up Han Sen to save those two pretty girls.
+Because of the videos that Kings in the core area made and distributed, many elites across the universe were able to watch what was going on there. After hearing what Elysian Moon said, many angry eyes focused on Han Sen. Countless young men wanted to beat up Han Sen to save those two pretty girls.
 
 Of course, young men who thought that way generally didn’t have the necessary rank to visit the core area. The Kings that were watching from inside the core area didn’t move.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Tattoo
-### Chapter 418 
+### Chapter 418
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  In his room at Steel Armor Shelter, Han Sen felt a strong headache as he looked at Zero who was sitting opposite him.
+In his room at Steel Armor Shelter, Han Sen felt a strong headache as he looked at Zero who was sitting opposite him.
 
 Back to the day when they were in the cave, Zero insisted on following him in silence. She would walk as Han Sen did and stop when he stopped. When Han Sen could something, she would eat it without apologies. When Han Sen asked her something, she would just nod or shake her head.
 

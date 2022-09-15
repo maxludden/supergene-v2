@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Devil Ant King Beast Soul
-### Chapter 701 
+### Chapter 701
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  <div class="tables">
+<div class="tables">
 	<table class="status">
 		<tr>
 			<th colspan="2">Han Sen</th>

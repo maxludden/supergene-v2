@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Strange Demigod
-### Chapter 1318 
+### Chapter 1318
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen waited for Dragon King to finish his speech, but he struggled to believe the validity of the tale he had just been told.
+Han Sen waited for Dragon King to finish his speech, but he struggled to believe the validity of the tale he had just been told.
 
 If Ancient Devil Emperor wanted to fight a demigod, would it even be possible for him to be careless enough to allow a subordinate to not only stealing his kill, but take the Demi-God Geno Core, as well?
 

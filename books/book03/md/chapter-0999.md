@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Blue Ape
-### Chapter 999 
+### Chapter 999
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “Little Han, is it a sacred-blood creature?” Old Huang asked.
+“Little Han, is it a sacred-blood creature?” Old Huang asked.
 
 Han Sen nodded, saying, “Yes, it is.”
 

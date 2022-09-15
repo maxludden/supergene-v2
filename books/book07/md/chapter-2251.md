@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## What a Good Person
-### Chapter 2251 
+### Chapter 2251
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “General Ghost Bone, you are to receive so many benefits off me, can you at least let me die as an educated man?” Han Sen spoke it strangely.
+“General Ghost Bone, you are to receive so many benefits off me, can you at least let me die as an educated man?” Han Sen spoke it strangely.
 
 General Ghost Bone stopped his cackling and said, “Thank you for doing so much for me, but I am afraid I do not have the time to talk with you. All you need to know is that the relic you recovered is a key that enables the opening of Sacred leader’s treasure box. When I get the relic from the holy monument, I will use your body to travel around the world. Your body will most certainly be a famous one. You will not be dying in vain.”
 

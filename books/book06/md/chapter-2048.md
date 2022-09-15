@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Planet Sky Cloud
-### Chapter 2048 
+### Chapter 2048
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen lifted his hand toward Jade Ming’er. Jade Ming’er’s body was instantly bound and lifted toward Han Sen.
+Han Sen lifted his hand toward Jade Ming’er. Jade Ming’er’s body was instantly bound and lifted toward Han Sen.
 
 The shura queen was nervous, but she was the monarch of the shura. So, she frowned and said, “Are you just here to cause trouble with a girl?”
 

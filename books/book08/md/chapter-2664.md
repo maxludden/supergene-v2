@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Deified Set
-### Chapter 2664 
+### Chapter 2664
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “You aren’t going to tell him about all the bets that have been placed on his performance?”
+“You aren’t going to tell him about all the bets that have been placed on his performance?”
 
 “What is the point in him knowing that? Are we going to make him fight for his life against a born-deified? I don’t want to have to find another silkworm,” Exquisite said.
 

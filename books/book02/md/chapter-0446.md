@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Shocked
-### Chapter 446 
+### Chapter 446
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  "If we do not join your gang, how much do we need to pay for an ice-armored beast?" A middle-aged man in his 40s or 50s asked Han Sen.
+"If we do not join your gang, how much do we need to pay for an ice-armored beast?" A middle-aged man in his 40s or 50s asked Han Sen.
 
 "An A-Class Saint Hall license of the evolver level," Han Sen said determinedly.
 

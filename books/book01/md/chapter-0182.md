@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Black-feathered Beast
-### Chapter 182 
+### Chapter 182
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  At this point the SK series had become a synonym for high-end warframes. Han Sen had also become quite a celebrity among the unevolved.
+At this point the SK series had become a synonym for high-end warframes. Han Sen had also become quite a celebrity among the unevolved.
 
 In Steel Armor Shelter, Yang Manli widened her eyes, glaring at Han Sen. "Why? Why would you want to refuse to Digang’s new warframe SK Wolf?"
 

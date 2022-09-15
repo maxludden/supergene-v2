@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Symbol
-### Chapter 3328 
+### Chapter 3328
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The black jade little beast’s body slowly moved. It looked stiff. It was like a rusted robot.
+The black jade little beast’s body slowly moved. It looked stiff. It was like a rusted robot.
 
 Every time it moved, some cracks formed on the jade-stone shell. The cracks were getting bigger and bigger. Huge chunks of it fell off. There was wet, black hair underneath the black jade shell.
 

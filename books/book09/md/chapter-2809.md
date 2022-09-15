@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Beast Soul Combined
-### Chapter 2809 
+### Chapter 2809
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Bao Ying stayed in the garden for some time. She read about manners to Han Sen, but it was more like she was reading a book.
+Bao Ying stayed in the garden for some time. She read about manners to Han Sen, but it was more like she was reading a book.
 
 Han Sen felt a little strange about it. No matter how strong the Extreme King was, he did not think they were strong enough to use deified elites for a maid. A maid like Bao Ying was being treated as a usual servant.
 

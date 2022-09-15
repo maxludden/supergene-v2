@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Wedding Dress Skill
-### Chapter 980 
+### Chapter 980
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The silver-scaled aqua dragon was injured, and it was the one from earlier. It seemed as if its fight with Yaksha had been a brutal one. But even though it was injured, if it still sought to pick a fight with him, Han Sen couldn’t use super king spirit mode or even hope to beat it.
+The silver-scaled aqua dragon was injured, and it was the one from earlier. It seemed as if its fight with Yaksha had been a brutal one. But even though it was injured, if it still sought to pick a fight with him, Han Sen couldn’t use super king spirit mode or even hope to beat it.
 
 “This kid is cute…” Han Sen patted the little dragon’s head and looked awkward, all in an attempt to hide what he had been doing.
 

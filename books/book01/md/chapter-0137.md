@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Heavy Warframes
-### Chapter 137 
+### Chapter 137
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Shi was dumbfounded, but he could not take back his words, so they all had to go. The next morning, Wang Mengmeng sent a text to invite the four of them to fill in the application form at Heavy Warframe Society.
+Shi was dumbfounded, but he could not take back his words, so they all had to go. The next morning, Wang Mengmeng sent a text to invite the four of them to fill in the application form at Heavy Warframe Society.
 
 Fortunately, there were three beautiful girls, Wang Mengmeng, Wang Chun and Li Zhenzhen. Therefore they thought Heavy Warframe Society would not be so unbearable.
 

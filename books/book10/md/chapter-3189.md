@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## A Name That Cannot Be Spoken
-### Chapter 3189 
+### Chapter 3189
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Bao’er blinked and looked at Rocky Dee. After a while, she asked, “Do you know who I am?”
+Bao’er blinked and looked at Rocky Dee. After a while, she asked, “Do you know who I am?”
 
 “Yes… No, no, no…” Rocky Dee was not making much sense.
 

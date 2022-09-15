@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Killing Hell
-### Chapter 1881 
+### Chapter 1881
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “If we can get back to Purgatory Heaven, maybe I can try,” Guna said.
+“If we can get back to Purgatory Heaven, maybe I can try,” Guna said.
 
 “How?” everyone asked at the same time.
 

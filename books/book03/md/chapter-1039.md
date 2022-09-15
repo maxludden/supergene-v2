@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Let Them Fight, Grab the Spoils
-### Chapter 1039 
+### Chapter 1039
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen was shocked, to say the least. He had not expected the two to have known each other. He was hoping Xie Qing King would be freed to eliminate Holy-Sword Emperor, but that wasn’t looking likely now.
+Han Sen was shocked, to say the least. He had not expected the two to have known each other. He was hoping Xie Qing King would be freed to eliminate Holy-Sword Emperor, but that wasn’t looking likely now.
 
 “You remember me?” Xie Qing King asked, with a smirk.
 

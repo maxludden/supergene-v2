@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Accident?
-### Chapter 3378 
+### Chapter 3378
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  He only knew two Reboot God Spirits. One of them was Bao’er’s father. The other was the God Hall Leader, God, who was currently in front of him.
+He only knew two Reboot God Spirits. One of them was Bao’er’s father. The other was the God Hall Leader, God, who was currently in front of him.
 
 If Qin Xiu had a Reboot-class God Spirit gene, there was a 90% chance that the one Qin Xiu had was not the one currently in front of him. That seemed to leave out one of the options, which meant there was only one possibility remaining.
 

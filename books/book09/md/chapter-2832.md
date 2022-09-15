@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## You Are Not Qualified Enough
-### Chapter 2832 
+### Chapter 2832
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  "Do you know why you are not able to practice it, but I can practice it?" Han Sen looked at the Very High Leader.
+"Do you know why you are not able to practice it, but I can practice it?" Han Sen looked at the Very High Leader.
 
 The Very High Leader looked at Han Sen and asked, "Why?" That was what he was wondering too.
 

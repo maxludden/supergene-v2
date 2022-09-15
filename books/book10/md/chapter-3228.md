@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## You Are Back
-### Chapter 3228 
+### Chapter 3228
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Many god plants were in Space Garden. One could not imagine it. Han Sen did not know if this was the result of Space Garden itself or if it had to do something with the entire geno universe exhibiting such changes.
+Many god plants were in Space Garden. One could not imagine it. Han Sen did not know if this was the result of Space Garden itself or if it had to do something with the entire geno universe exhibiting such changes.
 
 Han Sen remembered God Hall Leader told him that because his fight against World King God was too destructive, the universe of kingdoms and geno universe were affected. The universe of kingdoms had an abundance of pulses and gene eggs appear. The geno universe had changed too, but God Hall Leader did not elaborate. If this was it, Han Sen never expected the changes to be so grand.
 

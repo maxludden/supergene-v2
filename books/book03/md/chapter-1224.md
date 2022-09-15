@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## The Coming Storm
-### Chapter 1224 
+### Chapter 1224
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen used his lightning-derived healing ability, the ability he had received from silver fox, to start healing Xie Qing King’s wounds. It exhausted Han Sen, and if Xie Qing King was to fully recover, it’d take a few days.
+Han Sen used his lightning-derived healing ability, the ability he had received from silver fox, to start healing Xie Qing King’s wounds. It exhausted Han Sen, and if Xie Qing King was to fully recover, it’d take a few days.
 
 Inside the shelter’s palace, Han Sen brought out the Cruel Bottle and released Qing Jun.
 

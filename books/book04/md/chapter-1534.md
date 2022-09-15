@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Destiny’s Tower
-### Chapter 1534 
+### Chapter 1534
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “Is that the big chimenea?” Little Fairy looked in the direction that the chimenea had flown.
+“Is that the big chimenea?” Little Fairy looked in the direction that the chimenea had flown.
 
 Six Paths thought for a moment. “I’m not sure. What it looked like was never described, but I’m sure there was never a mention of blue flames or a number of Black Seahorses dragging it around.”
 

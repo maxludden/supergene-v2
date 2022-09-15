@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Xenogeneic Breaking the Doo
-### Chapter 1735 
+### Chapter 1735
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen was on his way back to Qiao. Mister Tiger offered to take him home, but Han Sen politely declined.
+Han Sen was on his way back to Qiao. Mister Tiger offered to take him home, but Han Sen politely declined.
 
 Since Han Sen had nothing better to do, it was best that he exercised, anyway.
 

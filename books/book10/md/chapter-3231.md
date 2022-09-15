@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Xuan Beginner
-### Chapter 3231 
+### Chapter 3231
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The Break World powers in the geno universe were much harder to achieve than they were in the universe of kingdoms. Mister Bai’s ability to muster Break World powers there was not just a testament to his talent and prowess.
+The Break World powers in the geno universe were much harder to achieve than they were in the universe of kingdoms. Mister Bai’s ability to muster Break World powers there was not just a testament to his talent and prowess.
 
 “The geno universe has a Break World person. If the 33 skies are broken through, it is not as if we will be unable to fight back against the invaders.” Han Sen was not worried about the Break World elites. Qin Xiu and Wan’er were the ones he feared. He viewed them as the biggest problem.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## The Real Traitor
-### Chapter 2184 
+### Chapter 2184
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Everyone’s attention was drawn to the shout; even Han Sen’s. The voice had come from Toxic Dragon Old Six. He was flecked with blood, and a black shape had been seared into his chest that looked like a woman’s hand.
+Everyone’s attention was drawn to the shout; even Han Sen’s. The voice had come from Toxic Dragon Old Six. He was flecked with blood, and a black shape had been seared into his chest that looked like a woman’s hand.
 
 The handprint had burned through Toxic Dragon Old Six’s dragon scales, branding his chest with its black mark.
 

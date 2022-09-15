@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Charming God’s Jian
-### Chapter 2592 
+### Chapter 2592
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen fired the purple copper jian like an arrow once more. This time, he put even more power into it. The moment the jian left the string of the Six Core Snake Bow, it teleported and disappeared.
+Han Sen fired the purple copper jian like an arrow once more. This time, he put even more power into it. The moment the jian left the string of the Six Core Snake Bow, it teleported and disappeared.
 
 “Teleportation won’t work against me unless you can teleport without causing a ripple in the fabric of space,” Meng Lie said coldly. And then, he reached his hand out into the air.
 

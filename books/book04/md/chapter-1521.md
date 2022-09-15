@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Old Bee Tree
-### Chapter 1521 
+### Chapter 1521
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  They had been too busy killing the ant king, and they hadn’t paid attention to what else was going on. They heard a noise, and they finally noticed a dome-like cave ahead of them, and an old tree inside it.
+They had been too busy killing the ant king, and they hadn’t paid attention to what else was going on. They heard a noise, and they finally noticed a dome-like cave ahead of them, and an old tree inside it.
 
 The old tree possessed a lot of fruit, but they were certainly abnormal. They looked like bees, and they were around the same size as a man’s fist.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Holy Garden
-### Chapter 2932 
+### Chapter 2932
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Moon Shadow God wanted to retreat into the darkness. Han Sen realized she was very nimble, but her moving distance with each evasion was very short. It was like she hadn’t moved at all.
+Moon Shadow God wanted to retreat into the darkness. Han Sen realized she was very nimble, but her moving distance with each evasion was very short. It was like she hadn’t moved at all.
 
 The radius of the time area was very small. Unless the enemy was at a close distance, it was very difficult to restrict and restrain the movements of an opponent.
 

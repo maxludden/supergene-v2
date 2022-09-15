@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Mutant Sawfish Spear
-### Chapter 68 
+### Chapter 68
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  "Meow..." Meowth was circling around the fire rapidly. In the fire, there were pieces of jelly-like sawfish meat. When heated up, the oil oozed from the fish, sizzling with a strong and fresh fragrance, making one’s mouth water even from afar.
+"Meow..." Meowth was circling around the fire rapidly. In the fire, there were pieces of jelly-like sawfish meat. When heated up, the oil oozed from the fish, sizzling with a strong and fresh fragrance, making one’s mouth water even from afar.
 
 Han Sen threw a large piece of cooked sawfish to Meowth and took one for himself. The fatty fish almost melted in his mouth, making him want to swallow his tongue.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Blood-horn Shura
-### Chapter 730 
+### Chapter 730
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen was in the midst of preparing for his journey. His road up to the Black Desert would most likely be free from trouble, but the difficulties would begin after he entered that land. He would have to cross that perilous region before he reached another human shelter where he could restock his provisions.
+Han Sen was in the midst of preparing for his journey. His road up to the Black Desert would most likely be free from trouble, but the difficulties would begin after he entered that land. He would have to cross that perilous region before he reached another human shelter where he could restock his provisions.
 
 According to the Ares Martial Hall's predictions, should nothing too awry present itself, it would take Han Sen a month to cross the Black Desert. If troubles did arise, no one knew whether or not he would emerge from that place ever again.
 

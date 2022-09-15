@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Crystallizer Ruin
-### Chapter 463 
+### Chapter 463
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  "Han Sen and the rest took down the aristocrat spirit shelter!"
+"Han Sen and the rest took down the aristocrat spirit shelter!"
 
 "Is it true?"
 

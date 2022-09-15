@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Traveling Through a Sea of Stars
-### Chapter 1532 
+### Chapter 1532
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The two continued to fight, as glaciers all around them were destroyed.
+The two continued to fight, as glaciers all around them were destroyed.
 
 “You guys should take a look at this!” Little Fairy suddenly shouted, as Han Sen was fixated on watching the fight.
 

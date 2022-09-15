@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## A Hero to Save the Beauties
-### Chapter 2552 
+### Chapter 2552
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen had no interest in humiliating Ji Yang Sheng, and he didn’t really want to get in the carriage. He just wanted to see if he could draw out some of the Demons that might be nearby.
+Han Sen had no interest in humiliating Ji Yang Sheng, and he didn’t really want to get in the carriage. He just wanted to see if he could draw out some of the Demons that might be nearby.
 
 If they wanted to save Ji Yang Sheng or eliminate Han Sen, it would be hard for them to do that in the core area. It would likely prompt would-be saviors to use their Demon Dolls.
 

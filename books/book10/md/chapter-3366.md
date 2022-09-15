@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Killing Tail Fire Beast
-### Chapter 3366 
+### Chapter 3366
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  While everyone’s emotions were in the realm of weirdness, something strange happened. A vortex appeared in the sea of fire. A lot of fire went into the vortex.
+While everyone’s emotions were in the realm of weirdness, something strange happened. A vortex appeared in the sea of fire. A lot of fire went into the vortex.
 
 Everyone was quickly able to see Han Sen’s holy body manifest inside the swirl. It was a bit different from what they previously believed.
 

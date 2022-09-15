@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Flame Lieutenant
-### Chapter 285 
+### Chapter 285
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  > "Beast soul identified. Sacred-blood beast soul flame Lieutenant gained."
+> "Beast soul identified. Sacred-blood beast soul flame Lieutenant gained."
 
 Han Sen was slightly disappointed that he did not get a super beast soul, but he understood that it was normal not to win the lottery.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Giving Blood-pulse
-### Chapter 3090 
+### Chapter 3090
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Feather Fairy had said that there were scare gene races close to Holy Light Mountain, so Han Sen was worried. He did not want any more trouble just yet. With Mister Yang in tow, he sneakily climbed the mountain.
+Feather Fairy had said that there were scare gene races close to Holy Light Mountain, so Han Sen was worried. He did not want any more trouble just yet. With Mister Yang in tow, he sneakily climbed the mountain.
 
 Ever since he had encountered the big sky demon, Han Sen knew this world was a weird place. He was unable to get through everything alone. He needed to keep a low profile and try not to draw too much attention to himself.
 

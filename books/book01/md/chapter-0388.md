@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Super Pet Armor
-### Chapter 388 
+### Chapter 388
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen found a hidden spot and started to appreciate his newly gained super beast soul in excitement.
+Han Sen found a hidden spot and started to appreciate his newly gained super beast soul in excitement.
 
 <div class="tables">
 	<table class="beast">

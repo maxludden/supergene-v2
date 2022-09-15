@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Revenge
-### Chapter 1446 
+### Chapter 1446
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “What’s going on with Han Sen?” Qing Le asked Cheap Sheep, as he walked inside.
+“What’s going on with Han Sen?” Qing Le asked Cheap Sheep, as he walked inside.
 
 Cheap Sheep looked at the spirit with disdain and answered, “His brain had problems. We chased him off, seeing there was no point keeping a simpleton around. Having an idiot running the place would be silly.”
 

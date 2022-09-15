@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Finishing Himself
-### Chapter 2743 
+### Chapter 2743
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  He had been trying his best to fight off the sad mind, so he had only experienced the surface of the emotion. Now that he was letting himself go and allowing his mind to freefall into the sad mind, however, he could understand it at a deeper level.
+He had been trying his best to fight off the sad mind, so he had only experienced the surface of the emotion. Now that he was letting himself go and allowing his mind to freefall into the sad mind, however, he could understand it at a deeper level.
 
 But the price he had to pay for that understanding was quite scary. In mere moments, suicidal impulses had passed through Han Sen six times.
 

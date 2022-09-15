@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Ghost Butterfly
-### Chapter 696 
+### Chapter 696
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  "Friend, I was trying to help you." Han Sen smiled at Philip.
+"Friend, I was trying to help you." Han Sen smiled at Philip.
 
 But Philip looked troubled and said, "I wanted to take her away from Devil's Mountain. I wasn't interested in this woman at all, but after what you have done, if you do not stay, I will be in trouble when she wakes up."
 

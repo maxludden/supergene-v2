@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Bring It if You Want to
-### Chapter 2209 
+### Chapter 2209
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Night River King thought Han Sen wouldn’t be allowed to go with the Extreme King, but when he saw the recruitment roster the next day, Han Sen’s name was on it. This made him exuberantly happy.
+Night River King thought Han Sen wouldn’t be allowed to go with the Extreme King, but when he saw the recruitment roster the next day, Han Sen’s name was on it. This made him exuberantly happy.
 
 Han Sen had just been added that day. Seeing his name there made Night River King want to scream in joy.
 

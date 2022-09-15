@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Woman in the Palace
-### Chapter 2244 
+### Chapter 2244
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Peering into the pool that looked to have been made of white jade, you could see a woman in knitted clothing. The white yarn of her threads in the water looked transparent, and you could almost see every aspect of her body.
+Peering into the pool that looked to have been made of white jade, you could see a woman in knitted clothing. The white yarn of her threads in the water looked transparent, and you could almost see every aspect of her body.
 
 Han Sen had seen many beautiful women in his time, but very few ever attracted him. This woman, however, was so attractive. It was the first time he had felt this way.
 

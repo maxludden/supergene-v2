@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Cold Palace
-### Chapter 2169 
+### Chapter 2169
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “Knife Queen is allowing Han Sen to become a Cold Palace Guardian. That will obviously help him gain the profits he wants.” Night River King’s icy voice filled an office in Full Moon.
+“Knife Queen is allowing Han Sen to become a Cold Palace Guardian. That will obviously help him gain the profits he wants.” Night River King’s icy voice filled an office in Full Moon.
 
 “Knife Queen is the Cold Palace Guardian. She has been summoned to the Extreme King. It is only expected that her student should take her place,” Black Moon King responded evenly.
 

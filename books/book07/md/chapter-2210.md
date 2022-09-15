@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Black Hole Spider
-### Chapter 2210 
+### Chapter 2210
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Inside a ship that was bound for the systems of chaos, Han Sen and Han Yan were engaged in a card game. They had been flying for a long time, and boredom had set in.
+Inside a ship that was bound for the systems of chaos, Han Sen and Han Yan were engaged in a card game. They had been flying for a long time, and boredom had set in.
 
 The Ice Blue Knights wouldn’t play card games, even if they were bored to death.
 

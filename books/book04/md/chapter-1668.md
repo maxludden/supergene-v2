@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Armored Man’s Secret
-### Chapter 1668 
+### Chapter 1668
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “What is wrong with that guy? Has he been locked up for so long that he wants to die?” Han Sen wondered.
+“What is wrong with that guy? Has he been locked up for so long that he wants to die?” Han Sen wondered.
 
 But seeing Armored Man’s face, he didn’t look quite crazy.
 

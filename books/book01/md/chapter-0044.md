@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## He Isn't Man Enough
-### Chapter 44 
+### Chapter 44
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen could tell that Yang Manli did not like him. When he was ready to go, Yang Manli answered a comlink call and Qin Xuan’s holographic image popped out.
+Han Sen could tell that Yang Manli did not like him. When he was ready to go, Yang Manli answered a comlink call and Qin Xuan’s holographic image popped out.
 
 "Manli, come to my office right now." Qin Xuan saw Han Sen there and said, "Bring him with you."
 

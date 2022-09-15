@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Nest
-### Chapter 279 
+### Chapter 279
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  "That's it…" Han Sen was overjoyed when looking at the odd shape of mountains.
+"That's it…" Han Sen was overjoyed when looking at the odd shape of mountains.
 
 The only place that would guarantee a beast soul in God's Sanctuary was the nest of creatures, in addition to the Mystery Island.
 

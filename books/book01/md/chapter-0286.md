@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Sacred-blood Ghost-eyed Bear
-### Chapter 286 
+### Chapter 286
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen also felt it was about time that Xu Ruyan made the move, so he did not expect that she would order three more mutant ghost-eyed bears from him.
+Han Sen also felt it was about time that Xu Ruyan made the move, so he did not expect that she would order three more mutant ghost-eyed bears from him.
 
 "The Starry Group is indeed full of wealthy people!" Han Sen thought his source of income had already drained, and did not realize that Xu Ruyan was such a big spender.
 

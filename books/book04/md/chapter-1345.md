@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## The Boss of Jade Hill
-### Chapter 1345 
+### Chapter 1345
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The chef approached Han Sen with her cleaver in-hand. Just as Han Sen was about to retaliate with Super Spank, he heard a chilly voice boom from the skies.
+The chef approached Han Sen with her cleaver in-hand. Just as Han Sen was about to retaliate with Super Spank, he heard a chilly voice boom from the skies.
 
 “Did you kill the primitive creatures?”
 

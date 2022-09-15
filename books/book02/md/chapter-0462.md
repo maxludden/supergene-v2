@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Snow Charmer
-### Chapter 462 
+### Chapter 462
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  In Han Sen's mind, a spirit stone that looked like a piece of ice decorated with lots of mysterious patterns was floating. In the middle, two strange words "Snow Charmer" were imprinted. Although Han Sen did not know the language, he somehow knew what it meant.
+In Han Sen's mind, a spirit stone that looked like a piece of ice decorated with lots of mysterious patterns was floating. In the middle, two strange words "Snow Charmer" were imprinted. Although Han Sen did not know the language, he somehow knew what it meant.
 
 Han Sen summoned the spirit, and the stone suddenly flew out of his mind, turning into her figure.
 
@@ -23,7 +24,7 @@ Initially, the creatures inside the spirit shelter were following Snow Charmer's
 
 Snow Charmer wielded her spear and entered the group of mutant creatures. Her fitness was better than normal mutant creatures initially. With her great intelligence and spear skills, she killed her way into the mutant creatures and slaughtered a snow wolf very soon.
 
-"Snow Charmer killed a mutant creature snow-toothed wolf. Beast soul of snow-toothed wolf gained. Do you want to withdraw the beast soul?" A voice sounded in Han Sen's mind as Snow Charmer killed the snow-toothed wolf.
+> "Snow Charmer killed a mutant creature snow-toothed wolf. Beast soul of snow-toothed wolf gained. Do you want to withdraw the beast soul?" A voice sounded in Han Sen's mind as Snow Charmer killed the snow-toothed wolf.
 
 "Withdraw."
 
@@ -35,7 +36,8 @@ When the spirits were killed, the beast souls they carried would also disappear.
 
 Although there were many limitations, the intelligence, skills, and ability to make judgment of spirits made them much better than ordinary beast souls. Especially, spirits had the ability to use beast souls, which meant they could be used like human partners, while beast souls were more like tools.
 
-"Withdrawal successful. Beast soul snow-toothed wolf gained." Very soon, a voice sounded in Han Sen's mind and a new beast soul appeared.
+> "Withdrawal successful. Beast soul snow-toothed wolf gained." 
+Very soon, a voice sounded in Han Sen's mind and a new beast soul appeared.
 
 Han Sen had no time to check his newly gained beast soul and continued to hunt mutant creatures with Snow Charmer.
 
@@ -43,7 +45,7 @@ Snow Charmer had great spear skills. She even injured the sacred-blood monster o
 
 The spear was wielded like a tornado. The lean body of Snow Charmer gave off incredible strength. A snow bear was hunted soon.
 
-"Snow Charmer killed mutant creature snow polar bear. No beast soul gained."
+> "Snow Charmer killed mutant creature snow polar bear. No beast soul gained."
 
 The creatures outside the hall became a mess. They either ran away or defended themselves only, no longer fierce as before.
 

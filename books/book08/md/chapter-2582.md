@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Retreat
-### Chapter 2582 
+### Chapter 2582
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The monster was like a fighting machine. It could rotate 360 degrees in a moment, and it could release tentacles from any part of its body. The tentacles could weave themselves together to create whatever weapon or defense best suited the needs of its fight.
+The monster was like a fighting machine. It could rotate 360 degrees in a moment, and it could release tentacles from any part of its body. The tentacles could weave themselves together to create whatever weapon or defense best suited the needs of its fight.
 
 The scariest thing about it was that the tentacles were deified class. And the whole composition of the beast had a strong life power. No matter how many times it was struck, it could recompose itself. Facing such an opponent, Han Sen and the little red bird weren’t sure what to do.
 

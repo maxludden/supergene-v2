@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Han Sen's Challenge
-### Chapter 2873 
+### Chapter 2873
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “Finally moved.” Han Sen quickly looked at the other name. He noticed Zhang Xuandao was challenging Ancient Sacrifice God, who was ranked sixth.
+“Finally moved.” Han Sen quickly looked at the other name. He noticed Zhang Xuandao was challenging Ancient Sacrifice God, who was ranked sixth.
 
 Ancient Sacrifice God was one of the Ancient Gods, and he was the highest-ranked person within the Ancient Gods.
 

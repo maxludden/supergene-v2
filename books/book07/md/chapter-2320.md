@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Refinemen
-### Chapter 2320 
+### Chapter 2320
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen didn’t answer. He spread his Eternity solidifying powers all over himself. His body became solid and unchangeable, halting Bai Yi’s invasion in its tracks. It solidified Bai Yi’s Original Water King Body as well. It couldn’t invade Han Sen’s cells any further, and it couldn’t retreat either.
+Han Sen didn’t answer. He spread his Eternity solidifying powers all over himself. His body became solid and unchangeable, halting Bai Yi’s invasion in its tracks. It solidified Bai Yi’s Original Water King Body as well. It couldn’t invade Han Sen’s cells any further, and it couldn’t retreat either.
 
 But Eternity’s solidifying properties could only lock things down as they were. It was unable to erase the Original Water King Body that had already established its encroaching presence.
 

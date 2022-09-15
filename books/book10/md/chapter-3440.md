@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Geno Tablet Fights End
-### Chapter 3440 
+### Chapter 3440
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The Sky’s shadow was becoming bigger in Han Sen’s eyes. A scary presence that could not be described with words was landing on Han Sen.
+The Sky’s shadow was becoming bigger in Han Sen’s eyes. A scary presence that could not be described with words was landing on Han Sen.
 
 The presence was scary but not enough to prompt a shift in Han Sen’s will and determination.
 

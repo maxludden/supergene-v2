@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Bows
-### Chapter 255 
+### Chapter 255
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Feng Jiulun continued to say, "Smith has recruited a lot of great students this year, especially a student named Fang Wending. If you knew anything about archery contests, you should have heard the names of Fang Hua and Feng Yunmei, the two professional archers among evolvers. Fang Wending is from such a great family background and talented himself as well. Such a star archer!"
+Feng Jiulun continued to say, "Smith has recruited a lot of great students this year, especially a student named Fang Wending. If you knew anything about archery contests, you should have heard the names of Fang Hua and Feng Yunmei, the two professional archers among evolvers. Fang Wending is from such a great family background and talented himself as well. Such a star archer!"
 
 "What you're saying is that Fang Wending is better than Han Sen at archery?" Wen Xiuxiu tried to contain her anger.
 

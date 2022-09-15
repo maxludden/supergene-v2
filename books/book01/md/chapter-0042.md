@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Dollar
-### Chapter 42 
+### Chapter 42
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  In the beginning, Zhao Boshan’s video didn’t attract much attention. After all, there were so many videos online about the robot channel test.
+In the beginning, Zhao Boshan’s video didn’t attract much attention. After all, there were so many videos online about the robot channel test.
 
 7.88 seconds was also considered a gimmick, as those who could pass the test within ten seconds would be among the very best of the unevolved.
 

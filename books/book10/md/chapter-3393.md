@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Fighting Ancient Devil
-### Chapter 3393 
+### Chapter 3393
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  It was an imperial jade seal. It was white at the bottom and red on the top. Its four corners were like white jade.
+It was an imperial jade seal. It was white at the bottom and red on the top. Its four corners were like white jade.
 
 The beast on top was red. It crouched on the seal. It was like a monkey with a sharp mouth. It had wings on its back. It looked very beautiful.
 

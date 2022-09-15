@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Returning to First
-### Chapter 1417 
+### Chapter 1417
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “It wasn’t a bad bargain, all things considered.” After trying out the armor for a bit, Han Sen grew rather fond of it. Its properties were right up his alley, in how it masked the user inside and obscured their lifeforce. Its defense-boosting was remarkable.
+“It wasn’t a bad bargain, all things considered.” After trying out the armor for a bit, Han Sen grew rather fond of it. Its properties were right up his alley, in how it masked the user inside and obscured their lifeforce. Its defense-boosting was remarkable.
 
 Geno core armor was also defined differently than beast soul armor, and if you wanted to, you could use a set of each at the same time.
 

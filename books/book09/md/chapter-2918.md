@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## A Fish Hostage
-### Chapter 2918 
+### Chapter 2918
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen clutched the sword tightly and did not let go. He rode on the back of the little goldfish. No matter how much it struggled, he did not let go.
+Han Sen clutched the sword tightly and did not let go. He rode on the back of the little goldfish. No matter how much it struggled, he did not let go.
 
 Upon witnessing this scene, the big goldfish was angry. All of its metal scales straightened and turned into 10,000 gold-scaled god lights. It was like there was a sky full of knife lights heading for Han Sen. They were going to slice and dice him into little pieces.
 

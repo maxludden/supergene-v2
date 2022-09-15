@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Universal Core Area
-### Chapter 2392 
+### Chapter 2392
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen wasn’t surprised by the appearance of the door behind the cogwheels. Instead, he let himself be pulled through.
+Han Sen wasn’t surprised by the appearance of the door behind the cogwheels. Instead, he let himself be pulled through.
 
 This was a necessary part of the process of becoming a King. Whenever a King class creature successfully kickstarted their self-universe cogwheel, they were given permission to enter the geno universe core area.
 

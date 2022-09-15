@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Fighting the Turtle
-### Chapter 330 
+### Chapter 330
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Sun Minghua wanted to get closer to the turtle. Jin Rijie checked the distance and did not object.
+Sun Minghua wanted to get closer to the turtle. Jin Rijie checked the distance and did not object.
 
 "Professor, the sacred-blood creature is something different. Last time, a lot of people from Glory Shelter were flying to hunt it, while they not only failed but also lost many men. How about we stay farther from it?" Han Sen tried to talk the professor out of it.
 

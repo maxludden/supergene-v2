@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Sacred Leader That Cannot Be Replaced
-### Chapter 2938 
+### Chapter 2938
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen looked at Nine Thousand King and did not say anything. If Sacred really did have such a place, even a scary fight like that could not be held at bay. If so, Sacred would not have disappeared down the river of time.
+Han Sen looked at Nine Thousand King and did not say anything. If Sacred really did have such a place, even a scary fight like that could not be held at bay. If so, Sacred would not have disappeared down the river of time.
 
 Nine Thousand King had an expression that implied he understood what Han Sen was thinking. He coldly laughed. “This place is where the Sacred people lived. Even God Spirits cannot access that place. For Sacred to rule the whole world and kill countless God Spirits and remain standing for billions of years, it was all because of that palace. Even God Spirits could do nothing more than look at it. If the elites in Sacred were still there back then, they would be in that palace even now.”
 

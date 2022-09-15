@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Demi-god Association
-### Chapter 1364 
+### Chapter 1364
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “I assure you, folks, the Hidden Valley is where the Starsea Beast is buried. If we can find its bones, we will be showered with the most magnificent of rewards.” Inside the room, Green Cow reclined backwards on two hooves against a wall. With her two raised legs, she alternated between crossing them casually, patting her chest, and playing with her udders.
+“I assure you, folks, the Hidden Valley is where the Starsea Beast is buried. If we can find its bones, we will be showered with the most magnificent of rewards.” Inside the room, Green Cow reclined backwards on two hooves against a wall. With her two raised legs, she alternated between crossing them casually, patting her chest, and playing with her udders.
 
 Han Sen had come to the understanding that the Hidden Valley mentioned by Green Cow was once occupied by a sacred-blood creature named Starsea Beast, who had been very territorial.
 

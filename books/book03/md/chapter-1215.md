@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Equinox Hellpool
-### Chapter 1215 
+### Chapter 1215
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “You can take it?” Han Sen asked.
+“You can take it?” Han Sen asked.
 
 “Even though it is associated with the element of space, its existence was wrought with thorn genes. I am associated with the element of thorns, and I am a king spirit. While it is still young, I can take it.” Thorn Queen paused for a moment, before going on to say, “With this flower, I might even become an emperor. Although the chance of that occurring is low, it is better than leaving it here for naught.”
 

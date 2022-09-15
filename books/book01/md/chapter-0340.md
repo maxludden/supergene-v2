@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Beast Souls of Second God’s Sanctuary
-### Chapter 340 
+### Chapter 340
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Yang Zikun did not ask Han Sen to meet in God's Sanctuary, but managed to get Han Sen out of Blackhawk and took him to a private club.
+Yang Zikun did not ask Han Sen to meet in God's Sanctuary, but managed to get Han Sen out of Blackhawk and took him to a private club.
 
 Han Sen had little faith in the so-called closed-door military training at this point. Those with means could always open the doors.
 

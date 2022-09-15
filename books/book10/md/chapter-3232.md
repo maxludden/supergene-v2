@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Condition
-### Chapter 3232 
+### Chapter 3232
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  When Han Sen went back to the Qin Kingdom and Feng family castle, it was only four days later.
+When Han Sen went back to the Qin Kingdom and Feng family castle, it was only four days later.
 
 He heard that the Chu Kingdom’s border had a scary ice god pulse manifest, and so the concept tempted him quite a bit.
 

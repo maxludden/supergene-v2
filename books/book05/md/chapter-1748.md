@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Teach You How to Be the Lesser Race
-### Chapter 1748 
+### Chapter 1748
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  As the blue crystal tentacle reached for the male Feather, a golden light shone down. It was a gold arrow, perforating the crystal tentacle.
+As the blue crystal tentacle reached for the male Feather, a golden light shone down. It was a gold arrow, perforating the crystal tentacle.
 
 This golden arrow was different from the others. A strange power carried it down with the force of a drillhead. It drilled right into the tentacle, until half of its shaft was driven in.
 

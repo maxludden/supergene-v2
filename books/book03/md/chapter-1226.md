@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Thunder Hell Emperor
-### Chapter 1226 
+### Chapter 1226
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen used the Night Cloak every night to sneak into Thunder Hell Shelter. On the sixth night of doing this, he found a reduced number of super creatures and king spirits in the Thunder Garden. Understanding this, he knew the time to strike was now.
+Han Sen used the Night Cloak every night to sneak into Thunder Hell Shelter. On the sixth night of doing this, he found a reduced number of super creatures and king spirits in the Thunder Garden. Understanding this, he knew the time to strike was now.
 
 He swiftly returned to the underground shelter, and with everyone gathered around, he formulated a plan that would enable him to retrieve the spirit stone.
 

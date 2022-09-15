@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Take My Punch
-### Chapter 3436 
+### Chapter 3436
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “That is very good. Yes, just like that. Let me see the true potential of your body.” Crape Myrtle watched the changes manifesting across Han Sen’s body. His eyes flickered with a weird light. One could only hear his voice come through as mumbles.
+“That is very good. Yes, just like that. Let me see the true potential of your body.” Crape Myrtle watched the changes manifesting across Han Sen’s body. His eyes flickered with a weird light. One could only hear his voice come through as mumbles.
 
 Han Sen’s muscles were tightening, and so was his skin. He wanted to escape the pinning restrictions of the 28 lights with his strength.
 

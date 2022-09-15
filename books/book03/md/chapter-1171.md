@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Dry Bone
-### Chapter 1171 
+### Chapter 1171
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The news about Han Sen going to the fifth floor had spread. As he approached to take the test, though, the guard asked that Han Sen wait a day.
+The news about Han Sen going to the fifth floor had spread. As he approached to take the test, though, the guard asked that Han Sen wait a day.
 
 King spirits and super creatures were unable to guard there every day, so the top-dogs upstairs would have to hold a discussion and see who would best supervise the test.
 

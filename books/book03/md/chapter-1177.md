@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Geno Treasure
-### Chapter 1177 
+### Chapter 1177
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “Where is the Sky Tree?” Han Sen almost blurted out.
+“Where is the Sky Tree?” Han Sen almost blurted out.
 
 Dragon King continued talking, saying, “I cannot believe Sky King is doing this. He wishes to sacrifice everyone here. He wants you all to become fertilizer.”
 

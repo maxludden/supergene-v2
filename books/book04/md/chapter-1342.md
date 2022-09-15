@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Boss Buster
-### Chapter 1342 
+### Chapter 1342
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen learned a lot from the sheep in his time with them. He was in a portion of land called Jade Hill. It was a relatively tame location, and it was free from the presence of strong creatures. In fact, the posse Han Sen had joined up with was the biggest there.
+Han Sen learned a lot from the sheep in his time with them. He was in a portion of land called Jade Hill. It was a relatively tame location, and it was free from the presence of strong creatures. In fact, the posse Han Sen had joined up with was the biggest there.
 
 The sheep and the six-leg beasts were ordinary creatures. The spirit was only squire-class. Han Sen thought it best to stick with them, but on the second day of his time with them, the boar he had been healing went off to drink water and never returned. When they went out looking for him, all they found were its bones.
 

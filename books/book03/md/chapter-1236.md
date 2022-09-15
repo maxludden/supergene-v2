@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Not Dying and Not Hurting
-### Chapter 1236 
+### Chapter 1236
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The rhino’s horn was shining brightly, and that same light was now caressing the crumpled king spirit. Xie Qing King did not relent in his pummeling of the spirit, but no matter what he did, it just wouldn’t give up the ghost.
+The rhino’s horn was shining brightly, and that same light was now caressing the crumpled king spirit. Xie Qing King did not relent in his pummeling of the spirit, but no matter what he did, it just wouldn’t give up the ghost.
 
 Pang!
 

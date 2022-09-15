@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Standing on a Different Level
-### Chapter 1095 
+### Chapter 1095
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen understood what Wang Lin was getting at. From the perspective of an average modifier, Jadeskin was correct.
+Han Sen understood what Wang Lin was getting at. From the perspective of an average modifier, Jadeskin was correct.
 
 It was as if translating; the general meaning of something could be translated, but much of the context and nuances of a sentence could still be lost. Their views on Jadeskin weren’t flat out wrong, just lacking substance.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Fighting Qin Xiu
-### Chapter 3028 
+### Chapter 3028
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “Han Sen!” Everybody knew that it was Han Sen in front of the geno hall.
+“Han Sen!” Everybody knew that it was Han Sen in front of the geno hall.
 
 Han Sen was standing near it. He looked at Qin Xiu but did not do anything.
 

@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Metal Giant God City
-### Chapter 2147 
+### Chapter 2147
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  A giant city was nestled into the slopes of a metal mountain. The city was made of the same black metal as the mountain, and it looked like it had been carved from the mountain rather than built.
+A giant city was nestled into the slopes of a metal mountain. The city was made of the same black metal as the mountain, and it looked like it had been carved from the mountain rather than built.
 
 When viewed from afar, the city and mountain blended together until it was impossible to tell where one ended and the other began.
 

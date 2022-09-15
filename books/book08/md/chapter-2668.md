@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Empty God
-### Chapter 2668 
+### Chapter 2668
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen’s face looked weirded-out, and he couldn’t help but think, “This is so similar to what I saw in the Destiny’s Tower of the Extreme King. The man over there looked quite a bit different, though.”
+Han Sen’s face looked weirded-out, and he couldn’t help but think, “This is so similar to what I saw in the Destiny’s Tower of the Extreme King. The man over there looked quite a bit different, though.”
 
 Li Keer heard Han Sen’s thought, and she looked at the man atop the platform with shock. “Weird. It is a creature, but why does it not have a lifeforce?”
 

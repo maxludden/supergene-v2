@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Lady on the Tree
-### Chapter 1141 
+### Chapter 1141
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The big-eyed thief looked incredibly arrogant, but when it saw the golden bird, the fire on its body extinguished and it tried to flee.
+The big-eyed thief looked incredibly arrogant, but when it saw the golden bird, the fire on its body extinguished and it tried to flee.
 
 The bird wasn’t going to let it escape, though. It flapped its wings and flew towards the big-eyed thief’s rear. A countermeasure was in place, as the big-eyed thief shone gold and released a thick haze of toxic gas.
 

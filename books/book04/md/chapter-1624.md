@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Jade Shura?
-### Chapter 1624 
+### Chapter 1624
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Originally, humans weren’t very interested in the Divinity’s Bout in the Fourth Sanctuary. At most, they would watch a Divinity’s Bout to see the most powerful creatures and spirits.
+Originally, humans weren’t very interested in the Divinity’s Bout in the Fourth Sanctuary. At most, they would watch a Divinity’s Bout to see the most powerful creatures and spirits.
 
 However, when Dollar appeared on the list of competitors, lots of human demigods were interested.
 

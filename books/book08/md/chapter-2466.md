@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Fighting God
-### Chapter 2466 
+### Chapter 2466
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  “Sacred Leader made a wish?” Han Sen looked at the woman with shock.
+“Sacred Leader made a wish?” Han Sen looked at the woman with shock.
 
 The woman shook her head. “No. Sacred Leader was a very self-confident person. If he wanted to achieve immortality, he would find it by himself. He wouldn’t make a wish to another creature.”
 

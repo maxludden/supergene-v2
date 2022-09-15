@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Bio-chemical Bonefish
-### Chapter 831 
+### Chapter 831
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  "This is not right." Han Sen saw the fish floating belly-up, but noticed something amiss.
+"This is not right." Han Sen saw the fish floating belly-up, but noticed something amiss.
 
 If he had killed the transparent blighter then he should have received an announcement, but there hadn't been one.
 

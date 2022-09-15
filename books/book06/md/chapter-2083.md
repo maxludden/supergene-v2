@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Walking Sky Road Again
-### Chapter 2083 
+### Chapter 2083
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Yisha saw his Xuanyuan Dragon wings and his Stone Cow’s stoneskin, and she believed Han Sen. She couldn’t think of a better explanation, so Han Sen got away with it.
+Yisha saw his Xuanyuan Dragon wings and his Stone Cow’s stoneskin, and she believed Han Sen. She couldn’t think of a better explanation, so Han Sen got away with it.
 
 He took Bao’er back with him to Planet Eclipse. Before they left, Yisha gave Bao’er many items, including many geno fluids for general use. They were pricier than the ones Han Sen had received.
 

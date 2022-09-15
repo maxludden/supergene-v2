@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Holy Angel
-### Chapter 213 
+### Chapter 213
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  If it were any other sacred-blood creature, Han Sen would not use the sacred-blood butterfly boomerang. After all, it would be a huge waste since no one could guarantee he would gain a beast soul from a creature.
+If it were any other sacred-blood creature, Han Sen would not use the sacred-blood butterfly boomerang. After all, it would be a huge waste since no one could guarantee he would gain a beast soul from a creature.
 
 However, the sacred-blood creature from the Mystery Island would definitely yield a beast soul. In addition, it also had a sacred-blood gear, which was way better than the golden axe of the bloody slayer, which was too heavy to carry around and less sharp.
 

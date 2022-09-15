@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## The Battle Under Pressure
-### Chapter 2133 
+### Chapter 2133
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Seeing Evil Eye covered in purple fire, Han Sen frowned. When a Sky opened their Sky eye, their general strength would leap by about one whole tier. Evil Eye’s power was already above what could be expected of a Marquise, but now with the Sky eye had opened, his power was comparable to the strongest of Dukes.
+Seeing Evil Eye covered in purple fire, Han Sen frowned. When a Sky opened their Sky eye, their general strength would leap by about one whole tier. Evil Eye’s power was already above what could be expected of a Marquise, but now with the Sky eye had opened, his power was comparable to the strongest of Dukes.
 
 It was quite difficult to fathom how a Marquise could possess such grand strength.
 

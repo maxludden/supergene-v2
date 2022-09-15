@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Changing the Rules
-### Chapter 155 
+### Chapter 155
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Different from other warframe games, single warframe combat and group warframe combat were both realized via the virtual simulation to avoid casualties and warframe damages.
+Different from other warframe games, single warframe combat and group warframe combat were both realized via the virtual simulation to avoid casualties and warframe damages.
 
 After all, it was not a real war, and the players were only military school students, so they would not be asked to fight like real soldiers.
 

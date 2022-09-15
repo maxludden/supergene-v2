@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Summoning a Pet
-### Chapter 810 
+### Chapter 810
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen chased after Wang Yuhang, and as he went, he sensed countless scary lifeforces making their way towards the Empty Vine. They had all been disturbed and made restless by the human intruders.
+Han Sen chased after Wang Yuhang, and as he went, he sensed countless scary lifeforces making their way towards the Empty Vine. They had all been disturbed and made restless by the human intruders.
 
 There was still a while to go before the Empty Fruit ripened. The group of people had no idea when exactly it would mature, and going for them now would only lead to the creatures stopping them. If they picked the fruit before it became ripe, the benefits of its consumption would be far weaker, not worth the effort.
 

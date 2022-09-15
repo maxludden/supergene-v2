@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## The Chosen
-### Chapter 14 
+### Chapter 14
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen was somewhat surprised to see Han Hao sputtering on. He did not know Han Hao was also randomly sent to the Steel Armor Shelter.
+Han Sen was somewhat surprised to see Han Hao sputtering on. He did not know Han Hao was also randomly sent to the Steel Armor Shelter.
 
 Han Hao was three months younger than him, so he should’ve just had his birthday and gained access to God’s Sanctuary.
 
@@ -70,4 +71,3 @@ Tang Zhenliu won the fight and summoned a beast soul to perform, shapeshifting i
 Han Sen blushed with shame and thought, "Oh Frenzy, you didn’t know what a hard time I was having! How could I let go of an opportunity like that! Not to mention Son of Heaven was my enemy."
 
 Han Sen was hesitating whether or not to tell them that Dollar was himself but decided not to. It wouldn’t do them any good, after all.
-

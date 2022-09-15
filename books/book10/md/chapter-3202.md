@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Inchapter Grey Sword
-### Chapter 3202 
+### Chapter 3202
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  People are not born with willpower. Although some people are born with stronger willpower, it could not be much stronger.
+People are not born with willpower. Although some people are born with stronger willpower, it could not be much stronger.
 
 The true elites gained experience through repeated failures. It enabled their hearts to become stronger. The more times they failed, the stronger their hearts could become.
 

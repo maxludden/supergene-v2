@@ -17,21 +17,18 @@ from rich.style import Style
 from rich.text import Text
 
 try:
-    from mrich import console
+    from log import log, console
 except ModuleNotFoundError:
-    from .mrich import console
+    from .log import log, console
 except ImportError:
-    from src.mrich import console
+    from src.log import log, console
 
+load_dotenv()
 
 # > BASE
 def generate_base():
     """Generate base directory for the project."""
-    if platform() == "Linux":
-        ROOT = "home"
-    else:
-        ROOT = "Users"  # < Mac
-    BASE = f"/{ROOT}/maxludden/dev/py/supergene"
+    BASE = Path.cwd()
     return BASE
 
 
@@ -43,7 +40,7 @@ def generate_db_uri(database: str) -> str:
     db_lower = database.lower()
     match db_lower:
         case "localdb":
-            return "mongodb://localhost:27017/supergene"
+            return "mongodb://localhost:27017/SUPERGENE"
         case "supergene":
             return str(os.environ.get("SUPERGENE"))
         case "make_supergene":
@@ -52,6 +49,7 @@ def generate_db_uri(database: str) -> str:
             return "mongodb://localhost:27017/supergene"
 
 
+@log.catch
 def sg(db: str = "LOCALDB"):
     """
     Connect to the given MongoDB.
@@ -59,35 +57,71 @@ def sg(db: str = "LOCALDB"):
     Args:
         `db` (str, optional): The database to which you like to connect. Defaults to "LOCALDB".
     """
-    console.clear()
     mongoengine.disconnect()  # type: ignore
 
     # > URI
     uri = generate_db_uri(db)
-    connect_panel = Panel(
-        Text(f"Connecting to {db}...", style="bold white"),
-        title=Text("MongoDB", style="bold white"),
-        title_align=justify,
-        style=Style(color="blue"),
-    )
-    console.print(connect_panel)
 
     # > Connect
     try:
-        connect(db="supergene", alias="LOCALDB", host=uri)
-        success_panel = Panel(
-            Text(f"Connected to MongoDB:{db}", style="bold white"),
-            title=Text("MongoDB", style="bold white"),
-            title_align=justify,
-            style=Style(color="green"),
-        )
-        console.print(success_panel)
+        connect(db="SUPERGENE", host=uri)
+        # success_panel = Panel(
+        #     Text(f"Connected to MongoDB:{db}", style="bold white"),
+        #     title=Text("MongoDB", style="bold white"),
+        #     title_align="left",
+        #     style=Style(color="green"),
+        # )
+        # console.print(success_panel)
     except ConnectionFailure as cf:
         error_panel = Panel(
             Text(f"Connection to MongoDB:{db} failed", style="bold red on white"),
             title=Text("MongoDB", style="bold red on white"),
-            title_align=justify,
+            title_align="left",
             style=Style(color="bold white on black"),
         )
         console.print(error_panel)
-        print(cf)
+        console.print(cf)
+
+
+def max_title(title: str):
+    """
+    Custom title case function.
+
+    Args:
+        title (str): The string you want to transform.
+
+    Returns:
+        str: The transformed string.
+    """
+
+    title = title.lower()
+    articles = [
+        "a",
+        "an",
+        "and",
+        "as",
+        "at",
+        "but",
+        "by",
+        "en",
+        "for",
+        "if",
+        "in",
+        "nor",
+        "of",
+        "on",
+        "or",
+        "per",
+        "the",
+        "to",
+        "vs",
+    ]
+    word_list = re.split(" ", title)
+    final = [str(word_list[0]).capitalize()]
+    for word in word_list[1:]:
+        word = str(word)
+        final.append(word if word in articles else word.capitalize())
+
+    result = " ".join(final)
+
+    return result

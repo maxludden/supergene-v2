@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Broken Bone
-### Chapter 1142 
+### Chapter 1142
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  The lady’s voice was like music, and just hearing it made Han Sen happy.
+The lady’s voice was like music, and just hearing it made Han Sen happy.
 
 “My name is Han Sen. What about you?” Han Sen asked.
 

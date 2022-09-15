@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Bronze Shelter
-### Chapter 1355 
+### Chapter 1355
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  When Han Sen’s eyes caught the image of Cheap Sheep, his face turned dark. And being called “boss” was irritating. If he heard the sheep say “bub” again, he’d lose his mind.
+When Han Sen’s eyes caught the image of Cheap Sheep, his face turned dark. And being called “boss” was irritating. If he heard the sheep say “bub” again, he’d lose his mind.
 
 The sheep was a traitor, coward, and a bringer of trouble. Just seeing it trot over, Han Sen wanted to kick it away.
 

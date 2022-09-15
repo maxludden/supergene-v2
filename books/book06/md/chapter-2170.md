@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## You Passed
-### Chapter 2170 
+### Chapter 2170
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen squinted his eyes. That scary presence carried enough overwhelming force to sunder the sturdiest stone. It rolled over the region like a wave.
+Han Sen squinted his eyes. That scary presence carried enough overwhelming force to sunder the sturdiest stone. It rolled over the region like a wave.
 
 The man was approaching, and he was terrifying. Han Sen felt as if the sky itself had changed color. The man’s presence battered him over and over, like a ceaseless tide.
 

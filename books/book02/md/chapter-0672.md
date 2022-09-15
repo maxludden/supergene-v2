@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Hail to the Leader
-### Chapter 672 
+### Chapter 672
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  After the bear's manic slaughter of evolvers, bodies and blood lay strewn across the snow. Those who joined the fray looking for an easy kill, and had been left alive, were green in their faces. They wished they could grow an additional two legs to run off faster.
+After the bear's manic slaughter of evolvers, bodies and blood lay strewn across the snow. Those who joined the fray looking for an easy kill, and had been left alive, were green in their faces. They wished they could grow an additional two legs to run off faster.
 
 There was something wrong with the bear's head. It didn't care for much of anything, and it sought to kill anyone and anything that crossed its path indiscriminately. With the bodies disfigured and slumped across each other on the icy drifts, heaven knew how many it had happily killed.
 

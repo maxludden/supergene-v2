@@ -6,14 +6,15 @@ CSS:../Styles/style.css
 viewport: width=device-width
   
 ## Sacred-blood Pet
-### Chapter 164 
+### Chapter 164
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
   
-  Han Sen quietly tracked the gang and saw they had set up a tent and made a fire.
+Han Sen quietly tracked the gang and saw they had set up a tent and made a fire.
 
 Gu was tied up and Han Sen had not found any good opportunities to rescue him.
 

@@ -1,9 +1,11 @@
+---
 Title:Training Ground 
 Chapter:2140 
 Section:8 
 Book:6 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Training Ground
 ### Chapter 2140

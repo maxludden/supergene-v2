@@ -1,9 +1,11 @@
+---
 Title:Mysterious Deser 
 Chapter:2666 
 Section:13 
 Book:8 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Mysterious Deser
 ### Chapter 2666
@@ -76,6 +78,6 @@ Han Sen stared up in shock. The head of a giant beast pushed its way through a g
 
 The beast’s head was silver, and it looked like some artwork made of precious metal. Three horns emerged from its face. It kind of looked like a triceratops, but it was much bigger than a triceratops. The head alone was ten meters long. Blood gushed from its mouth.
 
-Boom!
+*Boom!*
 
 The giant beast fell from the sky and landed in the desert in front of them. The impact of its body hitting the ground shook the sand like an earthquake.

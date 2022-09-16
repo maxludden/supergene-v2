@@ -1,9 +1,11 @@
+---
 Title:Strange Metal Wolf 
 Chapter:2314 
 Section:11 
 Book:7 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Strange Metal Wolf
 ### Chapter 2314
@@ -70,7 +72,7 @@ Han Sen followed it for seventy-to-eighty universal hours. Eventually, the blue 
 
 The valley in front of them was grand but also in disarray, and no water coursed through its stone. Instead, a flow of lava coursed through the valley. The blue metal wolf observed the stream of lava for a moment, then leaped right into the lava.
 
-Splash!
+*Splash!*
 
 The blue metal wolf jumped into the lava, sending out waves that were dozens of meters high. The lava splashed across the shores of the stream, and it released plumes of black smoke and fire as it landed.
 

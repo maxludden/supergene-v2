@@ -1,9 +1,11 @@
+---
 Title:Understanding the Statue 
 Chapter:2330 
 Section:11 
 Book:7 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Understanding the Statue
 ### Chapter 2330

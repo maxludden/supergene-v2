@@ -1,9 +1,11 @@
+---
 Title:Killing Nine-tail Ghost Fox 
 Chapter:1027 
 Section:3 
 Book:3 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Killing Nine-tail Ghost Fox
 ### Chapter 1027

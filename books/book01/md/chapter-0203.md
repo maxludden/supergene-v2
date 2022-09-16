@@ -1,9 +1,11 @@
+---
 Title:Black Fist Emperor 
 Chapter:203 
 Section:1 
 Book:1 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Black Fist Emperor
 ### Chapter 203
@@ -18,7 +20,12 @@ viewport: width=device-width
 
 "Genius, well-done."
 
-...
+<br>
+
+*****
+
+<br>
+
 
 Blackhawk students became thrilled. Although they were not many, they soon filled the gap of the comments.
 
@@ -36,7 +43,7 @@ Each round was best of five. And Li Yu had only lost a point.
 
 The game began again. Wen Xiuxiu continued to explain, "Looks like Black Fist Emperor was quite lucking, getting the first point. It must be because Li Yu was not paying attention..."
 
-Bang!
+*Bang!*
 
 Before Wen finished, Li Yu was once again sent into the air. The system also played the special effect of him being sent to the galaxy.
 
@@ -56,11 +63,16 @@ Those who were arguing with the Blackhawk students suddenly stopped. All that wa
 
 "Our genius is the best."
 
-...
+<br>
+
+*****
+
+<br>
+
 
 Wen Xiuxiu did not dare to comment any more. When Li Yu came to the stage again, she was not as confident as she had been, "Black Fist Emperor is a very good player, and this will be a fight between two powerful teams..."
 
-Boom!
+*Boom!*
 
 Another loud bang. Li Yu did raise his arms this time, so the special effect was not as dramatic. But the system still showed his image sliding backward more than 30 feet. There were even sparks from the friction.
 
@@ -80,7 +92,12 @@ Although it was only a virtual special effect, many still got excited over it.
 
 "Young people cannot be trusted with important tasks because they lack experience."
 
-...
+<br>
+
+*****
+
+<br>
+
 
 "Yu, what’s wrong? The other player had been using black fists. Why didn’t you dodge?" Xu Yundi was upset.
 
@@ -120,7 +137,7 @@ Then he moved backward to avoid the punch from Han Sen.
 
 "Wang Yangjun is worthy of his fame. His tactical goal is clear and his execution is also in place. This blow should be..." When Wen Xiuxiu was in the middle of her passionate commentary, she suddenly stopped.
 
-Beep!
+*Beep!*
 
 Han Sen's fist froze in the air, and a sign of a white fist lit up.
 

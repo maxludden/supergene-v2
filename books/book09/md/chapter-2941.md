@@ -1,9 +1,11 @@
+---
 Title:One Second Is a Thousand Years 
 Chapter:2941 
 Section:15 
 Book:9 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## One Second Is a Thousand Years
 ### Chapter 2941

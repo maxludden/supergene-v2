@@ -1,9 +1,11 @@
+---
 Title:Pressuring Burning Lamp 
 Chapter:2887 
 Section:14 
 Book:9 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Pressuring Burning Lamp
 ### Chapter 2887
@@ -20,7 +22,11 @@ viewport: width=device-width
 
 “I know who Han Sen is. He is God’s daddy. How could he do something that he was not confident with?”
 
-…
+<br>
+
+*****
+
+<br>
 
 Every Buddha looked nervous and strange. In the past, no one would have believed that Han Sen could suppress Burning Lamp, who was in the top 100 of the geno god list. The Buddha had a lot of faith in Burning Lamp, but Han Sen’s knife had suddenly lobbed their pride and confidence into the abyss.
 

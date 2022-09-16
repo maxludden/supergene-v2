@@ -1,9 +1,11 @@
+---
 Title:Leveling Up to True God 
 Chapter:2957 
 Section:15 
 Book:9 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Leveling Up to True God
 ### Chapter 2957
@@ -94,6 +96,6 @@ The chainsaw-like bones were broken into many pieces. The shell on the eyeless b
 
 It was perfect. It could steal a soul. Auntie Mei’s entire body released some presence that no creature could resist. Even the sky, gods, and buddhas would have fallen for her. They would have killed themselves nine times for her.
 
-Boom!
+*Boom!*
 
 Han Sen still punched her beautiful chest. His fist went right through it. Flesh, red blood, and snow-white skin contrasted to create a weird, scary, and beautiful scene.

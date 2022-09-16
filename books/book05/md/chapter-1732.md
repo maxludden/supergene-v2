@@ -1,9 +1,11 @@
+---
 Title:Boyfriend and Husband 
 Chapter:1732 
 Section:6 
 Book:5 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Boyfriend and Husband
 ### Chapter 1732
@@ -60,7 +62,7 @@ The sky was bright, and when the wings spread, they scorched and turned the atmo
 
 Stay Up Late’s face changed. He drew the Western King Sword and raised it up towards the officer. The officer flapped his wings and flew directly before Stay Up Late. Stay Up Late was calm, though, and he merely swung his sword.
 
-Boom!
+*Boom!*
 
 The air around the sword cracked as flames rained down across the buildings. Rock and concrete started to quake and fall all around.
 
@@ -76,7 +78,7 @@ Seeing the building falling down, the kids cried even harder. The teachers tried
 
 Littleflower was in a normal school, and the teachers and kids were from ordinary families. There was nothing they could do, but not even elites could protect them all from a disaster such as that.
 
-Boom!
+*Boom!*
 
 A white holy light suddenly erupted like a volcano. The building was hit and shattered by the holy light, which then blasted into the sky and on into space.
 

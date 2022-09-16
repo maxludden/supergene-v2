@@ -1,9 +1,11 @@
+---
 Title:Cruel Reality 
 Chapter:438 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Cruel Reality
 ### Chapter 438

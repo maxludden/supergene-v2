@@ -1,9 +1,11 @@
+---
 Title:Suppress Wolf King 
 Chapter:1584 
 Section:4 
 Book:4 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Suppress Wolf King
 ### Chapter 1584
@@ -80,7 +82,7 @@ When they looked at the Destroyer Wolf, the super creatures were even more horri
 
 The Destroyer Wolf, who had previously been dominating the battle, was now being suppressed completely like it was being crushed under a mountain. Its body was shaking, and then the creature was falling through the air.
 
-Bam!
+*Bam!*
 
 With a giant sound, the Destroyer Wolf hit the ground hard enough to form a crater.
 

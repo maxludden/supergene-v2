@@ -1,9 +1,11 @@
+---
 Title:Long Bright Lantern 
 Chapter:2929 
 Section:15 
 Book:9 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Long Bright Lantern
 ### Chapter 2929

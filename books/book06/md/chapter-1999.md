@@ -1,9 +1,11 @@
+---
 Title:Dongxuan Breakthrough 
 Chapter:1999 
 Section:8 
 Book:6 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Dongxuan Breakthrough
 ### Chapter 1999
@@ -78,7 +80,7 @@ The knifemind and the depression were things that Han Sen could see as sequence 
 
 When the Dongxuan Aura got stronger, the sequence chain became easier to discern. A level of detail that he had never previously discerned was now becoming clear.
 
-Boom!
+*Boom!*
 
 The Dongxuan Sutra’s power exploded in Han Sen’s body. It was like it was breaking all the cells inside Han Sen’s body.
 

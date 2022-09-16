@@ -1,9 +1,11 @@
+---
 Title:Small Bug Power 
 Chapter:2123 
 Section:8 
 Book:6 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Small Bug Power
 ### Chapter 2123

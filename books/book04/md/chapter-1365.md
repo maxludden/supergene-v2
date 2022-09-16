@@ -1,9 +1,11 @@
+---
 Title:No Fluctuations in Power 
 Chapter:1365 
 Section:4 
 Book:4 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## No Fluctuations in Power
 ### Chapter 1365

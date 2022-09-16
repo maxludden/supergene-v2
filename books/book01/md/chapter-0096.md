@@ -1,9 +1,11 @@
+---
 Title:Amazing Talent 
 Chapter:96 
 Section:1 
 Book:1 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Amazing Talent
 ### Chapter 96
@@ -32,7 +34,7 @@ But thinking of Han Sen’s cautious character, Qin Xuan soon gave up the idea a
 
 But this discovery still made Qin Xuan happy, because Han Sen was the best candidate to operate a warframe equipped with multiple long-range shooting weapons.
 
-Ding!
+*Ding!*
 
 A crisp sound interrupted the thoughts of Qin Xuan. It was the tone of Han Sen passing evolver-3. She was no longer surprised, because she had predicted that this was not his limit.
 

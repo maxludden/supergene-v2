@@ -1,9 +1,11 @@
+---
 Title:Trade of Luck 
 Chapter:3005 
 Section:15 
 Book:9 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Trade of Luck
 ### Chapter 3005
@@ -52,7 +54,7 @@ Han Sen was able to risk using the Blood-Pulse Sutra power again. Yet, he was th
 
 “It looks like I will have to see if my Super God Spirit mode can break the blue blood power.” Han Sen ceased hesitating. He tried to use his Super God Spirit mode.
 
-Boom!
+*Boom!*
 
 A bright, white light was on Han Sen’s body. It made him go into Super God Spirit mode. His entire body was like a God Spirit in space. All of the powers returned to Han Sen’s body.
 

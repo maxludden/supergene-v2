@@ -1,9 +1,11 @@
+---
 Title:Emperor Returns 
 Chapter:313 
 Section:1 
 Book:1 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Emperor Returns
 ### Chapter 313
@@ -16,7 +18,7 @@ viewport: width=device-width
   
 When Jing Jiya's arrow was about to hit Han Sen's, something unbelievable happened. Jing Jiya's arrow did not move aside, but was leaning toward Han Sen's arrow like it was a magnet.
 
-Bang!
+*Bang!*
 
 The two arrows clashed. Han Sen's slow arrow knocked Jing Jiya's away and then became faster.
 
@@ -24,7 +26,7 @@ Bang Bang Bang…
 
 Han Sen's arrow clashed successively with all ten arrows shot by Jing Jiya and knocked all ten away. Its strength was not weakened but enhanced after the cracking sounds.
 
-Whoosh!
+*Whoosh!*
 
 The arrow ended up on Jing Jiya's chest. Taking the hit, Jing Jiya staggered back a few steps and fell to the ground.
 
@@ -86,6 +88,10 @@ The Emperor returned with his incredible archery skills. Blackhawk was still his
 
 "Why would I lie about that? You can still find the video of the game online. Watch it for yourself. If you think I exaggerated, you can have my virginity."
 
-…
+<br>
+
+*****
+
+<br>
 
 Han Sen's name once again became the topic of conversations in Blackhawk. Many students found Han Sen's old videos and became even more impressed by him.

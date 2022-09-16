@@ -1,9 +1,11 @@
+---
 Title:Rather Easy 
 Chapter:247 
 Section:1 
 Book:1 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Rather Easy
 ### Chapter 247
@@ -34,11 +36,11 @@ Situ Xiang started the system, and a countdown began. They both drew their bowst
 
 Suddenly, a target in the shape of a human emerged from behind a wall. Two arrows left the strings at the same time.
 
-Bang!
+*Bang!*
 
 The two arrows hit the neck area of the target, which was the effective area, almost at the same time.
 
-Ding!
+*Ding!*
 
 Situ Xiang's scorekeeper rang. She gained a point because she hit the target first.
 
@@ -76,7 +78,7 @@ Although she was pleased with Han Sen's performance, Situ Xiang believed that sh
 
 Just when her arrow was about to hit the target, Han Sen's arrow knocked hers away from the target and ended up hitting the target.
 
-Ding!
+*Ding!*
 
 As Situ Xiang was dazed, Han Sen gained one point.
 

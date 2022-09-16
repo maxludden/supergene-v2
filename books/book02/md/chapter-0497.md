@@ -1,9 +1,11 @@
+---
 Title:Fierce Tiger From Blueblood 
 Chapter:497 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Fierce Tiger From Blueblood
 ### Chapter 497
@@ -38,7 +40,7 @@ As they were speaking, it was Han Sen's turn.
 
 "Okay," Han Sen replied and marched toward the stength tester. In front of the drum, Han Sen took a deep breath, his heart thumping and his bones squeaking. His punch traveled through the air and hit on the drum.
 
-Boom!
+*Boom!*
 
 With a loud noise that hurts people's ears, the number on the screen quickly changed and froze at 111.1111.
 

@@ -1,9 +1,11 @@
+---
 Title:Dog Hybrid 
 Chapter:2926 
 Section:15 
 Book:9 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Dog Hybrid
 ### Chapter 2926

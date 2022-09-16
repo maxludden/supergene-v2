@@ -1,9 +1,11 @@
+---
 Title:Strange Scene of Purple Mountain 
 Chapter:851 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Strange Scene of Purple Mountain
 ### Chapter 851

@@ -1,9 +1,11 @@
+---
 Title:Signing the Contract 
 Chapter:2642 
 Section:13 
 Book:8 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Signing the Contract
 ### Chapter 2642

@@ -1,9 +1,11 @@
+---
 Title:The Battle Between Super Creatures 
 Chapter:678 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## The Battle Between Super Creatures
 ### Chapter 678

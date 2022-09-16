@@ -1,9 +1,11 @@
+---
 Title:White Underwear Flag 
 Chapter:69 
 Section:1 
 Book:1 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## White Underwear Flag
 ### Chapter 69
@@ -30,7 +32,7 @@ Lu Weinan looked at the pot of meat eagerly and then his eye fell on Han Sen. A 
 
 Han Sen was wearing sacred-blood armor so he was not afraid of such weapon. He didn’t even shapeshift into the bloody slayer, but just summoned his mutant sawfish spear and wielded it at Lu’s knife.
 
-Crack!
+*Crack!*
 
 The sawfish spear cut the knife off as if it were made of tofu and continued to stab at Lu.
 
@@ -56,7 +58,7 @@ He didn’t expect his enemy to be so strong. With his wings and his golden armo
 
 Having caught up with Lu Weinan, Han Sen poked the spear at him. All Lu wanted do was to knock his own head on a wall. Why on earth did he try to escape on the back of the iron-feathered bird? Now he couldn’t even use his body positions. Sitting on the bird, he had nowhere to hide. If he moved around, he would fall.
 
-Whoosh!
+*Whoosh!*
 
 The spear was poked into Lu Weinan's butt, leaving a long wound—Lu’s soft armor didn’t stop the spearhead at all.
 

@@ -1,9 +1,11 @@
+---
 Title:One Sword Power 
 Chapter:3284 
 Section:16 
 Book:10 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## One Sword Power
 ### Chapter 3284
@@ -32,7 +34,7 @@ An amazing power exploded. Han Sen used a sword instead of his knife. He slashed
 
 Dong! Han Sen and the Inch Grey Sword were knocked backward by the sword light. The sword light power did not stop there. It kept trying to suppress the Inch Grey Sword.
 
-Boom!
+*Boom!*
 
 Han Sen’s body hit the forest of weapons. He created a trench in the ground that was 10,000 miles long. Many weapon gene races were hit and sent flying everywhere.
 
@@ -54,7 +56,7 @@ Sky King heard Han Sen shout and saw him do that. He did not dare stay either. H
 
 Han Sen was injured. He used all of his strength to break a tunnel. He pushed the ship forward but did not have any extra power to deal with the shadows.
 
-Ding!
+*Ding!*
 
 The sound of music was heard. It was like a wave that aided in shaking the shadows away. A phoenix head harp flew out of the ship. It floated behind Han Sen. The strings moved on their own. It kept producing scary harp sounds.
 

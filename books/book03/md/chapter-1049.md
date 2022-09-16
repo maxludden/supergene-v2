@@ -1,9 +1,11 @@
+---
 Title:Holy-sword Doll 
 Chapter:1049 
 Section:3 
 Book:3 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Holy-sword Doll
 ### Chapter 1049
@@ -28,13 +30,13 @@ The swords began to drop. But just as this occurred, the light inside Xie Qing K
 
 Yet he did not retreat or step down. As the color faded away, he just stood there, watching the swords fall like rain.
 
-Boom!
+*Boom!*
 
 As the Storm of Swords began, the color of the skies changed. The world was about to become a ragged pincushion.
 
 As Xie Qing King witnessed the descent of all those swords, his silver light return brighter than ever before, like a flashbang. As that light encompassed the area, he threw a punch upwards as if to knockout the sky itself.
 
-Boom!
+*Boom!*
 
 The silver light annihilated the mist of swords as if they were all composed of wafer-thin, brittle copper.
 

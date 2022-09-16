@@ -1,9 +1,11 @@
+---
 Title:Second Time Into Jade Dragon Mountains 
 Chapter:357 
 Section:1 
 Book:1 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Second Time Into Jade Dragon Mountains
 ### Chapter 357

@@ -1,9 +1,11 @@
+---
 Title:The Geno Tablet Fights Begin 
 Chapter:3419 
 Section:17 
 Book:10 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## The Geno Tablet Fights Begin
 ### Chapter 3419
@@ -84,7 +86,7 @@ Han Sen would not have to look at Ji Yanran’s eyes to know they were red. Tear
 
 “Do not worry. With you guys backing me up, there is not a single person that can kill me.” Han Sen’s heart was wanting a fight.
 
-Boom!
+*Boom!*
 
 Space suddenly lit up. The 33 skies unleashed a god light. It was like a weird, bright, flickering light was coming out of a headstone.
 

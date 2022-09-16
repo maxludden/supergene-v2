@@ -1,9 +1,11 @@
+---
 Title:Why Has the Lightning Not Harmed You Once? 
 Chapter:875 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Why Has the Lightning Not Harmed You Once?
 ### Chapter 875
@@ -30,7 +32,7 @@ Han Sen jovially thought to himself, "Duh, that's because of the silver fox. Wit
 
 "Yes." They all answered in unison. Slowly but surely, they ascended the mountain in Han Sen's dusty wake.
 
-Boom!
+*Boom!*
 
 Lightning continued to strike, and not once was there a lull in its rhythmic impacts. The thunder repeatedly struck the rocks of the mountain, emitting wild showers of sparks.
 
@@ -74,7 +76,7 @@ The silver fox looked at Han Sen and tilted its head, signifying its understandi
 
 The silver fox jumped back away from Han Sen's chest, returning to Golden Growler's head. It looked at the thunder streaking across the sky.
 
-Boom!
+*Boom!*
 
 A lightning bolt struck perfectly atop Lui Gui's head. It shattered his armor and knocked him from his ride. He convulsed on the muddy ground, twitching in agony.
 

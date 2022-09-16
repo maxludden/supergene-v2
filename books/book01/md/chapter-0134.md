@@ -1,9 +1,11 @@
+---
 Title:It Is Too Easy to Beat You 
 Chapter:134 
 Section:1 
 Book:1 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## It Is Too Easy to Beat You
 ### Chapter 134
@@ -72,7 +74,12 @@ Everyone was staring at the screen, wondering what My-girlfriend-is-Ji-Yanran wo
 
 "Now he is bragging. It would be so shameful when he got his ass kicked."
 
-...
+<br>
+
+*****
+
+<br>
+
 
 "This person is really arrogant," Wang Long said in a bad mood.
 

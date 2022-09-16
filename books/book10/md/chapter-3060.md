@@ -1,9 +1,11 @@
+---
 Title:Beaten to an Egg 
 Chapter:3060 
 Section:16 
 Book:10 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Beaten to an Egg
 ### Chapter 3060

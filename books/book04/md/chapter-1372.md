@@ -1,9 +1,11 @@
+---
 Title:Bad Battle With Nan Litian 
 Chapter:1372 
 Section:4 
 Book:4 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Bad Battle With Nan Litian
 ### Chapter 1372

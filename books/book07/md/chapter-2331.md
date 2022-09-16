@@ -1,9 +1,11 @@
+---
 Title:The Change of the Extreme King Pavilion 
 Chapter:2331 
 Section:11 
 Book:7 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## The Change of the Extreme King Pavilion
 ### Chapter 2331

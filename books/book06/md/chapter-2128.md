@@ -1,9 +1,11 @@
+---
 Title:I Am Invincible 
 Chapter:2128 
 Section:8 
 Book:6 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## I Am Invincible
 ### Chapter 2128
@@ -88,7 +90,7 @@ Just the shockwave of that power was enough to tear up the land for miles around
 
 The silver fist became an orb of light. It came forward to strike the black and white powers simultaneously.
 
-Boom!
+*Boom!*
 
 The two scary powers collided with each other, and what resulted was akin to the detonation of a hydrogen bomb. The giant explosion looked like a sun going supernova, consuming everything in its proximity. It was too bright for anyone to actually see anything inside it, though.
 

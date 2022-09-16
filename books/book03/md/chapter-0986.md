@@ -1,9 +1,11 @@
+---
 Title:Third Tier of the Dongxuan Sutra 
 Chapter:986 
 Section:3 
 Book:3 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Third Tier of the Dongxuan Sutra
 ### Chapter 986

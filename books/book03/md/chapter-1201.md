@@ -1,9 +1,11 @@
+---
 Title:Destruction 
 Chapter:1201 
 Section:3 
 Book:3 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Destruction
 ### Chapter 1201
@@ -52,7 +54,11 @@ Sadly, though, all he could see was trash.
 
 Turning around to get the ship back in order and command the people on board, he then saw Han Sen standing in the corner with the box.
 
-…
+<br>
+
+*****
+
+<br>
 
 Han Sen, box in hand, went to the command deck. All the soldiers saluted him. Han Sen did the same in return. He wasn’t a soldier anymore, so it was a sign of massive respect for them to salute him in unison.
 

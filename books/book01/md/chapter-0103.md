@@ -1,9 +1,11 @@
+---
 Title:The Fight Between the King and the Imposter 
 Chapter:103 
 Section:1 
 Book:1 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## The Fight Between the King and the Imposter
 ### Chapter 103
@@ -82,7 +84,12 @@ The clever reporters quickly squeezed over and circled Tang Zhenliu and Lin Feng
 
 "I’m from Contest Center. Lin Feng, do you and Dollar know each other? Why did you ask him to see you in the final?"
 
-...
+<br>
+
+*****
+
+<br>
+
 
 Lin Feng quietly smiled. "Haven’t I already said that I will see him in the final?"
 

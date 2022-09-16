@@ -1,9 +1,11 @@
+---
 Title:Demon Coming Down to Earth 
 Chapter:2859 
 Section:14 
 Book:9 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Demon Coming Down to Earth
 ### Chapter 2859
@@ -44,7 +46,7 @@ The small knife, which was less than a foot long, drew a curve in space that did
 
 In space, underneath this drawing, the gold nine-headed Dragon’s fire element dragon head was cut off. Dragon Blood came spewing out of the severed neck like lava. The rest of the seven heads painfully roared.
 
-Boom! The big Dragon’s thunder head and soul head spit out scary power at the same time toward Demon Alpha.
+*Boom!* The big Dragon’s thunder head and soul head spit out scary power at the same time toward Demon Alpha.
 
 The thunder head had just opened its eyes. Before it spat out thunder, an invisible slash cut off its head.
 

@@ -1,9 +1,11 @@
+---
 Title:Killing Sky Radish 
 Chapter:2785 
 Section:14 
 Book:9 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Killing Sky Radish
 ### Chapter 2785
@@ -94,7 +96,7 @@ Han Sen couldn’t stop the god from self-destructing, so he pushed himself to s
 
 But Sky Vine Radish’s body detonated far too quickly, and Han Sen didn’t have enough time to cut the strange bone free. A scary power suddenly exploded from Sky Vine Radish’s god body. It was like a nuclear bomb going off.
 
-Boom!
+*Boom!*
 
 At the top of the Space Garden, a green light shot into the sky like a volcanic eruption. Once it entered the sky, it spread out and began to shower the area. The light rain rained down across the flower fields, and the xenogeneic plants that touched the light rain started to grow at an accelerated rate. The whole of the Space Garden changed. It was like the sky and the earth had been flipped.
 

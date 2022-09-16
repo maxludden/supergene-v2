@@ -1,9 +1,11 @@
+---
 Title:Diversion 
 Chapter:306 
 Section:1 
 Book:1 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Diversion
 ### Chapter 306
@@ -80,7 +82,7 @@ As Xu Zhu reached his hand out, he faked getting caught by Han Sen. Seizing Xu Z
 
 When Han Sen was about to twist Xu Zhu's arm, Xu Zhu's wrist in Han Sen's hand suddenly flicked.
 
-Crack!
+*Crack!*
 
 Han Sen's right hand which was holding Xu Zhu's wrist was immediately dislocated by this flick.
 

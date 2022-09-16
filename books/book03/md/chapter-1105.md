@@ -1,9 +1,11 @@
+---
 Title:Curse of Immortality 
 Chapter:1105 
 Section:3 
 Book:3 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Curse of Immortality
 ### Chapter 1105
@@ -44,7 +46,7 @@ It was a nine gene lock super king spirit’s power multiplied by eleven.
 
 The moment Ancient Jade King came into contact with the coin, his armor shattered.
 
-Ding! Ding!
+*Ding!* *Ding!*
 
 Nothing but blood remained. And atop it, spinning on its side, was the coin. It was completely clean.
 

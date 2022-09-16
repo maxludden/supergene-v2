@@ -1,9 +1,11 @@
+---
 Title:Armored Man’s Secret 
 Chapter:1668 
 Section:4 
 Book:4 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Armored Man’s Secret
 ### Chapter 1668

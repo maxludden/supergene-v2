@@ -1,9 +1,11 @@
+---
 Title:Escape 
 Chapter:2765 
 Section:13 
 Book:8 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Escape
 ### Chapter 2765
@@ -66,7 +68,11 @@ Ling’er looked at Ji Yanran, who was cooking in the kitchen. She quietly told 
 
 Ling’er held onto Han Sen’s neck, placed her little mouth next to Han Sen’s ear, and whispered in a voice that only the two of them would hear. “Mommy said she would teach you a lesson when you came back.”
 
-…
+<br>
+
+*****
+
+<br>
 
 Han Sen stayed at home for a few days. Every now and again, he would return to God’s Farm. He still hadn’t seen Wan’er or God’s Knife, and he didn’t have any idea when they would return to the planet.
 

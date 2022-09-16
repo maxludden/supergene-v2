@@ -1,9 +1,11 @@
+---
 Title:Super Umbrella 
 Chapter:1675 
 Section:4 
 Book:4 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Super Umbrella
 ### Chapter 1675
@@ -28,7 +30,7 @@ Surrounding Han Sen hadn’t worked very well, and all the elders were afraid of
 
 Now that the umbrella was going to break, Han Sen looked as if he was going to lose all his support. They felt a whole lot more relaxed, thinking the opportunity to kill Han Sen had practically come.
 
-Boom!
+*Boom!*
 
 Ancient Devil landed a hit on Bulwark Umbrella, and the power that was like an ocean looked ready to break the sky. The damaged umbrella could no longer hold on anymore, and it shattered like glass. It became dust.
 
@@ -50,7 +52,7 @@ But in Han Sen’s eyes, the umbrella looked completely different. The substance
 
 And the powers of Han Sen’s Dongxuan Sutra were different now, also.
 
-Boom!
+*Boom!*
 
 All the world-ending powers were diverted by Han Sen’s Bulwark Umbrella. The godlike powers descended like minor drops of rain, sliding off and away from the umbrella. Nothing could even sway the umbrella.
 

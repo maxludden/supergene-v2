@@ -1,9 +1,11 @@
+---
 Title:Sky Palace Throne 
 Chapter:1737 
 Section:6 
 Book:5 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Sky Palace Throne
 ### Chapter 1737
@@ -50,7 +52,7 @@ The man looked as if he did not care about family one tiny bit. He grabbed Littl
 
 Han Sen roared. He walked forward and tried to punch the man’s hand.
 
-Boom!
+*Boom!*
 
 When Han Sen’s fist hit the man’s palm, he could not hurt the palm, and his arm snapped immediately.
 
@@ -58,7 +60,7 @@ When Han Sen’s fist hit the man’s palm, he could not hurt the palm, and his 
 
 Han Sen’s legs released a power. He took half a step back and got pulled away.
 
-Boom!
+*Boom!*
 
 The red light behind Han Sen was shining, turning into a red vortex. Before the man could grab Littleflower again, the vortex consumed Han Sen and the child. They just suddenly vanished.
 

@@ -1,9 +1,11 @@
+---
 Title:Super Geno Core Battle 
 Chapter:1538 
 Section:4 
 Book:4 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Super Geno Core Battle
 ### Chapter 1538

@@ -1,9 +1,11 @@
+---
 Title:Phantom Ant Beast Soul 
 Chapter:146 
 Section:1 
 Book:1 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Phantom Ant Beast Soul
 ### Chapter 146

@@ -1,9 +1,11 @@
+---
 Title:Fighting Moment God Again 
 Chapter:2997 
 Section:15 
 Book:9 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Fighting Moment God Again
 ### Chapter 2997
@@ -36,7 +38,7 @@ Moment God’s body flashed. She teleported to Han Sen, who was closest to her. 
 
 Every creature in the universe was frozen. Han Sen, Bai King, and the others were the greatest elites in the entire universe. Before Moment Goddess, they were useless.
 
-Boom!
+*Boom!*
 
 Suddenly, there was a thundering hitting noise coming from the god temple. Dollar was holding a mini, black, small hammer. It hit toward the space around the others. Suddenly, many space cracks developed in the god temple. It made the blood rise in Han Sen, Bai King, Sun Moon God Ape, and Space Spirit.
 

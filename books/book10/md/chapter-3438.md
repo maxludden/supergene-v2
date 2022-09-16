@@ -1,9 +1,11 @@
+---
 Title:Ten Thousand Race Articles 
 Chapter:3438 
 Section:17 
 Book:10 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Ten Thousand Race Articles
 ### Chapter 3438
@@ -24,7 +26,7 @@ The geno hall’s god light came beaming out. It created a weird vortex that suc
 
 “I say, Big Brother, I do not want to visit your geno hall. I want to fight that guy now.” Han Sen tried his best to resist the suction, but it did not work. The geno hall’s door covered the sky and the ground. Somehow, his body was sucked into the door.
 
-Boom!
+*Boom!*
 
 The open door disappeared. The god light in the battleground vanished.
 

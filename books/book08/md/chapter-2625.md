@@ -1,9 +1,11 @@
+---
 Title:White King City 
 Chapter:2625 
 Section:12 
 Book:8 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## White King City
 ### Chapter 2625

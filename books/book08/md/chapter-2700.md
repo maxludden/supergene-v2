@@ -1,9 +1,11 @@
+---
 Title:Sea Palace 
 Chapter:2700 
 Section:13 
 Book:8 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Sea Palace
 ### Chapter 2700

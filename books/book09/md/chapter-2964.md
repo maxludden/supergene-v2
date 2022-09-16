@@ -1,9 +1,11 @@
+---
 Title:God Palace Lands 
 Chapter:2964 
 Section:15 
 Book:9 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## God Palace Lands
 ### Chapter 2964

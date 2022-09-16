@@ -1,9 +1,11 @@
+---
 Title:Getting Upset Over Money 
 Chapter:3067 
 Section:16 
 Book:10 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Getting Upset Over Money
 ### Chapter 3067

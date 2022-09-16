@@ -1,9 +1,11 @@
+---
 Title:God’s Curse 
 Chapter:2753 
 Section:13 
 Book:8 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## God’s Curse
 ### Chapter 2753

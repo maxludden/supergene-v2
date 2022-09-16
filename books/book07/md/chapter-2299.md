@@ -1,9 +1,11 @@
+---
 Title:The Little Red Bird Hatches 
 Chapter:2299 
 Section:10 
 Book:7 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## The Little Red Bird Hatches
 ### Chapter 2299

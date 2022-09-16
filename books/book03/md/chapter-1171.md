@@ -1,9 +1,11 @@
+---
 Title:Dry Bone 
 Chapter:1171 
 Section:3 
 Book:3 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Dry Bone
 ### Chapter 1171
@@ -34,7 +36,11 @@ Going to the fifth floor was quite the event, as it was a challenge beyond compr
 
 “It would be great if he managed to succeed.”
 
-…
+<br>
+
+*****
+
+<br>
 
 In the palace on the fifth floor, three spirits and seven creatures sat before a table in deep discussion.
 

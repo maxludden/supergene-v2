@@ -1,9 +1,11 @@
+---
 Title:No Choice 
 Chapter:2708 
 Section:13 
 Book:8 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## No Choice
 ### Chapter 2708

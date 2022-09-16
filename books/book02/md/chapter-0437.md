@@ -1,9 +1,11 @@
+---
 Title:Berserk 
 Chapter:437 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Berserk
 ### Chapter 437
@@ -64,7 +66,7 @@ Watching the ice-armored beast making the attack, Yang Manli almost wanted to cl
 
 Han Sen was staring at her blankly but punched at the incoming berserk beast without even looking at it. The punch ended right in the beast’s face.
 
-Boom!
+*Boom!*
 
 The berserk ice-armored beast that looked very fierce was blown away like it was a puppet, crushing a huge chunk of iceberg and then sliding on the ice for a dozen feet, plowing deeply in the snow. Blood was everywhere, and the beast stopped moving.
 

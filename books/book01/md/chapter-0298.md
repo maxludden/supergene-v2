@@ -1,9 +1,11 @@
+---
 Title:Smoothness 
 Chapter:298 
 Section:1 
 Book:1 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Smoothness
 ### Chapter 298

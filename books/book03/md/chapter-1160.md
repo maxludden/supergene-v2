@@ -1,9 +1,11 @@
+---
 Title:Consumer Treatment 
 Chapter:1160 
 Section:3 
 Book:3 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Consumer Treatment
 ### Chapter 1160

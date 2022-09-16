@@ -1,9 +1,11 @@
+---
 Title:God of Wealth Descends 
 Chapter:3145 
 Section:16 
 Book:10 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## God of Wealth Descends
 ### Chapter 3145

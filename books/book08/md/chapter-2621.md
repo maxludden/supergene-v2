@@ -1,9 +1,11 @@
+---
 Title:At6 Gene Mutant People 
 Chapter:2621 
 Section:12 
 Book:8 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## At6 Gene Mutant People
 ### Chapter 2621

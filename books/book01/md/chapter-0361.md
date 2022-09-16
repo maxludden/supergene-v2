@@ -1,9 +1,11 @@
+---
 Title:Metal Wolf 
 Chapter:361 
 Section:1 
 Book:1 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Metal Wolf
 ### Chapter 361

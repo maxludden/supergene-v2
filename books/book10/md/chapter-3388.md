@@ -1,9 +1,11 @@
+---
 Title:Suppress 
 Chapter:3388 
 Section:17 
 Book:10 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Suppress
 ### Chapter 3388

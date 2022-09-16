@@ -1,9 +1,11 @@
+---
 Title:Holy Light Salamander 
 Chapter:3078 
 Section:16 
 Book:10 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Holy Light Salamander
 ### Chapter 3078

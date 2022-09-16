@@ -1,9 +1,11 @@
+---
 Title:Joining the Fight 
 Chapter:1099 
 Section:3 
 Book:3 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Joining the Fight
 ### Chapter 1099

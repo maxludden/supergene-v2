@@ -1,9 +1,11 @@
+---
 Title:Battle on the River 
 Chapter:976 
 Section:3 
 Book:3 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Battle on the River
 ### Chapter 976
@@ -14,7 +16,7 @@ viewport: width=device-width
   
 
   
-Boom!
+*Boom!*
 
 The snake was knocked away by the man again. When it crashed into the nearby wall, the entire hall shook violently.
 
@@ -60,7 +62,7 @@ But before he could put space between himself and the man, Han Sen found him app
 
 “Damn it!” Han Sen cursed aloud, but he did not relent in his flight.
 
-Boom!
+*Boom!*
 
 The man stepped across the water and then leapt up into the air. He was right beside Han Sen, and there seemed no likely way he’d escape this strike.
 

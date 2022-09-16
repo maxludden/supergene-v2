@@ -1,9 +1,11 @@
+---
 Title:Free Spirit Geno Points 
 Chapter:1333 
 Section:3 
 Book:3 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Free Spirit Geno Points
 ### Chapter 1333

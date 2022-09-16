@@ -1,9 +1,11 @@
+---
 Title:Trading With the Lady 
 Chapter:1764 
 Section:6 
 Book:5 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Trading With the Lady
 ### Chapter 1764

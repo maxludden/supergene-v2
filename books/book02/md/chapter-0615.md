@@ -1,9 +1,11 @@
+---
 Title:Escaping 
 Chapter:615 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Escaping
 ### Chapter 615
@@ -56,7 +58,7 @@ The silver fox was still young, so there was no way its strength would be greate
 
 Even though the fox's speed was greater than Han Sen's, it wasn't enough to outpace the lobster. In the blink of an eye the pursuer jumped forward, almost as if it teleported, in front of the silver fox.
 
-Boom!
+*Boom!*
 
 The silver fox's silver lightning was unleashed once again, which painted the sea like a canvas of countless thunderbolts. It shocked the lobster directly in front of him.
 
@@ -92,7 +94,7 @@ All of a sudden, the silver fox flashed with silver light again. There was even 
 
 The lobster was directly in front of the silver fox again, its pincers raised as if ready to cut another victim in half.
 
-Boom!
+*Boom!*
 
 Silver lightning erupted from the silver fox like a barrage of rockets. Its little body accelerated with the sheer force of the attack, and it was sent shooting out of the sea, freeing itself from the lobster's aggression. It was sent a whole six hundred meters.
 

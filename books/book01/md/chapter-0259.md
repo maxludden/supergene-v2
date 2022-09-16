@@ -1,9 +1,11 @@
+---
 Title:Amazing Tactics 
 Chapter:259 
 Section:1 
 Book:1 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Amazing Tactics
 ### Chapter 259
@@ -42,7 +44,11 @@ Everyone was shocked by the daring move of Blackhawk. Normally speaking, when th
 
 "What trick is this?"
 
-…
+<br>
+
+*****
+
+<br>
 
 Those who had the slightest understanding of an archery game thought Blackhawk was committing a suicide.
 

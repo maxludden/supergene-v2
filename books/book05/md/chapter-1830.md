@@ -1,9 +1,11 @@
+---
 Title:Soothing the Knife River 
 Chapter:1830 
 Section:7 
 Book:5 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Soothing the Knife River
 ### Chapter 1830

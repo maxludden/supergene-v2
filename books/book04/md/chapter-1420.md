@@ -1,9 +1,11 @@
+---
 Title:Bad Fight 
 Chapter:1420 
 Section:4 
 Book:4 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Bad Fight
 ### Chapter 1420
@@ -48,7 +50,7 @@ Quickly, the spirits came forward to fight Dry Bone King and the rest.
 
 Dry Bone King froze, and beat the heart bone instrument to summon an invisible power to repel the thunder dragon power.
 
-Boom!
+*Boom!*
 
 When the forces struck each other, no sound could be heard. Their clashes operated on a frequency that was too high-pitched for anyone there to discern.
 

@@ -1,9 +1,11 @@
+---
 Title:Shura Coffin 
 Chapter:2052 
 Section:8 
 Book:6 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Shura Coffin
 ### Chapter 2052

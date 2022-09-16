@@ -1,9 +1,11 @@
+---
 Title:Blood Spills in the Gong Shu Manor 
 Chapter:3077 
 Section:16 
 Book:10 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Blood Spills in the Gong Shu Manor
 ### Chapter 3077

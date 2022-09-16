@@ -1,9 +1,11 @@
+---
 Title:Stand Up 
 Chapter:712 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Stand Up
 ### Chapter 712

@@ -1,9 +1,11 @@
+---
 Title:Crystallizer Survivor 
 Chapter:1698 
 Section:5 
 Book:4 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Crystallizer Survivor
 ### Chapter 1698
@@ -84,7 +86,7 @@ Stay Up Late punched Yake’s power once again. He stared at Yake and said, “T
 
 “It does not matter who I belong to, but you are the sort of person that I hate. So…” Stay Up Late looked at Yake coldly, and his armor began to shine. A light began to envelop his fist.
 
-Boom!
+*Boom!*
 
 The scary power of his fist, like an erupting volcano, came down on Yake. Yake used both fists to fight back against it, but Stay Up Late was too strong and quickly whittled away Yake’s defenses.
 

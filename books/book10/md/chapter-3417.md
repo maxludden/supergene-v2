@@ -1,9 +1,11 @@
+---
 Title:Reboot Class 
 Chapter:3417 
 Section:17 
 Book:10 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Reboot Class
 ### Chapter 3417

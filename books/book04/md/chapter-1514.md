@@ -1,9 +1,11 @@
+---
 Title:Power That Exceeds the Capabilities of Humanity 
 Chapter:1514 
 Section:4 
 Book:4 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Power That Exceeds the Capabilities of Humanity
 ### Chapter 1514
@@ -50,7 +52,7 @@ And at the same time, Tina was clad in her crystal armor. The greatsword she wie
 
 Han Sen frowned, and but he didn’t panic. When he spun, it looked like he had dodged that close call by magic.
 
-Boom!
+*Boom!*
 
 The steel greatsword came crashing through the air, bringing devastation to the ground he’d been standing on. The crater that formed was a thousand miles deep, and it was as if she had cracked the entire planet.
 

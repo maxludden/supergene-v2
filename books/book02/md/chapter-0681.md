@@ -1,9 +1,11 @@
+---
 Title:Killed the Bone Elephant 
 Chapter:681 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Killed the Bone Elephant
 ### Chapter 681

@@ -1,9 +1,11 @@
+---
 Title:Seven Spirit Buddha 
 Chapter:1940 
 Section:7 
 Book:5 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Seven Spirit Buddha
 ### Chapter 1940

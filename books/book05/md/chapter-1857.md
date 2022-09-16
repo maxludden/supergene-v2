@@ -1,9 +1,11 @@
+---
 Title:Killing the Raven 
 Chapter:1857 
 Section:7 
 Book:5 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Killing the Raven
 ### Chapter 1857
@@ -48,7 +50,7 @@ Xie Qing Kingâ€™s body, meanwhile, was glowing with silver light. Little Silverâ
 
 The Barons at the base used their skills to absorb the mark, but the women and children were unable to. The gold blended into their skin and changed their bodies instead.
 
-Boom!
+*Boom!*
 
 The mountain continued to shake. It came from the purple-bronze hall. It seemed to have erupted, and the palace came flying at them through the air.
 

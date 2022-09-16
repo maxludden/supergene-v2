@@ -1,9 +1,11 @@
+---
 Title:Fixing the Altar 
 Chapter:2881 
 Section:14 
 Book:9 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Fixing the Altar
 ### Chapter 2881

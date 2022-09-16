@@ -1,9 +1,11 @@
+---
 Title:Blue Gold Demon Bug 
 Chapter:2079 
 Section:8 
 Book:6 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Blue Gold Demon Bug
 ### Chapter 2079
@@ -24,7 +26,7 @@ Han Meng’er and the others weren’t slow. They might have only been Earls, bu
 
 “What are these creatures, that dare to drop fecal matter all over my Narrow Moon!” Night River King seethed, as he swung the sleeves of his garment. An odd black power rolled out of his sleeves and headed towards the monsters. The blue metal monsters looked as if they were about to drown in it.
 
-Boom!
+*Boom!*
 
 A blue light flashed from that group of metal monsters, and a glowing monster emerged. It punched Night River King’s Galactic Water, and its blue fist shattered Night River’s attack completely.
 
@@ -48,7 +50,7 @@ It was shocking that a creature could take Yisha’s strike and not immediately 
 
 Yisha grunted and used Tusk. Her skill was purer than Han Sen’s Teeth Knife. After that slash, the purple knife air was like a demon biting into the blue fist.
 
-Boom!
+*Boom!*
 
 The two powers collided with an explosion. The space of the region itself cracked, and things started to get sucked towards the fissure.
 

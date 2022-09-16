@@ -1,9 +1,11 @@
+---
 Title:The Only Queen 
 Chapter:2297 
 Section:10 
 Book:7 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## The Only Queen
 ### Chapter 2297
@@ -24,7 +26,11 @@ Han Sen turned the white whale out of the system, plotting a course back to Narr
 
 They had good luck in their travels. Yisha and Han Sen were able to depart the systems of chaos with absolute safety. They would soon be back in Narrow Moon.
 
-…
+<br>
+
+*****
+
+<br>
 
 “Dude, what happened? Why has every noble across every planet been ordered to go to Full Moon Hall?”
 
@@ -74,7 +80,11 @@ Moon Wheel King frowned and looked at Yisha. “What if we all object at once?�
 
 Yisha laughed. She stood up, ignoring Moon Wheel King. She looked down upon all of the nobles and slowly said, “Listen up, people! From now on, Narrow Moon is my Narrow Moon. The Rebate have only one queen. Whoever follows me will live, but anyone who seeks to betray me will die. You can object, but if you directly disobey one of my commands, I will consider you an enemy. I do not mind an injection of fresh blood to fill up the ranks of Narrow Moon.”
 
-…
+<br>
+
+*****
+
+<br>
 
 Over the next few months, political instability swept through the Rebate. The people in power kept changing, and families rose and fell on a daily basis.
 

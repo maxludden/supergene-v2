@@ -1,9 +1,11 @@
+---
 Title:Back to the Stone Hall 
 Chapter:2258 
 Section:10 
 Book:7 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Back to the Stone Hall
 ### Chapter 2258
@@ -80,7 +82,11 @@ The spiky whip pierced through Han Sen’s pants, almost catching the family jew
 
 “If you lie to me again, I am going to make a eunuch out of you.” Fox Queen grunted coldly, then returned to the jade bed. She settled herself and looked at Han Sen. “Tell me, how are you going to help me escape?”
 
-…
+<br>
+
+*****
+
+<br>
 
 “What is this place?” Edward looked at the wall in wonder.
 

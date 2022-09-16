@@ -1,9 +1,11 @@
+---
 Title:I'm Going to Look After You 
 Chapter:880 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## I'm Going to Look After You
 ### Chapter 880
@@ -28,7 +30,7 @@ Katcha!
 
 Another black bolt came from the sky, and this happened a multitude of times. After the ninth occurrence, the clouds departed as quickly as they had come.
 
-Boom!
+*Boom!*
 
 A white lightning cloud then appeared in the sky, erupting with more bolts of thunder. They were all aimed at the silver fox's breaking body.
 
@@ -40,7 +42,7 @@ But then, on the final strike, the silver fox's body was broken into pieces. Its
 
 The bones were shining with lightning.
 
-Boom!
+*Boom!*
 
 Another lightning bolt streaked across the sky. But this was like a pillar, heading directly downwards as if to crush the silver fox's motionless bones.
 
@@ -54,17 +56,17 @@ More and more lightning flashed across its rebirthing body, and slowly, the silv
 
 The silver lightning of the fox was like a fire, and when the silver fox howled, the fire pushed up against the pillar.
 
-Boom!
+*Boom!*
 
 The area was consumed by a grand discharge of electricity. Han Sen and the three-tailed fox had to move a great distance away and watch the transformation from afar.
 
-Boom!
+*Boom!*
 
 Perhaps it was because there was too much lightning, but half of Thunder Mountain collapsed.
 
 And amidst the ruin and rubble, the silver fox howled again. The silver lightning sundered the light pillar and went even further, lighting up the entire sky.
 
-Boom!
+*Boom!*
 
 The silver lightning broke the sky, literally cracking it open. Inside the cracks, Han Sen saw many strange things.
 
@@ -94,7 +96,7 @@ Howl! The silver fox yelped in the direction of its master once more, and as it 
 
 The silver fox nodded, and then it turned back to face the portal. Its body morphed into silver lightning and was drawn inside.
 
-Boom!
+*Boom!*
 
 The crack closed shut, and the pressure that had forced Han Sen to the ground vanished. Still, he did not immediately get back on his feet. His heart had been dealt a blow he had almost never had to deal with.
 

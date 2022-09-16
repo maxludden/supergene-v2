@@ -1,9 +1,11 @@
+---
 Title:Hope in Despair 
 Chapter:485 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Hope in Despair
 ### Chapter 485
@@ -48,7 +50,7 @@ Guan Tong rushed back to the shelter. However, as she stood on top of the walls,
 
 In addition, everyone guarding the shelter was feeling hopeless. The creature was endless as if they could never be wiped out. Many people were already sore from the killing, but more creatures threw themselves at humans nonstop.
 
-Boom!
+*Boom!*
 
 The creature taller than even the wall eventually managed to break the wall open, and a large number of creatures started to enter.
 
@@ -96,7 +98,7 @@ The moment when Han Sen threw himself at the royal spirit, the silver-haired spi
 
 At Li Xinglun's command, the evolvers who were giving up on the shelter immediately joined the fight without even thinking. The other two strong evolvers went back to fight the two sacred-blood creatures that were about to turn back.
 
-Boom!
+*Boom!*
 
 Li Xinglun took a hit from the unicorn beast with his bronze sword and fell, leaving a long furrow on the ground. However, he was still holding his sword tight with the blood at the corner of his mouth.
 

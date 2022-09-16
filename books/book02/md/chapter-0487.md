@@ -1,9 +1,11 @@
+---
 Title:Berserk Gargoyle 
 Chapter:487 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Berserk Gargoyle
 ### Chapter 487

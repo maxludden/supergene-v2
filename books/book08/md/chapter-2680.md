@@ -1,9 +1,11 @@
+---
 Title:Leveling Up While Fighting 
 Chapter:2680 
 Section:13 
 Book:8 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Leveling Up While Fighting
 ### Chapter 2680

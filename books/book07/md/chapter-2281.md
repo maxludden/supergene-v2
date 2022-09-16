@@ -1,9 +1,11 @@
+---
 Title:Yisha Levels Up 
 Chapter:2281 
 Section:10 
 Book:7 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Yisha Levels Up
 ### Chapter 2281
@@ -20,7 +22,11 @@ Everything she had—her clothes, her accessories, her armor, and all sorts of o
 
 Once Yisha was safely encased within the purple cocoon, all became quiet.
 
-…
+<br>
+
+*****
+
+<br>
 
 In a giant palace, Fox Queen, Mister White, and Crime were traveling forward. Fox Queen suddenly stopped. She looked around her and said, “Mister White, is this the correct path? Why have we been walking for so long, and yet we are still in the same palace?”
 
@@ -36,7 +42,11 @@ Mister White slowly said, “This must be the fourth checkpoint for the treasure
 
 Fox Queen looked at the stone pillar and groaned. She didn’t move.
 
-…
+<br>
+
+*****
+
+<br>
 
 Han Sen stared at Yisha with a look of surprise. The whole process had gone far better than he expected.
 

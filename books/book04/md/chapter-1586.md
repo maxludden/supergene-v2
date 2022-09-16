@@ -1,9 +1,11 @@
+---
 Title:Charm Beast Soul 
 Chapter:1586 
 Section:4 
 Book:4 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Charm Beast Soul
 ### Chapter 1586

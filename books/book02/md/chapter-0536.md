@@ -1,9 +1,11 @@
+---
 Title:Shura 
 Chapter:536 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Shura
 ### Chapter 536
@@ -44,7 +46,7 @@ Han Sen was shocked by what he saw. When Zero was in this form, it was quite dif
 
 Zero's eyes continued to shine with a purple light, and her hands trembled. In a moment, she cleared Han Sen's body from the vine-like tentacles that had imprisoned him. Then she quickly hauled him back to the Crystal Palace.
 
-Splash!
+*Splash!*
 
 They both hurriedly emerged from the water. Zero quickly got back on board and lay down on the floor; the color of her now-purple hair began to fade and return to black, as the horns that had appeared on her head shrank and disappeared. All of a sudden, she looked like a typical human female once again.
 

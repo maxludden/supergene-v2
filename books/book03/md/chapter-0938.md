@@ -1,9 +1,11 @@
+---
 Title:A Knight That Opens His Eyes 
 Chapter:938 
 Section:3 
 Book:3 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## A Knight That Opens His Eyes
 ### Chapter 938
@@ -64,7 +66,7 @@ They did so, but it wasn't easy. The roots were harder than stone, and three of 
 
 But after the snake bit off one root, the tree began to shiver and tremble. The six Loyal Knights were like ghosts, swinging from the boughs of the tree.
 
-Boom!
+*Boom!*
 
 One Loyal Knight disconnected and hit the ground. One after another, so did the others. They did not collapse onto the ground, but instead, they landed on their feet like armor-garbed mannequins in a museum.
 
@@ -80,7 +82,7 @@ The other five followed and did the same, throwing fists towards the stalwart sn
 
 "Did Moment lie? They are attacking whatever they see!" Han Sen commanded the Dragon-Blood Snake and Little Wind to fight back against their fruity aggressors.
 
-Boom!
+*Boom!*
 
 A light rose from the feet of one of the Loyal Knights, then it punched the snake. The snake was sent flying.
 

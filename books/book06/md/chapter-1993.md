@@ -1,9 +1,11 @@
+---
 Title:Competing Skills 
 Chapter:1993 
 Section:8 
 Book:6 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Competing Skills
 ### Chapter 1993

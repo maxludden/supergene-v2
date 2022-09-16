@@ -1,9 +1,11 @@
+---
 Title:Geno Core 
 Chapter:1258 
 Section:3 
 Book:3 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Geno Core
 ### Chapter 1258

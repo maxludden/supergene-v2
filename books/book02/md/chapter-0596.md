@@ -1,9 +1,11 @@
+---
 Title:Silver Ladybug Mother 
 Chapter:596 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Silver Ladybug Mother
 ### Chapter 596
@@ -72,7 +74,11 @@ The evolvers out on the road would always allow Han Sen to pass, and many would 
 
 "Aww, it's so cute! I really want one."
 
-…
+<br>
+
+*****
+
+<br>
 
 Han Sen was holding the silver fox when he passed through the gate, but when he approached the ladybugs, they did not disappear underground. There was a dizzying amount of them, squirming and shimmering like a lake of molten silver.
 

@@ -1,9 +1,11 @@
+---
 Title:Planet Eclipse 
 Chapter:1834 
 Section:7 
 Book:5 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Planet Eclipse
 ### Chapter 1834

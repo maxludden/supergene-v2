@@ -1,9 +1,11 @@
+---
 Title:Sanctuary’s Gate 
 Chapter:1733 
 Section:6 
 Book:5 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Sanctuary’s Gate
 ### Chapter 1733
@@ -54,7 +56,7 @@ Ji Yanran’s crystal shoes and Stay Up Late’s Western King Sword were both he
 
 Many scary powers were going converging, but the officer remained motionless. Perhaps it was because he was leveling up, or there was another sinister motive entirely.
 
-Boom!
+*Boom!*
 
 All that horrendous power went against the officer, producing an explosion that was scarier than a supernova.
 

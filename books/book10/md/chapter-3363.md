@@ -1,9 +1,11 @@
+---
 Title:Fighting Leader 
 Chapter:3363 
 Section:17 
 Book:10 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Fighting Leader
 ### Chapter 3363

@@ -1,9 +1,11 @@
+---
 Title:Swift Mantis 
 Chapter:5 
 Section:1 
 Book:1 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Swift Mantis
 ### Chapter 5
@@ -14,7 +16,7 @@ viewport: width=device-width
   
 
   
-  After making a fuss at Han Sen’s home, Han Yumei and Han Lei gave his family an ultimatum — they had to come up with the money or sell the house in one month, otherwise they would file a lawsuit.
+After making a fuss at Han Sen’s home, Han Yumei and Han Lei gave his family an ultimatum — they had to come up with the money or sell the house in one month, otherwise they would file a lawsuit.
 
 "I’m so useless that I can’t even keep the house." Luo Sulan held Han Yan, her face covered with tears.
 

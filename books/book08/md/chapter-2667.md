@@ -1,9 +1,11 @@
+---
 Title:Meeting Destiny Again 
 Chapter:2667 
 Section:13 
 Book:8 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Meeting Destiny Again
 ### Chapter 2667
@@ -24,7 +26,7 @@ Han Sen followed behind her. Even though it was injured, he could feel the fierc
 
 Before Li Keer could answer, a sandstorm swept over them and sucked them in. Within a second, they were tossed far, far away.
 
-Boom! Boom! Boom!
+*Boom!* *Boom!* *Boom!*
 
 As they got back to their feet and watched from a distance, they saw countless sand dragons emerging from the ground. They looked like ancient, deadly creatures. They followed the sand god’s commands to go for the injured beast.
 

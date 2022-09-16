@@ -1,9 +1,11 @@
+---
 Title:Sprocket Sword 
 Chapter:477 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Sprocket Sword
 ### Chapter 477
@@ -94,6 +96,6 @@ Ji Yanran was both surprised and happy. Wang Hou who had practiced Sprocket Swor
 
 A fitness level over a hundred and the well-known Sprocket Sword seemed to be completely useless in front of Han Sen. Han Sen became more and more flexible, while Wang Hou became more and more suppressed. With a strong fitness and sharp sacred-blood sword, Wang Hou could not put Han Sen down at all.
 
-Boom!
+*Boom!*
 
 With a punch from Han Sen, Wang Hou had to turn from offense to defense. The renowned Sprocket Sword was forced to be put on hold.

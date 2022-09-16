@@ -1,9 +1,11 @@
+---
 Title:Invisible Versus an Equal 
 Chapter:995 
 Section:3 
 Book:3 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Invisible Versus an Equal
 ### Chapter 995
@@ -70,7 +72,7 @@ Muscle collided with muscle, as bone went up against bone.
 
 The spirits, seeing Han Sen’s body approach with a glowing fist, watched with rapt intensity as it broke Split-Space King’s arms and drove itself directly into his smug face.
 
-Boom!
+*Boom!*
 
 The white light drew together to create an orb of incinerating power—one that destroyed Split-Space King’s head. The arrogant spirit was sent flying back, crashing into statue in a bloody heap of broken bones and blood.
 
@@ -96,7 +98,7 @@ Split-Space King was incredibly angry, and that fury spread out into his surroun
 
 But still, even those attacks would only draw blood. Not a single one of those cracks were enough to truly repel Han Sen and his thirsty fist.
 
-Boom!
+*Boom!*
 
 Han Sen’s punch nestled itself deep into Split-Space King’s head once again, with no fear, hesitation, or pain softening the merciless strike.
 

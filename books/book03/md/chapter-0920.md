@@ -1,9 +1,11 @@
+---
 Title:Repo Man 
 Chapter:920 
 Section:3 
 Book:3 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Repo Man
 ### Chapter 920
@@ -78,7 +80,7 @@ Flower Empress could not resist, and she softened inside Han Sen's arms.
 
 "I'm going to kill you!" The King of Day could no longer hold his tongue, so he ran forward. Turning into a sun along the way, he rushed towards Han Sen.
 
-Boom!
+*Boom!*
 
 Han Sen continued to hold Flower Empress with one arm, as his other arm quickly reached out and punched the flailing madman. The sun of his new composure shattered into pieces, like frail glass.
 

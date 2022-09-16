@@ -1,9 +1,11 @@
+---
 Title:The Plan Fails 
 Chapter:2518 
 Section:12 
 Book:8 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## The Plan Fails
 ### Chapter 2518

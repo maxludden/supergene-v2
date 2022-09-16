@@ -1,9 +1,11 @@
+---
 Title:Let Them Fight, Grab the Spoils 
 Chapter:1039 
 Section:3 
 Book:3 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Let Them Fight, Grab the Spoils
 ### Chapter 1039

@@ -1,9 +1,11 @@
+---
 Title:Child Combine Liquid 
 Chapter:2074 
 Section:8 
 Book:6 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Child Combine Liquid
 ### Chapter 2074

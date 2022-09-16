@@ -1,9 +1,11 @@
+---
 Title:Killing a Gold Dragon 
 Chapter:1361 
 Section:4 
 Book:4 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Killing a Gold Dragon
 ### Chapter 1361

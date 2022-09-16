@@ -1,9 +1,11 @@
+---
 Title:Fighting a Group Alone 
 Chapter:3230 
 Section:16 
 Book:10 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Fighting a Group Alone
 ### Chapter 3230

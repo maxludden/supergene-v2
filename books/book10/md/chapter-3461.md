@@ -1,9 +1,11 @@
+---
 Title:By Dollar's Name (the End) 
 Chapter:3461 
 Section:17 
 Book:10 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## By Dollar's Name (the End)
 ### Chapter 3461

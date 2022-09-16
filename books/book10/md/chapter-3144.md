@@ -1,9 +1,11 @@
+---
 Title:Annihilation God Base 
 Chapter:3144 
 Section:16 
 Book:10 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Annihilation God Base
 ### Chapter 3144
@@ -68,7 +70,7 @@ Decapitation Queen was scared as she screamed, “No… Impossible… I am an im
 
 In the blink of an eye, the god temple was destroyed. It was suddenly rendered into nothing.
 
-Ding!
+*Ding!*
 
 There was a crunching sound. Something had made itself known in the broken god temple. Han Sen’s power was unable to destroy it, so it fell into the lake.
 
@@ -96,7 +98,7 @@ The scary power was not just something a God Spirit could have. With Han Sen’s
 
 Bald Guy’s reactions were a bit slow. He did not notice anything, but Li Bing Yu could already tell the atmosphere was shifting. Her face morphed along with it.
 
-Boom! Boom!
+*Boom!* *Boom!*
 
 The space around them shook. A god temple burst into formation as it descended.
 

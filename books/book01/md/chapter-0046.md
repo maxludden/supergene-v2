@@ -1,9 +1,11 @@
+---
 Title:Endurance 
 Chapter:46 
 Section:1 
 Book:1 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Endurance
 ### Chapter 46

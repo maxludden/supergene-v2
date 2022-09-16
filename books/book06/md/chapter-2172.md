@@ -1,9 +1,11 @@
+---
 Title:Frozen Power 
 Chapter:2172 
 Section:9 
 Book:6 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Frozen Power
 ### Chapter 2172

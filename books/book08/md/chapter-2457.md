@@ -1,9 +1,11 @@
+---
 Title:Exposed 
 Chapter:2457 
 Section:12 
 Book:8 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Exposed
 ### Chapter 2457

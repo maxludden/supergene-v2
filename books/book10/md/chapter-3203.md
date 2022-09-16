@@ -1,9 +1,11 @@
+---
 Title:Sword Slashes Weapon God 
 Chapter:3203 
 Section:16 
 Book:10 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Sword Slashes Weapon God
 ### Chapter 3203
@@ -60,7 +62,7 @@ Weapon God did not care for the small critters fleeing the scene. All he cared f
 
 “Go to hell!” Weapon God opened his hands. The weaponry behind him shattered. They turned into a hundred kinds of different weapons. Every weapon had a scary Break World power. All of it was going for Han Sen. Han Sen’s eyes froze. The Break World power exploded. The Inch Grey Sword in his hands slashed. Suddenly, he broke a few weapons. No matter how sharp the Inch Grey Sword was, breaking those big weapons was sure to take time. By the time he broke a few weapons, the rest of the weapons had reached Han Sen’s body.
 
-Boom!
+*Boom!*
 
 Han Sen’s body suddenly turned into a white shadow. He looked like a God Spirit with a semi-transparent body that had white light that could explode. His body power moved.
 

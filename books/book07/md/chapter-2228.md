@@ -1,9 +1,11 @@
+---
 Title:Way of Life and Death 
 Chapter:2228 
 Section:10 
 Book:7 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Way of Life and Death
 ### Chapter 2228

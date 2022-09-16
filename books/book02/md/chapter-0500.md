@@ -1,9 +1,11 @@
+---
 Title:You Have Lost Already 
 Chapter:500 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## You Have Lost Already
 ### Chapter 500
@@ -104,7 +106,11 @@ Same as Tie Yi, Han Sen stood still against Tie Yi's fist.
 
 "Who knows? He just said Tie Yi has already lost. So, there must be some reason."
 
-…
+<br>
+
+*****
+
+<br>
 
 The soldiers looked at Han Sen who was motionless, puzzled. Tie Yi's fist was about to hit Han Sen's face, but Han Sen was still standing calmly, as if Tie Yi were not trying to attack him.
 

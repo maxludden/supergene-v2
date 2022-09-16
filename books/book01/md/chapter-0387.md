@@ -1,9 +1,11 @@
+---
 Title:Blood Snail Beast Soul 
 Chapter:387 
 Section:1 
 Book:1 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Blood Snail Beast Soul
 ### Chapter 387
@@ -60,7 +62,7 @@ Left… right… left… right…
 
 With extremely fierce strength, the dagger kept cutting the jade shell and deepening the marks on the shell. The metal sounds were almost nonstop.
 
-Boom!
+*Boom!*
 
 Eventually, after taking hundreds or thousands of hits, the jade shell was broken by the dagger into pieces and fell underneath the cliff.
 
@@ -68,11 +70,12 @@ Without the protection of the jade shell, the red meat issued a screech and thre
 
 Han Sen looked extremely calm. He wielded his dagger and cut off all the tentacles, approaching the vital part of the red meat at the same time.
 
-Whoosh!
+*Whoosh!*
 
 Han Sen's strike broke the red meat and sliced off the two eyes of the creature. The creature suddenly screamed. It could no longer attach its body to the cliff and fell.
 
-> "Super Creature Blood Snail Killed. Beast Soul Of Super Creature Blood Snail Gained. Life Essence Available. Meat Inedible."
+> "Super Blood Snail killed. Beast sould of Super Blood Snail gained. Life essence available. Meat inedible. Consume its life essence to gain zero to ten super geno points randomly."
+<!--"Super Creature Blood Snail Killed. Beast Soul Of Super Creature Blood Snail Gained. Life Essence Available. Meat Inedible."-->
 
 Hearing the voice in his mind, Han Sen almost moaned in happiness. It was indeed a super creature. He not only gained its life essence, but also had the beast soul.
 
@@ -80,11 +83,17 @@ Hearing the voice in his mind, Han Sen almost moaned in happiness. It was indeed
 
 Han Sen took the red crystal and started to lick it. The crystal melted into blood like liquid and Han Sen swallowed greedily.
 
-> "Life Essence Of Super Creature Blood Snail Eaten. One Super Geno Point Gained."
+> "Life essence of Super Blood Snail consumed. One super geno point gained."
+<!--"Life Essence Of Super Creature Blood Snail Eaten. One Super Geno Point Gained."-->
+>
+> "Life essence of Super Blood Snail consumed. One super geno point gained."
+<!--"Life Essence Of Super Creature Blood Snail Eaten. One Super Geno Point Gained."-->
 
-> "Life Essence Of Super Creature Blood Snail Eaten. One Super Geno Point Gained."
+<br>
 
-…
+*****
+
+<br>
 
 Hearing the pleasing voice and feeling the warm streams filling his body, Han Sen felt on top of the world. It was almost like he was in heaven.
 

@@ -1,9 +1,11 @@
+---
 Title:Expensive Life 
 Chapter:2946 
 Section:15 
 Book:9 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Expensive Life
 ### Chapter 2946

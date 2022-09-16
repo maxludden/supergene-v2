@@ -1,9 +1,11 @@
+---
 Title:Revenge 
 Chapter:1446 
 Section:4 
 Book:4 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Revenge
 ### Chapter 1446
@@ -70,7 +72,11 @@ Green Cow said, “I suppose you are right. You and I lack power, and it was ver
 
 “Exactly. And the boss has not told us to be hostile. He’s kept things friendly and maintained the quo.”
 
-…
+<br>
+
+*****
+
+<br>
 
 Han Sen left the shelter. He was not afraid of his companions being rats. Qing Le was merely a royal class spirit with a gemstone geno core.
 

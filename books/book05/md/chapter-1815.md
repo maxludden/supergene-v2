@@ -1,9 +1,11 @@
+---
 Title:Maxing Out Genes 
 Chapter:1815 
 Section:6 
 Book:5 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Maxing Out Genes
 ### Chapter 1815

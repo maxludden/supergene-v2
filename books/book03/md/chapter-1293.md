@@ -1,9 +1,11 @@
+---
 Title:The Light Is Dark 
 Chapter:1293 
 Section:3 
 Book:3 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## The Light Is Dark
 ### Chapter 1293
@@ -58,7 +60,7 @@ Moving Star Emperor gave an ugly look, and it prompted Han Sen to explain, “Da
 
 Moving Star Emperor’s face turned green. He was not an expert when it came to analyses like this, and so he had no clue how he should respond.
 
-Clap! Clap! Clap!
+*Clap!* *Clap!* *Clap!*
 
 Han Sen turned around and saw a spirit clapping her hands gently. It was Lotus Empress herself.
 

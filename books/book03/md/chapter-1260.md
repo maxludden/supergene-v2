@@ -1,9 +1,11 @@
+---
 Title:Fish King’s Reappearance 
 Chapter:1260 
 Section:3 
 Book:3 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Fish King’s Reappearance
 ### Chapter 1260

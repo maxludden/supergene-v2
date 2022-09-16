@@ -1,9 +1,11 @@
+---
 Title:The Use of the Magnet Fruit 
 Chapter:1773 
 Section:6 
 Book:5 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## The Use of the Magnet Fruit
 ### Chapter 1773

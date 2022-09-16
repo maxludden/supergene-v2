@@ -1,18 +1,21 @@
-Title:From a Loner to the King
-Chapter:105
-Section:1
-Book:1
-CSS:../Styles/style.css
+---
+Title:From a Loner to the King 
+Chapter:105 
+Section:1 
+Book:1 
+CSS:../Styles/style.css 
 viewport: width=device-width
-
+---
+  
 ## From a Loner to the King
 ### Chapter 105
-
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
+  
 
-
+  
 *Snap!*
 
 Wang Changqing’s comlink was smashed by him. Eyes bloodshot, he panted heavily like a hysterical beast.
@@ -45,33 +48,41 @@ The puff reached his lungs and an intoxicating feeling started to spread from th
 
 When all the excitement was gone, Fang Mingquan got up to turn on his smart device. He wrote an article titled "A King Marches in Loneliness."
 
-<br>
-<div class="article">
-	<p class="title">A King Marches in Loneliness</p>
-	<p>A king is always lonely.</p>
-	<p>When others are laughing with friends to show off their humor,</p>
-	<p>He is sweating in silence.</p>
-	<p>The king is always lonely,</p>
-	<p>When others are chasing fair maidens,</p>
-	<p>He is bleeding on the battlefield.</p>
-	<p>A king is always lonely.</p>
-	<p>When the whole world is against him,</p>
-	<p>He stared into the front.</p>
-	<p>A king is always lonely.</p>
-	<p>When he is abandoned by all,</p>
-	<p>He is still firmly marching forward,</p>
-	<p>Only to realize his dreams afar.v
-	<p>I just want to say,</p>
-	<p>Dollar, please accept my allegiance.</p>
-	<p>A loner like me whishes to follow you who are lonely too.</p>
-	<pYou win, I will be with you.</p>
-	<p>You lose, I will be with you.</p>
-	<br>
-	<p class="sig">- from a loner to the king</p>
-</div>
-</div>
-<br>
-<br>
+A king is always lonely.
+
+When others are laughing with friends to show off their humor,
+
+He is sweating in silence.
+
+The king is always lonely,
+
+When others are chasing fair maidens,
+
+He is bleeding on the battlefield.
+
+A king is always lonely.
+
+When the whole world is against him,
+
+He stared into the front.
+
+A king is always lonely.
+
+When he is abandoned by all,
+
+He is still firmly marching forward,
+
+Only to realize his dreams afar.
+
+I just want to say,
+
+Dollar, please accept my allegiance.
+
+A loner like me whishes to follow you who are lonely too.
+
+You win, I will be with you.
+
+You lose, I will be with you.
 
 Fang Mingquan finished the article and did not sign leave his own name under, instead he wrote "from a loner to the king."
 

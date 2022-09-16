@@ -1,9 +1,11 @@
+---
 Title:Black and White Three 
 Chapter:194 
 Section:1 
 Book:1 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Black and White Three
 ### Chapter 194
@@ -30,7 +32,12 @@ This white fist that had stopped half way was harder on him than a thousand actu
 
 Ouyang watched him going and froze for a long time until Han Sen had disappeared from his sight.
 
-...
+<br>
+
+*****
+
+<br>
+
 
 Chen Ling was both happy and worried. She was happy that Han Sen had promised to participate, while worried that Ouyang had refused to participate.
 

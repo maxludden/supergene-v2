@@ -1,9 +1,11 @@
+---
 Title:One More Time 
 Chapter:431 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## One More Time
 ### Chapter 431
@@ -24,7 +26,7 @@ Initially, Han Sen was trying to figure out the source of Lu Bin’s intention t
 
 When fighting someone like this, there was only one way to win—may the brave one live.
 
-Boom!
+*Boom!*
 
 Han Sen no longer stepped back, but made a kick himself, his leg hitting Lu Bin’s and making a loud sound.
 
@@ -76,7 +78,7 @@ It was difficult for anyone to make seven kicks in one jump, let alone make all 
 
 The seven kicks were almost finished in one moment without any pause. One should manage to kick seven times in one breath. It was extremely pleasing to look at, like a battle ax splitting the earth. For the viewers, it was even hard to imagine that seven kicks had been made when the fighter had already landed. It was so smooth that it looked like one hard kick.
 
-Boom!
+*Boom!*
 
 Han Sen was unable to block Seven Kill and fell back immediately. His health went down significantly, almost reaching the bottom instantaneously.
 

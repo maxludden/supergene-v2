@@ -1,9 +1,11 @@
+---
 Title:Panorama 
 Chapter:293 
 Section:1 
 Book:1 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Panorama
 ### Chapter 293
@@ -38,7 +40,11 @@ After finishing doing that, Han Sen started to savor the life essence of the clo
 
 > "Life Essence Of Super Creature Cloud Beast Eaten. One Super Geno Point Gained."
 
-…
+<br>
+
+*****
+
+<br>
 
 Han Sen heard the continuous voice and felt on top of the world.
 

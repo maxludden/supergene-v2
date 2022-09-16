@@ -1,9 +1,11 @@
+---
 Title:Swapping Minds 
 Chapter:2418 
 Section:11 
 Book:7 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Swapping Minds
 ### Chapter 2418

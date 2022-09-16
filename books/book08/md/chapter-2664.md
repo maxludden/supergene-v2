@@ -1,9 +1,11 @@
+---
 Title:Deified Set 
 Chapter:2664 
 Section:13 
 Book:8 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Deified Set
 ### Chapter 2664
@@ -24,7 +26,11 @@ Li Keer sighed and continued, “The people who have placed big bets on Han Sen�
 
 “That is something that cannot be avoided. We just have to find a way to sort this out, or at least mitigate the fallout,” Exquisite glumly said.
 
-…
+<br>
+
+*****
+
+<br>
 
 Han Sen spent some time reviewing the information he had been given. There descriptions and short bios of the twelve silkworms he would be squaring off against. The information was comprehensive, and whoever had been responsible for compiling it had done an excellent job. It was like a bona fide restaurant menu.
 

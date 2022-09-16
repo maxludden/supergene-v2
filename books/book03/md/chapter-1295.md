@@ -1,9 +1,11 @@
+---
 Title:Hit the Drum and Get Fruit 
 Chapter:1295 
 Section:3 
 Book:3 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Hit the Drum and Get Fruit
 ### Chapter 1295

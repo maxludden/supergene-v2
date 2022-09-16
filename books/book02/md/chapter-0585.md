@@ -1,9 +1,11 @@
+---
 Title:Red Mushrooms 
 Chapter:585 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Red Mushrooms
 ### Chapter 585
@@ -18,7 +20,7 @@ Han Sen was amazed. Seeing a creature bring its children to eat was an incredibl
 
 When the snow turtles began to dig into their food, the screech of a bird came out of the sky. A golden bird dropped into view. As if it had been searching for the turtles, it came down at an extremely high speed with its talons raised and ready to snatch them.
 
-Pop!
+*Pop!*
 
 Before the threatening bird reached them, the big snow turtle shot a beam of frost towards it. In the next second, the bird turned into a block of ice. From the height it fell, it hit the ground hard and shattered into nothing but bits and pieces.
 

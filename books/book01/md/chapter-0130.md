@@ -1,9 +1,11 @@
+---
 Title:Killing Spree 
 Chapter:130 
 Section:1 
 Book:1 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Killing Spree
 ### Chapter 130
@@ -72,7 +74,7 @@ The sacred-blood fox king was too intelligent to believe the arrow could actuall
 
 If his arrow had that kind of power, then he should have used it before the fox king led Wang Mengmeng into the ambush.
 
-Whoosh!
+*Whoosh!*
 
 But soon the fox king panicked as it discovered that the speed of the arrow got even higher when approaching itself.
 

@@ -1,9 +1,11 @@
+---
 Title:Sacred-blood Pet 
 Chapter:164 
 Section:1 
 Book:1 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Sacred-blood Pet
 ### Chapter 164
@@ -48,7 +50,7 @@ When Baldy thought that he had warded off the strike, his spear broke.
 
 Baldy wanted to go back, but his legs were still in the sand and there was no way to run. Another katana strike cut Baldy in half.
 
-Ding! Ding!
+*Ding!* *Ding!*
 
 Two daggers were shot at Han Sen and mercilessly nailed in the gaps on the elbow part of his armor. To kill Baldy, Han Sen had no time to dodge.
 

@@ -1,9 +1,11 @@
+---
 Title:Down Goes the Brain 
 Chapter:260 
 Section:1 
 Book:1 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Down Goes the Brain
 ### Chapter 260
@@ -48,7 +50,11 @@ Qin Cheng's teammates were also overjoyed.
 
 "We have more than Jing Jiwu. Qin Cheng is equally good."
 
-…
+<br>
+
+*****
+
+<br>
 
 As they were celebrating, Qin Cheng suddenly exclaimed as an arrow ended on his chest.
 

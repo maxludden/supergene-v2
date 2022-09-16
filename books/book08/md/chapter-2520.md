@@ -1,9 +1,11 @@
+---
 Title:Wan’er Wakes Up 
 Chapter:2520 
 Section:12 
 Book:8 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Wan’er Wakes Up
 ### Chapter 2520
@@ -32,7 +34,11 @@ The results of the battle were far too surprising. The Gold Armor General was co
 
 “Even someone else could do this, there’s no way they could do it as casually as Dollar did. He must be a deified pretending to be a King.”
 
-…
+<br>
+
+*****
+
+<br>
 
 After the King class audience watched the fight, they were all left looking shocked.
 

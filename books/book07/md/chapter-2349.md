@@ -1,9 +1,11 @@
+---
 Title:Ancient Water God 
 Chapter:2349 
 Section:11 
 Book:7 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Ancient Water God
 ### Chapter 2349
@@ -72,7 +74,7 @@ The water poured down around Han Sen, soaking his clothes. He looked like a wet 
 
 “I was just talking. I didn’t actually do anything. You don’t have to be this mad at me,” Han Sen said, feeling frustrated.
 
-Boom!
+*Boom!*
 
 Ancient Water God didn’t appear again, but something exploded through the water not too far away. A silver dragon had emerged from the sea, and its silver light gleamed like the glory of the sun. Silver rain showered from the creature, and its presence was pretty terrifying.
 
@@ -96,7 +98,7 @@ As the dragon plunged through the water, it created a substantial backdraft. If 
 
 The silver-winged dragon was scary. Han Sen struggled to keep his grip on the dragon tooth, but the water pummeled his body constantly. He trembled under the force, and he felt as if his arms were going to get ripped off by the power.
 
-Boom!
+*Boom!*
 
 Suddenly, Han Sen’s body was shining gold. Gold light beamed from every inch of his body, interspersed with tiny symbols.
 

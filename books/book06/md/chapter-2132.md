@@ -1,9 +1,11 @@
+---
 Title:One Skill Breaks Ten Thousand Skills 
 Chapter:2132 
 Section:8 
 Book:6 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## One Skill Breaks Ten Thousand Skills
 ### Chapter 2132

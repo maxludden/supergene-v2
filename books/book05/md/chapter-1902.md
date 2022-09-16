@@ -1,9 +1,11 @@
+---
 Title:Buddha Touching a Flower 
 Chapter:1902 
 Section:7 
 Book:5 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Buddha Touching a Flower
 ### Chapter 1902
@@ -50,7 +52,7 @@ But Ancient Devil was drawing in the air, as Han Sen’s finger ran across the s
 
 “One flower. One leaf. One world.” Han Sen did not pay heed to what others said about him.
 
-Boom!
+*Boom!*
 
 When the Nobles saw what Han Sen had written, they fell into a stunned silence. Quickly, a cold sweat developed across all their bodies. They were so scared, it was like a curse had been laid upon them. They didn’t move, and all they could do was solemnly stare at Han Sen’s written word.
 

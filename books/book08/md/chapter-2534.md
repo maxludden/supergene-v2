@@ -1,9 +1,11 @@
+---
 Title:Gold General Appears 
 Chapter:2534 
 Section:12 
 Book:8 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Gold General Appears
 ### Chapter 2534
@@ -66,7 +68,7 @@ As Bai Wan Jie’s excitement grew, a gold light flashed by him. A gold form app
 
 All the royal knights stared in shock, as well. They couldn’t imagine why there was a Gold Armor General before them, so they had no idea how to react.
 
-Finishing off the Sea Sky Eye was taking all their power, and now a Gold Armor General had appeared out of nowhere. They had no clue what to do.Boom!
+Finishing off the Sea Sky Eye was taking all their power, and now a Gold Armor General had appeared out of nowhere. They had no clue what to do.*Boom!*
 
 Before they could muster a reaction, Han Sen used the Gold Armor General to slam the Sky God Pillar’s base. A glowing gold substance chain hurtled into the Sky God Pillar, shoving the pillar all the way into the Sea Sky Eye. A hole appeared in the moon-sized Sea Sky Eye.
 

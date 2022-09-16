@@ -1,9 +1,11 @@
+---
 Title:You Are Not Qualified Enough 
 Chapter:2832 
 Section:14 
 Book:9 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## You Are Not Qualified Enough
 ### Chapter 2832
@@ -74,7 +76,7 @@ The Very High Leader was shocked. He stared at Han Sen. He wanted to know if his
 
 Han Sen could tell what the Very High Leader was thinking. Han Sen waved his hand and cast Seven Light on the Very High Leader. The Very High Leader cast the Seven Light from his hand too.
 
-Boom!
+*Boom!*
 
 Two Seven Lights hit each other in the air and exploded. The rainbow halo exploded like a sun. It was so bright that no one could see momentarily. It took a while for things to go back to normal.
 

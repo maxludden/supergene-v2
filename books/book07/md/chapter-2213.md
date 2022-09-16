@@ -1,9 +1,11 @@
+---
 Title:One Shot to the Soul 
 Chapter:2213 
 Section:10 
 Book:7 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## One Shot to the Soul
 ### Chapter 2213
@@ -72,7 +74,7 @@ That bullet wasn’t imbued with the effects of Turtle, and neither did it carry
 
 Night River King was on the precipice of killing the Galactic Lobster, but then, there was a flash. The flash punched deep into the shell he had worked hard to destroy, going right through the Galactic Lobster’s head.
 
-Boom!
+*Boom!*
 
 The lobster looked like little more than rotten meat by this point, and it suddenly exploded. The spine broke, and the brain came splattering out.
 

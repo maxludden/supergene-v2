@@ -1,9 +1,11 @@
+---
 Title:Breaking Holy Palace 
 Chapter:2963 
 Section:15 
 Book:9 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Breaking Holy Palace
 ### Chapter 2963
@@ -32,7 +34,7 @@ Han Sen’s knife was decisive as it slashed down. The white knife light cut the
 
 The Qin Xiu statue’s race lantern, however, remained floating in the air. It did not fall with the statue.
 
-Boom! Boom! Boom!
+*Boom!* *Boom!* *Boom!*
 
 While the Qin Xiu statue fell apart, the other statues around fell apart. The holy palace was shaking and falling apart too. It was like the end of the world.
 
@@ -82,7 +84,7 @@ Qin Xiu stood on the crystal wheel and looked into the sky as he spoke. His eyes
 
 Han Sen wished to say something, but the wheel suddenly became too bright. The crystal disc spun like mad. When Qin Xiu raised his hands, the crystal disc’s light was like a volcanic eruption. It became a beam of light that fired into the sky.
 
-Boom!
+*Boom!*
 
 The entire universe started to shake. Lots of stars and systems quivered. Countless races were shocked as they looked to the sky. They looked at the pillar of light like it was the universe’s anchor.
 

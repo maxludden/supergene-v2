@@ -1,9 +1,11 @@
+---
 Title:Kill the Gods 
 Chapter:2823 
 Section:14 
 Book:9 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Kill the Gods
 ### Chapter 2823

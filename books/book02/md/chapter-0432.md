@@ -1,9 +1,11 @@
+---
 Title:The Impossible Eighth Kick 
 Chapter:432 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## The Impossible Eighth Kick
 ### Chapter 432
@@ -16,7 +18,7 @@ viewport: width=device-width
   
 Lu Bin also roared, his kicks going up from the ground, meeting Han Sen's kicks in the air, making sonic booms.
 
-Boom!
+*Boom!*
 
 The strength of the kicks from above was too strong for even Lu Bin, the inventor of Seven Kill. After taking five takes, Lu Bin could hardly lift his legs.
 
@@ -30,7 +32,7 @@ At this point, Han Sen was about to land. Lu Bin who knew everything about Seven
 
 Disregarding his broken arms, Lu Bin and used the other one to kick at Han Sen as hard as possible.
 
-Boom!
+*Boom!*
 
 However, before Lu Bin's kick was made, Han Sen who was in the air made another kick, hitting right at Lu Bin's chest, making Lu Bin fall back immediately with an incredulous look on his face.
 

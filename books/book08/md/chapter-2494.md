@@ -1,9 +1,11 @@
+---
 Title:Let Go of That Peacock 
 Chapter:2494 
 Section:12 
 Book:8 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Let Go of That Peacock
 ### Chapter 2494

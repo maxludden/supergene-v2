@@ -1,9 +1,11 @@
+---
 Title:Eight Sound Bug 
 Chapter:3069 
 Section:16 
 Book:10 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Eight Sound Bug
 ### Chapter 3069

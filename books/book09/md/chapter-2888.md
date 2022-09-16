@@ -1,9 +1,11 @@
+---
 Title:Under the Sky 
 Chapter:2888 
 Section:14 
 Book:9 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Under the Sky
 ### Chapter 2888
@@ -48,7 +50,7 @@ Seeing Burning Lamp’s scary knife light about to reach him, Han Sen did not ha
 
 In the next second, everyone froze. The scary knife light stopped in front of Han Sen. It was like it had stopped in space. The scary knife light was shaking as if it was afraid.
 
-Boom!
+*Boom!*
 
 While everyone was shocked, the scary knife light shattered before Han Sen. It became purple knife silk. It was like a purple flood that returned to Burning Lamp.
 
@@ -64,7 +66,7 @@ Burning Lamp’s expression immediately changed. The faces of the Buddha were gr
 
 Seeing that scary knife stream come, Burning Lamp realized he was unable to block it. He gnashed his teeth and released the god doll. The god doll suddenly grew bigger. It turned into a black wood god doll. Mysterious flower symbols flashed across it. It was punching at the scary knife stream.
 
-Boom!
+*Boom!*
 
 A mysterious black punch was striking the purple knife stream. The knife stream was broken. The power of the god doll was shaken away.
 

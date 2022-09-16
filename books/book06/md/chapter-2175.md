@@ -1,9 +1,11 @@
+---
 Title:Shocking Destroyed Power 
 Chapter:2175 
 Section:9 
 Book:6 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Shocking Destroyed Power
 ### Chapter 2175
@@ -66,7 +68,7 @@ In a split second, Barr’s body had been riddled with at least a dozen arrows. 
 
 Qing Li and the others were all frozen. They couldn’t believe the sight that their eyes were relaying to them. The Destroyed Marquises and Dukes were all thinking to themselves, “How is this possible… That is Barr…”
 
-Boom!
+*Boom!*
 
 Han Meng’er, still holding her bow, fired another arrow at Barr. And when this one plunged into him, it exploded. It split into a number of black suns that quickly worked to ravage and shatter Barr’s body.
 

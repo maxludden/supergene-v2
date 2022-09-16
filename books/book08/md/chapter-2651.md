@@ -1,9 +1,11 @@
+---
 Title:Star Tree 
 Chapter:2651 
 Section:13 
 Book:8 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Star Tree
 ### Chapter 2651
@@ -72,7 +74,11 @@ After that, Lydia’s body suddenly collapsed on the ground. Her light faded, an
 
 “Teehee! That is what I thought, too. Lin Feng, Tang Zhenliu, and the others, as well. Can you please get in touch with them? Me being here is not a coincidence.” Wang Yuhang laughed.
 
-…
+<br>
+
+*****
+
+<br>
 
 Every day, Han Sen remained near the lake and continued fishing out pages of the Xuan Yellow Sutra. For some reason, whenever it was Bao’er’s turn, she always ended up with actual treasures, and every time Han Sen fished, he ended up with a sheet of paper belonging to the Xuan Yellow Sutra.
 

@@ -1,9 +1,11 @@
+---
 Title:Eye in the Painting 
 Chapter:2740 
 Section:13 
 Book:8 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Eye in the Painting
 ### Chapter 2740

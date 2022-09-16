@@ -1,9 +1,11 @@
+---
 Title:Sparring With a Beauty 
 Chapter:175 
 Section:1 
 Book:1 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Sparring With a Beauty
 ### Chapter 175
@@ -44,7 +46,7 @@ At this time, Yu suddenly saw Han Sen’s sword had disappeared.
 
 Yu Qianxun was shocked. But at this point there was nothing she could do other than watching the other SKTS turning swiftly and briskly appearing behind her.
 
-Bang!
+*Bang!*
 
 In the blink of an eye, Han Sen controlled his SKTS to kick the other warframe on the back. Accompanied by its inertia of going forward, Yu’s warframe was brought to its knees.
 

@@ -1,9 +1,11 @@
+---
 Title:Fighting Under the Water 
 Chapter:506 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Fighting Under the Water
 ### Chapter 506
@@ -48,7 +50,7 @@ The eel rolled so hard that it was incredibly fast in the lake. Han Sen stayed o
 
 The first thought Han Sen had was that the eel had jumped out of the water. However, he denied the thought immediately. He was falling down from the water and did not go up for it at all. Han Sen quickly opened his eyes to look, and what he saw made him feel dazed.
 
-Thump!
+*Thump!*
 
 Han Sen and the eel fell on the crystal-like floor. Luckily, Han Sen acted fast enough to flip himself up on the eel's back, making the eel take the impact.
 

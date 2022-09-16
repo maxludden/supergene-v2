@@ -1,9 +1,11 @@
+---
 Title:Fighting With Full Power 
 Chapter:1312 
 Section:3 
 Book:3 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Fighting With Full Power
 ### Chapter 1312
@@ -90,7 +92,11 @@ This time, he watched her dagger closely. He hadn’t been sure of what killed h
 
 Zero’s expressionless face looked as unconcerned as ever, and so she simply raised the dagger up and lobbed it towards him.
 
-…
+<br>
+
+*****
+
+<br>
 
 Gold General accepted the order and flashed with a gold light, ready to finish off Xie Qing King.
 

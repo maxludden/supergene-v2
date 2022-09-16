@@ -1,9 +1,11 @@
+---
 Title:Same Price 
 Chapter:282 
 Section:1 
 Book:1 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Same Price
 ### Chapter 282

@@ -1,9 +1,11 @@
+---
 Title:Dollar Big God 
 Chapter:2998 
 Section:15 
 Book:9 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Dollar Big God
 ### Chapter 2998
@@ -38,7 +40,7 @@ Bai King used his spirit body to raise a shield and protect himself as he quickl
 
 Sun Moon God Ape and Space Spirit were running away as fast as they could. Their foreheads were dripping with cold sweat.
 
-Boom!
+*Boom!*
 
 “Argh!” Han Sen and the others screamed. It was like a television show in which they were blown away. The four of them blew up, flew, and rolled away. All the God blood spilling out was like it was for free.
 
@@ -48,7 +50,7 @@ Suddenly, Sun Moon God Ape and others saw their severe wounds healing. Sun Moon 
 
 Sun Moon God Ape and Space Spirit were busy gathering their powers. They buffed Bao’er so that she could catch up with Moment God.
 
-Boom!
+*Boom!*
 
 The power of the kill sky hammer struck Moment God’s time god power again. Bao’er used her kill sky hammer to fight Moment God face-to-face and not lose. It was bad for Sun Moon God Ape. Although there was the Light Well Lotus healing bai sema for protection, the bai sema could only heal. It could not block the damage.
 

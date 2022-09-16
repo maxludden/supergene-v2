@@ -1,9 +1,11 @@
+---
 Title:Lightning Stone 
 Chapter:1232 
 Section:3 
 Book:3 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Lightning Stone
 ### Chapter 1232

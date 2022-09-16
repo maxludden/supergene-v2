@@ -1,9 +1,11 @@
+---
 Title:Creature War 
 Chapter:337 
 Section:1 
 Book:1 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Creature War
 ### Chapter 337
@@ -40,7 +42,7 @@ Water started to come out of the stone wall that was more and more damaged by th
 
 "Get back! Don't get yourselves burned by the steam." Han Sen did not dare to stay and watch, pulling the professor back with him.
 
-Bang!
+*Bang!*
 
 When the four of them stepped back, they heard a loud noise of stones crashing and water falling. Then there was a sizzling sound. With the rising of gray smoke, the entire cave became extremely hot that it was almost unbearable.
 
@@ -70,7 +72,7 @@ When Sun Minghua was about to say something, they suddenly heard rocks broken. T
 
 The giant creature was also alarmed by the sound, and straightened its back like a cobra in attack mode, staring at the broken basalt vigilantly.
 
-Boom!
+*Boom!*
 
 The basalt suddenly burst. A huge black turtle rushed out from underneath with splashing lava, like a returning demon.
 

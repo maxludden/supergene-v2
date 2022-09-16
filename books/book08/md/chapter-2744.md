@@ -1,9 +1,11 @@
+---
 Title:Sit and Forget Sutra 
 Chapter:2744 
 Section:13 
 Book:8 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Sit and Forget Sutra
 ### Chapter 2744

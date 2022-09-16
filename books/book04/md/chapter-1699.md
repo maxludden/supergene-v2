@@ -1,9 +1,11 @@
+---
 Title:Officer From the Past 
 Chapter:1699 
 Section:5 
 Book:4 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Officer From the Past
 ### Chapter 1699
@@ -98,7 +100,7 @@ Luo Lan’s face looked ill, but she knew she’d have to fight back. They would
 
 Han Yufei was injured, but he wanted to brawl. But just as he was about to do something, a golden light appeared. It was Bao’er, clad in golden leaves. She punched Yake.
 
-Boom!
+*Boom!*
 
 Two scary powers came against each other. Yake looked on in disbelief. His power had been broken, and he had been sent flying again.
 

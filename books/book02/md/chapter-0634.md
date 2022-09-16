@@ -1,9 +1,11 @@
+---
 Title:The Talents a Creature Can Learn 
 Chapter:634 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## The Talents a Creature Can Learn
 ### Chapter 634

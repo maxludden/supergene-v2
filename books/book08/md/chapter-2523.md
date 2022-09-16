@@ -1,9 +1,11 @@
+---
 Title:Listening Sword 
 Chapter:2523 
 Section:12 
 Book:8 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Listening Sword
 ### Chapter 2523

@@ -1,9 +1,11 @@
+---
 Title:Killing Goblin King 
 Chapter:411 
 Section:1 
 Book:1 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Killing Goblin King
 ### Chapter 411
@@ -24,7 +26,7 @@ However, momentarily, many hands covered the arrow and held it down. Even with a
 
 "Cheep!" The evil goblin king squeaked with its head facing where Han Sen was standing. The sound was so penetrating that even people miles away would feel a headache.
 
-Boom!
+*Boom!*
 
 As the king squeaked, the evil goblins started to crawl out of all the holes in the mountain wall, which looked like a red waterfall, flooding toward where Han Sen was standing.
 
@@ -72,7 +74,7 @@ Han Sen was very pleased that the evil goblin king was the match of the super pe
 
 However, Han Sen did not want to watch the fight anymore, so he summoned the holy angel and ordered the golden rock worm king to go harder at its enemy. Although the sharp nails of the evil goblin king were stabbing at the super pet, it could not hurt the worm king because of the armor.
 
-Boom!
+*Boom!*
 
 The gorgeous figure of the holy angel flashed on the mountain wall. She waved her hand and cut the evil goblin king which was held down by the golden rock worm king in half.
 

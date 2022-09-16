@@ -1,9 +1,11 @@
+---
 Title:After I Hit You 
 Chapter:380 
 Section:1 
 Book:1 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## After I Hit You
 ### Chapter 380
@@ -44,7 +46,7 @@ In addition, Zhu Ting found that it was harder and harder for him to move around
 
 "Stop it. We can negotiate. If you help Ning Yue to kill the creature, you will not gain much. I can offer you way more than he does," exclaimed Zhu Ting, terrified that he was about to be killed.
 
-Boom!
+*Boom!*
 
 Han Sen ignored him and punched him in the face. Zhu Ting's nose started to bleed, and the fist was imprinted on his face. Zhu Ting covered his face and crouched.
 

@@ -1,9 +1,11 @@
+---
 Title:Fighting God Snake 
 Chapter:2578 
 Section:12 
 Book:8 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Fighting God Snake
 ### Chapter 2578

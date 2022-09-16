@@ -1,9 +1,11 @@
+---
 Title:Another Super Beast Soul 
 Chapter:368 
 Section:1 
 Book:1 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Another Super Beast Soul
 ### Chapter 368
@@ -46,7 +48,7 @@ Dodging the wolf's attack, Han Sen swept the spear across at the wolf, sending i
 
 Before the wolf fell, Han Sen lifted its body higher with the spear.
 
-Bam Bam Bam!
+Bam Bam *Bam!*
 
 The wolf was strapped by the spear so fast that it could not even land.
 
@@ -56,7 +58,7 @@ Ye Yufeng was dashing among the creatures. When he approached Han Sen, he saw Ha
 
 Suddenly, Han Sen turned the spear around and drove it into the wolf's injured throat, nailing the wolf's body to the stone wall.
 
-Bang!
+*Bang!*
 
 The wolf's body hit and smashed the wall. The spear was driven into the wolf's injury with a strong spinning force.
 
@@ -64,7 +66,8 @@ Blood spurted from the wolf's throat. The creature had lost all its energy and e
 
 With blood and sparkles, the head of the spear eventually hit the wolf's brain.
 
-> "Larva Of Super Creature Cursed Wolf Killed. Beast Soul Of Cursed Wolf Gained. Life Essence Available. Meat Inedible."
+> "Larva of Super Cursed Wolf killed. Beast soul of Cursed Wolf gained. Life essence available. Meat inedible. Consume the life essence to gain zero to ten super geno points randomly."
+<!--"Larva Of Super Creature Cursed Wolf Killed. Beast Soul Of Cursed Wolf Gained. Life Essence Available. Meat Inedible."-->
 
 Watching the body of the cursed wolf dissolving, Han Sen quickly grabbed the black life essence, overjoyed.
 

@@ -1,9 +1,11 @@
+---
 Title:Taking the Sword 
 Chapter:2430 
 Section:11 
 Book:7 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Taking the Sword
 ### Chapter 2430

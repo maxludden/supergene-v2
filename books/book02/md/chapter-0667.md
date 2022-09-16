@@ -1,9 +1,11 @@
+---
 Title:The Oppressor 
 Chapter:667 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## The Oppressor
 ### Chapter 667
@@ -62,7 +64,7 @@ Hui Haifeng was holding his massive Champion Spear, yet he used it with the deli
 
 But just as the tip neared his heart, his face changed. The weapon in Han Sen's hand accelerated.
 
-Whoosh!
+*Whoosh!*
 
 The mighty, heavy weapon split the air, producing a deafening sound as it soared. It made Hui Haifeng feel as if the world was shrinking, as the hideous weapon obscured his vision. In his eyes, its image became bigger and bigger.
 

@@ -1,18 +1,22 @@
-Title:Golden-horned Shura
-Chapter:60
-Section:1
-Book:1
-CSS:../Styles/style.css
+---
+Title:Golden-horned Shura 
+Chapter:60 
+Section:1 
+Book:1 
+CSS:../Styles/style.css 
 viewport: width=device-width
-
+---
+  
 ## Golden-horned Shura
 ### Chapter 60
-
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
+  
 
-HHan Sen made some brief explanation to Zhang Danfeng after he parted with Lin Beifeng.
+  
+Han Sen made some brief explanation to Zhang Danfeng after he parted with Lin Beifeng.
 
 Han Sen understated everything and didn’t say much about Han Hao, as he knew Zhang Danfeng wouldn’t let Han Hao off easily had he told Zhang Danfeng what had really happened.
 
@@ -24,7 +28,7 @@ There were almost no human activities there, so he would definitely return with 
 
 Han Sen suddenly heard a glitch sound and all the lights started flashing. Surprised, he looked up and saw a meteor-like fireball quickly falling from the sky toward his direction.
 
-<p class="article">"Warning… Warning… Unidentified flying object detected..."</p>
+"Warning… Warning… Unidentified flying object detected..."
 
 *Bang!*
 

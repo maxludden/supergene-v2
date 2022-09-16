@@ -1,9 +1,11 @@
+---
 Title:Black Unicorn Beetle 
 Chapter:1065 
 Section:3 
 Book:3 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Black Unicorn Beetle
 ### Chapter 1065
@@ -20,7 +22,7 @@ Aside from that well, which was in fairly good condition, everything else inside
 
 After putting the ding down, Han Sen watched the beetles gather to pick it back up to carry it themselves. Interested in what they sought to do with the ding, he stood back to observe them.
 
-Splash!
+*Splash!*
 
 The beetles, after lifting up the ding, chucked it into the well.
 
@@ -90,7 +92,7 @@ Han Sen looked elsewhere and found a band of humans and shura together. Further 
 
 “I have to get there quick!” Han Sen thought to himself.
 
-Boom!
+*Boom!*
 
 The black beetle’s bum started to spit lasers, and without hesitation, took off flying at an insane speed. It was heading for Ji Yanran.
 

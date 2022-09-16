@@ -1,9 +1,11 @@
+---
 Title:Co-operation 
 Chapter:1807 
 Section:6 
 Book:5 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Co-operation
 ### Chapter 1807

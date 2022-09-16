@@ -1,9 +1,11 @@
+---
 Title:Blood-pulse Level Up 
 Chapter:2255 
 Section:10 
 Book:7 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Blood-pulse Level Up
 ### Chapter 2255

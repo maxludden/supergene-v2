@@ -1,9 +1,11 @@
+---
 Title:Leveling Up to Deified 
 Chapter:2734 
 Section:13 
 Book:8 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Leveling Up to Deified
 ### Chapter 2734

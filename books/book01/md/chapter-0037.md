@@ -1,9 +1,11 @@
+---
 Title:Whose Broadsword 
 Chapter:37 
 Section:1 
 Book:1 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Whose Broadsword
 ### Chapter 37
@@ -42,7 +44,7 @@ No one could believe that Ass Freak would have such fine movements and were all 
 
 "What are you doing? Kill this bastard... Ouch!" Liu Feng shouted to the onlookers while screaming.
 
-Crack!
+*Crack!*
 
 His arm was broken by Han Sen before he could even finish the sentence. Covered in cold sweat, Liu Feng was deathly pale.
 

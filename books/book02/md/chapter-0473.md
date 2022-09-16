@@ -1,9 +1,11 @@
+---
 Title:Dead End 
 Chapter:473 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Dead End
 ### Chapter 473
@@ -26,7 +28,7 @@ However, looking at the endless parasite crystals following them, Han Sen knew t
 
 Luckily, the snow-toothed wolf mounts was running ahead of them as their scout, which was more or less a comfort to Han Sen.
 
-Boom!
+*Boom!*
 
 The snow-toothed wolf which was running in front was suddenly cut in half by a beam of light. It fell heavily on the floor and then disappeared.
 
@@ -56,7 +58,7 @@ Although Han Sen enjoyed making out with Ji Yanran, it was obviously more import
 
 However, Han Sen no longer had any beast soul weapon he could use. He had to run Jadeskin and turn his hands into Jade, throwing punches at the crystal wall behind Ji Yanran's back.
 
-Bang!
+*Bang!*
 
 Under Han Sen's fist, the wall only had a hairline crack.
 
@@ -94,6 +96,6 @@ The hall was the size of a factory workshop. It was empty inside, but on the cei
 
 Han Sen recognized this type of crystal immediately, which was the simulating crystal.
 
-Boom!
+*Boom!*
 
 When the couple just stood up, all the simulating crystal started to flash red lights at them, as if there was a press conference in the hall. Shortly, red crystal humans that looked exactly like Han Sen or Ji Yanran fell from the ceiling and ran toward them.

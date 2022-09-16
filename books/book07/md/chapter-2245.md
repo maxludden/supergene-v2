@@ -1,9 +1,11 @@
+---
 Title:Fun Place 
 Chapter:2245 
 Section:10 
 Book:7 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Fun Place
 ### Chapter 2245

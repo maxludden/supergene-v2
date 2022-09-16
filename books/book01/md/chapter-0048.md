@@ -1,18 +1,21 @@
-Title:Team Effort
-Chapter:48
-Section:1
-Book:1
-CSS:../Styles/style.css
+---
+Title:Team Effort 
+Chapter:48 
+Section:1 
+Book:1 
+CSS:../Styles/style.css 
 viewport: width=device-width
-
+---
+  
 ## Team Effort
 ### Chapter 48
-
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
+  
 
-
+  
 Han Sen took a closer look and saw that there were holographic images of weapons in the making, which proved that the weapons were all handmade
 
 After reviewing the images, Han Sen dialed the number on the webpage.
@@ -55,7 +58,7 @@ The man looked at the broadsword in Han Sen’s hands and again said, "Suit your
 
 With his permission, taking the arrow in one hand and the broadsword in the other, Han Sen fiercely slashed the broadsword at the arrow.
 
-Clang!
+*Clang!*
 
 Han Sen checked the arrow and was pleased to see there were no mark on the arrow, while his broadsword was chipped.
 

@@ -1,19 +1,21 @@
-Title:Dollar
-Chapter:7
-Section:1
-Book:1
-CSS:../Styles/style.css
+---
+Title:Dollar 
+Chapter:7 
+Section:1 
+Book:1 
+CSS:../Styles/style.css 
 viewport: width=device-width
-
+---
+  
 ## Dollar
 ### Chapter 7
-
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
+  
 
-
-
+  
 "Brother, you killed all these swift mantises?" Su Xiaoqiao saw no one except for the guy in golden armor.
 
 The dead mantises were still bleeding, so they couldn’t have been dead for long. Su Xiaoqiao couldn’t believe that someone was able to kill so many mantises in such a short amount of time.

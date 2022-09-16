@@ -1,9 +1,11 @@
+---
 Title:Attacking Devil-blood Shelter 
 Chapter:865 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Attacking Devil-blood Shelter
 ### Chapter 865
@@ -36,7 +38,7 @@ The silver fox and Little Fairy were loosed, while Spirit Owl and Little Angel e
 
 Han Sen caught sight of a wolf-like super creature. Han Sen's eyes gleamed with silver, and when they did, Han Sen transformed into a three-meter-tall silver ape. Holding his Flaming Rex Spike, Han Sen spared no time in swinging it down on the wolf's head.
 
-Boom!
+*Boom!*
 
 The super creature collapsed on the ground after Han Sen's attack. In one swing, its head had been smashed in. The skull had been skinned and half-shattered, exposing a bleeding brain on the inside.
 
@@ -56,7 +58,7 @@ Han Sen was overjoyed at this result, and without reprieve, moved in to perform 
 
 With the vitality boost given to him by the Silver-Blood Macaque, Sonic-Thunder Punch no longer drained his energy as it used to. Without getting weak, he could continue swinging his fist as a Sonic-Thunder Punch without delay, over and over like any average punch. The Devil-Blood King could do little but try to fall back, as lightning crackled and sparked all across him.
 
-Boom!
+*Boom!*
 
 Han Sen punched his face, and when he did, the Devil-Blood King was thrown into the air. Then he punched his belly, and the Devil-Blood King was sent flying away a few hundred meters, striking the gate wall and making it crumble.
 

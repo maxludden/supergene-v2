@@ -1,9 +1,11 @@
+---
 Title:Solving the Puzzle 
 Chapter:511 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Solving the Puzzle
 ### Chapter 511

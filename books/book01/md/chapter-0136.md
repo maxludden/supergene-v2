@@ -1,9 +1,11 @@
+---
 Title:A Babe 
 Chapter:136 
 Section:1 
 Book:1 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## A Babe
 ### Chapter 136
@@ -42,7 +44,12 @@ Blackhawk went mad. It was at night but many continued to talk about the duel.
 
 "You really have to ask her yourself."
 
-...
+<br>
+
+*****
+
+<br>
+
 
 Ji Yanran also wanted to know who her boyfriend was, but she did not.
 

@@ -1,9 +1,11 @@
+---
 Title:Strong Physical Power 
 Chapter:1432 
 Section:4 
 Book:4 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Strong Physical Power
 ### Chapter 1432

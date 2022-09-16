@@ -1,9 +1,11 @@
+---
 Title:The Hope to Break What Binds 
 Chapter:2253 
 Section:10 
 Book:7 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## The Hope to Break What Binds
 ### Chapter 2253
@@ -74,7 +76,11 @@ Edward stopped the Ice Blue Knight from talking. They followed Mister White and 
 
 The group of people were far in the mountains. Mister White kept leading them all, all the while calculating something.
 
-…
+<br>
+
+*****
+
+<br>
 
 “Why do you keep walking around and around? Come and talk to me.” Fox Queen was staring at Han Sen while she lay down on a jade bed speaking to him.
 

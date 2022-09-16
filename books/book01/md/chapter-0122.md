@@ -1,9 +1,11 @@
+---
 Title:The Most Mysterious Afternoon 
 Chapter:122 
 Section:1 
 Book:1 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## The Most Mysterious Afternoon
 ### Chapter 122
@@ -60,7 +62,7 @@ Hence Han Sen felt it was necessary for him to practice operating warframes. In 
 
 If he could do well with a warframe, fighter aircrafts would be even easier. As for interstellar warships, Blackhawk had but an old one for show and the operation of warships could only be practiced using virtual reality.
 
-"Ding!"
+"*Ding!*"
 
 While Han Sen was still practicing on a warframe, he suddenly heard the tone of money transfer. Checking through his comlink, he saw ten million added to his account, which shocked him. Before he could see who it was from, his comlink rang.
 

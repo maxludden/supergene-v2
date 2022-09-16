@@ -1,9 +1,11 @@
+---
 Title:Mutant Black Crystal 
 Chapter:1427 
 Section:4 
 Book:4 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Mutant Black Crystal
 ### Chapter 1427

@@ -1,9 +1,11 @@
+---
 Title:Butterfly Dancing Solo 
 Chapter:486 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Butterfly Dancing Solo
 ### Chapter 486
@@ -42,7 +44,7 @@ In the most incredible way, thousands of gruesome creatures failed to stop Han S
 
 Many people were completely dumbstruck. It was like a thrilling magic show. The blood and the strange rhythm made one's heart leapt with the beat.
 
-Boom!
+*Boom!*
 
 The moment Han Sen was in front of the dragon snake, the silver-haired young lady had a cold smile on her face. The rock underneath Han Sen suddenly split. A black gargoyle looking like a ghost emerged from underground, its cold hands grabbing at Han Sen's legs which were right in front of its face.
 
@@ -82,7 +84,7 @@ They were so close to each other that Han Sen's face was about to touch hers.
 
 Han Sen smiled, waving his right hand and cutting the three purple claws into the pretty head of the spirit girl. With her incredulous look, her head was cut into four parts.
 
-Boom!
+*Boom!*
 
 The figure of the spirit girl became twinkles of lights and disappeared. Suddenly, the entire battlefield seemed to freeze. Both humans and creatures stopped a beat.
 

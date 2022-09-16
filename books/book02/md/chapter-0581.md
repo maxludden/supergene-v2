@@ -1,9 +1,11 @@
+---
 Title:Sacrifice 
 Chapter:581 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Sacrifice
 ### Chapter 581
@@ -78,7 +80,11 @@ The audience watching the stream started to discuss the skill amongst themselves
 
 "Oh, no. Dollar doesn't know Yi Dongmu is using Sacrifice. He should strike now, before he gathers too much momentum."
 
-…
+<br>
+
+*****
+
+<br>
 
 Mister Long shook his head and said, "It is easier for someone to make up his mind to die for a noble purpose than to actually go through the execution of such sacrifice. Sacrifice still needs its user to maintain his focus for the entire duration of the cast. The longer he walks, the greater the chance his faith and focus might change. If his resolve quivers by only just a bit, his momentum will decrease."
 

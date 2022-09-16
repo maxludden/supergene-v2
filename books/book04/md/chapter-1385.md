@@ -1,9 +1,11 @@
+---
 Title:First Geno Core Battle 
 Chapter:1385 
 Section:4 
 Book:4 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## First Geno Core Battle
 ### Chapter 1385

@@ -1,9 +1,11 @@
+---
 Title:Qi Family's Scheme 
 Chapter:839 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Qi Family's Scheme
 ### Chapter 839

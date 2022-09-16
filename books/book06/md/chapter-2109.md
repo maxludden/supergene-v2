@@ -1,9 +1,11 @@
+---
 Title:Geno Being Scroll 
 Chapter:2109 
 Section:8 
 Book:6 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Geno Being Scroll
 ### Chapter 2109
@@ -26,7 +28,11 @@ This power, whatever it was, was not something he could fight against. Even if t
 
 With the adrenaline pumping through him, the light seemed to last forever. In reality, though, the entire attack took less than a single second.
 
-…
+<br>
+
+*****
+
+<br>
 
 News quickly circulated that a big, scary light had incinerated Han Sen’s airship within the space of a single second. There was not even dust left to hover around in the vacuum, and Han Sen himself was gone.
 
@@ -72,7 +78,7 @@ First King: Zhang Xuandao (Sky) Second King: Dragon One (Dragon)
 
 Everyone could feel the glory exuded by those names. When the scroll was completely unfurled, all the names shone as if they’d do so forever. And they brightened up the stars.
 
-Boom!
+*Boom!*
 
 Space itself was shaking, and the light of the scroll shattered like dust. The scroll in the sky became empty, and then a few words appeared again.
 

@@ -1,9 +1,11 @@
+---
 Title:Metal Giant God City 
 Chapter:2147 
 Section:8 
 Book:6 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Metal Giant God City
 ### Chapter 2147

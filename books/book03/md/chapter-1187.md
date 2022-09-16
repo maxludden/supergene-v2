@@ -1,9 +1,11 @@
+---
 Title:Sky King Is Born 
 Chapter:1187 
 Section:3 
 Book:3 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Sky King Is Born
 ### Chapter 1187

@@ -1,9 +1,11 @@
+---
 Title:The Favor Is to Let You Live 
 Chapter:318 
 Section:1 
 Book:1 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## The Favor Is to Let You Live
 ### Chapter 318

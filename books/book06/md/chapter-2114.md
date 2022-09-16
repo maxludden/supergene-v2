@@ -1,9 +1,11 @@
+---
 Title:First Fight 
 Chapter:2114 
 Section:8 
 Book:6 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## First Fight
 ### Chapter 2114
@@ -74,7 +76,7 @@ The next second, Kahn looked on in disbelief. The mighty Lightning Spike had onl
 
 When Han Sen’s Jadeskin became Marquise level, it was a much stronger change than what had occurred with the Blood-Pulse Sutra. Now, his body was as sturdy as a top tier Dragon’s.
 
-Boom!
+*Boom!*
 
 The two goliath powers collided. The ripples of the shockwave were so devastating that they created waves that were a hundred meters high. Kahn’s body was sent stumbling backward a few hundred meters, too. Han Sen, on the other hand, only fell back ten meters.
 
@@ -86,6 +88,6 @@ Kahn snarled. He was officially peeved now, because he could not believe that so
 
 “I don’t have time to fight you. I need to see Littleflower.” Han Sen raised his hand, and then, a gold light appeared between his fingers. It became a coin.
 
-Ding!
+*Ding!*
 
 Han Sen moved his fingers, launching the coin out to strike Kahn’s incoming fist.

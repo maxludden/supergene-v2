@@ -1,9 +1,11 @@
+---
 Title:Lotus God Temple 
 Chapter:3037 
 Section:16 
 Book:10 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Lotus God Temple
 ### Chapter 3037

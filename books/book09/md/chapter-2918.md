@@ -1,9 +1,11 @@
+---
 Title:A Fish Hostage 
 Chapter:2918 
 Section:15 
 Book:9 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## A Fish Hostage
 ### Chapter 2918
@@ -36,7 +38,7 @@ The method used was a bit cheap, but the rules of the big universe made it a dog
 
 Although the big goldfish was being driven mad by Han Sen, it did not rush forward. It opened its eyes wide and straightened its scales. It simply stared at Han Sen.
 
-Pop! Pop! Pop! Pop!
+*Pop!* *Pop!* *Pop!* *Pop!*
 
 The big goldfish kept firing out a stream of bubbles. The bubbles were different compared to before. These bubbles did not fly toward Han Sen. Instead, they just kept exploding around him.
 

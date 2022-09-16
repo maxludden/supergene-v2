@@ -1,9 +1,11 @@
+---
 Title:Eye Change 
 Chapter:2803 
 Section:14 
 Book:9 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Eye Change
 ### Chapter 2803
@@ -34,7 +36,7 @@ Under that huge amount of pain, Han Sen could not help but hold his eyes. His ha
 
 Bai Wanjie and the old man were in shock. They did not know what to do, so they just stood where they were. They looked at Han Sen in mid-air. He was just cupping his hands. The black and white light surged out from the gaps in his fingers. It turned everything around them black and white. It was like a comic without color.
 
-Boom! Boom! Boom!
+*Boom!* *Boom!* *Boom!*
 
 The entire King’s Kingdom shook a little as if something had broken.
 

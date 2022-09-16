@@ -1,9 +1,11 @@
+---
 Title:Ice Blue Power 
 Chapter:2240 
 Section:10 
 Book:7 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Ice Blue Power
 ### Chapter 2240

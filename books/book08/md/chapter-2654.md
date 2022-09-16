@@ -1,9 +1,11 @@
+---
 Title:An Accurate Kill That Is Like a Surgical Incision 
 Chapter:2654 
 Section:13 
 Book:8 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## An Accurate Kill That Is Like a Surgical Incision
 ### Chapter 2654
@@ -22,7 +24,7 @@ Han Sen spent several long minutes in observation before he finally flew forward
 
 Han Sen teleported behind the star beetle, but the star beetle didn’t react. And then, Han Sen pointed a finger at its brain.
 
-Ding!
+*Ding!*
 
 There was a small ringing noise, like a steel needle striking bone. It was barely even audible. And right after, Han Sen pulled his finger away. The star beetle didn’t struggle at all after the strike. It simply gave a tiny shiver. The beetle grew still again as if nothing had happened, but its lifeforce was waning fast. It didn’t take long for its flame to fully extinguish.
 

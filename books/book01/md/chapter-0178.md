@@ -1,9 +1,11 @@
+---
 Title:Shocked 
 Chapter:178 
 Section:1 
 Book:1 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Shocked
 ### Chapter 178
@@ -28,7 +30,7 @@ And at this moment, SKTS drew a laser sword and a particle gun, moving toward th
 
 In the explosion, the sound of metal on metal, the sparks, and the gunfire, Silver Killer was killing away. Facing Shura warframes, Silver Killer was like a proud warrior, declaring to the Shuras that humans were the true owner of the land.
 
-Bang!
+*Bang!*
 
 The laser sword was broken. The particle gun ran out of energy and was thrown at a Shura warframe. With its ammunition exhausted, Silver Killer was still faced with endless enemies.
 
@@ -42,7 +44,7 @@ When the box was turned on, all of them were covered in silver warframes, which 
 
 Warfare between Shura and human was displayed with passionate background music, motivating each audience to join.
 
-Boom!
+*Boom!*
 
 The last frame was focused on the first silver warframe, which blew away a Shura that was trying to attack the girl. The lens was zoomed in on the "TS" engraved on the breastplate of the warframe in the end.
 
@@ -60,7 +62,11 @@ After a moment of silence when all the journalists looked at the screen with a b
 
 "Mr. Liu, that boy driving SKTS must be that Blackhawk student disqualified by Starry Group, right?"
 
-...
+<br>
+
+*****
+
+<br>
 
 Liu Changming lifted his hands to quiet the room down and said quietly, "See you on September 10."
 
@@ -106,7 +112,11 @@ The whole Alliance was in a heated discussion of SKTS. And the commercial had go
 
 "He must have always been their spokesperson. Before the new warframe was rumored to be launched, he had used an SKTS already."
 
-…
+<br>
+
+*****
+
+<br>
 
 SKTS was a total hit. All kinds of experts were analyzing if it was possible to make such a product.
 

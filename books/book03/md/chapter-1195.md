@@ -1,9 +1,11 @@
+---
 Title:Textbook Example 
 Chapter:1195 
 Section:3 
 Book:3 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Textbook Example
 ### Chapter 1195

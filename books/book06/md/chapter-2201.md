@@ -1,9 +1,11 @@
+---
 Title:Three Jade Drums 
 Chapter:2201 
 Section:9 
 Book:6 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Three Jade Drums
 ### Chapter 2201
@@ -102,7 +104,11 @@ This Jade Drum looked very strange. There were some red symbols across it, and i
 
 “That is not luck! That is pure danger.”
 
-…
+<br>
+
+*****
+
+<br>
 
 As everyone discussed this, Stephen and Sonic Butterfly King stared at the Blood Scorpion Jade Drum, seething with greed. They didn’t even blink. The mutant Jade Drum was so exceptionally rare that it wasn’t seen more than once every ten thousand years. They could have been items that were higher than King class. Even King class people treated them like treasures.
 

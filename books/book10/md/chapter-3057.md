@@ -1,9 +1,11 @@
+---
 Title:Ancient Version of the Story of Genes 
 Chapter:3057 
 Section:16 
 Book:10 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Ancient Version of the Story of Genes
 ### Chapter 3057

@@ -1,9 +1,11 @@
+---
 Title:One Punch to Blow Up a God 
 Chapter:2405 
 Section:11 
 Book:7 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## One Punch to Blow Up a God
 ### Chapter 2405
@@ -90,7 +92,7 @@ The black crystal armor, floating in front of Han Sen, lifted its gauntletted ar
 
 The black crystal armor walked up to the man, but he didn’t seem to notice it. When the black crystal armor stepped in front of the man, the clenched fist suddenly launched in a savage punch.
 
-Boom!
+*Boom!*
 
 The man’s body exploded. He was like a rock being reduced to powder in an instant. Beneath the power of that fist, he was nothing more than dust on the wind.
 

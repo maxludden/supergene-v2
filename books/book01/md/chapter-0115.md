@@ -1,9 +1,11 @@
+---
 Title:Cheating Device 
 Chapter:115 
 Section:1 
 Book:1 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Cheating Device
 ### Chapter 115
@@ -66,7 +68,7 @@ Ji Yanran did not mind it and thought Han Sen got lucky. That spot was closer to
 
 When the second spot appeared, she pointed to it at full speed, but when her little finger was about to touch it, a finger from the holographic image once again beat her to it.
 
-Ding!
+*Ding!*
 
 The spot disappeared and Han Sen gained another point, and Ji Yanran's score remained zero.
 

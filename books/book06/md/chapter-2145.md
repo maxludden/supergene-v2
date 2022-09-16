@@ -1,9 +1,11 @@
+---
 Title:Strange Plane 
 Chapter:2145 
 Section:8 
 Book:6 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Strange Plane
 ### Chapter 2145

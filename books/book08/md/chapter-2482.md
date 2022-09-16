@@ -1,9 +1,11 @@
+---
 Title:The Man That Creates Deified Beings 
 Chapter:2482 
 Section:12 
 Book:8 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## The Man That Creates Deified Beings
 ### Chapter 2482
@@ -82,7 +84,7 @@ The Kings and Dukes, in the meanwhile, were thinking that if Han Sen could eleva
 
 Thinking of this, all the creatures in the universe looked at Han Sen with burning eyes. They were like a bunch of men who hadn’t had sex in thirty years, but they were now seeing a naked little woman.
 
-Boom!
+*Boom!*
 
 A scary power shook the image on their screens, snapping them out of their dreams.
 

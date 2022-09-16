@@ -1,9 +1,11 @@
+---
 Title:Training 
 Chapter:225 
 Section:1 
 Book:1 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Training
 ### Chapter 225
@@ -26,7 +28,12 @@ When it was the turn of the group that Han Sen was in, many students who had fin
 
 "For sure he's the first place."
 
-...
+<br>
+
+*****
+
+<br>
+
 
 The students' discussion was upsetting to Situ Xiang.
 
@@ -54,7 +61,12 @@ Situ Xiang also paused, because Han Sen was more than accurate, he was really fa
 
 "For sure he will have an S level rating in the assessment."
 
-...
+<br>
+
+*****
+
+<br>
+
 
 The semi-annual assessments in military schools divided grades into eight levels S, A, B, C, D, E, F, G. A student would get a rating in each subject, ratings below D level would be considered fail. And all subjects below D needed to be retaken.
 

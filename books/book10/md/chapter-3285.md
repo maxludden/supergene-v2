@@ -1,9 +1,11 @@
+---
 Title:Getting a Spirit 
 Chapter:3285 
 Section:16 
 Book:10 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Getting a Spirit
 ### Chapter 3285
@@ -14,7 +16,7 @@ viewport: width=device-width
   
 
   
-Boom!
+*Boom!*
 
 The sword light was destroyed. After its destruction, a bloody mist appeared in its absence. But that also faded away, as did the presence of Han Sen and the two Zhao sisters. They were all gone.
 

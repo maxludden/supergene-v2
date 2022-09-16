@@ -1,9 +1,11 @@
+---
 Title:King Class Dongxuan Battle Body 
 Chapter:2391 
 Section:11 
 Book:7 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## King Class Dongxuan Battle Body
 ### Chapter 2391
@@ -42,7 +44,7 @@ Spell used Eternity’s solidifying powers to forge a path inside Han Sen’s bo
 
 Two scary powers were coming, surging into that tunnel like a raging river. With the guidance of Han Sen’s Dongxuan Sutra, the flow of power was headed directly for the self-universe cogwheel.
 
-Boom!
+*Boom!*
 
 The horrendous collection of powers hit the self-universe cogwheel. The cogwheel vibrated gently. It didn’t spin, but Han Sen spotted the small seeds of hope.
 
@@ -58,7 +60,7 @@ The flesh Eternity had solidified was somewhat like a dam. The Sacred Blood Stat
 
 Eternity’s solidifying power was Duke class, so the dam wasn’t enough to trap all the water. Spell had to keep solidifying the dams repeatedly so that they wouldn’t crumble under the onslaught.
 
-Boom! Boom! Boom!
+*Boom!* *Boom!* *Boom!*
 
 Han Sen kept hitting the self-universe cogwheel. The cogwheel spun little by little, but it only moved a small distance with each strike. When the hits stopped, the cogwheel stopped.
 
@@ -88,7 +90,7 @@ When the cogwheel started to turn, Han Sen felt as if his entire body was waking
 
 As the cogwheel spun in a blur, Han Sen could see behind the cogwheel that light was growing brighter. The faster the cogwheel spun, the brighter that light became.
 
-Boom!
+*Boom!*
 
 With the Sacred Blood Statue and Nine-Tailed Fox power combining to form a chain, the self-universe cogwheel was given what was needed for it to spin on its own. Inside the cogwheel, the light was burning brighter than any sun. The light looked like it could melt anything. Han Sen’s body felt as weightless as a feather, and the self-universe cogwheel no longer required his power. It could now run on its own.
 

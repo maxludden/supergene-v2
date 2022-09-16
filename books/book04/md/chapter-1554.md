@@ -1,9 +1,11 @@
+---
 Title:Absorbing Blood Power 
 Chapter:1554 
 Section:4 
 Book:4 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Absorbing Blood Power
 ### Chapter 1554

@@ -1,9 +1,11 @@
+---
 Title:Silent Deadlight 
 Chapter:1381 
 Section:4 
 Book:4 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Silent Deadlight
 ### Chapter 1381
@@ -16,7 +18,7 @@ viewport: width=device-width
   
 When Han Sen saw the beam, it was too late for him to dodge. Instead, he threw his fist at it.
 
-Boom!
+*Boom!*
 
 An overwhelming force of power sent Han Sen spiraling into the cave wall, causing it to collapse and bury him. He lost his grip on the Starsea Orb as this happened, resulting in him dropping it.
 
@@ -32,7 +34,11 @@ The dog, following her closely from behind, said, “Well, we can’t say it was
 
 “Yes, but you got it yourself. You worked for it. That is far better than being gifted one, as you were given by the master of Sacred Shelter.”
 
-…
+<br>
+
+*****
+
+<br>
 
 A hand shot out through a mound of rocks and rubble. Within the haze and mist that cloaked it, a light began to shine, brighter than the midday sun.
 

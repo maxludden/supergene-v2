@@ -1,9 +1,11 @@
+---
 Title:Opportunity 
 Chapter:613 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Opportunity
 ### Chapter 613
@@ -72,7 +74,7 @@ Although the peacock was resisting, a collapse of the reef meant a guaranteed wa
 
 But seeing what was occurring, it was a good thing they did not rush in to attack as they initially thought to. If they hadn't stayed back, they might have been killed by the lobster's incursion.
 
-Boom!
+*Boom!*
 
 Three hours later, the reef collapsed and the peacock went down with it.
 

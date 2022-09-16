@@ -1,9 +1,11 @@
+---
 Title:Three Chapters and You’re Out! 
 Chapter:1313 
 Section:3 
 Book:3 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Three Chapters and You’re Out!
 ### Chapter 1313
@@ -98,7 +100,7 @@ He wanted to leave, but Xie Qing King’s grasp was too tight and forbade him fr
 
 “No!” Gold General could not repel the power, and he was dragged closer and closer into the silver sun before him.
 
-Boom!
+*Boom!*
 
 Gold General was pulled into the silver star, resulting in a devastating explosion that turned the entire sky silver.
 

@@ -1,9 +1,11 @@
+---
 Title:One in a Ten Million Chance 
 Chapter:969 
 Section:3 
 Book:3 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## One in a Ten Million Chance
 ### Chapter 969

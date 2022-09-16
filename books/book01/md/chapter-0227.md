@@ -1,9 +1,11 @@
+---
 Title:Small Request 
 Chapter:227 
 Section:1 
 Book:1 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Small Request
 ### Chapter 227
@@ -52,7 +54,7 @@ Situ Qing smiled and reached his right hand in front of Han Sen. There was a pie
 
 Situ Qing's hand suddenly gained the color and texture of gold. It was nowhere near human's hand.
 
-Crack!
+*Crack!*
 
 With a light squeeze, Situ Qing's fingers flattened the Z-steel.
 

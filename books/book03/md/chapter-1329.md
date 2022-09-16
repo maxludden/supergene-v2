@@ -1,9 +1,11 @@
+---
 Title:A Killer Opportunity 
 Chapter:1329 
 Section:3 
 Book:3 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## A Killer Opportunity
 ### Chapter 1329

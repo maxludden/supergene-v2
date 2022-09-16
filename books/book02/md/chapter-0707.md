@@ -1,9 +1,11 @@
+---
 Title:Elephant-disc Punch 
 Chapter:707 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Elephant-disc Punch
 ### Chapter 707
@@ -34,7 +36,11 @@ The crowd became cross-eyed, and it was like they were witnessing the fight of t
 
 "She is like a goddess. This Huangfu Jing... she cannot be from the Ares Martial Hall..."
 
-…
+<br>
+
+*****
+
+<br>
 
 Many evolvers did not know who Queen was, but witnessing this fight, they quickly started to admire her.
 

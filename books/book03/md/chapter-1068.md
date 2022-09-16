@@ -1,9 +1,11 @@
+---
 Title:Scary Weapon 
 Chapter:1068 
 Section:3 
 Book:3 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Scary Weapon
 ### Chapter 1068

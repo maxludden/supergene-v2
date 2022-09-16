@@ -1,9 +1,11 @@
+---
 Title:There Is Treasure 
 Chapter:2502 
 Section:12 
 Book:8 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## There Is Treasure
 ### Chapter 2502
@@ -24,7 +26,11 @@ If he fought against Han Sen, Ice Blue Knight King had the feeling he and his me
 
 “Knife, you took a very scary student under your wing,” Ice Blue Knight King said with a sigh. Then, he commanded his men to keep an eye on Han Sen’s flight path.
 
-…
+<br>
+
+*****
+
+<br>
 
 Han Sen eyed the abundance of resources on his ship and felt better for them being there. They were the materials he would need to repair the white whale. Now that Han Sen had them in his possession, his escape effort might go a little smoother.
 

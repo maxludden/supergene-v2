@@ -1,9 +1,11 @@
+---
 Title:Holy Spirit Protect 
 Chapter:3450 
 Section:17 
 Book:10 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Holy Spirit Protect
 ### Chapter 3450
@@ -30,7 +32,7 @@ Han Ling’er’s spirit body had become a Super God Spirit body. After combinin
 
 Human King looked at the very angry Han Ling’er. He wished to say something, but a spirit light flashed. Han Ling’er was already in front of him, and her fist was already put to his jaw.
 
-Boom! Human King’s body was like a rocket flying away. He coughed up a lot of blood, and his soul was well shaken. He was going to be a very broken man.
+*Boom!* Human King’s body was like a rocket flying away. He coughed up a lot of blood, and his soul was well shaken. He was going to be a very broken man.
 
 “How is that possible…” Human King shot through space. His pupils minimized as much as they could. He could not believe Han Ling’er was so fast that his own body could not react to her assault.
 

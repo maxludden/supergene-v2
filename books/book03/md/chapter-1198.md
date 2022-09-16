@@ -1,9 +1,11 @@
+---
 Title:Old Alloy Box 
 Chapter:1198 
 Section:3 
 Book:3 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Old Alloy Box
 ### Chapter 1198
@@ -90,6 +92,6 @@ Han Sen didn’t think the laser guns could hurt him too much, but he didn’t w
 
 Seeing the way the captain held himself, it didn’t seem likely he’d care too much, even if Han Sen was the president’s father. It was his task to destroy the box and its items, and he wasn’t going to let anything get in the way of that.
 
-Boom!
+*Boom!*
 
 Another explosion sounded, as a wide hole was punched through the hull of the Panic Terminal. The shura were going to board.

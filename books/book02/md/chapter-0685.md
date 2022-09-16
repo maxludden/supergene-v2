@@ -1,9 +1,11 @@
+---
 Title:Shocking the Alliance Again 
 Chapter:685 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Shocking the Alliance Again
 ### Chapter 685

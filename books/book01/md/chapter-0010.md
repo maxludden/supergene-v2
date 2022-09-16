@@ -1,19 +1,21 @@
-Title:Bloody Slayer
-Chapter:10
-Section:1
-Book:1
-CSS:../Styles/style.css
+---
+Title:Bloody Slayer 
+Chapter:10 
+Section:1 
+Book:1 
+CSS:../Styles/style.css 
 viewport: width=device-width
-
+---
+  
 ## Bloody Slayer
 ### Chapter 10
-
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
+  
 
-
-
+  
 Han Sen was hiding on the stone hill when the sacred-blood creature charged in his direction. As he was deciding whether to retreat, he saw Son of Heaven shoot down the sacred-blood creature.
 
 Anger surged and Han Sen rushed down the stone hill while summoning the bronze crescent spear. He shot the spear at the monster and hit it in the wounded chest, killing the dying creature.

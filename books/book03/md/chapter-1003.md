@@ -1,9 +1,11 @@
+---
 Title:The Fruit 
 Chapter:1003 
 Section:3 
 Book:3 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## The Fruit
 ### Chapter 1003
@@ -16,7 +18,7 @@ viewport: width=device-width
   
 The blue monkey king came swiftly from behind, and Han Sen decided he’d had enough of this ordeal. He stopped dodging and simply activated his super king spirit mode.
 
-Boom!
+*Boom!*
 
 Han Sen punched the monkey king with tremendous force, which knocked it backwards into a roll. Unexpectedly, it landed perfectly. The strike had hit the monkey’s fist, and the only damage the strike did was to cause the creature’s hand to bruise and swell.
 

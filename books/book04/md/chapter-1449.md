@@ -1,9 +1,11 @@
+---
 Title:Grenade Mushroom 
 Chapter:1449 
 Section:4 
 Book:4 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Grenade Mushroom
 ### Chapter 1449
@@ -22,7 +24,7 @@ Bao’er grabbed it and passed the football-sized mushroom over to Han Sen. It w
 
 “It’s obvious this is the sort to hold something good. The bigger it is, the more lifeforce it has absorbed. It must be a few tiers above the rest,” Han Sen said and then squeezed it.
 
-Pop!
+*Pop!*
 
 The football-sized mushroom was broken. A white light quickly penetrated Han Sen’s Sea of Soul.
 
@@ -94,7 +96,7 @@ Han Sen was excited to see the result. Surely she wouldn’t receive absolutely 
 
 When Ling Mei’er watched Han Sen and Bao’er compete in breaking the mushrooms, she wanted to join in on the fun. Now that she had been given one, she broke it quickly.
 
-Pop!
+*Pop!*
 
 A white light exited the mushroom and flew into Ling Mei’er’s forehead.
 

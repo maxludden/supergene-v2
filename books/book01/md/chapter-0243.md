@@ -1,9 +1,11 @@
+---
 Title:Both Wounded 
 Chapter:243 
 Section:1 
 Book:1 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Both Wounded
 ### Chapter 243
@@ -56,7 +58,7 @@ Han Sen was pleasantly surprised. He did not realize that the yin force had such
 
 Han Sen did not dare to spar with it without a weapon anymore. He drew his diamond sword and blocked its attack.
 
-Bang!
+*Bang!*
 
 When their weapons clashed together, Han Sen lost his balance and moved back, while the sacred-blood creature had blood welling from its mouth. Using fierce spear skills, the creature was unstoppable.
 
@@ -66,7 +68,7 @@ When he was up in the air, Han Sen took Meowth back and thought he was safe. Fee
 
 A black lightning bolt went across the sky and hit a wing of Han Sen's with a strong spinning force.
 
-Crack!
+*Crack!*
 
 Although the wings were also covered in sacred-blood armor, it could not stop the spear carrying a strong penetrating spin. A wing was pierced by the spear.
 

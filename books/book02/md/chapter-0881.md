@@ -1,9 +1,11 @@
+---
 Title:Finishing the Blood-pulse Sutra 
 Chapter:881 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Finishing the Blood-pulse Sutra
 ### Chapter 881

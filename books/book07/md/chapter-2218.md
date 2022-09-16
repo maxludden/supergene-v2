@@ -1,9 +1,11 @@
+---
 Title:Ghost Bone Town 
 Chapter:2218 
 Section:10 
 Book:7 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Ghost Bone Town
 ### Chapter 2218

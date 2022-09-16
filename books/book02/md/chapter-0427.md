@@ -1,9 +1,11 @@
+---
 Title:Certification as Aristocrat 
 Chapter:427 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Certification as Aristocrat
 ### Chapter 427

@@ -1,9 +1,11 @@
+---
 Title:Big Explosion 
 Chapter:1453 
 Section:4 
 Book:4 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Big Explosion
 ### Chapter 1453
@@ -30,7 +32,7 @@ When this hit came, the rubber-like status it had inflicted on the grenade went 
 
 Han Sen didn’t even look that way. He tried burrowing into the meat for protection, ensuring Bao’er’s safety first by tucking her in.
 
-Boom!
+*Boom!*
 
 A strong shockwave annihilated all the red meat in the shell, generating a mushroom cloud of epic proportions.
 

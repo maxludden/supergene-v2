@@ -1,9 +1,11 @@
+---
 Title:God of Wealth Temple 
 Chapter:3146 
 Section:16 
 Book:10 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## God of Wealth Temple
 ### Chapter 3146

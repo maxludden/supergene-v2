@@ -1,9 +1,11 @@
+---
 Title:A Sudden Desire to Kill 
 Chapter:1370 
 Section:4 
 Book:4 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## A Sudden Desire to Kill
 ### Chapter 1370
@@ -78,7 +80,7 @@ Disheartened by what was going on, Han Sen felt his hope begin to sap. He silent
 
 Seeing the attacker not relent, Han Sen only had one choice left. So, he brought out both of his horns and tried to block the man’s attack.
 
-Boom!
+*Boom!*
 
 The horns immediately broke, and then Han Sen was sent flying a few hundred meters.
 

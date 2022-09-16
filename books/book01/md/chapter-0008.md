@@ -1,19 +1,21 @@
-Title:Primitive Beast Soul
-Chapter:8
-Section:1
-Book:1
-CSS:../Styles/style.css
+---
+Title:Primitive Beast Soul 
+Chapter:8 
+Section:1 
+Book:1 
+CSS:../Styles/style.css 
 viewport: width=device-width
-
+---
+  
 ## Primitive Beast Soul
 ### Chapter 8
-
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
+  
 
-
-
+  
 Han Sen didn’t go back to Steel Armor Shelter after leaving Zephyr Valley. In a flash, he killed every swift mantis in a frenzy so that there were none left.
 
 "Well, I’ll just go hunt a copper-toothed beast. There are plenty of them near Steel Armor Shelter and there is a high chance of catching a mutant copper toothed beast, so it wouldn’t seem too suspicious if I were to produce a mutant one using the crystal." Han Sen found a habitat of copper-toothed beasts and wanted to catch one that was alone.
@@ -54,7 +56,7 @@ In Steel Armor Shelter, there are three outstanding persons who aimed to complet
 
 Carrying the copper-toothed beast, Han Sen stepped aside to let the gang pass. However, Son of Heaven stopped his mount when passing by him.
 
-Crack!
+*Crack!*
 
 Son of Heaven looked at Han Sen and slashed him on the shoulder with a leather whip. The copper-toothed beast fell on the ground, and Han Sen’s clothes were ripped apart. A wound started to swell on his shoulder and back.
 

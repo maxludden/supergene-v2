@@ -1,9 +1,11 @@
+---
 Title:Angel’s Kiss 
 Chapter:1188 
 Section:3 
 Book:3 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Angel’s Kiss
 ### Chapter 1188
@@ -44,7 +46,7 @@ Han Sen’s fingers cracked in the collision, and it felt as if they were on the
 
 Ever since obtaining super king spirit mode, things had never been so dire for Han Sen. Rarely was he placed in a situation so dangerous that he could not escape.
 
-Boom!
+*Boom!*
 
 Han Sen went flying back, crashing into the sturdy walls of a golden palace. The building began to collapse, and Han Sen shook his head, slinging blood over the remaining walls.
 

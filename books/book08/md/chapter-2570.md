@@ -1,9 +1,11 @@
+---
 Title:Crystal Furnace 
 Chapter:2570 
 Section:12 
 Book:8 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Crystal Furnace
 ### Chapter 2570

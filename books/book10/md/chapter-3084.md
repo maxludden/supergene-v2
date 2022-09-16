@@ -1,9 +1,11 @@
+---
 Title:Sacrifice 
 Chapter:3084 
 Section:16 
 Book:10 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Sacrifice
 ### Chapter 3084
@@ -82,7 +84,7 @@ The blood light coming from the hole was still burning like lava. It was shining
 
 The gene casters each held a sharp blade. They were seconds away from decapitating Bald Guy, who was terrified. No matter how he tried to struggle, he could not move. He looked at the knife coming toward him and shouted. “I am so sorry! I am not powerful, and I got you killed! Brother Han, I will serve you in hell! I will pay you back in the next life!”
 
-Boom!
+*Boom!*
 
 Blood light exploded from the hole. In that shining blood light, a blood-red shadow burst out of space. It suddenly went toward the bald man. It held the hand that was going for Bald Guy’s head.
 

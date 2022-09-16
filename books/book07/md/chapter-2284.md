@@ -1,9 +1,11 @@
+---
 Title:King 
 Chapter:2284 
 Section:10 
 Book:7 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## King
 ### Chapter 2284
@@ -78,7 +80,7 @@ Big King Bell spun in the air twice, looking as if he had made a decision. He ju
 
 The bell turned onto its side, aiming its opening out the white whale’s mouth. Then, they heard a loud chiming noise from the bell. A scary shockwave blasted out of the bell.
 
-Boom!
+*Boom!*
 
 The whole sea was cut in half by the bell’s sonic blast. The waters were parted down to the seafloor and all the way to the opposite shore of the ocean.
 

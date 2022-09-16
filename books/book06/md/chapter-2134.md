@@ -1,9 +1,11 @@
+---
 Title:Dongxuan Breakthrough 
 Chapter:2134 
 Section:8 
 Book:6 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Dongxuan Breakthrough
 ### Chapter 2134
@@ -68,7 +70,7 @@ Everyone was focusing on this fight now. Most of the Nobles thought the battle h
 
 Evil Eye was starting to look ill. He could see what was happening to Han Sen, but there was nothing he could do to stop it.
 
-Boom!
+*Boom!*
 
 In the middle of that crazy fight, Han Sen’s body beamed with sudden power. The audience couldn’t see that power with their eyes, but they could see the changes happening in Han Sen’s body.
 
@@ -102,7 +104,7 @@ The whole world was shocked by what they saw. They weren’t quite sure what to 
 
 The revelation that Dollar had two talents swept through the audience like a tidal wave. His other talent was only just leveling up now. Many of the Nobles weren’t quite sure what to say.
 
-Boom!
+*Boom!*
 
 The Dongxuan Aura suddenly grew small. The world looked weird through Han Sen’s eyes. In the next second, he lifted his finger.
 

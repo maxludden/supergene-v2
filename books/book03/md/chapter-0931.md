@@ -1,9 +1,11 @@
+---
 Title:Killing Phoenix King 
 Chapter:931 
 Section:3 
 Book:3 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Killing Phoenix King
 ### Chapter 931
@@ -16,7 +18,7 @@ viewport: width=device-width
   
 The clouds pierced the wall of fire. The cold air could freeze the cells of others, and almost immediately, the flaming phoenix was metamorphosed into its own opposite; it was turned into a statue of ice.
 
-Boom!
+*Boom!*
 
 Phoenix King had become ice, and all of his cells had frozen solid. Then, without notice, the composition of his being exploded into miniscule chips of ice that either pelted the field or submitted to the wind and were blown away.
 
@@ -40,7 +42,7 @@ It now seemed to Han Sen that obtaining self-spirit genes in the spirit bases wo
 
 Phoenix King respawned from the spirit stone with anger, and amidst the fire and fury of his temper, he spared no time in launching himself towards Han Sen in the shape of a phoenix.
 
-Boom!
+*Boom!*
 
 Han Sen cast the skill Water-Thunder, which obliterated the flying phoenix into another cascade of giblets.
 
@@ -70,7 +72,12 @@ No one could believe that this was the result of the fight they had come to spec
 
 "The King is invincible. Who was stupid enough to believe he would be afraid of Phoenix King?"
 
-...
+<br>
+
+*****
+
+<br>
+
 
 The sudden reversal of opinion represented just how much spirits adored those who were stronger. More than ever, spirits started to admire and show their affection for Han Sen again.
 
@@ -116,6 +123,10 @@ And to make matters worse for him, Han Sen was still stuck back in the sanctuary
 
 He could only use super king spirit mode in the sanctuary as a trump card—it was relegated to being a last resort. He couldn't randomly use it anymore, not before improving the strength of his body.
 
-…
+<br>
+
+*****
+
+<br>
 
 "San Mu, we have finally come to the edge of Thorn Forest!" Chu Ming jovially called out to Han Sen.

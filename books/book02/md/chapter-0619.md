@@ -1,9 +1,11 @@
+---
 Title:I'll Follow You 
 Chapter:619 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## I'll Follow You
 ### Chapter 619
@@ -36,7 +38,7 @@ After waiting a day, the Z-steel arrow were delivered. Han Sen went to the arche
 
 Han Sen loaded a bolt, took aim at the platinum target board, and pulled the trigger. The bolt was loosed with a blue beam of light as its guidance.
 
-Boom!
+*Boom!*
 
 The thick platinum target board was smashed into splinters, which surprised Han Sen.
 

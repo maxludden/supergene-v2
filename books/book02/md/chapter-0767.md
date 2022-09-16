@@ -1,9 +1,11 @@
+---
 Title:Holy Rhino 
 Chapter:767 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Holy Rhino
 ### Chapter 767
@@ -28,7 +30,7 @@ The white rhino's flesh peeled away, ceaselessly unraveling. Beyond the blinding
 
 "If this was going to happen, why did it so greedily want to eat the fruit? It's like it chose to self-destruct." Han Sen sighed. He believed death was the only conclusion to the rhino's current suffering.
 
-Boom!
+*Boom!*
 
 The white rhino's skin was torn to shreds, and heaps of its soggy, frayed flesh dislodged themselves from its bone and fell to the ground. The holy light began to dim as a mound of mushy meat collapsed.
 

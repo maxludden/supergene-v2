@@ -1,9 +1,11 @@
+---
 Title:Silver Sycee 
 Chapter:2270 
 Section:10 
 Book:7 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Silver Sycee
 ### Chapter 2270
@@ -60,7 +62,7 @@ Mister White stepped forward like he was teleporting. He appeared right beside t
 
 Mister White’s hand flashed with a strange symbol. That symbol sank into the scaled forehead of the blood kirin like a brand.
 
-Boom!
+*Boom!*
 
 The blood kirin’s body suddenly became heavier, and the increased weight almost took the creature to its knees.
 

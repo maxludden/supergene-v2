@@ -1,9 +1,11 @@
+---
 Title:Who Should Go 
 Chapter:35 
 Section:1 
 Book:1 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Who Should Go
 ### Chapter 35
@@ -66,7 +68,7 @@ Han Hao and others didn’t expect this, and the spotted beast was too close to 
 
 The young client was horrified, regretting that he wasn’t wearing his alloy helmet. But it was too late for that. Everyone watching screamed in horror.
 
-Whoosh!
+*Whoosh!*
 
 An arrow flew by the client’s face and hit the spotted beast in the left eye. The beast whimpered and fell to the ground.
 

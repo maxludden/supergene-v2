@@ -1,9 +1,11 @@
+---
 Title:Mystic Stone Room 
 Chapter:974 
 Section:3 
 Book:3 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Mystic Stone Room
 ### Chapter 974

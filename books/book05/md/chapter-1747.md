@@ -1,9 +1,11 @@
+---
 Title:Black River Xenogeneic 
 Chapter:1747 
 Section:6 
 Book:5 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Black River Xenogeneic
 ### Chapter 1747
@@ -84,7 +86,7 @@ Only Mister Tigerâ€™s geno weapon could deal damage to the tentacle. He couldnâ€
 
 Hardman and Guris screamed as they were dragged further down the river. They could not fight back, and their geno armors were too weak to resist the tentacles.
 
-Boom!
+*Boom!*
 
 A bolt of golden lightning zapped through the sky. It broke the atmosphere before piercing through the tentacles.
 

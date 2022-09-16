@@ -1,9 +1,11 @@
+---
 Title:Demon Hell Dragon Tattoo 
 Chapter:2478 
 Section:12 
 Book:8 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Demon Hell Dragon Tattoo
 ### Chapter 2478

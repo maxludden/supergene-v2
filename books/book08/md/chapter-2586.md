@@ -1,9 +1,11 @@
+---
 Title:Purple Copper Jian’s Power 
 Chapter:2586 
 Section:12 
 Book:8 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Purple Copper Jian’s Power
 ### Chapter 2586

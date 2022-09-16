@@ -1,9 +1,11 @@
+---
 Title:Teachapter Him to Be a Person 
 Chapter:3129 
 Section:16 
 Book:10 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Teachapter Him to Be a Person
 ### Chapter 3129

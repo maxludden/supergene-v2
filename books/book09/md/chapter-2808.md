@@ -1,9 +1,11 @@
+---
 Title:Special Xenogeneic 
 Chapter:2808 
 Section:14 
 Book:9 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Special Xenogeneic
 ### Chapter 2808
@@ -100,7 +102,12 @@ The maid flew away and started to cry. She was sent soaring far away from the ga
 
 "That is because he has the backing of the king. When the king was just a king, no one was mistreated like this before. I do not understand what is so special about him that makes the king think he is so important."
 
-...
+<br>
+
+*****
+
+<br>
+
 
 "Why are you offending the queen?" Bao Ying asked with a sigh. "You don't get anything out of it."
 

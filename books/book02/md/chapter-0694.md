@@ -1,9 +1,11 @@
+---
 Title:Z-steel Raw Stone 
 Chapter:694 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Z-steel Raw Stone
 ### Chapter 694
@@ -68,7 +70,11 @@ After this, Han Sen quietly returned to the Goddess Shelter and put away the Bee
 
 "We'll talk about this when I am actually able to kill a super creature. And pets? You know pets. Pets are just pets. If the master is too weak, it would be dangerous to hunt a super creature, regardless of the pet's individual strength. Unless victory is 100% sure, I wouldn't risk it," Han Sen said.
 
-…
+<br>
+
+*****
+
+<br>
 
 After the call with Tang Zhenliu, many others contacted him, wondering if he was going to participate in Divinity's Bout. It looked as if many people wanted to see him compete there.
 

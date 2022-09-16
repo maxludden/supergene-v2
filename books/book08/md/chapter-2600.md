@@ -1,9 +1,11 @@
+---
 Title:God Spirit Touch 
 Chapter:2600 
 Section:12 
 Book:8 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## God Spirit Touch
 ### Chapter 2600

@@ -1,9 +1,11 @@
+---
 Title:Red Mist King Is Shining 
 Chapter:1959 
 Section:7 
 Book:5 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Red Mist King Is Shining
 ### Chapter 1959
@@ -26,7 +28,7 @@ The lower level xenogeneic gene battle bodies crashed to the ground. The bodies 
 
 Han Sen didn’t dodge, though. His left-hand possessed a red mist, and it shone. A strong red metal body came out of it. It threw a punch towards Clear Sea King.
 
-Boom!
+*Boom!*
 
 A scary red mist light punched into Clear Sea King’s sleeve. The sleeve deflated and tore. The red light went through the sleeve, up and into his chest.
 

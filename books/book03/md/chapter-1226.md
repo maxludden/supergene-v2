@@ -1,9 +1,11 @@
+---
 Title:Thunder Hell Emperor 
 Chapter:1226 
 Section:3 
 Book:3 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Thunder Hell Emperor
 ### Chapter 1226
@@ -46,7 +48,7 @@ The run-up to the spirit hall had environmental traps that frequently blasted bl
 
 The black lightning flickered out like craggy rocks, and sometimes like webs of electrocution. Fortunately, none came to harm, as all of Han Sen’s forces were able to avoid the lightning. With a hefty strike, they all reached the gate and pummeled it down.
 
-Boom!
+*Boom!*
 
 The entire structure vibrated as the gate collapsed under the obliterating force. The noise was loud, though, and it might as well have been the sounding of an alarm.
 

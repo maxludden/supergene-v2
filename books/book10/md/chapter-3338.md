@@ -1,9 +1,11 @@
+---
 Title:Fighting Qin Xiu Again 
 Chapter:3338 
 Section:17 
 Book:10 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Fighting Qin Xiu Again
 ### Chapter 3338

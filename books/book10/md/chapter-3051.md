@@ -1,9 +1,11 @@
+---
 Title:Gene Race in the Mountain 
 Chapter:3051 
 Section:16 
 Book:10 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Gene Race in the Mountain
 ### Chapter 3051

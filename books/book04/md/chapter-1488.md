@@ -1,9 +1,11 @@
+---
 Title:The Power of the Butterfly Geno Core 
 Chapter:1488 
 Section:4 
 Book:4 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## The Power of the Butterfly Geno Core
 ### Chapter 1488

@@ -1,9 +1,11 @@
+---
 Title:The Spirits Return 
 Chapter:1418 
 Section:4 
 Book:4 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## The Spirits Return
 ### Chapter 1418
@@ -38,7 +40,11 @@ Real Blood Geno Core reached first place and created a big fuss across the Fourt
 
 “This is all so very scary to think about. I wonder who might possess them. Are they spirits? Or creatures, I wonder?”
 
-…
+<br>
+
+*****
+
+<br>
 
 All the Fourth God’s Sanctuary were talking about Real Blood Geno Core. The bossess of super shelters were trying to find out who owned it, but they had no clue.
 

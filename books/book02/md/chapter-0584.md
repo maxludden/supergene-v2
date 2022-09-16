@@ -1,9 +1,11 @@
+---
 Title:Red-scale Dragon 
 Chapter:584 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Red-scale Dragon
 ### Chapter 584

@@ -1,9 +1,11 @@
+---
 Title:Shield of the Medusa’s Gaze 
 Chapter:2593 
 Section:12 
 Book:8 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Shield of the Medusa’s Gaze
 ### Chapter 2593
@@ -36,7 +38,7 @@ But the little red bird was still only primitive, and the knife in Meng Lie’s 
 
 Seeing this, Miss Mirror sighed. “In the end, Han Sen still needs to die. It would have been okay if he had just killed Bai Yi. He might have still been allowed to live. But now that he has the true god Shield of the Medusa’s Gaze and the race weapon of the Fox. He must die.”
 
-Boom!
+*Boom!*
 
 A scary gold knife light appeared, and the whole planet exploded. The destruction caused by the gold knife light was so bright that the entire galaxy shone with its radiance. Shockwaves washed through the system.
 
@@ -50,7 +52,7 @@ The pirates were thinking about whether or not they should kneel and beg. If the
 
 ena
 
-Slap! The Extreme King knight who said that was smacked to the floor. Bao’er then went to clean her hand, as if she had touched something dirty.
+*Slap!* The Extreme King knight who said that was smacked to the floor. Bao’er then went to clean her hand, as if she had touched something dirty.
 
 The Extreme King knight was rolling around on the floor, clutching his injured face. His teeth had been broken and his jaw had been shattered.
 

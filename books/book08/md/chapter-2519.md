@@ -1,9 +1,11 @@
+---
 Title:Killing a Deified 
 Chapter:2519 
 Section:12 
 Book:8 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Killing a Deified
 ### Chapter 2519
@@ -84,7 +86,7 @@ Dragon One didn’t hesitate. Dollar wasn’t concerned about the Gold Armor Gen
 
 With that thought, Dragon One activated the item in his hand. A dragon’s roar came from his hand, then transformed into a dragon shadow that raged toward the Gold Armor General. It went into the ruined eye sockets of the Gold Armor General, which were still bleeding.
 
-Boom!
+*Boom!*
 
 When the dragon shadow came back out of the Gold Armor General’s eyes, it did so with a scary explosion. The blood-like fire came surging out of the eyes like an erupting volcano.
 

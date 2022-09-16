@@ -1,9 +1,11 @@
+---
 Title:I Choose to Kill 
 Chapter:402 
 Section:1 
 Book:1 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## I Choose to Kill
 ### Chapter 402
@@ -36,17 +38,17 @@ Before figuring out the relationship between the Nings and the Hans, Han Sen did
 
 As the weapons were about to reach Han Sen's body, it was too late for Han Sen to run away and for the evolvers to take back their weapons. Despite Ning Yue's command, his men could no longer stop themselves.
 
-Boom!
+*Boom!*
 
 A giant monster in jade armor that looked like the cross between a scorpion and a bee suddenly appeared next to Han Sen, knocking away all the weapons about to hit Han Sen.
 
 The weapons used by the sacred-blood evolvers were top-notch in First God's Sanctuary, but none of them could hurt that monster. Instead, the evolvers were knocked back.
 
-Crack!
+*Crack!*
 
 A pair of claws that looked like the sickles of the death crossed above Liu Lin's shoulders, sending his head into the air. Liu Lin's eyes were stared wide even after death, filled with terror.
 
-The fierce super Golden rock worm king killed his way into the group. Its four wings buzzing, the worm king danced with its eight claws moving up an if d down.
+The fierce super Golden rock worm king killed his way into the group. Its four wings buzzing, the worm king danced with its eight claws moving up and down.
 
 It was a true slaughter. Wearing super pet armor, the super golden rock worm king did not even look like something that belonged to First God's Sanctuary. Even the sacred-blood evolvers could not hurt it. Instead, anywhere the worm king went, limbs would fall, and blood would jet out. In front of absolute strength, even the Que Yi sword skills were completely useless.
 
@@ -78,7 +80,7 @@ Ning Yue knew there was no way he could get out of here alive. After all his cal
 
 Ning Yue's expression suddenly changed after he heard what Han Sen said. He quickly opened his eyes and saw an ugly dark purple beast soul that looked like an alligator in his face.
 
-Boom!
+*Boom!*
 
 The beast soul did not pause and entered Ning Yue's body. The giant creature sent itself into Han Sen's chest with ease.
 

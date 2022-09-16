@@ -1,9 +1,11 @@
+---
 Title:Empty Spirit Princess 
 Chapter:642 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Empty Spirit Princess
 ### Chapter 642

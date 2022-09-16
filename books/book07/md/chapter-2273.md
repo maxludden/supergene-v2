@@ -1,9 +1,11 @@
+---
 Title:Secret of a Stone 
 Chapter:2273 
 Section:10 
 Book:7 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Secret of a Stone
 ### Chapter 2273

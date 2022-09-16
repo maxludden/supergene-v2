@@ -1,9 +1,11 @@
+---
 Title:Scary Ice Geno Art 
 Chapter:2717 
 Section:13 
 Book:8 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Scary Ice Geno Art
 ### Chapter 2717

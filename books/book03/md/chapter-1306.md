@@ -1,9 +1,11 @@
+---
 Title:Obsidian Elephant 
 Chapter:1306 
 Section:3 
 Book:3 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Obsidian Elephant
 ### Chapter 1306
@@ -86,7 +88,7 @@ A second later, his eyeballs almost jumped out the comfort of their sockets.
 
 Han Sen’s muscles quivered, as he picked up the entire elephant in his arms. Then, as if he were throwing logs at some celtic event, he lobbed it onto the ground a good distance away.
 
-Boom!
+*Boom!*
 
 A fifty-meter-wide crater was formed in the ground, which Han Sen quickly leapt into to re-engage the elephant. Bai Yishan ran forward to catch a glimpse of what would happen next, and he accidentally stumbled into the hole.
 

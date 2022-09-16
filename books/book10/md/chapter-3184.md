@@ -1,9 +1,11 @@
+---
 Title:I Want to Kill People 
 Chapter:3184 
 Section:16 
 Book:10 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## I Want to Kill People
 ### Chapter 3184

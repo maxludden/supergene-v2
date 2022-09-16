@@ -1,9 +1,11 @@
+---
 Title:I'm Afraid This Will Be Difficult 
 Chapter:726 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## I'm Afraid This Will Be Difficult
 ### Chapter 726

@@ -1,9 +1,11 @@
+---
 Title:Demon Bug Disaster 
 Chapter:2080 
 Section:8 
 Book:6 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Demon Bug Disaster
 ### Chapter 2080
@@ -84,6 +86,6 @@ A purple knife with scary knife air came flying by, killing any flying xenogenei
 
 “Follow my attack!” Han Sen shouted, before putting Ghost Teeth Knife back in its sheath. Spell became a rocket launcher on his shoulders, and then he fired. His blood red body followed after the smoky trail.
 
-Boom!
+*Boom!*
 
 The rocket exploded amidst the xenogeneics. The shot didn’t have enough destructive power to do too much damage to Marquise xenogeneics, but when the shockwave of the explosion brushed the enemy, it made them far slower. Turtle marks appeared on their bodies.

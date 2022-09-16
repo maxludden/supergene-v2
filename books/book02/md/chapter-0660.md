@@ -1,9 +1,11 @@
+---
 Title:Completion of the Flaming Rex Spike's Evolution 
 Chapter:660 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Completion of the Flaming Rex Spike's Evolution
 ### Chapter 660

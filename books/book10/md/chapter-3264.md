@@ -1,9 +1,11 @@
+---
 Title:Bad Egg 
 Chapter:3264 
 Section:16 
 Book:10 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Bad Egg
 ### Chapter 3264

@@ -1,9 +1,11 @@
+---
 Title:Peach Trees Mature 
 Chapter:686 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Peach Trees Mature
 ### Chapter 686
@@ -66,7 +68,11 @@ Ji Ruozhen sighed and said, "I thought Ji Qing was lucky, but Han Sen's luck far
 
 "The Qin family?" Ji Ruozhen lowered his head to think for a bit, and then continued by saying, "Not bad. He's got his head screwed on right. He sure knows what he's doing."
 
-…
+<br>
+
+*****
+
+<br>
 
 Ji Yanran did not lie. Han Sen was indeed planning on selling it to the Qin family. After all, he could not absorb the Life Geno essence of a first generation super creature, and holding onto it would just make others jealous. He would also maximize the profit he could receive by selling it as early as possible.
 

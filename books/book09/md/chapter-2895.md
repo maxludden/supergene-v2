@@ -1,9 +1,11 @@
+---
 Title:Familiar Machine 
 Chapter:2895 
 Section:15 
 Book:9 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Familiar Machine
 ### Chapter 2895
@@ -82,6 +84,6 @@ The Alliance’s teleportation machines were not pure crystallizer tech. There w
 
 “What is this thing?” Han Sen was very curious. He wanted to know what the place called Starter King’s Land was.
 
-Boom!
+*Boom!*
 
 Han Sen felt a surge of magic go through his eyes. It was the same feeling he had when using the teleporters in the Alliance. When his vision stopped spinning, he noticed he was not inside the crystal container anymore.

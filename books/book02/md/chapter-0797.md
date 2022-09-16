@@ -1,9 +1,11 @@
+---
 Title:Scary Shelter 
 Chapter:797 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Scary Shelter
 ### Chapter 797
@@ -48,7 +50,7 @@ The big monster was not willing to stop there, however. With its goliath body, i
 
 The big monster had a width of one hundred meters, and it was at least fifty meters tall. But in the shadow of that door, it didn't appear so grand. They were of comparable height.
 
-Boom!
+*Boom!*
 
 The giant monster's body used all its strength in hitting the door, and each thud echoed far and wide. But despite its efforts, the stone gates did not budge a single inch. The monster's wretched power was nothing in comparison.
 
@@ -94,7 +96,7 @@ Han Sen summoned his Flaming Rex Spike and tried fitting it where the seam for t
 
 Not a single chip of the door was broken away, either. And now, Han Sen was beginning to think it was too difficult.
 
-Boom!
+*Boom!*
 
 The big monster, seeing that Han Sen was unable to open the door, hit it once more. Its mouth spat out blood, and it screamed in pain.
 

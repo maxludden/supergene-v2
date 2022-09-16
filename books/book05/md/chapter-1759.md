@@ -1,9 +1,11 @@
+---
 Title:Super Body Evolution 
 Chapter:1759 
 Section:6 
 Book:5 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Super Body Evolution
 ### Chapter 1759
@@ -44,7 +46,7 @@ Xina was a xenogeneic, too. And she was a Viscount, to top it off. After transfo
 
 Looking at the light, it felt like space itself could be shredded.
 
-Boom!
+*Boom!*
 
 The cold light was like a laser. It fired towards Han Sen’s forehead.
 

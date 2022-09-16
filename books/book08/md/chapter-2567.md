@@ -1,9 +1,11 @@
+---
 Title:Another Crocodile God 
 Chapter:2567 
 Section:12 
 Book:8 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Another Crocodile God
 ### Chapter 2567

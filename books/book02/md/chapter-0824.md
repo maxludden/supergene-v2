@@ -1,9 +1,11 @@
+---
 Title:Should Be Killed 
 Chapter:824 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Should Be Killed
 ### Chapter 824
@@ -14,7 +16,7 @@ viewport: width=device-width
   
 
   
-Boom!
+*Boom!*
 
 Yu Qielan's body shattered the atmosphere. It was as if he teleported directly in front of Huang Xiao, with his big hand reaching out for the young man's head.
 

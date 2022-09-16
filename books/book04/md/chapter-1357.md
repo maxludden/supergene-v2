@@ -1,9 +1,11 @@
+---
 Title:One-hit Kill 
 Chapter:1357 
 Section:4 
 Book:4 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## One-hit Kill
 ### Chapter 1357
@@ -46,7 +48,7 @@ This came as another surprise for the butler. The wooded skin began to evaporate
 
 The doll was shocked, acknowledging the power that was suddenly headed its way. The fiend flashed its eyes a number of times to repel it, but nothing worked. The bright light wielded by Han Sen laid the smackdown.
 
-Boom!
+*Boom!*
 
 The doll’s body was immediately destroyed, as a flurry of wood chips peppered the air and rained across the ground.
 

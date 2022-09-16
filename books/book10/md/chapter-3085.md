@@ -1,9 +1,11 @@
+---
 Title:Blood Dragon God Pulse 
 Chapter:3085 
 Section:16 
 Book:10 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Blood Dragon God Pulse
 ### Chapter 3085

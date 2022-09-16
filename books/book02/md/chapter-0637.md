@@ -1,9 +1,11 @@
+---
 Title:Heart of Loyalty 
 Chapter:637 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Heart of Loyalty
 ### Chapter 637
@@ -36,7 +38,7 @@ Dong!
 
 The blade deflected the speeding bolt at great cost. The berserk sacred-blood Anser sword shattered in half, shards splintering off in an array of different directions. The force knocked Chen Ran's body backwards, cleaving the earth with two three meter long skid marks.
 
-Pop!
+*Pop!*
 
 Chen Ran's mouth spewed blood. With utter shock, his eyes locked on the crossbow in Han Sen's hand. He could not believe a crossbow could possess so much power.
 

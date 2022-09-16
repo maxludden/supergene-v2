@@ -1,9 +1,11 @@
+---
 Title:White Elephant 
 Chapter:2616 
 Section:12 
 Book:8 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## White Elephant
 ### Chapter 2616

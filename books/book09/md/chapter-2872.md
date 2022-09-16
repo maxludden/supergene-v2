@@ -1,9 +1,11 @@
+---
 Title:Self-torturing Knife 
 Chapter:2872 
 Section:14 
 Book:9 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Self-torturing Knife
 ### Chapter 2872

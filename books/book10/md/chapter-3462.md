@@ -1,9 +1,11 @@
+---
 Title:Epilogue 
 Chapter:3462 
 Section:17 
 Book:10 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Epilogue
 ### Chapter 3462
@@ -132,6 +134,6 @@ At the same time, the golden door released a weird noise. “Door to the sanctua
 
 The white-haired old man said, “I am not him. The man she liked is dead.” He walked forward and entered the golden door.
 
-Boom! Boom!
+*Boom!* *Boom!*
 
 An old and heavy door closed. Then, it was gone as if it had never existed.

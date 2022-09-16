@@ -1,9 +1,11 @@
+---
 Title:You Don’t Have to Understand 
 Chapter:1704 
 Section:5 
 Book:4 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## You Don’t Have to Understand
 ### Chapter 1704
@@ -64,7 +66,7 @@ The officer just needed to be faster than Han Sen to kill him, but he couldn’t
 
 Stay Up Late was in a state of shock. He had never before seen anyone triumph over Heart Eye in this way. It seemed a very risky thing to do, but Han Sen managed to strike first and firmly every single time. It really was quite unbelievable.
 
-Boom!
+*Boom!*
 
 After all those attacks, the officer’s geno armor started to crack. Han Sen punched him again, and he fell to the ground like a meteor. There was a giant crater following his descent
 
@@ -86,7 +88,7 @@ Han Sen wanted to give chase, but Little Angel and Golden Growler were both inju
 
 So, he decided to fly in front of Zach.
 
-Boom!
+*Boom!*
 
 Han Sen punched Zach’s head. His right gloved fist was driven into Zach’s metal helmet and obliterated his head. His headless body crumpled to the ground.
 

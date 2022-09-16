@@ -1,9 +1,11 @@
+---
 Title:Two Break World Methods 
 Chapter:3370 
 Section:17 
 Book:10 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Two Break World Methods
 ### Chapter 3370
@@ -68,7 +70,7 @@ Han Sen now knew that he couldn’t avoid Wan’er’s attacks. He ignored his d
 
 Han Sen felt his fist thrust into what felt like liquid. There was so much resistance that it was like he was punching a rock. When his fist went inside Wan’er’s body, he felt that her body was very soft. It was even boneless. It was like he had shoved his fist into water.
 
-Boom!
+*Boom!*
 
 Han Sen wanted to pull his fist back out and try to attack other parts of Wan’er’s body, but he suddenly felt as if he had been electrified. His spirit body was numb and paralyzed. He then felt a force of suction grip him by the fist. He could not draw his fist out of Wan’er’s body.
 

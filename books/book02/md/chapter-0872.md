@@ -1,9 +1,11 @@
+---
 Title:Blood Legion's Relic 
 Chapter:872 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Blood Legion's Relic
 ### Chapter 872
@@ -32,7 +34,7 @@ A nail clipped by the side of Han Sen's neck, drawing blood. Son of Fate, at a s
 
 Han Sen could not explain the smile. The best he could compare it to was a starving wolf coming across a fresh carcass.
 
-Boom!
+*Boom!*
 
 Son of Fate cracked the air, reaching his nails out for Han Sen's heart.
 
@@ -88,7 +90,7 @@ He pummeled him in this way countless times, and when he was done, there was a d
 
 Han Sen threw him back down into the pit and smacked him in the head.
 
-Boom!
+*Boom!*
 
 The power created an even deeper hole, with Son of Fate inside. His skull had been cracked open, and his body was twisted in a lurid fashion.
 

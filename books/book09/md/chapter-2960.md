@@ -1,9 +1,11 @@
+---
 Title:One Leader and Four Subordinates 
 Chapter:2960 
 Section:15 
 Book:9 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## One Leader and Four Subordinates
 ### Chapter 2960

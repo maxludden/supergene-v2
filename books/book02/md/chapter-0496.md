@@ -1,9 +1,11 @@
+---
 Title:Strength Test 
 Chapter:496 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Strength Test
 ### Chapter 496
@@ -72,7 +74,7 @@ Very soon, it was Tie Yi's turn. All the eyes of the contestants were focused on
 
 Under all the attention, Tie Yi was not nervous at all. He simply walked up to the drum and hit it without any additional moves.
 
-Boom!
+*Boom!*
 
 A loud sound made people's ears hurt. The number on the screen of the drum changed quickly and ended up on the number 113.7584.
 
@@ -94,6 +96,6 @@ Han Sen's main concern was still Super Diamond Body of Tie Yi. It was after all 
 
 Later on, it was Zheng Yuze's turn. Zheng Yuze walked up to the drum, took a deep breath, gave a loud roar and then hit the drum fiercely.
 
-Boom!
+*Boom!*
 
 The screen showed the number 114.2584, giving rise to loud applause from the audience. This number was even better than Tie Yi's, which boosted the morale of the soldiers in Southwest Galaxy.

@@ -1,9 +1,11 @@
+---
 Title:Extreme Evil Beast 
 Chapter:3043 
 Section:16 
 Book:10 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Extreme Evil Beast
 ### Chapter 3043
@@ -26,7 +28,7 @@ Before Mister Yang could finish speaking, the iron pipe-looking suppress pulse i
 
 Han Sen used both hands to pull out the iron pipe, one foot after another. He did it in the blink of an eye. He easily removed the 24-foot-long black metal pillar from the earth.
 
-Boom! Boom!
+*Boom!* *Boom!*
 
 When the metal pillar was pulled out of the ground, the entire zone seemed to quake a little. Even Ancient God City shook. It made the people think an earthquake had struck.
 

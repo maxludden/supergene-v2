@@ -1,9 +1,11 @@
+---
 Title:Taking the Treasure 
 Chapter:2371 
 Section:11 
 Book:7 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Taking the Treasure
 ### Chapter 2371

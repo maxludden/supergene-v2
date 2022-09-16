@@ -1,9 +1,11 @@
+---
 Title:A Star 
 Chapter:152 
 Section:1 
 Book:1 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## A Star
 ### Chapter 152
@@ -56,7 +58,12 @@ Later, they were stunned by what they learned. The person driving Destroyer was 
 
 "It's a pity. Such a great warframe. It is the Destroyer!"
 
-...
+<br>
+
+*****
+
+<br>
+
 
 Naturally no one was optimistic about the Heavy Warframe Society’s performance. After all, no matter how good a warframe was, the key was the player.
 
@@ -76,7 +83,12 @@ The viewers who knew something about Starry Cup started to leave comments.
 
 "Fang must be marginalized in the station."
 
-...
+<br>
+
+*****
+
+<br>
+
 
 Fang Mingquan saw these comments and smiled. "Thank you, friends, for your concern. The reason I chose to broadcast live all the warframe matches is that I think this year there will be a most valuable player from Blackhawk who will be a star in the entire Alliance. So, this show will focus on all his matches. In addition, this player is in all the items of warframe except for one due to a time conflict. Let us wait and see his performance."
 
@@ -92,7 +104,12 @@ Fang Mingquan saw these comments and smiled. "Thank you, friends, for your conce
 
 "Love you, Fang Mingquan."
 
-...
+<br>
+
+*****
+
+<br>
+
 
 Both the believers and nonbelievers gazed at the Destroyer.
 

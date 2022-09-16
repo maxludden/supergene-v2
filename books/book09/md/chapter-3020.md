@@ -1,9 +1,11 @@
+---
 Title:Sacred Leader Armor 
 Chapter:3020 
 Section:15 
 Book:9 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Sacred Leader Armor
 ### Chapter 3020
@@ -82,7 +84,7 @@ Littleflower walked to the armor and said, “That is a high enough percentage t
 
 arn
 
-Boom!
+*Boom!*
 
 When Littleflower’s hand touched it, his white light fire started going to the armor. The black armor suddenly turned very bright. It was just like Littleflower’s body. It was burning with a white flame. His eyes were shining with a weird light.
 

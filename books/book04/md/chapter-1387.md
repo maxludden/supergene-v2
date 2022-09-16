@@ -1,9 +1,11 @@
+---
 Title:Jade Skeleton 
 Chapter:1387 
 Section:4 
 Book:4 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Jade Skeleton
 ### Chapter 1387

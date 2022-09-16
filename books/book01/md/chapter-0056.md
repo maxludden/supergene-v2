@@ -1,18 +1,21 @@
-Title:I’ll Be Damned
-Chapter:56
-Section:1
-Book:1
-CSS:../Styles/style.css
+---
+Title:I’ll Be Damned 
+Chapter:56 
+Section:1 
+Book:1 
+CSS:../Styles/style.css 
 viewport: width=device-width
-
+---
+  
 ## I’ll Be Damned
 ### Chapter 56
-
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
+  
 
-
+  
 Fang Jingqi regretted his own carelessness as his face turned red. He also blamed his loss on Han Sen’s slyness. If Han Sen didn’t tell Xue Xi the vulgar story, he would not have been distracted and gave Han Sen the opportunity.
 
 "Another ten thousand," said Han Sen to Xue Xi.
@@ -33,7 +36,7 @@ Snow Xi burst out laughing.
 
 Fang Jingqi knew that it was Han Sen’s trick to get him distracted, but he couldn’t stand Han Sen ignoring him and said to Han Sen, "Would you rather tell stories than..."
 
-*Snap!*
+*Sanp!*
 
 Han Sen's hands once again slapped him on the back of his hands, which had turned red after three slaps. However, Fang Jingqi’s face was redder than his hands.
 
@@ -91,13 +94,13 @@ Fang Jingqi couldn’t escape when Han Sen made the move although he was paying 
 
 "Again!"
 
-*Snap! Snap! Snap!*
+**Snap!* *Snap!* *Snap!**
 
 Fang Jingqi went berserk, not accepting the truth that he simply couldn’t move his hands away fast enough. Han Sen was nothing but cunning. How could he lose when he was paying attention?
 
 However, Fang Jingqi could not avoid the slap no matter how hard he tried.
 
-*Snap! Snap! Snap!*
+**Snap!* *Snap!* *Snap!**
 
 Crisp sounds kept ringing in the living room. Xue Xi was shocked. She didn’t expect Fang Jingqi to lose, let alone to lose in such a miserable manner. She had been worried about Han Sen but found that she really should be worried about her brother.
 

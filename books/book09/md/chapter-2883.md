@@ -1,9 +1,11 @@
+---
 Title:The Decision to Light a Lantern 
 Chapter:2883 
 Section:14 
 Book:9 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## The Decision to Light a Lantern
 ### Chapter 2883

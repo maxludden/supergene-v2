@@ -1,9 +1,11 @@
+---
 Title:Accidentally Seeing 
 Chapter:2900 
 Section:15 
 Book:9 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Accidentally Seeing
 ### Chapter 2900
@@ -40,7 +42,7 @@ Bai Wanjie and the five people fighting the undead stayed inside the blue temple
 
 In the beginning, it took three people to defeat one undead. As time went by, they learned more about the undead and improved themselves. After two days, Bai Wuchang could defeat the undead alone.
 
-Boom! Boom! Boom! Another bridge appeared across the sea. Han Sen quickly understood what it meant. “It looks like an undead must be defeated solo to trigger the bridge that leads to another island.”
+*Boom!* *Boom!* *Boom!* Another bridge appeared across the sea. Han Sen quickly understood what it meant. “It looks like an undead must be defeated solo to trigger the bridge that leads to another island.”
 
 Bai Wuchang did not hesitate. He walked across the bridge.
 

@@ -1,9 +1,11 @@
+---
 Title:Bronze Bell 
 Chapter:2283 
 Section:10 
 Book:7 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Bronze Bell
 ### Chapter 2283

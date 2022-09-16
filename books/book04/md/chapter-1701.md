@@ -1,9 +1,11 @@
+---
 Title:Coming Back 
 Chapter:1701 
 Section:5 
 Book:4 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Coming Back
 ### Chapter 1701
@@ -56,7 +58,7 @@ Stay Up Late had managed to avoid getting killed by the previous three strikes, 
 
 “It’s over!” Stay Up Late sighed. He knew he wouldn’t be able to dodge it, and he knew his body would be cut in half.
 
-Boom!
+*Boom!*
 
 Suddenly, a light came from the sky. It hit the Western King Sword with the power of a small sun. It shocked the officer and his sword, and the sword missed its target, buying Stay Up Late time.
 
@@ -82,7 +84,7 @@ Han Sen’s face changed and he tried to dodge, but his fitness could not save h
 
 Before he could move, the glove on his right hand became an armorset that shielded his entire body. Then, the fist aligned itself with the arc of the Western King Sword.
 
-Boom!
+*Boom!*
 
 The fist hit the sword, and it created an explosion in the sky. It was far worse than the detonation of an atom bomb. The impact turned the ground into an ocean. The city became a ruin.
 

@@ -1,9 +1,11 @@
+---
 Title:The Man in a Bronze Ding 
 Chapter:975 
 Section:3 
 Book:3 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## The Man in a Bronze Ding
 ### Chapter 975

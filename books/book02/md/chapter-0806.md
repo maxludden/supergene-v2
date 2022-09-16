@@ -1,9 +1,11 @@
+---
 Title:Super Creature Gathering 
 Chapter:806 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Super Creature Gathering
 ### Chapter 806

@@ -1,9 +1,11 @@
+---
 Title:Emperor Geno Core 
 Chapter:1555 
 Section:4 
 Book:4 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Emperor Geno Core
 ### Chapter 1555

@@ -1,9 +1,11 @@
+---
 Title:Fight 
 Chapter:2265 
 Section:10 
 Book:7 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Fight
 ### Chapter 2265
@@ -102,6 +104,6 @@ Ice Blue Knight King was the fastest of the bunch, so he arrived at the lotus mo
 
 He had been sprinting forward at full speed, and his momentum kept him from changing direction quickly. He gathered up his strength and sent a wave of deep blue power against the tide of red.
 
-Boom!
+*Boom!*
 
 The blood air ripped straight through Ice Blue Knight King’s deep blue power. The attack tore through the armor on his chest without even slowing down, and blood began to spurt from his chest with unnatural speed. It was as if some power was sucking the blood out of him.

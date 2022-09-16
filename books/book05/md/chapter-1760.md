@@ -1,9 +1,11 @@
+---
 Title:Golden Growler Evolves 
 Chapter:1760 
 Section:6 
 Book:5 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Golden Growler Evolves
 ### Chapter 1760

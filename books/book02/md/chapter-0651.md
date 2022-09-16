@@ -1,9 +1,11 @@
+---
 Title:Inviting the Elite 
 Chapter:651 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Inviting the Elite
 ### Chapter 651

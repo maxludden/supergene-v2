@@ -1,9 +1,11 @@
+---
 Title:Raven Feather Bolt 
 Chapter:632 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Raven Feather Bolt
 ### Chapter 632
@@ -44,7 +46,7 @@ Han Sen could only load sixteen of the thirty-six feathers into the crossbow's q
 
 After loading up his quiver, Han Sen traveled to the base of a mountain cliff. He placed the gourd into a little nook along its rough surface and took aim with his peacock crossbow. He fired it at the gourd.
 
-Boom!
+*Boom!*
 
 The black feather had a direct hit on the gourd, which triggered a powerful explosion. A big hole was blown into the craggy surface of the cliff, in which the gourd still remained lodged, without harm.
 

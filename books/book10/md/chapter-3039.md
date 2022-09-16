@@ -1,9 +1,11 @@
+---
 Title:Not Praying to a God Spirit 
 Chapter:3039 
 Section:16 
 Book:10 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Not Praying to a God Spirit
 ### Chapter 3039

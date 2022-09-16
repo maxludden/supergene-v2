@@ -1,9 +1,11 @@
+---
 Title:Generating a Geno Core 
 Chapter:1349 
 Section:4 
 Book:4 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Generating a Geno Core
 ### Chapter 1349

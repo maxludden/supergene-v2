@@ -1,9 +1,11 @@
+---
 Title:Fighting for Cooking Meat 
 Chapter:3347 
 Section:17 
 Book:10 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Fighting for Cooking Meat
 ### Chapter 3347

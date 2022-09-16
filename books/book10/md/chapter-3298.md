@@ -1,9 +1,11 @@
+---
 Title:Exiting the Thirty-three Skies 
 Chapter:3298 
 Section:16 
 Book:10 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Exiting the Thirty-three Skies
 ### Chapter 3298

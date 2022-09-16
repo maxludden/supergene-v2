@@ -1,9 +1,11 @@
+---
 Title:Trading for Beast Souls 
 Chapter:283 
 Section:1 
 Book:1 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Trading for Beast Souls
 ### Chapter 283

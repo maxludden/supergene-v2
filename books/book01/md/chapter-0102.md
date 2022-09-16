@@ -1,9 +1,11 @@
+---
 Title:See You at the Final 
 Chapter:102 
 Section:1 
 Book:1 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## See You at the Final
 ### Chapter 102
@@ -52,7 +54,12 @@ Some people found that Yi Dongmu and Han Sen would meet before one became the Ch
 
 "Bless Dollar!"
 
-...
+<br>
+
+*****
+
+<br>
+
 
 "Bless Dollar" had also become a buzzword, and was seen everywhere in the comments of all sorts of programs about the contest.
 

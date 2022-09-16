@@ -1,9 +1,11 @@
+---
 Title:Who Is Scum? 
 Chapter:12 
 Section:1 
 Book:1 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Who Is Scum?
 ### Chapter 12
@@ -40,7 +42,7 @@ Han Sen was preparing to go back into the grass, not expecting the young man to 
 
 The young man's hands looked nothing like hands of a man, but rather like they were sculpted out of a whole piece of white jade, giving off an incredible sheen.
 
-Crack!
+*Crack!*
 
 The beast soul spear was cut in half by his palm as easily as a steel knife cutting through wood.
 
@@ -64,7 +66,7 @@ Again, he raised the jade-like palm as if he was an executioner about to perform
 
 "You asked for it." The young man’s face darkened, his jade-like palm chopping towards Han Sen’s leg.
 
-Clank!
+*Clank!*
 
 Han Sen’s leg was knocked away, and there was a white mark on the golden armor.
 

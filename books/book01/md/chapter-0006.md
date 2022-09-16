@@ -1,19 +1,21 @@
-Title:Armor Is Everything
-Chapter:6
-Section:1
-Book:1
-CSS:../Styles/style.css
+---
+Title:Armor Is Everything 
+Chapter:6 
+Section:1 
+Book:1 
+CSS:../Styles/style.css 
 viewport: width=device-width
-
+---
+  
 ## Armor Is Everything
 ### Chapter 6
-
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
+  
 
-
-
+  
 Suddenly, Han Sen saw something green, about a foot-long, sticking to the grass like a leaf. If he didn’t look closely, he would’ve thought it was part of the grass and would have never imagined it to be a swift mantis that could split a human skull with a single blow.
 
 Its pair of sickle-like, jagged forelegs were even longer than its body. Dark green in color, the forelegs were covered in a metal sheen, and were nothing like its fragile body. The rigidity of the forelegs was definitely comparable to the most advanced alpha alloy.

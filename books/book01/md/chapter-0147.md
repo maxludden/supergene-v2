@@ -1,9 +1,11 @@
+---
 Title:Treading Upon Sharp Knives 
 Chapter:147 
 Section:1 
 Book:1 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Treading Upon Sharp Knives
 ### Chapter 147
@@ -16,7 +18,7 @@ viewport: width=device-width
   
 Han Sen drew the string of the horn bow to the fullest and aimed his black stinger arrow at the giant phantom ant. He paused for a second before shooting the arrow.
 
-Clank!
+*Clank!*
 
 The black stinger arrow hit the ant in the head and fell, leaving nothing on its shell.
 
@@ -26,7 +28,7 @@ In the blink of an eye, the giant phantom ant had come out of the crevice and ru
 
 Han Sen took back the black stinger arrow, drew the string one more time and shot the arrow at the giant phantom ant.
 
-Clank!
+*Clank!*
 
 The arrow once again ended up hitting its head and did nothing, while the ant had rushed forward more than six hundred feet in that moment.
 
@@ -50,7 +52,7 @@ Almost instantaneously, that giant phantom ant was less than nine feet from him.
 
 Lin Beifeng’s heart raced. He saw Han Sen suddenly took a step, which was incredibly fast. Han moved forward instead of backward and stayed very close to the giant phantom ant. He finally shot the arrow.
 
-Snap!
+*Snap!*
 
 The distance between them was so short and Han Sen’s arrow directly went into the giant phantom ant’s mouth. The entire arrow disappeared there and the giant phantom ant made a painful hissing sound.
 
@@ -78,13 +80,13 @@ While dodging the attacks from the giant phantom ant, Han Sen was seeking opport
 
 The ant’s shell was too hard and it did not even matter when the arrow hit the gap. He could only shoot the arrow directly inside its body.
 
-Snap!
+*Snap!*
 
 Another arrow disappeared in its mouth, making the giant phantom ant roll around on the ground in pain. Han Sen took the chance to pull away from it.
 
 When the giant phantom ant again threw itself at him, he had already pulled the string again.
 
-Snap!
+*Snap!*
 
 Between his steps, Han Sen shot another arrow into the ant’s mouth.
 

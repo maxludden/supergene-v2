@@ -1,9 +1,11 @@
+---
 Title:New Guessing 
 Chapter:2899 
 Section:15 
 Book:9 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## New Guessing
 ### Chapter 2899
@@ -22,7 +24,7 @@ Han Sen thought, “Bai Wanjie’s talent is not as great as Bai Wuchang’s, bu
 
 After fighting for an hour, Bai Wanjie was finally able to slay the yellow undead. It was different from the red undead. The yellow undead melted and disappeared. Suddenly, there was an electric voice that came from the Yellow Temple. Without emotion, it said, “Killed medium-class undead.”
 
-Boom!
+*Boom!*
 
 A bridge appeared from the sea. It was leading to a third island.
 

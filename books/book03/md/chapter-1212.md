@@ -1,9 +1,11 @@
+---
 Title:Ghost-toxic Chi Egg 
 Chapter:1212 
 Section:3 
 Book:3 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Ghost-toxic Chi Egg
 ### Chapter 1212

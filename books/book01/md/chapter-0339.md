@@ -1,9 +1,11 @@
+---
 Title:Aqua Reaper Beast Soul 
 Chapter:339 
 Section:1 
 Book:1 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Aqua Reaper Beast Soul
 ### Chapter 339
@@ -16,7 +18,7 @@ viewport: width=device-width
   
 "Right now!" A cold light flashed in Han Sen's golden eyes. The spinning spear left the bow with a strong force, flying toward the screeching creature.
 
-Whoosh!
+*Whoosh!*
 
 The spear reached the back of the creature's head in the blink of an eye.
 
@@ -28,7 +30,7 @@ However, the spinning force did not end. Like a drill head, the spear continued 
 
 Go deeper! Han Sen roared inwardly. This is the only chance he got.
 
-Crack!
+*Crack!*
 
 It seemed that heaven was listening to Han Sen. The cracks in the creature's skull was broken further by the spinning spear.
 
@@ -56,7 +58,7 @@ Han Sen was overjoyed. If the turtle did not leave, he did not even dare to go d
 
 Before Han Sen went down, he saw that the body of the aqua reaper gradually dissolved and disappeared in the thin air.
 
-Thump!
+*Thump!*
 
 A football sized purple crystal fell into the lake along with the spinning spear.
 

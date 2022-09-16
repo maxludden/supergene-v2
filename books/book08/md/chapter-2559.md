@@ -1,9 +1,11 @@
+---
 Title:Blessing Barr 
 Chapter:2559 
 Section:12 
 Book:8 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Blessing Barr
 ### Chapter 2559
@@ -84,7 +86,7 @@ The left face looked very murderous. It was like the face of a demon from hell. 
 
 Only the face in the middle had no defining features.
 
-Boom!
+*Boom!*
 
 As this happened, drastic changes rippled through Barr’s body. His muscles were like gas-filled balloons. They swelled to become ludicrously large, like he was some living caricature of strength. And in all honesty, that wasn’t far from the truth.
 

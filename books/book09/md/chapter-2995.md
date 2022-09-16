@@ -1,9 +1,11 @@
+---
 Title:United to Fight the God Temple 
 Chapter:2995 
 Section:15 
 Book:9 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## United to Fight the God Temple
 ### Chapter 2995

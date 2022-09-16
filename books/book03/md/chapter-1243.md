@@ -1,9 +1,11 @@
+---
 Title:Good Man’s Standard 
 Chapter:1243 
 Section:3 
 Book:3 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Good Man’s Standard
 ### Chapter 1243

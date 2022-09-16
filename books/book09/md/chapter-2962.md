@@ -1,9 +1,11 @@
+---
 Title:Destiny 
 Chapter:2962 
 Section:15 
 Book:9 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Destiny
 ### Chapter 2962
@@ -56,7 +58,7 @@ The roaring sound carried across space. Han Sen was turning into a light shadow 
 
 The demon lady, Red Ghost, and eyeless beast were like wooden chickens. They were all staring at the light of the Holy Kirin completely unable to speak.
 
-Boom!
+*Boom!*
 
 The Holy Kirin’s holy spirit turned into a white flame. It was headed toward Han Sen’s cause karma knife. The holy light made the cause karma knife light burn. The knife flames burned stronger and stronger like a burning, bright sun.
 

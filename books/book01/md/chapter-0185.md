@@ -1,9 +1,11 @@
+---
 Title:Sacred-blood Black-feathered Beast 
 Chapter:185 
 Section:1 
 Book:1 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Sacred-blood Black-feathered Beast
 ### Chapter 185
@@ -72,7 +74,7 @@ But they did not have much energy to think about him, as they could barely deal 
 
 Blood soon colored the rocks and sand on the ground red. The bodies of the black-feathered beasts almost buried Han Sen and the girls, limiting their space of movements.
 
-Bang!
+*Bang!*
 
 Suddenly a bloody body fell from above in front of the three. It was a headless body, and looked like it belonged to Wang Dongling.
 

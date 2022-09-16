@@ -1,9 +1,11 @@
+---
 Title:Holy Swordmind 
 Chapter:1566 
 Section:4 
 Book:4 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Holy Swordmind
 ### Chapter 1566

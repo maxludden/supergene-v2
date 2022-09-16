@@ -1,9 +1,11 @@
+---
 Title:Crazy 
 Chapter:1018 
 Section:3 
 Book:3 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Crazy
 ### Chapter 1018
@@ -58,7 +60,7 @@ The snake was ten meters long, and all Han Sen had was a fiery fist. The scene c
 
 But when the two fiery figures collided, Liu Yuxuan was the one given the most shock.
 
-Boom!
+*Boom!*
 
 Han Sen hit the flaming snake, and ignited the body with a searing flame of a far crueler power.
 

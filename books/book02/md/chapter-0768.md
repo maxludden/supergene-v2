@@ -1,9 +1,11 @@
+---
 Title:Mysterious Metal Door 
 Chapter:768 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Mysterious Metal Door
 ### Chapter 768
@@ -42,7 +44,7 @@ A cleansing energy coursed through his body, as if it was washing him clean. The
 
 The holy rhino called to the sky again and the holy light inside it was like a volcanic eruption. A holy light shot upwards into the sky like a heavensward beam.
 
-Boom!
+*Boom!*
 
 The holy light reached the zenith of the world, and in that place, a mysterious metal door appeared. Strange symbols and transcriptions appeared upon the door, and gears and cogwheels adorned it. Slowly, the door opened.
 
@@ -80,7 +82,7 @@ The shadow of a person drew closer and closer, and it really did seem to be the 
 
 Many creatures, like the black-phoenix, green kirin, and fairy were all on the ground. They trembled, not daring to steal a single look.
 
-Boom!
+*Boom!*
 
 The shadow departed the emptiness, with one foot outside the door. Han Sen forced himself to take a closer look at the door, and he saw a leg plated in black metal. It looked frighteningly powerful, and it gave the feeling that the leg would crack the world asunder if it ever touched the ground.
 

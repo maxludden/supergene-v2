@@ -1,9 +1,11 @@
+---
 Title:Killing Continuously 
 Chapter:850 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Killing Continuously
 ### Chapter 850

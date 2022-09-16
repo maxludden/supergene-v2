@@ -1,9 +1,11 @@
+---
 Title:Begging for Kingese 
 Chapter:2339 
 Section:11 
 Book:7 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Begging for Kingese
 ### Chapter 2339

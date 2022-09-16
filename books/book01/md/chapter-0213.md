@@ -1,9 +1,11 @@
+---
 Title:Holy Angel 
 Chapter:213 
 Section:1 
 Book:1 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Holy Angel
 ### Chapter 213
@@ -40,7 +42,7 @@ The fairy queen was summoned. Han Sen’s body was covered in red armor and the 
 
 Han Sen was confident in his ability to hide his intentions, but when he aimed at the creature, she suddenly opened her eyes full of golden lightning bolts.
 
-Whoosh!
+*Whoosh!*
 
 The diamond sword was drawn from the rock, and cut at Han Sen.
 
@@ -64,7 +66,7 @@ However, even at such a short distance, the sacred-blood creature was still able
 
 The moment before the sword touched the boomerang, the boomerang suddenly made an incredible dive and then cut the creature’s throat from below.
 
-Boom!
+*Boom!*
 
 The horrifying blue fire exploded and covered the entire body of the sacred-blood creature. It's almost looked like she was going through a nirvana.
 

@@ -1,9 +1,11 @@
+---
 Title:Sneak Attack Skills 
 Chapter:24 
 Section:1 
 Book:1 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Sneak Attack Skills
 ### Chapter 24
@@ -18,7 +20,7 @@ Qin Xuan had made up her mind to kick Han Sen’s ass. The first time, when Han 
 
 Having identified Han Sen as a freak and bastard, Qin Xuan walked up to him with anger in her eyes and said, "You start."
 
-Bang!
+*Bang!*
 
 Han Sen punched her in the face. Clutching her nose and stepping back, Qin Xuan stared at him, not believing what had happened.
 

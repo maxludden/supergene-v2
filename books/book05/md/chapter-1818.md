@@ -1,9 +1,11 @@
+---
 Title:The Geno Art That Has a Problem 
 Chapter:1818 
 Section:6 
 Book:5 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## The Geno Art That Has a Problem
 ### Chapter 1818

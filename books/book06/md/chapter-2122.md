@@ -1,9 +1,11 @@
+---
 Title:Sacred’s Power 
 Chapter:2122 
 Section:8 
 Book:6 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Sacred’s Power
 ### Chapter 2122
@@ -52,7 +54,7 @@ Han Littleflower, hearing the white tiger’s plea, halted his fist in midair. H
 
 The dimension around the white tiger untwisted. The flow of time returned to normal for the white tiger, and the physics of Littleflower’s last blow took over, carrying the tiger back with the speed of an arrow.
 
-Boom!
+*Boom!*
 
 The tiger’s body punched a hole into a big mountain behind it. The white tiger came crawling out of the pit. It had the audacity to look at Littleflower and growl at him. “Do not even think about being so cocky! I’m only ten years old. When I grow up, I’ll bang your mom so hard, she won’t even recognize you.”
 

@@ -1,9 +1,11 @@
+---
 Title:God Spirit Descends 
 Chapter:2984 
 Section:15 
 Book:9 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## God Spirit Descends
 ### Chapter 2984
@@ -62,7 +64,7 @@ Bai King was attacked too. His body was shining with light. There was a shield o
 
 The God Spirit hammered down. This time, the hammer’s strike was greater than the last one. Han Sen was in too much shock. He was forced to gather up power and ready himself for another battle.
 
-Boom!
+*Boom!*
 
 Bai King’s body appeared in front of Han Sen. That weird light was following Bai King’s movement. It created a defensive bulwark and blocked the God Spirit’s heavy hammer attack.
 
@@ -86,7 +88,7 @@ The shaking of space was very scary. Now that the hammer was coming, it was so s
 
 Bai King stared at that scary god hammer. He did not fall back. His body was like a demon god’s shadow that was silently roaring in the sky. He was holding the shield while running toward the god hammer.
 
-Boom!
+*Boom!*
 
 A scary shockwave suddenly destroyed the space around. Han Sen used all of his power to fight the shockwave, but his Dongxuan Armor was starting to reveal cracks.
 

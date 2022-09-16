@@ -1,9 +1,11 @@
+---
 Title:Entering Red Mist Valley Again 
 Chapter:1915 
 Section:7 
 Book:5 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Entering Red Mist Valley Again
 ### Chapter 1915

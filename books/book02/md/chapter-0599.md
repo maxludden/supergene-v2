@@ -1,9 +1,11 @@
+---
 Title:Strange Sensing Ability 
 Chapter:599 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Strange Sensing Ability
 ### Chapter 599

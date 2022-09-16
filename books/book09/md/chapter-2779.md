@@ -1,9 +1,11 @@
+---
 Title:Buried 
 Chapter:2779 
 Section:14 
 Book:9 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Buried
 ### Chapter 2779

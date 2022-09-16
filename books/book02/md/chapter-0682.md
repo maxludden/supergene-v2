@@ -1,9 +1,11 @@
+---
 Title:Refining a Life Geno Essence 
 Chapter:682 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Refining a Life Geno Essence
 ### Chapter 682

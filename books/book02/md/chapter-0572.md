@@ -1,9 +1,11 @@
+---
 Title:It's Just a Cat 
 Chapter:572 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## It's Just a Cat
 ### Chapter 572
@@ -46,7 +48,11 @@ Qi Xiuwen quietly said, "Things aren't what they may seem to you. Han Sen really
 
 "If you want to beat someone, it's easier when you get close to them," Qi Xiuwen calmly said.
 
-…
+<br>
+
+*****
+
+<br>
 
 Yang Manli was very confused. She expected a great deal of things to change when Qi Xiuwen arrived at the Blackgod Shelter but was surprised to find everything mostly the same. Everyone continued to listen to Han Sen's orders and everything was business as usual.
 

@@ -1,9 +1,11 @@
+---
 Title:Diary 
 Chapter:1549 
 Section:4 
 Book:4 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Diary
 ### Chapter 1549
@@ -24,7 +26,11 @@ Although it was a diary, the entries weren’t dated. And furthermore, each page
 
 “He died. What a dumb*ss.”
 
-…
+<br>
+
+*****
+
+<br>
 
 The diary was full to the brim of complaints, but Han Sen wasn’t sure what the numbers meant.
 
@@ -58,7 +64,11 @@ Han Sen then gathered all the complaints and entries he could find that made men
 
 “Damn! Number 4 did it. That was some dogshit luck.”
 
-…
+<br>
+
+*****
+
+<br>
 
 After Han Sen read them all, he noticed that the author really had paid attention to Number 4.
 
@@ -100,7 +110,7 @@ The items, bottles, and the diary were all placed inside the Cruel Bottle by Han
 
 When Han Sen exited the room, however, he was given a shock. Six Paths was standing right outside like a blood man. Han Sen almost didn’t recognize him.
 
-Crash!
+*Crash!*
 
 When Six Paths saw Han Sen, his body collapsed. He spilled blood as he tumbled backwards.
 

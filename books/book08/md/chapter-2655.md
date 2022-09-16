@@ -1,9 +1,11 @@
+---
 Title:Deified Star Beetle 
 Chapter:2655 
 Section:13 
 Book:8 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Deified Star Beetle
 ### Chapter 2655

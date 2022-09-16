@@ -1,9 +1,11 @@
+---
 Title:Dragon Race Weapon 
 Chapter:2858 
 Section:14 
 Book:9 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Dragon Race Weapon
 ### Chapter 2858
@@ -64,7 +66,7 @@ God laughed and said, “God is immortal. A billion years to God is just a secon
 
 Han Sen stopped talking. Since he was not immortal, these kinds of discussions with God hurt his feelings.
 
-Boom!
+*Boom!*
 
 One of the nine-headed, gold, heads spat out a flame that scorched the sky. It covered most of space.
 

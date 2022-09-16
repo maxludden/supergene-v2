@@ -1,9 +1,11 @@
+---
 Title:Killing a God Spirit 
 Chapter:2983 
 Section:15 
 Book:9 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Killing a God Spirit
 ### Chapter 2983

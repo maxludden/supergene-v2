@@ -1,9 +1,11 @@
+---
 Title:Showing Off 
 Chapter:220 
 Section:1 
 Book:1 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Showing Off
 ### Chapter 220
@@ -28,7 +30,7 @@ Whichever light spot Lu Botao wanted to hit, his opponent would always beat him 
 
 Soon Lu Botao discovered how difficult it was to gain a point.
 
-Bang!
+*Bang!*
 
 The last light spot was crushed and Lu Botao was dumbstruck. 100 to 0. The score on the screen made Lu Botao collapse.
 
@@ -48,7 +50,7 @@ That hand was everywhere. And Lu Botao felt there were a pair of devil's eyes wa
 
 "No, this is not possible..." Lu Botao felt that the hand was growing in size, taking up all the space around him, and he was becoming smaller and smaller, reduced to a toy.
 
-Bang!
+*Bang!*
 
 The game had not even ended, but Lu Botao had already collapsed on his chair, all his confidence and courage gone.
 

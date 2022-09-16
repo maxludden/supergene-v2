@@ -1,9 +1,11 @@
+---
 Title:Real Blood Promotion 
 Chapter:1644 
 Section:4 
 Book:4 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Real Blood Promotion
 ### Chapter 1644
@@ -24,7 +26,7 @@ The Armored Man stared at Destiny Tower, and the flame of the body erupted like 
 
 “That kind of power can kill with a single strike. If Dollar insists on fighting, then there will be no chance to concede.”
 
-Boom!
+*Boom!*
 
 The Armored Man slammed into Han Sen, and the flames were as bright as the sun. The entire battlefield was covered by intense ice, and the spectators could not see anything at all.
 

@@ -1,9 +1,11 @@
+---
 Title:The Third Form 
 Chapter:1923 
 Section:7 
 Book:5 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## The Third Form
 ### Chapter 1923
@@ -42,7 +44,11 @@ Moon Wheel King and the others wanted Han Sen to join simply because Han Sen’s
 
 Yisha was no longer interested in this arrangement, though. And it wasn’t as if they could force Han Sen to take part in Moon Garden.
 
-…
+<br>
+
+*****
+
+<br>
 
 Han Sen was in his room, playing with the Jade Turtle Spell. Normally, it was a one-time use item. It wouldn’t come off after being used. Instead, its power would be exhausted after a day and the entire thing would shatter.
 

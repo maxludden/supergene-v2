@@ -1,9 +1,11 @@
+---
 Title:Long Live the Emperor 
 Chapter:265 
 Section:1 
 Book:1 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Long Live the Emperor
 ### Chapter 265
@@ -54,7 +56,11 @@ We take pride in you
 
 Because you are our almighty emperor
 
-…
+<br>
+
+*****
+
+<br>
 
 Wen Xiuxiu read aloud the prose she wrote to celebrate Han Sen's victory.
 

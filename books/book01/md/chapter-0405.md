@@ -1,9 +1,11 @@
+---
 Title:The Power of Angel 
 Chapter:405 
 Section:1 
 Book:1 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## The Power of Angel
 ### Chapter 405
@@ -30,7 +32,7 @@ At Han Sen's command, the holy angel quickly transformed. Her armor, hair, and e
 
 Holy angel suddenly moved. She flapped her wings hard, and the hundreds of vines suddenly looked slow in comparison as the gorgeous figure flashed across.
 
-Boom!
+*Boom!*
 
 As the holy angel brushed by the vines, they broke one by one. The giant flower quickly shrank and made spooky noises. The remaining vines started to shake and came at her again like the chains of death.
 
@@ -48,7 +50,8 @@ In addition to being a super pet, such a pretty humanoid pet was extremely valua
 
 As Han Sen was regretting, he suddenly saw the flower split from the middle. The gorgeous figure came out of the flower as regal as a queen. Her body was not even colored by the gushing blood.
 
-> "Super Creature Purgatory Flower Killed. No Beast Soul Gained. Life Essence Available."
+> "Super Purgatory Flower killed. No beast soul gained. Life essence available. Consume it life essence to gain zero to ten super geno points randomly."
+<!--"Super Creature Purgatory Flower Killed. No Beast Soul Gained. Life Essence Available."-->
 
 Surprisingly, the voice sounded in Han Sen's mind, making him feel emotional.
 
@@ -66,7 +69,8 @@ Han Sen took the crystal up and started to lick. The cool liquid turned into a c
 
 Han Sen felt like his whole body was cleansed.
 
-> "Life Essence Of Purgatory Flower Consumed. One Super Geno Point Gained."
+> "Life essence of Purgatory Flower consumed. One super geno point gained."
+<!--"Life Essence Of Purgatory Flower Consumed. One Super Geno Point Gained."-->
 
 Shortly, Han Sen heard the exciting voice, which drove him to lick the life essence harder.
 

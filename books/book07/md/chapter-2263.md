@@ -1,9 +1,11 @@
+---
 Title:Thunder God Spike 
 Chapter:2263 
 Section:10 
 Book:7 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Thunder God Spike
 ### Chapter 2263

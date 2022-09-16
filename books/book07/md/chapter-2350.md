@@ -1,9 +1,11 @@
+---
 Title:Water God Level Up 
 Chapter:2350 
 Section:11 
 Book:7 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Water God Level Up
 ### Chapter 2350
@@ -102,7 +104,7 @@ The endless sea dried up quickly, leaving the creatures in the ocean gasping on 
 
 The water of the universe was now all moving, headed for Ancient Water God’s body, strengthening him. The terrifying sight made many King class beings want to kowtow before him.
 
-Boom!
+*Boom!*
 
 The fabric of space was torn, and an old and mysterious palace was revealed. When it emerged, the water of the galaxy came to a stop. Every drop of water that was going to Ancient Water God hovered in place.
 

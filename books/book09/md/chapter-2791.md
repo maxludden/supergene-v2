@@ -1,9 +1,11 @@
+---
 Title:Red-robed Child 
 Chapter:2791 
 Section:14 
 Book:9 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Red-robed Child
 ### Chapter 2791
@@ -32,7 +34,7 @@ In the next moment, something weird happened. Han Sen felt some power come down 
 
 It was fine to swap space, but the scary power was surrounding Han Sen. The power was already able to land on his body. It disabled him from being able to use Dongxuan Area in time.
 
-Boom!
+*Boom!*
 
 A countless number of scary powers struck Han Sen, creating a terrible explosion. Half of the entire flower city was reduced to rubble and ruin. The colorful explosion was like a colorful sun rising.
 

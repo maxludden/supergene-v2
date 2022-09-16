@@ -1,9 +1,11 @@
+---
 Title:Giant Snail 
 Chapter:377 
 Section:1 
 Book:1 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Giant Snail
 ### Chapter 377

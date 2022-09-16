@@ -1,9 +1,11 @@
+---
 Title:Baron Gene 
 Chapter:1720 
 Section:6 
 Book:5 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Baron Gene
 ### Chapter 1720

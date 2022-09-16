@@ -1,9 +1,11 @@
+---
 Title:Steel-knight King 
 Chapter:818 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Steel-knight King
 ### Chapter 818
@@ -28,7 +30,7 @@ But in the next second, that anger was calmed by the sight of the fruit. When he
 
 Before Han Sen flew up to the vine to retrieve the fruit, the Empty Vine began to wither. It was dying before his eyes, and as it did, its leaves turned yellow.
 
-Boom!
+*Boom!*
 
 The Empty Island began to quake, and it soon started to fall apart.
 

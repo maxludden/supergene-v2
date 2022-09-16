@@ -1,9 +1,11 @@
+---
 Title:Holy-sword Emperor 
 Chapter:1024 
 Section:3 
 Book:3 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Holy-sword Emperor
 ### Chapter 1024

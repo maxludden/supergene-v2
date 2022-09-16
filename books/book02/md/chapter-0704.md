@@ -1,9 +1,11 @@
+---
 Title:One-punch Victory 
 Chapter:704 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## One-punch Victory
 ### Chapter 704
@@ -34,7 +36,7 @@ When Hua Ping witnessed this move, he shook his head and said, "Your friend is a
 
 Before Hua Ping could finish his sentence, Dollar's fist collided with the hammer.
 
-Boom!
+*Boom!*
 
 The hit was deafening, and the fist shattered the hammer into pieces.
 
@@ -52,7 +54,7 @@ His flesh was like that of a tiger, and his fist buzzed loudly as it flashed tow
 
 Black-Gold shouted and crossed his arms in an attempt to block the incoming attack.
 
-Boom!
+*Boom!*
 
 His armor, arms, and skull were crushed under the weight of Han Sen's Elephant-Disc Punch. Blood soaked the arena, and the disfigured and dismembered body of Black-Gold was launched out of the battleground. The bloody mess crash landed fifteen meters away.
 

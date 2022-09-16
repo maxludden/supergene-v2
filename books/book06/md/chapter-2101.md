@@ -1,9 +1,11 @@
+---
 Title:Original Gene Kill Spell 
 Chapter:2101 
 Section:8 
 Book:6 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Original Gene Kill Spell
 ### Chapter 2101
@@ -44,7 +46,7 @@ Han Sen stopped looking. The King class creature’s green eyes shone like green
 
 Han Sen hid within his Demon Bug Bai Sema as the monster’s eyes became brighter. The increasing glow was difficult to look away from, though.
 
-Boom!
+*Boom!*
 
 Han Sen felt as if his brain had exploded in his head. Within those lantern-like eyes, Han Sen thought he saw a strange symbol. It didn’t look real.
 

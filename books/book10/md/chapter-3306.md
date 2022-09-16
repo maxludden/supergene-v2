@@ -1,9 +1,11 @@
+---
 Title:God Descending 
 Chapter:3306 
 Section:17 
 Book:10 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## God Descending
 ### Chapter 3306
@@ -38,7 +40,7 @@ The success rate of life souls and xenogeneics combining was still fairly low. O
 
 Ji Yanran was fighting an earl-class xenogeneic. She wanted to practice her power when she suddenly saw a mountain come crumbling down like a breaking wave from the sea. A big red snake, which was 3– feet long, suddenly emerged. Its eyes burned with a red flame. It looked at Ling’er, who was behind Ji Yanran.
 
-Boom!
+*Boom!*
 
 A blood flame fired out. It turned into a sky full of fire sea heading for Ji Yanran and Ling’er.
 

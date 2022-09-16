@@ -1,9 +1,11 @@
+---
 Title:Fang Mingquan’s Discovery 
 Chapter:151 
 Section:1 
 Book:1 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Fang Mingquan’s Discovery
 ### Chapter 151

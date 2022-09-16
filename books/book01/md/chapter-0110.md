@@ -1,9 +1,11 @@
+---
 Title:Escape 
 Chapter:110 
 Section:1 
 Book:1 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Escape
 ### Chapter 110
@@ -52,7 +54,7 @@ Five hundred feet... Three hundred feet... One hundred feet... Ten feet...
 
 As Han Sen thought his body was about to explode, he had finally made it to the river. With acute pain, he threw himself into the water.
 
-Thump!
+*Thump!*
 
 Han Sen heard a loud noise behind him, and then felt a burst of pain on his back that almost made him black out.
 

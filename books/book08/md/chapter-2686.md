@@ -1,9 +1,11 @@
+---
 Title:Under the Sky Knife 
 Chapter:2686 
 Section:13 
 Book:8 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Under the Sky Knife
 ### Chapter 2686
@@ -72,7 +74,11 @@ As the fight went on, more and more of the Very High noticed that Han Sen’s gr
 
 “I really hope Han Sen wins. And then, I want to see the faces of those two *ssholes. How dare they try to trick us.”
 
-…
+<br>
+
+*****
+
+<br>
 
 Li Xue Cheng and Liyu Zhen’s faces already looked fairly amazing. Their eyes had almost popped out of their sockets as they watched the battle video.
 

@@ -1,9 +1,11 @@
+---
 Title:Rabbit Hole 
 Chapter:973 
 Section:3 
 Book:3 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Rabbit Hole
 ### Chapter 973
@@ -64,7 +66,7 @@ It seemed as if the rabbit king was going to be eaten with relative ease. But it
 
 The dragon turned around and continued chasing the rabbit, but the aqua dragon had black chains around its arms. The chains quickly jerked the dragon to a stop, and allowed the rabbit king to get to safety.
 
-Boom!
+*Boom!*
 
 The aqua dragon’s body fell, creating ten-meter high waves.
 

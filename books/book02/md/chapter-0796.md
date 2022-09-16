@@ -1,9 +1,11 @@
+---
 Title:Killing the Smaller Monster 
 Chapter:796 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Killing the Smaller Monster
 ### Chapter 796
@@ -72,7 +74,7 @@ Its upper-body had already been severely injured, and now, it's lower-body was b
 
 Han Sen was not content to stop there, and he was determined to push harder and end the monster's life as soon as he possibly could. But the big monster was approaching quickly, like a mountain bearing down on him. Han Sen knew he couldn't remain where he was much longer, so he pulled his rex spike out and retreated.
 
-Boom!
+*Boom!*
 
 The giant monster brought another foot down and crushed trees and fallen logs into kindling. The diameter of each footprint left behind was ten meters. Han Sen dodged the foot, but it only by a small margin.
 

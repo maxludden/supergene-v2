@@ -1,9 +1,11 @@
+---
 Title:Who Is He 
 Chapter:308 
 Section:1 
 Book:1 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Who Is He
 ### Chapter 308
@@ -42,7 +44,7 @@ Now thinking back, it was not at all a coincidence. Han Sen was copying him on p
 
 In the Colosseum, Han Sen was gaining momentum. Shattered psychologically, Xu Zhu found harder and harder to cope with Han Sen's attacks.
 
-Crack!
+*Crack!*
 
 When Xu Zhu clawed Han Sen's chest, Han Sen dislocated Xu Zhu's wrist with a shrug. Then he quickly threw himself at Xu Zhu.
 

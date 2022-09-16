@@ -1,9 +1,11 @@
+---
 Title:Signing a Contract 
 Chapter:650 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Signing a Contract
 ### Chapter 650

@@ -1,9 +1,11 @@
+---
 Title:Fighting Fire With Fire 
 Chapter:1348 
 Section:4 
 Book:4 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Fighting Fire With Fire
 ### Chapter 1348

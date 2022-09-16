@@ -1,9 +1,11 @@
+---
 Title:Absorbing Ice Power 
 Chapter:575 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Absorbing Ice Power
 ### Chapter 575
@@ -48,7 +50,7 @@ When the fists connected, however, he felt an overwhelming stock of ice power ab
 
 "Oh, crap! The ice power was too much for myJadeskin to consume immediately." Han Sen was terrified, and his mind raced with a thousand thoughts of how he might escape this dire predicament.
 
-Boom!
+*Boom!*
 
 The silver fox on Han Sen's shoulder finally moved. Like a silver thunderbolt, it leaped towards his master's enemy and tore into Xue Yi Kuang's fist with its talon. With a flash of lightning, the ice that surrounded his fist was shattered, and his entire body was sent flying away. Electricity consumed Xue Yi Kuang, and when he hit the ground, his body was adorned with wretched scorch marks. His hand that suffered the dig of the talons had been blown to gory bits and pieces, revealing the bone of his arm.
 
@@ -78,7 +80,7 @@ It looked as if he couldn't breathe, and whatever gasps he could manage were goi
 
 The silver fox turned into a silver shadow one last time and bolted over to Xue Yi Kuang again.
 
-"Aaaargh—" Boom!
+"Aaaargh—" *Boom!*
 
 Xue Yi Kuang could not even finish his scream before a mighty flash froze him like a black, charcoal statue. As a stiff wind blew, what was once the body of Xue Yi Kuang succumbed to a gust and drifted away as nothing more than dust and echoes.
 

@@ -1,9 +1,11 @@
+---
 Title:God of Wealth Blood-pulse 
 Chapter:3162 
 Section:16 
 Book:10 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## God of Wealth Blood-pulse
 ### Chapter 3162
@@ -89,7 +91,7 @@ Regardless of how poor Feng Yin Yin’s review might have been, Han Sen would ha
 
 “I am willing,” Feng Yin Yin seriously answered.
 
-Boom!
+*Boom!*
 
 Sky God Crown’s gold god light was like a spring of water. It gushed down onto the coin mark on her mark forehead. A weird connection formed between them.
 

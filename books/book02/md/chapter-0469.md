@@ -1,9 +1,11 @@
+---
 Title:Image on the Crystal Card 
 Chapter:469 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Image on the Crystal Card
 ### Chapter 469

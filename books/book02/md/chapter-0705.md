@@ -1,9 +1,11 @@
+---
 Title:The Light Son of God 
 Chapter:705 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## The Light Son of God
 ### Chapter 705
@@ -80,7 +82,11 @@ This broadcast was almost like radio. There were no pictures of the event and it
 
 "With the luck you guys are talking about, I could be a Son of God. I could join and be lucky enough not to face-off against any strong foe and then POW! I'll be a Son of God."
 
-…
+<br>
+
+*****
+
+<br>
 
 Dollar's participation in Divinity's Bout was the catalyst for a great schism in the Alliance. A great debate had begun, and many people rooted for Dollar. They wanted him to become the first human Son of God in history.
 

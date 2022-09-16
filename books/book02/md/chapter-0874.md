@@ -1,9 +1,11 @@
+---
 Title:Thunder Mountain 
 Chapter:874 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Thunder Mountain
 ### Chapter 874
@@ -82,7 +84,7 @@ The area was stuffed with dark storm clouds, and thunder rolled unceasingly. It 
 
 The silver fox seemed very excited, and he jumped on top of Golden Growler's head. He looked off into the distance, peering at Thunder Mountain. His eyes surveyed the lands, as if it was looking for something in particular.
 
-Boom!
+*Boom!*
 
 A lightning bolt streaked across the skies like the forming of a spider web, illuminating the wet, darkened land.
 

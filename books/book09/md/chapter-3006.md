@@ -1,9 +1,11 @@
+---
 Title:Baby God Wok 
 Chapter:3006 
 Section:15 
 Book:9 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Baby God Wok
 ### Chapter 3006

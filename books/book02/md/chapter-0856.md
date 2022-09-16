@@ -1,9 +1,11 @@
+---
 Title:The Birth of Six Treasures 
 Chapter:856 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## The Birth of Six Treasures
 ### Chapter 856
@@ -98,7 +100,7 @@ But to Han Sen, personally, it still felt as if he had a bucket of icy water thr
 
 Han Sen turned around and started running. Moment Queen flapped her wings, and appearing behind him, grabbed his back.
 
-Boom!
+*Boom!*
 
 The silver fox was furious, and it spat out silver lightning. But the lightning was immediately cancelled by the purple aura that encompassed her body. It dealt no damage. She didn't even react to its touch.
 

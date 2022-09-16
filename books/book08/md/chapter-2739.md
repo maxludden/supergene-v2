@@ -1,9 +1,11 @@
+---
 Title:Weird Scene 
 Chapter:2739 
 Section:13 
 Book:8 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Weird Scene
 ### Chapter 2739

@@ -1,9 +1,11 @@
+---
 Title:World Print 
 Chapter:2463 
 Section:12 
 Book:8 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## World Print
 ### Chapter 2463
@@ -46,7 +48,7 @@ The woman was unshaken. She raised her lantern and put her hand inside it. When 
 
 The woman flicked it at the Extreme Purple Demon Dragon that hovered in the sky. That small flame shot upward, rising until it hit the dragon.
 
-Boom!
+*Boom!*
 
 Han Sen watched what looked like a nuclear bomb going off. The giant body of the Extreme Purple Demon Dragon was engulfed by a bright red sea of fire. The monster was transformed into a big, burning fireball. It squealed in pain, and its wings flapped madly as it tried to put out the fire that was ravaging it.
 
@@ -94,7 +96,7 @@ In Han Sen’s eyes, it was like the whole world was being flattened by that uns
 
 The small print and the big print collided. Weird symbols flashed across the smaller print. Han Sen couldn’t tell what the symbols meant, but the sight of them was disconcerting. It was like the universe’s destiny now resided in that little print.
 
-Boom!
+*Boom!*
 
 The small print hit the big print. Then, the scary big print shattered. It couldn’t repel the small print.
 

@@ -1,9 +1,11 @@
+---
 Title:God’s Ruin 
 Chapter:1527 
 Section:4 
 Book:4 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## God’s Ruin
 ### Chapter 1527

@@ -1,9 +1,11 @@
+---
 Title:Fighting the Turtle 
 Chapter:330 
 Section:1 
 Book:1 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Fighting the Turtle
 ### Chapter 330
@@ -64,7 +66,7 @@ Seeing how fast the turtle was, Jin Rijie, Lu Mingda and Jin Qiuli were dumbstru
 
 The sledgehammer was very heavy, but the turtle did not even dodge. Its speed became even faster and the sledgehammer ended up on its shell, instead of its head, where Lu Mingda was aiming.
 
-Bang!
+*Bang!*
 
 The hammer as large as a barrel knocked on the turtle shell and made a sound of metal.
 
@@ -84,7 +86,7 @@ Jin Rijie and Jin Qiuli picked up Lu Mingda and wanted to run, while the turtle 
 
 Jin Rijie did not have any time to dodge, but he was fast enough to block the turtle bite with his sacred-blood knife.
 
-Crack!
+*Crack!*
 
 The turtle bit the sacred-blood blade and broke it in half. A sacred-blood weapon was destroyed like that.
 
@@ -98,6 +100,6 @@ Jin Rijie had used all his energy and there was no way he could avoid this bite.
 
 Lu Mingda and Jin Qiuli did not even have any chance to save Jin Rijie, given how fast the turtle was.
 
-Bang!
+*Bang!*
 
 Something giant and black suddenly fell on the turtle's head and knocked its head down.

@@ -1,9 +1,11 @@
+---
 Title:Super Spirit 
 Chapter:800 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Super Spirit
 ### Chapter 800

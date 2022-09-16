@@ -1,9 +1,11 @@
+---
 Title:Geno Tree 
 Chapter:1714 
 Section:6 
 Book:5 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Geno Tree
 ### Chapter 1714

@@ -1,9 +1,11 @@
+---
 Title:Forever a Slave 
 Chapter:2979 
 Section:15 
 Book:9 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Forever a Slave
 ### Chapter 2979

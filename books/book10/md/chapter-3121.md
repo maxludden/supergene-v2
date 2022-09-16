@@ -1,9 +1,11 @@
+---
 Title:Moon God 
 Chapter:3121 
 Section:16 
 Book:10 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Moon God
 ### Chapter 3121
@@ -72,7 +74,7 @@ The woman’s body did not change. Her jade fingers were still pointing at Han S
 
 Han Sen looked very glum. The woman’s Cold Sutra expertise was frighteningly strong. It was stronger than Han Sen fathomed it could be. Even the ultimate gold wing peacock king could not fight against it.
 
-Boom!
+*Boom!*
 
 In the next second, Han Sen was forced to tear through the restrictions of space. A scary power exploded through him. At the same time, he cast his Jadeskin and pointed toward the woman’s finger.
 

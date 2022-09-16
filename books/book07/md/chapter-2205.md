@@ -1,9 +1,11 @@
+---
 Title:Ice Blue Knight King 
 Chapter:2205 
 Section:10 
 Book:7 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Ice Blue Knight King
 ### Chapter 2205

@@ -1,9 +1,11 @@
+---
 Title:Cup Demon Comes 
 Chapter:1311 
 Section:3 
 Book:3 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Cup Demon Comes
 ### Chapter 1311
@@ -72,13 +74,13 @@ Gold General’s body was bulky, and he looked heavy and cumbersome. But its app
 
 Xie Qing King was the silver light, and he roared as he threw a silver-wreathed punch at the golden fist that was also headed his way.
 
-Boom!
+*Boom!*
 
 The collision of their punches generated a most spectacular, balance-upsetting shockwave across the battlefield. Xie Qing King himself was sent backwards, barreling across the ground and through a building which then fell apart on top of him.
 
 “Yes.” Gold General then resumed its approach to the Holy Rhino.
 
-Boom!
+*Boom!*
 
 The rubble that composed a destroyed building was sent flying all around like artillery, as a bloodied Xie Qing King emerged from the ruins.
 
@@ -90,7 +92,7 @@ The silver light was so strong, it sent ripples through the fabric of the space 
 
 The Gold General did not feel threatened, though, and he turned to repeat his previous performance. He threw a punch to meet with the new one that was coming.
 
-Boom!
+*Boom!*
 
 The silver light was like a super volcano, spitting out a torrent of lava that could melt the hardiest of metals. And so, this silver leaped onto the Gold General in a bid to ravage its body.
 

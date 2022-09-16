@@ -1,9 +1,11 @@
+---
 Title:Core Xenogeneic 
 Chapter:2394 
 Section:11 
 Book:7 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Core Xenogeneic
 ### Chapter 2394

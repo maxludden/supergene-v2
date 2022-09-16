@@ -1,9 +1,11 @@
+---
 Title:Pet Battle 
 Chapter:834 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Pet Battle
 ### Chapter 834

@@ -1,9 +1,11 @@
+---
 Title:Punch Seal King 
 Chapter:2467 
 Section:12 
 Book:8 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Punch Seal King
 ### Chapter 2467

@@ -1,9 +1,11 @@
+---
 Title:Coming Back From Death 
 Chapter:367 
 Section:1 
 Book:1 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Coming Back From Death
 ### Chapter 367
@@ -70,7 +72,7 @@ Staring at the wolf coming at him, Han Sen stayed still like a stone. The moment
 
 In addition, before Han Sen attacked, he almost seemed indifferent. There was no way of telling his murderous intent. It was a great contrast between how fierce this move was and how cool he seemed.
 
-Thump!
+*Thump!*
 
 With the use of Heresy Mantra, Han Sen's heart ran like an engine, making horrendous sounds, which could even be heard outside of his body.
 
@@ -82,7 +84,7 @@ Different from his burning body, Han Sen's brain was extremely calm. He felt lik
 
 Han Sen was exercising both absolute control and extreme fierceness.
 
-Whoosh!
+*Whoosh!*
 
 The tip of the sword cut the black fur with friction. There were even sparkles.
 

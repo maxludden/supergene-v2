@@ -1,9 +1,11 @@
+---
 Title:Six Pictures 
 Chapter:2427 
 Section:11 
 Book:7 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Six Pictures
 ### Chapter 2427

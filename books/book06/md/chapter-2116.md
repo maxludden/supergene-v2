@@ -1,9 +1,11 @@
+---
 Title:Evil Eye 
 Chapter:2116 
 Section:8 
 Book:6 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Evil Eye
 ### Chapter 2116
@@ -62,7 +64,7 @@ Evil Eye threw the colorful orb of light at Rage Man. It looked like a basic, ca
 
 Rage Man roared. He used his five weapons to gather up another orb of light and fired this newly-created orb back at the light orb that was currently on its way to him.
 
-Boom!
+*Boom!*
 
 Rage Man had done his absolute best to gather up all his power and strike the other light orb with the new one. The two airborne orbs of light exploded as they collided.
 

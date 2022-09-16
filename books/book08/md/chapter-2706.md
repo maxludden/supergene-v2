@@ -1,9 +1,11 @@
+---
 Title:Life and Death Is a Matter of Fate 
 Chapter:2706 
 Section:13 
 Book:8 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Life and Death Is a Matter of Fate
 ### Chapter 2706

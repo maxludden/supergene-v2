@@ -1,9 +1,11 @@
+---
 Title:Underground River 
 Chapter:334 
 Section:1 
 Book:1 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Underground River
 ### Chapter 334
@@ -22,7 +24,7 @@ The sacred-blood copper demon reacted fast. It suddenly clasped it six blade-lik
 
 However, as its claws touched the arrow, the black stinger arrow suddenly started to spin like a drill head, bouncing off the creature's claws. The arrow had touched the copper demon's eye and penetrated its head immediately.
 
-Thump!
+*Thump!*
 
 The sacred-blood copper demon which looked so powerful suddenly fell from the sky and died.
 
@@ -90,7 +92,7 @@ Standing on the bank, the rest of the group watched Han Sen fly nervously. Darkn
 
 When Han Sen reached the middle of the river, he suddenly felt something was odd in the river. A chill went down his spine.
 
-Boom!
+*Boom!*
 
 With a huge splash in the water, a giant creature sprang out of the River with its mouth wide open, trying to swallow Han Sen as a whole.
 

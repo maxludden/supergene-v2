@@ -1,9 +1,11 @@
+---
 Title:Eating the Thunderfruit 
 Chapter:879 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Eating the Thunderfruit
 ### Chapter 879
@@ -88,7 +90,7 @@ The silver fox leapt out of Han Sen's arms but did not rush to eat the fruit. It
 
 After walking a few circles around it, the silver fox looked at Han Sen and then looked back at the fruit. It opened its mouth and swallowed it in one large mouthful.
 
-Boom!
+*Boom!*
 
 The golden lightning exploded inside the silver fox's tummy and burned his entire body, making him look like burnt wood.
 

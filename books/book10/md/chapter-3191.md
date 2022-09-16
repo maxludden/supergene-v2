@@ -1,9 +1,11 @@
+---
 Title:God Fight Reward 
 Chapter:3191 
 Section:16 
 Book:10 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## God Fight Reward
 ### Chapter 3191

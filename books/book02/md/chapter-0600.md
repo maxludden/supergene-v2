@@ -1,9 +1,11 @@
+---
 Title:Sight of Gods 
 Chapter:600 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Sight of Gods
 ### Chapter 600

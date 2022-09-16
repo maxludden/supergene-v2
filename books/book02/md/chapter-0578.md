@@ -1,9 +1,11 @@
+---
 Title:Mechanical Fist 
 Chapter:578 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Mechanical Fist
 ### Chapter 578
@@ -42,7 +44,11 @@ Han Sen was thinking of something to say, but all of a sudden, he shivered. Ji Y
 
 "Then don't take it out on me for being cruel to you." Ji Yanran's mouth opened, and she gently dug her teeth into Han Sen's neck, leaving teeth marks. Then, she brought her face upwards, sealing Han Sen's lips with her own.
 
-…
+<br>
+
+*****
+
+<br>
 
 Han Sen decided to visit the training room to work on his Dual skill while he was still feeling good. Then, he went on Skynet and entered the official battlegrounds.
 
@@ -64,7 +70,11 @@ Many people entered the lobby to watch. After seeing Han Sen's ID, they were all
 
 "Dollar is getting ready to battle. Quick!"
 
-…
+<br>
+
+*****
+
+<br>
 
 Word quickly spread, and the venue was packed to the brim with people. Han Sen had hoped to have a quiet duel, seeing as it had been so long. But after randomly matchmaking, a rabid audience had turned out in droves before the countdown had even finished.
 

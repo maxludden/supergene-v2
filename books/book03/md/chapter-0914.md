@@ -1,9 +1,11 @@
+---
 Title:One-hit Killing Thunderdevil 
 Chapter:914 
 Section:3 
 Book:3 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## One-hit Killing Thunderdevil
 ### Chapter 914
@@ -62,7 +64,7 @@ Han Sen, however, did not waver. He had no reaction to the outburst of power and
 
 Flame Giant and the other spirits, who watched Han Sen launch what they believed to be a farcically weak punch, thought Han Sen might have actually been afraid of Thunderdevil King.
 
-Boom!
+*Boom!*
 
 During the next second, in which Han Sen's fist landed on its target, everyone's shock amplified to an unfathomable degree.
 
@@ -78,7 +80,7 @@ If he was able to collect a hundred kingthunder genes, his thunder power would c
 
 Han Sen was pleased that he had obtained a self-spirit gene, and he immediately felt his super king spirit body become much stronger as a result.
 
-Boom!
+*Boom!*
 
 Amidst everyone's confusion and awe of the spectacle they had just witnessed, Thunderdevil King respawned with fury. He roared to the skies in absolute madness and attempted to re-challenge Han Sen.
 

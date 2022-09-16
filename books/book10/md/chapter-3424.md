@@ -1,9 +1,11 @@
+---
 Title:Demon Alpha's Secret 
 Chapter:3424 
 Section:17 
 Book:10 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Demon Alpha's Secret
 ### Chapter 3424

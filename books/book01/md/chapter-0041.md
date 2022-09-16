@@ -1,9 +1,11 @@
+---
 Title:Home Run 
 Chapter:41 
 Section:1 
 Book:1 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Home Run
 ### Chapter 41
@@ -46,7 +48,7 @@ When Zhao Boshan saw clearly the golden figure, he was amazed by how great the b
 
 "Shit! This guy wants to use beast souls to take the robot channel test. Well, even so he could hardly go all the way, unless..." While Zhao Boshan was still thinking, the majestic golden figure had rushed toward the robot channel.
 
-Boom!
+*Boom!*
 
 What happened next rendered Zhao Boshan speechless. The golden figure ignored all combat robots trying to block him and forcefully went through with his strong body. The combat robot, which was much heavier than the man, was knocked away immediately.
 

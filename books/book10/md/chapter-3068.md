@@ -1,9 +1,11 @@
+---
 Title:Omen 
 Chapter:3068 
 Section:16 
 Book:10 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Omen
 ### Chapter 3068

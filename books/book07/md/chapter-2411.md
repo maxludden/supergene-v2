@@ -1,9 +1,11 @@
+---
 Title:Invincible Defense 
 Chapter:2411 
 Section:11 
 Book:7 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Invincible Defense
 ### Chapter 2411
@@ -42,7 +44,7 @@ Those scary sword streams slammed into Han Sen’s body, but they couldn’t bre
 
 Against Han Sen’s armor, those scary swords that could kill half-deified beings were nothing more than raindrops.
 
-Boom!
+*Boom!*
 
 As they watched, the core furnace’s cogwheels and chains moved, opening the furnace so it could absorb universal energies. Then the entrance port of the furnace spat out a volcano of green fire. The new fire area spread, then settled over the Swords from the Furnace.
 
@@ -68,7 +70,7 @@ A flash flood of swords approached Han Sen, blanketing the space around him. Dra
 
 “Can Dollar survive this?” Dragon One and Dia Robber stared at Han Sen, hovering alone in his blue area.
 
-Boom!
+*Boom!*
 
 The waterfall of swords came crashing down on Han Sen. They buried Han Sen under a seething mountain of green jade. The raging stream of swords kept coming down, and it felt like so much mass was converging that a black hole was about to form, right there in space.
 
@@ -86,7 +88,7 @@ The blue light area had yet to be swallowed, and that meant Dollar was not yet d
 
 Surviving under such circumstances was nothing short of a miracle.
 
-Boom!
+*Boom!*
 
 The falling sword stream began to slow down, and Dragon One and Dia Robber could finally see Han Sen through the small gaps between the swords. Han Sen stood calmly in place. He was fearless, like some sort of god. He let those Swords from the Furnace collide with his armor, and he made no effort to block them. None of the swords could break through his defenses.
 

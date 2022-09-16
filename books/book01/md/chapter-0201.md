@@ -1,9 +1,11 @@
+---
 Title:Severe Consequences 
 Chapter:201 
 Section:1 
 Book:1 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Severe Consequences
 ### Chapter 201
@@ -34,7 +36,12 @@ Soon the first line-ups of both teams were shown and first up were St. Germain�
 
 "They’d be lucky to have one point."
 
-...
+<br>
+
+*****
+
+<br>
+
 
 As everyone was talking, the player list of Blackhawk was also shown. With a glance, people were attracted by the first ID name they saw—"Black Fist Emperor."
 
@@ -88,7 +95,12 @@ When the viewers were cynical about Han Sen and his ID, Blackhawk students who w
 
 "Garbage Blackhawk, you are all talk."
 
-...
+<br>
+
+*****
+
+<br>
+
 
 Blackhawk had only so many students, whose comments were drowned in the negative voices.
 

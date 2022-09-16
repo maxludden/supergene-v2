@@ -1,9 +1,11 @@
+---
 Title:Luo Haitang 
 Chapter:1558 
 Section:4 
 Book:4 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Luo Haitang
 ### Chapter 1558
@@ -44,7 +46,11 @@ Han Sen wasn’t very concerned about what Jia Shidao had said. Apparently, Jia 
 
 Jia Shidao shook his head and said, “We know that Han Sen is powerful, but we don’t know exactly how powerful. We all know the strength of the Luo’s, though. Besides, Han Sen hasn’t practiced the Falsified-Sky Sutra. We’re already depending on the Luo’s for our survival, so it’s better if we side with them.”
 
-…
+<br>
+
+*****
+
+<br>
 
 After Han Sen left Jia Shidao’s house, he intended to leave Godslayer Shelter. He had just been trying his luck; now that the deal had fallen through, he found no reason to stay here any longer.
 

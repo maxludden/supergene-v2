@@ -1,9 +1,11 @@
+---
 Title:The Creature That Bears Holy Light 
 Chapter:760 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## The Creature That Bears Holy Light
 ### Chapter 760
@@ -46,11 +48,11 @@ If a foot came down on the tent, they would be squished into jelly.
 
 The silver fox and Little Orange snuggled together in the corner of the tent, quiet as mice. They too were terrified of the white rhino that had drawn near.
 
-Boom!
+*Boom!*
 
 A foot came down like a piston on the sand directly behind Han Sen's tent, avoiding them. The luminous dandelions continued their spiralling as the campsite vibrated with the force.
 
-Boom! Boom!
+*Boom!* *Boom!*
 
 The rhino did not decelerate, and it continued in the direction it had been going. The four pillars crossed over the tent, missing the guy ropes by inches. The craters left behind by the creature's feet now decorated the campgrounds. Zhou Yumei's heart almost leapt out of her chest.
 

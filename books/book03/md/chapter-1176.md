@@ -1,9 +1,11 @@
+---
 Title:Hard Labor 
 Chapter:1176 
 Section:3 
 Book:3 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Hard Labor
 ### Chapter 1176

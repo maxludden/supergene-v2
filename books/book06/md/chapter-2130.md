@@ -1,9 +1,11 @@
+---
 Title:Dismantling Coin 
 Chapter:2130 
 Section:8 
 Book:6 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Dismantling Coin
 ### Chapter 2130
@@ -86,7 +88,7 @@ All the audience was in shock. To dismantle an enemy’s geno art and then go on
 
 While everyone was reeling from the shock of this, Han Sen reacted much like Evil Eye had. He made no move to block or deflect the coin. All he did was use his right hand to grab it.
 
-Boom!
+*Boom!*
 
 When Han Sen grabbed the coin, the sand in a radius of one-kilometer shook. That area sank half a meter.
 

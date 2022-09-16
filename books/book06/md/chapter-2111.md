@@ -1,9 +1,11 @@
+---
 Title:Violent Human 
 Chapter:2111 
 Section:8 
 Book:6 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Violent Human
 ### Chapter 2111
@@ -62,7 +64,7 @@ That scary punch was brought to a complete standstill. All of its power and desi
 
 In everyone’s shocked eyes, the gold-armored hand moved. Dragon Thirty-Nine was then picked up by it.
 
-Boom! Boom! Boom! Boom!
+*Boom!* *Boom!* *Boom!* *Boom!*
 
 The strong xenogeneic body of Dragon Thirty-Nine was reduced into a mere punching bag. Han Sen grabbed it and kept swinging it up and down to create two giant craters in the ground.
 
@@ -94,7 +96,7 @@ That scary punch was brought to a complete standstill. All of its power and desi
 
 In everyone’s shocked eyes, the gold-armored hand moved. Dragon Thirty-Nine was then picked up by it.
 
-Boom! Boom! Boom! Boom!
+*Boom!* *Boom!* *Boom!* *Boom!*
 
 The strong xenogeneic body of Dragon Thirty-Nine was reduced into a mere punching bag. Han Sen grabbed it and kept swinging it up and down to create two giant craters in the ground.
 

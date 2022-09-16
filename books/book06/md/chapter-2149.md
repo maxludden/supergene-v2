@@ -1,9 +1,11 @@
+---
 Title:Metal Statue 
 Chapter:2149 
 Section:8 
 Book:6 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Metal Statue
 ### Chapter 2149
@@ -84,7 +86,7 @@ Many of the Sky Palace students came to Han Sen. When Kahn saw this, he brought 
 
 Dragon Eight and the Buddha followed, too. They tightened their formation and annihilated the nearby dragonfly xenogeneics, but that hellfire-like power was on its way, and many other powers were coming for them, too. Escaping seemed impossible.
 
-Boom!
+*Boom!*
 
 The metal statue’s fire engulfed them, but it did not incinerate them. Instead, a blue Bai Sema suddenly appeared. Han Sen and his people were inside it, shielded from the scary fires.
 

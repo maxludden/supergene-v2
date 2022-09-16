@@ -1,9 +1,11 @@
+---
 Title:Gold Fire Peacock 
 Chapter:2222 
 Section:10 
 Book:7 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Gold Fire Peacock
 ### Chapter 2222

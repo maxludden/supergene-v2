@@ -1,9 +1,11 @@
+---
 Title:Soul Armor 
 Chapter:1948 
 Section:7 
 Book:5 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Soul Armor
 ### Chapter 1948
@@ -52,11 +54,19 @@ Pang!
 
 The light spell suddenly exploded. The gold flames shattered, and Qing Jun’s roaring disappeared along with it. Nothing more remained.
 
-…
+<br>
+
+*****
+
+<br>
 
 As this was occurring, a ship departed the Buddha Kingdom. A man, dressed in rich clothes, was resting upon a seat. His mouth spoke words only meant for himself. “I can’t believe Qing Jun possessed someone. He had it coming. This damage will put him off for some time. What an *sshole, to think of touching one of the Han family.”
 
-…
+<br>
+
+*****
+
+<br>
 
 Han Sen pulled out a bottle. He collected the blood of the Four-Faced Eight-Armed Buddha. Its blood was the xenogeneic part of its body.
 

@@ -1,9 +1,11 @@
+---
 Title:Flowers Know the Sea 
 Chapter:2419 
 Section:11 
 Book:7 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Flowers Know the Sea
 ### Chapter 2419
@@ -76,7 +78,7 @@ She was a deified elite. Her mind was one of the strongest in the whole of the E
 
 “Is his will really this strong?” Miss Mirror examined at her will, where flowers were half-opened. She looked at them strangely.
 
-Ding!
+*Ding!*
 
 Miss Mirror took a step back. She separated the two Mirror Spirit Eye Rings and looked right at Han Sen.
 

@@ -1,9 +1,11 @@
+---
 Title:Son of Fate 
 Chapter:871 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Son of Fate
 ### Chapter 871
@@ -48,7 +50,7 @@ The figure continued to look back at Han Sen, his pitch-black eyes masking any e
 
 A chill ran down Han Sen's back, alongside a sudden outbreak of goosebumps.
 
-Boom!
+*Boom!*
 
 The man stepped forward and onto the blood-stained soil. Then, strange things began to occur.
 

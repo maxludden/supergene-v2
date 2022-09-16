@@ -1,9 +1,11 @@
+---
 Title:The Awkward Encounter 
 Chapter:1695 
 Section:5 
 Book:4 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## The Awkward Encounter
 ### Chapter 1695
@@ -66,7 +68,7 @@ When he flew into the sky, he soared through the atmosphere.
 
 “Attack,” the computer repeated. Then, the weapon systems took aim at Han Sen who was flying away.
 
-Boom!
+*Boom!*
 
 A net of lights all came screaming through the air toward Han Sen.
 

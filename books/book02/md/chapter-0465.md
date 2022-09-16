@@ -1,9 +1,11 @@
+---
 Title:Crazy Simulating Crystals 
 Chapter:465 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Crazy Simulating Crystals
 ### Chapter 465
@@ -100,6 +102,6 @@ The warframes of the two soldiers closest to the crystals exploded immediately, 
 
 Li Lu whose eyes were bloodshot gritted his teeth and ordered the other two soldiers to retreat into the ruin while covering them by going last.
 
-Boom!
+*Boom!*
 
 As Ji Yanran and Han Sen just entered the black crystal gate, they heard a loud noise. The warframe of Li Lu had already exploded.

@@ -1,9 +1,11 @@
+---
 Title:Jade Building Strange Scene 
 Chapter:1981 
 Section:8 
 Book:6 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Jade Building Strange Scene
 ### Chapter 1981

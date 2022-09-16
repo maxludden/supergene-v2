@@ -1,9 +1,11 @@
+---
 Title:I Am Here 
 Chapter:3311 
 Section:17 
 Book:10 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## I Am Here
 ### Chapter 3311
@@ -40,7 +42,7 @@ Still, Break World beasts were all around. The Break World beasts from White Jad
 
 “Ancient Devil is right. With my power alone, no matter how many Break World beasts I kill, I cannot protect all my family and friends. I cannot save the world.” Han Sen could not think of a better way to deal with all this. If he left, the scary monsters of White Jade Jing would keep coming. More and more people would be killed.
 
-Boom!
+*Boom!*
 
 Han Sen suddenly saw a sky full of holy light explode. A giant gourd vine broke space. The holy gourds on it were glowing. They killed the Break World beasts around.
 

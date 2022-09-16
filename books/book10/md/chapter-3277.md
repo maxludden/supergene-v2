@@ -1,9 +1,11 @@
+---
 Title:Paying Rent 
 Chapter:3277 
 Section:16 
 Book:10 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Paying Rent
 ### Chapter 3277

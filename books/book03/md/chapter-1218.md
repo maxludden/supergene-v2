@@ -1,9 +1,11 @@
+---
 Title:The Mountain Changes 
 Chapter:1218 
 Section:3 
 Book:3 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## The Mountain Changes
 ### Chapter 1218
@@ -70,7 +72,7 @@ The skeleton turned its attention back to the platform, as the person in slumber
 
 The man yawned, as if he really had been roused from a long, deep sleep. After he stretched, he looked at Han Sen with much surprise.
 
-Boom!
+*Boom!*
 
 The black-armored skeleton ran to the purple platform. With its speed, it really must have been an emperor.
 

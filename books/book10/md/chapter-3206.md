@@ -1,9 +1,11 @@
+---
 Title:Mirror Lake Changes 
 Chapter:3206 
 Section:16 
 Book:10 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Mirror Lake Changes
 ### Chapter 3206

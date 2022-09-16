@@ -1,9 +1,11 @@
+---
 Title:Shooting the Commercial 
 Chapter:177 
 Section:1 
 Book:1 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Shooting the Commercial
 ### Chapter 177
@@ -72,7 +74,7 @@ However, darkness suddenly fell on the pages and Yu Qianxun looked up, frightene
 
 "A Shura warship!" The journalists recognized what it was.
 
-Bang!
+*Bang!*
 
 An ugly warframe fell to the ground, leaving a deep pit. The warframe stood up, the sword in its hand yearning for blood.
 
@@ -94,7 +96,7 @@ Seeing the despair on her face, everyone was heartsick at once, wishing they cou
 
 But there were too many Shura warframes, and one of them had even slashed at the girl with a sword.
 
-Bang!
+*Bang!*
 
 A silver box suddenly hit the bloody sword aside, the letters "TS" engraved on the box.
 

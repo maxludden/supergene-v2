@@ -1,9 +1,11 @@
+---
 Title:White Jade Skeleton 
 Chapter:280 
 Section:1 
 Book:1 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## White Jade Skeleton
 ### Chapter 280
@@ -14,7 +16,7 @@ viewport: width=device-width
   
 
   
-Bang!
+*Bang!*
 
 The green gold was not a tough material and only 1 inch thick. With Han Sen's strike, a six-foot-tall 1-foot-wide opening suddenly appeared.
 
@@ -54,7 +56,7 @@ It was a 9-foot-tall cell more than 30 feet away from him. It had cracked and th
 
 As the cell continued to crack, it was falling apart will stop
 
-Bang!
+*Bang!*
 
 Suddenly the cell was knocked open by something and collapsed. A figure rushed out of the cell.
 

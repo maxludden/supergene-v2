@@ -1,9 +1,11 @@
+---
 Title:The Fight of Destiny 
 Chapter:579 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## The Fight of Destiny
 ### Chapter 579

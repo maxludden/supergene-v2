@@ -1,9 +1,11 @@
+---
 Title:Naive Spirit Brother 
 Chapter:913 
 Section:3 
 Book:3 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Naive Spirit Brother
 ### Chapter 913

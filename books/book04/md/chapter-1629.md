@@ -1,9 +1,11 @@
+---
 Title:Six Paths Become One 
 Chapter:1629 
 Section:4 
 Book:4 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Six Paths Become One
 ### Chapter 1629
@@ -74,7 +76,7 @@ Heart Sword was about wielder’s true self. Sky Sword was about the sky and the
 
 When they all combined into one, it made Six Paths become a part of the world itself. Like a true swordmaster, his sword became the center of the world.
 
-Boom!
+*Boom!*
 
 The power he had gathered up was too much, and the unbreakable arena was actually shattered. The sword created a giant crater in the ground, as the previously standing Six Paths was lifted into the air to float above the ground. The entire power was gathered there.
 

@@ -1,9 +1,11 @@
+---
 Title:Heartbea Super Gene 
 Chapter:1805 
 Section:6 
 Book:5 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Heartbea Super Gene
 ### Chapter 1805
@@ -46,7 +48,7 @@ The three that had entered first were almost there.
 
 Han Sen climbed up casually, and when he reached the entrance, Rocks Fall Duke and the others were not standing too far from there. They weren’t willing to walk in just yet.
 
-Boom!
+*Boom!*
 
 Just as Han Sen was going to enter, there was a loud noise. The whole cocoon shook. When Han Sen looked down, he saw that the exit had vanished. It seemed as if the cocoon had dropped back down onto its bed of sand.
 
@@ -98,6 +100,6 @@ Rocks Fall Duke and Vic frowned upon hearing this. Especially Rocks Fall Duke. H
 
 Everyone went quiet then, and no one spoke.
 
-Thump! Thump! Thump!
+*Thump!* *Thump!* *Thump!*
 
 Suddenly, a strange noise came from deeper within the cavern. It was like a heartbeat, and it had a steady rhythm.

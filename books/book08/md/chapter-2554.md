@@ -1,9 +1,11 @@
+---
 Title:Pulling the String 
 Chapter:2554 
 Section:12 
 Book:8 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Pulling the String
 ### Chapter 2554
@@ -80,7 +82,11 @@ Everyone could see Han Sen was using all of his strength, even though the string
 
 “Wind String isn’t that easy to operate. If it was that easy, it wouldn’t belong to the Aichi.”
 
-…
+<br>
+
+*****
+
+<br>
 
 As everyone discussed the bow, Han Sen’s eyes hardened. A robe of grey feathers appeared around him, giving off a rainbow light.
 

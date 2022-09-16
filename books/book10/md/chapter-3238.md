@@ -1,9 +1,11 @@
+---
 Title:Getting Sword 
 Chapter:3238 
 Section:16 
 Book:10 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Getting Sword
 ### Chapter 3238

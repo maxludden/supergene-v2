@@ -1,9 +1,11 @@
+---
 Title:The Shelter’s New Master 
 Chapter:1377 
 Section:4 
 Book:4 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## The Shelter’s New Master
 ### Chapter 1377

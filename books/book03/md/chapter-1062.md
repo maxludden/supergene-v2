@@ -1,9 +1,11 @@
+---
 Title:Best Lead 
 Chapter:1062 
 Section:3 
 Book:3 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Best Lead
 ### Chapter 1062
@@ -60,7 +62,7 @@ Eventually, even Han Sen’s talons began to bleed with the repeated strikes.
 
 But he thought success was close, and he thought right. So, he didn’t give in or relent for one second. He went on and on, battering the vase with every ounce of strength he could muster.
 
-Boom!
+*Boom!*
 
 He did it. Eventually, the cracks gave in and the composure of the vase shattered like rain.
 

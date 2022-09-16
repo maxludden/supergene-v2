@@ -1,9 +1,11 @@
+---
 Title:A Way to Absorb Life Geno Essences 
 Chapter:1524 
 Section:4 
 Book:4 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## A Way to Absorb Life Geno Essences
 ### Chapter 1524

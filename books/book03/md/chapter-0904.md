@@ -1,9 +1,11 @@
+---
 Title:Surprising Evolution 
 Chapter:904 
 Section:3 
 Book:3 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Surprising Evolution
 ### Chapter 904
@@ -66,7 +68,7 @@ The iron bug smelled the flower and was hypnotized. Without resistance, it began
 
 The spirit suddenly summoned a red dagger, and when the green iron bug came closer, she stabbed it in its mouth with the power and speed of a sudden flash of lightning.
 
-Boom!
+*Boom!*
 
 The iron bug snapped out of its daze as the dagger lodged in its mouth. Its anger was unleashed, and it squirted its corrosive liquid all around it. The ground and soil all around were ruined, and when it was done, the iron bug launched itself towards the spirit.
 

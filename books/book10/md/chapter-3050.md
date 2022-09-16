@@ -1,9 +1,11 @@
+---
 Title:Entering Big God Mountain Again 
 Chapter:3050 
 Section:16 
 Book:10 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Entering Big God Mountain Again
 ### Chapter 3050

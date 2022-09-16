@@ -1,9 +1,11 @@
+---
 Title:Mirror Area 
 Chapter:2437 
 Section:11 
 Book:7 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Mirror Area
 ### Chapter 2437

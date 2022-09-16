@@ -1,9 +1,11 @@
+---
 Title:Shura Ship 
 Chapter:1197 
 Section:3 
 Book:3 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Shura Ship
 ### Chapter 1197
@@ -52,7 +54,7 @@ Amidst their shock at what had just occurred, they struggled to comprehend anyth
 
 They couldn’t see who it was, but the arm seemed to be the only thing near enough to grab. So, they did.
 
-Boom!
+*Boom!*
 
 All of a sudden, it felt as if they had been wrapped up in the warm embrace of a friendly dragon. They heard the wings flap in their ears, and they watched as they were brought back into the safety of the ship.
 

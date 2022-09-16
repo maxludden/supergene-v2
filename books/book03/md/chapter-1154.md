@@ -1,9 +1,11 @@
+---
 Title:The Usual Stuff 
 Chapter:1154 
 Section:3 
 Book:3 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## The Usual Stuff
 ### Chapter 1154
@@ -86,7 +88,7 @@ The Phoenix Sword and Taia beat against the shield non-stop.
 
 The shield looked like a balloon under fire, as if it’d break any second.
 
-Boom!
+*Boom!*
 
 Han Sen batted the creature into a wall, and before it could recover, pounced on the creature like a madman. With another barrage of strikes, Han Sen went to town on the creature.
 

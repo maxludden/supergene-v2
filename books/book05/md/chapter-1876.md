@@ -1,9 +1,11 @@
+---
 Title:Purgatory Heaven 
 Chapter:1876 
 Section:7 
 Book:5 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Purgatory Heaven
 ### Chapter 1876
@@ -72,7 +74,7 @@ A big slab of stone fell from the statue. It was followed by another, and anothe
 
 “Something is inside that Gana statue!” Everyone was shocked, looking towards the statue.
 
-Boom!
+*Boom!*
 
 There were too many cracks across the statue, and they eventually caused it to shatter like glass. All the stone fell off, revealing a gold statue on the inside.
 

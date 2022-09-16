@@ -1,9 +1,11 @@
+---
 Title:Strange Numbers 
 Chapter:2367 
 Section:11 
 Book:7 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Strange Numbers
 ### Chapter 2367

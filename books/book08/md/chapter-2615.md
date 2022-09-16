@@ -1,9 +1,11 @@
+---
 Title:Exploding Minds 
 Chapter:2615 
 Section:12 
 Book:8 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Exploding Minds
 ### Chapter 2615

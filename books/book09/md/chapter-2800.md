@@ -1,9 +1,11 @@
+---
 Title:Second Ancestor’s Legacy 
 Chapter:2800 
 Section:14 
 Book:9 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Second Ancestor’s Legacy
 ### Chapter 2800

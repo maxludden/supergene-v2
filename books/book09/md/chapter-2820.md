@@ -1,9 +1,11 @@
+---
 Title:Fighting Evil Lotus 
 Chapter:2820 
 Section:14 
 Book:9 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Fighting Evil Lotus
 ### Chapter 2820

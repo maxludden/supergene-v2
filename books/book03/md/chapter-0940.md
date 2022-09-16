@@ -1,9 +1,11 @@
+---
 Title:Frightening Glory 
 Chapter:940 
 Section:3 
 Book:3 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Frightening Glory
 ### Chapter 940

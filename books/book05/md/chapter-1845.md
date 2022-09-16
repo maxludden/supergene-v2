@@ -1,9 +1,11 @@
+---
 Title:Strange Mark 
 Chapter:1845 
 Section:7 
 Book:5 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Strange Mark
 ### Chapter 1845

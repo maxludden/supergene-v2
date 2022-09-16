@@ -1,9 +1,11 @@
+---
 Title:Fighting the Blonde Lady 
 Chapter:2904 
 Section:15 
 Book:9 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Fighting the Blonde Lady
 ### Chapter 2904

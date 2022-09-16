@@ -1,9 +1,11 @@
+---
 Title:Kill 
 Chapter:1499 
 Section:4 
 Book:4 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Kill
 ### Chapter 1499
@@ -78,7 +80,7 @@ Blergh!
 
 Han Sen didn’t say a word. His hand simply moved to strike Naga’s head, and the red light severed it from the neck. The bloodied head rolled away, its eyes full of shock. Naga clearly hadn’t expected Han Sen to kill him like that.
 
-Boom!
+*Boom!*
 
 Naga hadn’t been lying. When he died, the self-destruct system activated. The ship was starting to blow up.
 

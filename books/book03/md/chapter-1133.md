@@ -1,9 +1,11 @@
+---
 Title:Transparent King Scorpion Beast Soul 
 Chapter:1133 
 Section:3 
 Book:3 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Transparent King Scorpion Beast Soul
 ### Chapter 1133
@@ -20,7 +22,7 @@ A coin, with the number ten on it, was set free to spiral through the air and ho
 
 And then, it stopped. It stood still in the air and did not drop, as if it was defying gravity and the laws of physics themselves.
 
-Boom!
+*Boom!*
 
 Something dropped from the air and created a massive crater in the ground.
 

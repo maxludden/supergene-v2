@@ -1,9 +1,11 @@
+---
 Title:Scary Gene Race 
 Chapter:3076 
 Section:16 
 Book:10 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Scary Gene Race
 ### Chapter 3076

@@ -1,9 +1,11 @@
+---
 Title:Big Priest 
 Chapter:1457 
 Section:4 
 Book:4 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Big Priest
 ### Chapter 1457
@@ -50,7 +52,11 @@ When the woman said this, all the spirits around looked shocked.
 
 “Master, I see a bronze light in him. He is a creature with a bronze geno core. How can he be our priest?”
 
-…
+<br>
+
+*****
+
+<br>
 
 The entire spirit hall was kicked into a frenzy as the spirits all begged and pleaded for their mistress to recall her decree. They all went down on the floor, too, to underline their sincerity. Only Han Sen remained on his feet.
 

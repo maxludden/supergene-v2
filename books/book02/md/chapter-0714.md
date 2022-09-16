@@ -1,9 +1,11 @@
+---
 Title:Every Punch Is Strong 
 Chapter:714 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Every Punch Is Strong
 ### Chapter 714

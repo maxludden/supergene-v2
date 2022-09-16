@@ -1,9 +1,11 @@
+---
 Title:Disloyal Knight’s Coming 
 Chapter:1073 
 Section:3 
 Book:3 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Disloyal Knight’s Coming
 ### Chapter 1073
@@ -46,7 +48,7 @@ The halo stretched like an arrow, until its farthest end struck the Devil Fang.
 
 No damage was dealt directly, but that touch had a debilitating effect on the Devil Fang. The devilish, intimidating presence that worked like an actual debuff was lessened, and the creature moved at a slower pace.
 
-Boom!
+*Boom!*
 
 Disloyal Knight’s fists collided against the Devil Fang’s claws, and the winner of that clash was clear: the Devil Fang went flying back a dozen meters.
 

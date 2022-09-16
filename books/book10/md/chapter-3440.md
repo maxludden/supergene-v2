@@ -1,9 +1,11 @@
+---
 Title:Geno Tablet Fights End 
 Chapter:3440 
 Section:17 
 Book:10 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Geno Tablet Fights End
 ### Chapter 3440
@@ -56,7 +58,7 @@ It happened in one hit. Ancient Devil’s body exploded, and the fight came to a
 
 In the universe of kingdoms, people were shocked. They thought Human King was extremely strong. They were surprised about his appearance. Human King had only used one hand to kill Ancient Devil. Afterward, he frowned and secretly said to himself, “That Ancient Devil looked as if he had a death wish. What was he doing?”
 
-Boom! Boom! Boom!
+*Boom!* *Boom!* *Boom!*
 
 After Ancient Devil died, the final barrier of the 33 skies came down. Now, all of the 33 skies could be seen. The geno tablet that was no longer there was now seen in the arena. It was glowing with a god light. On the geno tablet, two names were shining like a pair of suns. No one would have believed that those two would have been the final names to be displayed on the geno tablet.
 

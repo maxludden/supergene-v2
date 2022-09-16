@@ -1,9 +1,11 @@
+---
 Title:Three Statues 
 Chapter:1255 
 Section:3 
 Book:3 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Three Statues
 ### Chapter 1255
@@ -94,6 +96,6 @@ The red-haired mermaid formed her lips into an “O,” forming a number of bubb
 
 Han Sen summoned Disloyal Knight and Little Angel, and then, Disloyal Knight covered everything in the vicinity with blue lightning.
 
-Boom!
+*Boom!*
 
 Disloyal Knight leapt forward and punched the red bubble that was nearest to Han Sen.

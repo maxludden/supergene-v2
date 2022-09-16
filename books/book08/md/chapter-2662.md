@@ -1,9 +1,11 @@
+---
 Title:The Geno Art in Reverse 
 Chapter:2662 
 Section:13 
 Book:8 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## The Geno Art in Reverse
 ### Chapter 2662

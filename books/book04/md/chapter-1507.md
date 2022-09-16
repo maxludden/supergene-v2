@@ -1,9 +1,11 @@
+---
 Title:Mystic Power Returns 
 Chapter:1507 
 Section:4 
 Book:4 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Mystic Power Returns
 ### Chapter 1507

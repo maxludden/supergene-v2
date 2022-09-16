@@ -1,9 +1,11 @@
+---
 Title:Person in the Stone 
 Chapter:2435 
 Section:11 
 Book:7 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Person in the Stone
 ### Chapter 2435
@@ -80,7 +82,7 @@ The man never looked at Falling Leaf, though. His attention was focused on Bao�
 
 Bao’er grabbed her little gourd. Her face looked very dire, and she stared at the man as if he was an enemy.
 
-Boom!
+*Boom!*
 
 The little red bird on Bao’er’s shoulder seemed to feel that it needed to intervene as well. It flew off of Bao’er’s shoulder, becoming a scary fire phoenix that hovered right beside the girl. It cried at the white-haired man in warning, but it didn’t attack. It actually looked quite afraid of the white-haired man.
 

@@ -1,9 +1,11 @@
+---
 Title:Sonic Battle Beast 
 Chapter:1140 
 Section:3 
 Book:3 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Sonic Battle Beast
 ### Chapter 1140

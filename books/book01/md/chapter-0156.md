@@ -1,9 +1,11 @@
+---
 Title:Game on 
 Chapter:156 
 Section:1 
 Book:1 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Game on
 ### Chapter 156
@@ -86,7 +88,7 @@ In the monitoring room of the sponsor, Zhao Nengtian sneered, "With so few peopl
 
 "Director, you are so wise. That guy is dead," His secretary Zhang said with a flattering smile.
 
-Boom! Boom! Boom!
+*Boom!* *Boom!* *Boom!*
 
 The sounds of explosion were ringing on the site and it was a total chaos.
 
@@ -104,6 +106,6 @@ Silver Killer was moving like a phantom. As if it had eyes on its back as well, 
 
 Since the opponents’ vision was first blocked by Silver Killer, they had failed to see the Destroyer’s attacks. When they saw, it was too late.
 
-Boom! Boom! Boom!
+*Boom!* *Boom!* *Boom!*
 
 As Silver Killer moved past them, several warframes exploded under the fierce assault, leaving all the viewers stunned.

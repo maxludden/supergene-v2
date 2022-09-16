@@ -1,9 +1,11 @@
+---
 Title:Reborn 
 Chapter:2759 
 Section:13 
 Book:8 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Reborn
 ### Chapter 2759
@@ -24,7 +26,7 @@ The most frustrating thing was that this was the most critical moment of the fig
 
 “Big Brother, I understand that you’re probably trying to take over my body, but can’t it wait until later? Now is a bad time.” To his surprise, Han Sen noticed that the blood demon wasn’t attacking him. It stood some distance away, looking at Han Sen with confusion.
 
-Boom!
+*Boom!*
 
 Blood light surged from Han Sen’s body, but the process was actually the reverse of his expectations. Instead of changing Han Sen, the light was leaving Han Sen’s body and going toward the blood coral in his hands.
 
@@ -64,7 +66,7 @@ At this time, the Old Blood Dragon Lady finally opened her eyes. Han Sen had nev
 
 The Old Blood Dragon Lady calmly looked on the blood demon. As the knife light landed, she raised her arm. Her fingers that looked like jade were pointed forward.
 
-Boom!
+*Boom!*
 
 A beam of light as thin as a pen shot out of her finger. The force of it destroyed the bloody knife light and the blood demon shadow, revealing the sharp knife’s real body.
 

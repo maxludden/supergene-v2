@@ -1,9 +1,11 @@
+---
 Title:Ghost Eye Beast 
 Chapter:1757 
 Section:6 
 Book:5 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Ghost Eye Beast
 ### Chapter 1757
@@ -76,7 +78,7 @@ When the green light met the white light, it was like water thrown upon charcoal
 
 Ghost Eye screamed. It turned around, wanting to retreat, but not long after, it was as if the eye was melting. The crystals were dripping and smoking.
 
-Boom!
+*Boom!*
 
 In the end, Ghost Eye could not return to the darkness. It landed atop the lotus, struggling and squirming. Han Sen saw a white bone arrow in its eye. The arrow was shining with holy light. It was made of bone, but it was not evil at all. It really did look holy.
 
@@ -96,6 +98,6 @@ Ghost Eye’s body was melting, but it wasn’t completely dead, so Xina hadn’
 
 Lone Wolf saw where Han Sen was running to, and his face looked like a cat’s that was hungrily stalking a mouse. His eyes turned red and his fur became straight, like a hedgehog.
 
-Boom!
+*Boom!*
 
 Lone Wolf jumped towards Han Sen, extending all four paws. The claws looked ready to sink into Han Sen’s neck.

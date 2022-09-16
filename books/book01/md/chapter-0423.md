@@ -1,9 +1,11 @@
+---
 Title:Black Crystal 
 Chapter:423 
 Section:1 
 Book:1 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Black Crystal
 ### Chapter 423
@@ -28,7 +30,17 @@ However, after Han Sen super body, there was a name, which was "king spirit." Th
 
 He checked the introduction of super body "king spirit," which was so concise that it was just one sentence.
 
-King spirit: king rules the world; all spirits shall bow.
+<div class="tables">
+    <table class="beast">
+        <tr>
+            <th>King Spirit</th>
+        </tr><tr>
+            <td>King rules the world;<br>
+                <span>All spirits shall bow.</spanm></td>
+        </tr>
+    </table>
+    <!--King spirit: king rules the world; all spirits shall bow.-->
+</div>
 
 The simple sentence suddenly made Han Sen change his look, because he thought of many things all of a sudden.
 

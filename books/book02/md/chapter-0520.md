@@ -1,9 +1,11 @@
+---
 Title:Killing the Golden Crab 
 Chapter:520 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Killing the Golden Crab
 ### Chapter 520
@@ -55,7 +57,7 @@ As usual, the golden crab came to Han Sen to steal the meat again. When it turne
 
 The golden crab quickly reacted. It threw away the two fish it had taken. Flipping itself around, it shot its pincer at Han Sen's claws.
 
-Ding!
+*Ding!*
 
 The pincer hit the claws and sounded like metal. Han Sen stepped back three times before he could stabilize himself. The golden crab also fell back. They were about on the same level judging from this round.
 
@@ -71,7 +73,7 @@ Han Sen took his claws back and decided to use his fists to fight the golden cra
 
 However, since the yin force only penetrate 3 to 4 inches, Han Sen could not really hurt the crab if he was hitting at the wrong spot.
 
-Boom!
+*Boom!*
 
 Han Sen found an opportunity to hit the golden crab on its head. Suddenly, he saw the golden crab wobbling as if it were drunk.
 

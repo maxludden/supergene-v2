@@ -1,9 +1,11 @@
+---
 Title:Contract 
 Chapter:1717 
 Section:6 
 Book:5 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Contract
 ### Chapter 1717

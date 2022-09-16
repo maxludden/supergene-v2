@@ -1,9 +1,11 @@
+---
 Title:Born Emperor 
 Chapter:1221 
 Section:3 
 Book:3 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Born Emperor
 ### Chapter 1221
@@ -38,7 +40,7 @@ The sword forged of light did not disappear as the spirit finished his lunge. Th
 
 The power came against Han Sen’s swords again, and he held strong as it pushed and inched its way closer and closer to his chest.
 
-Boom!
+*Boom!*
 
 The reaper-looking king spirit tried to slash Han Sen again.
 
@@ -68,7 +70,7 @@ Whatever the case might be, Han Sen was sure of one thing above all—he could k
 
 Han Sen and Little Angel approached the king spirit with care, as it summoned more blades of light in an attempt to cut them down.
 
-Boom! Boom! Boom!
+*Boom!* *Boom!* *Boom!*
 
 The purple light and holy light collided in a dizzying array of sparks. The king spirit, however, had no trouble in suppressing the two.
 
@@ -86,12 +88,12 @@ Little Angel ran towards him, too. When they met up, Little Angel’s wings embr
 
 The purple blades of light came towards them relentlessly, and now, hundreds were all coming at once.
 
-Boom!
+*Boom!*
 
 A crazy white light exploded out of them, destroying each and every one. The purple pieces scattered everywhere.
 
 Then, a beautiful white figure with angel wings and a halo emerged from the blinding flash, wielding a transparent greatsword over its head.
 
-Boom!
+*Boom!*
 
 The greatsword was brought down on the newborn king spirit.

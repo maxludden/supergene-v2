@@ -1,9 +1,11 @@
+---
 Title:Only a Woman 
 Chapter:435 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Only a Woman
 ### Chapter 435
@@ -60,7 +62,7 @@ Fortunately, the two of them were both on Daphne. When there was no one around, 
 
 Feels like a clandestine love affair. Han Sen thought to himself contentedly and started to hum a little song.
 
-Boom!
+*Boom!*
 
 Han Sen was still thinking about the romance just now. Because it was on the warship, he let his guard down completely and wasn’t paying attention. As he turned around the corner, he bumped into someone immediately.
 

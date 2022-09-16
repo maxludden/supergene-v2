@@ -1,9 +1,11 @@
+---
 Title:Han Sen’s Gene Talent 
 Chapter:2602 
 Section:12 
 Book:8 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Han Sen’s Gene Talent
 ### Chapter 2602

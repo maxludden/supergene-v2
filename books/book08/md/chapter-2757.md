@@ -1,9 +1,11 @@
+---
 Title:Growing Knife 
 Chapter:2757 
 Section:13 
 Book:8 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Growing Knife
 ### Chapter 2757
@@ -74,7 +76,7 @@ Gu Wan’er’s eyes widened when she saw that she was no longer holding the kni
 
 Han Sen ignored Gu Wan’er. He continued holding the knife by its handle, and he observed the blade carefully. Without Gu Wan’er’s blood, the crimson color of the metal was starting to fade. The demon-like shadow rose again. It was like a beast that would merrily feast on anyone it could. It turned to look at Han Sen. The blade began to tremble in his hands.
 
-Boom!
+*Boom!*
 
 When the sharp knife realized that Han Sen was holding it, a flash of bloody light shone around it. Han Sen’s power was insufficient to maintain a grip on the knife, and it flew out of his hands.
 
@@ -88,7 +90,7 @@ The bloody shadow moved. The sharp knife tore through space, carrying a bloody p
 
 Before the sharp knife got close enough to touch her, Han Sen grabbed the little girl and spun her around him. He threw a punch toward the sharp knife and said, “Remember; no matter when or where, girls should stay behind men and be protected. Don’t try to get in the way of the man. You’ll just get him hurt.”
 
-Boom!
+*Boom!*
 
 While he was talking, the fist and the sharp knife struck each other. The bloody flame danced madly as the punching power was shattered. The resulting shockwave tore into the field around them, forming a giant crater.
 

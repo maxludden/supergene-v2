@@ -1,9 +1,11 @@
+---
 Title:Change of Plans 
 Chapter:3027 
 Section:15 
 Book:9 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Change of Plans
 ### Chapter 3027
@@ -48,7 +50,7 @@ The Nine-Life Cat tattoo was lively. The light broke away and became dots of lig
 
 The god palaces were falling. Many god temples were breaking. The whole universe was in chaos. All the races were suffering a disaster. No one in the universe could find a clear patch of soil.
 
-Boom!
+*Boom!*
 
 The god temples that had yet to fall away from the god palaces were glowing. It looked like an erupting volcano. It was like God Spirits were coming out from the god temples. At this time, God said, “All the God Spirits should maintain their position. They cannot leave. The god palaces can break, but the base of the universe cannot.”
 
@@ -64,7 +66,7 @@ After all this, God looked at Qin Xiu and said, “Not bad. This is the rule I w
 
 “Sorry, but I must break your rules.” Qin Xiu looked serious. He stood in front of God. The two of them were three feet away from each other. They stared at each other. A scary power kept colliding between them.
 
-Boom! Boom! Boom!
+*Boom!* *Boom!* *Boom!*
 
 The whole of the geno hall shook like mad. It moved the spot they were at, which started to fall.
 

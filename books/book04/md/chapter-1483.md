@@ -1,9 +1,11 @@
+---
 Title:Waiting for You to Defeat Me 
 Chapter:1483 
 Section:4 
 Book:4 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Waiting for You to Defeat Me
 ### Chapter 1483
@@ -36,7 +38,11 @@ When Han Sen entered the arena next, everyone was shocked. His opponent was none
 
 “They met far too soon. I wanted to see more of those sword skills. They were so amazing!”
 
-…
+<br>
+
+*****
+
+<br>
 
 Everyone believed Han Sen was going to lose. His sword skills were powerful, but they were still inhibited by the strength of his body. When a fight was down to power and speed alone, the versatility of his sword skills would not be of much aid.
 
@@ -66,7 +72,11 @@ Everyone was shocked. No one expected Six Paths to be willing to concede in the 
 
 “Six Paths gave up his opportunity for Sky Sword. If he doesn’t win, even after that, it will be very disappointing for them both.”
 
-…
+<br>
+
+*****
+
+<br>
 
 Elysian Moon felt a wash of relief. She didn’t like what Six Paths had said, but she was glad she could avoid battling Six Paths Emperor. The biggest obstacle to her obtaining the God geno core was now out the way. This was good for her.
 

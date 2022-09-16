@@ -1,9 +1,11 @@
+---
 Title:Copyright 
 Chapter:1588 
 Section:4 
 Book:4 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Copyright
 ### Chapter 1588

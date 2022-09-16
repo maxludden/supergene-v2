@@ -1,9 +1,11 @@
+---
 Title:Very Cute 
 Chapter:2508 
 Section:12 
 Book:8 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Very Cute
 ### Chapter 2508
@@ -98,6 +100,6 @@ The white tiger with the little pink mushroom on its head looked at the white wh
 
 Han Sen and the others all swapped glances. Ning Yue, in particular, looked as if she was melting. She looked at the white tiger through the white whale’s screen and passionately said, “It’s so cute!”
 
-Boom!
+*Boom!*
 
 Before anyone could say anything more, the white tiger jumped, landing on the white whale’s back. The white whale suddenly lurched. An enormous dent formed in the spine of the white whale, and it was pushed down into the canopy of mushrooms.

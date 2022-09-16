@@ -1,9 +1,11 @@
+---
 Title:Bai King’s Student 
 Chapter:2805 
 Section:14 
 Book:9 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Bai King’s Student
 ### Chapter 2805

@@ -1,9 +1,11 @@
+---
 Title:Xuan Yellow Sutra 
 Chapter:2691 
 Section:13 
 Book:8 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Xuan Yellow Sutra
 ### Chapter 2691

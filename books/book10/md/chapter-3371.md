@@ -1,9 +1,11 @@
+---
 Title:Fighting Qin Xiu 
 Chapter:3371 
 Section:17 
 Book:10 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Fighting Qin Xiu
 ### Chapter 3371
@@ -36,7 +38,7 @@ A transparent power exploded in the air. It turned into an invisible shockwave, 
 
 Sky King was the first to be affected by the power. With his nearly 100% Break World rate, not even he was able to withstand that power. His body was ripped to pieces. He was going to vanish alongside his soul.
 
-Boom!
+*Boom!*
 
 Qin Xiu stepped away. The black crystal armor swiftly clad him as he appeared before Sky King. A hand reached out. It was like an invisible wall was coming out of his hands to block the shockwave.
 

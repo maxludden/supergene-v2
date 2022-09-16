@@ -1,9 +1,11 @@
+---
 Title:Worse Than Animals 
 Chapter:2927 
 Section:15 
 Book:9 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Worse Than Animals
 ### Chapter 2927

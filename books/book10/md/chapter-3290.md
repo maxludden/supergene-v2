@@ -1,9 +1,11 @@
+---
 Title:Geno Hall 
 Chapter:3290 
 Section:16 
 Book:10 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Geno Hall
 ### Chapter 3290

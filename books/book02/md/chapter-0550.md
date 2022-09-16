@@ -1,9 +1,11 @@
+---
 Title:Solo Assassin 
 Chapter:550 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Solo Assassin
 ### Chapter 550
@@ -84,7 +86,11 @@ The Goddess army that was guarding the gate then turned around to raise their we
 
 "He is like an egg playing conkers with a stone. Oh, Vice-Leader Yang, you are so pretty. Do not squander your beauty like this."
 
-…
+<br>
+
+*****
+
+<br>
 
 Although they did not dare to march any closer to the gate, they were still willing to argue with Yang Manli.
 

@@ -1,9 +1,11 @@
+---
 Title:Shura Qi 
 Chapter:1738 
 Section:6 
 Book:5 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Shura Qi
 ### Chapter 1738

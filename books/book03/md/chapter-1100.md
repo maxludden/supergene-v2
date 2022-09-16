@@ -1,9 +1,11 @@
+---
 Title:First Fight 
 Chapter:1100 
 Section:3 
 Book:3 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## First Fight
 ### Chapter 1100
@@ -34,7 +36,11 @@ viewport: width=device-width
 
 “You’ll probably see a few more when it starts.”
 
-…
+<br>
+
+*****
+
+<br>
 
 When surpassers learned Dollar was to take part, even if they had no prior interest in spectating Divinity’s Bout, they frantically scurried over to watch.
 

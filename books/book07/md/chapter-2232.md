@@ -1,9 +1,11 @@
+---
 Title:Metal Statue 
 Chapter:2232 
 Section:10 
 Book:7 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Metal Statue
 ### Chapter 2232

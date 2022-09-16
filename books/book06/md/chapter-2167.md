@@ -1,9 +1,11 @@
+---
 Title:Rebate Alpha 
 Chapter:2167 
 Section:9 
 Book:6 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Rebate Alpha
 ### Chapter 2167
@@ -44,7 +46,7 @@ The ocean stone bug’s attack power was practically non-existent. Keeping it wi
 
 The stone bug saw the lava, and when it did, its eyes brightened as it immediately rolled forward.
 
-Splash!
+*Splash!*
 
 The stone bug fell into the lava, and not long after, it was covered in a layer of lava. After a while, the lava cooled and turned into stone.
 

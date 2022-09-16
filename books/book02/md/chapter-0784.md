@@ -1,9 +1,11 @@
+---
 Title:Mafia Bug 
 Chapter:784 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Mafia Bug
 ### Chapter 784
@@ -82,7 +84,7 @@ Han Sen's heart jumped, and he quickly summoned the little angel. With his peaco
 
 If he didn't kill it now, it'd be much harder once it fully exited the cocoon. This was sure to be the best chance he would get. The butterfly had only just finished evolving, and the creature wouldn't have adapted to its new body yet. And now, stuck inside the cocoon, there truly could not be a greater chance.
 
-Whoosh!
+*Whoosh!*
 
 A z-steel bolt struck the silver butterfly's head. It only created a shallow mark, and it was already quite clear how much stronger this creature was than the Devil-Eye Spider.
 

@@ -1,9 +1,11 @@
+---
 Title:Another Sacred-blood Beast Soul 
 Chapter:132 
 Section:1 
 Book:1 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Another Sacred-blood Beast Soul
 ### Chapter 132

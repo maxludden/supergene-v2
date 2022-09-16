@@ -1,9 +1,11 @@
+---
 Title:The Xenogeneic Born in the Bone Blood 
 Chapter:2247 
 Section:10 
 Book:7 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## The Xenogeneic Born in the Bone Blood
 ### Chapter 2247

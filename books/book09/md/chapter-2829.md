@@ -1,9 +1,11 @@
+---
 Title:A Different Kind of God 
 Chapter:2829 
 Section:14 
 Book:9 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## A Different Kind of God
 ### Chapter 2829

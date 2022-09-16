@@ -1,9 +1,11 @@
+---
 Title:Wavy Sword Mind 
 Chapter:3154 
 Section:16 
 Book:10 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Wavy Sword Mind
 ### Chapter 3154

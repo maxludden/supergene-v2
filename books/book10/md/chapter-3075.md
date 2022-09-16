@@ -1,9 +1,11 @@
+---
 Title:Many Nobles Are Beneath the Prince's Feet 
 Chapter:3075 
 Section:16 
 Book:10 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Many Nobles Are Beneath the Prince's Feet
 ### Chapter 3075

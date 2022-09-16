@@ -1,19 +1,21 @@
-Title:Mutant Creature
-Chapter:18
-Section:1
-Book:1
-CSS:../Styles/style.css
+---
+Title:Mutant Creature 
+Chapter:18 
+Section:1 
+Book:1 
+CSS:../Styles/style.css 
 viewport: width=device-width
-
+---
+  
 ## Mutant Creature
 ### Chapter 18
-
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
+  
 
-
-
+  
 "What are you doing?" Qin Xuan frowned.
 
 "I’ll take you out after picking up the corpse of the mutant quartz scorpion you killed." Han Sen continued to go inside.

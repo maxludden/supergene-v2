@@ -1,9 +1,11 @@
+---
 Title:Testing the Gun 
 Chapter:1683 
 Section:5 
 Book:4 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Testing the Gun
 ### Chapter 1683
@@ -96,6 +98,6 @@ Han Sen’s face changed. He looked at his back and saw his Nine-Life Cat tattoo
 
 “What is that?” Han Sen frowned.
 
-Boom!
+*Boom!*
 
 The next second, the light became stronger until his clothes were nothing but tatters. The tattoo on his back now resembled a swirling black vortex. But before he could react, the suction pulled him right inside.

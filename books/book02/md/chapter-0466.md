@@ -1,9 +1,11 @@
+---
 Title:Parasite Crystal 
 Chapter:466 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Parasite Crystal
 ### Chapter 466
@@ -68,7 +70,7 @@ Ji Yanran looked to the statute, feeling puzzled. She did not see anything, but 
 
 "Why should I stop?" Tang Xin did not pay Han Sen any mind and continued to approach them.
 
-Boom!
+*Boom!*
 
 Without any hesitation, Han Sen shot at Tang Xin's head, taking half of his skull away.
 

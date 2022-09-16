@@ -1,9 +1,11 @@
+---
 Title:Aristocrat Spirit 
 Chapter:442 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Aristocrat Spirit
 ### Chapter 442
@@ -60,7 +62,7 @@ Like a cold lightning bolt, the crystal spear was stabbed into a squinted eye of
 
 However, the aristocrat spirit stayed still. Her tiger leveraged on the monster and charged the monster again.
 
-Boom!
+*Boom!*
 
 This time, nothing was distracting the monster, so it noticed the tiger in time. A tentacle suddenly blew the red-striped white tiger away.
 

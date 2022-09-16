@@ -1,9 +1,11 @@
+---
 Title:One Sword to Fight Alone 
 Chapter:1787 
 Section:6 
 Book:5 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## One Sword to Fight Alone
 ### Chapter 1787

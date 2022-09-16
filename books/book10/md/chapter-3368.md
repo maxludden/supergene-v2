@@ -1,9 +1,11 @@
+---
 Title:Fighting Wan'er 
 Chapter:3368 
 Section:17 
 Book:10 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Fighting Wan'er
 ### Chapter 3368
@@ -78,7 +80,7 @@ While he was talking, Qin Xiu’s eyes followed Wan’er’s left hand. She was 
 
 Han Sen’s hand had the Inch Grey Sword mid-swing. It was unknown how many times he had slashed at this point. He suddenly fell back and departed the battleground with his sword slashing forward like mad.
 
-Boom!
+*Boom!*
 
 Burning Red Sky’s fires exploded. Countless flames started to ravage. It became many different fire knives that were crazily going toward Wan’er.
 

@@ -1,9 +1,11 @@
+---
 Title:Sky King 
 Chapter:3128 
 Section:16 
 Book:10 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Sky King
 ### Chapter 3128

@@ -1,9 +1,11 @@
+---
 Title:A Place Where Spirits Grow 
 Chapter:1220 
 Section:3 
 Book:3 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## A Place Where Spirits Grow
 ### Chapter 1220
@@ -42,7 +44,7 @@ The Dongxuan Sutra seemed different from Xuantian, and Han Sen did not know if t
 
 Regardless, he was eager to find out more about this new Xuantian he had just learned about. He had the memory card, but that could not be used in the sanctuary.
 
-Boom! Boom!
+*Boom!* *Boom!*
 
 Amidst Han Sen’s excitement, the sound of thunder rolled. The snaps of what seemed like lightning pummeled the mountainside, vibrating the entire landmass.
 
@@ -50,7 +52,7 @@ Amidst Han Sen’s excitement, the sound of thunder rolled. The snaps of what se
 
 “A man like that wouldn’t just go for a nap, here of all places, for no reason. There must be something around here worth investigating. I might find a souvenir, and it might be something that helped him. If it helped that fellow, it can surely help me.” Han Sen’s mind scrambled to keep itself composed, thinking of the treasure that might lurk in the darkness.
 
-Boom!
+*Boom!*
 
 An energy pulsed out of the hole, blowing Han Sen away a few hundred meters.
 

@@ -1,9 +1,11 @@
+---
 Title:Sacred-blood Fox King 
 Chapter:129 
 Section:1 
 Book:1 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Sacred-blood Fox King
 ### Chapter 129
@@ -16,7 +18,7 @@ viewport: width=device-width
   
 If Han Sen was alone, he could simply summon the purple-winged dragon beast soul and fly up. However, he had Wang Mengmeng to protect and could not do that.
 
-Boom!
+*Boom!*
 
 The huge body of the rock worm fell and made a pit in the ground. Sand flying and pebbles rolling, it was more terrifying than a grenade explosion.
 
@@ -74,7 +76,12 @@ Han Sen had rushed to the front. The lancets were flashing in his hands and each
 
 "Primitive horned sand fox hunted. No beast soul gained..."
 
-...
+<br>
+
+*****
+
+<br>
+
 
 The voice in his mind rang non-stop. Han Sen paid no mind to it and just stared the mutant horned sand fox that were throwing themselves at him.
 

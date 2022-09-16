@@ -1,9 +1,11 @@
+---
 Title:Unrivaled 
 Chapter:295 
 Section:1 
 Book:1 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Unrivaled
 ### Chapter 295
@@ -68,7 +70,11 @@ The news that Jing Jiya was Jing Jiwu's brother was soon known by everyone in Bl
 
 "Jing Jiya will rule Blackhawk instead."
 
-…
+<br>
+
+*****
+
+<br>
 
 In Blackhawk, rumors about Han Sen being weaker than Jing Jiya were spread wider and wider, and the person who orchestrated the rumors was Jing Jiya himself.
 

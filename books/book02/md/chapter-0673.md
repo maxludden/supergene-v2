@@ -1,9 +1,11 @@
+---
 Title:The Secret of the Life Geno Essence 
 Chapter:673 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## The Secret of the Life Geno Essence
 ### Chapter 673

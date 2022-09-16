@@ -1,9 +1,11 @@
+---
 Title:Stone Man 
 Chapter:2420 
 Section:11 
 Book:7 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Stone Man
 ### Chapter 2420

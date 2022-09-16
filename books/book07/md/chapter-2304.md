@@ -1,9 +1,11 @@
+---
 Title:Using a Fist to Punch Eighteen Soldiers 
 Chapter:2304 
 Section:11 
 Book:7 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Using a Fist to Punch Eighteen Soldiers
 ### Chapter 2304
@@ -56,7 +58,7 @@ Regardless of the power or craftiness of the weapons’ attacks, they could not 
 
 A dozen weapons had been destroyed by Han Sen, and he was still behaving as if nothing out of the ordinary had happened. Bai Wei was staring at him in surprise, while the woman in the control room looked very strange.
 
-Boom!
+*Boom!*
 
 Han Sen punched the final weapon, and the woman in the control room looked stunned.
 

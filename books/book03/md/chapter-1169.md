@@ -1,9 +1,11 @@
+---
 Title:Going Up Two Levels 
 Chapter:1169 
 Section:3 
 Book:3 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Going Up Two Levels
 ### Chapter 1169
@@ -96,7 +98,7 @@ After Han Sen eliminated every ink-born monster, he planned to punch the royal s
 
 The royal spirit looked frightened at Han Sen’s sudden approach, so he hastily drew the image of a turtle for protection.
 
-Boom!
+*Boom!*
 
 Han Sen punched through the turtle and hit the royal spirit, sending him flying backwards.
 

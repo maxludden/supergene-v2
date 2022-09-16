@@ -1,9 +1,11 @@
+---
 Title:Looking for Trouble 
 Chapter:167 
 Section:1 
 Book:1 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Looking for Trouble
 ### Chapter 167
@@ -26,7 +28,11 @@ Han Sen hesitated, since he did not recognize this student.
 
 "Is he also one of the stars’ fans?"
 
-...
+<br>
+
+*****
+
+<br>
 
 Many students whispered and cast a few glances his way, but they were too well-educated to bother Han Sen.
 
@@ -82,7 +88,11 @@ Han Sen was a bit upset. He did not raise his hand, so why would Yu appoint him?
 
 "You will be great."
 
-...
+<br>
+
+*****
+
+<br>
 
 His classmates were very supportive and curious about Han Sen’s martial arts skill level.
 

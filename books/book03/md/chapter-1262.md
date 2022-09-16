@@ -1,9 +1,11 @@
+---
 Title:Strange Occurrence at the Lake 
 Chapter:1262 
 Section:3 
 Book:3 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Strange Occurrence at the Lake
 ### Chapter 1262

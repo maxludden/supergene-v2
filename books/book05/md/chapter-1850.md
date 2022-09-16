@@ -1,9 +1,11 @@
+---
 Title:Purple Copper Palace 
 Chapter:1850 
 Section:7 
 Book:5 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Purple Copper Palace
 ### Chapter 1850

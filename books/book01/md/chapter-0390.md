@@ -1,9 +1,11 @@
+---
 Title:Killing a Sacred-blood Creature You Don’t Even See 
 Chapter:390 
 Section:1 
 Book:1 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Killing a Sacred-blood Creature You Don’t Even See
 ### Chapter 390
@@ -58,7 +60,8 @@ Momentarily, they heard a shrill cry from afar. The group were overjoyed. Yuan l
 
 Han Sen nodded excitedly. The voice in his mind made him so happy that he did not know what to say.
 
-> "Sacred-Blood Creature Black-Feathered Beast King Killed. Beast Soul Of Black-Feathered Beast King Gained. Eat Its Meat To Gain 0 To 10 Sacred Geno Points."
+> "Sacred-Blood Black-Feathered Beast King killed. Beast sould of Black-Feathered Beast King gained. Eat its meat to gain zero to ten sacred-blood geno points randomly.
+<!--"Sacred-Blood Creature Black-Feathered Beast King Killed. Beast Soul Of Black-Feathered Beast King Gained. Eat Its Meat To Gain 0 To 10 Sacred Geno Points."-->
 
 Han Sen was surprised to gain the beast soul of the creature. He felt like his luck was getting better recently.
 

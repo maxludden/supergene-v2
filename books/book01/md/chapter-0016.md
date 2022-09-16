@@ -1,9 +1,11 @@
+---
 Title:Quartz Scorpion 
 Chapter:16 
 Section:1 
 Book:1 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Quartz Scorpion
 ### Chapter 16
@@ -78,6 +80,6 @@ At the mouth of the cave, Han Sen made sure he was alone and summoned his armor,
 
 As modern lighting equipment didn’t work in God’s Sanctuary, Han Sen brought a self-made torch, with which he could only see several feet in front of him. With mica in the rocks reflecting the light, he could hardly see the hidden scorpions.
 
-Clank!
+*Clank!*
 
 Han Sen soon felt a hit on his foot. He looked down and saw a deep blue scorpion the size of his fist stinging him on the feet with its tail.

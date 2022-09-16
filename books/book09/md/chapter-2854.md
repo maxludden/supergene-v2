@@ -1,9 +1,11 @@
+---
 Title:Sky Radish God Lance 
 Chapter:2854 
 Section:14 
 Book:9 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Sky Radish God Lance
 ### Chapter 2854
@@ -82,7 +84,7 @@ This announcement trumpeted in his head. Han Sen looked at the Sky Radish Bone L
 
 The Sky Radish Bone Lance was just like a beast soul. Han Sen thought he could drop it in his Sea of Soul, but he did not do that in front of God.
 
-Boom! Boom! Boom!
+*Boom!* *Boom!* *Boom!*
 
 Suddenly, a green beam of light lit up the base of the temple. In that green beam of light, Han Sen saw an old vine that looked like green jade. It was forming something.
 

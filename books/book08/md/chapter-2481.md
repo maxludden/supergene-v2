@@ -1,9 +1,11 @@
+---
 Title:Daddy of Gods 
 Chapter:2481 
 Section:12 
 Book:8 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Daddy of Gods
 ### Chapter 2481

@@ -1,9 +1,11 @@
+---
 Title:Ten Steps of the Holy Door 
 Chapter:1144 
 Section:3 
 Book:3 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Ten Steps of the Holy Door
 ### Chapter 1144
@@ -44,7 +46,7 @@ So then, she summoned her lute. Notes emerged from the instrument without it eve
 
 It did not last forever, though, and each time her protection broke, she’d summon another instrument to create a shield. Over the time it took for her to open the door, she ended up summoning eight different instruments and eight different creatures.
 
-Boom!
+*Boom!*
 
 Even the stone door itself quivered. She had managed to open the door fully, but no spirit came through from the other side.
 

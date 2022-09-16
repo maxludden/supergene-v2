@@ -1,9 +1,11 @@
+---
 Title:Can You Not Treat Me Like a Monster? 
 Chapter:1951 
 Section:7 
 Book:5 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Can You Not Treat Me Like a Monster?
 ### Chapter 1951
@@ -102,7 +104,7 @@ The crowd behind was approaching fast, and the gang that had chased Wang Yuhang 
 
 “If you can, could you please not treat me like a monster?” Wang Yuhang ignored the xenogeneics. He spoke to the mother and daughter, but his voice was so quiet, they could barely hear him.
 
-Boom!
+*Boom!*
 
 A noise like a generator sounded. Wang Yuhang’s body brimmed with an unspeakable power. The noise came from his body, but there was no light, smoke, or shadow to see.
 

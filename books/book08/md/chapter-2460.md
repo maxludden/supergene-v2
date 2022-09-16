@@ -1,9 +1,11 @@
+---
 Title:The Same Stone Mountain 
 Chapter:2460 
 Section:12 
 Book:8 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## The Same Stone Mountain
 ### Chapter 2460

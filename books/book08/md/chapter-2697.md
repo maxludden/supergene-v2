@@ -1,9 +1,11 @@
+---
 Title:Beating a Deified 
 Chapter:2697 
 Section:13 
 Book:8 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Beating a Deified
 ### Chapter 2697
@@ -72,7 +74,11 @@ As he continued with his work, Han Sen saw the Red Blood Demon’s red light fla
 
 Fortunately, Han Sen had already injured the Red Blood Demon badly. Now, the creature was gasping its final few breaths.
 
-…
+<br>
+
+*****
+
+<br>
 
 Exquisite and Li Keer tried their hardest to get to Jail Demon Hall. When they got there, people from the Inspection Department were already there. They were trying to shut down the restrictions that kept Jail Demon Hall locked.
 

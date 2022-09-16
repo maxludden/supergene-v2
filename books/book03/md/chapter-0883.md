@@ -1,9 +1,11 @@
+---
 Title:Third God's Sanctuary 
 Chapter:883 
 Section:3 
 Book:3 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Third God's Sanctuary
 ### Chapter 883
@@ -22,7 +24,7 @@ While he was thinking, a black light burst forth from the gourd to sunder the at
 
 A lesion was torn in the fabric of space, and a powerful force of suction came from it. Before he could react, Han Sen and the gourd were both sucked inside.
 
-Boom!
+*Boom!*
 
 Han Sen felt as if the world was spinning, or as if he had been tossed into a tumble dryer. He felt a crushing force descend upon him, and amidst his rolling, he felt as if he wanted to throw up but could not.
 

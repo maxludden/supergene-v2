@@ -1,9 +1,11 @@
+---
 Title:Human King Appeared 
 Chapter:3340 
 Section:17 
 Book:10 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Human King Appeared
 ### Chapter 3340

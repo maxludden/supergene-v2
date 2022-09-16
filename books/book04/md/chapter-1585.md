@@ -1,9 +1,11 @@
+---
 Title:The Name of Dollar 
 Chapter:1585 
 Section:4 
 Book:4 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## The Name of Dollar
 ### Chapter 1585
@@ -14,7 +16,7 @@ viewport: width=device-width
   
 
   
-Boom!
+*Boom!*
 
 Amidst the angry roaring, Destroyer Wolf’s head fell to the ground. No matter how loudly it roared, it could not move.
 
@@ -58,7 +60,11 @@ That did not mean Han Sen was powerful. They merely thought Han Sen was powerful
 
 “The power to open that geno core is not something we can comprehend.”
 
-…
+<br>
+
+*****
+
+<br>
 
 Goddess looked to the point where Han Sen vanished. Her beautiful eyes looked strange, and she said, “When did such a powerful being come to exist here?”
 

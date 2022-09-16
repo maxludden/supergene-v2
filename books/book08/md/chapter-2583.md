@@ -1,9 +1,11 @@
+---
 Title:It’s Hard to Tell if It’s Good or Bad 
 Chapter:2583 
 Section:12 
 Book:8 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## It’s Hard to Tell if It’s Good or Bad
 ### Chapter 2583
@@ -94,7 +96,7 @@ If there was no exit down below, then the presence of wind was weird.
 
 Han Sen wanted to ask the white tiger, but the white tiger only continued to run forward. It ignored them. So, getting information from that creature would be unlikely.
 
-Boom! Boom! Boom!
+*Boom!* *Boom!* *Boom!*
 
 The wind was coming up again. This time, it blew against them with greater strength. The force of the wind twisted the faces of the pirates into a variety of odd shapes. The skin of their faces flapped against their skulls with the wind.
 

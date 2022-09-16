@@ -1,9 +1,11 @@
+---
 Title:Stone Tablet Bird 
 Chapter:2908 
 Section:15 
 Book:9 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Stone Tablet Bird
 ### Chapter 2908
@@ -38,7 +40,7 @@ That was just from the punch’s shockwave unleashed by Bai Wushang. If they wer
 
 Han Sen was sitting nearby. He did not react. His shirt sleeves were waving as if they were held to a harsh wind.
 
-Boom!
+*Boom!*
 
 Bai Wushang left another punch mark on the stone tablets. This time, the punch marks were much bigger. They were much bigger than the cat paw and even bigger than the cow footprint. It was a little smaller than the handprint on top.
 

@@ -1,9 +1,11 @@
+---
 Title:Solo Show 
 Chapter:394 
 Section:1 
 Book:1 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Solo Show
 ### Chapter 394
@@ -56,11 +58,11 @@ Seeing the look in the golden growler's eyes, Han Sen knew that the creature had
 
 "Let's finish everything here and now." Han Sen gripped the cursed wolf dagger in his hand, staring at the golden growler.
 
-Boom!
+*Boom!*
 
 The golden growler clashed with the transformed golden rock worm king. Although the worm king was just about one tenth the size of golden growler, it did not back off after the clash. The eight sharp claws dug deep into the fur of the golden growler.
 
-Roar!
+*Roar!*
 
 The golden growler felt the pain and howled. Its paw hit the golden rock worm king, knocking the worm away, which then caused several buildings to collapse.
 
@@ -86,7 +88,7 @@ When the golden growler tried to take its paw back to hit Han Sen, the rock worm
 
 Han Sen threw himself at the lion, piercing the other eye of the golden growler. Blood suddenly colored the golden eye red.
 
-Roar!
+*Roar!*
 
 Growling continuously, the golden growler quickly rushed toward a direction, knocking down countless buildings. It eventually broke out of the shelter and ran away.
 

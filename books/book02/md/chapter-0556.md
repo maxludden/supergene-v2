@@ -1,9 +1,11 @@
+---
 Title:Jade-sun Force 
 Chapter:556 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Jade-sun Force
 ### Chapter 556

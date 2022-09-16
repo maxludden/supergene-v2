@@ -1,9 +1,11 @@
+---
 Title:Pulling a Carriage 
 Chapter:2551 
 Section:12 
 Book:8 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Pulling a Carriage
 ### Chapter 2551
@@ -90,7 +92,11 @@ As long as Han Sen had that purple horn, he could use his will to control the De
 
 “Pulling a carriage?” Ji Yang Sheng was confused. He didn’t know what that meant.
 
-…
+<br>
+
+*****
+
+<br>
 
 In the core area, a few Kings were hunting a xenogeneic. They were just about to kill it when they saw something coming toward them.
 

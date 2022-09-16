@@ -1,9 +1,11 @@
+---
 Title:Evil Goblins 
 Chapter:410 
 Section:1 
 Book:1 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Evil Goblins
 ### Chapter 410
@@ -80,6 +82,6 @@ In addition, the sacred-blood king was also leading an entire group of twenty mu
 
 "Understood." Han Sen's gaze was fixed upon the giant evil goblin king. When the group went far, he pulled the bow to the fullest.
 
-Whoosh!
+*Whoosh!*
 
 Without hesitation, Han Sen shot the arrow at the evil goblin king.

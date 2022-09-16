@@ -1,9 +1,11 @@
+---
 Title:No One Can Stop 
 Chapter:3218 
 Section:16 
 Book:10 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## No One Can Stop
 ### Chapter 3218
@@ -28,7 +30,7 @@ The Blood-Pulse Sutra and Xuan Yellow Sutra were running at the same time. The t
 
 “God base, I am coming for you!” Han Sen’s heart exclaimed.
 
-Boom!
+*Boom!*
 
 Han Sen’s Break World power struck the Shadow God Temple, but the Shadow God Temple did not break like he expected it would. He saw a red Break World power strike the Shadow God Temple, which was like a god temple reflecting a thousand other god temples in the mirage. Han Sen realized he had almost hit himself with the Break World power.
 

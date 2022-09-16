@@ -1,9 +1,11 @@
+---
 Title:Extreme King Alpha’s Treasure 
 Chapter:2332 
 Section:11 
 Book:7 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Extreme King Alpha’s Treasure
 ### Chapter 2332

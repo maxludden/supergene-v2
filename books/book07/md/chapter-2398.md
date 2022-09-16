@@ -1,9 +1,11 @@
+---
 Title:Xenogeneic Chase 
 Chapter:2398 
 Section:11 
 Book:7 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Xenogeneic Chase
 ### Chapter 2398
@@ -20,7 +22,7 @@ Katcha… Katcha…
 
 More cracks opened across the surface of the goose egg stone. The cracks were very well-aligned, so they obviously weren’t like ordinary cracks one might find in a well-weathered stone. Instead, the perfectly-spaced cracks opened straight up and down.
 
-Boom!
+*Boom!*
 
 Countless dark green claws emerged from the top and bottom of the stone.
 
@@ -50,7 +52,7 @@ Han Sen used his Dongxuan Aura as he turned to run. He didn’t dare use his Mov
 
 A xenogeneic like this had enough raw power to crush his Move Mountain Area without breaking a sweat. His Dongxuan Armor wouldn’t be able to withstand strength of that magnitude. He would die in moments.
 
-Boom!
+*Boom!*
 
 The weird bug attacked. Two of the Kings were too close to the creature to run, so they had no choice but to attack. They tried to use their own powers to fight back against the insect, but the weird bug was able to swallow them whole. The weird bug then dove into the ground, vanishing under the surface and leaving a large hole behind.
 
@@ -58,7 +60,7 @@ The ground shook beneath Han Sen like a violent earthquake. He wanted to run, bu
 
 “F*ck you!” Dragon Eight screamed when he saw the insect eat one of the Dragons. It made him so angry that he used his giant gold dragon. He sent a punch toward the pit in the ground.
 
-Boom!
+*Boom!*
 
 The hole collapsed on itself, and the weird bug didn’t come out again. It didn’t scream, either.
 

@@ -1,9 +1,11 @@
+---
 Title:Not Dying and Not Hurting 
 Chapter:1236 
 Section:3 
 Book:3 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Not Dying and Not Hurting
 ### Chapter 1236
@@ -44,7 +46,7 @@ If the body was gone, the rhino couldn’t heal it.
 
 But Saint Fan Emperor waved his hand, and then, a weird light appeared. This light was sent towards Xie Qing King.
 
-Boom!
+*Boom!*
 
 The light broke and diminished, returning the king spirit in front of Xie Qing King unharmed and free from wounds. Seeing this, Xie Qing King’s face changed. Han Sen now knew why his opponents really weren’t afraid of death. Even if they couldn’t be healed, resurrection was only a hand flick away.
 

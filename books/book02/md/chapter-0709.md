@@ -1,9 +1,11 @@
+---
 Title:The King's Declaration 
 Chapter:709 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## The King's Declaration
 ### Chapter 709

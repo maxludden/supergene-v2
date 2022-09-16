@@ -1,9 +1,11 @@
+---
 Title:Getting a Super Beast Soul 
 Chapter:1043 
 Section:3 
 Book:3 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Getting a Super Beast Soul
 ### Chapter 1043
@@ -60,7 +62,7 @@ Dong!
 
 The horn was delivered a deep scratch mark, but Han Sen was sent flying back into the forest.
 
-Boom!
+*Boom!*
 
 Han Sen was knocked through a dozen charcoal trees before coming to a stop. When he came to, the air was choked with soot. The disturbed ash hung in the atmosphere, clogging it like a thick mist.
 

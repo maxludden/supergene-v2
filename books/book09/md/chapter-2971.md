@@ -1,9 +1,11 @@
+---
 Title:Well Lotus 
 Chapter:2971 
 Section:15 
 Book:9 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Well Lotus
 ### Chapter 2971
@@ -124,7 +126,11 @@ He took all of the Light Well Lotuses with him as he departed the Light Well. Th
 
 “With the god palaces appearing, it must be a sign of chaos. The universe is not going to be stable anymore.”
 
-…
+<br>
+
+*****
+
+<br>
 
 In the Extreme King, Bai King heard what the blind old man had to say and sent him away. He sat alone and said, “I am afraid that kid is not going to stop.”
 

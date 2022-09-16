@@ -1,9 +1,11 @@
+---
 Title:Killing 
 Chapter:2373 
 Section:11 
 Book:7 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Killing
 ### Chapter 2373
@@ -80,7 +82,11 @@ Lilly was sitting behind Han Sen and holding tight to his waist. This fight was 
 
 “Kill him!”
 
-…
+<br>
+
+*****
+
+<br>
 
 “I have given you guys three chances. What happens now is on you.” Han Sen lifted his weapon and thrust it forward. Suddenly, the entire hall was webbed with knife silks. They appeared everywhere, and they were pressing forward.
 

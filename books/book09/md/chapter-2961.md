@@ -1,9 +1,11 @@
+---
 Title:The Only Savior 
 Chapter:2961 
 Section:15 
 Book:9 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## The Only Savior
 ### Chapter 2961
@@ -46,7 +48,7 @@ With his power, he had been unable to wield the stone lantern. It forced itself 
 
 Only Han Sen knew that when his power entered the stone lantern, it had not been activated for himself. It activated the power inside the stone lantern and started fighting.
 
-Boom!
+*Boom!*
 
 The stone lantern landed on the holy palace’s roof. The five race lanterns, one primary and four subordinates, were shining. They lit up the darkness around. It was like daytime.
 
@@ -54,7 +56,7 @@ Han Sen saw that there were space charms in the darkness. He also saw the fate m
 
 Han Sen thought Red Ghost returned because he had managed to kill Nine Thousand King and the others, but things hadn’t turned out that way. This situation was a bit negative, but at least they weren’t dead.
 
-Boom! Boom! Boom!
+*Boom!* *Boom!* *Boom!*
 
 The lights of the holy palace flickered. It was not an illusion. It really was shaking. The roof of the giant palace was like a lotus flower opening. It showed many holy palace statues.
 

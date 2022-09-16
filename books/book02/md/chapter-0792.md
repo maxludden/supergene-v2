@@ -1,9 +1,11 @@
+---
 Title:A King With Seventy-two Wives 
 Chapter:792 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## A King With Seventy-two Wives
 ### Chapter 792

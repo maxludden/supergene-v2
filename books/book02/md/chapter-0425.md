@@ -1,9 +1,11 @@
+---
 Title:Second God’s Sanctuary 
 Chapter:425 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Second God’s Sanctuary
 ### Chapter 425

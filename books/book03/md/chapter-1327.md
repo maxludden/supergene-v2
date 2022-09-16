@@ -1,9 +1,11 @@
+---
 Title:The Two Powers That Cannot Be Trapped 
 Chapter:1327 
 Section:3 
 Book:3 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## The Two Powers That Cannot Be Trapped
 ### Chapter 1327
@@ -42,7 +44,11 @@ No God Emperor, Gu Demon Emperor, and Three-Eye Emperor then leaped forward to j
 
 “Mister Ruin is the strongest in the entire sanctuary. None can stop him.”
 
-…
+<br>
+
+*****
+
+<br>
 
 The spirits that were spectating these events were beginning to forget the horrors of what had happened prior to Ruin Emperor’s arrival. They were actually feeling happy and hopeful for a positive outcome for the day, despite the heavy losses they had incurred. They were particularly keen at the prospect of watching the cocky human get killed; for some, who had no history with Godslayer Luo, that was who they wanted to see suffer more than anyone.
 
@@ -56,7 +62,7 @@ Han Sen believed it to be a rule of the universe that there was no beat-all powe
 
 Han Sen could not use his time and space powers, but he could at the very least use lightning.
 
-Boom!
+*Boom!*
 
 Han Sen summoned a lightning-wreathed manifestation of a hammer: his Thunder Hammer. But it shattered when it was brought down on Ruin Emperor’s body.
 

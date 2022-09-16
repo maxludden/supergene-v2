@@ -1,9 +1,11 @@
+---
 Title:Opening a Chest 
 Chapter:855 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Opening a Chest
 ### Chapter 855
@@ -80,7 +82,7 @@ The Devil-Blood King used this portable shadow to warp towards Han Sen.
 
 To this, Han Sen coldly smiled. He did not dodge; instead, he swung his fist. His fist was like a silver sun, one that illuminated the area and forbid the approach of any shadow.
 
-Pop!
+*Pop!*
 
 The Devil-Blood King could not make use of Han Sen's shadow to pounce upon his foe. Spilling blood, he exploded back through the dragon's shadow as if he had been banished from its premise.
 

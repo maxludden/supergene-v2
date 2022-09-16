@@ -1,9 +1,11 @@
+---
 Title:Special Training 
 Chapter:86 
 Section:1 
 Book:1 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Special Training
 ### Chapter 86

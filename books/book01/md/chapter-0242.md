@@ -1,9 +1,11 @@
+---
 Title:Spinning Spear 
 Chapter:242 
 Section:1 
 Book:1 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Spinning Spear
 ### Chapter 242

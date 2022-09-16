@@ -1,9 +1,11 @@
+---
 Title:Not Teleportation 
 Chapter:2547 
 Section:12 
 Book:8 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Not Teleportation
 ### Chapter 2547
@@ -34,7 +36,11 @@ The Demon Doll flashed with purple. It zoomed off in Han Sen’s direction at a 
 
 The Demon King nodded and retreated. After that, he said nothing more.
 
-…
+<br>
+
+*****
+
+<br>
 
 A shoal of shark-sized, mechanical demon fish were flying through space. As they headed for Han Sen, they spat out scary streaks of lightning, turning the system into an electrified ocean.
 

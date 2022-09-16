@@ -1,9 +1,11 @@
+---
 Title:Blood Demon Spear 
 Chapter:2097 
 Section:8 
 Book:6 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Blood Demon Spear
 ### Chapter 2097
@@ -90,7 +92,7 @@ Sleepless Duke’s eyes were filled with blood tears, but she had no choice but 
 
 The sky turned red like hell itself.
 
-Boom!
+*Boom!*
 
 The Blood Demon Orb was shining now. The red light lit up the entire Blood Demon Spear. Sleepless Duke looked as if she was holding a red laser.
 

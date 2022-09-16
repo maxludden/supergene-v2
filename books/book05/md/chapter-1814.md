@@ -1,9 +1,11 @@
+---
 Title:Take as Much as You Wan 
 Chapter:1814 
 Section:6 
 Book:5 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Take as Much as You Wan
 ### Chapter 1814

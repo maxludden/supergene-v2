@@ -1,9 +1,11 @@
+---
 Title:Killing Big Evil Beast 
 Chapter:2538 
 Section:12 
 Book:8 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Killing Big Evil Beast
 ### Chapter 2538

@@ -1,9 +1,11 @@
+---
 Title:Getting a Beast Soul Again 
 Chapter:2362 
 Section:11 
 Book:7 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Getting a Beast Soul Again
 ### Chapter 2362

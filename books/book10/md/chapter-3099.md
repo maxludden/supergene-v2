@@ -1,9 +1,11 @@
+---
 Title:Sky Jade 
 Chapter:3099 
 Section:16 
 Book:10 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Sky Jade
 ### Chapter 3099
@@ -68,7 +70,7 @@ To have been invited to the party, the people there had reputations. They recogn
 
 Seeing the Jade Demon Punch hit the Holy Wen White Deer, the room was filled with a red punch power. It struck Dou Tian Yu’s Jade Demon Punch.
 
-Boom!
+*Boom!*
 
 After that explosion, people were shocked to discover that Dou Tian Yu had been struck by that red punching power. Dou Tian Yu’s hair waved. His clothes were ruffled. His face had some weird red on it. He had not taken the advantage. “How is that possible? He blocked Dou Tian Yu’s Jade Demon Punch.”
 

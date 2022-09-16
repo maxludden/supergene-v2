@@ -1,9 +1,11 @@
+---
 Title:Human? 
 Chapter:415 
 Section:1 
 Book:1 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Human?
 ### Chapter 415
@@ -18,7 +20,7 @@ On another thought, Han Sen was not even sure if he could hurt her with the curs
 
 Han Sen watched the Shura girl banging her head against the floor in pain with a complex look. He suddenly found that the cave seemed to be very well lit. As he took a closer look, he saw the full moon was shining through the cave from the crack above.
 
-Boom!
+*Boom!*
 
 With another hard bang, a large pit was formed as all the rocks within a range of a dozen feet were crushed.
 
@@ -42,7 +44,7 @@ Han Sen could not believe it and rubbed his eyes. As he looked at her one more t
 
 If she was Shura, Han Sen would hope this to happen. However, the girl now looked like a completely normal human girl, which made him hesitate.
 
-Boom!
+*Boom!*
 
 Seeing that the evil goblin king was about to eat the girl, Han Sen gritted his teeth and summoned the holy angel and the cursed wolf dagger, dashing at the evil goblin king.
 
@@ -84,11 +86,12 @@ Han Sen rushed over to fight the evil goblin with the cursed wolf dagger in his 
 
 The evil goblin was dodging here and there from the holy angel’s attack. Han Sen took his opportunity, used the both Heresy Mantra and Overload, appeared behind the evil goblin, and cut off its triangular head.
 
-Bang!
+*Bang!*
 
 The giant body of the evil goblin suddenly became limp. It fell to the bottom, making the entire space shake.
 
-> "Super Creature Evil Goblin Killed. No Beast Soul Gained. Life Essence Available. Meat Inedible."
+> "Super Evil Goblin King killed. No beast soul gained. Life essence available. Meat inedible. Consume its life essence to gain zero to ten super geno points randomly."
+<!--"Super Creature Evil Goblin Killed. No Beast Soul Gained. Life Essence Available. Meat Inedible."-->
 
 The voice suddenly sounded in Han Sen’s mind, but Han Sen had no time to lament the lack of beast soul. He commanded the holy angel to take care of the six-legged white rhinoceros.
 

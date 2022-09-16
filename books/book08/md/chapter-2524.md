@@ -1,9 +1,11 @@
+---
 Title:You Lose 
 Chapter:2524 
 Section:12 
 Book:8 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## You Lose
 ### Chapter 2524

@@ -1,9 +1,11 @@
+---
 Title:Suicidal 
 Chapter:2841 
 Section:14 
 Book:9 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Suicidal
 ### Chapter 2841

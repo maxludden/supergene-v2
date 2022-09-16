@@ -1,9 +1,11 @@
+---
 Title:Kingese Blowing Up the Body 
 Chapter:2342 
 Section:11 
 Book:7 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Kingese Blowing Up the Body
 ### Chapter 2342

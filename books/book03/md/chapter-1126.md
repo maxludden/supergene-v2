@@ -1,9 +1,11 @@
+---
 Title:Human-faced Scorpion 
 Chapter:1126 
 Section:3 
 Book:3 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Human-faced Scorpion
 ### Chapter 1126

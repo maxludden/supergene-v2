@@ -1,9 +1,11 @@
+---
 Title:Violent Hitting 
 Chapter:1307 
 Section:3 
 Book:3 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Violent Hitting
 ### Chapter 1307

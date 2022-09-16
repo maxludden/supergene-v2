@@ -1,9 +1,11 @@
+---
 Title:Don't Belong to This World 
 Chapter:3029 
 Section:15 
 Book:9 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Don't Belong to This World
 ### Chapter 3029
@@ -60,7 +62,7 @@ uy
 
 Seeing Qin Xiu’s power explode, his God Spirit and body levels had recovered. Very High Leader immediately roared. He pushed his Very High Sense to the max. His entire body combined with the universe’s rule power. He became sheer pressure focused on Qin Xiu. At the same time, he shouted, “Before he recovers, we must kill him!” Many elites of the universe did not hesitate. They all used their strongest powers to attack Qin Xiu.
 
-Boom!
+*Boom!*
 
 Qin Xiu looked at the sky and roared. A shockwave of red blasted out of him. It broke the powers wielded by Very High Leader and the other scary elites. It also blasted their bodies away. The most shocking thing was that Very High Leader noticed their bodies were devolving. They themselves were dropping to butterfly class and continued to devolve. Aside from Han Sen, no one else escaped that power.
 

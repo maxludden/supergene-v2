@@ -1,9 +1,11 @@
+---
 Title:Shura, Huh? Is That It? 
 Chapter:826 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Shura, Huh? Is That It?
 ### Chapter 826
@@ -66,7 +68,7 @@ Han Sen's eyes flashed blue as thunder flickered across his body. The fist was d
 
 "Stop!" Upon seeing this, the royal shura's face completely changed. He wanted to stop Han Sen from delivering his punch, but it was too late.
 
-Boom!
+*Boom!*
 
 Han Sen's fist smashed into his opponent's skull. There wasn't much noise, but Yu Qielan's eye sockets began to cascade with blood. The eyes themselves looked ready to eject themselves from the sockets.
 

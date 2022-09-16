@@ -1,9 +1,11 @@
+---
 Title:Sacred-blood Sledgehammer 
 Chapter:163 
 Section:1 
 Book:1 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Sacred-blood Sledgehammer
 ### Chapter 163
@@ -72,7 +74,7 @@ Son of Heaven remained silent and nodded to his men when Gu had become weak.
 
 "Even if I had to die, I will not give you anything." Gu spit out a mouthful of blood at the man's face.
 
-Snap!
+*Snap!*
 
 The man slapped Gu hard in anger and said viciously, "Do you ucing think that you can die whenever you want? If you don’t give me the hammer, I will make you beg for a chance to kill yourself. Get rid of his claws first."
 

@@ -1,9 +1,11 @@
+---
 Title:Dollar 
 Chapter:42 
 Section:1 
 Book:1 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Dollar
 ### Chapter 42

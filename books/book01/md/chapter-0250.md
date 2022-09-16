@@ -1,9 +1,11 @@
+---
 Title:Against the Monster 
 Chapter:250 
 Section:1 
 Book:1 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Against the Monster
 ### Chapter 250
@@ -94,7 +96,11 @@ If it were the Blackhawk that people had known, no one would pay extra attention
 
 "No matter what, this should be a very good match to watch. I hope that Han Sen could do well so that we can watch for a longer time."
 
-…
+<br>
+
+*****
+
+<br>
 
 On the Skynet, no one thought the Alliance Central Military Academy would lose. After all, Jing Jiwu had ruled the league for three years without losing in anything.
 

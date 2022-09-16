@@ -1,9 +1,11 @@
+---
 Title:Blood Kirin’s Movemen 
 Chapter:2261 
 Section:10 
 Book:7 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Blood Kirin’s Movemen
 ### Chapter 2261

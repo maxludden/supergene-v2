@@ -1,9 +1,11 @@
+---
 Title:Knife and Sword Battle 
 Chapter:1997 
 Section:8 
 Book:6 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Knife and Sword Battle
 ### Chapter 1997
@@ -84,7 +86,7 @@ Ghost Teeth Knife followed Han Sen because of the deified knifemind he possessed
 
 But when Han Sen combined with the deified knifemind, Ghost Teeth Knife’s true power was triggered through Han Sen.
 
-Boom!
+*Boom!*
 
 Han Sen felt the scary power of Ghost Teeth Knife flow out of the knife. If he hadn’t awakened it, the demon would have lost control. A mark on Lone Bamboo’s forehead cracked. An eye opened there, and it began to bleed.
 

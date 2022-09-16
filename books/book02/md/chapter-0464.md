@@ -1,9 +1,11 @@
+---
 Title:Simulating Crystal 
 Chapter:464 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Simulating Crystal
 ### Chapter 464

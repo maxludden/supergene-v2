@@ -1,9 +1,11 @@
+---
 Title:The Purple Copper Jian That Cannot Be Gotten Rid of 
 Chapter:2588 
 Section:12 
 Book:8 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## The Purple Copper Jian That Cannot Be Gotten Rid of
 ### Chapter 2588

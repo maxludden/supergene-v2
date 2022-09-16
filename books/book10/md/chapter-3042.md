@@ -1,9 +1,11 @@
+---
 Title:God Pulse Weird Scene 
 Chapter:3042 
 Section:16 
 Book:10 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## God Pulse Weird Scene
 ### Chapter 3042

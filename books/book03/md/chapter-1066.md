@@ -1,9 +1,11 @@
+---
 Title:Big Plunder 
 Chapter:1066 
 Section:3 
 Book:3 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Big Plunder
 ### Chapter 1066
@@ -40,7 +42,7 @@ A few more robots took to the field. With their arms raised, they fired laser be
 
 But it was like water spraying the steel hull of a ship. Not a single mark or scrape was left on the shell of the beetle.
 
-Boom!
+*Boom!*
 
 A horrible light shot out of the beetle’s eyes, cutting down the robots in less than a second.
 
@@ -60,7 +62,7 @@ Ji Yanran believed she might have been dreaming for a second, as Han Sen was the
 
 Han Sen picked her up and took her inside the control room with him.
 
-Boom!
+*Boom!*
 
 The beetle shot up into the sky, faster than any aircraft they had ever been on.
 

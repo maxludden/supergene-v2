@@ -1,9 +1,11 @@
+---
 Title:Red Sleeve Building 
 Chapter:3265 
 Section:16 
 Book:10 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Red Sleeve Building
 ### Chapter 3265
@@ -64,7 +66,7 @@ They went to the second floor of the Red Sleeve Building. Han Sen looked in the 
 
 “I, the old man, have spent a fortune to be here tonight,” the old man said. “I did not spend it all just to hear a voice come from behind a screen!” He lacked politeness, especially since he had gone the extra mile to palm the screen. He wanted to break it down and see Zhao Ning’er’s face.
 
-“Ding!” Behind the screen, the sound of a plucked harp was heard. The old man’s palm strike was canceled by that acoustic power. Before he reached the screen, his power was gone.
+“*Ding!*” Behind the screen, the sound of a plucked harp was heard. The old man’s palm strike was canceled by that acoustic power. Before he reached the screen, his power was gone.
 
 “A sonic attack will not block me!” The old man squinted his eyes. He was ready to strike.
 

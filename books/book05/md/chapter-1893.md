@@ -1,9 +1,11 @@
+---
 Title:Soloing All the Group Fights 
 Chapter:1893 
 Section:7 
 Book:5 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Soloing All the Group Fights
 ### Chapter 1893

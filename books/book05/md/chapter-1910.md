@@ -1,9 +1,11 @@
+---
 Title:Green Light 
 Chapter:1910 
 Section:7 
 Book:5 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Green Light
 ### Chapter 1910
@@ -78,7 +80,7 @@ Han Sen looked deeper into the cave, and when he did, something made him quite h
 
 It looked like that xenogeneic was a very sensitive creature, though. It detected Han Sen’s presence quickly, and so it turned around and used its jewel-like eyes to look at him.
 
-Boom!
+*Boom!*
 
 As this occurred, the jewel-like eyes shone with a green light.
 

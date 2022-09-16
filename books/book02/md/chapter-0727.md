@@ -1,9 +1,11 @@
+---
 Title:The Thunder Breaks Through 
 Chapter:727 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## The Thunder Breaks Through
 ### Chapter 727
@@ -68,7 +70,7 @@ Dong!
 
 The Flaming Rex Spike clobbered the greataxe, shattering the blade in the process. The Flaming Rex Spike did not stop there, though; it pierced through the armor of the spirit and drilled directly into his chest. Han Sen kept going, pushing the spirit into the spirit hall.
 
-Boom!
+*Boom!*
 
 The spirit was nailed to the statue, deader than dead could be.
 

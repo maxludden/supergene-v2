@@ -1,9 +1,11 @@
+---
 Title:The Same Skill That Wouldn’t Lose Twice 
 Chapter:2833 
 Section:14 
 Book:9 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## The Same Skill That Wouldn’t Lose Twice
 ### Chapter 2833

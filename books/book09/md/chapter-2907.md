@@ -1,9 +1,11 @@
+---
 Title:Weird Deified Xenogeneic 
 Chapter:2907 
 Section:15 
 Book:9 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Weird Deified Xenogeneic
 ### Chapter 2907
@@ -108,7 +110,7 @@ Bai Wushang watched for a while. He then raised his fist and punched the stone t
 
 He used the Extreme King Shocking Sky Punch. His punch was performed at a very high level. The punch, which looked very casual, had the power to suppress the sky and the earth.
 
-Boom!
+*Boom!*
 
 He punched the stone tablet. The stone tablet’s surface caved-in with the shape of a fist.
 

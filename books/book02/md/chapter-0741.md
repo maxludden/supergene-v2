@@ -1,9 +1,11 @@
+---
 Title:Ice Lake 
 Chapter:741 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Ice Lake
 ### Chapter 741
@@ -74,7 +76,7 @@ Suddenly, Han Sen's heart leapt inside his chest and the silver fox on his shoul
 
 Han Sen retreated without falter and stared at the frosty lake.
 
-Splash!
+*Splash!*
 
 The water in the lake suddenly arose into a thousand airborne threads—with Han Sen as the target.
 

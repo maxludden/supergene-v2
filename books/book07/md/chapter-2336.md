@@ -1,9 +1,11 @@
+---
 Title:Sick Beauty 
 Chapter:2336 
 Section:11 
 Book:7 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Sick Beauty
 ### Chapter 2336

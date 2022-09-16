@@ -1,9 +1,11 @@
+---
 Title:Xenogeneic 
 Chapter:1808 
 Section:6 
 Book:5 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Xenogeneic
 ### Chapter 1808
@@ -62,7 +64,7 @@ Han Sen’s heart jumped. “This liquid can be absorbed! Maybe I can absorb mor
 
 Han Sen’s body kept sinking. He ran his Dongxuan Sutra and Blood-Pulse Sutra, but they did not work. They could not absorb the juice, not like the soft orb was able to.
 
-Splash!
+*Splash!*
 
 Han Sen felt empty, and he fell from the liquid.
 

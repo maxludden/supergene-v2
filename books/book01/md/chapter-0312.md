@@ -1,9 +1,11 @@
+---
 Title:An Effortless Shot 
 Chapter:312 
 Section:1 
 Book:1 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## An Effortless Shot
 ### Chapter 312

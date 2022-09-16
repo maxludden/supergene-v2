@@ -1,9 +1,11 @@
+---
 Title:The Qin Kingdom's No.1 Swordsman? 
 Chapter:3269 
 Section:16 
 Book:10 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## The Qin Kingdom's No.1 Swordsman?
 ### Chapter 3269

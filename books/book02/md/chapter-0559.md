@@ -1,9 +1,11 @@
+---
 Title:Cracked Egg 
 Chapter:559 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Cracked Egg
 ### Chapter 559
@@ -18,7 +20,7 @@ Han Sen and Yi Dong Mu took a few steps back, watching the silver and metal egg 
 
 If a creature did reside inside the egg, even as a newborn, they suspected it might possess terrible, powerful abilities.
 
-Crack! Crack!
+*Crack!* *Crack!*
 
 More and more cracks began to run down the sides of the egg, until a plate of the shell was smacked open. Inside, a fluffy silver head was trying to poke its way out of its shell. The eyes of the creature were only half-open.
 
@@ -38,7 +40,7 @@ Yi Dong Mu then seemed to move, dagger in hand. Like a gust of wind, he started 
 
 But Han Sen took a few steps back, instead; this scene was all-too familiar for him. When the golden roarer was born, he had played the role Yi Dong Mu was now fulfilling.
 
-Ding!
+*Ding!*
 
 Yi Dong Mu was a talented assassin, and although his attacks were unpredictable, they were lethal. The tip of his dagger had been driven directly into the silver fox's eyelid. But the knife was stopped in its place, its bloodlust greeted by the sound of hammered steel. The eyelid was made of metal!
 

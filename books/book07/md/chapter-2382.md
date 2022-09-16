@@ -1,9 +1,11 @@
+---
 Title:Pride and Bones Are Made 
 Chapter:2382 
 Section:11 
 Book:7 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Pride and Bones Are Made
 ### Chapter 2382

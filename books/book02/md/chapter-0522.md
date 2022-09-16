@@ -1,9 +1,11 @@
+---
 Title:Stealing the Spirit 
 Chapter:522 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Stealing the Spirit
 ### Chapter 522
@@ -54,7 +56,7 @@ Inside the shelter, they saw creature bodies lay everywhere. The golden figure r
 
 The spirit warrior riding the boar chased after him like crazy, but it was too late. When the spirit warrior came to the hall, the golden figure had already walked out of the hall, with a glowing gem in his hand.
 
-Thump!
+*Thump!*
 
 When the spirit warrior came to the golden figure, he did not launch a suicidal attack toward the man as people expected. Surprisingly, it kneeled in front of the golden figure.
 
@@ -88,6 +90,10 @@ Yes, the golden armor, the invincible attitude, who else could it be other than 
 
 "That punch is so bad ass."
 
-…
+<br>
+
+*****
+
+<br>
 
 Han Sen did not stay at all. After killing the boar, he jumped to the top of the palace and quickly left the shelter. He was basically stealing other people's spirit and felt too ashamed to stay.

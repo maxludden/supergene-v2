@@ -1,9 +1,11 @@
+---
 Title:Fighting the Buddha Alone 
 Chapter:2886 
 Section:14 
 Book:9 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Fighting the Buddha Alone
 ### Chapter 2886

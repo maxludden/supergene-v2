@@ -1,9 +1,11 @@
+---
 Title:Yin Ghost Head 
 Chapter:2798 
 Section:14 
 Book:9 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Yin Ghost Head
 ### Chapter 2798
@@ -38,7 +40,7 @@ Mister Yin’s green eyes peered into Han Sen’s. His lips were lifted. He had 
 
 After that, the green antennas on his head flashed with a green light. In the next second, the green light shot into Han Sen’s skull via the space between his eyebrows.
 
-Boom!
+*Boom!*
 
 The green light quickly invaded Han Sen’s brain. It enabled Han Sen to understand what it was it had come there to do to him.
 

@@ -1,9 +1,11 @@
+---
 Title:Stone Destiny’s Tower 
 Chapter:2400 
 Section:11 
 Book:7 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Stone Destiny’s Tower
 ### Chapter 2400

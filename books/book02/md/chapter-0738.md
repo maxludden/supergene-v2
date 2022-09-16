@@ -1,9 +1,11 @@
+---
 Title:Twin-tail Purple Scorpion 
 Chapter:738 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Twin-tail Purple Scorpion
 ### Chapter 738

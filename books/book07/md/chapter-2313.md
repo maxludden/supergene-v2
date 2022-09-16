@@ -1,9 +1,11 @@
+---
 Title:Planet King Kong 
 Chapter:2313 
 Section:11 
 Book:7 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Planet King Kong
 ### Chapter 2313

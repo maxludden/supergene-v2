@@ -1,9 +1,11 @@
+---
 Title:Choosing a Weapon 
 Chapter:2305 
 Section:11 
 Book:7 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Choosing a Weapon
 ### Chapter 2305

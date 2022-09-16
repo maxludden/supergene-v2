@@ -1,9 +1,11 @@
+---
 Title:Two People Who Rejected God 
 Chapter:1134 
 Section:3 
 Book:3 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Two People Who Rejected God
 ### Chapter 1134

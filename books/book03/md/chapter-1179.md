@@ -1,9 +1,11 @@
+---
 Title:Angel of Principality 
 Chapter:1179 
 Section:3 
 Book:3 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Angel of Principality
 ### Chapter 1179
@@ -30,7 +32,7 @@ Han Sen did not stop attacking the mirror. The moment the halo ring gleamed abov
 
 A ribbon of strain began to form on the surface of the glass, and then, the crack popped into a web of fissures that coursed its way across the entirety of the mirror. The doppelganger lost its smug smile and was given a shock. It began to run around in fright, making a freakish wailing sound.
 
-Boom!
+*Boom!*
 
 The glass of the bronze mirror shattered into a thousand pieces. A red light manifested itself in the physical world following the destruction, and Han Sen was quick to grab it.
 

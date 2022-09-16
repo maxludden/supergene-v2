@@ -1,9 +1,11 @@
+---
 Title:Mutant Treasure 
 Chapter:1741 
 Section:6 
 Book:5 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Mutant Treasure
 ### Chapter 1741
@@ -58,7 +60,7 @@ The elders were so angry over the intrusion, they were ready to quickly destroy 
 
 But before they moved, coins fell down from the sky like rainfall. All the creatures around were hit by at least one of them; especially Beast and Feather. They were unable to dodge the coins, which planted themselves firmly upon the elders’ heads.
 
-Boom!
+*Boom!*
 
 All at the same time, the creatures fell to the ground. Even the elders did. They were all lying on the floor, unable to get up, no matter how much they tried.
 

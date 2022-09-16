@@ -1,9 +1,11 @@
+---
 Title:Forever Standing by Her Side 
 Chapter:3011 
 Section:15 
 Book:9 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Forever Standing by Her Side
 ### Chapter 3011
@@ -40,7 +42,7 @@ Ancient Origin God seemed to see through what Han Sen was thinking. Ancient Orig
 
 “I see.” Han Sen now understood. The power the Ancient Gods had now was insufficient for ruling the world again. It was not difficult to create a faction, but he had never heard of the Ancient Gods ruling a large area. It seemed as if Ancient Origin God was telling the truth.
 
-Boom!
+*Boom!*
 
 Suddenly, they heard a shaking noise come from the altar. Many weird scenes were unfolding there. Dragon Lady’s body was revealed
 

@@ -1,9 +1,11 @@
+---
 Title:Geno God List 
 Chapter:2838 
 Section:14 
 Book:9 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Geno God List
 ### Chapter 2838
@@ -106,6 +108,6 @@ Now, they just needed to win first place in the latest fights to become god spir
 
 Even if people did not achieve the first place, the rewards behind it were still quite good. It made the elites who were not deified very tempted.
 
-Boom!
+*Boom!*
 
 Seeing the empty geno god list shine, countless amounts of starlight flew across the universe. Han Sen saw starlight come before him. It was an invitation to the geno god fight. Pretty much every deified in the universe received the same starlight.

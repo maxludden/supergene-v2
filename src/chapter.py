@@ -1,13 +1,12 @@
 # core/chapter.py
 
-from ast import Mod
 import os
 import re
 import sys
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from functools import partial
 from itertools import chain
-from json import dump, load
+from ujson import dump, load
 from multiprocessing import Pool, Process, Queue, cpu_count
 from pathlib import Path
 from subprocess import run
@@ -74,17 +73,22 @@ class Chapter(Document):
     tags = ListField(StringField(max_length=50))
 
     def __rich_repr__(self):
-        table = Table(title=Text(f"Chapter {self.chapter}", style="bold cyan"),show_header=True, header_style="bold magenta", box=ROUNDED)
+        table = Table(
+            title=Text(f"Chapter {self.chapter}", style="bold cyan"),
+            show_header=True,
+            header_style="bold magenta",
+            box=ROUNDED,
+        )
 
         table.add_column("Key", style="dim", width=12)
         table.add_column("Value", style="dim")
-        table.add_row("Chapter", f'{self.chapter}')
-        table.add_row("Section", f'{self.section}')
-        table.add_row("Book", f'{self.book}')
-        table.add_row("Title", f'{self.title}')
-        table.add_row("Filename", f'{self.filename}')
-        table.add_row("MD Path", f'{self.md_path}')
-        table.add_row("HTML Path", f'{self.html_path}')
+        table.add_row("Chapter", f"{self.chapter}")
+        table.add_row("Section", f"{self.section}")
+        table.add_row("Book", f"{self.book}")
+        table.add_row("Title", f"{self.title}")
+        table.add_row("Filename", f"{self.filename}")
+        table.add_row("MD Path", f"{self.md_path}")
+        table.add_row("HTML Path", f"{self.html_path}")
 
         repr_md = Markdown(str(self.md))
 
@@ -100,7 +104,7 @@ class Chapter(Document):
 
 class chapter_gen:
     """
-    Generator for chapter_numbers.
+    Generator for chapter numbers.
     """
 
     def __init__(self, start: int = 1, end: int = 3462):
@@ -131,7 +135,8 @@ class chapter_gen:
     def __len__(self):
         return self.end - self.start + 1
 
-DRIVER_PATH = Path.cwd() / 'driver' / 'chromedriver'
+
+DRIVER_PATH = Path.cwd() / "driver" / "chromedriver"
 
 
 def generate_unparsed_text(chapter: int) -> str:
@@ -144,7 +149,7 @@ def generate_unparsed_text(chapter: int) -> str:
 
     # Get URL
     sg()
-    doc = Chapter.objects(chapter=chapter).first() # type: ignore
+    doc = Chapter.objects(chapter=chapter).first()  # type: ignore
     URL = doc.url
 
     # Chrome Webdriver
@@ -159,8 +164,7 @@ def generate_unparsed_text(chapter: int) -> str:
     # Get article title
     article_title = driver.title
     article_title = str(article_title)
-    article_title = article_title.replace(
-        title_prefix, '').replace(title_suffix, '')
+    article_title = article_title.replace(title_prefix, "").replace(title_suffix, "")
 
     try:
         settings_button = WebDriverWait(driver, 10).until(
@@ -168,8 +172,9 @@ def generate_unparsed_text(chapter: int) -> str:
         )
         settings_button.click()
 
-        change_bad_words_button = driver.find_element(By.XPATH,
-            '//*[@id="trang_doc"]/div[6]/div[1]/div[2]/ul/li[5]/a')
+        change_bad_words_button = driver.find_element(
+            By.XPATH, '//*[@id="trang_doc"]/div[6]/div[1]/div[2]/ul/li[5]/a'
+        )
         change_bad_words_button.click()
         try:
             text = WebDriverWait(driver, 10).until(
@@ -177,9 +182,9 @@ def generate_unparsed_text(chapter: int) -> str:
             )
             text = driver.find_element(By.ID, "vung_doc")
             paragraphs = text.find_elements(By.TAG_NAME, "p")
-            text = ''
+            text = ""
             for paragraph in paragraphs:
-                text = str(text + paragraph.text + '\n\n')
+                text = str(text + paragraph.text + "\n\n")
 
             # Strip erroneous whitespace characters
             text = text.strip()
@@ -189,8 +194,7 @@ def generate_unparsed_text(chapter: int) -> str:
             doc.save()
 
         except:
-            print(
-                '\n\n\nError 404\nUnable to locate text on page. Quitting Script.\n')
+            print("\n\n\nError 404\nUnable to locate text on page. Quitting Script.\n")
     finally:
         driver.quit()
     return doc.text
@@ -242,6 +246,7 @@ def vog(text):
                     text = re.sub(x, rep_str, text, re.I | re.M)
     return text
 
+
 def badWords(text: str):
     badWords = {
         "shit1": {"regex": r"sh\*t", "replacement": "shit"},
@@ -286,35 +291,35 @@ def generate_section(chapter: int) -> int | None:
             The section that the given chapter belongs to.
     """
     chapter = int(chapter)
-    if chapter <= 424:
+    if chapter <= 424:  # book1
         return 1
-    elif chapter <= 882:
+    elif chapter <= 882:  # book2
         return 2
-    elif chapter <= 1338:
+    elif chapter <= 1338:  # book3
         return 3
-    elif chapter <= 1679:
+    elif chapter <= 1679:  # book4
         return 4
-    elif chapter <= 1711:
+    elif chapter <= 1711:  # book4
         return 5
-    elif chapter <= 1821:
+    elif chapter <= 1821:  # book5
         return 6
-    elif chapter <= 1960:
+    elif chapter <= 1960:  # book5
         return 7
-    elif chapter <= 2165:
+    elif chapter <= 2165:  # book6
         return 8
-    elif chapter <= 2204:
+    elif chapter <= 2204:  # book6
         return 9
-    elif chapter <= 2299:
+    elif chapter <= 2299:  # book7
         return 10
-    elif chapter <= 2443:
+    elif chapter <= 2443:  # book7
         return 11
-    elif chapter <= 2639:
+    elif chapter <= 2639:  # book8
         return 12
-    elif chapter <= 2765:
+    elif chapter <= 2765:  # book8
         return 13
-    elif chapter <= 2891:
+    elif chapter <= 2891:  # book9
         return 14
-    elif chapter <= 3033:
+    elif chapter <= 3033:  # book9
         if chapter == 3095:
             log.warning(
                 f"Chapter {chapter} was inputted to generate_section().\nChapter {chapter} does not exist."
@@ -326,13 +331,12 @@ def generate_section(chapter: int) -> int | None:
             pass
         else:
             return 15
-    elif chapter <= 3303:
+    elif chapter <= 3303:  # book10
         return 16
-    elif chapter <= 3462:
+    elif chapter <= 3462:  # book10
         return 17
     else:
         raise ValueError("Invalid Chapter", f"\nChapter: {chapter}")
-
 
 
 def get_section(chapter: int) -> int | None:
@@ -351,9 +355,8 @@ def get_section(chapter: int) -> int | None:
             The section of the given chapter.
     """
     sg()
-    for doc in Chapter.objects(chapter=chapter): # type: ignore
+    for doc in Chapter.objects(chapter=chapter):  # type: ignore
         return doc.section
-
 
 
 def generate_book(chapter: int) -> int | None:
@@ -397,7 +400,6 @@ def generate_book(chapter: int) -> int | None:
             raise ValueError("Invalid Section", f"\nSection: {section}")
 
 
-
 def get_book(chapter: int) -> int | None:
     """
     Retrieve the book for the given chapter from MongoDB.
@@ -411,9 +413,8 @@ def get_book(chapter: int) -> int | None:
             The book for the given chapter.
     """
     sg()
-    for doc in Chapter.objects(chapter=int(chapter)): # type: ignore
+    for doc in Chapter.objects(chapter=int(chapter)):  # type: ignore
         return doc.book
-
 
 
 def get_title(chapter: int) -> str | None:
@@ -429,10 +430,9 @@ def get_title(chapter: int) -> str | None:
             The title of the given chapter.
     """
     sg()
-    for doc in Chapter.objects(chapter=chapter): # type: ignore
+    for doc in Chapter.objects(chapter=chapter):  # type: ignore
         title = max_title(doc.title)
         return title
-
 
 
 def generate_filename(chapter: int) -> str:
@@ -451,7 +451,6 @@ def generate_filename(chapter: int) -> str:
     return f"chapter-{chapter_str}"
 
 
-
 def get_filename(chapter: int) -> str | None:
     """
     Retrieve the filename of the given chapter from MongoDB.
@@ -465,9 +464,8 @@ def get_filename(chapter: int) -> str | None:
             The filename of the given chapter without a file extension.
     """
     sg()
-    for doc in Chapter.objects(chapter=chapter): # type: ignore
+    for doc in Chapter.objects(chapter=chapter):  # type: ignore
         return doc.filename
-
 
 
 def generate_md_path(chapter: int) -> str:
@@ -494,7 +492,6 @@ def generate_md_path(chapter: int) -> str:
     return md_path
 
 
-
 def get_md_path(chapter: int) -> Path | None:
     """
     Retrieve the path of the the given chapter's multimarkdown from MongoDB.
@@ -508,9 +505,8 @@ def get_md_path(chapter: int) -> Path | None:
             The filepath for the given chapter.
     """
     sg()
-    for doc in Chapter.objects(chapter=chapter): # type: ignore
+    for doc in Chapter.objects(chapter=chapter):  # type: ignore
         return doc.md_path
-
 
 
 def generate_html_path(chapter: int) -> str:
@@ -535,7 +531,6 @@ def generate_html_path(chapter: int) -> str:
     return html_path
 
 
-
 def get_html_path(chapter: int) -> Path | None:
     """
     Retrieve the filepath of the given chapter from MongoDB.
@@ -549,8 +544,9 @@ def get_html_path(chapter: int) -> Path | None:
             The filepath of the given chapter.
     """
     sg()
-    for doc in Chapter.objects(chapter=chapter): # type: ignore
+    for doc in Chapter.objects(chapter=chapter):  # type: ignore
         return Path(doc.html_path)
+
 
 def generate_text_path(chapter: int) -> str:
     """
@@ -574,6 +570,21 @@ def generate_text_path(chapter: int) -> str:
     return text_path
 
 
+def get_text_path(chapter: int) -> str | None:
+    """
+    Retrieve the filepath of the given chapter from MongoDB.
+
+    Args:
+        `chapter` (int):
+            The given chapter.
+
+    Returns:
+        `text_path` (str):
+            The filepath of the given chapter.
+    """
+    sg()
+    for doc in Chapter.objects(chapter=chapter):  # type: ignore
+        return doc.text_path
 
 
 def generate_md(chapter: int, save: bool = False, write: bool = False) -> str | None:
@@ -585,17 +596,21 @@ def generate_md(chapter: int, save: bool = False, write: bool = False) -> str | 
     Args:
         `chapter` (int):
             The given chapter.
+        `save` (bool):
+            Whether or not to save the markdown string to MongoDB.
+        `write` (bool):
+            Whether or not to write the markdown string to disk.
 
     Returns:
         `md` (str):
             The multimarkdown for the given chapter.
     """
     sg()
-    for doc in Chapter.objects(chapter=chapter): # type: ignore
+    for doc in Chapter.objects(chapter=chapter):  # type: ignore
         # Books 4-10 have two sections a piece
         title = max_title(doc.title)
         # > Multimarkdown Metadata
-        meta = f"Title:{title} \nChapter:{doc.chapter} \nSection:{doc.section} \nBook:{doc.book} \nCSS:../Styles/style.css \nviewport: width=device-width\n  \n"
+        meta = f"---\nTitle:{title} \nChapter:{doc.chapter} \nSection:{doc.section} \nBook:{doc.book} \nCSS:../Styles/style.css \nviewport: width=device-width\n---\n  \n"
 
         # > ATX Headers
         img = """<figure>\n\t<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />\n</figure>\n  \n"""
@@ -632,9 +647,8 @@ def get_md(chapter: int):
             The multimarkdown of the given chapter.
     """
     sg()
-    for doc in Chapter.objects(chapter=chapter): # type: ignore
+    for doc in Chapter.objects(chapter=chapter):  # type: ignore
         return doc.md
-
 
 
 def generate_html(chapter: int, save: bool = False) -> str | None:
@@ -650,9 +664,9 @@ def generate_html(chapter: int, save: bool = False) -> str | None:
             The HTML for the given chapter.
     """
     mmd = Command("multimarkdown")
-    mmd = mmd.bake('-f', '--nolables', '-o')
+    mmd = mmd.bake("-f", "--nolables", "-o")
     sg()
-    for doc in Chapter.objects(chapter=chapter): # type: ignore
+    for doc in Chapter.objects(chapter=chapter):  # type: ignore
         md_cmd = [
             "multimarkdown",
             "-f",
@@ -684,7 +698,7 @@ def generate_html(chapter: int, save: bool = False) -> str | None:
 
         if save:
             with open(doc.html_path, "r") as infile:
-                html = infile.read() # type: ignore
+                html = infile.read()  # type: ignore
             log.debug(f"Saved Chapter {chapter}'s HTML to disk.")
 
             doc.html = html
@@ -706,9 +720,8 @@ def get_html(chapter: int):
             The HTML of the given chapter.
     """
     sg()
-    for doc in Chapter.objects(chapter=chapter): # type: ignore
+    for doc in Chapter.objects(chapter=chapter):  # type: ignore
         return doc.html
-
 
 
 def write_md(chapter: int):
@@ -720,7 +733,7 @@ def write_md(chapter: int):
             The given chapter
     """
     sg()
-    for doc in Chapter.objects(chapter=chapter): # type: ignore
+    for doc in Chapter.objects(chapter=chapter):  # type: ignore
         log.debug(f"MD Path: {doc.md_path}")
         length = len(doc.md)
         log.debug(f"Markdown Length: {length}")
@@ -730,13 +743,12 @@ def write_md(chapter: int):
     log.debug(f"Wrote Chapter {chapter}'s Multimarkdown to Disk.")
 
 
-
 def make_chapters():
     """
     Generate the values needed to create the chapter.
     """
     sg()
-    for doc in tqdm(Chapter.objects(), unit="ch", desc="Creating Chapters"): # type: ignore
+    for doc in tqdm(Chapter.objects(), unit="ch", desc="Creating Chapters"):  # type: ignore
         chapter = doc.chapter
         log.debug(f"Accessed Chapter {chapter}'s MongoDB Document.")
 
@@ -781,13 +793,12 @@ def make_chapters():
         log.debug(f"Finished Chapter {chapter}.")
 
 
-
 def verify_chapters():
     """
     Update all the values of each chapter dict.
     """
     sg()
-    for doc in tqdm(Chapter.objects(), unit="ch", desc="updating paths"): # type: ignore
+    for doc in tqdm(Chapter.objects(), unit="ch", desc="updating paths"):  # type: ignore
         chapter = doc.chapter
 
         # > Section
@@ -848,7 +859,7 @@ def nb():
     sg("LOCALDB")
 
     nb = "Nyoi-Bo"
-    for doc in tqdm(Chapter.objects(), unit="ch", desc=f"fixing {nb}"): # type: ignore
+    for doc in tqdm(Chapter.objects(), unit="ch", desc=f"fixing {nb}"):  # type: ignore
         chapter = doc.chapter
         if nb in doc.unparsed_text:
             log.debug(f"Working on Chapter {chapter}")
@@ -882,7 +893,7 @@ def nb():
 
 def remove_translator(chapter: int) -> str | None:
     sg("LOCALDB")
-    doc = Chapter.objects(chapter=chapter).first() # type: ignore
+    doc = Chapter.objects(chapter=chapter).first()  # type: ignore
     if doc is None:
         raise ChapterNotFound(f"Unable to find chapter {chapter}")
     translator = "Translator: Nyoi-Bo Studio Editor: Nyoi-Bo Studio\n\n"
@@ -909,7 +920,7 @@ def verify_nyoi(chapter: int) -> str | None:
             The given chapter's number if the Nyoi-Bo is found.
     """
     sg("LOCALDB")
-    doc = Chapter.objects(chapter=chapter).first() # type: ignore
+    doc = Chapter.objects(chapter=chapter).first()  # type: ignore
     if doc is None:
         raise ChapterNotFound(f"Unable to find chapter {chapter}")
     if "Nyoi-Bo" in doc.unparsed_text:

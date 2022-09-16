@@ -1,9 +1,11 @@
+---
 Title:You Are the Savior 
 Chapter:2556 
 Section:12 
 Book:8 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## You Are the Savior
 ### Chapter 2556
@@ -50,7 +52,11 @@ After Autumn Wind left, Ji Yang Sheng saw Han Sen look at him. He thought to him
 
 “Fuck!” Ji Yang Sheng was furious. He wanted to slap Han Sen more than a few times, but all he could do was pull the carriage.
 
-…
+<br>
+
+*****
+
+<br>
 
 In a distant corner of a dark world, a dim light was shining amidst the old ruins of a palace.
 

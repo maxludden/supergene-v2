@@ -1,9 +1,11 @@
+---
 Title:Weird Dead Guy 
 Chapter:392 
 Section:1 
 Book:1 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Weird Dead Guy
 ### Chapter 392

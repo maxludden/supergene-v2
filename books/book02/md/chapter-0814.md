@@ -1,9 +1,11 @@
+---
 Title:Make Him Stay 
 Chapter:814 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Make Him Stay
 ### Chapter 814
@@ -38,7 +40,7 @@ But if the Empty Fruit was supposed to benefit those that consumed it, why would
 
 The Devil-Blood King continued to lie where it was, with the occasional twitch. The pattern scrawled its way across more and more of the creature's face. It seemed as if it would not be long before he forewent his current control and composure.
 
-Boom!
+*Boom!*
 
 The lime elephant could no longer withstand the combined attacks of the black-flame phoenix and the green kirin. The chain of their defensive circle broke, opening an opportunity for them all to race up towards the vine.
 

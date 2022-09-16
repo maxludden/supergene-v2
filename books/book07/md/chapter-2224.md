@@ -1,9 +1,11 @@
+---
 Title:Educating a Noob 
 Chapter:2224 
 Section:10 
 Book:7 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Educating a Noob
 ### Chapter 2224
@@ -64,7 +66,7 @@ Bai Wei looked cold and threw a punch toward the black arrow. It was the Extreme
 
 Seeing that it was going to collide with Bai Wei’s fist, the arrow suddenly disappeared from Bai Wei’s vision, and when it reappeared, it was piercing her belly. Bai Wei’s face remained unchanged. When her body staggered back, her fist became incredibly hard to hit the arrow. The whole action was performed very smoothly, and there wasn’t a moment of hesitation or nervousness.
 
-Boom!
+*Boom!*
 
 A black sun rose where she stood, and Bai Wei actually ended up getting blasted away. Her armor was broken, and some of her hair was singed. Only the hair underneath her helmet was saved from burning. She would have been made bald otherwise.
 

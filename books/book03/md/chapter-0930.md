@@ -1,9 +1,11 @@
+---
 Title:Phoenix Body 
 Chapter:930 
 Section:3 
 Book:3 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Phoenix Body
 ### Chapter 930
@@ -32,7 +34,7 @@ Han Sen looked at him and merely swung his fist.
 
 Phoenix King threw a fist of his own in retaliation. The gold flames that surged around his fist turned into the shape of a fire-born phoenix, and it carried the knuckles forward with tremendous force.
 
-Boom!
+*Boom!*
 
 Han Sen's fist collided with the phoenix and broke it. His fist did not stop there, however, and onwards it went. His fist surged through the air and walloped Phoenix King.
 
@@ -96,6 +98,6 @@ Phoenix King's power and speed were not as good as Han Sen's, so the spirit's Ph
 
 They had been at a stalemate, in which Han Sen could not be damaged and Han Sen could not damage the spirit with his holy light. Thus far, Phoenix King had only been so cocky and boisterous because of the Phoenix Body talent he possessed. He had an indestructible body, and he wanted people to know that.
 
-Boom!
+*Boom!*
 
 Han Sen's fist collided with Phoenix King's fire-wreathed body.

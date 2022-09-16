@@ -1,9 +1,11 @@
+---
 Title:Spell Evolution 
 Chapter:1922 
 Section:7 
 Book:5 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Spell Evolution
 ### Chapter 1922
@@ -50,7 +52,7 @@ Han Sen’s Ghost Teeth Knife glowed white as it was imbued with Spell’s light
 
 Han Sen’s knifemind was also increasing. It was scary before, but now it was becoming something even greater. It was way past the level of a Duke.
 
-Boom!
+*Boom!*
 
 The person and the knife combined into one. The knifelight was like the light of dawn. It banished the dark and signaled the coming of a new day. And now, it was going after the Tego Earl.
 
@@ -86,7 +88,7 @@ Han Sen was holding his Ghost Teeth Knife. He stared at that hand that towered t
 
 His knifemind roared like a beast, but the King’s power did not relent.
 
-Boom!
+*Boom!*
 
 Before the hand could land, a purple gust of knife wind came from Planet Blade. It traveled through space like a beam that crossed the universe. It broke through Planet Eclipse’s atmosphere and cut through the hand.
 

@@ -1,9 +1,11 @@
+---
 Title:The Story of Genes 
 Chapter:1501 
 Section:4 
 Book:4 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## The Story of Genes
 ### Chapter 1501

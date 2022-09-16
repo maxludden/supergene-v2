@@ -1,9 +1,11 @@
+---
 Title:Super Aristocrat 
 Chapter:1229 
 Section:3 
 Book:3 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Super Aristocrat
 ### Chapter 1229

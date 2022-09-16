@@ -1,9 +1,11 @@
+---
 Title:Rebirth Machine 
 Chapter:3300 
 Section:16 
 Book:10 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Rebirth Machine
 ### Chapter 3300
@@ -64,7 +66,7 @@ While he was moving away, the coin approached slowly and still managed to land o
 
 Li Yan’s face changed. He generated power. He wanted to blast the coin away, but the coin hit his fist. It was like it was superglued to the knuckle.
 
-Boom!
+*Boom!*
 
 Li Yan’s body became heavy. The ground around his feet cracked. It was as if he was carrying a mountain. It looked like he was about to sink and be crushed.
 

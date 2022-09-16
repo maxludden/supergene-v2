@@ -1,9 +1,11 @@
+---
 Title:Sacred-blood Ghost-eyed Bear 
 Chapter:286 
 Section:1 
 Book:1 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Sacred-blood Ghost-eyed Bear
 ### Chapter 286
@@ -76,7 +78,7 @@ The black arrow went across the sky like a lightning bolt. As if it were equippe
 
 When Xu Ruyan, who had perfectly utilized the power of the beast soul, was secretly celebrating, she was suddenly dumbstruck by the arrow coming out of nowhere. She quickly looked to the direction where the arrow was from and saw Han Sen on top of the mountain with a bow in his hand.
 
-Bang!
+*Bang!*
 
 Under the cliff the sacred-blood ghost-eyed bear fell to the ground. Xu Ruyan watched Han Sen with her eyes almost spitting fire.
 

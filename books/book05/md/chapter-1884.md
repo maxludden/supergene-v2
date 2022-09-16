@@ -1,9 +1,11 @@
+---
 Title:Heaven 
 Chapter:1884 
 Section:7 
 Book:5 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Heaven
 ### Chapter 1884
@@ -60,7 +62,7 @@ Han Sen and the others felt like they were in some big glass bowl. If the bowl b
 
 It was fortunate that none of the creatures were able to set foot inside the godlight. Even so, Wang Yuhang and the others were very scared.
 
-Boom!
+*Boom!*
 
 There was an explosion, and the godlight shattered beneath the big hammer. Giant King had managed to destroy the final layer of the godlight. It revealed the statue body of the golden Gana.
 

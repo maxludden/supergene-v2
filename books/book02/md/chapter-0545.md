@@ -1,9 +1,11 @@
+---
 Title:Killing a Sacred-blood Beneath the Sea 
 Chapter:545 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Killing a Sacred-blood Beneath the Sea
 ### Chapter 545
@@ -104,7 +106,7 @@ He was not afraid of a creature that possessed mere brute force such as this, ho
 
 The Yin Force punctured the bull's body and blood gushed out of its mouth.
 
-Pow! Pow! Pow!
+*Pow!* *Pow!* *Pow!*
 
 A huge amount of Yin Force was drilling its way into the bull's body. It did not matter how strong its body was, or how resilient its scales were - nothing could withstand the Yin Force. The bull was being beaten to a pulp, as blood streamed from its mouth, ears and nose, and its organs had been dealt critical damage.
 

@@ -1,9 +1,11 @@
+---
 Title:Taking the Silver Sycee 
 Chapter:2271 
 Section:10 
 Book:7 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Taking the Silver Sycee
 ### Chapter 2271

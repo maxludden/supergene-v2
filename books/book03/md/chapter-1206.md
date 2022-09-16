@@ -1,9 +1,11 @@
+---
 Title:The Growing Mountain 
 Chapter:1206 
 Section:3 
 Book:3 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## The Growing Mountain
 ### Chapter 1206

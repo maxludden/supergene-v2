@@ -1,9 +1,11 @@
+---
 Title:Entering Core Area 
 Chapter:2624 
 Section:12 
 Book:8 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Entering Core Area
 ### Chapter 2624

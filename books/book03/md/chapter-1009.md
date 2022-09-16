@@ -1,9 +1,11 @@
+---
 Title:Wolfpack Gone Stupid 
 Chapter:1009 
 Section:3 
 Book:3 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Wolfpack Gone Stupid
 ### Chapter 1009

@@ -1,9 +1,11 @@
+---
 Title:Bullying the Shura Prince 
 Chapter:1057 
 Section:3 
 Book:3 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Bullying the Shura Prince
 ### Chapter 1057
@@ -76,13 +78,13 @@ But Han Sen was successful. He grabbed Yu Tuoshan’s hand, and the metallic can
 
 His hands were like pythons, and following the stop, Han Sen lifted Yu Tuoshan into the air and threw him down on the ground.
 
-Boom!
+*Boom!*
 
 Han Sen walked forward and grabbed the shura by the waist, piledriving him into the ruined floor of the arena.
 
 Roar! Yu Tuoshan raged like a monster. He leapt to his feet and ran towards Han Sen.
 
-Boom!
+*Boom!*
 
 Han Sen side-stepped, grabbed the shura’s arm, and suplexed him into the ground.
 
@@ -92,7 +94,7 @@ Given a breath, Yu Tuoshan got back to his feet and tried to madly attack Han Se
 
 Everyone was quiet. There was no booing, and neither was there any thunderous applause. There was just silence. It was incredibly difficult to fathom what their eyes were relaying to them; they were now actually witnessing Han Sen bully a shura prince.
 
-Boom! Boom! Boom!
+*Boom!* *Boom!* *Boom!*
 
 Despite the countless times he was thrown to the ground, Yu Tuoshan refused to concede. And eventually, he was spending more time on the ground than on his feet.
 

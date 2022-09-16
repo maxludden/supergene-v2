@@ -1,9 +1,11 @@
+---
 Title:Strange Mountain 
 Chapter:1907 
 Section:7 
 Book:5 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Strange Mountain
 ### Chapter 1907

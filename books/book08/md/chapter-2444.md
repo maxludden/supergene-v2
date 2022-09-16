@@ -1,9 +1,11 @@
+---
 Title:Universal Apb 
 Chapter:2444 
 Section:12 
 Book:8 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Universal Apb
 ### Chapter 2444
@@ -56,7 +58,11 @@ But Sky Palace might not protect Han Sen. And even if they agreed to take him in
 
 After an hour, Miss Mirror called King Bai’s phone. “Brother, I have confirmed that he is indeed Han Sen. He has fled the xenogeneic space, and he is headed for Sky Palace.”
 
-…
+<br>
+
+*****
+
+<br>
 
 After he left the xenogeneic space, Han Sen waved his hand and sent a white crystal flying out in front of him. It expanded until it became a giant white whale.
 

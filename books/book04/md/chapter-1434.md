@@ -1,9 +1,11 @@
+---
 Title:A Geno Core That Can Evolve 
 Chapter:1434 
 Section:4 
 Book:4 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## A Geno Core That Can Evolve
 ### Chapter 1434

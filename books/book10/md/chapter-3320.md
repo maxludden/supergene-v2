@@ -1,9 +1,11 @@
+---
 Title:Complete 33 Skies 
 Chapter:3320 
 Section:17 
 Book:10 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Complete 33 Skies
 ### Chapter 3320
@@ -18,7 +20,7 @@ Seeing the 24-stroke geno spell light up, Han Sen was not happy. He did not know
 
 The skeleton that was latched onto Han Sen saw the 24 symbols light up. It lost its voice and screamed, “How do you know the 24-stroke light spell?”
 
-Boom! Boom! Boom!
+*Boom!* *Boom!* *Boom!*
 
 Han Sen discovered the 24-stroke geno spell was like 24 fires. They lit up the stars around. The fires followed the wire that looked like it was there but was not there. It spread to the other stars.
 

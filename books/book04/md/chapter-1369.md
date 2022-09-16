@@ -1,9 +1,11 @@
+---
 Title:You’re Different 
 Chapter:1369 
 Section:4 
 Book:4 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## You’re Different
 ### Chapter 1369

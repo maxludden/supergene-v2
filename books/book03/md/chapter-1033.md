@@ -1,9 +1,11 @@
+---
 Title:Taking the Treasure 
 Chapter:1033 
 Section:3 
 Book:3 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Taking the Treasure
 ### Chapter 1033

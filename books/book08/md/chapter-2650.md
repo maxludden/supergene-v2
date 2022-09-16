@@ -1,9 +1,11 @@
+---
 Title:Different Kind of Luck 
 Chapter:2650 
 Section:13 
 Book:8 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Different Kind of Luck
 ### Chapter 2650

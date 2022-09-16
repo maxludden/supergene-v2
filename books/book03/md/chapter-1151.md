@@ -1,9 +1,11 @@
+---
 Title:Thorn Scorpion Beast Soul 
 Chapter:1151 
 Section:3 
 Book:3 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Thorn Scorpion Beast Soul
 ### Chapter 1151

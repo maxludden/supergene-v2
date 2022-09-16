@@ -1,9 +1,11 @@
+---
 Title:Phoenix Head Harp 
 Chapter:3271 
 Section:16 
 Book:10 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Phoenix Head Harp
 ### Chapter 3271
@@ -18,7 +20,7 @@ Seeing Zhao Ning’er turned into a white god bird. As she approached the gene e
 
 Bury Path God looked into the sky and put the gene egg away. His other hand became a fist that was thrown forward in a punch to hit the sword air.
 
-Boom!
+*Boom!*
 
 The punching power hit the sword air. Bury Path God’s body was shaken backward. The power created a shockwave. It created a large wave in the sea like chains.
 

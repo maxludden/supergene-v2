@@ -1,9 +1,11 @@
+---
 Title:Killing Iron Bug King 
 Chapter:905 
 Section:3 
 Book:3 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Killing Iron Bug King
 ### Chapter 905
@@ -48,7 +50,7 @@ But just as the spirit's hope of victory was depleted, a white shadow appeared f
 
 The spirit's eyes, which were nearing closure in anticipation of a defeat, opened wide with sudden surprise. She looked upon the bright light, not knowing what it was, where it had come from, or why it had appeared.
 
-Boom!
+*Boom!*
 
 The god-looking man's fist crackled and popped with the charge of electricity, and like a sun, it collided with the back of the iron bug.
 

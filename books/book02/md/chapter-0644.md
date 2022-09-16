@@ -1,9 +1,11 @@
+---
 Title:Killing the T-rex 
 Chapter:644 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Killing the T-rex
 ### Chapter 644

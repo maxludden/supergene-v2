@@ -1,9 +1,11 @@
+---
 Title:Yan Bei Fei 
 Chapter:3167 
 Section:16 
 Book:10 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Yan Bei Fei
 ### Chapter 3167
@@ -68,7 +70,7 @@ Seeing the small flying fish about to be swallowed, Chen Seven and his friends a
 
 In the next second, the small flying fish spit out some small fire. It was not much. It looked like nothing hazardous. It looked like the small spark of a tiny, freshly ignited flame in front of the tyrannosaurus rex king. It landed on the tyrannosaurus rex king’s nose.
 
-Boom!
+*Boom!*
 
 Suddenly, the tyrannosaurus rex king was burning. Within the blink of an eye, it turned into charcoal. It was like a black charcoal statue had been placed there, depicting a monster with its mouth open wanting to bite into food.
 

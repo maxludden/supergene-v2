@@ -1,9 +1,11 @@
+---
 Title:Kill You Forever 
 Chapter:1149 
 Section:3 
 Book:3 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Kill You Forever
 ### Chapter 1149
@@ -46,7 +48,7 @@ Yaksha looked insane as he watched Xiang Yin take that one last step.
 
 Yaksha’s eyes were going bigger and bigger, unable to believe what he was seeing.
 
-Boom!
+*Boom!*
 
 The tenth step was scaled, and when Xiang Yin set both feet on it, a flame ravaged her entire body.
 
@@ -58,7 +60,7 @@ The door closed, and as it did, Han Sen reviewed the words he believed her to ha
 
 Han Sen was not entirely sure that was what she said. She pointed at him as if she wished to say something further, but the door closed before she could.
 
-Boom!
+*Boom!*
 
 The door was closed, separating the two for good. Han Sen was depressed, having not even been able to receive a “thank you” for his efforts.
 

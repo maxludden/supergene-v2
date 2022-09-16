@@ -1,9 +1,11 @@
+---
 Title:Jue 
 Chapter:1254 
 Section:3 
 Book:3 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Jue
 ### Chapter 1254
@@ -92,6 +94,6 @@ He saw an array of symbols get etched across his body, not too unlike the jue. T
 
 And amidst all this, he looked at Bao’er who was still in his arms and noticed how she was still perfectly fine.
 
-Boom!
+*Boom!*
 
 Most of Han Sen’s body was set ablaze as the red symbols branded themselves across his skin.

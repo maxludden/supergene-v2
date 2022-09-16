@@ -1,9 +1,11 @@
+---
 Title:One Punch Breaks the Armor 
 Chapter:1461 
 Section:4 
 Book:4 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## One Punch Breaks the Armor
 ### Chapter 1461
@@ -68,7 +70,7 @@ With Han Sen not dodging his bash, Qiuming was set-up to do serious damage. It a
 
 “You think I won’t dare hurt you? I’m going to cripple you! The Ji family won’t be able to save you now.” Qiuming’s eyes flashed with murder, and he came at Han Sen’s fist with greater force.
 
-Boom!
+*Boom!*
 
 The fist collided with the armor, and Qiuming’s train-like body came to a full-stop as if he had rammed head-first into an impenetrable wall.
 

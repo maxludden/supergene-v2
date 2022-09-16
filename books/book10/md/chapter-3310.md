@@ -1,9 +1,11 @@
+---
 Title:Student Meeting a Teacher 
 Chapter:3310 
 Section:17 
 Book:10 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Student Meeting a Teacher
 ### Chapter 3310
@@ -92,7 +94,7 @@ Many knife lights crossed each other. It was like there was a sky net blocking a
 
 Many Break World beasts broke the knife net wanting to rush through it, but they were only hurt by the knife net.
 
-Boom!
+*Boom!*
 
 A jade light was shining in a White Jade Jing. The jade light broke Han Sen’s knife lights. It made a hole. It was going for Han Sen.
 

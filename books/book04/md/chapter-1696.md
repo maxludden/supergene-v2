@@ -1,9 +1,11 @@
+---
 Title:God’s Organization’s Assault 
 Chapter:1696 
 Section:5 
 Book:4 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## God’s Organization’s Assault
 ### Chapter 1696
@@ -72,6 +74,6 @@ Yake, Rudy, and Gugia were shocked, too. They were waiting for other elites to b
 
 Gugia looked like a human, but he had a third eye in his forehead. He was wearing white geno armor when he swooped down to go against Golden Growler.
 
-Boom!
+*Boom!*
 
 Golden Growler slapped Gugia, and he was sent rolling a few thousand miles. His face looked glum, and he immediately acknowledged that he was no match for Golden Growler’s strength.

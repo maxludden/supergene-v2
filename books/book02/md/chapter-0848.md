@@ -1,9 +1,11 @@
+---
 Title:Rushing Into the Shelter 
 Chapter:848 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Rushing Into the Shelter
 ### Chapter 848
@@ -30,7 +32,7 @@ But as he drilled through one, another arose directly behind it, determined to p
 
 Han Sen gritted his teeth and cast Toxic-Dragon Drill in a bid to drill through the wall and escape their trap.
 
-Boom! Boom! Boom!
+*Boom!* *Boom!* *Boom!*
 
 After quickly drilling through the next set of earthen walls, Han Sen broke through into a vast emptiness. Soon after, he noticed that he was standing inside a behemoth's mouth.
 

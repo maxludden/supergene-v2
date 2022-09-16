@@ -1,33 +1,34 @@
-Title:On Fire
-Chapter:124
-Section:1
-Book:1
-CSS:../Styles/style.css
+---
+Title:On Fire 
+Chapter:124 
+Section:1 
+Book:1 
+CSS:../Styles/style.css 
 viewport: width=device-width
-
+---
+  
 ## On Fire
 ### Chapter 124
-
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
+  
 
-
+  
 Wang Long felt that this time he was even faster than usual and felt complacent about his performance. When he felt that he must have won, the game suddenly ended and he was stupefied.
 
-<div class="tables">
-    <table class="center">
-        <tr>
-            <th colspan="2">Game Over</th>
-        </tr><tr>
-            <td>Their Score</td>
-            <td>Your Score</td>
-        </tr><tr>
-            <td>100</td>
-            <td>80</td>
-        </tr>
-    </table>
-</div>
+<table class="score">
+    <tr>
+        <th colspan="2">Game Over</th>
+    </tr><tr>
+        <td>Their Score</td>
+        <td>Your Score</td>
+    </tr><tr>
+        <td>100</td>
+        <td>80</td>
+    </tr>
+</table>
 
 A neat figure, 100:80. Eighty was the score of Wang Long, which meant his opponent got all one hundred spots when he just hit eighty. A huge gap.
 
@@ -39,39 +40,35 @@ Wang Long’s face turned red, but he could not decline. Wang bit the bullet and
 
 Once again, Wang had no chance of winning. Han Sen did not even try to steal Wang’s spots and was only focusing on his own side.
 
-<div class="tables">
-    <table class="center">
-        <tr>
-            <th colspan="2">Game Over</th>
-        </tr><tr>
-            <td>Their Score</td>
-            <td>Your Score</td>
-        </tr><tr>
-            <td>100</td>
-            <td>80</td>
-        </tr>
-    </table>
-    <!--The result was again 100:80.-->
-</div>
+<table class="score">
+    <tr>
+        <th colspan="2">Game Over</th>
+    </tr><tr>
+        <td>Their Score</td>
+        <td>Your Score</td>
+    </tr><tr>
+        <td>100</td>
+        <td>80</td>
+    </tr>
+</table>
+<!--The result was again 100:80.-->
 
 Wang Long did not know if it was a coincidence or design. If it was deliberate, he could not believe how strong his opponent actually was.
 
 Another invite, and Wang Long agreed again.
 
-<div class="tables">
-    <table class="center">
-        <tr>
-            <th colspan="2">Game Over</th>
-        </tr><tr>
-            <td>Their Score</td>
-            <td>Your Score</td>
-        </tr><tr>
-            <td>100</td>
-            <td>80</td>
-        </tr>
-    </table>
-    <!--The result was the same, 100:80. -->
-</div>
+<table class="score">
+    <tr>
+        <th colspan="2">Game Over</th>
+    </tr><tr>
+        <td>Their Score</td>
+        <td>Your Score</td>
+    </tr><tr>
+        <td>100</td>
+        <td>80</td>
+    </tr>
+</table>
+<!--The result was the same, 100:80. -->
 
 Another difference of 20 points, Wang Long felt a chill and did not know what to say.
 

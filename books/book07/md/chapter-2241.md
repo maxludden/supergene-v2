@@ -1,9 +1,11 @@
+---
 Title:Leveling Up to Duke 
 Chapter:2241 
 Section:10 
 Book:7 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Leveling Up to Duke
 ### Chapter 2241
@@ -60,7 +62,7 @@ That pure element touched the edge of the rule. It wasn’t quite like the power
 
 Han Sen didn’t know what element Jadeskin belonged to. It might have possessed some icy powers, but it wasn’t completely ice-bound.
 
-Boom!
+*Boom!*
 
 Defying the sealing powers placed on him, Han Sen moved. The blue crystal that had trapped him cracked. Han Sen flapped his wings and teleported again. This time, he did so much faster.
 

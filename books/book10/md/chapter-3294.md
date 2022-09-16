@@ -1,9 +1,11 @@
+---
 Title:Sunrise Palace 
 Chapter:3294 
 Section:16 
 Book:10 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Sunrise Palace
 ### Chapter 3294

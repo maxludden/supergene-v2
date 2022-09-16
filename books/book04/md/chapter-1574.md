@@ -1,9 +1,11 @@
+---
 Title:There Once Was an Invincible Geno Core 
 Chapter:1574 
 Section:4 
 Book:4 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## There Once Was an Invincible Geno Core
 ### Chapter 1574

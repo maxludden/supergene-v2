@@ -1,9 +1,11 @@
+---
 Title:Woman in the Palace 
 Chapter:2244 
 Section:10 
 Book:7 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Woman in the Palace
 ### Chapter 2244

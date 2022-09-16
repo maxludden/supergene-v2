@@ -1,9 +1,11 @@
+---
 Title:Depressed Lin Beifeng 
 Chapter:776 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Depressed Lin Beifeng
 ### Chapter 776

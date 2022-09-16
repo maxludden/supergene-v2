@@ -1,9 +1,11 @@
+---
 Title:Stone Lantern 
 Chapter:2923 
 Section:15 
 Book:9 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Stone Lantern
 ### Chapter 2923
@@ -76,7 +78,7 @@ Han Sen did not have his time area active. He used all of his power and put it i
 
 When it met the Jadeskin power, the dragon presence froze in the air. But the dragon presence was too strong. It was only able to freeze by a single layer. The dragon presence kept coming from behind. It broke the ice and landed on Han Sen.
 
-Boom!
+*Boom!*
 
 Han Sen was flushed away by the dragon presence. He was like an ant in a tsunami. The Jadeskin power was not enough to fight the dragon presence.
 

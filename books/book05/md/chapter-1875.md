@@ -1,9 +1,11 @@
+---
 Title:Gana’s Holy Lady 
 Chapter:1875 
 Section:7 
 Book:5 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Gana’s Holy Lady
 ### Chapter 1875
@@ -44,7 +46,11 @@ That sounds like a fair enough deal, but I don’t have the funds. I am only goi
 
 Han Sen looked at Guna and told her, “Tell me, then. If things aren’t too complicated, I might be able to take you up on the offer.”
 
-…
+<br>
+
+*****
+
+<br>
 
 Icebird Duke and Han Sen went to the auction. It was set in a beautiful palace, which was where the Gana had gone to pray. Now, it had become an auction house to sell Gana.
 

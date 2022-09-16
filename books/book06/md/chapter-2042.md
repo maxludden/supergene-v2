@@ -1,9 +1,11 @@
+---
 Title:Battle in the Dragon Pool 
 Chapter:2042 
 Section:8 
 Book:6 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Battle in the Dragon Pool
 ### Chapter 2042
@@ -22,7 +24,7 @@ The Spiky Turtle King’s black diamond shell began to shine. Then, the entire s
 
 Han Sen and the others were appropriately shocked. They had never seen anything like this before.
 
-Boom!
+*Boom!*
 
 The hammer-wielding turtle moved forward. With a single step, it made the floor of the entire pool shake. The power surged through the water around it, sweeping all the turtles backward.
 
@@ -74,7 +76,7 @@ Han Sen did not slow down, either. He focused all his power and skill into swimm
 
 Xius was shocked to see Han Sen maintaining pace with her. But now was not the time to watch Han Sen. She had to focus on reaching the surface.
 
-Boom!
+*Boom!*
 
 A giant shockwave was approaching. Han Sen moved fast, ducking into the refuge offered by a Duke turtle’s shell. And then, that power went right past him. It tore apart all the lesser turtles around. Their shells were ripped open like paper, and their gore dyed the water red.
 
@@ -88,7 +90,7 @@ When they reached the surface, Dragon Fifteen quickly gathered Long Shan and the
 
 The turtles wanted to escape, too. Han Sen remained atop a turtle’s back, clutching its spike. The Duke class Spiky Turtles could run faster than he could.
 
-Boom!
+*Boom!*
 
 Before the turtles reached the shoreline, a noise began to rumble from the pool. The water in the pool swelled up like a pillar, rising a hundred meters into the sky.
 

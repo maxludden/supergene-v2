@@ -1,9 +1,11 @@
+---
 Title:Shadow Ghost 
 Chapter:2468 
 Section:12 
 Book:8 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Shadow Ghost
 ### Chapter 2468
@@ -24,7 +26,11 @@ While it might have taken some time to describe, in reality, the fight was over 
 
 “It doesn’t seem like a pure, cold power, though. If it was so simple, Barr and Thunder wouldn’t be completely sealed in the way they are.”
 
-…
+<br>
+
+*****
+
+<br>
 
 The whole universe was shocked by what Han Sen had done. Sealing five powerful Kings in mere moments was an impressive feat. No one had seen that coming.
 
@@ -34,7 +40,11 @@ Wang Yuhang had a Gana woman in his arms at the time, and he was enjoying himsel
 
 “That really p*sses me off. Out of all of us, why is Han Sen the only one who’s so famous? No… I need to do a live stream of myself. I want the rednecks of this geno universe to see how great I am by comparison,” Wang Yuhang said, as he watched Han Sen seal Barr and four other people. The girls around him were also watching Han Sen’s fight, screaming in glee with every new attack. It soured Wang Yuhang’s mood even further.
 
-…
+<br>
+
+*****
+
+<br>
 
 “Not bad. He’s almost entered my league. If he keeps on working hard, he might reach thirty percent of my power,” Xie Qing King said. He was wearing dark sunglasses, and he had a bottle of beer in his hand. He was focused on flying his expensive aircraft, but he also had a pen and paper next to him.
 
@@ -44,7 +54,11 @@ As he flew, a person’s image suddenly appeared on the ship’s monitor. It was
 
 “What kind of artist would hit a deadline and hand their work in on time?” Xie Qing King took a sip of his drink and returned to watching Han Sen fight.
 
-…
+<br>
+
+*****
+
+<br>
 
 In the Extreme King, a ghost-like body was emerging from an empty mountain. It walked into the underworld, traveled through King’s Kingdom, and headed for the Tianxia System.
 

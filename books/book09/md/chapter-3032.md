@@ -1,9 +1,11 @@
+---
 Title:Admiring the View of Hell Together 
 Chapter:3032 
 Section:15 
 Book:9 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Admiring the View of Hell Together
 ### Chapter 3032
@@ -68,7 +70,7 @@ Under the power of Super Spank, Qin Xiu’s red spirit body kept turning into re
 
 “I really can’t do it.” Qin Xiu closed his eyes. A weird sun arose in his red spirit body.
 
-Boom!
+*Boom!*
 
 When the power in Qin Xiu’s body was released, the cracks underneath his body spread. It created a giant space crack. This space crack was different from ordinary space cracks. This space crack had a grey presence. It was weird. It made Han Sen feel like he was in danger.
 

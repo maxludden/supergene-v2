@@ -1,9 +1,11 @@
+---
 Title:Strong Super Pet Armor 
 Chapter:1475 
 Section:4 
 Book:4 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Strong Super Pet Armor
 ### Chapter 1475
@@ -84,7 +86,7 @@ Han Sen was worried Meowth’s body would be too weak to withstand a blow from t
 
 Meowth hopped over to the butterfly king, which seemed to enrage the creature. The butterfly flapped over to meet with Meowth, its blue flames burning like a sun.
 
-Boom!
+*Boom!*
 
 The blue flame exploded like a volcano, blasting Meowth further into the sky. And again, upon its descent, the pet looked absolutely perfect. With speed and haste, it was able to leap right back to the butterfly king.
 

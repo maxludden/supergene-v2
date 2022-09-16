@@ -1,9 +1,11 @@
+---
 Title:Getting Another Super Beast Soul 
 Chapter:1261 
 Section:3 
 Book:3 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Getting Another Super Beast Soul
 ### Chapter 1261

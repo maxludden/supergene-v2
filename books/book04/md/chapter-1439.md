@@ -1,9 +1,11 @@
+---
 Title:Collecting Taxes 
 Chapter:1439 
 Section:4 
 Book:4 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Collecting Taxes
 ### Chapter 1439

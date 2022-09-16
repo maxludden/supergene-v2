@@ -1,9 +1,11 @@
+---
 Title:Phantom Ghost King Body 
 Chapter:2309 
 Section:11 
 Book:7 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Phantom Ghost King Body
 ### Chapter 2309
@@ -48,7 +50,7 @@ When Bai Wucheng heard Han Sen, his face did not move a muscle. His features wer
 
 “Shit! Is everyone in the Extreme King this unreasonable?” Han Sen pulled out Ghost Teeth Knife to block Bai Wuchang’s sucker strike.
 
-Clang!
+*Clang!*
 
 The knives collided. Bai Wuchang was slashing downward, while Han Sen was pushing up. Purple and white knife airs came against each other. The knife airs broke and spread out everywhere.
 

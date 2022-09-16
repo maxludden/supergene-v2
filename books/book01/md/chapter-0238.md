@@ -1,9 +1,11 @@
+---
 Title:Extraordinary 
 Chapter:238 
 Section:1 
 Book:1 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Extraordinary
 ### Chapter 238
@@ -46,7 +48,7 @@ Soon Han Sen discovered that what Xu Zhiqiang was best at was not his fist, but 
 
 Queen did not even move, letting the fist tougher than iron hit her temple.
 
-Bang!
+*Bang!*
 
 The fierce strike hit the woman's temple, only making her head move slightly. Very soon, she recovered and gazed at Xu Zhiqiang with coldness.
 
@@ -64,7 +66,7 @@ Her eyes cold, Queen did not mean to dodge. When the knife was in her face, she 
 
 Her hand met the beast soul blade and the weapon broke in the middle, as if it were made of wood. And her hand did not even stop there, and moved past Xu Zhiqiang.
 
-Crack!
+*Crack!*
 
 Xu Zhiqiang's beast soul armor was broken, blood flowing from the gap. Queen moved her fingers and her hand became normal again. Xu Zhiqiang thumped to the martial ring and never got up.
 

@@ -1,9 +1,11 @@
+---
 Title:Mystic Armor Revives 
 Chapter:1504 
 Section:4 
 Book:4 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Mystic Armor Revives
 ### Chapter 1504

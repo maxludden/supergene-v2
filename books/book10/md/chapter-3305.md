@@ -1,9 +1,11 @@
+---
 Title:Star Tyrannosaurus Rex 
 Chapter:3305 
 Section:17 
 Book:10 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Star Tyrannosaurus Rex
 ### Chapter 3305
@@ -58,7 +60,7 @@ Thus, Huangfu Jing did not want to fall back. Her eyes looked bright. Her time a
 
 The star tyrannosaurus rex’s power pierced through the time and space swirl. It created a scary power that broke the armor along Huangfu Jing’s arms. Her hand hit her chest. She flew away.
 
-Boom!
+*Boom!*
 
 Huangfu Jing’s body punched through a forest. She broke down many plant xenogeneics in her fall. She was extremely bloody and could no longer stand.
 

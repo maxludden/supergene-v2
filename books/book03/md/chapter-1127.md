@@ -1,9 +1,11 @@
+---
 Title:A Man Who Wants to Die 
 Chapter:1127 
 Section:3 
 Book:3 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## A Man Who Wants to Die
 ### Chapter 1127

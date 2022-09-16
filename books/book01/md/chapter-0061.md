@@ -1,18 +1,21 @@
-Title:Why Not Dodge
-Chapter:61
-Section:1
-Book:1
-CSS:../Styles/style.css
+---
+Title:Why Not Dodge 
+Chapter:61 
+Section:1 
+Book:1 
+CSS:../Styles/style.css 
 viewport: width=device-width
-
+---
+  
 ## Why Not Dodge
 ### Chapter 61
-
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
   
 
+  
 Fang Mingquan had been very depressed recently. As a reporter, he had been in charge of a program about God’s Sanctuary on Skynet. Although it was not super popular, the program was gaining momentum and he was considered a minor celebrity.
 
 Because of a decision made by the management, he was transferred to a remote planet, Roca. His job was so-called new market development, which actually meant that he was pushed out because he was in the way of others.
@@ -41,7 +44,7 @@ However, when seeing the Shura slashing his katana at her, Fang Mingquan saw her
 
 But no one could respond to that. The rescue team had not arrived, and even if someone had an aircraft it would be hard to park it on such height.
 
-Boom!
+*Boom!*
 
 A pair of golden wings cut into the frame and a majestic figure took the little girl into his arm, his other handing catching the blade of the Shura.
 

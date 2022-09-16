@@ -1,9 +1,11 @@
+---
 Title:Digging Treasure 
 Chapter:2504 
 Section:12 
 Book:8 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Digging Treasure
 ### Chapter 2504
@@ -102,7 +104,7 @@ The inside of the shield was facing up, so Han Sen could see the handle. The sty
 
 “Why is it so heavy? But then again, judging by the weight, it has to be something good.” The shield was so heavy that Han Sen was having trouble holding it up. Still, he managed to get it out.
 
-Boom!
+*Boom!*
 
 He had only just lifted the shield when, before he could see what was on the front of the shield, a purple light burst from the shield like a volcano. The light flashed up into the sky.
 

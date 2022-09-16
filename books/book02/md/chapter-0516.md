@@ -1,9 +1,11 @@
+---
 Title:Killed by One Strike 
 Chapter:516 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Killed by One Strike
 ### Chapter 516

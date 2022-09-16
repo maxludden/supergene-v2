@@ -1,9 +1,11 @@
+---
 Title:Golden Crystal 
 Chapter:270 
 Section:1 
 Book:1 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Golden Crystal
 ### Chapter 270
@@ -80,7 +82,7 @@ The baby lion wouldn't give up. Sniffing around, it kept crawling, persistent to
 
 "I did not want to kill you because you are just a baby. But since you will not give up, I will have no mercy." Han Sen made up his mind and stabbed the spear at the baby lion.
 
-Ding!
+*Ding!*
 
 The spear did not even break the baby lion's skin. The spear head was even bounced back by its fur.
 

@@ -1,9 +1,11 @@
+---
 Title:Satan 
 Chapter:373 
 Section:1 
 Book:1 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Satan
 ### Chapter 373

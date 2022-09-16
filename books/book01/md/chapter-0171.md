@@ -1,9 +1,11 @@
+---
 Title:I’m Ji Yanran’s Boyfriend 
 Chapter:171 
 Section:1 
 Book:1 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## I’m Ji Yanran’s Boyfriend
 ### Chapter 171
@@ -40,7 +42,11 @@ When Qu Lili had thought of more to ask, Han Sen and Zhang Yang had carried thei
 
 "But it seems that their relationship is unusual."
 
-...
+<br>
+
+*****
+
+<br>
 
 Ji Yanran now regretted coming to the cafeteria. It was a rushed decision and she was less mad at Han Sen since he had come over. However, the concerning eyes on her was almost burning a hole in her face. All she could do was drinking her juice.
 
@@ -62,7 +68,11 @@ Han Sen said that naturally, while it was quite an arrogant remark in the ears o
 
 "But he would be the only one who deserves her anyway."
 
-...
+<br>
+
+*****
+
+<br>
 
 Gossip filled the cafeteria as people whispered and sent pictures to the campus community.
 

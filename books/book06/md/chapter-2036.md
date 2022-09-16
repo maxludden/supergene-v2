@@ -1,9 +1,11 @@
+---
 Title:Return Ruin Sea 
 Chapter:2036 
 Section:8 
 Book:6 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Return Ruin Sea
 ### Chapter 2036
@@ -20,7 +22,7 @@ The shadow was growing larger. Han Sen did not think it was just his imagination
 
 Han Sen wanted to live, so he scrambled toward the shore again. But he was too weak, and he was physically unable to climb up.
 
-Boom!
+*Boom!*
 
 The water exploded into a fountain as a giant monster’s head appeared. When it opened its mouth, Han Sen was as small as an ant in comparison. Water rushed toward the gaping maw, and Han Sen was pulled in with it. He found himself falling into a strange place that was as big as a house.
 
@@ -74,7 +76,7 @@ If the Dragon God was not fully satisfied, he would not leave them scales. That 
 
 The Dragon were all very worried. The corpses inside the pool had dyed it red, but soon enough, the pool began to produce bubbles. Everyone stared at the water nervously.
 
-Boom!
+*Boom!*
 
 The red pool exploded, as a giant beast opened its maw and swallowed up the meat.
 

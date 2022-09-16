@@ -1,9 +1,11 @@
+---
 Title:Duel 
 Chapter:261 
 Section:1 
 Book:1 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Duel
 ### Chapter 261
@@ -46,7 +48,7 @@ Neither Han Sen nor Lu Meng dared to move. Without knowing where Jing Jiwu was, 
 
 "Move!" roared Han Sen, quickly shooting an arrow at the one threatening Lu Meng.
 
-Bang!
+*Bang!*
 
 Han Sen's arrow were bounced off immediately and Jing Jiwu's arrow only slightly turned, ending up on Lu Meng's shoulder.
 
@@ -68,7 +70,11 @@ The audience were again amazed by how powerful Jing Jiwu was.
 
 "Such a shame! Blackhawk is indeed a great team with a creative coach. However, they ran into Jing Jiwu."
 
-…
+<br>
+
+*****
+
+<br>
 
 Han Sen moved continuously, searching for his opponent everywhere. In the field mimicking a labyrinthine, Jing Jiwu was not the only hunter. Han Sen was also looking for Jing Jiwu.
 

@@ -1,9 +1,11 @@
+---
 Title:Jadeskin’s Second Tier 
 Chapter:2476 
 Section:12 
 Book:8 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Jadeskin’s Second Tier
 ### Chapter 2476

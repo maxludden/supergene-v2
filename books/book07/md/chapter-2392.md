@@ -1,9 +1,11 @@
+---
 Title:Universal Core Area 
 Chapter:2392 
 Section:11 
 Book:7 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Universal Core Area
 ### Chapter 2392

@@ -1,9 +1,11 @@
+---
 Title:Picking a Holy Gourd 
 Chapter:2614 
 Section:12 
 Book:8 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Picking a Holy Gourd
 ### Chapter 2614

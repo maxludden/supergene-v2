@@ -1,9 +1,11 @@
+---
 Title:The Legendary Man on the Ice Fields 
 Chapter:553 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## The Legendary Man on the Ice Fields
 ### Chapter 553
@@ -36,7 +38,11 @@ And now, the name of Han Sen had spread to every corner of the ice fields during
 
 "Well, you're missing something, either way. You see, there was a really touching story in the midst of everything. And it was all about me. Han Sen and I used to be neighbors, and not many people know about this, but back in the day..."
 
-…
+<br>
+
+*****
+
+<br>
 
 The legends that surrounded Han Sen, out on the ice fields, quickly spiralled into madness. But despite the constant additions to the tales that were told, one thing remained constant: Han Sen had been able to bring down the Blackgod Shelter in one night.
 

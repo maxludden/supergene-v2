@@ -1,9 +1,11 @@
+---
 Title:Blood Area 
 Chapter:2334 
 Section:11 
 Book:7 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Blood Area
 ### Chapter 2334
@@ -32,7 +34,7 @@ Roar!
 
 The blood kirin roared. Instead of trying to avoid the strike, it used its own horn to block the falling axe.
 
-Boom!
+*Boom!*
 
 The blood and yellow powers surged against each other. The blood kirin’s horn was able to block the big axe, keeping the axe aloft.
 

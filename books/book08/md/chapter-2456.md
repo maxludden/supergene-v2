@@ -1,9 +1,11 @@
+---
 Title:Different Version 
 Chapter:2456 
 Section:12 
 Book:8 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Different Version
 ### Chapter 2456

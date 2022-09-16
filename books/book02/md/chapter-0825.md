@@ -1,9 +1,11 @@
+---
 Title:Beat Me and You Can Fight Dollar 
 Chapter:825 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Beat Me and You Can Fight Dollar
 ### Chapter 825

@@ -1,9 +1,11 @@
+---
 Title:Crystal Furnace Database 
 Chapter:2571 
 Section:12 
 Book:8 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Crystal Furnace Database
 ### Chapter 2571

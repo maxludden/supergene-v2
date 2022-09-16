@@ -1,9 +1,11 @@
+---
 Title:The Goddess Army's Thirteenth General 
 Chapter:656 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## The Goddess Army's Thirteenth General
 ### Chapter 656
@@ -62,7 +64,11 @@ Lu Hui and Lei Heng Wu were surprised. They knew exactly what they had just seen
 
 "The Goddess Shelter saved our lives. Woohoo!"
 
-…
+<br>
+
+*****
+
+<br>
 
 Han Sen lent his berserk sacred-blood wings to Wang Yuhang so he could distract the berserk bone elephant and lead it away. He did not expect him to have so much flair, however, and his boisterous act in the skies above the shelter seemed so genuine. People who did not understand what was truly going on would believe the bone elephant actually listened to what he had to say.
 

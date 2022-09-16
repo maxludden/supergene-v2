@@ -1,9 +1,11 @@
+---
 Title:Three-life Tree 
 Chapter:1240 
 Section:3 
 Book:3 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Three-life Tree
 ### Chapter 1240
@@ -34,7 +36,7 @@ Han Sen saw something weird about Saint Fan, but he wasn’t sure what it was.
 
 Seeing Saint Fan get closer to the silver fox, though, Han Sen still did not activate his super king spirit mode to help.
 
-Boom! Boom!
+*Boom!* *Boom!*
 
 Saint Fan’s hideous body, if it could even be called that, was sickening to see. It resembled little more than a hulking biomass, whose footsteps rocked the earth with each step.
 

@@ -1,9 +1,11 @@
+---
 Title:Humans and Spirits Are Happy 
 Chapter:1101 
 Section:3 
 Book:3 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Humans and Spirits Are Happy
 ### Chapter 1101
@@ -20,7 +22,7 @@ Su Xiaoqiao was excited when he saw the coins be unleashed. He had witnessed the
 
 Fei Yu King noticed Han Sen’s lack of speech, so he immediately drew his bow. The weapon was bathed in a white light.
 
-Whoosh!
+*Whoosh!*
 
 Countless white arrows were fired upwards, targeting the individual coins. A loud flurry of noises came from the air, as each and every arrow was shot down.
 
@@ -32,7 +34,11 @@ The humans were all in shock, not expecting such a quick and efficient retaliati
 
 “The skill is useless.”
 
-…
+<br>
+
+*****
+
+<br>
 
 The spirits did not think the coins were very good. They might have looked impressive, but that was about it. Their actual effectiveness in battle against such a foe was nil, they believed.
 
@@ -82,7 +88,11 @@ Everyone was shocked by what was happening. A nine gene lock king spirit was una
 
 “King spirits are nothing compared to our Dollar.”
 
-…
+<br>
+
+*****
+
+<br>
 
 A lot of spirits were sharing a similar glee and happiness, too. They knew how strong Fei Yu King was.
 
@@ -100,7 +110,7 @@ Flower Empress said, “How did he accomplish such a feat?”
 
 “He is frightening. How many gene locks did he open in just a few short years?” Heavenly Empress said, with a surprisingly dour expression and tone of voice.
 
-Boom!
+*Boom!*
 
 Fei Yu King was completely crushed by the coins, and he exploded.
 

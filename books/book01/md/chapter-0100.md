@@ -1,9 +1,11 @@
+---
 Title:Contest Center 
 Chapter:100 
 Section:1 
 Book:1 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Contest Center
 ### Chapter 100

@@ -1,9 +1,11 @@
+---
 Title:God Chaos Party Assault 
 Chapter:3281 
 Section:16 
 Book:10 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## God Chaos Party Assault
 ### Chapter 3281

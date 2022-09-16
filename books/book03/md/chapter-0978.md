@@ -1,9 +1,11 @@
+---
 Title:The White Aqua Dragon Is Set Free 
 Chapter:978 
 Section:3 
 Book:3 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## The White Aqua Dragon Is Set Free
 ### Chapter 978
@@ -82,7 +84,7 @@ Han Sen traveled for a long time, and eventually, the river became much wider. I
 
 After fifty miles of subterranean travel, the river had widened until it looked like an ocean. There was no end in sight, and all that filled his vision was darkness and the gentle ripple of the waters. It was as if he had discovered an underground sea.
 
-Boom!
+*Boom!*
 
 A giant monster leapt out of that ocean, creating vast waves as it appeared. Han Sen saw it appear as he stood on the edge of a cliff.
 

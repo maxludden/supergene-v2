@@ -1,9 +1,11 @@
+---
 Title:Ring 
 Chapter:1594 
 Section:4 
 Book:4 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Ring
 ### Chapter 1594

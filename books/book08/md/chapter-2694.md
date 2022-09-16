@@ -1,9 +1,11 @@
+---
 Title:Triggering the Restrictions 
 Chapter:2694 
 Section:13 
 Book:8 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Triggering the Restrictions
 ### Chapter 2694

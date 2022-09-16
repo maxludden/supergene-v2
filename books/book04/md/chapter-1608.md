@@ -1,9 +1,11 @@
+---
 Title:The Gate Is Wide Open 
 Chapter:1608 
 Section:4 
 Book:4 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## The Gate Is Wide Open
 ### Chapter 1608

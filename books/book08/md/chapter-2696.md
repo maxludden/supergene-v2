@@ -1,9 +1,11 @@
+---
 Title:Reversing Bloodline 
 Chapter:2696 
 Section:13 
 Book:8 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Reversing Bloodline
 ### Chapter 2696

@@ -1,9 +1,11 @@
+---
 Title:Devil Sword 
 Chapter:304 
 Section:1 
 Book:1 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Devil Sword
 ### Chapter 304

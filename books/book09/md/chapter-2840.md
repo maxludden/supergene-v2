@@ -1,9 +1,11 @@
+---
 Title:First Fight 
 Chapter:2840 
 Section:14 
 Book:9 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## First Fight
 ### Chapter 2840
@@ -80,7 +82,12 @@ A woman, who was quite pretty, looked at Nine-Life Cat and asked, "Old Cat, is t
 
 "What a shame. Who knew there would suddenly be a geno god list showing up. If we had known about this beforehand, we would have made Little Master become deified before it began. It is too late now."
 
-...
+<br>
+
+*****
+
+<br>
+
 
 "Dollar, I finally have a chance to fight you!" Barr flew excitedly shouted as he flew toward Han Sen. His entire body was surging with the eagerness to do battle. His eyes looked as if they were on fire."
 

@@ -1,9 +1,11 @@
+---
 Title:Fighting 
 Chapter:3392 
 Section:17 
 Book:10 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Fighting
 ### Chapter 3392

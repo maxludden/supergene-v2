@@ -1,9 +1,11 @@
+---
 Title:Perfect Robbery 
 Chapter:958 
 Section:3 
 Book:3 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Perfect Robbery
 ### Chapter 958
@@ -24,7 +26,7 @@ He had repeatedly dreamed of the day when he could crush and forever mar that pr
 
 Thunder-Devil King wished to turn around and hammer the bright shadow that had appeared behind him, but it was too late.
 
-Boom!
+*Boom!*
 
 The scary white lightfist flew towards the back of his head. In a split second, the head was nothing but a crushed melon. His face had been completely disfigured, and he hadn't even gotten the chance to fight back.
 

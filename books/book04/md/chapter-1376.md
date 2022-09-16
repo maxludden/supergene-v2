@@ -1,9 +1,11 @@
+---
 Title:Co-op 
 Chapter:1376 
 Section:4 
 Book:4 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Co-op
 ### Chapter 1376

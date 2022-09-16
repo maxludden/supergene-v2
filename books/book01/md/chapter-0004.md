@@ -1,18 +1,21 @@
-Title:The Old House
-Chapter:4
-Section:1
-Book:1
-CSS:../Styles/style.css
+---
+Title:The Old House 
+Chapter:4 
+Section:1 
+Book:1 
+CSS:../Styles/style.css 
 viewport: width=device-width
-
+---
+  
 ## The Old House
 ### Chapter 4
-
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
+  
 
-
+  
 <div class="article-reply">
   <p>"Yate Group President Zhao Yalong completed the third evolution, entered Fourth God’s Sanctuary, and became the 83rd human in history to enter Fourth God’s Sanctuary. His life span has reached 500 years and he has gained the status of demigod…"</p>
   <p>"The prodigy from Raikot Galaxy, Lange, entered Second God’s Sanctuary with 100 mutation geno points. His life span has reached 300 years and he has gained the status of evolver..."</p>

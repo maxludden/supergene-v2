@@ -1,9 +1,11 @@
+---
 Title:Starsea Beast Evolves 
 Chapter:1960 
 Section:7 
 Book:5 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Starsea Beast Evolves
 ### Chapter 1960

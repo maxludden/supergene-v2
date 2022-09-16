@@ -1,9 +1,11 @@
+---
 Title:Molested by a Pet 
 Chapter:396 
 Section:1 
 Book:1 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Molested by a Pet
 ### Chapter 396
@@ -52,11 +54,28 @@ As Han Sen was having complex feelings, he suddenly felt suction from the mouth 
 
 Holy angel released Han Sen and swallowed the piece of meat, which seemed to make her look more mysterious and pretty.
 
-"Evolution of holy angel complete." Han Sen heard the voice in his mind.
+A voice sounded in his head:
+
+> "Evolution of Holy Angel complete."
+
+<!--Han Sen heard the voice in his mind.-->
 
 Checking the data of holy angel, Han Sen was dazed.
 
-Holy angel: super pet (can further evolve).
+<div class="tables">
+    <table class="beast">
+        <tr>
+            <th>Beast Soul</th>
+        </tr><tr>
+            <td>Super Holy Angel<br>
+                <span class="type">(Pet)</span></td>
+        </tr><tr>
+            <th class="note">Note: Transfored and Evolved<br>
+                Able to evolve further.</th>
+        </tr>
+    </table>
+    <!--Holy angel: super pet (can further evolve).-->
+</div>
 
 Han Sen could understand that the holy angel had evolved into a super creature after eating the meat of the golden growler. However, after she had already become a super pet, the system said she could even evolve further, which was beyond Han Sen's comprehension.
 

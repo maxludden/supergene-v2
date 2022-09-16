@@ -1,9 +1,11 @@
+---
 Title:An Unbelievable Sense of Power 
 Chapter:611 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## An Unbelievable Sense of Power
 ### Chapter 611
@@ -90,7 +92,7 @@ The speed of Han Sen's attacks couldn't quite match the speed of the wasp, but Q
 
 He wasn't using any sort of formation. He was employing a high-tier prediction ability. As Queen watched the battle between Han Sen and the wasp, she felt something in her heart. She couldn't quite put her finger on what it was, but it felt like an itch.
 
-Splash!
+*Splash!*
 
 Han Sen was finally able to jump into the sea. The wasp was more afraid of the water than the White Tiger had been, and without similar abilities, it couldn't do anything to Han Sen once he was under the surface. Not wanting to follow Han Sen in, it flew around the shore in circles for a brief while, and then buzzed on back to the deeper recesses of the island, chasing after creatures that hadn't returned to the sea yet.
 

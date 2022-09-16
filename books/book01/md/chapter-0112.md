@@ -1,9 +1,11 @@
+---
 Title:The Archer 
 Chapter:112 
 Section:1 
 Book:1 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## The Archer
 ### Chapter 112
@@ -38,7 +40,7 @@ Suddenly, they heard a screech of anger from the mountains and soon saw a black-
 
 Following her cry, an arrow flew across with a firm sound of string.
 
-Whoosh!
+*Whoosh!*
 
 The mutant black-tailed monkey was suddenly shot in the head, with its whole body carried away and nailed on a tree behind it by an arrow.
 

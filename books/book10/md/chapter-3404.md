@@ -1,9 +1,11 @@
+---
 Title:Power of a Main God 
 Chapter:3404 
 Section:17 
 Book:10 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Power of a Main God
 ### Chapter 3404

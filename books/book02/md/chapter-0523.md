@@ -1,9 +1,11 @@
+---
 Title:Huge Gain 
 Chapter:523 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Huge Gain
 ### Chapter 523
@@ -40,7 +42,11 @@ Most people did not know that Han Sen had sold his golden armor already. Not kno
 
 "Wake up, son!"
 
-…
+<br>
+
+*****
+
+<br>
 
 Many people were discussing whether it was Dollar or not. Some believed so, some not. No one could persuade the other it was otherwise. It soon became a quarrel.
 

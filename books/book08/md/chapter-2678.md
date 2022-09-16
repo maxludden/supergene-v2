@@ -1,9 +1,11 @@
+---
 Title:Scary Battle Talen 
 Chapter:2678 
 Section:13 
 Book:8 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Scary Battle Talen
 ### Chapter 2678

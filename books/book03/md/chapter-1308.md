@@ -1,9 +1,11 @@
+---
 Title:Friend or Foe? 
 Chapter:1308 
 Section:3 
 Book:3 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Friend or Foe?
 ### Chapter 1308

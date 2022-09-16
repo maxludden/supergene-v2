@@ -1,9 +1,11 @@
+---
 Title:Nine-life Cat 
 Chapter:403 
 Section:1 
 Book:1 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Nine-life Cat
 ### Chapter 403
@@ -24,7 +26,7 @@ Watching Ning Yue who as pale as a sheet of paper, Han Sen said quietly, "I told
 
 "What beast soul is that?" Ning Yue coughed but did not answer Han Sen's question.
 
-"Aqua reaper, a parasite beast soul," Han Sen said.
+"Aqua reaper, a parasitic super beast soul," Han Sen said.
 
 Han Sen had been looking for the information on beast soul parasites on the Skynet, but he failed to find any. After doing a lot of tests, he finally understood how the beast soul parasite is used.
 

@@ -1,9 +1,11 @@
+---
 Title:Night Cry Valley 
 Chapter:3070 
 Section:16 
 Book:10 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Night Cry Valley
 ### Chapter 3070

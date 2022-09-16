@@ -1,9 +1,11 @@
+---
 Title:Lucky Gamble? 
 Chapter:2834 
 Section:14 
 Book:9 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Lucky Gamble?
 ### Chapter 2834

@@ -1,9 +1,11 @@
+---
 Title:I Can Kill Ten Thousand of Them 
 Chapter:1353 
 Section:4 
 Book:4 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## I Can Kill Ten Thousand of Them
 ### Chapter 1353

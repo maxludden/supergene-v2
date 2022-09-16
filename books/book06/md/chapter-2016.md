@@ -1,9 +1,11 @@
+---
 Title:Rewarded by the Palace Leader 
 Chapter:2016 
 Section:8 
 Book:6 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Rewarded by the Palace Leader
 ### Chapter 2016

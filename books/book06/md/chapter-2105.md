@@ -1,9 +1,11 @@
+---
 Title:Fighting in the Pool of Rebirth 
 Chapter:2105 
 Section:8 
 Book:6 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Fighting in the Pool of Rebirth
 ### Chapter 2105
@@ -26,7 +28,7 @@ Earlier, the angel statue’s wings were folded forward in a way that cloaked it
 
 Now that the wings were open, though, the angel statue was revealed to be holding a stone vase. The energy held within that stone vase was the reason they had come. After a few seconds, the liquid energy flowed out of the vase, spreading as it came.
 
-Pop!
+*Pop!*
 
 Han Sen refined the liquid energy, and as he did, he heard a bubble pop from inside the vase. Shortly after, something white came out of the vase.
 
@@ -56,7 +58,7 @@ Seeing the rebirthing power heading for Han Sen, Fairy Feather and the others re
 
 Seeing the rebirthing power flying to Han Sen, Angela and Andola looked at each other. Andola nodded, and then his angel shadow turned gold.
 
-Boom!
+*Boom!*
 
 Andola took one step forward, with his giant angel shadow appearing gold. He opened his arms and wings. In a gesture that looked like he was welcoming the morning glory of the sky, he radiated thousands of beams of golden light like a holy angel.
 

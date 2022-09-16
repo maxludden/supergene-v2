@@ -1,9 +1,11 @@
+---
 Title:The Use of the Story of Genes 
 Chapter:2497 
 Section:12 
 Book:8 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## The Use of the Story of Genes
 ### Chapter 2497

@@ -1,9 +1,11 @@
+---
 Title:Legendary Gene Egg 
 Chapter:3034 
 Section:16 
 Book:10 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Legendary Gene Egg
 ### Chapter 3034

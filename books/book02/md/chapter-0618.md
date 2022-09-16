@@ -1,9 +1,11 @@
+---
 Title:Mystery Island Appears Again 
 Chapter:618 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Mystery Island Appears Again
 ### Chapter 618

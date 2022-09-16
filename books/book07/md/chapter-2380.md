@@ -1,9 +1,11 @@
+---
 Title:Climbing Rot Bone Mountain 
 Chapter:2380 
 Section:11 
 Book:7 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Climbing Rot Bone Mountain
 ### Chapter 2380

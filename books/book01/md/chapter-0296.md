@@ -1,9 +1,11 @@
+---
 Title:Slaying All With Double Blades 
 Chapter:296 
 Section:1 
 Book:1 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Slaying All With Double Blades
 ### Chapter 296

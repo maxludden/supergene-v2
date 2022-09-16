@@ -1,9 +1,11 @@
+---
 Title:Sos 
 Chapter:369 
 Section:1 
 Book:1 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Sos
 ### Chapter 369
@@ -23,10 +25,10 @@ After going back to his room, Han Sen summoned the beast soul of the cursed wolf
 <div class="tables">
 	<table class="beast">
 		<tr>
-			<th colspan="2">Beast Soul Gained</th>
+			<th>Beast Soul Gained</th>
 		</tr><tr>
-			<td>Super Cursed Wolf</td>
-			<td>(Dagger)</td>
+			<td>Super Cursed Wolf<br>
+				<span class="type">(Dagger)</span></td>
 		</tr>
 	</table>
 	<!-- Type of beast soul of cursed wolf: weapon. -->
@@ -48,7 +50,8 @@ The most important thing was to become stronger himself. After all, super creatu
 
 Taking out the life essence of the cursed wolf, Han Sen started to lick it. The black crystal gradually turned into black liquid. Han Sen drank it and felt his body cells undergoing incredible changes, giving him a better physique.
 
-> "Life Essence Of Cursed Wolf Eaten. One Super Geno Point Gained."
+> "Life essence of Cursed Wolf Eaten. One super geno point gained."
+<!--"Life Essence Of Cursed Wolf Eaten. One Super Geno Point Gained."-->
 
 Hearing the familiar voice, Han Sen felt enchanted.
 
@@ -76,7 +79,7 @@ When he came out of the holographic device, Han Sen was soaked in his sweat. His
 
 Keeping his body under the influence of Overload, Han Sen got extremely tired. However, he had become used to it. As long as he took some rest and eat properly, he would recover very soon.
 
-Bang!
+*Bang!*
 
 Just when Han Sen left the holographic device and entered the hallway, someone came hastily from the opposite direction. Walking with his head bowed, the guy bumped into Han Sen.
 

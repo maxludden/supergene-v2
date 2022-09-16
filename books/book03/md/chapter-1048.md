@@ -1,9 +1,11 @@
+---
 Title:Gold Raven Beast Soul 
 Chapter:1048 
 Section:3 
 Book:3 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Gold Raven Beast Soul
 ### Chapter 1048

@@ -1,9 +1,11 @@
+---
 Title:Golden Meteor 
 Chapter:62 
 Section:1 
 Book:1 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Golden Meteor
 ### Chapter 62
@@ -42,7 +44,7 @@ So were the audience aware of this.
 
 "..."
 
-Bang!
+*Bang!*
 
 Han Sen took another hit in the face. Although he was armored, his head was still ringing and his eyes even went blind for a second. Feeling a churning in the chest, he spilled up another mouthful of blood.
 

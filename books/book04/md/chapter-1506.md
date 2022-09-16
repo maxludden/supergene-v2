@@ -1,9 +1,11 @@
+---
 Title:Human Emperor 
 Chapter:1506 
 Section:4 
 Book:4 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Human Emperor
 ### Chapter 1506

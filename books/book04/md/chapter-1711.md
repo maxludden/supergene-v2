@@ -1,9 +1,11 @@
+---
 Title:Old Cat's Time to Shine 
 Chapter:1711 
 Section:5 
 Book:4 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Old Cat's Time to Shine
 ### Chapter 1711
@@ -26,7 +28,7 @@ Lady Snake came close and ran into Old Cat a number of times. Then, Old Cat rais
 
 At that close distance, Lady Snake saw the movements. Her hands that were covered by scales came into contact with the cat’s paws.
 
-Boom!
+*Boom!*
 
 A scary power blew a big hole in the earth. The dust and soil scattered everywhere, prompting Han Sen and Xie Qing King to take off running.
 

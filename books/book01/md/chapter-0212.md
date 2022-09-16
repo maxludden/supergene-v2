@@ -1,9 +1,11 @@
+---
 Title:Fighting an Angel 
 Chapter:212 
 Section:1 
 Book:1 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Fighting an Angel
 ### Chapter 212
@@ -14,7 +16,7 @@ viewport: width=device-width
   
 
   
-Crack!
+*Crack!*
 
 As a mutant weapon, the spear was cut into halves by the diamond sword.
 
@@ -26,7 +28,7 @@ All of a sudden, Han Sen was already in front of them. When they were ready to a
 
 The chopper was a commonly seen beast soul weapon, so he was not worried that people might tell who Dollar was from it.
 
-Crack!
+*Crack!*
 
 The chopper was also cut in half by the diamond sword. Han Sen fell to the ground and dodged the sword of the creature.
 
@@ -34,7 +36,7 @@ Now the sacred-blood creature was faced with the other three. Without hesitation
 
 Thumb gritted his teeth and used his sacred-blood Shield to block the diamond sword.
 
-Ding!
+*Ding!*
 
 Thumb was forced back more than 50 feet before he could stop himself in the air. With a roar, he shapeshifted into a giant bear more than nine feet tall. With his shield in one hand and his Broad Sword in the other, Thumb ran toward the sacred-blood creature. He exclaimed, "Dollar, now if we work together, we will have a chance to kill it. If you run away right now, if we could not gain any benefit, we will not leave anything to you."
 

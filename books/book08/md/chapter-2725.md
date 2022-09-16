@@ -1,9 +1,11 @@
+---
 Title:Cocky Noobs 
 Chapter:2725 
 Section:13 
 Book:8 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Cocky Noobs
 ### Chapter 2725

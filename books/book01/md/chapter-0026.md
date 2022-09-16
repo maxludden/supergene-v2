@@ -1,19 +1,21 @@
-Title:Mutant Three-eyed Cat
-Chapter:26
-Section:1
-Book:1
-CSS:../Styles/style.css
+---
+Title:Mutant Three-eyed Cat 
+Chapter:26 
+Section:1 
+Book:1 
+CSS:../Styles/style.css 
 viewport: width=device-width
-
+---
+  
 ## Mutant Three-eyed Cat
 ### Chapter 26
-
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
+  
 
-
-
+  
 Ghosthaunt should really be called skin-to-skin, as all movements were aimed at one thing, which was to stick on the opponent.
 
 Wrapping, blocking and winding, all sorts of movements allowed the body to act like a snake to tightly trap the limbs of the opponent, so that there was no way for the opponent to attack.

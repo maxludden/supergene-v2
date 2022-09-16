@@ -1,9 +1,11 @@
+---
 Title:Asking Heart 
 Chapter:3270 
 Section:16 
 Book:10 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Asking Heart
 ### Chapter 3270
@@ -64,7 +66,7 @@ It was the size of a ping-pong ball. It was an egg that looked like a crystal. A
 
 Bury Path God used his fingertip to point at the egg. He mumbled some mysterious chanting spells and conjured some weird power inside his finger, which he then put onto the gene egg.
 
-Boom!
+*Boom!*
 
 The gene egg’s fire blew up with a ravaging flame that burned. It wrapped up the whole gene egg. “Argh!” Zhao Ning’er suddenly screamed and was kneeling on the floor. She went on all fours as a Break World power exploded madly. Her body was affected by the power and started to change. Her black hair turned white. Her small ears became long and sharp. Her back displayed snow-white wings. Her armor exploded. Her skin had white feathers.
 

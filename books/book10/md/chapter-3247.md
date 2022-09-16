@@ -1,9 +1,11 @@
+---
 Title:Do You Know Knife? 
 Chapter:3247 
 Section:16 
 Book:10 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Do You Know Knife?
 ### Chapter 3247
@@ -48,7 +50,7 @@ Han Sen was not in a rush to catch up with Tian Jing. He just walked slowly acro
 
 Even if they found a god pulse, digging the god pulse up to get the gene egg would take them a long time. So, Han Sen was not in much of a rush.
 
-Boom! Boom! Boom!
+*Boom!* *Boom!* *Boom!*
 
 Han Sen walked across the ice fields. Eventually, he heard some heavy footsteps come from behind. He turned his head to have a look and saw nine Holy Wen White Deer pulling a snow-white jade carriage.
 

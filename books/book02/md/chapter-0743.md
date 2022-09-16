@@ -1,9 +1,11 @@
+---
 Title:Battle on the Ice Lake 
 Chapter:743 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Battle on the Ice Lake
 ### Chapter 743
@@ -36,7 +38,7 @@ Han Sen frowned. The little angel had slashed everywhere on the jellyfish by now
 
 It was at this time that the eyes of the little angel flashed. She rose up into the air, holding the greatsword with both hands, and delivered a flurry of strikes onto the jellyfish with ferocity.
 
-Boom!
+*Boom!*
 
 Under the fierce barrage of attacks the adiraid unleashed, the jellyfish's body was torn apart. After being cut in half, it dropped into the waters it had previously emerged from.
 
@@ -78,13 +80,13 @@ In a moment, the threads formed together to create an iceberg inside of which Ha
 
 "Get out of my way!" Han Sen roared, as a black smoke erupted from his body. Inside his body a bell pulsed, which made the icy threads begin to shiver and shake. The Flaming Rex Spike drilled onwards, forming an exit from the ice. The twirling weapon now commanded wind and fire, and the narcissus was in its sight.
 
-Boom!
+*Boom!*
 
 The Flaming Rex Spike roughly drilled into the narcissus and drilled deep. The flowers let out strange screams of their own, as they suffered the wrath of the raging weapon. The petals abandoned their flowery ship as the roots of the plants were evicted and incinerated, which led to the release of a white fog all at the same time.
 
 Han Sen, who had a high frost resistance due to Jadeskin, felt as if he had fallen into an icy bath when touching the fog. His hair and eyebrows grew icicles of their own, even.
 
-Splash!
+*Splash!*
 
 When the narcissus was destroyed, the jellyfish and threads turned into water and fell down. The ice lake quickly froze over and provided an additional layer of frost to the areas surrounding it.
 

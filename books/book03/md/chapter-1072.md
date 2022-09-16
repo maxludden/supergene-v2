@@ -1,9 +1,11 @@
+---
 Title:Devil Fang 
 Chapter:1072 
 Section:3 
 Book:3 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Devil Fang
 ### Chapter 1072

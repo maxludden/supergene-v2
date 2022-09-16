@@ -1,9 +1,11 @@
+---
 Title:Battling Blood Legion’s Leader 
 Chapter:1411 
 Section:4 
 Book:4 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Battling Blood Legion’s Leader
 ### Chapter 1411
@@ -42,7 +44,7 @@ But Han Sen knew he wouldn’t be allowed to leave so easily, and he was prepare
 
 With his Bulwark Umbrella, Han Sen shielded himself from Mister Li’s incoming grip and summoned his crystal egg.
 
-Boom!
+*Boom!*
 
 Mister Li came into contact with the umbrella with the force of a comet. The umbrella cracked, and the crash of the impact sent Han Sen hurtling through the air. The egg was headed in Mister Li’s direction as this occurred, but it did nothing. Mister Li grabbed the egg and with the sound of a pang, crushed it in his hands.
 

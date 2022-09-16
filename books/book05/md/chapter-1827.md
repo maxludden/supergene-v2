@@ -1,9 +1,11 @@
+---
 Title:Showing of Tusk 
 Chapter:1827 
 Section:7 
 Book:5 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Showing of Tusk
 ### Chapter 1827

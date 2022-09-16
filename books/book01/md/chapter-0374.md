@@ -1,9 +1,11 @@
+---
 Title:Throat Slitting 
 Chapter:374 
 Section:1 
 Book:1 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Throat Slitting
 ### Chapter 374
@@ -54,7 +56,7 @@ The audience, on the other hand, were overjoyed. Watching Tie Kuang getting clos
 
 "Rip his head off."
 
-"F*&k his ass!"
+"Fuck his ass!"
 
 It was like a scene in the hell. Thousands of devils were shouting with desire.
 
@@ -64,7 +66,7 @@ Tie Kuang's speed was like a lightning bolt in the eyes of the unevolved. Even f
 
 The moment when Tie Kuang was about to grab Han Sen's shoulders, Han Sen used Heresy Mantra to make his heart thump. Blood started to pump from his heart and his body became tense.
 
-Boom!
+*Boom!*
 
 Using Sparticle, Han Sen's foot became a blur. A black thing flashed at Tie Kuang neck and Han Sen had already come to the back of his opponent.
 

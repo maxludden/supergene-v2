@@ -1,9 +1,11 @@
+---
 Title:Cutting Open the Stone Table 
 Chapter:2910 
 Section:15 
 Book:9 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Cutting Open the Stone Table
 ### Chapter 2910
@@ -72,7 +74,7 @@ The knife light, which looked like it could rip up ground, came down. It struck 
 
 Countless knife lights shattered it, sending stone dust everywhere. Rainbow light burst out of the stone tablet that. The primitive deifieds standing far away were frozen. It was like the whole universe itself had been cut open.
 
-Boom! Boom!
+*Boom!* *Boom!*
 
 The whole stone tablet was cut in half. It fell completely apart. The knife lights on Han Sen’s causal karma knife were almost depleted. Some knife airs were burning. It was like a fire that had not been put out.
 
@@ -92,6 +94,6 @@ He did not hear a notification for slaying a xenogeneic, which meant the stone t
 
 He had such a scary knife, yet he was still unable to kill the stone tablet. The stone table was likely a top-class true god xenogeneic. It was a shame it did not attack and could only receive hits.
 
-Boom!
+*Boom!*
 
 The rainbow light coming out of the two sections of the tablet grew stronger. They turned into a scary rainbow flame that burst into the sky. The whole sky transformed into a rainbow.

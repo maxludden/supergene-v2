@@ -1,9 +1,11 @@
+---
 Title:Conspiracy? 
 Chapter:2503 
 Section:12 
 Book:8 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Conspiracy?
 ### Chapter 2503
@@ -46,7 +48,11 @@ By pleading in this way, he would give King Bai the impression that he greatly l
 
 King Bai still coldly responded, “Our deal with the Meka has reached a critical point. We still need you to follow up. Don’t worry; Fourth Uncle can resolve this. And Miss Mirror is also on her way.”
 
-…
+<br>
+
+*****
+
+<br>
 
 Han Sen held Bao’er as he continued walking across the planet. This planet wasn’t an ideal place for creatures to live. Aside from the base, the rest of the environment was poor. Only a few xenogeneics could live in such conditions.
 

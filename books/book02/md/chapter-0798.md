@@ -1,9 +1,11 @@
+---
 Title:Getting Into the Shelter 
 Chapter:798 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Getting Into the Shelter
 ### Chapter 798
@@ -90,7 +92,7 @@ Dong!
 
 A Life Geno essence, one that looked like an orb of solid mist, fell to the ground. Han Sen made sure to pick it up, and after doing so, flew to the back of the gate that had previously barred their passage. Then, he lifted and removed the bolt that prevented its opening. After doing so, he made sure to make a quick escape backwards.
 
-Boom!
+*Boom!*
 
 The purple-door was smashed open by the big monster. With a loud roar, it marched inside without hesitation.
 

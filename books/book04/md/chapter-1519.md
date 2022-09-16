@@ -1,9 +1,11 @@
+---
 Title:Ants That Don’t Do Anything 
 Chapter:1519 
 Section:4 
 Book:4 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Ants That Don’t Do Anything
 ### Chapter 1519
@@ -96,6 +98,6 @@ The bunch of crazy ants after Han Sen and Wang Yuhang were now already at the sh
 
 Han Sen arrived at the entrance and flew up top. Then, the ant king came forward to batter the gate.
 
-Boom!
+*Boom!*
 
 The ant king’s body broke down the gate, tossing it aside. Countless ants then swarmed inside.

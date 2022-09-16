@@ -1,9 +1,11 @@
+---
 Title:Crown Prince Qin Bai 
 Chapter:3047 
 Section:16 
 Book:10 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Crown Prince Qin Bai
 ### Chapter 3047

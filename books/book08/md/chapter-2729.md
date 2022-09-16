@@ -1,9 +1,11 @@
+---
 Title:Good Fortune Pool 
 Chapter:2729 
 Section:13 
 Book:8 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Good Fortune Pool
 ### Chapter 2729

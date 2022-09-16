@@ -1,9 +1,11 @@
+---
 Title:Dead Cycle That Cannot Be Broken 
 Chapter:3406 
 Section:17 
 Book:10 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Dead Cycle That Cannot Be Broken
 ### Chapter 3406

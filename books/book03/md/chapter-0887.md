@@ -1,9 +1,11 @@
+---
 Title:Amazing Waterdrop 
 Chapter:887 
 Section:3 
 Book:3 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Amazing Waterdrop
 ### Chapter 887

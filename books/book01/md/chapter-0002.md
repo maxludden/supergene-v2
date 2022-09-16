@@ -1,20 +1,22 @@
-Title:Ass Freak
-Chapter:2
-Section:1
-Book:1
-CSS:../Styles/style.css
+---
+Title:Ass Freak 
+Chapter:2 
+Section:1 
+Book:1 
+CSS:../Styles/style.css 
 viewport: width=device-width
-
+---
+  
 ## Ass Freak
 ### Chapter 2
-
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
+  
 
-
-
-  Han Sen was stunned by the sudden voice in his head, and he could hardly believe it was true. Sacred-blood creature and sacred-blood beast soul: were those even real?
+  
+Han Sen was stunned by the sudden voice in his head, and he could hardly believe it was true. Sacred-blood creature and sacred-blood beast soul: were those even real?
 
 The creatures of God’s Sanctuary were divided into four parts: ordinary creatures, primitive creatures, mutant creatures and sacred-blood creatures. Different geno points could be gained by eating flesh of creatures of different types.
 

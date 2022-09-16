@@ -1,9 +1,11 @@
+---
 Title:Traveling and Studying 
 Chapter:3194 
 Section:16 
 Book:10 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Traveling and Studying
 ### Chapter 3194

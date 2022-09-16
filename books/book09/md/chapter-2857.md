@@ -1,9 +1,11 @@
+---
 Title:One Slash Cuts the Cause 
 Chapter:2857 
 Section:14 
 Book:9 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## One Slash Cuts the Cause
 ### Chapter 2857
@@ -50,7 +52,11 @@ At the same time, the whole universe was watching the fight. They were shocked b
 
 “Let’s wait and see what happens in this fight first,” Bai King coldly said. “This Demon Alpha is not a simple character.”
 
-…
+<br>
+
+*****
+
+<br>
 
 On the space battleground, Dragon One saw Demon Alpha had not struck again. He asked, “Why don’t you continue?”
 

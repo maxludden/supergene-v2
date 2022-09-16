@@ -1,9 +1,11 @@
+---
 Title:Officer Mutation 
 Chapter:1734 
 Section:6 
 Book:5 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Officer Mutation
 ### Chapter 1734
@@ -20,7 +22,7 @@ His hand bit into the angelic sword, while Golden Growler was sent flying away w
 
 Gu Qingcheng and Stay Up Late attacked the officer, but nothing they tried worked. The officer’s powers were too much, and they far exceeded what should have been possible inside the parameters of the sanctuary. The scary presence was something tangible, in itself.
 
-Boom!
+*Boom!*
 
 The black vortex in the sky became bigger. The dragon-like talons were emerging from the pit. The body of a monster began to emerge.
 
@@ -86,7 +88,7 @@ However, as the officer stood in front of the ruin, he stopped. He didn’t go i
 
 Gu Qingcheng looked towards the ruins and noticed a scary presence bleeding out from the rubble. A red light came bursting forth like water.
 
-Boom!
+*Boom!*
 
 The red light was like a volcano, and it laid waste to the ruins. Zero was holding Littleflower in the midst of the rubble. The red light was streaming from her back.
 

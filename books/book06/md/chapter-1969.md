@@ -1,9 +1,11 @@
+---
 Title:Becoming an Earl 
 Chapter:1969 
 Section:8 
 Book:6 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Becoming an Earl
 ### Chapter 1969

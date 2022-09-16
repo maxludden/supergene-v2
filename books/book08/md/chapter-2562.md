@@ -1,9 +1,11 @@
+---
 Title:Chain Demon Crocodile 
 Chapter:2562 
 Section:12 
 Book:8 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Chain Demon Crocodile
 ### Chapter 2562

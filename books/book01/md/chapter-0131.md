@@ -1,9 +1,11 @@
+---
 Title:Golden Rock Worm King 
 Chapter:131 
 Section:1 
 Book:1 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Golden Rock Worm King
 ### Chapter 131
@@ -68,7 +70,7 @@ Only the fox king continued with the rock worm as its mount.
 
 There were no more mutant foxes for him to kill, so Han Sen made the fox king his target. This time the fox king was prepared and dodged. Although the distance was short, the arrow ended up hitting the golden rock worm.
 
-Clank!
+*Clank!*
 
 It sounded like the worm had a shell harder than metal. The mutant black stinger arrow only left a white mark that was barely visible on it.
 

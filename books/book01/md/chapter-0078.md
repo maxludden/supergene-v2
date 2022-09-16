@@ -1,9 +1,11 @@
+---
 Title:Rock-paper-scissors 
 Chapter:78 
 Section:1 
 Book:1 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Rock-paper-scissors
 ### Chapter 78

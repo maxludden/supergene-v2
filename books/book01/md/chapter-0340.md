@@ -1,9 +1,11 @@
+---
 Title:Beast Souls of Second God’s Sanctuary 
 Chapter:340 
 Section:1 
 Book:1 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Beast Souls of Second God’s Sanctuary
 ### Chapter 340

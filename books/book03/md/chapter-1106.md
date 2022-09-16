@@ -1,9 +1,11 @@
+---
 Title:Refining the Crystals 
 Chapter:1106 
 Section:3 
 Book:3 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Refining the Crystals
 ### Chapter 1106

@@ -1,9 +1,11 @@
+---
 Title:Charming God’s Jian 
 Chapter:2592 
 Section:12 
 Book:8 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Charming God’s Jian
 ### Chapter 2592

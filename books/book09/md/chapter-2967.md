@@ -1,9 +1,11 @@
+---
 Title:Fighting in a God Palace 
 Chapter:2967 
 Section:15 
 Book:9 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Fighting in a God Palace
 ### Chapter 2967

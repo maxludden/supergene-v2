@@ -1,9 +1,11 @@
+---
 Title:Blood Fruit 
 Chapter:1017 
 Section:3 
 Book:3 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Blood Fruit
 ### Chapter 1017

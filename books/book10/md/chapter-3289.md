@@ -1,9 +1,11 @@
+---
 Title:Big Explosion 
 Chapter:3289 
 Section:16 
 Book:10 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Big Explosion
 ### Chapter 3289

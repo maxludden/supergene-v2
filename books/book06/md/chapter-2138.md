@@ -1,9 +1,11 @@
+---
 Title:Endless Sky Path 
 Chapter:2138 
 Section:8 
 Book:6 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Endless Sky Path
 ### Chapter 2138
@@ -98,7 +100,7 @@ He knew precisely how powerful  was, and that was why he was so shocked.
 
 “Human… Dollar…” Countless eyes stared at those two words, transfixed. The audience was a huge wash of emotion, including everything from jealousy to admiration to fear.
 
-Boom!
+*Boom!*
 
 The Geno Being Scroll’s river broke. And then, Dollar disappeared from sight. After that, a video played across the bronze scroll.
 

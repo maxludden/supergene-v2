@@ -1,9 +1,11 @@
+---
 Title:Yi Dong Mu's Secret Skill 
 Chapter:564 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Yi Dong Mu's Secret Skill
 ### Chapter 564

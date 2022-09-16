@@ -1,9 +1,11 @@
+---
 Title:Holy Bottle 
 Chapter:957 
 Section:3 
 Book:3 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Holy Bottle
 ### Chapter 957
@@ -86,7 +88,7 @@ Thorn Baron, in the meantime, was doing poorly. The legion of vines were almost 
 
 The vines were no longer shielding the spirit hall, either.
 
-Hiss! A colorful snake destroyed the wall of vines and grabbed Thorn Baron. She was too weak to dodge.
+*Hiss!* A colorful snake destroyed the wall of vines and grabbed Thorn Baron. She was too weak to dodge.
 
 "The bottle is mine!" Thunder-Devil King looked as sinister as he did happy, as he pried the bottle from her hands.
 

@@ -1,9 +1,11 @@
+---
 Title:Redhead Cricket 
 Chapter:1450 
 Section:4 
 Book:4 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Redhead Cricket
 ### Chapter 1450
@@ -90,7 +92,7 @@ Han Sen reached the ceiling of the cave with the cricket at his heels.
 
 Han Sen was going to be swallowed by the rampaging creature if he didn’t move fast, so he swirled through the air in an arc like a swooping bird to avoid it.
 
-Boom!
+*Boom!*
 
 The redheaded cricket hit the cavern’s ceiling, and the vines reached out like snakes, lecherously tangling the insect up.
 

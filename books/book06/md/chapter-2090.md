@@ -1,9 +1,11 @@
+---
 Title:Night Ghost 
 Chapter:2090 
 Section:8 
 Book:6 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Night Ghost
 ### Chapter 2090

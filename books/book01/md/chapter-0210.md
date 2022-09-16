@@ -1,9 +1,11 @@
+---
 Title:Humanoid Creature 
 Chapter:210 
 Section:1 
 Book:1 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Humanoid Creature
 ### Chapter 210
@@ -46,7 +48,7 @@ Han Sen wanted to keep hitting Son of Heaven, while Thumb and Huangfu Pingqing h
 
 Han Sen forced Thumb back with one fist, and used his palm as a knife and struck at Huangfu Pingqing.
 
-Ding!
+*Ding!*
 
 Huangfu Pingqing's strength was weaker after all. Her sword was struck away and a silver three-blade harpoon cut through the sacred-blood armor on Han Sen's arm. Blood was flowing.
 

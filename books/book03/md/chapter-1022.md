@@ -1,9 +1,11 @@
+---
 Title:Meeting Again 
 Chapter:1022 
 Section:3 
 Book:3 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Meeting Again
 ### Chapter 1022
@@ -88,7 +90,7 @@ Amidst the golden light that reflected from its shiny plating, the hideous creat
 
 After a roar, the golden bug’s tail started to move. It swayed from left to right, as if it was taking aim at Han Sen.
 
-Boom!
+*Boom!*
 
 Nine streaks of golden light were cast towards Han Sen, which twisted the very composure of space.
 

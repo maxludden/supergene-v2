@@ -1,9 +1,11 @@
+---
 Title:Shura Punch 
 Chapter:1054 
 Section:3 
 Book:3 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Shura Punch
 ### Chapter 1054
@@ -80,7 +82,11 @@ The shura were still lacking an understanding for the subtleties and undertones 
 
 “Humans can be tricksy, you know. Perhaps the boy is trying to lull the prince into a false sense of security, by presenting himself as a weak child?”
 
-…
+<br>
+
+*****
+
+<br>
 
 Whatever their opinion of Han Sen was, it was in some capacity bad.
 
@@ -110,7 +116,7 @@ Han Sen hit back with Sonic-Thunder Punch.
 
 Yu Tuoshan’s flesh and bone trembled with the simmering power that carried his strike, and effortlessly, it destroyed Han Sen’s attempt.
 
-Boom!
+*Boom!*
 
 When their fists collided, Han Sen was knocked back a few meters, with skids marks tracing his knockback.
 

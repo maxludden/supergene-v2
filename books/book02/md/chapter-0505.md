@@ -1,9 +1,11 @@
+---
 Title:Blackgod 
 Chapter:505 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Blackgod
 ### Chapter 505

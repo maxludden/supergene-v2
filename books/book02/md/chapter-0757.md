@@ -1,9 +1,11 @@
+---
 Title:Battling a Fairy 
 Chapter:757 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Battling a Fairy
 ### Chapter 757

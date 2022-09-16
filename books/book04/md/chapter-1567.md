@@ -1,9 +1,11 @@
+---
 Title:Swordmark 
 Chapter:1567 
 Section:4 
 Book:4 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Swordmark
 ### Chapter 1567
@@ -78,7 +80,7 @@ Han Sen’s entire body looked as if it had become a sharp sword. It was as if h
 
 Finally, Han Sen stepped onto the mountain and touched the mark.
 
-Boom!
+*Boom!*
 
 The endless swordmind came at Han Sen like the ceaseless discharge of an infinite river. It was like putting Han Sen’s swordmind into a river of time to remain washed forevermore.
 

@@ -1,9 +1,11 @@
+---
 Title:Glory 
 Chapter:710 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Glory
 ### Chapter 710
@@ -78,7 +80,11 @@ Annie nodded and said, "We have run many tests on the Life Geno essences. We hav
 
 "I would like to know how, too," Han Sen said, as he continued to eat.
 
-…
+<br>
+
+*****
+
+<br>
 
 The next day, the human shelter's battleground was packed to the gills with spectators once more. The audience was rabid, eager to watch Dollar fight the Light Son of God. If Dollar won, he would become a Son of God himself. It would be the ultimate glory, and one of the highest achievements of humanity.
 

@@ -1,9 +1,11 @@
+---
 Title:Fierce 
 Chapter:430 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Fierce
 ### Chapter 430
@@ -68,7 +70,7 @@ The scarier part was that the kick was so sudden that no one saw it coming.
 
 "Lu is serious this time. I don’t believe the boy could even take this one kick," Wang Daqing said with his eyes wide, he did not realize that Lu Bin would be so serious as if he was treating his opponent as a Shura in the battlefield.
 
-Boom!
+*Boom!*
 
 After Wang Daqing said that, A Soldier On Warship suddenly raised his arm to block Lu Bin’s kick. Although he took two steps back, he only lost two points in health.
 

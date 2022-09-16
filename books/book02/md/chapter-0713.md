@@ -1,9 +1,11 @@
+---
 Title:Now the Real Fight Begins 
 Chapter:713 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Now the Real Fight Begins
 ### Chapter 713

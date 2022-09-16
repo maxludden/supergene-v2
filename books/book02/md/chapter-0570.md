@@ -1,9 +1,11 @@
+---
 Title:Dual Blade 
 Chapter:570 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Dual Blade
 ### Chapter 570

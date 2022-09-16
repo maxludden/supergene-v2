@@ -1,9 +1,11 @@
+---
 Title:A New Era of Warframe 
 Chapter:181 
 Section:1 
 Book:1 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## A New Era of Warframe
 ### Chapter 181
@@ -50,7 +52,12 @@ The gate was lifted after Liu Changming finished the sentence. Boxes with "TS" e
 
 "It’s just the look. Its performance cannot be compared with the ones in the commercial, right?"
 
-...
+<br>
+
+*****
+
+<br>
+
 
 The media and those who wanted to buy SKTS were staring at the rows of silver boxes.
 
@@ -84,7 +91,12 @@ The techniques they used bedazzled all.
 
 "Don’t push. I came first..."
 
-...
+<br>
+
+*****
+
+<br>
+
 
 The entire site was in madness. As expensive as it was, all one hundred thousand units of SKTS were sold out almost in the blink of an eye. Many regretted coming too late.
 
@@ -98,7 +110,7 @@ It was as if there was only this one model of warframe in the entire Alliance.
 
 Those who were originally interested in SKTS but hesitated because of all the rumors were very regretful.
 
-"Bang!"
+"*Bang!*"
 
 Son of Heaven smashed a glass cup. It was the opening of the Starry Cup finals, but there were almost no reports on the Starry Cup. Almost all of the media chose to cover Digang and SKTS instead.
 

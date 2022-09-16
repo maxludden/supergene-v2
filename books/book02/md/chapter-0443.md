@@ -1,9 +1,11 @@
+---
 Title:Two Quarrel and a Third Profits by It 
 Chapter:443 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Two Quarrel and a Third Profits by It
 ### Chapter 443

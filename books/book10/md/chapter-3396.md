@@ -1,9 +1,11 @@
+---
 Title:Geno Tablet Changes 
 Chapter:3396 
 Section:17 
 Book:10 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Geno Tablet Changes
 ### Chapter 3396

@@ -1,9 +1,11 @@
+---
 Title:Follow Me 
 Chapter:2081 
 Section:8 
 Book:6 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Follow Me
 ### Chapter 2081
@@ -76,13 +78,13 @@ The entire planet became a killing hell. Blood was spilled across the place, and
 
 The fights out in space were still going on, too. Han Sen heard a familiar voice come from the cosmos before long, breaking through the atmosphere. It was a voice that sounded like the roaring of an angry monster, and it slammed into a blue light. That blue light fell like a meteor covered in purple air.
 
-Boom!
+*Boom!*
 
 The ground shook, and nearby hills were leveled. The blue light erupted like a volcano from the mountain.
 
 Yisha’s body sundered the atmosphere before that mountain. Her pretty face had turned to one scored with a lust for murder. She held a long white knife, drenched in purple air. When her hand moved, it was like she was tearing a hole in the universe itself.
 
-Boom!
+*Boom!*
 
 There was a deafening noise. The ground was scarred with a knifemark that went on for a few hundred miles. That blue light began to crack, but it made some marks that resembled a chrysanthemum.
 

@@ -1,9 +1,11 @@
+---
 Title:Getting Super Geno Points 
 Chapter:1526 
 Section:4 
 Book:4 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Getting Super Geno Points
 ### Chapter 1526

@@ -1,9 +1,11 @@
+---
 Title:Silver Winged Beetle 
 Chapter:2025 
 Section:8 
 Book:6 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Silver Winged Beetle
 ### Chapter 2025
@@ -64,7 +66,7 @@ The other silver xenogeneics started coming after the red reaper again. Han Sen 
 
 A group comprised of a dozen silver xenogeneics latched onto the red reaper’s scythe, breaking it immediately, just as the rocket came.
 
-Boom!
+*Boom!*
 
 A white mushroom light exploded from the midst of the silver xenogeneic crowd. The strength blew each and every one of the xenogeneics away.
 
@@ -78,7 +80,7 @@ Han Sen did not move, though. He stood firm with his rocket launcher, then fired
 
 This time, however, he had glazed the effects of Turtle atop the rocket.
 
-Boom!
+*Boom!*
 
 A rocket exploded in the middle of the waves of silver xenogeneics. They had an aura around them, shielding them from the explosion. It also protected them from Turtle, preventing the symbol from sticking on them. It had been blocked.
 

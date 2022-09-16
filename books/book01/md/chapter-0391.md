@@ -1,9 +1,11 @@
+---
 Title:Invincible Pet Armor 
 Chapter:391 
 Section:1 
 Book:1 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Invincible Pet Armor
 ### Chapter 391
@@ -46,9 +48,10 @@ The blue flames were flying across like fireworks, but Meowth was not hurt at al
 
 Hearing the voice sounding in his mind, telling him ghost butterflies killed and beast souls gained, Han Sen became overjoyed. Super pet armor was indeed outstanding.
 
-Boom!
+*Boom!*
 
-> "Sacred-Blood Ghost Butterfly Killed. Beast Soul Of Sacred-Blood Ghost Butterfly Gained. Meat Inedible."
+> "Sacred-Blood Ghot Butterfly killed. Beast soul of Sacred-Blood Ghost Butterfly gained. Meat inedible."
+<!--"Sacred-Blood Ghost Butterfly Killed. Beast Soul Of Sacred-Blood Ghost Butterfly Gained. Meat Inedible."-->
 
 Suddenly, Han Sen heard the voice, which made him jump with joy. Checking Meowth, Han Sen found his pet was still going forward as if nothing had happened.
 
@@ -66,7 +69,8 @@ A pair of black wings spread on Han Sen's back, making him look like a dark ange
 
 Last time Han Sen did not make it to the end of the cave, so he wanted to see for himself what was awaiting if he went further.
 
-> "Sacred-Blood Ghost Butterfly Killed. Beast Soul Gained. Meat Inedible."
+> "Sacred-Blood Ghot Butterfly killed. Beast soul of Sacred-Blood Ghost Butterfly gained. Meat inedible."
+<!--"Sacred-Blood Ghost Butterfly Killed. Beast Soul Gained. Meat Inedible."-->
 
 Watching the ghost butterflies became more and more scarce, Han Sen heard another voice telling him about another sacred-blood ghost butterfly beast soul.
 

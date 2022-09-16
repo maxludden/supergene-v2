@@ -1,9 +1,11 @@
+---
 Title:Moon Blade 
 Chapter:491 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Moon Blade
 ### Chapter 491
@@ -60,7 +62,7 @@ This guy is weird. I will take it slow. Wang Xun thought, then took back his wea
 
 But he never had a second opportunity. Han Sen's fists flew at him nonstop in a manner similar to Sprocket Sword. The attacks were so tightly arranged that Wang Xun had to protect himself first, without any chance or time to fight back.
 
-Boom!
+*Boom!*
 
 Wang Xun failed to make a single strike until the end when he was finished off by Han Sen.
 
@@ -76,7 +78,11 @@ Feeling regretted and upset, Wang Xun presented himself for not insisting during
 
 "The king is after all a king. Who dares to say that he has fallen?"
 
-…
+<br>
+
+*****
+
+<br>
 
 Dollar did not pay any attention to the audience and chose to be randomly matched again.
 
@@ -108,7 +114,11 @@ It was just an ordinary fight on the official platform, instead of a match. The 
 
 "Dammit, those globes!"
 
-…
+<br>
+
+*****
+
+<br>
 
 Opposite Han Sen, a tall woman came out. Besides her long legs, her ample breasts were almost out of this world. At first glance, anyone would be attracted to look at her girls. It would take people a while to notice that her other features were pretty as well.
 

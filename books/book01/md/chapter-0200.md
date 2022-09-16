@@ -1,9 +1,11 @@
+---
 Title:All It Took 
 Chapter:200 
 Section:1 
 Book:1 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## All It Took
 ### Chapter 200
@@ -42,7 +44,12 @@ Those who had watched for Fang Mingquan’s recommendation were mostly unevolved
 
 "I really want to know what St. Germain would think after seeing this."
 
-...
+<br>
+
+*****
+
+<br>
+
 
 It chanced that one of the St. Germain players was a fan of Fang Mingquan’s and was watching his show in the lounge.
 

@@ -1,9 +1,11 @@
+---
 Title:Trapped in Jade Lion Valley 
 Chapter:3054 
 Section:16 
 Book:10 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Trapped in Jade Lion Valley
 ### Chapter 3054

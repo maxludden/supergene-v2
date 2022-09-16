@@ -1,9 +1,11 @@
+---
 Title:The Egg 
 Chapter:284 
 Section:1 
 Book:1 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## The Egg
 ### Chapter 284
@@ -56,7 +58,7 @@ After reaching the end of the nest, Han Sen saw a translucent ellipsoid set in t
 
 The ellipsoid was taller than himself, and looked exactly the same as eggs portrayed on the Skynet. Han Sen regarded it and used the diamond sword to cut it open.
 
-Crack!
+*Crack!*
 
 The ellipsoid was cut in half and liquid like glue flowed from it.
 
@@ -86,6 +88,6 @@ The liquid from the broken egg started to glow and gradually condensed into some
 
 Han Sen watched the beast soul formulating in front of him without a blink and kept praying, "Super beast soul… It has to be a super beast soul…"
 
-Boom!
+*Boom!*
 
 The moment the beast soul was officially formed, it turned into a shadow and entered Han Sen's mind. At the same time, he heard the familiar voice.

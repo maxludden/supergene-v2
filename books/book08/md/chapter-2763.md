@@ -1,9 +1,11 @@
+---
 Title:Judgment a Second Ago 
 Chapter:2763 
 Section:13 
 Book:8 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Judgment a Second Ago
 ### Chapter 2763

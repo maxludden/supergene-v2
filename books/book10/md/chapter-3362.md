@@ -1,9 +1,11 @@
+---
 Title:Who Is Human Alpha? 
 Chapter:3362 
 Section:17 
 Book:10 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Who Is Human Alpha?
 ### Chapter 3362

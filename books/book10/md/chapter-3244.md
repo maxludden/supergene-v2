@@ -1,9 +1,11 @@
+---
 Title:Mister God Spirit 
 Chapter:3244 
 Section:16 
 Book:10 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Mister God Spirit
 ### Chapter 3244

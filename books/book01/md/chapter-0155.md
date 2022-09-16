@@ -1,9 +1,11 @@
+---
 Title:Changing the Rules 
 Chapter:155 
 Section:1 
 Book:1 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Changing the Rules
 ### Chapter 155
@@ -78,7 +80,12 @@ But Fang Mingquan also knew that a corporation like Starry Group was not somethi
 
 "Starry Group has always been rubbish."
 
-...
+<br>
+
+*****
+
+<br>
+
 
 But no matter how the audience protested, the game still started in accordance with the new rules.
 

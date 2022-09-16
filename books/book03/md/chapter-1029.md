@@ -1,9 +1,11 @@
+---
 Title:Striking Ghost-sword 
 Chapter:1029 
 Section:3 
 Book:3 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Striking Ghost-sword
 ### Chapter 1029

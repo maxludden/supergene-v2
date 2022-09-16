@@ -1,9 +1,11 @@
+---
 Title:Strange Scary Bug 
 Chapter:2026 
 Section:8 
 Book:6 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Strange Scary Bug
 ### Chapter 2026

@@ -1,9 +1,11 @@
+---
 Title:Ending an Era 
 Chapter:251 
 Section:1 
 Book:1 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Ending an Era
 ### Chapter 251
@@ -60,7 +62,11 @@ Lu Meng said casually, "More progress but less opportunity. With our current tea
 
 Lu Meng curled his lips. "Relax, we will definitely go. The coach is clever and she would not use those old teammates who have lost all their confidence. It is very likely we will represent the school."
 
-…
+<br>
+
+*****
+
+<br>
 
 As Han Sen was walking toward the cafeteria, his comlink rang. It was from Tang Zhenliu. When he answered the call, the holographic images of Lin Feng and Tang Zhenliu both appeared.
 

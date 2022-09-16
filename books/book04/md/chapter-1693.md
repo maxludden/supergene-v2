@@ -1,9 +1,11 @@
+---
 Title:Bone 
 Chapter:1693 
 Section:5 
 Book:4 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Bone
 ### Chapter 1693
@@ -68,7 +70,7 @@ Before he finished speaking, Xie Qing King’s body flashed with a silver light.
 
 Black God was so mad, and the demonic aura he had blasted towards and against Xie Qing King’s fist.
 
-Boom!
+*Boom!*
 
 The silver light and the demonic force collided, creating an explosion. Xie Qing King did not move, but Black God was knocked back ten meters.
 

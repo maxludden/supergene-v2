@@ -1,9 +1,11 @@
+---
 Title:Only the Stronger Earn Respect 
 Chapter:3222 
 Section:16 
 Book:10 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Only the Stronger Earn Respect
 ### Chapter 3222

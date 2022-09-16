@@ -1,9 +1,11 @@
+---
 Title:Entering the Painting 
 Chapter:1463 
 Section:4 
 Book:4 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Entering the Painting
 ### Chapter 1463

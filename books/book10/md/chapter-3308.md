@@ -1,9 +1,11 @@
+---
 Title:Sky King's Identity 
 Chapter:3308 
 Section:17 
 Book:10 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Sky King's Identity
 ### Chapter 3308
@@ -22,7 +24,7 @@ Ning Yue let the little green sword go. He allowed the little sword to float in 
 
 As the nine evil lights were coming closer, Ning Yue did not move a muscle. The little green sword made a buzzing noise. It released a strange sword cry. It turned into a green peacock that went straight for Ning Yue.
 
-Boom!
+*Boom!*
 
 The nine evil lights detonated on Ning Yue. Everything around seemed to rise up. The nine evil lights shattered.
 

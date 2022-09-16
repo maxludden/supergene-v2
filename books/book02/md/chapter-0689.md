@@ -1,9 +1,11 @@
+---
 Title:Golden Ladybug 
 Chapter:689 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Golden Ladybug
 ### Chapter 689
@@ -88,7 +90,7 @@ Han Sen was happy, seeing this. There were no other bugs coming out of the hole 
 
 Han Sen's hand jumped, and he ordered the adiraid to leave the area. Otherwise, if she was noticed to be holding the peach, she'd become enemy number one for every super creature in the forest.
 
-Boom!
+*Boom!*
 
 The adiraid flapped its wings and shot off into the sky.
 

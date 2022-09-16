@@ -1,9 +1,11 @@
+---
 Title:Buddha Wall 
 Chapter:1935 
 Section:7 
 Book:5 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Buddha Wall
 ### Chapter 1935
@@ -88,7 +90,7 @@ Han Sen looked at her eyes, but her eyes were too pretty. It was difficult to de
 
 Han Sen felt like his vision was becoming sucked into her own. Within the reflection of her eyes, he clearly saw himself. But the shadow was so strange, and he saw himself naked. He wore nothing in front of Speechless Buddha Lady.
 
-Boom!
+*Boom!*
 
 Han Sen felt as if he had just been shot in the head. So many thoughts rushed to his mind all at once, many of which made him blush.
 

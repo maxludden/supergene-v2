@@ -1,9 +1,11 @@
+---
 Title:Playing Go 
 Chapter:332 
 Section:1 
 Book:1 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Playing Go
 ### Chapter 332
@@ -80,7 +82,7 @@ Queen did not say anything but continued to dodge Han Sen's attacks. However, Ha
 
 They were like two players at a Go game. Han Sen was the weaker player and his every step was in Queen's calculation. There was no way he could fight back. Very soon, Han Sen was pushed to the corner like last time.
 
-Bang!
+*Bang!*
 
 With another kick, Han Sen was eliminated. When he returned to the game, Queen had already gone off-line.
 

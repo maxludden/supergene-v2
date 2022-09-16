@@ -1,9 +1,11 @@
+---
 Title:Jadeskin Levels Up to King Class 
 Chapter:2416 
 Section:11 
 Book:7 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Jadeskin Levels Up to King Class
 ### Chapter 2416
@@ -86,7 +88,7 @@ The icy, jade-looking area power spread through Han Sen, becoming a strange seal
 
 When the ice moon-like cogwheel spun, Han Sen’s entire body crystallized, and he glowed like a crystal. He was like a god wrapped up in holy light.
 
-Boom!
+*Boom!*
 
 The cogwheel continued to spin as the universal core hall door opened. Han Sen’s body was sucked into it. He entered the universal core hall.
 

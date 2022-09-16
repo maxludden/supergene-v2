@@ -1,9 +1,11 @@
+---
 Title:Cheating Geno Table 
 Chapter:3318 
 Section:17 
 Book:10 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Cheating Geno Table
 ### Chapter 3318

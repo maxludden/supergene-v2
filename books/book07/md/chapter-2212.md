@@ -1,9 +1,11 @@
+---
 Title:Mutant Galactic Shrimp 
 Chapter:2212 
 Section:10 
 Book:7 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Mutant Galactic Shrimp
 ### Chapter 2212

@@ -1,9 +1,11 @@
+---
 Title:Mystic Well 
 Chapter:1231 
 Section:3 
 Book:3 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Mystic Well
 ### Chapter 1231
@@ -80,7 +82,7 @@ Xie Qing King now came near, in his flip-flops. He prepared to dive in after Wat
 
 “Nothing in the Third God’s Sanctuary can stop a dude like me. Come on, son; you know I’m unstoppable. You’re saying a well can get the better of me?” Xie Qing King scoffed at the desire for safety, and he looked ready to jump in.
 
-Splash!
+*Splash!*
 
 The sudden sound shocked them all, and it was Water Fairy who had come back out.
 

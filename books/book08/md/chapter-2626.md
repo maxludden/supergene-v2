@@ -1,9 +1,11 @@
+---
 Title:Silver Destroyer 
 Chapter:2626 
 Section:12 
 Book:8 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Silver Destroyer
 ### Chapter 2626

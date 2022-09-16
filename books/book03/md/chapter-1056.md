@@ -1,9 +1,11 @@
+---
 Title:Giving Up Victory 
 Chapter:1056 
 Section:3 
 Book:3 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Giving Up Victory
 ### Chapter 1056
@@ -48,7 +50,11 @@ In the stream, others were feeling relieved, as well. But their confidence in vi
 
 “Beat him, My Prince!”
 
-…
+<br>
+
+*****
+
+<br>
 
 Many of the shura watched intently, as did a number of humans who had tuned into the same stream. Everywhere, there was a sudden surge of excitement for this battle.
 

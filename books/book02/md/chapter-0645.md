@@ -1,9 +1,11 @@
+---
 Title:Bloody Ice Fields 
 Chapter:645 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Bloody Ice Fields
 ### Chapter 645
@@ -28,7 +30,7 @@ The hardlight string of the crossbow flashed quickly, launching the bolt. The po
 
 The T-rex opened its mouth again to roar, cascading blood as it did. The ten bolts Han Sen fired into its mouth must have dealt a crippling amount of damage.
 
-Whoosh!
+*Whoosh!*
 
 The T-rex started breathing fire once more, and a creepy mixture of blood and flame gushed out from its mouth, with the occasional black feather.
 

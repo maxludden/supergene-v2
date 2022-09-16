@@ -1,9 +1,11 @@
+---
 Title:Royal Spirit 
 Chapter:484 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Royal Spirit
 ### Chapter 484
@@ -76,7 +78,7 @@ Either the death of creatures or humans could not change the looks of the young 
 
 He did not know whether his luck was good or bad. After all this time, he eventually ended up in a human shelter, which, however, was under the attack of a royal spirit who was controlling more than seven sacred-blood creatures. Obviously, she was not someone easy to deal with.
 
-Boom!
+*Boom!*
 
 Guan Tong threw Han Sen and the body of the ferret on the snow, running toward the shelter down the hill.
 

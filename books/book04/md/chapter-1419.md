@@ -1,9 +1,11 @@
+---
 Title:The Battle Begins 
 Chapter:1419 
 Section:4 
 Book:4 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## The Battle Begins
 ### Chapter 1419
@@ -60,7 +62,7 @@ She was still a distance away from the shelter, but she hoped there were other h
 
 “No one can save you; no matter how loudly you shout,” No God Emperor coldly said, lifting his sword towards her back, hoping to cut Queen in half.
 
-Boom!
+*Boom!*
 
 Suddenly, a silver light exploded against No God Sword.
 

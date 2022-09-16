@@ -1,9 +1,11 @@
+---
 Title:Scary Sense 
 Chapter:719 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Scary Sense
 ### Chapter 719

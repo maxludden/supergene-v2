@@ -1,9 +1,11 @@
+---
 Title:Wind String 
 Chapter:2553 
 Section:12 
 Book:8 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Wind String
 ### Chapter 2553
@@ -46,7 +48,11 @@ Autumn Wind looked at Han Sen and said, “Use whatever attack you want. If you 
 
 “Not many people would happily hand over a deified treasure to someone else. Even if they did, they wouldn’t hand it to an enemy.”
 
-…
+<br>
+
+*****
+
+<br>
 
 While everyone complained, Autumn Wind took the bow and quiver off his back. He threw them to Han Sen. The Kings around them stared blankly at the two.
 

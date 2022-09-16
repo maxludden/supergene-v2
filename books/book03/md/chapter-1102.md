@@ -1,9 +1,11 @@
+---
 Title:God 
 Chapter:1102 
 Section:3 
 Book:3 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## God
 ### Chapter 1102

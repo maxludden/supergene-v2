@@ -1,9 +1,11 @@
+---
 Title:Devil-blood 
 Chapter:849 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Devil-blood
 ### Chapter 849
@@ -34,7 +36,7 @@ The four super creatures had been tricked to go against each other.
 
 "This is it. Little Silver, kill them!" Han Sen shouted, and then also summoned Little Angel.
 
-Boom!
+*Boom!*
 
 The silver fox, which had been casually resting on Han Sen's shoulder, finally moved. It opened its mouth and shot out a bolt of lightning towards the scimitar-witch. With a wicked screech accompanying the hit, her body became paralyzed. Little Angel's green eyes lit, and he swung her transparent greatsword across the witch's neck.
 

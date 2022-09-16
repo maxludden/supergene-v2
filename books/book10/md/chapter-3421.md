@@ -1,9 +1,11 @@
+---
 Title:Fighting Demon Alpha 
 Chapter:3421 
 Section:17 
 Book:10 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Fighting Demon Alpha
 ### Chapter 3421

@@ -1,9 +1,11 @@
+---
 Title:Stone Statue 
 Chapter:2007 
 Section:8 
 Book:6 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Stone Statue
 ### Chapter 2007

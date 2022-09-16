@@ -1,9 +1,11 @@
+---
 Title:So Many Crimes and No Regret 
 Chapter:3025 
 Section:15 
 Book:9 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## So Many Crimes and No Regret
 ### Chapter 3025
@@ -60,7 +62,7 @@ Qin Xiu kept walking as he said, “In this world, there are not many people I a
 
 The god palaces fell, but God was still calm as he said, “I do not think so. You cannot make something out of nothing. There must be rules, and rules breed possibilities. If everything was nothing, then nothing would exist. There would not be you and I. Things were always meant to be, and it cannot be forced.” “The world is not fair. What do we need it for? If this world really required rules, then it should be me who decides them.” Qin Xiu’s eyes possessed god light. The black and white flames grew brighter. The blue pattern on the armor was glowing with a blue light. It was like they were coming alive.
 
-Boom! Boom! Boom!
+*Boom!* *Boom!* *Boom!*
 
 While Qin Xiu was suppressing the god palaces, more and more cracks developed. Although God tried his best to protect the geno hall, his power did not really do much to affect Qin Xiu.
 
@@ -80,7 +82,7 @@ After that, Qin Xiu walked forward again. He and God’s powers were in constant
 
 The indestructible geno hall was shaking. Inside the god palace, every race’s race lantern was shining extremely bright. They helped God fight against Qin Xiu.
 
-Boom! Boom! Boom!
+*Boom!* *Boom!* *Boom!*
 
 The sky and ground were changing a lot. One Annihilation class god temple fell away from the god palaces. It drifted into the void of space.
 

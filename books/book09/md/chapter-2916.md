@@ -1,9 +1,11 @@
+---
 Title:Trash Sea 
 Chapter:2916 
 Section:15 
 Book:9 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Trash Sea
 ### Chapter 2916
@@ -42,7 +44,7 @@ Although Han Sen was too far away from the energy vortex, he still felt the powe
 
 In this place, Han Sen wasn’t about to use teleportation techniques. He was worried about entering some turbulent patch or another place like it.
 
-Boom! Boom! Boom!
+*Boom!* *Boom!* *Boom!*
 
 Han Sen went around the black hole. He saw flickering fireworks coming out of the trash sea in front. It was like a light substance flickering. It looked colorful and pretty.
 
@@ -88,7 +90,7 @@ The weird woman on the face of the shield slowly opened her eyes. Some strange l
 
 The light of Medusa’s Gaze kept being reflected in the bubbles. It created even more light. Han Sen almost had it on him, so it made him hurriedly dodge.
 
-Pop!
+*Pop!*
 
 The places around were taken over by the bubbles. Han Sen had only just moved a bit when he touched a bubble.
 

@@ -1,9 +1,11 @@
+---
 Title:The Braves 
 Chapter:2030 
 Section:8 
 Book:6 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## The Braves
 ### Chapter 2030

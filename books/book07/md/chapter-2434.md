@@ -1,9 +1,11 @@
+---
 Title:Weird Girl 
 Chapter:2434 
 Section:11 
 Book:7 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Weird Girl
 ### Chapter 2434

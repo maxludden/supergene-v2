@@ -1,9 +1,11 @@
+---
 Title:Finishing Himself 
 Chapter:2743 
 Section:13 
 Book:8 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Finishing Himself
 ### Chapter 2743

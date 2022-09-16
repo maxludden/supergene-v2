@@ -1,9 +1,11 @@
+---
 Title:Rushing Into Something 
 Chapter:1472 
 Section:4 
 Book:4 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Rushing Into Something
 ### Chapter 1472

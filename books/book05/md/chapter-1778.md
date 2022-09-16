@@ -1,9 +1,11 @@
+---
 Title:The Fight to Extinguish the Light 
 Chapter:1778 
 Section:6 
 Book:5 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## The Fight to Extinguish the Light
 ### Chapter 1778
@@ -36,7 +38,7 @@ As the ancient temple appeared, a voice came along with it Many strange shadows 
 
 Kong Fei was in front of the door to the place. He pointed his finger at it, and a drop of blood flew forward to it.
 
-Every creature was attracted to the sight of his blood. And their eyes watched as it floated forward to touch the gate. Boom!
+Every creature was attracted to the sight of his blood. And their eyes watched as it floated forward to touch the gate. *Boom!*
 
 The mysterious, ancient temple was opened by that blood. That meant the gates approved of the genes possessed by the one who wished to enter. Now, he could go forward and attempt to claim a spot.
 
@@ -48,7 +50,7 @@ Everyone turned to look at the naked man, hovering in the air. They were waiting
 
 Kong Fei’s face looked as if he was mocking something. He slowly said, “Feather!”
 
-Boom!
+*Boom!*
 
 The ancient temple’s lanterns became dimmer, but only one started to blaze brighter. The scary flames burst out like a volcano, all from a single lantern. It was hanging in the geno hall. The lantern also displayed gold lettering, which read “Feather.”
 

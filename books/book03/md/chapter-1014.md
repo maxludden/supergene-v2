@@ -1,9 +1,11 @@
+---
 Title:Liu Yuxuan’s Scheme 
 Chapter:1014 
 Section:3 
 Book:3 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Liu Yuxuan’s Scheme
 ### Chapter 1014

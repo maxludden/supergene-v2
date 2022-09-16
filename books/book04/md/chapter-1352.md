@@ -1,9 +1,11 @@
+---
 Title:Power of the Bouncy Egg 
 Chapter:1352 
 Section:4 
 Book:4 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Power of the Bouncy Egg
 ### Chapter 1352
@@ -84,6 +86,6 @@ He gave the human the credit he deserved, though. Han Sen had proved troublesome
 
 The four apes should have been able to tear him apart several times over by now, but there was not a single smidgen of blood to see.
 
-Boom!
+*Boom!*
 
 The boss felt a large gust of power blast its way out of the crowd. The beasts he had spawned were all blown away. Even the four apes were sent flying, and despite them biting Han Sen over and over, the human looked to be perfectly fine.

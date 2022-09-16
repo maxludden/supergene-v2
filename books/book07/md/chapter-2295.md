@@ -1,9 +1,11 @@
+---
 Title:The Extreme King’s Secre 
 Chapter:2295 
 Section:10 
 Book:7 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## The Extreme King’s Secre
 ### Chapter 2295

@@ -1,9 +1,11 @@
+---
 Title:Gargoyle 
 Chapter:456 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Gargoyle
 ### Chapter 456
@@ -66,7 +68,7 @@ Perfectly combining Ghosthaunt and Diversion, Han Sen also used the flexibility 
 
 The silver gargoyle tried to catch Han Sen who was hanging on its back, while Han Sen had slid down to the gargoyle’s crotch and hitting the part hard.
 
-Boom!
+*Boom!*
 
 Han Sen’s Jade like fist hit the gargoyle’s crotch hard, making it scream madly. The gargoyle quickly used both hands to claw at Han Sen.
 

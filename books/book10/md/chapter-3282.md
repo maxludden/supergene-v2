@@ -1,9 +1,11 @@
+---
 Title:Light Stream Dragon Spear 
 Chapter:3282 
 Section:16 
 Book:10 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Light Stream Dragon Spear
 ### Chapter 3282

@@ -1,9 +1,11 @@
+---
 Title:Learning Knife Mind 
 Chapter:2685 
 Section:13 
 Book:8 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Learning Knife Mind
 ### Chapter 2685

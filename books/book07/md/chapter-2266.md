@@ -1,9 +1,11 @@
+---
 Title:Beating a Half-deified 
 Chapter:2266 
 Section:10 
 Book:7 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Beating a Half-deified
 ### Chapter 2266

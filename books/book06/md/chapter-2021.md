@@ -1,9 +1,11 @@
+---
 Title:Tough Will 
 Chapter:2021 
 Section:8 
 Book:6 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Tough Will
 ### Chapter 2021
@@ -72,7 +74,7 @@ For Dream Beast, Han Sen’s will was shining like jewelry.
 
 Dream Beast sighed. His eyes took on a dreamy look, and then he removed the dream from Han Sen.
 
-He didn’t want to get Han Sen killed. If things kept going, Han Sen’s soul might have been exhausted. Then, he really would have died—and not just in the dream. Crash!
+He didn’t want to get Han Sen killed. If things kept going, Han Sen’s soul might have been exhausted. Then, he really would have died—and not just in the dream. *Crash!*
 
 Han Sen’s body fell to the ground. His brain was buzzing, and it felt like it was ready to explode. That was the condition of one who was mentally exhausted.
 

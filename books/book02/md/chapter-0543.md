@@ -1,9 +1,11 @@
+---
 Title:Who Practiced the Wrong Thing? 
 Chapter:543 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Who Practiced the Wrong Thing?
 ### Chapter 543
@@ -28,11 +30,11 @@ Everyone watching this was highly surprised. Xue Yi Yang was already using a bea
 
 "This man is terrifying! This guy is off the charts. He is using Nano Crystal to prevent Xue Yi Yang from fighting back; that's sick!"
 
-Boom!
+*Boom!*
 
 To everyone's disbelief, Xue Yi Yang had already been pushed to the edge of the arena. His mouth was agape in rage and his face contorted to a look that refused to concede. But he just could not stand his ground against Han Sen's fists. His body was like an ice demon, but then another punch hit him. He went flying off the stage.
 
-Crash!
+*Crash!*
 
 Xue Yi Yang was furious and his organs had received significant damage. Through overwhelming anger, his body had finally reached its tipping point, and he passed out.
 

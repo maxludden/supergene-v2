@@ -1,9 +1,11 @@
+---
 Title:Pick One 
 Chapter:2515 
 Section:12 
 Book:8 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Pick One
 ### Chapter 2515
@@ -56,7 +58,11 @@ The old man smiled wryly. He lifted his hand and began the calculation. He raise
 
 “Where is he now?” Yisha asked.
 
-…
+<br>
+
+*****
+
+<br>
 
 “My lady, are Dragon One and Dia Robber really going to kill the Gold Armor General?” In the core area, a maid-looking woman of the Kate was curiously looking at a woman in a yellow shirt. They were on a ship.
 

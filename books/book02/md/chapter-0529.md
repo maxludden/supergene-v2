@@ -1,9 +1,11 @@
+---
 Title:Fighting Silver-haired Spirit Girl 
 Chapter:529 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Fighting Silver-haired Spirit Girl
 ### Chapter 529
@@ -20,11 +22,11 @@ Han Sen no longer saw a way out. There were only the two snakes. However, he did
 
 Stepping out, Han Sen almost immediately rushed inside the mouth of one of the black snakes.
 
-Crack!
+*Crack!*
 
 The black snake quickly closed its mouth, trying to swallow Han Sen like that. However, blood suddenly spilled, and its snakeskin was ripped from inside. Blood and the golden figure both came out. The three purple lightning bolts shone.
 
-Boom!
+*Boom!*
 
 Han Sen rushed out of the stomach of the snake and hit the giant stone gate of the ancient building, smashing one of the doors and going inside without hesitation.
 
@@ -48,7 +50,7 @@ However, as she cut his throat this time, he would be beheaded if he did not dod
 
 Fighting the silver-haired girl face to face, Han Sen felt how fast her sword was. Stepping back, Han Sen raised the ghost-pawed claws to block her strike and managed to save himself.
 
-Ding!
+*Ding!*
 
 The silver sword and the ghost-pawed claws clashed, making noise of metal. Feeling a huge force, Han Sen could not help stepping back. Her strength was even a bit stronger than his.
 
@@ -78,7 +80,7 @@ Han Sen tried to use the blocking technique in Dongxuan Sutra to block the sword
 
 Also, the sword was so fast that even with Han Sen's eyesight, he could not see it clearly, which made it even harder for him to block it.
 
-Ding!
+*Ding!*
 
 Han Sen missed a strike and quickly avoided his vital parts. The cut was made on his shoulder and blood started to flow through the cracks of the armor.
 
@@ -90,6 +92,6 @@ As the sword was about to reach Han Sen's face, Han Sen did not have his claws i
 
 "That's it." Han Sen gritted his teeth and summoned Mad Shield, putting him in front of Han Sen to bear the strike from the silver-haired girl. Han Sen quickly rushed to the giant statue and went for the spirit stone, no longer lingering.
 
-Ding!
+*Ding!*
 
 Han Sen heard steel being ripped apart. The tower shield of Mad Shield was cut deeply by the silver-haired girl, almost breaking in half.

@@ -1,9 +1,11 @@
+---
 Title:Absorbing the Life Geno Essence 
 Chapter:692 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Absorbing the Life Geno Essence
 ### Chapter 692
@@ -22,7 +24,11 @@ Han Sen picked up the bone elephant's essence. Under the strong energy flow of t
 
 > "Essence Absorbed: Saint-Bone Elephant. You Have Gained One Super Geno Point."
 
-…
+<br>
+
+*****
+
+<br>
 
 The familiar voice rang in his head. Han Sen almost released tears of joy. After all his hard work, he had finally discovered how to absorb a Life Geno essence.
 
@@ -64,7 +70,7 @@ They were like homing missiles, and he had no chance of dodging the now dangerou
 
 The crystal chair, the lampstand, and even table was a threat. And they all piled against Han Sen. There was even a crystal bed, which was now looming over him, ready to fall on top of him. At the ghastly sight, Han Sen was utterly shocked. In haste, he ended the simulation of the gourd's energy flow.
 
-Crash!
+*Crash!*
 
 When Han Sen cut the energy flow, everything that was sticking to his body crashed down to the floor. It was like he had switched on some magnetism mode inside him; he was quite confused.
 

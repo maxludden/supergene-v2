@@ -1,9 +1,11 @@
+---
 Title:A Cave 
 Chapter:187 
 Section:1 
 Book:1 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## A Cave
 ### Chapter 187
@@ -76,7 +78,7 @@ However, the place where they landed was full of shifting sand. Both the beast k
 
 Under the protection of the sacred-blood armor, Han Sen did not suffer from too much impact.
 
-Thump!
+*Thump!*
 
 Han Sen and the sacred-blood beast king fell on the rocks. Bearing the pain, Han Sen looked up and was surprised to find them in a huge underground cave.
 

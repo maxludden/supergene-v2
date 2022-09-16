@@ -1,9 +1,11 @@
+---
 Title:Top-class Talent Gene Race 
 Chapter:3118 
 Section:16 
 Book:10 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Top-class Talent Gene Race
 ### Chapter 3118

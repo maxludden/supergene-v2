@@ -1,9 +1,11 @@
+---
 Title:Beyond Expectations 
 Chapter:1697 
 Section:5 
 Book:4 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Beyond Expectations
 ### Chapter 1697
@@ -74,7 +76,7 @@ When Yake was about to strike, that was the time his guard would be lowered. He�
 
 Han Yufei was not cocky enough to think he could defeat Yake when he was wearing his geno armor. Geno armors were not all the same, or on the same level.
 
-Boom!
+*Boom!*
 
 Han Yufei’s fist went right into Yake’s back. It was powerful enough to sunder a mountain, but his face swiftly changed.
 

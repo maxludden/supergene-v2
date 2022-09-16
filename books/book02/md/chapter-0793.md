@@ -1,9 +1,11 @@
+---
 Title:Exceeding Ultimate Mode 
 Chapter:793 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Exceeding Ultimate Mode
 ### Chapter 793

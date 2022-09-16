@@ -1,9 +1,11 @@
+---
 Title:Demi-god Arrives 
 Chapter:1300 
 Section:3 
 Book:3 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Demi-god Arrives
 ### Chapter 1300
@@ -40,7 +42,11 @@ From out of the dark behind them, screams now began to erupt. There were cries o
 
 “Why are you doing this to me? What did I ever do to offend you?!”
 
-…
+<br>
+
+*****
+
+<br>
 
 No one could escape the darkness and the draining of their life, and all they could do now was fall to their knees, begging and pleading for a mercy they weren’t going to receive.
 

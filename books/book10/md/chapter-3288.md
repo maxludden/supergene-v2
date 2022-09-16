@@ -1,9 +1,11 @@
+---
 Title:Breaking the World Failed 
 Chapter:3288 
 Section:16 
 Book:10 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Breaking the World Failed
 ### Chapter 3288
@@ -72,7 +74,7 @@ Han Sen’s weaker feelings were becoming stronger. The Super God Spirit mode lo
 
 This time, Han Sen did not cast the Super God Spirit mode or the reverse Super God Spirit mode. He was casting the reverse The Story of Genes, which had almost killed him before.
 
-Boom!
+*Boom!*
 
 After he cast the reverse The Story of Genes, Han Sen’s Super God Spirit mode broke. He was like a human nuke. There was a scary explosion.
 

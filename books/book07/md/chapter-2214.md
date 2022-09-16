@@ -1,9 +1,11 @@
+---
 Title:Galactic Lobster Beast Soul 
 Chapter:2214 
 Section:10 
 Book:7 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Galactic Lobster Beast Soul
 ### Chapter 2214

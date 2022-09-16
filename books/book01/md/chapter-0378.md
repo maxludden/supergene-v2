@@ -1,9 +1,11 @@
+---
 Title:Metamorphosis 
 Chapter:378 
 Section:1 
 Book:1 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Metamorphosis
 ### Chapter 378
@@ -14,7 +16,7 @@ viewport: width=device-width
   
 
   
-Bang!
+*Bang!*
 
 The red body flew from the shell, and the white shell fell to the ground, smashing rocks and making the mountain shake. Han Sen wondered how heavy it was.
 

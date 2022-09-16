@@ -1,9 +1,11 @@
+---
 Title:Hunting on the Bottom of the Lake 
 Chapter:519 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Hunting on the Bottom of the Lake
 ### Chapter 519
@@ -32,13 +34,13 @@ She did not say anything but put her right hand above Han Sen's right hand. She 
 
 "Did you know why you lost just now?" Han Sen asked her suddenly.
 
-"Why... Slap!" Annie was still preoccupied with the fact that she had lost to Han Sen. When Han Sen mentioned it, she was distracted immediately. When she was about to ask why, Han Sen's hand had already hit hers.
+"Why... *Slap!*" Annie was still preoccupied with the fact that she had lost to Han Sen. When Han Sen mentioned it, she was distracted immediately. When she was about to ask why, Han Sen's hand had already hit hers.
 
 "You are shameless…" Annie gritted teeth, wanting to kill Han Sen immediately.
 
 "The game is all about tricks. If they are not allowed, you should say that earlier. Tell me, are tricks allowed?" Han Sen asked, smiling.
 
-"As you… Slap!" When Annie just said two words, she was hit on her hand again.
+"As you… *Slap!*" When Annie just said two words, she was hit on her hand again.
 
 Annie was so pissed that she almost vomited blood. Staring at Han Sen with her eyes wide, she almost looked like a tigress that was about to swallow Han Sen.
 
@@ -64,7 +66,7 @@ Slap slap slap!
 
 Annie was hit again and again. She could not tolerate Han Sen's words.
 
-Boom!
+*Boom!*
 
 All of a sudden, electricity boomed on Annie's body, turning her into a burning lightbulb. She hit the table with her palm and turned the table into ashes.
 

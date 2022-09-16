@@ -1,9 +1,11 @@
+---
 Title:Taking the Legacy 
 Chapter:2190 
 Section:9 
 Book:6 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Taking the Legacy
 ### Chapter 2190

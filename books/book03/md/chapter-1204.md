@@ -1,9 +1,11 @@
+---
 Title:Same People 
 Chapter:1204 
 Section:3 
 Book:3 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Same People
 ### Chapter 1204

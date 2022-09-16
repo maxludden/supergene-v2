@@ -1,9 +1,11 @@
+---
 Title:Buddha’s Path 
 Chapter:1937 
 Section:7 
 Book:5 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Buddha’s Path
 ### Chapter 1937

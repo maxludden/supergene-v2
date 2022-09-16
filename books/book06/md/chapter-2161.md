@@ -1,9 +1,11 @@
+---
 Title:Training Is Over 
 Chapter:2161 
 Section:8 
 Book:6 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Training Is Over
 ### Chapter 2161

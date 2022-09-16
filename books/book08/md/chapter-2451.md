@@ -1,9 +1,11 @@
+---
 Title:First-person Perspective 
 Chapter:2451 
 Section:12 
 Book:8 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## First-person Perspective
 ### Chapter 2451
@@ -16,7 +18,11 @@ viewport: width=device-width
   
 Taking out the Wanjie Rubix Cube, he used it in accordance with the instructions given to him by Fang Qing Yu. He made contact with Fang Qing Yu’s step-father and streamed the video over to him.
 
-…
+<br>
+
+*****
+
+<br>
 
 “Treasure Identifier Elder, Mister Qing Yu’s signal is off. What do we do? The video we have is about to run out, and every station is waiting for more. If there is no more content, we won’t earn a penny. Our money will be gone, and we will have to pay fines for breaking the contract.” Cold sweat was gathering on Kevin’s forehead. Looking like an ant being held over boiling water, he looked over to the Treasure Identifier Elder.
 

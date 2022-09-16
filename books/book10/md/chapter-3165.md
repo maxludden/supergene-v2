@@ -1,9 +1,11 @@
+---
 Title:God Fight Begins 
 Chapter:3165 
 Section:16 
 Book:10 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## God Fight Begins
 ### Chapter 3165

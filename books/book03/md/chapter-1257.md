@@ -1,9 +1,11 @@
+---
 Title:Fighting Fire With Fire 
 Chapter:1257 
 Section:3 
 Book:3 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Fighting Fire With Fire
 ### Chapter 1257
@@ -34,7 +36,7 @@ Both of their powers were like the rumbling and thunder from a couple of volcano
 
 The fishman started to tremble. The power cradled in the basketball-sized sphere of water was equivalent to the amount needed to sunder entire mountains.
 
-Boom!
+*Boom!*
 
 The fishman lobbed the orb of water like a hydrogen bomb, leaving its legs trembling with exertion.
 
@@ -52,7 +54,7 @@ The altar was broken, and its remains all flew towards the coin as if it were a 
 
 The red shield had been shattered, and the fishman was no longer visible.
 
-Boom!
+*Boom!*
 
 Just as it looked like everything was over, everything was cast away in one last bout of chaos. Then, to accompany the ruin, the water that had previously been held back, began to pour inside.
 

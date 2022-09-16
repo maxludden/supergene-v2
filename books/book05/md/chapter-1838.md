@@ -1,9 +1,11 @@
+---
 Title:Recruitment Failure 
 Chapter:1838 
 Section:7 
 Book:5 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Recruitment Failure
 ### Chapter 1838

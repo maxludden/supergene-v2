@@ -1,9 +1,11 @@
+---
 Title:Life Is Shor 
 Chapter:2256 
 Section:10 
 Book:7 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Life Is Shor
 ### Chapter 2256

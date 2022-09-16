@@ -1,9 +1,11 @@
+---
 Title:Let’s Go 
 Chapter:1322 
 Section:3 
 Book:3 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Let’s Go
 ### Chapter 1322
@@ -78,7 +80,7 @@ Han Sen knew the spirits had all come for one target in particular, and that was
 
 If they did proceed forward with an attack, despite her absence, then Han Sen would give Zero a call so she could come and catch them all off-guard.
 
-Boom!
+*Boom!*
 
 Giant God Emperor began to stumble and fall, as a sharp silver light plunged deep into his chest.
 

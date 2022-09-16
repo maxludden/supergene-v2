@@ -1,9 +1,11 @@
+---
 Title:Destroy the Nest 
 Chapter:71 
 Section:1 
 Book:1 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Destroy the Nest
 ### Chapter 71
@@ -66,7 +68,7 @@ As long as the majority of mutant black stingers were lured away, he wasn’t af
 
 "Will do!" Lu Weinan hid behind a boulder with Han Sen and commanded his iron-feathered bird to seize a large stone with its claws and flew above the nest.
 
-Bang!
+*Bang!*
 
 The iron-feathered bird dropped the stone at the nest and the three-foot-long stone made a big hole in the nest.
 

@@ -1,9 +1,11 @@
+---
 Title:Sky Palace 
 Chapter:1961 
 Section:8 
 Book:6 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Sky Palace
 ### Chapter 1961

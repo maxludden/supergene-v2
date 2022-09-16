@@ -1,9 +1,11 @@
+---
 Title:Knife Descends on the Buddha Kingdom 
 Chapter:2884 
 Section:14 
 Book:9 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Knife Descends on the Buddha Kingdom
 ### Chapter 2884

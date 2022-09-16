@@ -1,9 +1,13 @@
-Title:Supergene
-Chapter:1
-Section:1
-Book:1
-CSS:../Styles/style.css
+---
+Title:Supergene 
+Chapter:1 
+Section:1 
+Book:1 
+CSS:../Styles/style.css 
 viewport: width=device-width
+---
+
+
 
 ## Supergene
 ### Chapter 1
@@ -11,10 +15,10 @@ viewport: width=device-width
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
+  
 
 
-
-  By a stony creek in a valley, a black-clad young man was holding a black beetle with a metallic sheen that looked like a cross between a crab and a Hercules beetle.
+By a stony creek in a valley, a black-clad young man was holding a black beetle with a metallic sheen that looked like a cross between a crab and a Hercules beetle.
 
 Holding a dagger in his other hand, the young man swiftly cut the still-struggling claws off the beetle, revealing white and tender meat.
 
@@ -61,9 +65,9 @@ A strange voice sounded in Han Sen's mind, and some data also appeared.
 	<!-- Geno points gained: 79. -->
 	<table>
 		<tr>
-			<th colspan="2">Beast Souls Gained</th>
+			<th>Beast Souls Gained</th>
 		</tr><tr>
-			<td colspan="2">None</td>
+			<td>None</td>
 		</tr>
 	</table>
 	<!-- Beast souls gained: None -->

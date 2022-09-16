@@ -1,9 +1,11 @@
+---
 Title:Universe Class Fight 
 Chapter:3453 
 Section:17 
 Book:10 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Universe Class Fight
 ### Chapter 3453
@@ -26,7 +28,7 @@ Seeing Littleflower’s hand touch Bao’er, suddenly, a purple blur of a shadow
 
 Littleflower was shocked by its sudden appearance, but he had developed into a man of much resolve. He was not going to shy away from a battle such as this, and he was not going to bow and be put off by the blurry shadow fist that was coming for him. He stood tall and proud and raised a fist of his own. He raised it to welcome the incoming attack. And welcome it he did. What resulted from the two terrible collisions was a massive explosion of white spirit light.
 
-Boom!
+*Boom!*
 
 Littleflower’s fist broke alongside the white spirit light. His body was like a cannonball that had been fired. He flew into Space Garden’s forest. It rendered the forest half-broken.
 
@@ -86,7 +88,7 @@ He was a very careful person. If he was already in control of the stage, he woul
 
 In the next second, Human King’s power exploded. The punching power made the universe itself quiver and shake. It seemed to destroy everything. Substance chains and rules were torn apart. Everything was like paper before the might of that fierce power. Facing the scary power, Bao’er’s face looked different. She put a pair of sunglasses on her face. In the next moment, something weird happened. Bao’er’s body suddenly looked like Human King. It was like two Human Kings were standing across from each other.
 
-Boom!
+*Boom!*
 
 Bao’er had become Human King. Without waiting around, she unleashed a punch. With Human King’s punching power being the same as her foe, an equal situation was established.
 

@@ -1,9 +1,11 @@
+---
 Title:Son of God Reward 
 Chapter:716 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Son of God Reward
 ### Chapter 716

@@ -1,9 +1,11 @@
+---
 Title:Dollar Would Be Better 
 Chapter:515 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Dollar Would Be Better
 ### Chapter 515

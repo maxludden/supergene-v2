@@ -1,9 +1,11 @@
+---
 Title:The Creatures Attacking 
 Chapter:946 
 Section:3 
 Book:3 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## The Creatures Attacking
 ### Chapter 946
@@ -76,7 +78,7 @@ Roar!
 
 A tiger that was wreathed in fire appeared and announced itself. Its body was sturdily built like a tank, and its mere presence was enough to exude a feeling of dread on those that saw it coming.
 
-Boom!
+*Boom!*
 
 A red shadow jumped out of the shelter and lashed out against the terrifying tiger. It was sent flying through the air, on a low trajectory which had it knocking down trees as it went.
 

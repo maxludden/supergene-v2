@@ -1,9 +1,11 @@
+---
 Title:The Secret of Sacred’s Leader 
 Chapter:2259 
 Section:10 
 Book:7 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## The Secret of Sacred’s Leader
 ### Chapter 2259

@@ -1,9 +1,11 @@
+---
 Title:One Chess Piece 
 Chapter:2851 
 Section:14 
 Book:9 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## One Chess Piece
 ### Chapter 2851
@@ -34,7 +36,12 @@ Most importantly, the scabbard was not made from just a god's personality. Compa
 
 "It is no wonder Dollar is so cocky. He has what it takes to be."
 
-...
+<br>
+
+*****
+
+<br>
+
 
 Han Sen released his hands and retreated a few steps. He looked at Yisha and said, "Knife Queen, I do not think you have enough power to beat me."
 

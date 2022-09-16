@@ -1,9 +1,11 @@
+---
 Title:Fallen Slaughter 
 Chapter:1605 
 Section:4 
 Book:4 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Fallen Slaughter
 ### Chapter 1605
@@ -46,7 +48,7 @@ That punch was not aimed at going against the blast; he used the Yin Yang Blast 
 
 Han Sen stepped atop the demonic blast, which then came below him. The blast struck the creatures that were in pursuit of him.
 
-Boom!
+*Boom!*
 
 The boom of the explosion as the power unleashed flattened the valley on both sides.
 
@@ -70,7 +72,7 @@ The attacks from the creatures behind also ended up falling on Fallen Slaughter.
 
 Fallen Slaughter roared madly as the demonic aura of his body fired on all cylinders. His body changed into black metal like some ancient demon.
 
-Boom!
+*Boom!*
 
 Two horrible forces collided, and Fallen Slaughter found himself flying away. The more powerful creatures were merely stunned. Blood was drawn from the weaker ones, however.
 
@@ -90,7 +92,7 @@ But when the Fallen Slaughter flew away, he was flying towards the creatures.
 
 The horrible creatures had already hit him twice, and now they were very angry. They went to attack him again without any hesitation.
 
-Boom!
+*Boom!*
 
 Fallen Slaughter was stunned. He tried to block, but the attack was stronger than ever. His body almost shattered under the impact, and he ended up soaring across the sky like a meteor.
 

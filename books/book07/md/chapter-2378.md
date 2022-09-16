@@ -1,9 +1,11 @@
+---
 Title:Mirror Spirit Eye Ring 
 Chapter:2378 
 Section:11 
 Book:7 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Mirror Spirit Eye Ring
 ### Chapter 2378

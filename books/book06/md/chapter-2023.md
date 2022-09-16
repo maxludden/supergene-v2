@@ -1,9 +1,11 @@
+---
 Title:Ghost Face Spider 
 Chapter:2023 
 Section:8 
 Book:6 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Ghost Face Spider
 ### Chapter 2023

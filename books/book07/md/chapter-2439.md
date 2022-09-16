@@ -1,9 +1,11 @@
+---
 Title:Statue With a Thousand Hands and Eyes 
 Chapter:2439 
 Section:11 
 Book:7 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Statue With a Thousand Hands and Eyes
 ### Chapter 2439
@@ -70,7 +72,7 @@ Han Sen’s will was really strong, but even he was wavering under the draw of t
 
 Although Han Sen tried to control his will, his feet began stepping forward of their own volition. The call couldn’t go unheeded, it seemed. He was slowly walking towards the statue of a thousand hands and a thousand eyes.
 
-Boom!
+*Boom!*
 
 Without hesitation, Han Sen deployed his super god spirit body. A glowing light spread in his eyes. It smothered the red and made his entire eyes turn white.
 

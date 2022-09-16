@@ -1,9 +1,11 @@
+---
 Title:Killing Giant Demon 
 Chapter:2099 
 Section:8 
 Book:6 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Killing Giant Demon
 ### Chapter 2099
@@ -24,7 +26,7 @@ Kahn’s muscles began to swell, growing rapidly until they burst through his ar
 
 Kahn’s sinews writhed under his skin like snakes, and his skin turned a weird purple. His hair flowed crazily down his back, almost reaching his feet. Finally, a disturbing demonic presence began to radiate from Kahn, like some brutish god hailing from ancient times.
 
-Boom!
+*Boom!*
 
 Kahn punched Han Sen. Sky Demon powers started to rain down, each possessing the might of a mountain.
 

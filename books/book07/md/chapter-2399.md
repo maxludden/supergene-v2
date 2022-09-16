@@ -1,9 +1,11 @@
+---
 Title:The Raging Insect 
 Chapter:2399 
 Section:11 
 Book:7 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## The Raging Insect
 ### Chapter 2399
@@ -20,7 +22,7 @@ Instead of being sad for Han Sen, he was sad about what Han Sen’s death would 
 
 Dragon Eight, who was following Dragon One, also saw what was about to happen. He looked just as glum.
 
-Boom!
+*Boom!*
 
 In the sky, the insect’s enormous mouth was closing around Han Sen. Its sharp teeth were about to clamp down on Han Sen’s body.
 
@@ -64,7 +66,7 @@ The bodies of Dragon Eight and Barr were special. They were almost immortal. Tha
 
 Dragon One and Dia Robber were top-tier Kings. They were invincible when it came to fighting others of the King class, but attempting to deal with this scary deified was enough to leave them injured and bleeding.
 
-Boom!
+*Boom!*
 
 The weird insect clamped its jaw around Barr’s leg, and Dia Robber took that moment to gather up three different types of power. He created a triangle composed of three different energies. Light blossomed inside that triangle, breaking space and shaking the air around it. The light shot forward, smacking right into the weird insect’s mouth. But the weird insect just swallowed the light, which disappeared harmlessly down its throat.
 

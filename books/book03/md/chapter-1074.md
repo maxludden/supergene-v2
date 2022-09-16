@@ -1,9 +1,11 @@
+---
 Title:Golden Growler’s Evolution 
 Chapter:1074 
 Section:3 
 Book:3 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Golden Growler’s Evolution
 ### Chapter 1074

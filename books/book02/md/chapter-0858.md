@@ -1,9 +1,11 @@
+---
 Title:The Gourd’s Show of Strength 
 Chapter:858 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## The Gourd’s Show of Strength
 ### Chapter 858
@@ -72,7 +74,7 @@ At this sudden development, however, Han Sen was secretly exuberant. He hadn't e
 
 And then, the gourd did indeed listen. A black beam was fired towards Moment Queen. She attempted to evade it, but she felt as if she was being pulled back to it. Unable to free herself, her face changed.
 
-Whoosh!
+*Whoosh!*
 
 It was Moment Queen's little hammer, followed by the shield she carried.
 

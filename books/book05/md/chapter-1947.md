@@ -1,9 +1,11 @@
+---
 Title:Sky God Possession 
 Chapter:1947 
 Section:7 
 Book:5 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Sky God Possession
 ### Chapter 1947
@@ -80,7 +82,7 @@ Han Sen planned on using Red Mist King for his final bid. Although Red Mist King
 
 Qing Jung looked so mad as he flared with gold fire. His demonic presence was insufferably strong, and it made the four-faced, eight-armed Buddha body look even scarier. It was like he was going to eat people.
 
-Boom!
+*Boom!*
 
 Qing Jun lifted his finger and gathered up a swirl of hot flame atop it. The fire gathered up Seven Spirit’s Buddha light and flame powers. He used it only for a second, and Han Sen felt himself burn.
 

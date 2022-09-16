@@ -1,9 +1,11 @@
+---
 Title:My Opponent Isn“t a Student 
 Chapter:2267 
 Section:10 
 Book:7 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## My Opponent Isn“t a Student
 ### Chapter 2267

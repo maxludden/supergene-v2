@@ -1,9 +1,11 @@
+---
 Title:The Promise of Bai Ling Shuang 
 Chapter:2326 
 Section:11 
 Book:7 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## The Promise of Bai Ling Shuang
 ### Chapter 2326

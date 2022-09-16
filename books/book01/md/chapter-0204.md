@@ -1,9 +1,11 @@
+---
 Title:The Emperor's Anger 
 Chapter:204 
 Section:1 
 Book:1 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## The Emperor's Anger
 ### Chapter 204
@@ -24,7 +26,7 @@ Watching Hen Sen’s fist approaching, Wang Yangjun saw clearly that like the la
 
 "Boy, you want to use the same trick twice? You can’t get me like this." Wang Yangjun stood upright and reached out a hand to block Han Sen's fist. "With my experience, I could deal with this boy simply by using my instinct... "
 
-Bang!
+*Bang!*
 
 Han Sen’s punch fell on the hand of Wang Yangjun, and Wang was suddenly thrown away. He rolled in the air and thumped to the ground.
 
@@ -36,7 +38,7 @@ In fact, after this punch, Wang Yangjun’s psychological defense had been compl
 
 "Is it a black or white fist?" Wang Yangjun looked at Han Sen, unable to judge with logic.
 
-Bang!
+*Bang!*
 
 There was no suspense--Wang Yangjun was eliminated zero to three.
 
@@ -74,7 +76,12 @@ The audience's comments had become wild.
 
 "It is not impossible. Look at the score, Han Sen is an awesome black and white boxing player."
 
-...
+<br>
+
+*****
+
+<br>
+
 
 Wen Xiuxiu only felt blank. She had no idea what was going on. Four of the St. Germain team members were already eliminated by a new guy.
 

@@ -106,6 +106,58 @@
                 "instanceLimit": 1,
                 "reevaluateOnRerun": true
             }
+        },
+        {
+            "label": "Generate Markdown",
+            "command": "/Users/maxludden/dev/venvs/supergene/bin/python /Users/maxludden/dev/py/supergene/tasks/md.py",
+            "type": "shell",
+            "group": {
+                "kind": "none",
+                "isDefault": false
+            },
+            "presentation": {
+                "echo": false,
+                "reveal": "always",
+                "focus": false,
+                "panel": "shared",
+                "showReuseMessage": true,
+                "clear": false
+            },
+            "icon": {
+                "id": "markdown",
+                "color": "terminal.ansiCyan"
+            },
+            "runOptions": {
+                "runOn": "default",
+                "instanceLimit": 1,
+                "reevaluateOnRerun": true
+            }
+        },
+        {
+            "label": "Generate HTML",
+            "command": "/Users/maxludden/dev/venvs/supergene/bin/python /Users/maxludden/dev/py/supergene/tasks/html.py",
+            "type": "shell",
+            "group": {
+                "kind": "none",
+                "isDefault": false
+            },
+            "presentation": {
+                "echo": false,
+                "reveal": "always",
+                "focus": false,
+                "panel": "shared",
+                "showReuseMessage": true,
+                "clear": false
+            },
+            "icon": {
+                "id": "gist",
+                "color": "terminal.ansiCyan"
+            },
+            "runOptions": {
+                "runOn": "default",
+                "instanceLimit": 1,
+                "reevaluateOnRerun": true
+            }
         }
     ]
 }

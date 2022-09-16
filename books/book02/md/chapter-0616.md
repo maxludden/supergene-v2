@@ -1,9 +1,11 @@
+---
 Title:Perfume 
 Chapter:616 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Perfume
 ### Chapter 616
@@ -32,7 +34,7 @@ The speed of the berserk sacred-blood wings was not faster than the airborne lob
 
 So, Han Sen's legs erupted with an incredible power. He borrowed the strength of the air and dashed two meters to the side. The pincer only just missed him.
 
-Boom!
+*Boom!*
 
 The lobster fell back down, triggering a tsunami of a wave like a meteor crashing into the sea.
 

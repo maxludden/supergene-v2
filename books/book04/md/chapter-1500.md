@@ -1,9 +1,11 @@
+---
 Title:Main Control Room 
 Chapter:1500 
 Section:4 
 Book:4 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Main Control Room
 ### Chapter 1500

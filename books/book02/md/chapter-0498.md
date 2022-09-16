@@ -1,9 +1,11 @@
+---
 Title:The Charm of a Soldier 
 Chapter:498 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## The Charm of a Soldier
 ### Chapter 498

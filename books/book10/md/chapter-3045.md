@@ -1,9 +1,11 @@
+---
 Title:The Landlord's Stupid Son 
 Chapter:3045 
 Section:16 
 Book:10 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## The Landlord's Stupid Son
 ### Chapter 3045
@@ -36,7 +38,7 @@ The overbearing bug’s body was very big, but its speed was quite scary. It was
 
 Its mouth was full of long teeth that were going to try swallowing Han Sen, but Han Sen raised his arm high and threw a punch down.
 
-Boom!
+*Boom!*
 
 The overbearing bug’s head was punched into the ground. Brain juice went everywhere. It was murdered outright.
 

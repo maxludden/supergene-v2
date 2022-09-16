@@ -1,9 +1,11 @@
+---
 Title:Sparring With a Coach 
 Chapter:139 
 Section:1 
 Book:1 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Sparring With a Coach
 ### Chapter 139
@@ -32,7 +34,7 @@ Han Sen was practicing driving Builder because it was the closest to an ordinary
 
 Suddenly, Han Sen saw a shadow coming toward him from the holographic image. With his strong reflexes, he immediately operated Builder to raise one of the tubes it was grabbing to block that shadow.
 
-Clank!
+*Clank!*
 
 A loud clanking of metals rang and Han Sen saw that it was Porter RS that had attacked him using its 30-foot-long multi-function wrench.
 

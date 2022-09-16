@@ -1,9 +1,11 @@
+---
 Title:Crazy Killing 
 Chapter:1979 
 Section:8 
 Book:6 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Crazy Killing
 ### Chapter 1979
@@ -24,7 +26,7 @@ Yu Jing hesitated. He gritted his teeth, grabbed Han Sen’s hands, and said, �
 
 Yu Jing ran towards the jade fruit tree. Before he could get close, ants began to pour out from under the rock. It was like a black river headed for him.
 
-Yu Jing quickly came running back as Han Sen commanded Spell to ready a rocket. Then, she fired behind the man. Boom!
+Yu Jing quickly came running back as Han Sen commanded Spell to ready a rocket. Then, she fired behind the man. *Boom!*
 
 The white light exploded behind Yu Jing. It killed a lot of Jade Ants. Announcements kept running in Han Sen’s head, declaring he had killed a Viscount Jade Ant. He also heard himself receive a bunch of beast souls.
 

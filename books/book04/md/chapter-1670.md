@@ -1,9 +1,11 @@
+---
 Title:The Battle Begins 
 Chapter:1670 
 Section:4 
 Book:4 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## The Battle Begins
 ### Chapter 1670
@@ -66,7 +68,7 @@ Lin Feng used the power of the Ancient Sky Mirror to fight the creatures. He kil
 
 Creatures and spirits covered the whole of Shadow Shelter. It looked like a hellscape. There was screaming, and rivers of blood were running everywhere.
 
-Boom!
+*Boom!*
 
 There was an explosion in the sky. The shockwave vaporized the creatures and spirits in the vicinity of a hundred miles. Nothing was left.
 

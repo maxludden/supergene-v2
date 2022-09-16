@@ -1,9 +1,11 @@
+---
 Title:Healing 
 Chapter:1471 
 Section:4 
 Book:4 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Healing
 ### Chapter 1471

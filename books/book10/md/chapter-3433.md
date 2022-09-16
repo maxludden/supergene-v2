@@ -1,9 +1,11 @@
+---
 Title:Using Power to Strike Power 
 Chapter:3433 
 Section:17 
 Book:10 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Using Power to Strike Power
 ### Chapter 3433
@@ -38,7 +40,7 @@ In the universe of kingdoms, many nobles were brutally mocking Han Sen.
 
 At this time, suddenly, some weird changes were going on with Han Sen’s body. The starlight that landed on him was like light falling on a mirror. It was reflected from Han Sen’s body.
 
-Boom! Boom! Boom!
+*Boom!* *Boom!* *Boom!*
 
 The beams of light that were bounced away from Han Sen’s body struck other starlight. When they collided, there was a scary shockwave and light. The whole battleground was shining. It was like fireworks.
 

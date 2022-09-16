@@ -1,9 +1,11 @@
+---
 Title:Maxing Out Sacred Geno Points 
 Chapter:700 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Maxing Out Sacred Geno Points
 ### Chapter 700
@@ -64,7 +66,11 @@ Han Sen was overjoyed, and he didn't bother cooking it. He just put it in his mo
 
 > "Subterranean Devil Ant King Baby Consumed. You Have Received One Super Geno Point."
 
-…
+<br>
+
+*****
+
+<br>
 
 A strange energy seemed to whirl inside his belly. His body felt numb as it started to vibrate, and his cells felt alive with a unique thrust of energy. He felt refreshed.
 

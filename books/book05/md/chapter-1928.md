@@ -1,9 +1,11 @@
+---
 Title:Narrow Moon Knife 
 Chapter:1928 
 Section:7 
 Book:5 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Narrow Moon Knife
 ### Chapter 1928
@@ -32,7 +34,7 @@ Of course, Han Sen could not confirm this was truly Yisha’s line of thought. B
 
 Now, seeing Moon Wheel King’s power allowed Han Sen to understand a lot more about gentle powers. He could not directly feel the power that Moon Wheel King was using, however. If he had, he’d have been able to learn a whole lot more.
 
-Boom!
+*Boom!*
 
 As Han Sen mulled over all this, he suddenly saw a moon appear in the sky. The moonlight gathered across the weapon Moon Wheel King was holding.
 

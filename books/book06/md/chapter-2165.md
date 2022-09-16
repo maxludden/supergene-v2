@@ -1,9 +1,11 @@
+---
 Title:Knife Cuts Ocean Mountain 
 Chapter:2165 
 Section:8 
 Book:6 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Knife Cuts Ocean Mountain
 ### Chapter 2165
@@ -106,7 +108,7 @@ The crippled mountain continued falling with a crescendo of noise, and there was
 
 Han Sen did not expect one strike would have such dramatic effects. He swore he had only sent his knife silks down that little hole. When they came into contact with the bug, Han Sen realized the bug was still alive, and so he pulled back. He had no clue this was going to transpire.
 
-Boom!
+*Boom!*
 
 The two ocean mountains fell, and as they toppled through the clouds, the clouds rose and spilled everywhere like a tsunami. The rush of clouds washed over many floating islands. Animals were scattering everywhere in fear, while items were blown about everywhere. Sky Palace had been swiftly thrust into chaos.
 

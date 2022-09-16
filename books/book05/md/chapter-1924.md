@@ -1,9 +1,11 @@
+---
 Title:Red Copper Palace 
 Chapter:1924 
 Section:7 
 Book:5 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Red Copper Palace
 ### Chapter 1924
@@ -68,7 +70,7 @@ Upon further inspection, Han Sen realized that the knight did not have any elect
 
 The seven little minks raced under its feet, then they climbed its copper body until they reached the heart. They pushed and squealed. What they were doing was anyone’s guess.
 
-Boom!
+*Boom!*
 
 Amidst Han Sen’s confusion and wonder, the knight did indeed stand up off the throne. It lurched to its feet with a jerking movement and shook the minks off of its body.
 

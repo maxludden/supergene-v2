@@ -1,9 +1,11 @@
+---
 Title:A Man With Three Options 
 Chapter:2549 
 Section:12 
 Book:8 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## A Man With Three Options
 ### Chapter 2549

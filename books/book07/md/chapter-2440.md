@@ -1,9 +1,11 @@
+---
 Title:Effect 
 Chapter:2440 
 Section:11 
 Book:7 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Effect
 ### Chapter 2440
@@ -48,7 +50,7 @@ The statue of a thousand hands and a thousand eyes stepped forward, sending one 
 
 The blonde-haired Wan’er teleported in front of the statue of a thousand hands and a thousand eyes, hovering in the air directly in front of its face. She waved her hand and cut its head off.
 
-Boom!
+*Boom!*
 
 The giant stone head fell onto the floor of the hall, creating a good-sized crater where it slammed into the floor.
 

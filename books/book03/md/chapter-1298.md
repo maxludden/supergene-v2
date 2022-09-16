@@ -1,9 +1,11 @@
+---
 Title:Fighting No God 
 Chapter:1298 
 Section:3 
 Book:3 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Fighting No God
 ### Chapter 1298

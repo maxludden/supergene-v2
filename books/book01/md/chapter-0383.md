@@ -1,9 +1,11 @@
+---
 Title:First Men in God’s Sanctuary 
 Chapter:383 
 Section:1 
 Book:1 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## First Men in God’s Sanctuary
 ### Chapter 383
@@ -76,7 +78,14 @@ However, Zhu Ting's worry was unnecessary. Han Sen never planned to kill a super
 
 Han Sen asked Zhu Ting a few more questions, but Zhu Ting did not say much. He did not beg Han Sen to let him go either. Very soon, Zhu Ting fell asleep.
 
-Chapter 384 - Fate
+
+## Fate
+
+###Chapter 384[^Translator Note]
+
+<figure>
+	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
+</figure>
 
 Han Sen did not know how much of what Zhu Ting had told him was real. Although he had learned more, Han Sen now had even more questions.
 
@@ -148,8 +157,4 @@ If what I think is right, then I could resolve the issue of Dollar's identity. B
 
 Han Sen was dazed. All of a sudden, a million thoughts came to him.
 
-Translator's Thoughts
-
-Vicky_ Vicky_
-
-This chapter includes C383 and C384 according to the original raw of Chinese.
+[^Translator Note]: This chapter includes C383 and C384 according to the original raw of Chinese. -Vicky_ Vicky_

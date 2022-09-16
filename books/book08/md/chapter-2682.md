@@ -1,9 +1,11 @@
+---
 Title:Demonic Power 
 Chapter:2682 
 Section:13 
 Book:8 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Demonic Power
 ### Chapter 2682
@@ -28,7 +30,7 @@ But Han Sen’s punch went through the lion shadow punch. It was like the lion s
 
 When the lion shadow punch actually landed on Han Sen, it wasn’t as hard as he expected it to be. The punch went into Han Sen’s body and vanished.
 
-Boom!
+*Boom!*
 
 Han Sen’s presence turned black, and his image warped until he started to look like Shale. His entire body was consumed by a black fire, and he looked identical to his opponent.
 

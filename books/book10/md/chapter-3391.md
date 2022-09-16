@@ -1,9 +1,11 @@
+---
 Title:Doing the Opposite 
 Chapter:3391 
 Section:17 
 Book:10 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Doing the Opposite
 ### Chapter 3391

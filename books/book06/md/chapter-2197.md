@@ -1,9 +1,11 @@
+---
 Title:Killer Queen 
 Chapter:2197 
 Section:9 
 Book:6 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Killer Queen
 ### Chapter 2197
@@ -96,7 +98,7 @@ The Taurus Marquise looked as shocked as some stupid bear. No matter how much he
 
 The Taurus was covered in his own blood. Anger, fear, and hopelessness were painted all across his face. It made him scream in pain.
 
-Boom!
+*Boom!*
 
 Amidst those crazy attacks, the rest of the Taurus’ armor broke. Huangfu Jing ripped his head off completely, and the headless body slumped to the floor, squirting blood.
 

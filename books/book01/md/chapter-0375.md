@@ -1,9 +1,11 @@
+---
 Title:Han Sen’s Guess 
 Chapter:375 
 Section:1 
 Book:1 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Han Sen’s Guess
 ### Chapter 375
@@ -38,7 +40,7 @@ Han Sen became interested and asked Huangfu Pingqing, "Something the Nings have 
 
 Huangfu Pingqing's words reminded Han Sen of what was left behind by his grandpa and what his father said.
 
-His grandpa wrote "super gene" on the notebook, and his father said he could take that pendant to ask the Nings for their help.
+His grandpa wrote "Super gene?" on the notebook, and his father said he could take that pendant to ask the Nings for their help.
 
 Is it possible that the Nings know about super creatures and super genes but they don't have the ability to hunt them? Is that why he would be interested in the dagger? Han Sen guessed. However, he had no way of knowing whether it was true.
 

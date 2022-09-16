@@ -1,9 +1,11 @@
+---
 Title:Dollar Appears Again 
 Chapter:1694 
 Section:5 
 Book:4 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Dollar Appears Again
 ### Chapter 1694
@@ -26,7 +28,7 @@ Xie Qing King was not very good at running. And right now, running would only ma
 
 The silver light erupted like a volcano against the hand. But even so, the hand was able to suppress it. It was like lava getting squashed.
 
-Boom!
+*Boom!*
 
 The hand came down to grip Xie Qing King’s head, which Xie Qing King tried to resist by pushing it back. The ground around his feet began to break, forming cracks that webbed the land for a few dozen miles in each direction.
 

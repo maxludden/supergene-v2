@@ -1,9 +1,11 @@
+---
 Title:Xenogeneics Without Spirit 
 Chapter:2839 
 Section:14 
 Book:9 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Xenogeneics Without Spirit
 ### Chapter 2839

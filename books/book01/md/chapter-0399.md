@@ -1,9 +1,11 @@
+---
 Title:A Crazy Auction 
 Chapter:399 
 Section:1 
 Book:1 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## A Crazy Auction
 ### Chapter 399
@@ -14,7 +16,7 @@ viewport: width=device-width
   
 
   
-The four items that Han Sen gave Su Xiaoqiao were sacred-blood black beetle armor, bloody slayer, Meowth, and spinning spear.
+The four items that Han Sen gave Su Xiaoqiao were his Sacred-Blood Black Beetle Armor, Bloody Slayer, Meowth, and his Spinning Spear.
 
 Too many people knew that Han Sen had made the last shot at the purple-feathered dragon and claimed to not have gained the beast soul, which was why Han Sen did not give the pair of wings to Su Xiaoqiao.
 
@@ -40,7 +42,7 @@ He did not expect the prices would go so high though. Even the black beetle armo
 
 "Qing, are you crazy? Although the sacred-blood armor is precious, I'm sure it's not so precious." When Qing bid eight S-Class licenses of the evolver level, Han Sen thought he was out of his mind.
 
-"Ha-ha, brother, it is more than just sacred-blood armor. This is Dollar's signature and only his name would be worth this much…" Many people around Qing seemed to agree with him, especially Hai Yun who was standing S-Class licenses like water. When he bid ten licenses, everyone was silent.
+"Ha-ha, brother, it is more than just sacred-blood armor. This is Dollar's signature and only his name would be worth this much…" Many people around Qing seemed to agree with him, especially Hai Yun who was spemding S-Class licenses like water. When he bid ten licenses, everyone was silent.
 
 Han Sen was dazed and thought, ten S-Class licenses of the evolver level? It must be billions of dollars, while the sacred-blood armor would probably only be worth 200 to 300 million.
 
@@ -88,9 +90,9 @@ Ning Yue shook his head and said, "No need. Our target is Han Sen."
 
 Han Sen saw someone following the beetle knight but paid no mind to it. The beetle knight was a sacred-blood beast soul and was controlled by Han Sen, so it was not difficult to get rid of the followers.
 
-"I'm so sorry Mr. Hai Yun. Dollar had said himself that he prefer universal licenses." Su Xiaoqiao looked around and said, "four universal licenses from Han Sen… Going once…"
+"I'm so sorry Mr. Hai Yun. Dollar had said himself that he prefer universal licenses." Su Xiaoqiao looked around and said, "Four universal licenses from Han Sen… Going once…"
 
-Eventually, Han Sen won the auction of Meowth and had his beloved Back.
+Eventually, Han Sen won the auction of Meowth and had his beloved pet back.
 
 Even the sacred-blood gear spinning spear was bought by Hai Yun with two sacred-blood licenses. Han Sen did not expect this guy to be such a diehard fan of Dollar.
 

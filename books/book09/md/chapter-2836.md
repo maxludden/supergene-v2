@@ -1,9 +1,11 @@
+---
 Title:A Butterfly That Can Only Have One Relationship in Their Entire Life 
 Chapter:2836 
 Section:14 
 Book:9 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## A Butterfly That Can Only Have One Relationship in Their Entire Life
 ### Chapter 2836

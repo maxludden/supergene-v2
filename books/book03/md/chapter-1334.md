@@ -1,9 +1,11 @@
+---
 Title:God’s Retribution’s Goodbye 
 Chapter:1334 
 Section:3 
 Book:3 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## God’s Retribution’s Goodbye
 ### Chapter 1334

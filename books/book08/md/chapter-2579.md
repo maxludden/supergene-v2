@@ -1,9 +1,11 @@
+---
 Title:Claiming Another Deified Beast Soul 
 Chapter:2579 
 Section:12 
 Book:8 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Claiming Another Deified Beast Soul
 ### Chapter 2579

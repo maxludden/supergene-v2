@@ -1,9 +1,11 @@
+---
 Title:Dead Cycle 
 Chapter:2733 
 Section:13 
 Book:8 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Dead Cycle
 ### Chapter 2733

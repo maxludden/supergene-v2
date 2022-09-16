@@ -1,9 +1,11 @@
+---
 Title:Gathering Up in the Lobby 
 Chapter:2180 
 Section:9 
 Book:6 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Gathering Up in the Lobby
 ### Chapter 2180

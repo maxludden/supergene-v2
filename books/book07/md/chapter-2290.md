@@ -1,9 +1,11 @@
+---
 Title:Four Symbols Seal 
 Chapter:2290 
 Section:10 
 Book:7 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Four Symbols Seal
 ### Chapter 2290

@@ -1,9 +1,11 @@
+---
 Title:Giant Frosty Bear 
 Chapter:669 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Giant Frosty Bear
 ### Chapter 669
@@ -62,7 +64,7 @@ Wang Yuhang was no slouch, either. He shouted and a light burst forth from withi
 
 Han Sen slowly brought out the peacock crossbow that had just recently evolved. From the quiver, he loaded in a raven feather bolt. With a quick look at the crane, he raised his arms and pulled the trigger.
 
-Whoosh!
+*Whoosh!*
 
 The blacklight bolt flashed and travelled a thousand meters in the blink of an eye. It shot right past Li Xing Lun and Wang Yuhang and lodged itself in the crane's cranium.
 

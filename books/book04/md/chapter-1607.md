@@ -1,9 +1,11 @@
+---
 Title:Getting Into Outer Sky 
 Chapter:1607 
 Section:4 
 Book:4 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Getting Into Outer Sky
 ### Chapter 1607
@@ -48,7 +50,7 @@ Han Sen could not change his direction, though. The only way he could go was for
 
 With Fallen Slaughter’s mighty body, Han Sen was able to hold the Overbearing Shield effectively, even while it was in its ultimate form. It wasn’t difficult at all anymore.
 
-Boom!
+*Boom!*
 
 Han Sen’s body was sent back dozens of meters. The spirits and creatures that hit the shield were all sent rocketing away, too, coughing up blood as they went.
 

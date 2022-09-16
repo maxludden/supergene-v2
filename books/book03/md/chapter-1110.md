@@ -1,9 +1,11 @@
+---
 Title:Super Armor 
 Chapter:1110 
 Section:3 
 Book:3 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Super Armor
 ### Chapter 1110

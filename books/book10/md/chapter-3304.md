@@ -1,9 +1,11 @@
+---
 Title:Life Soul Creates Chaos 
 Chapter:3304 
 Section:17 
 Book:10 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Life Soul Creates Chaos
 ### Chapter 3304
@@ -36,7 +38,7 @@ Shoot Shadow politely bowed and said, “Mister Leader, everything is ready.”
 
 “Yes, Master,” Shoot Shadow replied. He walked in front of the copper stove, holding each side of the stove. The Break World powers burned madly. In the end, he shouted. He had barely opened a small gap in the lid of the copper stove.
 
-Boom!
+*Boom!*
 
 A black flame came out of the copper stove. It was like a volcano erupting into the sky. The copper stove and stone lid blasted away with Shoot Shadow.
 
@@ -72,7 +74,7 @@ Han Sen felt a chill. He saw five life souls were coming into the area. He did n
 
 Han Sen looked frozen. He suddenly entered Super God Spirit mode. His heart jumped. He teleported in front of a tiger-like life soul. He threw a punch at the life soul.
 
-Boom!
+*Boom!*
 
 Han Sen blew up the tiger-like life soul. Han Sen’s body promptly flashed away. Seven to eight life souls were broken near the system. They became starlight and quickly vanished.
 

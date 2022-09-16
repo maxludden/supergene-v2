@@ -1,9 +1,11 @@
+---
 Title:Strong Body 
 Chapter:1324 
 Section:3 
 Book:3 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Strong Body
 ### Chapter 1324

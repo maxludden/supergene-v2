@@ -1,9 +1,11 @@
+---
 Title:The Use of a God Temple 
 Chapter:3147 
 Section:16 
 Book:10 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## The Use of a God Temple
 ### Chapter 3147

@@ -1,9 +1,11 @@
+---
 Title:He Is Different 
 Chapter:1672 
 Section:4 
 Book:4 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## He Is Different
 ### Chapter 1672
@@ -50,7 +52,7 @@ Dong!
 
 A bone knife appeared beneath the paws. Zero had blocked the strike, but the force sent her flying back into Luo Lan, and both of them crashed onto the ground.
 
-Boom!
+*Boom!*
 
 Zero stood up off the floor bleeding, but her blood was purple. Her eyes turned purple, then her hair followed. A pair of purple horns grew out of her skin.
 

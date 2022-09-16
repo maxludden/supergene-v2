@@ -1,9 +1,11 @@
+---
 Title:Star Gauge Mirror 
 Chapter:2720 
 Section:13 
 Book:8 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Star Gauge Mirror
 ### Chapter 2720

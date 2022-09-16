@@ -1,9 +1,11 @@
+---
 Title:Battling a Super Spirit 
 Chapter:802 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Battling a Super Spirit
 ### Chapter 802
@@ -32,7 +34,7 @@ With a frightening attack like the one the spirit prepared to unleash, Han Sen d
 
 If he failed, however, at the very most he would lose his armor, gargoyle-glyph, and Devil Unicorn. He had maximized his defense, and with all those beast souls shielding him, the spirit's attack couldn't be a one-hit kill, at least.
 
-Boom!
+*Boom!*
 
 After Han Sen's fist had collected all the power it needed, he watched the black flame-wreathed, witch-like spirit suddenly make her move.
 
@@ -40,13 +42,13 @@ In the distance between the two of them, space collapsed and became disrupted. T
 
 Han Sen's pupils shrank, unable to catch the spirit's movement pattern. His heart was shocked, as all his senses could do was fire an alarm telling him of an imminent threat—one that was big and scary.
 
-Boom!
+*Boom!*
 
 Han Sen couldn't spare much time, so he threw his fist. The silver lightning in his fist split the atmosphere, as lightning bolts flickered in all directions. Lightning and thunder rolled with a deafening volume, enough to pop eardrums and rattle the brain.
 
 In the next second, the spirit suddenly appeared in front of Han Sen. Her cold, monarch-like face was near enough to touch nose-to-nose. Her jade white fist was driven into his belly.
 
-Boom!
+*Boom!*
 
 Han Sen wanted to dodge it, but doing so was impossible. When the spirit punched his belly, his armor shattered as broken plates and splintered metal rained down. Han Sen himself was cast into the air once more, and his flight was stopped by the sudden collision with a stone pillar.
 
@@ -90,7 +92,7 @@ Han Sen gritted his teeth and prepared to summon the little angel back, so she c
 
 But suddenly, another katcha sounded from inside his pack. A familiar energy came out of it, and it appeared as if something was indeed hatching inside.
 
-Boom!
+*Boom!*
 
 In Han Sen's moment of pause, the spirit already broke the atmosphere with her follow-up attack. Han Sen lost track of her, and he knew now that it was too late to summon the little angel back.
 
@@ -98,6 +100,6 @@ The spirit appeared in front of Han Sen, with a fist determined to drive into hi
 
 But within that second, Han Sen saw the spirit's face change. Her black pupils reduced in size and her cold face displayed a glimmer of emotion: shock.
 
-Boom!
+*Boom!*
 
 A silver lightning bolt appeared from Han Sen's waist. Like bright moonlight, it struck her incoming fist.

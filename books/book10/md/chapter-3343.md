@@ -1,9 +1,11 @@
+---
 Title:Half-man and Half-beast 
 Chapter:3343 
 Section:17 
 Book:10 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Half-man and Half-beast
 ### Chapter 3343

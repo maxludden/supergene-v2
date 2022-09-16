@@ -1,9 +1,11 @@
+---
 Title:Red Coral 
 Chapter:1986 
 Section:8 
 Book:6 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Red Coral
 ### Chapter 1986

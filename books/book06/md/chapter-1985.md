@@ -1,9 +1,11 @@
+---
 Title:Lone Bamboo 
 Chapter:1985 
 Section:8 
 Book:6 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Lone Bamboo
 ### Chapter 1985

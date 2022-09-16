@@ -1,9 +1,11 @@
+---
 Title:A Land Pulse That Shocks the Sky 
 Chapter:3119 
 Section:16 
 Book:10 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## A Land Pulse That Shocks the Sky
 ### Chapter 3119

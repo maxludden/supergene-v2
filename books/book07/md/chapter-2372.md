@@ -1,9 +1,11 @@
+---
 Title:Play Off 
 Chapter:2372 
 Section:11 
 Book:7 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Play Off
 ### Chapter 2372
@@ -22,7 +24,7 @@ Lan Haixin was still staring at that shining Siren Bottle. Not recognizing the d
 
 When the other Sirens saw that the Siren Bottle had been activated, they knelt and began to bow before it. They also mumbled words Han Sen didn’t understand. He assumed it was the language of the Siren.
 
-Boom!
+*Boom!*
 
 The Siren Bottle’s rainbow light exploded out. The bottle’s halo expanded, looking like a pillar of light reaching for the top of the Crystal Palace.
 

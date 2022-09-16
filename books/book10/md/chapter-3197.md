@@ -1,9 +1,11 @@
+---
 Title:Method 
 Chapter:3197 
 Section:16 
 Book:10 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Method
 ### Chapter 3197
@@ -94,6 +96,6 @@ Thousand Mile Reach and Jia Shi Zhen were of a similar mind. Qin Bai showed exci
 
 Jian Bu Gu pointed in a certain direction, so the group traveled that way. There was not a single human seen. Aside from weapons, it was as if there was nothing else there.
 
-Boom!
+*Boom!*
 
 After walking for almost 10 miles, an explosion came from the sky. The wind suddenly changed. The sky looked dark. It looked like a storm was rolling in.

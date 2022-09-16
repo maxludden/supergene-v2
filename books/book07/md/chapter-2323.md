@@ -1,9 +1,11 @@
+---
 Title:Princess 
 Chapter:2323 
 Section:11 
 Book:7 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Princess
 ### Chapter 2323
@@ -88,7 +90,11 @@ Han Sen saw that the building was well-kept. It was already sparklingly clean. H
 
 “Yes, my Prince,” Lilly said. She exited the building, closed the door, and left.
 
-…
+<br>
+
+*****
+
+<br>
 
 The princess was standing atop the palace, looking down at that building by the garden.
 

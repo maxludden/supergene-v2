@@ -1,9 +1,11 @@
+---
 Title:Ghost-pawed Ferret 
 Chapter:483 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Ghost-pawed Ferret
 ### Chapter 483
@@ -46,7 +48,7 @@ The poor sacred-blood purple ferret was not intelligent enough to tell Han Sen's
 
 Very soon, Han Sen threw his fist which was the color of jade at the purple ferret, which was between its two moves and lost its ability to dodge. Naturally, it was hit by Han Sen's fist.
 
-Boom!
+*Boom!*
 
 The yin force penetrated the sacred-blood purple ferret's body. Its tiny body flew 50 feet away and fell after crushing a large chunk of glacier.
 

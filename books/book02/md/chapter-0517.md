@@ -1,9 +1,11 @@
+---
 Title:The Shame of Soldiers 
 Chapter:517 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## The Shame of Soldiers
 ### Chapter 517

@@ -1,9 +1,11 @@
+---
 Title:Suppress Evil Technique 
 Chapter:2089 
 Section:8 
 Book:6 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Suppress Evil Technique
 ### Chapter 2089

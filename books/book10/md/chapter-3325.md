@@ -1,9 +1,11 @@
+---
 Title:Killing Break World Beasts 
 Chapter:3325 
 Section:17 
 Book:10 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Killing Break World Beasts
 ### Chapter 3325

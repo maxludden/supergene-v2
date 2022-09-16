@@ -1,9 +1,11 @@
+---
 Title:The Thing in the Well 
 Chapter:3210 
 Section:16 
 Book:10 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## The Thing in the Well
 ### Chapter 3210
@@ -76,7 +78,7 @@ Han Sen thought this was weird. He thought it was a box, but the box was very ta
 
 “Why does this box look like a strange coffin?” Han Sen thought.
 
-Boom! Boom!
+*Boom!* *Boom!*
 
 While Han Sen was thinking, the box was pulled out by the girl. It was outside of the well.
 

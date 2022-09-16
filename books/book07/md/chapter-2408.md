@@ -1,9 +1,11 @@
+---
 Title:Furnace 
 Chapter:2408 
 Section:11 
 Book:7 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Furnace
 ### Chapter 2408

@@ -1,9 +1,11 @@
+---
 Title:Battle Gene Beast Soul 
 Chapter:1246 
 Section:3 
 Book:3 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Battle Gene Beast Soul
 ### Chapter 1246

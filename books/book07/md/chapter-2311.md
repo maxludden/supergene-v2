@@ -1,9 +1,11 @@
+---
 Title:Legendary Extreme King 
 Chapter:2311 
 Section:11 
 Book:7 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Legendary Extreme King
 ### Chapter 2311
@@ -72,7 +74,11 @@ Miss Mirror turned around to leave the room, but she hesitated and returned. Her
 
 After that, Miss Mirror laughed. She laughed so hard that her eyes began to glisten with tears. “Interesting, so interesting… This Han Sen is most intriguing.”
 
-…
+<br>
+
+*****
+
+<br>
 
 Inside an Extreme King palace, an elegant woman was watching Bai Wuchang practice knife skills. She frowned and said, “Wuchang, I told you that when learning the arts of combat, you need to be more versatile. Depending solely on your Phantom Ghost King Body is a bad plan. I hope you learned a little lesson from this experience. Consider it a warning. You need to learn more from your teacher Ancient Abyss.”
 

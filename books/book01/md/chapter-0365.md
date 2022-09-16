@@ -1,9 +1,11 @@
+---
 Title:Achilles’ Heel 
 Chapter:365 
 Section:1 
 Book:1 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Achilles’ Heel
 ### Chapter 365
@@ -26,7 +28,7 @@ With a howling, a black shadow suddenly dashed from a cell, leaving Chen Nanxing
 
 Chen Nanxing quickly raised the shield to protect himself.
 
-Bang!
+*Bang!*
 
 Feeling a strong force hitting the shield, Chen Nanxing was knocked dozens of feet away despite that he was pushing the shield with his shoulder. Chen Nanxing hit the wall and rolled over to get up, seeing three long marks added to the surface of his shield, which was obviously clawed by the wolf.
 
@@ -46,7 +48,7 @@ Although it was one against four, the wolf still had the advantage. The four of 
 
 "Dammit! Why is the wolf so fierce?" Chen Nanxing was clawed again at his shoulder. Although he managed to avoid being hit in the vital parts, his shoulder was scratched deeply, and blood was flowing.
 
-Bang!
+*Bang!*
 
 Han Sen stabbed his spear at the wolf, which was the first time they had ever hit the creature. However, the spinning force was useless on it.
 

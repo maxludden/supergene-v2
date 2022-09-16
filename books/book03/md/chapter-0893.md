@@ -1,9 +1,11 @@
+---
 Title:Three-second Hero 
 Chapter:893 
 Section:3 
 Book:3 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Three-second Hero
 ### Chapter 893
@@ -70,7 +72,7 @@ The coins that were across his body all fell off, and then Han Sen turned to loo
 
 The once-cocky, devilish toad now looked frightened. It was so afraid, it wasted no time in running off.
 
-Boom!
+*Boom!*
 
 Han Sen's perfect body carried this white light. He teleported in front of the toad and punched it in the face.
 

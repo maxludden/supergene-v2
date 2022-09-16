@@ -1,9 +1,11 @@
+---
 Title:Looking at an Angel 
 Chapter:3046 
 Section:16 
 Book:10 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Looking at an Angel
 ### Chapter 3046
@@ -26,7 +28,7 @@ Peaceful was next to them. She shouted, “Careful! She has combined with the go
 
 The lightning came too quickly. Before Peaceful could finish, Han Sen’s fist had already smacked the scary lightning.
 
-Boom!
+*Boom!*
 
 The electric light exploded. Han Sen blew up the scary lightning. It flickered in the sky. It did not hurt Han Sen, and it was not sent into the white-clothed young man’s body.
 

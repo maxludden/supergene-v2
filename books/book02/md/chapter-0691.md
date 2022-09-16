@@ -1,9 +1,11 @@
+---
 Title:Dongxuan Sutra's First Tier 
 Chapter:691 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Dongxuan Sutra's First Tier
 ### Chapter 691
@@ -80,7 +82,7 @@ Boom, boom, boom!
 
 Every hit was like a wave, which made his entire body vibrate with moans and groans. Every finger, every hair, and even every cell felt like it was going to explode.
 
-Boom!
+*Boom!*
 
 Han Sen could no longer remember how many pulsations he had felt, but suddenly, he felt as if his body had broken a chain that previously bound him. His entire body felt light and liberated, like a feather with the freedom and comfort to dance its way across the world. It was difficult to describe.
 

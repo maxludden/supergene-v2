@@ -1,9 +1,11 @@
+---
 Title:Twin 
 Chapter:530 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Twin
 ### Chapter 530
@@ -16,11 +18,11 @@ viewport: width=device-width
   
 Han Sen wanted to take back Mad Shield, but the sword of the girl was too fast indeed. Before he took Mad Shield back, another flash flew across.
 
-Crack!
+*Crack!*
 
 This time, the tower shield was cut in half for real. The slim sword cut to the tall figure of Mad Shield like a lightning bolt. With a flash, there was a line added to the body of Mad Shield.
 
-Boom!
+*Boom!*
 
 The body of Mad Shield fell into two halves. The spirit was killed like that.
 
@@ -46,13 +48,13 @@ However, when Han Sen's fingers were about to touch the spirit stone, he suddenl
 
 That sword was so fast and Han Sen was so close that there was no time for him to dodge.
 
-Whoosh!
+*Whoosh!*
 
 The golden sword pierced the golden armor into his chest. Han Sen then saw the person who stabbed him. It was a girl with wavy blonde hair and golden eyes covered in golden armor, holding a golden slim sword.
 
 Except for the fact that everything was golden on her body, the girl looked almost identical to the silver-haired girl. They were almost like two dolls made from the same mold, only with different colors of their armor and hair.
 
-"Boom!"
+"*Boom!*"
 
 The blonde girl kicked Han Sen down to the floor. Han Sen fell hard and saw that on the back of the statue there was another face. The statue was two-faced, and between the eyebrows of the face in the back, there was another spirit stone, which was golden and shiny.
 
@@ -86,7 +88,7 @@ However, outside the architecture were full of all kinds of creatures including 
 
 Han Sen no longer had other options. If he could go out, he could survive. Those sacred-blood creatures were still inferior to the girls. In addition, they were less intelligent, which was Han Sen's opportunity.
 
-Boom!
+*Boom!*
 
 With all kinds of scary creatures at the door, Han Sen did not cringe but rushed into them, thanks to his armor.
 

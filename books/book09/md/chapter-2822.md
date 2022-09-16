@@ -1,9 +1,11 @@
+---
 Title:Killing a God 
 Chapter:2822 
 Section:14 
 Book:9 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Killing a God
 ### Chapter 2822
@@ -78,7 +80,7 @@ Han Sen's body was carrying a white flame. He slashed downward. It split Evil Lo
 
 Han Sen was depressed. This time, there was no god spirit. Han Sen was hoping to claim another god spirit and compare it to Sky Vine Radish's god spirit.
 
-Boom!
+*Boom!*
 
 When Evil Lotus God was killed, a purple light came down from the sky. All of his flesh and bones tuned into a purple light that rose.
 

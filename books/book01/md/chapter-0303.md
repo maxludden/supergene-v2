@@ -1,9 +1,11 @@
+---
 Title:Slaughter 
 Chapter:303 
 Section:1 
 Book:1 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Slaughter
 ### Chapter 303

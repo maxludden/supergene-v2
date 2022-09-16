@@ -1,9 +1,11 @@
+---
 Title:Two Moment Gods 
 Chapter:3204 
 Section:16 
 Book:10 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Two Moment Gods
 ### Chapter 3204

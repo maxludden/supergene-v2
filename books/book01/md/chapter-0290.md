@@ -1,9 +1,11 @@
+---
 Title:Heresy Mantra 
 Chapter:290 
 Section:1 
 Book:1 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Heresy Mantra
 ### Chapter 290

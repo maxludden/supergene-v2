@@ -1,9 +1,11 @@
+---
 Title:Activate Potential 
 Chapter:2818 
 Section:14 
 Book:9 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Activate Potential
 ### Chapter 2818
@@ -44,7 +46,7 @@ He sensed that Han Sen's absolute showing of power was inferior to Cold Light Ch
 
 Han Sen did not seem to understand that. He was still getting in close to Cold Light Charm. With Second Uncle's time area control, it made him easily be able to dodge the pink beam of light.
 
-Boom!
+*Boom!*
 
 The blue starlight suddenly opened up between Han Sen's fist and Cold Light Charm's tentacles. That starlight power did not break Cold Light Charm's cold semi-transparent metal body. It was shaken and shattered.
 

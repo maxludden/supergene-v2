@@ -1,9 +1,11 @@
+---
 Title:No God Emperor 
 Chapter:1297 
 Section:3 
 Book:3 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## No God Emperor
 ### Chapter 1297

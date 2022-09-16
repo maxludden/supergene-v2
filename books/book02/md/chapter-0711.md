@@ -1,9 +1,11 @@
+---
 Title:Battle With the Son of God 
 Chapter:711 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Battle With the Son of God
 ### Chapter 711

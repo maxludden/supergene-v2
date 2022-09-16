@@ -1,9 +1,11 @@
+---
 Title:Kingese Sprint 
 Chapter:2381 
 Section:11 
 Book:7 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Kingese Sprint
 ### Chapter 2381
@@ -62,7 +64,11 @@ But Han Sen ran like he was uninhibited. His legs pounded like a wild horse brea
 
 “Huh. He only got lucky. That isn’t his real power on display. Even if he manages to run all the way to the top, he will only be winning first place in this race. The exams have many more trials and tasks for them. He can’t rely solely on luck. Plus, who knows if he can even keep up this speed. The section of the trail above the clouds is the most important part.”
 
-…
+<br>
+
+*****
+
+<br>
 
 Everyone could see Han Sen running forward. He skipped by many royal children, and they looked excited.
 

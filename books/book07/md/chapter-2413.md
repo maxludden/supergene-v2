@@ -1,9 +1,11 @@
+---
 Title:Exploding Furnace 
 Chapter:2413 
 Section:11 
 Book:7 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Exploding Furnace
 ### Chapter 2413

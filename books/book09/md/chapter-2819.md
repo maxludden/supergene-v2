@@ -1,9 +1,11 @@
+---
 Title:Cold Light Charm’s Beast Soul 
 Chapter:2819 
 Section:14 
 Book:9 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Cold Light Charm’s Beast Soul
 ### Chapter 2819

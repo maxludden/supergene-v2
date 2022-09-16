@@ -1,9 +1,11 @@
+---
 Title:One Sword One Kill 
 Chapter:1323 
 Section:3 
 Book:3 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## One Sword One Kill
 ### Chapter 1323
@@ -56,7 +58,11 @@ Everyone was shocked at the power Han Sen could wield. They didn’t think such 
 
 “His swordskills are impressive.”
 
-…
+<br>
+
+*****
+
+<br>
 
 “Is that the manner of power Godslayer Luo wielded?” Flower Empress asked.
 

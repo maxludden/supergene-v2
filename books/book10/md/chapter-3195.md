@@ -1,9 +1,11 @@
+---
 Title:Soldier Weapon Sky 
 Chapter:3195 
 Section:16 
 Book:10 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Soldier Weapon Sky
 ### Chapter 3195

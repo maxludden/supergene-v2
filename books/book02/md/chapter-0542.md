@@ -1,9 +1,11 @@
+---
 Title:Suppress 
 Chapter:542 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Suppress
 ### Chapter 542
@@ -46,7 +48,11 @@ No matter how he looked, Han Sen was still only around 20 years old. To learn Na
 
 "According to current theory, there is a big difference between the two. Han Sen's Nano Crystal has already been made, however. I am only afraid that theJadeskin Xue Yi Yang has learned is something recent and not fully developed. It's impossible to tell who will emerge victorious."
 
-…
+<br>
+
+*****
+
+<br>
 
 People from across the four families were discussing with ravenous interest the events unfolding before them. There was a man who looked quite similar to Xue Yi Yang sitting in a corner and coldly looking at the stage, devoid of emotion.
 
@@ -86,7 +92,11 @@ Ji Yanran was delighted. Although she had known Han Sen was very strong, even sh
 
 "The Ji family has an amazing addition..."
 
-…
+<br>
+
+*****
+
+<br>
 
 Xue Yi Kuang's eyes changed. He said two words: "Yin Force."
 
@@ -94,7 +104,7 @@ Xue Yi Kuang's eyes changed. He said two words: "Yin Force."
 
 "Hmmm," Xue Yi Kuang said, then said nothing more. As he looked at Han Sen, a murderous glint entered his eyes.
 
-Boom!
+*Boom!*
 
 Xue Yi Yang hopelessly accepted another punch. He felt his organs being pummelled and then felt as if his heart was ready to explode. He screamed again. His body began shining, and to expand in size. All of a sudden, he had taken on the appearance of a red-eyed monster. After this all of his attacks had kept being suppressed by Han Sen, he had opted to use a beast soul.
 

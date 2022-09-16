@@ -1,9 +1,11 @@
+---
 Title:Spear Is Out 
 Chapter:319 
 Section:1 
 Book:1 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Spear Is Out
 ### Chapter 319
@@ -22,7 +24,7 @@ The person had a malicious look in his eyes. Apparently, he wanted to use the sh
 
 Han Sen smiled and did not stop. His spear touched the steel shield. That person was glad in the beginning, but suddenly felt an unimaginable force.
 
-Crack!
+*Crack!*
 
 The long spear was like a drill head, penetrating the steel shield with a strong spinning force and driven through the person’s chest. The person looked down incredulously at the red spear head in front of his chest.
 

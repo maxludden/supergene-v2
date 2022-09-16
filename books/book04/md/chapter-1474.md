@@ -1,9 +1,11 @@
+---
 Title:Purple Manor 
 Chapter:1474 
 Section:4 
 Book:4 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Purple Manor
 ### Chapter 1474

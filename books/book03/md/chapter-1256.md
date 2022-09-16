@@ -1,9 +1,11 @@
+---
 Title:Blood River King’s Battle Geno Essence 
 Chapter:1256 
 Section:3 
 Book:3 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Blood River King’s Battle Geno Essence
 ### Chapter 1256

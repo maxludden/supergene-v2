@@ -1,9 +1,11 @@
+---
 Title:I’ll Take the Third God’s Sanctuary as a Gift for You 
 Chapter:1228 
 Section:3 
 Book:3 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## I’ll Take the Third God’s Sanctuary as a Gift for You
 ### Chapter 1228

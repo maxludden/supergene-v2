@@ -1,9 +1,11 @@
+---
 Title:The Dismantling Fight 
 Chapter:2131 
 Section:8 
 Book:6 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## The Dismantling Fight
 ### Chapter 2131
@@ -86,7 +88,7 @@ That was why Han Sen said that Evil Eye had missed the purpose of Dollar. Althou
 
 Even though he had produced a coin that suppressed powers, it wasn’t Dollar. It was not like the real Dollar that Han Sen wielded, in which power could be stacked.
 
-Boom!
+*Boom!*
 
 When Evil Eye caught the coin next, the number on its surface was ten. The purple color on his armor deepened, but it looked as if the color itself was struggling against the weight. It seemed as if it had been suppressed by Dollar too much, and it could no longer hold on.
 

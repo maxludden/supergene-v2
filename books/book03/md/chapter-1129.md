@@ -1,9 +1,11 @@
+---
 Title:Han Sen’s Guess 
 Chapter:1129 
 Section:3 
 Book:3 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Han Sen’s Guess
 ### Chapter 1129

@@ -1,9 +1,11 @@
+---
 Title:Blood Dragon Flying Into the Sky 
 Chapter:3108 
 Section:16 
 Book:10 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Blood Dragon Flying Into the Sky
 ### Chapter 3108
@@ -16,7 +18,7 @@ viewport: width=device-width
   
 Steel Scene suddenly turned into an ice and snow battle god. His black hair was now snow white. His skin was crystalized. His entire body unleashed an aura of cold air. Snowflakes surrounded him. He punched toward Han Sen’s blood dragon flying into the sky weird scene, but it was too late.
 
-Boom!
+*Boom!*
 
 Lu San Zhi and Gong Shu Zhi, who were both up ahead, were blasted away by the blood dragon flying into the sky weird scene’s power. It broke the lobby’s walls. Si Tu Ya was covered in blood as she retreated.
 
@@ -68,7 +70,7 @@ The blood dragon roared. He made the super overbearing sound go with it. It went
 
 It was too late. The power of the blood dragon flying into the sky weird scene power arrived directly in front of him. Gong Shu Zhi’s only option was to use his power and try and block it.
 
-Boom!
+*Boom!*
 
 Gong Shu Zhi’s body, along with the yin wolf combined with him, turned into a bloody mist. A few of the Steel Manor guards sought to help block the attack. They only ended up coughing up blood and flying away. It was unknown whether or not they were alive or dead.
 
@@ -84,7 +86,7 @@ With Steel Scene’s order, the guards and family members did not fall back. The
 
 Steel Scene summoned an exclusive ice snow god gene race, snow mountain god ape. With the gene combine skill and snow god roar, he went for Han Sen’s blood dragon flying into the sky weird scene.
 
-Boom!
+*Boom!*
 
 The blood was waving. It was extremely overbearing and destroyed everything. Steel Scene and the other Steel Manor elites fell back. They all looked terrible.
 

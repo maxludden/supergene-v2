@@ -1,9 +1,11 @@
+---
 Title:Ability to Control Bugs 
 Chapter:966 
 Section:3 
 Book:3 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Ability to Control Bugs
 ### Chapter 966

@@ -1,9 +1,11 @@
+---
 Title:Fighting the Mantis Across the Mountains 
 Chapter:2675 
 Section:13 
 Book:8 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Fighting the Mantis Across the Mountains
 ### Chapter 2675

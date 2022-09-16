@@ -1,9 +1,11 @@
+---
 Title:The Distinguished and Aristocrats Only 
 Chapter:19 
 Section:1 
 Book:1 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## The Distinguished and Aristocrats Only
 ### Chapter 19

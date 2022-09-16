@@ -1,9 +1,11 @@
+---
 Title:Power of One Hit 
 Chapter:680 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Power of One Hit
 ### Chapter 680
@@ -48,7 +50,7 @@ Earlier, the pink snake had appeared behind Han Sen out of nowhere. Just thinkin
 
 From the seven orifices, more and more blood gushed out. The wailing of the elephant was becoming gradually louder, as well. The trail they followed was blocked by a cliffside wall, but the bone elephant did not stop.
 
-Boom!
+*Boom!*
 
 The cliffside wall started to collapse as the elephant charged against it ceaselessly. Broken rocks fell atop the elephant, but it did not care. Over and over, it kept bashing the wall with its head. It looked as if it was ready to shatter its brain against the stone.
 

@@ -1,9 +1,11 @@
+---
 Title:Dragon Beast Soul 
 Chapter:2355 
 Section:11 
 Book:7 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Dragon Beast Soul
 ### Chapter 2355

@@ -1,9 +1,11 @@
+---
 Title:Military Mogul 
 Chapter:480 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Military Mogul
 ### Chapter 480
@@ -20,7 +22,7 @@ Of course, in the virtual camp, this feature could not be embodied fully. Howeve
 
 Her hands slashing like thunder, Qin Xuan was incredibly fast, putting great pressure on Han Sen.
 
-Crack!
+*Crack!*
 
 Han Sen did not dodge in time and was hit on his shoulder. His health value suddenly went down by 64%, which showed how powerful Qin Xuan's strike was. Although it was not a vital part that was injured, Han Sen still lost more than half of his health in one strike.
 

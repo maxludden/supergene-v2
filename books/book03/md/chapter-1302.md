@@ -1,9 +1,11 @@
+---
 Title:Ten Gene Locks Opened 
 Chapter:1302 
 Section:3 
 Book:3 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Ten Gene Locks Opened
 ### Chapter 1302

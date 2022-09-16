@@ -1,9 +1,11 @@
+---
 Title:Deified Xenogeneics in the Storm 
 Chapter:2709 
 Section:13 
 Book:8 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Deified Xenogeneics in the Storm
 ### Chapter 2709
@@ -24,7 +26,7 @@ In a matter of moments, the glowing, white power disappeared as well. Han Sen’
 
 “Finally, it is gone!” The foreign energy that had plagued him had vanished, and he felt much relief. Bao Lian’s attack had been expunged. The scary God Spirit Storm wasn’t gone, though. It was still there in the sky.
 
-Boom! Boom! Boom!
+*Boom!* *Boom!* *Boom!*
 
 Lightning flashed across the pitch-black sky, sending bursts of light across the clouds.
 
@@ -42,7 +44,7 @@ Exquisite had depleted her energy reserves before Han Sen knocked her out. And e
 
 Lightning fell across his body like raindrops. Although it didn’t hurt or numb him, he could definitely feel it.
 
-Boom! Boom!
+*Boom!* *Boom!*
 
 Somewhere within the thunderstorm off to Han Sen’s side, a giant bolt of lightning exploded. But within the light of that bolt, he saw a shadow standing on the ground.
 

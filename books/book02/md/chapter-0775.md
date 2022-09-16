@@ -1,9 +1,11 @@
+---
 Title:Is That All You've Got? 
 Chapter:775 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Is That All You've Got?
 ### Chapter 775
@@ -18,13 +20,13 @@ Han Sen did not move an inch. Half of his body crackled and sparked with looming
 
 The combined powers of sonic and lightning channeled through his fist to form an orb of light in the palm of his hand. It grew into a silver sun and exploded out towards Luo Li with the break of deafening thunder.
 
-Crack!
+*Crack!*
 
 The invisible bladestorm was like glass, as Han Sen's power shattered its cohesion and nullified its threat.
 
 As the lightning coursed through the air, a chilling noise sounded at the same time. The energy flow of Han Sen's attacker was distorted, which disabled her from gathering the composure needed to effectively dodge the incoming danger.
 
-Boom!
+*Boom!*
 
 Right before the lightning looked set to strike Luo Li, she summoned beast soul armor. The armor and clothes underneath were incinerated by the wretched power possessed by the lightning.
 

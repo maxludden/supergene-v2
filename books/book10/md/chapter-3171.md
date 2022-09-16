@@ -1,9 +1,11 @@
+---
 Title:Absorbing a Gene Skill 
 Chapter:3171 
 Section:16 
 Book:10 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Absorbing a Gene Skill
 ### Chapter 3171

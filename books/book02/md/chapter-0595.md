@@ -1,9 +1,11 @@
+---
 Title:King of the Ice Fields 
 Chapter:595 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## King of the Ice Fields
 ### Chapter 595
@@ -38,7 +40,11 @@ viewport: width=device-width
 
 "I've seen a lot in my time; but rarely have I been this excited. You didn't get to see the way those high-and-mighty elites looked that day. When they saw what Han Sen did, they were like children approaching an abusive father."
 
-…
+<br>
+
+*****
+
+<br>
 
 After the fighting that took place in the royal shelter, the Icefield changed. The three factions that governed the Icefield were broken. Han Sen took the royal shelter and formed an alliance with Li Xinglun and Philip, which led to the formation of a new Goddess Shelter. The three armies were then split into four.
 

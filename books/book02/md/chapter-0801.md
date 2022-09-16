@@ -1,9 +1,11 @@
+---
 Title:Zenith of Perception 
 Chapter:801 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Zenith of Perception
 ### Chapter 801
@@ -62,7 +64,7 @@ During the time spent practicing Hand of God and sparring against Qin Xuan, this
 
 Han Sen's mind was not occupied with a single other thought, and although he had sustained more wounds than ever, never before had he been so relaxed.
 
-Boom!
+*Boom!*
 
 Suddenly, Han Sen felt as if his head blew up. A strange sensation overtook his mind, as if the very core of his mind was extending. He was becoming one with the dongxuan aura.
 

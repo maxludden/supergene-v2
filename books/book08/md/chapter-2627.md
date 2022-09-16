@@ -1,9 +1,11 @@
+---
 Title:Killing a Deified Xenogeneic 
 Chapter:2627 
 Section:12 
 Book:8 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Killing a Deified Xenogeneic
 ### Chapter 2627

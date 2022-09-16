@@ -1,9 +1,11 @@
+---
 Title:Copper Statue 
 Chapter:1272 
 Section:3 
 Book:3 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Copper Statue
 ### Chapter 1272

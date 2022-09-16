@@ -1,9 +1,11 @@
+---
 Title:3 Chess Legion 
 Chapter:3113 
 Section:16 
 Book:10 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## 3 Chess Legion
 ### Chapter 3113
@@ -74,7 +76,7 @@ While he spoke, Thousand Mile Reach pointed at Han Sen. A giant chess piece aros
 
 Han Sen’s body exploded with purple dragon air. At the same time, there was a weird purple scale on his body. It was growing. It activated the blood dragon God Spirit Blood – Pulse and blood god dragon power.
 
-Boom!
+*Boom!*
 
 Han Sen unleashed a punch that carried blood dragon flying into the weird scene. The roaring big, purple dragon struck the stone orb. A purple air explosion occurred. Dust was everywhere. Under the effect of powerful tremors, Han Sen lost control and stumbled back. His arms were numb. He had been truly shaken.
 

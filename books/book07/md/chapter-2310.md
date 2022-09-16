@@ -1,9 +1,11 @@
+---
 Title:Impermanence 
 Chapter:2310 
 Section:11 
 Book:7 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Impermanence
 ### Chapter 2310
@@ -82,7 +84,11 @@ Han Sen’s Teeth Knife was combined with the Under the Sky knife skill. Because
 
 “Where did such a powerful Duke like this come from? I wonder which royal child’s guard he is?”
 
-…
+<br>
+
+*****
+
+<br>
 
 Han Sen suddenly fell back and slashed Ghost Teeth Knife forward. Dark purple knife silks floated down from space, wispy and half-transparent. They meshed together and began to bind Bai Wuchang.
 

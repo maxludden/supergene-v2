@@ -1,9 +1,11 @@
+---
 Title:Weird Super God Spirit Body 
 Chapter:3302 
 Section:16 
 Book:10 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Weird Super God Spirit Body
 ### Chapter 3302

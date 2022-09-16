@@ -1,9 +1,11 @@
+---
 Title:Hiding Away the Beauty 
 Chapter:426 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Hiding Away the Beauty
 ### Chapter 426
@@ -40,7 +42,7 @@ He then made a few more punches and found that there was almost no variation bet
 
 Han Sen hesitated and summoned the fairy queen to shapeshift. Then he used Heresy Mantra and Overload to hit the target with all he got.
 
-Boom!
+*Boom!*
 
 With a huge sound, the number kept flipping up and ended at 81.6735, which made Han Sen overjoyed.
 

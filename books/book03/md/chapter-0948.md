@@ -1,9 +1,11 @@
+---
 Title:Fair Trade 
 Chapter:948 
 Section:3 
 Book:3 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Fair Trade
 ### Chapter 948

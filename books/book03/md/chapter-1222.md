@@ -1,9 +1,11 @@
+---
 Title:Claiming an Emperor 
 Chapter:1222 
 Section:3 
 Book:3 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Claiming an Emperor
 ### Chapter 1222
@@ -56,7 +58,7 @@ Before he finished, his face had changed. Han Sen was in front of the spirit sta
 
 But without even paying him heed, Han Sen took the spirit stone in his hands.
 
-Boom!
+*Boom!*
 
 The purple blade that was about to strike Han Sen broke. The newborn king spirit froze, as his eyes fell on the sight of Han Sen, whose hands were now holding the stone.
 

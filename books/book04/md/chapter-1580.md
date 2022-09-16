@@ -1,9 +1,11 @@
+---
 Title:Fight Destroyer Wolf 
 Chapter:1580 
 Section:4 
 Book:4 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Fight Destroyer Wolf
 ### Chapter 1580

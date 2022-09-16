@@ -1,9 +1,11 @@
+---
 Title:Super Creature’s Death 
 Chapter:1263 
 Section:3 
 Book:3 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Super Creature’s Death
 ### Chapter 1263

@@ -1,9 +1,11 @@
+---
 Title:Getting a Deified Beast Soul Again 
 Chapter:2893 
 Section:15 
 Book:9 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Getting a Deified Beast Soul Again
 ### Chapter 2893
@@ -70,7 +72,7 @@ Just like before, when Han Sen’s hand was about to touch the Time Ghost, it fe
 
 Han Sen’s eyes flashed. His hand started to swirl. Since time was going to stop, Han Sen ripped a crack in it.
 
-Boom!
+*Boom!*
 
 Super Spank. Han Sen’s hand broke the Absolute Time Area’s substance chains. It broke layers in the Absolute Time.
 

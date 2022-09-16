@@ -1,9 +1,11 @@
+---
 Title:Six Core Snake God 
 Chapter:2577 
 Section:12 
 Book:8 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Six Core Snake God
 ### Chapter 2577

@@ -1,9 +1,11 @@
+---
 Title:Overpowered Geno Core 
 Chapter:1384 
 Section:4 
 Book:4 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Overpowered Geno Core
 ### Chapter 1384
@@ -84,7 +86,11 @@ Everyone in the Geno Core Storage was shocked, seeing it appear at the top of th
 
 “It is crazy. What manner of lifeform can achieve such a feat?”
 
-…
+<br>
+
+*****
+
+<br>
 
 The Crystal Core’s appearance on the top of the leaderboard had shaken the entire Fourth God’s Sanctuary. Even the creatures with maxed out geno cores were shocked. This was a truly remarkable occurrence.
 

@@ -1,9 +1,11 @@
+---
 Title:One Mouth and a Demigod 
 Chapter:864 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## One Mouth and a Demigod
 ### Chapter 864
@@ -24,7 +26,7 @@ His skills were top-tier. They weren't associated with movement and power, and f
 
 "It is an interesting thing, for him to become so powerful without learning the Falsified-Sky Sutra." Zhuo Donglai had a few extra thoughts about this, but he did not dwell on them. His mind swiftly moved on to think, "He is not from the Luo family, and neither does he want to be. His name is Han. Haha! I can't wait to see what comes of this."
 
-Boom!
+*Boom!*
 
 Only God could have kept count of the hundreds of slashes the SKTS delivered to King of War, but it finally broke. And with King of War's breaking, the fight came to an end.
 

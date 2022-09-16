@@ -1,9 +1,11 @@
+---
 Title:Weird Area 
 Chapter:2358 
 Section:11 
 Book:7 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Weird Area
 ### Chapter 2358

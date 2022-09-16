@@ -1,9 +1,11 @@
+---
 Title:The Exposed Shelter 
 Chapter:548 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## The Exposed Shelter
 ### Chapter 548

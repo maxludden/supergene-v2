@@ -1,9 +1,11 @@
+---
 Title:Going Back to Gold Crystal System 
 Chapter:3131 
 Section:16 
 Book:10 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Going Back to Gold Crystal System
 ### Chapter 3131

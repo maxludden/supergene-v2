@@ -1,9 +1,11 @@
+---
 Title:The Man That Opened the Wall of Destiny 
 Chapter:1403 
 Section:4 
 Book:4 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## The Man That Opened the Wall of Destiny
 ### Chapter 1403
@@ -78,7 +80,7 @@ Han Sen quickly pulled his hand away and took cover behind his umbrella.
 
 Everyone summoned their geno core for protection, expecting a fight or some sort to have been initiated.
 
-Boom!
+*Boom!*
 
 The Wall of Destiny let out a deep sound, as if something had been unlocked beneath the earth. And then it began to sink, receding into the ground it had originally emerged from.
 

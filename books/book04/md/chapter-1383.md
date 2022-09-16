@@ -1,9 +1,11 @@
+---
 Title:Geno Core Test 
 Chapter:1383 
 Section:4 
 Book:4 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Geno Core Test
 ### Chapter 1383

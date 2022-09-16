@@ -1,9 +1,11 @@
+---
 Title:Crazy Consume 
 Chapter:2730 
 Section:13 
 Book:8 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Crazy Consume
 ### Chapter 2730

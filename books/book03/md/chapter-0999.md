@@ -1,9 +1,11 @@
+---
 Title:Blue Ape 
 Chapter:999 
 Section:3 
 Book:3 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Blue Ape
 ### Chapter 999
@@ -36,7 +38,7 @@ The Dragon-Blood Snake’s muscles relinquished their strength, and it collapsed
 
 Han Sen returned the Dragon-Blood Snake to the Sea of Soul before anything even more foul befell it.
 
-Whoosh!
+*Whoosh!*
 
 Another Sabertooth-Bee Arrow was fired, and it drilled through another of the giant snake’s wounds.
 

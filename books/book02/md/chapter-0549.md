@@ -1,9 +1,11 @@
+---
 Title:Big Army Suppressing the City 
 Chapter:549 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Big Army Suppressing the City
 ### Chapter 549
@@ -54,7 +56,11 @@ Over two hundred of the Blackgod's elite were mounted atop snow wolves, and were
 
 "Look at that formation - just look at it. There is no way Han Sen can take on a force like that. Do you think he'll end up surrendering?"
 
-…
+<br>
+
+*****
+
+<br>
 
 The commoners of the Goddess Shelter were in heated discussion about the events currently unfolding.
 

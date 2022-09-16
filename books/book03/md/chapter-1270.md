@@ -1,9 +1,11 @@
+---
 Title:Blue Blood 
 Chapter:1270 
 Section:3 
 Book:3 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Blue Blood
 ### Chapter 1270

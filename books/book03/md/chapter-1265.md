@@ -1,9 +1,11 @@
+---
 Title:Blueblood Team 
 Chapter:1265 
 Section:3 
 Book:3 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Blueblood Team
 ### Chapter 1265

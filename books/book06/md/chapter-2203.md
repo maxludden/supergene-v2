@@ -1,9 +1,11 @@
+---
 Title:Shadow Toxic Bee Enclave 
 Chapter:2203 
 Section:9 
 Book:6 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Shadow Toxic Bee Enclave
 ### Chapter 2203
@@ -58,7 +60,7 @@ As Night River King wrestled with various ideas, the blue shield suddenly disapp
 
 Soon after, Night River King realized that his assumption hadn’t been quite right. When a fair number of those Shadow Bees came racing in, the shield was raised once more. Most of the Shadow Bees were still on the outside, but a decent chunk had made it in.
 
-Whoosh! Whoosh! Whoosh!
+*Whoosh!* *Whoosh!* *Whoosh!*
 
 Black arrows began flying beneath the shield. Not long after, a dozen of the Shadow Bees on the inside were slain.
 
@@ -80,13 +82,13 @@ The Shadow Bee was shining red. When the arrow pierced its body, the arrow came 
 
 “It isn’t easy to kill a Duke Shadow Bee.” Night River King laughed mockingly.
 
-Boom!
+*Boom!*
 
 When the arrow entered the Shadow Bee’s body, it was trapped inside. But then, a scary explosion occurred within the Duke Shadow Bee’s body.
 
 The red light shattered, and a gaping hole was torn in its side. It was heavily injured, and it fell to struggle on the ground.
 
-Boom!
+*Boom!*
 
 Another arrow was fired at it. It pierced through the Shadow Bee via the already-dealt wound. The creature’s head then blew up, bringing a swift end to the Duke Shadow Bee.
 

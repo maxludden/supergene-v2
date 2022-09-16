@@ -1,9 +1,11 @@
+---
 Title:Life Geno Essence Prediction 
 Chapter:675 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Life Geno Essence Prediction
 ### Chapter 675
@@ -94,7 +96,11 @@ He was talking to everyone he knew, telling them each about his conundrum.
 
 "God! You are the strongest person in the Second God's Sanctuary, without a doubt!" Zhu Ting exaggerated.
 
-…
+<br>
+
+*****
+
+<br>
 
 Everyone's reaction was different, but most were driven by simple shock. Zhu Ting told Han Sen that people from the Chen family had come looking for him. They told Zhu Ting to continue being friendly with Han Sen, to see whether or not he himself might one day be on Han Sen's team like Wang Yuhang and Li Xing Lun.
 

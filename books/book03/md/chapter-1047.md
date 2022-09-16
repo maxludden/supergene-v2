@@ -1,9 +1,11 @@
+---
 Title:Killing the Gold Bird 
 Chapter:1047 
 Section:3 
 Book:3 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Killing the Gold Bird
 ### Chapter 1047

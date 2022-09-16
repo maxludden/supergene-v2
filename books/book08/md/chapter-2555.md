@@ -1,9 +1,11 @@
+---
 Title:One Arrow Shocks Ten Thousand Races 
 Chapter:2555 
 Section:12 
 Book:8 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## One Arrow Shocks Ten Thousand Races
 ### Chapter 2555
@@ -52,7 +54,7 @@ Seeing that Han Sen on the cusp of firing an arrow, Autumn Wind finally shouted,
 
 Han Sen ignored his plight. It had been so hard to pull the string of that bow; after all that work, he was definitely going to fire it.
 
-Whoosh!
+*Whoosh!*
 
 When Han Sen released the bowstring, it broke the fabric of space. The arrow flew out, disappearing from everyone’s vision.
 

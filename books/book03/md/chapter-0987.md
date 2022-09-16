@@ -1,9 +1,11 @@
+---
 Title:Dry Angel Corpses 
 Chapter:987 
 Section:3 
 Book:3 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Dry Angel Corpses
 ### Chapter 987
@@ -24,7 +26,11 @@ viewport: width=device-width
 
 “This will be a rare spectacle; we must definitely get there soon.”
 
-…
+<br>
+
+*****
+
+<br>
 
 Countless spirits went to Shen Xiao to witness this fight. And as cold as ever, Split-Space King accepted the terms of the fight and said, “Pah! What a fool. ‘Tis a waste of life, challenging me to a self fight.”
 
@@ -54,7 +60,11 @@ When Split-Space King arrived, the spirits were overjoyed and their hype reached
 
 “What a coward.”
 
-…
+<br>
+
+*****
+
+<br>
 
 Han Sen was in the underground shelter’s east side, examining a corpse Xu You brought back.
 

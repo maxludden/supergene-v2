@@ -1,9 +1,11 @@
+---
 Title:You Are Han Sen? 
 Chapter:1196 
 Section:3 
 Book:3 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## You Are Han Sen?
 ### Chapter 1196
@@ -92,10 +94,10 @@ It was shocking to see him there fighting like that, as many demigods had believ
 
 The hologram disconnected and then all doors opened. From beyond, the blaring sounds of a siren raised everyone to their feet and incited panic.
 
-Boom!
+*Boom!*
 
 The ship called Universe was shaken, causing everything to be cast around in disarray. It was as if something had rammed the ship.
 
-Boom! Boom! Boom!
+*Boom!* *Boom!* *Boom!*
 
 It kept going, as if a cannon was repeatedly firing at the ship.

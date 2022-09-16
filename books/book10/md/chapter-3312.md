@@ -1,9 +1,11 @@
+---
 Title:Managerf 
 Chapter:3312 
 Section:17 
 Book:10 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Managerf
 ### Chapter 3312

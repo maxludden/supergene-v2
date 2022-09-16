@@ -1,9 +1,11 @@
+---
 Title:Invitation 
 Chapter:597 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Invitation
 ### Chapter 597
@@ -24,7 +26,7 @@ He then watched the lady spirit move towards the cracks in the ground that the s
 
 Then, with her remaining gold sword, she swirled and twirled it around in the air. After a while of doing this, Han Sen suddenly felt the ground begin to rumble like an earthquake. Then a squealing noise sounded from below the earth as plumes of dust shot out of the crevice like a dirty exhaust.
 
-Boom!
+*Boom!*
 
 The spirit lady continued to wave the golden sword in her hand as the silver sword rattled and returned from its earthen sheath. Through magic, it floated in the air and twirled around the spirit lady in a similar way to the golden sword, until it reached the hand that awaited its return.
 

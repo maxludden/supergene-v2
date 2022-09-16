@@ -1,9 +1,11 @@
+---
 Title:Goodbye to Silver Fox 
 Chapter:1025 
 Section:3 
 Book:3 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Goodbye to Silver Fox
 ### Chapter 1025
@@ -68,7 +70,7 @@ The silver fox barked at Han Sen, commanding that he stop following.
 
 Bringing himself back up to his feet, Han Sen was not mad at his behavior. He said, “If you are willingly going back, I won’t stop you. But if someone is making you do something against your own will, I’m not leaving your side.”
 
-Boom!
+*Boom!*
 
 The silver fox shot Han Sen with another bolt of lightning, but after, he looked a little remorseful. He seemed to have been touched by Han Sen’s words, despite his initial reaction.
 

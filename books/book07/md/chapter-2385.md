@@ -1,9 +1,11 @@
+---
 Title:Proud Bone Sword Air 
 Chapter:2385 
 Section:11 
 Book:7 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Proud Bone Sword Air
 ### Chapter 2385
@@ -52,7 +54,7 @@ The crack slowly spread down the sides of the knoll, and it looked as if the lit
 
 The knoll split open, and both the five words and the swordmind they provided vanished. After all, the swordmind had been there since the words were first carved into the knoll. When the words disappeared, so too would the swordmind.
 
-Boom!
+*Boom!*
 
 When the knoll cracked open, a sword light emerged. It broke through the distorted dimensions of Rot Bone Mountain and ascended into the sky like a blade splitting through paper.
 

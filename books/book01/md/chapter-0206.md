@@ -1,9 +1,11 @@
+---
 Title:The Battle Between the Angel and the Evil 
 Chapter:206 
 Section:1 
 Book:1 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## The Battle Between the Angel and the Evil
 ### Chapter 206
@@ -30,7 +32,7 @@ In Nalan’s view, Han Sen was indeed among the top players. However, Han Sen’
 
 That person could make a black fist white and a white fist black. Compared to him, Han Sen was not perfect.
 
-Bang!
+*Bang!*
 
 Nalan’s expression suddenly changed, as Han Sen’s fist landed on his arm and threw him away. It was determined as a black fist.
 

@@ -1,9 +1,11 @@
+---
 Title:Cheating 
 Chapter:2610 
 Section:12 
 Book:8 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Cheating
 ### Chapter 2610

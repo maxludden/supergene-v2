@@ -1,9 +1,11 @@
+---
 Title:Geno Hall’s Message 
 Chapter:2670 
 Section:13 
 Book:8 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Geno Hall’s Message
 ### Chapter 2670

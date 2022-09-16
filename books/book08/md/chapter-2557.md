@@ -1,9 +1,11 @@
+---
 Title:Han Family’s Son 
 Chapter:2557 
 Section:12 
 Book:8 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Han Family’s Son
 ### Chapter 2557
@@ -38,7 +40,7 @@ She couldn’t believe this boy, who looked a few years younger than she was her
 
 “Big Sister, what’s wrong?” Han Littleflower saw that Tang Ming’er had frozen. He thought she was injured. He placed his hands on her forehead, preparing to inject power into her body and see where she might be hurt.
 
-Boom!
+*Boom!*
 
 As this happened, the giant demon centipede struggled to pull its head out of the soil. Tang Ming’er was scared again. She fell back.
 
@@ -70,7 +72,11 @@ As the sun was setting, the giant demon centipede ran across the fields. Atop it
 
 If the demon centipede was able to talk, it would probably have been crying something along the lines of, “Gee! Why am I so unlucky?”
 
-…
+<br>
+
+*****
+
+<br>
 
 Han Sen gulped down another King class xenogeneic gene. He had one hundred King class xenogeneic genes.
 

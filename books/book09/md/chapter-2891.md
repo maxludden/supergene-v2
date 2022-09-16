@@ -1,9 +1,11 @@
+---
 Title:Crystallizer High Race 
 Chapter:2891 
 Section:14 
 Book:9 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Crystallizer High Race
 ### Chapter 2891
@@ -30,7 +32,7 @@ When Han Sen’s voice boomed, the race lantern’s words were shining like a su
 
 In that light that shone so bright, Stay Up Late and the other crystallizers had a race mark appear on their foreheads. The shape was like the letters that composed crystallizer, which was the word Han Sen had just written.
 
-Boom!
+*Boom!*
 
 Stay Up Late had already reached King class. He was at the max level. When the crystallizer mark formed, his body quickly changed. He was suddenly made into a deified.
 

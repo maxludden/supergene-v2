@@ -1,9 +1,11 @@
+---
 Title:Shaking Power 
 Chapter:3341 
 Section:17 
 Book:10 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Shaking Power
 ### Chapter 3341

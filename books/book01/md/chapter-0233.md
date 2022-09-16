@@ -1,9 +1,11 @@
+---
 Title:A Natural 
 Chapter:233 
 Section:1 
 Book:1 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## A Natural
 ### Chapter 233

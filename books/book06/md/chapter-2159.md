@@ -1,9 +1,11 @@
+---
 Title:Spell Levels Up 
 Chapter:2159 
 Section:8 
 Book:6 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Spell Levels Up
 ### Chapter 2159
@@ -42,7 +44,7 @@ It was becoming Marquise.
 
 “I wonder if it will develop a new shape. Of course, if the power doesn’t increase proportionately, then this geno art wouldn’t be very well-balanced. The resources consumed thus far would be a waste, and I’m not even sure if there would be any point carrying on with its practice.” The Spell armor began to glow with holy light. Spell was now shining as brightly as a sun.
 
-Boom!
+*Boom!*
 
 Han Sen’s body shook, and then the armor disappeared. It took on the shape of a lady standing directly in front of Han Sen.
 
@@ -50,7 +52,7 @@ The lady was covered in a holy light, and her hair waved like sunbeams. The two 
 
 Han Sen’s body felt like a fast-flowing waterfall was rushing through it. His body connected with Spell’s energy and began glowing extremely strongly.
 
-Boom!
+*Boom!*
 
 Finally, Spell’s light started to explode like a volcano, and a holy light fired into the sky. Spell’s body floated in the midst of that holy geyser of light, and a strange Spell symbol appeared on her forehead.
 

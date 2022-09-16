@@ -1,9 +1,11 @@
+---
 Title:Moon God’s Lesson 
 Chapter:1864 
 Section:7 
 Book:5 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Moon God’s Lesson
 ### Chapter 1864
@@ -22,7 +24,7 @@ The Rebate had only ever managed to reach thirty-six moons, but that prestigious
 
 After that, though, no more moons rose. It brought the Nobles a modicum of relief. If it kept going, they were going to doubt everything they had thought true in their lives.
 
-Boom!
+*Boom!*
 
 Just as everyone thought Han Sen’s blessings had come to an end, the seventy-two moons atop Moon Palace shone with exuberant brilliance. Basking in the glow of seventy-two casts of moonlight, Moon God Palace was luminous. The cells in Han Sen’s body rapidly began to change, as a result.
 
@@ -38,7 +40,7 @@ When Jadeskin reached Viscount status, the moonlight across the palace was final
 
 Quickly, the moonlight around Moon God Palace began to evaporate until there was nothing left. Han Sen was left standing in the hall, looking up at the seventy-two moons. Suddenly, they started to shine again like suns.
 
-Boom!
+*Boom!*
 
 The seventy-two moons began shining back down into the hall, with a focus on one spot in particular.
 

@@ -1,9 +1,11 @@
+---
 Title:Better Stamina 
 Chapter:93 
 Section:1 
 Book:1 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Better Stamina
 ### Chapter 93

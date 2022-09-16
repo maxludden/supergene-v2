@@ -1,9 +1,11 @@
+---
 Title:Luring Super Creatures 
 Chapter:845 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Luring Super Creatures
 ### Chapter 845
@@ -94,6 +96,6 @@ The strange bird cawed to the skies, as if it were sending an SOS signal to the 
 
 The silver fox, who was perched on Han Sen's shoulder, suddenly opened its mouth and fired a thunderbolt at the minotaur.
 
-Boom!
+*Boom!*
 
 The advantage the minotaur had just gained on Han Sen quickly disappeared. As the minotaur was unable to follow-up with an additional attack, the silver fox saved its master by delivering an unavoidable bolt of lightning to the minotaur.

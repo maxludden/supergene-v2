@@ -1,9 +1,11 @@
+---
 Title:Becoming a Leader Again 
 Chapter:3395 
 Section:17 
 Book:10 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Becoming a Leader Again
 ### Chapter 3395

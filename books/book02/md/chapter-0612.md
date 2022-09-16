@@ -1,9 +1,11 @@
+---
 Title:Obtaining the Treasure 
 Chapter:612 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Obtaining the Treasure
 ### Chapter 612

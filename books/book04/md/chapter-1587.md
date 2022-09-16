@@ -1,9 +1,11 @@
+---
 Title:Death Goddess 
 Chapter:1587 
 Section:4 
 Book:4 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Death Goddess
 ### Chapter 1587

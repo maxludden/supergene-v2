@@ -1,9 +1,11 @@
+---
 Title:Three-life Fruit 
 Chapter:1245 
 Section:3 
 Book:3 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Three-life Fruit
 ### Chapter 1245

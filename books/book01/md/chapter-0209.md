@@ -1,9 +1,11 @@
+---
 Title:Domineering Dollar 
 Chapter:209 
 Section:1 
 Book:1 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Domineering Dollar
 ### Chapter 209
@@ -78,7 +80,7 @@ Even though Dollar’s strength was similar to his, Dollar would lose his balanc
 
 There was a dull noise of metal on metal.
 
-Bang!
+*Bang!*
 
 Son of Heaven was blown away by Han Sen. He was only able to steady himself after a few seconds and his face darkened.
 
@@ -88,7 +90,7 @@ Thumb who had to come to Dollar growled and attacked with his broadsword.
 
 However, Han Sen's katana was so fast that when Thumb had only drawn his broadsword, Han Sen’s Katana was already hitting his shield.
 
-Bang!
+*Bang!*
 
 Thumb was also blown away, which shocked Son of Heaven even more. He had seen Thumb's strength and how great his shield was. Dollar could ignore Thumb and his shield, which made him wonder how strong Dollar was right now.
 

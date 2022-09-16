@@ -1,9 +1,11 @@
+---
 Title:Blood Legion’s Secret 
 Chapter:1412 
 Section:4 
 Book:4 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Blood Legion’s Secret
 ### Chapter 1412
@@ -60,7 +62,7 @@ Like a boxing bag propped up for training, Han Sen unleashed all the power he co
 
 “Alu-Alu-Alu!” The excitement of this ability to punch with manic speed and wretched power was a thrill like no other, and Han Sen imagined himself as Xie Qing King, pummeling an unfortunate foe into oblivion. To destroy with nothing but one’s fist instigated a primal ecstasy.
 
-Boom!
+*Boom!*
 
 Mister Li was sent flying once more, and he crashed against the coffin.
 

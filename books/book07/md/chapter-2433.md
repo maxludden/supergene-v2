@@ -1,9 +1,11 @@
+---
 Title:Dead Lock 
 Chapter:2433 
 Section:11 
 Book:7 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Dead Lock
 ### Chapter 2433

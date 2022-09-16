@@ -1,9 +1,11 @@
+---
 Title:The Red Mist in the Valley 
 Chapter:1869 
 Section:7 
 Book:5 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## The Red Mist in the Valley
 ### Chapter 1869

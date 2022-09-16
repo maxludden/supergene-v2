@@ -1,9 +1,11 @@
+---
 Title:Every God Helps the Buddha 
 Chapter:2889 
 Section:14 
 Book:9 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Every God Helps the Buddha
 ### Chapter 2889

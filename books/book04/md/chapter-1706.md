@@ -1,9 +1,11 @@
+---
 Title:The Outside World 
 Chapter:1706 
 Section:5 
 Book:4 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## The Outside World
 ### Chapter 1706

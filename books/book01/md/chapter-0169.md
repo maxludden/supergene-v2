@@ -1,9 +1,11 @@
+---
 Title:Just Awesome 
 Chapter:169 
 Section:1 
 Book:1 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Just Awesome
 ### Chapter 169
@@ -14,7 +16,7 @@ viewport: width=device-width
   
 
   
-Bang!
+*Bang!*
 
 Han Sen punched Yu Mingzhi on the arm. Yu’s face suddenly froze. He thought this punch was thrown with the yin force and used only one arm to block Han Sen’s fist. But the fierce punch was actually a black fist, which was a yang force, and Yu’s arm was smashed into his own face.
 
@@ -58,7 +60,7 @@ Even if it was just a practice between friends, as long as the punch was thrown 
 
 "White fist." Yu Mingzhi confirmed his own judgment, and put two arms across his chest to block the punch.
 
-Bang!
+*Bang!*
 
 Yu Mingzhi’s face turned ashy grey and was only able to stabilize his body after stepping back. He looked at Han Sen, astonished. It was impossible.
 

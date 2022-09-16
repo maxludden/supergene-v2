@@ -1,9 +1,11 @@
+---
 Title:Simple Version of the Frost Sutra 
 Chapter:1088 
 Section:3 
 Book:3 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Simple Version of the Frost Sutra
 ### Chapter 1088

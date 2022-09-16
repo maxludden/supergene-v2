@@ -1,9 +1,11 @@
+---
 Title:A Ritual Between Men 
 Chapter:32 
 Section:1 
 Book:1 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## A Ritual Between Men
 ### Chapter 32
@@ -70,7 +72,7 @@ Han Sen looked calm, but secretly sneered. "Nothing is better for wrestling than
 
 Leaning to one side, Han Sen avoided his knee and stuck a leg behind his leg on the ground. Han Sen’s also clamped the young man’s neck and pulled hard.
 
-Bang!
+*Bang!*
 
 The young man suddenly lost his balance and fell to the floor.
 

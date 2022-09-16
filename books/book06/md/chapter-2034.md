@@ -1,9 +1,11 @@
+---
 Title:God Spirits Glory 
 Chapter:2034 
 Section:8 
 Book:6 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## God Spirits Glory
 ### Chapter 2034
@@ -32,7 +34,7 @@ Han Sen did not plan on evading it, though. The Demon-Dragon pierced through Han
 
 He did not have much time. Super god spirit mode would only run for a short while, and if he could not kill Sharon in that window, he’d be very dead.
 
-Boom!
+*Boom!*
 
 Sharon’s dragon wings flapped, and again, he disappeared.
 

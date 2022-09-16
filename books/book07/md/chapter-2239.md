@@ -1,9 +1,11 @@
+---
 Title:Shocking Changes 
 Chapter:2239 
 Section:10 
 Book:7 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Shocking Changes
 ### Chapter 2239
@@ -64,7 +66,7 @@ Before Han Sen could say anything more, Little Angel flapped her angel wings, fl
 
 Han Sen felt a raw surge of power enter him through his mouth. Little Angel’s entire body was glowing with holy light, and that holy light rushed right into Han Sen.
 
-Boom!
+*Boom!*
 
 Angel wings spread from Han Sen’s back as a halo appeared over his head. His entire body shone with white light, and a feathery, angelic sword slid into his hand.
 

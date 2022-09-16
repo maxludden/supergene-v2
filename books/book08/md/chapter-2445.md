@@ -1,9 +1,11 @@
+---
 Title:Tianxia System 
 Chapter:2445 
 Section:12 
 Book:8 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Tianxia System
 ### Chapter 2445
@@ -22,7 +24,11 @@ viewport: width=device-width
 
 “Before he was exposed, no one would have believed he had the gall to disguise himself as a prince of the Extreme King,” Bao Quin responded, his eyes hard.
 
-…
+<br>
+
+*****
+
+<br>
 
 “Slow down!” Bao’er was pushing the white whale through the clouds at an insane speed. Although their transport could move very quickly, it was supposed to be a whale, not a fighter jet. Ning Yue was lying on the floor, clutching a chair while bawling her eyes out. Her face was covered in tears and snot.
 

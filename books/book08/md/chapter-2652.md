@@ -1,9 +1,11 @@
+---
 Title:Headstrong Elder 
 Chapter:2652 
 Section:13 
 Book:8 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Headstrong Elder
 ### Chapter 2652

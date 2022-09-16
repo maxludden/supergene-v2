@@ -1,9 +1,11 @@
+---
 Title:Devil’s Flame in the 
 Chapter:1676 
 Section:4 
 Book:4 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Devil’s Flame in the
 ### Chapter 1676
@@ -68,13 +70,13 @@ When this weird thing appeared in the sky, Han Sen frowned. He held up his umbre
 
 Han Sen was shocked. The God’s Door was the entrance to the Fifth Sanctuary. It was the way through to the Alliance. Ancient Devil was using the powers of those around to gain access to it
 
-Boom!
+*Boom!*
 
 As Han Sen descended into thought, the air began to tremble and shake. An old and mysterious stone door suddenly appeared.
 
 The gravity came down hard around that area. Ancient Devil opened his eyes and grabbed the demonic sun. When he did, his body was surrounded by a devil’s aura. He looked like a volcano, and he was heading right toward that old gate.
 
-Boom!
+*Boom!*
 
 The world was shaking, and the scary devil flame was unable to open the door.
 

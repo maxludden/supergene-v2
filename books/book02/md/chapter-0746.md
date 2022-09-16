@@ -1,9 +1,11 @@
+---
 Title:Killing the Purple Scorpion 
 Chapter:746 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Killing the Purple Scorpion
 ### Chapter 746

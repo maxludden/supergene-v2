@@ -1,9 +1,11 @@
+---
 Title:Bad News 
 Chapter:2189 
 Section:9 
 Book:6 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Bad News
 ### Chapter 2189

@@ -1,9 +1,11 @@
+---
 Title:Red Mist Mink Beast Soul 
 Chapter:1919 
 Section:7 
 Book:5 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Red Mist Mink Beast Soul
 ### Chapter 1919

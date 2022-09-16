@@ -1,9 +1,11 @@
+---
 Title:Red Crystal 
 Chapter:476 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Red Crystal
 ### Chapter 476

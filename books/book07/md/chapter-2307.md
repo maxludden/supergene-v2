@@ -1,9 +1,11 @@
+---
 Title:King Dragon 
 Chapter:2307 
 Section:11 
 Book:7 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## King Dragon
 ### Chapter 2307

@@ -1,9 +1,11 @@
+---
 Title:Losing a Blood-pulse 
 Chapter:3176 
 Section:16 
 Book:10 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Losing a Blood-pulse
 ### Chapter 3176
@@ -44,7 +46,7 @@ Suddenly, some god light appeared in space, and a light came down after. It land
 
 By now, everyone was able to understand what had happened. The God Spirit Blood-Pulse that a God Spirit had given to Zhuo Donglai was being taken away. The God Spirit Blood-Pulse was leaving him. The blue lights, which kept shining on him, gradually wore away the gracious image of power that was once Zhuo Donglai. It was like the man’s life force was slowly escaping him. He was sort of like a dead person.
 
-Boom!
+*Boom!*
 
 As Zhuo Donglai’s God Spirit Blood – Pulse faded, his purple mist holy clothes were snatched from his body.
 

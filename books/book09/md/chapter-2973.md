@@ -1,9 +1,11 @@
+---
 Title:Blue Blood Myth 
 Chapter:2973 
 Section:15 
 Book:9 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Blue Blood Myth
 ### Chapter 2973

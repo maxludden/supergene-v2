@@ -1,9 +1,11 @@
+---
 Title:Blue Gold Demon Bug 
 Chapter:2082 
 Section:8 
 Book:6 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Blue Gold Demon Bug
 ### Chapter 2082

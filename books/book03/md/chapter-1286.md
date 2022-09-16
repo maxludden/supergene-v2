@@ -1,9 +1,11 @@
+---
 Title:Blowing Up the Lake 
 Chapter:1286 
 Section:3 
 Book:3 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Blowing Up the Lake
 ### Chapter 1286
@@ -54,7 +56,7 @@ He had lived here for more than a few decades, and this was the first time he ha
 
 A massive light erupted across the whole lake, and that was when Rodman noticed something.
 
-Boom!
+*Boom!*
 
 What he saw then was something he’d likely never forget.
 

@@ -1,9 +1,11 @@
+---
 Title:Powerful Slashing and Killing 
 Chapter:2750 
 Section:13 
 Book:8 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Powerful Slashing and Killing
 ### Chapter 2750

@@ -1,9 +1,11 @@
+---
 Title:The Story of Genes Leveling Up to King Class 
 Chapter:2496 
 Section:12 
 Book:8 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## The Story of Genes Leveling Up to King Class
 ### Chapter 2496

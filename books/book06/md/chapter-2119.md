@@ -1,9 +1,11 @@
+---
 Title:Dollar Shows Off 
 Chapter:2119 
 Section:8 
 Book:6 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Dollar Shows Off
 ### Chapter 2119

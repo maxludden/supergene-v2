@@ -1,9 +1,11 @@
+---
 Title:The King Is Back 
 Chapter:490 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## The King Is Back
 ### Chapter 490
@@ -90,7 +92,11 @@ Fang Mingquan played the video in his show and announced the return of Dollar wi
 
 "It is the official platform, so we can all go check it out. It seems that he has fought a lot."
 
-…
+<br>
+
+*****
+
+<br>
 
 Just like this, a large number of people flooded into the official platform, and many among them tried to send Dollar friend requests.
 

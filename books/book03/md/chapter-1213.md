@@ -1,9 +1,11 @@
+---
 Title:Blood Contract 
 Chapter:1213 
 Section:3 
 Book:3 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Blood Contract
 ### Chapter 1213

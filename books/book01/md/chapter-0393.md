@@ -1,9 +1,11 @@
+---
 Title:Golden Growler Again 
 Chapter:393 
 Section:1 
 Book:1 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Golden Growler Again
 ### Chapter 393
@@ -18,7 +20,18 @@ Han Sen spent two more days in Devil Desert and found no more sacred-blood creat
 
 To Han Sen's surprise, golden rock worm king had accomplished its transformation.
 
-Super Golden rock worm king: pet (evolved and transformed)
+<div class="tables">
+    <table class="beast">
+        <tr>
+            <th>Beast Soul</th>
+        </tr><tr>
+            <td>Super Golden Rock-Worm King<br>
+                <span class="type">(Pet)</span><br>
+                <span class="note">Note: Evoleved and Transformed</span></td>
+        </tr>
+    </table>
+    <!--Super Golden rock worm king: pet (evolved and transformed)-->
+</div>
 
 Seeing the golden rock worm king that had finished its transformation, Han Sen felt dumbstruck. Its gigantic body had become much smaller after transformation. It used to be the size of a bus but had shrunk to the size of a car.
 

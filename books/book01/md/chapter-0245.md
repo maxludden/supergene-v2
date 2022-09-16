@@ -1,9 +1,11 @@
+---
 Title:Beetle Knight 
 Chapter:245 
 Section:1 
 Book:1 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Beetle Knight
 ### Chapter 245
@@ -66,7 +68,7 @@ Jumping out of the water, Han Sen threw another punch at the creature, who learn
 
 Unfortunately, Han Sen was using the yang force this time. With the clockwise spinning, Han Sen's fist was drawn toward the creature's chest even faster.
 
-Boom!
+*Boom!*
 
 The sacred-blood creature fell in the water with a splash.
 

@@ -1,9 +1,11 @@
+---
 Title:Strange Stone Hall 
 Chapter:2219 
 Section:10 
 Book:7 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Strange Stone Hall
 ### Chapter 2219

@@ -1,9 +1,11 @@
+---
 Title:Must Save Her 
 Chapter:3446 
 Section:17 
 Book:10 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Must Save Her
 ### Chapter 3446
@@ -22,7 +24,7 @@ Bird Elder did not care much for the presence of the golden door. They had seen 
 
 Without hesitation, they increased the voltage of their outgoing powers. They attacked the golden door Golden Growler was releasing.
 
-Boom!
+*Boom!*
 
 The five powers that could destroy the sky and the ground crashed into the door. It made the golden door echo with sound, but their powers could not break open the golden door.
 

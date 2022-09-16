@@ -1,9 +1,11 @@
+---
 Title:Nothing Out of the Ordinary 
 Chapter:2194 
 Section:9 
 Book:6 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Nothing Out of the Ordinary
 ### Chapter 2194

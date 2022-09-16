@@ -1,9 +1,11 @@
+---
 Title:New Opponent 
 Chapter:3429 
 Section:17 
 Book:10 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## New Opponent
 ### Chapter 3429
@@ -102,6 +104,6 @@ Human King had just shocked the entire world. He had obtained Qin Xiu’s body a
 
 Han Sen was in the arena. He did not watch Qin Xiu and Human King fight. He did not know the person he needed to fight had been beaten by Human King.
 
-Boom! Boom!
+*Boom!* *Boom!*
 
 Han Sen had been waiting there for a long time before the invisible barrier finally fell. That meant his new opponent had arrived.

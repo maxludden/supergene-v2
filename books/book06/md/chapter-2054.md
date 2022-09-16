@@ -1,9 +1,11 @@
+---
 Title:The Power of the Blood-pulse Sutra 
 Chapter:2054 
 Section:8 
 Book:6 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## The Power of the Blood-pulse Sutra
 ### Chapter 2054

@@ -1,9 +1,11 @@
+---
 Title:Gold Armor General 
 Chapter:2513 
 Section:12 
 Book:8 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Gold Armor General
 ### Chapter 2513

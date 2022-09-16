@@ -1,9 +1,11 @@
+---
 Title:Fighting Face to Face 
 Chapter:2412 
 Section:11 
 Book:7 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Fighting Face to Face
 ### Chapter 2412
@@ -22,7 +24,7 @@ The Dongxuan Armor was only on its first tier. Although it was the best when com
 
 “If Dongxuan Armor can level up to its ninth tier and be reset, then the combination of Move Mountain Area and the Dongxuan Area will make fighting a deified xenogeneic face-to-face quite feasible,” Han Sen thought to himself.
 
-Boom!
+*Boom!*
 
 As Han Sen was thinking, the core furnace was opening to absorb as much universal energy as it could. The furnace’s fire flared up brightly.
 
@@ -82,7 +84,7 @@ When the furnace groaned, countless swords received their fire buff. That put th
 
 Dragon One and Dia Robber started to fall back. The stream of swords was too frightening. After that hit, the furnace was sure to become deified. Once that happened, they would have no hope of escaping.
 
-Ding!
+*Ding!*
 
 Han Sen finally fired his coin at the smithy furnace. It flew toward the furnace in a streak of gold light.
 

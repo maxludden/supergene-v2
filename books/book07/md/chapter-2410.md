@@ -1,9 +1,11 @@
+---
 Title:Stream of Swords 
 Chapter:2410 
 Section:11 
 Book:7 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Stream of Swords
 ### Chapter 2410
@@ -50,7 +52,11 @@ After the big copper furnace heard what it was told, it became enraged. It relea
 
 The swords received the fire area’s buff, and their powers rose to a terrifying level.
 
-…
+<br>
+
+*****
+
+<br>
 
 Dragon One was flying through space. After Dia Robber left, he went around, following in the direction Han Sen had gone. He kept on the move, but he didn’t see Han Sen.
 

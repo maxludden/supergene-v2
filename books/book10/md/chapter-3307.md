@@ -1,9 +1,11 @@
+---
 Title:Who Is Evil? 
 Chapter:3307 
 Section:17 
 Book:10 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Who Is Evil?
 ### Chapter 3307
@@ -34,7 +36,7 @@ The star tyrannosaurus rex madly approached. Lin Feng was unable to fight it. Li
 
 “Roar!” A mad roar shook the ground. The shadow of a gold beast flew to the scene. It struck the star tyrannosaurus rex and its light.
 
-Boom!
+*Boom!*
 
 The ground quaked. The ultimate light and gold light shadow fell back. The gold light shadow was Golden Growler.
 
@@ -48,7 +50,7 @@ On the other side, Gu Qingcheng and Huangfu Jing stopped following the white tig
 
 Gu Qingcheng’s sword was like a shocking flood. An overbearing sword air was blown into the sky, but it only managed to stop a few of the four-winged white tiger’s attacks.
 
-Boom! Boom! Boom! Boom! Boom! Boom!
+*Boom!* *Boom!* *Boom!* *Boom!* *Boom!* *Boom!*
 
 The ground was shaking. The forests were shaking. A steel tree at the end of the forest, which was as tall as a tower, was coming. It was a plant Break World beast. It was headed for the human city in Space Garden.
 
@@ -96,7 +98,7 @@ His fist was bigger than a room. The fist’s shadow covered both Sheep and Ning
 
 “No, I do not have a pussy son like you.” The giant fist of the nine-headed monster continued its damning descend downward.
 
-Boom!
+*Boom!*
 
 The rocks around them fell as the ground was punctured. The impact left a deep hole. Sheep was holding his legs. As he laid on the floor with his eyes closed, he screamed, “I am going to die… I am going to die…”
 

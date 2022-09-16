@@ -1,9 +1,11 @@
+---
 Title:Skinning Hide 
 Chapter:3132 
 Section:16 
 Book:10 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Skinning Hide
 ### Chapter 3132

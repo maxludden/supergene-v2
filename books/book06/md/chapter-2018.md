@@ -1,9 +1,11 @@
+---
 Title:Touching a Gemstone 
 Chapter:2018 
 Section:8 
 Book:6 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Touching a Gemstone
 ### Chapter 2018
@@ -18,7 +20,7 @@ viewport: width=device-width
 
 Dream Beast did not say anything, but his eyes flashed. Han Sen felt a power come upon him, and his heavy body started to fly.
 
-Splash!
+*Splash!*
 
 Han Sen flew over the lake and dropped into it.
 

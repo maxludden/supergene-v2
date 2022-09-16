@@ -1,9 +1,11 @@
+---
 Title:In Front of Cold Palace 
 Chapter:2191 
 Section:9 
 Book:6 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## In Front of Cold Palace
 ### Chapter 2191
@@ -46,7 +48,7 @@ Time ticked by, and the jade toad was on the verge of coming out. But even so, H
 
 “Whatever happens next, you had it coming. If you die, you die. If you honestly think I will make an effort to save you, you are gravely mistaken. When Knife was still around, I wouldn’t have allowed you to die in my proximity, but now that she’s gone…” Night River King’s smile was full of teeth.
 
-Boom!
+*Boom!*
 
 The door of the stone house opened, and a gust of frosty air came out. It washed out like a tide, freezing the whole area around the house. It turned the basin of water into an iced-over lake.
 

@@ -1,9 +1,11 @@
+---
 Title:Ghost-sword Comes 
 Chapter:1028 
 Section:3 
 Book:3 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Ghost-sword Comes
 ### Chapter 1028

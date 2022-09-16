@@ -1,9 +1,11 @@
+---
 Title:Claiming the Empress 
 Chapter:803 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Claiming the Empress
 ### Chapter 803
@@ -24,7 +26,7 @@ The white lightning came out from near Han Sen's waist, and its origin point was
 
 The white-lightning fox ended up being two meters tall, and from this newly formed creation, lightning sparkled across its fur. It was an immaculate creature; one that was truly beautiful. But at the same time, it exuded an intimidating presence, and it possessed a power that could almost be felt. It was difficult to look upon it straight.
 
-Boom!
+*Boom!*
 
 The silver lightning fox became a shadow, and it quickly appeared in front of the spirit like real lightning.
 
@@ -38,7 +40,7 @@ Beneath the continuing, greater discharges, her armor suffered more and more cra
 
 The thunder fox turned itself into a lightning bolt, and it repeatedly drove itself into the spirit. Although the spirit could just about dodge many of the attacks, she could not remove herself from the widespread lightning that surrounded each strike.
 
-Crack!
+*Crack!*
 
 The spirit's armor could no longer withstand the constant current of electricity. It shattered into tiny pieces.
 

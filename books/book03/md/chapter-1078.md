@@ -1,9 +1,11 @@
+---
 Title:This Is Not My Road 
 Chapter:1078 
 Section:3 
 Book:3 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## This Is Not My Road
 ### Chapter 1078
@@ -38,7 +40,7 @@ As he heard the words spoken, he felt a new strength course through his body. If
 
 Han Sen’s energy combined with this power, becoming one.
 
-Boom!
+*Boom!*
 
 The Dongxuan Sutra suddenly opened a new gene lock, much to his utter shock.
 

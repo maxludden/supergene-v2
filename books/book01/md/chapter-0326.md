@@ -1,9 +1,11 @@
+---
 Title:Sparring Partner 
 Chapter:326 
 Section:1 
 Book:1 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Sparring Partner
 ### Chapter 326
@@ -56,7 +58,7 @@ Han Sen used all kinds of methods to fight QZH and stimulated the vitality of hi
 
 In the beginning, Overload only had limited effects. Han Sen had to make breakthroughs under the state of Overload in order to enhance its effects.
 
-Bang!
+*Bang!*
 
 In half an hour, Han Sen was defeated by QZH.
 

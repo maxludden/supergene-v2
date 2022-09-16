@@ -1,9 +1,11 @@
+---
 Title:God Chaos Party 
 Chapter:3143 
 Section:16 
 Book:10 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## God Chaos Party
 ### Chapter 3143
@@ -52,7 +54,7 @@ Suddenly, the entire guillotine released extremely scary purple and black flames
 
 In the next second, the doll let go of the rope and let it fall. The heavy blade went down like it was insane. It snapped itself into the guillotine very hard.
 
-Boom! The guillotine exploded. It was like hell cutting open a door. Countless scary spirits emerged. It was very scary. The purple and black flames incinerated everything.
+*Boom!* The guillotine exploded. It was like hell cutting open a door. Countless scary spirits emerged. It was very scary. The purple and black flames incinerated everything.
 
 The small, flying fish was in front of Han Sen. Its body was puffed up like a circular ball. It spewed white fire and fought the scary power that the guillotine had produced.
 
@@ -86,7 +88,7 @@ The doll laughed weirdly and interrupted Li Bing Yu. “You know nothing. The Go
 
 “What a shame,” Decapitation Queen said. “The small flying fish would have fit in well with the God Chaos Party and become a real god, but it is now fighting me. That means you will all have to die.” She pulled the cord and lifted the blade to its highest point.
 
-Boom!
+*Boom!*
 
 The heavy blade descended. The guillotine released scary purple and black flames. Countless evil spirits burst out like it was the end of the world.
 

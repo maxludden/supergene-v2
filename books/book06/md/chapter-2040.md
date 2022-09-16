@@ -1,9 +1,11 @@
+---
 Title:Entering the Dragon Pool Again 
 Chapter:2040 
 Section:8 
 Book:6 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Entering the Dragon Pool Again
 ### Chapter 2040

@@ -1,9 +1,11 @@
+---
 Title:Sword From the Furnace 
 Chapter:2409 
 Section:11 
 Book:7 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Sword From the Furnace
 ### Chapter 2409

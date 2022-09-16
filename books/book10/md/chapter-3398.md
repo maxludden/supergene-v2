@@ -1,9 +1,11 @@
+---
 Title:Bao'er's Weakness 
 Chapter:3398 
 Section:17 
 Book:10 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Bao'er's Weakness
 ### Chapter 3398

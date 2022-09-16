@@ -1,9 +1,11 @@
+---
 Title:Han Sen's Galaxy Teleportation 
 Chapter:2862 
 Section:14 
 Book:9 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Han Sen's Galaxy Teleportation
 ### Chapter 2862

@@ -1,9 +1,11 @@
+---
 Title:Moment God 
 Chapter:2966 
 Section:15 
 Book:9 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Moment God
 ### Chapter 2966
@@ -64,7 +66,7 @@ It had not really stopped moving. The green-haired beast’s light pillar was fa
 
 The Gana woman’s hands clutched a crystal ball. The crystal ball had some red light, but the light was being absorbed by the time power outside of Golden Growler. It was not able to erase the time power inside.
 
-Boom! Boom! Boom!
+*Boom!* *Boom!* *Boom!*
 
 Moment God Temple’s door opened. A female God Spirit body, which looked very tall and slim, emerged. She was wearing black, tight armor. She looked cold. She did not look human at all.
 

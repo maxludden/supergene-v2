@@ -1,9 +1,11 @@
+---
 Title:Purple Copper Jian 
 Chapter:2585 
 Section:12 
 Book:8 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Purple Copper Jian
 ### Chapter 2585
@@ -42,7 +44,7 @@ The jian’s mysterious patterns glowed with purple light, and then a scary stor
 
 Han Sen held onto the jian. He lodged his feet against the rocks, and he tried to pull the purple copper jian free. After trying his hardest, though, he couldn’t get it to budge. If anything, the storms of the jian became even stronger. It made Han Sen’s feather robe and hair billow.
 
-Boom!
+*Boom!*
 
 Han Sen could no longer withstand that scary storm, so he was blown away. He bounced off a few rocks, but the wind was so strong that it continued to push him until he was thrown out of the cave.
 

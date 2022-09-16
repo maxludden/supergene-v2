@@ -1,9 +1,11 @@
+---
 Title:Blood-pulse Plunder 
 Chapter:2274 
 Section:10 
 Book:7 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Blood-pulse Plunder
 ### Chapter 2274

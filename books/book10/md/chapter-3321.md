@@ -1,9 +1,11 @@
+---
 Title:Item Nobody Owns 
 Chapter:3321 
 Section:17 
 Book:10 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Item Nobody Owns
 ### Chapter 3321
@@ -22,7 +24,7 @@ Regarding the Break World rate, this Break World beast was much stronger than Ha
 
 The 33 skies were in between two worlds. Within that emptiness, the Break World beast emerged from the universe of kingdoms. The geno universe could witness this too. When it came before the 33 skies, there was an invisible barrier that prevented those from the outside from approaching.
 
-Boom! Boom! Boom!
+*Boom!* *Boom!* *Boom!*
 
 The dragon-looking Break World beast roared madly. The old swords were like a river bent on striking the 33 skies. The old swords were blocked by an invisible power. They were broken, as was the creature’s advance. It could not go forward.
 
@@ -40,7 +42,7 @@ Still, the Break World beast did not stop there. It used its body to strike the 
 
 “Back in the day, the God Chaos Party fought against a sky full of God Spirits,” big sky demon said. “They almost managed to destroy the geno hall. The primary reason for doing that was the geno tablet. It was the foundation for a new god world. You had to control the geno tablet to overturn the geno hall and make a new order and kingdom. Even killing God Spirits was a futile endeavor. If the geno hall was still there, and the God Spirits had all been killed, the geno halls would just spawn more God Spirits. Just like back then, when the old leader died for rebooting the universe, the geno hall had a new master.”
 
-Boom!
+*Boom!*
 
 The dragon-like Break World beast was covered in blood. Its dragon horns broke, and its scales started to flake away. There was a sky full of beast blood. It was pouring down everywhere. It was hard to tell whether or not the creature was dead or alive.
 

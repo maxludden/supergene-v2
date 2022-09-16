@@ -1,9 +1,11 @@
+---
 Title:Super Meat 
 Chapter:395 
 Section:1 
 Book:1 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Super Meat
 ### Chapter 395
@@ -22,7 +24,7 @@ Han Sen was confident to kill the golden growler at this point. All he needed to
 
 Being blind, the golden growler could no longer tell which direction it was going. Its eyes were bleeding, but the blood was going back into its injuries. It looked like it was healing.
 
-Bang bang!
+*Bang! bang!*
 
 All the rocks and trees were knocked away by the golden growler. The creature eventually entered Dark Swamp.
 
@@ -60,7 +62,8 @@ After all, the golden growler had not grown as strong as its mother. It was only
 
 If the golden growler had become as strong as its parent, Han Sen was afraid that the entire Steel Armor Shelter would be crushed by the creature. At that point, Han Sen could not guarantee he would be able to stop it.
 
-> "Super Creature Golden Growler Killed. Beast Soul Of Golden Growler Gained. Life Essence Available. Meat Edible."
+> "Super Golden Growler killed. Beast sould of Golden Growler gained. Life essence available. Meat edible. Consume its life essence to gain zero to ten super geno points randomly."
+<!--"Super Creature Golden Growler Killed. Beast Soul Of Golden Growler Gained. Life Essence Available. Meat Edible."-->
 
 Watching the dead golden growler, Han Sen was dazed. This time, the voice was different from before. Han Sen was happy that he was able to gain the beast soul of the golden growler. However, after killing several super creatures, it was the first time the body of the creature did not disappear.
 
@@ -78,7 +81,7 @@ Han Sen almost tore its entire body up to find the golden crystal in its skull. 
 
 Han Sen quickly licked at the crystal. As he drank the golden liquid, he felt his entire body was on fire. Strength was instilled into his body cells, making his entire body stronger.
 
-> "Life Essence Of Golden Growler Consumed. One Super Geno Point Gained."
+> "Life essence of Golden Growler consumed. One super geno point gained."
 
 Hearing the wonderful voice in his mind, Han Sen almost laughed out loud. He licked the crystal faster.
 

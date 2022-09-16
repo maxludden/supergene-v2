@@ -1,9 +1,11 @@
+---
 Title:Haven 
 Chapter:2260 
 Section:10 
 Book:7 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Haven
 ### Chapter 2260
@@ -62,7 +64,11 @@ Han Sen tried to get closer to the blood kirin, as it didn’t seem hostile at a
 
 Han Sen tried to touch the blood kirin, and when he did, the blood kirin didn’t shy away. Still, it was a very withdrawn creature, and getting close to it was difficult.
 
-…
+<br>
+
+*****
+
+<br>
 
 At the same time, Edward and the others finally found the door of the palace. They were unable to open it, however, so they were still stuck outside.
 
@@ -84,7 +90,11 @@ Mister White rubbed his chin in thought. “The best way to get inside would be 
 
 Mister White then took Crime with him and left. Ice Blue Knight King and Edward remained close to the palace, in case Han Sen ducked out and tried to escape.
 
-…
+<br>
+
+*****
+
+<br>
 
 As Han Sen spoke casually with Fox Queen, he kept his focus on the structure of the prison itself. Almost unexpectedly, he found a way in which he could save Fox Queen, too.
 

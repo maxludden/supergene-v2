@@ -1,9 +1,11 @@
+---
 Title:Giant Prisoners 
 Chapter:2701 
 Section:13 
 Book:8 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Giant Prisoners
 ### Chapter 2701
@@ -82,7 +84,7 @@ Just like before, the two goldfish in the water started to swim in a swift circl
 
 When Han Sen emerged from the Four Sheep Cube, he found himself standing atop that big sea again. The giants had all disappeared. He looked at the sun, and the clock was showing that only a dozen minutes had passed.
 
-Boom!
+*Boom!*
 
 Han Sen suddenly heard a massive explosion come from where the giants had gone. He could feel the spike of power coming from that direction.
 

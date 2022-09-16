@@ -1,9 +1,11 @@
+---
 Title:Spirit Gene 
 Chapter:896 
 Section:3 
 Book:3 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Spirit Gene
 ### Chapter 896

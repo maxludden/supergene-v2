@@ -1,9 +1,11 @@
+---
 Title:Nine-headed Bird 
 Chapter:2353 
 Section:11 
 Book:7 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Nine-headed Bird
 ### Chapter 2353
@@ -94,7 +96,11 @@ Xius and the others were watching the two fight in the sky. As she watched the g
 
 “That king area, at its first tier, is suppressing the half-deified Nine-Headed Bird. The Extreme King are scary!”
 
-…
+<br>
+
+*****
+
+<br>
 
 Nine-Headed Bird, upon hearing these comments, became furious. He knew that Han Sen was much weaker than him, but the Kingese powering Han Sen’s body were simply too powerful. The whole universe and all its creatures were answering to Han Sen. His every punch was combined with the power of the sky and the ground. It was enough to surpass Nine-Headed Bird’s own power.
 

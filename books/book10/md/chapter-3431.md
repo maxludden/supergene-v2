@@ -1,9 +1,11 @@
+---
 Title:Flaws Exposed 
 Chapter:3431 
 Section:17 
 Book:10 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Flaws Exposed
 ### Chapter 3431

@@ -1,9 +1,11 @@
+---
 Title:Cleaning Job 
 Chapter:2216 
 Section:10 
 Book:7 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Cleaning Job
 ### Chapter 2216
@@ -20,7 +22,11 @@ The base had been established there for some time, but xenogeneics emerged const
 
 Han Sen’s mission was to venture into those mountains and clear the creatures out. There were many bird xenogeneics there, and they bred quickly. Han Sen had to wipe out their homes and destroy whatever eggs he could find. If he didn’t, it’d only be a matter of time before they returned.
 
-…
+<br>
+
+*****
+
+<br>
 
 In the midst of those mountains, Han Sen was shelling a few boiled bird eggs. He ate them and frowned.
 

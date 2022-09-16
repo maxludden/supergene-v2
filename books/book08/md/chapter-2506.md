@@ -1,9 +1,11 @@
+---
 Title:Encountering the Black Hole Spider Again 
 Chapter:2506 
 Section:12 
 Book:8 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Encountering the Black Hole Spider Again
 ### Chapter 2506

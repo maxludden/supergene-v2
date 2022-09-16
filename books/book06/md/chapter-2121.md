@@ -1,9 +1,11 @@
+---
 Title:The Name of Dollar 
 Chapter:2121 
 Section:8 
 Book:6 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## The Name of Dollar
 ### Chapter 2121
@@ -18,7 +20,7 @@ Dragon Eight tried to force himself to get up, but the figure on the coin was di
 
 Dragon Eight’s dragon fire was burning like a bonfire, but try as he might to rise, he just couldn’t get back on his feet.
 
-Ding!
+*Ding!*
 
 The number on the coin was now an almighty nine. Dragon Eight couldn’t hold the force back anymore. His hands were pressed into stones that buckled under the weight and crumbled, leaving him to slowly sink into the earth.
 

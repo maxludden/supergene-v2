@@ -1,9 +1,11 @@
+---
 Title:Forming a Stone 
 Chapter:2584 
 Section:12 
 Book:8 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Forming a Stone
 ### Chapter 2584
@@ -42,7 +44,7 @@ The fact that the cave was a dead end wasn’t what had caught their attention, 
 
 Han Sen didn’t recognize the device. Most of it was obscured by the stone that covered it, and only about one foot of it could be seen. The device was purple like copper, and there were some strange symbols carved across it. It looked like the handle of something, but it wasn’t like the grip of a sword or a knife. That was because this handle was only as thick as a couple of Han Sen’s fingers. And even with the little they could see right now, the group knew that it was too long to be a normal handle.
 
-Boom!
+*Boom!*
 
 Han Sen and the others were still looking at that purple copper object that was buried by rocks when suddenly, a weird symbol shone with purple light. And right after, a scary storm came out of the purple object.
 

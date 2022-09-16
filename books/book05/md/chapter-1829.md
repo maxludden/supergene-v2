@@ -1,9 +1,11 @@
+---
 Title:The Knife That Destroys the Sky and Earth 
 Chapter:1829 
 Section:7 
 Book:5 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## The Knife That Destroys the Sky and Earth
 ### Chapter 1829
@@ -44,7 +46,7 @@ Time passed, and Black Steel was unable to find another Duke knife. He hadn’t 
 
 It looked like the Duke knife had exhausted both of their luck.
 
-Boom!
+*Boom!*
 
 The ground began to rumble as the volcano of knives began to rattle and shake again. The pillar fired up into the sky and illuminated the clouds. It made the sky look like an ocean of lava.
 
@@ -52,7 +54,7 @@ The ground began to rumble as the volcano of knives began to rattle and shake ag
 
 Black Steel raised his head and stood up straight. He was holding two knives now. One of them was the horse knife, and the other was a short knife. The latter was an Earl weapon.
 
-Boom!
+*Boom!*
 
 The lava in the sky rumbled and roared like thunder. The knives came soaring down, dripping with the steel juice of their origin.
 
@@ -100,7 +102,7 @@ Han Sen and Black Steel were fighting the knives back-to-back. They both held a 
 
 “F*ck no!” Han Sen slashed, cutting through a number of knives that were about to skewer his head.
 
-Boom!
+*Boom!*
 
 The sky trumpeted with thunderous sounds again. The lava in the sky seemed to explode. The rain poured from the sky. Knives! Countless knives!
 

@@ -1,9 +1,11 @@
+---
 Title:Cinderella 
 Chapter:1600 
 Section:4 
 Book:4 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Cinderella
 ### Chapter 1600
@@ -16,7 +18,7 @@ viewport: width=device-width
   
 “Help me, Little Star.” Han Sen saw Little Silver and Bao’er sitting on the back of Little Star, and nothing seemed to be happening to them. As for Little Star, it didn’t seem to be affected by that pulling force at all. It was floating in the sky, relaxed. Han Sen called for Little Star’s attention, and at the same time, he pulled back his power and stopped fighting that pulling force. Instead, he dived.
 
-Splash!
+*Splash!*
 
 Han Sen fell into the lake. Unexpectedly, the fluorescent lake water wasn’t cold at all, but warm like a hot spring, which was very comfortable.
 

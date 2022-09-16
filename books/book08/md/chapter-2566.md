@@ -1,9 +1,11 @@
+---
 Title:Scary Crocodile God 
 Chapter:2566 
 Section:12 
 Book:8 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Scary Crocodile God
 ### Chapter 2566
@@ -14,7 +16,7 @@ viewport: width=device-width
   
 
   
-Boom!
+*Boom!*
 
 That mysterious Very High Spell broke those new rules of gravity, and Exquisite’s body flashed far away into space until she was gone from sight.
 
@@ -92,7 +94,7 @@ Exquisite and Li Keer looked very surprised. To their knowledge, the core area�
 
 Amidst their confusion, the small Crocodile God found them. Excitement washed over the creature’s face in an almost human expression.
 
-Boom!
+*Boom!*
 
 The small Crocodile God was so excited that a black light began to shine from its body. Han Sen and the others were covered in the light, and then, the three of them dropped to the ground again. They were pinned down, their faces glued to the dirt.
 

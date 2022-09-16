@@ -1,9 +1,11 @@
+---
 Title:A Way 
 Chapter:3444 
 Section:17 
 Book:10 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## A Way
 ### Chapter 3444
@@ -32,7 +34,7 @@ Power was the foundation of an elite, but courage was the soul of an elite. With
 
 “Crape Myrtle, you just got me killed. If you turn me into an idiot, I will curse your son so he does not have a penis.” Han Sen cursed him, but he had to focus if he wanted to fight back against that scary power.
 
-Boom!
+*Boom!*
 
 When the power descended, Han Sen’s brain felt as if it had exploded. It was very oppressive. It was rather like a river. It kept hitting his mental dam, which seemed as if it was going to break any second now.
 

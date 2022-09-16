@@ -1,9 +1,11 @@
+---
 Title:Crazy Creature 
 Chapter:336 
 Section:1 
 Book:1 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Crazy Creature
 ### Chapter 336
@@ -70,7 +72,7 @@ The group felt weird. The stone wall had nothing on it and they wondered what th
 
 As they were wondering, the creature suddenly threw itself hard at the wall as if it was agitated.
 
-Bang! The rocks fell under the impact. However, the stone wall was still intact.
+*Bang!* The rocks fell under the impact. However, the stone wall was still intact.
 
 The creature hit the war again and again in madness and the cracks were growing on the wall, while the creature itself was also injured and covered in blood.
 

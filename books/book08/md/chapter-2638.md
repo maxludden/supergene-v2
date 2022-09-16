@@ -1,9 +1,11 @@
+---
 Title:Demon Abyss Beast King 
 Chapter:2638 
 Section:12 
 Book:8 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Demon Abyss Beast King
 ### Chapter 2638
@@ -70,7 +72,7 @@ The Demon Abyss Beast King screamed weirdly. It flapped its wings, making its bo
 
 Han Sen drew his bow and fired again and again, sending many rainbow light arrows at the Demon Abyss Beast King. The Demon Abyss Beast King didn’t care. Han Sen aimed at several different places across the creature’s body, but wherever his arrows landed, a black hole manifested. The arrows flew into them and disappeared. None of them could deal a speck of damage to the Demon Abyss Beast King’s body.
 
-Boom!
+*Boom!*
 
 The Demon Abyss Beast King opened its mouth. Suddenly, a blue flood poured out of it like a volcano erupting. It was headed straight for Han Sen.
 

@@ -1,9 +1,11 @@
+---
 Title:Outdated Skts 
 Chapter:862 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Outdated Skts
 ### Chapter 862

@@ -1,9 +1,11 @@
+---
 Title:Leftover Power 
 Chapter:2736 
 Section:13 
 Book:8 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Leftover Power
 ### Chapter 2736
@@ -42,7 +44,7 @@ Han Sen lifted the launcher in his arms. He took aim and fired a rocket at the s
 
 The rocket slammed into the center of that stream of punches that was like a river of stars, and then it detonated like a nuclear bomb. The explosion consumed every bit of Shale’s punching power.
 
-Boom!
+*Boom!*
 
 The following eruption looked as if it could melt the entire universe. Inside that beautiful example of Star Explode, there was too much light for the observers to look. They couldn’t see anything.
 

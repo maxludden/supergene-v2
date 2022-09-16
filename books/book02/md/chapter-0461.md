@@ -1,9 +1,11 @@
+---
 Title:The Spirit Showing Fealty 
 Chapter:461 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## The Spirit Showing Fealty
 ### Chapter 461
@@ -58,7 +60,7 @@ Using his brain power, Han Sen was quickly calculating every single possibility.
 
 Han Sen made a step and turned his entire body into jade. If someone could see his body under his armor, they would certainly appreciate how gorgeous and dedicate it looked.
 
-Crack!
+*Crack!*
 
 When Han Sen brushed by a snow wolf, a foot-long cut was made on the shoulder of the snow wolf. Blood jetted out, but the jade-like palm was not even colored by the blood. Han Sen's performance just began.
 

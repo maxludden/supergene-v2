@@ -1,9 +1,11 @@
+---
 Title:The Whole Race Mutates 
 Chapter:2781 
 Section:14 
 Book:9 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## The Whole Race Mutates
 ### Chapter 2781
@@ -48,7 +50,7 @@ But the elites didn’t think that was likely. It simply wasn’t possible. If a
 
 “I want to see what is going on with these guys,” a deified elite said while generating a substance chain. It became a scary bolt of lightning that arose from the ground to strike a Flower God.
 
-Boom!
+*Boom!*
 
 The lightning slammed into the Flower God, blowing the creature’s armor to bits. But the body of the Flower God was still sound. It was crystal clear like jade and wholly untarnished. The head of the Flower God possessed a flower that appeared to be blooming at just the right moment.
 

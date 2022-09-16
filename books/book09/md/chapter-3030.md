@@ -1,9 +1,11 @@
+---
 Title:Not the End 
 Chapter:3030 
 Section:15 
 Book:9 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Not the End
 ### Chapter 3030
@@ -46,7 +48,7 @@ Qin Xiu spoke to the still-suffering God. “God, give up! If you are willing to
 
 God’s body’s holy light was crushed. It was almost put out. Even the bodies of the God Spirits were dim and lifeless. They kept appearing and disappearing. It was like they were preparing to go.
 
-Boom!
+*Boom!*
 
 Many light pillars arose from space. It was the god palaces splitting up. They landed on all kinds of god temples. Many god lights arose from the god temples. They went through space and melted into the geno hall. It made the geno hall look very bright. God’s God Spirit body was being shined on by many God Spirits. He looked bright again.
 

@@ -1,9 +1,11 @@
+---
 Title:Crystal King Armor 
 Chapter:1700 
 Section:5 
 Book:4 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Crystal King Armor
 ### Chapter 1700

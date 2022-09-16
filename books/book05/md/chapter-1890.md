@@ -1,9 +1,11 @@
+---
 Title:Returning to the Red Mist Valley 
 Chapter:1890 
 Section:7 
 Book:5 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Returning to the Red Mist Valley
 ### Chapter 1890
@@ -48,7 +50,11 @@ The Buddha necklace was a high-class treasure, but Han Sen could not use it. May
 
 Yisha was allowing Han Sen to participate in the event, and Han Sen thought it might give him a look into Unlimited Sutra. That would only further his knowledge about the Buddha.
 
-…
+<br>
+
+*****
+
+<br>
 
 After Han Sen left, Yisha picked up a book and got to reading it. She was in a foul mood. Icebird Duke was still missing, someplace on Planet Crooked Rock. And Yisha had no clue whether she was alive or dead.
 

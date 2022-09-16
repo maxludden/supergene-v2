@@ -1,9 +1,11 @@
+---
 Title:Lunatic? 
 Chapter:414 
 Section:1 
 Book:1 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Lunatic?
 ### Chapter 414
@@ -76,11 +78,11 @@ Her body kept shaking as she huddled up.
 
 The evil goblin and the white rhinoceros seemed to be so scared that they each ran away into a stone channel like rabbits. However, they did not dare to go far, but stayed in their own place shivering, checking on the Shura girl from time to time.
 
-Bang!
+*Bang!*
 
 Han Sen heard a loud noise. The Shura girl who was holding her head and moaning in pain suddenly started to bang her head against the floor, smashing the rock into pieces. Although the rock was broken, her head was not even red, but only got dirty with some dust on it.
 
-Bang bang bang!
+*Bang! Bang! Bang!*
 
 Han Sen watched the girl hitting her head against the rock repeatedly and was shocked.
 

@@ -1,9 +1,11 @@
+---
 Title:Fighting for the Sacred Egg 
 Chapter:1579 
 Section:4 
 Book:4 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Fighting for the Sacred Egg
 ### Chapter 1579

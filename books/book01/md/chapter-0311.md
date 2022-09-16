@@ -1,9 +1,11 @@
+---
 Title:Spinning Away 
 Chapter:311 
 Section:1 
 Book:1 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Spinning Away
 ### Chapter 311
@@ -52,7 +54,11 @@ Han Sen's most impressive skill was spinning arrow, with which he beat Jing Jiwu
 
 "Using a 16.0 bow at will, Jing Jiya is more formidable than Jing Jiwu was."
 
-…
+<br>
+
+*****
+
+<br>
 
 At this point, Shi Zhikang, Zhang Yang and Lu Meng all became pale. Shi Zhikang exclaimed, "How come this guy also knows Han Sen's spinning arrow? I've heard that it is almost impossible for an unevolved person to do that."
 

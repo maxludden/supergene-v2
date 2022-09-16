@@ -1,9 +1,11 @@
+---
 Title:Spirit Stone 
 Chapter:460 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Spirit Stone
 ### Chapter 460

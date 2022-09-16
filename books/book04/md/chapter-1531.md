@@ -1,9 +1,11 @@
+---
 Title:Making Something Complicated Something Simple 
 Chapter:1531 
 Section:4 
 Book:4 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Making Something Complicated Something Simple
 ### Chapter 1531

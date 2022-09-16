@@ -1,9 +1,11 @@
+---
 Title:Kill Them All 
 Chapter:157 
 Section:1 
 Book:1 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Kill Them All
 ### Chapter 157
@@ -30,7 +32,12 @@ Scattered attacks were aiming at Silver Killer, which seemed to be able to predi
 
 "Didn’t you hear me say ‘follow my command’?"
 
-...
+<br>
+
+*****
+
+<br>
+
 
 Using the fairy queen, Han Sen could see all the warframes and the movements of their guns. With the strong horsepower of Silver Killer and Han Sen’s excellent operation, he managed to avoid all the attacks.
 
@@ -40,13 +47,13 @@ If the opponents was a real army and there was a real commander, Han Sen and Sil
 
 But luckily, they were but a group of students who had no real experience at war. In addition, they did not come from the same society and many never even worked together before.
 
-Bang!
+*Bang!*
 
 Destroyer was finally finished off. Wang Mengmeng's level of operation was really bad. All she could do was to stand the Destroyer still and use its automatic firing system.
 
 But that was enough for Han Sen. When the Destroyer was wrecked, Han Sen was already less than 30 feet away from his opponents.
 
-Bang!
+*Bang!*
 
 The particle submachine gun ejected bullets, which penetrated and disabled a warframe. Then Silver Killer waltzed away from the intense gunfire and accelerated into the crowd.
 
@@ -54,7 +61,7 @@ The real killing officially started.
 
 Silver Killer was like an excellent hunter in the forest, hunting the other warframes as it wished.
 
-Bang!
+*Bang!*
 
 With each of the gun shot, one warframe would be disabled or hit in the engine.
 
@@ -74,7 +81,12 @@ Like a devil, Silver Killer was harvesting the lives of the warframes.
 
 "Yes. Go!"
 
-...
+<br>
+
+*****
+
+<br>
+
 
 Silver Killer’s killed like Satin and moved like a ghost. The other warframes were moving in a clumsy way like heavy warframes in comparison.
 
@@ -96,7 +108,7 @@ The Skynet viewers were also silent. There were few comments. Only Fang Mingquan
 
 "In the next few years, Blackhawk will occupy an important position in the Military Academy League Game, just because there is this one person. With him, Blackhawk will be the undisputed champion!"
 
-Boom!
+*Boom!*
 
 A warframe finally approached Silver Killer, which suddenly threw the submachine gun in the air and drew a laser sword from its back, cutting the offending warframe in half. The it still had time to put the sword back and catch the gun, shooting another approaching warframe in the energy tank.
 

@@ -1,9 +1,11 @@
+---
 Title:Empty Mouth, White Teeth 
 Chapter:1920 
 Section:7 
 Book:5 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Empty Mouth, White Teeth
 ### Chapter 1920
@@ -28,7 +30,7 @@ Sword Know’s starry swordlight impacted the twirling knife and vanished into t
 
 On the other side, the Tego Earl’s fist was falling towards Han Sen. Han Sen moved his hand and pulled the knife circle closer. The starry swordlight emerged from the knife circle, prepped to strike the fist.
 
-Boom!
+*Boom!*
 
 The swordlight and the fistlight shattered, creating a large shockwave. Sword Know and the Tego stumbled back. Han Sen, on the other hand, was unharmed. He remained standing exactly where he had been.
 
@@ -66,7 +68,7 @@ Han Sen’s Teeth Knife was like a raging beast. His skills were very serious, a
 
 Despite the difficulty of performing Empty Mouth, White Teeth in combat, Han Sen used it twenty times without fail. Now they knew that Han Sen was really like Knife Queen. He could use the ability in combat, to a degree that exceeded the chance of being a lucky fluke.
 
-Boom!
+*Boom!*
 
 As the observers watched the fight, Han Sen and his knife seemed to merge. Han Sen was Han Sen, and Ghost Teeth Knife was Ghost Teeth Knife, but now they were combined. They were one, like an evil-looking beast with a grin. It gave people the willies.
 

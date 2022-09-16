@@ -1,9 +1,11 @@
+---
 Title:What Is Equality? 
 Chapter:2561 
 Section:12 
 Book:8 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## What Is Equality?
 ### Chapter 2561

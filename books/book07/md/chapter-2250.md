@@ -1,9 +1,11 @@
+---
 Title:Ghost Bone Arrives 
 Chapter:2250 
 Section:10 
 Book:7 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Ghost Bone Arrives
 ### Chapter 2250

@@ -1,9 +1,11 @@
+---
 Title:Pulling Out the Sword 
 Chapter:3335 
 Section:17 
 Book:10 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Pulling Out the Sword
 ### Chapter 3335

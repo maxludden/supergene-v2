@@ -1,9 +1,11 @@
+---
 Title:Taking Care of the Fairy 
 Chapter:758 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Taking Care of the Fairy
 ### Chapter 758

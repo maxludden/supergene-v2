@@ -1,9 +1,11 @@
+---
 Title:Kingese 
 Chapter:2337 
 Section:11 
 Book:7 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Kingese
 ### Chapter 2337
@@ -30,7 +32,11 @@ The fist and the palm hit each other. Han Sen’s Shocking Sky Punch blocked Bai
 
 “The Bai family has too many powerful members. Those two princes have never really revealed themselves before. I wouldn’t have expected the two to possess powers like this. They are both so talented, and it seems as if the fight between these two princes has only just begun.”
 
-…
+<br>
+
+*****
+
+<br>
 
 Everyone was talking. Instead of attacking Han Sen again, Bai Qing Xia just stared at his opponent. A long time later, he said, “You are very special, Brother Sixteen. It was no wonder that you were able to claim the alpha statue.”
 

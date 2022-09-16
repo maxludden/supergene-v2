@@ -1,9 +1,11 @@
+---
 Title:It’s That Dollar 
 Chapter:1496 
 Section:4 
 Book:4 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## It’s That Dollar
 ### Chapter 1496

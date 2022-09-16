@@ -1,9 +1,11 @@
+---
 Title:Signing a New Contract 
 Chapter:1724 
 Section:6 
 Book:5 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Signing a New Contract
 ### Chapter 1724

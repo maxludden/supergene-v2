@@ -1,9 +1,11 @@
+---
 Title:Preparation Before Evolution 
 Chapter:420 
 Section:1 
 Book:1 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Preparation Before Evolution
 ### Chapter 420
@@ -26,7 +28,8 @@ Zero did not reply and gave Han Sen a sweet smile, her teeth glistening through 
 
 Han Sen did not have any time to speak, because the red and golden spirit in his hands was scorching, almost turning his hands into barbecue. Han Sen quickly summoned the cursed wolf daggers and slashed it at the spirit.
 
-> "Super Creature Desert Bird Killed. Beast Soul Of Desert Bird Gained. Life Essence Available. Meat Inedible."
+> "Super Desert Bird killed. Beast sould of Desert Bird gained. Life essence available. Meat inedible. Consume its life essence to gain zero to ten super geno points randomly."
+<!--"Super Creature Desert Bird Killed. Beast Soul Of Desert Bird Gained. Life Essence Available. Meat Inedible."-->
 
 As the voice sounded in Han Sen’s mind, he almost screamed out of excitement. Another super beast soul! How lucky!
 
@@ -38,7 +41,17 @@ Although it was kind of a waste, he had no use of the life essence even if he sa
 
 Han Sen looked to his mind with joy and saw his newly gained super beast soul.
 
-Type of beast soul of super creature desert bird: aura
+<div class="tables">
+    <table class="beast">
+        <tr>
+            <th>Beast Soul</th>
+        </tr><tr>
+            <td>Super Desert Bird<br>
+                <span class="type">(Aura)</span></td>
+        </tr>
+    </table>
+<!--Type of beast soul of super creature desert bird: aura-->
+</div>
 
 Han Sen almost laughed out loud. It was a beast soul aura, which was very rare.
 
@@ -46,7 +59,7 @@ Han Sen had felt the effect of flame lieutenant was somewhat lacking. Having gai
 
 Although he was about to be ready to evolve, Han Sen did not rush. After all, he still had more than two months left before he had to report to Daphne. He could still do a lot of things during this period of time.
 
-Han Sen summoned the golden growler and took Zero to those locations indicated by Nina. Then he indeed found a lot of super creatures.
+Han Sen summoned the golden growler and took Zero to those locations indicated by Ning Yue. Then he indeed found a lot of super creatures.
 
 Ninety percent of the creatures found by Starry Group were super creatures, which was surprising. Only a few were special sacred-blood creatures.
 
@@ -58,13 +71,19 @@ Han Sen who had already maxed out on his super geno points did not need to hunt 
 
 However, Han Sen still looked for all the creatures one by one. He found all the super creatures he could find and defeated them one after another. Han Sen had two purposes. First, he would like to practice his fighting skills. Second, he would like to lay a good foundation for Han Yan.
 
-Hailey was so young that she would not come to God’s Sanctuary for years. It would be impossible for Han Sen to wait for her, so he had no chance to transfer the super beast souls to her. In the future, she had to kill super creatures on her own.
+Han Yan was so young that she would not come to God’s Sanctuary for years. It would be impossible for Han Sen to wait for her, so he had no chance to transfer the super beast souls to her. In the future, she had to kill super creatures on her own.
 
 Han Sen had already learned the strengths and weaknesses of the super creatures, so he could teach Han Yan all about them in the future, if she had that kind of ability to hunt them down.
 
 If Han Yan did not have that kind of ability. There was no need to expect her to max out on super geno points.
 
 If I am here, I will never let Han Yan suffer. If she could max out on super geno points, that would be the best. If not, that’s quite okay as well. Although Han Sen thought that, he would still do everything he could for Han Yan.
+
+<br />
+
+*****
+
+<br />
 
 In the central office of the special squad, Zhong Zhenhong was handling some urgent files when he heard a knock on the door.
 

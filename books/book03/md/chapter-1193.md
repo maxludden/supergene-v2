@@ -1,9 +1,11 @@
+---
 Title:I Get Half 
 Chapter:1193 
 Section:3 
 Book:3 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## I Get Half
 ### Chapter 1193
@@ -68,7 +70,7 @@ Unlike Han Sen, she could rewind. As such, Han Sen would have to be put on the d
 
 “I can be faster. I know I can!” There was only one thing occupying Moment Queen’s mind, and that was the thought of beating the smirk off Han Sen’s ever-smug face.
 
-Whoosh!
+*Whoosh!*
 
 Moment Queen felt like a chain had just broken inside her; her fifth gene lock had now been opened.
 

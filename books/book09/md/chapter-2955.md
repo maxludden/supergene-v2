@@ -1,9 +1,11 @@
+---
 Title:Inside the Holy Hall 
 Chapter:2955 
 Section:15 
 Book:9 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Inside the Holy Hall
 ### Chapter 2955
@@ -90,6 +92,6 @@ There were two more stone statues next to Qin Xiu’s statue. There was one on e
 
 Looking down there were also stone statues of the 10 generals of Sacred. There was Purple Fight, Ghost Bone, and Purple Eye Butterfly. All of them looked unique. They each had their own presence. It looked as if they could come back to life.
 
-Boom!
+*Boom!*
 
 The father and daughter stepped closer to the statue. In the dark, big hall, all the long, bright lanterns lit up. Wan’er’s statue in Han Sen’s chest was burning up. It felt as if she was going to jump out of his chest.

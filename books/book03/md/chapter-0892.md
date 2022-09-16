@@ -1,9 +1,11 @@
+---
 Title:Dollar’s Strength 
 Chapter:892 
 Section:3 
 Book:3 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Dollar’s Strength
 ### Chapter 892
@@ -22,7 +24,7 @@ Han Sen was planning to slay the toad and speed-up the growth of the watervine h
 
 It had been a long time since he fought, however, and he thought he had probably gotten a little rusty. He exercised for a bit first, and simulated the silver fox's thunder powers. He ran in front of the copper toad and pointed at it.
 
-Boom!
+*Boom!*
 
 The copper toad was shocked by the sudden intruder, and so it leapt out of the water enraged. Then it spat out a copper coin at Han Sen.
 

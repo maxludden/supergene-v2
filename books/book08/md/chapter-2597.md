@@ -1,9 +1,11 @@
+---
 Title:Lone Bamboo’s Persistence 
 Chapter:2597 
 Section:12 
 Book:8 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Lone Bamboo’s Persistence
 ### Chapter 2597

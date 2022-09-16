@@ -1,9 +1,11 @@
+---
 Title:The Hilarious Destroyer 
 Chapter:153 
 Section:1 
 Book:1 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## The Hilarious Destroyer
 ### Chapter 153
@@ -50,7 +52,12 @@ But in the next moment, the Destroyer which was only one step away from the star
 
 "It was a Destroyer!"
 
-...
+<br>
+
+*****
+
+<br>
+
 
 Ji Yanran could hardly believe her eyes. She had seen bad players, but not this bad. Tripping at the start point in a race. It was difficult to imagine that someone like this would dare to come to the competition.
 
@@ -78,7 +85,12 @@ The Starry Cup covered a wide range of schools, and within the Blackhawk Divisio
 
 "Who is the driver of the silver warframe?"
 
-...
+<br>
+
+*****
+
+<br>
+
 
 Fang Mingquan clenched his fist and was so excited that he almost called out. Han Sen was even better than he had thought. It seemed that he had made the right bet again.
 

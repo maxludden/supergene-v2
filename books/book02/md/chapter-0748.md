@@ -1,9 +1,11 @@
+---
 Title:Cheater of the Second-generation 
 Chapter:748 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Cheater of the Second-generation
 ### Chapter 748

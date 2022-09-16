@@ -1,9 +1,11 @@
+---
 Title:Fighting 
 Chapter:3442 
 Section:17 
 Book:10 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Fighting
 ### Chapter 3442
@@ -40,7 +42,7 @@ A battleship opened its doors to release many Break World beasts from the holds 
 
 Many Break World beasts were in Space Garden. There were a hundred of them.
 
-Boom!
+*Boom!*
 
 Space Garden had a bai sema that was created from a spell. It stopped the attack of the Break World beasts, but the bai sema was then attacked by all kinds of Break World beasts. It kept flickering. It looked like it was going to break any time. Get ready to fight!” Han Yufei coldly grunted. She looked toward the base.
 

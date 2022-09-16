@@ -1,9 +1,11 @@
+---
 Title:Ice Geno Core 
 Chapter:2712 
 Section:13 
 Book:8 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Ice Geno Core
 ### Chapter 2712

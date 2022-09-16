@@ -1,9 +1,11 @@
+---
 Title:One Versus the Whole Sanctuary 
 Chapter:1316 
 Section:3 
 Book:3 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## One Versus the Whole Sanctuary
 ### Chapter 1316

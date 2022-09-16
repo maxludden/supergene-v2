@@ -1,9 +1,11 @@
+---
 Title:Kill Dollar 
 Chapter:489 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Kill Dollar
 ### Chapter 489

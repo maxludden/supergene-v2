@@ -1,9 +1,11 @@
+---
 Title:Deified Fight 
 Chapter:2285 
 Section:10 
 Book:7 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Deified Fight
 ### Chapter 2285

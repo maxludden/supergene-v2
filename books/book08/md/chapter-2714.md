@@ -1,9 +1,11 @@
+---
 Title:Horizontal Evil Strike Sun 
 Chapter:2714 
 Section:13 
 Book:8 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Horizontal Evil Strike Sun
 ### Chapter 2714
@@ -16,7 +18,7 @@ viewport: width=device-width
   
 Because of what Horizontal Evil was doing, the metal pillar began to shine. It shook in his hands, as if it was desperately trying to keep drilling into him. But Horizontal Evil had the pillar solidly in his grip now. No matter how brightly the pillar shone or how much it wanted to burrow back into him, Horizontal Evil was still able to remove it with his hands.
 
-Boom!
+*Boom!*
 
 When the last of the metal came free of Horizontal Evil’s chest, Han Sen finally realized that the metal pillar was actually a giant spear. That spear was writhing like a snake in Horizontal Evil’s hands. It seemed to be trying to escape from his clutches, but the giant bore down hard, pinning the spear in place.
 
@@ -62,7 +64,7 @@ When Han Sen flew away from the mountain and found himself among the palaces, he
 
 “What a cruel curse. This is so sick. Horizontal Evil had to remain trapped in order for them to live. And if he escaped, they would rot down to their bones in minutes. Horizontal Evil didn’t want to see his people become extinct, but who knows how long he was tortured on that mountain. Dead or alive, his entire existence had become pain. This must be the most horrible torture ever.” Han Sen sighed. He didn’t want to see those giant bones anymore. He flew fast toward the Four Sheep Cube.
 
-Boom!
+*Boom!*
 
 Before Han Sen could reach the Four Sheep Cube, he heard an explosion. Bright light covered everything around him. Within that shiny explosion, he couldn’t even see his fingers. The shockwave rocked the entire dimension. It was like the landscape had been turned on its head, with the water now up in the sky.
 

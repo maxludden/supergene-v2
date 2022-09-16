@@ -1,9 +1,11 @@
+---
 Title:Star Explode 
 Chapter:2735 
 Section:13 
 Book:8 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Star Explode
 ### Chapter 2735
@@ -84,7 +86,7 @@ Pang!
 
 The bullet streaked out of the barrel, shooting straight toward the massive incoming strike.
 
-Boom!
+*Boom!*
 
 A bright light exploded within the valley, blinding everyone who was watching the fight. For several long moments, no one could see anything. When the light finally dimmed a bit, they could see what had happened. Their faces went blank.
 

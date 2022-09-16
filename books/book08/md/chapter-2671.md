@@ -1,9 +1,11 @@
+---
 Title:Silkworm Bouts Begin 
 Chapter:2671 
 Section:13 
 Book:8 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Silkworm Bouts Begin
 ### Chapter 2671

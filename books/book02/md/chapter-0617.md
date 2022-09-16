@@ -1,9 +1,11 @@
+---
 Title:Deadeye Peacock Beast Soul 
 Chapter:617 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Deadeye Peacock Beast Soul
 ### Chapter 617

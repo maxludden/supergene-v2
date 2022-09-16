@@ -1,9 +1,11 @@
+---
 Title:The Empty Fruit Ripens 
 Chapter:812 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## The Empty Fruit Ripens
 ### Chapter 812
@@ -24,7 +26,7 @@ Another thing was their lack of experience with the powers that had been bestowe
 
 "Pah! Save your breath; I won't tell you anything." Manager Qu's face changed when he spoke. His body began to inflate and expand like a balloon.
 
-Boom!
+*Boom!*
 
 Han Sen jumped away as Manager Qu's body exploded like a pinata, scattering bits and pieces of his person across the area in a sudden red haze. The giblets of Manager Qu then quickly began to rot and fade away into nothing.
 

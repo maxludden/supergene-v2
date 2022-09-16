@@ -1,9 +1,11 @@
+---
 Title:That Really Is Dollar 
 Chapter:1086 
 Section:3 
 Book:3 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## That Really Is Dollar
 ### Chapter 1086
@@ -22,7 +24,7 @@ No one knew why the coins were there, though, or what they would do.
 
 But in the next second, silence filled the shelter as everyone stared across the battlefield with eyes wide and mouths agape.
 
-Boom!
+*Boom!*
 
 When those coins landed on the monsters, they all toppled and fell to the ground as if they had been crushed under an immense weight.
 
@@ -44,7 +46,7 @@ Immediately after this occurred, the giant crumpled and fell.
 
 At the same moment, the beast’s body began to crack like an egg. As if it was suffering immense pressure, it began to break apart. From the web of cracks, blood began to ooze.
 
-Boom!
+*Boom!*
 
 The berserk sacred-beast was entirely crushed by an invisible force. It was crushed down into a lumpy mound of bloody, sloppy jelly-meat.
 

@@ -1,9 +1,11 @@
+---
 Title:One Arrow Pierces Through the Heart 
 Chapter:3186 
 Section:16 
 Book:10 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## One Arrow Pierces Through the Heart
 ### Chapter 3186

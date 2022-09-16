@@ -1,9 +1,11 @@
+---
 Title:A Fortune 
 Chapter:416 
 Section:1 
 Book:1 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## A Fortune
 ### Chapter 416
@@ -70,7 +72,8 @@ The white rhinoceros suddenly screamed. Han Sen saw the head of the white rhinoc
 
 The golden rock worm king was still clinging to the body of the white rhinoceros, its tail digging into the rhino's meat and its claws holding the rhino's stomach.
 
-> "Super Creature White Jade Six-Legged Rhinoceros Killed. No Beast Soul Gained. Life Essence Available. Meat Inedible."
+> "Super White Jade Six-Legged Rhinoceros killed. No beast soul gained. Life essence available. Meat inedible. Consume its life essence to gain zero to ten super geno points randomly."
+<!--"Super Creature White Jade Six-Legged Rhinoceros Killed. No Beast Soul Gained. Life Essence Available. Meat Inedible."-->
 
 Han Sen heard the voice again. It was the first time that he had killed two super creatures in one day, which no one could believe even if he were to tell someone.
 
@@ -80,7 +83,7 @@ She was so incredibly fast that even with Han Sen's eyesight, he almost lost tra
 
 She was so swift that the golden rock worm king had no time to dodge, and Han Sen did not even manage to take back his pet in time.
 
-Boom!
+*Boom!*
 
 The tender fist of the girl hit the golden rock worm king hard. The hole was left on both the super pet armor and the worm king.
 

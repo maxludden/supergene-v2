@@ -1,9 +1,11 @@
+---
 Title:Dollar 
 Chapter:3460 
 Section:17 
 Book:10 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Dollar
 ### Chapter 3460
@@ -92,7 +94,7 @@ In Space Garden, many students were being turned into babies because of the reve
 
 Hopelessness was everywhere.
 
-Ding!
+*Ding!*
 
 A crunchy noise was heard throughout the sky and across the whole world. It was not loud but it was very clear in everyone’s ear. In that universe, which was covered by a weird purple light, there was a small gold light.
 

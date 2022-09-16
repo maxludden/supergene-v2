@@ -1,9 +1,11 @@
+---
 Title:The Conditions for Joining 
 Chapter:2208 
 Section:10 
 Book:7 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## The Conditions for Joining
 ### Chapter 2208

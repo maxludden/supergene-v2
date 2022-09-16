@@ -1,9 +1,11 @@
+---
 Title:Ancient Devil Bell 
 Chapter:1075 
 Section:3 
 Book:3 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Ancient Devil Bell
 ### Chapter 1075
@@ -20,7 +22,7 @@ The head of the creature possessed a curved horn. The claws were sharp, and they
 
 Whatever it was, it was sitting upon the head of the devil-woman statue. It looked at Han Sen and Disloyal Knight, presenting a creepy smile.
 
-Boom!
+*Boom!*
 
 The creature jumped and appeared directly before Han Sen. With its fingers raised, it tried to penetrate Han Sen’s chest and seize his heart.
 

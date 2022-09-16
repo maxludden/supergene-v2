@@ -1,9 +1,11 @@
+---
 Title:Two Sacred-blood Creatures 
 Chapter:241 
 Section:1 
 Book:1 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Two Sacred-blood Creatures
 ### Chapter 241
@@ -28,7 +30,7 @@ The sacred-blood creature quickly stabbed Lu Weinan, but Lu Weinan's footwork wa
 
 The sacred-blood creature did not chase after Lu Weinan, but turned to Han Sen. The unicorn horse was so fast that it was immediately in front of Han Sen and the spear was about to reach the guy.
 
-Boom!
+*Boom!*
 
 Han Sen suddenly summoned bloody slayer and quickly shapeshifted.
 

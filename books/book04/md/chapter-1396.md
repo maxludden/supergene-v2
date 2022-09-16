@@ -1,9 +1,11 @@
+---
 Title:Attacking a Spirit 
 Chapter:1396 
 Section:4 
 Book:4 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Attacking a Spirit
 ### Chapter 1396

@@ -1,9 +1,11 @@
+---
 Title:Emerald Man of Stone 
 Chapter:778 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Emerald Man of Stone
 ### Chapter 778

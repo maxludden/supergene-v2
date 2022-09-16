@@ -1,9 +1,11 @@
+---
 Title:Girls Should Not Fight 
 Chapter:2436 
 Section:11 
 Book:7 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Girls Should Not Fight
 ### Chapter 2436
@@ -70,7 +72,11 @@ Falling Leaf didn’t agree at all. She swiftly used her dagger to cut the Duke�
 
 More creatures were toward them. Falling Leaf warned them loudly to stay back, but they didn’t listen to her words, and so she had to fight and cut them down.
 
-…
+<br>
+
+*****
+
+<br>
 
 Han Sen and Miss Mirror were still having a stand-off. Neither of them had yet made the first move.
 

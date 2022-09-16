@@ -1,9 +1,11 @@
+---
 Title:A Poor Woman Gets Bullied 
 Chapter:1423 
 Section:4 
 Book:4 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## A Poor Woman Gets Bullied
 ### Chapter 1423
@@ -30,7 +32,11 @@ Han Sen thought to himself, “I guess it worked. I suppose it should come as no
 
 As Han Sen was lost in thought, his body became stronger and he opened a rift. He was suddenly pulled into a tunnel of sorts, and all that was there was a portal.
 
-…
+<br>
+
+*****
+
+<br>
 
 Sky Mountain, in the Third God’s Sanctuary.
 

@@ -1,9 +1,11 @@
+---
 Title:Difficult Client 
 Chapter:299 
 Section:1 
 Book:1 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Difficult Client
 ### Chapter 299

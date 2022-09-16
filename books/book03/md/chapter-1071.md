@@ -1,9 +1,11 @@
+---
 Title:Devil’s Realm 
 Chapter:1071 
 Section:3 
 Book:3 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Devil’s Realm
 ### Chapter 1071

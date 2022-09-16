@@ -1,9 +1,11 @@
+---
 Title:Genetic 
 Chapter:1425 
 Section:4 
 Book:4 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Genetic
 ### Chapter 1425
@@ -58,7 +60,7 @@ But Han Sen suddenly felt something amiss, as Ji Ruozhen reveled in his success 
 
 The baby's crying was growing in volume, and then, to the disbelief of all who looked, the little creature began to glow with a bright white light. Its previously bald head suddenly experienced massive, luscious hair growth. Then, the baby exploded like a ruptured volcano.
 
-Boom!
+*Boom!*
 
 The entire recovery room was blown up. Ji Ruozhen's body was standing where he had been, but he had been frozen stiff. His skin was black, his clothes in tatters, and his hair stood up. Fortunately, Han Sen had taken quick action to prevent any further damages by suppressing his baby's power. If he hadn't, the entire hospital would have blown up.
 
@@ -84,7 +86,12 @@ And Ji Ruozhen replied, "Oh, forgive me. It is a combination of the Han family a
 
 Luo Lan said, "Yes, congratulations to you, too..."
 
-...
+<br>
+
+*****
+
+<br>
+
 
 What happened in the hospital was kept a secret, known only to those who were present. There was no point in reporting the incident and letting others know the baby had such high fitness.
 

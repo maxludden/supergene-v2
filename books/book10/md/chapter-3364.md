@@ -1,9 +1,11 @@
+---
 Title:The Focus of Ten Thousand Races 
 Chapter:3364 
 Section:17 
 Book:10 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## The Focus of Ten Thousand Races
 ### Chapter 3364

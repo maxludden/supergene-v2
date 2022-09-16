@@ -1,9 +1,11 @@
+---
 Title:Blue Copper Bell 
 Chapter:723 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Blue Copper Bell
 ### Chapter 723
@@ -70,7 +72,7 @@ The blue bell missed Han Sen, but it didn't try again. It immediately stopped go
 
 The bell spun around and around like a saucer as it went. When it arrived, the bell that was only as tall as a human morphed its shape. As it hovered above the writhing centipede, it expanded until it was large enough to consume the entire creature. Seeing this gave Han Sen the heebie jeebies.
 
-Boom!
+*Boom!*
 
 The blue bell landed atop the twisting centipede, and then Han Sen heard noises come from within. He heard the centipede trying to fight its way out of the bell's entrapment.
 

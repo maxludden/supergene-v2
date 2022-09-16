@@ -1,9 +1,11 @@
+---
 Title:Infinite Galaxy 
 Chapter:2028 
 Section:8 
 Book:6 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Infinite Galaxy
 ### Chapter 2028
@@ -54,7 +56,7 @@ As Infinite Buddha roared, the light approached the knife circle. It looked like
 
 “…Impossible…” Infinite Buddha was shocked. Facing that power, he did not attempt to block it. Instead, he tried to run away.
 
-Boom!
+*Boom!*
 
 The power slammed into a boulder sitting on the ground. The shockwave was like a planet exploding. It destroyed everything within a few hundred-meter radius.
 

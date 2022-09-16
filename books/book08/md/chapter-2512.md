@@ -1,9 +1,11 @@
+---
 Title:Going to the Core Area Again 
 Chapter:2512 
 Section:12 
 Book:8 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Going to the Core Area Again
 ### Chapter 2512

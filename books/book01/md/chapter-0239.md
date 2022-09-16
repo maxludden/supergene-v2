@@ -1,9 +1,11 @@
+---
 Title:An Odd Sacred-blood Creature 
 Chapter:239 
 Section:1 
 Book:1 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## An Odd Sacred-blood Creature
 ### Chapter 239

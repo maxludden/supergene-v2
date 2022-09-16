@@ -1,9 +1,11 @@
+---
 Title:Seckill 
 Chapter:85 
 Section:1 
 Book:1 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Seckill
 ### Chapter 85
@@ -26,7 +28,7 @@ Liu Hongtao was ready to applaud, but then he saw that Dollar calmly reached for
 
 The ape did possess great strength, but it was also clumsy. When fighting from afar, this disadvantage wouldn’t show. But at such a short distance, there was no time for the ape to dodge.
 
-Crack!
+*Crack!*
 
 The nine-foot-tall ape was cut in half. Luo only gave a whimper before he turned into his own body and died. Blood flowed like a river.
 

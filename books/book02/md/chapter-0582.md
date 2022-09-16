@@ -1,9 +1,11 @@
+---
 Title:The Final Strike 
 Chapter:582 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## The Final Strike
 ### Chapter 582
@@ -22,7 +24,7 @@ Every step was like the tide of the sea, and a strong, ever-surging gust of wind
 
 Yet Han Sen still did not move. He just watched Yi Dongmu calmly, standing firm against the waves.
 
-Boom!
+*Boom!*
 
 With every step, Yi Dongmu was generating increasingly ferocious waves that sought to topple and consume Han Sen.
 
@@ -86,7 +88,7 @@ One hundred and ten... one hundred and fifteen... one hundred and twenty...
 
 Yi Dongmu's approach towards Han Sen was crazy, and everyone's heart leapt with each step taken. A feverish excitement had grabbed ahold of their hearts, as if it tugged them to run alongside Yi Dongmu together.
 
-Boom!
+*Boom!*
 
 One hundred and fifty.
 

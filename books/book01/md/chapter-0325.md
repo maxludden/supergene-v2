@@ -1,9 +1,11 @@
+---
 Title:Kiting 
 Chapter:325 
 Section:1 
 Book:1 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Kiting
 ### Chapter 325
@@ -22,7 +24,7 @@ But it was useless. In order to use Diversion, he must understand his opponents 
 
 However, Queen's kick was so sharp and fast that Han Sen had no time to do either of that.
 
-Bang!
+*Bang!*
 
 Her leg kicked on Han Sen's hands and then his chest. He felt like his entire body was smashed into pieces. Then his simulated body suddenly disappeared.
 

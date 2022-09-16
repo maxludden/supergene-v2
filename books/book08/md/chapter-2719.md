@@ -1,9 +1,11 @@
+---
 Title:Empty God’s Decision 
 Chapter:2719 
 Section:13 
 Book:8 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Empty God’s Decision
 ### Chapter 2719

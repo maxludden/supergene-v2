@@ -1,9 +1,11 @@
+---
 Title:Fighting Dogs 
 Chapter:2477 
 Section:12 
 Book:8 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Fighting Dogs
 ### Chapter 2477
@@ -44,7 +46,7 @@ His body was covered in blood, and there were wounds all over him. But even so, 
 
 Lando’s eyes were clear and focused. Han Sen could practically feel his desire. It was like he was saying, “You don’t like this? Then use your power to defeat them!”
 
-Boom!
+*Boom!*
 
 Lando had blood all over him, but he still gathered himself and charged back toward the deified unicorn. It looked as if he was going to fight until the last drop of blood was depleted. Lando would never give up.
 

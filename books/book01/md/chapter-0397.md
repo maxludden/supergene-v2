@@ -1,9 +1,11 @@
+---
 Title:Shocking Discovery 
 Chapter:397 
 Section:1 
 Book:1 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Shocking Discovery
 ### Chapter 397

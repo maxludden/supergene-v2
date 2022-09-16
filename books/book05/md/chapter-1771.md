@@ -1,9 +1,11 @@
+---
 Title:The Swordmind Is Bursting 
 Chapter:1771 
 Section:6 
 Book:5 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## The Swordmind Is Bursting
 ### Chapter 1771

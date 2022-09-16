@@ -1,9 +1,11 @@
+---
 Title:Black Hole Spider 
 Chapter:2210 
 Section:10 
 Book:7 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Black Hole Spider
 ### Chapter 2210
@@ -92,6 +94,6 @@ The powerful heavy guns of the ships turned to fire on the Galactic Shrimps. Eac
 
 Many blue lights shone around them. The Galactic Shrimps seemed countless.
 
-Boom! Boom! Boom!
+*Boom!* *Boom!* *Boom!*
 
 The Galactic Shrimps continued to hit the ships like cannonballs, creating explosions every time.

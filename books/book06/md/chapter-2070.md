@@ -1,9 +1,11 @@
+---
 Title:Red Cloud Beast 
 Chapter:2070 
 Section:8 
 Book:6 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Red Cloud Beast
 ### Chapter 2070

@@ -1,9 +1,11 @@
+---
 Title:Lost in the Dark 
 Chapter:1325 
 Section:3 
 Book:3 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Lost in the Dark
 ### Chapter 1325
@@ -56,7 +58,11 @@ The spirits were initially afraid of running headlong into battle against Han Se
 
 East Empress heard her and said, “I owed him one.”
 
-…
+<br>
+
+*****
+
+<br>
 
 Gu Demon Emperor watched the army of spirits run towards the shelter and sighed. He said, “It is no wonder this bell is looked on as one of the most remarkable geno treasures to ever exist.”
 

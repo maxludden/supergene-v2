@@ -1,9 +1,11 @@
+---
 Title:Absorbing Red Crystal 
 Chapter:478 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Absorbing Red Crystal
 ### Chapter 478

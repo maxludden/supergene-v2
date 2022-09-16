@@ -1,9 +1,11 @@
+---
 Title:Rich 
 Chapter:1248 
 Section:3 
 Book:3 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Rich
 ### Chapter 1248

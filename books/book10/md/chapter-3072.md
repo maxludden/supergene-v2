@@ -1,9 +1,11 @@
+---
 Title:Mutant Eight Sound Bug 
 Chapter:3072 
 Section:16 
 Book:10 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Mutant Eight Sound Bug
 ### Chapter 3072
@@ -30,7 +32,7 @@ Many beautiful eight sound bugs were dancing out of the bushes. More and more of
 
 Han Sen knew that Night Cry Valley had lots of eight sound bugs, but he did not think there would be that many. It was just a small area, yet there were at least a dozen eight sound bugs.
 
-“Ding!” The sound of another instrument was heard. This time, the instrument was different from the last one. When Han Sen heard this instrument, his heart felt a shock. He could not help but be entranced with an acoustic lust for it.
+“*Ding!*” The sound of another instrument was heard. This time, the instrument was different from the last one. When Han Sen heard this instrument, his heart felt a shock. He could not help but be entranced with an acoustic lust for it.
 
 In fact, after the instrument’s sound was heard, the dozen eight sound bugs and their instruments came to a close.
 

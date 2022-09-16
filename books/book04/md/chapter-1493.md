@@ -1,9 +1,11 @@
+---
 Title:A Cruel Crab 
 Chapter:1493 
 Section:4 
 Book:4 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## A Cruel Crab
 ### Chapter 1493
@@ -84,7 +86,7 @@ The crab’s shell was very strong, so it could take a lightning strike just fin
 
 The crab raised its pincers to provoke the eel, and then the eel went mad. The blue lightning around it rose in volume. Its entire body was consumed by blue lightning, making it look like some sort of thunder dragon.
 
-Boom!
+*Boom!*
 
 A bolt of blue lightning was launched from the eel’s body, and it covered the entirety of the crab. The crab hadn’t dodged, and it simply accepted the blue lightning. It showered itself in it. There were no injuries, and only a number of bubbles rose around the creature.
 

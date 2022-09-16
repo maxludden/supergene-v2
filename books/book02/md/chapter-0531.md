@@ -1,9 +1,11 @@
+---
 Title:Beast Soul of Inferno Bull 
 Chapter:531 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Beast Soul of Inferno Bull
 ### Chapter 531
@@ -22,7 +24,7 @@ Even so, numerous creatures still threw themselves at the mount, biting at it an
 
 As Han Sen killed the creatures that threw themselves at him, birds and flying beasts were charging him from the sky. With blood and dead bodies of creatures everywhere, it was incredibly violent.
 
-Boom!
+*Boom!*
 
 Han Sen was hit hard on his head. It was the beak of the two-headed silver bird. Although Han Sen's helmet was not broken, it was so painful that Han Sen screamed and almost fell from the golden growler.
 
@@ -50,7 +52,7 @@ Without the protection of the golden growler, Han Sen knew that he could not be 
 
 A black lightning bolt and a golden lightning bolt clashed. When Han Sen's head was about to hit the horns, he suddenly contracted his wings and flipped in the sky, putting his legs forward, clipping the neck of the bull and bowed to hit the bull's stomach hard.
 
-Boom!
+*Boom!*
 
 The ghost-pawed claws stepped into the stomach of the black bull with fierce force. Han Sen pulled hard and blood was spilled.
 
@@ -58,7 +60,7 @@ A scream sounded, and the magnificent body of the bull fell to the ground.
 
 Han Sen stepped on the back of the black bull and summoned his wings, rushing out of the shelter.
 
-Boom!
+*Boom!*
 
 Hearing a loud object fall, Han Sen then heard the voice.
 

@@ -1,9 +1,11 @@
+---
 Title:Super God Spirit Blood-pulse Appears 
 Chapter:3116 
 Section:16 
 Book:10 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Super God Spirit Blood-pulse Appears
 ### Chapter 3116

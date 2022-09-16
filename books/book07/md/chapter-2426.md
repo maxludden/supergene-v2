@@ -1,9 +1,11 @@
+---
 Title:Big Sword 
 Chapter:2426 
 Section:11 
 Book:7 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Big Sword
 ### Chapter 2426

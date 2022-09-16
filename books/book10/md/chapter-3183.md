@@ -1,9 +1,11 @@
+---
 Title:Wooden Sword 
 Chapter:3183 
 Section:16 
 Book:10 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Wooden Sword
 ### Chapter 3183
@@ -20,7 +22,7 @@ viewport: width=device-width
 
 Feng Yin Yin protected Bao’er, but the dragon maid stared at her. A scary sort of power suddenly whelmed and suppressed her. It affected Feng Fei Fei too. She and Feng Yin Yin were pinned to the ground and unable to move.
 
-Boom!
+*Boom!*
 
 Fire blazed as a small white fish appeared in front of them. The power of the dragon maid vanished. It was like her power had been burned to a crisp by the fire.
 

@@ -1,9 +1,11 @@
+---
 Title:Tentacle Monster 
 Chapter:2581 
 Section:12 
 Book:8 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Tentacle Monster
 ### Chapter 2581

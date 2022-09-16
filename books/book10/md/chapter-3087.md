@@ -1,9 +1,11 @@
+---
 Title:Exclusive Gene Race 
 Chapter:3087 
 Section:16 
 Book:10 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Exclusive Gene Race
 ### Chapter 3087

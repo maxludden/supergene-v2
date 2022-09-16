@@ -1,9 +1,11 @@
+---
 Title:Efficiency 
 Chapter:474 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Efficiency
 ### Chapter 474
@@ -68,7 +70,7 @@ Boom boom boom!
 
 Broken red crystals fell all over the floor, turned into red liquid and evaporated. Han Sen made a solid punch each time and blew up hundreds of red crystal humans.
 
-Boom!
+*Boom!*
 
 He used Seven Kill to turn his leg into axes, kicking the head of a red crystal man into its guts, blowing up its entire body. Pieces of crystal fell on the floor.
 

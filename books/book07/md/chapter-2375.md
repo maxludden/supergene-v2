@@ -1,9 +1,11 @@
+---
 Title:Killing the Siren Elder 
 Chapter:2375 
 Section:11 
 Book:7 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Killing the Siren Elder
 ### Chapter 2375
@@ -42,7 +44,7 @@ The little red bird fluttered over to Bao’er’s shoulder, then it hopped onto
 
 The Siren Elder looked as if she had heard a funny joke, and she laughed. “This isn’t the end yet, and you are already going crazy.”
 
-Boom!
+*Boom!*
 
 The words had barely left the Siren Elder’s mouth when the little red bird took flight. Flames began to lick around her body as she rose from Han Sen’s finger. Suddenly, the little red bird turned into a gold fire phoenix.
 

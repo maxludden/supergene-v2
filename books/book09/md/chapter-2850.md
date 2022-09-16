@@ -1,9 +1,11 @@
+---
 Title:Bone Is Scabbard 
 Chapter:2850 
 Section:14 
 Book:9 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Bone Is Scabbard
 ### Chapter 2850
@@ -74,7 +76,12 @@ Dollar had a scabbard that could put a lid on her powers. He could have easily w
 
 "Stop dreaming. Why would a deified elite want someone like you?"
 
-...
+<br>
+
+*****
+
+<br>
+
 
 Every spirit was talking. Yisha coldly stared at Han Sen for a while. She did not say anything. She slowly brought out teeth knife.
 

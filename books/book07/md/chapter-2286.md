@@ -1,9 +1,11 @@
+---
 Title:Crystallizer Technology 
 Chapter:2286 
 Section:10 
 Book:7 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Crystallizer Technology
 ### Chapter 2286
@@ -14,7 +16,7 @@ viewport: width=device-width
   
 
   
-Boom!
+*Boom!*
 
 Han Sen was about to say something, but a scary sound cut him off. And then, the white whale suddenly flipped and started to sink.
 
@@ -22,7 +24,7 @@ Many forces of horrible powers lashed the white whale, and each strike was like 
 
 Fortunately, the big white whale was pretty solid. The shockwaves of combat coming from Yisha and Fox Queen were not enough to break the hull. But even so, the impacts were driving it deeper into the sea.
 
-Boom!
+*Boom!*
 
 The whale shook under their feet as if it had just hit something, and after that, they heard the sound of something large being destroyed. Then, there was only silence. The white whale was no longer being tossed about.
 

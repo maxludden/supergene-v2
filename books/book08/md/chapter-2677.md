@@ -1,9 +1,11 @@
+---
 Title:Eight Hole Emperor 
 Chapter:2677 
 Section:13 
 Book:8 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Eight Hole Emperor
 ### Chapter 2677
@@ -44,7 +46,7 @@ Right now, Mo Fang was using the ability to summon strength. The power he gather
 
 Shale didn’t dodge or run. His giant body stepped forward as he swung his fist. He moved so quickly that his blonde hair waved in the wind, his body surging forward like that of an enraged lion.
 
-Boom!
+*Boom!*
 
 The finger and the fist collided with each other, and the ensuing explosion tore apart the nearby terrain. Shale didn’t move at all, whereas Mo Fang fell back ten meters.
 
@@ -92,7 +94,11 @@ Liyu Zhen and Li Xue Cheng’s hearts almost hopped out of their chests. Right n
 
 “Haha! Mo Fang will kill him. And then, he will kill Han Sen. I like this story.”
 
-…
+<br>
+
+*****
+
+<br>
 
 Shale was incurring more and more wounds. If a half-deified was any weaker than Shale, they would have already lost this fight. But looking into his eyes, it was obvious that Shale wasn’t scared. He wasn’t going to retreat.
 

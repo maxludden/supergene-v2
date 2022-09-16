@@ -1,9 +1,11 @@
+---
 Title:Making a Deal 
 Chapter:2480 
 Section:12 
 Book:8 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Making a Deal
 ### Chapter 2480

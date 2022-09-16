@@ -1,9 +1,11 @@
+---
 Title:Sullen 
 Chapter:492 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Sullen
 ### Chapter 492
@@ -86,7 +88,7 @@ Han Sen made eighteen fake moves consecutively, while the beauty was never sure 
 
 Like this, the beauty was fooled by Han Sen eighteen times before she eventually decided to make a move. When Han Sen hit her again, she fought back without any hesitation.
 
-Boom!
+*Boom!*
 
 Her face was suddenly full of helplessness, anger, and most of all, frustration. Her eyes were full of tears, which were about to fall.
 

@@ -1,9 +1,11 @@
+---
 Title:Crystal Core Mutant 
 Chapter:1386 
 Section:4 
 Book:4 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Crystal Core Mutant
 ### Chapter 1386

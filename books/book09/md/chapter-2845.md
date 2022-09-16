@@ -1,9 +1,11 @@
+---
 Title:Golden Growler 
 Chapter:2845 
 Section:14 
 Book:9 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Golden Growler
 ### Chapter 2845

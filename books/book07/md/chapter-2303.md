@@ -1,9 +1,11 @@
+---
 Title:Eighteen Hits 
 Chapter:2303 
 Section:11 
 Book:7 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Eighteen Hits
 ### Chapter 2303
@@ -90,6 +92,6 @@ The woman in the control room frowned as she saw Han Sen send a punch toward the
 
 As the woman’s attention flicked back to the screen, Han Sen’s fist had already collided with the demonic dragon lance’s tip. The fist and the spike came against each other.
 
-Boom!
+*Boom!*
 
 Under the force of that punch, the demonic dragon’s body was crushed. It became dust, scattering everywhere.

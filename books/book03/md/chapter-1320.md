@@ -1,9 +1,11 @@
+---
 Title:Another Lock 
 Chapter:1320 
 Section:3 
 Book:3 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Another Lock
 ### Chapter 1320
@@ -104,6 +106,6 @@ Han Sen then returned to the sanctuary. His companions had been on red alert, no
 
 A few days later, while Han Sen spoke with Xie Qing King, he saw a shadow begin to approach the shelter. It had the intimidating presence of a looming mountain that was set to swallow the earth.
 
-Boom!
+*Boom!*
 
 A giant landed atop the rubble of the ruined shelter, forming two craters; one for each foot.

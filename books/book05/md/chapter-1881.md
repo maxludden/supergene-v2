@@ -1,9 +1,11 @@
+---
 Title:Killing Hell 
 Chapter:1881 
 Section:7 
 Book:5 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Killing Hell
 ### Chapter 1881
@@ -102,7 +104,7 @@ Seeing the black Hell Cow almost reach Wang Yuhang, Han Sen pushed him over to G
 
 A black cow’s head barreled through the sky.
 
-Boom!
+*Boom!*
 
 The headless cow’s body ran for a while before coming to an end atop the arms. They both became black smoke and disappeared.
 

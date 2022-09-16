@@ -1,9 +1,11 @@
+---
 Title:Blood-wing Beast King 
 Chapter:1015 
 Section:3 
 Book:3 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Blood-wing Beast King
 ### Chapter 1015

@@ -1,9 +1,11 @@
+---
 Title:Back to Night Charm 
 Chapter:2366 
 Section:11 
 Book:7 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Back to Night Charm
 ### Chapter 2366
@@ -44,7 +46,11 @@ Ning Yue sighed and said, “I believe you can give me power, but I cannot beat 
 
 Ning Yue wiped his little green sword. In his mind, he was still standing in that man’s shadow. Determination flashed through Ning Yue’s eyes. Then they became calm again. He walked up to the bodies of the strange woman and Hell King.
 
-…
+<br>
+
+*****
+
+<br>
 
 Han Sen maintained his claim on the primary root king dragon to absorb the king air. He stayed there for a whole month.
 

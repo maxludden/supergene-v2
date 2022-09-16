@@ -1,9 +1,11 @@
+---
 Title:Revive 
 Chapter:3212 
 Section:16 
 Book:10 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Revive
 ### Chapter 3212

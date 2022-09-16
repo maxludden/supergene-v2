@@ -1,9 +1,11 @@
+---
 Title:King’s Cover 
 Chapter:2335 
 Section:11 
 Book:7 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## King’s Cover
 ### Chapter 2335

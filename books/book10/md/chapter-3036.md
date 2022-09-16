@@ -1,9 +1,11 @@
+---
 Title:Seeing God Temples Again 
 Chapter:3036 
 Section:16 
 Book:10 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Seeing God Temples Again
 ### Chapter 3036

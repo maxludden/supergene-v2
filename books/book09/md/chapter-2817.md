@@ -1,9 +1,11 @@
+---
 Title:Cold Light Charm 
 Chapter:2817 
 Section:14 
 Book:9 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Cold Light Charm
 ### Chapter 2817
@@ -40,7 +42,7 @@ In the wide radius of those pink beams, even if they were slowed down, they coul
 
 Meng Lie, Bao Qin, Bao Ying, Londo, and the others all used their powers to fight alongside Second Uncle to break the net composed of beams of light.
 
-Boom!
+*Boom!*
 
 There was a scary explosion of power. The net of light beams was broken, but Second Uncle looked as if he had been hit in the process. The ground near his feet cracked.
 

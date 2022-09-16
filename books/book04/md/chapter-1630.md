@@ -1,9 +1,11 @@
+---
 Title:The Power of Dollar 
 Chapter:1630 
 Section:4 
 Book:4 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## The Power of Dollar
 ### Chapter 1630
@@ -20,7 +22,7 @@ In the swordlight that brought ruin to everything, a golden light suddenly crack
 
 Everyone realized that the golden light was actually a coin. It was a beautiful coin.
 
-Boom!
+*Boom!*
 
 The Six Paths Sword, which had previously been at the center of existence, had now been wrecked by that coin.
 
@@ -76,7 +78,11 @@ Fang Mingquan’s interview was the most popular, and that was because he was fa
 
 Tang Zhenliu smiled and said, “Where do I begin? I mean, Six Paths was strong, but he just wasn’t on the same level as Dollar. Dollar will be able to get to the top ten Son of Gods, for sure, and he might even achieve first place.”
 
-…
+<br>
+
+*****
+
+<br>
 
 Most demigods that accepted the interview said many similar things. They all thought Dollar could reach the top ten, at the very least.
 

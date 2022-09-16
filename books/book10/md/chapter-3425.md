@@ -1,9 +1,11 @@
+---
 Title:Sacrificing Everything for Me 
 Chapter:3425 
 Section:17 
 Book:10 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Sacrificing Everything for Me
 ### Chapter 3425
@@ -82,7 +84,7 @@ Its eyes no longer looked cold like before. It was still glowing, but it was not
 
 Everyone else looked on in disbelief. The metal lifeform’s hands were quivering in fear. It grabbed its head and twisted its own metallic skull. It went “katcha” as it was torn away from the neck.
 
-Boom! Boom!
+*Boom!* *Boom!*
 
 The metal lifeform, clutching its own head, fell to the ground. It died like that.
 

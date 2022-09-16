@@ -1,9 +1,11 @@
+---
 Title:The Fighting Begins 
 Chapter:2110 
 Section:8 
 Book:6 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## The Fighting Begins
 ### Chapter 2110
@@ -18,7 +20,7 @@ The shadowed images left the inhabitants of the geno universe in a state of awe 
 
 The names disappeared from the lists, leaving only empty brackets. All the names from a century ago were gone, including the names of the number one King, number one Duke, and number one Marquise. All that remained were the empty ranks now.
 
-Boom!
+*Boom!*
 
 All the lists cracked, breaking apart to reveal an image that seemed to tear its way through space itself. A picture was forming; one that showcased a mountain, water, stars, suns, and moons. There were seas and clouds, deserts and green fields.
 
@@ -48,7 +50,7 @@ Han Sen continued looking around until he saw a giant monster rushing towards hi
 
 The dinosaur-like monster came rumbling forward, but Han Sen did not move. When the monster was in front of him, he just put his hand out and touched the horn protruding from the beast’s nose.
 
-Boom!
+*Boom!*
 
 The monster stopped like it had hit a wall.
 

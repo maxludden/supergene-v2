@@ -1,9 +1,11 @@
+---
 Title:The Chosen 
 Chapter:14 
 Section:1 
 Book:1 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## The Chosen
 ### Chapter 14

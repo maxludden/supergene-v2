@@ -1,9 +1,11 @@
+---
 Title:Same Style 
 Chapter:97 
 Section:1 
 Book:1 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Same Style
 ### Chapter 97

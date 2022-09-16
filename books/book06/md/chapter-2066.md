@@ -1,9 +1,11 @@
+---
 Title:Teacher 
 Chapter:2066 
 Section:8 
 Book:6 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Teacher
 ### Chapter 2066

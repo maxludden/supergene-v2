@@ -1,9 +1,11 @@
+---
 Title:Devil-blood Mantis Beast Soul 
 Chapter:1109 
 Section:3 
 Book:3 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Devil-blood Mantis Beast Soul
 ### Chapter 1109

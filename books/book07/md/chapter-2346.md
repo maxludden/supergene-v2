@@ -1,9 +1,11 @@
+---
 Title:Identity Exposed 
 Chapter:2346 
 Section:11 
 Book:7 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Identity Exposed
 ### Chapter 2346

@@ -1,9 +1,11 @@
+---
 Title:Blood Crystal Lotus Seeds 
 Chapter:610 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Blood Crystal Lotus Seeds
 ### Chapter 610

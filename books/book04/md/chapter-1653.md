@@ -1,9 +1,11 @@
+---
 Title:Message 
 Chapter:1653 
 Section:4 
 Book:4 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Message
 ### Chapter 1653
@@ -44,7 +46,7 @@ Han Sen just looked depressed. He comforted himself by saying, “These armors m
 
 “I am dead. It does not matter who I was.” After he said that, the gates of the Hero’s Spirit Hall suddenly opened. Then, a strong force of suction pulled them all the way out of there.
 
-Crash!
+*Crash!*
 
 Han Sen and the others were dropped to the ground. When they stood back up, they were on the plain they had reached before smashing through the wall that led to the hidden place.
 

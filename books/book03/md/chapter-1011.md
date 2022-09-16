@@ -1,9 +1,11 @@
+---
 Title:Killing the Wolf King 
 Chapter:1011 
 Section:3 
 Book:3 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Killing the Wolf King
 ### Chapter 1011
@@ -58,7 +60,7 @@ The wolf king bared its fangs to Han Sen in response, and lightning flickered ac
 
 The wolf king’s mouth reached its target, and the monster brought its hungry maw down on Han Sen’s neck. Strangely, not a single mark was left. The wolf king, however, had been cut.
 
-Boom!
+*Boom!*
 
 The wolf king twitched as blood gushed from the wound Han Sen had inflicted. It looked ready to collapse and die.
 

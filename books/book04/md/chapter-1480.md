@@ -1,9 +1,11 @@
+---
 Title:Main Battleground 
 Chapter:1480 
 Section:4 
 Book:4 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Main Battleground
 ### Chapter 1480

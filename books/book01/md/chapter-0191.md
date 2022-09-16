@@ -1,9 +1,11 @@
+---
 Title:A Demonstration 
 Chapter:191 
 Section:1 
 Book:1 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## A Demonstration
 ### Chapter 191
@@ -28,7 +30,12 @@ Ji Yanran was in the Warship Department, but martial arts was a compulsory cours
 
 "He’s got great skin. I really want to see how it feels."
 
-...
+<br>
+
+*****
+
+<br>
+
 
 Many students were whispering. Since Ji Yanran was in a relationship with Han Sen, she had become more and more thick-skinned. Hearing people’s comments, she did not even blush and felt quite content.
 
@@ -76,7 +83,12 @@ The students were waiting to see Han Sen’s legendary black and white boxing sk
 
 "Do not be afraid, man! You can kneel for mercy when you go back home, but have to consider your dignity in public."
 
-...
+<br>
+
+*****
+
+<br>
+
 
 Han Sen acted as if he heard nothing and lost more than twenty rounds in a row.
 

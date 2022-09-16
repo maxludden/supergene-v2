@@ -1,9 +1,11 @@
+---
 Title:Demon Spirit 
 Chapter:2449 
 Section:12 
 Book:8 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Demon Spirit
 ### Chapter 2449
@@ -38,7 +40,11 @@ But it was already too late. The sea beasts were upon them, and the giant cloud 
 
 The white whale had vanished at some point, and the giant black beetle was now surrounded by monsters of the clouds. The Extreme King knights engaged the cloud beasts in combat.
 
-…
+<br>
+
+*****
+
+<br>
 
 “Good job, everyone!” Han Sen said to Fang Qing Yu and the others as he admired the Extreme King, who were now fighting the cloud beasts.
 
@@ -94,7 +100,7 @@ Bao Qin stood atop the castle, watching the scary creature emerge from the stone
 
 But that scary creature didn’t answer. Its eyes glowed evilly, and it threw a punch toward Bao Qin.
 
-Boom!
+*Boom!*
 
 Han Sen and the others didn’t see the punch land, but they could see the enormous black beetle explode under the force of the shockwave. Blood rained everywhere, dyeing the blue clouds scarlet around it.
 

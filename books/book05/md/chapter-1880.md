@@ -1,9 +1,11 @@
+---
 Title:The Only Way Ou 
 Chapter:1880 
 Section:7 
 Book:5 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## The Only Way Ou
 ### Chapter 1880
@@ -62,7 +64,7 @@ Inside the room, the black-haired lady had her bow drawn to the door.
 
 “Father!” Han Meng’er saw Han Sen, but she did not lower her bow. She fired it.
 
-Whoosh!
+*Whoosh!*
 
 The black arrow brushed right past Han Sen’s face and perforated a Purgatory Beast that had snuck up behind him. Pang! Pang! Pang!
 

@@ -1,9 +1,11 @@
+---
 Title:Becoming a Surpasser 
 Chapter:882 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Becoming a Surpasser
 ### Chapter 882

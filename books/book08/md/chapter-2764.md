@@ -1,9 +1,11 @@
+---
 Title:Walk Your Own Path 
 Chapter:2764 
 Section:13 
 Book:8 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Walk Your Own Path
 ### Chapter 2764

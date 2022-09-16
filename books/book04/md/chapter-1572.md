@@ -1,9 +1,11 @@
+---
 Title:Co-operative Partner 
 Chapter:1572 
 Section:4 
 Book:4 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Co-operative Partner
 ### Chapter 1572

@@ -1,9 +1,11 @@
+---
 Title:Armor Appeared 
 Chapter:3021 
 Section:15 
 Book:9 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Armor Appeared
 ### Chapter 3021
@@ -38,7 +40,7 @@ Even the holy hall and the statues inside the holy hall returned to normal. The 
 
 “The geno hall, huh?” Littleflower stared at the zenith of all the god palaces. His eyes looked full of confidence. The power in his body was wildly surging
 
-Boom!
+*Boom!*
 
 The presence on Littleflower exploded. It was like a bomb blowing into space. His body kept appearing and disappearing. It was like he teleported into god palace’s radius. He was quickly going to the very top geno hall and god palace.
 

@@ -1,9 +1,11 @@
+---
 Title:No. 1 General 
 Chapter:3017 
 Section:15 
 Book:9 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## No. 1 General
 ### Chapter 3017
@@ -68,7 +70,7 @@ He looked at Purple Fight, whose body had purple air rising. His whole body was 
 
 “Let me see what the mind of the number one general can accomplish. Show me what you can do.” Shadow God’s body blazed with a black flame. It made the shadows in the darkness develop even more xenogeneics.
 
-Purple Fight’s expression did not change. Han Sen and Dragon Lady were prepared to fight. The xenogeneics arrived too quickly. It was like the end of the world. It was like the world was ending by a flood. Boom!
+Purple Fight’s expression did not change. Han Sen and Dragon Lady were prepared to fight. The xenogeneics arrived too quickly. It was like the end of the world. It was like the world was ending by a flood. *Boom!*
 
 In that second, Purple Fight’s battle mind was totally activated. The purple flame gathered to become stars. It was like a universe of stars surrounding him.
 

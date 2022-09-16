@@ -1,9 +1,11 @@
+---
 Title:Headless Rockman 
 Chapter:1553 
 Section:4 
 Book:4 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Headless Rockman
 ### Chapter 1553
@@ -22,7 +24,7 @@ The mouths of the eleven Black Seahorses were shaped like megaphones. They spat 
 
 The frosty air cropped across Destiny’s Tower, webbing the entirety of its metal structure. Even if Little Star used its Starsea powers to escape, Han Sen thought they’d be frozen, anyway.
 
-Boom!
+*Boom!*
 
 The glaciers all around were broken by that frosty air. The peaks collapsed, and soon after, the cap of the white metal tower came crumbling down with them.
 
@@ -82,7 +84,7 @@ That scary, frosty air made its hand freeze in place. The creatures then generat
 
 “I won’t. Even if I die.” The rockman sounded very sad, and he continued pushing down. The ice that encased his hand was broken and cast away, and the hand resumed its advance. It was going to break the heads of the eleven Black Seahorses.
 
-Pop!
+*Pop!*
 
 The eleven Black Seahorses spilled blood and fell back. Even they could not withstand the rockman’s power.
 

@@ -1,9 +1,11 @@
+---
 Title:Flying Fish 
 Chapter:3127 
 Section:16 
 Book:10 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Flying Fish
 ### Chapter 3127
@@ -42,7 +44,7 @@ The gourd developed more cracks. It looked as if it would be unable to endure mu
 
 Of course, this was Cast God Court’s method. It required other people to achieve. Han Sen did not know if a wild gene race could accomplish this life-level change.
 
-Boom!
+*Boom!*
 
 The gourd finally exploded. The snow-white shell, which looked like jade, was obliterated into pieces. It quickly melted into the white fire. It was suddenly reduced to nothing.
 

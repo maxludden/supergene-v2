@@ -1,9 +1,11 @@
+---
 Title:Ghost-toothed Snake King 
 Chapter:66 
 Section:1 
 Book:1 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Ghost-toothed Snake King
 ### Chapter 66

@@ -1,9 +1,11 @@
+---
 Title:Claiming Qing Ming 
 Chapter:908 
 Section:3 
 Book:3 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Claiming Qing Ming
 ### Chapter 908
@@ -38,7 +40,7 @@ Outside the hall, many creatures and spirits came forward to witness who they be
 
 There they all saw Han Sen, taking the spirit stone.
 
-Boom!
+*Boom!*
 
 The green spirit stone turned into a bright and horrible green light.
 

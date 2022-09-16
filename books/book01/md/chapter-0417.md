@@ -1,9 +1,11 @@
+---
 Title:A Mentally Troubled Girl 
 Chapter:417 
 Section:1 
 Book:1 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## A Mentally Troubled Girl
 ### Chapter 417
@@ -88,7 +90,8 @@ Zero was still just watching, making Han Sen completely relaxed.
 
 It seems that she's really hurt her brain. That's much easier. Han Sen no longer held back and started to lick away.
 
-> "Life Essence Of Super Creature Crystal Spirit Beast Consumed. One Super Geno Point Gained."
+> "Life essence of Crystal Spirit Beast consumed. One super geno point gained."
+<!--"Life Essence Of Super Creature Crystal Spirit Beast Consumed. One Super Geno Point Gained."-->
 
 Very soon, the better half of the smaller piece of blue life essence was swallowed by Han Sen. To Han Sen's excitement, the voice kept telling him how many super geno points he had gained.
 

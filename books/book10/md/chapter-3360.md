@@ -1,9 +1,11 @@
+---
 Title:Died Away 
 Chapter:3360 
 Section:17 
 Book:10 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Died Away
 ### Chapter 3360

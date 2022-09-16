@@ -1,9 +1,11 @@
+---
 Title:Bloody Battle 
 Chapter:362 
 Section:1 
 Book:1 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Bloody Battle
 ### Chapter 362
@@ -16,7 +18,7 @@ viewport: width=device-width
   
 The black metal wolf quickly flashed in front of Chen Nanxing, who was fast enough to summon a large copper shield more than 3 feet tall to block its claws.
 
-Crack!
+*Crack!*
 
 The 5-inch thick shield which seemed extremely sturdy was suddenly ripped open by the wolf claw like a piece of paper. It almost broke in half.
 
@@ -50,17 +52,17 @@ Shortly, they found that things were not as smooth as they thought it would be.
 
 The wolf not only dodged all their attacks, but also clawed at Chen Nanxing's shield in the blink of an eye.
 
-Crack!
+*Crack!*
 
 The shield could no longer hold its shape and fell apart. Chen Nanxing was knocked over by the incredible force and tumbled over before he could stand up.
 
-Ding!
+*Ding!*
 
 Ye Yufeng suddenly had a dagger in his hand and quickly stabbed it at the wolf's neck.
 
 "Give me a beast soul!" Ye Yufeng exclaimed, his eyes sparkling. Obviously, he had great faith in his strike.
 
-Bang!
+*Bang!*
 
 The dagger hit the wolf's neck and exploded, thousands of smaller blades flew in all directions at the wolf with great speed.
 
@@ -88,7 +90,7 @@ Seeing the claws almost at his chest, although Ye Yufeng was wearing sacred-bloo
 
 All of a sudden, Ye Yufeng felt someone pulled him in the back away from the claws.
 
-Bang!
+*Bang!*
 
 Ye Yufeng was thrown out toward the exit. Getting up, he saw Han Sen standing opposite the wolf.
 

@@ -1,9 +1,11 @@
+---
 Title:Sacred-blood Beast Soul of Bony Fish 
 Chapter:382 
 Section:1 
 Book:1 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Sacred-blood Beast Soul of Bony Fish
 ### Chapter 382
@@ -62,7 +64,9 @@ Zhu Ting wanted to ask whether Han Sen would let him go if he gave Han Sen the b
 
 "Meeting you as my worst luck," said Zhu Ting with a sad look.
 
-"Sacred-blood beast soul of Bony Fish gained." Han Sen saw an oddly shaped fish beast soul in his mind.
+> "Sacred-blood beast soul of Bony Fish gained."
+
+Han Sen saw an oddly shaped fish beast soul in his mind.
 
 A sacred-blood beast soul arrow at last. Han Sen celebrated inwardly. Because he had never gained a sacred-blood arrow, Han Sen had not been able to use his archery skills.
 
@@ -76,7 +80,7 @@ A sacred-blood beast soul arrow at last. Han Sen celebrated inwardly. Because he
 
 "What do you mean?" Zhu Ting looked at Han Sen with a blank face.
 
-Han Sen did not reply, but twisted Han Sen's joints back in place. The crackling of the bones and Zhu Ting's screams sounded scary.
+Han Sen did not reply, but twisted Zhu Ting's joints back in place. The crackling of the bones and Zhu Ting's screams sounded scary.
 
 "Go make your drug and wake them up," Han Sen said to Zhu Ting and summoned the horn bow and the bony fish arrow, playing with them.
 

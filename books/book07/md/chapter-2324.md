@@ -1,9 +1,11 @@
+---
 Title:Bai Yi’s Secre 
 Chapter:2324 
 Section:11 
 Book:7 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Bai Yi’s Secre
 ### Chapter 2324
@@ -78,7 +80,7 @@ Han Sen turned rather green when he discovered Bai Yi’s horrible fetishes. The
 
 “This guy is so sick. As long as it is a certified woman, he’s happy!” Han Sen complained. He didn’t want to watch the stuff anymore.
 
-Ding!
+*Ding!*
 
 Suddenly, a message popped up on the computer. Han Sen quickly opened it.
 

@@ -1,9 +1,11 @@
+---
 Title:Battle Buddha 
 Chapter:1941 
 Section:7 
 Book:5 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Battle Buddha
 ### Chapter 1941

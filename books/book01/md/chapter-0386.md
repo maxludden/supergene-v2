@@ -1,9 +1,11 @@
+---
 Title:Who Is in Charge 
 Chapter:386 
 Section:1 
 Book:1 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Who Is in Charge
 ### Chapter 386
@@ -30,7 +32,7 @@ Han Sen took this opportunity to make another cut at the red meat. This time, it
 
 Han Sen approached the shell and quickly cut at it.
 
-Ding!
+*Ding!*
 
 Han Sen felt a strong force came through, almost made it impossible for him to hold the dagger, while the shell was only left with a white mark.
 
@@ -58,7 +60,7 @@ This move was so unexpected in the middle of a sentence that even an evolver lik
 
 However, Han Sen was an expert in this aspect. The moment when Ning Yue moved, Han Sen had wielded his dagger as well.
 
-Crack!
+*Crack!*
 
 Ning Yue sword was cut in half by the cursed wolf dagger. Ning Yue looked surprised, but did not stop attacking Han Sen.
 
@@ -94,7 +96,7 @@ They could not imagine that Han Sen could improve his strength so tremendously i
 
 Yang Yongcheng became shocked. With his speed, he could not even move away in time. All he could do was to summon a broadsword to block Han Sen's dagger.
 
-Crack!
+*Crack!*
 
 Both the dagger and Yang Yongcheng's neck were cut by the cursed wolf dagger as if they were made of tofu. The blade was broken, and the man was killed. The body without its head fell to the ground.
 

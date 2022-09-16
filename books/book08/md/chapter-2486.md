@@ -1,9 +1,11 @@
+---
 Title:Promised Him 
 Chapter:2486 
 Section:12 
 Book:8 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Promised Him
 ### Chapter 2486
@@ -74,7 +76,7 @@ Ignoring Ning Yue, he sent the magnetic light in his hands toward Bao’er.
 
 “Stop! I told you to stop!” Ning Yue screamed with fear. Her body managed to tear through the magnetic power, and she leaped in front of Bao’er to take the black sun-like light.
 
-Boom!
+*Boom!*
 
 The scary magnetic light landed on Ning Yue, and in the next instant, her body crashed to the floor like a crumbling mountain. Her limbs were held down by an iron grip, all crushed and broken-looking.
 

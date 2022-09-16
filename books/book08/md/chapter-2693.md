@@ -1,9 +1,11 @@
+---
 Title:Blood Marrow Geno Fluid 
 Chapter:2693 
 Section:13 
 Book:8 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Blood Marrow Geno Fluid
 ### Chapter 2693

@@ -1,9 +1,11 @@
+---
 Title:Hand of God Duel 
 Chapter:123 
 Section:1 
 Book:1 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Hand of God Duel
 ### Chapter 123

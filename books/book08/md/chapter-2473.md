@@ -1,9 +1,11 @@
+---
 Title:A Sword That Requires a Life in Trade 
 Chapter:2473 
 Section:12 
 Book:8 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## A Sword That Requires a Life in Trade
 ### Chapter 2473

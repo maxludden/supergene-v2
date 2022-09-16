@@ -1,9 +1,11 @@
+---
 Title:Whose Road to the Sky 
 Chapter:1964 
 Section:8 
 Book:6 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Whose Road to the Sky
 ### Chapter 1964
@@ -72,7 +74,7 @@ Thousand Feather Crane pondered as he walked on.
 
 Thousand Feather Crane was an Earl. He could have carried a dragon, and walked up each and every step without so much as getting out of breath.
 
-But now, veins were bulging across his arms and legs. He was exhausting all his strength in this walk. He was breathing so heavily, it looked as if he was going to breathe fire. Boom!
+But now, veins were bulging across his arms and legs. He was exhausting all his strength in this walk. He was breathing so heavily, it looked as if he was going to breathe fire. *Boom!*
 
 A white cloud poured out of Thousand Feather Crane, like steam stemming from his pores. The white smoke then condensed, swirling closely around Thousand Feather Crane’s body.
 

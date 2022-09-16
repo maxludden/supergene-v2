@@ -1,9 +1,11 @@
+---
 Title:Meeting Destiny Tablet Again 
 Chapter:3350 
 Section:17 
 Book:10 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Meeting Destiny Tablet Again
 ### Chapter 3350

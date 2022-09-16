@@ -1,9 +1,11 @@
+---
 Title:Battle in the Deep Sea 
 Chapter:2747 
 Section:13 
 Book:8 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Battle in the Deep Sea
 ### Chapter 2747
@@ -58,7 +60,7 @@ Han Sen grabbed Bai Wei and hastily dodged. He also cast the Dongxuan Sutra at t
 
 The power that Han Sen could currently emit was enough to defeat an ordinary primitive xenogeneic, but the electric eel’s lightning was able to break his offense with ease. Han Sen’s brow furrowed as he wondered again what level the electric eel was.
 
-Boom!
+*Boom!*
 
 A flash of lightning that looked like it came from space landed on Han Sen. Han Sen didn’t have time to dodge it. His whole body crackled with the power, and for a split second, it knocked him senseless. His body fell through the water.
 
@@ -86,7 +88,7 @@ When the electric eel noticed that its lightning had been frozen, it became furi
 
 Han Sen stared at the pillar of lightning. He mustered his own power, not willing to fall back. He threw a punch forward, aiming directly for that grand force.
 
-Boom!
+*Boom!*
 
 The water exploded away as the two powers collided, forming a vacuum zone in the sea. The lightning didn’t stop, though, and Han Sen’s Jadeskin body could do little to stop the lightning that began surging through his body. He was electrified, and he spasmed and shook like he was doing a breakdance.
 

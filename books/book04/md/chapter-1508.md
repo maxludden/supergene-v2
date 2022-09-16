@@ -1,9 +1,11 @@
+---
 Title:A Man Like God 
 Chapter:1508 
 Section:4 
 Book:4 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## A Man Like God
 ### Chapter 1508

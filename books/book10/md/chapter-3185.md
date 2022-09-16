@@ -1,9 +1,11 @@
+---
 Title:Extra Story for Commemorating Two Years – the End Is Not the End 
 Chapter:3185 
 Section:16 
 Book:10 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Extra Story for Commemorating Two Years – the End Is Not the End
 ### Chapter 3185
@@ -178,7 +180,7 @@ After I told my five-year-old story, I lit up a cigarette and breathed deeply. I
 
 The pretty girl sitting next to me looked at me. She looked scary. She was like a volcano about to erupt. She madly shouted, “Han Jinzhi, is that why when I went to the bathroom you decided to ask that pretty woman for her phone number?”
 
-Slap!
+*Slap!*
 
 What happened next was a slap. There was then the scene of a pretty woman madly leaving.
 
@@ -186,7 +188,7 @@ What happened next was a slap. There was then the scene of a pretty woman madly 
 
 There was a fire where Han Sen was. Fire was everywhere in the bar. Wires sparked. Lots of lights fell from the roof. A big, circular light hit the beautiful girl’s head while she was running.
 
-Ding!
+*Ding!*
 
 The fire alarm started ringing.
 
@@ -352,7 +354,7 @@ After I told my five-year-old story, I lit up a cigarette and breathed deeply. I
 
 The pretty girl that sat next to me looked at me. She looked so scary. She was like a volcanic eruption. She madly shouted at me, “Han Jinzhi, is that why when I went to the bathroom you decided to ask that pretty woman for her phone number?”
 
-Slap!
+*Slap!*
 
 What happened next was a slap. And then there was the scene of a pretty woman leaving madly.
 
@@ -360,7 +362,7 @@ What happened next was a slap. And then there was the scene of a pretty woman le
 
 Where Han Sen was now, there was a fire. In the bar, a fire was everywhere. Wires sparked. Lots of lights fell from the roof. A big, circular light hit the beautiful girl’s head while she was running.
 
-Ding!
+*Ding!*
 
 The fire alarm rang.
 

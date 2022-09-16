@@ -1,9 +1,11 @@
+---
 Title:Killing a Xenogeneic Amidst a Thousand Soldiers 
 Chapter:1788 
 Section:6 
 Book:5 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Killing a Xenogeneic Amidst a Thousand Soldiers
 ### Chapter 1788

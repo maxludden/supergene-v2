@@ -1,9 +1,11 @@
+---
 Title:Researching Positivity and Negativity as One 
 Chapter:3156 
 Section:16 
 Book:10 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Researching Positivity and Negativity as One
 ### Chapter 3156

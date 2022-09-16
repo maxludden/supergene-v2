@@ -1,9 +1,11 @@
+---
 Title:Strange Reaction 
 Chapter:1962 
 Section:8 
 Book:6 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Strange Reaction
 ### Chapter 1962

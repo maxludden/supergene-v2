@@ -1,9 +1,11 @@
+---
 Title:Escape 
 Chapter:2242 
 Section:10 
 Book:7 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Escape
 ### Chapter 2242
@@ -34,7 +36,7 @@ Ice Blue Knight King’s superior speed had allowed him to catch up quickly. Han
 
 The Bai Sema took more and more damage, and it looked likely to break. Ice Blue Knight King punched with increasing ferocity, but suddenly, a roar rang out from the mountain beneath them.
 
-Boom!
+*Boom!*
 
 A white light shot out from deep in the mountains. Its target was Ice Blue Knight King.
 
@@ -68,7 +70,11 @@ Edward took one look and made a mental note of each and every animal that was th
 
 But Edward didn’t keep following the group of xenogeneics. Instead, he looked back the way he had come.
 
-…
+<br>
+
+*****
+
+<br>
 
 When Han Sen escaped Edward’s vision, he used Little Invisible to leave the group of xenogeneics. He didn’t go too far, though. He circled around and went back to where Ice Blue Knight King and that goliath were fighting.
 

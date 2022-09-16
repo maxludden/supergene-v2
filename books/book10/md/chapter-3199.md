@@ -1,9 +1,11 @@
+---
 Title:One-inchapter Thinking, Then One-inch Grey 
 Chapter:3199 
 Section:16 
 Book:10 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## One-inchapter Thinking, Then One-inch Grey
 ### Chapter 3199

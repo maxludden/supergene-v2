@@ -1,9 +1,11 @@
+---
 Title:Second-generation Qi Gong 
 Chapter:668 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Second-generation Qi Gong
 ### Chapter 668

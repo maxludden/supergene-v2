@@ -1,9 +1,11 @@
+---
 Title:Shura Change 
 Chapter:823 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Shura Change
 ### Chapter 823

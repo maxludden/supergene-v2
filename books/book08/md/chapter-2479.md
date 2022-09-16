@@ -1,9 +1,11 @@
+---
 Title:Tianxia’s Power 
 Chapter:2479 
 Section:12 
 Book:8 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Tianxia’s Power
 ### Chapter 2479
@@ -28,7 +30,7 @@ Han Sen held tightly to the Thunder God Spike. His Jadeskin power was running at
 
 Han Sen used all the might he could muster, and it felt like he was pulling power all the way from his toenails! The Blood-Pulse Sutra was boiling inside Han Sen’s body, and his blood roared through his veins like a runaway train.
 
-Boom!
+*Boom!*
 
 Suddenly, a force shook Han Sen from the inside out. He could sense an invisible cogwheel in front of him. His body was the center of the cogwheel—the big red cogwheel.
 

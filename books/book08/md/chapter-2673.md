@@ -1,9 +1,11 @@
+---
 Title:The Glory of One Shot 
 Chapter:2673 
 Section:13 
 Book:8 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## The Glory of One Shot
 ### Chapter 2673
@@ -84,7 +86,7 @@ A bullet tore out of the gun with a shriek that sounded like space itself beginn
 
 A sword light glared with blinding intensity as it hit the bullet. The sword strike found its target, but the bullet didn’t split in half. Instead, it exploded.
 
-Boom!
+*Boom!*
 
 It was like a hydrogen bomb detonating. Looking at it was like staring straight into the sun. It covered Gru and most of the land.
 

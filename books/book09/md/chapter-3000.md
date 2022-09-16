@@ -1,9 +1,11 @@
+---
 Title:Blue Blood Appears 
 Chapter:3000 
 Section:15 
 Book:9 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Blue Blood Appears
 ### Chapter 3000
@@ -80,7 +82,7 @@ More blue blood being released. It flowed through Han Sen’s hair and down his 
 
 All the elites of every race were frozen as they watched this happen. No one was able to understand why this man had suddenly appeared. No one knew what he wanted.
 
-Boom! Boom! Boom!
+*Boom!* *Boom!* *Boom!*
 
 From the highest floor of the god palace in the geno hall, noise that was like thunder sounded. The geno hall’s door slowly opened.
 

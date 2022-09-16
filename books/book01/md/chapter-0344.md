@@ -1,9 +1,11 @@
+---
 Title:Is He a Plant 
 Chapter:344 
 Section:1 
 Book:1 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Is He a Plant
 ### Chapter 344
@@ -50,7 +52,11 @@ Han Sen was only trying to get it over with as fast as he could, while in others
 
 "Do it again, genius."
 
-…
+<br>
+
+*****
+
+<br>
 
 The students would not let Han Sen off the hook easily. It was rare that they could see Han Sen perform, and they would not let go of the opportunity. Seeing the reaction of the audience, Fang Guotao became nervous. Although Primal Innocence was effective, it depended on who the user was. Han Sen was pretending the entire time, while Fang Guotao was not able to tell he was faking it. The fact that Han Sen was able to control his strength so well indicated that Han Sen had both strong confidence and abilities.
 
@@ -60,7 +66,11 @@ Fang Guotao regretted so much that he had called this person. How could he ever 
 
 "Professor, do it again. If you can help Han Sen increase by 1.0, then I would become a true believer."
 
-…
+<br>
+
+*****
+
+<br>
 
 All the students were kicking up a fuss. Fang Guotao looked at Han Sen, and Han Sen threw a glance at Fang Guotao.
 

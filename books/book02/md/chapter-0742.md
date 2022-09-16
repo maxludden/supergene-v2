@@ -1,9 +1,11 @@
+---
 Title:A Shocking Discovery 
 Chapter:742 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## A Shocking Discovery
 ### Chapter 742
@@ -14,7 +16,7 @@ viewport: width=device-width
   
 
   
-Boom!
+*Boom!*
 
 A black smoke burst from Han Sen's body like fire. It instantly incinerated the icy threads that had trapped him. The Flaming Rex Spike in his hand was swung madly towards the remainder, burning more threads into steamy bygones.
 

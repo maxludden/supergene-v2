@@ -1,9 +1,11 @@
+---
 Title:They Dare Believe They Can Strike Me? 
 Chapter:876 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## They Dare Believe They Can Strike Me?
 ### Chapter 876

@@ -1,9 +1,11 @@
+---
 Title:You Passed 
 Chapter:2170 
 Section:9 
 Book:6 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## You Passed
 ### Chapter 2170
@@ -68,7 +70,7 @@ The fires that carried the fist were very demonic. They were tinged with scary T
 
 The fists came against each other, and the power inside Han Sen’s fist shattered. The jade fist had collided with Han Sen’s own with tremendous force.
 
-Boom!
+*Boom!*
 
 Han Sen felt the unstoppable powers coming from that jade fist. It was like a supernova, and the unleashed force hurled Han Sen away.
 

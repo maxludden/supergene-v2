@@ -1,9 +1,11 @@
+---
 Title:The Altar Descends 
 Chapter:1422 
 Section:4 
 Book:4 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## The Altar Descends
 ### Chapter 1422
@@ -22,7 +24,7 @@ But then, she did something else. Luo Lan threw a white fluffy orb into the sky.
 
 It was Snowball, and he clearly wasn’t fond of what Luo Lan had just done. He rained down tears and summoned a big white orb.
 
-Boom!
+*Boom!*
 
 All the grizzly powers were absorbed by the ball, in its descent to the ground. Despite the number of hits it incurred, it did not break. It was a little misshapen by the beating, but it rebounded to its original shape quickly after.
 

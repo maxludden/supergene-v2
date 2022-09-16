@@ -1,9 +1,11 @@
+---
 Title:Holy Bottle Liquid 
 Chapter:2374 
 Section:11 
 Book:7 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Holy Bottle Liquid
 ### Chapter 2374

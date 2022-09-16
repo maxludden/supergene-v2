@@ -1,9 +1,11 @@
+---
 Title:Weird Shura Change 
 Chapter:1613 
 Section:4 
 Book:4 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Weird Shura Change
 ### Chapter 1613
@@ -82,7 +84,7 @@ When Gu Qingcheng drew that blade, she seemed to change. She usually had a myste
 
 Gu Qingcheng expressionlessly swung her sword. The swordlights cast were like curved moons, as their destructive properties were unleashed on the incoming shura and super creatures.
 
-Boom!
+*Boom!*
 
 When the power came against a shura or super creature, it blasted them away. All the while Gu Qingcheng maintained her stance and position, almost unmoving.
 

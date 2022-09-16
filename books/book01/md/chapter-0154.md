@@ -1,9 +1,11 @@
+---
 Title:Brutal Force 
 Chapter:154 
 Section:1 
 Book:1 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Brutal Force
 ### Chapter 154
@@ -18,11 +20,11 @@ The Warframe Society members were overjoyed to see this. They were slowing their
 
 "What a fool! Doesn’t matter if his warframe is good," thought the Warframe Society members contemptuously.
 
-Boom!
+*Boom!*
 
 The silver warframe in leading position knocked out the obstacle wall and kept rushing forward at the same speed.
 
-Boom! Boom! Boom!
+*Boom!* *Boom!* *Boom!*
 
 One wall after another was crushed by Silver Killer. Foot-thick concrete walls were like bubbles under the impact created by the silver warframe.
 
@@ -54,7 +56,12 @@ The viewers of the live show were in an uproar.
 
 "Right. When you fight the Shuras, would you go off your warframes if they don’t use any?"
 
-...
+<br>
+
+*****
+
+<br>
+
 
 Han Sen’s approach caused a lot of controversy, while Ji Yanran was even more upset by his crushing wall after wall.
 

@@ -1,9 +1,11 @@
+---
 Title:Hunting King Class Xenogeneics 
 Chapter:2359 
 Section:11 
 Book:7 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Hunting King Class Xenogeneics
 ### Chapter 2359

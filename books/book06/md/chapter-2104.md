@@ -1,9 +1,11 @@
+---
 Title:Pool of Rebirth 
 Chapter:2104 
 Section:8 
 Book:6 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Pool of Rebirth
 ### Chapter 2104

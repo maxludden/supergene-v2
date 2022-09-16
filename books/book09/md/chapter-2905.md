@@ -1,9 +1,11 @@
+---
 Title:Trapped in the Mountain 
 Chapter:2905 
 Section:15 
 Book:9 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Trapped in the Mountain
 ### Chapter 2905
@@ -30,7 +32,7 @@ He wanted to know where the blonde-haired lady came from. She was able to take t
 
 The blonde-haired lady was emotionless. It was like she did not even hear what Han Sen said. She suddenly turned her body around. She did not care for the fact that her arms were captured. She broke her arms just to turn her body. She looked at Han Sen and used another arm to grab Han Sen’s wrist.
 
-Boom!
+*Boom!*
 
 All Han Sen saw was golden light. He and the blonde-haired lady went inside the mountain where the crystal machinery was shining. It created many crystal lights. They covered Han Sen and the blonde-haired lady.
 

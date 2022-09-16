@@ -1,9 +1,11 @@
+---
 Title:Fighting to Be Soldier King 
 Chapter:499 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Fighting to Be Soldier King
 ### Chapter 499

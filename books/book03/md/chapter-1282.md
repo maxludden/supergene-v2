@@ -1,9 +1,11 @@
+---
 Title:Being Recognized 
 Chapter:1282 
 Section:3 
 Book:3 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Being Recognized
 ### Chapter 1282
@@ -70,7 +72,11 @@ Han Sen quickly opened Skynet and hurried over to the website he had released Xi
 
 “Still no new update? I’m jonesing for my next fix here.”
 
-…
+<br>
+
+*****
+
+<br>
 
 The comic was far more popular than Han Sen could have anticipated.
 

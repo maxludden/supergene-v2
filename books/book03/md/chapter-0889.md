@@ -1,9 +1,11 @@
+---
 Title:Absorbing Geno Plant 
 Chapter:889 
 Section:3 
 Book:3 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Absorbing Geno Plant
 ### Chapter 889

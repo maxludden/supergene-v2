@@ -1,9 +1,11 @@
+---
 Title:Disloyal Knight Beast Soul 
 Chapter:941 
 Section:3 
 Book:3 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Disloyal Knight Beast Soul
 ### Chapter 941
@@ -18,7 +20,7 @@ The fist carried a destructive light. The power was so great that it shone strai
 
 Han Sen's Water-Thunder skill smashed against the Disloyal Knight's back.
 
-Boom!
+*Boom!*
 
 When the Water-Thunder came into contact with the knight's blood, it electrified the being. The crackle, sizzle, and pop of the lightning strike grew louder and fiercer until it crescendoed in a dizzying firework of electricity.
 
@@ -44,7 +46,7 @@ But still, he knew that he had all but triumphed over the frighteningly powerful
 
 The Disloyal Knight had countless coins stacked on it.
 
-Boom!
+*Boom!*
 
 The Disloyal Knight could no longer withstand the pressure. It submitted to the weight and collapsed to the ground, entirely immobile.
 

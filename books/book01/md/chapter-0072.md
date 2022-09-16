@@ -1,9 +1,11 @@
+---
 Title:Hunting Frenzy 
 Chapter:72 
 Section:1 
 Book:1 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Hunting Frenzy
 ### Chapter 72

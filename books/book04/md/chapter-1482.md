@@ -1,9 +1,11 @@
+---
 Title:Sword Skills of a God 
 Chapter:1482 
 Section:4 
 Book:4 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Sword Skills of a God
 ### Chapter 1482

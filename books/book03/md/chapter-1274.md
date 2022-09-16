@@ -1,9 +1,11 @@
+---
 Title:Killing the Empress and Obtaining a Beast Soul 
 Chapter:1274 
 Section:3 
 Book:3 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Killing the Empress and Obtaining a Beast Soul
 ### Chapter 1274

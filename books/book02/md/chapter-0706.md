@@ -1,9 +1,11 @@
+---
 Title:The Return of the Dollar 
 Chapter:706 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## The Return of the Dollar
 ### Chapter 706
@@ -22,7 +24,11 @@ Where once there were only a few in the audience seats, now the stadium was jam-
 
 "It looks like him, yet it doesn't at the same time."
 
-…
+<br>
+
+*****
+
+<br>
 
 Han Sen emerged onto the battleground not having researched his opponents nor read the forfeit guide. He only had to detect an opponent's life force to determine how powerful they truly were. Even if he couldn't tell, the devil ant king armor would keep him safe.
 
@@ -70,7 +76,11 @@ Everyone who watched the fight had been petrified, as if they had been turned to
 
 "Holy crap! Dollar really is still Dollar! Invincible as ever, even here in the Second God's Sanctuary. Allow me to kneel before you and kiss your hand."
 
-…
+<br>
+
+*****
+
+<br>
 
 A lot of Dollar's fans were driven into a frenzy by the excitement of his most recent, sensational win. Although some humans had been known to show such strength in Divinity's Bout, facing down Black-God and the Silver-Eye Prince and emerging untouched was an incredible thing. It was a very rare occurrence.
 

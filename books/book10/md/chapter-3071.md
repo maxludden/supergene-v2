@@ -1,9 +1,11 @@
+---
 Title:Cricket Cave 
 Chapter:3071 
 Section:16 
 Book:10 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Cricket Cave
 ### Chapter 3071
@@ -70,7 +72,7 @@ Han Sen’s heart suddenly jumped. “This thing is not going to react after see
 
 Although Han Sen thought that way, he was not going to use his own blood for the testing. He looked around, planning to kill a gene race and see if he could use the gene race’s blood to activate the stone box.
 
-Ding! Han Sen suddenly heard a sound that was like a harp’s string being plucked. It came from inside a bush. Han Sen looked into the sky. It was dark. A moon was now above the mountain.
+*Ding!* Han Sen suddenly heard a sound that was like a harp’s string being plucked. It came from inside a bush. Han Sen looked into the sky. It was dark. A moon was now above the mountain.
 
 Not long later, Han Sen heard a harp sound in the vicinity. It was like someone was playing an old instrument. It sounded very nice. Under the night sky of the valley, it sounded very mysterious.
 

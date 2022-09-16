@@ -1,9 +1,11 @@
+---
 Title:The Story of Genes Real Creator 
 Chapter:3376 
 Section:17 
 Book:10 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## The Story of Genes Real Creator
 ### Chapter 3376

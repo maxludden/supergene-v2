@@ -1,9 +1,11 @@
+---
 Title:Hired to Fight 
 Chapter:371 
 Section:1 
 Book:1 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Hired to Fight
 ### Chapter 371

@@ -1,9 +1,11 @@
+---
 Title:Gold Electric Mark 
 Chapter:3101 
 Section:16 
 Book:10 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Gold Electric Mark
 ### Chapter 3101

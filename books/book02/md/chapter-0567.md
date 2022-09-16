@@ -1,9 +1,11 @@
+---
 Title:The Battle With Spirits 
 Chapter:567 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## The Battle With Spirits
 ### Chapter 567
@@ -96,7 +98,11 @@ From the audiences, noise and chatter quickly erupted.
 
 "Of course it will be the demon - just hearing the name you can tell which of them is the strongest!"
 
-…
+<br>
+
+*****
+
+<br>
 
 After Son of Heaven, who was sitting in the rafters, heard the speech by the host, his eyes looked strange. He said to himself, "A royal female spirit, huh? Well, I suppose it doesn't matter. It's impossible for it to beat my demon."
 

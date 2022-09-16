@@ -1,9 +1,11 @@
+---
 Title:Holy Place 
 Chapter:1745 
 Section:6 
 Book:5 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Holy Place
 ### Chapter 1745

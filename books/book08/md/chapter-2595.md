@@ -1,9 +1,11 @@
+---
 Title:Chase Star Whip 
 Chapter:2595 
 Section:12 
 Book:8 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Chase Star Whip
 ### Chapter 2595

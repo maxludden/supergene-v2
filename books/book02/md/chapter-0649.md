@@ -1,9 +1,11 @@
+---
 Title:A Shocking Discovery in the Alliance 
 Chapter:649 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## A Shocking Discovery in the Alliance
 ### Chapter 649

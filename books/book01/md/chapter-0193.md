@@ -1,9 +1,11 @@
+---
 Title:Judgment 
 Chapter:193 
 Section:1 
 Book:1 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Judgment
 ### Chapter 193
@@ -46,7 +48,7 @@ This time, Ouyang had seen clearly that although Han Sen's muscles looked tighte
 
 Although he had judged this fist to be white, Ouyang still raised his arms. It seemed that he had taken Han Sen for a serious opponent, so he still prepared for the worst scenario when he was confident about his decision.
 
-Boom!
+*Boom!*
 
 Han Sen's fist hit Ouyang on the arm. Ouyang's body shook but did not fall back.
 
@@ -74,7 +76,7 @@ That feeling was hard to describe. Han Sen’s moves were misleading not only be
 
 "Again." Ouyang slowly spit out the word.
 
-Bang!
+*Bang!*
 
 Han Sen threw a punch and Ouyang raised his arms. This time Han Sen punched harder, but Ouyang could still stand still.
 

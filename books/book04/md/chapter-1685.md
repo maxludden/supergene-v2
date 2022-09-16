@@ -1,9 +1,11 @@
+---
 Title:Dug Something Ou 
 Chapter:1685 
 Section:5 
 Book:4 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Dug Something Ou
 ### Chapter 1685

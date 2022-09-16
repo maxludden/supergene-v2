@@ -1,9 +1,11 @@
+---
 Title:The Chosen Slayed in One Strike 
 Chapter:99 
 Section:1 
 Book:1 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## The Chosen Slayed in One Strike
 ### Chapter 99

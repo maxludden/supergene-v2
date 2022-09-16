@@ -1,9 +1,11 @@
+---
 Title:Killing a Deified Again 
 Chapter:2639 
 Section:12 
 Book:8 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Killing a Deified Again
 ### Chapter 2639

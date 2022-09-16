@@ -1,9 +1,11 @@
+---
 Title:Strongest Second Gen God 
 Chapter:3355 
 Section:17 
 Book:10 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Strongest Second Gen God
 ### Chapter 3355

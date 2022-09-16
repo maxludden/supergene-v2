@@ -1,9 +1,11 @@
+---
 Title:Getting Decomposed and Rebuilt 
 Chapter:1678 
 Section:4 
 Book:4 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Getting Decomposed and Rebuilt
 ### Chapter 1678
@@ -30,7 +32,7 @@ Normal demigods had a low success rate themselves. The ratio was something of a 
 
 “Dad!” Seeing the door sucking Han Sen and Ancient Devil inside, Bao’er flew through the door just before it closed.
 
-Boom!
+*Boom!*
 
 The stone door closed tight, hidden in the air. Then, it was gone.
 

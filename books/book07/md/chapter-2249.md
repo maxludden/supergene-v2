@@ -1,9 +1,11 @@
+---
 Title:Ghost Bone Mask 
 Chapter:2249 
 Section:10 
 Book:7 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Ghost Bone Mask
 ### Chapter 2249
@@ -64,7 +66,11 @@ If Fox Queen was telling him the truth, then taming the blood kirin should be ea
 
 The key that unlocked the gate to White Bone Hell was around Fox Queen’s neck. Unless she opened the gate personally, no one else could enter.
 
-…
+<br>
+
+*****
+
+<br>
 
 In the base of the Ice Blue Knights, Edward looked gloomy.
 
@@ -90,7 +96,11 @@ Edward shook his head. “No. If he was eaten by a xenogeneic, it would have lef
 
 “He would go alone if he could, but his power isn’t well-suited for combat. He can’t do much, and thus, he has to depend on Crime. Even if he knew where Han Sen was, he’d still need Ice Blue Knight King or us to fight for him.” Edward moaned and said, “We can wait. Ice Blue Knight King will lose his patience eventually, and he will go to Mister White. When that time comes, we just have to follow them.”
 
-…
+<br>
+
+*****
+
+<br>
 
 Inside the palace, Han Sen was looking increasingly ghostly. His flesh had become a bit transparent, and his skeleton had blackened.
 

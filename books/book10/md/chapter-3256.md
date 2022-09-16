@@ -1,9 +1,11 @@
+---
 Title:The Power of Bad Luck 
 Chapter:3256 
 Section:16 
 Book:10 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## The Power of Bad Luck
 ### Chapter 3256

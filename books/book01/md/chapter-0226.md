@@ -1,9 +1,11 @@
+---
 Title:Cake Tasting 
 Chapter:226 
 Section:1 
 Book:1 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Cake Tasting
 ### Chapter 226
@@ -24,7 +26,12 @@ After the semi-annual assessment, Han Sen was celebrating with his roommates, Ji
 
 "Not yours." Lu Meng laughed.
 
-...
+<br>
+
+*****
+
+<br>
+
 
 After dinner, the group of friends went to sing karaoke and play games until late. Han Sen hinted Shi Zhikang to lead Qu Lili away so that he could accompany his girlfriend back alone.
 

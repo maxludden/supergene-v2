@@ -1,9 +1,11 @@
+---
 Title:Strange Valley 
 Chapter:1125 
 Section:3 
 Book:3 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Strange Valley
 ### Chapter 1125

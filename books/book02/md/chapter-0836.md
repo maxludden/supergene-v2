@@ -1,9 +1,11 @@
+---
 Title:Martial Hall's God 
 Chapter:836 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Martial Hall's God
 ### Chapter 836

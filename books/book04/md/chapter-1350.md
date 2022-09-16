@@ -1,9 +1,11 @@
+---
 Title:First Self Geno Core 
 Chapter:1350 
 Section:4 
 Book:4 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## First Self Geno Core
 ### Chapter 1350

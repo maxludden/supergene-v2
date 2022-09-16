@@ -1,9 +1,11 @@
+---
 Title:Gourd Seed 
 Chapter:3357 
 Section:17 
 Book:10 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Gourd Seed
 ### Chapter 3357

@@ -1,9 +1,11 @@
+---
 Title:Leveling Up Under Pressure 
 Chapter:1543 
 Section:4 
 Book:4 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Leveling Up Under Pressure
 ### Chapter 1543
@@ -78,7 +80,7 @@ Han Sen didn’t make it obvious that he was deliberately watching the man strug
 
 Surprisingly, as hard it was for him, he managed to hold on strong. And when he almost reached the sixth light, his very bones began to creak. His entire skeleton sounded as if it was going to break.
 
-Boom!
+*Boom!*
 
 When Tang Zhenliu stepped into the wash of the sixth light, his entire body glowed with the color silver. It looked as if his geno core had managed to reach silver class.
 

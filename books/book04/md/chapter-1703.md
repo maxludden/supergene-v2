@@ -1,9 +1,11 @@
+---
 Title:A Sword You Cannot Block 
 Chapter:1703 
 Section:5 
 Book:4 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## A Sword You Cannot Block
 ### Chapter 1703
@@ -26,7 +28,7 @@ Since Ji Yanran had now lost her crystal shoes, Little Angel and Golden Growler 
 
 The crystal shoes landed right before Han Sen. He put them on. At the same time, the glove armor returned to just being a glove again.
 
-Boom!
+*Boom!*
 
 The officer stabbed a number of holes into the ground. He was breaking the planet, but he wasn’t managing to hit Han Sen. The crystal shoes and their power pulled Han Sen away, preventing him from being stabbed.
 

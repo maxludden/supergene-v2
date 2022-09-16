@@ -1,9 +1,11 @@
+---
 Title:This Life, This World, This Sky, This Earth; This Single Strike 
 Chapter:583 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## This Life, This World, This Sky, This Earth; This Single Strike
 ### Chapter 583
@@ -94,7 +96,11 @@ Yi Dongmu and Dollar left, and although the fighters had not determined who was 
 
 "Dollar is still Dollar."
 
-…
+<br>
+
+*****
+
+<br>
 
 Fang Mingquan gave a long sigh. Feeling sorry, he said, "This attack determines life and death, but for now, they are strangers. One battle fought by two legends; this is something that we will never witness again."
 
@@ -116,7 +122,11 @@ Almost everyone who watched this fight rewatched it a number of times. But no ma
 
 "I accept the passion behind this strike. I am going to cry; Dollar was too cruel and he robbed Yi Dongmu of his soul."
 
-…
+<br>
+
+*****
+
+<br>
 
 After Fang Mingquan returned to his office, he sorted out the video recording of the battle. It did not need editing; it only needed a title and an article to go alongside it. But this article was not for Dollar, it was for Yi Dongmu.
 

@@ -1,9 +1,11 @@
+---
 Title:Good Officer? 
 Chapter:3243 
 Section:16 
 Book:10 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Good Officer?
 ### Chapter 3243
@@ -34,7 +36,7 @@ Qin Jing Zhen wanted to say something to Qin Bai. He was going to say it, but he
 
 After thinking of that, Qin Jing Zhen sighed. “With my son’s personality being what it is, it will be hard for him to become a good king.”
 
-Boom!
+*Boom!*
 
 After billions of years of fortitude, a large crack cut right through Jade Wall City. The old buildings, which looked like dragons, were totally cracked.
 

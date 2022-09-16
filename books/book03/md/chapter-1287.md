@@ -1,9 +1,11 @@
+---
 Title:Dirty Saint Fan 
 Chapter:1287 
 Section:3 
 Book:3 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Dirty Saint Fan
 ### Chapter 1287
@@ -58,7 +60,11 @@ The other humans also began to speak out with their pained, distorted voices. It
 
 “Please! End our torment and slay this horrid spirit. Free us!”
 
-…
+<br>
+
+*****
+
+<br>
 
 Rodman and the others all told Han Sen to kill the spirit and not think about saving them.
 

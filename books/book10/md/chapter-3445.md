@@ -1,9 +1,11 @@
+---
 Title:Assassinate 
 Chapter:3445 
 Section:17 
 Book:10 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Assassinate
 ### Chapter 3445
@@ -62,7 +64,7 @@ He had learned where Ji Yanran lived a long time ago. He had formed this idea a 
 
 But their power was too small before the might of the bai sema beast. They would not even be able to touch the body of the bai sema beast. The bai sema beast was able to go through everything and head for Han Sen and Ji Yanran’s house.
 
-Boom! Boom!
+*Boom!* *Boom!*
 
 The whole of the house was broken down by the bai sema beast’s body. The house was shattered. Ji Yanran ran out of the house while clutching Ling’er.
 
@@ -84,7 +86,7 @@ Although their guts were small, and they were afraid to die, their power was sti
 
 Golden Growler came before Ji Yanran and emitted a gold light. It fired a stream of gold light to strike the five incoming powers,
 
-Boom!
+*Boom!*
 
 Golden Growler’s body was blasted backward a little. He almost hit Ji Yanran and Ling’er, the mother and the daughter, but his body suddenly stopped.
 

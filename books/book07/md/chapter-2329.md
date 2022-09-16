@@ -1,9 +1,11 @@
+---
 Title:Extreme King Pavilion 
 Chapter:2329 
 Section:11 
 Book:7 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Extreme King Pavilion
 ### Chapter 2329

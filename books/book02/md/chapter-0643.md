@@ -1,9 +1,11 @@
+---
 Title:T-rex Approaching 
 Chapter:643 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## T-rex Approaching
 ### Chapter 643

@@ -1,9 +1,11 @@
+---
 Title:Retreat 
 Chapter:2582 
 Section:12 
 Book:8 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Retreat
 ### Chapter 2582
@@ -22,7 +24,7 @@ Han Sen and the bird were attacking the monster together, but they were at a dis
 
 “Real deified xenogeneics are scary. Those fake deified xenogeneics in the core area are nothing compared to this.” Han Sen was shocked. He couldn’t think of a way in which they could defeat this foe. An idea occurred to him, and he summoned his Six Core Snake Bow. He didn’t have any deified arrows for it, so he had to summon a King class arrow beast soul. He placed the arrow on the Six Core Snake Bow and pulled the string.
 
-Whoosh!
+*Whoosh!*
 
 The moment Han Sen let the arrow fly, the Six Core Snake Bow’s six wheels spun. The arrow was imbued with a strange power, and it immediately disappeared.
 

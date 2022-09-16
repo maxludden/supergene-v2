@@ -1,9 +1,11 @@
+---
 Title:Weird Changes 
 Chapter:2587 
 Section:12 
 Book:8 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Weird Changes
 ### Chapter 2587

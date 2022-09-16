@@ -1,9 +1,11 @@
+---
 Title:There Are Many Kings, but Amongst Them, Only One Ruler 
 Chapter:915 
 Section:3 
 Book:3 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## There Are Many Kings, but Amongst Them, Only One Ruler
 ### Chapter 915

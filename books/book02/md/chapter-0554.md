@@ -1,9 +1,11 @@
+---
 Title:I Can Do It 
 Chapter:554 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## I Can Do It
 ### Chapter 554
@@ -48,7 +50,7 @@ Even his disposition had taken a nasty blow - it was no wonder Zhu Ting had told
 
 "Besides, this cheap crap is all over Skynet. There is no need for me to buy it, I can just find it. Who needs this crap?" Han Sen felt personally offended.
 
-Ding! Ding! Ding!
+*Ding!* *Ding!* *Ding!*
 
 Han Sen felt enraged, and swore that he would teach Zhu Ting a lesson he would not soon forget. He would teach him not to underestimate the abilities of his master. But while he resolved to do this, the communicator rang.
 

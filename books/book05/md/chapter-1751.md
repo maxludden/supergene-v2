@@ -1,9 +1,11 @@
+---
 Title:Strange Scene 
 Chapter:1751 
 Section:6 
 Book:5 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Strange Scene
 ### Chapter 1751

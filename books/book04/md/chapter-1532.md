@@ -1,9 +1,11 @@
+---
 Title:Traveling Through a Sea of Stars 
 Chapter:1532 
 Section:4 
 Book:4 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Traveling Through a Sea of Stars
 ### Chapter 1532

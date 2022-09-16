@@ -1,9 +1,11 @@
+---
 Title:There Are Still Creatures Like That? 
 Chapter:2112 
 Section:8 
 Book:6 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## There Are Still Creatures Like That?
 ### Chapter 2112
@@ -48,7 +50,11 @@ But Crazy Cow’s creepily ecstatic face went blank. He looked shocked at first,
 
 “Could it really have been that weak?” Littleflower froze. He stared up at the sky, not believing what had just happened.
 
-…
+<br>
+
+*****
+
+<br>
 
 Inside another section of the Geno Being Scroll, many fights were raging. People were getting kicked out of the match every second, whittling down the roster to only the ten thousand that were allowed to remain.
 

@@ -1,9 +1,11 @@
+---
 Title:Stalemate 
 Chapter:2795 
 Section:14 
 Book:9 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Stalemate
 ### Chapter 2795

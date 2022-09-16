@@ -1,9 +1,11 @@
+---
 Title:Cactus Fruit 
 Chapter:766 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Cactus Fruit
 ### Chapter 766
@@ -66,7 +68,7 @@ The black-flame phoenix and cloud watched the rhino eat the fruit but did not le
 
 "The white rhino ate the fruit; what are they waiting for? Is the cactus edible? It shouldn't be, since it's full of thorns," Han Sen thought, as he looked to the top of the cactus which had been cleaned by the rhino's maw.
 
-Boom!
+*Boom!*
 
 But then Han Sen became confused. The rhino that ate the fruit leapt on the spot, and when it came down, its giant body shook the entire desert.
 

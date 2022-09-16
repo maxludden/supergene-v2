@@ -1,9 +1,11 @@
+---
 Title:Sonic-thunder Punch 
 Chapter:756 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Sonic-thunder Punch
 ### Chapter 756

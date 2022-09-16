@@ -1,9 +1,11 @@
+---
 Title:The Three of Us 
 Chapter:1277 
 Section:3 
 Book:3 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## The Three of Us
 ### Chapter 1277
@@ -30,7 +32,7 @@ Han Sen felt a change in Purple Emperor’s lifeforce, and the color of his body
 
 When the new color grew, the emperor’s overall color became a mixture of purple and blue.
 
-Boom!
+*Boom!*
 
 Purple Emperor’s body began to leak gas. He hadn’t farted; it was just that this gas was starting to seep out of the pores on his body.
 

@@ -1,9 +1,11 @@
+---
 Title:The Plan to Max Out Sacred Geno Points 
 Chapter:389 
 Section:1 
 Book:1 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## The Plan to Max Out Sacred Geno Points
 ### Chapter 389

@@ -1,9 +1,11 @@
+---
 Title:Firetail Butterfly King 
 Chapter:1476 
 Section:4 
 Book:4 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Firetail Butterfly King
 ### Chapter 1476

@@ -1,18 +1,21 @@
-Title:Ten Thousand per Slap
-Chapter:55
-Section:1
-Book:1
-CSS:../Styles/style.css
+---
+Title:Ten Thousand per Slap 
+Chapter:55 
+Section:1 
+Book:1 
+CSS:../Styles/style.css 
 viewport: width=device-width
-
+---
+  
 ## Ten Thousand per Slap
 ### Chapter 55
-
+  
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
+  
 
-
+  
 Han Sen knew Fang Jingqi had misunderstood him. He smiled back at Fang Jingqi, "Let’s not to go to the combat pit. Would you play a small game with me here at home?"
 
 Xue Xi shot Han Sen a look of disapproval, but this time Han Sen did not respond to her.

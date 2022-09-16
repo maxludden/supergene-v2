@@ -1,9 +1,11 @@
+---
 Title:The Power of Science 
 Chapter:2262 
 Section:10 
 Book:7 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## The Power of Science
 ### Chapter 2262

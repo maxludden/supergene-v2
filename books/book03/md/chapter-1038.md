@@ -1,9 +1,11 @@
+---
 Title:The View That Contains a Thousand Birds 
 Chapter:1038 
 Section:3 
 Book:3 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## The View That Contains a Thousand Birds
 ### Chapter 1038
@@ -82,7 +84,7 @@ Holy-Sword Emperor had been fixated on Han Sen the entire time, and had initiall
 
 “My Emperor, the time is now!” Han Sen happily proclaimed.
 
-Boom!
+*Boom!*
 
 The statue shattered, and a man drenched in blood appeared. A silver light encompassed his body, healing his wounds. In the time that it took Xie Qing King to take two steps, he became fully healed.
 

@@ -1,9 +1,11 @@
+---
 Title:God Spirit's Special Authority 
 Chapter:2977 
 Section:15 
 Book:9 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## God Spirit's Special Authority
 ### Chapter 2977

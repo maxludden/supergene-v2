@@ -1,9 +1,11 @@
+---
 Title:Breaking the Door 
 Chapter:2351 
 Section:11 
 Book:7 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Breaking the Door
 ### Chapter 2351
@@ -34,7 +36,7 @@ If Ancient Water God wanted to kill, he could destroy an entire system within th
 
 Xius looked up with wide eyes, and she said, “Ancient Gods are born deified, and their lifespan is a billion years. Few creatures can ever hope to rival the Ancient God in this universe.”
 
-Boom!
+*Boom!*
 
 A loud noise boomed above them, forming massive waves on the surface of the hovering water. Then, a heavy rain was unleashed. A shockwave rolled out from the water, shaking the mountains as it brushed their peaks.
 
@@ -44,7 +46,7 @@ Pang!
 
 Han Sen’s body hit a mountainside, and the peak collapsed. Blood trickled from Han Sen’s mouth. He used all his power to repel the force, but he couldn’t hold back the overwhelming shockwave. He couldn’t even stand up straight.
 
-Boom!
+*Boom!*
 
 Another shockwave rolled across the sky, and lots of heavy rain followed in its wake. The rain slammed down like a tsunami, shoving Han Sen back even further.
 

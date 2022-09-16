@@ -1,9 +1,11 @@
+---
 Title:Unbelievable Kindness 
 Chapter:1016 
 Section:3 
 Book:3 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Unbelievable Kindness
 ### Chapter 1016
@@ -24,7 +26,7 @@ Han Sen didn’t care much for the two-faced man, making a fool of himself on th
 
 Chen Hu, on the other hand, saw things differently. He was touched by what Liu Yuxuan was doing, believing his act wasn’t one of self-preservation. He believed he had gone on the ground to kowtow on his behalf and the others that were with him.
 
-Boom!
+*Boom!*
 
 The beast king landed before them all. Liu Yuxuan did not relent in his feverish kowtowing.
 

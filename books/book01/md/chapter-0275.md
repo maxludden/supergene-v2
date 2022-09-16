@@ -1,9 +1,11 @@
+---
 Title:Hunting Alone 
 Chapter:275 
 Section:1 
 Book:1 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Hunting Alone
 ### Chapter 275

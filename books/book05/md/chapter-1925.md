@@ -1,9 +1,11 @@
+---
 Title:Red Mist King 
 Chapter:1925 
 Section:7 
 Book:5 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Red Mist King
 ### Chapter 1925
@@ -50,7 +52,7 @@ The next second, many xenogeneic machines were coming for Han Sen. Furthermore, 
 
 Han Sen could see that most of the lasers had Viscount class strength, but there were a few that were Earl class.
 
-Boom!
+*Boom!*
 
 After the chaos started to unfold, Red Mist King was sent soaring into a building with a crash. Han Sen felt every movement, but Red Mist King hadn’t sustained any injuries.
 
@@ -58,7 +60,7 @@ The little minks were rolling around in the mist. They looked rather annoyed.
 
 And then, Han Sen saw the joints of the armor begin to shine red. The minks controlled the Red Mist King’s fists, which were now blazing with fire. It moved forward and punched an opponent.
 
-Boom!
+*Boom!*
 
 A giant beam of light came out of the fist. It destroyed the streets, buildings, and xenogeneic machines all around. Everything was broken or melted under the force.
 

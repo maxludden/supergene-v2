@@ -1,9 +1,11 @@
+---
 Title:Getting Into the Geno Hall 
 Chapter:2878 
 Section:14 
 Book:9 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Getting Into the Geno Hall
 ### Chapter 2878
@@ -32,7 +34,7 @@ In space, the geno hall had already been revealed. The doors that provided acces
 
 “Roar!” Golden Growler suddenly roared again. The gold light turned him into a gold, giant beast. It forcefully struck the gate of the geno hall.
 
-Boom!
+*Boom!*
 
 The doors were being attacked by the gold light and opened a little. It enabled gold light to seep out from inside the hall. The light was warm. It shone with a vibrant halo. Many scary feelings were coming out from the door. It made the many people and creatures of the universe terrified. Creatures with low wills were already on the ground, not daring to look at the geno hall’s doors.
 
@@ -44,7 +46,7 @@ Golden Growler was carrying Han Sen. He stepped toward the doors of the geno hal
 
 е
 
-Boom!
+*Boom!*
 
 When Golden Growler went to the geno hall’s doors, they completely opened. The god light inside shone across the whole universe. It was now daytime in the entire universe.
 

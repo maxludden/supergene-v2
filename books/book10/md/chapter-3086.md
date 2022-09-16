@@ -1,9 +1,11 @@
+---
 Title:Finally Got a Gene Egg 
 Chapter:3086 
 Section:16 
 Book:10 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Finally Got a Gene Egg
 ### Chapter 3086
@@ -22,7 +24,7 @@ viewport: width=device-width
 
 Gong Shu Jin thought he had a chance to live. After hearing Han Sen, his expression changed. His body emitted a weird light. He kept flapping his wings, wanting to fly far away. Gong Shu Zhi’s light was shouting, “If you kill my son, I, Gong Shu Zhi, will not stop hunting you down!”
 
-Boom!
+*Boom!*
 
 Before Gong Shu Zhi finished talking, a scary purple dragon air, which looked as if it was swallowing the sky and ground, was headed for Gong Shu Jin. It vaporized Gong Shu Jin and Gong Shu Zhi’s shadow.
 

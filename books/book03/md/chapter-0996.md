@@ -1,9 +1,11 @@
+---
 Title:Ancient Shura Text 
 Chapter:996 
 Section:3 
 Book:3 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Ancient Shura Text
 ### Chapter 996
@@ -34,7 +36,7 @@ Split-Space King, before it was all over, became numb. Eventually, he gave up co
 
 The quiet chattering between the spirits soon turned into a frenzy of praise and fawning, and whenever they looked at The King, their faces fell slack in complete awe and admiration of him.
 
-Boom!
+*Boom!*
 
 After killing Split-Space King ninety-nine times, Han Sen’s space geno point tally reached a hundred. He couldn’t increase it anymore.
 

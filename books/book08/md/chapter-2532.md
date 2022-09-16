@@ -1,9 +1,11 @@
+---
 Title:Playing Chess 
 Chapter:2532 
 Section:12 
 Book:8 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Playing Chess
 ### Chapter 2532

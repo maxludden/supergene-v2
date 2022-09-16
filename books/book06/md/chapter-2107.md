@@ -1,9 +1,11 @@
+---
 Title:You Can Be Strong but the Benefits Are All Mine 
 Chapter:2107 
 Section:8 
 Book:6 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## You Can Be Strong but the Benefits Are All Mine
 ### Chapter 2107
@@ -88,7 +90,7 @@ Andola and Angela were talented enough to bring their proficiency with it up to 
 
 Although they were only Dukes now, the Judgment Angel Light they were summoning would still be incredibly powerful.
 
-Boom!
+*Boom!*
 
 When that gold light reached its max size, Andola and his gold angel shoved it forward. The light looked as if it could destroy a galaxy as it streaked toward the shield.
 
@@ -100,7 +102,7 @@ Many Feather elders and Dukes were shocked.
 
 Angela roared and gave his big Judgment Angel Light to Andola. Andola looked scary as he cast the second Judgment Angel Light. He gathered up the strength of two people.
 
-Boom!
+*Boom!*
 
 A thick gold light came against the blue shield like a light of judgment that could destroy Earth.
 

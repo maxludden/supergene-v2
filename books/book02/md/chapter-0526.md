@@ -1,9 +1,11 @@
+---
 Title:Beast Soul of Nightmare 
 Chapter:526 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Beast Soul of Nightmare
 ### Chapter 526
@@ -26,7 +28,7 @@ Into the nest again, the silver berserk gargoyle quickly rushed toward him.
 
 Han Sen did not dodge this time, blocking the gargoyle's arm with his ghost-pawed claws.
 
-Bang!
+*Bang!*
 
 The claws and the arm of the gargoyle suddenly clashed, leaving a new long injury on the gargoyle's arm. Silver blood suddenly started to flow.
 
@@ -42,7 +44,7 @@ As Han Sen was feeling content, the gargoyle suddenly scratched at him. Just whe
 
 The ten nails looking like silver daggers suddenly hit Han Sen's armor.
 
-Ding!
+*Ding!*
 
 The sound of metal made people's ear hurt. However, the nails that looked like daggers did not manage to penetrate the armor, but only left some shallow marks on it.
 

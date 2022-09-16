@@ -1,9 +1,11 @@
+---
 Title:Battling Evil 
 Chapter:1079 
 Section:3 
 Book:3 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Battling Evil
 ### Chapter 1079
@@ -26,7 +28,7 @@ The light broke through his attempts of defense, penetrating the Dongxuan Sutra 
 
 It wasn’t only Han Sen’s Qi Gong and energy that were being warped by this intrusive power, it was his very genes. They were morphing to the will of the light.
 
-Boom!
+*Boom!*
 
 Han Sen became a gold raven, and in this form, he activated nine of his gene locks. He wanted to leave this area at once.
 

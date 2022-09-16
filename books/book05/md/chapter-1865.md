@@ -1,9 +1,11 @@
+---
 Title:Breaking Their Knives and Not Hurting the People 
 Chapter:1865 
 Section:7 
 Book:5 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Breaking Their Knives and Not Hurting the People
 ### Chapter 1865

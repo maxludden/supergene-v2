@@ -1,9 +1,11 @@
+---
 Title:Flipping a Hand to Suppress 
 Chapter:3266 
 Section:16 
 Book:10 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Flipping a Hand to Suppress
 ### Chapter 3266

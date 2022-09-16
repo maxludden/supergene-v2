@@ -1,9 +1,11 @@
+---
 Title:Bone 
 Chapter:925 
 Section:3 
 Book:3 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Bone
 ### Chapter 925
@@ -16,7 +18,7 @@ viewport: width=device-width
   
 Han Sen grabbed ahold of the dinosaur's neck, wishing to slow it down and allow Qu Lanxi to return safely. But the dinosaur was too powerful, and when it leapt towards the open door, it fell through into the shelter.
 
-Boom!
+*Boom!*
 
 The blue dinosaur landed on the tiled grounds below, shattering the stone. With its eyes still fixed on Qu Lanxi, it roared, got back up, and tried to bite her.
 

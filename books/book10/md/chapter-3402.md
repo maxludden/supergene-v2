@@ -1,9 +1,11 @@
+---
 Title:Fighting Moment God Again 
 Chapter:3402 
 Section:17 
 Book:10 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Fighting Moment God Again
 ### Chapter 3402

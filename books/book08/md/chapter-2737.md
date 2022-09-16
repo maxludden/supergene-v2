@@ -1,9 +1,11 @@
+---
 Title:Ancient Wall 
 Chapter:2737 
 Section:13 
 Book:8 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Ancient Wall
 ### Chapter 2737
@@ -74,7 +76,11 @@ The Six-Eared Macaque was shocked. It used its power again, hitting the light sh
 
 For some reason, the Six-Eared Macaque felt a chill run down its spine. It had a bad feeling about this.
 
-…
+<br>
+
+*****
+
+<br>
 
 Tang Ming’er had only just entered Star Moon Shelter when someone recognized her.
 

@@ -1,9 +1,11 @@
+---
 Title:Demonic Beast Soul 
 Chapter:2698 
 Section:13 
 Book:8 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Demonic Beast Soul
 ### Chapter 2698

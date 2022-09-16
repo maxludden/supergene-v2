@@ -1,9 +1,11 @@
+---
 Title:Skill Negation 
 Chapter:917 
 Section:3 
 Book:3 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Skill Negation
 ### Chapter 917
@@ -24,7 +26,12 @@ viewport: width=device-width
 
 "Hmm... what you say does make sense."
 
-...
+<br>
+
+*****
+
+<br>
+
 
 Seeing The King of Truth drive his island towards Han Sen, all the spirits began to talk amongst themselves. They feverishly discussed which of the two titans might be stronger.
 
@@ -66,7 +73,7 @@ Han Sen's body lit up with his signature holy light. Just like his previous punc
 
 The King of Truth did not underestimate this, though. He watched the white light approach, and so he made his own body shine with silver and projected a layer of protection across his being.
 
-Boom!
+*Boom!*
 
 Han Sen's fist collided with the silver mirror.
 
@@ -102,7 +109,12 @@ This aspect also came into play against The King of Truth's mirror-power. The sp
 
 "This is what you call invincible. King spirits are ground into dust before him."
 
-...
+<br>
+
+*****
+
+<br>
+
 
 The spirits discussed many topics amongst themselves, all of which pertained to The King. All the while, The King of Day, Flower Empress, and Heavenly Empress could do little but frown.
 

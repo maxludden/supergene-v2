@@ -1,9 +1,11 @@
+---
 Title:Shield 
 Chapter:2096 
 Section:8 
 Book:6 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Shield
 ### Chapter 2096
@@ -28,7 +30,7 @@ Han Sen and Lone Bamboo were important to Sky Palace. They wouldn’t be sacrifi
 
 The roiling mass of ghost air covered the sky now, and it was trying to consume the blue light. It was like the world was about to be consumed.
 
-Boom!
+*Boom!*
 
 When the ghost air landed, the entire base was annihilated. The construct was practically vaporized.
 

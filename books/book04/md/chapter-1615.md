@@ -1,9 +1,11 @@
+---
 Title:Tiger Amidst the Sheep 
 Chapter:1615 
 Section:4 
 Book:4 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Tiger Amidst the Sheep
 ### Chapter 1615
@@ -16,7 +18,7 @@ viewport: width=device-width
   
 Almost at the same time, Sha Linjia waved his fist that was wreathed in red flame towards Gu Qingcheng’s sword. Two scary forces collided.
 
-Boom!
+*Boom!*
 
 When those two powers hit, there was an explosion. It had the same devastation of a nuke, and when everything vanished in the blinding light, Gu Qingcheng and Sha Linjia were left standing in the air. Sha Linjia’s fire had been extinguished, and Gu Qingcheng’s swirling sword powers had also disappeared.
 
@@ -90,6 +92,6 @@ While Han Sen tallied what he had gotten, he heard a strange movement in his Sea
 
 Those two orbs of light suddenly cracked and began to peel. Gold and white lights came out from the balls like erupting volcanos. The entirety of his Sea of Soul was dyed in the white and gold haze.
 
-Boom!
+*Boom!*
 
 The two orbs of light broke, and within the light, two familiar yet strange bodies were revealed.

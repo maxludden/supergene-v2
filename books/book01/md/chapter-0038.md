@@ -1,9 +1,11 @@
+---
 Title:My Guy 
 Chapter:38 
 Section:1 
 Book:1 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## My Guy
 ### Chapter 38

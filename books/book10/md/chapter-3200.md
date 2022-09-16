@@ -1,9 +1,11 @@
+---
 Title:The Style of That Sword 
 Chapter:3200 
 Section:16 
 Book:10 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## The Style of That Sword
 ### Chapter 3200

@@ -1,9 +1,11 @@
+---
 Title:Abandoning the Fight 
 Chapter:2127 
 Section:8 
 Book:6 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Abandoning the Fight
 ### Chapter 2127

@@ -1,9 +1,11 @@
+---
 Title:Sea Demon Car 
 Chapter:2452 
 Section:12 
 Book:8 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Sea Demon Car
 ### Chapter 2452
@@ -48,7 +50,7 @@ But the godly blood didn’t spill out. The blood became black, smoky dust that 
 
 Seeing the smoky, dust-like god blood, the demon spirit licked its lips hungrily and teleported over to Bao Qin.
 
-Ding!
+*Ding!*
 
 One of the strings of Bao Qin’s harp broke, and a new burst of blood turned into smoke and opened like a flower amidst the clouds.
 

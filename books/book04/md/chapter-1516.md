@@ -1,9 +1,11 @@
+---
 Title:The Power of the Story of Genes 
 Chapter:1516 
 Section:4 
 Book:4 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## The Power of the Story of Genes
 ### Chapter 1516
@@ -76,7 +78,7 @@ Han Sen looked over to Shafei and Tina. He clenched his fist and launched it dir
 
 “Be careful, miss!” Shafei shouted, pushing her away. Tina had frozen solid.
 
-Boom!
+*Boom!*
 
 Shafei took that frightening blow, and her fourth-ranked fighter’s body was immediately incinerated into dust.
 

@@ -1,9 +1,11 @@
+---
 Title:Infiltrating the Shelter 
 Chapter:906 
 Section:3 
 Book:3 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Infiltrating the Shelter
 ### Chapter 906
@@ -46,7 +48,7 @@ Qing Ming Knight was an elite spirit that had unlocked four of his gene locks. H
 
 While they spoke, a spirit wielding a whip appeared. He walked in front of Chu Ming and struck his naked, battered body.
 
-Crack!
+*Crack!*
 
 Chu Ming's skin was dealt another lash, forming another lesion across his bloody body. Although he was on the precipice of death, Chu Ming was still able to scream loudly.
 

@@ -1,9 +1,11 @@
+---
 Title:Crying 
 Chapter:859 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Crying
 ### Chapter 859
@@ -44,7 +46,7 @@ The gourd, meanwhile, had not yet satiated its hunger for the tree's energy. So,
 
 The gourd shone gold like some sort of crystal; it was a most eye-pleasing jewel.
 
-Boom!
+*Boom!*
 
 The Jade-Gold Tree died. Purple Mountain and Moment Shelter which had resided atop it both fell all the way back down to where they had previously rested.
 

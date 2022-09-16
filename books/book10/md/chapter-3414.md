@@ -1,9 +1,11 @@
+---
 Title:Special Genius 
 Chapter:3414 
 Section:17 
 Book:10 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Special Genius
 ### Chapter 3414

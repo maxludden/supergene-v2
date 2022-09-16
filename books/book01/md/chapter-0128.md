@@ -1,9 +1,11 @@
+---
 Title:A Skulk of Foxes 
 Chapter:128 
 Section:1 
 Book:1 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## A Skulk of Foxes
 ### Chapter 128
@@ -54,7 +56,7 @@ Wang Mengmeng had been surrounded by the creatures. Although the white bear had 
 
 Seeing a claw on her shoulder and teeth biting at her white neck, Wang Mengmeng was desperate that she could no longer fight this one off. At this moment, a whoosh was followed by a whimper. The creature on her back was shot through with a black arrow and fell on the ground.
 
-Whoosh! Whoosh! Whoosh!
+*Whoosh!* *Whoosh!* *Whoosh!*
 
 Arrows came from afar and each killed a creature. Soon all eight creatures surrounding her were killed. Any creature that might endanger her was immediately shot dead with an arrow. No arrow was shot in vain. One even flew by her face and killed a creature behind her without hurting a single hair of hers.
 

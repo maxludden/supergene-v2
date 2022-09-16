@@ -1,9 +1,11 @@
+---
 Title:We Are Both King Spirits 
 Chapter:804 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## We Are Both King Spirits
 ### Chapter 804

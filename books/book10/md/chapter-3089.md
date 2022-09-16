@@ -1,9 +1,11 @@
+---
 Title:Going to the Mountain and Asking a God for Help 
 Chapter:3089 
 Section:16 
 Book:10 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Going to the Mountain and Asking a God for Help
 ### Chapter 3089

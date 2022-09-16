@@ -1,9 +1,11 @@
+---
 Title:Blood God Mantis 
 Chapter:1987 
 Section:8 
 Book:6 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Blood God Mantis
 ### Chapter 1987
@@ -64,7 +66,7 @@ And yes, Blood God Mantis did indeed flap its wings to dodge upwards. It got wel
 
 Spell retreated, still clutching the rocket launcher. The Blood God Mantis continued to advance, but the rocket that had gone by suddenly swung around like a heat-seeking missile. It hit the mantis in the back.
 
-Boom!
+*Boom!*
 
 There was an explosion, and Blood God Mantis’ body was sent flying away. Its shell was covered in a number of small wounds. The rocket must have damaged its shell when it detonated.
 

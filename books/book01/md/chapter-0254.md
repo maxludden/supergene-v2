@@ -1,9 +1,11 @@
+---
 Title:Archery Expert 
 Chapter:254 
 Section:1 
 Book:1 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Archery Expert
 ### Chapter 254
@@ -26,7 +28,11 @@ viewport: width=device-width
 
 "So exciting!"
 
-…
+<br>
+
+*****
+
+<br>
 
 The Alliance Central Military Academy won their first round without any suspense.
 
@@ -86,7 +92,11 @@ Feng Jiulun's remark led to fury of the viewers.
 
 "PR stunt my ass."
 
-…
+<br>
+
+*****
+
+<br>
 
 Both Jing Jiwu's fans and Han Sen's fans voiced their dissatisfaction.
 

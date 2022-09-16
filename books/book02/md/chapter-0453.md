@@ -1,9 +1,11 @@
+---
 Title:Killing a Mutant Creature 
 Chapter:453 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Killing a Mutant Creature
 ### Chapter 453
@@ -40,7 +42,7 @@ The golden growler was going fast. In terms of size, the golden growler was no s
 
 Compared to the golden growler, the white mammoth suddenly looked mini, like a baby elephant in front of an adult elephant.
 
-Boom!
+*Boom!*
 
 The two beasts clashed together. Although the golden growler was bigger than the white mammoth, it was not at any disadvantage, but stepped back as well as the white mammoth.
 
@@ -48,7 +50,7 @@ The two beasts clashed together. Although the golden growler was bigger than the
 
 The white mammoth also roared and ran toward the golden growler.
 
-Boom!
+*Boom!*
 
 The two huge animals were fighting it out again, making all sorts of horrendous noises. The surrounding glaciers were broken into pieces and there was snow everywhere.
 
@@ -92,7 +94,7 @@ The white mammoth lifted its front legs. Blood ran into rivers flowing from its 
 
 The next moment, the stomach of the white mammoth was suddenly slashed open. A bloody figure came out of it.
 
-Boom!
+*Boom!*
 
 The white mammoth quickly fell, splashing ice and snow everywhere. Without looking at the body of the white mammoth, the bloody figure walked to the rest of the team when cleaning the dagger casually.
 

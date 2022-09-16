@@ -1,9 +1,11 @@
+---
 Title:Better Than True God 
 Chapter:2975 
 Section:15 
 Book:9 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Better Than True God
 ### Chapter 2975
@@ -56,7 +58,7 @@ Human King was still sitting on the throne. He observed Han Sen and his knife wi
 
 “I am so sorry…” Han Sen slashed Human King like mad. The knife light was like some laser that could split a world. It came right before Human King.
 
-Ding!
+*Ding!*
 
 Human King did not move. Even his face remained the same. He continued to sit where he was. Somehow, his hand appeared beneath the knife. His middle finger and index finger captured Han Sen’s cause karma knife. That scary knife light was immediately broken by his very powerful fingers.
 

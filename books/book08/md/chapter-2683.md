@@ -1,9 +1,11 @@
+---
 Title:Leveling Up to Half-deified 
 Chapter:2683 
 Section:13 
 Book:8 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Leveling Up to Half-deified
 ### Chapter 2683

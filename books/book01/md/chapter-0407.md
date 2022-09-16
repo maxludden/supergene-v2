@@ -1,9 +1,11 @@
+---
 Title:Daphne 
 Chapter:407 
 Section:1 
 Book:1 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Daphne
 ### Chapter 407
@@ -56,23 +58,22 @@ All Han Sen remembered was that he had a lot to drink and so did everyone else. 
 
 Although he was able to stay sober using Jadeskin, Han Sen chose not to do that. Sometimes, he did not need to be sober in life, and this was one of those times.
 
-I know my future is not a dream
+<div class="article">
+    <p class="title">My Future is Not a Dream</p>
+    <p>I know my future is not a dream</p>
+    <p>I care for each minute</p>
+    <p>My future is not a dream</p>
+    <p>My heart beats with hope</p>
+    <p>I know my future is not a dream</p>
+    <p>I care for each minute</p>
+    <p>My future is not a dream</p>
+    <p>My heart beats with hope</p>
+</div
+<br>
 
-I care for each minute
+*****
 
-My future is not a dream
-
-My heart beats with hope
-
-I know my future is not a dream
-
-I care for each minute
-
-My future is not a dream
-
-My heart beats with hope
-
-…
+<br>
 
 When Han Sen left Blackhawk, he did not tell any of his friends, but walked out of the gate alone. Looking back to the place where he had studied and lived for four years. Even Han Sen felt emotional.
 

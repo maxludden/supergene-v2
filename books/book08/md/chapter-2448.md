@@ -1,9 +1,11 @@
+---
 Title:Location Confirmed 
 Chapter:2448 
 Section:12 
 Book:8 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Location Confirmed
 ### Chapter 2448
@@ -18,7 +20,11 @@ viewport: width=device-width
 
 “The path you have selected isn’t bad. You have taken a road that the Extreme King have no control over. Plus, you have a pretty amazing ship in the shape of a big whale. It is a fair assessment that the Extreme King won’t catch up to you very quickly. But the road you have selected is also very dangerous. Even if the Extreme King don’t catch you, your path is full of risks. Both the Tianxia System and the systems of chaos have innumerable dangers, many of which are impossible to predict or anticipate. And the Extreme King have three teams of knights in the systems of chaos. They will probably be your greatest opposition. But, if I send them a video of you at the proper time, we might actually be able to put them to use.” Fang Qing Yu’s excitement took on a mischievous edge.
 
-…
+<br>
+
+*****
+
+<br>
 
 A giant black beetle soared through the clouds, and upon the back of the black beetle rested a stone castle. Many Extreme King were moving about the castle as they fulfilled their various duties.
 

@@ -1,9 +1,11 @@
+---
 Title:The Prophecy Comes True 
 Chapter:2432 
 Section:11 
 Book:7 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## The Prophecy Comes True
 ### Chapter 2432

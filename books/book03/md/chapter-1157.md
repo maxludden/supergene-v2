@@ -1,9 +1,11 @@
+---
 Title:Digging Treasure 
 Chapter:1157 
 Section:3 
 Book:3 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Digging Treasure
 ### Chapter 1157
@@ -84,7 +86,7 @@ The Metal Eater gave no response, so Han Sen jumped back down and returned to th
 
 The trio were barely able to lift it, and it seemed as if the baby Metal Eater thought they were trying to play some sort of game. It joined in and tried helping them lift it.
 
-Boom!
+*Boom!*
 
 The rock was lifted, and after it had been flipped, Han Sen noticed an engraving on the stone’s underside. When Han Sen wiped away the soil to get a proper look, he froze. On the big rock, two words had been engraved: “Person One.”
 

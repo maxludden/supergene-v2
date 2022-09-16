@@ -1,9 +1,11 @@
+---
 Title:Armored Beast 
 Chapter:2521 
 Section:12 
 Book:8 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Armored Beast
 ### Chapter 2521

@@ -1,9 +1,11 @@
+---
 Title:Watching the Destroyed Inheritance 
 Chapter:2187 
 Section:9 
 Book:6 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Watching the Destroyed Inheritance
 ### Chapter 2187

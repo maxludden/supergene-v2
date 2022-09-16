@@ -1,9 +1,11 @@
+---
 Title:Killing Light Son of God 
 Chapter:715 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Killing Light Son of God
 ### Chapter 715
@@ -36,7 +38,7 @@ Han Sen did not care what hostile words the Light Son of God spoke, and he just 
 
 "I'm not sure you'll get the chance to," Han Sen replied, coldly. Han Sen pushed the energy in his right arm to the max, and elephants trumpeted and stampeded all about his body. A primitive, beastly power now energized his fist; it was like God himself was going to smite his enemy with all his might.
 
-Boom!
+*Boom!*
 
 That horrible fist rocketed into the Light Son of God's face, shattering his skull. Blood and brain matter sprayed everywhere while the rotten, headless corpse was still propped up by Han Sen's other hand.
 
@@ -80,7 +82,11 @@ The night after, Dollar's name became synonymous with the word "hero." The fight
 
 "It's not easy!"
 
-…
+<br>
+
+*****
+
+<br>
 
 Ordinary people were more than pleased over Dollar's simple victory, whereas those in the Alliance were dying to find out where he might be. His performance was terrifying, especially the manner in which he killed the Light Son of God.
 

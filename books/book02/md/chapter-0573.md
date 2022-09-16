@@ -1,9 +1,11 @@
+---
 Title:Solo in the Shelter 
 Chapter:573 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Solo in the Shelter
 ### Chapter 573

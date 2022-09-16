@@ -1,9 +1,11 @@
+---
 Title:Place of Sacrifice 
 Chapter:988 
 Section:3 
 Book:3 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Place of Sacrifice
 ### Chapter 988

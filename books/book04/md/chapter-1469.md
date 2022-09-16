@@ -1,9 +1,11 @@
+---
 Title:Heavy Armor 
 Chapter:1469 
 Section:4 
 Book:4 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Heavy Armor
 ### Chapter 1469
@@ -74,7 +76,7 @@ They saw a minotaur, decked out in heavy armor. It had a ruby spear, and its eye
 
 Elysian Moon swung her umbrella and rushed forward to engage the minotaur.
 
-Boom!
+*Boom!*
 
 The umbrella and the spear collided against one-another, instigating a fearsome mixture of terrifying power that generated shockwaves. The impacts tore apart the ground, leaving them fighting in a deep crater.
 

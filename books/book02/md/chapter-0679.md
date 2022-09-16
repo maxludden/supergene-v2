@@ -1,9 +1,11 @@
+---
 Title:Killing the Bone Elephant 
 Chapter:679 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Killing the Bone Elephant
 ### Chapter 679

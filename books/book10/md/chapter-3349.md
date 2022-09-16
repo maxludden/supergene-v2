@@ -1,9 +1,11 @@
+---
 Title:Bury Creature's Place 
 Chapter:3349 
 Section:17 
 Book:10 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Bury Creature's Place
 ### Chapter 3349

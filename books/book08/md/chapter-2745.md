@@ -1,9 +1,11 @@
+---
 Title:Different Path 
 Chapter:2745 
 Section:13 
 Book:8 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Different Path
 ### Chapter 2745

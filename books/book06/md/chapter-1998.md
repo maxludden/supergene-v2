@@ -1,9 +1,11 @@
+---
 Title:The Demon Blocking the Sky 
 Chapter:1998 
 Section:8 
 Book:6 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## The Demon Blocking the Sky
 ### Chapter 1998
@@ -38,7 +40,7 @@ Yun Changkong had a wry smile. “And Lone Bamboo’s jade sword is not a holy w
 
 After Lone Bamboo gripped Ghost Teeth Knife, the evil presence rose up, stoking the murderous power within him. He looked like a demon that wished destruction on all the world.
 
-Boom!
+*Boom!*
 
 He slashed towards Han Sen. The knifelight looked like a demon, coming to consume Han Sen. It looked like Teeth Knife, minus its Teeth power. It did have Ghost Teeth Knife powers, though, and the depression powers as well. It was more powerful now than it had been when Han Sen was using it.
 

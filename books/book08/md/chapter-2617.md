@@ -1,9 +1,11 @@
+---
 Title:Sword Given to the Luckiest Person 
 Chapter:2617 
 Section:12 
 Book:8 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Sword Given to the Luckiest Person
 ### Chapter 2617

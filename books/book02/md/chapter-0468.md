@@ -1,9 +1,11 @@
+---
 Title:Core Area 
 Chapter:468 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Core Area
 ### Chapter 468
@@ -28,7 +30,7 @@ Han Sen's eyes became cold. He raised the cursed wolf dagger at the golden sword
 
 He did not realize that Wang Hou was so cruel that he did not even care about life and death of one of his own, so Han Sen was a bit slow.
 
-Crack!
+*Crack!*
 
 Unexpectedly, the cursed wolf dagger was cut off by when the golden sword. A cut was made on Han Sen's forehead. Although the cut was not that deep, blood started to flow.
 

@@ -1,9 +1,11 @@
+---
 Title:Magnet Fruit 
 Chapter:1755 
 Section:6 
 Book:5 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Magnet Fruit
 ### Chapter 1755

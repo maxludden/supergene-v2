@@ -1,9 +1,11 @@
+---
 Title:Meeting Son of Heaven Again 
 Chapter:569 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Meeting Son of Heaven Again
 ### Chapter 569
@@ -38,7 +40,11 @@ The Snow Charmer paid no heed to the fruitless attacks of the Demon and traded t
 
 "It's like two fairies competing, in that it has nothing to do with us."
 
-…
+<br>
+
+*****
+
+<br>
 
 Son of Heaven couldn't stop his face from twisting and contorting as he viewed the battle. After a while, he ordered his Demon to throw in the towel. Acknowledging his opponent's victory, he felt extremely depressed.
 

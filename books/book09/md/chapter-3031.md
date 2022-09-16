@@ -1,9 +1,11 @@
+---
 Title:Exposed 
 Chapter:3031 
 Section:15 
 Book:9 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Exposed
 ### Chapter 3031

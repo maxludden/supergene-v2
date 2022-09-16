@@ -1,9 +1,11 @@
+---
 Title:Qigong Master? 
 Chapter:384 
 Section:1 
 Book:1 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Qigong Master?
 ### Chapter 384
@@ -74,7 +76,7 @@ The giant snail with the jade shell and red body was resting, hidden in the shel
 
 The three evolvers agreed and approached the creature. They summoned beast soul bows and started to shoot Z-steel arrows at the shell.
 
-Boom boom boom!
+*Boom! boom! boom!*
 
 The Z-steel arrows were smashed against the shell. All three revolvers shapeshifted into humanoid figures. With their fitness level as evolvers, they became extremely strong.
 

@@ -1,9 +1,11 @@
+---
 Title:The History of Ancient Devil 
 Chapter:3400 
 Section:17 
 Book:10 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## The History of Ancient Devil
 ### Chapter 3400

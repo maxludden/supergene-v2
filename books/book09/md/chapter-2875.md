@@ -1,9 +1,11 @@
+---
 Title:Final Challenge 
 Chapter:2875 
 Section:14 
 Book:9 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Final Challenge
 ### Chapter 2875
@@ -28,7 +30,7 @@ Maha God Elephant was suppressed on the planet. Its limbs tried using strength t
 
 The god elephant kept struggling, but the suppressive powers of the coin were too much for it to bear. No matter what it tried, it was unable to get up. The rocks beneath its feet kept cracking. Its body started to sink into the ground.
 
-Boom!
+*Boom!*
 
 The planet was blown up by the god elephant. The god elephant fell through and out of the planet, making its body continue falling through space. It was getting further and further from Han Sen.
 

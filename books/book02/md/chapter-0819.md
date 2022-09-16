@@ -1,9 +1,11 @@
+---
 Title:A Group of Shura 
 Chapter:819 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## A Group of Shura
 ### Chapter 819

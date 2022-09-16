@@ -1,9 +1,11 @@
+---
 Title:Ten Thousand Gourds Moving Together 
 Chapter:2084 
 Section:8 
 Book:6 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Ten Thousand Gourds Moving Together
 ### Chapter 2084

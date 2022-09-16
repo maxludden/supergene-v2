@@ -1,9 +1,11 @@
+---
 Title:Thunder Beasts Fight 
 Chapter:877 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Thunder Beasts Fight
 ### Chapter 877
@@ -86,7 +88,7 @@ They did not dare go slow. They wanted all of this to be over as soon as possibl
 
 Things seemed fine in the beginning, and the Angel Gene Fluid seemed to strengthen them enough to withstand the strikes of lightning. But when they were within one kilometer of the peak, the lightning grew a lot worse.
 
-Boom! Boom! Boom!
+*Boom!* *Boom!* *Boom!*
 
 Han Sen squinted his eyes as he sat on the rock. Then he heard a lot of thunder. The lightning was like a heavy downpour, and it was quite scary to hear.
 

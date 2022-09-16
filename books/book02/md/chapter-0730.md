@@ -1,9 +1,11 @@
+---
 Title:Blood-horn Shura 
 Chapter:730 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Blood-horn Shura
 ### Chapter 730
@@ -72,7 +74,7 @@ Yet, the horns of those he was observing now were clearly not decorations, or so
 
 If they were humans, they must have consumed super geno points. Otherwise, their energy would not be as strong as it was. They were much stronger than humans.
 
-Whoosh!
+*Whoosh!*
 
 One of the blood-horned Shura's let loose an arrow from a beast soul bow. The arrow flew directly towards Han Sen with frightening power. It cracked the air in two and approach him quickly.
 

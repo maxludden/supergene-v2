@@ -1,9 +1,11 @@
+---
 Title:Tianxia’s Seven Gods 
 Chapter:2491 
 Section:12 
 Book:8 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Tianxia’s Seven Gods
 ### Chapter 2491

@@ -1,9 +1,11 @@
+---
 Title:If You Lose, Tell Me Who You Are 
 Chapter:580 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## If You Lose, Tell Me Who You Are
 ### Chapter 580
@@ -86,7 +88,11 @@ After Yi Dongmu said this, the crowd's focus turned to Han Sen. They all hoped h
 
 "Hm, do you think Dollar might actually be a girl?"
 
-…
+<br>
+
+*****
+
+<br>
 
 Han Sen then continued, "But I have a counter-proposal; one for if I am the victor."
 

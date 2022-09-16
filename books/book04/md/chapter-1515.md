@@ -1,9 +1,11 @@
+---
 Title:God’s Armor 
 Chapter:1515 
 Section:4 
 Book:4 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## God’s Armor
 ### Chapter 1515
@@ -46,7 +48,7 @@ Everyone was shocked. When they noticed what had just happened, their faces turn
 
 As their hearts almost leaped out of their chests, they heard a big boom. After it, the entire safe zone began to shake.
 
-Boom!
+*Boom!*
 
 Outside the hotel, before Tina’s strike impacted Han Sen, a dark purple armshield appeared upon his arm.
 

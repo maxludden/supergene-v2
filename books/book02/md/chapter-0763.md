@@ -1,9 +1,11 @@
+---
 Title:Oasis 
 Chapter:763 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Oasis
 ### Chapter 763
@@ -96,6 +98,6 @@ The coconuts up high were different, as well. They were like black, giant metal 
 
 Han Sen took a closer look. The giant, white jade coconut tree was bearing three coconuts, and they were each approximately the size of a yoga ball. Their darkness accentuated their sense of weight, too.
 
-Splash!
+*Splash!*
 
 As Han Sen observed the white jade coconut tree, the waters of the lake shifted. Something huge arose from the water, and a pair of wheel-like eyes ascended to the sky and looked down on Han Sen and Zhou Yumei.

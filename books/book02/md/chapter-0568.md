@@ -1,9 +1,11 @@
+---
 Title:Who Is This Person? 
 Chapter:568 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Who Is This Person?
 ### Chapter 568
@@ -36,7 +38,11 @@ When the Snow Charmer came out, the audience went crazy, screaming with exciteme
 
 "Who is the owner of this spirit? He is a lucky man, indeed."
 
-…
+<br>
+
+*****
+
+<br>
 
 Son of Heaven watched the Snow Charmer's reveal with focused eyes. Initially, he wasn't too concerned with the coming fight, and he hadn't even asked who his Demon's opponent would be. But the Snow Charmer's appearance startled him, and so he sat up, captivated.
 
@@ -84,7 +90,11 @@ The clashes of the two spirits had pumped the audience into a frenzy of sheer ex
 
 "Stop dreaming, then! It would be impossible for an ordinary person such as you or me to take a shelter. Even if you did, the spirits would most likely ignore you. The chance to tame a royal spirit is 10,000 to 1. It would be easier for you to win the lottery."
 
-…
+<br>
+
+*****
+
+<br>
 
 "Demon, it is time for you to reveal your true strength!" Son of Heaven observed that the mood of his audience was fever-high. A creepy smile raised his lips.
 

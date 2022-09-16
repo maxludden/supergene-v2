@@ -1,9 +1,11 @@
+---
 Title:Godfather Han Sen 
 Chapter:2560 
 Section:12 
 Book:8 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Godfather Han Sen
 ### Chapter 2560
@@ -28,7 +30,7 @@ That white dot grew quickly, and the black Destroyed power became white all of a
 
 Only Barr’s black bones remained, but those bones were now becoming white. And that white Destroyed power started to rebuild his flesh.
 
-Boom!
+*Boom!*
 
 Before Barr could emerge from that white Destroyed power, the fabric of space seemed to twist and tear. It was like the universe was falling apart. Barr’s body fell into that space and vanished.
 

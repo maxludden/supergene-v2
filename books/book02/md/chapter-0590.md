@@ -1,9 +1,11 @@
+---
 Title:Infinite Power 
 Chapter:590 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Infinite Power
 ### Chapter 590

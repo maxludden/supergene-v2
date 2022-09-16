@@ -1,9 +1,11 @@
+---
 Title:The Knife Fight 
 Chapter:1992 
 Section:8 
 Book:6 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## The Knife Fight
 ### Chapter 1992
@@ -72,7 +74,7 @@ In this moment, the loser would be determined by whoever took a step back.
 
 The knife light was green and purple, in the center. They kept hitting each other, making noise. No one could see anything in the gap between the two.
 
-When the collision reached its max, a stronger power exploded in the middle. It blew them both a dozen meters away. Boom!
+When the collision reached its max, a stronger power exploded in the middle. It blew them both a dozen meters away. *Boom!*
 
 The next second, everything between them turned to dust. There was a big crater in the middle.
 

@@ -1,9 +1,11 @@
+---
 Title:Entered the Shelter Alone 
 Chapter:528 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Entered the Shelter Alone
 ### Chapter 528
@@ -70,7 +72,7 @@ If the three forces could not take down this royal shelter when they united, sin
 
 With his eyes cold, Han Sen was calculating all the moves and trajectories of the creatures he was seeing. In his mind there was a holographic image and a route that would take him inside the ancient architecture.
 
-Boom!
+*Boom!*
 
 Flapping his wings, Han Sen made a dive, avoiding the silver bird and flying bull.
 

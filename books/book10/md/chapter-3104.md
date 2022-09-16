@@ -1,9 +1,11 @@
+---
 Title:Sacrifice Copper 
 Chapter:3104 
 Section:16 
 Book:10 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Sacrifice Copper
 ### Chapter 3104

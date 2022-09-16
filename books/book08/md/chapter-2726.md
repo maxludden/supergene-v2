@@ -1,9 +1,11 @@
+---
 Title:Real and Fake Bodies 
 Chapter:2726 
 Section:13 
 Book:8 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Real and Fake Bodies
 ### Chapter 2726
@@ -28,7 +30,7 @@ Under the continuous stream of hits, the powerful Six-Eared Macaque was badly in
 
 After Shale’s shout, the space around him shone with a striking power that looked like the sun. Countless gleams of that striking power flooded out of Shale. It was like a meteor shower ceaselessly raining down on the Six-Eared Macaque, and each gleam exploded on contact like a nuke.
 
-Boom!
+*Boom!*
 
 The scary explosions almost destroyed everything. Under the never-ending attacks of that scary power, the Six-Eared Macaque’s body was unable to hold up. The creature’s godly body was slowly being torn apart.
 

@@ -1,9 +1,11 @@
+---
 Title:Surrender 
 Chapter:400 
 Section:1 
 Book:1 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Surrender
 ### Chapter 400
@@ -52,7 +54,11 @@ Qing and Yuan felt they were in an awkward position and both looked to Han Sen.
 
 "You must be blind. This is Steel Armor Shelter and you should go back to where you are."
 
-…
+<br>
+
+*****
+
+<br>
 
 Very soon, the gang members had besieged Ning Yue's men.
 
@@ -102,7 +108,7 @@ Ning Yue was still suspicious and ordered his men to tie Han Sen up. Han Sen did
 
 "If it was the first time, I might consider your words. However, I am certain that if I do not give you my dagger, I will not necessarily die. If I gave you my dagger, I will die for sure," Han Sen said with a smile.
 
-Bang!
+*Bang!*
 
 Liu Lin threw a hard punch at Han Sen's face, knocking him down on the ground. Blood started to flow from Han Sen's mouth.
 

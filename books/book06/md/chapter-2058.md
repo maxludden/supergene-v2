@@ -1,9 +1,11 @@
+---
 Title:Co-operation 
 Chapter:2058 
 Section:8 
 Book:6 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Co-operation
 ### Chapter 2058

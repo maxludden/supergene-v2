@@ -1,9 +1,11 @@
+---
 Title:Notebook 
 Chapter:2236 
 Section:10 
 Book:7 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Notebook
 ### Chapter 2236
@@ -18,7 +20,11 @@ Ice Blue Knight King wanted to find out what had happened. He knew someone insid
 
 Han Sen and his team were put on call at the base. They wouldn’t have to do any wilderness clean-up for a while.
 
-…
+<br>
+
+*****
+
+<br>
 
 “That stupid Night River King! He used an Ancient Warrior Statue, and he still couldn’t kill a few Marquises!” said an Ice Blue Knight who looked ill.
 
@@ -28,7 +34,11 @@ The Ice Blue Knight frowned. “What do we do now? Ice Blue Knight King is on hi
 
 Edward shook his head. “Don’t be such a negative Nancy. We’ve learned that Han Sen didn’t give the item to Ice Blue Knight King or Mister White, at least. Even if he did find the tablet, we still have a chance to claim it.”
 
-…
+<br>
+
+*****
+
+<br>
 
 Han Sen was playing with the items he had taken from Night River King. The most valuable trinkets were the two Moon Wheel Blades. They were a good pair of weapons for a King to wield.
 

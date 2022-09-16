@@ -1,9 +1,11 @@
+---
 Title:Kirin Statue 
 Chapter:2815 
 Section:14 
 Book:9 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Kirin Statue
 ### Chapter 2815

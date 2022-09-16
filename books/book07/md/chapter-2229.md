@@ -1,9 +1,11 @@
+---
 Title:Cause and Effect 
 Chapter:2229 
 Section:10 
 Book:7 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Cause and Effect
 ### Chapter 2229
@@ -96,6 +98,6 @@ She knew Han Sen was not the sort of person who was willing to risk his life on 
 
 As everyone watched, one of Han Sen’s legs took the final step. He used the last ounce of his power to bring the second leg up to meet the first. He stood up there right next to the dead animal from before.
 
-Boom!
+*Boom!*
 
 The whole stair lit up. A transparent fire blazed across the step. It was like a very large bonfire.

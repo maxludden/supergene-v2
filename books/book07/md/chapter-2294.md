@@ -1,9 +1,11 @@
+---
 Title:Getting the Treasure 
 Chapter:2294 
 Section:10 
 Book:7 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Getting the Treasure
 ### Chapter 2294

@@ -1,9 +1,11 @@
+---
 Title:Alpha Control 
 Chapter:863 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Alpha Control
 ### Chapter 863

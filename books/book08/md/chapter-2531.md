@@ -1,9 +1,11 @@
+---
 Title:Earning Money and Not Afraid of Trouble 
 Chapter:2531 
 Section:12 
 Book:8 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Earning Money and Not Afraid of Trouble
 ### Chapter 2531
@@ -68,7 +70,11 @@ Han Sen laughed. “If you don’t want to hunt the Sea Sky Eye, that’s fine. 
 
 “I don’t mind trouble as long as I can earn money.” Han Sen chuckled again.
 
-…
+<br>
+
+*****
+
+<br>
 
 After Bai Wan Jie left with his people, Nightmare Knight approached and said, “My Prince, Dollar is going to hunt the Sea Sky Eye. What are we going to do about that?”
 

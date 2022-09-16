@@ -1,9 +1,11 @@
+---
 Title:Medusa’s Gaze 
 Chapter:2505 
 Section:12 
 Book:8 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Medusa’s Gaze
 ### Chapter 2505

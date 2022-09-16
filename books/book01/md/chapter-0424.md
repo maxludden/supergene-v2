@@ -1,9 +1,11 @@
+---
 Title:Unsettling in the Mind 
 Chapter:424 
 Section:1 
 Book:1 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Unsettling in the Mind
 ### Chapter 424

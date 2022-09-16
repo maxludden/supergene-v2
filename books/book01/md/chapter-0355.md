@@ -1,9 +1,11 @@
+---
 Title:Things Left Behind by the Deceased 
 Chapter:355 
 Section:1 
 Book:1 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Things Left Behind by the Deceased
 ### Chapter 355
@@ -60,7 +62,7 @@ To Han Sen's joy, the cloud beast that he had been feeding for a year had become
 
 Looking at the cloud beast, Han Sen clenched the skeleton's dagger in his hand and whispered, "Heaven, Buddha, God of Fortune, Lady luck… Please give me a super beast soul!"
 
-Crack!
+*Crack!*
 
 Han Sen killed the super cloud beast and heard the voice in his head.
 

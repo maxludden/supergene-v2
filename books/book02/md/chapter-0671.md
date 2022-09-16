@@ -1,9 +1,11 @@
+---
 Title:Elephant-rex Strike 
 Chapter:671 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Elephant-rex Strike
 ### Chapter 671

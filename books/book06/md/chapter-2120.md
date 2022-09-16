@@ -1,9 +1,11 @@
+---
 Title:Fearless Dragon 
 Chapter:2120 
 Section:8 
 Book:6 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Fearless Dragon
 ### Chapter 2120
@@ -14,7 +16,7 @@ viewport: width=device-width
   
 
   
-Ding!
+*Ding!*
 
 The number displayed upon the coin was one. When Dragon Eight stepped forward, that figure became two. Already, the pressure upon him was twice as heavy. That was precisely why Dragon Eight had fallen to his knees with such a force that the earth caved in.
 
@@ -30,7 +32,7 @@ Dragon Eight stood up from the ground, swinging a wild punch aimed at Han Sen. H
 
 Han Sen remained motionless in the air, not even bothering to dodge. He simply punched Dragon Eight’s gold dragonlight and shattered it.
 
-Ding!
+*Ding!*
 
 The figure on the coin jumped from two to three. The pressure increased even more.
 
@@ -40,7 +42,7 @@ Dollar, which Han Sen had modified, still had that special connection with him. 
 
 Dragon Eight would not be able to interrupt Han Sen easily, though. He had been too confident in his gold Dragon body. If he had used his gold Dragon body to try and break the coin before it landed or perhaps even dodge it, he would not have found himself in such a situation.
 
-Ding!
+*Ding!*
 
 The number on the coin changed once more. It had now gone from three to four. Dragon Eight’s body began to tremble beneath the weight, and it was becoming incredibly difficult to move in the slightest.
 
@@ -56,7 +58,7 @@ Han Sen had a bit of a grudge against the Dragon, and dealings with them were li
 
 Killing Dragon Eight here would not affect the Dragon, but getting information from him would be a boon Han Sen would not be silly not to gather.
 
-Ding!
+*Ding!*
 
 When the coin reached the number of seven, the rocks beneath Dragon Eight’s feet were crushed like tofu. His body began to sink lower into the stony ground.
 

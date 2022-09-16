@@ -1,9 +1,11 @@
+---
 Title:Getting Another Super Beast Soul 
 Chapter:781 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Getting Another Super Beast Soul
 ### Chapter 781

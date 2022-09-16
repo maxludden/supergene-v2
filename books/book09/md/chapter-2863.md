@@ -1,9 +1,11 @@
+---
 Title:One Lance Pierced Through God 
 Chapter:2863 
 Section:14 
 Book:9 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## One Lance Pierced Through God
 ### Chapter 2863
@@ -48,7 +50,7 @@ Suddenly, all the elites in the universe were staring at the Sky Radish God Lanc
 
 The purple-black flames on him were getting stronger. The saplings had only just shown up, but the flames made them stop growing. Even the scabbard in Han Sen’s hand was struggling. It wanted to fly back to Sky Armor God. Han Sen used significant strength to suppress the scabbard, which did not fly to Sky Armor God.
 
-Boom!
+*Boom!*
 
 Sky Armor God’s fire was like the eruption of a volcano. With that wash of power, the metal armor melted into iron juice. It was dripping across his body like a meteor shower through space that was falling.
 

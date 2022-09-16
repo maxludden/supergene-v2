@@ -1,9 +1,11 @@
+---
 Title:Broken Swordmind 
 Chapter:1568 
 Section:4 
 Book:4 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Broken Swordmind
 ### Chapter 1568
@@ -50,7 +52,7 @@ Although it was hard, primarily due to the fact that Han Sen’s swordmind was w
 
 When that additional will refined itself inside Han Sen’s swordmind, it became stronger.
 
-Boom!
+*Boom!*
 
 Beneath the powerful impact of the swordmind, the mountain was sundered. It was cut in half and flung wide open. Holy Sword Emperor’s swordmind was fading, and all that remained was Han Sen’s.
 
@@ -90,7 +92,11 @@ It was hard to imagine how a human could get the likes of Furnace Emperor and Fi
 
 Fire Empress said, “It is up to Xu Mi how much he can learn from you. Even if he only learns a small amount from you, it is good enough for him.”
 
-…
+<br>
+
+*****
+
+<br>
 
 Jia Shidao and the others were all frozen. The two powerful spirits didn’t sound like emperors at all. Not as the humans had imagined. They looked like proper parents that were simply trying to snipe a good teacher for their kid.
 

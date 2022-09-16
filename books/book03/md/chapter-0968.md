@@ -1,9 +1,11 @@
+---
 Title:Gourd Absorb 
 Chapter:968 
 Section:3 
 Book:3 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Gourd Absorb
 ### Chapter 968

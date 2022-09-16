@@ -1,9 +1,11 @@
+---
 Title:Deified Elite 
 Chapter:1888 
 Section:7 
 Book:5 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Deified Elite
 ### Chapter 1888
@@ -58,7 +60,7 @@ With that surge of power, the entire palace behind them was sundered in half.
 
 That wasn’t the end, either. After the scary Teeth power cut the palace in two, it spread. A purple mist was swallowing it, making the palace looked like some cursed ruin.
 
-Boom!
+*Boom!*
 
 When the palace was covered in this purple mist, it suddenly shattered and fell to pieces. Dust choked the air, and the entirety of the heavenly realm rattled and shook.
 

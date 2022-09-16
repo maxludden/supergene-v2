@@ -1,9 +1,11 @@
+---
 Title:Trying the Poison 
 Chapter:2742 
 Section:13 
 Book:8 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Trying the Poison
 ### Chapter 2742
@@ -40,7 +42,11 @@ After hearing Exquisite’s answer, the Very High who hadn’t practiced the Ver
 
 “A strong man breaking his wrists is a challenge that requires courage.”
 
-…
+<br>
+
+*****
+
+<br>
 
 “Uncle Nine, please!” Exquisite pleaded, summoning the last dregs of her energy to speak. She paid no attention to the other Very High around them. As she spoke to the Ninth Uncle, the minor distraction allowed the emotions to encroach on her mind even more. She could no longer spare enough attention to listen to what was happening around her.
 

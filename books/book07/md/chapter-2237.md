@@ -1,9 +1,11 @@
+---
 Title:I 
 Chapter:2237 
 Section:10 
 Book:7 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## I
 ### Chapter 2237
@@ -48,7 +50,11 @@ Han Sen kept looking through Night River King’s diary. He noticed that over th
 
 “Thirty-second is infected. Nothing abnormal.”
 
-…
+<br>
+
+*****
+
+<br>
 
 “First is abnormal. Observation ongoing.”
 

@@ -1,9 +1,11 @@
+---
 Title:A Sword for Your Life 
 Chapter:352 
 Section:1 
 Book:1 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## A Sword for Your Life
 ### Chapter 352
@@ -90,6 +92,6 @@ A mutant ghost butterfly boomerang flew toward Mr. Yu who was throwing himself a
 
 Mr. Yu tried to cut the boomerang in half, but when his weapon was about to touch the boomerang, it quickly made a weird turn and disappeared in front of his eyes. Bypassing Mr. Yu's knife, the boomerang hit his chest hard.
 
-Bang!
+*Bang!*
 
 Blue flames exploded on Mr. Yu's chest, making him fall from his mount and roll around on the ground.

@@ -1,9 +1,11 @@
+---
 Title:Strong Killing 
 Chapter:1279 
 Section:3 
 Book:3 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Strong Killing
 ### Chapter 1279

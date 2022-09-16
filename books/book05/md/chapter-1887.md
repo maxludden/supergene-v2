@@ -1,9 +1,11 @@
+---
 Title:Give You a Chance 
 Chapter:1887 
 Section:7 
 Book:5 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Give You a Chance
 ### Chapter 1887
@@ -38,7 +40,7 @@ Seeing a few Viscounts rapidly approaching, Han Sen had yet to move a muscle. Ev
 
 The Gana Viscounts weren’t very concerned about that, though. Thus far, only the Gana had been able to use items of power there.
 
-Boom!
+*Boom!*
 
 A scary presence exploded out of Han Sen, as if it was breaking the earth. He was like a beast, laying eyes on heaven. Teeth Knife Knifemind!” Gold Jade King and Icebird Duke both squealed.
 

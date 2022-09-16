@@ -1,9 +1,11 @@
+---
 Title:The Battle Ends 
 Chapter:2000 
 Section:8 
 Book:6 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## The Battle Ends
 ### Chapter 2000
@@ -24,7 +26,7 @@ Despite the fact that Lone Bamboo’s knifemind was continuing to grow, Han Sen 
 
 Both of them were emanating a terrifying intensity, and it was visible in their eyes. The students that watched the fight were not seeing Han Sen and Lone Bamboo anymore. It was just an evil demon fighting a jade-white shadow. When both of them collided, it was like day and night. Neither of them gained the upper hand, and neither of them was put down.
 
-Boom!
+*Boom!*
 
 Two powers were being pushed to their max. They crossed a threshold, and Dream Beast was unable to hold back the force they were letting off. The power spilled out, and many of the students of Sky Palace felt as if their heads were going to explode.
 

@@ -1,9 +1,11 @@
+---
 Title:God Corpse 
 Chapter:2782 
 Section:14 
 Book:9 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## God Corpse
 ### Chapter 2782

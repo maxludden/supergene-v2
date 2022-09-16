@@ -1,9 +1,11 @@
+---
 Title:A Strike That Cannot Miss 
 Chapter:789 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## A Strike That Cannot Miss
 ### Chapter 789

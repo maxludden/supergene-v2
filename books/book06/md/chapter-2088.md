@@ -1,9 +1,11 @@
+---
 Title:Taking the Red Cloud 
 Chapter:2088 
 Section:8 
 Book:6 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Taking the Red Cloud
 ### Chapter 2088

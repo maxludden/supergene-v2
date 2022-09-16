@@ -1,9 +1,11 @@
+---
 Title:Fighting 300 Rounds 
 Chapter:3152 
 Section:16 
 Book:10 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Fighting 300 Rounds
 ### Chapter 3152
@@ -36,7 +38,7 @@ Du Ru Lan could neither speak nor move. She was looking at her son with a heart 
 
 The little boy was special. After all that had happened, he had not cried and or shouted. He listened to Decapitation Queen and stood up. He picked up the sacrificial knife from the altar and cut his finger. He let the blood drop onto the god stove.
 
-Boom!
+*Boom!*
 
 A purple and black fire was on the god stove. It turned into demon fire that shocked the sky. The whole side hall was full of a murderous air. Some of the air rushed out into the sky from the guillotine.
 

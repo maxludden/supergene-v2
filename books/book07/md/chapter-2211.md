@@ -1,9 +1,11 @@
+---
 Title:Galactic Shrimp 
 Chapter:2211 
 Section:10 
 Book:7 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Galactic Shrimp
 ### Chapter 2211
@@ -32,7 +34,7 @@ Night River King hated Han Sen more than ever right then. If it wasn’t for Han
 
 Thinking of this hate, Night River King used his mind to project images of Han Sen onto all of the Galactic Shrimp near him. And as he lifted two teeth-like moon wheel knives, a black water wheel was sent spinning out to kill many of those Galactic Shrimp.
 
-Boom!
+*Boom!*
 
 The black water wheel hit a lobster’s shell, sending a shower of blue sparks into the night sky. In response, the King Lobster moved its pincer and sliced the black water wheel in two. Then, it flew towards Night River King like a blue missile.
 

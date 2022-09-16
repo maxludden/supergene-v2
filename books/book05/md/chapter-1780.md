@@ -1,9 +1,11 @@
+---
 Title:One White Feather and Three Thousand Stars 
 Chapter:1780 
 Section:6 
 Book:5 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## One White Feather and Three Thousand Stars
 ### Chapter 1780

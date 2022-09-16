@@ -1,9 +1,11 @@
+---
 Title:Geno Art Swapped for Fruit 
 Chapter:2575 
 Section:12 
 Book:8 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Geno Art Swapped for Fruit
 ### Chapter 2575

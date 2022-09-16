@@ -1,9 +1,11 @@
+---
 Title:Pulling Out a Sword 
 Chapter:3196 
 Section:16 
 Book:10 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Pulling Out a Sword
 ### Chapter 3196

@@ -1,9 +1,11 @@
+---
 Title:Killing Ghost Claw Beast 
 Chapter:1973 
 Section:8 
 Book:6 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Killing Ghost Claw Beast
 ### Chapter 1973

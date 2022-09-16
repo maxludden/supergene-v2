@@ -1,9 +1,11 @@
+---
 Title:Violent Explosion 
 Chapter:2160 
 Section:8 
 Book:6 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Violent Explosion
 ### Chapter 2160
@@ -14,17 +16,17 @@ viewport: width=device-width
   
 
   
-Boom!
+*Boom!*
 
 Yuya and the others were fighting hard when they heard an explosion echo from afar. There was a light blooming among all those xenogeneics.
 
 The swarm of xenogeneics all started to churn, as if they were super nervous.
 
-Boom!
+*Boom!*
 
 There was another explosion, and its sound made the Marquises’ ears hurt. A mushroom cloud rose visibly over the landscape this time. The shockwave spread, and swathes of the dragonflies were blown into nothing but bits.
 
-Boom! Boom! Boom! Boom!
+*Boom!* *Boom!* *Boom!* *Boom!*
 
 Many more mushroom clouds exploded amidst the army of xenogeneics that had descended upon them. Great numbers of the dragonflies were destroyed, and the ensuing vacuum sucked living dragonflies back into the wreckage.
 
@@ -58,13 +60,13 @@ The scariest thing about this, though, was the attack being an area of effect. T
 
 Under Han Sen’s attacks, the fearless xenogeneics started to shake and shiver. Han Sen was like a walking cannon, merrily killing each and every xenogeneic he could see. Even Dukes were being blown up with ease, all by the might of those explosions.
 
-Boom! Boom!
+*Boom!* *Boom!*
 
 The whole ground trembled. The xenogeneics were squealing. The explosions were sounding from everywhere across the land.
 
 If there was ever a matter a rocket could not solve, he’d just use another.
 
-Boom!
+*Boom!*
 
 Han Sen held his rocket launcher like a minigun. He kept firing at the swarm, and the shockwaves and clouds melted the xenogeneics in the throttling haze.
 

@@ -1,9 +1,11 @@
+---
 Title:Cocky Little Bear 
 Chapter:967 
 Section:3 
 Book:3 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Cocky Little Bear
 ### Chapter 967
@@ -30,7 +32,7 @@ Amidst the barrage of pincer-strikes Han Sen was narrowly avoiding, he caught si
 
 A white light burst out of him, and it turned him into a bright, holy figure of resplendent light. In this grossly incandescent form, a terrifying power thundered.
 
-Boom!
+*Boom!*
 
 Han Sen evaded the scorpion’s next attack and set his sights on the white bear.
 

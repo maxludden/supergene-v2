@@ -1,9 +1,11 @@
+---
 Title:Bury Path God 
 Chapter:3220 
 Section:16 
 Book:10 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Bury Path God
 ### Chapter 3220
@@ -80,6 +82,6 @@ Bury Path God used one hand to break Wan’er’s gold light. His other hand wie
 
 Bao’er frowned. Her hand held the small gourd with an urge to fight, but Han Sen stopped her.
 
-Boom!
+*Boom!*
 
 Han Sen’s Break World power attacked the shocking rainbow that pierced through the sky and ground. His entire body flew away. He hit a planet like a cannonball had been fired into

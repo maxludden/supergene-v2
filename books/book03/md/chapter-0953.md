@@ -1,9 +1,11 @@
+---
 Title:Odin’s Eye 
 Chapter:953 
 Section:3 
 Book:3 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Odin’s Eye
 ### Chapter 953
@@ -92,7 +94,7 @@ Alongside Sonic-Thunder Punch, Han Sen cast Heavenly Go on his approach and used
 
 Liu Meng's mechanical body made no effort to avoid the attack, and instead just raised his arm to accept the incoming Sonic-Thunder Punch.
 
-Boom!
+*Boom!*
 
 The sonic and thunder build-up exploded. Silver-lightning skittered and hopped along Liu Meng's muscles, but dealt no damage.
 

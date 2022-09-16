@@ -1,9 +1,11 @@
+---
 Title:The Advantages of Gene Transference 
 Chapter:2417 
 Section:11 
 Book:7 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## The Advantages of Gene Transference
 ### Chapter 2417

@@ -1,9 +1,11 @@
+---
 Title:Godslayer Legend 
 Chapter:1315 
 Section:3 
 Book:3 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Godslayer Legend
 ### Chapter 1315
@@ -98,6 +100,10 @@ The bug then displayed a video of Zero fighting ten Cup Demon Emperors, all at o
 
 “The time for revenge has come.”
 
-…
+<br>
+
+*****
+
+<br>
 
 Across all the emperor shelters, their rulers all looked to be in shock.

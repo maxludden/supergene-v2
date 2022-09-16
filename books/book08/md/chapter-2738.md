@@ -1,9 +1,11 @@
+---
 Title:Showing Off 
 Chapter:2738 
 Section:13 
 Book:8 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Showing Off
 ### Chapter 2738
@@ -60,7 +62,7 @@ Two sacred-blood mounts were something excellent. After all, there were many typ
 
 Han Littleflower didn’t say anything. He just summoned his own ride.
 
-Boom!
+*Boom!*
 
 A giant, gold, two-headed dragon appeared in front of Han Littleflower. The mount beast souls around all started to scream and run away. If their masters hadn’t commanded them to stop right where they were, all of them would have fled.
 

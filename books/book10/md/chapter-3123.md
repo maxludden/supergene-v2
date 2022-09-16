@@ -1,9 +1,11 @@
+---
 Title:Break World Power 
 Chapter:3123 
 Section:16 
 Book:10 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Break World Power
 ### Chapter 3123

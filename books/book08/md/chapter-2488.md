@@ -1,9 +1,11 @@
+---
 Title:Hunting Cloud Beasts 
 Chapter:2488 
 Section:12 
 Book:8 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Hunting Cloud Beasts
 ### Chapter 2488

@@ -1,9 +1,11 @@
+---
 Title:Battling No God 
 Chapter:1309 
 Section:3 
 Book:3 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Battling No God
 ### Chapter 1309

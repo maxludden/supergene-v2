@@ -1,9 +1,11 @@
+---
 Title:Battling Shura Again 
 Chapter:1053 
 Section:3 
 Book:3 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Battling Shura Again
 ### Chapter 1053

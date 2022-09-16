@@ -1,9 +1,11 @@
+---
 Title:You Are Mine 
 Chapter:769 
 Section:2 
 Book:2 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## You Are Mine
 ### Chapter 769
@@ -34,7 +36,7 @@ A black laser beam fell on Han Sen's head.
 
 "Oh, no! Is this it? Am I going to die?" Han Sen used all his strength to try to dodge out of the way, but try as he might, he could not move an inch.
 
-Boom!
+*Boom!*
 
 The beam of light struck Han Sen's head, and his heart felt cold for a second.
 

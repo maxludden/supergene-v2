@@ -1,9 +1,11 @@
+---
 Title:Infamy 
 Chapter:101 
 Section:1 
 Book:1 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Infamy
 ### Chapter 101
@@ -50,7 +52,11 @@ On this day, the content of Contest Center caused an uproar in the Alliance. Fan
 
 "Dollar little angel, I will always support you."
 
-…
+<br>
+
+*****
+
+<br>
 
 Contest Center and Fang Mingquan had been made a hit by all the criticism. Many peers were satirical about Fang’s grandstanding, too. Some even asked him to quit journalism.
 

@@ -1,9 +1,11 @@
+---
 Title:Killing Tail Fire Beast 
 Chapter:3366 
 Section:17 
 Book:10 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Killing Tail Fire Beast
 ### Chapter 3366
@@ -68,7 +70,7 @@ Tang Zhenliu lost his voice as he laughed and said, “Ah, typical. It really do
 
 Tail Fire Beast was bleeding lots of blood that looked like lava. It roared, wanting to stir up another incendiary storm. As it roared, its body collapsed. Blood came gushing out of every orifice in its body. It was like countless amounts of volcanoes were all erupting at the same time.
 
-Boom! Boom!
+*Boom!* *Boom!*
 
 Tail Fire Beast’s giant body fell. It fell into a hot lava sea and sank into it.
 

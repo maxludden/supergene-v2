@@ -1,9 +1,11 @@
+---
 Title:Little Silver Has Come to Save His Master 
 Chapter:1239 
 Section:3 
 Book:3 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Little Silver Has Come to Save His Master
 ### Chapter 1239
@@ -32,7 +34,7 @@ The silver fox swung its tail after appearing, as a bolt of lightning was fired 
 
 Saint Fan did not want the lightning to touch him, so he swung Han Sen and Xie Qing King together as a meatshield.
 
-Boom!
+*Boom!*
 
 The silver lightning hit Han Sen and Xie Qing King, and the looks on their faces were the distorted and wild expectation of a sudden death that was about to strike them.
 

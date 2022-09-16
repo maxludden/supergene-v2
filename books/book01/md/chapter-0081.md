@@ -1,9 +1,11 @@
+---
 Title:Well-behaved Soldier 
 Chapter:81 
 Section:1 
 Book:1 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Well-behaved Soldier
 ### Chapter 81

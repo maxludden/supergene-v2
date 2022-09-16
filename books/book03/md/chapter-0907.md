@@ -1,9 +1,11 @@
+---
 Title:Wipeout 
 Chapter:907 
 Section:3 
 Book:3 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Wipeout
 ### Chapter 907
@@ -40,7 +42,7 @@ The creatures saw Han Sen run inside the plaza, and in unison, they all roared a
 
 A vast array of different elemental powers swirled around and charged the atmosphere with an exciting volatility. There was fire, wind, thunder, and more; and everything was primed to take Han Sen down.
 
-Boom!
+*Boom!*
 
 Following an explosion that was a mixture of various elements, a giant crater was left in the plaza's floor. Rocks were scattered and strewn all about, as plumes of dust clogged the air and choked the sight of all who were there.
 

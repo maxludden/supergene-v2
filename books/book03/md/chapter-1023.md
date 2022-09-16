@@ -1,9 +1,11 @@
+---
 Title:Attacking a Shelter 
 Chapter:1023 
 Section:3 
 Book:3 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Attacking a Shelter
 ### Chapter 1023
@@ -16,7 +18,7 @@ viewport: width=device-width
   
 Silver lightning burst out of the silver fox and collided with the golden light.
 
-Boom!
+*Boom!*
 
 The golden light was fractured, and in a second, the atmosphere exploded around them in a blinding flash. A one-mile wide hole formed in the ground, and aside from Han Sen and Bao’er, everyone was blown away.
 
@@ -38,7 +40,7 @@ Of course, only having nine gene locks open meant he could not even beat the whi
 
 Han Sen had nine gene locks open, as well, and when bringing fitness into the equation, the two were well-balanced. Just like Han Sen, the silver fox’s fitness had not been able to keep up with the number of open gene locks. So, even in the Third God’s Shelter, they’d make for a remarkable duo.
 
-Boom!
+*Boom!*
 
 The golden bug let out a shrill scream. It hastily dug back underground and disappeared, leaving behind stains of gold blood.
 

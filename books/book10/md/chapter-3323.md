@@ -1,9 +1,11 @@
+---
 Title:Big Bad Luck 
 Chapter:3323 
 Section:17 
 Book:10 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Big Bad Luck
 ### Chapter 3323
@@ -26,7 +28,7 @@ Han Sen was set on leaving the base. He was determined to find more Break World 
 
 The Break World genes were very weird. Although his Break World gene amount had increased, the Break World rate of his four geno arts did not increase. His Super God Spirit mode, however, did seem to be affected. His spirit body underwent some changes. Because his pure spirit body could not touch or manipulate anything, Han Sen could not be certain if it was a good thing or a bad thing.
 
-Boom! Boom! Big booming sounds were coming from the nearby forest. It was like thunder heard from afar. The noise lasted a long time.
+*Boom!* *Boom!* Big booming sounds were coming from the nearby forest. It was like thunder heard from afar. The noise lasted a long time.
 
 Han Sen’s heart jumped, and he teleported. He went to where the sound was coming from. He saw a white tiger with four wings lying in blood. Its body was full of sword holes. It was like it had been perforated by 10,000 knives and died. It kept bleeding without reprieve.
 

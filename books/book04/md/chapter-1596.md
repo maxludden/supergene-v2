@@ -1,9 +1,11 @@
+---
 Title:Rescue 
 Chapter:1596 
 Section:4 
 Book:4 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Rescue
 ### Chapter 1596

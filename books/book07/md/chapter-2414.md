@@ -1,9 +1,11 @@
+---
 Title:God Battle Ruin 
 Chapter:2414 
 Section:11 
 Book:7 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## God Battle Ruin
 ### Chapter 2414

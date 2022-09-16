@@ -1,9 +1,11 @@
+---
 Title:Firing an Arrow at Bury Sky 
 Chapter:3272 
 Section:16 
 Book:10 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## Firing an Arrow at Bury Sky
 ### Chapter 3272
@@ -66,7 +68,7 @@ The arrow was unbelievably fast. When the arrow tip almost struck the asking hea
 
 Bury Path God’s gaze froze. His body ripped space and fell back. It was still too late. The black arrow weirdly appeared in his chest. It pierced through his armor and perforated his chest.
 
-Boom!
+*Boom!*
 
 A scary power blew Bury Path God’s body away. He was like a star falling into the sea. He created a big tsunami. The phoenix head harp flew away with him. In the air, it looked like a white phoenix god bird.
 

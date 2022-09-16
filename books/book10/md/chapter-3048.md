@@ -1,9 +1,11 @@
+---
 Title:High-class God Spirit Blood-pulse 
 Chapter:3048 
 Section:16 
 Book:10 
 CSS:../Styles/style.css 
 viewport: width=device-width
+---
   
 ## High-class God Spirit Blood-pulse
 ### Chapter 3048

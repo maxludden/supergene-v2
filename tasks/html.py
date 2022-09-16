@@ -108,14 +108,12 @@ if __name__ == "__main__":
         with ProcessPoolExecutor(max_workers=cpu_count()) as executor:
             futures = [executor.submit(generate_html, chapter) for chapter in chapters]
             for future in as_completed(futures):
-                duration = future.result()
-                durations.append(duration)
                 progress.advance(task)
     end = perf_counter()
     total_duration = end - start
     sum = sum(durations)
-    avg = sum / len(durations)
-    msg = f"Generated HTML for all chapters in {end - start:0.4f} seconds. Average time per chapter: {avg:0.4f} seconds."
+    avg = sum / 3462
+    msg = f"Generated HTML for all chapters in {end - start:0.4f} seconds. Average time per chapter: {avg:0.6f} seconds."
     console.log(
         Panel(
             Text(msg, justify="left", style="white"),

@@ -134,7 +134,7 @@
             }
         },
         {
-            "label": "Generate HTML",
+            "label": "Generate Chapter HTML",
             "command": "/Users/maxludden/dev/venvs/supergene/bin/python /Users/maxludden/dev/py/supergene/tasks/html.py",
             "type": "shell",
             "group": {

@@ -2,6 +2,7 @@
 from mongoengine import Document
 from mongoengine.fields import IntField, StringField
 from ujson import dump, load
+from pathlib import Path
 
 from rich import print, inspect
 from rich.text import Text
@@ -24,17 +25,74 @@ class Coverpage(Document):
     meta = {"collection": "coverpage"}
 
 
-def create_coverpage():
-    # > Loop threw books and read coverpage
-    coverpages = {}
-    books = range(1, 11)
-    for book in books:
-        book = int(book)
-        book_dir = str(book).zfill(2)
-        filename = f"cover{book}.html"
-        html_path = f"{BASE}/books/book{book_dir}/html/{filename}"
+def generate_filename(book: int) -> str:
+    filename = f"cover{book}.html"
+    sg()
+    doc = Coverpage.objects(book=book).first()  # type: ignore
+    if doc:
+        doc.filename = filename
+        doc.save()
+        log.debug(f"Saved Book {book}'s cover's filename to MongoDB.")
+        console.log(
+            Panel(
+                Text(
+                    f"Saved Book {book}'s cover's coverpage filename to MongoDB.",
+                    justify="left",
+                    style="white",
+                ),
+                title=Text(f"Generate Filename", style="green"),
+                title_align="left",
+                border_style="#00FF00"
+            )
+        )
+    return f"cover{book}.html"
 
-        html = f"""<!DOCTYPE html>
+
+def get_filename(book: int) -> str:
+    sg()
+    doc = Coverpage.objects(book=book).first()  # type: ignore
+    if str(doc.filename):
+        return str(doc.filename)
+    else:
+        return str(generate_filename(book))
+
+
+def generate_html_path(book: int) -> Path:
+    filename = get_filename(book)
+    book_dir = str(book).zfill(2)
+    html_path = f"{BASE}/books/book{book_dir}/html/{filename}"
+    sg()
+    doc = Coverpage.objects(book=book).first()  # type: ignore
+    if doc:
+        doc.html_path = html_path
+        doc.save()
+        log.debug(f"Saved Book {book}'s html path to MongoDB.")
+        console.log(
+            Panel(
+                Text(
+                    f"Saved Book {book}'s coverpage html path to MongoDB.",
+                    justify="left",
+                    style="white",
+                ),
+                title=Text(f"Generate HTML Path", style="green"),
+                title_align="left",
+                border_style="#00FF00"
+            )
+        )
+    return Path(html_path)
+
+
+def get_html_path(book: int) -> Path:
+    sg()
+    doc = Coverpage.objects(book=book).first()  # type: ignore
+    if str(doc.html_path):
+        return Path(str(doc.html_path))
+    else:
+        return generate_html_path(book)
+
+
+def generate_html(book: int, save: bool = True, write: bool = True) -> str:
+    html = f"""<!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en">
 <head>
     <meta charset="utf-8"/>
@@ -50,53 +108,52 @@ def create_coverpage():
     </p>
 </body>
 """
-        with open ('json/coverpages.json', 'r') as infile:
-            coverpages = dict(load(infile))
-            coverpages[book] = {
-                "book": book,
-                "filename": filename,
-                "html_path": html_path,
-                "html": html,
-            }
-            inspect(coverpages)
-        with open("json/coverpages.json", "w") as outfile:
-            dump(coverpages, outfile, indent=4)
+    if save:
+        sg()
+        doc = Coverpage.objects(book=book).first()  # type: ignore
+        if doc:
+            doc.html = html
+            doc.html_path = generate_html_path(book)
+            doc.save()
+            msg = f"Saved Book {book}'s coverpage html to MongoDB."
+            log.debug(msg)
+            console.log(
+                Panel(
+                    Text(
+                        msg,
+                        justify="left",
+                        style="white",
+                    ),
+                    title=Text(f"Generate HTML", style="green"),
+                    title_align="left",
+                    border_style="#00FF00"
+                )
+            )
+    if write:
+        html_path = get_html_path(book)
+        with open(html_path, "w") as outfile:
+            outfile.write(html)
+            msg = f"Saved Book {book}'s coverpage html to {html_path}."
+            log.debug(msg)
+            console.log(
+                Panel(
+                    Text(
+                        msg,
+                        justify="left",
+                        style="white",
+                    ),
+                    title=Text(f"Generate HTML", style="green"),
+                    title_align="left",
+                    border_style="#00FF00"
+                )
+            )
+    return html
 
 
-def generate_filename(book: int):
-    return f"cover{book}.html"
-
-
-def get_filename(book: int):
+def get_html(book: int) -> str:
     sg()
-    for doc in Coverpage.objects(book=book):  # type: ignore
-        return doc.filename
-
-
-def generate_html_path(book: int):
-    filename = get_filename(book)
-    book_dir = str(book).zfill(2)
-    html_path = f"{BASE}/books/book{book_dir}/html/{filename}"
-    return html_path
-
-
-def save_html_path(book: int):
-    html_path = generate_html_path(book)
-    sg()
-    for doc in Coverpage.objects(book=book):  # type: ignore
-        doc.html_path = html_path
-        doc.save()
-        log.info(f"Saved Book {book}'s html_path to MongoDB.")
-
-
-def get_html_path(book: int):
-    sg()
-    for doc in Coverpage.objects(book=book):  # type: ignore
-        return doc.html_path
-
-
-def update_html_path(book: int):
-    sg()
-    for doc in Coverpage.objects(book=book):  # type: ignore
-        doc.html_path = generate_html_path(doc.book)
-        doc.save()
+    doc = Coverpage.objects(book=book).first()  # type: ignore
+    if doc.html:
+        return str(doc.html)
+    else:
+        return generate_html(book)

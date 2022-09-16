@@ -14,7 +14,7 @@ from subprocess import run
 
 from dotenv import load_dotenv
 from mongoengine import Document
-from mongoengine.fields import EnumField, IntField, StringField, URLField
+from mongoengine.fields import IntField, StringField, URLField, ListField
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options as ChromeOptions
 from selenium.webdriver.common.by import By
@@ -71,6 +71,7 @@ class Chapter(Document):
     url = URLField()
     unparsed_text = StringField()
     parsed_text = StringField()
+    tags = ListField(StringField(max_length=50))
 
     def __rich_repr__(self):
         table = Table(title=Text(f"Chapter {self.chapter}", style="bold cyan"),show_header=True, header_style="bold magenta", box=ROUNDED)

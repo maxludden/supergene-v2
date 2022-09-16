@@ -119,5 +119,12 @@
 			"generate_${1:Color}_panel(",
 			""
 		]
+	},
+	"Comment": {
+		"prefix": "<!-",
+		"body": [
+			"$0",
+			"<!--${TM_SELECTED_TEXT}-->"
+		]
 	}
 }

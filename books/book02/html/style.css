@@ -1,0 +1,524 @@
+@charset "utf-8";
+
+:root {
+    --main-bg-color: #222222;
+    --main-color: #eeeeee;
+    --alternate-bg-color: #444444;
+    --alternate-color: #cccccc;
+    --main-border-color: #AAAAAA;
+    --table-header-bg-color: #e2e2e2;
+    --link-color: #22ee22;
+}
+
+@media (prefers-color-scheme: light) {
+    :root {
+        --main-bg-color: white;
+        --main-color: black;
+        --alternate-bg-color: #efefef;
+        --alternate-color: #222222;
+        --main-border-color: #BBBBBB;
+        --table-header-bg-color: #2e2e2e;
+        --link-color: #22ee22;
+    }
+}
+
+/**** Fonts *******/
+@font-face {
+    font-family: "Urbanist-Thin";
+    font-style: normal;
+    src: "Urbanist-Thin.ttf"
+}
+
+@font-face {
+    font-family: "Urbanist-ThinItalic";
+    font-style: normal;
+    src: "Urbanist-thinItalic.ttf"
+}
+
+@font-face {
+    font-family: "Urbanist-Regular";
+    font-style: normal;
+    src: "Urbanist-Regular.ttf"
+}
+
+@font-face {
+    font-family: "Urbanist-Italic";
+    font-style: italic;
+    src: "Urbanist-Italic.ttf"
+}
+
+@font-face {
+    font-family: "Urbanist-Black";
+    font-style: normal;
+    font_weight: bold;
+    src: "Urbanist-Black.ttf"
+}
+
+@font-face {
+    font-family: "Urbanist-BlackItalic";
+    font-style: normal;
+    font_weight: bold;
+    src: "Urbanist-BlackItalic.ttf"
+}
+
+@font-face {
+    font-family: "White Modesty";
+    font-style: normal;
+    src: "White Modesty.ttf"";
+
+}
+
+/***** End of Fonts **********/
+
+html {
+    font-size: 1em;
+    font-family: "Urbanist-Regular", -apple-system, BlinkMacSystemFont, "helvetica neue", helvetica, roboto, noto, "segoe ui", arial, sans-serif;
+    line-height: 1.2em;
+    background-color: var(--main-bg-color);
+    color: var(--main-color);
+}
+
+/****** Headers *********/
+h1,
+h2,
+h3,
+h4,
+h5 {
+    display: block;
+    text-align: center;
+    font-family: "Urbanist-Regular", "Myriad Pro", helvetica, sans-serif;
+    font-style: normal;
+}
+
+h1 {
+    font-size: 1.5em;
+    line-height: 1.2em;
+}
+
+h2 {
+    font-size: 1.25em;
+    line-height: 1.1em;
+    color: var(--alternate-color);
+}
+
+h3 {
+    font-size: 1.1em;
+    line-height: 1em;
+    font-family: "Urbanist-Thin", "Myriad Pro", helvetica, sans-serif;
+    color: var(--alternate-color);
+}
+
+h4 {
+    font-size: 1.1em;
+    line-height: 1em;
+    font-family: "Urbanist-ThinItalic", "Myriad Pro", helvetica, sans-serif;
+    color: var(--alternate-color);
+}
+
+h5 {
+    font-size: 0.9em;
+    line-height: 1;
+}
+
+/* End of Headers */
+
+/****** Images *********/
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/****** End of Images *********/
+
+/************** Body ***************/
+body {
+    margin: 0;
+    padding: 1em;
+    background-color: var(--main-bg-color);
+    color: var(--main-color);
+    -webkit-hyphenate-limit-before: 3;
+    -webkit-hyphenate-limit-after: 2;
+    -ms-hyphenate-limit-chars: 6 3 2;
+    -webkit-hyphenate-limit-lines: 2;
+}
+
+/*********** @media ***********/
+@media(min-width: 390px) {
+    body {
+        margin: auto;
+    }
+}
+
+table {
+    display: table;
+    width: 95%;
+    margin-left: auto;
+    margin-right: auto;
+    border: none;
+    border-collapse: collapse;
+}
+
+th {
+    padding: .5em;
+    color: var(--main-bg-color);
+    background: var(--table-header-bg-color);
+    font-family: "Urbanist-Bold", "Lemon/Milk", "Myriad Pro", helvetica, sans-serif;
+    font-size: 1.5em;
+    text-align: center;
+    border: none
+}
+
+td {
+    font-size: 1em;
+    padding: 10px;
+    border: none;
+    border-collapse: collapse;
+    font-family: "Urbanist-Regular", "Myriad Pro", helvetica, sans-serif;
+    text-align: center;
+}
+
+.status {
+    border: none;
+}
+
+.status td:nth-child(1) {
+    text-align: left;
+}
+
+.status td:nth-child(2) {
+    text-align: right;
+}
+
+.status tr:nth-child(odd) {
+    background-color: var(--alternate-bg-color);
+}
+
+.status1 {
+    border: none;
+}
+
+.status1 td:nth-child(1) {
+    text-align: left;
+}
+
+.status1 td:nth-child(2) {
+    text-align: right;
+}
+
+.status1 tr:nth-child(odd) {
+    background-color: var(--alternate-bg-color);
+}
+
+.class {
+    text-align: center;
+    font-family: Urbanist-Thin, Urbanist-Regular, "Myriad Pro", helvetica, sans-serif;
+    font-size: 0.8em;
+    background-color: var(--main-bg-color);
+    color: var(--main-color);
+    border: none;
+}
+
+.geno-r {
+    border: none;
+}
+
+.geno-r td:nth-child(1) {
+    text-align: left;
+}
+
+.geno-r td:nth-child(2) {
+    text-align: right;
+}
+
+.geno {
+    border: none;
+}
+
+.geno td:nth-child(odd) {
+    text-align: left;
+}
+
+.geno td:nth-child(even) {
+    text-align: right;
+}
+
+.geno tr:nth-child(even) {
+    background-color: var(--alternate-bg-color);
+}
+
+.beast {
+    border: none;
+    border-top: none;
+    border-bottom: none;
+}
+
+.beast td {
+    text-align: center;
+}
+
+.type {
+    text-align: center;
+    font-family: Urbanist-Thin, Urbanist-Regular, "Myriad Pro", helvetica, sans-serif;
+    font-size: 0.8em;
+    border: none;
+}
+
+.beast tr:nth-child(even) {
+    background-color: var(--alternate-bg-color);
+}
+
+.article-reply {
+    width: 70%;
+    padding: 1.5em;
+    margin-left: auto;
+    margin-right: auto;
+    color: var(--alternate-color);
+    background-color: var(--alternate-bg-color);
+    font-family: Urbanist-Italic;
+    border: 1px solid var(--alternate-color);
+    border-radius: 5%;
+}
+
+.article {
+    width: 70%;
+    padding: 1.5em;
+    margin-left: auto;
+    margin-right: auto;
+    color: var(--alternate-color);
+    background-color: var(--alternate-bg-color);
+    font-family: Urbanist-Italic;
+    border: 1px solid var(--alternate-color);
+    border-radius: 5%;
+}
+
+.alert {
+    padding: 1.5em;
+    margin-left: auto;
+    margin-right: auto;
+    color: var(--alternate-color);
+    background-color: var(--alternate-bg-color);
+    font-family: Urbanist-Italic;
+    border: 1px solid var(--alternate-color);
+    border-radius: 5%;
+}
+
+.article {
+    padding: 1.5em;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    color: var(--alternate-color);
+    background-color: var(--alternate-bg-color);
+    font-family: Urbanist-Italic;
+    border: 1px solid var(--alternate-color);
+    border-radius: 5%;
+}
+
+.title {
+    font-family: "Urbanist-Black", "Lemon/Milk", "Myriad Pro", helvetica, sans-serif;
+    font-size: 2em;
+    line-height: 1.5em;
+    text-align: center;
+    text-decoration: underline;
+}
+
+.sig {
+    font-family: "White Modesty";
+    font-size: 4em;
+    line-height: 1.5em;
+    text-align: center;
+}
+
+/* Table Div */
+.tables table {
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+
+.tables table:last-child {
+    margin-bottom: 50px;
+}
+
+.tables table:first-child {
+    margin-top: 50px;
+}
+
+.center {
+    display: table;
+    width: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.center td {
+    text-align: center;
+}
+
+.center50 {
+    display: table;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.center50 td {
+    text-align: center;
+}
+
+.center70 {
+    display: table;
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.center70 td {
+    text-align: center;
+}
+
+.note {
+    font-family:
+        "Urbanist-Thin",
+        -apple-system,
+        BlinkMacSystemFont,
+        "helvetica neue",
+        helvetica,
+        roboto,
+        noto,
+        "segoe ui",
+        arial,
+        sans-serif;
+    font-size: .8em;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+blockquote {
+    font-style: italic;
+    margin: 4em 2em;
+    padding: 1em;
+    text-align: center;
+    background-color: var(--alternate-bg-color);
+    color: var(--alternate-color);
+}
+
+hr {
+    margin: 5px;
+}
+
+#titlepage {
+    color: var(--main-bg-color);
+}
+
+p.title {
+    text-align: center;
+}
+
+/* Styles for cover.xhtml */
+body.cover {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+p.cover {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+img.cover {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+html.eob {
+    margin: 0;
+    padding: margin;
+    text-align: center;
+}
+
+body.eob {
+    /* margin-left: auto; */
+    /* margin-right: auto; */
+    padding: 0;
+    /* text-align: center; */
+    background-color: var(--main-bg-color);
+}
+
+h2.eob {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 30px;
+    text-align: center;
+    color: rgba(0, 0, 0, 0);
+}
+
+h3.eob {
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0;
+    text-align: center;
+    color: var(--main-color)
+}
+
+picture.eob {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+figure.eob {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+p.eob {
+    margin: 0;
+    padding-bottom: 40px;
+    text-align: center;
+    color: rgba(0, 0, 0, 0);
+    font-family: "Urbanist-Thin", "Lemon/Milk", "Myriad Pro", helvetica, sans-serif;
+}
+
+p.eob-thin {
+    display: block;
+    text-align: center;
+    font-family: Urbanist-Thin;
+    margin-left: 0;
+    margin-right: auto;
+}
+
+img.eob {
+    width: 100%;
+    max-height: 200px;
+    margin: 0;
+    padding: 0;
+}
+
+h1.titlepage {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    color: var(--main-color)
+}
+
+h3.titlepage {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    color: var(--main-color)
+}
+
+figure.titlepage-gem {
+    width: 120px;
+    height: 60px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}

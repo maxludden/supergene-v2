@@ -129,7 +129,7 @@ env.bak/
 venv.bak/
 
 # tasks
-tasks/
+# tasks/
 
 # Spyder project settings
 .spyderproject

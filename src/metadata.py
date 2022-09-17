@@ -243,4 +243,4 @@ def generate_all_metadata() -> None:
             )
         )
 
-generate_all_metadata()
+# generate_all_metadata()

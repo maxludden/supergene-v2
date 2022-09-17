@@ -323,6 +323,13 @@ td {
     text-decoration: underline;
 }
 
+.section-title {
+    font-family: "Urbanist-Black", "Lemon/Milk", "Myriad Pro", helvetica, sans-serif;
+    font-size: 2em;
+    line-height: 1.5em;
+    text-align: center;
+}
+
 .sig {
     font-family: "White Modesty";
     font-size: 4em;

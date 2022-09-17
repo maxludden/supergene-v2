@@ -1,5 +1,6 @@
 from enum import IntEnum
 from pathlib import Path
+import time
 
 from rich import print
 from rich.panel import Panel
@@ -15,28 +16,27 @@ choices = [1,2,3,4,5,6,7,8,9,10]
 class InvalidBook(ValueError):
     pass
 
+def generate_specific_cover():
+    book = int(input("Which book? (1-10)"))
+    if book not in choices:
+        raise InvalidBook(f"Book {book} does not exist.")
+    generate_html(book)
+
 def generate_covers():
     with Progress(console=console,) as progress:
         covers = progress.add_task("[white]Creating Covers...", total=10)
 
         for book in range(1,11):
-            sg()
-            doc = Coverpage.objects(book=book).first() # type: ignore
-            if doc:
-                html_path = generate_html_path(book)
-                html = generate_html(book)
+            generate_html(book)
+            progress.update(covers, advance=1)
 
-                progress.advance(covers)
-                console.log(
-                    Panel(
-                        Text(
-                            f"Created cover for Book {doc.book}.",
-                            justify="left",
-                            style="white",
-                        ),
-                        title=Text(f"Created Cover", style="bold green"),
-                        title_align="left",
-                        expand=False,
-                        border_style="green",
-                    )
-                )
+if __name__ == "__main__":
+    time.sleep(5)
+    book = input("Generate all volumes? (y/n)")
+    match book:
+        case "y" | 'Y' | 'yes' | 'Yes':
+            generate_covers()
+        case "n" | 'N' | 'no' | 'No':
+            generate_specific_cover()
+        case _:
+            print("Invalid choice.")

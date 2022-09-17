@@ -113,7 +113,7 @@ def generate_html(book: int, save: bool = True, write: bool = True) -> str:
         doc = Coverpage.objects(book=book).first()  # type: ignore
         if doc:
             doc.html = html
-            doc.html_path = generate_html_path(book)
+            doc.html_path = str(generate_html_path(book))
             doc.save()
             msg = f"Saved Book {book}'s coverpage html to MongoDB."
             log.debug(msg)

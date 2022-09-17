@@ -136,10 +136,63 @@ class chapter_gen:
         return self.end - self.start + 1
 
 
+def max_title(title: str):
+    """
+    Custom title case function.
+
+    Args:
+        title (str): The string you want to transform.
+
+    Returns:
+        str: The transformed string.
+    """
+
+    title = title.lower()
+    articles = [
+        "a",
+        "an",
+        "and",
+        "as",
+        "at",
+        "but",
+        "by",
+        "en",
+        "for",
+        "if",
+        "in",
+        "nor",
+        "of",
+        "on",
+        "or",
+        "per",
+        "the",
+        "to",
+        "vs",
+    ]
+    word_list = re.split(" ", title)
+    final = [str(word_list[0]).capitalize()]
+    for word in word_list[1:]:
+        word = str(word)
+        final.append(word if word in articles else word.capitalize())
+
+    result = " ".join(final)
+
+    return result
+
+
 DRIVER_PATH = Path.cwd() / "driver" / "chromedriver"
 
 
 def generate_unparsed_text(chapter: int) -> str:
+    '''
+        Download the text of a chapter from the Super Gene website.
+
+        Args:
+            `chapter` (int): The chapter number.
+
+        Returns:
+            `unparsed_text` (str): The text of the chapter.
+    '''
     # Initial Variables
     chapter_str = str(chapter)
 
@@ -634,7 +687,7 @@ def generate_md(chapter: int, save: bool = False, write: bool = False) -> str | 
         return md
 
 
-def get_md(chapter: int):
+def get_md(chapter: int) -> str | None:
     """
     Retrieve the multimarkdown for the given chapter from MongoDB.
 
@@ -707,7 +760,7 @@ def generate_html(chapter: int, save: bool = False) -> str | None:
             return html
 
 
-def get_html(chapter: int):
+def get_html(chapter: int) -> str | None:
     """
     Retrieve the HTML of the given chapter from MongoDB.
 
@@ -724,7 +777,7 @@ def get_html(chapter: int):
         return doc.html
 
 
-def write_md(chapter: int):
+def write_md(chapter: int) -> None:
     """
     Retrieves the given chapter's multimarkdown from MongoDB and writes it to disk (md_path)
 
@@ -743,7 +796,7 @@ def write_md(chapter: int):
     log.debug(f"Wrote Chapter {chapter}'s Multimarkdown to Disk.")
 
 
-def make_chapters():
+def make_chapters() -> None:
     """
     Generate the values needed to create the chapter.
     """
@@ -793,7 +846,7 @@ def make_chapters():
         log.debug(f"Finished Chapter {chapter}.")
 
 
-def verify_chapters():
+def verify_chapters() -> None:
     """
     Update all the values of each chapter dict.
     """
@@ -855,7 +908,7 @@ def verify_chapters():
         log.info(f"Finished chapter {chapter}")
 
 
-def nb():
+def nb() -> None:
     sg("LOCALDB")
 
     nb = "Nyoi-Bo"

@@ -2,14 +2,13 @@
 
 from pathlib import Path
 import yaml
-from typing import Any, Union
+from typing import Any
 from pathlib import Path
 
 
 from rich import print, inspect
 
 
-# BASE = Path(__file__).parent.parent
 BASE = Path.cwd()
 # . >> /Users/maxludden/dev/py/supergene
 
@@ -50,6 +49,11 @@ def load(filepath: str | Path) -> Any:
     return result
 
 
+def loads(data: str) -> Any:
+    result = yaml.load(data, Loader=Loader)
+    return result
+
+
 def safe_load(yaml_to_load: str, filepath: str | Path) -> None:
     with open(filepath, "r") as infile:
         result = yaml.safe_load(infile)
@@ -74,8 +78,18 @@ def safe_dump(data: str, filepath: str | Path):
         )  # type: ignore
 
 
-def dump(data: str, filepath: str | Path):
+def dump(data: Any, filepath: str | Path) -> None:
+    data = yaml.dump(
+        data, Dumper=Dumper, mode="wt", encoding="utf-8", indent=2
+    )  # type: ignore
+    inspect(data)
     with open(filepath, "w") as outfile:
-        yaml.dump(
-            data, stream=outfile, Dumper=Dumper, mode="wt", encoding="utf-8", indent=2
-        )  # type: ignore
+        outfile.write(data)
+
+
+def dumps(data: Any) -> str:
+    data = yaml.dump(
+        data, Dumper=Dumper, mode="wt", encoding="utf-8", indent=2
+    )  # type: ignore
+    inspect(data)
+    return data

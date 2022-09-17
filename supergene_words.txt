@@ -24,6 +24,7 @@ Digang
 Diya
 Dongmu
 Dongxuan
+endofbooks
 endpage
 evol
 Evolu
@@ -69,6 +70,7 @@ Littleflower
 Liyu
 LOCALDB
 Lockdown
+logpanel
 Longyan
 maglev
 Maha

@@ -1,21 +1,20 @@
 # src/log.py
 
-from platform import platform
+from functools import wraps
 from os import environ
+from pathlib import Path
+from platform import platform
 from time import perf_counter
 
 from loguru import logger as log
-from rich import print, inspect
-from rich.pretty import pprint
-
-
+from rich import inspect, print
 from rich.console import Console
-from rich.text import Text
+from rich.panel import Panel
+from rich.pretty import pprint
 from rich.style import Style
+from rich.text import Text
 from rich.theme import Theme
-from functools import wraps
-from ujson import load, dump
-from pathlib import Path
+from ujson import dump, load
 
 mconsole = Console()
 
@@ -199,3 +198,100 @@ def time(*, level="DEBUG"):
         return wrapped
 
     return wrapper
+
+
+def logpanel(msg: str, level: str = "INFO") -> None:
+    """Log a message to loguru sinks and print to a panel.
+    Args:
+        msg (str):
+            The message to be logged.
+    """
+    match level:
+        case "DEBUG" | 'debug' | 'd':
+            panel = Panel(
+                Text(
+                    msg,
+                    style="bold bright_white"
+                ),
+                title=Text(
+                    "DEBUG",
+                    style="debug",
+                ),
+                title_align="left",
+                border_style="debug",
+                padding=(1, 1),
+                expand=False,
+            )
+            console.log(panel, markup=True, highlight=True, log_locals=False)
+            log.debug(msg)
+        case "INFO" | 'info' | 'i':
+            panel = Panel(
+                Text(
+                    msg,
+                    style="bold bright_white"
+                ),
+                title=Text(
+                    "INFO",
+                    style="info",
+                ),
+                title_align="left",
+                border_style="info",
+                padding=(1, 1),
+                expand=False,
+            )
+            console.log(panel, markup=True, highlight=True, log_locals=False)
+            log.info(msg)
+        case "WARNING" | 'warning' | 'w':
+            panel = Panel(
+                Text(
+                    msg,
+                    style="bold bright_white"
+                ),
+                title=Text(
+                    "WARNING",
+                    style="warning",
+                ),
+                title_align="left",
+                border_style="warning",
+                padding=(1, 1),
+                expand=False
+            )
+            console.log(panel, markup=True, highlight=True, log_locals=False)
+            log.warning(msg)
+        case "ERROR" | 'error' | 'e':
+            panel = Panel(
+                Text(
+                    msg,
+                    style="bold bright_white"
+                ),
+                title=Text(
+                    "ERROR",
+                    style="error",
+                ),
+                title_align="left",
+                border_style="error",
+                padding=(1, 1),
+                expand=False
+            )
+            console.log(panel, markup=True, highlight=True, log_locals=True)
+            log.error(msg)
+        case "CRITICAL" | 'critical' | 'c':
+            panel = Panel(
+                Text(
+                    msg,
+                    style="bold bright_white"
+                ),
+                title=Text(
+                    "CRITICAL",
+                    style="critical",
+                ),
+                title_align="left",
+                border_style="critical",
+                padding=(1, 1),
+                expand=False
+            )
+            console.log(panel, markup=True, highlight=True, log_locals=True)
+            log.critical(msg)
+        case _:
+            console.log(msg, markup=True, highlight=True, log_locals=False)
+            log.info(msg)

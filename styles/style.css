@@ -351,6 +351,24 @@ td {
     margin-top: 50px;
 }
 
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: var(--main-bg-color);
+    color: var(--main-color);
+    text-align: center;
+}
+
+.vertical-center {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+}
+
 .center {
     display: table;
     width: auto;

@@ -1,4 +1,5 @@
 # core/section.py
+from inspect import trace
 from pathlib import Path
 from subprocess import run
 from typing import Any, List, Optional
@@ -30,24 +31,36 @@ img = (
 )
 
 # > Section Panel
-def section_panel(section: int, key: str = "Key", value: str | int | Markdown = "Value", line: int = inspect.currentframe().f_lineno, title: Optional[str] = None, get: bool = False) -> Panel:
-    '''
+def section_panel(
+    section: int,
+    key: str = "Key",
+    value: str | int | Markdown = "Value",
+    line: int = 1,
+    title: Optional[str] = None,
+    get: bool = False,
+) -> Panel:
+    """
     Create a rich.panel.Panel for a section.
 
     Args:
         `key` (str): The key for the panel.
 
+
         `value` (str): The value for the panel.
+
 
         `title` (str):  The title for the panel.
 
+
         `line` (int): The line number for the panel.
+
 
         `get` (bool): Whether the value is retrieved. Defaults to False.
 
+
     Returns:
         `panel` (rich.panel.Panel): The rich.panel.Panel for the section.
-    '''
+    """
     if title:
         title = title
     else:
@@ -56,17 +69,23 @@ def section_panel(section: int, key: str = "Key", value: str | int | Markdown = 
         get_verb = "Retrieved"
     else:
         get_verb = "Generated"
+    if len(key) + len(str(value)) < 25:
+        length_of_key = len(key)
+        length_of_value = len(str(value))
+        missing_char = 15 - length_of_key - length_of_value
+        value = f"{value}{' ' * missing_char}"
 
-    panel =  Panel(
+    panel = Panel(
         f"[#eed4fc]{get_verb} {key}:[/][bold bright_white] {str(value)}[/]",
         title=Text(f"{title}", style=Style(color="#8e47ff", bold=True)),
         title_align="left",
-        subtitle=f'[purple]src/section.py[/][#FFFFFF]|[/][#54c6ff]line {line}[/]',
-        subtitle_align='right',
-        border_style=Style(color='#5f00ff'),
-        expand=False
+        subtitle=f"[purple]src/section.py[/][#FFFFFF]|[/][#54c6ff]line {line}[/]",
+        subtitle_align="right",
+        border_style=Style(color="#5f00ff"),
+        expand=False,
     )
     return panel
+
 
 class InvalidPartException(Exception):
     pass
@@ -147,9 +166,7 @@ def generate_section_book(section: int) -> int:
             book = 10
         case _:
             raise SectionNotFound(f"Section {section} does not exist.")
-    console.print(
-        section_panel(section, key = "Book", value = f'{book}')
-    )
+    console.print(section_panel(section, key="Book", value=f"{book}", line=153))
     return book
 
 
@@ -167,9 +184,7 @@ def get_section_book(section: int) -> int:
     sg()
     doc = Section.objects(section=section).first()  # type: ignore
     if doc.book:
-        console.print(
-            section_panel(section, "Book", doc.book, get=True)
-        )
+        console.print(section_panel(section, "Book", doc.book, get=True, line=182))
         return doc.book
     else:
         return generate_section_book(section)
@@ -191,19 +206,13 @@ def generate_section_part(section: int) -> int:
     """
     match section:
         case 1 | 2 | 3:
-            console.print(
-                section_panel(section, key="Part", value="0")
-            )
+            console.print(section_panel(section, key="Part", value="0", line=195))
             return 0
         case 4 | 6 | 8 | 10 | 12 | 14 | 16:
-            console.print(
-                section_panel(section, key="Part", value="1")
-            )
+            console.print(section_panel(section, key="Part", value="1", line=200))
             return 1
         case 5 | 7 | 9 | 11 | 13 | 15 | 17:
-            console.print(
-                section_panel(section, key="Part", value="2")
-            )
+            console.print(section_panel(section, key="Part", value="2", line=205))
             return 2
         case _:
             raise InvalidPartException(f"Section {section} is not a valid section.")
@@ -223,9 +232,7 @@ def get_section_part(section: int) -> int:
     sg()
     doc = Section.objects(section=section).first()  # type: ignore
     if doc.part:
-        console.print(
-            section_panel(section, "Part", doc.part, get=True)
-        )
+        console.print(section_panel(section, "Part", doc.part, get=True, line=229))
         return doc.part
     else:
         return generate_section_part(section)
@@ -248,17 +255,17 @@ def generate_section_part_word(section: int) -> str:
     match section:
         case 1 | 2 | 3:
             console.print(
-                section_panel(section, key="Part Word",  value="n/a")
+                section_panel(section, key="Part Word", value="n/a", line=251)
             )
             return "n/a"
         case 4 | 6 | 8 | 10 | 12 | 14 | 16:
             console.print(
-                section_panel(section, key="Part Word", value="One")
+                section_panel(section, key="Part Word", value="One", line=256)
             )
             return "One"
         case 5 | 7 | 9 | 11 | 13 | 15 | 17:
             console.print(
-                section_panel(section, key="Part Word", value="Two")
+                section_panel(section, key="Part Word", value="Two", line=261)
             )
             return "Two"
         case _:
@@ -280,12 +287,11 @@ def get_section_part_word(section: int) -> str:
     doc = Section.objects(section=section).first()  # type: ignore
     if doc.part_word:
         console.print(
-            section_panel(section, "Part Word", doc.part_word, get=True)
+            section_panel(section, "Part Word", doc.part_word, get=True, line=285)
         )
         return doc.part_word
     else:
         return generate_section_part_word(section)
-
 
 
 @log.catch
@@ -346,7 +352,7 @@ def generate_section_title(section: int, save: bool = True) -> str:
             )
             title = generate_section_title(section)
     console.print(
-        section_panel(section=section, key='Title', value=title)  # type: ignore
+        section_panel(section=section, key="Title", value=title, line=351)  # type: ignore
     )
     if save:
         sg()
@@ -362,9 +368,7 @@ def get_section_title(section: int) -> str:
     doc = Section.objects(section=section).first()  # type: ignore
     if doc.title:
         title = max_title(doc.title)
-        console.print(
-            section_panel(section, "Title", title, get=True)
-        )
+        console.print(section_panel(section, "Title", title, get=True, line=368))
         return title
     else:
         return max_title(str(generate_section_title(section)))
@@ -388,9 +392,7 @@ def generate_section_filename(section: int, save: bool = True) -> str:
         doc = Section.objects(section=section).first()  # type: ignore
         doc.filename = section_filename
         doc.save()
-    console.print(
-        section_panel(section, "Filename", section_filename)
-    )
+    console.print(section_panel(section, "Filename", section_filename, line=393))
     return section_filename
 
 
@@ -409,7 +411,7 @@ def get_section_filename(section: int) -> str:
     doc = Section.objects(section=section).first()  # type: ignore
     if doc.filename:
         console.print(
-            section_panel(section, "Filename", doc.filename, get=True)
+            section_panel(section, "Filename", doc.filename, get=True, line=414)
         )
         return doc.filename
     else:
@@ -442,9 +444,7 @@ def generate_section_md_path(section: int, save: bool = True) -> Path:
         else:
             raise SectionNotFound(f"Section {section} not found.")
 
-    console.print(
-        section_panel(section, "Multimarkdown Path", md_path)
-    )
+    console.print(section_panel(section, "Multimarkdown Path", md_path, line=447))
     return Path(md_path)
 
 
@@ -460,10 +460,10 @@ def get_section_md_path(section: int) -> Path:
         `md` (str): The filepath of the section's multimarkdown.
     """
     sg()
-    doc = Section.objects(section=section).first() # type: ignore
+    doc = Section.objects(section=section).first()  # type: ignore
     if doc.md_path:
         console.print(
-            section_panel(section, "Markdown Path", doc.md_path, get=True)
+            section_panel(section, "Markdown Path", doc.md_path, get=True, line=468)
         )
         return Path(doc.md_path)
     else:
@@ -497,7 +497,7 @@ def generate_html_path(section: int, save: bool = True) -> str:
             log.debug(f"Saved html_path for section {section} to MongoDB.")
         else:
             raise SectionNotFound(f"Section {section} not found.")
-
+    console.print(section_panel(section, "HTML Path", html_path, line=503))
     return html_path
 
 
@@ -515,10 +515,10 @@ def get_html_path(section: int) -> str:
             The filepath of the section's HTML.
     """
     sg()
-    doc = Section.objects(section=section).first() # type: ignore
+    doc = Section.objects(section=section).first()  # type: ignore
     if doc.html_path:
         console.print(
-            section_panel(section, "HTML Path", doc.html_path, get=True)
+            section_panel(section, "HTML Path", doc.html_path, get=True, line=525)
         )
         return doc.html_path
     else:
@@ -585,6 +585,8 @@ def generate_section_start(section: int, save: bool = True) -> int:
         doc = Section.objects(section=section).first()  # type: ignore
         doc.start = start
         doc.save()
+
+    console.print(section_panel(section, "Start", start, line=594))
     return start
 
 
@@ -604,9 +606,7 @@ def get_section_start(section: int) -> int:
     sg()
     doc = Section.objects(section=section).first()  # type: ignore
     if doc.start:
-        console.print(
-            section_panel(section, "Start", doc.start, get=True)
-        )
+        console.print(section_panel(section, "Start", doc.start, get=True, line=616))
         return doc.start
     else:
         return generate_section_start(section)
@@ -671,9 +671,7 @@ def generate_section_end(section: int, save: bool = True) -> int:
         doc = Section.objects(section=section).first()  # type: ignore
         doc.end = end
         doc.save()
-    console.print(
-        section_panel(section, "End", end, get=False)
-    )
+    console.print(section_panel(section, "End", end, get=False, line=683))
     return end
 
 
@@ -691,9 +689,7 @@ def get_section_end(section: int) -> int:
     sg()
     doc = Section.objects(section=section).first()  # type: ignore
     if doc.end:
-        console.print(
-            section_panel(section, "End", doc.end, get=True)
-        )
+        console.print(section_panel(section, "End", doc.end, get=True, line=703))
         return doc.end
     else:
         return generate_section_end(section)
@@ -722,9 +718,6 @@ def generate_section_md(section: int, save: bool = True, write: bool = True) -> 
         log.debug(f"Section {section} Document:<code>\n{doc}\n</code>")
         title = doc.title
         book = doc.book
-        book_word = str(num2words(book)).capitalize()
-        start = doc.start
-        end = doc.end
         md_path = doc.md_path
         part = generate_section_part(section)
 
@@ -735,10 +728,7 @@ def generate_section_md(section: int, save: bool = True, write: bool = True) -> 
         atx = f'# {title}\n\n<figure>\n\t<img src="../Images/gem.gif" alt="Spinning Black Gem" width="120" height="60" />\n</figure>\n\n'
 
         # > Text
-        text = f'<p class="section-title">Written by Twelve Winged Dark Seraphim</p>\n'
-        text = (
-            f'{text}\n<p class="section-title">Formatted and Edited by Max Ludden</p>'
-        )
+        text = 'FOOTER'
 
         md = f"{meta}{atx}{text}"
 
@@ -753,8 +743,9 @@ def generate_section_md(section: int, save: bool = True, write: bool = True) -> 
                 log.debug(f"Wrote md for section {section} to {md_path}.")
 
         console.print(
-            section_panel(section, "Markdown", Markdown(md), get=False)
+            section_panel(section, "Markdown", "See Below", get=False, line=764)
         )
+        console.print(Markdown(md))
         return md
 
 
@@ -775,7 +766,7 @@ def get_section_md(section: int):
     doc = Section.objects(section=section).first()  # type: ignore
     if doc.md:
         console.print(
-            section_panel(section, "Markdown", Markdown(doc.md), get=True)
+            section_panel(section, "Markdown", Markdown(doc.md), get=True, line=791)
         )
         return doc.md
     else:
@@ -798,15 +789,13 @@ def generate_section_html_path(section: int, save: bool = True) -> Path:
     filename = get_section_filename(section)
     book_zfill = str(get_section_book(section)).zfill(2)
     book_dir = f"book{book_zfill}"
-    html_path = f"{BASE}/books/{book_dir}/{filename}.html"
+    html_path = f"{BASE}/books/{book_dir}/html/{filename}.html"
     if save:
         sg()
         doc = Section.objects(section=section).first()  # type: ignore
         doc.html_path = html_path
         doc.save()
-    console.print(
-        section_panel(section, "HTML Path", html_path, get=False)
-    )
+    console.print(section_panel(section, "HTML Path", html_path, get=False, line=821))
     return Path(html_path)
 
 
@@ -825,7 +814,7 @@ def get_section_html_path(section: int) -> Path:
     doc = Section.objects(section=section).first()  # type: ignore
     if doc.html_path:
         console.print(
-            section_panel(section, "HTML Path", doc.html_path, get=True)
+            section_panel(section, "HTML Path", doc.html_path, get=True, line=841)
         )
         return Path(doc.html_path)
     else:
@@ -851,6 +840,7 @@ def save_section_html(result: RunningCommand | None, section: int) -> str:
             doc.html = html
             doc.save()
             log.info(f"Saved HTML for section {section} to MongoDB.")
+            console.print(section_panel(section, "HTML", html, get=False, line=680))
             return html
     else:
         raise MMDConversionError(f"Failed to convert {doc.md_path} to HTML.")
@@ -877,9 +867,7 @@ def generate_section_html(section: int, save: bool = True) -> str | None:
         if doc.html_path:
             try:
                 html = save_section_html(mmd(doc.html_path, doc.md_path), section)
-                console.print(
-                    section_panel(section, "HTML", html, get=False)
-                )
+                console.print(section_panel(section, "HTML", html, get=False, line=897))
                 return html
             except:
                 raise MMDConversionError(f"Failed to convert {doc.md_path} to HTML.")
@@ -887,9 +875,7 @@ def generate_section_html(section: int, save: bool = True) -> str | None:
             doc.html_path = generate_section_html_path(section)
             try:
                 html = save_section_html(mmd(doc.html_path, doc.md_path), section)
-                console.print(
-                    section_panel(section, "HTML", html, get=False)
-                )
+                console.print(section_panel(section, "HTML", html, get=False, line=907))
                 return html
             except:
                 raise MMDConversionError(f"Failed to convert {doc.md_path} to HTML.")
@@ -898,9 +884,7 @@ def generate_section_html(section: int, save: bool = True) -> str | None:
         if doc.html_path:
             try:
                 html = save_section_html(mmd(doc.html_path, doc.md_path), section)
-                console.print(
-                    section_panel(section, "HTML", html, get=False)
-                )
+                console.print(section_panel(section, "HTML", html, get=False, line=918))
                 return html
             except:
                 raise MMDConversionError(f"Failed to convert {doc.md_path} to HTML.")
@@ -908,14 +892,10 @@ def generate_section_html(section: int, save: bool = True) -> str | None:
             doc.html_path = generate_section_html_path(section)
             try:
                 html = save_section_html(mmd(doc.html_path, doc.md_path), section)
-                console.print(
-                    section_panel(section, "HTML", html, get=False)
-                )
+                console.print(section_panel(section, "HTML", html, get=False, line=928))
                 return html
             except:
                 raise MMDConversionError(f"Failed to convert {doc.md_path} to HTML.")
-
-
 
 
 @log.catch
@@ -932,9 +912,7 @@ def get_section_html(section: int) -> str | None:
     sg()
     doc = Section.objects(section=section).first()  # type: ignore
     if doc.html:
-        console.print(
-            section_panel(section, "HTML", doc.html, get=True)
-        )
+        console.print(section_panel(section, "HTML", doc.html, get=True, line=952))
         return doc.html
     else:
         return generate_section_html(section)
@@ -969,7 +947,7 @@ def generate_section_chapters(section: int, save: bool = True) -> List[int] | No
             doc.save()
             logpanel(f"Saved chapters for section {section} to MongoDB.")
         console.print(
-            section_panel(section, "Chapters", ', '.join(chapters), get=False)
+            section_panel(section, "Chapters", ", ".join(chapters), get=False, line=988)
         )
         return chapters
     else:
@@ -991,7 +969,9 @@ def get_section_chapters(section: int) -> List[int] | None:
     doc = Section.objects(section=section).first()  # type: ignore
     if doc.chapters:
         console.print(
-            section_panel(section, "Chapters", ', '.join(doc.chapters), get=True)
+            section_panel(
+                section, "Chapters", ", ".join(doc.chapters), get=True, line=1010
+            )
         )
         return doc.chapters
     else:

@@ -1,18 +1,15 @@
 ---
-Title: Part Two\nFifth God's Sanctuary
+Title: Part 2: Fifth God's Sanctuary
 Book: 4
-Part: None
+Part: 2
 CSS: ../Styles/style.css
 viewport: width=device-width, initial-scale=1.0
 ...
-
-# Part Two\nFifth God's Sanctuary
-## Book Four
-### Section 5
+  
+# Part 2: Fifth God's Sanctuary
 
 <figure>
 	<img src="../Images/gem.gif" alt="Spinning Black Gem" width="120" height="60" />
 </figure>
 
-<p class="title">Written by Twelve Winged Dark Seraphim</p>
-<p class="title">Compiled and Edited by Max Ludden</p>
+FOOTER

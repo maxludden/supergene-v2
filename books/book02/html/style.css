@@ -323,6 +323,13 @@ td {
     text-decoration: underline;
 }
 
+.section-title {
+    font-family: "Urbanist-Black", "Lemon/Milk", "Myriad Pro", helvetica, sans-serif;
+    font-size: 2em;
+    line-height: 1.5em;
+    text-align: center;
+}
+
 .sig {
     font-family: "White Modesty";
     font-size: 4em;
@@ -342,6 +349,24 @@ td {
 
 .tables table:first-child {
     margin-top: 50px;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: var(--main-bg-color);
+    color: var(--main-color);
+    text-align: center;
+}
+
+.vertical-center {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
 }
 
 .center {

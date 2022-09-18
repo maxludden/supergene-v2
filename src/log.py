@@ -219,7 +219,6 @@ def logpanel(msg: str, level: str = "INFO") -> None:
                 ),
                 title_align="left",
                 border_style="debug",
-                padding=(1, 1),
                 expand=False,
             )
             console.log(panel, markup=True, highlight=True, log_locals=False)
@@ -236,7 +235,6 @@ def logpanel(msg: str, level: str = "INFO") -> None:
                 ),
                 title_align="left",
                 border_style="info",
-                padding=(1, 1),
                 expand=False,
             )
             console.log(panel, markup=True, highlight=True, log_locals=False)
@@ -253,7 +251,6 @@ def logpanel(msg: str, level: str = "INFO") -> None:
                 ),
                 title_align="left",
                 border_style="warning",
-                padding=(1, 1),
                 expand=False
             )
             console.log(panel, markup=True, highlight=True, log_locals=False)
@@ -270,7 +267,6 @@ def logpanel(msg: str, level: str = "INFO") -> None:
                 ),
                 title_align="left",
                 border_style="error",
-                padding=(1, 1),
                 expand=False
             )
             console.log(panel, markup=True, highlight=True, log_locals=True)
@@ -287,7 +283,6 @@ def logpanel(msg: str, level: str = "INFO") -> None:
                 ),
                 title_align="left",
                 border_style="critical",
-                padding=(1, 1),
                 expand=False
             )
             console.log(panel, markup=True, highlight=True, log_locals=True)

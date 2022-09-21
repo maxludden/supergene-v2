@@ -1,4 +1,9 @@
+from concurrent.futures import (ProcessPoolExecutor, ThreadPoolExecutor,
+                                as_completed)
+from multiprocessing import cpu_count
 from pathlib import Path
+from time import perf_counter
+
 
 from rich import print
 from rich.panel import Panel
@@ -8,14 +13,6 @@ from sh import Command
 from src.atlas import sg
 from src.chapter import Chapter, chapter_gen, get_book
 from src.log import BASE, console, log
-
-from concurrent.futures import ThreadPoolExecutor, ProcessPoolExecutor, as_completed
-from functools import partial
-from itertools import chain
-from multiprocessing import Pool, Process, Queue, cpu_count
-
-import src.chapter as chapter
-from time import perf_counter
 
 
 class HTMLGenerationError(Exception):

@@ -95,6 +95,7 @@ Noob
 Noobs
 nyoi
 Ouyang
+pandoc
 Pingqing
 pyobject
 Qiao

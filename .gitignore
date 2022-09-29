@@ -167,3 +167,5 @@ driver
 cspell.config.yaml
 
 *.txt
+
+mongodb.yml

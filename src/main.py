@@ -1,60 +1,28 @@
 from os import environ
 from pathlib import Path
 
-from rich import inspect, print
-from rich.markdown import Markdown
-from rich.style import Style
-from rich.text import Text
-from rich.panel import Panel
-from rich.theme import Theme
-from mongoengine import connect, ValidationError
-from tqdm.auto import tqdm
-import ujson
-from alive_progress import alive_bar
+import ujson as json
+from mongoengine import ValidationError
+from src.max_rich import *
 
+import src.myaml as yaml
 from atlas import sg
-from chapter import (
-    Chapter,
-    chapter_gen,
-    generate_md_path,
-    generate_html_path,
-    generate_text_path,
-    generate_md,
-    generate_html,
-)
-from log import console, log
-from myaml import dump, load, safe_dump, safe_load
 
-sg()
-doc = Chapter.objects(chapter=1).first() # type: ignore
-text_path = generate_text_path(doc.chapter)
-md_path = generate_md_path(doc.chapter)
-with open (text_path, 'r') as infile:
-    text = infile.read()
+from log import BASE, console, log
+from rich import inspect as rinspect
+from inspect import stack
 
-doc.text = text
-doc.save()
 
-md = str(generate_md(doc.chapter, save=True, write=True))
-doc.md = md
-doc.save()
-
-with open(md_path, "w") as outfile:
-    outfile.write(md)
-
-console.log(
-    Panel(
-        Text(
-            f"Generated markdown for doc {doc.chapter}. Updated MongoDB.",
-            justify="left",
-            style="white",
-        ),
-        title=Text(
-            f"Generate Markdown",
-            style="bold green"
-        ),
+def gen_panel(content: str = "Sample text for a panel", file: str = get_filename(0), line: int = get_lineno(0)) -> Panel:
+    panel =  Panel(
+        f"[italic bright_white]{content}[/italic bright_white]",
+        title="",
         title_align="left",
+        border_style="blue",
         expand=False,
-        border_style="#00ff00",
+        subtitle=f"[purple]{file}[/][#FFFFFF]|[/][#54c6ff]line {line}[/]",
     )
-)
+    return panel
+
+
+print(gen_panel())

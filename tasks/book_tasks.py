@@ -39,8 +39,8 @@ def finished(task: str, line: int):
             subtitle=f"[#096809]tasks/book_tasks.py [/][#FFF]|[/][#00ff00] Line {line}[/]",
             subtitle_align="right",
             width=80,
-        )
-    )
+        )lI'm
+_1    )
 
 
 @log.catch

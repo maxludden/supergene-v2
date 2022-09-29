@@ -19,5 +19,8 @@
     "task.allowAutomaticTasks": "on",
     "cSpell.words": [
         "mrich"
+    ],
+    "cSpell.ignoreWords": [
+        "rinspect"
     ]
 }

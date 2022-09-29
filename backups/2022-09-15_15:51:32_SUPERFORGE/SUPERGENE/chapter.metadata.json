@@ -1,1 +1,0 @@
-{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"},{"v":{"$numberInt":"2"},"unique":true,"key":{"chapter":{"$numberInt":"1"}},"name":"chapter_1","background":false,"sparse":false}],"uuid":"a8b03262d5c94fe08277b3e55267c8f0","collectionName":"chapter","type":"collection"}

@@ -24,9 +24,9 @@ import src.metadata as meta
 import src.myaml as myaml
 import src.section as sec
 import src.titlepage as tp
+import src.cover as cv
 from src.atlas import max_title, sg
 from src.log import BASE, console, log, logpanel
-
 
 load_dotenv()
 
@@ -56,8 +56,8 @@ class Default(Document):
     section_count = IntField(min_value=1, max_value=2)
     sections = ListField(IntField(min_value=1, max_value=17))
 
-    default_doc = StringField()
-    title = StringField()
+    # default_doc = StringField()
+    # title = StringField()
     meta = {"collection": "default"}
 
 
@@ -90,6 +90,169 @@ def default_panel(
         width=80,
     )
     return panel
+
+
+def generate_default_book(section: int, save: bool = True) -> int | None:
+    """
+    Generate the book of the given section.
+
+    Args:
+        `section` (int): The given section.
+
+        `save` (bool, optional): Whether to save the given section's book to MongoDB. Defaults to True.
+
+    Raises:
+        'ValueError': If the given section is not between 1 and 17.
+
+    Returns:
+        `book` (int): The given section's book.
+    """
+    match int(section):
+        case 1:
+            book = 1
+        case 2:
+            book = 2
+        case 3:
+            book = 3
+        case 4 | 5:
+            book = 4
+        case 6 | 7:
+            book = 5
+        case 8 | 9:
+            book = 6
+        case 10 | 11:
+            book = 7
+        case 12 | 13:
+            book = 8
+        case 14 | 15:
+            book = 9
+        case 16 | 17:
+            book = 10
+        case _:
+            raise ValueError("Invalid Section Input.", f"Section: {section}")
+
+    if save:
+        sg()
+        doc = Default.objects(section=section).first()  # type: ignore
+        doc.book = book
+        doc.save()
+        log.debug(f"Saved Book {book} for Section {section}.")
+
+    console.print(default_panel(book, "Book from Section", book, 140), highlight=True)
+
+    return book
+
+
+def get_default_book(section: int) -> int:
+    """
+    Retrieve the book of the given section from MongoDB.
+
+    Args:
+        `section` (int): The given section.
+
+    Returns:
+        `book` (int): The book of the given section.
+    """
+    sg()
+    doc = Default.objects(section=section).first()  # type: ignore
+    if doc.book:
+        console.print(default_panel(section, "Book", doc.book, 158), highlight=True)
+        return doc.book
+
+    else:
+        return generate_default_book(section)  # type: ignore
+
+
+def generate_default_book_word(book: int, save: bool = True) -> str | None:  # type: ignore
+    """
+    Generates the book word of the given book.
+
+    Args:
+        `book` (int): The given book.
+
+    Returns:
+        `book_word` (str): The book word of the given book.
+    """
+    book_word = num2words(book, lang="en")
+    if save:
+        sg()
+        doc = Default.objects(book=book).first()  # type: ignore
+        doc.book_word = book_word
+        doc.save()
+        log.debug(f"Saved Book Word {book_word} for Book {book}.")
+
+    console.print(default_panel(book, "Book Word", book_word, 182), highlight=True)
+    return book_word
+
+
+def get_default_book_word(book: int) -> str:  # type: ignore
+    """
+    Retrieve the book word of the given book from MongoDB.
+
+    Args:
+        `book` (int): The given book.
+
+    Returns:
+        `book_word` (str): The book word of the given book.
+    """
+    sg()
+    doc = Default.objects(book=book).first()  # type: ignore
+    if doc.book_word:
+        console.print(
+            default_panel(book, "Book Word", doc.book_word, 199), highlight=True
+        )
+        return doc.book_word
+
+    else:
+        return generate_default_book_word(book)  # type: ignore
+
+
+def generate_default_output(book: int, save: bool = True) -> str | None:  # type: ignore
+    """
+    Generate the output filename of the given book's default file.
+
+    Args:
+        `book` (int): The given book.
+
+        `save` (bool, optional): Whether to save the given book's output path to MongoDB. Defaults to True.
+
+    Returns:
+        `output` (str): The output path of the given book.
+    """
+    sg()
+    doc = bk.Book.objects(book=book).first()  # type: ignore
+    title = doc.title
+
+    output = f"{book} - {title}.epub"
+    if save:
+        sg()
+        doc = Default.objects(book=book).first()  # type: ignore
+        doc.output = output
+        doc.save()
+        log.debug(f"Saved Output {output} for Book {book}.")
+
+    console.print(default_panel(book, "Output", output, 234), highlight=True)
+    return output
+
+
+def get_default_output(book: int) -> str | None:  # type: ignore
+    """
+    Retrieve the output filename of the given book's default file.
+
+    Args:
+        `book` (int): The given book.
+
+    Returns:
+        `output` (str): The output filename of the given book's defualt file.
+    """
+    sg()
+    doc = Default.objects(book=book).first()  # type: ignore
+    if doc.output:
+        console.print(default_panel(book, "Output", doc.output, 251), highlight=True)
+        return doc.output
+
+    else:
+        return generate_default_output(book)  # type: ignore
 
 
 def generate_default_filename(book: int, save: bool = True) -> str:
@@ -135,6 +298,22 @@ def get_default_filename(book: int) -> str:
     else:
         filename = generate_default_filename(book)
         return filename
+
+
+def generate_default_cover_filename(book: int) -> str:
+    """
+    Generates the cover filename of the given book.
+
+    Args:
+        `book` (int): The given book.
+
+    Returns:
+        `cover` (str): The cover filename of the given book.
+    """
+    cover = f"cover{book}.jpg"
+    log.debug(f"Generated Book {book}'s Cover: {cover}")
+    console.print(default_panel(book, "Cover", cover, 273), highlight=True)
+    return cover  # type: ignore
 
 
 def generate_default_filepath(
@@ -197,57 +376,6 @@ def get_default_filepath(book: int, string: bool = False) -> Path | str:
     else:
         filepath = generate_default_filepath(book)
         return filepath
-
-
-def generate_default_book(section: int, save: bool = True) -> int | None:
-    """
-    Generate the book of the given section.
-
-    Args:
-        `section` (int): The given section.
-
-        `save` (bool, optional): Whether to save the given section's book to MongoDB. Defaults to True.
-
-    Raises:
-        'ValueError': If the given section is not between 1 and 17.
-
-    Returns:
-        `book` (int): The given section's book.
-    """
-    match int(section):
-        case 1:
-            book = 1
-        case 2:
-            book = 2
-        case 3:
-            book = 3
-        case 4 | 5:
-            book = 4
-        case 6 | 7:
-            book = 5
-        case 8 | 9:
-            book = 6
-        case 10 | 11:
-            book = 7
-        case 12 | 13:
-            book = 8
-        case 14 | 15:
-            book = 9
-        case 16 | 17:
-            book = 10
-        case _:
-            raise ValueError("Invalid Section Input.", f"Section: {section}")
-
-    if save:
-        sg()
-        doc = Default.objects(section=section).first()  # type: ignore
-        doc.book = book
-        doc.save()
-        log.debug(f"Saved Book {book} for Section {section}.")
-
-    console.print(default_panel(book, "Book from Section", book, 253), highlight=True)
-
-    return book
 
 
 def generate_default_sections(book: int, save: bool = True) -> List[int]:
@@ -363,7 +491,7 @@ def get_default_book_word(book: int) -> str:
     doc = Default.objects(book=book).first()  # type: ignore
     if doc.book_word:
         console.print(
-            default_panel(book, "Book Word", doc.book_word, 364), highlight=True
+            default_panel(book, "Book Word", doc.book_word, 365), highlight=True
         )
         return doc.book_word
 
@@ -382,6 +510,7 @@ def generate_default_cover(book: int, save: bool = True) -> str:
     Returns:
         `cover` (str):
             The filename of the given book's coverpage.
+            Example: `cover1.png'
     """
     cover = f"cover{book}.png"
     if save:
@@ -391,7 +520,7 @@ def generate_default_cover(book: int, save: bool = True) -> str:
         doc.save()
         log.debug(f"Saved Book {book}'s Default File's Cover: {cover}")
 
-    console.print(default_panel(book, "Cover", cover, 371), highlight=True)
+    console.print(default_panel(book, "Cover", cover, 393), highlight=True)
     return cover
 
 
@@ -403,12 +532,12 @@ def get_default_cover(book: int) -> str:
         `book` (int): The given book.
 
     Returns:
-        `cover` (str): The filename fo the given book's coverpage retrieved from MongoDB.
+        `cover` (str): The filename fo the given book's coverpage retrieved from MongoDB. Example `cover1.png`
     """
     sg()
     doc = Default.objects(book=book).first()  # type: ignore
     if doc.cover:
-        console.print(default_panel(book, "Cover", doc.cover, 388), highlight=True)
+        console.print(default_panel(book, "Cover", doc.cover, 410), highlight=True)
         return doc.cover
 
     else:
@@ -431,7 +560,7 @@ def generate_default_cover_path(
     Returns:
         `cover_path` (Path | str): The filepath of the cover page from the given book.
     """
-    cover = generate_cover(book)
+    cover = cv.generate_filename(book)
     book_zfill = str(book).zfill(2)
     book_dir = f"book{book_zfill}"
     cover_path = f"{BASE}/books/{book_dir}/Images/{cover}"
@@ -444,7 +573,7 @@ def generate_default_cover_path(
         doc.save()
         log.debug(f"Saved Book {book}'s Default File's Cover Path: {cover_path}")
 
-    console.print(default_panel(book, "Cover Path", cover_path, 426), highlight=True)
+    console.print(default_panel(book, "Cover Path", cover_path, 446), highlight=True)
 
     if string:
         return cover_path
@@ -469,7 +598,7 @@ def get_default_cover_path(book: int, string: bool = False) -> Path | str:
     doc = Default.objects(book=book).first()  # type: ignore
     if doc.cover_path:
         console.print(
-            default_panel(book, "Cover Path", doc.cover_path, 453), highlight=True
+            default_panel(book, "Cover Path", doc.cover_path, 471), highlight=True
         )
         if string:
             return doc.cover_path
@@ -497,13 +626,13 @@ def generate_default_output(book: int, save: bool = False) -> str:
     sg()
     doc = bk.Book.objects(book=book).first()  # type: ignore
     if doc.title:
-        output = f"{doc.title}.epub"
+        output = f"{book} - {doc.title}.epub"
 
     else:
         title = bk.generate_book_title(book)
-        output = f"{title}.epub"
+        output = f"{book} - {title}.epub"
 
-    console.print(default_panel(book, "Output", output, 464), highlight=True)
+    console.print(default_panel(book, "Output", output, 505), highlight=True)
 
     if save:
         sg()
@@ -528,539 +657,369 @@ def get_default_output(book: int) -> str:
     sg()
     doc = Default.objects(book=book).first()  # type: ignore
     if doc.output:
-        console.print(default_panel(book, "Output", doc.output, 488), highlight=True)
+        console.print(default_panel(book, "Output", doc.output, 530), highlight=True)
         return doc.output
 
     else:
         return generate_default_output(book)
 
 
-def generate_section_files(
-    section: int, save: bool = True, filepath: bool = True
-) -> List[str] | List[Path]:
+def generate_default_section_part(section: int) -> int:
     """
-    Generates a list of filenames/filepaths of a given section's Section Page followed by it's chapters.
+    Generate the part number for the given section.
 
     Args:
         `section` (int): The given section.
 
-        `filepath` (bool): Whether to generate the the full filepath for the files. Defaults to is False.
-
     Returns:
-        `section_files` (list[str] | list[Path]): The ordered contents of the given section.
-
+        `part` (int): The part number for the given section.
     """
-    files = []
-    sg()
-    doc = sec.Section.objects(section=section).first()  # type: ignore
-    with Progress(console=console) as progress:
-        if not filepath:
-            filepaths_task = progress.add_task(
-                "Generating Section Files' Filenames...", total=len(doc.chapters) + 1
-            )
-
-            part = doc.part
-
-            # > Generate Section Page Filename
-            section_page_filename = f"{section_doc.filename}.html"
-            files.append(section_page_filename)
-            progress.update(filepaths_task, advance=1)  # Update Progress Bar
-
-            # > Generate Chapter Filenames
-            chapter_count = 0
-            for chapter in section_doc.chapters:
-                chapter_filename = f"chapter-{str(chapter).zfill(4)}.html"
-                files.append(chapter_filename)
-                chapter_count += 1
-
-                # Update Progress Bar
-                progress.update(filepaths_task, advance=1)
-
-            console.print(
-                default_panel(section, "Section Files", files, 592), highlight=True
-            )
-            doc = save_default_files(section, part, files)
-
-        else:
-            filenames_task = progress.add_task(
-                "Generating Section Filepaths...", total=len(doc.chapters) + 1
-            )
-
-            # > Access Section Doc from MongoDb
-            section_doc = sec.Section.objects(section=section).first()  # type: ignore
-            section_part = section_doc.part
-
-            # > Generate Section Page Filepath
-            section_page_filepath = section_doc.html_path
+    match section:
+        case 1 | 2 | 3 | 4 | 6 | 8 | 10 | 12 | 14 | 16:
+            part = 1
+        case 5 | 7 | 9 | 11 | 13 | 15 | 17:
+            part = 2
+        case _:
+            raise ValueError(f"Section {section} is not a valid section number.")
+    return part
 
 
-def save_default_files(section: int, part: int, files: List[str]) -> None:
+def generate_default_section_filenames(section: int, save: int) -> list[str]:
     """
-    Save the list of the file's filenames contained in a given section.
+    Generate the filenames for the given section.
 
     Args:
-        `section` (sec.Section): the given section.
+        `section` (int): The given section.
 
-        `files` (List[str]): The list of filenames/filepaths contained in the given section.
+        `save` (int): Whether to save the given section's filenames to MongoDB.
+    """
+    filenames = []
+    sg()
+    doc = sec.Section.objects(section=section).first()  # type: ignore
 
-    Raises:
-        `ValueError`: The given section doesn't exist in MongoDB.
+    # > Section Page
+    if doc.filename:
+        section_page = f"{doc.filename}.html"
+        filenames.append(section_page)
+    else:
+        section_page = f"{sec.generate_section_filename(section)}.html"
+        filenames.append(section_page)
+
+    # > Chapter Pages
+    if doc.chapters:
+        for chapter in doc.chapters:
+            doc = ch.Chapter.objects(chapter=chapter).first()  # type: ignore
+            if doc.filename:
+                filename = f"{doc.filename}.html"
+                filenames.append(chapter.filename)
+            else:
+                filename = f"{ch.generate_filename(chapter.chapter)}.html"
+                filenames.append(filename)
+
+    if save:
+        sg()
+        doc = Default.objects(section=section).first()  # type: ignore
+        part = generate_default_section_part(section)
+        match part:
+            case 1:
+                doc.section1_filename = filenames
+            case 2:
+                doc.section2_filename = filenames
+            case _:
+                raise ValueError(f"Part {part} is not a valid part number.")
+        doc.save()
+
+    return filenames
+
+
+def get_default_section_filenames(section: int) -> list[str]:
+    """
+    Retrieve the filenames for the given section from MongoDB.
+
+    Args:
+        `section` (int): The given section.
 
     Returns:
-        `files` (List[str] | List[Path]): The list of filenames/filepaths contained in the given section.
+        `filenames` (list[str]): The filenames for the given section retrieved.add()
     """
     sg()
     doc = Default.objects(section=section).first()  # type: ignore
-    book = sec.get_section_book(section)
+    part = generate_default_section_part(section)
     match part:
-        case 0 | 1:
-            doc.section1_files = files
-            key = "section1_files"
-            panel_key = f"Book {book}'s first sections's files"
+        case 1:
+            if doc.section1_filename:
+                return doc.section1_filename
+            else:
+                return generate_default_section_filenames(section, True)
         case 2:
-            doc.section2_files = files
-            key = "section2_files"
-            panel_key = f"Book {book}'s second sections's files"
+            if doc.section2_filename:
+                return doc.section2_filename
+            else:
+                return generate_default_section_filenames(section, True)
         case _:
-            raise ValueError(f"Section {section} is not a valid section.")
-    doc.save()
-
-    log.debug(f"Saved Book {book}'s default doc's {key}:\n\n {files}")
-
-    console.print(
-        default_panel(section, panel_key, ",\n".join(files), 645), highlight=True
-    )
+            raise ValueError(f"Part {part} is not a valid part number.")
 
 
-def get_section_files(section: int):
+def generate_default_section_filepaths(section: int, save: bool = True) -> list[str]:
+    """
+    Generate the filepaths for the given section.
+
+    Args:
+        `section` (int): The given section.
+
+    Return:
+        `filepaths` (list[Path] | list[str]): The filepaths for the given section.
+    """
+    filepaths = []
     sg()
-    for doc in sect.Section.objects(section=section):
-        return doc.section_files
+    doc = sec.Section.objects(section=section).first()  # type: ignore
 
-
-# . Verified
-def generate_input_files_single(book: int, save: bool = False):
-    """
-    Generates a list of input files of a given book.
-
-    Args:
-        `book` (int):
-            The given book.
-
-    Raises:
-        `ValueError`:
-            Invalid Book Input. Valid books are 1, 2, and 3.
-
-    Returns:
-        `input_files` (list[str]):
-            The input files of a given book.
-    """
-    valid_books = [1, 2, 3]
-    if book in valid_books:
-        book_str = str(book).zfill(2)
-        input_files = [f"cover{book}.html", f"titlepage-{book_str}.html"]
-        section_files = generate_section_files(book)
-        input_files.extend(section_files)
-        input_files.append(f"endofbook-{book_str}.html")
-        if save:
-            sg()
-            for doc in Defaultdoc.objects(book=book):
-                doc.input_files = input_files
-                doc.save()
-        return input_files
+    # > Section Page Filepath
+    if doc.html_path:
+        section_page = doc.html_path
+        filepaths.append(section_page)
     else:
-        raise ValueError(f"Invalid book: {book}\n\nValid books are 1, 2, and 3.")
+        section_page = sec.generate_section_html_path(section)
+        filepaths.append(section_page)
 
+    # > Chapter Pages Filepaths
+    if doc.chapters:
+        for chapter in doc.chapters:
+            doc = ch.Chapter.objects(chapter=chapter).first()  # type: ignore
+            if doc.html_path:
+                chapter_html_path = str(doc.html_path)
+                filepaths.append(chapter_html_path)
+            else:
+                chapter_html_path = ch.generate_html_path(chapter)
+                filepaths.append(chapter_html_path)
 
-# . Verified
-def generate_input_files_multiple(book: int, save: bool = False):
-    """
-    Generates a list of input files of a given book.
-
-    Args:
-        `book` (int):
-            The given book.
-
-    Raises:
-        `ValueError`:
-            Invalid Book Input. Valid books are 4-10.
-
-    Returns:
-        `input_files` (list[str]):
-            The input files of a given book.
-    """
-    valid_books = [4, 5, 6, 7, 8, 9, 10]
-    if book not in valid_books:
-        raise ValueError(f"Invalid book: {book}\n\nValid books are 4-10.")
-    input_files = []
-    for doc in Defaultdoc.objects(book=book):
-        book_str = str(book).zfill(2)
-        input_files.append(f"cover{book}.html")
-        input_files.append(f"titlepage-{book_str}.html")
-        sections = doc.sections
-        log.debug(f"Book {book}'s sections: {sections}")
-        for section in sections:
-            section_files = generate_section_files(section)
-            input_files.extend(section_files)
-        input_files.append(f"endofbook-{book_str}.html")
-
-        result = f"Book {book}'s files:\n"
-        for item in input_files:
-            result += f"- {item}\n"
-
-        log.debug(result)
+    else:
+        chapters = sec.get_section_chapters(section)
+        if chapters:
+            for chapter in chapters:
+                doc = ch.Chapter.objects(chapter=chapter).first()  # type: ignore
+                if doc.html_path:
+                    chapter_html_path = str(doc.html_path)
+                    filepaths.append(chapter_html_path)
+                else:
+                    chapter_html_path = ch.generate_html_path(chapter)
+                    filepaths.append(chapter_html_path)
 
     if save:
         sg()
-        for doc in Defaultdoc.objects(book=book):
-            doc.input_files = input_files
-            doc.save()
+        doc = Default.objects(section=section).first()  # type: ignore
+        part = generate_default_section_part(section)
+        match part:
+            case 1:
+                doc.section1_filepaths = filepaths
+            case 2:
+                doc.section2_filepaths = filepaths
+            case _:
+                raise ValueError(f"Part {part} is not a valid part number.")
+        doc.save()
+
+    return filepaths
+
+
+def generate_input_files(book: int, save: bool = True) -> list[str]:
+    """
+    Generate the input files for the given book.
+
+    Args:
+        `book` (int): The given book.
+
+        `save` (bool): Whether to save the input files to MongoDB.
+
+    Returns:
+        `input_files` (list[str]): The input files for the given book.
+    """
+    input_files = []
+    sg()
+    doc = Default.objects(book=book).first()  # type: ignore
+
+    # > Coverpage
+    input_files.append(f"cover{book}.html")
+
+    # > Titlepage
+    input_files.append(f"titlepage-{str(book).zfill(2)}.html")
+
+    # > Section Page(s)
+    section_count = doc.section_.count
+    match section_count:
+        case 1:
+            for filename in doc.section1_filenames:
+                input_files.append(filename)
+        case 2:
+            for filename in doc.section1_filenames:
+                input_files.append(filename)
+            for filename in doc.section2_filenames:
+                input_files.append(filename)
+        case _:
+            raise ValueError(
+                f"Section count {section_count} is not a valid section count."
+            )
+
+    # > End of Book
+    input_files.append(f"endofbook-{str(book).zfill(2)}.html")
+
+    if save:
+        sg()
+        doc.input_files = input_files
+        doc.save()
+
     return input_files
 
 
-def get_input_files(book: int):
+def get_input_files(book: int) -> list[str]:
     """
-    Retrieve a given book's input files from MongoDB.
+    Retrieve the input files for the given book from MongoDB.
 
     Args:
-        `book` (int)
-            The given book
+        `book` (int): The given book.
 
     Returns:
-        `input_files` (list[str]):
-            The given book's input files.
+        `input_files` (list[str]): The input files for the given book.
     """
     sg()
-    for doc in Defaultdoc.objects(book=book):
+    doc = Default.objects(book=book).first()  # type: ignore
+    if doc.input_files:
         return doc.input_files
+    else:
+        return generate_input_files(book, True)
 
 
-def generate_resource_paths(book: int, save: bool = False):
-    book_str = str(book).zfill(2)
-    book_dir = f"${{.}}"
+def generate_default_resource_files(book: int, save: bool = True) -> list[str]:
+    """
+    Generate the resource files for the given book.
+
+    Args:
+        `book` (int): The given book.
+
+        `save` (bool): Whether to save the resource files to MongoDB.
+
+    Returns:
+        `resource_files` (list[str]): The resource files for the given book.
+    """
     resource_files = ["."]
-
-    # > Non-content files
-    # Images
-    resource_files.append(f"{book_dir}/Images/cover{book}.png")
-    resource_files.append(f"{book_dir}/Images/title.png")
-    resource_files.append(f"{book_dir}/Images/gem.gif")
-
-    # Fonts
-    resource_files.append(f"{book_dir}/Styles/Urbanist-Regular.ttf")
-    resource_files.append(f"{book_dir}/Styles/Urbanist-Thin.ttf")
-    resource_files.append(f"{book_dir}/Styles/Urbanist-Italit.ttf")
-    resource_files.append(f"{book_dir}/Styles/Urbanist-ThinItalic.ttf")
-    resource_files.append(f"{book_dir}/Styles/White Modestry.ttf")
-
-    # CSS
-    resource_files.append(f"{book_dir}/Styles/style.css")
-
-    # Metadata
-    resource_files.append(f"{book_dir}/yaml/meta{book}.yml")
-    resource_files.append(f"{book_dir}/yaml/epub-meta{book}.yml")
-
-    # > Content files
     sg()
-    for doc in Defaultdoc.objects(book=book):
-        input_files = doc.input_files
-        for input_file in input_files:
-            resource_files.append(f"{book_dir}/html/{input_file}")
+    doc = Default.objects(book=book).first()  # type: ignore
 
-    result = f"Book {book}'s resource files:\n"
-    for resource in resource_files:
-        result += f"- {resource}\n"
+    # > Images
+    resource_files.append(f"${{.}}/Images/cover{book}.png")
+    resource_files.append(f"${{.}}/Images/title.png")
+    resource_files.append(f"${{.}}/Images/gem.gif")
 
-    log.debug(result)
+    # > CSS and Fonts
+    resource_files.append(f"${{.}}/Styles/style.css")
+    resource_files.append(f"${{.}}/Styles/Urbanist-Regular.ttf")
+    resource_files.append(f"${{.}}/Styles/Urbanist-Italic.ttf")
+    resource_files.append(f"${{.}}/Styles/Urbanist-Thin.ttf")
+    resource_files.append(f"${{.}}/Styles/Urbanist-ThinItalic.ttf")
+    resource_files.append(f"${{.}}/Styles/White Modesty.ttf")
+
+    # > Metadata
+    resource_files.append(f"${{.}}/yaml/epub-meta{book}.yml")
+    resource_files.append(f"${{.}}/yaml/meta{book}.yml")
+
+    # > Section(s)
+    section_count = doc.section_.count
+    match section_count:
+        case 1:
+            for filename in doc.section1_filenames:
+                resource_files.append(f"${{.}}/html/{filename}")
+        case 2:
+            for filename in doc.section1_filenames:
+                resource_files.append(f"${{.}}/html/{filename}")
+            for filename in doc.section2_filenames:
+                resource_files.append(f"${{.}}/html/{filename}")
+        case _:
+            raise ValueError(
+                f"Section count {section_count} is not a valid section count."
+            )
+
+    # > End of Book
+    resource_files.append(f"${{.}}/Sections/endofbook-{str(book).zfill(2)}.html")
 
     if save:
         sg()
-        for doc in Defaultdoc.objects(book=book):
-            doc.resource_paths = resource_files
-            doc.save()
-
-    log.debug(f"Finished generating resource files for book {book}.")
+        doc.resource_files = resource_files
+        doc.save()
 
     return resource_files
 
 
-def get_resource_paths(book: int):
+def get_resource_files(book: int) -> list[str]:
     """
-    Retrieve a given book's resource files from MongoDB.
+    Retrieve the resource files for the given book from MongoDB.
 
     Args:
-        `book` (int)
-            The given book):
+        `book` (int): The given book.
 
     Returns:
-        `resource_paths` (list[str]):
-            The given book's resource files.
+        `resource_files` (list[str]): The resource files for the given book.
     """
     sg()
-    for doc in Defaultdoc.objects(book=book):
-        return doc.resource_paths
+    doc = Default.objects(book=book).first()  # type: ignore
+    if doc.resource_files:
+        return doc.resource_files
+    else:
+        return generate_default_resource_files(book, True)
 
 
-def load_meta(book: int):
-    """
-    Loads the metadata of a given book from MongoDB.
-
-    Args:
-        `book` (int)
-            The given book):
-
-    Returns:
-        `meta` (dict):
-            The given book's metadata.
-    """
-    sg()
-    for doc in meta.Metadata.objects(book=book):
-        metadata = doc.text
-        log.debug(f"Retrieved Metadata for Book {book}:\n\n {metadata}")
-    sg()
-    for doc in epubmeta.Epubmeta.objects(book=book):
-        epub_metadata = doc.text
-        log.debug(f"Retrieved ePub Metadata for Book {book}:\n\n {epub_metadata}")
-    sg()
-    for doc in Defaultdoc.objects(book=book):
-        doc.metadata = metadata
-        doc.epubmetadata = epub_metadata
-        doc.save()
-        log.debug(f"Updated Book {book}'s defualtdoc with Metadata and ePub Metadata.")
-
-
-def generate_default_doc_f(book: int, save: bool = False):
-    """
-    Generates the default doc for a given book.
-
-    Args:
-        `book` (int):
-            The given book.
-
-    Raises:
-        `ValueError`:
-            Invalid Book Input. Valid books are 1-10.
-
-    Returns:
-        `default_doc` (dict):
-            The default doc for a given book.
-    """
-    # > Validate book
-    valid_books = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
-    if book not in valid_books:
-        raise InvalidBookError(f"Invalid book: {book}\nValid books are 1-10.")
-
-    sg()
-    mongodefault = Defaultdoc.objects(book=book).first()
-    output = mongodefault.output
-
-    default_1 = f"from: html\nto: epub\n  \noutput-file: {output}"
-
-    input_file_list = mongodefault.input_files
-    input_files = f"\n  \ninput-files:\n"
-    for file in input_file_list:
-        input_files = f"{input_files}\n- {file}"
-
-    default3 = f"\n\nstandalone: true\nself-contained: true\n"
-
-    resource_files = "resource-files:\n- ."
-    resource_file_list = mongodefault.resource_paths
-    for file in resource_file_list:
-        resource_files = f"{resource_files}\n- {file}"
-
-    epub = f"toc: true\ntoc-depth: 2\nepub-chapter-level: 2\nepub-cover-image: cover{book}.png\n  "
-
-    fonts = f"\nepub-fonts:\n- Urbanist-Italic.ttf\n- Urbanist-Regular.ttf\n- Urbanist-Thin.ttf\n- Urbanist-ThinItalic.ttf\n- White Modesty.ttf\n"
-
-    meta = f"epub-metadata: {mongodefault.epubmetadata}\nmetadata-files:\n- meta{book}.yml\n- epub-meta{book}.yml\n"
-
-    css = "css-files:\n- style.css\n"
-
-    default_doc = f"{default_1}\n{input_files}\n{default3}\n{resource_files}\n{epub}\n{fonts}\n{meta}\n{css}"
-
-    filepath = mongodefault.filepath
-    yaml_str = myaml.dump(default_doc)
-    with open(filepath, "w") as outfile:
-        outfile.write(yaml_str)
-
-    if save:
-        sg()
-        default_mongo_doc = Defaultdoc.objects(book=book).first()
-        default_mongo_doc.default_doc = default_doc
-        default_mongo_doc.save()
-        log.debug(f"Updated Book {book}'s defualtdoc with default doc.")
-    return default_doc
-
-
-def generate_cover(book: int, save: bool = False):
-    cover = f"cover{book}.png"
-    if save:
-        sg()
-        doc = Defaultdoc.objects(book=book).first()
-        doc.cover = cover
-        doc.save()
-    return cover
-
-
-def generate_cover_path(book: int, save: bool = False):
-    sg()
-    for doc in Defaultdoc.objects(book=book):
-        book = doc.book
-        book_str = str(book).zfill(2)
-        book_dir = f"book{book_str}"
-        cover_path = f"{BASE}/books/{book_dir}/Images/cover{book}.png"
-
-        if save:
-            doc.cover_path = cover_path
-            doc.save()
-
-        return cover_path
-
-
-def generate_title(book: int, save: bool = False):
-    """
-    Generates the default doc for a given book.
-
-    Args:
-        `book` (int):
-            The given book.
-        `save` (bool):
-            Whether or not to save the default doc to MongoDB.
-        `write` (bool):
-            Whether or not to write the default doc to a file.
-
-    Raises:
-        `ValueError`:
-            Invalid Book Input. Valid books are 1-10.
-
-    Returns:
-        `default_doc` (dict):
-            The default doc for a given book.
-    """
-    bar_title = f"Generating title for Book {book}"
-    bar_title_length = len(bar_title)
-    title_length = bar_title_length + 1
-    sg()
-    doc = book_.Book.objects(book=book).first()
-    if doc is None:
-        raise InvalidBookError(f"Invalid book: {book}\nValid books are 1-10.")
-
-    title = doc.title
-    log.debug(f"Retrieved title for Book {book}")
-
-    if save:
-        sg()
-        default_ = Defaultdoc.objects(book=book).first()
-        default_.title = title
-        default_.save()
-        log.debug(f"Updated Book {book}'s defualtdoc with title.")
-
-    return title
-
-
-def get_input_files(book: int) -> str:
-    sg()
-    doc = Defaultdoc.objects(book=book).first()
-    inputf = "input-files:"
-    for file in doc.input_files:
-        inputf = f"{inputf}\n- {file}"
-    log.debug(f"Retrieved input files for Book {book}:</code>\n{inputf}</code>")
-    return inputf
-
-
-def get_resource_path(book: int) -> str:
-    sg()
-    doc = Defaultdoc.objects(book=1).first()
-    resourcef = "resource-files:"
-    for file in doc.resource_paths:
-        resourcef = f"{resourcef}\n- {file}"
-    log.debug(f"Retrieved resource path for Book {book}:</code>\n{resourcef}</code>")
-    return resourcef
-
-
-def generate_default_doc(book: int, save: bool = True, write: bool = True):
-    sg()
-    doc = Defaultdoc.objects(book=book).first()
-
-    # . Read default variable from MongoDB
-    # > Book
-    book = doc.book
-    book_str = str(book).zfill(2)
-    book_dir = f"book{book_str}"
-
-    # > Output
-    output = doc.output
-    title = doc.title
-
-    # > Book Word
-    book_word = doc.book_word
-
-    # > Cover
-    cover = doc.cover
-    cover_path = doc.cover_path
-
-    # > Filename and Path
-    filepath = doc.filepath
-
-    # > Input FIles
-    input_files = get_input_files(book)
-
-    # > Resource_Files
-    resource_path = get_resource_path(book)
-
-    # > Epub
-    epubmetadata = doc.epubmetadata
-    # > Metadata
-    metadata = doc.metadata
-
-    # > CSS
-    css = "css:\n- style.css\n..."
-
-    # > Default Doc
-    default = f"---\nfrom: html\nto: epub\n\n"
-    default = f"{default}\output-file: {book} - {title}.epub\n"
+def generate_default_file(book: int, save: bool = True, write: bool = True) -> str:
+    output = generate_default_output(book)
+    file = "---\nfrom: html\nto: epub\n\noutput-file: {output}\n\ninput-files:\n"
 
     # > Input Files
-    default = f"{default}\n{input_files}\n"
+    input_files = generate_input_files(book)
+    for input_file in input_files:
+        file = f"{file}- {input_file}\n"
 
-    # > Mid
-    default = f"{default}\nstandalone: true\nself-contained: true\n"
+    # > Standalone
+    file = f"{file}\n\nstandalone: true\nself-contained: true\n\nresource-files:\n"
 
-    # > Resource Path
-    default = f"{default}\n{resource_path}"
+    # > Resource Files
+    resource_files = generate_default_resource_files(book)
+    for resource_file in resource_files:
+        file = f"{file}- {resource_file}\n"
 
-    # > toc
-    default = f"{default}\n\ntoc: true\ntoc-depth: 2\n\nepub-chapter-level: 2\nepub-cover-image: {cover}\n"
+    # > toc and metadata
+    file = f"{file}\n\ntoc: true\ntoc-depth: 2\n\nepub-chapter-level: 2\n"
+    file = f"{file}epub-cover-image: cover{book}.png\n\nepub-fonts:\n"
+    file = f"{file}- Urbanist-Regular.ttf\n- Urbanist-Italic.ttf\n- Urbanist-Thin.ttf\n"
+    file = f"{file}- Urbanist-ThinItalic.ttf\n- White Modesty.ttf\n\n"
+    file = f"{file}epub-metadata: epub-meta{book}.yml\n\n"
+    file = f"{file}metadata-files:\n- meta{book}.yml\n"
+    file = f"{file}- epub-meta{book}.yml\n\n"
+    file = f"{file}css-files:\n- style.css\n..."
 
-    # > epubfonts
-    default = f"{default}\nepub-fonts:\n- Urbanist-Italic.ttf\n- Urbanist-Regular.ttf\n- Urbanist-Thin.ttf\n- Urbanist-ThinItalic.ttf\n- White Modesty.ttf\n"
-
-    # >Meta
-    default = f"{default}\nepub-metadata: epub-meta{book}.yml\n\nmetadata-files:\n- meta{book}.yml\n- epub-meta{book}.yml\n"
-
-    # > CSS
-    default = f"{default}\ncss-files:\n- style.css\n..."
-
-    # > Default Doc
-    log.debug(default)
-
-    # > Filepath
-    if write:
-
-        filepath = doc.filepath
-        with open(filepath, "w") as outfile:
-            outfile.write(default)
-        log.debug(f"Saved Book {book}'s defualtdoc to disk.")
-
-    # > Save
     if save:
         sg()
-        default_mongo_doc = Defaultdoc.objects(book=book).first()
-        default_mongo_doc.default_doc = default
-        default_mongo_doc.save()
-        log.debug(f"Updated MongoDB with Book {book}'s defualt file.")
-    return default
+        doc = Default.objects(book=book).first()  # type: ignore
+        doc.content = file
+        doc.save()
+
+    if write:
+        filepath = BASE / "books" / f"book{book}" / f"sg{book}.yml"
+        with open(filepath, "w") as outfile:
+            outfile.write(file)
+
+    return file
 
 
-# for i in trange(1,11):
-#     generate_default_doc(i, save=True, write=True)
+def get_default_file(book: int) -> str:
+    """
+    Retrieve the default file for the given book from MongoDB.
+
+    Args:
+        `book` (int): The given book.
+
+    Returns:
+        `file` (str): The default file for the given book.
+    """
+    sg()
+    doc = Default.objects(book=book).first()  # type: ignore
+    if doc.content:
+        return doc.content
+    else:
+        return generate_default_file(book, True, True)

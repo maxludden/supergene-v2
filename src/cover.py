@@ -28,6 +28,7 @@ class Coverpage(Document):
 def generate_filename(book: int) -> str:
     filename = f"cover{book}.html"
     sg()
+    
     doc = Coverpage.objects(book=book).first()  # type: ignore
     if doc:
         doc.filename = filename

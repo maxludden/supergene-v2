@@ -16,7 +16,13 @@ from rich.text import Text
 from rich.theme import Theme
 from ujson import dump, load
 
-mconsole = Console()
+
+# > Theme & Console
+theme_path = Path.cwd() / "json" / "theme.json"
+with open(theme_path, "r") as infile:
+    theme = Theme(load(infile))
+
+console = Console(theme=theme)
 
 
 # > BASE
@@ -24,24 +30,10 @@ def generate_base():
     """Generate base directory for the project."""
     BASE = Path.cwd()
     return BASE
+
+
 BASE = generate_base()
 
-
-max_theme = Theme(
-    {
-        "debug": "bold bright_cyan",  #             #00ffff
-        "info": "bold cornflower_blue",  #          #249df1
-        "success": "bold bright_green",  #          #00ff00
-        "warning": "bold bright_yellow",  #         #ffff00
-        "error": "bold orange1",  #                 #ff8800
-        "critical": "bold reverse bright_red",  #   #ff0000
-        "key": "italic blue_violet",  #             #5f00ff
-        "value": "bold bright_white",  #            #ffffff
-        "title": "bold purple",  #                  #af00ff
-    }
-)
-
-console = Console(theme=max_theme)
 
 # > Current Run
 def get_last_run() -> int:
@@ -80,11 +72,13 @@ def new_run() -> int:
     record_run(run)
 
     # > Clear and initialize console
-    mconsole.clear()
+    console.clear()
+    console.rule(title=f"\n\n\nRun {run}\n\n\n")
     return run
 
+
 current_run = new_run()
-console.rule(title=f"\n\n\nRun {current_run}\n\n\n")
+# console.rule(title=f"\n\n\nRun {current_run}\n\n\n")
 
 
 # > Configure Loguru Logger Sinks
@@ -207,12 +201,9 @@ def logpanel(msg: str, level: str = "INFO") -> None:
             The message to be logged.
     """
     match level:
-        case "DEBUG" | 'debug' | 'd':
+        case "DEBUG" | "debug" | "d":
             panel = Panel(
-                Text(
-                    msg,
-                    style="bold bright_white"
-                ),
+                Text(msg, style="bold bright_white"),
                 title=Text(
                     "DEBUG",
                     style="debug",
@@ -223,12 +214,9 @@ def logpanel(msg: str, level: str = "INFO") -> None:
             )
             console.log(panel, markup=True, highlight=True, log_locals=False)
             log.debug(msg)
-        case "INFO" | 'info' | 'i':
+        case "INFO" | "info" | "i":
             panel = Panel(
-                Text(
-                    msg,
-                    style="bold bright_white"
-                ),
+                Text(msg, style="bold bright_white"),
                 title=Text(
                     "INFO",
                     style="info",
@@ -239,51 +227,42 @@ def logpanel(msg: str, level: str = "INFO") -> None:
             )
             console.log(panel, markup=True, highlight=True, log_locals=False)
             log.info(msg)
-        case "WARNING" | 'warning' | 'w':
+        case "WARNING" | "warning" | "w":
             panel = Panel(
-                Text(
-                    msg,
-                    style="bold bright_white"
-                ),
+                Text(msg, style="bold bright_white"),
                 title=Text(
                     "WARNING",
                     style="warning",
                 ),
                 title_align="left",
                 border_style="warning",
-                expand=False
+                expand=False,
             )
             console.log(panel, markup=True, highlight=True, log_locals=False)
             log.warning(msg)
-        case "ERROR" | 'error' | 'e':
+        case "ERROR" | "error" | "e":
             panel = Panel(
-                Text(
-                    msg,
-                    style="bold bright_white"
-                ),
+                Text(msg, style="bold bright_white"),
                 title=Text(
                     "ERROR",
                     style="error",
                 ),
                 title_align="left",
                 border_style="error",
-                expand=False
+                expand=False,
             )
             console.log(panel, markup=True, highlight=True, log_locals=True)
             log.error(msg)
-        case "CRITICAL" | 'critical' | 'c':
+        case "CRITICAL" | "critical" | "c":
             panel = Panel(
-                Text(
-                    msg,
-                    style="bold bright_white"
-                ),
+                Text(msg, style="bold bright_white"),
                 title=Text(
                     "CRITICAL",
                     style="critical",
                 ),
                 title_align="left",
                 border_style="critical",
-                expand=False
+                expand=False,
             )
             console.log(panel, markup=True, highlight=True, log_locals=True)
             log.critical(msg)

@@ -18,9 +18,11 @@
     "git.ignoreLimitWarning": true,
     "task.allowAutomaticTasks": "on",
     "cSpell.words": [
-        "mrich"
+        "mrich",
+        "SIGPIPE"
     ],
     "cSpell.ignoreWords": [
+        "argname",
         "rinspect"
     ]
 }

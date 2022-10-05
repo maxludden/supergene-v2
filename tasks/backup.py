@@ -14,35 +14,27 @@ from rich.console import Console
 from rich.panel import Panel
 from rich.style import Style
 from rich.text import Text
+from src.log import theme, console
 from sh import mongodump, rm  # type: ignore
 
-from tasks.pushover import notify, notify_console
-load_dotenv()
-SUDO = environ.get("SUDO")
-console = Console()
+from tasks.pushover import notify
 
-key_style = Style(
-    color = '#5fffff',
-    italic = True
-)
-value_style = Style(
-    color = '#ffffff',
-    bold = True
-)
-title_style = Style(
-    color = Color.parse("cornflower_blue"),
-    bold = True
-)
+load_dotenv()
+
+SUDO = environ.get("SUDO")
+
+console = Console(theme=theme)
+
 
 # > MongoDump - global
-URL = "mongodb://localhost:27017" # LOCALDB
-backup_dir = Path("/Users/maxludden/dev/py/supergene/backups") # Backup directory
+URL = "mongodb://localhost:27017"  # LOCALDB
+backup_dir = Path("/Users/maxludden/dev/py/supergene/backups")  # Backup directory
 mongodump = mongodump.bake("--port", "27017", "-o", backup_dir, "-d", "SUPERGENE")  # type: ignore
 rm = rm.bake("-rf")
 
 # . Helper Functions
 def get_backups(print: bool = False) -> List[Any]:
-    '''Count Number of Backups'''
+    """Count Number of Backups"""
     backups = []
 
     with sh.contrib.sudo(password=SUDO, _with=True):  # type: ignore
@@ -63,15 +55,15 @@ def get_backups(print: bool = False) -> List[Any]:
                 border_style="blue",
                 expand=False,
                 subtitle=f"[bright_blue]Number of Backups:[/][#54c6ff]{backup_count}[/]",
-                subtitle_align='right'
+                subtitle_align="right",
             )
         )
-    return backups # type: ignore
+    return backups  # type: ignore
 
 
 def create_backup() -> None:
-    '''Ensure that there are only backups for the last 7 days'''
-    backups = get_backups() #. Gets backups
+    """Ensure that there are only backups for the last 7 days"""
+    backups = get_backups()  # . Gets backups
 
     # > Remove oldest backup if there are more than 6
     if len(backups) > 6:
@@ -83,7 +75,7 @@ def create_backup() -> None:
                 border_style="blue",
                 expand=False,
                 subtitle=f"[bright_blue]{__file__}[/][#FFFFFF]|[/][#54c6ff]line 85[/]",
-                subtitle_align='right'
+                subtitle_align="right",
             )
         )
         for backup in backups[6:]:
@@ -95,7 +87,7 @@ def create_backup() -> None:
                     border_style="blue",
                     expand=False,
                     subtitle=f"[bright_blue]{__file__}[/][#FFFFFF]|[/][#54c6ff]line 97[/]",
-                    subtitle_align='right'
+                    subtitle_align="right",
                 )
             )
             with sh.contrib.sudo(password=SUDO, _with=True):
@@ -107,24 +99,24 @@ def create_backup() -> None:
         title="[title_style]MongoDump[/]",
         title_align="left",
         border_style=Style(color="magenta", bold=True),
-        expand=False
+        expand=False,
     )
     console.print(mongodump_panel)
     with sh.contrib.sudo(password=SUDO, _with=True):  # type: ignore
         mongodump(URL)
-
 
     panel = Panel(
         f"[value_style]Backup Complete![/]",
         title="[title_style]MongoDump[/]",
         title_align="left",
         style=Style(color="bright_green"),
-        expand=False
+        expand=False,
     )
-    notify_console.print(panel)
+    console.print(panel)
     now = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
     msg = f"Backup completed at {now}"
     notify(title="MongoDump", msg=msg, color=Color.parse("cornflower_blue"))
+
 
 get_backups()
 create_backup()

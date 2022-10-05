@@ -1,0 +1,22 @@
+{
+  "name": "gradient_string",
+  "version": "1.0.0",
+  "description": "JS package to augment python cli for gradient text in the terminal.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\"\""
+  },
+  "keywords": [
+    "gradient",
+    "terminal",
+    "text",
+    "javascript",
+    "python"
+  ],
+  "author": "Max Ludden <dev@maxludden.com>",
+  "license": "MIT"
+}

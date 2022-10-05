@@ -1,9 +1,9 @@
 # src/default.py
 
-from dbm import ndbm
 from pathlib import Path
 from typing import List, Optional, Any
 from sh import Command, RunningCommand
+from inspect import currentframe, getframeinfo
 
 from dotenv import load_dotenv
 from mongoengine import Document
@@ -86,13 +86,36 @@ def default_panel(
         subtitle=f"[purple]src/default.py[/][#FFFFFF]|[/][#54c6ff]line {line}[/]",
         subtitle_align="right",
         border_style=Style(color="#5f00ff"),
-        expand=False,
+        expand=True,
         width=80,
     )
     return panel
 
 
-def generate_default_book(section: int, save: bool = True) -> int | None:
+def get_linenumber() -> int:
+    """
+    Get the current line number.
+
+    Returns:
+        `line` (int): The current line number.
+    """
+    cf = currentframe()
+    return cf.f_back.f_lineno  # type: ignore
+
+
+def next_lineno() -> int:
+    """
+    Get the next line number.
+
+    Returns:
+        `line` (int): The next line number.
+    """
+    cf = currentframe()
+    next_lineno = int(cf.f_back.f_lineno) + 1  # type: ignore
+    return next_lineno
+
+
+def generate_default_book(section: int, save: bool = False) -> int | None:
     """
     Generate the book of the given section.
 
@@ -133,12 +156,13 @@ def generate_default_book(section: int, save: bool = True) -> int | None:
 
     if save:
         sg()
-        doc = Default.objects(section=section).first()  # type: ignore
+        doc = Default.objects(book=book).first()  # type: ignore
         doc.book = book
         doc.save()
-        log.debug(f"Saved Book {book} for Section {section}.")
+        # log.debug(f"Saved Book {book} for Section {section}.")
 
-    console.print(default_panel(book, "Book from Section", book, 140), highlight=True)
+    line = next_lineno()
+    console.print(default_panel(book, "Book from Section", book, line), highlight=True)
 
     return book
 
@@ -179,9 +203,13 @@ def generate_default_book_word(book: int, save: bool = True) -> str | None:  # t
         doc = Default.objects(book=book).first()  # type: ignore
         doc.book_word = book_word
         doc.save()
-        log.debug(f"Saved Book Word {book_word} for Book {book}.")
+        # log.debug(f"Saved Book Word {book_word} for Book {book}.")
 
-    console.print(default_panel(book, "Book Word", book_word, 182), highlight=True)
+    frameinfo = getframeinfo(currentframe())  # type: ignore
+    next_lineno = int(frameinfo.lineno) + 2
+    console.print(
+        default_panel(book, "Book Word", book_word, next_lineno), highlight=True
+    )
     return book_word
 
 
@@ -198,8 +226,10 @@ def get_default_book_word(book: int) -> str:  # type: ignore
     sg()
     doc = Default.objects(book=book).first()  # type: ignore
     if doc.book_word:
+        frameinfo = getframeinfo(currentframe())  # type: ignore
+        next_lineno = int(frameinfo.lineno) + 2
         console.print(
-            default_panel(book, "Book Word", doc.book_word, 199), highlight=True
+            default_panel(book, "Book Word", doc.book_word, next_lineno), highlight=True
         )
         return doc.book_word
 
@@ -229,9 +259,11 @@ def generate_default_output(book: int, save: bool = True) -> str | None:  # type
         doc = Default.objects(book=book).first()  # type: ignore
         doc.output = output
         doc.save()
-        log.debug(f"Saved Output {output} for Book {book}.")
+        # log.debug(f"Saved Output {output} for Book {book}.")
 
-    console.print(default_panel(book, "Output", output, 234), highlight=True)
+    frameinfo = getframeinfo(currentframe())  # type: ignore
+    next_lineno = int(frameinfo.lineno) + 2
+    console.print(default_panel(book, "Output", output, next_lineno), highlight=True)
     return output
 
 
@@ -271,7 +303,7 @@ def generate_default_filename(book: int, save: bool = True) -> str:
         doc = Default.objects(book=book).first()  # type: ignore
         doc.filename = filename
         doc.save()
-    log.debug(f"Generated Book {book}filename for book {book}: {filename}")
+    # log.debug(f"Generated Book {book}filename for book {book}: {filename}")
 
     console.print(default_panel(book, "Filename", filename, 111), highlight=True)
     return filename
@@ -291,7 +323,7 @@ def get_default_filename(book: int) -> str:
     doc = Default.objects(book=book).first()  # type: ignore
     if doc.filename:
         filename = doc.filename
-        log.debug(f"Retrieved Book {book}'s Default File's Filename: {filename}")
+        # log.debug(f"Retrieved Book {book}'s Default File's Filename: {filename}")
         console.print(default_panel(book, "Filename", filename, 239), highlight=True)
         return filename
 
@@ -311,7 +343,7 @@ def generate_default_cover_filename(book: int) -> str:
         `cover` (str): The cover filename of the given book.
     """
     cover = f"cover{book}.jpg"
-    log.debug(f"Generated Book {book}'s Cover: {cover}")
+    # log.debug(f"Generated Book {book}'s Cover: {cover}")
     console.print(default_panel(book, "Cover", cover, 273), highlight=True)
     return cover  # type: ignore
 
@@ -336,13 +368,13 @@ def generate_default_filepath(
     book_dir = f"book{book_zfill}"
     filename = generate_default_filename(book, save=False)
     filepath = f"{BASE}/books/{book_dir}/{filename}.yml"
-    log.debug(f"Generated filepath:\n<code>{filepath}</code>")
+    # log.debug(f"Generated filepath:\n<code>{filepath}</code>")
     if save:
         sg()
         doc = Default.objects(book=book).first()  # type: ignore
         doc.filepath = filepath
         doc.save()
-        log.debug(f"Saved Book {book}'s Default File's Filepath.")
+        # log.debug(f"Saved Book {book}'s Default File's Filepath.")
     if string:
         return filepath
 
@@ -366,7 +398,7 @@ def get_default_filepath(book: int, string: bool = False) -> Path | str:
     doc = Default.objects(book=book).first()  # type: ignore
     if doc.filepath:
         filepath = doc.filepath
-        log.debug(f"Retrieved Book {book}'s Default File's Filepath: {filepath}")
+        # log.debug(f"Retrieved Book {book}'s Default File's Filepath: {filepath}")
         console.print(default_panel(book, "Filepath", filepath, 168), highlight=True)
         if string:
             return filepath
@@ -424,7 +456,7 @@ def generate_default_sections(book: int, save: bool = True) -> List[int]:
         doc = Default.objects(book=book).first()  # type: ignore
         doc.sections = sections
         doc.save()
-        log.debug(f"Saved Book {book}'s Default File's Sections: {sections}")
+        # log.debug(f"Saved Book {book}'s Default File's Sections: {sections}")
 
     console.print(default_panel(book, "Sections", sections, 295), highlight=True)
     return sections
@@ -452,51 +484,58 @@ def get_default_sections(book: int) -> list[int]:
         return generate_default_sections(book)  # type: ignore
 
 
-def generate_default_book_word(book: int, save: bool = True) -> str:
+def generate_default_section_chapters(section: int, save: bool = True) -> List[int]:
     """
-    Generates, retrieves, or updates the word from the given book.
+    Generates a list of chapters of a given book.
 
     Args:
         `book` (int): The given book.
 
-        `mode` (Optional[str]): The mode in which the function is called.
+        `save` (bool, optional): Whether to save the given book's chapters to MongoDB. Defaults to True.
 
     Returns:
-        `book_word` (str): The written version of the given book.
+        `chapters` (list[int]): The chapters of a given book.
     """
-    book_word = str(num2words(book)).capitalize()
+    chapters = []  # empty list for section chapters
+    # . Loop through each chapter in the given section
+    for chapter_doc in ch.Chapter.objects(section=section):  # type: ignore
+        chapters.append(chapter_doc.chapter)  # append chapter to list
+
+    # . Create a string of comma separated chapters for the console
+    chapter_list = ", ".join([str(chapter) for chapter in chapters])
 
     if save:
         sg()
-        doc = Default.objects(book=book).first()  # type: ignore
-        doc.book_word = book_word
+        doc = sec.Section.objects(book=book).first()  # type: ignore
+        doc.chapters = chapters
         doc.save()
-        log.debug(f"Saved Book {book}'s Default File's Book Word: {book_word}")
+        # log.debug(f"Saved Book {book}'s Default File's Chapters: {chapters}")
 
-    console.print(default_panel(book, "Book Word", book_word, 345), highlight=True)
-    return book_word
+    console.print(default_panel(section, "Chapters", chapter_list, 382), highlight=True)
+    return chapters
 
 
-def get_default_book_word(book: int) -> str:
+def get_default_chapters(book: int) -> list[int]:
     """
-    Retrieves the word from the given book.
+    Retrieve the chapters of the given book from MongoDB.
 
     Args:
         `book` (int): The given book.
 
     Returns:
-        `book_word` (str): The written version of the given book.
+        `chapters` (list[int]): The chapters of the given book.
     """
     sg()
     doc = Default.objects(book=book).first()  # type: ignore
-    if doc.book_word:
+    if doc.chapters:
+        chapter_list = ", ".join([str(chapter) for chapter in doc.chapters])
         console.print(
-            default_panel(book, "Book Word", doc.book_word, 365), highlight=True
+            default_panel(book, "Chapters", chapter_list, 362), highlight=True
         )
-        return doc.book_word
+        return doc.chapters
 
     else:
-        return generate_default_book_word(book)  # type: ignore
+        return generate_default_chapters(book)  # type: ignore
 
 
 def generate_default_cover(book: int, save: bool = True) -> str:
@@ -518,7 +557,7 @@ def generate_default_cover(book: int, save: bool = True) -> str:
         doc = Default.objects(book=book).first()  # type: ignore
         doc.cover = cover
         doc.save()
-        log.debug(f"Saved Book {book}'s Default File's Cover: {cover}")
+        # log.debug(f"Saved Book {book}'s Default File's Cover: {cover}")
 
     console.print(default_panel(book, "Cover", cover, 393), highlight=True)
     return cover
@@ -571,7 +610,7 @@ def generate_default_cover_path(
         doc = Default.objects(book=book).first()  # type: ignore
         doc.cover_path = cover_path
         doc.save()
-        log.debug(f"Saved Book {book}'s Default File's Cover Path: {cover_path}")
+        # log.debug(f"Saved Book {book}'s Default File's Cover Path: {cover_path}")
 
     console.print(default_panel(book, "Cover Path", cover_path, 446), highlight=True)
 
@@ -639,7 +678,7 @@ def generate_default_output(book: int, save: bool = False) -> str:
         doc = Default.objects(book=book).first()  # type: ignore
         doc.output = output
         doc.save()
-        log.debug(f"Saved Book {book}'s Default File's Output: {output}")
+        # log.debug(f"Saved Book {book}'s Default File's Output: {output}")
 
     return output
 
@@ -684,7 +723,7 @@ def generate_default_section_part(section: int) -> int:
     return part
 
 
-def generate_default_section_filenames(section: int, save: int) -> list[str]:
+def generate_default_section_filenames(section: int, save: bool = True) -> list[str]:
     """
     Generate the filenames for the given section.
 
@@ -695,39 +734,40 @@ def generate_default_section_filenames(section: int, save: int) -> list[str]:
     """
     filenames = []
     sg()
-    doc = sec.Section.objects(section=section).first()  # type: ignore
+    section_doc = sec.Section.objects(section=section).first()  # type: ignore
 
     # > Section Page
-    if doc.filename:
-        section_page = f"{doc.filename}.html"
+    if section_doc.filename:
+        section_page = f"{section_doc.filename}.html"
         filenames.append(section_page)
     else:
         section_page = f"{sec.generate_section_filename(section)}.html"
         filenames.append(section_page)
 
     # > Chapter Pages
-    if doc.chapters:
-        for chapter in doc.chapters:
-            doc = ch.Chapter.objects(chapter=chapter).first()  # type: ignore
-            if doc.filename:
-                filename = f"{doc.filename}.html"
-                filenames.append(chapter.filename)
+    if section_doc.chapters:
+        for chapter in section_doc.chapters:
+            chapter_doc = ch.Chapter.objects(chapter=chapter).first()  # type: ignore
+            if chapter_doc.filename:
+                filename = f"{chapter_doc.filename}.html"
+                filenames.append(filename)
             else:
-                filename = f"{ch.generate_filename(chapter.chapter)}.html"
+                filename = f"{ch.generate_filename(chapter)}.html"
                 filenames.append(filename)
 
     if save:
+        book = generate_default_book(section)
         sg()
-        doc = Default.objects(section=section).first()  # type: ignore
+        section_doc = Default.objects(book=book).first()  # type: ignore
         part = generate_default_section_part(section)
         match part:
             case 1:
-                doc.section1_filename = filenames
+                section_doc.section1_filename = filenames
             case 2:
-                doc.section2_filename = filenames
+                section_doc.section2_filename = filenames
             case _:
                 raise ValueError(f"Part {part} is not a valid part number.")
-        doc.save()
+        section_doc.save()
 
     return filenames
 
@@ -806,8 +846,9 @@ def generate_default_section_filepaths(section: int, save: bool = True) -> list[
                     filepaths.append(chapter_html_path)
 
     if save:
+        book = generate_default_book(section)
         sg()
-        doc = Default.objects(section=section).first()  # type: ignore
+        doc = Default.objects(book=book).first()  # type: ignore
         part = generate_default_section_part(section)
         match part:
             case 1:
@@ -816,6 +857,7 @@ def generate_default_section_filepaths(section: int, save: bool = True) -> list[
                 doc.section2_filepaths = filepaths
             case _:
                 raise ValueError(f"Part {part} is not a valid part number.")
+
         doc.save()
 
     return filepaths

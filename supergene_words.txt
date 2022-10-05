@@ -13,6 +13,8 @@ Blueblood
 bluepurple
 Boshan
 Changqing
+colour
+colr
 comlink
 conint
 coverpages
@@ -99,6 +101,8 @@ nyoi
 Ouyang
 pandoc
 Pingqing
+pring
+printc
 pyobject
 Qiao
 Qielan

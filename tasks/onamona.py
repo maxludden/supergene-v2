@@ -113,7 +113,7 @@ with Progress(console=console) as progress:
 
     panel = Panel(
         Text(f"Updated {count} chapters", style="bold white"),
-        title=Text("Onamonapia", style="bold green"),
+        title=Text("Onomonapia", style="bold green"),
         title_align="left",
         expand=False,
         border_style="green",

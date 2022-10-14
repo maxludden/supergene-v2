@@ -12,7 +12,7 @@ from rich.text import Text
 from sh import Command
 from src.atlas import sg
 from src.chapter import Chapter, chapter_gen, get_book
-from src.log import BASE, console, log
+from src.log import BASE, console
 
 
 class HTMLGenerationError(Exception):
@@ -60,7 +60,7 @@ def generate_html(chapter: int, save: bool = True):
     if doc:
         html_path = generate_html_path(doc.chapter)
         md_path = generate_md_path(doc.chapter)
-        log.debug(f"Generating HTML for Chapter {doc.chapter}.")
+
 
         if md_path.exists():
             multimarkdown = Command("multimarkdown")
@@ -71,29 +71,27 @@ def generate_html(chapter: int, save: bool = True):
             )
             result = mmd(html_path, md_path)
             if result.exit_code == 0:  # type: ignore
-                log.debug(f"Successfully generated HTML for doc {doc.chapter}.")
+
                 if save:
                     sg()
                     doc = Chapter.objects(chapter=chapter).first()  # type: ignore
                     with open(html_path, "r") as infile:
                         doc.html = infile.read()
-                        log.debug(f"Saved Chapter {doc.chapter}'s HTML to MongoDB.")
+
             else:
-                log.error(f"Error generating HTML for doc {doc.chapter}.")
+
                 raise HTMLGenerationError(
                     f"Error generating HTML for doc {doc.chapter}."
                 )
         else:
-            log.error(f"Markdown file not found for doc {doc.chapter}.")
+
             raise ChapterNotFound(f"Markdown file not found for doc {doc.chapter}.")
     else:
-        log.error(f"Chapter {doc.chapter} not found.")
+
         raise ChapterNotFound(f"Chapter {doc.chapter} not found.")
     end = perf_counter()
     duration = end - start
-    log.debug(
-        f"Generated HTML for Chapter {doc.chapter} in {end - start:0.4f} seconds."
-    )
+
     return duration
 
 
@@ -111,7 +109,7 @@ if __name__ == "__main__":
     sum = sum(durations)
     avg = sum / 3462
     msg = f"Generated HTML for all chapters in {end - start:0.4f} seconds. Average time per chapter: {avg:0.6f} seconds."
-    console.log(
+    console.print(
         Panel(
             Text(msg, justify="left", style="white"),
             title=Text(f"Generated Chapter HTML", style="bold green"),
@@ -120,4 +118,3 @@ if __name__ == "__main__":
             border_style="#00ff00",
         )
     )
-    log.debug(msg)

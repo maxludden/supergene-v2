@@ -280,7 +280,7 @@ def get_default_output(book: int) -> str | None:  # type: ignore
         `book` (int): The given book.
 
     Returns:
-        `output` (str): The output filename of the given book's defualt file.
+        `output` (str): The output filename of the given book's default file.
     """
     sg()
     doc = Default.objects(book=book).first()  # type: ignore
@@ -1031,7 +1031,7 @@ def generate_default_file(book: int, save: bool = True, write: bool = True) -> s
     # > Resource Files
     resource_paths = doc.resource_paths
     for resource_path in resource_paths:
-        file = f"{file}- {resource_path}\n"
+        file = f"{file}- ${resource_path}\n"
 
     # > toc and metadata
     file = f"{file}\n\ntoc: true\ntoc-depth: 2\n\nepub-chapter-level: 2\n"
@@ -1050,7 +1050,7 @@ def generate_default_file(book: int, save: bool = True, write: bool = True) -> s
         doc.save()
 
     if write:
-        filepath = BASE / "books" / f"book{book}" / f"sg{book}.yml"
+        filepath = BASE / "yaml" / f"sg{book}.yml"
         with open(filepath, "w") as outfile:
             outfile.write(file)
 

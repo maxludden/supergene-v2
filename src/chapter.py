@@ -29,19 +29,8 @@ from rich.table import Table
 from rich.text import Text
 from rich.box import ROUNDED
 
-try:
-    from atlas import max_title, sg
-except ModuleNotFoundError:
-    from .atlas import max_title, sg
-except ImportError:
-    from src.atlas import max_title, sg
-
-try:
-    from log import BASE, log, console
-except ModuleNotFoundError:
-    from .log import BASE, log, console
-except ImportError:
-    from src.log import BASE, log, console
+from src.atlas import max_title, sg
+from src.log import BASE, log, console
 
 # .┌─────────────────────────────────────────────────────────────────┐.#
 # .│                           Chapter                               │.#

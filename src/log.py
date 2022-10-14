@@ -14,6 +14,7 @@ from rich.pretty import pprint
 from rich.style import Style
 from rich.text import Text
 from rich.theme import Theme
+from rich.traceback import install
 from ujson import dump, load
 
 theme = Theme(
@@ -41,7 +42,7 @@ theme = Theme(
 )
 
 console = Console(theme=theme)
-
+install(console=console)
 
 # > BASE
 def generate_base():

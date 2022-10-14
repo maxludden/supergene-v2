@@ -7,7 +7,7 @@ from platform import platform
 from typing import Optional
 from urllib.request import urlopen
 
-from dotenv import dotenv_values, load_dotenv
+from dotenv import  load_dotenv
 import mongoengine
 from mongoengine import connect
 from pymongo.errors import ConnectionFailure

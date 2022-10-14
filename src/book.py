@@ -14,11 +14,10 @@ from num2words import num2words
 from rich import print
 from rich.markdown import Markdown
 from rich.panel import Panel
-from rich.progress import Progress
 from rich.style import Style
 from rich.text import Text
 
-from src.atlas import max_title, sg
+from src.atlas import sg
 from src.log import BASE, console, log
 
 load_dotenv()
@@ -692,5 +691,3 @@ def get_book_sections(book: int) -> List[int]:
     else:
         sections = generate_book_sections(book)
         return sections
-
-

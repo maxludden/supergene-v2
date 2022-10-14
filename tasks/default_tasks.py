@@ -23,12 +23,14 @@ from src.default import (
     generate_default_section_filepaths,
     generate_default_sections,
     generate_default_input_files,
-    generate_default_file
+    generate_default_resource_files,
+    generate_default_file,
 )
 from src.log import console
 from src.atlas import sg
 
 install()
+
 
 def default_panel(
     book: int,
@@ -143,11 +145,12 @@ def generate_default_filepaths_task():
             )
             filepath = generate_default_file(book=book, save=True)  # type: ignore
 
-        frameinfo = getframeinfo(currentframe()) # type: ignore
+        frameinfo = getframeinfo(currentframe())  # type: ignore
         current_lineno = int(frameinfo.lineno) + 2
         console.print(finished("Filepaths", current_lineno))
 
-generate_default_filepaths_task()
+
+# generate_default_filepaths_task()
 
 
 def generate_default_covers():
@@ -237,7 +240,7 @@ def generate_default_section_filenames_tasks():
             )
             section_filenames = generate_default_section_filenames(section)  # type: ignore
 
-        frameinfo = getframeinfo(currentframe()) # type: ignore
+        frameinfo = getframeinfo(currentframe())  # type: ignore
         current_lineno = int(frameinfo.lineno) + 2
         console.print(finished("Section Filenames", current_lineno))
 
@@ -259,7 +262,7 @@ def generate_default_section_filepaths_task():
             )
             section_filepaths = generate_default_section_filepaths(section)  # type: ignore
 
-        frameinfo = getframeinfo(currentframe()) # type: ignore
+        frameinfo = getframeinfo(currentframe())  # type: ignore
         current_lineno = int(frameinfo.lineno) + 2
         console.print(finished("Section Filepaths", current_lineno))
 
@@ -282,7 +285,7 @@ def generate_default_input_files_task():
             input_files = generate_default_input_files(book)  # type: ignore
             sleep(1)
 
-        frameinfo = getframeinfo(currentframe()) # type: ignore
+        frameinfo = getframeinfo(currentframe())  # type: ignore
         current_lineno = int(frameinfo.lineno) + 2
         console.print(finished("Input Files", current_lineno))
 
@@ -305,12 +308,13 @@ def generate_default_resource_files_task():
             resource_files = generate_default_resource_files(book)  # type: ignore
             sleep(0.25)
 
-        frameinfo = getframeinfo(currentframe()) # type: ignore
+        frameinfo = getframeinfo(currentframe())  # type: ignore
         current_lineno = int(frameinfo.lineno) + 2
         console.print(finished("Resource Files", current_lineno))
 
 
-# generate_default_resource_files_task()
+generate_default_resource_files_task()
+
 
 def generate_default_files_task():
     """Generate the default files for all books."""
@@ -326,11 +330,12 @@ def generate_default_files_task():
             default_file = generate_default_file(book)  # type: ignore
             sleep(0.25)
 
-        frameinfo = getframeinfo(currentframe()) # type: ignore
+        frameinfo = getframeinfo(currentframe())  # type: ignore
         current_lineno = int(frameinfo.lineno) + 2
         console.print(finished("Default Files", current_lineno))
 
-# generate_default_files_task()
+
+generate_default_files_task()
 
 
 def write_default_files():
@@ -344,19 +349,19 @@ def write_default_files():
                 description=f"[bold green]Writing Book {book}'s Default Files...",
             )
             sg()
-            default_doc = Default.objects(book=book).first() # type: ignore
+            default_doc = Default.objects(book=book).first()  # type: ignore
             filepath = default_doc.filepath
             content = default_doc.content
-            with open (filepath, "w") as outfile:
+            with open(filepath, "w") as outfile:
                 outfile.write(content)
 
-            frameinfo = getframeinfo(currentframe()) # type: ignore
+            frameinfo = getframeinfo(currentframe())  # type: ignore
             current_lineno = int(frameinfo.lineno) + 2
             console.print(finished(f"Book {book} Default File", current_lineno))
 
-        frameinfo = getframeinfo(currentframe()) # type: ignore
+        frameinfo = getframeinfo(currentframe())  # type: ignore
         current_lineno = int(frameinfo.lineno) + 2
         console.print(finished("Default Files", current_lineno))
 
 
-write_default_files()
+# write_default_files()

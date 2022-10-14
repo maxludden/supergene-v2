@@ -2,7 +2,7 @@
 from: html
 to: epub
 
-output-file: 1 - First God's Sanctuary.epub
+output-file: First God's Sanctuary.epub
 
 input-files:
 - cover1.html
@@ -432,23 +432,25 @@ input-files:
 - chapter-0422.html
 - chapter-0423.html
 - chapter-0424.html
-- endofbook-01.html
+- endofbook=01.html
+
 
 standalone: true
 self-contained: true
 
-resource-files:
+resource-paths:
 - .
 - ${.}/Images/cover1.png
 - ${.}/Images/title.png
 - ${.}/Images/gem.gif
-- ${.}/Styles/Century Gothic.ttf
-- ${.}/Styles/Photograph Signature.ttf
 - ${.}/Styles/style.css
-- ${.}/html/meta1.yaml
-- ${.}/html/epub-meta1.yml
-- ${.}/html/cover1.html
-- ${.}/html/titlepage-01.html
+- ${.}/Styles/Urbanist-Regular.ttf
+- ${.}/Styles/Urbanist-Italic.ttf
+- ${.}/Styles/Urbanist-Thin.ttf
+- ${.}/Styles/Urbanist-ThinItalic.ttf
+- ${.}/Styles/White Modesty.ttf
+- ${.}/yaml/epub-meta1.yml
+- ${.}/yaml/meta1.yml
 - ${.}/html/section-01.html
 - ${.}/html/chapter-0001.html
 - ${.}/html/chapter-0002.html
@@ -876,6 +878,7 @@ resource-files:
 - ${.}/html/chapter-0424.html
 - ${.}/html/endofbook-01.html
 
+
 toc: true
 toc-depth: 2
 
@@ -883,8 +886,8 @@ epub-chapter-level: 2
 epub-cover-image: cover1.png
 
 epub-fonts:
-- Urbanist-Italic.ttf
 - Urbanist-Regular.ttf
+- Urbanist-Italic.ttf
 - Urbanist-Thin.ttf
 - Urbanist-ThinItalic.ttf
 - White Modesty.ttf

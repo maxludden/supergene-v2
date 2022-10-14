@@ -694,6 +694,3 @@ def get_book_sections(book: int) -> List[int]:
         return sections
 
 
-books = book_gen()
-for book in books:
-    console.print(book_panel(book, "Book", book, 706), width=60)

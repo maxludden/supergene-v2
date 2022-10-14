@@ -21,13 +21,17 @@ pyaml = "^21.10.1"
 beanie = "^1.11.9"
 fastapi = "^0.82.0"
 uvicorn = "^0.18.3"
-
-[tool.poetry.dev-dependencies]
-mongo-types = "^0.15.1"
-ujson = "^5.4.0"
+python-cfonts = "^1.5.2"
+rich = "^12.6.0"
+ipython = "^8.5.0"
+ipywidgets = "^8.0.2"
 
 [tool.poetry.scripts]
 supergene = "supergene.__main__:main"
+
+[tool.poetry.group.dev.dependencies]
+mongo-types = "^0.15.1"
+ujson = "^5.5.0"
 
 [build-system]
 requires = ["poetry-core>=1.0.0"]

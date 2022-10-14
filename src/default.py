@@ -4,6 +4,7 @@ from pathlib import Path
 from typing import List, Optional, Any
 from sh import Command, RunningCommand
 from inspect import currentframe, getframeinfo
+from time import sleep
 
 from dotenv import load_dotenv
 from mongoengine import Document
@@ -15,6 +16,7 @@ from rich.panel import Panel
 from rich.style import Style
 from rich.markdown import Markdown
 from rich.progress import Progress
+from rich.traceback import install
 
 import src.book as bk
 import src.chapter as ch
@@ -29,13 +31,14 @@ from src.atlas import max_title, sg
 from src.log import BASE, console, log, logpanel
 
 load_dotenv()
+install()
 
 
 class InvalidBookError(Exception):
     pass
 
 
-# . ───────────────── Default ──────────────────────────────────
+# _. ───────────────── Default ──────────────────────────────────
 class Default(Document):
     book = IntField(unique=True, min_value=1, max_value=10)
     book_word = StringField()
@@ -49,6 +52,8 @@ class Default(Document):
     metadata = StringField()
     output = StringField()
     resource_paths = ListField(StringField())
+    section1_chapters = ListField(IntField())
+    section2_chapters = ListField(IntField())
     section1_filenames = ListField(StringField())
     section2_filenames = ListField(StringField())
     section1_filepaths = ListField(StringField())
@@ -484,60 +489,6 @@ def get_default_sections(book: int) -> list[int]:
         return generate_default_sections(book)  # type: ignore
 
 
-def generate_default_section_chapters(section: int, save: bool = True) -> List[int]:
-    """
-    Generates a list of chapters of a given book.
-
-    Args:
-        `book` (int): The given book.
-
-        `save` (bool, optional): Whether to save the given book's chapters to MongoDB. Defaults to True.
-
-    Returns:
-        `chapters` (list[int]): The chapters of a given book.
-    """
-    chapters = []  # empty list for section chapters
-    # . Loop through each chapter in the given section
-    for chapter_doc in ch.Chapter.objects(section=section):  # type: ignore
-        chapters.append(chapter_doc.chapter)  # append chapter to list
-
-    # . Create a string of comma separated chapters for the console
-    chapter_list = ", ".join([str(chapter) for chapter in chapters])
-
-    if save:
-        sg()
-        doc = sec.Section.objects(book=book).first()  # type: ignore
-        doc.chapters = chapters
-        doc.save()
-        # log.debug(f"Saved Book {book}'s Default File's Chapters: {chapters}")
-
-    console.print(default_panel(section, "Chapters", chapter_list, 382), highlight=True)
-    return chapters
-
-
-def get_default_chapters(book: int) -> list[int]:
-    """
-    Retrieve the chapters of the given book from MongoDB.
-
-    Args:
-        `book` (int): The given book.
-
-    Returns:
-        `chapters` (list[int]): The chapters of the given book.
-    """
-    sg()
-    doc = Default.objects(book=book).first()  # type: ignore
-    if doc.chapters:
-        chapter_list = ", ".join([str(chapter) for chapter in doc.chapters])
-        console.print(
-            default_panel(book, "Chapters", chapter_list, 362), highlight=True
-        )
-        return doc.chapters
-
-    else:
-        return generate_default_chapters(book)  # type: ignore
-
-
 def generate_default_cover(book: int, save: bool = True) -> str:
     """
     Generate the filename of the given book's coverpage.
@@ -723,7 +674,46 @@ def generate_default_section_part(section: int) -> int:
     return part
 
 
-def generate_default_section_filenames(section: int, save: bool = True) -> list[str]:
+def generate_default_section_chapters(section: int, save: bool = True) -> list[str]:
+    """
+    Generate the chapters for the given section.
+
+    Args:
+        `section` (int): The given section.
+
+        `save` (bool, optional): Whether to save the given section's chapters to MongoDB. Defaults to True.
+
+    Returns:
+        `chapters` (list[str]): The chapters for the given section.
+    """
+    book = generate_default_book(section)
+    sg()
+    section_doc = sec.Section.objects(book=book).first()  # type: ignore
+    section_chapters = section_doc.chapters
+
+    sg()
+    default_doc = Default.objects(book=book).first()  # type: ignore
+    part = generate_default_section_part(section)
+    match part:
+        case 1:
+            default_doc.section1_chapters = section_chapters
+        case 2:
+            default_doc.section2_chapters = section_chapters
+        case _:
+            raise ValueError(f"Part {part} is not a valid part number.")
+    default_doc.save()
+
+    frameinfo = getframeinfo(currentframe())  # type: ignore
+    current_lineno = int(frameinfo.lineno) + 2
+    console.print(
+        default_panel(section, "Chapters", section_chapters, current_lineno),
+        highlight=True,
+    )
+
+    return section_chapters
+
+
+def generate_default_section_filenames(section: int, save: bool = True) -> list[str]:  # type: ignore
     """
     Generate the filenames for the given section.
 
@@ -732,44 +722,46 @@ def generate_default_section_filenames(section: int, save: bool = True) -> list[
 
         `save` (int): Whether to save the given section's filenames to MongoDB.
     """
-    filenames = []
+    book = generate_default_book(section)
+    part = generate_default_section_part(section)
+    section_zfill = str(section).zfill(2)
+
     sg()
-    section_doc = sec.Section.objects(section=section).first()  # type: ignore
+    default_doc = Default.objects(book=book).first()  # type: ignore
+    match part:
+        case 1:
+            section1_filenames = [f"section-{section_zfill}.html"]
+            for chapter in default_doc.section1_chapters:
+                chapter_zfill = str(chapter).zfill(4)
+                section1_filenames.append(f"chapter-{chapter_zfill}.html")
+            default_doc.section1_filenames = section1_filenames
+            default_doc.save()
 
-    # > Section Page
-    if section_doc.filename:
-        section_page = f"{section_doc.filename}.html"
-        filenames.append(section_page)
-    else:
-        section_page = f"{sec.generate_section_filename(section)}.html"
-        filenames.append(section_page)
+            frameinfo = getframeinfo(currentframe())  # type: ignore
+            current_lineno = int(frameinfo.lineno) + 2
+            console.print(
+                default_panel(section, "Filenames", section1_filenames, current_lineno),
+                highlight=True,
+            )
 
-    # > Chapter Pages
-    if section_doc.chapters:
-        for chapter in section_doc.chapters:
-            chapter_doc = ch.Chapter.objects(chapter=chapter).first()  # type: ignore
-            if chapter_doc.filename:
-                filename = f"{chapter_doc.filename}.html"
-                filenames.append(filename)
-            else:
-                filename = f"{ch.generate_filename(chapter)}.html"
-                filenames.append(filename)
+            return section1_filenames
 
-    if save:
-        book = generate_default_book(section)
-        sg()
-        section_doc = Default.objects(book=book).first()  # type: ignore
-        part = generate_default_section_part(section)
-        match part:
-            case 1:
-                section_doc.section1_filename = filenames
-            case 2:
-                section_doc.section2_filename = filenames
-            case _:
-                raise ValueError(f"Part {part} is not a valid part number.")
-        section_doc.save()
+        case 2:
+            section2_filenames = [f"section-{section_zfill}.html"]
+            for chapter in default_doc.section2_chapters:
+                chapter_zfill = str(chapter).zfill(4)
+                section2_filenames.append(f"chapter-{chapter_zfill}.html")
+            default_doc.section2_filenames = section2_filenames
+            default_doc.save()
 
-    return filenames
+            frameinfo = getframeinfo(currentframe())  # type: ignore
+            current_lineno = int(frameinfo.lineno) + 2
+            console.print(
+                default_panel(section, "Filenames", section2_filenames, current_lineno),
+                highlight=True,
+            )
+
+            return section2_filenames
 
 
 def get_default_section_filenames(section: int) -> list[str]:
@@ -780,27 +772,29 @@ def get_default_section_filenames(section: int) -> list[str]:
         `section` (int): The given section.
 
     Returns:
-        `filenames` (list[str]): The filenames for the given section retrieved.add()
+        `filenames` (list[str]): The filenames for the given section retrieved.
     """
-    sg()
-    doc = Default.objects(section=section).first()  # type: ignore
+    book = generate_default_book(section)
     part = generate_default_section_part(section)
+    sg()
+    default_doc = Default.objects(book=book).first()  # type: ignore
     match part:
         case 1:
-            if doc.section1_filename:
-                return doc.section1_filename
-            else:
-                return generate_default_section_filenames(section, True)
+            filenames = default_doc.section1_filenames
         case 2:
-            if doc.section2_filename:
-                return doc.section2_filename
-            else:
-                return generate_default_section_filenames(section, True)
+            filenames = default_doc.section2_filenames
         case _:
             raise ValueError(f"Part {part} is not a valid part number.")
 
+    frameinfo = getframeinfo(currentframe())  # type: ignore
+    current_lineno = int(frameinfo.lineno) + 3
+    console.print(
+        default_panel(section, "Filenames", filenames, current_lineno), highlight=True
+    )
+    return filenames
 
-def generate_default_section_filepaths(section: int, save: bool = True) -> list[str]:
+
+def generate_default_section_filepaths(section: int, save: bool = True) -> list[str]:  # type: ignore
     """
     Generate the filepaths for the given section.
 
@@ -810,60 +804,78 @@ def generate_default_section_filepaths(section: int, save: bool = True) -> list[
     Return:
         `filepaths` (list[Path] | list[str]): The filepaths for the given section.
     """
-    filepaths = []
+    book = generate_default_book(section)
+    part = generate_default_section_part(section)
+    html_path = "{.}/html/"
+
     sg()
-    doc = sec.Section.objects(section=section).first()  # type: ignore
+    default_doc = Default.objects(book=book).first()  # type: ignore
+    match part:
+        case 1:
+            section1_filepaths = []
+            for filename in default_doc.section1_filenames:
+                section1_filepaths.append(f"{html_path}{filename}")
 
-    # > Section Page Filepath
-    if doc.html_path:
-        section_page = doc.html_path
-        filepaths.append(section_page)
-    else:
-        section_page = sec.generate_section_html_path(section)
-        filepaths.append(section_page)
+            if save:
+                default_doc.section1_filepaths = section1_filepaths
+                default_doc.save()
 
-    # > Chapter Pages Filepaths
-    if doc.chapters:
-        for chapter in doc.chapters:
-            doc = ch.Chapter.objects(chapter=chapter).first()  # type: ignore
-            if doc.html_path:
-                chapter_html_path = str(doc.html_path)
-                filepaths.append(chapter_html_path)
-            else:
-                chapter_html_path = ch.generate_html_path(chapter)
-                filepaths.append(chapter_html_path)
+            frameinfo = getframeinfo(currentframe())  # type: ignore
+            current_lineno = int(frameinfo.lineno) + 2
+            console.print(
+                default_panel(section, "Filepaths", section1_filepaths, current_lineno),
+                highlight=True,
+            )
 
-    else:
-        chapters = sec.get_section_chapters(section)
-        if chapters:
-            for chapter in chapters:
-                doc = ch.Chapter.objects(chapter=chapter).first()  # type: ignore
-                if doc.html_path:
-                    chapter_html_path = str(doc.html_path)
-                    filepaths.append(chapter_html_path)
-                else:
-                    chapter_html_path = ch.generate_html_path(chapter)
-                    filepaths.append(chapter_html_path)
+            return section1_filepaths
 
-    if save:
-        book = generate_default_book(section)
-        sg()
-        doc = Default.objects(book=book).first()  # type: ignore
-        part = generate_default_section_part(section)
-        match part:
-            case 1:
-                doc.section1_filepaths = filepaths
-            case 2:
-                doc.section2_filepaths = filepaths
-            case _:
-                raise ValueError(f"Part {part} is not a valid part number.")
+        case 2:
+            section2_filepaths = []
+            for filename in default_doc.section2_filenames:
+                section2_filepaths.append(f"{html_path}{filename}")
+            default_doc.save()
 
-        doc.save()
+            if save:
+                default_doc.section2_filepaths = section2_filepaths
+                default_doc.save()
 
+            frameinfo = getframeinfo(currentframe())  # type: ignore
+            current_lineno = int(frameinfo.lineno) + 2
+            console.print(
+                default_panel(section, "Filepaths", section2_filepaths, current_lineno),
+                highlight=True,
+            )
+
+            return section2_filepaths
+
+
+def get_default_section_filepaths(section: int) -> list[str]:
+    """
+    Retrieve the filepaths for the given section.
+    """
+    book = generate_default_book(section)
+    part = generate_default_section_part(section)
+
+    sg()
+    default_doc = Default.objects(book=book).first()  # type: ignore
+    match part:
+        case 1:
+            filepaths = default_doc.section1_filepaths
+        case 2:
+            filepaths = default_doc.section2_filepaths
+        case _:
+            raise ValueError(f"Part {part} is not a valid part number.")
+
+    frameinfo = getframeinfo(currentframe())  # type: ignore
+    current_lineno = int(frameinfo.lineno) + 3
+    console.print(
+        default_panel(section, "Filepaths", filepaths, current_lineno, get=True),
+        highlight=True,
+    )
     return filepaths
 
 
-def generate_input_files(book: int, save: bool = True) -> list[str]:
+def generate_default_input_files(book: int, save: bool = True) -> list[str]:
     """
     Generate the input files for the given book.
 
@@ -875,41 +887,34 @@ def generate_input_files(book: int, save: bool = True) -> list[str]:
     Returns:
         `input_files` (list[str]): The input files for the given book.
     """
-    input_files = []
+    book_zfill = str(book).zfill(2)
+    input_files = [f"cover{book}.html", f"titlepage-{book_zfill}.html"]
+
     sg()
-    doc = Default.objects(book=book).first()  # type: ignore
-
-    # > Coverpage
-    input_files.append(f"cover{book}.html")
-
-    # > Titlepage
-    input_files.append(f"titlepage-{str(book).zfill(2)}.html")
-
-    # > Section Page(s)
-    section_count = doc.section_.count
-    match section_count:
+    default_doc = Default.objects(book=book).first()  # type: ignore
+    match default_doc.section_count:
         case 1:
-            for filename in doc.section1_filenames:
+            for filename in default_doc.section1_filenames:
                 input_files.append(filename)
         case 2:
-            for filename in doc.section1_filenames:
+            for filename in default_doc.section1_filenames:
                 input_files.append(filename)
-            for filename in doc.section2_filenames:
+            for filename in default_doc.section2_filenames:
                 input_files.append(filename)
-        case _:
-            raise ValueError(
-                f"Section count {section_count} is not a valid section count."
-            )
 
-    # > End of Book
-    input_files.append(f"endofbook-{str(book).zfill(2)}.html")
+    input_files.append(f"endofbook={book_zfill}.html")
 
     if save:
-        sg()
-        doc.input_files = input_files
-        doc.save()
+        default_doc.input_files = input_files
+        default_doc.save()
 
-    return input_files
+    frameinfo = getframeinfo(currentframe())  # type: ignore
+    current_lineno = int(frameinfo.lineno) + 2
+    console.print(
+        default_panel(book, "Input Files", input_files, current_lineno), highlight=True
+    )
+
+    return input_files  # type: ignore
 
 
 def get_input_files(book: int) -> list[str]:
@@ -927,7 +932,7 @@ def get_input_files(book: int) -> list[str]:
     if doc.input_files:
         return doc.input_files
     else:
-        return generate_input_files(book, True)
+        return generate_default_input_files(book, True)
 
 
 def generate_default_resource_files(book: int, save: bool = True) -> list[str]:
@@ -948,43 +953,44 @@ def generate_default_resource_files(book: int, save: bool = True) -> list[str]:
 
     # > Images
     resource_files.append(f"${{.}}/Images/cover{book}.png")
-    resource_files.append(f"${{.}}/Images/title.png")
-    resource_files.append(f"${{.}}/Images/gem.gif")
+    resource_files.append("${.}/Images/title.png")
+    resource_files.append("${.}/Images/gem.gif")
 
     # > CSS and Fonts
-    resource_files.append(f"${{.}}/Styles/style.css")
-    resource_files.append(f"${{.}}/Styles/Urbanist-Regular.ttf")
-    resource_files.append(f"${{.}}/Styles/Urbanist-Italic.ttf")
-    resource_files.append(f"${{.}}/Styles/Urbanist-Thin.ttf")
-    resource_files.append(f"${{.}}/Styles/Urbanist-ThinItalic.ttf")
-    resource_files.append(f"${{.}}/Styles/White Modesty.ttf")
+    resource_files.append("${.}/Styles/style.css")
+    resource_files.append("${.}/Styles/Urbanist-Regular.ttf")
+    resource_files.append("${.}/Styles/Urbanist-Italic.ttf")
+    resource_files.append("${.}/Styles/Urbanist-Thin.ttf")
+    resource_files.append("${.}/Styles/Urbanist-ThinItalic.ttf")
+    resource_files.append("${.}/Styles/White Modesty.ttf")
 
     # > Metadata
     resource_files.append(f"${{.}}/yaml/epub-meta{book}.yml")
     resource_files.append(f"${{.}}/yaml/meta{book}.yml")
 
     # > Section(s)
-    section_count = doc.section_.count
+    section_count = doc.section_count
     match section_count:
         case 1:
-            for filename in doc.section1_filenames:
-                resource_files.append(f"${{.}}/html/{filename}")
+            for filepath in doc.section1_filepaths:
+                resource_files.append(filepath)
         case 2:
-            for filename in doc.section1_filenames:
-                resource_files.append(f"${{.}}/html/{filename}")
-            for filename in doc.section2_filenames:
-                resource_files.append(f"${{.}}/html/{filename}")
+            for filepath in doc.section1_filepaths:
+                resource_files.append(filepath)
+            for filepath in doc.section2_filepaths:
+                resource_files.append(filepath)
         case _:
             raise ValueError(
                 f"Section count {section_count} is not a valid section count."
             )
 
     # > End of Book
-    resource_files.append(f"${{.}}/Sections/endofbook-{str(book).zfill(2)}.html")
+    book_zfill = str(book).zfill(2)
+    resource_files.append(f"${{.}}/html/endofbook-{book_zfill}.html")
 
     if save:
         sg()
-        doc.resource_files = resource_files
+        doc.resource_paths = resource_files
         doc.save()
 
     return resource_files
@@ -1009,21 +1015,23 @@ def get_resource_files(book: int) -> list[str]:
 
 
 def generate_default_file(book: int, save: bool = True, write: bool = True) -> str:
-    output = generate_default_output(book)
-    file = "---\nfrom: html\nto: epub\n\noutput-file: {output}\n\ninput-files:\n"
+    sg()
+    doc = Default.objects(book=book).first()  # type: ignore
+    output = doc.output
+    file = f"---\nfrom: html\nto: epub\n\noutput-file: {output}\n\ninput-files:\n"
 
     # > Input Files
-    input_files = generate_input_files(book)
+    input_files = doc.input_files
     for input_file in input_files:
         file = f"{file}- {input_file}\n"
 
     # > Standalone
-    file = f"{file}\n\nstandalone: true\nself-contained: true\n\nresource-files:\n"
+    file = f"{file}\n\nstandalone: true\nself-contained: true\n\nresource-paths:\n"
 
     # > Resource Files
-    resource_files = generate_default_resource_files(book)
-    for resource_file in resource_files:
-        file = f"{file}- {resource_file}\n"
+    resource_paths = doc.resource_paths
+    for resource_path in resource_paths:
+        file = f"{file}- {resource_path}\n"
 
     # > toc and metadata
     file = f"{file}\n\ntoc: true\ntoc-depth: 2\n\nepub-chapter-level: 2\n"
@@ -1065,3 +1073,24 @@ def get_default_file(book: int) -> str:
         return doc.content
     else:
         return generate_default_file(book, True, True)
+
+
+# sg()
+# section_doc = sec.Section.objects(section=17).first() # type: ignore
+# chapters = section_doc.chapters
+
+# sg()
+# default_doc = Default.objects(book=10).first() # type: ignore
+# default_doc.section2_chapters = chapters
+# default_doc.save()
+
+# frameinfo = getframeinfo(currentframe()) # type: ignore
+# current_lineno = int(frameinfo.lineno) + 2
+# console.print(
+#     default_panel(
+#         10,
+#         "section2_chapters",
+#         chapters,
+#         current_lineno
+#     )
+# )

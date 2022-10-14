@@ -16,12 +16,8 @@ from rich.panel import Panel
 from rich.style import Style
 from rich.text import Text
 
-try:
-    from log import log, console
-except ModuleNotFoundError:
-    from .log import log, console
-except ImportError:
-    from src.log import log, console
+from src.log import log, console
+
 
 load_dotenv()
 

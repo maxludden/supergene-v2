@@ -16,11 +16,29 @@ from rich.text import Text
 from rich.theme import Theme
 from ujson import dump, load
 
-
-# > Theme & Console
-theme_path = Path.cwd() / "json" / "theme.json"
-with open(theme_path, "r") as infile:
-    theme = Theme(load(infile))
+theme = Theme(
+    {
+        "debug": "bold bright_cyan",
+        "cyan": "#00ffff",
+        "info": "bold cornflower_blue",
+        "cornflower_blue": "#249df1",
+        "blue": "bold #0000FF",
+        "success": "bold bright_green",
+        "green": "#00ff00",
+        "warning": "bold bright_yellow",
+        "yellow": "#ffff00",
+        "error": "bold orange1",
+        "orange": "#ff8800",
+        "critical": "bold reverse #F00000",
+        "red": "#ff0000",
+        "key": "italic blue_violet",
+        "blue_violet": "#5f00ff",
+        "value": "bold bright_white",
+        "white": "#ffffff",
+        "title": "bold purple",
+     "purple": "#af00ff"
+    }
+)
 
 console = Console(theme=theme)
 
@@ -104,6 +122,9 @@ sinks = log.configure(
             ),
             level="INFO",
             format="Run {extra[run]} | {time:hh:mm:ss:SSS A} | {file.name: ^13} |  Line {line: ^5} | {level: ^8} ﰲ  {message}",
+            diagnose=True,
+            catch=True,
+            backtrace=True,
         ),
         dict(  # . Rich Console Log > ERROR
             sink=(

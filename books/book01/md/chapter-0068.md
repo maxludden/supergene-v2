@@ -1,21 +1,21 @@
 ---
-Title:Mutant Sawfish Spear 
-Chapter:68 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+Title:Mutant Sawfish Spear
+Chapter:68
+Section:1
+Book:1
+CSS:../Styles/style.css
 viewport: width=device-width
 ---
-  
+
 ## Mutant Sawfish Spear
 ### Chapter 68
-  
+
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
-  
 
-  
+
+
 "Meow..." Meowth was circling around the fire rapidly. In the fire, there were pieces of jelly-like sawfish meat. When heated up, the oil oozed from the fish, sizzling with a strong and fresh fragrance, making one’s mouth water even from afar.
 
 Han Sen threw a large piece of cooked sawfish to Meowth and took one for himself. The fatty fish almost melted in his mouth, making him want to swallow his tongue.
@@ -32,7 +32,7 @@ The rest of the sawfish meat was made into jerkies by Han Sen. Before he left, h
 
 Seeing another mutant golden sawfish, Han Sen killed it in the same way.
 
-> "Mutant Sawfish Killed. Beast Soul Of Mutant Sawfish Gained. Eat Its Meat To Gain Zero To Ten Mutant Geno Points Randomly."
+> "Mutant Sawfish Killed. Beast Soul of Mutant Sawfish Gained. Eat its meat to gain zero to ten mutant geno points randomly."
 
 It took Han Sen several seconds before he realized what had happened. He almost jumped up. It had been a long time since he had gained any beast soul and he suddenly gained one now. A mutant one!
 
@@ -41,14 +41,15 @@ Han Sen could not wait to see which type the sawfish beast soul was. If it was a
 <div class="tables">
 	<table class="beast">
 		<tr>
-			<th colspan="2">Beast Soul Gained</th>
+			<th>Beast Soul</th>
 		</tr><tr>
-			<td> Mutant Golden-Sawfish</td>
-			<td>Spear</td>
+			<td> Mutant Golden-Sawfish<br>
+				<span class="type">Spear</span>
+			</td>
 		</tr>
 	</table>
 	<!-- Type of Mutant Golden-Sawfish Beast Soul: Spear. -->
-</div> 
+</div>
 
 Hen Sen was slightly disappointed, but overall excited. Although it was not a beast soul arrow, spear was still a popular type of weapon, especially a mutant beast soul spear.
 

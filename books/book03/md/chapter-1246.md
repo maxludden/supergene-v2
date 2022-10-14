@@ -1,21 +1,21 @@
 ---
-Title:Battle Gene Beast Soul 
-Chapter:1246 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+Title:Battle Gene Beast Soul
+Chapter:1246
+Section:3
+Book:3
+CSS:../Styles/style.css
 viewport: width=device-width
 ---
-  
+
 ## Battle Gene Beast Soul
 ### Chapter 1246
-  
+
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
-  
 
-  
+
+
 After the silver fox gobbled up and swallowed the hand, nothing much happened. Little Silver shook for a minute, then simply walked over to Han Sen’s sleeping quarters and took a nap.
 
 Han Sen used his Dongxuan Aura to examine the silver fox’s lifeforce after a brief worry that something might have been wrong, but from what he could tell, all was fine.
@@ -33,13 +33,14 @@ Zero then passed the hammer beast soul back to Han Sen.
 <div class="tables">
 	<table class="beast">
 		<tr>
-			<th colspan="2">Beast Soul Gained</th>
+			<th>Beast Soul</th>
 		</tr><tr>
-			<td>Super Thunder Hammer</td>
-			<td>(Battle Gene)</td>
+			<td>Super Thunder Hammer <br>
+				<span class="type">(Battle Gene)</span>
+			</td>
 		</tr>
 	</table>
-</div>  
+</div>
 
 Han Sen had no clue what that was. He had researched many different types of beast souls in the past, but never before had he come across something like this.
 

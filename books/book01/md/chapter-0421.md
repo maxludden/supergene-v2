@@ -1,21 +1,21 @@
 ---
-Title:Biggest Problem 
-Chapter:421 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+Title:Biggest Problem
+Chapter:421
+Section:1
+Book:1
+CSS:../Styles/style.css
 viewport: width=device-width
 ---
-  
+
 ## Biggest Problem
 ### Chapter 421
-  
+
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
-  
 
-  
+
+
 "Sacred-blood beast soul aura… Sacred-blood beast soul add-on… Sacred-blood shapeshifting beast soul… Sacred-blood beast soul weapon… Sacred-blood wings…" Zhong Zhenhong could not help reading the beast soul list out loud. His voice became more grim every time he finished reading one. Even his hand holding the document was shaking.
 
 He knew very well what these beast souls meant. Although humans had developed in God’s Sanctuary for almost 2 decades and there were more and more who could kill a sacred-blood creature, it did not mean it was an easy thing to hunt sacred-blood creatures. More than 90% of humans could never hunt a sacred-blood creature, let alone gain a sacred-blood blood beast soul.
@@ -66,41 +66,50 @@ But Han Sen had no use of mediocre beast souls. Although he traded away most of 
             <th>Super Beast Souls</th>
         </tr><tr>
             <td>Super Aqua Reaper<br>
-                <span class="type">(Parasite)</span></td>
+                <span class="type">(Parasite)</span>
+            </td>
         </tr><tr>
             <td>Super Cursed Wolf<br>
-                <span class="type">(Dagger)</span></td>
+                <span class="type">(Dagger)</span>
+            </td>
         </tr><tr>
             <td>Super Golden Growler<br>
-                <span class="type">(Mount)</span></td>
+                <span class="type">(Mount)</span>
+            </td>
         </tr><tr>
             <td>Super Golden Rock Work King<br>
-                <span class="type">(Pet)</span></td>
+                <span class="type">(Pet)</span>
+            </td>
         </tr><tr>
             <th class="note">Note: Transformed and Evolved</th>
         </tr><tr>
             <td>Super Holy Angel<br>
-                <span class="type">(Pet)</span></td>
+                <span class="type">(Pet)</span>
+            </td>
         </tr><tr>
             <th class="note">Note: Transformed and Evolved<br>
                 <span class="note">May be further evolved.</span></th>
         </tr><tr>
             <td>Super Desert Bird<br>
-                <span class="type">(Aura)</span></td>
+                <span class="type">(Aura)</span>
+            </td>
         </tr>
     </table>
     <table class="beast">
         <tr>
             <th>Sacred-Blood Beast Souls</th>
         </tr><tr>
-            <td>Sacred-Blood Beetle Kignt<br>
-                <span class="type">(Doppelgänger)</span></td>
+            <td>Sacred-Blood Beetle Knight<br>
+                <span class="type">(Doppelgänger)</span>
+            </td>
         </tr><tr>
             <td>Sacred-Blood Fairy Queen<br>
-                <span class="type">(Shapeshifting)</span></td>
+                <span class="type">(Shapeshifting)</span>
+            </td>
         </tr><tr>
             <td>Sacred-Blood Three-Eyed Cat<br>
-                <span class="type">(Pet)</span></td>
+                <span class="type">(Pet)</span>
+            </td>
         </tr><tr>
             <th class="note">Note: Transformed and Evolved</th>
         </tr>

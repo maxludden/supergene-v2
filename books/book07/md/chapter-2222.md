@@ -1,21 +1,21 @@
 ---
-Title:Gold Fire Peacock 
-Chapter:2222 
-Section:10 
-Book:7 
-CSS:../Styles/style.css 
+Title:Gold Fire Peacock
+Chapter:2222
+Section:10
+Book:7
+CSS:../Styles/style.css
 viewport: width=device-width
 ---
-  
+
 ## Gold Fire Peacock
 ### Chapter 2222
-  
+
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
-  
 
-  
+
+
 Han Sen flapped his dragon wings and flew behind the lava peacock. He slashed as quickly as he could, but the lava peacock was still able to avoid each strike.
 
 “I do not believe I cannot kill you!” Han Sen dodged the lava peacock’s squirting of lava and thrust his Ghost Teeth Knife forward, firing a knife silk at the lava peacock, but the peacock managed to dodge the knife silk net easily, and it did not even come into contact with its body.
@@ -69,14 +69,15 @@ Han Sen, hearing that he had obtained a beast soul, was very happy. He quickly h
 <div class="tables">
 	<table class="beast">
 		<tr>
-			<th colspan="2">Beast Soul Gained</th>
+			<th>Beast Soul</th>
 		</tr><tr>
-			<td>Duke Lava Peacock</td>
-			<td>(Flying)</td>
+			<td>Duke Lava Peacock<br>
+				<span class="type">(Flying)</span>
+			</td>
 		</tr>
 	</table>
 	<!-- Duke class beast soul : Flying-type. -->
-</div> 
+</div>
 
 Han Sen’s heart stopped. A gold lava-looking set of peacock wings appeared behind Han Sen. A slight touch could make Han Sen travel so far and so fast. Whenever he sped up, he could unleash a stream of fire that could twist the fabric of space in its vicinity.
 

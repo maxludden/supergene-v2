@@ -276,6 +276,7 @@ td {
     color: var(--alternate-color);
     background-color: var(--alternate-bg-color);
     font-family: Urbanist-Italic;
+    font-size: .75em;
     border: 1px solid var(--alternate-color);
     border-radius: 5%;
 }
@@ -288,24 +289,13 @@ td {
     color: var(--alternate-color);
     background-color: var(--alternate-bg-color);
     font-family: Urbanist-Italic;
+    font-size: .75em;
     border: 1px solid var(--alternate-color);
     border-radius: 5%;
 }
 
 .alert {
     padding: 1.5em;
-    margin-left: auto;
-    margin-right: auto;
-    color: var(--alternate-color);
-    background-color: var(--alternate-bg-color);
-    font-family: Urbanist-Italic;
-    border: 1px solid var(--alternate-color);
-    border-radius: 5%;
-}
-
-.article {
-    padding: 1.5em;
-    text-align: center;
     margin-left: auto;
     margin-right: auto;
     color: var(--alternate-color);

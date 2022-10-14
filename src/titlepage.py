@@ -248,7 +248,7 @@ def generate_titlepage_md(book: int, save: bool = True, write=True) -> str | Non
 
         img = f'<figure>\n\t<img class="titlepage" src="../Images/gem.gif" alt="gem" />\n</figure>\n'
 
-        meta = f"---\nTitle: {title}\nBook: {book}\nCSS: ../Styles/styles.css\nviewport: width=device-width, initial-scale=1.0\n..."
+        meta = f"---\nTitle: {title}\nBook: {book}\nCSS: ../Styles/styles.css\nviewport: width=device-width, initial-scale=1.0>\n..."
 
         atx = f"\n# {title}\n<br />\n### Book {book_word}<br />{img}\n"
 
@@ -369,3 +369,6 @@ def generate_titlepage_book_word(book: int, save: bool = False) -> str:
 
     console.print(titlepage_panel(book, "Book Word", book_word, 357))
     return book_word
+
+generate_titlepage_md(6)
+generate_titlepage_html(6)

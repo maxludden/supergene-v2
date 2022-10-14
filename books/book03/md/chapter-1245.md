@@ -1,21 +1,21 @@
 ---
-Title:Three-life Fruit 
-Chapter:1245 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+Title:Three-life Fruit
+Chapter:1245
+Section:3
+Book:3
+CSS:../Styles/style.css
 viewport: width=device-width
 ---
-  
+
 ## Three-life Fruit
 ### Chapter 1245
-  
+
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
-  
 
-  
+
+
 Because only Han Sen and his father had been home at the time of that incident, knowing the cat had been painted should have been information exclusive to the two of them.
 
 “Is he still alive?” Han Sen asked.
@@ -97,13 +97,14 @@ Bao’er sent Han Sen the knight beast soul and made sure to comment, “Just do
 <div class="tables">
 	<table class="beast">
 		<tr>
-			<th colspan="2">Beast Soul</th>
+			<th>Beast Soul</th>
 		</tr><tr>
-			<td>Super Twin-Thunder Knight</td>
-			<td>(Possession)</td>
+			<td>Super Twin-Thunder Knight<br>
+				<span class="type">(Possession)</span>
+			</td>
 		</tr>
 	</table>
-</div> 
+</div>
 
 It was indeed a Twin Knight, but one associated with thunder. If it could only adhere to the one thunder element, then that was disappointing.
 

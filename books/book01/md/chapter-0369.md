@@ -1,21 +1,21 @@
 ---
-Title:Sos 
-Chapter:369 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+Title:Sos
+Chapter:369
+Section:1
+Book:1
+CSS:../Styles/style.css
 viewport: width=device-width
 ---
-  
+
 ## Sos
 ### Chapter 369
-  
+
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
-  
 
-  
+
+
 Although the disappearance of the egg gave Han Sen some thoughts, he could not confirm any of it.
 
 After splitting the meat of the sacred-blood creature with Ye Yufeng, Han Sen returned to Steel Armor Shelter and ate the meat on the way. When Han Sen returned to the shelter, he had gained two more sacred geno points and now had eighty-five.
@@ -28,7 +28,8 @@ After going back to his room, Han Sen summoned the beast soul of the cursed wolf
 			<th>Beast Soul Gained</th>
 		</tr><tr>
 			<td>Super Cursed Wolf<br>
-				<span class="type">(Dagger)</span></td>
+				<span class="type">(Dagger)</span>
+			</td>
 		</tr>
 	</table>
 	<!-- Type of beast soul of cursed wolf: weapon. -->

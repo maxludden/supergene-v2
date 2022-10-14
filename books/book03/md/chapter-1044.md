@@ -1,32 +1,33 @@
 ---
-Title:Nirvana Lake 
-Chapter:1044 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+Title:Nirvana Lake
+Chapter:1044
+Section:3
+Book:3
+CSS:../Styles/style.css
 viewport: width=device-width
 ---
-  
+
 ## Nirvana Lake
 ### Chapter 1044
-  
+
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
-  
 
-  
+
+
 <div class="tables">
 	<table class="beast">
 		<tr>
-			<th colspan="2">Beast Soul Gained</th>
+			<th>Beast Soul</th>
 		</tr><tr>
-			<td>Super Devil-Horn King</td>
-			<td>(Polluted Weapon)</td>
+			<td>Super Devil-Horn King<br>
+				<span class="type">(Polluted Weapon)</span>
+			</td>
 		</tr>
 	</table>
 	<!-- Devil-Horn King: Polluted Beast Soul Weapon Type -->
-</div> 
+</div>
 
 Han Sen was taken aback. This was a unique beast soul, and its description was unlike anything he had ever seen before.
 

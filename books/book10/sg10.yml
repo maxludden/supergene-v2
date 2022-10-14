@@ -438,12 +438,12 @@ input-files:
   - chapter-3460.html
   - chapter-3461.html
   - chapter-3462.html
-  - endofbook=10.html
+  - endofbook-10.html
 
 standalone: true
 self-contained: true
 
-resource-paths:
+resource-path:
   - .
   - ${.}/Images/cover10.png
   - ${.}/Images/title.png
@@ -907,6 +907,3 @@ epub-metadata: epub-meta10.yml
 metadata-files:
   - meta10.yml
   - epub-meta10.yml
-
-css-files:
-  - style.css

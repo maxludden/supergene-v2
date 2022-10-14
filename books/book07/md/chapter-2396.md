@@ -1,21 +1,21 @@
 ---
-Title:Planet Dark Zone 
-Chapter:2396 
-Section:11 
-Book:7 
-CSS:../Styles/style.css 
+Title:Planet Dark Zone
+Chapter:2396
+Section:11
+Book:7
+CSS:../Styles/style.css
 viewport: width=device-width
 ---
-  
+
 ## Planet Dark Zone
 ### Chapter 2396
-  
+
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
-  
 
-  
+
+
 Once the half-deified core demon bugs were slain, the rest of the bugs descended into chaos. Dragon One and Han Sen got busy killing them. Some of them managed to escape, but most were killed.
 
 The group counted their spoils and found that they had two mutant core genes and eighty-six ordinary core genes.
@@ -71,14 +71,15 @@ Luckily, none of their fears came to pass. It made them feel very relieved.
 <div class="tables">
 	<table class="beast">
 		<tr>
-			<th colspan="2">Beast Soul Gained</th>
+			<th>Beast Soul</th>
 		</tr><tr>
-			<td>Mutant King Class Core Demon Bug</td>
-			<td>(Gun)</td>
+			<td>Mutant King Class Core Demon Bug<br>
+				<span class="type">(Gun)</span>
+			</td>
 		</tr>
 	</table>
 	<!--“Mutant King class Core Demon Bug beast soul: Gun-type”-->
-</div> 
+</div>
 
 The type of the beast soul surprised Han Sen. It was a weapon beast soul, and it was a gun-type one. It didn’t seem to match with the creature he had fought.
 

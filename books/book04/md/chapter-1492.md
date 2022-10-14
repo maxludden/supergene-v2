@@ -1,21 +1,21 @@
 ---
-Title:Gold-patterned Crab 
-Chapter:1492 
-Section:4 
-Book:4 
-CSS:../Styles/style.css 
+Title:Gold-patterned Crab
+Chapter:1492
+Section:4
+Book:4
+CSS:../Styles/style.css
 viewport: width=device-width
 ---
-  
+
 ## Gold-patterned Crab
 ### Chapter 1492
-  
+
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
-  
 
-  
+
+
 The five spirits that were closing in on Han Sen were in a hurry. Under the buffs of the Butterfly geno core, Han Sen’s speed and power made him just as strong as them. His movement was strange, and when the five of them surrounded him, they felt that their powers were suppressed and unusable.
 
 Many times they thought they were going to hit Han Sen, but their strikes would end up being deflected by an attack coming from one of their own. Try as they might, they couldn’t hit him.
@@ -79,14 +79,15 @@ The beast soul was like a scaleless snake. Its body was very strange. It was the
 <div class="tables">
 	<table class="beast">
 		<tr>
-			<th colspan="2">Beast Soul Gained</th>
+			<th>Beast Soul</th>
 		</tr><tr>
-			<td>Super Alien Beast</td>
-			<td>(Shapeshifting)</td>
+			<td>Super Alien Beast<br>
+				<span class="type">(Shapeshifting)</span>
+			</td>
 		</tr>
 	</table>
 	<!-- Super Alien Beast beast soul: Shapeshift Type -->
-</div> 
+</div>
 
 
 After the Alien Beast combined with Han Sen, Han Sen became a white, scaleless snake. He slithered like an eel.

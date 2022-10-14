@@ -419,12 +419,12 @@ input-files:
   - chapter-2163.html
   - chapter-2164.html
   - chapter-2165.html
-  - endofbook=06.html
+  - endofbook-06.html
 
 standalone: true
 self-contained: true
 
-resource-paths:
+resource-path:
   - .
   - ${.}/Images/cover6.png
   - ${.}/Images/title.png
@@ -869,6 +869,3 @@ epub-metadata: epub-meta6.yml
 metadata-files:
   - meta6.yml
   - epub-meta6.yml
-
-css-files:
-  - style.css

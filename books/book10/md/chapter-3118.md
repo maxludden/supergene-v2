@@ -1,28 +1,29 @@
 ---
-Title:Top-class Talent Gene Race 
-Chapter:3118 
-Section:16 
-Book:10 
-CSS:../Styles/style.css 
+Title:Top-class Talent Gene Race
+Chapter:3118
+Section:16
+Book:10
+CSS:../Styles/style.css
 viewport: width=device-width
 ---
-  
+
 ## Top-class Talent Gene Race
 ### Chapter 3118
-  
+
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
-  
 
-  
+
+
 <div class="tables">
     <table class="beast">
         <tr>
             <th>Gene Race</th>
         </tr><tr>
             <td>Gold Wing Peacock King<br>
-            	<span class="type">Mutant God Class</de>
+            	<span class="type">Mutant God Class</span>
+            </td>
         </tr><tr>
             <td class="note">Form: Ultimate</td>
         </tr><tr>

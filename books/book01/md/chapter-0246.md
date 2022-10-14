@@ -1,32 +1,33 @@
 ---
-Title:Doppelgänger Beast Soul 
-Chapter:246 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+Title:Doppelgänger Beast Soul
+Chapter:246
+Section:1
+Book:1
+CSS:../Styles/style.css
 viewport: width=device-width
 ---
-  
+
 ## Doppelgänger Beast Soul
 ### Chapter 246
-  
+
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
-  
 
-  
+
+
 <div class="tables">
 	<table class="beast">
 		<tr>
-			<th colspan="2">Beast Soul Gained</th>
+			<th">Beast Soul Gained</th>
 		</tr><tr>
-			<td>Sacred-Blood Beetle Knight</td>
-			<td>(Doppelgänger)</td>
+			<td>Sacred-Blood Beetle Knight<br>
+				<span class="type">(Doppelgänger)</span>
+			</td>
 		</tr>
 	</table>
 	<!-- Type of beast soul of sacred-blood beetle knight: doppelgänger. -->
-</div> 
+</div>
 
 Han Sen was puzzled, as he had never heard of this kind of beast soul before. He tried to summon the beetle Knight, but it simply did not work.
 

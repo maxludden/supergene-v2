@@ -1,21 +1,21 @@
 ---
-Title:Beaten to an Egg 
-Chapter:3060 
-Section:16 
-Book:10 
-CSS:../Styles/style.css 
+Title:Beaten to an Egg
+Chapter:3060
+Section:16
+Book:10
+CSS:../Styles/style.css
 viewport: width=device-width
 ---
-  
+
 ## Beaten to an Egg
 ### Chapter 3060
-  
+
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
-  
 
-  
+
+
 Some things are not possible to understand in a short amount of time. Han Sen stopped thinking about it and walked over to the collapsed stone wall. He moved the broken rocks, checking to see if the blood ghost spirit was dead or not. If it was not dead, he would give it another punch or two. If it was dead, he wagered it would make a nice snack for Small Cat.
 
 Small Cat had eaten a lot of overbearing bug meat, but it had yet to fully recover its strength. Its body was still frail. It did not evolve yet either. It required more food.
@@ -73,12 +73,13 @@ Just like the beast soul, Han Sen was able to view some information about it.
 <div class="tables">
     <table class="beast">
         <tr>
-            <th colspan="2">Gene Race</th>
+            <th >Gene Race</th>
         </tr><tr>
-            <td>Mutant God Class</td>
-            <td>Gold Wing Peacock King</td>
+            <td>Mutant God Class<br>
+                <span class="type">Gold Wing Peacock King</span>
+            </td>
         </tr><tr>
-            <th colspan="2" class="note">(Juvenile Body)</th>
+            <th class="note">(Juvenile Body)</th>
         </tr>
     </table>
     <!--Gold wing peacock king: Mutant god class gene race (juvenile body)-->
@@ -108,10 +109,11 @@ Of course, the purple gene egg hatched the purple-haired monkey. That purple-hai
         <tr>
             <th colspan="2">Gene Race</th>
         </tr><tr>
-            <td>Mutant God Class</td>
-            <td>Blood Ghost Spirit</td>
+            <td>Mutant God Class<br>
+                <span class="type">Blood Ghost Spirit</span>
+            </td>
         </tr><tr>
-            <th colspan="2" class="note">(Juvenile Body)</th>
+            <th class="note">(Juvenile Body)</th>
         </tr>
     </table>
     <!--Blood ghost spirit: Mutant god class gene race (juvenile body)-->

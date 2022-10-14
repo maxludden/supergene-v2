@@ -1,21 +1,21 @@
 ---
-Title:Aqua Reaper Beast Soul 
-Chapter:339 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+Title:Aqua Reaper Beast Soul
+Chapter:339
+Section:1
+Book:1
+CSS:../Styles/style.css
 viewport: width=device-width
 ---
-  
+
 ## Aqua Reaper Beast Soul
 ### Chapter 339
-  
+
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
-  
 
-  
+
+
 "Right now!" A cold light flashed in Han Sen's golden eyes. The spinning spear left the bow with a strong force, flying toward the screeching creature.
 
 *Whoosh!*
@@ -97,14 +97,15 @@ Returning to Glory Shelter, Han Sen heard someone had seen the turtle crawling b
 <div class="tables">
 	<table class="beast">
 		<tr>
-			<th colspan="2">Beast Soul Gained</th>
+			<th>Beast Soul Gained</th>
 		</tr><tr>
-			<td>Super Aqua Reaper</td>
-			<td>(Parasite)</td>
+			<td>Super Aqua Reaper<br>
+				<span class="type">(Parasite)</span>
+			</td>
 		</tr>
 	</table>
 	<!-- Type of super beast soul of aqua reaper: parasite. -->
-</div> 
+</div>
 
 Han Sen studied the beast soul of the aqua reaper in the shelter and found that it was something he had never seen before, a parasite beast soul. Like the beast soul of the beetle knight, it could not be summoned, and Han Sen had no idea how to use it.
 

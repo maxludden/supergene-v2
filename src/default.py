@@ -1026,7 +1026,7 @@ def generate_default_file(book: int, save: bool = True, write: bool = True) -> s
         file = f"{file}- {input_file}\n"
 
     # > Standalone
-    file = f"{file}\n\nstandalone: true\nself-contained: true\n\nresource-paths:\n"
+    file = f"{file}\n\nstandalone: true\nself-contained: true\n\nresource-path:\n"
 
     # > Resource Files
     resource_paths = doc.resource_paths

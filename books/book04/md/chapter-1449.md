@@ -1,21 +1,21 @@
 ---
-Title:Grenade Mushroom 
-Chapter:1449 
-Section:4 
-Book:4 
-CSS:../Styles/style.css 
+Title:Grenade Mushroom
+Chapter:1449
+Section:4
+Book:4
+CSS:../Styles/style.css
 viewport: width=device-width
 ---
-  
+
 ## Grenade Mushroom
 ### Chapter 1449
-  
+
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
-  
 
-  
+
+
 “Bao’er, help Dad get another one.” Han Sen thought if there was a sacred-blood beast soul up for grabs from the mushrooms, he couldn’t leave satisfied with an ordinary one.
 
 Bao’er went to pick one up, but Han Sen suddenly blurted out, “That one? That’s only like the size of a fist. Surely it can’t have anything good inside it. Instead, grab that big one there.”
@@ -31,10 +31,11 @@ The football-sized mushroom was broken. A white light quickly penetrated Han Sen
 <div class="tables">
     <table class="beast">
         <tr>
-            <th colspan="2">Beast Soul Gained</th>
+            <th>Beast Soul</th>
         </tr></tr>
-            <td>Ordinary Grenade Mushroom</td>
-            <td>Single-Use Explosive</td>
+            <td>Ordinary Grenade Mushroom<br>
+				<span class="type">Single-Use Explosive</span>
+            </td>
         </tr>
     </table>
     <!--"Ordinary Beast Soul Grenade Mushroom obtained.”-->

@@ -1,21 +1,21 @@
 ---
-Title:Endless Sky Path 
-Chapter:2138 
-Section:8 
-Book:6 
-CSS:../Styles/style.css 
+Title:Endless Sky Path
+Chapter:2138
+Section:8
+Book:6
+CSS:../Styles/style.css
 viewport: width=device-width
 ---
-  
+
 ## Endless Sky Path
 ### Chapter 2138
-  
+
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
-  
 
-  
+
+
 Han Sen felt the purple godlight wrap around him. He was restricted, and just like before, he was unable to move a muscle. Since Lone Bamboo was using the godlight as a Marquise, Han Sen doubted that he would be able to last very long.
 
 But if Lone Bamboo could keep it up for even just a second, that would be enough time for him to defeat Han Sen with a single attack.
@@ -27,14 +27,15 @@ Han Sen tried to struggle out of the light’s grasp or break it, but all his at
 <div class="tables">
 	<table class="beast">
 		<tr>
-			<th colspan="2">Beast Soul Gained</th>
+			<th>Beast Soul</th>
 		</tr><tr>
-			<td>Deified Purple Eye Butterfly</td>
-			<td>(Spectacles)</td>
+			<td>Deified Purple Eye Butterfly<br>
+				<span class="type">(Spectacles)</span>
+			</td>
 		</tr>
 	</table>
 	<!-- Deified Beast Soul: Purple Eye Butterfly (Spectacles-type) -->
-</div> 
+</div>
 
 “Spectacles? Is this some kind of lenses? Like an ordinary pair of glasses that you can wear when you go out?” Han Sen thought, as he prepared to summon the beast soul.
 

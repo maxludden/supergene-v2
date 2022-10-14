@@ -1,21 +1,21 @@
 ---
-Title:Two Quarrel and a Third Profits by It 
-Chapter:443 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+Title:Two Quarrel and a Third Profits by It
+Chapter:443
+Section:2
+Book:2
+CSS:../Styles/style.css
 viewport: width=device-width
 ---
-  
+
 ## Two Quarrel and a Third Profits by It
 ### Chapter 443
-  
+
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
-  
 
-  
+
+
 The snow spider and the black bird which were severely injured tried to escape in the chaos. However, the creatures from the spirit shelter threw themselves at the two sacred-blood creatures, preventing them from leaving.
 
 If it were under any other circumstances, either the snow spider or the black bird could easily fight or even killed these creatures. However, they had just been severely injured and almost killed by the monster, which made it hard for them to even breach the siege of the creatures.
@@ -87,10 +87,11 @@ The former could enhance his ability to fight to a great extent, while the latte
 <div class="tables">
 	<table class="beast">
 		<tr>
-			<th colspan="2">Beast Soul Gained</th>
+			<th>Beast Soul Gained</th>
 		</tr><tr>
-			<td>Sacred-Blood Evil-Condor</td>
-			<td>(Glyph)</td>
+			<td>Sacred-Blood Evil-Condor<br>
+				<span class="type">(Glyph)</span>
+			</td>
 		</tr>
 	</table>
 	<!-- Type of beast soul of evil-blooded condor: glyph. -->

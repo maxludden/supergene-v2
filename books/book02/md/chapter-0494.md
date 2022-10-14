@@ -1,21 +1,21 @@
 ---
-Title:The Use of Black Crystal 
-Chapter:494 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+Title:The Use of Black Crystal
+Chapter:494
+Section:2
+Book:2
+CSS:../Styles/style.css
 viewport: width=device-width
 ---
-  
+
 ## The Use of Black Crystal
 ### Chapter 494
-  
+
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
-  
 
-  
+
+
 Han Sen told Queen the story in details. The reason he was explaining was to let people know that he learned the footwork from Queen, in case anyone recognized the footwork.
 
 Huangfu Pingqing was surprised hearing the story. "So that's what has happened. You are indeed a genius for making her treat you differently."
@@ -49,10 +49,11 @@ The upgraded blood snail had different looks from before. It used to have a jade
 <div class="tables">
 	<table class="beast">
 		<tr>
-			<th colspan="2">Beast Soul Gained</th>
+			<th>Beast Soul</th>
 		</tr><tr>
-			<td>Berserk Super Blood Snail</td>
-			<td>(Pet Armor)</td>
+			<td>Berserk Super Blood Snail<br>
+				<span class="type">(Pet Armor)</span>
+			</td>
 		</tr>
 	</table>
 	<!-- Type of beast soul of berserk super blood snail: pet armor. -->
@@ -97,10 +98,11 @@ After only one or two hours, the light cocoon had already cracked. The snow kitt
 <div class="tables">
 	<table class="beast">
 		<tr>
-			<th colspan="2">Beast Soul Gained</th>
+			<th>Beast Soul</th>
 		</tr><tr>
-			<td>Berserk Snow Kitty</td>
-			<td>(Cape)</td>
+			<td>Berserk Snow Kitty<br>
+				<span class="type">(Cape)</span>
+			</td>
 		</tr>
 	</table>
 	<!-- Type of beast soul of berserk snow kitty: cape. -->

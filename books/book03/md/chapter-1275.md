@@ -1,21 +1,21 @@
 ---
-Title:Aqua Fruit Core 
-Chapter:1275 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+Title:Aqua Fruit Core
+Chapter:1275
+Section:3
+Book:3
+CSS:../Styles/style.css
 viewport: width=device-width
 ---
-  
+
 ## Aqua Fruit Core
 ### Chapter 1275
-  
+
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
-  
 
-  
+
+
 Han Sen was very weary now, but he was still in a jovial mood. After this latest adventure, he had earned much. And now, after this latest kill, he had also gotten a berserk beast soul. While he could always create his own, earning one and not having to wait out the evolution process was a brilliant thing.
 
 The Serpent Throne was a super creature with ten gene locks open, so there was no doubt in Han Sen’s mind that it would be a magnificent beast to have at his disposal.
@@ -27,14 +27,15 @@ Han Sen looked into his Sea of Soul to get a look at its type.
 <div class="tables">
 	<table class="beast">
 		<tr>
-			<th colspan="2">Beast Soul Gained</th>
+			<th>Beast Soul</th>
 		</tr><tr>
-			<td>Berserk Super Serpent Throne</td>
-			<td>(Doll)</td>
+			<td>Berserk Super Serpent Throne<br>
+				<span class="type">(Doll)</span>
+			</td>
 		</tr>
 	</table>
 	<!-- Berserk Super Beast Soul Serpent Throne: Doll Type -->
-</div> 
+</div>
 
 “Doll type? What is that?! I don’t need an action figure,” Han Sen was surprised, to say the least.
 

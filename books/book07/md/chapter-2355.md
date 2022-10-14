@@ -1,21 +1,21 @@
 ---
-Title:Dragon Beast Soul 
-Chapter:2355 
-Section:11 
-Book:7 
-CSS:../Styles/style.css 
+Title:Dragon Beast Soul
+Chapter:2355
+Section:11
+Book:7
+CSS:../Styles/style.css
 viewport: width=device-width
 ---
-  
+
 ## Dragon Beast Soul
 ### Chapter 2355
-  
+
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
-  
 
-  
+
+
 Han Sen floated down until his feet rested on the surface of the water. He had no plans to escape. He looked at Nine-Headed Bird and said, “I will remain standing here. You can use whatever sort of power you wish, and if my feet cause any ripples in the water, then I forfeit and lose.”
 
 When Nine-Headed Bird heard Han Sen’s declaration, he drifted down to the sea’s surface as well. His bird-with-nine-heads appearance returned to something human-like again. He smiled and said, “As I should have expected from a prince of the Extreme King: you are true to your word.”
@@ -81,14 +81,15 @@ Han Sen had suggested this bet because he had the Silver-Winged Dragon beast sou
 <div class="tables">
 	<table class="beast">
 		<tr>
-			<th colspan="2">Beast Soul Gained</th>
+			<th>Beast Soul</th>
 		</tr><tr>
-			<td>King Class Silver-Winged Dragon</td>
-			<td>(Area)</td>
+			<td>King Class Silver-Winged Dragon<br>
+				<span class="type">(Area)</span>
+			</td>
 		</tr>
 	</table>
 	<!-- King class xenogeneic beast soul Silver-Winged Dragon: area type -->
-</div> 
+</div>
 
 Han Sen didn’t know if only King class beast souls had an area-of-effect, but at that moment, it was the only area beast soul that he had.
 

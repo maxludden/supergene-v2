@@ -1,0 +1,23 @@
+---
+belongs-to-collection: Super Gene
+cover-image: cover6.png
+creator:
+- role: author
+  text: Twelve Winged Dark Seraphim
+- role: editor
+  text: Max Ludden
+css:
+- style.css
+group-position: 6
+ibooks:
+- version: '4.4'
+- specified-fonts: true
+- iphone-orientation-lock: portrait-only
+- scroll-axis: vertical
+page-progression-direction: ltr
+title:
+- text: Sky Palace, Blade, and Eclipse
+  type: main
+- text: Book Six
+  type: subtitle
+...

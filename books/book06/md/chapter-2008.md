@@ -1,21 +1,21 @@
 ---
-Title:Demon Stone Cow 
-Chapter:2008 
-Section:8 
-Book:6 
-CSS:../Styles/style.css 
+Title:Demon Stone Cow
+Chapter:2008
+Section:8
+Book:6
+CSS:../Styles/style.css
 viewport: width=device-width
 ---
-  
+
 ## Demon Stone Cow
 ### Chapter 2008
-  
+
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
-  
 
-  
+
+
 Dong!
 
 After delivering a slash to the Stone Cow’s body, Han Sen fell back and became petrified. Within a second, Han Sen had removed the petrification and moved forward to strike the Stone Cow again.
@@ -41,14 +41,15 @@ Han Sen was interested in the xenogeneic’s beast soul, too, though. He took a 
 <div class="tables">
 	<table class="beast">
 		<tr>
-			<th colspan="2">Beast Soul Gained</th>
+			<th>Beast Soul</th>
 		</tr><tr>
-			<td>Mutant Marquise Stone Cow</td>
-			<td>(Shapeshifting)</td>
+			<td>Mutant Marquise Stone Cow<br>
+				<span class="type">(Shapeshifting)</span>
+			</td>
 		</tr>
 	</table>
 	<!-- Mutant beast soul: Shapeshift-type -->
-</div> 
+</div>
 
 A wide grin spread across Han Sen’s face. He could now turn himself into the . He wondered if it would give him all the physical capabilities of the . That would be a great boost for his strength, if so.
 

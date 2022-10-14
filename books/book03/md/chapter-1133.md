@@ -1,21 +1,21 @@
 ---
-Title:Transparent King Scorpion Beast Soul 
-Chapter:1133 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+Title:Transparent King Scorpion Beast Soul
+Chapter:1133
+Section:3
+Book:3
+CSS:../Styles/style.css
 viewport: width=device-width
 ---
-  
+
 ## Transparent King Scorpion Beast Soul
 ### Chapter 1133
-  
+
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
-  
 
-  
+
+
 Han Sen had saved ten bucks and knew he could not wait any longer. If the dinosaur lost its grip of the scorpion, he’d lose its position and lose the only chance he had in ending the threat.
 
 A coin, with the number ten on it, was set free to spiral through the air and home in on its target.
@@ -73,14 +73,15 @@ Han Sen needed to wait until Uncle Bug returned, so he decided to examine the be
 <div class="tables">
 	<table class="beast">
 		<tr>
-			<th colspan="2">Beast Soul Gained</th>
+			<th>Beast Soul</th>
 		</tr><tr>
-			<td>Berserk Super Transparent King Scorpion</td>
-			<td>(Gem)</td>
+			<td>Berserk Super Transparent King Scorpion<br>
+				<span class="type">(Gem)</span>
+			</td>
 		</tr>
 	</table>
 	<!-- Berserk Super Beast Soul Transparent King Scorpion: Gem Type -->
-</div> 
+</div>
 
 Han Sen felt the presence of a transparent gem in his hand. It could not be seen, but Han Sen knew the scorpion was inside it. Han Sen had received a gem beast soul before. They could be fused with another beast soul to increase their power.
 

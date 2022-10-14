@@ -691,12 +691,12 @@ input-files:
   - chapter-1677.html
   - chapter-1678.html
   - chapter-1679.html
-  - endofbook=04.html
+  - endofbook-04.html
 
 standalone: true
 self-contained: true
 
-resource-paths:
+resource-path:
   - .
   - ${.}/Images/cover4.png
   - ${.}/Images/title.png
@@ -1413,6 +1413,3 @@ epub-metadata: epub-meta4.yml
 metadata-files:
   - meta4.yml
   - epub-meta4.yml
-
-css-files:
-  - style.css

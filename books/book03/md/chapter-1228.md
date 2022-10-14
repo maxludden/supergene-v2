@@ -1,21 +1,21 @@
 ---
-Title:I’ll Take the Third God’s Sanctuary as a Gift for You 
-Chapter:1228 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+Title:I’ll Take the Third God’s Sanctuary as a Gift for You
+Chapter:1228
+Section:3
+Book:3
+CSS:../Styles/style.css
 viewport: width=device-width
 ---
-  
+
 ## I’ll Take the Third God’s Sanctuary as a Gift for You
 ### Chapter 1228
-  
+
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
-  
 
-  
+
+
 After learning Han Sen had recovered, people knew it was only a matter of time before he got to doing something big. This was beyond their wildest dreams, though, and no expected Han Sen to be capable of achieving such a feat.
 
 He had brought down an emperor-class shelter in the Third God’s Sanctuary. Even in the super gene era, no one had believed it to be a remotely possible endeavor.
@@ -73,10 +73,11 @@ He was more than satisfied with what he had obtained from that daring conquest, 
 <div class="tables">
     <table class="beast">
         <tr>
-            <th colspan="2">Beast Soul</th>
+            <th>Beast Soul</th>
         </tr><tr>
-            <td>Super Ancient Devil Soldier</td>
-            <td>(Shapeshifting)</td>
+            <td>Super Ancient Devil Soldier<br>
+				<span class="type">(Shapeshifting)</span>
+            </td>
         </tr>
     </table>
     <!--REPLACE-->
@@ -106,7 +107,9 @@ Suddenly, the slaps became soft. Han Sen’s hands turned to a gentle caress, li
 
 “I’ll take the Third God’s Sanctuary as a gift for you,” Han Sen said, at last.
 
+<br />
 ***
+<br />
 
 Han Sen was resting at home, after that. When Ji Yanran came back, she dropped many cards in front of him.
 

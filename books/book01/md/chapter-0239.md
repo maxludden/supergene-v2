@@ -1,21 +1,21 @@
 ---
-Title:An Odd Sacred-blood Creature 
-Chapter:239 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+Title:An Odd Sacred-blood Creature
+Chapter:239
+Section:1
+Book:1
+CSS:../Styles/style.css
 viewport: width=device-width
 ---
-  
+
 ## An Odd Sacred-blood Creature
 ### Chapter 239
-  
+
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
-  
 
-  
+
+
 <div class="tables">
 	<table class="status">
 		<tr>

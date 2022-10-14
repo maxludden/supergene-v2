@@ -1,21 +1,21 @@
 ---
-Title:Devil Ant King Beast Soul 
-Chapter:701 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+Title:Devil Ant King Beast Soul
+Chapter:701
+Section:2
+Book:2
+CSS:../Styles/style.css
 viewport: width=device-width
 ---
-  
+
 ## Devil Ant King Beast Soul
 ### Chapter 701
-  
+
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
-  
 
-  
+
+
 <div class="tables">
 	<table class="status">
 		<tr>
@@ -105,14 +105,15 @@ But if he were to compete there, he couldn't use his Flaming Rex Spike or little
 <div class="tables">
 	<table class="beast">
 		<tr>
-			<th colspan="2">Beast Soul Gained</th>
+			<th>Beast Soul</th>
 		</tr><tr>
-			<td>Super Devil Ant King</td>
-			<td>(Armor)</td>
+			<td>Super Devil Ant King<br>
+				<span class="type">(Armor)</span>
+			</td>
 		</tr>
 	</table>
 	<!-- Super Devil Ant King: Armored Beast Soul -->
-</div> 
+</div>
 
 The defense of a super armored beast soul was unfathomably high, and that was the key he'd have to exploit when going up against a super spirit. Plus, Han Sen could simulate the Devil Ant King's energy flow.
 

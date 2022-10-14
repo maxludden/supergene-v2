@@ -199,12 +199,12 @@ input-files:
   - chapter-2297.html
   - chapter-2298.html
   - chapter-2299.html
-  - endofbook=07.html
+  - endofbook-07.html
 
 standalone: true
 self-contained: true
 
-resource-paths:
+resource-path:
   - .
   - ${.}/Images/cover7.png
   - ${.}/Images/title.png
@@ -429,6 +429,3 @@ epub-metadata: epub-meta7.yml
 metadata-files:
   - meta7.yml
   - epub-meta7.yml
-
-css-files:
-  - style.css

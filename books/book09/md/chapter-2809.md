@@ -1,21 +1,21 @@
 ---
-Title:Beast Soul Combined 
-Chapter:2809 
-Section:14 
-Book:9 
-CSS:../Styles/style.css 
+Title:Beast Soul Combined
+Chapter:2809
+Section:14
+Book:9
+CSS:../Styles/style.css
 viewport: width=device-width
 ---
-  
+
 ## Beast Soul Combined
 ### Chapter 2809
-  
+
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
-  
 
-  
+
+
 Bao Ying stayed in the garden for some time. She read about manners to Han Sen, but it was more like she was reading a book.
 
 Han Sen felt a little strange about it. No matter how strong the Extreme King was, he did not think they were strong enough to use deified elites for a maid. A maid like Bao Ying was being treated as a usual servant.
@@ -65,16 +65,17 @@ Oh, my god! What has happened today? Did I just use up all the luck I will have 
 <div class="tables">
 	<table class="beast">
 		<tr>
-			<th colspan="2">Beast Soul Gained</th>
+			<th>Beast Soul</th>
 		</tr><tr>
-			<td>Deified Class Sky Star Wolf</td>
-			<td>(Glyph)</td>
+			<td>Deified Class Sky Star Wolf<br>
+				<span class="type">(Glyph)</span>
+			</td>
 		</tr><tr>
 			<th class="note" colspan="2">Note: Broken</th>
 		</tr>
 	</table>
 	<!-- Deified beast soul Sky Star Wolf: glyph-type (broken) -->
-</div> 
+</div>
 
 Han Sen took a look at them. The four Sky Star Wolf beast souls were all broken glyph beast souls.
 
@@ -87,16 +88,16 @@ Holy shit! They really can be combined! Han Sen was frozen. He hastily had a loo
 <div class="tables">
 	<table class="beast">
 		<tr>
-			<th colspan="2">Beast Soul Gained</th>
+			<th>Beast Soul</th>
 		</tr><tr>
-			<td>Deified Class Sky Star Wolf</td>
-			<td>(Glyph)</td>
+			<td>Deified Class Sky Star Wolf<br>
+				<span class="type">(Glyph)</span></td>
 		</tr><tr>
 			<th class="note" colspan="2">Note: Broken</th>
 		</tr>
 	</table>
 	<!-- Deified beast soul Sky Star Wolf: glyph-type (broken) -->
-</div> 
+</div>
 
 Why is it still broken? Han Sen felt strange, so he hesitated. He summoned the Sky Star Wolf beast soul.
 

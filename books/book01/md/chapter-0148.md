@@ -1,24 +1,23 @@
 ---
-Title:Super Biological Warframe 
-Chapter:148 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+Title:Super Biological Warframe
+Chapter:148
+Section:1
+Book:1
+CSS:../Styles/style.css
 viewport: width=device-width
 ---
-  
+
 ## Super Biological Warframe
 ### Chapter 148
-  
+
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
-  
 
-  
 
-> "Sacred-blood Phantom Ant Killed. Beast Soul of Sacred-blood Phantom Ant Gained. Eat Its Meat to Gain Zero to Ten Sacred Geno Points Randomly."
->
+
+
+> "Sacred-blood Phantom Ant Killed. Beast Soul of Sacred-blood Phantom Ant Gained. Eat its meat to gain zero to ten sacred-blood geno points randomly."
 
 The sacred-blood phantom ant finally collapsed in front of Han Sen. Hearing the voice in his mind, Han Sen just wanted to laugh out loud. Another sacred-blood beast soul, and it was an armor as good as his black beetle armor.
 

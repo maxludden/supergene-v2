@@ -261,12 +261,12 @@ input-files:
   - chapter-2889.html
   - chapter-2890.html
   - chapter-2891.html
-  - endofbook=09.html
+  - endofbook-09.html
 
 standalone: true
 self-contained: true
 
-resource-paths:
+resource-path:
   - .
   - ${.}/Images/cover9.png
   - ${.}/Images/title.png
@@ -553,6 +553,3 @@ epub-metadata: epub-meta9.yml
 metadata-files:
   - meta9.yml
   - epub-meta9.yml
-
-css-files:
-  - style.css

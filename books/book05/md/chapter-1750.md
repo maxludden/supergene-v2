@@ -1,21 +1,21 @@
 ---
-Title:Xina 
-Chapter:1750 
-Section:6 
-Book:5 
-CSS:../Styles/style.css 
+Title:Xina
+Chapter:1750
+Section:6
+Book:5
+CSS:../Styles/style.css
 viewport: width=device-width
 ---
-  
+
 ## Xina
 ### Chapter 1750
-  
+
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
-  
 
-  
+
+
 Han Sen found a golden bone inside her corpse. It was ten centimeters long.
 
 When Han Sen removed it, the body started to return to its original state. The gold wings became white again, and the claw-like bones of her wings and arms also withdrew. She was still sprawled out, though. She was dead.
@@ -59,10 +59,11 @@ After Han Sen went back to Qiao’s house, he found an opportunity to examine hi
 <div class="tables">
 	<table class="beast">
 		<tr>
-			<th colspan="2">Beast Soul Gained</th>
+			<th>Beast Soul</th>
 		</tr><tr>
-			<td>Baron Xenogeneic Gold Feather Witch</td>
-			<td>(Bow)</td>
+			<td>Baron Xenogeneic Gold Feather Witch<br>
+				<span class="type">(Bow)</span>
+			</td>
 		</tr>
 	</table>
 	<!-- Baron Xenogeneic Beast Soul: Gold Feather Witch (Bow Type) -->

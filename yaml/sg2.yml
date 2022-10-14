@@ -466,12 +466,12 @@ input-files:
   - chapter-0880.html
   - chapter-0881.html
   - chapter-0882.html
-  - endofbook=02.html
+  - endofbook-02.html
 
 standalone: true
 self-contained: true
 
-resource-paths:
+resource-path:
   - .
   - ${.}/Images/cover2.png
   - ${.}/Images/title.png
@@ -963,6 +963,3 @@ epub-metadata: epub-meta2.yml
 metadata-files:
   - meta2.yml
   - epub-meta2.yml
-
-css-files:
-  - style.css

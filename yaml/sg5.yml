@@ -229,12 +229,12 @@ input-files:
   - chapter-1819.html
   - chapter-1820.html
   - chapter-1821.html
-  - endofbook=05.html
+  - endofbook-05.html
 
 standalone: true
 self-contained: true
 
-resource-paths:
+resource-path:
   - .
   - ${.}/Images/cover5.png
   - ${.}/Images/title.png
@@ -489,6 +489,3 @@ epub-metadata: epub-meta5.yml
 metadata-files:
   - meta5.yml
   - epub-meta5.yml
-
-css-files:
-  - style.css

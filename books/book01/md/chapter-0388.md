@@ -1,30 +1,31 @@
 ---
-Title:Super Pet Armor 
-Chapter:388 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+Title:Super Pet Armor
+Chapter:388
+Section:1
+Book:1
+CSS:../Styles/style.css
 viewport: width=device-width
 ---
-  
+
 ## Super Pet Armor
 ### Chapter 388
-  
+
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
-  
 
-  
+
+
 Han Sen found a hidden spot and started to appreciate his newly gained super beast soul in excitement.
 
 <div class="tables">
 	<table class="beast">
 		<tr>
-			<th>Beast Soul Gained</th>
+			<th>Beast Soul</th>
 		</tr><tr>
 			<td>Super Blood Snail<br>
-				<span class="type">(Pet Armor)</span></td>
+				<span class="type">(Pet Armor)</span>
+			</td>
 		</tr>
 	</table>
 	<!-- Type of beast soul of super creature blood snail: pet armor. -->

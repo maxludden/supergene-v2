@@ -1,21 +1,21 @@
 ---
-Title:Fighting Luo Tianyang 
-Chapter:82 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+Title:Fighting Luo Tianyang
+Chapter:82
+Section:1
+Book:1
+CSS:../Styles/style.css
 viewport: width=device-width
 ---
-  
+
 ## Fighting Luo Tianyang
 ### Chapter 82
-  
+
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
-  
 
-  
+
+
 <div class="tables">
 	<table class="status">
 		<tr>
@@ -60,28 +60,35 @@ viewport: width=device-width
 	<!-- Geno points gained: 100 ordinary geno points; 100 primitive geno points; 47 mutant geno points; 29 sacred geno points. -->
 	<table class="beast">
 		<tr>
-			<th colspan="2">Beast Souls Gained</th>
+			<th>Beast Souls Gained</th>
 		</tr><tr>
-			<td>Sacred-Blood Black Beetle</td>
-			<td>(Armor)</td>
+			<td>Sacred-Blood Black Beetle<br>
+				<span class="type">(Armor)</span>
+			</td>
 		</tr><tr>
-			<td>Sacred-Blood Bloody Slayer</td>
-			<td>(Shapeshifting)</td>
+			<td>Sacred-Blood Bloody Slayer<br>
+				<span class="type">(Shapeshifting)</span>
+			</td>
 		</tr><tr>
-			<td>Sacred-Blood Purple-Winged Dragon</td>
-			<td>(Flying)</td>
+			<td>Sacred-Blood Purple-Winged Dragon<br>
+				<span class="type">(Flying)</span>
+			</td>
 		</tr><tr>
-			<td>Mutant Three-Eyed Cat</td>
-			<td>(Pet)</td>
+			<td>Mutant Three-Eyed Cat<br>
+				<span class="type">(Pet)</span>
+			</td>
 		</tr><tr>
-			<td>Mutant Black Barracuda</td>
-			<td>(Aquatic Mount)</td>
+			<td>Mutant Black Barracuda<br>
+				<span class="type">(Aquatic Mount)</span>
+			</td>
 		</tr><tr>
-			<td>Mutant Black Stinger</td>
-			<td>(Arrow)</td>
+			<td>Mutant Black Stinger<br>
+				<span class="type">(Arrow)</span>
+			</td>
 		</tr><tr>
-			<td>Mutant Golden-Sawfish</td>
-			<td>(Spear)</td>
+			<td>Mutant Golden-Sawfish<br>
+				<span class="type">(Spear)</span>
+			</td>
 		</tr>
 	</table>
 	<!-- Beast souls gained: Sacred-blood black beetle; sacred-blood bloody slayer; sacred-blood purple-winged dragon; mutant three-eyed cat; mutant black barracuda; mutant black stinger; mutant sawfish. -->

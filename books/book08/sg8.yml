@@ -401,12 +401,12 @@ input-files:
   - chapter-2637.html
   - chapter-2638.html
   - chapter-2639.html
-  - endofbook=08.html
+  - endofbook-08.html
 
 standalone: true
 self-contained: true
 
-resource-paths:
+resource-path:
   - .
   - ${.}/Images/cover8.png
   - ${.}/Images/title.png
@@ -833,6 +833,3 @@ epub-metadata: epub-meta8.yml
 metadata-files:
   - meta8.yml
   - epub-meta8.yml
-
-css-files:
-  - style.css

@@ -1,21 +1,21 @@
 ---
-Title:Metal Doll 
-Chapter:2316 
-Section:11 
-Book:7 
-CSS:../Styles/style.css 
+Title:Metal Doll
+Chapter:2316
+Section:11
+Book:7
+CSS:../Styles/style.css
 viewport: width=device-width
 ---
-  
+
 ## Metal Doll
 ### Chapter 2316
-  
+
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
-  
 
-  
+
+
 Fox Queen’s beautiful face darkened. “Are you mocking me by suggesting that I lost to the hands of your teacher?”
 
 “You are looking into my words too deeply, sister.” Han Sen laughed.
@@ -79,14 +79,15 @@ But Han Sen’s reaction times were the best of the best. He jumped up and dodge
 <div class="tables">
 	<table class="beast">
 		<tr>
-			<th colspan="2">Beast Soul Gained</th>
+			<th>Beast Soul</th>
 		</tr><tr>
-			<td>Duke Metal Doll</td>
-			<td>(Halo)</td>
+			<td>Duke Metal Doll<br>
+				<span class="type">(Halo)</span>
+			</td>
 		</tr>
 	</table>
 	<!-- Duke Beast Soul : Halo-type -->
-</div> 
+</div>
 
 Before Han Sen could try out the beast soul, a loud noise came from overhead. Someone landed right next to Han Sen.
 

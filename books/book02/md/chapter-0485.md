@@ -1,21 +1,21 @@
 ---
-Title:Hope in Despair 
-Chapter:485 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+Title:Hope in Despair
+Chapter:485
+Section:2
+Book:2
+CSS:../Styles/style.css
 viewport: width=device-width
 ---
-  
+
 ## Hope in Despair
 ### Chapter 485
-  
+
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
-  
 
-  
+
+
 It was almost impossible to see such bloody battles in First God's Sanctuary, so it would be hard for someone who had never experienced this to imagine the scary scenario of creatures attacking a shelter.
 
 Even Han Sen who had witnessed lots of deaths could not help shivering.
@@ -31,10 +31,11 @@ Han Sen took a look at the ghost-pawed ferret and became excited.
 <div class="tables">
 	<table class="beast">
 		<tr>
-			<th colspan="2">Beast Soul Gained</th>
+			<th>Beast Soul Gained</th>
 		</tr><tr>
-			<td>Sacred-Blood Ghost-Pawed Ferret</td>
-			<td>(Weapon)</td>
+			<td>Sacred-Blood Ghost-Pawed Ferret<br>
+				<span class="type">(Weapon)</span>
+			</td>
 		</tr>
 	</table>
 	<!-- Type of beast soul of sacred-blood ghost-pawed ferret: weapon. -->

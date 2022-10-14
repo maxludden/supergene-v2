@@ -28,7 +28,7 @@ class Coverpage(Document):
 def generate_filename(book: int) -> str:
     filename = f"cover{book}.html"
     sg()
-    
+
     doc = Coverpage.objects(book=book).first()  # type: ignore
     if doc:
         doc.filename = filename
@@ -98,7 +98,7 @@ def generate_html(book: int, save: bool = True, write: bool = True) -> str:
 <head>
     <meta charset="utf-8"/>
     <meta name="book" content="{book}"/>
-    <link type="text/css" rel="stylesheet" href="../Styles/style.css"/>
+    <link type="text/css" rel="stylesheet" href="style.css"/>
     <meta name="viewport" content="width=device-width"/>
     <title>Cover {book}</title>
 </head>

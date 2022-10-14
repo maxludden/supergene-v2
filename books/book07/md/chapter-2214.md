@@ -1,21 +1,21 @@
 ---
-Title:Galactic Lobster Beast Soul 
-Chapter:2214 
-Section:10 
-Book:7 
-CSS:../Styles/style.css 
+Title:Galactic Lobster Beast Soul
+Chapter:2214
+Section:10
+Book:7
+CSS:../Styles/style.css
 viewport: width=device-width
 ---
-  
+
 ## Galactic Lobster Beast Soul
 ### Chapter 2214
-  
+
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
-  
 
-  
+
+
 “These are the systems of chaos, and anything can happen here. Ready yourselves for death,” Mister White said when Han Sen returned to the ship.
 
 No one had expected to encounter the Galactic Shrimp just as they were leaving that system, and the Ice Blue Knights had taken a lot of casualties. The majority of them had made it through, though. All in all, the battle had gone well.
@@ -35,10 +35,11 @@ Han Sen had earned many Galactic Shrimp beast souls, including sixteen of Marqui
 <div class="tables">
     <table class="beast">
         <tr>
-            <th colspan="2">Beast Soul</th>
+            <th>Beast Soul</th>
         </tr><tr>
-            <td>Duke Galatic Shrimp</td>
-            <td>(Sword)</td>
+            <td>Duke Galactic Shrimp<br>
+                <span class="type">(Sword)</span>
+            </td>
         </tr>
     </table>
     <!--Galactic Shrimp beast soul: sword-->
@@ -57,10 +58,11 @@ The most important thing he had managed to get, though, was the Galactic Lobster
 <div class="tables">
     <table class="beast">
         <tr>
-            <th colspan="2">Beast Soul</th>
+            <th>Beast Soul</th>
         </tr><tr>
-            <td>King Galatic Lobster</td>
-            <td>(Armor)</td>
+            <td>King Galactic Lobster<br>
+                <span class="type">(Armor)</span>
+            </td>
         </tr>
     </table>
     <!--King class Galactic Lobster beast soul: armor-->

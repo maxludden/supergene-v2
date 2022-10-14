@@ -14,6 +14,7 @@ from src.atlas import sg
 from src.book import Book
 from src.log import BASE, console, log
 from src.chapter import max_title
+
 load_dotenv()
 
 
@@ -70,7 +71,7 @@ def generate_filename(book: int):
         `filename` (str):
             The filename of the given book's endofbook.
     """
-    book = str(book).zfill(2) # type: ignore
+    book = str(book).zfill(2)  # type: ignore
     return f"endofbook-{book}"
 
 
@@ -87,7 +88,7 @@ def generate_md_path(book: int):
             The md_path of the given book's endofbook.
     """
     filename = get_filename(book)
-    book = str(book).zfill(2) # type: ignore
+    book = str(book).zfill(2)  # type: ignore
     return f"/{BASE}/books/book{book}/md/{filename}.md"
 
 
@@ -104,7 +105,7 @@ def generate_html_path(book: int):
             The html_path of the given book's endofbook.
     """
     filename = get_filename(book)
-    book = str(book).zfill(2) # type: ignore
+    book = str(book).zfill(2)  # type: ignore
     return f"{BASE}/books/book{book}/html/{filename}.html"
 
 
@@ -117,7 +118,7 @@ def generate_book_word(book: int):
 def get_title(book: int):
     """Retrieves the title of the given book."""
     sg()
-    for doc in Book.objects(book=book): # type: ignore
+    for doc in Book.objects(book=book):  # type: ignore
         return max_title(doc.title)
 
 
@@ -162,7 +163,7 @@ def get_text(book: int):
 
 def get_filename(book: int):
     """Generates the filename of the given book (without extension)."""
-    book = str(book).zfill(2) # type: ignore
+    book = str(book).zfill(2)  # type: ignore
     return f"endofbook-{book}"
 
 
@@ -178,7 +179,7 @@ def get_mmd_path(book: int):
             The filepath of the given last pages multimarkdown.
     """
     base = "/Users/maxludden/dev/py/supergene/books/"
-    book = str(book).zfill(2) # type: ignore
+    book = str(book).zfill(2)  # type: ignore
     mmd_path = f"{BASE}/book{book}/mmd/endofbook-{book}.mmd"
     return mmd_path
 
@@ -194,7 +195,7 @@ def get_html_path(book: int):
         `html_path (int):
             The filepath of the given last pages HTML.
     """
-    book = f"{BASE}/books/book{str(book).zfill(2)}" # type: ignore
+    book = f"{BASE}/books/book{str(book).zfill(2)}"  # type: ignore
     html_path = f"{book}/html/endofbook-{book}.html"
     return html_path
 
@@ -244,11 +245,11 @@ def generate_html(book: int, save: bool = True, write: bool = True):
             The multimarkdown for the given book's last page.
     """
     sg()
-    for doc in EndOfBook.objects(book=book): # type: ignore
+    for doc in EndOfBook.objects(book=book):  # type: ignore
         log.debug(f"Accessed Book {book}'s EndOfBook in MongoDB.")
         title = doc.title
         book_word = doc.book_word
-        book_str = str(book).zfill(2) # type: ignore
+        book_str = str(book).zfill(2)  # type: ignore
         light_img = f"{BASE}/books/book{book_str}/Images/eob{book}-light.png"
         dark_img = f"{BASE}/books/book{book_str}/Images/eob{book}-dark.png"
 
@@ -258,7 +259,7 @@ def generate_html(book: int, save: bool = True, write: bool = True):
     <meta charset="utf-8" />
     <title>{title}</title>
     <meta name="book" content="{book}" />
-    <link type="text/css" rel="stylesheet" href="../Styles/style.css" />
+    <link type="text/css" rel="stylesheet" href="style.css" />
     <meta name="viewport" content="width=device-width" />
   </head>
   <body class="cover">
@@ -294,7 +295,7 @@ def generate_html(book: int, save: bool = True, write: bool = True):
 
 def make_endofbooks():
     sg()
-    for doc in tqdm(EndOfBook.objects(), unit="books", desc="eobs"): # type: ignore
+    for doc in tqdm(EndOfBook.objects(), unit="books", desc="eobs"):  # type: ignore
         book = doc.book
         html = generate_html(book, save=True, write=True)
         log.debug(f"Generated Book {book}'s End of Book's HTML.")

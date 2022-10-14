@@ -464,12 +464,12 @@ input-files:
   - chapter-1336.html
   - chapter-1337.html
   - chapter-1338.html
-  - endofbook=03.html
+  - endofbook-03.html
 
 standalone: true
 self-contained: true
 
-resource-paths:
+resource-path:
   - .
   - ${.}/Images/cover3.png
   - ${.}/Images/title.png
@@ -959,6 +959,3 @@ epub-metadata: epub-meta3.yml
 metadata-files:
   - meta3.yml
   - epub-meta3.yml
-
-css-files:
-  - style.css

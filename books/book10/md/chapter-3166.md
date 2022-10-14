@@ -1,32 +1,33 @@
 ---
-Title:The Fight Begins 
-Chapter:3166 
-Section:16 
-Book:10 
-CSS:../Styles/style.css 
+Title:The Fight Begins
+Chapter:3166
+Section:16
+Book:10
+CSS:../Styles/style.css
 viewport: width=device-width
 ---
-  
+
 ## The Fight Begins
 ### Chapter 3166
-  
+
 <figure>
 	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
 </figure>
-  
 
-  
+
+
 <div class="tables">
     <table class="beast">
         <tr>
             <th>Gene Race</th>
         </tr><tr>
             <td>Blood God Dragon<br>
-            	<span class="type">Mutant God Class</td>
+            	<span class="type">Mutant God Class</span>
+            </td>
         </tr><tr>
             <td class="note">Form: Ultimate</td>
         </tr><tr>
-            <th>Skills</th>
+            <th class="note">Skills</th>
         </tr><tr>
             <td>Blood Dragon Flying into the Sky</td>
         </tr><tr>

@@ -1,21 +1,20 @@
 ---
-Title:God Cannot Save You 
-Chapter:168 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: God Cannot Save You
+chapter: 168
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## God Cannot Save You
-### Chapter 168
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## God Cannot Save You
+
+### Chapter 168
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 "Han Sen, come up and spar with Yu Mingzhi in black and white boxing practice." Professor Yan did not want to waste any time and directly called Han Sen.
 
 Han Sen had to stand up and go up the stage.

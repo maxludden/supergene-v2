@@ -1,21 +1,20 @@
 ---
-Title:Crystal Kirin 
-Chapter:2002 
-Section:8 
-Book:6 
-CSS:../Styles/style.css 
+title: Crystal Kirin
+chapter: 2002
+section: 8
+book: 6
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Crystal Kirin
-### Chapter 2002
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Crystal Kirin
+
+### Chapter 2002
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Outside of Rare Beast Island, a dozen students were standing at the entrance looking around. They seemed to have grown quite bored as they waited.
 
 A Sky student spoke to Shi Beifeng in a disgusted tone. “Brother Shi, Han Sen is too arrogant. He has made us wait here for so long, and he obviously isn’t taking your invitation seriously. Who does he think he is?”

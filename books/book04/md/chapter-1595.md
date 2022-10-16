@@ -1,21 +1,20 @@
 ---
-Title:Evil Goblin 
-Chapter:1595 
-Section:4 
-Book:4 
-CSS:../Styles/style.css 
+title: Evil Goblin
+chapter: 1595
+section: 4
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Evil Goblin
-### Chapter 1595
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Evil Goblin
+
+### Chapter 1595
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen and the others were all surprised. They had never heard of the singing voice in the storm calling someone’s name. However, there was no mistaking what the voice was saying now; it was clearly calling Han Sen.
 
 Han Sen grabbed Lin Feng and said, “Wait a minute, something’s wrong.”

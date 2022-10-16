@@ -1,21 +1,20 @@
 ---
-Title:One Leader and Four Subordinates 
-Chapter:2960 
-Section:15 
-Book:9 
-CSS:../Styles/style.css 
+title: One Leader and Four Subordinates
+chapter: 2960
+section: 15
+book: 9
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## One Leader and Four Subordinates
-### Chapter 2960
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## One Leader and Four Subordinates
+
+### Chapter 2960
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The lantern’s light was suppressed by the knife stream. The area that could be lit up for protection was small, so it could not protect the whole holy palace. Some walls outside the holy palace were hit by the knife streams. It left knife mark after another knife mark on the stone walls.
 
 It was unknown what the holy palace’s stone walls were made. With the power of Han Sen’s knife airs, he was only able to leave small marks upon the construct.

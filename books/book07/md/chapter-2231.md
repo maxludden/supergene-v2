@@ -1,21 +1,20 @@
 ---
-Title:The Crisis Is Close 
-Chapter:2231 
-Section:10 
-Book:7 
-CSS:../Styles/style.css 
+title: The Crisis Is Close
+chapter: 2231
+section: 10
+book: 7
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## The Crisis Is Close
-### Chapter 2231
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## The Crisis Is Close
+
+### Chapter 2231
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “You guys took the item. Shouldn’t you be leaving now? Stop bothering the resting place of Undying Bird.” The old woman did not look happy. She waved her hand.
 
 “You take it,” Bai Wei said to Han Sen as she let go of the item.

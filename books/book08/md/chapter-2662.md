@@ -1,21 +1,20 @@
 ---
-Title:The Geno Art in Reverse 
-Chapter:2662 
-Section:13 
-Book:8 
-CSS:../Styles/style.css 
+title: The Geno Art in Reverse
+chapter: 2662
+section: 13
+book: 8
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## The Geno Art in Reverse
-### Chapter 2662
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## The Geno Art in Reverse
+
+### Chapter 2662
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “Huh? Why am I not getting any more yellow sheets of paper?” A month later, when Han Sen was reeling in his next catch, he noticed that he had brought up a broken shield instead of the usual piece of parchment.
 
 That shield was old and broken. It was caked in rust. Han Sen gripped it with his hand, and even a tiny portion of his strength was enough to crush it.

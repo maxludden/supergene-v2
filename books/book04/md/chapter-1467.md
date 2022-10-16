@@ -1,21 +1,20 @@
 ---
-Title:Another Geno Battleground 
-Chapter:1467 
-Section:4 
-Book:4 
-CSS:../Styles/style.css 
+title: Another Geno Battleground
+chapter: 1467
+section: 4
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Another Geno Battleground
-### Chapter 1467
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Another Geno Battleground
+
+### Chapter 1467
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The minor issue mentioned by the green-clothed woman was a berserk super creature guarding the spirit statue.
 
 The green-clothed woman could send Han Sen to the spirit hall with ease, but Han Sen would have to slay the beast in order to grab the stone that was embedded in the statue’s forehead.

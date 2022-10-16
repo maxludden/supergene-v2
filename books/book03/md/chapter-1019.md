@@ -1,21 +1,20 @@
 ---
-Title:This Must Be a Nightmare 
-Chapter:1019 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: This Must Be a Nightmare
+chapter: 1019
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## This Must Be a Nightmare
-### Chapter 1019
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## This Must Be a Nightmare
+
+### Chapter 1019
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Seeing Han Sen continue to walk forward, not slowing down for a single second, Liu Yuxuan was moving from afraid to terrified. It didn’t help that Han Sen had remained silent the entire time, as well.
 
 Most people that found themselves being suddenly dragged away against their will by an angry man would object quite loudly, but Liu Yuxuan remained as quiet as he could. There was a risk he was trying to avoid, despite thinking Han Sen’s bluff was still in play.

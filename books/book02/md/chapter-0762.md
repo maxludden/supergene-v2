@@ -1,21 +1,20 @@
 ---
-Title:Claiming the Fairy 
-Chapter:762 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Claiming the Fairy
+chapter: 762
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Claiming the Fairy
-### Chapter 762
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Claiming the Fairy
+
+### Chapter 762
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen was shocked. Looking towards the little angel, he saw her holding the scallop shell in her hand. It was half open, and from the inside, the fairy was active. It unleashed a gust of frosty air.
 
 The temperature around them dropped in a snap. The mosquitos were clearly weak to the cold, and upon coming into contact with the frost, were stunned and frozen.

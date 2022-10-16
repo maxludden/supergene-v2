@@ -1,21 +1,20 @@
 ---
-Title:Talk to My Son 
-Chapter:3322 
-Section:17 
-Book:10 
-CSS:../Styles/style.css 
+title: Talk to My Son
+chapter: 3322
+section: 17
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Talk to My Son
-### Chapter 3322
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Talk to My Son
+
+### Chapter 3322
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen looked at the 33 skies. He did not plan on going in. He turned around and went to Space Garden.
 
 Regardless of whether Qin Xiu and the other guys were there in the 33 skies, if he went in now, he might not be able to earn any benefits. Even if he made a blood path and went before the geno tablet, conquering the geno tablet was not an easy thing to accomplish.

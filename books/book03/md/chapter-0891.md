@@ -1,21 +1,20 @@
 ---
-Title:Recovery 
-Chapter:891 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Recovery
+chapter: 891
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Recovery
-### Chapter 891
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Recovery
+
+### Chapter 891
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen went to the river himself every day, mostly in the pursuit of wild geno plants.
 
 Han Sen managed to collect quite a few at first, but after a few days of successful collection, the amount he was able to find each day was dwindling. Han Sen rode Golden Growler for about a dozen miles in either direction along the river, but it was all to little avail.

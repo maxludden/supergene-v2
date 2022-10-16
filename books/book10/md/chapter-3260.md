@@ -1,21 +1,20 @@
 ---
-Title:Tester Comes to Attack 
-Chapter:3260 
-Section:16 
-Book:10 
-CSS:../Styles/style.css 
+title: Tester Comes to Attack
+chapter: 3260
+section: 16
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Tester Comes to Attack
-### Chapter 3260
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Tester Comes to Attack
+
+### Chapter 3260
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “Mister Leader, I have already gone to have a look,” Bury Path God said while bowing politely to the old tower. “The level-17 life soul over Chu Yuan was killed by Han Sen. His life soul is gone too.”
 
 “It was him. Now it makes sense.” Qin Xiu’s voice came out from the old tower.

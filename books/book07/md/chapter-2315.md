@@ -1,21 +1,20 @@
 ---
-Title:Meeting an Old Friend 
-Chapter:2315 
-Section:11 
-Book:7 
-CSS:../Styles/style.css 
+title: Meeting an Old Friend
+chapter: 2315
+section: 11
+book: 7
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Meeting an Old Friend
-### Chapter 2315
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Meeting an Old Friend
+
+### Chapter 2315
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The melting point of Planet King Kong’s stone was very high, so the lava itself was incredibly hot.
 
 Han Sen was wearing his Galactic Lobster armor and had his Jadeskin firing on all cylinders. But even so, he still felt like his skin was being singed.

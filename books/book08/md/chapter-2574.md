@@ -1,21 +1,20 @@
 ---
-Title:Alcoholic 
-Chapter:2574 
-Section:12 
-Book:8 
-CSS:../Styles/style.css 
+title: Alcoholic
+chapter: 2574
+section: 12
+book: 8
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Alcoholic
-### Chapter 2574
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Alcoholic
+
+### Chapter 2574
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen returned to his home in the Alliance. He wanted to test Glasses on his daughter Han Ling’er and see how much potential she had. Soon after trying, though, he was forced to acknowledge that you could never tell how much potential a human had. It would always say the genes of a human were unstable and unable to be determined.
 
 The creatures could have their potential and blood calculated, though. The results were promising, and some of them had a five-star gene potential.

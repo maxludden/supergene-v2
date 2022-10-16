@@ -1,21 +1,20 @@
 ---
-Title:First Men in God’s Sanctuary 
-Chapter:383 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: First Men in God’s Sanctuary
+chapter: 383
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## First Men in God’s Sanctuary
-### Chapter 383
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## First Men in God’s Sanctuary
+
+### Chapter 383
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 After waking up, the rest of the group quickly understood what had happened. They shot murderous looks at Zhu Ting, and someone even drew his weapon out.
 
 Han Sen stopped him. That person asked Han Sen, "Mr. Han, what are you doing?"

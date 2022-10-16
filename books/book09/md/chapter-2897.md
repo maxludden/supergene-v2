@@ -1,21 +1,20 @@
 ---
-Title:Undead 
-Chapter:2897 
-Section:15 
-Book:9 
-CSS:../Styles/style.css 
+title: Undead
+chapter: 2897
+section: 15
+book: 9
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Undead
-### Chapter 2897
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Undead
+
+### Chapter 2897
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen gathered up power too. He looked toward the Red Temple, which was opening, but he did not see a temple. That made Han Sen feel relieved.
 
 Han Sen saw a metal box that looked rather like a coffin. It was just there, silently inside the Red Temple.

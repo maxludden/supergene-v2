@@ -1,21 +1,20 @@
 ---
-Title:Sacrifice 
-Chapter:581 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Sacrifice
+chapter: 581
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Sacrifice
-### Chapter 581
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Sacrifice
+
+### Chapter 581
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Yi Dongmu didn't think much. There was only one heartfelt desire right now - defeat Dollar.
 
 Yi Dongmu clutched his daggers upside down like fangs, and his eyes were fixed calmly upon Han Sen. He seemed to be wholly relaxed, as if his breathing had achieved a constant, uninterruptible rhythm.

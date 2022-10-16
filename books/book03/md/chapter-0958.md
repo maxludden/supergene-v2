@@ -1,21 +1,20 @@
 ---
-Title:Perfect Robbery 
-Chapter:958 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Perfect Robbery
+chapter: 958
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Perfect Robbery
-### Chapter 958
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Perfect Robbery
+
+### Chapter 958
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Thorn Baron suddenly saw a handsome spirit appear, shrouded in a white light. As her pupils shrank, her mouth widened in joy.
 
 Thunder-Devil King saw the expression on her face, but he believed she was trying to trick him into dropping his guard. He didn't feel the presence of anything behind him.

@@ -1,21 +1,20 @@
 ---
-Title:Bai Wei“s Visit 
-Chapter:2325 
-Section:11 
-Book:7 
-CSS:../Styles/style.css 
+title: Bai Wei“s Visit
+chapter: 2325
+section: 11
+book: 7
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Bai Wei“s Visit
-### Chapter 2325
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Bai Wei“s Visit
+
+### Chapter 2325
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “Why are you so nervous? Didn’t I tell you not to disturb me unless I called for you?” Han Sen asked from the building.
 
 “My Prince, this is bad! Queen Bai Wei is here,” Lilly quickly said.
@@ -84,7 +83,7 @@ If she didn’t need the protection of the Extreme King and her title as princes
 
 “My Princess, we need to look at the greater good. Prince Sixteen is the last generation of the virgin blood. We need him to take the holy item,” the old Siren said.
 
-“It is only because my blood isn’t pure enough that I cannot activate the relic. If it was, I wouldn’t have to work with an *sshole like this,” the princess said furiously.
+“It is only because my blood isn’t pure enough that I cannot activate the relic. If it was, I wouldn’t have to work with an asshole like this,” the princess said furiously.
 
 The old Siren sighed. “We cannot change this. The Siren were destroyed, and not many of us survived. We need to mate with other races. You and Prince Sixteen have the blood of virgins. It isn’t pure, though, so you cannot do it alone. It might work if you two cooperate. For the sake of the Siren, please endure.”
 

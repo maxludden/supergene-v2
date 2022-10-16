@@ -1,21 +1,20 @@
 ---
-Title:Bloody Ice Fields 
-Chapter:645 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Bloody Ice Fields
+chapter: 645
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Bloody Ice Fields
-### Chapter 645
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Bloody Ice Fields
+
+### Chapter 645
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Although the T-rex had been blinded, it seemed as if it could still distinguish things well. It was able to fly north, towards the ice sea that lay beyond the ice fields.
 
 Han Sen followed the T-rex, thinking of a way he might bring it down for good. The damage inflicted to its eyes was grievous, but it wasn't enough to slay the beast. Still, the visual impairment boded well for Han Sen's battle, as the T-rex was no longer the threat it once was.

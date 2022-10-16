@@ -1,21 +1,20 @@
 ---
-Title:Ten Gene Locks Opened 
-Chapter:1302 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Ten Gene Locks Opened
+chapter: 1302
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Ten Gene Locks Opened
-### Chapter 1302
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Ten Gene Locks Opened
+
+### Chapter 1302
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Lotus Empress followed Han Sen to the underground shelter. She brought Empty Witch and a super creature comprised of vines with her, too; the latter being named Green Vine. They were also told to adhere to Han Sen’s authority whenever needed.
 
 Lotus Empress still required Han Sen’s help, as she had dubiously explained during their initial conversation, and it prompted the formalities for a trade. It was something Han Sen agreed to. Before he opened ten gene locks, the Night Gem would allow even him to defeat No God Emperor easily.

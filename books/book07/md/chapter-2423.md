@@ -1,21 +1,20 @@
 ---
-Title:Contagion 
-Chapter:2423 
-Section:11 
-Book:7 
-CSS:../Styles/style.css 
+title: Contagion
+chapter: 2423
+section: 11
+book: 7
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Contagion
-### Chapter 2423
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Contagion
+
+### Chapter 2423
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “I’ve been infected with whatever this is!” Han Sen realized grimly, and a stark chill rolled through his body.
 
 He had no idea how or when he contracted this creepy condition. Until Miss Mirror pointed it out, he hadn’t even realized that the strange power had managed to sneak into his body and infect his eyes.

@@ -1,21 +1,20 @@
 ---
-Title:Jade Air 
-Chapter:1966 
-Section:8 
-Book:6 
-CSS:../Styles/style.css 
+title: Jade Air
+chapter: 1966
+section: 8
+book: 6
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Jade Air
-### Chapter 1966
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Jade Air
+
+### Chapter 1966
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Open air extended as far as Han Sen could see both above and below Sky Palace. The islands floated together in the midst of a seemingly endless sea of sky.
 
 Han Sen sat on Thousand Feather Crane’s bird and admired the view. After one hour of travel, the snow-white bird descended on one island in particular. The island was situated between the clouds, so their vision was a little hindered. What could be seen clearly, however, were the twelve jade towers rising amidst the clouds.

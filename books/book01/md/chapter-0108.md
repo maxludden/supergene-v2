@@ -1,21 +1,20 @@
 ---
-Title:Hunting a Sacred-blood Creature 
-Chapter:108 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: Hunting a Sacred-blood Creature
+chapter: 108
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Hunting a Sacred-blood Creature
-### Chapter 108
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Hunting a Sacred-blood Creature
+
+### Chapter 108
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen saw that at the bottom of the cave, a black pangolin-like creature more than six feet long with its whole body covered with in crystal scales was drinking water from a pool.
 
 "That is the creature. Its hearing is no good but it has got excellent eyesight. Even a sacred-blood beast soul weapon could hardly hurt its scales. Its biggest weakness is its soft belly," explained Index Finger unhurriedly, who was a refined young man.

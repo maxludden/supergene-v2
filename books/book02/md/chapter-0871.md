@@ -1,21 +1,20 @@
 ---
-Title:Son of Fate 
-Chapter:871 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Son of Fate
+chapter: 871
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Son of Fate
-### Chapter 871
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Son of Fate
+
+### Chapter 871
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Liu Fang and Wang Jiangang were consumed with terror, and so they quickly took off running into the forest.
 
 Han Sen stood firm, coldly looking at the hand. He may have encountered ghostly-looking creatures before, but he did not believe that genuine spirits-of-the-deceased ghosts actually existed.

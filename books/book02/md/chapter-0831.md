@@ -1,21 +1,20 @@
 ---
-Title:Bio-chemical Bonefish 
-Chapter:831 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Bio-chemical Bonefish
+chapter: 831
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Bio-chemical Bonefish
-### Chapter 831
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Bio-chemical Bonefish
+
+### Chapter 831
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 "This is not right." Han Sen saw the fish floating belly-up, but noticed something amiss.
 
 If he had killed the transparent blighter then he should have received an announcement, but there hadn't been one.
@@ -66,7 +65,7 @@ Han Sen thought about filling up the pool with rocks and draining it that way, b
 
 Fortunately, he was quick to react and dodge. God knew what would have happened had he not moved out of the way.
 
-"F*ck you! I don't believe I cannot kill you." Han Sen summoned Moment Queen and consulted her, curious to see if she could come up with a solution to his ordeal.
+"Fuck you! I don't believe I cannot kill you." Han Sen summoned Moment Queen and consulted her, curious to see if she could come up with a solution to his ordeal.
 
 After Moment Queen was summoned and given a description of the problem, she looked at the fish and her cold face dropped into shock.
 

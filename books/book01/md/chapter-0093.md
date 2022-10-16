@@ -1,21 +1,20 @@
 ---
-Title:Better Stamina 
-Chapter:93 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: Better Stamina
+chapter: 93
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Better Stamina
-### Chapter 93
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Better Stamina
+
+### Chapter 93
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 But half an hour later, Son of Heaven’s face became a bit stiff as Han Sen was still fiercely brandishing the katana at the same speed.
 
 "Son of Heaven, didn’t you say that Dollar would be worn out in half an hour? I’m telling you my Dad was right. Men are better than women," Qing said proudly.

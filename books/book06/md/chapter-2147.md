@@ -1,21 +1,20 @@
 ---
-Title:Metal Giant God City 
-Chapter:2147 
-Section:8 
-Book:6 
-CSS:../Styles/style.css 
+title: Metal Giant God City
+chapter: 2147
+section: 8
+book: 6
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Metal Giant God City
-### Chapter 2147
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Metal Giant God City
+
+### Chapter 2147
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 A giant city was nestled into the slopes of a metal mountain. The city was made of the same black metal as the mountain, and it looked like it had been carved from the mountain rather than built.
 
 When viewed from afar, the city and mountain blended together until it was impossible to tell where one ended and the other began.

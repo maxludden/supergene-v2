@@ -1,21 +1,20 @@
 ---
-Title:Sorry to Keep You Waiting 
-Chapter:2137 
-Section:8 
-Book:6 
-CSS:../Styles/style.css 
+title: Sorry to Keep You Waiting
+chapter: 2137
+section: 8
+book: 6
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Sorry to Keep You Waiting
-### Chapter 2137
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Sorry to Keep You Waiting
+
+### Chapter 2137
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “No wonder I haven’t seen Evil Eye use Textless Book to try to free himself.” Han Sen let out a sigh. When he saw spirit sword trigger all those ghastly emotions, he knew things were practically over.
 
 Lone Bamboo could keep himself calm and controlled beneath the pressure of all that sadness, but Evil Eye couldn’t. That meant Evil Eye was trying to fight two forms of willpower at once.

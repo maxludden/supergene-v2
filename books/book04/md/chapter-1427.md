@@ -1,21 +1,20 @@
 ---
-Title:Mutant Black Crystal 
-Chapter:1427 
-Section:4 
-Book:4 
-CSS:../Styles/style.css 
+title: Mutant Black Crystal
+chapter: 1427
+section: 4
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Mutant Black Crystal
-### Chapter 1427
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Mutant Black Crystal
+
+### Chapter 1427
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 As the ground collapsed and Han Sen found himself in free fall, he let go of the coin
 
 to plummet by itself. Then, he flew back up to the ground that was still stable.

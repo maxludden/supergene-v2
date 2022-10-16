@@ -1,21 +1,20 @@
 ---
-Title:Overload 
-Chapter:321 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: Overload
+chapter: 321
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Overload
-### Chapter 321
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Overload
+
+### Chapter 321
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen thought back on the turtle's bite, which was so fast that it was incredulous. With Han Sen's current speed, there was no way that he could dodge a bite like that. He knew it without even trying. As long as he was within the range of attack of the turtle, he would be killed for sure.
 
 "I need to get faster and stronger." Han Sen pondered how he should achieve those two goals.

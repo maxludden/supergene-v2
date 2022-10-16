@@ -1,33 +1,31 @@
 ---
-Title:Trapped in Stoneshell King’s Shell
-Chapter:1454
-Section:4
-Book:4
-CSS:../Styles/style.css
+title: Trapped in Stoneshell King’s Shell
+chapter: 1454
+section: 4
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
 
 ## Trapped in Stoneshell King’s Shell
+
 ### Chapter 1454
 
 <figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
 </figure>
-
-
 
 <div class="tables">
 	<table class="beast">
 		<tr>
-			<th>Beast Soul</th>
+			<th colspan="2">Beast Soul Gained</th>
 		</tr><tr>
-			<td>Super Red Crystal Cricket<br>
-				<span class="type">(Pet Armor</span>
-			</td>
+			<td>Super Red Crystal Cricket</td>
+			<td>(Pet Armor)</td>
 		</tr>
 	</table>
 	<!-- Super Beast Soul Red Crystal Cricket: Pet Armor Type -->
-</div>
+</div> 
 
 Han Sen was rather surprised, as it had been a long time since he last had a beast soul purposed for a pet’s usage. He had seen many lower-tier ones, but he had only ever once seen a super beast soul of this type.
 

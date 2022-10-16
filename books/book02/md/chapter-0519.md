@@ -1,21 +1,20 @@
 ---
-Title:Hunting on the Bottom of the Lake 
-Chapter:519 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Hunting on the Bottom of the Lake
+chapter: 519
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Hunting on the Bottom of the Lake
-### Chapter 519
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Hunting on the Bottom of the Lake
+
+### Chapter 519
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 "You really dare to fight me?" Annie was dazed. She did not believe that Han Sen dared to fight her. In terms of real fighting abilities, Han Sen was quite weak compared to her.
 
 "Yes, but hands only." Han Sen smiled.

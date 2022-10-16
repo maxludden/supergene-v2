@@ -1,21 +1,20 @@
 ---
-Title:Blue Shelter 
-Chapter:722 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Blue Shelter
+chapter: 722
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Blue Shelter
-### Chapter 722
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Blue Shelter
+
+### Chapter 722
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen's pupils shrunk. He saw a mysterious, blue shelter residing atop the peak. Its presence there was like a castle, perched in the heavens.
 
 The blue shelter looked rugged, though. Many parts of the building had fallen and crumbled. Even the gate of the front wall had fallen, succumbing to mounds of dust. The place looked as if it had been abandoned a long time ago.

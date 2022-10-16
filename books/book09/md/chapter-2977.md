@@ -1,21 +1,20 @@
 ---
-Title:God Spirit's Special Authority 
-Chapter:2977 
-Section:15 
-Book:9 
-CSS:../Styles/style.css 
+title: God Spirit's Special Authority
+chapter: 2977
+section: 15
+book: 9
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## God Spirit's Special Authority
-### Chapter 2977
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## God Spirit's Special Authority
+
+### Chapter 2977
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen looked at God and said, “You got here at just the right time. Why did I become a God Spirit for just wearing this Sky God Crown?”
 
 God laughed and said, “You did not become a God Spirit. Because the Sky God Crown is here, you temporarily became a God Spirit. If you remove the Sky God Crown, none of that will exist.” After hearing that, Han took off the Sky God Crown and departed the god temple. When he put the Sky God Crown again, he returned to that god temple. The white god flag appeared in front of him.

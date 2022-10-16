@@ -1,21 +1,20 @@
 ---
-Title:Disappearing Super Creatures 
-Chapter:1205 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Disappearing Super Creatures
+chapter: 1205
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Disappearing Super Creatures
-### Chapter 1205
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Disappearing Super Creatures
+
+### Chapter 1205
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen looked at Xie Qing King as if he was looking at some hideous monster. No wild super creature had ever rattled him as much as the spirit before him was now doing.
 
 He partially believed himself to be dreaming, thinking it to be utterly ridiculous for a king spirit to take up the hobby of drawing crude comics.

@@ -1,20 +1,19 @@
 ---
-Title:Golden Growler’s Evolution
-Chapter:1074
-Section:3
-Book:3
-CSS:../Styles/style.css
+title: Golden Growler’s Evolution
+chapter: 1074
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
 
 ## Golden Growler’s Evolution
+
 ### Chapter 1074
 
 <figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
 </figure>
-
-
 
 Han Sen cradled the Devil Fang badge in the palm of his hand, wondering what use it could serve. It did seem powerful, but there was no apparent utility. It could not be used as a weapon, and it was certainly too small to be used as a shield.
 
@@ -83,17 +82,15 @@ He checked its information out again and saw there were some changes.
 <div class="tables">
 	<table class="beast">
 		<tr>
-			<th>Beast Soul</th>
+			<th colspan="2">Beast Soul</th>
 		</tr><tr>
-			<td>Super Soul Devil Fang King<<br>
-				<span class="type">(Badge)</span>
-			</td>
+			<td>Super Soul Devil Fang King</td>
+			<td>(Badge)</td>
 		</tr><tr>
-			<td>Devil Presence<br>
-				<span class="type">+1</span>
-			</td>
+			<td>Devil Presence</td>
+			<td>+1</td>
 		</tr><tr>
-			<th class="note">Note: Collect Ten Thousand to <br>Trade with Devil King</th>
+			<th colspan="2" class="note">NOTE:Collect Ten Thousand to Trade with Devil King</th>
 		</tr>
 	</table>
 	<!--Super Beast Soul Devil Fang King: Badge Type. Devil Presence +1. Collect ten thousand to trade with Devil King.-->

@@ -1,21 +1,20 @@
 ---
-Title:How to Save You 
-Chapter:3110 
-Section:16 
-Book:10 
-CSS:../Styles/style.css 
+title: How to Save You
+chapter: 3110
+section: 16
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## How to Save You
-### Chapter 3110
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## How to Save You
+
+### Chapter 3110
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Steel Scene’s body frame was ruined. He looked as if he had been stabbed in the heart. His eyes opened wide as he stared at Han Sen and Ice Snow Goddess in the god temple.
 
 God Spirits were very holy. Everyone in the entire kingdom worshipped them. Even Ice Snow Goddess had a contract that treated the family as a partner. The Steel family never once thought about showing an ounce of disrespect to Ice Snow Goddess. They treated her like a god. They treated her like a protector of the Steel family. Now, the Steel family’s protector, Ice Snow Goddess, was bowing before Han Sen. It was like someone lower in status meeting someone higher than them. The deity even referred to him as a mister. This made Steel Scene unable to believe it was actually happening.

@@ -1,21 +1,20 @@
 ---
-Title:Adoption 
-Chapter:1934 
-Section:7 
-Book:5 
-CSS:../Styles/style.css 
+title: Adoption
+chapter: 1934
+section: 7
+book: 5
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Adoption
-### Chapter 1934
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Adoption
+
+### Chapter 1934
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The Magic that turned into Yisha knew what Han Sen was thinking, and so it said, “Our lives are weak, and our lifespan is only one hundred Magic Days. That accounts for one cosmic year, in the geno universe. If we get adopted, our lifespan increases to that of our hosts. We live as long as they do. So, upon birth, most of us opt for adoption.”
 
 Han Sen now understood. While it was technically adoption, it was similar to a parasitic relationship. He didn’t know if they’d actually benefit the host, and if they did, what benefit they would give.

@@ -1,21 +1,20 @@
 ---
-Title:The Raven's Treasure 
-Chapter:631 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: The Raven's Treasure
+chapter: 631
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## The Raven's Treasure
-### Chapter 631
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## The Raven's Treasure
+
+### Chapter 631
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 "Are you okay?" The Queen looked at the wound on Han Sen's back in fright.
 
 From shoulder to waist, his back had been sliced entirely open. The gash was so deep, his spine was visible.

@@ -1,21 +1,20 @@
 ---
-Title:Taoism 
-Chapter:2599 
-Section:12 
-Book:8 
-CSS:../Styles/style.css 
+title: Taoism
+chapter: 2599
+section: 12
+book: 8
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Taoism
-### Chapter 2599
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Taoism
+
+### Chapter 2599
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen didn’t believe him, but he hadn’t yet tried the test that Yu Shanxin had suggested. He wanted to help Lone Bamboo, but he wasn’t going to the Very High on his friend’s behalf.
 
 Seeing Han Sen leave, Yu Shanxin smiled. He did not get mad at Han Sen’s rejection.

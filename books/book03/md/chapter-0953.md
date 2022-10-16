@@ -1,21 +1,20 @@
 ---
-Title:Odin’s Eye 
-Chapter:953 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Odin’s Eye
+chapter: 953
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Odin’s Eye
-### Chapter 953
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Odin’s Eye
+
+### Chapter 953
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 After a lengthy silence, Green's face returned to a smile and he said, "You are already a demigod. What do you need that for?"
 
 "If I can't use it, then I could at least provide it to my student." Zhuo Donglai smiled.

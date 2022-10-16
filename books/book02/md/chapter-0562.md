@@ -1,21 +1,20 @@
 ---
-Title:Snake-king Slaying Party 
-Chapter:562 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Snake-king Slaying Party
+chapter: 562
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Snake-king Slaying Party
-### Chapter 562
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Snake-king Slaying Party
+
+### Chapter 562
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Seeing Han Sen draw nearer to the valley's exit, Wang Liang hurried the group into battle formation. They were ready to fight against the snake-king.
 
 The party was composed of elite evolvers. Some of them were currently serving in the army, whereas some others had retired. Having all shared military experience, they were hardened warriors with phenomenal abilities in battle. They did not fear the fight to come.

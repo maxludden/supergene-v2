@@ -1,21 +1,20 @@
 ---
-Title:A Place Where Spirits Grow 
-Chapter:1220 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: A Place Where Spirits Grow
+chapter: 1220
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## A Place Where Spirits Grow
-### Chapter 1220
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## A Place Where Spirits Grow
+
+### Chapter 1220
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen still had a trove of questions he wished to ask, but the man had started to shine with a purple light. An ancient stone door appeared in the early morning sky, and after it did, the man approached it without hesitation.
 
 “What is your name?” Han Sen repeated his first question.

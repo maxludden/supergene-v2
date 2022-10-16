@@ -1,21 +1,20 @@
 ---
-Title:I’ll Eat You 
-Chapter:2179 
-Section:9 
-Book:6 
-CSS:../Styles/style.css 
+title: I’ll Eat You
+chapter: 2179
+section: 9
+book: 6
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## I’ll Eat You
-### Chapter 2179
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## I’ll Eat You
+
+### Chapter 2179
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen and his group traveled across a number of mountains and swamps. He was able to find a few xenogeneic corpses, but he couldn’t find a single one that was still alive.
 
 They couldn’t find any Duke xenogeneics, and not even any low level ones, either.

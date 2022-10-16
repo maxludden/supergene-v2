@@ -1,21 +1,20 @@
 ---
-Title:Ancient God Origin 
-Chapter:2352 
-Section:11 
-Book:7 
-CSS:../Styles/style.css 
+title: Ancient God Origin
+chapter: 2352
+section: 11
+book: 7
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Ancient God Origin
-### Chapter 2352
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Ancient God Origin
+
+### Chapter 2352
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “A creature that terrifying lives in the geno hall?” Han Sen felt a chill prickle his skin. The hideously powerful Ancient Water God had been killed by little more than a slap.
 
 The black crystal armor’s behavior worried Han Sen, but he tried not to let it show. The armor was probably connected to the creature inside the geno hall, he surmised. If the armor was discovered, Han Sen could not fathom the consequences he might have to endure.

@@ -1,21 +1,20 @@
 ---
-Title:Six Paths 
-Chapter:1441 
-Section:4 
-Book:4 
-CSS:../Styles/style.css 
+title: Six Paths
+chapter: 1441
+section: 4
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Six Paths
-### Chapter 1441
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Six Paths
+
+### Chapter 1441
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “Has your attacking power increased yet?” Ling Mei’er asked as she performed a Thai massage on Han Sen.
 
 “It is increasing, yes. Keep going!” Han Sen said, reveling in the comfort provided by the massage above and the airbed below.

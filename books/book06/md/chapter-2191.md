@@ -1,21 +1,20 @@
 ---
-Title:In Front of Cold Palace 
-Chapter:2191 
-Section:9 
-Book:6 
-CSS:../Styles/style.css 
+title: In Front of Cold Palace
+chapter: 2191
+section: 9
+book: 6
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## In Front of Cold Palace
-### Chapter 2191
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## In Front of Cold Palace
+
+### Chapter 2191
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Night River King quickly recognized that shadow. He frowned and said, “What is Han Sen doing here?”
 
 Han Sen had journeyed over the range of mountains to arrive near Cold Palace. He looked at the time and found that he still had five minutes to go. This was perfect.

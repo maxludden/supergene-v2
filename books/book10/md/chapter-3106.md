@@ -1,21 +1,20 @@
 ---
-Title:Exclusive Si Ming Demon Race 
-Chapter:3106 
-Section:16 
-Book:10 
-CSS:../Styles/style.css 
+title: Exclusive Si Ming Demon Race
+chapter: 3106
+section: 16
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Exclusive Si Ming Demon Race
-### Chapter 3106
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Exclusive Si Ming Demon Race
+
+### Chapter 3106
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Upon reading Lu San Zhi’s report, Steel Scene coldly said, “This is ridiculous.”
 
 “Mister Scene, Han Sen has a special connection with the crown prince,” Lu San Zhi said. “I don’t think taking him down will be as easy as we initially presumed.”

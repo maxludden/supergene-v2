@@ -1,21 +1,20 @@
 ---
-Title:Virtual Table 
-Chapter:1938 
-Section:7 
-Book:5 
-CSS:../Styles/style.css 
+title: Virtual Table
+chapter: 1938
+section: 7
+book: 5
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Virtual Table
-### Chapter 1938
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Virtual Table
+
+### Chapter 1938
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Seeing how shocked Han Sen looked, Hai’er took his reaction for a confirmation. She then murmured, “We shouldn’t talk here. We should find someplace else to chat.”
 
 “I think you have the wrong guy; I have no clue about what you’re talking about.” Han Sen acted through his shock.

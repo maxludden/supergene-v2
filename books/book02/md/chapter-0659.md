@@ -1,21 +1,20 @@
 ---
-Title:Toxic-dragon Drill 
-Chapter:659 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Toxic-dragon Drill
+chapter: 659
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Toxic-dragon Drill
-### Chapter 659
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Toxic-dragon Drill
+
+### Chapter 659
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Usually, after Han Sen finished a training cycle of the Dongxuan Sutra, his body would be filled up and require a cooldown period in which the energy was digested. Training more while he was still full yielded no additional benefits, and was therefore pointless.
 
 But underneath that great tree, something strangely wonderful happened. After a very short while, he felt as if the energy was gone. He decided to try to practice the Dongxuan Sutra again and, lo and behold, he was renewed with fresh power once more.

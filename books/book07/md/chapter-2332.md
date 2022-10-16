@@ -1,21 +1,20 @@
 ---
-Title:Extreme King Alpha’s Treasure 
-Chapter:2332 
-Section:11 
-Book:7 
-CSS:../Styles/style.css 
+title: Extreme King Alpha’s Treasure
+chapter: 2332
+section: 11
+book: 7
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Extreme King Alpha’s Treasure
-### Chapter 2332
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Extreme King Alpha’s Treasure
+
+### Chapter 2332
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Through the opening was a square hole which held a wooden box around the size of a football. Han Sen pulled the box out, and the statue returned to how it had been when he first saw it.
 
 Han Sen returned to sit in front of the statue. It didn’t have the sense of life that it had possessed before. It seemed that the statue really had become what it was supposed to be: a statue. There were no further hidden meanings to its existence, and the gourd in the statue’s hand didn’t summon that feeling of familiarity that it once had.

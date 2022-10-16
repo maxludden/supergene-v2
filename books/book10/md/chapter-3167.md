@@ -1,21 +1,20 @@
 ---
-Title:Yan Bei Fei 
-Chapter:3167 
-Section:16 
-Book:10 
-CSS:../Styles/style.css 
+title: Yan Bei Fei
+chapter: 3167
+section: 16
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Yan Bei Fei
-### Chapter 3167
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Yan Bei Fei
+
+### Chapter 3167
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 When the matches started, Bao’er and Feng Yin Yin only used their gene races to fight. They did not bother going into the battlegrounds, so there was no reason to fear for their safety.
 
 When Han Sen saw the small flying fish, which was under Bao’er’s control, enter the space battleground, he knew it would be difficult for her to lose.

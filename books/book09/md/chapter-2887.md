@@ -1,21 +1,20 @@
 ---
-Title:Pressuring Burning Lamp 
-Chapter:2887 
-Section:14 
-Book:9 
-CSS:../Styles/style.css 
+title: Pressuring Burning Lamp
+chapter: 2887
+section: 14
+book: 9
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Pressuring Burning Lamp
-### Chapter 2887
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Pressuring Burning Lamp
+
+### Chapter 2887
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “It is a shame Han Sen did not join the geno god list fights. If he had taken part, they would have been even more exhilarating.”
 
 “It is no wonder why he has chosen to challenge the Buddha. He really is quite strong.”

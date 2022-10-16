@@ -1,21 +1,20 @@
 ---
-Title:A Thousand Arrows 
-Chapter:45 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: A Thousand Arrows
+chapter: 45
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## A Thousand Arrows
-### Chapter 45
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## A Thousand Arrows
+
+### Chapter 45
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The next morning, Han Sen entered God’s Sanctuary and saw the copper-toothed beast had become purple all over except for the tip of its tail. He was happy to know it was about to become a sacred-blood creature in a day or two.
 
 Watching the beast over and over again, Han Sen left for the Bullseye training camp. When Han Sen arrived, he met an acquaintance.

@@ -1,21 +1,20 @@
 ---
-Title:Geno Core 
-Chapter:1258 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Geno Core
+chapter: 1258
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Geno Core
-### Chapter 1258
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Geno Core
+
+### Chapter 1258
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Dragon King looked at the jue and said, “That actually depends. Continuing the theme of duality, this thing can be good and bad. If you are a demigod, it is good. If you’re not… it can kill you.”
 
 “So, what does that mean? What is it for?” Han Sen wasn’t put-off by the words he had just heard.

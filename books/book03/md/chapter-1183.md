@@ -1,21 +1,20 @@
 ---
-Title:Incorrect Judgment 
-Chapter:1183 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Incorrect Judgment
+chapter: 1183
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Incorrect Judgment
-### Chapter 1183
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Incorrect Judgment
+
+### Chapter 1183
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 When Han Sen heard what he was told, his immediate reaction was to frown. Surprises were nothing new to him at this point, but this one hit a little harder than most.
 
 “You are the Vice-Leader of Blood Legion? In that case, you know who the leader is?” Han Sen asked.

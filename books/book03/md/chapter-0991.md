@@ -1,21 +1,20 @@
 ---
-Title:Dragon-blood Ring 
-Chapter:991 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Dragon-blood Ring
+chapter: 991
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Dragon-blood Ring
-### Chapter 991
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Dragon-blood Ring
+
+### Chapter 991
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen saw a red-jade ring drop to the floor. It had been on the man’s finger, but it slipped off when the body withered.
 
 He was not interested in jewelry, but he gave it a scan to see if it was significant, anyway. It wasn’t, to his knowledge, so Han Sen paid it no mind.
@@ -82,7 +81,7 @@ Han Sen, no longer focusing on her, was keen on pillaging the corpse. The prospe
 
 The dragon-blood ring was near the altar, and as if she was pretending to examine the altar itself, she inched her way closer to the ring.
 
-“Mwahaha, it’s mine! If the legends are true, perhaps I can use the emperor’s help to get rid of this *sshole for good,” Moment Queen thought.
+“Mwahaha, it’s mine! If the legends are true, perhaps I can use the emperor’s help to get rid of this asshole for good,” Moment Queen thought.
 
 As Han Sen plundered the body, she did her best to control her heartbeat and act as normal as possible.
 

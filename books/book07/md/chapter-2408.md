@@ -1,21 +1,20 @@
 ---
-Title:Furnace 
-Chapter:2408 
-Section:11 
-Book:7 
-CSS:../Styles/style.css 
+title: Furnace
+chapter: 2408
+section: 11
+book: 7
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Furnace
-### Chapter 2408
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Furnace
+
+### Chapter 2408
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Almost word for word, Dragon One said the same thing to the Dragon Kings.
 
 Han Sen didn’t know what they were planning, and neither did he want to know. He flew through space for around an hour before he found a lone core xenogeneic flying through the darkness.

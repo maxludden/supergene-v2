@@ -1,21 +1,20 @@
 ---
-Title:Opening the Knife 
-Chapter:1927 
-Section:7 
-Book:5 
-CSS:../Styles/style.css 
+title: Opening the Knife
+chapter: 1927
+section: 7
+book: 5
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Opening the Knife
-### Chapter 1927
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Opening the Knife
+
+### Chapter 1927
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Black-Moon King stood quietly on top of the mountain. He drew out a knife.
 
 Han Sen thought a King class knife would radiate, but the knife in his hands did not. This was a knife that was narrow like a crescent moon, but it was black, and it did not reflect a speck of light. It was as dark as the night.

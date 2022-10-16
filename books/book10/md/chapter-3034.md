@@ -1,21 +1,20 @@
 ---
-Title:Legendary Gene Egg 
-Chapter:3034 
-Section:16 
-Book:10 
-CSS:../Styles/style.css 
+title: Legendary Gene Egg
+chapter: 3034
+section: 16
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Legendary Gene Egg
-### Chapter 3034
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Legendary Gene Egg
+
+### Chapter 3034
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “Found it… I finally found it… So many people died… We finally found it…”
 
 In a very dark underground cave, an underground river led to a waterfall. It had a very deep drop. A booming sound echoed to the very bottom of the water.

@@ -1,21 +1,20 @@
 ---
-Title:Dual Blade 
-Chapter:570 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Dual Blade
+chapter: 570
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Dual Blade
-### Chapter 570
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Dual Blade
+
+### Chapter 570
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Annie watched the tape for a while, and her demeanor changed. She cared little for his power or speed, but she was shocked when observing his skills.
 
 She noticed Han Sen's left hand was holding a thin, silver sword. The style was quite floaty, and each slash was reminiscent of some toxic snake leaping out of a cave to strike. His arm was swinging from a wild variety of angles, and it was impossible to guess where he would be thrusting or slashing next.

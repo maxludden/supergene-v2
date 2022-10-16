@@ -1,21 +1,20 @@
 ---
-Title:Archery Master 
-Chapter:36 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: Archery Master
+chapter: 36
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Archery Master
-### Chapter 36
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Archery Master
+
+### Chapter 36
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 "Yuan, you can let us go, but according to our contract, this is a breach. You will have to pay us the rest of the money," sneered Liu Feng.
 
 "Just go." Yuan threw a few stacks of money at them and didn’t look at them again.

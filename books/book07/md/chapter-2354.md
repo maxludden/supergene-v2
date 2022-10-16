@@ -1,21 +1,20 @@
 ---
-Title:Suppress Demon Coffin 
-Chapter:2354 
-Section:11 
-Book:7 
-CSS:../Styles/style.css 
+title: Suppress Demon Coffin
+chapter: 2354
+section: 11
+book: 7
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Suppress Demon Coffin
-### Chapter 2354
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Suppress Demon Coffin
+
+### Chapter 2354
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen walked toward the Nine-Headed Bird. Darkness flowed from the creature, consuming all that could be seen in every direction. Han Sen knew that the darkness was coming for him, that it would trap his body in less than a second.
 
 Pang!

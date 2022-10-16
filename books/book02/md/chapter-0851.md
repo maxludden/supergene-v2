@@ -1,21 +1,20 @@
 ---
-Title:Strange Scene of Purple Mountain 
-Chapter:851 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Strange Scene of Purple Mountain
+chapter: 851
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Strange Scene of Purple Mountain
-### Chapter 851
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Strange Scene of Purple Mountain
+
+### Chapter 851
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 By this point, Han Sen was very weak. But so too were the three super creatures, who were now robbed of the protection that the now-slain Holy Lightshield Bug had given them.
 
 Han Sen was prepared to allow Little Angel to slay the rest before they left, but a horrible roaring soon sounded. And when he heard it, he sensed the foreboding dread he felt when he first encountered the Devil-Blood King. It must have respawned.

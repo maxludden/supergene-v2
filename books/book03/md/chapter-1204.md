@@ -1,21 +1,20 @@
 ---
-Title:Same People 
-Chapter:1204 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Same People
+chapter: 1204
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Same People
-### Chapter 1204
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Same People
+
+### Chapter 1204
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Professor Long was very excited, but he made sure not to alert Han Sen. He remained there watching, and only left when he saw the sweat-drenched Han Sen finish practicing.
 
 The next day, after Han Sen entered the lab, Professor Long called for him to come to his office.

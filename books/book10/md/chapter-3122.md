@@ -1,21 +1,20 @@
 ---
-Title:Lawbreaker 
-Chapter:3122 
-Section:16 
-Book:10 
-CSS:../Styles/style.css 
+title: Lawbreaker
+chapter: 3122
+section: 16
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Lawbreaker
-### Chapter 3122
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Lawbreaker
+
+### Chapter 3122
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “Are you really the creator of the Cold Sutra. Are you Moon God? Hang on… Did you mention the Witch? That must mean you are from the geno universe… Wait, no… That can’t be it because you aren’t restricted by the powers of this world…” Han Sen looked at the white-clothed woman in shock. His mind was racing for answers.
 
 The woman did not answer him. She reached out her hand and pointed at Han Sen. This time, her presence changed. Two different powers were gathering in her fingers. It made the hairs on the back of Han Sen’s neck stand.

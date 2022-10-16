@@ -1,21 +1,20 @@
 ---
-Title:The Xue Family’s Guest 
-Chapter:1096 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: The Xue Family’s Guest
+chapter: 1096
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## The Xue Family’s Guest
-### Chapter 1096
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## The Xue Family’s Guest
+
+### Chapter 1096
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “Piece of cake!” Wang Lin turned to look at the Frost Sutra again.
 
 But as Wang Lin read, his face began to soften and change. There was indeed a mention of frost, but there was no inherent focus on the element.

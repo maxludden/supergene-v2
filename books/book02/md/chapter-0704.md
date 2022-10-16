@@ -1,21 +1,20 @@
 ---
-Title:One-punch Victory 
-Chapter:704 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: One-punch Victory
+chapter: 704
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## One-punch Victory
-### Chapter 704
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## One-punch Victory
+
+### Chapter 704
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 After what Hua Ping told him, Fang Mingquan started to worry. He didn't want Dollar to go up against something so fiercely powerful.
 
 As they spoke, the two combatants entered their battleground. One combatant was three meters tall and clad in black armor. He looked terrifying. His movements were almost like a mechanical robot, built from steel.

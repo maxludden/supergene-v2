@@ -1,21 +1,20 @@
 ---
-Title:Becoming a Leader Again 
-Chapter:3395 
-Section:17 
-Book:10 
-CSS:../Styles/style.css 
+title: Becoming a Leader Again
+chapter: 3395
+section: 17
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Becoming a Leader Again
-### Chapter 3395
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Becoming a Leader Again
+
+### Chapter 3395
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Ancient Devil frowned and said, “Han Sen, if you and I keep doing this, we will attract the attention of other people. It is only a matter of time before others come. When that happens, it will be bad for both of us.”
 
 “I am fine with that,” Han Sen said with a smile. “Other people are easier to deal with than you.”

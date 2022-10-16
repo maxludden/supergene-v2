@@ -1,28 +1,27 @@
 ---
-Title:Give You a Chance 
-Chapter:1887 
-Section:7 
-Book:5 
-CSS:../Styles/style.css 
+title: Give You a Chance
+chapter: 1887
+section: 7
+book: 5
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Give You a Chance
-### Chapter 1887
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Give You a Chance
+
+### Chapter 1887
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “Did you really just say that? Are you sick?” Guna asked, lifting her lips in a sneer.
 
 Guya looked at Han Sen and slowly said, “Han Sen, you are special. That is why I have given you this opportunity. You have the chance to be friends with the Gana. This is Purgatory Heaven; unless a deified elite appears, no one can challenge my will. Buddha King is a good example for you to follow. Or do you not want to end up like him?”
 
 Han Sen nodded and said, “And I thought you were smart. I’m the one giving you a chance here. You and Guna can become my secretaries and nothing more. Don’t misunderstand that.”
 
-“This *sshole has lost his marbles. Let’s lock him up,” Guna told the others.
+“This asshole has lost his marbles. Let’s lock him up,” Guna told the others.
 
 Guya used her gem to control the clouds again. But it didn’t seem like the clouds could be used to capture people unless they jumped off the platform. Guya had erased Han Sen’s cloud, since she expected him to kill the Kings. In order for her to gain control of him, he would have to go to the cloud first.
 

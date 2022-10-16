@@ -1,21 +1,20 @@
 ---
-Title:Trapped in the Mountain 
-Chapter:2905 
-Section:15 
-Book:9 
-CSS:../Styles/style.css 
+title: Trapped in the Mountain
+chapter: 2905
+section: 15
+book: 9
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Trapped in the Mountain
-### Chapter 2905
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Trapped in the Mountain
+
+### Chapter 2905
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “It is no wonder Father took him as a student. He did not show off, gloat, or anything, yet he possesses such power.” Bai Wanjie frowned.
 
 Bai Lingshang said, “It looks like our guesses were not so accurate. Holy Baby did not just come here to evaluate our performance. Father must have asked him to protect us too.”

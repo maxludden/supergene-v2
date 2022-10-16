@@ -1,21 +1,20 @@
 ---
-Title:Fair and Square Way to Spli 
-Chapter:2766 
-Section:14 
-Book:9 
-CSS:../Styles/style.css 
+title: Fair and Square Way to Spli
+chapter: 2766
+section: 14
+book: 9
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Fair and Square Way to Spli
-### Chapter 2766
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Fair and Square Way to Spli
+
+### Chapter 2766
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “If I said I was lost, would you believe me?” Han Sen asked.
 
 Barr raised his eyebrows at the answer. He gave Han Sen a weird look and said, “You are lost out here?”
@@ -48,7 +47,7 @@ Although it was difficult to become deified, the smaller races occasionally got 
 
 But deifieds like that always had a bad base. They lacked knowledge and practical skills, and they were likely to cause trouble.
 
-The Destroyed had previously adopted a few deifieds like that, but showing such benevolence had never worked out well for the Destroyed. The deifieds did little to benefit the Destroyed, and instead, they were a frequent pain in the *ss for their host race. Ever since then, the Destroyed had stopped recruiting deifieds from smaller races. They would rather raise their own elites.
+The Destroyed had previously adopted a few deifieds like that, but showing such benevolence had never worked out well for the Destroyed. The deifieds did little to benefit the Destroyed, and instead, they were a frequent pain in the ass for their host race. Ever since then, the Destroyed had stopped recruiting deifieds from smaller races. They would rather raise their own elites.
 
 If Han Sen had been from a big race, Elder Nader would have liked to talk to him. But after learning who Dollar was, he was no longer interested.
 

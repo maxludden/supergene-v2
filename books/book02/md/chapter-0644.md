@@ -1,21 +1,20 @@
 ---
-Title:Killing the T-rex 
-Chapter:644 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Killing the T-rex
+chapter: 644
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Killing the T-rex
-### Chapter 644
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Killing the T-rex
+
+### Chapter 644
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Pang!
 
 Han Sen fired the bolt at the T-rex's eyelid once more, but again it blinked and the bolt couldn't pierce through it entirely.

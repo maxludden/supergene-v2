@@ -1,21 +1,20 @@
 ---
-Title:The Only Savior 
-Chapter:2961 
-Section:15 
-Book:9 
-CSS:../Styles/style.css 
+title: The Only Savior
+chapter: 2961
+section: 15
+book: 9
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## The Only Savior
-### Chapter 2961
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## The Only Savior
+
+### Chapter 2961
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Now, Han Sen had leveled up to true god class. He could try it again. Perhaps this time he could control the stone lantern.
 
 The faces of the demon lady and the others did not look good. In the beginning, they did not make use of the race lanterns because of the primary race lantern Han Sen was holding at the time.
@@ -90,10 +89,10 @@ Han Sen looked at the knife in his hands as he slowly said, “I do not know if 
 
 “That was unavoidable. Little Master has these talents. He was a born savior. You should be proud of him.” Before the demon lady finished, Han Sen’s voice sounded.
 
-“Shut up!” Han Sen’s eyes looked icy. His voice was as cold as his knife. He sounded depressed as he said, “You guys keep talking about ignorant things. You keep doing things to harm people, believing you are so noble. What are you people? That is my son! Even I would not let him fulfill my regrets and my dreams. Yet, you guys made the decision to risk his life to become your savior. Save your mother! If you want to be saved, save your own f*cking self. Don’t just randomly force the dreams you cannot achieve on someone else and call him the only savior. How dare you say something so obscene and be so proud and cocky about it. That is just you being weak, useless cowards who are afraid to die. You only say it because you are scared.”
+“Shut up!” Han Sen’s eyes looked icy. His voice was as cold as his knife. He sounded depressed as he said, “You guys keep talking about ignorant things. You keep doing things to harm people, believing you are so noble. What are you people? That is my son! Even I would not let him fulfill my regrets and my dreams. Yet, you guys made the decision to risk his life to become your savior. Save your mother! If you want to be saved, save your own fucking self. Don’t just randomly force the dreams you cannot achieve on someone else and call him the only savior. How dare you say something so obscene and be so proud and cocky about it. That is just you being weak, useless cowards who are afraid to die. You only say it because you are scared.”
 
 Han Sen raised his head. His eyes were like blades as he looked at Qin Xiu’s statue. Word by word, he said, “The son of Han Sen will only live for himself. He will fight for his own dreams!”
 
 The knife buzzed. Han Sen raised his knife high as he slashed toward the very bright holy palace.
 
-“F*ck you and your savior!”
+“Fuck you and your savior!”

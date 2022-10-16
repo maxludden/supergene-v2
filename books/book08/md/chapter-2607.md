@@ -1,21 +1,20 @@
 ---
-Title:Decision 
-Chapter:2607 
-Section:12 
-Book:8 
-CSS:../Styles/style.css 
+title: Decision
+chapter: 2607
+section: 12
+book: 8
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Decision
-### Chapter 2607
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Decision
+
+### Chapter 2607
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Sky Palace Leader allowed Han Sen to go home and think the matter over. He could inform the leader once he had come to a decision.
 
 “If I go, it will save me three years of healing. I will also be given the support of the Very High. It is a great deal. But I will risk exposing my true identity. If I don’t go, nothing bad will happen, but it will take me some time to heal. And while I’m healing, there won’t be much I can do to further myself. My ability to practice will be suspended, and I will have to locate my own resources.” Han Sen was deep in thought the whole way home, wondering what he should do.

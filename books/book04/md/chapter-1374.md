@@ -1,21 +1,20 @@
 ---
-Title:Super King Spirit Ultimate 
-Chapter:1374 
-Section:4 
-Book:4 
-CSS:../Styles/style.css 
+title: Super King Spirit Ultimate
+chapter: 1374
+section: 4
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Super King Spirit Ultimate
-### Chapter 1374
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Super King Spirit Ultimate
+
+### Chapter 1374
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “Why wouldn’t you want your Blood Legion relic back?” Han Sen asked with a frown.
 
 Nan Litian’s face turned dour, and he returned the question with one of his own. “Tell me: are you Han Jinzhi’s heir?”

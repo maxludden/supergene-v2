@@ -1,20 +1,19 @@
 ---
-Title:My Girlfriend Is Ji Yanran
-Chapter:120
-Section:1
-Book:1
-CSS:../Styles/style.css
+title: My Girlfriend Is Ji Yanran
+chapter: 120
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
 
 ## My Girlfriend Is Ji Yanran
+
 ### Chapter 120
 
 <figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
 </figure>
-
-
 
 "Brother, do you still want that sacred-blood bow? I haven’t been able to reach you and Fist Guy has already entered Second God’s Sanctuary." Han Sen answered the call and immediately heard Fang Jingqi’s complaint.
 
@@ -65,14 +64,13 @@ Han Sen returned to his own room in the shelter and played with the horn bow.
 <div class="tables">
 	<table class="beast">
 		<tr>
-			<th>Beast Soul Gained</th>
+			<th colspan="2">Beast Soul Gained</th>
 		</tr><tr>
-			<td>Sacred-Blood Magic-Horned Snake<br>
-				<span class="type">(Bow)</span>
-			</td>
+			<td>Sacred-Blood Magic-Horned Snake</td>
+			<td>(Bow)</td>
 		</tr>
 	</table>
-	<!-- Replace -->
+	<!-- Relplace -->
 </div>
 
 This horn bow was the beast soul of a magic-horned snake. Its effective range was nearly six thousand feet, and that was not yet its maximum range.

@@ -1,21 +1,20 @@
 ---
-Title:Saint Fan Emperor 
-Chapter:1230 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Saint Fan Emperor
+chapter: 1230
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Saint Fan Emperor
-### Chapter 1230
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Saint Fan Emperor
+
+### Chapter 1230
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 After Han Sen absorbed the six Life Geno Essence, he was left standing at a super geno point total of sixty-nine.
 
 There was still the Ice Wolf King’s body and two others to eat, so Han Sen provided the super flesh to Golden Growler, Snowball, and Metal Eater.

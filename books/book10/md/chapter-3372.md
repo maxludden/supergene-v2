@@ -1,21 +1,20 @@
 ---
-Title:Geno Prototype Armor 
-Chapter:3372 
-Section:17 
-Book:10 
-CSS:../Styles/style.css 
+title: Geno Prototype Armor
+chapter: 3372
+section: 17
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Geno Prototype Armor
-### Chapter 3372
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Geno Prototype Armor
+
+### Chapter 3372
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Although Han Sen moved his weird body to the max, he was unable to achieve breakthrough success. He was still unable to deal damage to Qin Xiu.
 
 Qin Xiu’s eyes looked frozen. The black crystal armor became smaller. His hands were thrust into the sky. The black crystal armor that wrapped up his fist started to produce a black halo.

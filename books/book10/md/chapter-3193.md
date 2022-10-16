@@ -1,21 +1,20 @@
 ---
-Title:Destiny Well 
-Chapter:3193 
-Section:16 
-Book:10 
-CSS:../Styles/style.css 
+title: Destiny Well
+chapter: 3193
+section: 16
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Destiny Well
-### Chapter 3193
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Destiny Well
+
+### Chapter 3193
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Qin Bai pulled Han Sen away from the doors of the Feng family castle and asked, “Han Sen, why have you come looking for me?”.
 
 Han Sen looked at Qin Bai as he asked, “Mister Crown Prince, have you been to the alpha temple?”

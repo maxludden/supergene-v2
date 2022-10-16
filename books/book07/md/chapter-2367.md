@@ -1,21 +1,20 @@
 ---
-Title:Strange Numbers 
-Chapter:2367 
-Section:11 
-Book:7 
-CSS:../Styles/style.css 
+title: Strange Numbers
+chapter: 2367
+section: 11
+book: 7
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Strange Numbers
-### Chapter 2367
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Strange Numbers
+
+### Chapter 2367
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 As he left Night Charm Town, Han Sen got to thinking about the exam.
 
 The exam gauged the power of the royal children. Some of the tests would judge the royal children’s leadership potential and their collective power when placed in groups. Their guards were allowed to join them.

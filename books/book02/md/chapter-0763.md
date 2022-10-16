@@ -1,21 +1,20 @@
 ---
-Title:Oasis 
-Chapter:763 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Oasis
+chapter: 763
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Oasis
-### Chapter 763
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Oasis
+
+### Chapter 763
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 "Are you sure?" Inside the Angel Gene office, Zhao Seventh spoke to Zhao Lian.
 
 "It has already been confirmed. Han Sen's mother, Luo Lan, is the sole granddaughter of Luo Haitang. The Ji family have Luo Haitang's support," Zhao Lian said in return.

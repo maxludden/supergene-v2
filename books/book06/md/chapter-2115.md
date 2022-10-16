@@ -1,21 +1,20 @@
 ---
-Title:Littleflower Gets Famous 
-Chapter:2115 
-Section:8 
-Book:6 
-CSS:../Styles/style.css 
+title: Littleflower Gets Famous
+chapter: 2115
+section: 8
+book: 6
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Littleflower Gets Famous
-### Chapter 2115
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Littleflower Gets Famous
+
+### Chapter 2115
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The coin became stuck to the giant fist that was surging with power. And as soon as it was attached to the hand, Kahn’s fist was yanked down as if a mountain had just fallen across it.
 
 It wasn’t just the fist that fell, either. Kahn’s entire body dropped with his fist, falling into the sea that resided below the two fighters.

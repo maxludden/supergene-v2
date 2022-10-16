@@ -1,21 +1,20 @@
 ---
-Title:Super Space Slash 
-Chapter:2760 
-Section:13 
-Book:8 
-CSS:../Styles/style.css 
+title: Super Space Slash
+chapter: 2760
+section: 13
+book: 8
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Super Space Slash
-### Chapter 2760
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Super Space Slash
+
+### Chapter 2760
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 When the Old Blood Dragon Lady became blood coral again, her battle presence disappeared. It was like the first time Han Sen had seen a powerful enemy and thought that he lacked the strength to fight back.
 
 The blood shadow demon stared at the blood coral for a while, looking very confused. Its intelligence wasn’t very impressive. Once it realized that it was no longer able to feel the presence of the blood coral, it turned away from the motionless item. With that enemy gone, it refocused its attention on Han Sen.

@@ -1,21 +1,20 @@
 ---
-Title:Diya Galaxy 
-Chapter:467 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Diya Galaxy
+chapter: 467
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Diya Galaxy
-### Chapter 467
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Diya Galaxy
+
+### Chapter 467
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 "Professor, what did you find?" Ji Yanran ignored Wang Hou and asked Li Mingtang.
 
 Li Mingtang said, "We found the entrance to the ruin and discovered that this is the ruin of Crystallizer royalties. However, there were suddenly a huge number of stimulating crystals. Having lost the connection to Daphne, we had to retreat into the ruin. Later on, we were attacked by parasite crystals. Many people were affected. We wandered off in the mess."

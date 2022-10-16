@@ -1,21 +1,20 @@
 ---
-Title:Peach Core 
-Chapter:693 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Peach Core
+chapter: 693
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Peach Core
-### Chapter 693
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Peach Core
+
+### Chapter 693
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The periods of time between the Second God's Sanctuary's holy battles were long. Humans were rarely excited for the event, primarily due to the power of the spirits that participated. Having an unlocked gene lock was in no way an assurance of having what it took to compete.
 
 If combatants fought in a human versus human fight, unless they met someone particularly cruel and heartless, there was at least the chance of surviving.

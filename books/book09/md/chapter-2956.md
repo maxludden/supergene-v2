@@ -1,21 +1,20 @@
 ---
-Title:Astral Instrumen 
-Chapter:2956 
-Section:15 
-Book:9 
-CSS:../Styles/style.css 
+title: Astral Instrumen
+chapter: 2956
+section: 15
+book: 9
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Astral Instrumen
-### Chapter 2956
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Astral Instrumen
+
+### Chapter 2956
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen kept wondering what Qin Xiu wanted with him and the jade statue. The jade statue was burning hot. It seemed as if it was flying out of Han Sen’s chest. He knew something was wrong.
 
 Han Sen wanted to take out the jade statue and find out what was going on. Old Vulture was already in the holy palace. It brought black smoke along as it ran toward Han Sen like the wind.

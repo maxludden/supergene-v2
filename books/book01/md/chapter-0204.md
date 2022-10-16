@@ -1,21 +1,20 @@
 ---
-Title:The Emperor's Anger 
-Chapter:204 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: The Emperor's Anger
+chapter: 204
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## The Emperor's Anger
-### Chapter 204
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## The Emperor's Anger
+
+### Chapter 204
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 "Damn, I should have believed that my judgment was right." Wang Yangjun bitterly swinged his arm, regretting.
 
 "Yangjun, what are you doing? Do not get confused, and believe in your own judgment." Xu Yundi shouted to Wang Yangjun anxiously.

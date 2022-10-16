@@ -1,21 +1,20 @@
 ---
-Title:Weird Scene Like a Tide 
-Chapter:2732 
-Section:13 
-Book:8 
-CSS:../Styles/style.css 
+title: Weird Scene Like a Tide
+chapter: 2732
+section: 13
+book: 8
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Weird Scene Like a Tide
-### Chapter 2732
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Weird Scene Like a Tide
+
+### Chapter 2732
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Bzzt!
 
 Before they could figure out what was happening, a shadow rose from the spring water. A watery manifestation of an old, giant beast appeared.

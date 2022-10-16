@@ -1,21 +1,20 @@
 ---
-Title:A Rod 
-Chapter:1812 
-Section:6 
-Book:5 
-CSS:../Styles/style.css 
+title: A Rod
+chapter: 1812
+section: 6
+book: 5
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## A Rod
-### Chapter 1812
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## A Rod
+
+### Chapter 1812
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Without hesitation, Han Sen walked right up to the crystal sphere.
 
 The bridge led to the very top of the crystal sphere, and when Han Sen reached the end, he noticed there was an entrance at its top. The orb’s interior was hollow. It was like a football stadium.

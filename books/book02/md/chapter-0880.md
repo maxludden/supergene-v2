@@ -1,21 +1,20 @@
 ---
-Title:I'm Going to Look After You 
-Chapter:880 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: I'm Going to Look After You
+chapter: 880
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## I'm Going to Look After You
-### Chapter 880
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## I'm Going to Look After You
+
+### Chapter 880
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 From inside the silver fox's charred body, a gold light burst forth. The strength of the light gradually increased, and the brighter it got, the darker its body became.
 
 Soon after, the silver fox's body was like smoldering charcoal, with veins of red running along its black body.

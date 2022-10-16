@@ -1,21 +1,20 @@
 ---
-Title:Angel’s Kiss 
-Chapter:1188 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Angel’s Kiss
+chapter: 1188
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Angel’s Kiss
-### Chapter 1188
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Angel’s Kiss
+
+### Chapter 1188
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “How could this asshole become an emperor? Ten gene locks open? No way! The Sky Tree hasn’t even fully recovered yet,” Dragon King said.
 
 Pang!

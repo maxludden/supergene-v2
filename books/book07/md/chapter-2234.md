@@ -1,21 +1,20 @@
 ---
-Title:I Am Afraid You Will Be Disappointed 
-Chapter:2234 
-Section:10 
-Book:7 
-CSS:../Styles/style.css 
+title: I Am Afraid You Will Be Disappointed
+chapter: 2234
+section: 10
+book: 7
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## I Am Afraid You Will Be Disappointed
-### Chapter 2234
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## I Am Afraid You Will Be Disappointed
+
+### Chapter 2234
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen moved his body and summoned both sets of dragon wings—the ones on his back and the ones behind his ears. He held Bao’er and evaded Night River King’s black water wheel attack.
 
 Night River King looked crazy, and he roared, “Let’s send them to hell so they can wait for you.”

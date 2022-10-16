@@ -1,21 +1,20 @@
 ---
-Title:Humans That Should Not Exist 
-Chapter:3160 
-Section:16 
-Book:10 
-CSS:../Styles/style.css 
+title: Humans That Should Not Exist
+chapter: 3160
+section: 16
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Humans That Should Not Exist
-### Chapter 3160
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Humans That Should Not Exist
+
+### Chapter 3160
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen hurriedly asked, “What? The universe was rebooted once. Is this the consequence of it being rebooted? Does this mean everything in the universe has to start from scratch?”
 
 God shook his head. “It’s not like that. Reboot God Spirits can reboot things, but they cannot really return the universe to how it was in the beginning. There is so much I could explain, but I don’t have the time to tell you everything.”

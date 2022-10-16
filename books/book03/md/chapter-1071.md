@@ -1,21 +1,20 @@
 ---
-Title:Devil’s Realm 
-Chapter:1071 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Devil’s Realm
+chapter: 1071
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Devil’s Realm
-### Chapter 1071
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Devil’s Realm
+
+### Chapter 1071
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen was shocked. The black mist grew to swallow the entire area. Inside, his Dongxuan Aura had been throttled, and its effective radius had been brought down to a mere ten meters.
 
 “What the hell is going on? Where am I?” Han Sen examined the area and stumbled towards the first building he could see.

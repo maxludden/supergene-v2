@@ -1,21 +1,20 @@
 ---
-Title:Stolen Egg 
-Chapter:720 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Stolen Egg
+chapter: 720
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Stolen Egg
-### Chapter 720
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Stolen Egg
+
+### Chapter 720
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Although the super creature was on the precipice of death, it had managed to lash out enough to deal damage to numerous members of the Zhao family. But now, the damage it had incurred was too great, and it would soon fall for the last time.
 
 Zhao Heng was incredibly excited. He commanded his people to attack the super creature by saying, "Come on! It's going to die soon!"

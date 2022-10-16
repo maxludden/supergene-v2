@@ -1,21 +1,20 @@
 ---
-Title:Luo Family’s Gift 
-Chapter:1569 
-Section:4 
-Book:4 
-CSS:../Styles/style.css 
+title: Luo Family’s Gift
+chapter: 1569
+section: 4
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Luo Family’s Gift
-### Chapter 1569
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Luo Family’s Gift
+
+### Chapter 1569
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Xu Mi followed Han Sen out of Furnace Shelter. He was going to travel with him as a student. Han Sen wasn’t very good at teaching, but even if he only took the time to teach Xu Mi some skills of the Alliance, it would be enough.
 
 Compared to human education, what spirits received was pretty much rubbish.

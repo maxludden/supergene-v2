@@ -1,21 +1,20 @@
 ---
-Title:Great-grandad 
-Chapter:3004 
-Section:15 
-Book:9 
-CSS:../Styles/style.css 
+title: Great-grandad
+chapter: 3004
+section: 15
+book: 9
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Great-grandad
-### Chapter 3004
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Great-grandad
+
+### Chapter 3004
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “Believe? All creatures will die one day.” Han Sen was not mad, so that was how he replied.
 
 The old man shook his head. He did not continue with that particular subject. He pulled out an object and gave it to Han Sen. “This is for you. It should help you.”
@@ -94,4 +93,4 @@ There should have been a stone floorboard behind him, but Han Sen had flipped th
 
 “Kid, remember to live no matter what. Even if things are bleak, don’t ever give up. You must live at all costs because you need to live. Do that, and your family has hope.” Han Jinzhi’s voice rang in Han Sen’s ear. Han Sen felt some power continue to pull him down. He could not shake it off.
 
-Perhaps it was because Han Sen could not control his body now, but that power could not stop him. Now, Han Sen was not able to stop falling. 
+Perhaps it was because Han Sen could not control his body now, but that power could not stop him. Now, Han Sen was not able to stop falling.

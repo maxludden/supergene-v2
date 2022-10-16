@@ -1,21 +1,20 @@
 ---
-Title:Slaying the Black Back Dog 
-Chapter:1540 
-Section:4 
-Book:4 
-CSS:../Styles/style.css 
+title: Slaying the Black Back Dog
+chapter: 1540
+section: 4
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Slaying the Black Back Dog
-### Chapter 1540
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Slaying the Black Back Dog
+
+### Chapter 1540
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen was approaching Little Lion King, prompting Yu Miao and Goddess to look at him. They were unsure of what he wanted.
 
 Although Little Jade Lion was still young, Goddess and Yu Miao did not dare harm him. Goddess had taken his Lionheart Stamp, yes, but she made sure to give it back to him. They were all scared of incurring the wrath of White Lion King.

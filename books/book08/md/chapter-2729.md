@@ -1,21 +1,20 @@
 ---
-Title:Good Fortune Pool 
-Chapter:2729 
-Section:13 
-Book:8 
-CSS:../Styles/style.css 
+title: Good Fortune Pool
+chapter: 2729
+section: 13
+book: 8
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Good Fortune Pool
-### Chapter 2729
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Good Fortune Pool
+
+### Chapter 2729
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “How could this happen?” Shale’s face had gone blank with shock. He shook himself, turning to go back to the Star Tree.
 
 Li Chun Qiu stopped him and said, “It is too late to go back now. We’ve been gone for too long, and the creature must have escaped into Outer Sky and disappeared by now.”

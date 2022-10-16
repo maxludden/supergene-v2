@@ -1,21 +1,20 @@
 ---
-Title:Decision 
-Chapter:2321 
-Section:11 
-Book:7 
-CSS:../Styles/style.css 
+title: Decision
+chapter: 2321
+section: 11
+book: 7
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Decision
-### Chapter 2321
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Decision
+
+### Chapter 2321
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 A moment later, the Original Water King Body became a drop of water that was as transparent as a small diamond.
 
 “Mutant xenogeneic King hunted. Original Water King: mutant xenogeneic gene found.”

@@ -1,21 +1,20 @@
 ---
-Title:The Third Form 
-Chapter:1923 
-Section:7 
-Book:5 
-CSS:../Styles/style.css 
+title: The Third Form
+chapter: 1923
+section: 7
+book: 5
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## The Third Form
-### Chapter 1923
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## The Third Form
+
+### Chapter 1923
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen was believed to have obtained his Teeth Knife knifemind in one and a half months. What’s more, his knifemind was very close to the proficiency that only a King could demonstrate. It dazed the Narrow Moon elites into a state of disbelief.
 
 They had seen this with their own eyes, though. And so they couldn’t actually doubt it.

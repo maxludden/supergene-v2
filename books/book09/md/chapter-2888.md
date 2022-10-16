@@ -1,21 +1,20 @@
 ---
-Title:Under the Sky 
-Chapter:2888 
-Section:14 
-Book:9 
-CSS:../Styles/style.css 
+title: Under the Sky
+chapter: 2888
+section: 14
+book: 9
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Under the Sky
-### Chapter 2888
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Under the Sky
+
+### Chapter 2888
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 When feeling the power in that knife, even a deified elite would have felt a chill.
 
 “You insulted my Buddha! You will die!” Burning Lamp’s body carried the presence of the causal karma knife. It was oscillating at an extreme level. He was like an ancient god claiming the sky with a god sound that was like a judgment sound. The causal karma knife was coming down.

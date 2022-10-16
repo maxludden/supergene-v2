@@ -1,21 +1,20 @@
 ---
-Title:Playing Chess 
-Chapter:2532 
-Section:12 
-Book:8 
-CSS:../Styles/style.css 
+title: Playing Chess
+chapter: 2532
+section: 12
+book: 8
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Playing Chess
-### Chapter 2532
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Playing Chess
+
+### Chapter 2532
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “That means Bai Wan Jie is confident that he’ll be able to obtain a Sea Sky Eye?” Han Sen frowned.
 
 Li Keer smiled. “That is why I said, if you think this is too troublesome, you don’t have to help me locate and destroy the creature. I want the Sea Sky Eye, but not as much as the Extreme King do.”

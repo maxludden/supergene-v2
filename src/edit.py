@@ -2,7 +2,7 @@
 import re
 from concurrent.futures import (ProcessPoolExecutor, ThreadPoolExecutor,
                                 as_completed)
-from multiprocessing import cpu_count
+from multiprocessing import cpu_count, freeze_support
 from pathlib import Path
 
 import ujson as json
@@ -21,12 +21,15 @@ from rich.theme import Theme
 from sh import Command, ErrorReturnCode, RunningCommand
 
 import myaml as yaml
-from atlas import sg
+from atlas import sg, max_title
 from chapter import Chapter, chapter_gen, get_text_path
 from log import BASE, console, log
 
 
 class TextFileNotFound(Exception):
+    pass
+
+class TextPathNotFound(Exception):
     pass
 
 class ChapterNotFound(Exception):
@@ -35,49 +38,35 @@ class ChapterNotFound(Exception):
 class MarkdownGenerationError(Exception):
     pass
 
-def read_text(chapter: int, save: bool = True) -> str:
-    '''
-    Read the text for the given chapter from the text file.
 
-    Args:
-        `chapter` (int):
-            The given chapter.
-        `save` (bool):
-            Whether or not to save the text to MongoDB.
+# def tp_edit():
+#     chapters = chapter_gen()
+#     with Progress(console=console) as progress:
+#         task = progress.add_task("Reading Text...", total=len(chapters))
+#         with ThreadPoolExecutor(max_workers=cpu_count()) as executor:
+#             futures = [executor.submit(edit, chapter, progress) for chapter in chapters]
+#             for future in as_completed(futures):
+#                 progress.advance(task)
 
-    Returns:
-        `text` (str):
-            The text for the given chapter.
-    '''
-    text_path = Path(str(get_text_path(chapter)))
-    if text_path.exists():
-        with open(text_path, "r") as infile:
-            text = str(infile.read())
-            if save:
-                sg()
-                doc = Chapter.objects(chapter=chapter).first() # type: ignore
-                doc.text = text
-                doc.save()
-                log.debug(f"Read text for Chapter {doc.chapter}. Updated MongoDB.")
-            return text
-    else:
-        raise TextFileNotFound(f"Text file not found for doc {chapter}.")
+# def pp_edit():
+#     freeze_support()
+#     chapters = chapter_gen()
+#     with Progress(console=console) as progress:
+#         task = progress.add_task("Reading Text...", total=len(chapters))
+#         with ProcessPoolExecutor(max_workers=cpu_count()) as executor:
+#             futures = [executor.submit(edit, chapter, progress) for chapter in chapters]
+#             for future in as_completed(futures):
+#                 progress.advance(task)
 
-def edit_text(chapter_text: str, progress: Progress) -> str:
-    '''
-    Edit the text for the given chapter.
+# def sequential_edit():
+#     chapters = chapter_gen()
+#     with Progress(console=console) as progress:
+#         task = progress.add_task("Reading Text...", total=len(chapters))
+#         for chapter in chapters:
+#             edit(chapter, progress)
+#             progress.advance(task)
 
-    Args:
-        `chapter_text` (str):
-            The text for the given chapter.
-
-    Returns:
-        `edited_text` (str):
-            The edited text for the given chapter.
-    '''
-
-    bad_words_task = progress.add_task("Editing Bad Words...", total=13)
-    bad_words = {
+REPLACEMENTS = {
         "shit1": {"regex": r"sh\*t", "replacement": "shit"},
         "shit2": {"regex": r"s\*#t", "replacement": "shit"},
         "shit3": {"regex": r"Sh\*t", "replacement": "Shit"},
@@ -89,86 +78,133 @@ def edit_text(chapter_text: str, progress: Progress) -> str:
         "bitch1": {"regex": r"b\*tch", "replacement": "bitch"},
         "bitch2": {"regex": r"B\*tch", "replacement": "Bitch"},
         "ass1": {"regex": r" \*ss ", "replacement": " ass "},
-        "ass2": {"regex": r"\n\*ss ", "replacement": "\nAss "},
+        "ass2": {"regex": r"\n\*ss ", "replacement": r"\nAss "},
         "ass3": {"regex": r"\. \*ss ", "replacement": ". Ass "},
+        "asshole1": {"regex": r" \*sshole ", "replacement": r" asshole "},
+        "asshole2": {"regex": r"\"\*sshole ", "replacement": r"\"Asshole "},
+        "asshole3": {"regex": r"\. \*sshole ", "replacement": r"\. Asshole"},
+        "hell1": {"regex": r" h\*ll ", "replacement": r" hell "},
+        "hell2": {"regex": r"\"H\*ll ", "replacement": r"\"Hell "},
+        "hell3": {"regex": r"\. H*ll ", "replacement": r"\. Hell"},
+        "iceskin": {"regex": r"Ice Skin", "replacement": "Jadeskin"},
+        "ice-skin": {"regex": r"Ice-Skin", "replacement": "Jadeskin"}
     }
-    bad_word_keys = bad_words.keys()
-    for key in bad_word_keys:
-        bad_word = bad_words[key]
-        regex = bad_word["regex"]
-        replacement = bad_word["replacement"]
-        result = re.search(pattern=regex, string=chapter_text)
 
-        if result != None:
-            chapter_text = re.sub(regex, replacement, chapter_text, re.M)
-            console.print(
-                Panel(
-                    f"[bold bright_white]Corrected {replacement.capitalize()}.[/]",
-                    title = "[bright_magenta]Bad Words[/]",
-                    border_style=Style(
-                        color="bright_purple",
-                        bold=True
-                    )
-                )
-            )
-        progress.advance(bad_words_task)
+ICESKIN = {
+    "iceskin": {"regex": r"Ice Skin", "replacement": "Jadeskin"},
+    "ice-skin": {"regex": r"Ice-Skin", "replacement": "Jadeskin"}
+}
 
-    iceskin_task = progress.add_task("Editing Ice Skin...", total=2)
-    if 'Ice Skin' in chapter_text:
-        chapter_text = re.sub(r'Ice Skin', 'Jadeskin', chapter_text, re.I)
-    progress.advance(iceskin_task)
-    if 'Ice-Skin' in chapter_text:
-        chapter_text = re.sub(r'Ice-Skin', 'Jadeskin', chapter_text, re.I)
-    progress.advance(iceskin_task)
+keys = REPLACEMENTS.keys()
 
-    return chapter_text
-
-def write_text(chapter: int, text: str) -> None:
-    '''
-    Write the edited text for the given chapter to the text file.
-
-    Args:
-        `chapter` (int):
-            The given chapter.
-        `text` (str):
-            The edited text for the given chapter.
-    '''
-    text_path = Path(str(get_text_path(chapter)))
-    with open(text_path, "w") as outfile:
-        outfile.write(text)
-        log.debug(f"Wrote text for Chapter {chapter} to {text_path}.")
+def edit_chapter(chapter: int) -> None:
+    # _. Edit the text for the given chapter.
+    # . Connect to MongoDB
     sg()
     doc = Chapter.objects(chapter=chapter).first() # type: ignore
+    if doc:
+        if doc.text_path:
+            text_path = Path(doc.text_path)
+            if text_path.exists():
+                # , Read the text for the given chapter from disk
+                with open(text_path, "r") as infile:
+                    text = infile.read()
+
+                # , Edit the text for the given chapter
+                changed = False
+                for key in keys:
+                    bad_word = REPLACEMENTS[key]
+                    regex = bad_word["regex"]
+                    replacement = bad_word["replacement"]
+                    result = re.search(regex, text)
+                    if result:
+                        changed = True
+                        text = re.sub(regex, replacement, text)
+                        log.debug(f"Replaced {regex} with {replacement} in Chapter {chapter}.")
+            else:
+                raise TextFileNotFound(f"Text file for Chapter {chapter} not found.")
+        else:
+            raise TextPathNotFound(f"Text path for Chapter {chapter} not found.")
+    else:
+        raise ChapterNotFound(f"Chapter {chapter} not found.")
+
+    if changed:
+        # , Write the edited text for the give chapter to disk if changed
+        with open (text_path, 'w') as outfile:
+            outfile.write(text)
+            log.debug(f"Wrote text for Chapter {chapter} to {text_path}.")
+
+    # . Update MongoDB with the edited text for the given chapter
     doc.text = text
+
+    # . Fix Title
+    title = doc.title
+    if 'Ice Skin' in title:
+        title = title.replace('Ice Skin', 'Jadeskin')
+        doc.title = title
+        log.debug(f"Updated title for Chapter {chapter} to {title}.")
+    if 'Ice-Skin' in title:
+        title = title.replace('Ice-Skin', 'Jadeskin')
+        doc.title = title
+        log.debug(f"Updated title for Chapter {chapter} to {title}.")
+
+    # . Save the document
     doc.save()
-    log.debug(f"Updated MongoDB with edited text for Chapter {doc.chapter}.")
-    return None
 
-def edit(chapter: int, progress: Progress) -> None:
+def update_md(chapter: int) -> None:
+    # _. Update the markdown for the given chapter.
+    # . Connect to MongoDB
+    sg()
+    doc = Chapter.objects(chapter=chapter).first() # type: ignore
+    if doc:
+        title = max_title(doc.title)
+        section = f"{doc.section}"
+        book = f"{doc.book}"
+
+        metadata = f"---\n"
+        metadata = f"{metadata}title: {title}\n"
+        metadata = f"{metadata}chapter: {chapter}\n"
+        metadata = f"{metadata}section: {section}\n"
+        metadata = f"{metadata}book: {book}\n"
+        metadata = f"{metadata}CSS: style.css\n"
+        metadata = f"{metadata}viewport: width=device-width\n"
+        metadata = f"{metadata}---\n\n"
+
+        atx = f"## {title}\n\n"
+        atx = f"{atx}### Chapter {chapter}\n\n"
+
+        img = '<figure>\n\t<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />\n</figure>\n\n'
+
+        text = str(doc.text)
+        text = text.strip()
+
+        md = f"{metadata}{atx}{img}{text}"
+
+        md_path = Path(doc.md_path)
+        with open (md_path, 'w') as outfile:
+            outfile.write(md)
+
+        doc.md = md
+        doc.save()
+    else:
+        raise ChapterNotFound(f"Chapter {chapter} not found.")
+
+
+
+
+def main():
     '''
-    Edit the text for the given chapter.
-
-    Args:
-        `chapter` (int):
-            The given chapter.
+    Main function.
     '''
-    text = read_text(chapter)
-    edited_text = edit_text(text, progress)
-    write_text(chapter, edited_text)
-    return None
-
-def tp_edit():
-    chapters = chapter_gen()
     with Progress(console=console) as progress:
-        task = progress.add_task("Reading Text...", total=len(chapters))
-        with ThreadPoolExecutor(max_workers=cpu_count()) as executor:
-            futures = [executor.submit(edit, chapter, progress) for chapter in chapters]
-            for future in as_completed(futures):
-                progress.advance(task)
+        chapter = 0
+        task = progress.add_task(description=f"Editing Supergene Chapters... Chapter {chapter}/3462", total = 3460) # type: ignore
+        chapters = chapter_gen()
 
-chapters = chapter_gen()
-with Progress(console=console) as progress:
-    task = progress.add_task("Reading Text...", total=len(chapters))
-    for chapter in chapters:
-        edit(chapter, progress)
-        progress.advance(task)
+        for chapter in chapters:
+            update_md(chapter)
+            progress.advance(task)
+
+
+if __name__ == "__main__":
+    main()

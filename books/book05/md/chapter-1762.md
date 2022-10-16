@@ -1,21 +1,20 @@
 ---
-Title:Unsolid Mountain 
-Chapter:1762 
-Section:6 
-Book:5 
-CSS:../Styles/style.css 
+title: Unsolid Mountain
+chapter: 1762
+section: 6
+book: 5
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Unsolid Mountain
-### Chapter 1762
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Unsolid Mountain
+
+### Chapter 1762
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Golden Growler didn’t go soft like Han Sen had. He moved in front of Han Sen, growling toward the green-haired beast The golden light on his body was gleaming strongly, and he looked murderous.
 
 The green-haired beast, seeing Golden Growler behavior, looked annoyed. He coldly said, “You possess the blood of the king. The King of Unsolid Mountain. How can you associate yourself with a lesser race like this?”

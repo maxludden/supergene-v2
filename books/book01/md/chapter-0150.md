@@ -1,21 +1,20 @@
 ---
-Title:A Kiss 
-Chapter:150 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: A Kiss
+chapter: 150
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## A Kiss
-### Chapter 150
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## A Kiss
+
+### Chapter 150
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Liu had checked Blackhawk’s record in Hand of God, which was quite impressive. And Li Yufeng, among others, was in the top 50 in the Alliance.
 
 However, he had never heard of Han Sen. From the data he had collected, Han Sen was not even in the Hand of God Society.

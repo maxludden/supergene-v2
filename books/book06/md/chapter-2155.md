@@ -1,21 +1,20 @@
 ---
-Title:Han Sen’s Guess 
-Chapter:2155 
-Section:8 
-Book:6 
-CSS:../Styles/style.css 
+title: Han Sen’s Guess
+chapter: 2155
+section: 8
+book: 6
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Han Sen’s Guess
-### Chapter 2155
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Han Sen’s Guess
+
+### Chapter 2155
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Yuya watched the developing red storm, his frown sinking deep into the lines of his face.
 
 Four days ago, they had managed to escape from the metal city because that horrifying Metal Beast had gone after Han Sen. The creature had followed Han Sen long enough for the rest of them to clear the city.

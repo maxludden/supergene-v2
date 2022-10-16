@@ -1,21 +1,20 @@
 ---
-Title:Same Style 
-Chapter:97 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: Same Style
+chapter: 97
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Same Style
-### Chapter 97
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Same Style
+
+### Chapter 97
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 When Han Sen arrived at the place Tang Zhenliu told him, he saw Fang Jingqi was also there. Tang led Han Sen into the living room.
 
 After entering the living room, Han Sen saw that on the sofa sat a young man, who was very quiet and did not speak when he saw Han Sen coming in.

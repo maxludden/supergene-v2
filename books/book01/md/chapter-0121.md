@@ -1,21 +1,20 @@
 ---
-Title:Wipeout 
-Chapter:121 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: Wipeout
+chapter: 121
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Wipeout
-### Chapter 121
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Wipeout
+
+### Chapter 121
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 A few seconds later, Shi Zhikang’s face collapsed. Eyes wide and hands shaking, Shi exclaimed, "Sen, you asshole, are you the reincarnation of Taka Kato?"
 
 Seeing Han Sen's hand quickly moving as if he was having spasms, Shi Zhikang was more and more shocked and panicked, as he had not touched many spots near him.

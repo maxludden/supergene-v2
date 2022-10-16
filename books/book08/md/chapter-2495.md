@@ -1,21 +1,20 @@
 ---
-Title:Holy Area Grass 
-Chapter:2495 
-Section:12 
-Book:8 
-CSS:../Styles/style.css 
+title: Holy Area Grass
+chapter: 2495
+section: 12
+book: 8
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Holy Area Grass
-### Chapter 2495
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Holy Area Grass
+
+### Chapter 2495
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen brought the Tianxia Peacock King’s body back to the white whale, and Bao’er quickly whipped out the little gourd and absorbed the cloud inside it.
 
 The damage done to the white whale was pretty severe. It could repair itself, but being damaged that badly meant it would take a while before it was completely fixed. The ship could hardly move at this point. There were many holes that went clean through the ship, and the entire structure seemed on the verge of falling apart.

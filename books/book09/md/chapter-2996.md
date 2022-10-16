@@ -1,21 +1,20 @@
 ---
-Title:Light Scissors 
-Chapter:2996 
-Section:15 
-Book:9 
-CSS:../Styles/style.css 
+title: Light Scissors
+chapter: 2996
+section: 15
+book: 9
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Light Scissors
-### Chapter 2996
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Light Scissors
+
+### Chapter 2996
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 One of the creatures had white hair. Its skin was black, and it looked like an old ape. The other one was like a spirit. It glowed with a green color. It was like a green ghost than one could see through.
 
 The presence of these two xenogeneics was very powerful. They were clearly true god xenogeneics. That was undeniable.

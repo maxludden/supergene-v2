@@ -1,21 +1,20 @@
 ---
-Title:Beast Soul of Inferno Bull 
-Chapter:531 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Beast Soul of Inferno Bull
+chapter: 531
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Beast Soul of Inferno Bull
-### Chapter 531
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Beast Soul of Inferno Bull
+
+### Chapter 531
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 As a super mount, the golden growler was no weaker than a sacred-blood mount of Second God's Sanctuary after becoming berserk. In addition, its giant body was extremely fast. Every step it made was more than 300 feet. Even with the speed of the silver-haired girl, she could not catch up with it.
 
 In addition, most creatures were like ants in front of the golden growler, unable to block its way.

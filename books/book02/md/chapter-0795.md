@@ -1,21 +1,20 @@
 ---
-Title:The Monster That Inhabits Emerald Lake 
-Chapter:795 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: The Monster That Inhabits Emerald Lake
+chapter: 795
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## The Monster That Inhabits Emerald Lake
-### Chapter 795
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## The Monster That Inhabits Emerald Lake
+
+### Chapter 795
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 After the match was over, Han Sen exited the virtual community. He thought battling other humans was fairly lame, and all-around boring; he viewed competition against the AI to be much more exciting. Until he could challenge a surpasser, it was a waste of his time.
 
 The fact that the match was considered boring was something that rocked the entire Hand of God community.

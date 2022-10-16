@@ -1,21 +1,20 @@
 ---
-Title:The Gate Is Wide Open 
-Chapter:1608 
-Section:4 
-Book:4 
-CSS:../Styles/style.css 
+title: The Gate Is Wide Open
+chapter: 1608
+section: 4
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## The Gate Is Wide Open
-### Chapter 1608
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## The Gate Is Wide Open
+
+### Chapter 1608
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Outer Sky King’s appearance was rather similar to Yu Miao’s. He was a guy, but he was still very pretty.
 
 However, when people saw him, they wouldn’t notice that beauty right away. They’d sense a scary aura.

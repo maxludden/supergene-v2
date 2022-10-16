@@ -1,21 +1,20 @@
 ---
-Title:One Punch One Kiss 
-Chapter:918 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: One Punch One Kiss
+chapter: 918
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## One Punch One Kiss
-### Chapter 918
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## One Punch One Kiss
+
+### Chapter 918
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The King of Truth shook his head and responded, "I have no idea what happened. The mirror was obliterated; it didn't stand a chance."
 
 "If you are unaware of why you lost, then why don't you try again?" The King of Day suggested.

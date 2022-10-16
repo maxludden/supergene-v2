@@ -1,21 +1,20 @@
 ---
-Title:The World Moves Because of Her 
-Chapter:2629 
-Section:12 
-Book:8 
-CSS:../Styles/style.css 
+title: The World Moves Because of Her
+chapter: 2629
+section: 12
+book: 8
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## The World Moves Because of Her
-### Chapter 2629
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## The World Moves Because of Her
+
+### Chapter 2629
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 As Exquisite stood in the arena, she looked more like a piece of machinery than a living being. Her expression was utterly placid, as if she could see through everything. Even sages and prophets wouldn’t be so calm and controlled.
 
 “No matter how many times I see this, I’m always struck by both the power and the cruelty of the Very High Eye. They have managed to combine the sky with their body. They should be the real Sky people. But combining with the Sky makes them a part of the universal ruleset. Does the real Exquisite still exist?” Sky Palace Leader looked at Exquisite and sighed.

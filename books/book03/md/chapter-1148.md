@@ -1,21 +1,20 @@
 ---
-Title:Torturing Yaksha 
-Chapter:1148 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Torturing Yaksha
+chapter: 1148
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Torturing Yaksha
-### Chapter 1148
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Torturing Yaksha
+
+### Chapter 1148
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Yaksha was furious. He only had one Crimson Fruit, as it was a treasure from a king spirit tree that could only provide one with each harvest. That harvest took one-hundred-thousand years to grow. He wouldn’t be able to receive another one quite so easily.
 
 But while Yaksha was angry, he was not in panic mode yet.

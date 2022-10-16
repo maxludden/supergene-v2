@@ -1,21 +1,20 @@
 ---
-Title:You’re Different 
-Chapter:1369 
-Section:4 
-Book:4 
-CSS:../Styles/style.css 
+title: You’re Different
+chapter: 1369
+section: 4
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## You’re Different
-### Chapter 1369
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## You’re Different
+
+### Chapter 1369
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 When Han Sen saw the person sitting there, he was in shock. It was the woman from the Demi-God Association: the mystic woman. It was the woman who did not say a word.
 
 “Why are you here?” After Han Sen said this, a thought sprang into his mind. He wondered if she might have simply been a mute, and if so, asking her a question was a little inconsiderate.

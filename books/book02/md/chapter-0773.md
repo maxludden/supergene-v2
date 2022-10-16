@@ -1,21 +1,20 @@
 ---
-Title:Spirit Gene 
-Chapter:773 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Spirit Gene
+chapter: 773
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Spirit Gene
-### Chapter 773
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Spirit Gene
+
+### Chapter 773
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 "Spirit Gene." Ji Yanran slowly spoke out both words.
 
 "Spirit genes? You can obtain genes by eating spirits?" Han Sen's eyes opened wide, as this was the first time he had ever heard about something like this.

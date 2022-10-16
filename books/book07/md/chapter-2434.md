@@ -1,21 +1,20 @@
 ---
-Title:Weird Girl 
-Chapter:2434 
-Section:11 
-Book:7 
-CSS:../Styles/style.css 
+title: Weird Girl
+chapter: 2434
+section: 11
+book: 7
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Weird Girl
-### Chapter 2434
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Weird Girl
+
+### Chapter 2434
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen felt something very powerful coming his way. His body leaned back reflexively, trying to get away from it. The blonde girl leaped on top of him.
 
 Miss Mirror didn’t move as the girl jumped and wrapped her arms around Han Sen’s neck, her weight slamming into his chest and taking him to the ground. They both became entangled, just as the fifth picture on the screen had shown.
@@ -56,7 +55,7 @@ Han Sen hadn’t even used strength. With the strength she had previously demons
 
 Miss Mirror eventually got back to her feet. She picked up the broken sword and tried to stab Lady Wan’er.
 
-Han Sen tightened his arms around the girl and dodged. Miss Mirror directed a hard stare at him. “What are you doing? Now is the best time to kill her. If she wakes up and becomes that blonde b*tch again, we won’t be able to kill her. Then we’ll be the ones to die.”
+Han Sen tightened his arms around the girl and dodged. Miss Mirror directed a hard stare at him. “What are you doing? Now is the best time to kill her. If she wakes up and becomes that blonde bitch again, we won’t be able to kill her. Then we’ll be the ones to die.”
 
 Han Sen frowned and looked at the girl. He had thought about doing this, as well.
 

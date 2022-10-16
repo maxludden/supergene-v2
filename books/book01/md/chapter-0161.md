@@ -1,36 +1,35 @@
 ---
-Title:Pet Evolution
-Chapter:161
-Section:1
-Book:1
-CSS:../Styles/style.css
+title: Pet Evolution
+chapter: 161
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
 
 ## Pet Evolution
+
 ### Chapter 161
 
 <figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
 </figure>
-
-
 
 In Han Sen’s room at Steel Armor Shelter, Han Sen was taken aback by the black tiger with a third eye on its forehead in front of him. The tiger’s claws looked like they were made from black metal. Han Sen could not believe it was Meowth that he was looking at. What was more surprising to him was the change in Meowth’s data.
 
 <div class="tables">
 	<table class="beast">
 		<tr>
-			<th>Beast Soul</th>
+			<th colspan="2">Beast Soul</th>
 		</tr><tr>
-			<td>Sacred-Blood Three-Eyed Cat<br>
-				<span class="type">(Pet)</span></td>
+			<td>Sacred-Blood Three-Eyed Cat</td>
+			<td>(Pet)</td>
 		</tr><tr>
-			<th class="note">Note: Transformed and Evolved</th>
+			<th class="note" colspan="2">Note: Transformed and Evolved</th>
 		</tr>
 	</table>
 	<!--Type of Beast Soul of Sacred-Blood Three-Eyed Cat: Pet (Transformed and Evolved).-->
-</div>
+</div> 
 
 
 The words were easy to understand, but shocking nonetheless. After eating some meat of mutant phantom ants, Meowth started to transform as a mutant pet. But after the transformation was over, it became a sacred-blood pet, which was something Han Sen had never heard of before.

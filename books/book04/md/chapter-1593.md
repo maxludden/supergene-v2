@@ -1,21 +1,20 @@
 ---
-Title:Wind Song Desert 
-Chapter:1593 
-Section:4 
-Book:4 
-CSS:../Styles/style.css 
+title: Wind Song Desert
+chapter: 1593
+section: 4
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Wind Song Desert
-### Chapter 1593
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Wind Song Desert
+
+### Chapter 1593
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 On Han Sen’s way back, he continued reading through the information Second Uncle provided him.
 
 He found information pertaining to key individuals of the New Community, including details of their whereabouts. There were three planets Second Uncle believed might be possible locations for their headquarters, and also possible locations for their leader.

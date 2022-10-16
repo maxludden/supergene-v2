@@ -1,21 +1,20 @@
 ---
-Title:Bao Lian 
-Chapter:2705 
-Section:13 
-Book:8 
-CSS:../Styles/style.css 
+title: Bao Lian
+chapter: 2705
+section: 13
+book: 8
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Bao Lian
-### Chapter 2705
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Bao Lian
+
+### Chapter 2705
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “What does reputation have to do with going to the god area to hunt xenogeneics?” Han Sen didn’t understand.
 
 Yu Shanxin’s smile was grim. He told Han Sen, “In the god area, they have more than just primitive xenogeneics. They have all kinds of deified-level xenogeneics. Even a super-strong half-deified will find themselves at the bottom of the god area food chain. Killing xenogeneics in the god area will be exceptionally difficult. Taking 10,000 steps backward, even if you could kill them, you shouldn’t have to go to the god area. Outer Sky already has many xenogeneics. In fact, they probably have more than live in the god area, so the silkworms shouldn’t have to go to the god area.”

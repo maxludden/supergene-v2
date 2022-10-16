@@ -1,21 +1,20 @@
 ---
-Title:God Area 
-Chapter:2704 
-Section:13 
-Book:8 
-CSS:../Styles/style.css 
+title: God Area
+chapter: 2704
+section: 13
+book: 8
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## God Area
-### Chapter 2704
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## God Area
+
+### Chapter 2704
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Horizontal Evil was suffering constant torture, but he still managed to laugh. “Even if everyone abandons me, neither the living nor the dead will accept the Breakskies. So, what does it matter? Do you guys want Super Gene? Well, I’m not giving it to anyone.”
 
 Han Sen caught his breath when he heard that. Finally, another mention of the elusive Super Gene.

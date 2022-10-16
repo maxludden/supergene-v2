@@ -1,21 +1,20 @@
 ---
-Title:The Treasure 
-Chapter:472 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: The Treasure
+chapter: 472
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## The Treasure
-### Chapter 472
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## The Treasure
+
+### Chapter 472
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Feeling the numbness in his brain, Han Sen was alerted by the coolness from his pituitary, making his brain clearer than ever.
 
 "Brain crystals are indeed fantastic stuff. Unfortunately, its effect will fade gradually. In the end, the brain will only be developed slightly." Han Sen put away the rest of the brain crystals and looked to the triangular exit in the center of the room.

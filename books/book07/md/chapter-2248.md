@@ -1,21 +1,20 @@
 ---
-Title:Benefi 
-Chapter:2248 
-Section:10 
-Book:7 
-CSS:../Styles/style.css 
+title: Benefi
+chapter: 2248
+section: 10
+book: 7
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Benefi
-### Chapter 2248
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Benefi
+
+### Chapter 2248
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen looked at the blood kirin, and his eyes shone as if he was looking at a giant, delicious piece of cake.
 
 Now he finally understood how the child of a mere Viscount had reached King class after being born amidst the bones.

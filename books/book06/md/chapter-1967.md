@@ -1,21 +1,20 @@
 ---
-Title:Absorbing Jade Air 
-Chapter:1967 
-Section:8 
-Book:6 
-CSS:../Styles/style.css 
+title: Absorbing Jade Air
+chapter: 1967
+section: 8
+book: 6
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Absorbing Jade Air
-### Chapter 1967
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Absorbing Jade Air
+
+### Chapter 1967
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The feeling was amazing. It was like many small ice cubes were melting around him. They melted when they touched his skin, and were then absorbed.
 
 As the Jade Air was absorbed into his cells, Han Sen noticed some changes that were happening across his body. His skin was developing a jade-like color. Under the influence of the Jade Air, Yun Fei and the others were all shining like crystals. They were like statues built from jade.

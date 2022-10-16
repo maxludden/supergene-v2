@@ -1,21 +1,20 @@
 ---
-Title:You Don’t Have to Understand 
-Chapter:1704 
-Section:5 
-Book:4 
-CSS:../Styles/style.css 
+title: You Don’t Have to Understand
+chapter: 1704
+section: 5
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## You Don’t Have to Understand
-### Chapter 1704
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## You Don’t Have to Understand
+
+### Chapter 1704
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The sound of breaking flesh felt good to listen to. Seeing the blood cascade from the torn skin, the officer became ravenously excited.
 
 Pang!

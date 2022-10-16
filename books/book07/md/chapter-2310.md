@@ -1,21 +1,20 @@
 ---
-Title:Impermanence 
-Chapter:2310 
-Section:11 
-Book:7 
-CSS:../Styles/style.css 
+title: Impermanence
+chapter: 2310
+section: 11
+book: 7
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Impermanence
-### Chapter 2310
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Impermanence
+
+### Chapter 2310
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Bai Wei frowned and gathered up an invisible power in her fist. She was going to cast her Extreme King Punch. But all of a sudden, she felt something tighten around her waist. A strong arm grabbed her and yanked her backward.
 
 Han Sen stood in front of Bai Wei. His eyes were so clear, and his Ghost Teeth Knife was brimming with a dark purple knife air. It rose to meet Bai Wuchang’s knife.

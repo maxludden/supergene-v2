@@ -1,21 +1,20 @@
 ---
-Title:Strange Reaction 
-Chapter:1962 
-Section:8 
-Book:6 
-CSS:../Styles/style.css 
+title: Strange Reaction
+chapter: 1962
+section: 8
+book: 6
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Strange Reaction
-### Chapter 1962
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Strange Reaction
+
+### Chapter 1962
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 On an island in Sky Palace, a middle-aged man in gray clothing watched the gourd vine.
 
 “Father, what are you looking at?” A young lady walked up the middle-aged man in gray clothing and looked in the same direction.

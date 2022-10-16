@@ -1,21 +1,20 @@
 ---
-Title:Killed by One Strike 
-Chapter:516 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Killed by One Strike
+chapter: 516
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Killed by One Strike
-### Chapter 516
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Killed by One Strike
+
+### Chapter 516
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Meowth that was eating suddenly bristled. It bared its teeth toward the direction of the noise and growled fiercely.
 
 Han Sen stared at the direction of the snowcapped mountain, and soon saw a creature that looked like a triceratops rushing out from behind the mountain.

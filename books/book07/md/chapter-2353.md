@@ -1,21 +1,20 @@
 ---
-Title:Nine-headed Bird 
-Chapter:2353 
-Section:11 
-Book:7 
-CSS:../Styles/style.css 
+title: Nine-headed Bird
+chapter: 2353
+section: 11
+book: 7
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Nine-headed Bird
-### Chapter 2353
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Nine-headed Bird
+
+### Chapter 2353
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “Ridiculous!” Han Sen shouted, pretending to be angry. He used his king area to cover Nine-Headed Bird.
 
 The water area shrouded Nine-Headed Bird, turning into a rain of water that restricted Nine-Headed Bird’s body.
@@ -86,7 +85,7 @@ Pang! Pang! Pang!
 
 The fist and the umbrella kept coming against each other in the sky. In just a few punches, the King class item was broken under Han Sen’s fist.
 
-“Shit! Shouldn’t you have called that the Battle God King Body? This is so f*cking ridiculous!” Nine-Headed Bird kept shouting as he fought.
+“Shit! Shouldn’t you have called that the Battle God King Body? This is so fucking ridiculous!” Nine-Headed Bird kept shouting as he fought.
 
 He was a half-deified being, but he was using every ounce of his power to hold off Han Sen. And still, Han Sen had him at a severe disadvantage. His bones were cracking, and it sounded like they were going to snap.
 
@@ -104,7 +103,7 @@ Xius and the others were watching the two fight in the sky. As she watched the g
 
 Nine-Headed Bird, upon hearing these comments, became furious. He knew that Han Sen was much weaker than him, but the Kingese powering Han Sen’s body were simply too powerful. The whole universe and all its creatures were answering to Han Sen. His every punch was combined with the power of the sky and the ground. It was enough to surpass Nine-Headed Bird’s own power.
 
-Nine-Headed Bird was punched in the face. He was sent flying away again, sputtering in anger. “F*ck you! If I don’t attack with everything I have, you’ll think I’m nothing more than a housecat. Time to show you that I’m a tiger.”
+Nine-Headed Bird was punched in the face. He was sent flying away again, sputtering in anger. “Fuck you! If I don’t attack with everything I have, you’ll think I’m nothing more than a housecat. Time to show you that I’m a tiger.”
 
 He shook his arms, and a black light glowed out of his body. His arms became black wings as his body began to swell. He became a disturbing black bird.
 

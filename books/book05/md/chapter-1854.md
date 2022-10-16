@@ -1,21 +1,20 @@
 ---
-Title:Walking Out of the Hall 
-Chapter:1854 
-Section:7 
-Book:5 
-CSS:../Styles/style.css 
+title: Walking Out of the Hall
+chapter: 1854
+section: 7
+book: 5
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Walking Out of the Hall
-### Chapter 1854
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Walking Out of the Hall
+
+### Chapter 1854
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Xie Qing King stopped just short of the entrance and spoke aloud to Han Sen. “Do you really have a way? If you don’t, I’ll pull you out of there!”
 
 “Don’t worry. I have a way,” Han Sen said calmly.

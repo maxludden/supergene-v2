@@ -1,21 +1,20 @@
 ---
-Title:Severe Consequences 
-Chapter:201 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: Severe Consequences
+chapter: 201
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Severe Consequences
-### Chapter 201
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Severe Consequences
+
+### Chapter 201
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 When Wen Xiuxiu thought the interviews could not continue, she saw the online broadcasting had started and switched to stream the competition.
 
 Soon the first line-ups of both teams were shown and first up were St. Germain’s five members.

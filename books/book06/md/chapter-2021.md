@@ -1,21 +1,20 @@
 ---
-Title:Tough Will 
-Chapter:2021 
-Section:8 
-Book:6 
-CSS:../Styles/style.css 
+title: Tough Will
+chapter: 2021
+section: 8
+book: 6
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Tough Will
-### Chapter 2021
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Tough Will
+
+### Chapter 2021
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Inside a storage shed in a kindergarten, Lu Zimei was in a strange position. She was sweating and her skin was red.
 
 “I can do it…” Lu Zimei was lying on the floor, gasping.

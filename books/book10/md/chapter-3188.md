@@ -1,21 +1,20 @@
 ---
-Title:Blood-pulse Test 
-Chapter:3188 
-Section:16 
-Book:10 
-CSS:../Styles/style.css 
+title: Blood-pulse Test
+chapter: 3188
+section: 16
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Blood-pulse Test
-### Chapter 3188
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Blood-pulse Test
+
+### Chapter 3188
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “Pick your nose… Crawl like a dog… Pee like a dog…” Bao’er was playing with the paper man. Rocky Dee was feeling grossly embarrassed.
 
 “Why don’t you just kill me?” Rocky Dee madly shouted at Bao’er.

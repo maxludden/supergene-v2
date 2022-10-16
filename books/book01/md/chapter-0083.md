@@ -1,21 +1,20 @@
 ---
-Title:One-minute Fight 
-Chapter:83 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: One-minute Fight
+chapter: 83
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## One-minute Fight
-### Chapter 83
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## One-minute Fight
+
+### Chapter 83
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 "Dollar of course. Right, Manli?" Su Xiaoqiao asked.
 
 Yang Manli nodded, apparently agreeing with Su Xiaoqiao.

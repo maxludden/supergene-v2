@@ -1,21 +1,20 @@
 ---
-Title:Sacred-blood Copper-toothed Beast 
-Chapter:53 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: Sacred-blood Copper-toothed Beast
+chapter: 53
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Sacred-blood Copper-toothed Beast
-### Chapter 53
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Sacred-blood Copper-toothed Beast
+
+### Chapter 53
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 After wrapping up the dead body of the purple-winged dragon, everyone returned to Steel Armor Sanctuary and Qin Xuan called Han Sen into her office.
 
 "Did you get the beast soul?" Qin Xuan stared at Han Sen.

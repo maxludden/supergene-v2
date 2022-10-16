@@ -1,21 +1,20 @@
 ---
-Title:Swordheart Area 
-Chapter:2672 
-Section:13 
-Book:8 
-CSS:../Styles/style.css 
+title: Swordheart Area
+chapter: 2672
+section: 13
+book: 8
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Swordheart Area
-### Chapter 2672
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Swordheart Area
+
+### Chapter 2672
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “I would consider Gru’s power to be middle-of-the-road out of the twelve silkworms. He can be a whetstone for other silkworms to grind against, and he will be an excellent demonstration of Han Sen’s strength.” Liyu Zhen looked excited as he stared at the video.
 
 Li Xue Cheng looked nervous as he said, “As long as Han Sen doesn’t reach first place, anyone else can claim the metaphorical throne. I do think we may have overreached with our gamble, though. Even Open Sky Elder wagered the fabled Open Sky jewelry on Han Sen ending up in first place. That was so strange… Open Sky Elder knew this silkworm fight wouldn’t allow the use of treasures. Why would he still bet on Han Sen reigning supreme? If we lose, we will lose everything we have.”

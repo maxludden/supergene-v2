@@ -1,21 +1,20 @@
 ---
-Title:The Hall Shrouded in Death 
-Chapter:1877 
-Section:7 
-Book:5 
-CSS:../Styles/style.css 
+title: The Hall Shrouded in Death
+chapter: 1877
+section: 7
+book: 5
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## The Hall Shrouded in Death
-### Chapter 1877
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## The Hall Shrouded in Death
+
+### Chapter 1877
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “So what if it is a deified item? Without the deified one to control it, what can they really do?” a King asked, his voice hard. His body looked very bright. He took his subordinates and a Gana outside the hall.
 
 His godlights tore through the darkness, lighting up the outside of the hall. The Nobles in his employ followed him. They traveled through the dark, wanting to return to their ships.
@@ -54,7 +53,7 @@ There were some people still in the hall. The Gana, the Kao, and a few Nobles th
 
 The Nobles that had come with a King had already run out, but they had mostly been killed. The Kings were unable to take care of their subordinates.
 
-“Fuck! Speak, b*tch! How do we stop this thing? If you don’t tell me, I’ll kill you!” Many Nobles were threatening to murder all the Gana.
+“Fuck! Speak, bitch! How do we stop this thing? If you don’t tell me, I’ll kill you!” Many Nobles were threatening to murder all the Gana.
 
 One Duke grabbed the Gana lady and slapped her. Her face went swollen.
 

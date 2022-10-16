@@ -1,21 +1,20 @@
 ---
-Title:Mysterious Deser 
-Chapter:2666 
-Section:13 
-Book:8 
-CSS:../Styles/style.css 
+title: Mysterious Deser
+chapter: 2666
+section: 13
+book: 8
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Mysterious Deser
-### Chapter 2666
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Mysterious Deser
+
+### Chapter 2666
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 He seemed to remember that when Li Keer was in the Very High, she frequently traveled to the core area. But Exquisite had told him that being in Outer Sky shut off his access to the core area. He thought she might have been telling the truth, since the many times he tried to access the core area had all ended in failure.
 
 “There is a specific place in Outer Sky that you can go to that allows you to open the core hall door. But this is a place that not even students of the Very High can go to. If you have an urgent emergency that requires you to access the core area, perhaps I can help you.” Li Keer looked at Han Sen with curiosity. She was curious why Han Sen wanted to go to the core area so badly.

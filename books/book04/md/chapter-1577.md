@@ -1,21 +1,20 @@
 ---
-Title:Destroyer Wolf 
-Chapter:1577 
-Section:4 
-Book:4 
-CSS:../Styles/style.css 
+title: Destroyer Wolf
+chapter: 1577
+section: 4
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Destroyer Wolf
-### Chapter 1577
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Destroyer Wolf
+
+### Chapter 1577
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen flew above the small section of clear water, and he tried to see whether there was any difference in the water. That section of the lake looked like a well. It was clear from top to bottom, yet all the water around it was dark. The dark water and the clear water didn’t integrate at all.
 
 However, it was already after sunset, and the water was very deep, so even if they looked directly down on the clear water, they could only see darkness. They had no idea how deep it was.

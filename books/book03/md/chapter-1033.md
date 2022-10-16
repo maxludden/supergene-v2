@@ -1,21 +1,20 @@
 ---
-Title:Taking the Treasure 
-Chapter:1033 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Taking the Treasure
+chapter: 1033
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Taking the Treasure
-### Chapter 1033
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Taking the Treasure
+
+### Chapter 1033
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen climbed the pine tree, but still couldn’t see Bao’er.
 
 “Bao’er, where are you?” Han Sen shouted.

@@ -1,21 +1,20 @@
 ---
-Title:Wolfpack 
-Chapter:1404 
-Section:4 
-Book:4 
-CSS:../Styles/style.css 
+title: Wolfpack
+chapter: 1404
+section: 4
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Wolfpack
-### Chapter 1404
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Wolfpack
+
+### Chapter 1404
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Everyone shared a similar reaction to Han Sen. As soon as they saw what lay ahead, they all wished to flee.
 
 They ran into the invisible barrier behind them face first. Many of their faces even started to bleed, due to the speed at which they tried to escape.

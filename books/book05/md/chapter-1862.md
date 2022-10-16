@@ -1,21 +1,20 @@
 ---
-Title:Geno Art in the Moonlight 
-Chapter:1862 
-Section:7 
-Book:5 
-CSS:../Styles/style.css 
+title: Geno Art in the Moonlight
+chapter: 1862
+section: 7
+book: 5
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Geno Art in the Moonlight
-### Chapter 1862
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Geno Art in the Moonlight
+
+### Chapter 1862
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 There was no use in watching the livestream now, because the moonlight was like a curtain that obscured everything that lay beyond.
 
 Han Sen stood inside the palace. He could feel the moonlight going into his skin. His bones and cells felt alive, as if they were being thoroughly cleansed by blessed water.

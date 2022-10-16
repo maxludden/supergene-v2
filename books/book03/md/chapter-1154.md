@@ -1,21 +1,20 @@
 ---
-Title:The Usual Stuff 
-Chapter:1154 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: The Usual Stuff
+chapter: 1154
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## The Usual Stuff
-### Chapter 1154
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## The Usual Stuff
+
+### Chapter 1154
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 It was only her head on the coin, but it had been delicately crafted. And simmering beneath the surface of that innocent image was an untold power.
 
 And startlingly, the face was familiar to Han Sen. He knew of a person who’s face looked exactly like the one on the coin. It took a while for him to remember her image, due to him having only seen this woman once.

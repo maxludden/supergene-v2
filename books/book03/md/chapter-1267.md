@@ -1,21 +1,20 @@
 ---
-Title:Dragon Fish 
-Chapter:1267 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Dragon Fish
+chapter: 1267
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Dragon Fish
-### Chapter 1267
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Dragon Fish
+
+### Chapter 1267
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The fish king’s gold body was unable to prevent the advance of the skeletons. The now-bony fiends were transparent, and the fish was unable to strike or even touch them. But when they tried biting into the fish king, they were able to sink their teeth into its flesh and rip out small chunks.
 
 They were like a swarm of little maggots, all converging on the fish king to nibble it to death. As they all bit into it, they dyed the surroundings red with blood.

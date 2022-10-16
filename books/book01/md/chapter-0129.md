@@ -1,21 +1,20 @@
 ---
-Title:Sacred-blood Fox King 
-Chapter:129 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: Sacred-blood Fox King
+chapter: 129
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Sacred-blood Fox King
-### Chapter 129
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Sacred-blood Fox King
+
+### Chapter 129
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 If Han Sen was alone, he could simply summon the purple-winged dragon beast soul and fly up. However, he had Wang Mengmeng to protect and could not do that.
 
 *Boom!*

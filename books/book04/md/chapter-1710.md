@@ -1,21 +1,20 @@
 ---
-Title:Snakes 
-Chapter:1710 
-Section:5 
-Book:4 
-CSS:../Styles/style.css 
+title: Snakes
+chapter: 1710
+section: 5
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Snakes
-### Chapter 1710
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Snakes
+
+### Chapter 1710
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 In the dark holes, there was something red like lanterns shining. When the red lights rose to the surface, they were revealed to be the triangularly-shaped heads of snakes. The red lights were their gleaming eyes.
 
 Now, black things were pouring out of the dark holes. They came straight for Han Sen, making a sharp noise.

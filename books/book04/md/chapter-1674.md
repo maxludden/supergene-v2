@@ -1,21 +1,20 @@
 ---
-Title:Dongxuan Mutation 
-Chapter:1674 
-Section:4 
-Book:4 
-CSS:../Styles/style.css 
+title: Dongxuan Mutation
+chapter: 1674
+section: 4
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Dongxuan Mutation
-### Chapter 1674
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Dongxuan Mutation
+
+### Chapter 1674
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Lou Jia waited until Han Yufei was gone, and they were at their most relieved. He reached his hand out to Ji Yanran, hoping to take Littleflower.
 
 Stay Up Late frowned and wanted to help, but just as he was going to strike, he stopped. There were two scary powers coming out of Ji Yanran.

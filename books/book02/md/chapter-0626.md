@@ -1,21 +1,20 @@
 ---
-Title:Raven 
-Chapter:626 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Raven
+chapter: 626
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Raven
-### Chapter 626
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Raven
+
+### Chapter 626
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 "It's no good for him to continue like this. If he exhausts his strength, he'll be in danger," Xu Dongjin commented, as he watched Han Sen zip around the sky. Continuing to talk, he said, "Queen, ought we provide him aid?"
 
 Xu Dongjin's offer to support Han Sen was not out of the kindness of his heart. He saw that Han Sen had attracted the attention of countless murderous birds, and with the majority pre-occupied in the pursuit of Han Sen, he and Queen would be free to bag plenty of easy kills.

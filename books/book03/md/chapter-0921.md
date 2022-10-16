@@ -1,21 +1,20 @@
 ---
-Title:Scary Talent 
-Chapter:921 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Scary Talent
+chapter: 921
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Scary Talent
-### Chapter 921
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Scary Talent
+
+### Chapter 921
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 There were a lot of powerful creatures populating the knotted expanse of Thorn Forest; creatures Han Sen was currently unable to beat. Even if Han Sen could use his super king spirit mode for a long time, to kill creatures with six or more gene locks active, would be incredibly difficult.
 
 "I should put my skates on and hurry to open my second gene lock. I should do that, and at the same time max out my basic and primitive geno points. My fitness level should be high enough for me to open the third gene lock, then." Han Sen contemplated his next move.

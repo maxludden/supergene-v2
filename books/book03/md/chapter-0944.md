@@ -1,21 +1,20 @@
 ---
-Title:The Hunt Begins 
-Chapter:944 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: The Hunt Begins
+chapter: 944
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## The Hunt Begins
-### Chapter 944
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## The Hunt Begins
+
+### Chapter 944
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen ascended a mountain, led by an old man. He was on his way to Thorn Shelter.
 
 The mountainsides were steep, and unlike the woodland that circled them, they were barren. The environment there was poor, which provided little reason for creatures to visit; as such, there was a noticeable lack of them.

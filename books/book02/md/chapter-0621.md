@@ -1,21 +1,20 @@
 ---
-Title:Indestructible 
-Chapter:621 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Indestructible
+chapter: 621
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Indestructible
-### Chapter 621
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Indestructible
+
+### Chapter 621
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The atmosphere was cold. It was so cold, it felt as if the air itself was close to freezing over.
 
 "Big Sis, we have spent so many years together... are you just going to throw it all away?" Lazy Cat pleaded with red eyes.

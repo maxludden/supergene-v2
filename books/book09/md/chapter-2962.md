@@ -1,21 +1,20 @@
 ---
-Title:Destiny 
-Chapter:2962 
-Section:15 
-Book:9 
-CSS:../Styles/style.css 
+title: Destiny
+chapter: 2962
+section: 15
+book: 9
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Destiny
-### Chapter 2962
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Destiny
+
+### Chapter 2962
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “It is useless,” Old Vulture said with a cocky laugh. “The race lantern has returned. Even a sky full of God Spirits would not stand a chance. Aside from Little Master, who has a holy body, no one can go in. No one can hurt it.”
 
 The demon lady asked, “Han Sen, why are you so stubborn? Little Master is everyone’s leader. You are his father. Why are you getting in his way?”

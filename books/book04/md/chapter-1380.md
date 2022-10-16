@@ -1,21 +1,20 @@
 ---
-Title:Starsea Orb 
-Chapter:1380 
-Section:4 
-Book:4 
-CSS:../Styles/style.css 
+title: Starsea Orb
+chapter: 1380
+section: 4
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Starsea Orb
-### Chapter 1380
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Starsea Orb
+
+### Chapter 1380
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “This is Outer Sky’s territory. It would be best not to expose ourselves,” the woman said, pulling the dog away.
 
 “Well, since we’re here, shouldn’t we look around?” the dog pleaded.

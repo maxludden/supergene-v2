@@ -1,21 +1,20 @@
 ---
-Title:Fighting Will 
-Chapter:257 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: Fighting Will
+chapter: 257
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Fighting Will
-### Chapter 257
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Fighting Will
+
+### Chapter 257
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 "Let's go. No need to watch anymore." Jing Jiwu got up first.
 
 "He is indeed a formidable opponent. I look forward to fighting against him. It's such a shame that all his teammates are weak." Qin Cheng nodded. As a player who had a similar style to Han Sen, he was very impressed by Han Sen's ability to judge correctly.

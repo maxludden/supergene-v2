@@ -1,21 +1,20 @@
 ---
-Title:Girls Should Not Fight 
-Chapter:2436 
-Section:11 
-Book:7 
-CSS:../Styles/style.css 
+title: Girls Should Not Fight
+chapter: 2436
+section: 11
+book: 7
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Girls Should Not Fight
-### Chapter 2436
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Girls Should Not Fight
+
+### Chapter 2436
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The white-haired man looked at the little red bird in his hand. It kept squirming, thrashing its wings as it tried to escape the grasp. He spoke to himself, saying, “You really have phoenix and fish bird genes? And it is still so young? Who could do something like this?”
 
 Bao’er looked at the white-haired man. She blinked and said, “Are you going to bully a kid and her pet?”

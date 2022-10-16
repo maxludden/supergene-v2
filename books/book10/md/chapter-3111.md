@@ -1,21 +1,20 @@
 ---
-Title:Qin Bai the Witness 
-Chapter:3111 
-Section:16 
-Book:10 
-CSS:../Styles/style.css 
+title: Qin Bai the Witness
+chapter: 3111
+section: 16
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Qin Bai the Witness
-### Chapter 3111
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Qin Bai the Witness
+
+### Chapter 3111
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Steel Scene was murdered inside Ice Snow God Temple. Gong Shu Zhi, Si Tu Ya, and Lu San Zhi were murdered inside Ice Snow City’s Steel Manor. The news was heard all over Jade Wall City.
 
 The king’s guard’s main general was a character who lived in Jade Wall City and enjoyed quite a high reputation. He was in charge of the safety of Jade Wall City, yet he was murdered inside his own house. It had been over a century since something that terrible had happened in Jade Wall City.

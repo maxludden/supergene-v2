@@ -1,21 +1,20 @@
 ---
-Title:Weird Hordes of Cloud Beasts 
-Chapter:2489 
-Section:12 
-Book:8 
-CSS:../Styles/style.css 
+title: Weird Hordes of Cloud Beasts
+chapter: 2489
+section: 12
+book: 8
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Weird Hordes of Cloud Beasts
-### Chapter 2489
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Weird Hordes of Cloud Beasts
+
+### Chapter 2489
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Frustration filled Han Sen. Since leaving Lando and Meng Lie, he had changed directions many times and even crossed back over his own path. He could barely believe that Meng Lie had still managed to find him.
 
 “If I knew he’d show up, I wouldn’t have come back. That sea of clouds was weird, but I’d be better off there than here facing Meng Lie.” Han Sen turned around, wanting to return to that sea of clouds.

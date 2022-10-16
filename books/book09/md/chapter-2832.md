@@ -1,21 +1,20 @@
 ---
-Title:You Are Not Qualified Enough 
-Chapter:2832 
-Section:14 
-Book:9 
-CSS:../Styles/style.css 
+title: You Are Not Qualified Enough
+chapter: 2832
+section: 14
+book: 9
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## You Are Not Qualified Enough
-### Chapter 2832
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## You Are Not Qualified Enough
+
+### Chapter 2832
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 "Do you know why you are not able to practice it, but I can practice it?" Han Sen looked at the Very High Leader.
 
 The Very High Leader looked at Han Sen and asked, "Why?" That was what he was wondering too.

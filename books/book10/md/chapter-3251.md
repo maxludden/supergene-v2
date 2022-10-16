@@ -1,21 +1,20 @@
 ---
-Title:Chu Yuan 
-Chapter:3251 
-Section:16 
-Book:10 
-CSS:../Styles/style.css 
+title: Chu Yuan
+chapter: 3251
+section: 16
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Chu Yuan
-### Chapter 3251
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Chu Yuan
+
+### Chapter 3251
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “If I were you, I would not take another step forward,” a voice bellowed from the sky.
 
 Zhen Xia and the others raised their heads to look. They saw nine Holy Wen White Deer drawing a carriage. They had just ripped through space to arrive. They came down and stopped next to Zhen Xia. The voice came from within the jade carriage.

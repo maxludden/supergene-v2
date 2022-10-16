@@ -1,21 +1,20 @@
 ---
-Title:One Bite, One Child 
-Chapter:2151 
-Section:8 
-Book:6 
-CSS:../Styles/style.css 
+title: One Bite, One Child
+chapter: 2151
+section: 8
+book: 6
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## One Bite, One Child
-### Chapter 2151
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## One Bite, One Child
+
+### Chapter 2151
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 They waited a while, but nothing rushed out of the pit. And gradually, the sounds of explosions became less and less frequent.
 
 As everyone was still staring in confusion, their eyes drifted to the side of the pit. A small white paw with metal claws had risen just over the edge. The claws looked ferociously sharp, but the paw was only the size of a baby’s hand, though.

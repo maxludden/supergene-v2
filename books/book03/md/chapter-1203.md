@@ -1,21 +1,20 @@
 ---
-Title:Double Talent 
-Chapter:1203 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Double Talent
+chapter: 1203
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Double Talent
-### Chapter 1203
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Double Talent
+
+### Chapter 1203
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Two months passed, and all the while, Han Sen spent his days learning about time and space in the creation of a new hyper geno art. Han Sen was able to simulate Moment Queen’s energy flow, but so far, he could only speed up time and not slow it.
 
 Han Sen only had one hundred time king spirit geno points, unlike Moment Queen, who was born with a direct attunement to the element.

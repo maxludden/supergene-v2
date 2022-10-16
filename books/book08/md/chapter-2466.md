@@ -1,21 +1,20 @@
 ---
-Title:Fighting God 
-Chapter:2466 
-Section:12 
-Book:8 
-CSS:../Styles/style.css 
+title: Fighting God
+chapter: 2466
+section: 12
+book: 8
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Fighting God
-### Chapter 2466
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Fighting God
+
+### Chapter 2466
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “Sacred Leader made a wish?” Han Sen looked at the woman with shock.
 
 The woman shook her head. “No. Sacred Leader was a very self-confident person. If he wanted to achieve immortality, he would find it by himself. He wouldn’t make a wish to another creature.”

@@ -1,21 +1,20 @@
 ---
-Title:An Interesting Person 
-Chapter:98 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: An Interesting Person
+chapter: 98
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## An Interesting Person
-### Chapter 98
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## An Interesting Person
+
+### Chapter 98
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen approached Tang, holding a dagger backhandedly, a way he had learned from Yi.
 
 Two feet away from Tang, Han Sen suddenly wielded the dagger and stabbed it at him from an unexpected angle.

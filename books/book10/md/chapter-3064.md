@@ -1,21 +1,20 @@
 ---
-Title:Jian Bu Gu 
-Chapter:3064 
-Section:16 
-Book:10 
-CSS:../Styles/style.css 
+title: Jian Bu Gu
+chapter: 3064
+section: 16
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Jian Bu Gu
-### Chapter 3064
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Jian Bu Gu
+
+### Chapter 3064
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Although Han Sen’s simplified assumption of them being slaves was correct, this was simply how the seven kingdoms of the universe worked. It wasn’t as if saving a few slaves would ever solve the problem.
 
 Seeing these slaves, he noticed there were many children in their midst. They were all wearing AI bracelets and AI handcuffs. They were like cats and dogs being chased. Han Sen shook his head.

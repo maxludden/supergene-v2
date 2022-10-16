@@ -1,21 +1,20 @@
 ---
-Title:The Red Mist in the Valley 
-Chapter:1869 
-Section:7 
-Book:5 
-CSS:../Styles/style.css 
+title: The Red Mist in the Valley
+chapter: 1869
+section: 7
+book: 5
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## The Red Mist in the Valley
-### Chapter 1869
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## The Red Mist in the Valley
+
+### Chapter 1869
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Deep in the mountains on Planet Eclipse, Han Sen, Xie Qing King, Gu Qingcheng, and Little Silver, were traveling. After Xie Qing King and Gu Qingcheng became Viscounts, Little Silver became one, too.
 
 Now Han Sen was depressed. Little Angel, Zero, and he had not been infected. If they had, it was likely they could have leveled up to Viscount with much greater ease. They wouldn’t have needed to practice half as much.

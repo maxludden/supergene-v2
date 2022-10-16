@@ -1,21 +1,20 @@
 ---
-Title:Third God's Sanctuary 
-Chapter:883 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Third God's Sanctuary
+chapter: 883
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Third God's Sanctuary
-### Chapter 883
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Third God's Sanctuary
+
+### Chapter 883
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The gourd was trembling in Han Sen's hand. At its tip, a black hole-like distortion had manifested, warping the very dimension around it.
 
 "Is something going to be born from the gourd now? Did the Evolution Pool really help it?" Han Sen was excited, looking at the gourd.

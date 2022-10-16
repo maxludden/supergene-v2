@@ -1,21 +1,20 @@
 ---
-Title:Maxing Out Sacred Geno Points 
-Chapter:700 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Maxing Out Sacred Geno Points
+chapter: 700
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Maxing Out Sacred Geno Points
-### Chapter 700
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Maxing Out Sacred Geno Points
+
+### Chapter 700
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen picked it up and started playing with it. When he looked at it from the outside, he noticed no difference. It looked as plain as all the other eggs, lacking any indication that it was special.
 
 He squeezed it with his hand, but it was like a solid ball of rubber. With its elasticity, it resumed its initial shape after being pushed or squashed. Han Sen could not break it.

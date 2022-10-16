@@ -1,21 +1,20 @@
 ---
-Title:One Arrow Strikes the Hear 
-Chapter:1767 
-Section:6 
-Book:5 
-CSS:../Styles/style.css 
+title: One Arrow Strikes the Hear
+chapter: 1767
+section: 6
+book: 5
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## One Arrow Strikes the Hear
-### Chapter 1767
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## One Arrow Strikes the Hear
+
+### Chapter 1767
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Inside a pool of still water, Han Sen lay motionless beneath its surface. He watched everything that was happening around him.
 
 Since running into the forest, he had run non-stop for the past four days. He could not keep track of how many Nobles he had killed, but they just kept on coming. He hadn’t had a moment’s rest. There were at least five Viscount Nobles giving chase, as well. After endless fighting, the Dongxuan Armor had incurred many marks.
@@ -32,7 +31,7 @@ Han Sen hadn’t bothered returning to the sanctuary, though, because running aw
 
 Han Sen was taking a ten-minute break, hiding in the pool. He eventually heard footsteps approach.
 
-“Shit! Where did that *sshole go! How the hell does a Baron have this much power, endurance, and skill?” growled a rough voice from close-by.
+“Shit! Where did that asshole go! How the hell does a Baron have this much power, endurance, and skill?” growled a rough voice from close-by.
 
 It was the Viscount with a sword. Han Sen had learned that his name was Hawei.
 

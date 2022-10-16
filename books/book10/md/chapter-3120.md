@@ -1,21 +1,20 @@
 ---
-Title:Under the Plum Tree 
-Chapter:3120 
-Section:16 
-Book:10 
-CSS:../Styles/style.css 
+title: Under the Plum Tree
+chapter: 3120
+section: 16
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Under the Plum Tree
-### Chapter 3120
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Under the Plum Tree
+
+### Chapter 3120
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen looked at Bald Guy and asked, “What is this land pulse’s plum tree weird scene?”
 
 Bald Guy touched his big, bald head. He looked rather embarrassed as he said, “Although I cannot tell what this weird scene is, I am pretty sure it is an amazing one.”

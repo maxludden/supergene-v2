@@ -1,21 +1,20 @@
 ---
-Title:Living Is Important 
-Chapter:1390 
-Section:4 
-Book:4 
-CSS:../Styles/style.css 
+title: Living Is Important
+chapter: 1390
+section: 4
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Living Is Important
-### Chapter 1390
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Living Is Important
+
+### Chapter 1390
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen noticed it was a mini-me of the Death Demon Dragon; an exact, but smaller version of the creature. It was three meters long and purple in color. It was still rather large, but that was just a testament to how big the papa mantis really was.
 
 Buzz!

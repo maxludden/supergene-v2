@@ -1,21 +1,20 @@
 ---
-Title:Escape 
-Chapter:2242 
-Section:10 
-Book:7 
-CSS:../Styles/style.css 
+title: Escape
+chapter: 2242
+section: 10
+book: 7
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Escape
-### Chapter 2242
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Escape
+
+### Chapter 2242
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 With the Demon Bug King Bai Sema’s protection, Han Sen quickly escaped to an unexplored area of Planet Ice Blue.
 
 Ice Blue Knight King teleported after Han Sen with a fist brimming with power, and he thrust it forward against the Demon Bug King Bai Sema. The Bai Sema vibrated, but it showed no sign of cracking.

@@ -1,21 +1,20 @@
 ---
-Title:Real or Fake 
-Chapter:2462 
-Section:12 
-Book:8 
-CSS:../Styles/style.css 
+title: Real or Fake
+chapter: 2462
+section: 12
+book: 8
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Real or Fake
-### Chapter 2462
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Real or Fake
+
+### Chapter 2462
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen didn’t speak. He quickly turned around and activated his Area.
 
 Han Sen caught his breath. The woman was standing not too far behind Han Sen, and she was smiling.

@@ -1,21 +1,20 @@
 ---
-Title:Pavilion 
-Chapter:2933 
-Section:15 
-Book:9 
-CSS:../Styles/style.css 
+title: Pavilion
+chapter: 2933
+section: 15
+book: 9
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Pavilion
-### Chapter 2933
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Pavilion
+
+### Chapter 2933
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 After his encounter with the death angel, Han Sen did not dare use his Dongxuan Aura to peep into people in case something happened.
 
 In a hellhole like that, it was best for him not to do anything he was uncertain about.

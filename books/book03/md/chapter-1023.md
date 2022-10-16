@@ -1,21 +1,20 @@
 ---
-Title:Attacking a Shelter 
-Chapter:1023 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Attacking a Shelter
+chapter: 1023
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Attacking a Shelter
-### Chapter 1023
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Attacking a Shelter
+
+### Chapter 1023
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Silver lightning burst out of the silver fox and collided with the golden light.
 
 *Boom!*

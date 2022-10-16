@@ -1,21 +1,20 @@
 ---
-Title:An Enemy That Cannot Be Seen 
-Chapter:1870 
-Section:7 
-Book:5 
-CSS:../Styles/style.css 
+title: An Enemy That Cannot Be Seen
+chapter: 1870
+section: 7
+book: 5
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## An Enemy That Cannot Be Seen
-### Chapter 1870
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## An Enemy That Cannot Be Seen
+
+### Chapter 1870
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen and Gu Qingcheng frowned. The shadow Xie Qing King had drawn had possessed the power of a Viscount. It had been destroyed within one second, so whatever lurked inside the valley was scary.
 
 “There is no need to rush. Watch this.” Xie Qing King flipped open his book and drew something else with his fingertips.

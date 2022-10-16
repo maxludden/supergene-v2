@@ -1,21 +1,20 @@
 ---
-Title:Killing 
-Chapter:2373 
-Section:11 
-Book:7 
-CSS:../Styles/style.css 
+title: Killing
+chapter: 2373
+section: 11
+book: 7
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Killing
-### Chapter 2373
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Killing
+
+### Chapter 2373
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen’s eyes looked cold. He knew that the old woman had successfully provoked the other Sirens.
 
 “Lan Haixin, I hope you don’t regret your decision,” Han Sen said in an emotionless voice. He let go of the blood kirin’s head, then pulled out the Thunder God Spike and Ghost Teeth Knife that were attached to his waist.
@@ -104,7 +103,7 @@ Lan Haixin’s eyes widened, and she just stood there. She looked terrified. Hop
 
 “I did as you wished. Are you happy now?” Han Sen ignored Lan Haixin and spoke to the old Siren woman.
 
-“Haha! I can see now that you truly are of that b*tch’s blood… Your hearts are deep! But it doesn’t make a difference, even if you did see through my plan. I still played you!” the old Siren woman cackled. She didn’t look sad. And her dying body suddenly looked very alive.
+“Haha! I can see now that you truly are of that bitch’s blood… Your hearts are deep! But it doesn’t make a difference, even if you did see through my plan. I still played you!” the old Siren woman cackled. She didn’t look sad. And her dying body suddenly looked very alive.
 
 Lan Haixin stared at the old Siren woman. She couldn’t believe her eyes.
 

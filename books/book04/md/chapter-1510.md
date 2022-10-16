@@ -1,21 +1,20 @@
 ---
-Title:Tina 
-Chapter:1510 
-Section:4 
-Book:4 
-CSS:../Styles/style.css 
+title: Tina
+chapter: 1510
+section: 4
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Tina
-### Chapter 1510
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Tina
+
+### Chapter 1510
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen and Han Yan went to a hotel, and a young man welcomed them saying, “Little Yan, you are finally here. Yuanyuan and Lian Shun are here already; they’re waiting for you.”
 
 He saw Han Sen holding Bao’er and froze. With a forced smile, he asked, “Is this gentleman your partner?”

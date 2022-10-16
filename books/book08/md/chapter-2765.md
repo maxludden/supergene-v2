@@ -1,21 +1,20 @@
 ---
-Title:Escape 
-Chapter:2765 
-Section:13 
-Book:8 
-CSS:../Styles/style.css 
+title: Escape
+chapter: 2765
+section: 13
+book: 8
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Escape
-### Chapter 2765
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Escape
+
+### Chapter 2765
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 But now Han Sen wasn’t willing to leave, and he said he would use his powers to escape. Exquisite didn’t know why Han Sen was so confident about this. To her, the things he said were mad.
 
 The bottle world was inside the hall of the Very High’s alpha. The restrictions there were extremely powerful. In all likelihood, not even a true god elite could access such a place without the Very High stamp that disarmed the restrictions.

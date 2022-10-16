@@ -1,21 +1,20 @@
 ---
-Title:Promised Him 
-Chapter:2486 
-Section:12 
-Book:8 
-CSS:../Styles/style.css 
+title: Promised Him
+chapter: 2486
+section: 12
+book: 8
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Promised Him
-### Chapter 2486
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Promised Him
+
+### Chapter 2486
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Kiek’s magnetic area wasn’t the strongest King area in the Extreme King, but he was still a member of the third-highest race in the universe. His Magnet King Body was nothing to take lightly, especially since he was half-deified. Normal King class xenogeneics were unable to walk under the influence of his magnetic area.
 
 Bao’er was just a kid, and she was somehow ignoring Kiek’s magnetic area. That surprised him a lot.
@@ -60,7 +59,7 @@ Bao’er was still operating the white whale, guiding it to fight the Extreme Ki
 
 Kiek’s lips pressed into a thin line, and he prepared to throw the magnetic light at Bao’er. Ning Yue was pressed against the floor with her limbs shaking, but she still managed to crawl toward Kiek. When she was near his feet, she begged, “Mister, please let us go. We won’t get in the way of whatever you want to do! And I can do anything for you…”
 
-“Get lost, you dirty b*tch!” Kiek kicked Ning Yue in the face, the force of the blow sending her flying.
+“Get lost, you dirty bitch!” Kiek kicked Ning Yue in the face, the force of the blow sending her flying.
 
 Pang!
 

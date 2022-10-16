@@ -1,21 +1,20 @@
 ---
-Title:Drawing the Disaster to the East 
-Chapter:3215 
-Section:16 
-Book:10 
-CSS:../Styles/style.css 
+title: Drawing the Disaster to the East
+chapter: 3215
+section: 16
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Drawing the Disaster to the East
-### Chapter 3215
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Drawing the Disaster to the East
+
+### Chapter 3215
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The Super God Spirit mode and Wan’er’s power were like water and fire. Water could put out fire, and fire could burn water. If there was the same amount, they would put each other out. It was like when Han Sen and Wan’er were together, their powers were suppressed.
 
 After two Wan’ers combined into one, her power exploded. She was much better than Han Sen with his Super God Spirit mode. That was why the scales were now tipped.
@@ -54,7 +53,7 @@ He did not want to kill Wan’er, but he did not want to be killed by Wan’er e
 
 Wa-la! Wa-la!
 
-Paper kept flipping and flopping inside Bao’er’s pocket as her book suddenly opened up. From inside, a paper man jumped out and scolded Han Sen by saying, “Han Sen, you are an asshole! Didn’t you promise me you would not leave Jade Wall City? Is your f*cking word nothing but bullshit? You left Jade Wall City and came to the f*cking Soldier Knife Sky. It is fine if you come to Soldier Knife Sky, but you brought Master Bao’er here.”
+Paper kept flipping and flopping inside Bao’er’s pocket as her book suddenly opened up. From inside, a paper man jumped out and scolded Han Sen by saying, “Han Sen, you are an asshole! Didn’t you promise me you would not leave Jade Wall City? Is your fucking word nothing but bullshit? You left Jade Wall City and came to the fucking Soldier Knife Sky. It is fine if you come to Soldier Knife Sky, but you brought Master Bao’er here.”
 
 “Why don’t you shut up for just a minute?” Han Sen moved and evaded Wan’er’s next attack. He said to the paper man, Rocky Dee, “I did not want to come here either, but something forced me here. I had no choice.” “Who made you do this?” Rocky Dee asked that just as Wan’er’s hand moved. A bottomless trench cleaved through the land, which was full of weapons. Many scary weapons were destroyed.
 

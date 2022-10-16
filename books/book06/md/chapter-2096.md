@@ -1,21 +1,20 @@
 ---
-Title:Shield 
-Chapter:2096 
-Section:8 
-Book:6 
-CSS:../Styles/style.css 
+title: Shield
+chapter: 2096
+section: 8
+book: 6
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Shield
-### Chapter 2096
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Shield
+
+### Chapter 2096
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “Let’s see how many attacks you can block,” Sleepless Duke shouted. The other Night Ghosts began to cackle, gathering up a force of ghost air.
 
 Han Sen had raised a single shield against an entire army. Sleepless Duke thought he must have a death wish.

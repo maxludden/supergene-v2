@@ -1,21 +1,20 @@
 ---
-Title:Dollar Big God 
-Chapter:2998 
-Section:15 
-Book:9 
-CSS:../Styles/style.css 
+title: Dollar Big God
+chapter: 2998
+section: 15
+book: 9
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Dollar Big God
-### Chapter 2998
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Dollar Big God
+
+### Chapter 2998
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen knew the kill sky hammer’s radius of attack was scary, but there was nothing he could do about it. That thing was very powerful, but no one was able to control the radius of that power.
 
 Luckily, the closer to the center of the shaking point someone was, the more shaking power there was. They were quite far away, so the shaking power they felt was quite weak. If it was like Moment God’s power. When facing the kill sky hammer face-to-face, one of those attacks would have probably nearly killed Sun Moon God Ape.

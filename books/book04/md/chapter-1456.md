@@ -1,21 +1,20 @@
 ---
-Title:Follow Me 
-Chapter:1456 
-Section:4 
-Book:4 
-CSS:../Styles/style.css 
+title: Follow Me
+chapter: 1456
+section: 4
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Follow Me
-### Chapter 1456
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Follow Me
+
+### Chapter 1456
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 As the place descended into chaos, Han Sen took off running. Suddenly, a sword cleaved through the air, and plumes of feathers choked the sky as many of the flying creatures were killed.
 
 The snake-turtle and the crocodile stopped fighting when they saw this. No longer interested in the meat, they started to scuttle away in different directions.

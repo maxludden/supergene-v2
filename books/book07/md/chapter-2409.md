@@ -1,21 +1,20 @@
 ---
-Title:Sword From the Furnace 
-Chapter:2409 
-Section:11 
-Book:7 
-CSS:../Styles/style.css 
+title: Sword From the Furnace
+chapter: 2409
+section: 11
+book: 7
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Sword From the Furnace
-### Chapter 2409
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Sword From the Furnace
+
+### Chapter 2409
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “A very powerful sword.” Han Sen lowered his head and stared at his fist. Despite being imbued with Move Mountain Area, the armor covering his fist had been sliced clean through. His fingers were bleeding. He was just thankful that the bones were undamaged.
 
 The Sword from the Furnace came to strike a second time, but this strike was going to be harder than the last one. The sword moved so fast that Han Sen could barely follow it with his eyes.

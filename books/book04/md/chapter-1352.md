@@ -1,21 +1,20 @@
 ---
-Title:Power of the Bouncy Egg 
-Chapter:1352 
-Section:4 
-Book:4 
-CSS:../Styles/style.css 
+title: Power of the Bouncy Egg
+chapter: 1352
+section: 4
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Power of the Bouncy Egg
-### Chapter 1352
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Power of the Bouncy Egg
+
+### Chapter 1352
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen was in a daze. The ape that had just hit him was the one that had confused him earlier.
 
 The ape’s talons were incredibly strong and swift, and they should have torn Han Sen to shreds upon contact. But when the knife-like nails came upon him, they were like rubber. They did not damage him in the least.

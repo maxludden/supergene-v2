@@ -1,21 +1,20 @@
 ---
-Title:Sprocket Sword 
-Chapter:477 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Sprocket Sword
+chapter: 477
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Sprocket Sword
-### Chapter 477
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Sprocket Sword
+
+### Chapter 477
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen was staring at the red crystal held in Wang Hou's left hand, not because he could tell something special about the crystal, but because the nine-life cat dependent was reacting to the red crystal.
 
 The red crystal looked very similar to the material of the nine-life cat pendant.

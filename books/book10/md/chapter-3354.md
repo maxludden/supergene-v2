@@ -1,21 +1,20 @@
 ---
-Title:Two Demons Fighting 
-Chapter:3354 
-Section:17 
-Book:10 
-CSS:../Styles/style.css 
+title: Two Demons Fighting
+chapter: 3354
+section: 17
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Two Demons Fighting
-### Chapter 3354
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Two Demons Fighting
+
+### Chapter 3354
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “So, what if you were the first vice president? Let’s not say the God Chaos Party is practically done for, but even if they were around to protect these items, it should be vice president Bury Path God and not you, big sky demon.” Ancient Devil looked at her with disdain as he spoke.
 
 “Does that mean you are going to fight me for it?” Big sky demon coldly asked.

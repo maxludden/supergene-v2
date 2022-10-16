@@ -1,21 +1,20 @@
 ---
-Title:Inside the Holy Hall 
-Chapter:2955 
-Section:15 
-Book:9 
-CSS:../Styles/style.css 
+title: Inside the Holy Hall
+chapter: 2955
+section: 15
+book: 9
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Inside the Holy Hall
-### Chapter 2955
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Inside the Holy Hall
+
+### Chapter 2955
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Without the Nine-Spin Destiny Mirror’s power, the group of space charms rushed forward like the tide.
 
 In the next moment, the space charm Bao’er had become emitted a horrible crying sound. When that sound spread, the space charms headed for Han Sen stopped. They all looked at the space charm Bao’er had become with confusion.

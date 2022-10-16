@@ -1,21 +1,20 @@
 ---
-Title:Green Light 
-Chapter:1910 
-Section:7 
-Book:5 
-CSS:../Styles/style.css 
+title: Green Light
+chapter: 1910
+section: 7
+book: 5
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Green Light
-### Chapter 1910
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Green Light
+
+### Chapter 1910
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen found a hidden place in Red Mist Valley. He was going to wait for the spring to burst.
 
 He also hunted down many of the Viscount creatures that were around, in order to collect their materials and genes.

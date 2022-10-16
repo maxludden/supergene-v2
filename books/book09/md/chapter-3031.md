@@ -1,21 +1,20 @@
 ---
-Title:Exposed 
-Chapter:3031 
-Section:15 
-Book:9 
-CSS:../Styles/style.css 
+title: Exposed
+chapter: 3031
+section: 15
+book: 9
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Exposed
-### Chapter 3031
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Exposed
+
+### Chapter 3031
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Katcha!
 
 The pillars of the geno hall were broken. The door was broken too. One was able to see the door had flames waving. All the race lanterns were becoming bright and dark like they were going to be put out by a raging storm.

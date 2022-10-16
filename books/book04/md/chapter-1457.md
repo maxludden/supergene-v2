@@ -1,21 +1,20 @@
 ---
-Title:Big Priest 
-Chapter:1457 
-Section:4 
-Book:4 
-CSS:../Styles/style.css 
+title: Big Priest
+chapter: 1457
+section: 4
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Big Priest
-### Chapter 1457
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Big Priest
+
+### Chapter 1457
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen followed the woman to the spirit hall of the shelter, and she sat down on the throne there. Han Sen looked around him and saw that there were no other chairs. So, he stood.
 
 Not long after, Han Sen saw a number of powerful spirits enter the hall. Every spirit that walked in had a lifeforce equivalent to that of the red cricket. That meant the entrants of the hall were at least king-class in caliber.

@@ -1,21 +1,20 @@
 ---
-Title:No One Can Stop 
-Chapter:3218 
-Section:16 
-Book:10 
-CSS:../Styles/style.css 
+title: No One Can Stop
+chapter: 3218
+section: 16
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## No One Can Stop
-### Chapter 3218
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## No One Can Stop
+
+### Chapter 3218
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 After Shadow God was killed, the city streets, aircraft, humans, and everything else was gone. The third sky was suddenly turned into a land of ash. It was now the remnants of a former well-developed human area. Everywhere one looked was now just a land of cracks and streams of lava. One could sometimes see volcanos exploding far away. The volcanic dust was everywhere. The sky was dark, but there were no clouds. It was the dust that the erupting volcanos kicked up.
 
 The land looked like doomsday had happened. Han Sen scanned the area around him until he spotted a god temple. The god temple was made of a mirror. It looked like a maze made of mirrors.

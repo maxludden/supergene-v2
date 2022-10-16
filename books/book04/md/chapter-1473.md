@@ -1,21 +1,20 @@
 ---
-Title:Geno Core Light 
-Chapter:1473 
-Section:4 
-Book:4 
-CSS:../Styles/style.css 
+title: Geno Core Light
+chapter: 1473
+section: 4
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Geno Core Light
-### Chapter 1473
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Geno Core Light
+
+### Chapter 1473
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen’s fitness was no worse than that of the minotaurs. He used his Dongxuan Aura to keep track of each minotaur’s movement in his mind.
 
 Every possible way they could move, and every subsequent calculation, was in his brain. And after his mind worked its way through the hundreds of tracks and ways he could follow, he found one that would get him through safely.

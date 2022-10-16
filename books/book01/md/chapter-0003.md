@@ -1,21 +1,20 @@
 ---
-Title:Sacred-blood Armor 
-Chapter:3 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: Sacred-blood Armor
+chapter: 3
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Sacred-blood Armor
-### Chapter 3
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Sacred-blood Armor
+
+### Chapter 3
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen returned to his room, made a fire, and started boiling the black beetle claws and shells in a pot.
 
 Without tools and know-how, he could only use the most primitive methods to process the shells and extract the geno essence.

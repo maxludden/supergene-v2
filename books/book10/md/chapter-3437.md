@@ -1,21 +1,20 @@
 ---
-Title:Crape Myrtle's Decision 
-Chapter:3437 
-Section:17 
-Book:10 
-CSS:../Styles/style.css 
+title: Crape Myrtle's Decision
+chapter: 3437
+section: 17
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Crape Myrtle's Decision
-### Chapter 3437
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Crape Myrtle's Decision
+
+### Chapter 3437
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen looked at Crape Myrtle and asked, “How was that punch?”
 
 Crape Myrtle’s body calmed down. He then answered, “Not bad.”

@@ -1,21 +1,20 @@
 ---
-Title:Frozen Barr 
-Chapter:2178 
-Section:9 
-Book:6 
-CSS:../Styles/style.css 
+title: Frozen Barr
+chapter: 2178
+section: 9
+book: 6
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Frozen Barr
-### Chapter 2178
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Frozen Barr
+
+### Chapter 2178
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The Destroyed Dukes saw Han Sen use an icy force to freeze Barr on the spot. One of the Dukes looked on Han Sen with a sneer. “Ice powers are worthless against the real might of Barr.”
 
 “His power is evil. He has a body of chaos and a spirit of disaster. An ordinary Destroyed has three special talents; we can wield light, dark, and chaos powers. Barr’s power is different, however, due to the mixed blood in his veins. He has three amazing talents. He can use the evil power to kill. He can use the body of chaos to disturb things. And he can use his spirit of disaster, which is a mysterious power even to us. Each of them possesses incredible power, and together, they make Barr practically invincible.”

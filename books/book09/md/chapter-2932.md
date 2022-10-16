@@ -1,21 +1,20 @@
 ---
-Title:Holy Garden 
-Chapter:2932 
-Section:15 
-Book:9 
-CSS:../Styles/style.css 
+title: Holy Garden
+chapter: 2932
+section: 15
+book: 9
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Holy Garden
-### Chapter 2932
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Holy Garden
+
+### Chapter 2932
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Moon Shadow God wanted to retreat into the darkness. Han Sen realized she was very nimble, but her moving distance with each evasion was very short. It was like she hadn’t moved at all.
 
 The radius of the time area was very small. Unless the enemy was at a close distance, it was very difficult to restrict and restrain the movements of an opponent.

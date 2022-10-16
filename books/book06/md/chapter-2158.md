@@ -1,20 +1,19 @@
 ---
-Title:Getting Beast Souls
-Chapter:2158
-Section:8
-Book:6
-CSS:../Styles/style.css
+title: Getting Beast Souls
+chapter: 2158
+section: 8
+book: 6
+CSS: style.css
 viewport: width=device-width
 ---
 
 ## Getting Beast Souls
+
 ### Chapter 2158
 
 <figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
 </figure>
-
-
 
 Han Sen slashed the dying Demon Bug King’s wounds. With the cut, the Demon Bug King moaned, but it didn’t die.
 
@@ -61,15 +60,14 @@ Filled with excitement, Han Sen hurriedly checked out the Mutant Gold Demon Bug 
 <div class="tables">
 	<table class="beast">
 		<tr>
-			<th>Beast Soul</th>
+			<th colspan="2">Beast Soul Gained</th>
 		</tr><tr>
-			<td>Mutant King Gold-Demon Bug King<br>
-				<span class="type">(Bai Sema)</span>
-			</td>
+			<td>Mutant King Gold-Demon Bug King</td>
+			<td>(Bai Sema)</td>
 		</tr>
 	</table>
 	<!-- Mutant Gold Demon Bug King beast soul: Bai Sema-type -->
-</div>
+</div> 
 
 Upon seeing it, Han Sen laughed. “Ha! Ha! I really do get whatever I want! My luck is back.”
 
@@ -86,15 +84,14 @@ Han Sen was grinning ear-to-ear. He then went on to open the green cubes. He rel
 <div class="tables">
 	<table class="beast">
 		<tr>
-			<th>Beast Soul</th>
+			<th colspan="2">Beast Soul Gained</th>
 		</tr><tr>
-			<td>Mutant King Green-Demon Bug King<br>
-				<span class="type">(Bai Sema)</span>
-			</td>
+			<td>Mutant King Green-Demon Bug King</td>
+			<td>(Bai Sema)</td>
 		</tr>
 	</table>
 	<!-- -->
-</div>
+</div> 
 
 Seeing that the Green Demon Bug King’s beast soul was also a Bai Sema, he was incredibly joyful.
 

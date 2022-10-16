@@ -1,21 +1,20 @@
 ---
-Title:Rocky Dee 
-Chapter:3157 
-Section:16 
-Book:10 
-CSS:../Styles/style.css 
+title: Rocky Dee
+chapter: 3157
+section: 16
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Rocky Dee
-### Chapter 3157
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Rocky Dee
+
+### Chapter 3157
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 When it came to dealing with positive and negative skills, the biggest problem was striking a fine balance. The power of the Xuan Yellow Sutra and Blood-Pulse Sutra had to be perfectly balanced if they were to be merged. That was integral. In the universe of kingdoms, Han Sen was unable to use the Blood-Pulse Sutra’s power unless he broke the rules of suppression that dictated the world. Breaking the rules was the only way he could use of Blood-Pulse Sutra.
 
 Even so, in a situation in which one power received support from the rules of the world and the other was repelled by the powers of the world, wanting to strike a perfect balance between the two powers was extraordinarily difficult.

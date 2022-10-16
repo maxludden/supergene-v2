@@ -1,21 +1,20 @@
 ---
-Title:Killing Hezhi 
-Chapter:1405 
-Section:4 
-Book:4 
-CSS:../Styles/style.css 
+title: Killing Hezhi
+chapter: 1405
+section: 4
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Killing Hezhi
-### Chapter 1405
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Killing Hezhi
+
+### Chapter 1405
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen was not worried at the thought that someone might come to steal his geno fruit. Mister Li, Old Qiu, Xu Yanmeng, Wang Zhao, and Zhong Sanxiao already had gemstone geno cores and would not need his geno fruit.
 
 Only Hezhi would need the sacred fruit Han Sen possessed, so it might not have come as an absolute surprise for him. And indeed, Hezhi had been waiting for this opportunity. He was a bit of an outsider himself, and he wasn’t closely associated with the others who were on the expedition, anyway. Now that he had caught Han Sen alone, it was his time to strike.

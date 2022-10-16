@@ -1,21 +1,20 @@
 ---
-Title:I Want You 
-Chapter:2804 
-Section:14 
-Book:9 
-CSS:../Styles/style.css 
+title: I Want You
+chapter: 2804
+section: 14
+book: 9
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## I Want You
-### Chapter 2804
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## I Want You
+
+### Chapter 2804
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 "Little Kid, do you want to be like him, taking whatever you want and tricking whoever you want?" Bai King walked before Han Sen and suddenly reached out his hand. He patted Han Sen on the head, smiled, and pointed at Bai Wanjie.
 
 Han Sen was frozen as he looked at Bai King. He did not know what he was talking about.

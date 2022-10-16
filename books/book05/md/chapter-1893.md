@@ -1,21 +1,20 @@
 ---
-Title:Soloing All the Group Fights 
-Chapter:1893 
-Section:7 
-Book:5 
-CSS:../Styles/style.css 
+title: Soloing All the Group Fights
+chapter: 1893
+section: 7
+book: 5
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Soloing All the Group Fights
-### Chapter 1893
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Soloing All the Group Fights
+
+### Chapter 1893
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Dragon Lady followed Han Sen into the base. Wang Yuhang and Xie Qing King then took up positions on opposite sides of the gate. They were like two soldiers, just smiling at the intruders.
 
 “Brother King, what is your least favorite meal?” Wang Yuhang, standing at the side of the gate, suddenly decided to ask.

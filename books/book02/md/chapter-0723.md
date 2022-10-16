@@ -1,21 +1,20 @@
 ---
-Title:Blue Copper Bell 
-Chapter:723 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Blue Copper Bell
+chapter: 723
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Blue Copper Bell
-### Chapter 723
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Blue Copper Bell
+
+### Chapter 723
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The tolling of the bell, when he had been further down the mountain, was not as strong as what he was hearing now. Because he was so close to it, every ring was like a thunderbolt that convulsed his body and caused him to spit blood from his mouth.
 
 Dong! Dong! Dong!

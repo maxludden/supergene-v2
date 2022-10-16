@@ -1,21 +1,20 @@
 ---
-Title:Sacred-blood Sledgehammer 
-Chapter:163 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: Sacred-blood Sledgehammer
+chapter: 163
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Sacred-blood Sledgehammer
-### Chapter 163
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Sacred-blood Sledgehammer
+
+### Chapter 163
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 "Now this is gonna be fun. Son of Heaven’s gang might all die here. Well done, fox king!" Han Sen thought delightedly. He was waiting to see if Son of Heaven would be killed. If not, he would finish Son of Heaven off himself.
 
 He had wanted to kill Son of Heaven for a while now, but never had the chance. Son of Heaven was too strong himself and was always followed by his gang.

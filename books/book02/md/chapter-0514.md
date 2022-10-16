@@ -1,21 +1,20 @@
 ---
-Title:Stealing 
-Chapter:514 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Stealing
+chapter: 514
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Stealing
-### Chapter 514
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Stealing
+
+### Chapter 514
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 "Brother… Watch out…" When Blackgod was about to make a strike, he suddenly heard his friend calling him and felt ominous.
 
 Blackgod was indeed quite impressive and decisive. The moment he heard the voice, he directly fell forward.

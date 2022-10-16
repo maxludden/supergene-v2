@@ -1,21 +1,20 @@
 ---
-Title:The Third Divinity’s Bout Starts 
-Chapter:1097 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: The Third Divinity’s Bout Starts
+chapter: 1097
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## The Third Divinity’s Bout Starts
-### Chapter 1097
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## The Third Divinity’s Bout Starts
+
+### Chapter 1097
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen’s body had not fully recovered yet, so he didn’t venture too deep into the Devil’s Realm. He mainly killed the monsters that were on the outskirts, teetering on the borders of that black pit. With their endless numbers, he was still able to harvest vast amounts of Devil Presences.
 
 “One day, I will go to Ancient Devil Shelter and kill that Mara. And I’ll take that bell of hers,” Han Sen thought to himself as he peered towards the shelter.

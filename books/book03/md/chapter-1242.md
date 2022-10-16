@@ -1,21 +1,20 @@
 ---
-Title:Obtaining the Holy Rhino’s Allegiance 
-Chapter:1242 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Obtaining the Holy Rhino’s Allegiance
+chapter: 1242
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Obtaining the Holy Rhino’s Allegiance
-### Chapter 1242
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Obtaining the Holy Rhino’s Allegiance
+
+### Chapter 1242
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Holy Rhino seemed to agree to Han Sen’s offer. It roared and then entered the Cruel Bottle.
 
 Han Sen was delighted about this, so he put a lid on it. For the rhino, this was similar to humans taking refuge in the Alliance, away from the sanctuaries where the motions and terms of a contract were always in play. For the duration it was in the bottle, the rhino was safe.

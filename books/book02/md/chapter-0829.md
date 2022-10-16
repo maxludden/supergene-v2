@@ -1,21 +1,20 @@
 ---
-Title:Little Silver's Hunt for Treasure 
-Chapter:829 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Little Silver's Hunt for Treasure
+chapter: 829
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Little Silver's Hunt for Treasure
-### Chapter 829
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Little Silver's Hunt for Treasure
+
+### Chapter 829
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen ventured back into the mountains in the hopes of tracking more super creatures. Although there were many super creatures, he couldn't just go for any. Furthermore, he had to find second-generation ones, which greatly narrowed those he could deem to be appropriate targets.
 
 "When will I be able to take down the Devil-Blood King's shelter? There must be many second-generation super creatures in a place such as that." Han Sen thought about the prospect with greed.

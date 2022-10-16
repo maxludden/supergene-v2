@@ -1,21 +1,20 @@
 ---
-Title:An Invite From Martial Arts Society 
-Chapter:190 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: An Invite From Martial Arts Society
+chapter: 190
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## An Invite From Martial Arts Society
-### Chapter 190
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## An Invite From Martial Arts Society
+
+### Chapter 190
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 "Do not cry. I am fine. I hunted some other creatures on the way and it took some time. Sorry to make you worry." Han Sen patted Wang Mengmeng who were in tears his arms.
 
 "Brother Han, you scared me," said Wang Mengmeng choking, her eyes watery.

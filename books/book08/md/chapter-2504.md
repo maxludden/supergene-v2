@@ -1,21 +1,20 @@
 ---
-Title:Digging Treasure 
-Chapter:2504 
-Section:12 
-Book:8 
-CSS:../Styles/style.css 
+title: Digging Treasure
+chapter: 2504
+section: 12
+book: 8
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Digging Treasure
-### Chapter 2504
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Digging Treasure
+
+### Chapter 2504
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen followed Bao’er’s instructions when she told him where to look. Amidst that clump of mushrooms was a small clump of grass that didn’t look particularly outstanding.
 
 The grass was only three or four centimeters tall. It was very, very small, and it appeared rugged and yellow. It looked as if it had dried up and died. If Bao’er hadn’t pointed it out, Han Sen wouldn’t have noticed it.

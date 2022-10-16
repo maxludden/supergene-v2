@@ -1,21 +1,20 @@
 ---
-Title:The Real Fight Begins 
-Chapter:1627 
-Section:4 
-Book:4 
-CSS:../Styles/style.css 
+title: The Real Fight Begins
+chapter: 1627
+section: 4
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## The Real Fight Begins
-### Chapter 1627
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## The Real Fight Begins
+
+### Chapter 1627
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The truth was, the attack wasn’t as annoying as everyone thought. Han Sen’s super king spirit mode could suppress and immunize all negative feelings of oneself. This included Heart Sword, Sonic Sword, Sky Sword, and Spirit Sword. None of those would work on Han Sen in super king spirit mode.
 
 Others were in fear, seeing all those sword skills fail. To Han Sen, it was nothing spectacular.

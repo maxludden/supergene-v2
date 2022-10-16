@@ -1,21 +1,20 @@
 ---
-Title:Underground River 
-Chapter:21 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: Underground River
+chapter: 21
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Underground River
-### Chapter 21
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Underground River
+
+### Chapter 21
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 In addition to Han Sen, Son of Heaven and his gang were also joined by a few thugs they paid to come along. The group left Steel Armor Shelter and marched into the mountains.
 
 Although they expected nothing good to happen, they still wanted to take the chance for the sake of the generous reward.

@@ -1,21 +1,20 @@
 ---
-Title:Weird Deified Xenogeneic 
-Chapter:2907 
-Section:15 
-Book:9 
-CSS:../Styles/style.css 
+title: Weird Deified Xenogeneic
+chapter: 2907
+section: 15
+book: 9
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Weird Deified Xenogeneic
-### Chapter 2907
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Weird Deified Xenogeneic
+
+### Chapter 2907
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Although Han Sen was only butterfly class now, in the universe, no one treated him like one.
 
 Han Sen looked at everyone. He noticed the around eight people were deified primitives who all hailed from different races.

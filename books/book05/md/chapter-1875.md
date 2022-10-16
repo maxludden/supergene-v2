@@ -1,21 +1,20 @@
 ---
-Title:Gana’s Holy Lady 
-Chapter:1875 
-Section:7 
-Book:5 
-CSS:../Styles/style.css 
+title: Gana’s Holy Lady
+chapter: 1875
+section: 7
+book: 5
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Gana’s Holy Lady
-### Chapter 1875
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Gana’s Holy Lady
+
+### Chapter 1875
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “Don’t touch me! I will… I will…” Guna was young, and so her body had already started to shake.
 
 Han Sen stroked her cheek, and he found it to be remarkably soft and smooth. Then, he pulled his fingers back and said, “Don’t worry! I am not interested in creatures that are unable to stretch their legs. I can’t let other people see you, that’s all. So, for now, things will have to remain like so. When we’re in Narrow Moon, you can sleep wherever you wish to.”

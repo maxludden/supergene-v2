@@ -1,21 +1,20 @@
 ---
-Title:Feeding Frenzy 
-Chapter:268 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: Feeding Frenzy
+chapter: 268
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Feeding Frenzy
-### Chapter 268
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Feeding Frenzy
+
+### Chapter 268
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 In front of the golden lion, Han Sen was not much better than an ant. Even the golden rock worm king in its largest shape was merely a pet to the lion.
 
 Shocked, Han Sen was ready to retreat. As he turned around, he felt a chill and almost let out a scream.

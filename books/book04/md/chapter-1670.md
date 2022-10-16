@@ -1,21 +1,20 @@
 ---
-Title:The Battle Begins 
-Chapter:1670 
-Section:4 
-Book:4 
-CSS:../Styles/style.css 
+title: The Battle Begins
+chapter: 1670
+section: 4
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## The Battle Begins
-### Chapter 1670
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## The Battle Begins
+
+### Chapter 1670
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Buzz!
 
 Han Menger, who was next to Han Sen, fired her Death Bone. An arrow was loosed and it slew a creature that was quickly approaching. She strung her bow again as a beast from Ancient Devil’s side leaped forward with a roar. Its body was running to meet with the arrow.

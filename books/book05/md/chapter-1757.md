@@ -1,21 +1,20 @@
 ---
-Title:Ghost Eye Beast 
-Chapter:1757 
-Section:6 
-Book:5 
-CSS:../Styles/style.css 
+title: Ghost Eye Beast
+chapter: 1757
+section: 6
+book: 5
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Ghost Eye Beast
-### Chapter 1757
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Ghost Eye Beast
+
+### Chapter 1757
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “So the purple lotus’s suction only applies to geno armor and geno armaments. It doesn’t seem to affect the body.” Han Sen shook out his arms and looked around.
 
 Many other people had discovered this secret, too. And after giving up their geno armors, they were all free.

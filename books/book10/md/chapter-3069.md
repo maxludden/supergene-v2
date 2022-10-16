@@ -1,21 +1,20 @@
 ---
-Title:Eight Sound Bug 
-Chapter:3069 
-Section:16 
-Book:10 
-CSS:../Styles/style.css 
+title: Eight Sound Bug
+chapter: 3069
+section: 16
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Eight Sound Bug
-### Chapter 3069
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Eight Sound Bug
+
+### Chapter 3069
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen and the group walked before the gates of Big Qin Capital. It was half a month later by now. The Big Qin Kingdom’s lands were too vast. Even with subspace travel and slip-space jumps, it took them half a month to reach the capital from Turin Planet. They had even swapped ships twice.
 
 “Is this Big Qin Capital?” Mister Yang and the others were shocked by what they saw ahead of them. The whole of Big Qin Capital was not built on a planet. It was built on a giant, man-made space station.

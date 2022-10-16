@@ -1,21 +1,20 @@
 ---
-Title:Successful Ascension 
-Chapter:1679 
-Section:4 
-Book:4 
-CSS:../Styles/style.css 
+title: Successful Ascension
+chapter: 1679
+section: 4
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Successful Ascension
-### Chapter 1679
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Successful Ascension
+
+### Chapter 1679
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 A power went into his Sea of Soul. All the beast souls and geno cores suffered underneath that strength.
 
 Han Sen felt terrible. He heard someone say it was best not to bring geno cores and beast souls to level up. But Han Sen wasn’t prepared for any of this, as he had been pulled inside unexpectedly. The beast souls and geno cores were in there with him right now, and they were subject to the cleansing.

@@ -1,21 +1,20 @@
 ---
-Title:The Moving Shelter 
-Chapter:916 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: The Moving Shelter
+chapter: 916
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## The Moving Shelter
-### Chapter 916
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## The Moving Shelter
+
+### Chapter 916
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen brought the dead man's body down into the shelter. Thinking the place was suitable, he also planted the Devil-Blood Tree and his Pine Tree inside there, as well.
 
 Han Sen did not have many waterdrops still, so he only used what was sufficient to keep them alive for the time being.

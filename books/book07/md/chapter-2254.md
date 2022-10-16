@@ -1,21 +1,20 @@
 ---
-Title:Breakthrough 
-Chapter:2254 
-Section:10 
-Book:7 
-CSS:../Styles/style.css 
+title: Breakthrough
+chapter: 2254
+section: 10
+book: 7
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Breakthrough
-### Chapter 2254
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Breakthrough
+
+### Chapter 2254
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen was a Duke and he wanted to tame that blood kirin. Fox Queen thought that was a ridiculous notion.
 
 The blood kirin was as exemplary as a King could be. It might not lose a fight against a half-deified being, even. And on top of that, it was the fostered son of White Bone Big Hell. That was its home turf, and that could see it buffed by belonging there.

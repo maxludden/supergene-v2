@@ -1,21 +1,20 @@
 ---
-Title:Sky Heart Lock 
-Chapter:2017 
-Section:8 
-Book:6 
-CSS:../Styles/style.css 
+title: Sky Heart Lock
+chapter: 2017
+section: 8
+book: 6
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Sky Heart Lock
-### Chapter 2017
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Sky Heart Lock
+
+### Chapter 2017
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “Okay, you can go.” The leader of Sky Palace waved his hand, indicating Han Sen could leave.
 
 Cough cough. “Mister Leader, you are so powerful. With a flick of your fingers, you can inhibit all my movements. That is impressive.” Han Sen’s feet did not move.
@@ -26,7 +25,7 @@ Sky Palace leader squinted his eyes, looked at Han Sen, and said, “This is my 
 
 Han Sen turned around and departed, swearing to God he would never come and see that man again.
 
-“Fuck! What is this reward? I did a great service to these people. It’d be fine if they didn’t want to reward me, but making me feed horses? I don’t want to feed your f*cking horses.” After Han Sen left Sky Palace, he repeatedly swore in his heart.
+“Fuck! What is this reward? I did a great service to these people. It’d be fine if they didn’t want to reward me, but making me feed horses? I don’t want to feed your fucking horses.” After Han Sen left Sky Palace, he repeatedly swore in his heart.
 
 Walking out of Sky Palace made Han Sen all sweaty. He did not know what geno art was being used on him, but it felt like he was bearing a great weight on his back. He could withstand it, but he was not able to run. All he could do was walk.
 

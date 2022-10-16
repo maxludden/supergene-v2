@@ -1,21 +1,20 @@
 ---
-Title:The Scary Angel 
-Chapter:684 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: The Scary Angel
+chapter: 684
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## The Scary Angel
-### Chapter 684
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## The Scary Angel
+
+### Chapter 684
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Although Lu Hui was only leader of the Blueblood Force's Reserve Team, it was still a lofty position, representative of his abilities.
 
 Huang Yunlong had done his best to hide his people's presence, but when they entered Lu Hui's territory, they did not go unnoticed.

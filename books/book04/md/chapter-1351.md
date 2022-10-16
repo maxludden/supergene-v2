@@ -1,21 +1,20 @@
 ---
-Title:Jumping Egg 
-Chapter:1351 
-Section:4 
-Book:4 
-CSS:../Styles/style.css 
+title: Jumping Egg
+chapter: 1351
+section: 4
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Jumping Egg
-### Chapter 1351
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Jumping Egg
+
+### Chapter 1351
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 A creature had crept up behind Han Sen, unbeknownst to him. The egg struck its arm and then bounced away again. The bouncy ball was around the same size as an ordinary fist, and it bounced around from enemy to enemy but didn’t hurt any of them.
 
 “I’ve spent all this time and energy to produce this? This is what I get after all my hard work?!” Han Sen was heartbroken, seeing no benefit to the geno core he had earned.

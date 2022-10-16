@@ -1,21 +1,20 @@
 ---
-Title:The Fight on the Statue 
-Chapter:1795 
-Section:6 
-Book:5 
-CSS:../Styles/style.css 
+title: The Fight on the Statue
+chapter: 1795
+section: 6
+book: 5
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## The Fight on the Statue
-### Chapter 1795
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## The Fight on the Statue
+
+### Chapter 1795
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 After entering the area with the grapevines, things became much easier for Han Sen.
 
 The fighting skills that the four Chaos employed were rather simple and a little clumsy, but they weren’t weak. One versus one, Han Sen might win. But against four of them at the same time, there was a high chance he could stumble and fall.

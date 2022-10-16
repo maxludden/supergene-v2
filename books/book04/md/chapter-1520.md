@@ -1,21 +1,20 @@
 ---
-Title:Slaying the Ant King 
-Chapter:1520 
-Section:4 
-Book:4 
-CSS:../Styles/style.css 
+title: Slaying the Ant King
+chapter: 1520
+section: 4
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Slaying the Ant King
-### Chapter 1520
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Slaying the Ant King
+
+### Chapter 1520
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “Oh no!” Spirit Twelve and Spirit Thirteen felt a chill.
 
 Han Sen led the army of ants into the shelter, and the red-eyed ants skittered everywhere once inside. They couldn’t catch Han Sen, so they merely dined on whatever other creatures happened to be in their way. Even the buildings and constructs were broken in their rampage.
@@ -62,7 +61,7 @@ The ant king had wanted to fall back, but it abandoned that desire when it heard
 
 “Good job, Little Uncle! Continue seducing it,” Han Sen said, stepping back deeper into the cave.
 
-“Could you use a different f*cking word?” Wang Yuhang shouted, as he continued attracting the ant king.
+“Could you use a different fucking word?” Wang Yuhang shouted, as he continued attracting the ant king.
 
 Han Sen kept running, too, but said, “You prefer luring? But that’s not quite right. You really are more like a pimp.”
 

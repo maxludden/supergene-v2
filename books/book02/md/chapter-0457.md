@@ -1,21 +1,20 @@
 ---
-Title:Expert Panel 
-Chapter:457 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Expert Panel
+chapter: 457
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Expert Panel
-### Chapter 457
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Expert Panel
+
+### Chapter 457
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen took the opportunity to run out of the nest. He could still vaguely hear the roaring of the raging silver gargoyle.
 
 The physique of the silver gargoyle was so good that Han Sen could not kill it at the moment. However, since he had already learned that there was a sacred-blood creature in this place, he could always come back when he had enough geno points.

@@ -1,21 +1,20 @@
 ---
-Title:Predicting the Future 
-Chapter:2828 
-Section:14 
-Book:9 
-CSS:../Styles/style.css 
+title: Predicting the Future
+chapter: 2828
+section: 14
+book: 9
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Predicting the Future
-### Chapter 2828
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Predicting the Future
+
+### Chapter 2828
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 God smiled at Han Sen as it asked, "Can we agree to a bet now?"
 
 Han Sen could not speak. He felt as if he was going to be strangled to death, so he had to nod.

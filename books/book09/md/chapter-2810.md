@@ -1,21 +1,20 @@
 ---
-Title:Lost Land 
-Chapter:2810 
-Section:14 
-Book:9 
-CSS:../Styles/style.css 
+title: Lost Land
+chapter: 2810
+section: 14
+book: 9
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Lost Land
-### Chapter 2810
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Lost Land
+
+### Chapter 2810
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 "Can I go with you to the Real Old System?" Han Sen asked. "I want to help out the Extreme King too."
 
 "If you want to go, you need to ask Second Uncle," Bao Ying said. "He is in charge this time."

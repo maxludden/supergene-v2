@@ -1,21 +1,20 @@
 ---
-Title:Two Sacred-blood Creatures 
-Chapter:241 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: Two Sacred-blood Creatures
+chapter: 241
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Two Sacred-blood Creatures
-### Chapter 241
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Two Sacred-blood Creatures
+
+### Chapter 241
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen used Bladestorm to slash the diamond sword at the creature.
 
 The spear and the sword clashed. Han Sen was blown away with the sword in his hand by the magnificent strength of the creature.

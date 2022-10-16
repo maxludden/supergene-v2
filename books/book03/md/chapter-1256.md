@@ -1,21 +1,20 @@
 ---
-Title:Blood River King’s Battle Geno Essence 
-Chapter:1256 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Blood River King’s Battle Geno Essence
+chapter: 1256
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Blood River King’s Battle Geno Essence
-### Chapter 1256
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Blood River King’s Battle Geno Essence
+
+### Chapter 1256
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The bubble burst and sprayed Disloyal Knight with blood-colored water.
 
 His blue armor was dyed red, and as much he wanted to continue breaking the rest of the bubbles that were bearing down on Han Sen, he could no longer move.

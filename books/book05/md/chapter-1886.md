@@ -1,21 +1,20 @@
 ---
-Title:I Make the Calls 
-Chapter:1886 
-Section:7 
-Book:5 
-CSS:../Styles/style.css 
+title: I Make the Calls
+chapter: 1886
+section: 7
+book: 5
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## I Make the Calls
-### Chapter 1886
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## I Make the Calls
+
+### Chapter 1886
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Guya looked at Buddha King. The clouds that trapped Buddha King rose up and drifted over to her.
 
 “Did you take the leader?” Guya asked Buddha King expressionlessly.

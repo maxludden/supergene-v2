@@ -1,21 +1,20 @@
 ---
-Title:It Really Is Annihilation Class 
-Chapter:3163 
-Section:16 
-Book:10 
-CSS:../Styles/style.css 
+title: It Really Is Annihilation Class
+chapter: 3163
+section: 16
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## It Really Is Annihilation Class
-### Chapter 3163
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## It Really Is Annihilation Class
+
+### Chapter 3163
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “Little Yin, you have made Little Auntie very sad.” Feng Fei Fei’s eyes were so red that tears were about to flow.
 
 God only knew what kind of trouble she had gone through to get a God Spirit Blood-Pulse for Feng Yin Yin. The amount of effort she must have put in could not have been described in words.

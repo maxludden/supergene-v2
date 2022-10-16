@@ -1,21 +1,20 @@
 ---
-Title:Kill Them All 
-Chapter:157 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: Kill Them All
+chapter: 157
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Kill Them All
-### Chapter 157
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Kill Them All
+
+### Chapter 157
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The gorgeous killing feast had just begun.
 
 Silver Killer was moving quickly with the powerful Destroyer behind it. The crazy killing made one warframe after another explode. People were almost trembling watching the fragments of warframes sent in the air by gunfire.

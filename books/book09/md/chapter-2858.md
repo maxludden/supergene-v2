@@ -1,21 +1,20 @@
 ---
-Title:Dragon Race Weapon 
-Chapter:2858 
-Section:14 
-Book:9 
-CSS:../Styles/style.css 
+title: Dragon Race Weapon
+chapter: 2858
+section: 14
+book: 9
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Dragon Race Weapon
-### Chapter 2858
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Dragon Race Weapon
+
+### Chapter 2858
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “The Dragons’ bodies make people really jealous.”
 
 “I told you so. How could Dragon One be killed so easily?”

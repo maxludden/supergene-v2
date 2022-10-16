@@ -1,21 +1,20 @@
 ---
-Title:Sick Beauty 
-Chapter:2336 
-Section:11 
-Book:7 
-CSS:../Styles/style.css 
+title: Sick Beauty
+chapter: 2336
+section: 11
+book: 7
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Sick Beauty
-### Chapter 2336
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Sick Beauty
+
+### Chapter 2336
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 If a prince didn’t even have the blessing from the Kingese on the king tree, people would believe him to be very unfortunate. They would think the prince was plagued by bad luck. Such a person could never lead the Extreme King and rule the known world.
 
 Although the protection of the Kingese didn’t accurately represent the luck of a prince, it still affected the way they were perceived by others. Thus, the royal children wouldn’t seek the protection of the Kingese on a random whim.

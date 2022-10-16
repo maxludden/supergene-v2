@@ -1,21 +1,20 @@
 ---
-Title:Knife Air Like Silk 
-Chapter:2032 
-Section:8 
-Book:6 
-CSS:../Styles/style.css 
+title: Knife Air Like Silk
+chapter: 2032
+section: 8
+book: 6
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Knife Air Like Silk
-### Chapter 2032
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Knife Air Like Silk
+
+### Chapter 2032
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen dodged. He was like a shadow as he slipped around Dragon Thirteen’s lance. He was even faster than before. “Two Sky Heart Locks?” Dragon Thirteen’s face went slack.
 
 Han Sen was a powerful Earl. It was shocking to learn he was carrying even just one Sky Heart Lock. No one would have ever expected he might be carrying two of them.

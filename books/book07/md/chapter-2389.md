@@ -1,21 +1,20 @@
 ---
-Title:Jump Start 
-Chapter:2389 
-Section:11 
-Book:7 
-CSS:../Styles/style.css 
+title: Jump Start
+chapter: 2389
+section: 11
+book: 7
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Jump Start
-### Chapter 2389
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Jump Start
+
+### Chapter 2389
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen started to pull back to say something, but he saw Fox Queen’s tail begin to wave back and forth. Afterimages of the tail became substance chains, and it suddenly looked as if there were nine tails swinging in the air. The tails swept up and around Fox Queen and Han Sen, trapping them inside it like a cage.
 
 Fox Queen’s eyes flashed silver, and strange silver symbols flared to life across her snow-white skin. They looked like tattoos, not on her skin but inside it.

@@ -1,21 +1,20 @@
 ---
-Title:Little Silver Is Born 
-Chapter:1445 
-Section:4 
-Book:4 
-CSS:../Styles/style.css 
+title: Little Silver Is Born
+chapter: 1445
+section: 4
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Little Silver Is Born
-### Chapter 1445
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Little Silver Is Born
+
+### Chapter 1445
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The wooden sword was black, but the lightning was white. It struck the egg and was absorbed by the shell. As this occurred, the egg began to shine.
 
 Han Sen looked at the wooden sword and the egg in shock. The lightning from the wooden sword did not look aggressive, but it was radiant and brimming with energy. It looked as if it wished to bestow life upon its target.

@@ -1,21 +1,20 @@
 ---
-Title:Killed the Bone Elephant 
-Chapter:681 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Killed the Bone Elephant
+chapter: 681
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Killed the Bone Elephant
-### Chapter 681
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Killed the Bone Elephant
+
+### Chapter 681
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 After using Jadeskin to unlock his gene lock, Han Sen had achieved super senses. For the bone elephant in particular, it allowed him to see through its head. He could faintly watch and trace the movements of the pink snake that swam around in its brain.
 
 Han Sen could feel the bone elephant's life force, and with this ability, he gauged the precise time he should cast his powerful attack.

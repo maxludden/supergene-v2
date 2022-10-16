@@ -1,21 +1,20 @@
 ---
-Title:Becoming a Dad 
-Chapter:1392 
-Section:4 
-Book:4 
-CSS:../Styles/style.css 
+title: Becoming a Dad
+chapter: 1392
+section: 4
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Becoming a Dad
-### Chapter 1392
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Becoming a Dad
+
+### Chapter 1392
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen agreed to provide Su Mianhua some materials so he could continue his research. But aside from the man sharing the results of his efforts, Han Sen wanted lessons on genes, as well.
 
 Those lessons started right away, and Han Sen was able to grasp the basics fairly quickly. But anything beyond that threw his mind for a loop.

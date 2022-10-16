@@ -1,21 +1,20 @@
 ---
-Title:A Knight That Opens His Eyes 
-Chapter:938 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: A Knight That Opens His Eyes
+chapter: 938
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## A Knight That Opens His Eyes
-### Chapter 938
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## A Knight That Opens His Eyes
+
+### Chapter 938
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 "How do you reckon I can claim it?" Han Sen asked.
 
 Moment Queen shook her head and said, "Well, the chances would be slim. And besides, look at it; it's going to take at least another thousand years for it to mature. You'll be old and grey by then."

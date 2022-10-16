@@ -1,22 +1,19 @@
 ---
-Title:Knife Grave 
-Chapter:1824 
-Section:7 
-Book:5 
-CSS:../Styles/style.css 
+title: Knife Grave
+chapter: 1824
+section: 7
+book: 5
+CSS: style.css
 viewport: width=device-width
 ---
-  
+
 ## Knife Grave
+
 ### Chapter 1824
-  
+
 <figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
 </figure>
-  
-
-  
-
 
 “Queen didn’t tell you before you came?” Black Steel frowned.
 

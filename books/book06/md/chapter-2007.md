@@ -1,21 +1,20 @@
 ---
-Title:Stone Statue 
-Chapter:2007 
-Section:8 
-Book:6 
-CSS:../Styles/style.css 
+title: Stone Statue
+chapter: 2007
+section: 8
+book: 6
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Stone Statue
-### Chapter 2007
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Stone Statue
+
+### Chapter 2007
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen didn’t like doing it, but he still ran inside the valley. The speed of the rabbit shoes quickly brought him beneath the little valley’s tree.
 
 Han Sen leaped atop the tree, using the Dongxuan Aura to look inside the hole. He noticed that it was quite spacious within and that most of the tree was hollow.

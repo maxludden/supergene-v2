@@ -1,21 +1,20 @@
 ---
-Title:Aqua Fruit 
-Chapter:1266 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Aqua Fruit
+chapter: 1266
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Aqua Fruit
-### Chapter 1266
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Aqua Fruit
+
+### Chapter 1266
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen now knew it was too late to stop what had been put into motion, so he quickly tried to think how he might best help the fish king.
 
 The light of its presence was rapidly approaching, and the water was in turmoil as it came.

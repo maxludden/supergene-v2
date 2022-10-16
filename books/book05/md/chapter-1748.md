@@ -1,21 +1,20 @@
 ---
-Title:Teach You How to Be the Lesser Race 
-Chapter:1748 
-Section:6 
-Book:5 
-CSS:../Styles/style.css 
+title: Teach You How to Be the Lesser Race
+chapter: 1748
+section: 6
+book: 5
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Teach You How to Be the Lesser Race
-### Chapter 1748
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Teach You How to Be the Lesser Race
+
+### Chapter 1748
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 As the blue crystal tentacle reached for the male Feather, a golden light shone down. It was a gold arrow, perforating the crystal tentacle.
 
 This golden arrow was different from the others. A strange power carried it down with the force of a drillhead. It drilled right into the tentacle, until half of its shaft was driven in.
@@ -72,7 +71,7 @@ The dagger in Han Sen’s hand did not move, though. All he did was swing his he
 
 Han Sen’s crystal blood melted within his vessels, filling him like lava. The vessels twisted and contorted like snakes. The additional power was enough to drive the dagger deeper through the neck, completely decapitating the Feather. The sheer force of the blow sent the head up into the sky.
 
-Mister Tiger and the female Feather looked on in absolute shock. No one could believe that a commoner, with only geno armor, could manage to kill a Feather Baron. Especially since two Feathers had been present He was too f*cking fast.
+Mister Tiger and the female Feather looked on in absolute shock. No one could believe that a commoner, with only geno armor, could manage to kill a Feather Baron. Especially since two Feathers had been present He was too fucking fast.
 
 Mister Tiger opened his mouth. He thought he was dreaming.
 

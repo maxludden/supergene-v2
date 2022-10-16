@@ -1,21 +1,20 @@
 ---
-Title:Sea Demon Car 
-Chapter:2452 
-Section:12 
-Book:8 
-CSS:../Styles/style.css 
+title: Sea Demon Car
+chapter: 2452
+section: 12
+book: 8
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Sea Demon Car
-### Chapter 2452
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Sea Demon Car
+
+### Chapter 2452
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Bao Qin’s long fingers strummed the harp in his hands, and the notes he played were like waves of substance chains. They spread out through the clouds, and the sea of blue clouds moved and vibrated with the rhythm of the harp’s music.
 
 The clouds weren’t the only things responding to the music, either. Every substance, including sets of armor, weaponry, and xenogeneic treasures, began to physically twist and warp under the spell of the harp’s song. They became as limp as cooked noodles, waving along with the melody of the harp.

@@ -1,21 +1,20 @@
 ---
-Title:Blood Legion's Relic 
-Chapter:872 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Blood Legion's Relic
+chapter: 872
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Blood Legion's Relic
-### Chapter 872
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Blood Legion's Relic
+
+### Chapter 872
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Dong! Dong! Dong!
 
 Son of Fate's body was supremely fast. His hands attacked Han Sen from each and every angle, and although he was able to block each strike, it was remarkable to acknowledge that Son of Fate was only using his fists. The force that collided with Han Sen's Flaming Rex Spike was greater than the average super creature.

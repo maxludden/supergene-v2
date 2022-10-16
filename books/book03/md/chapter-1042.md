@@ -1,21 +1,20 @@
 ---
-Title:World of Charcoal 
-Chapter:1042 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: World of Charcoal
+chapter: 1042
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## World of Charcoal
-### Chapter 1042
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## World of Charcoal
+
+### Chapter 1042
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “This cannot be incorrect. This is indeed the Phoenix Eye,” Brother Seven reaffirmed.
 
 “Then where’s the treasure?” Han Sen saw a mountain range in the distance, which only told him this place was massive. Locating anything there might be far more difficult than expected.

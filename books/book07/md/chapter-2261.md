@@ -1,21 +1,20 @@
 ---
-Title:Blood Kirin’s Movemen 
-Chapter:2261 
-Section:10 
-Book:7 
-CSS:../Styles/style.css 
+title: Blood Kirin’s Movemen
+chapter: 2261
+section: 10
+book: 7
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Blood Kirin’s Movemen
-### Chapter 2261
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Blood Kirin’s Movemen
+
+### Chapter 2261
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen spent another two weeks in the White Bone Hell. The blood kirin came down from its mountain to absorb blood bone air every day, and during such times, Han Sen got to interact with it very closely.
 
 The blood kirin had initially seemed like a cruel beast, but it wasn’t showing any animosity toward Han Sen now, which made him curious. The most probable cause for the blood kirin’s change in behavior, he figured, was the blood kirin having tasted his blood.

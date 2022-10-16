@@ -1,21 +1,20 @@
 ---
-Title:Dead Cycle That Cannot Be Broken 
-Chapter:3406 
-Section:17 
-Book:10 
-CSS:../Styles/style.css 
+title: Dead Cycle That Cannot Be Broken
+chapter: 3406
+section: 17
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Dead Cycle That Cannot Be Broken
-### Chapter 3406
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Dead Cycle That Cannot Be Broken
+
+### Chapter 3406
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen stood to the side. He used his hands to take Moment God’s time needle away from her. Moment God’s body flew away. She hit a stone clock. The stone clock broke.
 
 A scary amount of time had been reversed, but that came to an end now that Moment God had been tossed away. The whole of the Time Sky was calm again.

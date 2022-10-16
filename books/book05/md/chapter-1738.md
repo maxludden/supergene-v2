@@ -1,21 +1,20 @@
 ---
-Title:Shura Qi 
-Chapter:1738 
-Section:6 
-Book:5 
-CSS:../Styles/style.css 
+title: Shura Qi
+chapter: 1738
+section: 6
+book: 5
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Shura Qi
-### Chapter 1738
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Shura Qi
+
+### Chapter 1738
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 When Han Sen saw Luo Haitang, he was shocked.
 
 The Luo Haitang he saw now was completely different. The man was so slim that he was practically skin and bones. His eyes were sunk deep in their sockets, and his hair was white. He looked like a dying old man, and not the fabled Godslayer Luo that Han Sen had known.

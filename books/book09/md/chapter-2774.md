@@ -1,21 +1,20 @@
 ---
-Title:Extreme Living Land 
-Chapter:2774 
-Section:14 
-Book:9 
-CSS:../Styles/style.css 
+title: Extreme Living Land
+chapter: 2774
+section: 14
+book: 9
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Extreme Living Land
-### Chapter 2774
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Extreme Living Land
+
+### Chapter 2774
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Aside from that, Han Sen felt no changes occurring within his body. His Dongxuan Armor’s power wasn’t locked or limited.
 
 When the fire went out, the Dongxuan Armor had turned into a white, semi-transparent crystal. It looked like a dream, like something that couldn’t possibly exist in the real world.

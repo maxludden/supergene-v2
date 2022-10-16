@@ -1,21 +1,20 @@
 ---
-Title:Hunting Birds on the Sea of Clouds 
-Chapter:625 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Hunting Birds on the Sea of Clouds
+chapter: 625
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Hunting Birds on the Sea of Clouds
-### Chapter 625
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Hunting Birds on the Sea of Clouds
+
+### Chapter 625
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Chen Ran was surprised that Han Sen stepped forward to hunt the Sky Falcons, not the Queen.
 
 Xu Dong Jin and the rest looked at Han Sen, as if they were getting comfy for an unsuccessful – albeit hilarious – spectacle. The Queen's Heavenly Go was infamous, however, and they thought if the Queen were the one to go, she might have been able to run up the tree, kill the bird she sought, and make it back in one piece.

@@ -1,21 +1,20 @@
 ---
-Title:First Geno Core Battle 
-Chapter:1385 
-Section:4 
-Book:4 
-CSS:../Styles/style.css 
+title: First Geno Core Battle
+chapter: 1385
+section: 4
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## First Geno Core Battle
-### Chapter 1385
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## First Geno Core Battle
+
+### Chapter 1385
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen watched as his geno core was being reinforced. Each beam of light was a reinforcement, and after nine such beams, the process was finished. Immediately, Han Sen could tell the egg had become much stronger.
 
 When Rockman finished, Han Sen took the egg back into his possession. Its shape was very much the same, but it featured a prismatic glow in its interior. It shone with nine separate colors. It could make for a stunningly pretty gemstone.

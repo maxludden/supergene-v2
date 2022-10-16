@@ -1,21 +1,20 @@
 ---
-Title:The Power of a Drum 
-Chapter:2202 
-Section:9 
-Book:6 
-CSS:../Styles/style.css 
+title: The Power of a Drum
+chapter: 2202
+section: 9
+book: 6
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## The Power of a Drum
-### Chapter 2202
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## The Power of a Drum
+
+### Chapter 2202
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “My daughter cannot control the strength she uses on the Drum. Will that be okay?” Han Sen double-checked with them.
 
 The worker laughed, pointed to the base around them, and said, “The base has the appropriate equipment to absorb and sustain the sonic power. Even if a King whacked a Jade Drum, the excessive force would be dampened by the technology. Only a small bit of the shockwave will ultimately spread. Do not worry. And if there are any issues here at the registration booth, we will claim full responsibility.”

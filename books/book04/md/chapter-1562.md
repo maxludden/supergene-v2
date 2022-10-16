@@ -1,21 +1,20 @@
 ---
-Title:Crystal Cactus 
-Chapter:1562 
-Section:4 
-Book:4 
-CSS:../Styles/style.css 
+title: Crystal Cactus
+chapter: 1562
+section: 4
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Crystal Cactus
-### Chapter 1562
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Crystal Cactus
+
+### Chapter 1562
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Ordinary cacti were not a threat to Luo Yu and the others. They had the power of Falsified Sky, and none of the cacti could even defend themselves against them.
 
 However, Han Sen also realized that Luo Yu and the others had only practiced the first half of the Falsified-Sky Sutra. He didn’t understand why Luo Haitang hadn’t even taught his direct family members the complete version of the Falsified-Sky Sutra.

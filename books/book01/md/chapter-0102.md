@@ -1,21 +1,20 @@
 ---
-Title:See You at the Final 
-Chapter:102 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: See You at the Final
+chapter: 102
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## See You at the Final
-### Chapter 102
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## See You at the Final
+
+### Chapter 102
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen had made up his mind to practice Bladestorm in the contest by using Bladestorm only when facing his opponents. If others dared to do this, they might have died a million deaths already. But Han Sen was in sacred-blood armor, so hardly any attack was fatal to him. That was why he could practice in the contest.
 
 Han Sen had given up on using his mutant sawfish spear. Without good spear skills, this weapon was useless in front of these champions.

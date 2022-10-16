@@ -1,21 +1,20 @@
 ---
-Title:Elephant-rex Strike 
-Chapter:671 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Elephant-rex Strike
+chapter: 671
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Elephant-rex Strike
-### Chapter 671
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Elephant-rex Strike
+
+### Chapter 671
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Six raven bolts launched consecutively into the frosty bear's face. The beast tried to look away, to avoid them piercing any of its eyes, but it was too late. The bear had drawn too near to the launch-point of the bolts, and it didn't have sufficient time to react. One of the bolts struck directly underneath the eye, which caused it to bleed.
 
 The frosty bear became incredibly angry. It threw itself back on its two hind legs and a frigid aura emanated from its body. Its paws came down, trying to strike Han Sen.

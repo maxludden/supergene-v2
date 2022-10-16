@@ -1,21 +1,20 @@
 ---
-Title:Back to the 33 Skies 
-Chapter:3384 
-Section:17 
-Book:10 
-CSS:../Styles/style.css 
+title: Back to the 33 Skies
+chapter: 3384
+section: 17
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Back to the 33 Skies
-### Chapter 3384
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Back to the 33 Skies
+
+### Chapter 3384
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “It does not matter. In the end, Human Alpha had my genes and the genes of Bao’er’s father. With the modifications we did to him, he was already almost the most perfect life force in existence that had Reboot powers and the geno prototype armor powers.”
 
 Chaos looked at Bao’er and said, “When we realized the problem, it was already too late. Human Alpha’s evolutions were out of control. Even me and Bao’er’s father were unable to control Human Alpha. In the end, Bao’er’s father had to reboot the universe. Other people think it was a fight between me and Bao’er’s father, but that was why the universe was rebooted. As a matter of fact, it was not us. It was because of Human Alpha.”

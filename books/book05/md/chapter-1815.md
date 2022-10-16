@@ -1,21 +1,20 @@
 ---
-Title:Maxing Out Genes 
-Chapter:1815 
-Section:6 
-Book:5 
-CSS:../Styles/style.css 
+title: Maxing Out Genes
+chapter: 1815
+section: 6
+book: 5
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Maxing Out Genes
-### Chapter 1815
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Maxing Out Genes
+
+### Chapter 1815
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “Xenogeneic Gene Consumed: Baron Geno Point +1”
 
 Han Sen cooked a few of the bananas over a fire. As they cooked, the bananas quickly softened from their previous crystallike state. Each banana increased one Baron gene. Before he had finished eating them all, he reached one hundred Baron genes.

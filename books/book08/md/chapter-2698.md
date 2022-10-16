@@ -1,21 +1,20 @@
 ---
-Title:Demonic Beast Soul 
-Chapter:2698 
-Section:13 
-Book:8 
-CSS:../Styles/style.css 
+title: Demonic Beast Soul
+chapter: 2698
+section: 13
+book: 8
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Demonic Beast Soul
-### Chapter 2698
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Demonic Beast Soul
+
+### Chapter 2698
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “Half an hour has passed. No matter how lucky Han Sen is, he will have been eaten by the Red Blood Demon by this point. Lifting the security now is pointless,” Li Xue Cheng said with a chuckle.
 
 “I hope Exquisite isn’t too upset. I’ll have to think of ways to comfort her; this will surely be an open window of opportunity for me to swoop in and work my wily charms,” Liyu Zhen said, grinning widely.

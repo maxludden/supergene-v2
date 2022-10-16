@@ -1,20 +1,19 @@
 ---
-Title:Killing the Golden Crab
-Chapter:520
-Section:2
-Book:2
-CSS:../Styles/style.css
+title: Killing the Golden Crab
+chapter: 520
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
 
 ## Killing the Golden Crab
+
 ### Chapter 520
 
 <figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
 </figure>
-
-
 
 It was so easy to kill fish creatures the bottom of the water.
 
@@ -90,11 +89,10 @@ Hitting madly on the crab shell with his fists, Han Sen sent yin force into its 
 <div class="tables">
 	<table class="beast">
 		<tr>
-			<th>Beast Soul</th>
+			<th colspan="2">Beast Soul Gained</th>
 		</tr><tr>
-			<td>Sacred-Blood Creature Golden Pincer King<br>
-				<span class="type">(Armor)</span>
-			</td>
+			<td>Sacred-Blood Creature Golden Pincer King</td>
+			<td>(Armor)</td>
 		</tr>
 	</table>
 	<!-- Type of beast soul of sacred-blood creature golden pincer king: armor. -->

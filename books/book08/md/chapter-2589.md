@@ -1,21 +1,20 @@
 ---
-Title:Race Weapon 
-Chapter:2589 
-Section:12 
-Book:8 
-CSS:../Styles/style.css 
+title: Race Weapon
+chapter: 2589
+section: 12
+book: 8
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Race Weapon
-### Chapter 2589
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Race Weapon
+
+### Chapter 2589
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 When everyone saw the skies of the systems of chaos, they all looked happy.
 
 Han Sen looked around as they emerged, but he couldn’t see a Black Hole Spider anywhere. The space crack they had just exited hung like a rift in the sky.

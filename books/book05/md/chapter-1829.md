@@ -1,21 +1,20 @@
 ---
-Title:The Knife That Destroys the Sky and Earth 
-Chapter:1829 
-Section:7 
-Book:5 
-CSS:../Styles/style.css 
+title: The Knife That Destroys the Sky and Earth
+chapter: 1829
+section: 7
+book: 5
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## The Knife That Destroys the Sky and Earth
-### Chapter 1829
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## The Knife That Destroys the Sky and Earth
+
+### Chapter 1829
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 After the eleventh knife rain, there were so many knives on the ground. They were all over the place, and there was hardly a place to step.
 
 Han Sen’s feet walked across the handles, and Black Steel was standing in front of a knife. Han Sen thought the knife looked fairly normal.
@@ -100,7 +99,7 @@ Han Sen and Black Steel were fighting the knives back-to-back. They both held a 
 
 “You leave first,” Black Steel insisted, continuing to wave his knife.
 
-“F*ck no!” Han Sen slashed, cutting through a number of knives that were about to skewer his head.
+“Fuck no!” Han Sen slashed, cutting through a number of knives that were about to skewer his head.
 
 *Boom!*
 

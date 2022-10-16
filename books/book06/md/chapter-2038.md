@@ -1,21 +1,20 @@
 ---
-Title:Dragon Pool Island 
-Chapter:2038 
-Section:8 
-Book:6 
-CSS:../Styles/style.css 
+title: Dragon Pool Island
+chapter: 2038
+section: 8
+book: 6
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Dragon Pool Island
-### Chapter 2038
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Dragon Pool Island
+
+### Chapter 2038
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 In the middle of the sea, a green leaf was afloat on the water. It bobbed gently as the ocean swells moved beneath it.
 
 A Dragon man and woman were riding the leaf like a boat. The man sat comfortably, appreciating the sea. The woman stood on the front of the leaf, holding a paddle. Every time she pulled the paddle through the water, the leaf would move about a hundred meters forward. It was going against the tide.

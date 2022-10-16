@@ -1,21 +1,20 @@
 ---
-Title:Mirror Area 
-Chapter:2437 
-Section:11 
-Book:7 
-CSS:../Styles/style.css 
+title: Mirror Area
+chapter: 2437
+section: 11
+book: 7
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Mirror Area
-### Chapter 2437
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Mirror Area
+
+### Chapter 2437
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “My Lady is a princess of the Extreme King, and you are the king’s sister. You are the leader of Spring Rain. Are you really going to believe in the truthfulness of this ‘prophecy’? Tell me the real reason you want to kill her,” Han Sen said coolly as he eyed Miss Mirror.
 
 Miss Mirror didn’t continue trying to attack him. She looked at Han Sen for a while before saying, “Prophecies can have very real power. Not many elites can actually predict the future, but there are some. Most notably, the Very High are very skilled at prophecy. They are able to predict events in a similar manner to how the pictures on that screen seem to function.”

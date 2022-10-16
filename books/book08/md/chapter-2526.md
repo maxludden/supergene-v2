@@ -1,21 +1,20 @@
 ---
-Title:Meeting Li Keer Again 
-Chapter:2526 
-Section:12 
-Book:8 
-CSS:../Styles/style.css 
+title: Meeting Li Keer Again
+chapter: 2526
+section: 12
+book: 8
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Meeting Li Keer Again
-### Chapter 2526
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Meeting Li Keer Again
+
+### Chapter 2526
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 When he fought with his Gold Robot General, Han Sen was like a wolf entering a sheep pen. Wherever his swordlights went, his enemies fell to pieces. Those King class Steel Armors couldn’t withstand the weakest of his strikes.
 
 “Xenogeneic King hunted: Steel Armor. Xenogeneic gene found. Obtained Steel Armor beast soul.”

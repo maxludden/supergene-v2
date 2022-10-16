@@ -1,21 +1,20 @@
 ---
-Title:Bronze Bell 
-Chapter:2283 
-Section:10 
-Book:7 
-CSS:../Styles/style.css 
+title: Bronze Bell
+chapter: 2283
+section: 10
+book: 7
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Bronze Bell
-### Chapter 2283
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Bronze Bell
+
+### Chapter 2283
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 It was a big bronze bell that had covered Han Sen, Yisha, and the blood kirin. Yisha’s purple substance chain became a knife air. She waved her hand to strike the surface of the bell, but it only made a loud, tolling noise. The bell showed no sign of damage.
 
 “What is this bell? Why was it in the white whale’s belly? Can xenogeneics make use of xenogeneic treasures?” Han Sen was shocked.

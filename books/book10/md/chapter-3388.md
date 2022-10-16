@@ -1,21 +1,20 @@
 ---
-Title:Suppress 
-Chapter:3388 
-Section:17 
-Book:10 
-CSS:../Styles/style.css 
+title: Suppress
+chapter: 3388
+section: 17
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Suppress
-### Chapter 3388
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Suppress
+
+### Chapter 3388
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 After a while, Floating Kill noticed the time. He used the sky treasure tower. The tower grew very large. It was like it was covering the sky and the ground. It covered the entire time area they were in.
 
 Han Sen’s location was limited. If he wanted to avoid the suppression of the tower, he would have to quickly get to another stone clock’s area.

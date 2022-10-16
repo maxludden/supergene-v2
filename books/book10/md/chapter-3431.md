@@ -1,21 +1,20 @@
 ---
-Title:Flaws Exposed 
-Chapter:3431 
-Section:17 
-Book:10 
-CSS:../Styles/style.css 
+title: Flaws Exposed
+chapter: 3431
+section: 17
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Flaws Exposed
-### Chapter 3431
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Flaws Exposed
+
+### Chapter 3431
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen looked dim. Ever since his body evolved, this was the first he had witnessed something like this. He could not tell what was authentic when it came to Crape Myrtle, whose entire body was veiled by fog.
 
 Han Sen could even see through Demon Alpha, who had the power of Bao’er’s father, but he was unable to do what he did against her to Crape Myrtle.

@@ -1,21 +1,20 @@
 ---
-Title:Elephant-disc Punch 
-Chapter:707 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Elephant-disc Punch
+chapter: 707
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Elephant-disc Punch
-### Chapter 707
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Elephant-disc Punch
+
+### Chapter 707
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Seeing that woman, who was as cold as a monarch, Han Sen did not move. His very heart had been rocked with surprise and he thought to himself, "This is too much of a Dollarcidence. Despite the countless other humans and spirits here, I am put against her?"
 
 Queen looked at Han Sen, then kicked towards him with her long legs like the throw of an axe. Queen did not care who her opponent was; she had no idea she was up against Dollar.

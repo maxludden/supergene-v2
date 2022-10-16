@@ -1,21 +1,20 @@
 ---
-Title:God Chaos Party 
-Chapter:3143 
-Section:16 
-Book:10 
-CSS:../Styles/style.css 
+title: God Chaos Party
+chapter: 3143
+section: 16
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## God Chaos Party
-### Chapter 3143
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## God Chaos Party
+
+### Chapter 3143
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 When the white flame touched the evil, black, and purple spirit, it was like it had met gasoline. The entire god temple lit up in a fire.
 
 The power possessing Han Sen and Bald Guy vanished. They regained control of their bodies.

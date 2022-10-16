@@ -1,21 +1,20 @@
 ---
-Title:Charm Beast Soul 
-Chapter:1586 
-Section:4 
-Book:4 
-CSS:../Styles/style.css 
+title: Charm Beast Soul
+chapter: 1586
+section: 4
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Charm Beast Soul
-### Chapter 1586
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Charm Beast Soul
+
+### Chapter 1586
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Back at the shelter, Han Sen had the time to examine the Destroyer Wolf beast soul.
 
 Berserk Super Beast Soul Destroyer Wolf: Charm-type

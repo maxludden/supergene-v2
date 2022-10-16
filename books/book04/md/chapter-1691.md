@@ -1,21 +1,20 @@
 ---
-Title:Battling Feather 
-Chapter:1691 
-Section:5 
-Book:4 
-CSS:../Styles/style.css 
+title: Battling Feather
+chapter: 1691
+section: 5
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Battling Feather
-### Chapter 1691
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Battling Feather
+
+### Chapter 1691
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 1691 Battling Feather
 
 Fear gripped Han Sen’s throat, but he found himself falling back before Old Cat even made the suggestion. He summoned his Death Armor Swordsman beast soul and transformed into the Death Armor Swordsman.
@@ -38,7 +37,7 @@ Han Sen turned around and saw the red-eyed angel giving chase at a blisteringly 
 
 “Shit! What is that thing?” Han Sen ran as fast as he could, but the being was way too strong. Not even geno armor could bestow the strength necessary to beat it.
 
-Old Cat ran, and as he went, he screamed, “After the crystallizers lost the war, they stole a few children from the higher race. I thought it was only a myth. But look at this! It’s f*cking real! Crystallizers brought Feathers to such places for research, as they wanted their genes.”
+Old Cat ran, and as he went, he screamed, “After the crystallizers lost the war, they stole a few children from the higher race. I thought it was only a myth. But look at this! It’s fucking real! Crystallizers brought Feathers to such places for research, as they wanted their genes.”
 
 “A superior race? What superior race?” Han Sen gnashed his teeth.
 

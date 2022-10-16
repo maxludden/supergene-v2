@@ -1,21 +1,20 @@
 ---
-Title:Night Ghost Battle 
-Chapter:2094 
-Section:8 
-Book:6 
-CSS:../Styles/style.css 
+title: Night Ghost Battle
+chapter: 2094
+section: 8
+book: 6
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Night Ghost Battle
-### Chapter 2094
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Night Ghost Battle
+
+### Chapter 2094
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “Please give me a hand taking down this *sshole! He is the one that slew my workers, and many Night Ghosts as well,” Kahn called out when he saw Han Sen and the others coming. He looked joyous in relief.
 
 “We have finally found it!” Sleepless Duke shouted happily as she ran to join the fight. “Please help us.”

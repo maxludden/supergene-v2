@@ -1,21 +1,20 @@
 ---
-Title:Killing the Empress and Obtaining a Beast Soul 
-Chapter:1274 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Killing the Empress and Obtaining a Beast Soul
+chapter: 1274
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Killing the Empress and Obtaining a Beast Soul
-### Chapter 1274
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Killing the Empress and Obtaining a Beast Soul
+
+### Chapter 1274
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The empress saw Han Sen stop with the intent to grab the spear that she held. She spun it in a bid to strike him. But as the spear spun, it disappeared from her hands. Where it went, Han Sen could not keep track of.
 
 He didn’t much care for this, though. All Han Sen wanted to do was focus on channeling energy and power into his greatsword for an attack of his own.

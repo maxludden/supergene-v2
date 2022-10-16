@@ -1,21 +1,20 @@
 ---
-Title:Butterfly Dancing Solo 
-Chapter:486 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Butterfly Dancing Solo
+chapter: 486
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Butterfly Dancing Solo
-### Chapter 486
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Butterfly Dancing Solo
+
+### Chapter 486
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 After absorbing the red crystal, Han Sen had gained stronger brainpower although the ability to move things was not that useful.
 
 The countless details of the entire battlefield were clearly projected in Han Sen's mind, making it easier for him to make a precise judgment.

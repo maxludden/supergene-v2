@@ -1,21 +1,20 @@
 ---
-Title:Attacking Devil-blood Shelter 
-Chapter:865 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Attacking Devil-blood Shelter
+chapter: 865
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Attacking Devil-blood Shelter
-### Chapter 865
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Attacking Devil-blood Shelter
+
+### Chapter 865
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Silver-Blood Macaque: Shapeshifting Beast Soul
 
 Han Sen had finally received a new shapeshifting beast soul. With these buffs, Han Sen could definitely go up against super creatures, and perhaps things that were even stronger.

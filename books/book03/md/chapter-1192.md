@@ -1,21 +1,20 @@
 ---
-Title:You Are Too Weak 
-Chapter:1192 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: You Are Too Weak
+chapter: 1192
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## You Are Too Weak
-### Chapter 1192
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## You Are Too Weak
+
+### Chapter 1192
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen didn’t buy Hyperspace in the end, since he didn’t meet the ideal time king spirit geno point requirement yet. He still wanted to buy a hyper geno art that dealt simple, non-fancy high damage, too.
 
 But he decided that could wait for the time being, so he could consult Moment Queen about her lending him time geno points.

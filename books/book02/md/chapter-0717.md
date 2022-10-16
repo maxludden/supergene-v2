@@ -1,21 +1,20 @@
 ---
-Title:Angel Gene 
-Chapter:717 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Angel Gene
+chapter: 717
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Angel Gene
-### Chapter 717
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Angel Gene
+
+### Chapter 717
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen went to the meeting room posthaste, and saw Qin Xuan engaged in conversation with a few others. The group was a mixture of men and women, and there were eight in total. Three of the women were quite elderly, and they looked as if they were in their eighties. Of course, they only appeared as if they were in their thirties because they were evolvers.
 
 Han Sen scanned each of their energy flows to decipher their true age.

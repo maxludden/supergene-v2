@@ -1,21 +1,20 @@
 ---
-Title:Digging Treasure 
-Chapter:1157 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Digging Treasure
+chapter: 1157
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Digging Treasure
-### Chapter 1157
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Digging Treasure
+
+### Chapter 1157
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Because the hole was not too far away from the nest of the Metal Eaters, Han Sen approached it with great care. The last thing he wanted to do was make them aware of his presence there.
 
 Han Sen wasn’t afraid of the Metal Eaters; he had just been caught with his pants down when he encountered them before. He had only expected there to be the baby Metal Eater and no others. They were fearsome foes, and he simply wanted to exercise caution.

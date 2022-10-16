@@ -1,21 +1,20 @@
 ---
-Title:Cannot Keep Pretending 
-Chapter:2327 
-Section:11 
-Book:7 
-CSS:../Styles/style.css 
+title: Cannot Keep Pretending
+chapter: 2327
+section: 11
+book: 7
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Cannot Keep Pretending
-### Chapter 2327
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Cannot Keep Pretending
+
+### Chapter 2327
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Cher’s beauty would make anyone’s heart jump, but in Han Sen’s eyes, she was completely unappealing.
 
 Han Sen had seen many beautiful people in the world. There were countless numbers of them, but he was now past the stage in which he took people for their face value. What was inside was better than what was outside.
@@ -82,9 +81,9 @@ Han Sen’s heart tightened. He had wanted to carry some of Bai Yi’s items, bu
 
 Bai Ling Shuang coldly said, “Bai Yi is addicted to sex and gambling. His family didn’t lose because he married Lan Haixin. But that Lan Haixin had her own purposes for marrying him. She isn’t really in love with Bai Yi. What she holds onto won’t be given to Bai Yi. Bai Yi should be a prince, but he is little more than a servant. His situation is quite bad. If things weren’t like this, he wouldn’t have been greedy enough to request my Extreme King’s Pavilion Pass.”
 
-“He got lucky that he was chosen to kill Han Sen. That is a lot to be rewarded with. That Han Sen was special, but he was also so dumb. He went for that b*tch Bai Wei. He deserved to die.” Bai Ling Shang looked through everything and tossed the items away. She walked to the secret door and went on to say, “Go and find a woman of the Pig race. We need to make it look legit. Don’t let this *sshole wonder about anything after waking up.”
+“He got lucky that he was chosen to kill Han Sen. That is a lot to be rewarded with. That Han Sen was special, but he was also so dumb. He went for that bitch Bai Wei. He deserved to die.” Bai Ling Shang looked through everything and tossed the items away. She walked to the secret door and went on to say, “Go and find a woman of the Pig race. We need to make it look legit. Don’t let this asshole wonder about anything after waking up.”
 
-“F*ck you, lady. Do you have to be this cruel? This is so f*cking cruel!” Han Sen thought. The Pig people had a human body but a pig head. They were so strong, too. They were little more than thralls.
+“Fuck you, lady. Do you have to be this cruel? This is so fucking cruel!” Han Sen thought. The Pig people had a human body but a pig head. They were so strong, too. They were little more than thralls.
 
 Bai Ling Shuang was going to put a Pig in bed with him. Han Sen wanted to jump up and kill her.
 

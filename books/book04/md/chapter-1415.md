@@ -1,21 +1,20 @@
 ---
-Title:Challenge 
-Chapter:1415 
-Section:4 
-Book:4 
-CSS:../Styles/style.css 
+title: Challenge
+chapter: 1415
+section: 4
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Challenge
-### Chapter 1415
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Challenge
+
+### Chapter 1415
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “No, no; there is no need to answer. Come, we can talk when you return,” Yu Miao said, stepping in front of Han Sen, near Goddess.
 
 “Excuse me? You said we would share the discovery together, and that it was a joint effort. We were to co-operate on this matter.” Goddess’s face was swiftly turning sour upon hearing this.

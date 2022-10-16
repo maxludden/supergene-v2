@@ -1,21 +1,20 @@
 ---
-Title:Jadeshell Beast Soul 
-Chapter:117 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: Jadeshell Beast Soul
+chapter: 117
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Jadeshell Beast Soul
-### Chapter 117
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Jadeshell Beast Soul
+
+### Chapter 117
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 After completing all the admission procedures, Han Sen did not go directly to school. He must return to Steel Armor Shelter before school was in session. Otherwise he would never have such a long period of free time. He needed to participate in various training programs and could not spend half a month or even longer in God’s Sanctuary.
 
 Han Sen got in touch with Lin Beifeng and asked him about the route he took when coming to Steel Armor Shelter from Glory Shelter. Then Han Sen also did some research on the Skynet.

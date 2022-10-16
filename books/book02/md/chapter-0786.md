@@ -1,21 +1,20 @@
 ---
-Title:Ultra Panty Raid 
-Chapter:786 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Ultra Panty Raid
+chapter: 786
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Ultra Panty Raid
-### Chapter 786
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Ultra Panty Raid
+
+### Chapter 786
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 That night, after having dinner with Ji Yanran, Han Sen brought her over to the sofa. With great excitement he said, "Dear, I have recently come into the possession of a superpower. It's pretty amazing."
 
 "What superpower would that be?" Ji Yanran looked at Han Sen with curiosity.

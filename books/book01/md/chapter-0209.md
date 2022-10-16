@@ -1,21 +1,20 @@
 ---
-Title:Domineering Dollar 
-Chapter:209 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: Domineering Dollar
+chapter: 209
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Domineering Dollar
-### Chapter 209
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Domineering Dollar
+
+### Chapter 209
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 "What's wrong? Didn't Lin Beifeng buy that pair of sacred-blood wings? How did it end up in Son of Heaven's hand?" Han Sen frowned, feeling puzzled.
 
 Although Son of Heaven's eyesight was not as good as Han Sen’s, Han Sen's eye-catching golden outfit was easy to recognize. After seeing Han Sen, Son of Heaven speeded up toward the Mystery Island. Obviously, he did not want to be approached by Han Sen.

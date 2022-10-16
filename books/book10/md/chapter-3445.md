@@ -1,21 +1,20 @@
 ---
-Title:Assassinate 
-Chapter:3445 
-Section:17 
-Book:10 
-CSS:../Styles/style.css 
+title: Assassinate
+chapter: 3445
+section: 17
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Assassinate
-### Chapter 3445
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Assassinate
+
+### Chapter 3445
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “There might be a way, but who are we going to send in there?” an Elder asked.
 
 The God Chaos Party elites were attacking Space Garden. It seemed as if sounding the retreat would not be the right course of action.

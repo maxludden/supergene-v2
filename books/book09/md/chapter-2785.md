@@ -1,21 +1,20 @@
 ---
-Title:Killing Sky Radish 
-Chapter:2785 
-Section:14 
-Book:9 
-CSS:../Styles/style.css 
+title: Killing Sky Radish
+chapter: 2785
+section: 14
+book: 9
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Killing Sky Radish
-### Chapter 2785
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Killing Sky Radish
+
+### Chapter 2785
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The white phoenix fires ravaged the wound. This injury was so small that it clearly mattered little to Sky Vine Radish and his god body, but to Han Sen, it was a very important step on the path to taking down Sky Vine Radish completely. If he was unable to harm the god body at all, how could he even think about killing a god?
 
 Han Sen had now focused his awareness on the phoenix flame that the phoenix had given him. He had originally wanted to get rid of it, but he hadn’t expected that the phoenix flame used in conjunction with the phoenix feather would unleash such devastating power. It was able to slice open a god’s body.

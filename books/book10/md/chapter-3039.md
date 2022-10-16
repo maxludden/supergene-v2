@@ -1,21 +1,20 @@
 ---
-Title:Not Praying to a God Spirit 
-Chapter:3039 
-Section:16 
-Book:10 
-CSS:../Styles/style.css 
+title: Not Praying to a God Spirit
+chapter: 3039
+section: 16
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Not Praying to a God Spirit
-### Chapter 3039
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Not Praying to a God Spirit
+
+### Chapter 3039
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The chance for humans to gain a God Spirit’s blessing of Blood-Pulse was not as low as Han Sen thought. There seemed to be a one in five success rate.
 
 Most humans only received a single purple lotus. Two purple lotuses were far rare to receive, but one special young man was able to obtain four purple lotuses at once.

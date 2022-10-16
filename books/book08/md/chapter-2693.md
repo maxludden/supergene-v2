@@ -1,21 +1,20 @@
 ---
-Title:Blood Marrow Geno Fluid 
-Chapter:2693 
-Section:13 
-Book:8 
-CSS:../Styles/style.css 
+title: Blood Marrow Geno Fluid
+chapter: 2693
+section: 13
+book: 8
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Blood Marrow Geno Fluid
-### Chapter 2693
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Blood Marrow Geno Fluid
+
+### Chapter 2693
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The Red Blood Demon wasn’t like ordinary primitive deifieds. Not even Han Sen’s Apollo Set would be enough to let him fight the creature.
 
 Han Sen had already stated his intentions. He was going to kill the Red Blood Demon. Han Sen acted as if it would be the simplest thing in the world, but to any of the Very High, it would have sounded like he was daydreaming.

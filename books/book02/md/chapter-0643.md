@@ -1,21 +1,20 @@
 ---
-Title:T-rex Approaching 
-Chapter:643 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: T-rex Approaching
+chapter: 643
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## T-rex Approaching
-### Chapter 643
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## T-rex Approaching
+
+### Chapter 643
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The creature looked like a tyrannosaurus rex. It had leathery red scales shielding its entire body, and four wings wreathed in fire. A spiral horn protruded from its head, and fire writhed out of its nose.
 
 Its eyes, as big as wagon wheels, had licks of flame inside the pupils, and it stared at Han Sen and Wang Yuhang. It breathed out smoke from its mouth, which looked like the gaping maw of a volcano.

@@ -1,21 +1,20 @@
 ---
-Title:Super Gene? 
-Chapter:356 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: Super Gene?
+chapter: 356
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Super Gene?
-### Chapter 356
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Super Gene?
+
+### Chapter 356
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen looked at the alloy box in front of him in surprise. He remembered that his dad died in an aircraft accident, and people did not even find his body, so how was it possible that he had left something behind?
 
 Seeing that Han Sen was puzzled, Luo Sulan said, "Your dad gave this to me two days before he had the accident. He said that it might be useful to you someday. You were too young, so I did not show you this. Now that you've grown up and know right from wrong, it's time that I give it to you."

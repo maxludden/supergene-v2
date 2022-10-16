@@ -1,21 +1,20 @@
 ---
-Title:Three Possibilities 
-Chapter:3423 
-Section:17 
-Book:10 
-CSS:../Styles/style.css 
+title: Three Possibilities
+chapter: 3423
+section: 17
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Three Possibilities
-### Chapter 3423
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Three Possibilities
+
+### Chapter 3423
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 In the god temple of the Annihilation God Spirit, the cause-element main god’s body was trembling. The other creatures could not see the slash performed, but he knew that if he was hit by it, not only ordinary spirits but also Annihilation-class god temple main gods would be wiped from the history of the universe. They would be cleaned from the history books with no chance of ever recovering.
 
 Even the reviving power of a god temple could not save a life that did not exist.

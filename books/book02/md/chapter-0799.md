@@ -1,21 +1,20 @@
 ---
-Title:Phantom Armor 
-Chapter:799 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Phantom Armor
+chapter: 799
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Phantom Armor
-### Chapter 799
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Phantom Armor
+
+### Chapter 799
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The big monster roared in agony, as its giant body tumbled a few steps backward. Blood cascaded from the wound, coloring its scales. From inside the palace, a shadow creature emerged, wielding a steel greatsword and clad in steel armor.
 
 Taking a closer look, Han Sen noticed that the armaments were not actually affixed to a person or creature. Despite being fitted in the shape of a human, the armor was not actually clothing anyone. The armor was empty, as if it were possessed. In between the plating of the armor, all he could espy was the flicker of a ghostly-green light.

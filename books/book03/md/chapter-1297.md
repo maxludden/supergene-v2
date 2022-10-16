@@ -1,21 +1,20 @@
 ---
-Title:No God Emperor 
-Chapter:1297 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: No God Emperor
+chapter: 1297
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## No God Emperor
-### Chapter 1297
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## No God Emperor
+
+### Chapter 1297
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 No God Emperor was robed in black, and his hair was tied up. His figure was intimidatingly tall and wide.
 
 “It is a great honor for me to know I am now hosting the almighty No God Emperor. I implore you to take a seat, and I hope you find the hospitality to your liking,” Lotus Empress stated.

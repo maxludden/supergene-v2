@@ -1,21 +1,20 @@
 ---
-Title:Under the Sky Knife 
-Chapter:2686 
-Section:13 
-Book:8 
-CSS:../Styles/style.css 
+title: Under the Sky Knife
+chapter: 2686
+section: 13
+book: 8
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Under the Sky Knife
-### Chapter 2686
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Under the Sky Knife
+
+### Chapter 2686
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “Impossible… This is impossible…” They felt as if they were going to suffocate.
 
 A half-deified was fighting a deified and was no worse for wear. It made them feel more and more nervous about how things were going to turn out. They were afraid that the unthinkable might actually happen, and they might lose their bet.
@@ -62,7 +61,7 @@ As the fight went on, more and more of the Very High noticed that Han Sen’s gr
 
 “Of course. The Sky were kicked out by our race. We should expect this from one of their knife skills.”
 
-“Hey! Hey! How about this? If Han Sen really does achieve first place, I wonder what that *sshole Li Xue Cheng’s face will look like.”
+“Hey! Hey! How about this? If Han Sen really does achieve first place, I wonder what that asshole Li Xue Cheng’s face will look like.”
 
 “I still don’t think he will win. Han Sen’s knife skills are strong, but his power isn’t any better than Shale’s. Shale cannot hurt him, but he cannot hurt Shale. This fight will end without a winner, but neither will there be a loser. If they fight long enough, maybe the stamina of the half-deified will deplete. With the deified having greater stamina, he will be able to outlast and win that way.”
 

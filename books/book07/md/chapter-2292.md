@@ -1,21 +1,20 @@
 ---
-Title:The Prisoner at the Rear 
-Chapter:2292 
-Section:10 
-Book:7 
-CSS:../Styles/style.css 
+title: The Prisoner at the Rear
+chapter: 2292
+section: 10
+book: 7
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## The Prisoner at the Rear
-### Chapter 2292
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## The Prisoner at the Rear
+
+### Chapter 2292
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The prisoner approached Han Sen. Although he walked slowly, he was already very close to them. A second later, he was directly behind Han Sen.
 
 As the prisoner walked, his cuffs clinked and clanked. When he came to a stop behind Han Sen, he fell completely silent. Han Sen couldn’t even hear the prisoner breathing or his heart beating. It was as if he no longer existed.
@@ -44,7 +43,7 @@ Then, he looked right. And still, he couldn’t see anything. Han Sen wished he 
 
 Han Sen couldn’t keep his eyes off the others’ horrified expressions, though. Their vision lingered on the space behind Han Sen, which made his heart tremble in fear.
 
-“F*ck you! I have a bird’s nest to protect me, and I have nothing to be afraid of.” Han Sen gritted his teeth and did not move.
+“Fuck you! I have a bird’s nest to protect me, and I have nothing to be afraid of.” Han Sen gritted his teeth and did not move.
 
 But suddenly, Han Sen felt a chill run down his neck. It felt as if something was blowing a cold breath over his neck. Han Sen’s skin prickled as his back turned sore and his legs went soft.
 
@@ -88,11 +87,11 @@ Bao’er nodded. She leaned over his shoulder and took a look behind him. She je
 
 Bao’er hesitated, but she eventually said, “It’s like… It’s like the creature is drawing a person… Yeah, a woman.”
 
-“A woman? What kind of woman?” Han Sen was frozen. A skeletal prisoner had appeared out of nowhere, slinked up to his back, and started drawing a woman on him. This was too f*cking creepy, and it made Han Sen feel itchy and uncomfortable.
+“A woman? What kind of woman?” Han Sen was frozen. A skeletal prisoner had appeared out of nowhere, slinked up to his back, and started drawing a woman on him. This was too fucking creepy, and it made Han Sen feel itchy and uncomfortable.
 
 Bao’er didn’t seem to know how she might describe what she saw. With hesitation, she said, “An ugly, ugly woman.”
 
-Han Sen felt his pulse pounding in his temples. An ugly prisoner was now drawing an ugly woman on his back. What the f*ck was happening?
+Han Sen felt his pulse pounding in his temples. An ugly prisoner was now drawing an ugly woman on his back. What the fuck was happening?
 
 Han Sen’s mouth was wide open. He tried to ask another question, but he had no idea what he should ask.
 

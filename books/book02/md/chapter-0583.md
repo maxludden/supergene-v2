@@ -1,21 +1,20 @@
 ---
-Title:This Life, This World, This Sky, This Earth; This Single Strike 
-Chapter:583 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: This Life, This World, This Sky, This Earth; This Single Strike
+chapter: 583
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## This Life, This World, This Sky, This Earth; This Single Strike
-### Chapter 583
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## This Life, This World, This Sky, This Earth; This Single Strike
+
+### Chapter 583
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The audience that were in their seats couldn't help but stand up and lean forward with their mouths open, to watch Yi Dongmu perform his final strike.
 
 Yi Dongmu's momentum and power had reached maximum capacity, and now, the daggers in his hands finally moved. They travelled at an unimaginable speed, quicker than the wind.

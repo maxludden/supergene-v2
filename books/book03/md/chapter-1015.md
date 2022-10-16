@@ -1,21 +1,20 @@
 ---
-Title:Blood-wing Beast King 
-Chapter:1015 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Blood-wing Beast King
+chapter: 1015
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Blood-wing Beast King
-### Chapter 1015
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Blood-wing Beast King
+
+### Chapter 1015
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen calmly observed Liu Yuxuan. Han Sen was dexterous in the arts of assassination, and when his Jadeskin had allowed him to open his eighth sense, he gained the ability to detect any hostile feelings towards him.
 
 Although Liu Yuxuan had hid it well, Han Sen could sense he meant to do him harm.

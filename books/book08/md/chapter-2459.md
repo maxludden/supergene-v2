@@ -1,21 +1,20 @@
 ---
-Title:The Possibility of Killing a God 
-Chapter:2459 
-Section:12 
-Book:8 
-CSS:../Styles/style.css 
+title: The Possibility of Killing a God
+chapter: 2459
+section: 12
+book: 8
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## The Possibility of Killing a God
-### Chapter 2459
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## The Possibility of Killing a God
+
+### Chapter 2459
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The woman quirked her lips into a smile. Running her hand through her hair, she said, “Becoming Super Gene means killing these guys who call themselves God.”
 
 “Why are you trying to do that?” Han Sen was shocked. He knew how scary those beings were. But luckily, they couldn’t directly attack the beings of the universe. Their powers were much stronger than any creature within the geno universe. Not even deified beings could be compared to them.

@@ -1,21 +1,20 @@
 ---
-Title:Ask Me Questions 
-Chapter:1115 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Ask Me Questions
+chapter: 1115
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Ask Me Questions
-### Chapter 1115
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Ask Me Questions
+
+### Chapter 1115
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The progress of practicing Hidden Blood came smoothly. There were no hindrances, and Han Sen was able to withstand the high-energy blood he was given.
 
 After fifteen days, Han Sen became what could be considered a beginner. The energy in his blood, by this point, had doubled. Han Sen now had the time to enter the sanctuary and get to refining both Life Geno Essences.

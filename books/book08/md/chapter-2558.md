@@ -1,21 +1,20 @@
 ---
-Title:Expensive Blessing 
-Chapter:2558 
-Section:12 
-Book:8 
-CSS:../Styles/style.css 
+title: Expensive Blessing
+chapter: 2558
+section: 12
+book: 8
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Expensive Blessing
-### Chapter 2558
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Expensive Blessing
+
+### Chapter 2558
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “Two thousand King xenogeneic genes? Why don’t you just go rob someone?” Ji Yang Sheng was thinking. Ordinary King class people wouldn’t have that many saved up.
 
 Even a half-deified wouldn’t have that many King xenogeneic genes in storage.

@@ -1,21 +1,20 @@
 ---
-Title:Under Overbearing 
-Chapter:2215 
-Section:10 
-Book:7 
-CSS:../Styles/style.css 
+title: Under Overbearing
+chapter: 2215
+section: 10
+book: 7
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Under Overbearing
-### Chapter 2215
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Under Overbearing
+
+### Chapter 2215
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 When Han Sen reached the control room, Mister White and Crime were already there.
 
 Based on what their scanners were showing them, there was a giant beast somewhere in front of the ship. The creature looked something like a big sea turtle. It was, however, the size of a planet. It was almost as big as the Extreme King’s ships.

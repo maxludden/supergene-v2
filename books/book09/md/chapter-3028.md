@@ -1,21 +1,20 @@
 ---
-Title:Fighting Qin Xiu 
-Chapter:3028 
-Section:15 
-Book:9 
-CSS:../Styles/style.css 
+title: Fighting Qin Xiu
+chapter: 3028
+section: 15
+book: 9
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Fighting Qin Xiu
-### Chapter 3028
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Fighting Qin Xiu
+
+### Chapter 3028
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “Han Sen!” Everybody knew that it was Han Sen in front of the geno hall.
 
 Han Sen was standing near it. He looked at Qin Xiu but did not do anything.

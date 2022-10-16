@@ -1,21 +1,20 @@
 ---
-Title:I Am the Path 
-Chapter:2684 
-Section:13 
-Book:8 
-CSS:../Styles/style.css 
+title: I Am the Path
+chapter: 2684
+section: 13
+book: 8
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## I Am the Path
-### Chapter 2684
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## I Am the Path
+
+### Chapter 2684
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 But now, the Spell’s nine tiers had been combined and condensed into one. Its power solidified, and that new density allowed the armor to ignore the difference in power between the two fighters. Its energy could no longer be converted to the demonic element.
 
 Shale was a bit shocked by this twist. He used his demonic powers a few times more, but try as he might, he was unable to change Han Sen’s element. He had realized that Han Sen had discovered a way to fight back against the demonic power he wielded.

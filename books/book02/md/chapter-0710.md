@@ -1,21 +1,20 @@
 ---
-Title:Glory 
-Chapter:710 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Glory
+chapter: 710
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Glory
-### Chapter 710
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Glory
+
+### Chapter 710
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Victory! Non-stop victory.
 
 Dollar won again and again, which thrilled the Alliance. More and more people became excited about the Divinity's Bout, as the focus on Dollar increased.

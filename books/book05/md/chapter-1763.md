@@ -1,21 +1,20 @@
 ---
-Title:Xenogeneic Space 
-Chapter:1763 
-Section:6 
-Book:5 
-CSS:../Styles/style.css 
+title: Xenogeneic Space
+chapter: 1763
+section: 6
+book: 5
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Xenogeneic Space
-### Chapter 1763
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Xenogeneic Space
+
+### Chapter 1763
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 What height must a mountain reach to be considered a tall mountain?
 
 There was no answer to this question, just like no one knew how tall Unsolid Mountain was. No creature could reach the peak of Unsolid Mountain. None had ever glanced at what lay at the peak.

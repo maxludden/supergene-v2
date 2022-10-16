@@ -1,21 +1,20 @@
 ---
-Title:A Sword That Requires a Life in Trade 
-Chapter:2473 
-Section:12 
-Book:8 
-CSS:../Styles/style.css 
+title: A Sword That Requires a Life in Trade
+chapter: 2473
+section: 12
+book: 8
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## A Sword That Requires a Life in Trade
-### Chapter 2473
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## A Sword That Requires a Life in Trade
+
+### Chapter 2473
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Under the black tiger’s area power, a three-meter-tall, egg-like object formed and trapped Han Sen.
 
 Han Sen tried to deploy his Jadeskin and break the black area, but he noticed that the darkness encasing him was as solid as it was terrifying. He couldn’t move at all.

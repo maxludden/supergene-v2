@@ -1,21 +1,20 @@
 ---
-Title:Golden Ladybug 
-Chapter:689 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Golden Ladybug
+chapter: 689
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Golden Ladybug
-### Chapter 689
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Golden Ladybug
+
+### Chapter 689
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 But something was faster than Han Sen. The pink snake was using its legion of snakes for cover, and he didn't know when it had managed to get so close. The small snake was thin like a chopstick, yet when it opened its mouth, it was wide enough to swallow the entire peach.
 
 Seeing the peach about to be swallowed by the pink snake, another gold shadow emerged from the hole in the tree. In one smack, the pink snake was sent flying.

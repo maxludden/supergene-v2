@@ -1,21 +1,20 @@
 ---
-Title:Night Treasure 
-Chapter:1291 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Night Treasure
+chapter: 1291
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Night Treasure
-### Chapter 1291
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Night Treasure
+
+### Chapter 1291
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “It sounds like quite the fruit,” Han Sen said with a smile.
 
 “If you were an emperor who had not opened ten gene locks, you wouldn’t get invited. Oh, what I wouldn’t give to try it out myself,” Baby Ghost said.

@@ -1,21 +1,20 @@
 ---
-Title:Water God Level Up 
-Chapter:2350 
-Section:11 
-Book:7 
-CSS:../Styles/style.css 
+title: Water God Level Up
+chapter: 2350
+section: 11
+book: 7
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Water God Level Up
-### Chapter 2350
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Water God Level Up
+
+### Chapter 2350
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Katcha!
 
 The gold light spun. Han Sen’s hands were so strong that he managed to pull two of the dragon’s teeth right out.

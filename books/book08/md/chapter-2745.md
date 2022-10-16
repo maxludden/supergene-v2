@@ -1,21 +1,20 @@
 ---
-Title:Different Path 
-Chapter:2745 
-Section:13 
-Book:8 
-CSS:../Styles/style.css 
+title: Different Path
+chapter: 2745
+section: 13
+book: 8
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Different Path
-### Chapter 2745
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Different Path
+
+### Chapter 2745
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 It was different from Under the Sky. Sit and Forget Sutra was a completely unique path. Even to Han Sen, who had studied many different geno arts, this skill was incredibly fresh and amazing. It was like opening the door to a new world.
 
 Exquisite and Li Keer were both stunned and deliriously happy. They could feel everything Han Sen was learning, and they gained new insights every time Han Sen understood something.

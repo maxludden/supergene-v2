@@ -1,21 +1,20 @@
 ---
-Title:Dragon Thirteen 
-Chapter:2029 
-Section:8 
-Book:6 
-CSS:../Styles/style.css 
+title: Dragon Thirteen
+chapter: 2029
+section: 8
+book: 6
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Dragon Thirteen
-### Chapter 2029
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Dragon Thirteen
+
+### Chapter 2029
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “Dragon Thirteen of the Dragon,” the Dragon lady said in a friendly manner.
 
 “Dragon Thirteen? Nice name, but this test is not fair,” Han Sen said, trying to buy himself some time.

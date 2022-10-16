@@ -1,21 +1,20 @@
 ---
-Title:Blood-pulse 
-Chapter:745 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Blood-pulse
+chapter: 745
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Blood-pulse
-### Chapter 745
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Blood-pulse
+
+### Chapter 745
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen was very confused, but the man had already passed away. His lifeforce had extinguished, and he could no longer provide Han Sen with the answers he sought.
 
 Han Sen then reminded himself of the man's suggestion to look in his pockets, and so he rummaged through them in the hopes of finding another lead.

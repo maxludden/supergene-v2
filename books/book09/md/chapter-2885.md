@@ -1,21 +1,20 @@
 ---
-Title:Crystallizers Light Up a Lantern 
-Chapter:2885 
-Section:14 
-Book:9 
-CSS:../Styles/style.css 
+title: Crystallizers Light Up a Lantern
+chapter: 2885
+section: 14
+book: 9
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Crystallizers Light Up a Lantern
-### Chapter 2885
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Crystallizers Light Up a Lantern
+
+### Chapter 2885
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “To make your race extinct,” Han Sen coldly said.
 
 Burning Lamp’s expression changed. He seemed to restrain his simmering anger as he frowned and asked, “Mister Han, are you here because of what happened? We Buddha can be reasonable.”

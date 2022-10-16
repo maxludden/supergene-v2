@@ -1,21 +1,20 @@
 ---
-Title:Nothing 
-Chapter:3379 
-Section:17 
-Book:10 
-CSS:../Styles/style.css 
+title: Nothing
+chapter: 3379
+section: 17
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Nothing
-### Chapter 3379
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Nothing
+
+### Chapter 3379
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen kept looking around for Break World beasts. He wanted his Break World tally to reach a hundred to see if his Super God Spirit mode might exhibit positive changes.
 
 After killing a few Break World beasts, Han Sen thought his Break World gene tally would hit a hundred. The results made him wonder.

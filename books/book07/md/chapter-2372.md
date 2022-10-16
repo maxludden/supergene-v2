@@ -1,21 +1,20 @@
 ---
-Title:Play Off 
-Chapter:2372 
-Section:11 
-Book:7 
-CSS:../Styles/style.css 
+title: Play Off
+chapter: 2372
+section: 11
+book: 7
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Play Off
-### Chapter 2372
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Play Off
+
+### Chapter 2372
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 While the rainbow raged the bottle, the bottle itself started to float.
 
 Han Sen’s face paled. A bad feeling suddenly washed over him. He hastily backed away from the altar and returned to the blood kirin.
@@ -42,7 +41,7 @@ Although the light fountained everywhere, it didn’t hurt anyone. But Han Sen w
 
 Han Sen ignored her. She was obviously a moron, and there was no point in trying to understand her.
 
-The Siren couldn’t leave the hall. The old Siren woman pointed at Han Sen and said, “Grab him! I don’t believe that b*tch would leave her son behind.”
+The Siren couldn’t leave the hall. The old Siren woman pointed at Han Sen and said, “Grab him! I don’t believe that bitch would leave her son behind.”
 
 Han Sen stared at the idiotic old Siren woman for a long moment. “Are you having a stroke or something?”
 
@@ -62,7 +61,7 @@ Han Sen placed Lilly on the blood kirin’s back, then touched the blood kirin�
 
 The Siren were given a shock. Han Sen was indicating the old woman.
 
-The old Siren woman coldly grunted. “Even now, you still try to divide us? You are evil. We were blind, and unable to tell you were this evil. You better tell us what conspiracy you and that b*tch cooked up. Don’t be angry with us that we’re about to harm a member of our own family.”
+The old Siren woman coldly grunted. “Even now, you still try to divide us? You are evil. We were blind, and unable to tell you were this evil. You better tell us what conspiracy you and that bitch cooked up. Don’t be angry with us that we’re about to harm a member of our own family.”
 
 After that, the old Siren woman used her staff against the blood kirin.
 
@@ -92,7 +91,7 @@ But the blood kirin’s temper was too cruel. Han Sen couldn’t control it. The
 
 “Argh!” The blood kirin landed a blow on the old Siren woman. Her body flew away and crashed into one of the palace’s crystal walls. She coughed up some blood.
 
-“Holy Virgin, do you not understand? If we don’t kill to survive, the Siren will all be murdered here and now. Bai Yi and his b*tch mother are going to ruin our race.” The old Siren woman was covered in blood. Her hair was messed up, and it looked as if she was on the verge of crying.
+“Holy Virgin, do you not understand? If we don’t kill to survive, the Siren will all be murdered here and now. Bai Yi and his bitch mother are going to ruin our race.” The old Siren woman was covered in blood. Her hair was messed up, and it looked as if she was on the verge of crying.
 
 The blood kirin didn’t hesitate, though. It roared and went toward the old Siren woman. Han Sen couldn’t stop it.
 

@@ -1,21 +1,20 @@
 ---
-Title:Guardian Spider 
-Chapter:2148 
-Section:8 
-Book:6 
-CSS:../Styles/style.css 
+title: Guardian Spider
+chapter: 2148
+section: 8
+book: 6
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Guardian Spider
-### Chapter 2148
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Guardian Spider
+
+### Chapter 2148
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Do you recognize these people of the Buddha and Dragon?” Han Sen asked Kahn. The two had instructed their teams to stay away from the bodies.
 
 Kahn examined the corpses, and after a while, he said, “I think this Buddha is Marquise Grass. He’s always had a pronounced limp, because his left leg is a little shorter than his right leg. Look, that has to be him. As for this Dragon fellow, I believe he must be Dragon 123. His wings aren’t as broad as the wings of the average Dragon. These two were fine the last time I saw them, so whatever happened to them must have been rather recent.”

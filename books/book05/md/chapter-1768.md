@@ -1,21 +1,20 @@
 ---
-Title:The Battle of the Arrow 
-Chapter:1768 
-Section:6 
-Book:5 
-CSS:../Styles/style.css 
+title: The Battle of the Arrow
+chapter: 1768
+section: 6
+book: 5
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## The Battle of the Arrow
-### Chapter 1768
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## The Battle of the Arrow
+
+### Chapter 1768
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Blergh!
 
 Hawei opened his mouth, and blood leaked over his lips. The arrow neatly punctured his heart, bringing him down to the ground. He kept twitching, and his faint breaths would only sustain himself briefly. Death would soon claim him.

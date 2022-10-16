@@ -1,21 +1,20 @@
 ---
-Title:Crystal Fortress 
-Chapter:2568 
-Section:12 
-Book:8 
-CSS:../Styles/style.css 
+title: Crystal Fortress
+chapter: 2568
+section: 12
+book: 8
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Crystal Fortress
-### Chapter 2568
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Crystal Fortress
+
+### Chapter 2568
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 As Han Sen glanced around, he thought the buildings in this place looked exactly like a crystallizer control room. Li Keer commented on it, saying, “The style of architecture must mean this place belonged to the crystallizers.”
 
 Exquisite nodded and said, “This should indeed be a crystallizer structure. The genes of the crystallizers didn’t evolve much, but their technological prowess was exceptional. They ended up challenging the Real Demons, which were rank thirteen, but if they had gone for a lower rank high race somewhere in the top one hundred, they would have become a high race through their technological power.”

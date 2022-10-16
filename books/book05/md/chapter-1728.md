@@ -1,21 +1,20 @@
 ---
-Title:I Want This Person 
-Chapter:1728 
-Section:6 
-Book:5 
-CSS:../Styles/style.css 
+title: I Want This Person
+chapter: 1728
+section: 6
+book: 5
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## I Want This Person
-### Chapter 1728
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## I Want This Person
+
+### Chapter 1728
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Hardman and Lena looked as if they were watching a movie. Until the xenogeneic was killed, no one could tell who would take the beast down.
 
 They didn’t think Han Sen could kill the xenogeneic, and he had actually helped them draw it out. He was very nice.

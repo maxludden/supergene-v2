@@ -1,21 +1,20 @@
 ---
-Title:What’s Great About Jadeskin 
-Chapter:1310 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: What’s Great About Jadeskin
+chapter: 1310
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## What’s Great About Jadeskin
-### Chapter 1310
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## What’s Great About Jadeskin
+
+### Chapter 1310
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The moment No God lunged forward, Han Sen did so too.
 
 The demon was a gathering force around his enemy’s sword, and it instilled a fear inside its opponents. It made them feel as if there was no escape, and the next hit would be their last.

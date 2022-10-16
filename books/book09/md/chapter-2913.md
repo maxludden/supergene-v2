@@ -1,21 +1,20 @@
 ---
-Title:Drifting Away From the Road 
-Chapter:2913 
-Section:15 
-Book:9 
-CSS:../Styles/style.css 
+title: Drifting Away From the Road
+chapter: 2913
+section: 15
+book: 9
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Drifting Away From the Road
-### Chapter 2913
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Drifting Away From the Road
+
+### Chapter 2913
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 It was unknown what the doll was made of. When the grey dust fell away from it, it looked rather clean. The gem pendant on its chest looked even brighter.
 
 Tick. Tick. Tick. Tick.

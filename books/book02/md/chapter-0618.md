@@ -1,21 +1,20 @@
 ---
-Title:Mystery Island Appears Again 
-Chapter:618 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Mystery Island Appears Again
+chapter: 618
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Mystery Island Appears Again
-### Chapter 618
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Mystery Island Appears Again
+
+### Chapter 618
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 While Queen was looking away, Han Sen summoned the Deadeye Peacock beast soul.
 
 A peacock-like bird appeared in front of Han Sen, flapping its wings. It was roughly two feet long.

@@ -1,21 +1,20 @@
 ---
-Title:Conspiracy 
-Chapter:577 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Conspiracy
+chapter: 577
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Conspiracy
-### Chapter 577
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Conspiracy
+
+### Chapter 577
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen was still unsure whether or not hisJadeskin had issues. Regardless, he decided not to continue practicing it and put it aside. Instead, he moved his focus on to training with the Dongxue Sutra.
 
 Han Sen wanted to learn the first tier of the Dongxue Sutra sooner now, so he could unlock his first gene lock.

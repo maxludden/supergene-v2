@@ -1,21 +1,20 @@
 ---
-Title:Evil Goblins 
-Chapter:410 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: Evil Goblins
+chapter: 410
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Evil Goblins
-### Chapter 410
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Evil Goblins
+
+### Chapter 410
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Although this mountain was also covered with snow on the top, but it was much higher and steeper than the one Han Sen remembered.
 
 Where the Firebird was seemed to be a volcano, while this one was much rockier.

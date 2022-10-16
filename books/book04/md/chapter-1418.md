@@ -1,21 +1,20 @@
 ---
-Title:The Spirits Return 
-Chapter:1418 
-Section:4 
-Book:4 
-CSS:../Styles/style.css 
+title: The Spirits Return
+chapter: 1418
+section: 4
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## The Spirits Return
-### Chapter 1418
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## The Spirits Return
+
+### Chapter 1418
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Real Blood Geno Core reached first place and created a big fuss across the Fourth God’s Sanctuary.
 
 “What’s going on recently? Another geno core has jumped to first place? Who could create a geno core that scary?”

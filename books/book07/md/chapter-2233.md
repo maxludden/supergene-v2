@@ -1,21 +1,20 @@
 ---
-Title:Three Bai Sema 
-Chapter:2233 
-Section:10 
-Book:7 
-CSS:../Styles/style.css 
+title: Three Bai Sema
+chapter: 2233
+section: 10
+book: 7
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Three Bai Sema
-### Chapter 2233
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Three Bai Sema
+
+### Chapter 2233
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “DIe!” Night River King looked murderous. His hatred for Han Sen was burning, and he wanted nothing more than to grind Han Sen into dust.
 
 Ancient God Statue’s power was not unlimited. The statue Edward had given him only provided the power to fuel one grand attack. After one attack, the Ancient God Statue would vanish, but one attack would be enough for Night River King. He only needed to use the incredible statue’s power to break the Bai Sema. Even if Han Sen wasn’t killed by it, Night River King thought he could lay waste to them all within a short amount of time through his own power when they were no longer protected by the Bai Sema.

@@ -1,21 +1,20 @@
 ---
-Title:Asking Heart 
-Chapter:3270 
-Section:16 
-Book:10 
-CSS:../Styles/style.css 
+title: Asking Heart
+chapter: 3270
+section: 16
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Asking Heart
-### Chapter 3270
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Asking Heart
+
+### Chapter 3270
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “I will bring him back,” Zhao Ning’er said with a frown. “He cannot run far.” “I do not need him anymore,” Bury Path God coldly said. His body developed a demonic presence as the sky went dark. Zhao Ning’er looked as if she was being isolated from the outside world.
 
 Zhao Ning’er’s eyes froze. She stared at Bury Path God as she said, “Bury Path God, this is the capital of the Zhao Kingdom. If you dare do anything here, the guardian God Spirit will smite you with its wrath.”

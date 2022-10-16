@@ -1,21 +1,20 @@
 ---
-Title:Killing Underwater Xenogeneics 
-Chapter:2357 
-Section:11 
-Book:7 
-CSS:../Styles/style.css 
+title: Killing Underwater Xenogeneics
+chapter: 2357
+section: 11
+book: 7
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Killing Underwater Xenogeneics
-### Chapter 2357
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Killing Underwater Xenogeneics
+
+### Chapter 2357
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Because Han Sen was uncertain of Miss Mirror’s ultimate goal, he didn’t dare take any obvious risks. He remained on Planet Water Zone and spent his time hunting down Duke xenogeneics. He wanted to fill up his Duke genes.
 
 Han Sen found a few Duke xenogeneics, killed them, and consumed their Duke genes. Their xenogeneic genes increased his Duke gene tally by one point each, so leveling up was a very slow process. It wasn’t as fast as eating one King xenogeneic gene to claim ten Duke gene points.

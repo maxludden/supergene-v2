@@ -1,21 +1,20 @@
 ---
-Title:Breaking Holy Palace 
-Chapter:2963 
-Section:15 
-Book:9 
-CSS:../Styles/style.css 
+title: Breaking Holy Palace
+chapter: 2963
+section: 15
+book: 9
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Breaking Holy Palace
-### Chapter 2963
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Breaking Holy Palace
+
+### Chapter 2963
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen waved his knife. The knife had a holy spirit power. It suddenly cut open four people’s power. One knife meant four injured. Blood was in the sky.
 
 The demon lady and the others fell outside the holy palace. Blood burst out of their chests. They turned into a holy light that danced. They struggled a little, but they could not get up.

@@ -1,21 +1,20 @@
 ---
-Title:Consume Skill 
-Chapter:1950 
-Section:7 
-Book:5 
-CSS:../Styles/style.css 
+title: Consume Skill
+chapter: 1950
+section: 7
+book: 5
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Consume Skill
-### Chapter 1950
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Consume Skill
+
+### Chapter 1950
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “Han Sen! I’ve brought harm down on you. I cannot believe the Buddha had an ulterior motive for inviting me there.” Back on the ship, Yisha placed the ant down on the table and sighed.
 
 Han Sen wished to speak, but he could not. He had become an ant, and he could no longer use any geno arts. He really was like a normal ant.

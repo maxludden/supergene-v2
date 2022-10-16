@@ -1,21 +1,20 @@
 ---
-Title:God’s Wonder 
-Chapter:2529 
-Section:12 
-Book:8 
-CSS:../Styles/style.css 
+title: God’s Wonder
+chapter: 2529
+section: 12
+book: 8
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## God’s Wonder
-### Chapter 2529
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## God’s Wonder
+
+### Chapter 2529
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen was fighting with the wolf god’s doppelgangers when he suddenly felt the space around him shift. He was shocked. He prepared to strike, but then he saw that it was Li Keer who had appeared.
 
 “Come with me.” Li Keer grabbed Han Sen’s arm. Her body jolted and teleported away, taking Han Sen with her.

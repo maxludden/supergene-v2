@@ -1,21 +1,20 @@
 ---
-Title:A Babe 
-Chapter:136 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: A Babe
+chapter: 136
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## A Babe
-### Chapter 136
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## A Babe
+
+### Chapter 136
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Zhao Lianhua looked depressed. "Liu, I do not even know who this person is. Where should I start looking?"
 
 Liu Jianguo paused and said, "Go look anyway. In any case, we must have him. He is too important for us. With him, we would soar and it would be much easier for you to seek sponsorship in the future."

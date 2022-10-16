@@ -1,21 +1,20 @@
 ---
-Title:Ghost Bone Town 
-Chapter:2218 
-Section:10 
-Book:7 
-CSS:../Styles/style.css 
+title: Ghost Bone Town
+chapter: 2218
+section: 10
+book: 7
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Ghost Bone Town
-### Chapter 2218
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Ghost Bone Town
+
+### Chapter 2218
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Sacred had been the strongest faction in the entire universe, at one point in time. It had maintained that lofty position for a while, too.
 
 Now there were the Very High, the Ancient God, and the Extreme King. That trio composed the best of the best. But back then, only Sacred had enough power to govern the entire universe.

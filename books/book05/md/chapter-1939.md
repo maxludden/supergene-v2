@@ -1,21 +1,20 @@
 ---
-Title:Heaven 
-Chapter:1939 
-Section:7 
-Book:5 
-CSS:../Styles/style.css 
+title: Heaven
+chapter: 1939
+section: 7
+book: 5
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Heaven
-### Chapter 1939
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Heaven
+
+### Chapter 1939
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “Why are you following me?” Han Sen asked, looking at Hai’er.
 
 Hai’er sauntered casually behind him. “I gave you my end of the bargain, so of course I’m going to follow you. Heaven is going to open in a few days, and until then, I am attaching myself to you.”

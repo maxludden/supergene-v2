@@ -1,21 +1,20 @@
 ---
-Title:Eleven Armor Talent? 
-Chapter:2603 
-Section:12 
-Book:8 
-CSS:../Styles/style.css 
+title: Eleven Armor Talent?
+chapter: 2603
+section: 12
+book: 8
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Eleven Armor Talent?
-### Chapter 2603
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Eleven Armor Talent?
+
+### Chapter 2603
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Exquisite and Bixi were so shocked. A ten armor talent was the highest that a creature of the universe could achieve. Although legends said that a sacred eleventh armor talent did exist, that would be something reserved for mythical beings like God.
 
 Everyone knew of the Very High Alpha, the Ancient God King, and the Sacred Leader. They were mythical figures who fought legendary battles in ancient times. They breached the geno hall and became known throughout the annals of history. There were many others, too, whose legends were passed down through the history of the universe.

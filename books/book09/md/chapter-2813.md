@@ -1,21 +1,20 @@
 ---
-Title:Too Weak 
-Chapter:2813 
-Section:14 
-Book:9 
-CSS:../Styles/style.css 
+title: Too Weak
+chapter: 2813
+section: 14
+book: 9
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Too Weak
-### Chapter 2813
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Too Weak
+
+### Chapter 2813
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Everyone was shocked. Meng Lie was already a larva class deified, and he had turned a larva-class black-scaled, nine-headed snake into a gold soldier. Even so, he was not able to deflect one small strike. How scary could that power be?
 
 "Impossible... You are not Han Sen..." Meng Lie was shaking and shivering as he emerged from the scrap heap. His hands were full of blood, but he did not care. He stared at the young man and spoke directly to him.

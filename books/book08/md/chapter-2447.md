@@ -1,21 +1,20 @@
 ---
-Title:Fang Qing Yu 
-Chapter:2447 
-Section:12 
-Book:8 
-CSS:../Styles/style.css 
+title: Fang Qing Yu
+chapter: 2447
+section: 12
+book: 8
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Fang Qing Yu
-### Chapter 2447
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Fang Qing Yu
+
+### Chapter 2447
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The pirates all stood in a line, still chilled and shivering. They stood meekly before Bao’er, listening attentively as she scolded them.
 
 “From now on, you guys are the deckhands of the white whale. You’ll be a cleaner… And you, a servant…” Bao’er gave them jobs, and the pirates all nodded as they were given assignments. They had been tamed, and none of them dared to refuse to do as they were told.

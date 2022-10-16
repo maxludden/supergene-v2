@@ -1,21 +1,20 @@
 ---
-Title:One Mouth and a Demigod 
-Chapter:864 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: One Mouth and a Demigod
+chapter: 864
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## One Mouth and a Demigod
-### Chapter 864
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## One Mouth and a Demigod
+
+### Chapter 864
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Zhuo Donglai watched the screen with an excitement in his heart. It reminded him of himself, in the days of his youth.
 
 "He is not from the Luo family, and he did not practice Falsified-Sky Sutra. This is interesting, and now I have come to the decision that yes, I will recruit him as my student." Zhuo Donglai smiled.

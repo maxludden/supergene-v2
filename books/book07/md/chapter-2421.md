@@ -1,21 +1,20 @@
 ---
-Title:Losing Control 
-Chapter:2421 
-Section:11 
-Book:7 
-CSS:../Styles/style.css 
+title: Losing Control
+chapter: 2421
+section: 11
+book: 7
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Losing Control
-### Chapter 2421
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Losing Control
+
+### Chapter 2421
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen felt a chill. This was no longer funny.
 
 Ning Yue’s mental endurance was almost as good as Han Sen’s, but Ning Yue had been dramatically affected by the green sword. Han Sen didn’t know what to do with the changes that were occurring.

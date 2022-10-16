@@ -1,21 +1,20 @@
 ---
-Title:Thirty-seven Videos 
-Chapter:2510 
-Section:12 
-Book:8 
-CSS:../Styles/style.css 
+title: Thirty-seven Videos
+chapter: 2510
+section: 12
+book: 8
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Thirty-seven Videos
-### Chapter 2510
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Thirty-seven Videos
+
+### Chapter 2510
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen and the others all had weird mushrooms on their heads. The saprophytes had assimilated to become parts of their bodies. If the mushrooms were damaged, their brains would be injured as well.
 
 They had no idea what to do. No one was able to think of a way to get rid of the mushrooms on their heads. They all looked at each other, unsure of what to do.

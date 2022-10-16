@@ -1,21 +1,20 @@
 ---
-Title:I'll Buy It 
-Chapter:653 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: I'll Buy It
+chapter: 653
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## I'll Buy It
-### Chapter 653
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## I'll Buy It
+
+### Chapter 653
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 It was a black T-rex beast soul. Its name was "Rex Spike." It was a heavy metal weapon that was about two meters long.
 
 From the booklet provided, the weapon looked like a giant umbrella that was folded. The end was sharp and it had a hilt at the bottom.

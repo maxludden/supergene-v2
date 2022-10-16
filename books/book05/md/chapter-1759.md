@@ -1,21 +1,20 @@
 ---
-Title:Super Body Evolution 
-Chapter:1759 
-Section:6 
-Book:5 
-CSS:../Styles/style.css 
+title: Super Body Evolution
+chapter: 1759
+section: 6
+book: 5
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Super Body Evolution
-### Chapter 1759
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Super Body Evolution
+
+### Chapter 1759
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The Archangel Bone Arrow’s power had drilled into Han Sen, pinning him in place. He could not move, nor even make his body levitate.
 
 As he was being suppressed by this power, Han Sen activated a talent he had. His cells came alive, unleashing an unimaginable force. Every cell was lit up by a holy light, covering Han Sen in fire. It was like he was being reborn.

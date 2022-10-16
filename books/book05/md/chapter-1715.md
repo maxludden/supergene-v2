@@ -1,21 +1,20 @@
 ---
-Title:The Name on the Grave 
-Chapter:1715 
-Section:6 
-Book:5 
-CSS:../Styles/style.css 
+title: The Name on the Grave
+chapter: 1715
+section: 6
+book: 5
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## The Name on the Grave
-### Chapter 1715
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## The Name on the Grave
+
+### Chapter 1715
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “I can’t tell. Your genes are good if you managed to make the flowers ring.” Lan Se told Han Sen as they drove away.
 
 “If I have good genes, does that mean I am eligible for a good job?” Han Sen smiled.

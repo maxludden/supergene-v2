@@ -1,21 +1,20 @@
 ---
-Title:Surviving Death 
-Chapter:628 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Surviving Death
+chapter: 628
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Surviving Death
-### Chapter 628
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Surviving Death
+
+### Chapter 628
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Chen Ran was running as fast as his legs could carry him. All of a sudden, the sight of a red cloud appeared in the distance below. It was the creature that resembled a donkey or horse.
 
 Chen Ran stopped his flight, but the red cloud monster was already on its way up to strike him at an alarming speed.

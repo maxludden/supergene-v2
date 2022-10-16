@@ -1,21 +1,20 @@
 ---
-Title:Killing People and Sending Your Love 
-Chapter:1665 
-Section:4 
-Book:4 
-CSS:../Styles/style.css 
+title: Killing People and Sending Your Love
+chapter: 1665
+section: 4
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Killing People and Sending Your Love
-### Chapter 1665
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Killing People and Sending Your Love
+
+### Chapter 1665
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 In the distance, Han Sen could see a pure white donkey walking towards Shadow Shelter.
 
 The donkey was the size of any average donkey, but not a single speck of dirt muddied its pure white fur. A bronze bell was hanging around its neck, and whenever the creature moved, it gently tolled.

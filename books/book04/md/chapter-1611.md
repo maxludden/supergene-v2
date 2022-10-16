@@ -1,21 +1,20 @@
 ---
-Title:Investigative Result 
-Chapter:1611 
-Section:4 
-Book:4 
-CSS:../Styles/style.css 
+title: Investigative Result
+chapter: 1611
+section: 4
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Investigative Result
-### Chapter 1611
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Investigative Result
+
+### Chapter 1611
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The moment Ji Yanran put on the Crystal Shoes, they started to shine. The Crystal Shoes then began to grow. In a flash, they wrapped up Ji Yanran’s body like a magnificent set of crystal armor.
 
 “Honey, are you okay?” Han Sen was shocked, not knowing what was going on.

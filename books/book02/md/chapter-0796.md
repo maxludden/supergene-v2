@@ -1,21 +1,20 @@
 ---
-Title:Killing the Smaller Monster 
-Chapter:796 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Killing the Smaller Monster
+chapter: 796
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Killing the Smaller Monster
-### Chapter 796
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Killing the Smaller Monster
+
+### Chapter 796
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The little angel flapped her wings and flew directly to the big monster's head, as Han Sen took off running to the smaller monster.
 
 His fitness had almost reached the level of a juvenile super creature at this point, and with the Flaming Rex Spike in hand, it wouldn't be too difficult for him to slay his target.

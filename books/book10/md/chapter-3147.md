@@ -1,21 +1,20 @@
 ---
-Title:The Use of a God Temple 
-Chapter:3147 
-Section:16 
-Book:10 
-CSS:../Styles/style.css 
+title: The Use of a God Temple
+chapter: 3147
+section: 16
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## The Use of a God Temple
-### Chapter 3147
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## The Use of a God Temple
+
+### Chapter 3147
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Upon hearing it had a wealth authority, Bald Guy lost all interest. He immediately shook his head and declined with a firm negative. After all, his father was the leader of a city. He was not exactly rich, but he never had a lack of money. Earning a lot of money wasn’t something that interested him.
 
 If it was some God Spirit Blood-Pulse skill that could help a God Spirit or a power that could increase one’s combat proficiency, Bald Guy would have immediately accepted the offer. A God of Wealth God Spirit Blood-Pulse was useless for him. After all, he has a complete Blood-Pulse, even if it was a low-level God Spirit Blood-Pulse. It was only destroyed class.

@@ -1,21 +1,20 @@
 ---
-Title:Things Left Behind by the Deceased 
-Chapter:355 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: Things Left Behind by the Deceased
+chapter: 355
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Things Left Behind by the Deceased
-### Chapter 355
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Things Left Behind by the Deceased
+
+### Chapter 355
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen had only passed the easiest mode of Sprint. By adjusting and adding the metal walls, the difficulty could be further improved. In addition, gravity inside the device could also be increased.
 
 From level I to level X, Han Sen had only passed level I, which was the easiest among them all.

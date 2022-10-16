@@ -1,21 +1,20 @@
 ---
-Title:God Descends 
-Chapter:3377 
-Section:17 
-Book:10 
-CSS:../Styles/style.css 
+title: God Descends
+chapter: 3377
+section: 17
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## God Descends
-### Chapter 3377
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## God Descends
+
+### Chapter 3377
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “Through the aid of the geno prototype’s armor, wasn’t I able to practice with The Story of Genes?” Han Sen asked because he was curious about it.
 
 Chaos shook her head. “The Story of Genes includes a line of every gene in the universe. My geno prototype’s power was able to make your body’s requirement sufficient enough to practice The Story of Genes, but that was just at the lowest possible requirement. The Story of Genes still requires your own genes when it comes to making the final step. That doesn’t just apply to you. Even Qin Xiu, who has the geno prototype armor, cannot do it.”

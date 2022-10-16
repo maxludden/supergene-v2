@@ -1,21 +1,20 @@
 ---
-Title:The Winner Takes It All 
-Chapter:94 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: The Winner Takes It All
+chapter: 94
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## The Winner Takes It All
-### Chapter 94
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## The Winner Takes It All
+
+### Chapter 94
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Flying in the air, Han Sen summoned the mutant sawfish spear and cast it down at Qin Xuan like how a fisherman would use a harpoon. The lion that Qin Xuan had turned into reached out a claw and hit the spear hard. The spear as thick as an arm bent and bounced off.
 
 Fortunately, the spear was tough enough so that it wasn’t broken under her claw.

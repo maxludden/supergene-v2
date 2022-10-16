@@ -1,21 +1,20 @@
 ---
-Title:Doctor Sexy 
-Chapter:1341 
-Section:4 
-Book:4 
-CSS:../Styles/style.css 
+title: Doctor Sexy
+chapter: 1341
+section: 4
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Doctor Sexy
-### Chapter 1341
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Doctor Sexy
+
+### Chapter 1341
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “I have a lot of different powers,” Han Sen started by saying.
 
 Associating himself with a sheep would be strange, but this was a chance for Han Sen to be part of a crowd, he believed. Strength in numbers was a legitimate concept, after all.
@@ -32,7 +31,7 @@ The sheep grimaced, and with disappointment slumping its limbs, it turned to lea
 
 “Don’t go yet! Talk to me.” Han Sen wanted to learn what the sheep had expected of him.
 
-“A weak *ss creature like you probably doesn’t even have a geno core. I need someone special, bub. I need someone who can heal or support others. Finding a random creature that can take pleasure in destroying stuff is easy, and I can assuredly find one stronger than a scrawny kid like you, bub.” The sheep then ran off.
+“A weak ass creature like you probably doesn’t even have a geno core. I need someone special, bub. I need someone who can heal or support others. Finding a random creature that can take pleasure in destroying stuff is easy, and I can assuredly find one stronger than a scrawny kid like you, bub.” The sheep then ran off.
 
 Han Sen was confused by this, and so he turned his head to ask Bao’er, “Did I just get insulted by a sheep?”
 

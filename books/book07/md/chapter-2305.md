@@ -1,21 +1,20 @@
 ---
-Title:Choosing a Weapon 
-Chapter:2305 
-Section:11 
-Book:7 
-CSS:../Styles/style.css 
+title: Choosing a Weapon
+chapter: 2305
+section: 11
+book: 7
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Choosing a Weapon
-### Chapter 2305
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Choosing a Weapon
+
+### Chapter 2305
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Each grave had a special kind of spellwork laid across it. The veil of energy made it impossible to see what sort of treasure might lie within.
 
 But through the viewpoint of the Purple-Eye Butterfly, Han Sen could see a replay of how the grave was constructed. That allowed him to see what was inside.

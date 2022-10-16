@@ -1,21 +1,20 @@
 ---
-Title:Perfect 
-Chapter:1863 
-Section:7 
-Book:5 
-CSS:../Styles/style.css 
+title: Perfect
+chapter: 1863
+section: 7
+book: 5
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Perfect
-### Chapter 1863
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Perfect
+
+### Chapter 1863
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “Twelve moons? Han Sen is lucky! Being blessed by Moon God’s twelve moons will have made him stronger.” Moon- Wheel King was sipping on a cup of tea as he spoke.
 
 Yisha smiled. She was satisfied that Han Sen had been able to raise a twelfth moon.

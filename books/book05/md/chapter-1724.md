@@ -1,21 +1,20 @@
 ---
-Title:Signing a New Contract 
-Chapter:1724 
-Section:6 
-Book:5 
-CSS:../Styles/style.css 
+title: Signing a New Contract
+chapter: 1724
+section: 6
+book: 5
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Signing a New Contract
-### Chapter 1724
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Signing a New Contract
+
+### Chapter 1724
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 In Black Gold Group’s base, Hardman, Lena, Guris, Mister Tiger, and Allan were all watching a video.
 
 The video was of Han Sen’s encounter with the xenogeneic, and his subsequent flight to the building. The video was not taken from one angle. There was a multitude of different views, so it was a little messy.

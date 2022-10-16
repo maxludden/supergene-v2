@@ -1,21 +1,20 @@
 ---
-Title:The Fight to Extinguish the Light 
-Chapter:1778 
-Section:6 
-Book:5 
-CSS:../Styles/style.css 
+title: The Fight to Extinguish the Light
+chapter: 1778
+section: 6
+book: 5
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## The Fight to Extinguish the Light
-### Chapter 1778
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## The Fight to Extinguish the Light
+
+### Chapter 1778
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 As his solid voice echoed, Kong Fei’s body started to unleash power.
 
 The water wave did not come from his body, but it was as if the whole world was answering his summons.

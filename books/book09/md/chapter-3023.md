@@ -1,21 +1,20 @@
 ---
-Title:The Holy Ridge 
-Chapter:3023 
-Section:15 
-Book:9 
-CSS:../Styles/style.css 
+title: The Holy Ridge
+chapter: 3023
+section: 15
+book: 9
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## The Holy Ridge
-### Chapter 3023
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## The Holy Ridge
+
+### Chapter 3023
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Time quickly flew by. One thousand years passed in the blink of an eye, but Littleflower did not do anything. It was like time could not leave a mark on him.
 
 Moment God’s eyes looked very small. She saw Littleflower raise his hands. With five fingers open, the river of time flowed back under his hand. Moment God’s light power was going backward.

@@ -1,21 +1,20 @@
 ---
-Title:Saint Paul: Part 1 
-Chapter:39 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: Saint Paul: Part 1
+chapter: 39
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Saint Paul: Part 1
-### Chapter 39
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Saint Paul: Part 1
+
+### Chapter 39
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 "Let’s talk about this another time. I have to go now, and thank you so much for all your help. I’ll buy you dinner sometime," said Han Sen, ready to go back.
 
 He knew that what Qin Xuan said made sense, but he had his own plan. He wanted to get an aristocratic title before he turned 20 and went to serve, because aristocrats had certain privileges in the army and would not be sent to the front.

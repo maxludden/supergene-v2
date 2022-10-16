@@ -1,21 +1,20 @@
 ---
-Title:The Style of That Sword 
-Chapter:3200 
-Section:16 
-Book:10 
-CSS:../Styles/style.css 
+title: The Style of That Sword
+chapter: 3200
+section: 16
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## The Style of That Sword
-### Chapter 3200
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## The Style of That Sword
+
+### Chapter 3200
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “Looking back and smiling, Bai Meisheng, the sixth palace has no color…”
 
 It was such a beautiful poem. The scene made people’s hearts jump.

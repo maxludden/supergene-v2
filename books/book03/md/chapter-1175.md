@@ -1,21 +1,20 @@
 ---
-Title:Mystic Paper 
-Chapter:1175 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Mystic Paper
+chapter: 1175
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Mystic Paper
-### Chapter 1175
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Mystic Paper
+
+### Chapter 1175
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “Life Geno Essence absorbed: super geno points +1.”
 
 A little while later, Han Sen was able to gain a super geno point. It made him very pleased.

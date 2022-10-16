@@ -1,21 +1,20 @@
 ---
-Title:No. 1 General 
-Chapter:3017 
-Section:15 
-Book:9 
-CSS:../Styles/style.css 
+title: No. 1 General
+chapter: 3017
+section: 15
+book: 9
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## No. 1 General
-### Chapter 3017
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## No. 1 General
+
+### Chapter 3017
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “Sacred’s first general, Purple Fight, I have heard of your name,” Shadow God coldly said upon seeing Purple Fight. “What a shame… All you have left is just your mind now.”
 
 Purple Fight ignored Shadow God. He looked down to peer at Han Yufei.

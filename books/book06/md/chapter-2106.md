@@ -1,21 +1,20 @@
 ---
-Title:Taking It by Force 
-Chapter:2106 
-Section:8 
-Book:6 
-CSS:../Styles/style.css 
+title: Taking It by Force
+chapter: 2106
+section: 8
+book: 6
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Taking It by Force
-### Chapter 2106
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Taking It by Force
+
+### Chapter 2106
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “Fuck! That’s a powerful technique.” Han Sen frowned. He thought with Sky Palace leader’s help and teachings, he’d be able to get the rebirthing powers with ease. But of course, as usual, things weren’t working out as he might have expected them to.
 
 If Han Sen was only dealing with one of the brothers, the ring skill the leader had taught him might have actually stood a chance. But now that the two of them had combined their strength to combat Han Sen, he had no hope of competing.

@@ -1,21 +1,20 @@
 ---
-Title:Meeting the Creature From the Nest Again 
-Chapter:1122 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Meeting the Creature From the Nest Again
+chapter: 1122
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Meeting the Creature From the Nest Again
-### Chapter 1122
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Meeting the Creature From the Nest Again
+
+### Chapter 1122
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen returned to the Alliance and used what little information he had to figure out where he was in the grander scale of the Third God’s Sanctuary.
 
 Han Sen stayed at the shelter for a while, and when he figured out where he was, he asked Moment Queen to move the shelter close to them. Unfortunately, the underground shelter could only move a certain distance with each teleportation. It would take a month for it to reach Han Sen.

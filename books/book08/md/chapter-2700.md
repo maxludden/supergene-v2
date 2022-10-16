@@ -1,21 +1,20 @@
 ---
-Title:Sea Palace 
-Chapter:2700 
-Section:13 
-Book:8 
-CSS:../Styles/style.css 
+title: Sea Palace
+chapter: 2700
+section: 13
+book: 8
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Sea Palace
-### Chapter 2700
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Sea Palace
+
+### Chapter 2700
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Their heads were like those of a buddha, and their tails spread like butterfly wings. Their bodies were really fat and round. Other than their black and white coloring, they looked a little like lion head goldfish. They were swimming calmly around inside the Four Sheep Cube, undisturbed by their rough exodus from Underworld Lake.
 
 Bao’er was squatting near the Four Sheep Cube. She put her hand down into the water, wanting to touch the fish. The fish were only a few inches below the surface of the water. She put her arm into the water up to her shoulder, but still, she couldn’t touch those two goldfish.

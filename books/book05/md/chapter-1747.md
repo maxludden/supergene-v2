@@ -1,21 +1,20 @@
 ---
-Title:Black River Xenogeneic 
-Chapter:1747 
-Section:6 
-Book:5 
-CSS:../Styles/style.css 
+title: Black River Xenogeneic
+chapter: 1747
+section: 6
+book: 5
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Black River Xenogeneic
-### Chapter 1747
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Black River Xenogeneic
+
+### Chapter 1747
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “You. You. You. And you. Come with me.” The two Feathers approached Han Sen and a few others. They didn’t descend. The male Feather just pointed at a few people from above.
 
 Hardman, Guris, Mister Tiger, and Han Sen had been selected. Hardman’s face changed. He smiled and said, “What can we do to help you both? Black Gold Group will do its best to assist you.”

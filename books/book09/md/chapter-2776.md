@@ -1,21 +1,20 @@
 ---
-Title:Banque 
-Chapter:2776 
-Section:14 
-Book:9 
-CSS:../Styles/style.css 
+title: Banque
+chapter: 2776
+section: 14
+book: 9
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Banque
-### Chapter 2776
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Banque
+
+### Chapter 2776
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “Is it a male or a female?” Han Sen looked at the Flower God in the video. It looked somewhat like a very gorgeous human, but a flower rose from its head. This flower was a violet.
 
 “It is a male. In the Flower Gods, both the men and women look very beautiful. Don’t think that Violet is weak because of his beauty, however. He is actually very strong. He isn’t simple-minded or easily influenced. I have contacted him before, and he is a tricky guy to negotiate with,” Xie Qing King said.

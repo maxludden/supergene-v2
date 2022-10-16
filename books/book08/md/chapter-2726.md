@@ -1,21 +1,20 @@
 ---
-Title:Real and Fake Bodies 
-Chapter:2726 
-Section:13 
-Book:8 
-CSS:../Styles/style.css 
+title: Real and Fake Bodies
+chapter: 2726
+section: 13
+book: 8
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Real and Fake Bodies
-### Chapter 2726
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Real and Fake Bodies
+
+### Chapter 2726
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Shale’s punch struck the Six-Eared Macaque solidly and sent the creature’s body soaring through the sky.
 
 “He hit the real body?” Han Sen instantly refocused on the fight. The Six-Eared Macaque had managed to escape using its fake body this time. Shale’s blow had landed on the real monkey.

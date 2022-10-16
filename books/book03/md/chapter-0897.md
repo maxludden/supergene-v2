@@ -1,21 +1,20 @@
 ---
-Title:The Chapter With No Name 
-Chapter:897 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: The Chapter With No Name
+chapter: 897
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## The Chapter With No Name
-### Chapter 897
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## The Chapter With No Name
+
+### Chapter 897
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 "That is a copper fruit; they tend to grow in the tangled depths of Thorn Forest. Where did you get this from?" Yu Yan looked surprised.
 
 "I collected them from a vine that was growing in the Jade-Scale River," Han Sen said.

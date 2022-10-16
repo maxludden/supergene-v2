@@ -1,21 +1,20 @@
 ---
-Title:Is He a Plant 
-Chapter:344 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: Is He a Plant
+chapter: 344
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Is He a Plant
-### Chapter 344
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Is He a Plant
+
+### Chapter 344
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Seeing everyone gazing at himself and hearing Fang Guotao's words, Han Sen was mortified.
 
 Although he was not interested in Primal Innocence, Fang Guotao was invited by the school and never offended him, so he decided not to embarrass Fang.

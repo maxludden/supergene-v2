@@ -1,21 +1,20 @@
 ---
-Title:Jadeskin’s Second Tier 
-Chapter:2476 
-Section:12 
-Book:8 
-CSS:../Styles/style.css 
+title: Jadeskin’s Second Tier
+chapter: 2476
+section: 12
+book: 8
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Jadeskin’s Second Tier
-### Chapter 2476
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Jadeskin’s Second Tier
+
+### Chapter 2476
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Killing! Crazy killing!
 
 Han Sen didn’t know how many unicorns he had killed so far, but after dealing out so much death, it seemed that a hazy red film had formed over his vision.

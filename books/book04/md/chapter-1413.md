@@ -1,21 +1,20 @@
 ---
-Title:The Whole Story 
-Chapter:1413 
-Section:4 
-Book:4 
-CSS:../Styles/style.css 
+title: The Whole Story
+chapter: 1413
+section: 4
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## The Whole Story
-### Chapter 1413
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## The Whole Story
+
+### Chapter 1413
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “Are you insinuating that the entire human race originated in the sanctuaries?” Han Sen screamed and felt his voice crack.
 
 “That is the secret Blood Legion has harbored since our founding.” Mister Li said.

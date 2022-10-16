@@ -1,21 +1,20 @@
 ---
-Title:Red Mist Spring 
-Chapter:1895 
-Section:7 
-Book:5 
-CSS:../Styles/style.css 
+title: Red Mist Spring
+chapter: 1895
+section: 7
+book: 5
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Red Mist Spring
-### Chapter 1895
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Red Mist Spring
+
+### Chapter 1895
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen quickly fell back as Black Cliff roared. His body was on fire, and he leaped towards Han Sen like a beast. He was shouting, “Knife Blank! My Knife Blank!”
 
 In that precise moment, the meeting room was blown up by the power unleashed by Black Cliff. His Duke powers were scary to witness.

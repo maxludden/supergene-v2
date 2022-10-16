@@ -1,21 +1,20 @@
 ---
-Title:Are You Afraid of Needles 
-Chapter:2280 
-Section:10 
-Book:7 
-CSS:../Styles/style.css 
+title: Are You Afraid of Needles
+chapter: 2280
+section: 10
+book: 7
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Are You Afraid of Needles
-### Chapter 2280
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Are You Afraid of Needles
+
+### Chapter 2280
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “If you weren’t there, what would be the point of me staying in that palace of yours?” Han Sen asked distractedly as he turned the needle over in his hands.
 
 “That is my business, just do as you’re told,” Yisha said.

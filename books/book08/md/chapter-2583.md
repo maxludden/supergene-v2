@@ -1,21 +1,20 @@
 ---
-Title:It’s Hard to Tell if It’s Good or Bad 
-Chapter:2583 
-Section:12 
-Book:8 
-CSS:../Styles/style.css 
+title: It’s Hard to Tell if It’s Good or Bad
+chapter: 2583
+section: 12
+book: 8
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## It’s Hard to Tell if It’s Good or Bad
-### Chapter 2583
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## It’s Hard to Tell if It’s Good or Bad
+
+### Chapter 2583
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen and the others had explored this island many times before. Aside from the mushrooms, there was nothing special to be found.
 
 They had searched the broken battleship repeatedly, but nothing important was ever discovered.

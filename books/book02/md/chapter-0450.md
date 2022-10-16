@@ -1,21 +1,20 @@
 ---
-Title:Choosing a Hyper Geno Art 
-Chapter:450 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Choosing a Hyper Geno Art
+chapter: 450
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Choosing a Hyper Geno Art
-### Chapter 450
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Choosing a Hyper Geno Art
+
+### Chapter 450
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen did not purchase any hyper geno art on the evolver level before he reported to Daphne, because he had no idea he would end up in such remote areas and lose the access to the Saint Hall.
 
 Although on Daphne there were also hyper geno arts provided to soldiers for free, Han Sen was not interested in the ordinary stuff.

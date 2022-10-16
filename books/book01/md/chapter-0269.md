@@ -1,21 +1,20 @@
 ---
-Title:Traveling With a Beast 
-Chapter:269 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: Traveling With a Beast
+chapter: 269
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Traveling With a Beast
-### Chapter 269
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Traveling With a Beast
+
+### Chapter 269
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Sitting on the back of the golden lion, Han Sen was quite upset. He thought he would eventually have an opportunity to leave the lion, but it turned out he was being naïve.
 
 The golden lion was enormous and had an incredible speed. The flocks of birds were following the golden lion everywhere, treating it like a stable food source. The leftover meat of the lion's meal would always go into the birds' belly.

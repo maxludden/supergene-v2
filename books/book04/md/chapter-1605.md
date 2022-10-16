@@ -1,21 +1,20 @@
 ---
-Title:Fallen Slaughter 
-Chapter:1605 
-Section:4 
-Book:4 
-CSS:../Styles/style.css 
+title: Fallen Slaughter
+chapter: 1605
+section: 4
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Fallen Slaughter
-### Chapter 1605
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Fallen Slaughter
+
+### Chapter 1605
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “Where is the human?” Fallen Slaughter looked around, but there were no humans about.
 
 “Over there!” Qing Ya called out, pointing in a specific direction.

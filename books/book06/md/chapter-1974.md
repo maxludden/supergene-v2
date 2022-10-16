@@ -1,21 +1,20 @@
 ---
-Title:Spell Becomes Strong 
-Chapter:1974 
-Section:8 
-Book:6 
-CSS:../Styles/style.css 
+title: Spell Becomes Strong
+chapter: 1974
+section: 8
+book: 6
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Spell Becomes Strong
-### Chapter 1974
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Spell Becomes Strong
+
+### Chapter 1974
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen was surprised. He was not surprised that Spell could kill the Ghost Claw Beast, but that her pistols could turn into a sniper rifle. He knew that Spell herself could transform, but he hadn’t known she could change her weapons.
 
 “So, that means Spell can use any type of weapon? It might not have to be a weapon all the time, either,” Han Sen thought.

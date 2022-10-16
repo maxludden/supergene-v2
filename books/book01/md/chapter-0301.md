@@ -1,21 +1,20 @@
 ---
-Title:Another Nest 
-Chapter:301 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: Another Nest
+chapter: 301
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Another Nest
-### Chapter 301
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Another Nest
+
+### Chapter 301
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The ghost butterfly boomerang made a curve in the air and flew toward the target.
 
 Yang Zikun couldn’t help smiling. He could also make the boomerang fly in such a curve. However, it was impossible to hit the bull’s eye on the targets in the back with a curve like this. The two targets were so close together that a curve was never steep enough for the boomerang to hit the bull’s eye.

@@ -1,21 +1,20 @@
 ---
-Title:One Hand Fighting Back Enemies 
-Chapter:3100 
-Section:16 
-Book:10 
-CSS:../Styles/style.css 
+title: One Hand Fighting Back Enemies
+chapter: 3100
+section: 16
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## One Hand Fighting Back Enemies
-### Chapter 3100
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## One Hand Fighting Back Enemies
+
+### Chapter 3100
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Dou Tian Yu’s Jade Demon Punch was so evil and overbearing because a God Spirit Blood-Pulse was an exclusive gene race. The power it was able to cast was more normal than an ordinary god-class gene race.
 
 No matter how overbearing and cruel he was, he was blocked by the red punches. He could not get close to the room.

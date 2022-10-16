@@ -1,21 +1,20 @@
 ---
-Title:Weak Opponents 
-Chapter:149 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: Weak Opponents
+chapter: 149
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Weak Opponents
-### Chapter 149
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Weak Opponents
+
+### Chapter 149
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Perhaps it was arranged by fate, Huaxing Station had designated Fang Mingquan to host the live broadcast of Starry Cup in Blackhawk Division.
 
 "Contest Center" was, after all, only a temporary show and went off the air soon after the contest. It will resume until the contest next year.

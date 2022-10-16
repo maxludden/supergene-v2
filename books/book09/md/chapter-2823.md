@@ -1,21 +1,20 @@
 ---
-Title:Kill the Gods 
-Chapter:2823 
-Section:14 
-Book:9 
-CSS:../Styles/style.css 
+title: Kill the Gods
+chapter: 2823
+section: 14
+book: 9
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Kill the Gods
-### Chapter 2823
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Kill the Gods
+
+### Chapter 2823
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen saw that the thing flying toward him was flat. He was not able to see what it was, but it was coming for the god spirit gene. Han Sen was not going to let it succeed. Just as he grabbed the evil purple lotus, another hand was also grabbing it.
 
 Pang!

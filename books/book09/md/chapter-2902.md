@@ -1,21 +1,20 @@
 ---
-Title:Scary Mountain 
-Chapter:2902 
-Section:15 
-Book:9 
-CSS:../Styles/style.css 
+title: Scary Mountain
+chapter: 2902
+section: 15
+book: 9
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Scary Mountain
-### Chapter 2902
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Scary Mountain
+
+### Chapter 2902
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 When the grinding disc spun, a crystal light landed on the corpse of the Tiger God Eagle. It was like the flesh and feathers had a layer of crystal porcelain.
 
 In the crystal porcelain, the Tiger God Eagle’s dead body slowly deformed into a transparent liquid. It followed the crystal wheel and started to sink.

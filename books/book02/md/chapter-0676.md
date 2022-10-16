@@ -1,21 +1,20 @@
 ---
-Title:His Reputation 
-Chapter:676 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: His Reputation
+chapter: 676
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## His Reputation
-### Chapter 676
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## His Reputation
+
+### Chapter 676
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen returned to the shelter. Near the Devil's Mountain, Lu Hui and the Northern Master Huang Yunlong sent someone over, hoping to cooperate with Han Sen to hunt another super creature.
 
 Han Sen neither accepted nor refused. He merely said, "Maybe one day."

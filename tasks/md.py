@@ -14,11 +14,12 @@ class MarkdownGenerationError(Exception):
 class ChapterNotFound(Exception):
     pass
 
-with Progress(console=console) as progress:
+with Progress(console=console, transient=True) as progress:
     markdown = progress.add_task("Generating markdown...", total=3460)
 
     chapters = chapter.chapter_gen()
     for ch in chapters:
+
         sg()
         doc = Chapter.objects(chapter=ch).first() # type: ignore
         if doc:
@@ -33,21 +34,15 @@ with Progress(console=console) as progress:
 
                 console.log(
                     Panel(
-                        Text(
-                            f"Generated markdown for doc {doc.chapter}. Updated MongoDB.",
-                            justify="left",
-                            style="white",
-                        ),
-                        title=Text(
-                            f"Generate Markdown",
-                            style="bold green"
-                        ),
+                        f"[bold bright_white]]enerated markdown for[/] [purple1]Chapter {doc.chapter}[/][bold bright_white]. Updated MongoDB.[/]",
+                        title = f"[bold bright_magenta]Chapter {doc.chapter}[/]",
                         title_align="left",
-                        expand=False,
-                        border_style="#00ff00",
+                        expand=True,
+                        width = 100,
+                        border_style="#fa9ff4",
                     )
                 )
-                log.debug(f"Read markdown for Chapter {doc.chapter}. Updated MongoDB.")
+                log.debug(f"Wrote markdown for Chapter {doc.chapter}. Updated MongoDB.")
             except:
                 raise MarkdownGenerationError(f"Unable to create markdown for  {doc.chapter}.")
         else:

@@ -1,21 +1,20 @@
 ---
-Title:Giant Frosty Bear 
-Chapter:669 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Giant Frosty Bear
+chapter: 669
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Giant Frosty Bear
-### Chapter 669
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Giant Frosty Bear
+
+### Chapter 669
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The super creature Li Xing Lun spoke of could command the powers of ice and frost. It was a big white bear that made its home someplace in the ice fields.
 
 According to Li Xing Lun's observations, the giant frosty bear, although frighteningly large, had powers that were of a medium level on the super creature scale. Its speed was slow, which meant they could keep up with it.

@@ -1,21 +1,20 @@
 ---
-Title:God’s Retribution 
-Chapter:1271 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: God’s Retribution
+chapter: 1271
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## God’s Retribution
-### Chapter 1271
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## God’s Retribution
+
+### Chapter 1271
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The man had found Han Sen, so there was no use in hiding any further. When Han Sen emerged from the bushes, he did so drenched in water.
 
 “Friend, what are you talking about? What fruit?” Han Sen played dumb.

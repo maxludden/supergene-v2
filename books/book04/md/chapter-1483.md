@@ -1,21 +1,20 @@
 ---
-Title:Waiting for You to Defeat Me 
-Chapter:1483 
-Section:4 
-Book:4 
-CSS:../Styles/style.css 
+title: Waiting for You to Defeat Me
+chapter: 1483
+section: 4
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Waiting for You to Defeat Me
-### Chapter 1483
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Waiting for You to Defeat Me
+
+### Chapter 1483
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 One Hundred Swords couldn’t correctly cast Ten Thousand Swords on Han Sen, and without further ado, he conceded and abandoned the battleground.
 
 Although Han Sen won, it wasn’t a scary and unsettling victory like Elysian Moon’s wins. When Han Sen reached the next round, all his opponents decided to fight until there was no choice for them but to concede.

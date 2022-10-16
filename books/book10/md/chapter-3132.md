@@ -1,21 +1,20 @@
 ---
-Title:Skinning Hide 
-Chapter:3132 
-Section:16 
-Book:10 
-CSS:../Styles/style.css 
+title: Skinning Hide
+chapter: 3132
+section: 16
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Skinning Hide
-### Chapter 3132
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Skinning Hide
+
+### Chapter 3132
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen and the others sat atop Bald Guy’s God Wind Dragon. The journey seemed hurried. Bald Guy knew where the key planet of Ghost Starlight was.
 
 The first planet had been destroyed. They had to leave the system. They needed to find the next Ghost Starlight land. Bald Guy could not help but ask, “Old Han, did you find a god pulse in the core?”

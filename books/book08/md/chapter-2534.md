@@ -1,21 +1,20 @@
 ---
-Title:Gold General Appears 
-Chapter:2534 
-Section:12 
-Book:8 
-CSS:../Styles/style.css 
+title: Gold General Appears
+chapter: 2534
+section: 12
+book: 8
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Gold General Appears
-### Chapter 2534
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Gold General Appears
+
+### Chapter 2534
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The Sea Sky Eye seemed to notice that its blue lights were unable to kill the knights, but it still lashed out angrily. It imbued its blue light with even greater strength. When the substance chains coming from the Sea Sky Eye seemed to reach their maximum power, the creature’s blindingly bright body seemed to suddenly darken. A giant blue vortex formed around the creature and began sucking everything else toward it.
 
 The King class elites blasted their power at the blue vortex in an attempt to disrupt its pull, but their efforts were fruitless. Not even the half-deifieds could resist the attractive force of the vortex. Under the power of that scary suction, they went flying forward.

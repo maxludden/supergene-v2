@@ -1,21 +1,20 @@
 ---
-Title:Rewarded by the Palace Leader 
-Chapter:2016 
-Section:8 
-Book:6 
-CSS:../Styles/style.css 
+title: Rewarded by the Palace Leader
+chapter: 2016
+section: 8
+book: 6
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Rewarded by the Palace Leader
-### Chapter 2016
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Rewarded by the Palace Leader
+
+### Chapter 2016
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Yun Changkong was the leader of the Yun family and the tenth elder of Sky Palace. He was no stranger to Under the Sky.
 
 Yun Suyi showed him her Under the Sky, and he immediately recognized that it was different from the original version. But the difference fixed the inherent problem it had once possessed. There were no more flaws. It had become a skill that was perfectly usable in battle.

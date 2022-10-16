@@ -1,21 +1,20 @@
 ---
-Title:Bad Fight 
-Chapter:2591 
-Section:12 
-Book:8 
-CSS:../Styles/style.css 
+title: Bad Fight
+chapter: 2591
+section: 12
+book: 8
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Bad Fight
-### Chapter 2591
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Bad Fight
+
+### Chapter 2591
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The sky was full of fire, and it was all headed for Meng Lie. Meng Lie swung his knife, and the sea of fire parted like it had been cut with a pair of scissors. The fire fell away to either side of the man and faded.
 
 A cold, golden knife light suddenly flew toward the little red bird. If the little red bird hadn’t dodged the attack in time, it would have been cut in half.

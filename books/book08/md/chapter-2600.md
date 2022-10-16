@@ -1,21 +1,20 @@
 ---
-Title:God Spirit Touch 
-Chapter:2600 
-Section:12 
-Book:8 
-CSS:../Styles/style.css 
+title: God Spirit Touch
+chapter: 2600
+section: 12
+book: 8
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## God Spirit Touch
-### Chapter 2600
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## God Spirit Touch
+
+### Chapter 2600
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Gu Qingcheng’s face was breathtakingly pretty. Even those who were close with her, like Han Sen, would find themselves staring at her ethereal beauty now and again. The Very High man had only looked at her for a moment or two before turning away. He had an impressive amount of self-control.
 
 Exquisite looked at her as well. But her vision paused on Han Sen for longer. After all, he was seated in a place of honor. That meeting had no deifieds. All the attendees were young elites, but if someone was sitting in the first seat, it had to mean that they were someone of prestige and importance to the Sky Palace.

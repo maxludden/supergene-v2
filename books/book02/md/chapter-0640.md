@@ -1,21 +1,20 @@
 ---
-Title:Shelter of the Mystery Island 
-Chapter:640 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Shelter of the Mystery Island
+chapter: 640
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Shelter of the Mystery Island
-### Chapter 640
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Shelter of the Mystery Island
+
+### Chapter 640
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Back at the royal shelter, Han Sen asked to see Yang Manli for a report on recent happenings during his absence.
 
 Because very few people owned high-class wings, Yang Manli was off having a quick look at the Mystery Island. They hadn't attacked the royal shelter there yet, due to their lack of the necessary strength.

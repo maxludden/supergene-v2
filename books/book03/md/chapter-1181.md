@@ -1,21 +1,20 @@
 ---
-Title:Trade 
-Chapter:1181 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Trade
+chapter: 1181
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Trade
-### Chapter 1181
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Trade
+
+### Chapter 1181
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “Didn’t I tell you to follow Qing Jun? Give Zhang Yuchen back to her or die.”
 
 The handwriting looked as if it had been hastily scribbled. With no concern for what had been written, Han Sen threw it away. He didn’t care for the content of the paper, only who wrote it.

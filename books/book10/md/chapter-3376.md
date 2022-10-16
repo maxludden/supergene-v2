@@ -1,21 +1,20 @@
 ---
-Title:The Story of Genes Real Creator 
-Chapter:3376 
-Section:17 
-Book:10 
-CSS:../Styles/style.css 
+title: The Story of Genes Real Creator
+chapter: 3376
+section: 17
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## The Story of Genes Real Creator
-### Chapter 3376
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## The Story of Genes Real Creator
+
+### Chapter 3376
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Suddenly, the whole place was very bright. A sharp light lit up the entire universe. Within its brightest part, one was not able to see anything.
 
 “I am in the light looking for darkness. Under the holiness, things might be dirty. Perhaps that is the final compromise.” Within the light, a goddess revealed herself. She was shining a trail through the stars.

@@ -1,21 +1,20 @@
 ---
-Title:The Talents a Creature Can Learn 
-Chapter:634 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: The Talents a Creature Can Learn
+chapter: 634
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## The Talents a Creature Can Learn
-### Chapter 634
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## The Talents a Creature Can Learn
+
+### Chapter 634
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 After Han Sen concluded another round of training, he opened his eyes and looked at the gourd with much surprise.
 
 Han Sen noticed strange streams of energy circling around it like wind. It was not unlike what occurred to the Queen on the day she improved her Heavenly Go alongside him.

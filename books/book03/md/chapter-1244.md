@@ -1,21 +1,20 @@
 ---
-Title:He Is Still Alive 
-Chapter:1244 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: He Is Still Alive
+chapter: 1244
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## He Is Still Alive
-### Chapter 1244
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## He Is Still Alive
+
+### Chapter 1244
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Blind Man was one of the few strangers Han Sen cared about.
 
 When they first met, Blind Man gave Han Sen a book that was similar to Primal Innocence. A long time later, he had randomly delivered to Han Sen a cauldron with the nine-life cat symbol on it.

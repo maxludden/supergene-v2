@@ -1,21 +1,20 @@
 ---
-Title:Nowhere to Hide 
-Chapter:1942 
-Section:7 
-Book:5 
-CSS:../Styles/style.css 
+title: Nowhere to Hide
+chapter: 1942
+section: 7
+book: 5
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Nowhere to Hide
-### Chapter 1942
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Nowhere to Hide
+
+### Chapter 1942
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “We need to find a way to exit this Heaven. We might have escaped for now, but there’s still a chance we might be found by Seven Spirit,” Han Sen said.
 
 “If you do not know how to get out of here, then you should know that I don’t, either,” Hai’er said. She thought for a moment. “Can’t you turn invisible? If we stay invisible, then Seven Spirit’s clones won’t be able to find us, will they?”

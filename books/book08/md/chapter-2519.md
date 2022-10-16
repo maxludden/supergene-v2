@@ -1,21 +1,20 @@
 ---
-Title:Killing a Deified 
-Chapter:2519 
-Section:12 
-Book:8 
-CSS:../Styles/style.css 
+title: Killing a Deified
+chapter: 2519
+section: 12
+book: 8
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Killing a Deified
-### Chapter 2519
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Killing a Deified
+
+### Chapter 2519
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen squinted. Instead of falling back, he concentrated on the Gold Armor General in front of him, with his Purple-Eye Butterfly spinning like mad.
 
 He had known before he approached that there was something wrong. Although the Gold Armor General had been frozen by the Dragon blood Evilbreaker power, Han Sen’s Dongxuan Area showed him that its self cogwheel was still spinning slowly. The beast hadn’t been captured.

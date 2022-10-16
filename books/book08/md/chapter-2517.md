@@ -1,21 +1,20 @@
 ---
-Title:Surround and Kill the Xenogeneic 
-Chapter:2517 
-Section:12 
-Book:8 
-CSS:../Styles/style.css 
+title: Surround and Kill the Xenogeneic
+chapter: 2517
+section: 12
+book: 8
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Surround and Kill the Xenogeneic
-### Chapter 2517
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Surround and Kill the Xenogeneic
+
+### Chapter 2517
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “It finally begins.” Bai Wan Jie looked at the people fighting in space. His eyes gleamed with excitement.
 
 The moment Dragon One and the Gold Armor General appeared, the Gold Armor General’s saw sword was buzzing. The swordlight flashed toward them.

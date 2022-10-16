@@ -1,21 +1,20 @@
 ---
-Title:Very Cute 
-Chapter:2508 
-Section:12 
-Book:8 
-CSS:../Styles/style.css 
+title: Very Cute
+chapter: 2508
+section: 12
+book: 8
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Very Cute
-### Chapter 2508
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Very Cute
+
+### Chapter 2508
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 For more than one hundred hours, Han Sen flew the white whale forward across an endless sea cloaked in mist. Still, he couldn’t find an escape route.
 
 The space powers within the creature’s stomach were layered like a giant space maze. Through various space folds and faults, they couldn’t find a way out.

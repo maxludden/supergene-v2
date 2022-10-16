@@ -1,21 +1,20 @@
 ---
-Title:Ghost Starlight Land 
-Chapter:3124 
-Section:16 
-Book:10 
-CSS:../Styles/style.css 
+title: Ghost Starlight Land
+chapter: 3124
+section: 16
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Ghost Starlight Land
-### Chapter 3124
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Ghost Starlight Land
+
+### Chapter 3124
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Although he had the reverse version of the Cold Sutra, Han Sen did not combine with a gene race for the Cold Sutra. Therefore, he could not practice it.
 
 “If the Cold Sutra and Blood-Pulse Sutra can be reversed, will I be able to reverse The Story of Genes and Dongxuan Sutra?” Han Sen wondered.

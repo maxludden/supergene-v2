@@ -1,21 +1,20 @@
 ---
-Title:Privileges 
-Chapter:248 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: Privileges
+chapter: 248
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Privileges
-### Chapter 248
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Privileges
+
+### Chapter 248
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen wanted to find his girlfriend, but had no chance at all. The moment she came out of the training facility, he was summoned by Qin Xuan to the Steel Armor Shelter.
 
 Qin Xuan was supposed to enter Ssecond God's Sanctuary a month ago and had delayed until now just to wait for him to make the transition in the leadership of the special squad.

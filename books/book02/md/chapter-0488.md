@@ -1,21 +1,20 @@
 ---
-Title:Official Platform 
-Chapter:488 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Official Platform
+chapter: 488
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Official Platform
-### Chapter 488
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Official Platform
+
+### Chapter 488
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Luckily, the meat of the ghost-pawed ferret was very sweet and tasty, without any foul smell or taste. In fact, it was extremely good with sauces, comparable to sashimi.
 
 > "Meat Of Ghost-Pawed Ferret Eaten. One Sacred Geno Point Gained."

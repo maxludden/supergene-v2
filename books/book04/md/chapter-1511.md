@@ -1,21 +1,20 @@
 ---
-Title:Unpredictable 
-Chapter:1511 
-Section:4 
-Book:4 
-CSS:../Styles/style.css 
+title: Unpredictable
+chapter: 1511
+section: 4
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Unpredictable
-### Chapter 1511
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Unpredictable
+
+### Chapter 1511
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Shafei followed through with her plan and took Tina to the hotel. But in the lobby, they were unable to see Han Sen or Han Yan.
 
 Yi Dongmu was not fond of such events, so he had called Han Sen over to a battle room that was located in the hotel.

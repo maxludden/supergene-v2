@@ -1,21 +1,20 @@
 ---
-Title:Stoneshell 
-Chapter:1451 
-Section:4 
-Book:4 
-CSS:../Styles/style.css 
+title: Stoneshell
+chapter: 1451
+section: 4
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Stoneshell
-### Chapter 1451
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Stoneshell
+
+### Chapter 1451
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The cricket struggled as hard as it could, but eventually, the ruby on its head began to shine. And then, something else appeared on the creature’s head.
 
 Han Sen saw a one-meter-wide red saw manifest. It began to spin around and around like a rotor, trimming all the vines that had ensnared it. The Holy Vines were thick like arms, but they were weed-whacked away in just a couple of seconds.

@@ -1,22 +1,19 @@
 ---
-Title:Knife Blank 
-Chapter:1833 
-Section:7 
-Book:5 
-CSS:../Styles/style.css 
+title: Knife Blank
+chapter: 1833
+section: 7
+book: 5
+CSS: style.css
 viewport: width=device-width
 ---
-  
+
 ## Knife Blank
+
 ### Chapter 1833
-  
+
 <figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
 </figure>
-  
-
-  
-
 
 Black-Moon King nodded slightly, then shook his head. The nobles around were confused, and they weren’t sure what that meant. No one was going to ask now, though. They were happy to wait until Black-Moon King finished his investigation. They were still very curious about the knife.
 

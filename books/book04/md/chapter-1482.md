@@ -1,21 +1,20 @@
 ---
-Title:Sword Skills of a God 
-Chapter:1482 
-Section:4 
-Book:4 
-CSS:../Styles/style.css 
+title: Sword Skills of a God
+chapter: 1482
+section: 4
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Sword Skills of a God
-### Chapter 1482
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Sword Skills of a God
+
+### Chapter 1482
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Seeing Han Sen’s opponent was Xu Mi, Elysian Moon frowned and said to herself, “Xu Mi is far too powerful. If Han Sen is hit, I don’t think he’ll even have the time to concede. If I was him, I’d turn tail and run right this second.”
 
 In the arena, Xu Mi approached Han Sen. He hadn’t drawn his weapon, and the spirit just looked at the human and said, “A human once told me every man has a price for everything. How much are your sword skills worth? What would you accept as payment for teaching me your technique?”
@@ -94,4 +93,4 @@ Han Sen’s sword skills seemed almost able to predict the future, like the wiel
 
 Every one of Han Sen’s attacks was for the future, and this godly sword skill shocked everyone to see. After witnessing its capabilities, no one thought a super geno core was too expensive a price to pay.
 
-“It’s a f*cking bargain. If I had a super geno core and an affinity for the sword, I’d pay up to learn a sword skill as godly as this.”
+“It’s a fucking bargain. If I had a super geno core and an affinity for the sword, I’d pay up to learn a sword skill as godly as this.”

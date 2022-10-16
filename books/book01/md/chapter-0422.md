@@ -1,21 +1,20 @@
 ---
-Title:Evolution 
-Chapter:422 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: Evolution
+chapter: 422
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Evolution
-### Chapter 422
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Evolution
+
+### Chapter 422
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 If Han Sen could not take the black crystal out, then the black crystal could only be kept in his room in Steel Armor Shelter.
 
 However, after Han Sen evolved, once he teleported out of God’s Sanctuary, he would appear in Second God’s Sanctuary the next time he teleported back. In other words, First God’s Sanctuary would have nothing to do with him, and the room at Steel Armor Shelter would no longer belong to him.

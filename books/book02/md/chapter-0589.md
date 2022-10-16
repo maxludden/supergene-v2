@@ -1,21 +1,20 @@
 ---
-Title:Absorbed 
-Chapter:589 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Absorbed
+chapter: 589
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Absorbed
-### Chapter 589
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Absorbed
+
+### Chapter 589
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The purple light that was being emitted from the woman's body started to fade. Although she was truly mad, she still managed to limit how much power she exerted on her horny aggressor. If she hadn't, with the power of someone who had unlocked her first gene lock, one kick would have been enough to end Han Sen.
 
 It was clear to her that something was wrong with Han Sen. So, despite her rage, she managed to put a cap on the damage she dealt him. Especially with the purple light, which she pushed into Han Sen's body. This purple light would attempt to course its way through his body and clear his mind from any encroaching force.

@@ -1,21 +1,20 @@
 ---
-Title:Xenogeneic 
-Chapter:1716 
-Section:6 
-Book:5 
-CSS:../Styles/style.css 
+title: Xenogeneic
+chapter: 1716
+section: 6
+book: 5
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Xenogeneic
-### Chapter 1716
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Xenogeneic
+
+### Chapter 1716
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “This is Planet Kate. So, where can I find Feathers to collect these bones and then give them to you?” Han Sen frowned.
 
 Old Cat lifted his lips and said, “Even if there are Feathers about, you wouldn’t stand a chance against them. If you’re looking to harvest their bones, you think too highly of yourself. The one you killed in that lab was some under-developed retard. That doesn’t even count as a Feather. That was rubbish. Do you actually think they are all like that?”

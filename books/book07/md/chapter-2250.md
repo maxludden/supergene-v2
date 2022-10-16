@@ -1,21 +1,20 @@
 ---
-Title:Ghost Bone Arrives 
-Chapter:2250 
-Section:10 
-Book:7 
-CSS:../Styles/style.css 
+title: Ghost Bone Arrives
+chapter: 2250
+section: 10
+book: 7
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Ghost Bone Arrives
-### Chapter 2250
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Ghost Bone Arrives
+
+### Chapter 2250
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen looked at the Ghost Bone Mask, and he saw it create a connection with his simulated Ghost Bone power.
 
 “This Ghost Bone Mask is one of the weaker ones, but gaining its allegiance in a single month is excellent progress. We still have time. Practice some more to build confidence with the mask. And…” Fox Queen turned to point at a different mask. “If you can forge a connection with this Ghost Bone Mask instead, killing the xenogeneic should come easy.”

@@ -1,21 +1,20 @@
 ---
-Title:Stealing the Source 
-Chapter:993 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Stealing the Source
+chapter: 993
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Stealing the Source
-### Chapter 993
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Stealing the Source
+
+### Chapter 993
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 A light, manifesting in the shape of a dragon, shot out towards Han Sen’s forehead.
 
 The light was wickedly fast, and Han Sen was not quick enough to avoid it.

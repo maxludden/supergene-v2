@@ -1,21 +1,20 @@
 ---
-Title:Giant Snail 
-Chapter:377 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: Giant Snail
+chapter: 377
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Giant Snail
-### Chapter 377
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Giant Snail
+
+### Chapter 377
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen and Zhu Ting were hiding behind a boulder at the foot of the mountain, waiting for the rest of the group to draw the creature down.
 
 Han Sen was impressed by the scenery of the mountain and forest.

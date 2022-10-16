@@ -1,21 +1,20 @@
 ---
-Title:Crystal King Armor 
-Chapter:1700 
-Section:5 
-Book:4 
-CSS:../Styles/style.css 
+title: Crystal King Armor
+chapter: 1700
+section: 5
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Crystal King Armor
-### Chapter 1700
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Crystal King Armor
+
+### Chapter 1700
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “Impossible!” Yake looked at her with disbelief. He was a crystallizer with self-generated geno armor. He was also the only creature that could still stay in the sanctuary after doing so.
 
 He lost to Stay Up Late, who was a crystallizer from the Third Division Special Forces. That did not come as a surprise, but Bao’er was just a pet beast soul that belonged to Han Sen. He could not believe a pet beast soul’s power could be even remotely stronger than he was.

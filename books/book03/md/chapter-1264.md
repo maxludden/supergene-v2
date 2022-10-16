@@ -1,21 +1,20 @@
 ---
-Title:Empress 
-Chapter:1264 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Empress
+chapter: 1264
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Empress
-### Chapter 1264
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Empress
+
+### Chapter 1264
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen now understood Yaksha had been playing Blood River King like a fiddle. His co-operation had been a complete lie all along. He had only wanted Blood River King’s super creatures, and he had gotten them successfully.
 
 “Poor Blood River King. To think he actually believes he owes Yaksha his life…” Han Sen now knew not to underestimate Yaksha’s cunning.

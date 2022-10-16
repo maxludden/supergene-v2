@@ -1,21 +1,20 @@
 ---
-Title:One Punch Breaks the Armor 
-Chapter:1461 
-Section:4 
-Book:4 
-CSS:../Styles/style.css 
+title: One Punch Breaks the Armor
+chapter: 1461
+section: 4
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## One Punch Breaks the Armor
-### Chapter 1461
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## One Punch Breaks the Armor
+
+### Chapter 1461
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Pat! The old man slapped Zhou Changlong across the face. His face immediately started to swell up, and his men froze in place.
 
 “Brother-in-law, why did you hit me?” Zhou Changlong stared at the old man, one hand pressed against his sore face.
@@ -42,7 +41,7 @@ Qiuming still held himself in a manner that suggested he was superior by default
 
 Han Sen nodded. He had heard about Qiuming when he was researching demigods. He was not from the Zhou family, but for some reason, he was allowed to join Angel Gene. He was as mean a person as one could be.
 
-Zhou Changlong, who had just been slapped, now looked happy again. “Brother-in-law, teach that *sshole a lesson! Who cares if they are the daughter and son-in-law of the President?”
+Zhou Changlong, who had just been slapped, now looked happy again. “Brother-in-law, teach that asshole a lesson! Who cares if they are the daughter and son-in-law of the President?”
 
 Han Sen watched Qiuming quietly approach, initially believing him to be bluffing.
 

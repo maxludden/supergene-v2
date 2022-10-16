@@ -1,21 +1,20 @@
 ---
-Title:Flying Fish 
-Chapter:3127 
-Section:16 
-Book:10 
-CSS:../Styles/style.css 
+title: Flying Fish
+chapter: 3127
+section: 16
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Flying Fish
-### Chapter 3127
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Flying Fish
+
+### Chapter 3127
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Sky King’s black hole consumed everything in its path. The sun spirit gourd expelled a surge of the three-foot sunbirds, but they were all quickly consumed by the black hole. It was futile for it to even try.
 
 Sky King rushed in front of the sun spirit gourd, which looked like it was going to be swallowed by the black hole. The God Spirit Blood-Pulse fish’s eyes below the sun spirit gourd suddenly opened. They burned with a white flame. Suddenly, the entire world went white. Not even the peacock king’s eye enabled vision through that white light. No one was able to see what was happening. The God Spirit Blood-Pulse spirit fish exploded with light. It came and went fast. The lights suddenly started to dim. Han Sen quickly used his peacock king eye-skill to see.

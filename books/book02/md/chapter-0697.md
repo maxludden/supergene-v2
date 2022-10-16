@@ -1,21 +1,20 @@
 ---
-Title:Devil Ant 
-Chapter:697 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Devil Ant
+chapter: 697
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Devil Ant
-### Chapter 697
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Devil Ant
+
+### Chapter 697
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen was alerted by the sound of digging and quickly looked at the canyon wall. The wall was dark green and looked to be really hard. But in the corner of the wall, something had opened a crack. Inside the crack, Han Sen could see the shuffling of a white claw, and the crack began to grow in size.
 
 Han Sen did not know what was behind it, especially here in Devil's Mountain. He did not dare perform reckless deeds in this treacherous place, so he quickly retreated behind a rock to watch it from a safe distance.

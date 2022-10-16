@@ -1,21 +1,20 @@
 ---
-Title:The Charm of a Mature Woman 
-Chapter:197 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: The Charm of a Mature Woman
+chapter: 197
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## The Charm of a Mature Woman
-### Chapter 197
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## The Charm of a Mature Woman
+
+### Chapter 197
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Wen Xiuxiu was now very unhappy--as an intern host and journalist of black and white boxing contest show, she was assigned to work for the famous Fang Mingquan.
 
 Originally with her qualifications, she could not have been assigned to shadow Fang Mingquan who was a big shot right now. The only reason she was here was her prominent family.

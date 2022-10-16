@@ -1,21 +1,20 @@
 ---
-Title:In the Sky and on the Ground, I Am the Best 
-Chapter:3114 
-Section:16 
-Book:10 
-CSS:../Styles/style.css 
+title: In the Sky and on the Ground, I Am the Best
+chapter: 3114
+section: 16
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## In the Sky and on the Ground, I Am the Best
-### Chapter 3114
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## In the Sky and on the Ground, I Am the Best
+
+### Chapter 3114
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The stone orb was like a sky full of stars. Thousand Mile Reach used a mysterious way to reach Han Sen. Through the stars and chess pieces, he blocked every possible way for Han Sen to evade.
 
 Han Sen squinted his eyes. He wanted to get up and go past the star tracks and appear before Thousand Mile Reach.

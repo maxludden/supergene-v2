@@ -1,21 +1,20 @@
 ---
-Title:The Coming Storm 
-Chapter:1660 
-Section:4 
-Book:4 
-CSS:../Styles/style.css 
+title: The Coming Storm
+chapter: 1660
+section: 4
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## The Coming Storm
-### Chapter 1660
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## The Coming Storm
+
+### Chapter 1660
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “That can’t be true. There is no way a human can have a daughter like that. And even if it was true, she could not enter the sanctuaries at her age. And she definitely couldn’t have already reached the Fourth God’s Sanctuary and achieved that much strength.”
 
 “Death Goddess admitted it herself. She called Han Sen her father. And she didn’t just say it once. How can this not be true, then?”

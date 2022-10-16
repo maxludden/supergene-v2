@@ -1,21 +1,20 @@
 ---
-Title:Quite Familiar 
-Chapter:1437 
-Section:4 
-Book:4 
-CSS:../Styles/style.css 
+title: Quite Familiar
+chapter: 1437
+section: 4
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Quite Familiar
-### Chapter 1437
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Quite Familiar
+
+### Chapter 1437
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen saw a big hole in the side of his house, and an old man anxiously pushing Bao’er’s head into a suitcase.
 
 Bao’er herself was holding onto Littleflower, whose face was flushed the color red as if he’d been bleeding.

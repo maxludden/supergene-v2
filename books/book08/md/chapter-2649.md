@@ -1,21 +1,20 @@
 ---
-Title:Meeting at the Lake 
-Chapter:2649 
-Section:13 
-Book:8 
-CSS:../Styles/style.css 
+title: Meeting at the Lake
+chapter: 2649
+section: 13
+book: 8
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Meeting at the Lake
-### Chapter 2649
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Meeting at the Lake
+
+### Chapter 2649
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen looked at the thick stack of yellow papers he had amassed. He wanted to cry. Those pornographic pictures he had fished up over the past few days were enough to compose an entire book. Aside from the yellow papers, he hadn’t been able to catch anything.
 
 “Don’t say that,” he reminded himself. “These pictures look kind of like a comic.”

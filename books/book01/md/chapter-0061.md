@@ -1,21 +1,20 @@
 ---
-Title:Why Not Dodge 
-Chapter:61 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: Why Not Dodge
+chapter: 61
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Why Not Dodge
-### Chapter 61
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Why Not Dodge
+
+### Chapter 61
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Fang Mingquan had been very depressed recently. As a reporter, he had been in charge of a program about God’s Sanctuary on Skynet. Although it was not super popular, the program was gaining momentum and he was considered a minor celebrity.
 
 Because of a decision made by the management, he was transferred to a remote planet, Roca. His job was so-called new market development, which actually meant that he was pushed out because he was in the way of others.

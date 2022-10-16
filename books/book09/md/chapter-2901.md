@@ -1,21 +1,20 @@
 ---
-Title:Egg in the Mountain 
-Chapter:2901 
-Section:15 
-Book:9 
-CSS:../Styles/style.css 
+title: Egg in the Mountain
+chapter: 2901
+section: 15
+book: 9
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Egg in the Mountain
-### Chapter 2901
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Egg in the Mountain
+
+### Chapter 2901
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 He rubbed his eyes to take another look. He knew he was not seeing things. The giant egg was really transparent.
 
 “Why is this happening? Does it have to do with a part of my bloodline belonging to the crystallizers? Is it because of Wan’er inside my Destiny’s Tower enabling me to see the lady in the egg?” Han Sen could not think of a reason, but he knew for sure that Starter King’s Land was not built by the Extreme King Alpha. He bet there was a 90% chance it had something to do with Sacred Leader. After Sacred was destroyed, it somehow fell into the Extreme King Alpha’s lap. He went ahead and turned it into Starter King’s Land.

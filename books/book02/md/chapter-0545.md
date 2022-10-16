@@ -1,20 +1,19 @@
 ---
-Title:Killing a Sacred-blood Beneath the Sea
-Chapter:545
-Section:2
-Book:2
-CSS:../Styles/style.css
+title: Killing a Sacred-blood Beneath the Sea
+chapter: 545
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
 
 ## Killing a Sacred-blood Beneath the Sea
+
 ### Chapter 545
 
 <figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
 </figure>
-
-
 
 "A sacred-blood creature." Han Sen was not alarmed and instead was feeling happy. He had been looking for a sacred-blood creature to train upon, after all. Now, with a poisonous sea bug king appearing right before him, Han Sen considered it the best thing ever.
 
@@ -43,15 +42,14 @@ But Han Sen's venture was not for nothing. He had managed to slay 30 sea bugs, a
 <div class="tables">
 	<table class="beast">
 		<tr>
-			<th>Beast Soul</th>
+			<th colspan="2">Beast Soul Gained</th>
 		</tr><tr>
-			<td>Mutant Poisonous Sea Bug<br>
-				<span class="type">(Spiky-Shield)</span>
-			</td>
+			<td>Mutant Poisonous Sea Bug</td>
+			<td>(Spiky-Shield)</td>
 		</tr>
 	</table>
 	<!-- Mutant Poisonous Sea Bug Beast Soul: Spiky-Shield Type -->
-</div>
+</div> 
 
 Han Sen summoned his new beast soul. It was like a small, round shield that was adorned with a large number of spikes. Its size was like that of a frying pan. Being an arm-shield type, it could be equipped and used like a buckler.
 

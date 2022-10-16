@@ -1,21 +1,20 @@
 ---
-Title:A Man Who Came From Hell 
-Chapter:3229 
-Section:16 
-Book:10 
-CSS:../Styles/style.css 
+title: A Man Who Came From Hell
+chapter: 3229
+section: 16
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## A Man Who Came From Hell
-### Chapter 3229
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## A Man Who Came From Hell
+
+### Chapter 3229
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Exquisite sighed and said, “I have still been unsuccessful with Very High Forget Love.”
 
 “Auntie Exquisite, do you know this man?” The Very High young man guard looked at Exquisite strangely.

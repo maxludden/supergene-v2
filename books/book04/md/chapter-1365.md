@@ -1,21 +1,20 @@
 ---
-Title:No Fluctuations in Power 
-Chapter:1365 
-Section:4 
-Book:4 
-CSS:../Styles/style.css 
+title: No Fluctuations in Power
+chapter: 1365
+section: 4
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## No Fluctuations in Power
-### Chapter 1365
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## No Fluctuations in Power
+
+### Chapter 1365
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Zhu Donglai regretted giving up on taking Han Sen as a disciple before. He had found someone else to practice the Purple Manor Sutra with, following Han Sen’s injury in the Third God’s Sanctuary. He hadn’t expected that a person whose body was believed to be destroyed, even by the likes of Luo Haitang, could recover and go on to achieve such greatness.
 
 Now that Han Sen had become a demigod so swiftly, Zhu Donglai was feeling profound remorse. He wished he had listened to his gut instinct and not given up on Han Sen so quickly.

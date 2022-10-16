@@ -1,21 +1,20 @@
 ---
-Title:Han Sen’s Trouble 
-Chapter:2634 
-Section:12 
-Book:8 
-CSS:../Styles/style.css 
+title: Han Sen’s Trouble
+chapter: 2634
+section: 12
+book: 8
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Han Sen’s Trouble
-### Chapter 2634
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Han Sen’s Trouble
+
+### Chapter 2634
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 After a year spent in recovery, Han Sen was now almost as healthy as he had been before the Medusa’s shield sucked him dry. But rather than making his life easier, recovering from his injuries actually brought him new difficulties.
 
 Before, while his body was known to be damaged, no one had made any demands of him. Now that he was well again, all kinds of people tried to flex their authority or exploit their relationship with Han Sen to ask him to bless their children.
@@ -38,7 +37,7 @@ When Yu Jing heard Han Sen say that, he laughed. “You must be really annoyed b
 
 Yu Jing looked serious when he said, “The people of Sky Palace are coming to you privately because there is no official way for them to seek your blessings. If you create an official channel, perhaps set up an auction where people can bid for a blessing or two, then they’ll stop coming to see you privately. You could earn a lot of money and remove some stress from your life at the same time.”
 
-When Han Sen heard this suggestion, he knew Yu Jing was up to something. The idea was stupid. Rather than fixing Han Sen’s problem, it would only be more of a pain in the *ss for him.
+When Han Sen heard this suggestion, he knew Yu Jing was up to something. The idea was stupid. Rather than fixing Han Sen’s problem, it would only be more of a pain in the ass for him.
 
 Having an auction would allow him to make a lot of money, but it wouldn’t stop the authority figures of Sky Palace from contacting Han Sen personally. If he refused to give blessings outside of the auction, people would just think Han Sen was a greedy person. If he merely sold his blessings without helping the leadership of Sky Palace directly, people might end up hating him. That told Han Sen the idea for an auction probably wouldn’t work. If he altered this method slightly, though, he could allow Sky Palace Leader to determine how his blessing talent was used. The leader would determine who received the blessings, which would take pressure off of Han Sen.
 

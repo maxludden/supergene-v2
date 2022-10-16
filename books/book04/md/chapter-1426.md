@@ -1,21 +1,20 @@
 ---
-Title:Saving Money X100 
-Chapter:1426 
-Section:4 
-Book:4 
-CSS:../Styles/style.css 
+title: Saving Money X100
+chapter: 1426
+section: 4
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Saving Money X100
-### Chapter 1426
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Saving Money X100
+
+### Chapter 1426
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “We can’t use this name. Think about his future! What if he becomes a president,
 
 and everyone refers to him as President Littleflower! It’s a name that lacks strength!

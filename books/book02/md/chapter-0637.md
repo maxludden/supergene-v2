@@ -1,21 +1,20 @@
 ---
-Title:Heart of Loyalty 
-Chapter:637 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Heart of Loyalty
+chapter: 637
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Heart of Loyalty
-### Chapter 637
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Heart of Loyalty
+
+### Chapter 637
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Chen Ran saw Han Sen pull out a crossbow and aim it at him. He disdainfully said, "I believed you to be the sort that would pack real heat. You know, the big guns – not a crossbow."
 
 Chen Ran had been in the Second Shelter for a long time, and he had seen many things in his time there. He had even seen a sacred-blood crossbow used in conjunction with a sacred-blood bolt.

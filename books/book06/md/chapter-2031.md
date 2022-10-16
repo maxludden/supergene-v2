@@ -1,21 +1,20 @@
 ---
-Title:Sky Heart Lock Opened 
-Chapter:2031 
-Section:8 
-Book:6 
-CSS:../Styles/style.css 
+title: Sky Heart Lock Opened
+chapter: 2031
+section: 8
+book: 6
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Sky Heart Lock Opened
-### Chapter 2031
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Sky Heart Lock Opened
+
+### Chapter 2031
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Not long after entering the silver statue, Han Sen heard buzzing sounds coming from close to the statue’s entrance.
 
 Han Sen was familiar with this sound. It was the sound of the silver glass bug flapping its wings. He summoned Spell in the form of a rocket launcher and fired it at the cave wall.

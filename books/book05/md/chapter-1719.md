@@ -1,21 +1,20 @@
 ---
-Title:Xenogeneic Genes 
-Chapter:1719 
-Section:6 
-Book:5 
-CSS:../Styles/style.css 
+title: Xenogeneic Genes
+chapter: 1719
+section: 6
+book: 5
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Xenogeneic Genes
-### Chapter 1719
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Xenogeneic Genes
+
+### Chapter 1719
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen looked at the information available on the internet, but he could not find any others who were associated with the sanctuaries. It seemed no one else on Kate was.
 
 Han Sen wanted to know if things worked like they did in the sanctuaries. Where did genes come from? Were there beast souls to get? Stuff like that.
@@ -62,7 +61,7 @@ Han Sen ran his skills, but the bone remained quiet. He gave it a drop of Real B
 
 The voice from the sanctuary had only spoken once, and it was now silent. Whatever it was, it couldn’t help Han Sen any more.
 
-“Do I have to eat this to make it work?” Han Sen tried to bite the bone, but it was so f*cking hard, his teeth almost crumbled to pieces. That definitely wasn’t going to work.
+“Do I have to eat this to make it work?” Han Sen tried to bite the bone, but it was so fucking hard, his teeth almost crumbled to pieces. That definitely wasn’t going to work.
 
 “It looks like I’ll have to cook it,” Han Sen thought to himself.
 

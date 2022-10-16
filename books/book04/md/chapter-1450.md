@@ -1,21 +1,20 @@
 ---
-Title:Redhead Cricket 
-Chapter:1450 
-Section:4 
-Book:4 
-CSS:../Styles/style.css 
+title: Redhead Cricket
+chapter: 1450
+section: 4
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Redhead Cricket
-### Chapter 1450
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Redhead Cricket
+
+### Chapter 1450
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Tzi Tzi Tzi Tzi!
 
 Han Sen looked towards the deeper recesses of the cave. A red light was quickly approaching them.

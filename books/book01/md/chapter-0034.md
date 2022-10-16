@@ -1,21 +1,20 @@
 ---
-Title:A Bow in Hand 
-Chapter:34 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: A Bow in Hand
+chapter: 34
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## A Bow in Hand
-### Chapter 34
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## A Bow in Hand
+
+### Chapter 34
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The bow for sale in the post was "Doomsday" in the Black Vader series, which cost 6,680,000 dollars in the store. Its farthest range could reach 2,400 feet. Using this bow, Saber arrows could pierce steel armor and the skin of most primitive creatures from more than 900 feet away. However, one would need to have a 7.0 strength rating to draw the string of Doomsday.
 
 Normally only those who had maxed out on mutant geno points could reach a 7.0 strength rating, and this requirement was only to draw the string. Unless you could kill with only one shot every time, so that you didn’t need a second draw, you would need a rating of more than 8.0 to use the bow.

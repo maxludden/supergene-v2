@@ -1,21 +1,20 @@
 ---
-Title:Strange Plane 
-Chapter:2145 
-Section:8 
-Book:6 
-CSS:../Styles/style.css 
+title: Strange Plane
+chapter: 2145
+section: 8
+book: 6
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Strange Plane
-### Chapter 2145
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Strange Plane
+
+### Chapter 2145
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The host of metal rhinos moved down to the riverbank. They eventually walked into the stream and began playing in the water that looked a lot like mercury.
 
 They had great, hulking metal bodies. They looked like they were made from rough, dull steel, and their bodies were a stark contrast to the glimmering silver river.

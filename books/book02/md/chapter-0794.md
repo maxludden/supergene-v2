@@ -1,21 +1,20 @@
 ---
-Title:The Hand That Orchestrates Fate 
-Chapter:794 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: The Hand That Orchestrates Fate
+chapter: 794
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## The Hand That Orchestrates Fate
-### Chapter 794
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## The Hand That Orchestrates Fate
+
+### Chapter 794
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 God's Third Hand was a very famous player in the Hand of God community circles.
 
 Over the past five years, God's Third Hand had managed to beat out every other professional evolver Hand of God player, coming first place in four of the annual Hand of God championships in the process. His talent for the game resulted in others referring to him as "God's favorite child."

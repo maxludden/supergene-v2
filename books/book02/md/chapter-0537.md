@@ -1,21 +1,20 @@
 ---
-Title:Qi Gong 
-Chapter:537 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Qi Gong
+chapter: 537
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Qi Gong
-### Chapter 537
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Qi Gong
+
+### Chapter 537
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Ji Yanran patiently explained what it was all about, but Han Sen quickly understood what she really meant. In his heart, he felt shocked.
 
 The information he could gather on the Skynet regarding surpassers was rather limited. The population of the entire Alliance exceeded several billion, but the amount of registered surpassers was below one million.

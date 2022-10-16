@@ -1,21 +1,20 @@
 ---
-Title:Six Core Snake God 
-Chapter:2577 
-Section:12 
-Book:8 
-CSS:../Styles/style.css 
+title: Six Core Snake God
+chapter: 2577
+section: 12
+book: 8
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Six Core Snake God
-### Chapter 2577
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Six Core Snake God
+
+### Chapter 2577
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 When Han Sen looked closer, he realized that the circles around the snake king’s neck weren’t actually eyes; they were six spinning cogwheels. He didn’t know what the six cogwheels did, though.
 
 “Quickly, we must go!” Li Keer shouted at Han Sen. She was on the verge of using God’s Wander to escape that place.

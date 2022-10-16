@@ -1,21 +1,20 @@
 ---
-Title:Spear Is Out 
-Chapter:319 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: Spear Is Out
+chapter: 319
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Spear Is Out
-### Chapter 319
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Spear Is Out
+
+### Chapter 319
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The person quickly summoned a heavy steel shield, holding it up to Han Sen’s spear.
 
 A shield was the biggest enemy of a spear. And this shield was particularly huge and heavy. Even a sacred-blood weapon could hardly penetrate it.

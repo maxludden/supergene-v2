@@ -1,21 +1,20 @@
 ---
-Title:Extreme Evil Beast 
-Chapter:3043 
-Section:16 
-Book:10 
-CSS:../Styles/style.css 
+title: Extreme Evil Beast
+chapter: 3043
+section: 16
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Extreme Evil Beast
-### Chapter 3043
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Extreme Evil Beast
+
+### Chapter 3043
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “Does that mean an extremely powerful gene egg lies buried down below?” Han Sen was very happy. He used both of his hands to hold the black iron pillar. He wanted to put it down and see what sort of gene egg it was suppressing.
 
 Han Sen was a character that had conquered the world. He did not really care about finding ordinary gene eggs. With such an interesting gene egg available, he wasn’t keen to miss out.

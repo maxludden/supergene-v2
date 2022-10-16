@@ -1,21 +1,20 @@
 ---
-Title:Absolute Container 
-Chapter:2073 
-Section:8 
-Book:6 
-CSS:../Styles/style.css 
+title: Absolute Container
+chapter: 2073
+section: 8
+book: 6
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Absolute Container
-### Chapter 2073
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Absolute Container
+
+### Chapter 2073
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “Where are the items you sucked into it? Can I see them?” Han Sen asked Bao’er happily.
 
 They were digested a long time ago,” Bao’er said, blinking again.

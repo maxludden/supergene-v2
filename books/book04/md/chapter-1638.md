@@ -1,21 +1,20 @@
 ---
-Title:Instructor 
-Chapter:1638 
-Section:4 
-Book:4 
-CSS:../Styles/style.css 
+title: Instructor
+chapter: 1638
+section: 4
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Instructor
-### Chapter 1638
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Instructor
+
+### Chapter 1638
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen had been studying ways to defeat the Armored Man before the ranking competition of the Son of God’s started.
 
 Han Sen wasn’t sure how powerful the Armored Man could be when he fully triggered his medication. If the Armored Man had shown the full extent of his power in the fight with Gu Qingcheng, then Han Sen’s own physical power when combined with Little Angel and his blood-pulse technique could defeat the Armored Man.

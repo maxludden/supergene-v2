@@ -1,21 +1,20 @@
 ---
-Title:Getting the Treasure 
-Chapter:2294 
-Section:10 
-Book:7 
-CSS:../Styles/style.css 
+title: Getting the Treasure
+chapter: 2294
+section: 10
+book: 7
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Getting the Treasure
-### Chapter 2294
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Getting the Treasure
+
+### Chapter 2294
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Crime swung his weapon, and the substance chain on his knife became a black snake king that looked as if it could swallow the sky. It suddenly lashed towards Han Sen.
 
 Han Sen’s body surged with power, but the white rope tightened around him. The mysterious substance chain tangled him up, and it made it difficult for Han Sen to gather up any semblance of defense. That knife was going to slice him to ribbons.

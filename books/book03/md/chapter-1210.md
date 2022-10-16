@@ -1,21 +1,20 @@
 ---
-Title:Big Snake 
-Chapter:1210 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Big Snake
+chapter: 1210
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Big Snake
-### Chapter 1210
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Big Snake
+
+### Chapter 1210
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Snowball stood atop the cliff, watching the white ball tumble off. It smiled, thinking of the gruesome demise that would await those inside it once they reached the bottom. But just as the ball started to drop, something from the inside began to stretch it. The force inside the ball was warping its shape and composure.
 
 The white ball was not broken, but the power was enough for the entire thing to defy gravity and shoot back up into the skies with the speed of a freshly-launched cannonball. It soared upwards, far above where it had been previously.

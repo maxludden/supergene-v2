@@ -1,21 +1,20 @@
 ---
-Title:Han Yu Fei 
-Chapter:2940 
-Section:15 
-Book:9 
-CSS:../Styles/style.css 
+title: Han Yu Fei
+chapter: 2940
+section: 15
+book: 9
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Han Yu Fei
-### Chapter 2940
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Han Yu Fei
+
+### Chapter 2940
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 There was another reason he remembered. It was because the woman had the same surname as him. It was Han, so that was another major point as to why he recalled the name.
 
 “Which race was Han Yufei? What was her position in Sacred?” Han Sen asked.

@@ -1,21 +1,20 @@
 ---
-Title:Heavy Armor 
-Chapter:1469 
-Section:4 
-Book:4 
-CSS:../Styles/style.css 
+title: Heavy Armor
+chapter: 1469
+section: 4
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Heavy Armor
-### Chapter 1469
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Heavy Armor
+
+### Chapter 1469
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “What’s going on? You and I both have a silver geno core?” Han Sen looked at the green-clothed woman with surprise. This geno core storage looked very different.
 
 “I told you, this geno core storage has received some modifications. We’re in a different sort of Geno Battleground, and in here, any and all geno core levels can gather. Your silver geno core will be brutally murdered here, though.” The woman slightly raised her lips.

@@ -1,21 +1,20 @@
 ---
-Title:Cow Foot Valley 
-Chapter:1721 
-Section:6 
-Book:5 
-CSS:../Styles/style.css 
+title: Cow Foot Valley
+chapter: 1721
+section: 6
+book: 5
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Cow Foot Valley
-### Chapter 1721
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Cow Foot Valley
+
+### Chapter 1721
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 After half a day, the ship was still moving sluggishly along. It was slowly descending now, though, and Han Sen made sure to look out the window. The ship was in the process of landing close to a mountain.
 
 As they got closer, Han Sen saw that they were landing in a valley. When Han Sen looked down, however, a strange sight met his eyes.

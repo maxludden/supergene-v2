@@ -1,21 +1,20 @@
 ---
-Title:Super Gene? 
-Chapter:1796 
-Section:6 
-Book:5 
-CSS:../Styles/style.css 
+title: Super Gene?
+chapter: 1796
+section: 6
+book: 5
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Super Gene?
-### Chapter 1796
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Super Gene?
+
+### Chapter 1796
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Yisha saw Han Sen coming back for the statue and swung her sword again. The sword moved like a subtle dragon, and it wasn’t as obvious as Han Sen’s approach.
 
 Her sword mind was not any weaker than Han Sen’s. In fact, she was the most difficult enemy Han Sen had faced since entering the geno universe.

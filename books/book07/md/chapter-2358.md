@@ -1,21 +1,20 @@
 ---
-Title:Weird Area 
-Chapter:2358 
-Section:11 
-Book:7 
-CSS:../Styles/style.css 
+title: Weird Area
+chapter: 2358
+section: 11
+book: 7
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Weird Area
-### Chapter 2358
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Weird Area
+
+### Chapter 2358
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Normal bullets would face too much resistance when fired underwater. The shot would become weaker the farther it had to travel, and the sea conch would likely notice its approach.
 
 But Han Sen had his Original Water King Body and sea dragon area. He combined with the sea of Planet Water Zone itself. He used his water powers to create Spell’s ammunition, so the bullet also had water abilities. Rather than being slowed down by the water it passed through, the bullet was actually buffed by the sea. It flew toward the sea conch silently, like a phantom.

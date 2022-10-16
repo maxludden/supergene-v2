@@ -1,21 +1,20 @@
 ---
-Title:Big Nice Guy 
-Chapter:3130 
-Section:16 
-Book:10 
-CSS:../Styles/style.css 
+title: Big Nice Guy
+chapter: 3130
+section: 16
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Big Nice Guy
-### Chapter 3130
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Big Nice Guy
+
+### Chapter 3130
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “She is Han Sen’s daughter? Is that just a coincidence?” Sky King’s heart flashed with many thoughts, but his face did not seem to change. He behaved as if he did not know Han Sen.
 
 Han Sen stroked Bao’er’s head as he asked, “Bao’er, what are you doing here?”

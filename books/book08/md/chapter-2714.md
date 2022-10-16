@@ -1,21 +1,20 @@
 ---
-Title:Horizontal Evil Strike Sun 
-Chapter:2714 
-Section:13 
-Book:8 
-CSS:../Styles/style.css 
+title: Horizontal Evil Strike Sun
+chapter: 2714
+section: 13
+book: 8
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Horizontal Evil Strike Sun
-### Chapter 2714
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Horizontal Evil Strike Sun
+
+### Chapter 2714
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Because of what Horizontal Evil was doing, the metal pillar began to shine. It shook in his hands, as if it was desperately trying to keep drilling into him. But Horizontal Evil had the pillar solidly in his grip now. No matter how brightly the pillar shone or how much it wanted to burrow back into him, Horizontal Evil was still able to remove it with his hands.
 
 *Boom!*

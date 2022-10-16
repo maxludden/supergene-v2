@@ -1,21 +1,20 @@
 ---
-Title:Sky Palace Throne 
-Chapter:1737 
-Section:6 
-Book:5 
-CSS:../Styles/style.css 
+title: Sky Palace Throne
+chapter: 1737
+section: 6
+book: 5
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Sky Palace Throne
-### Chapter 1737
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Sky Palace Throne
+
+### Chapter 1737
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen held Littleflower, and as he did, he felt the power extinguish. He fell to the ground and almost broke his bones.
 
 After getting his vision back, Han Sen saw a broken palace around him. It was made of jade and metal, and it looked as if he had ended up in heaven.

@@ -1,21 +1,20 @@
 ---
-Title:Wan’er Wakes Up 
-Chapter:2520 
-Section:12 
-Book:8 
-CSS:../Styles/style.css 
+title: Wan’er Wakes Up
+chapter: 2520
+section: 12
+book: 8
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Wan’er Wakes Up
-### Chapter 2520
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Wan’er Wakes Up
+
+### Chapter 2520
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “Deified Xenogeneic hunted: Gold Robot General. Xenogeneic gene found. Obtained Gold Robot General beast soul.”
 
 Han Sen was thrilled. “I got its beast soul. Am I on a lucky streak to keep receiving their beast souls these days?”
@@ -30,7 +29,7 @@ The results of the battle were far too surprising. The Gold Armor General was co
 
 “That Dollar just soloed the Gold Armor General. Am I seeing this correctly?”
 
-“It was too f*cking scary. Dollar is too powerful. He just soloed a deified as a King. Can any of the Extreme King do such a thing?”
+“It was too fucking scary. Dollar is too powerful. He just soloed a deified as a King. Can any of the Extreme King do such a thing?”
 
 “Even someone else could do this, there’s no way they could do it as casually as Dollar did. He must be a deified pretending to be a King.”
 

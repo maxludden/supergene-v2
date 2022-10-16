@@ -1,21 +1,20 @@
 ---
-Title:The Dongxuan Sutra’s Tenth Gene Lock 
-Chapter:1331 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: The Dongxuan Sutra’s Tenth Gene Lock
+chapter: 1331
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## The Dongxuan Sutra’s Tenth Gene Lock
-### Chapter 1331
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## The Dongxuan Sutra’s Tenth Gene Lock
+
+### Chapter 1331
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The chef finally made a move, but it wasn’t in the way Three-Eye Emperor predicted. Rather, she moved her empty left hand.
 
 The hand burst into a limb of bright fire. Swiftly, she looked as if she attempted to grab hold of Three-Eye Emperor’s head.

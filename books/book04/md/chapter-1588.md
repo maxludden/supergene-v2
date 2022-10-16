@@ -1,21 +1,20 @@
 ---
-Title:Copyright 
-Chapter:1588 
-Section:4 
-Book:4 
-CSS:../Styles/style.css 
+title: Copyright
+chapter: 1588
+section: 4
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Copyright
-### Chapter 1588
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Copyright
+
+### Chapter 1588
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen was standing in front of the headquarters of the company Impression Culture when the security guard saw him. He was wearing big sunglasses and a hat, with Littleflower in his arms and Bao’er perched upon his shoulder.
 
 “We have a meeting with your Chief Editor. Here is the appointment slip.” Han Sen handed the slip over to the security guard.
@@ -70,9 +69,9 @@ Zuo Lan smiled but did not say anything. She did not like how arrogant they were
 
 So, even if Zuo Lan hated the woman’s attitude, she had to endure it.
 
-“I didn’t even say anything, and you’re just a secretary talking crap. You’re obviously just a b*tch who sold her body to achieve a modicum of fame.” Zuo Lan looked at her with disdain.
+“I didn’t even say anything, and you’re just a secretary talking crap. You’re obviously just a bitch who sold her body to achieve a modicum of fame.” Zuo Lan looked at her with disdain.
 
-As they were talking, Han Sen reached the meeting room. Zuo Lan turned the monitor off and let Han Sen and the baby inside. She was thinking, “This is bad. Such an unprofessional manager and a slutty b*tch all in one room. These matters of business will be difficult to discuss.”
+As they were talking, Han Sen reached the meeting room. Zuo Lan turned the monitor off and let Han Sen and the baby inside. She was thinking, “This is bad. Such an unprofessional manager and a slutty bitch all in one room. These matters of business will be difficult to discuss.”
 
 “Hi. You are Zuo, the Chief Editor? I am Xie Qing King’s manager. Call me San Mu.” Han Sen reached his hand out to Zuo Lan.
 

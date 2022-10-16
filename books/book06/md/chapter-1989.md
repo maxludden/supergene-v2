@@ -1,21 +1,20 @@
 ---
-Title:Who He Came Here For? 
-Chapter:1989 
-Section:8 
-Book:6 
-CSS:../Styles/style.css 
+title: Who He Came Here For?
+chapter: 1989
+section: 8
+book: 6
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Who He Came Here For?
-### Chapter 1989
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Who He Came Here For?
+
+### Chapter 1989
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 On Sky Path Island, four different classes of people awaited their exam: Barons, Viscounts, Earls, and Marquises.
 
 The most popular section today would be the Earl examination. Many Kings and Nobles had gone there, and the stands were very full. It made the other three look so quiet.

@@ -1,21 +1,20 @@
 ---
-Title:Conspiracy 
-Chapter:1955 
-Section:7 
-Book:5 
-CSS:../Styles/style.css 
+title: Conspiracy
+chapter: 1955
+section: 7
+book: 5
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Conspiracy
-### Chapter 1955
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Conspiracy
+
+### Chapter 1955
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen initially didn’t want Little Seven to participate in the battle body races, but when he heard what they could win if Little Seven achieved first place, he changed his mind. It was a battle body fluid synthesized by the Meka themselves.
 
 Battle body fluid could level Little Seven up. It could turn Baron battle bodies into Viscounts. For the Meka, this was great.

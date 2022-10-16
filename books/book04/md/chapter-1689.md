@@ -1,21 +1,20 @@
 ---
-Title:Treasure in the Box 
-Chapter:1689 
-Section:5 
-Book:4 
-CSS:../Styles/style.css 
+title: Treasure in the Box
+chapter: 1689
+section: 5
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Treasure in the Box
-### Chapter 1689
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Treasure in the Box
+
+### Chapter 1689
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Five crystal-looking fingers were held against the box like the keys of a piano.
 
 The thing started to climb out of the metal box in a strange manner, and as it left, the light inside the container dimmed. When the hand came out of the metal box, Han Sen and Old Cat were both shocked seeing it.
@@ -98,4 +97,4 @@ When the hand gloved Han Sen’s right hand, it turned into a gauntlet that look
 
 Before Han Sen could think any more, a strange power from his right-hand started pulling him forward. He couldn’t keep his body from suddenly getting pulled into darkness.
 
-“Shit! This thing is just like those motherf*cking crystal shoes.” Han Sen was struggling to stop the process. It didn’t work, though, as the glove was much stronger than him.
+“Shit! This thing is just like those motherfucking crystal shoes.” Han Sen was struggling to stop the process. It didn’t work, though, as the glove was much stronger than him.

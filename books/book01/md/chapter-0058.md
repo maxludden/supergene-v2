@@ -1,21 +1,20 @@
 ---
-Title:Great Gift for Great Man 
-Chapter:58 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: Great Gift for Great Man
+chapter: 58
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Great Gift for Great Man
-### Chapter 58
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Great Gift for Great Man
+
+### Chapter 58
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 "How much is that knife?" asked Han Sen curiously.
 
 "A hundred million," the blacksmith said coldly, pushing Hen Sen out.

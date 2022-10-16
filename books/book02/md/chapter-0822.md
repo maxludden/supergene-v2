@@ -1,21 +1,20 @@
 ---
-Title:Huang Xiao 
-Chapter:822 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Huang Xiao
+chapter: 822
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Huang Xiao
-### Chapter 822
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Huang Xiao
+
+### Chapter 822
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 For a long time, the fitness of humans had been nowhere near the heights of the shura. But humans strived to be better.
 
 Generations after their first meeting, the gap in talent between the two species was still unbridged. But then came the discovery of the sanctuaries, and after this, humanity accelerated in strength as if they were cheating. While it did not change the average human, human elites were capable of becoming stronger than the shura.

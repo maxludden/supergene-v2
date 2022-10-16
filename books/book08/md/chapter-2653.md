@@ -1,21 +1,20 @@
 ---
-Title:Star Beetle 
-Chapter:2653 
-Section:13 
-Book:8 
-CSS:../Styles/style.css 
+title: Star Beetle
+chapter: 2653
+section: 13
+book: 8
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Star Beetle
-### Chapter 2653
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Star Beetle
+
+### Chapter 2653
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 It really had been a coincidence that Liyu Zhen ran into Han Sen at the star tree. He had only just received the order to go there and take the test. He was there to take charge of the star tree in its current master’s absence.
 
 Liyu Zhen had received a piece of news that few others knew. Once the star tree’s elder left on his journey, he might never come back. If Liyu Zhen took the star tree now, it was likely that the star tree would forever belong to him. That was why Liyu Zhen was so hyped when he arrived there. Watching over the tree temporarily wasn’t a very important task, but becoming its permanent care-taker…

@@ -1,21 +1,20 @@
 ---
-Title:Underground Space 
-Chapter:1137 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Underground Space
+chapter: 1137
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Underground Space
-### Chapter 1137
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Underground Space
+
+### Chapter 1137
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Queen and Bao’er came to the shelter before departure. Han Sen didn’t extend an offer to the people of Nest Shelter to come along, as they were living a pleasant life where they were, already.
 
 With everything prepared, Han Sen commanded Moment Queen to begin taking the shelter towards where the creature had been spotted.

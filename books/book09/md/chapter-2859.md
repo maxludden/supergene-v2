@@ -1,21 +1,20 @@
 ---
-Title:Demon Coming Down to Earth 
-Chapter:2859 
-Section:14 
-Book:9 
-CSS:../Styles/style.css 
+title: Demon Coming Down to Earth
+chapter: 2859
+section: 14
+book: 9
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Demon Coming Down to Earth
-### Chapter 2859
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Demon Coming Down to Earth
+
+### Chapter 2859
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Asura and Han Sen’s mother had some kind of entwined fate that they could not be freed from. The Luo family had the Shura’s Falsified-Sky Sutra, which made the Luo family and Shura’s Jade Shura fall into a generation of loving and killing.
 
 During Luo Lan’s generation, Han Sen’s mother wanted to prevent their heirs from falling into the same cycle. Thus, they hid their names in the hopes that Han Sen could lead a normal life. Unfortunately, it did not work. Han Sen received the Asura Sutra by accident. He had also found Zero, who had a strong connection with the Shura.

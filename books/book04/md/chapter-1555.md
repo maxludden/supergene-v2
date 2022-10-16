@@ -1,21 +1,20 @@
 ---
-Title:Emperor Geno Core 
-Chapter:1555 
-Section:4 
-Book:4 
-CSS:../Styles/style.css 
+title: Emperor Geno Core
+chapter: 1555
+section: 4
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Emperor Geno Core
-### Chapter 1555
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Emperor Geno Core
+
+### Chapter 1555
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 After what felt like a century to Han Sen, he heard a giant rumbling noise.
 
 Han Sen’s entire body bounced up, hitting the top of the tower, and then fell back to the floor. After that, things went back to normal. The metal tower stopped shaking, the energies suffusing the tower vanished, and everything was quiet.

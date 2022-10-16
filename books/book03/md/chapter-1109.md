@@ -1,21 +1,20 @@
 ---
-Title:Devil-blood Mantis Beast Soul 
-Chapter:1109 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Devil-blood Mantis Beast Soul
+chapter: 1109
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Devil-blood Mantis Beast Soul
-### Chapter 1109
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Devil-blood Mantis Beast Soul
+
+### Chapter 1109
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “Is that a humanoid pet beast soul?” Queen asked, while looking at Disloyal Knight.
 
 Han Sen nodded but did not elaborate. He knew she’d get to witness its power sooner or later, anyway.

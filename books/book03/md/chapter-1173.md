@@ -1,21 +1,20 @@
 ---
-Title:The Heart Beaten Ten Times 
-Chapter:1173 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: The Heart Beaten Ten Times
+chapter: 1173
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## The Heart Beaten Ten Times
-### Chapter 1173
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## The Heart Beaten Ten Times
+
+### Chapter 1173
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Dry Bone King continued to drum the heartbone incessantly. Each sonic-boom made Han Sen cough more blood.
 
 Each beat was stronger than the last, increasing the amount of pain and strain Han Sen’s heart had to withstand. Dry Bone was going to do this ten times.

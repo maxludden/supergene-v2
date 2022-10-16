@@ -1,21 +1,20 @@
 ---
-Title:Chaos Inside Elysium 
-Chapter:1489 
-Section:4 
-Book:4 
-CSS:../Styles/style.css 
+title: Chaos Inside Elysium
+chapter: 1489
+section: 4
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Chaos Inside Elysium
-### Chapter 1489
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Chaos Inside Elysium
+
+### Chapter 1489
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “I told you to move! Did you not hear me?” Gu Qingcheng’s face darkened.
 
 The Elysium wore cloaks that obscured their faces. They lowered their heads and did not vocally object to her repeated command, but still, they did not move. Standing where they were, they were blocking Han Sen’s exit.

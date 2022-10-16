@@ -1,21 +1,20 @@
 ---
-Title:Better Than True God 
-Chapter:2975 
-Section:15 
-Book:9 
-CSS:../Styles/style.css 
+title: Better Than True God
+chapter: 2975
+section: 15
+book: 9
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Better Than True God
-### Chapter 2975
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Better Than True God
+
+### Chapter 2975
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Yet, Human King knew about Littleflower, and he knew a lot about him. Nine-Life Cat represented Blood Legion and was a mascot for them. It made Han Sen start to think of many things.
 
 Human King weirdly looked at Han Sen asked, “Do you want to know about the relationship between me and Old Cat?”

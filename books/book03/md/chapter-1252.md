@@ -1,21 +1,20 @@
 ---
-Title:Broken Flagon 
-Chapter:1252 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Broken Flagon
+chapter: 1252
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Broken Flagon
-### Chapter 1252
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Broken Flagon
+
+### Chapter 1252
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen listened for a while longer, but there was nothing more useful he could learn. As for the shelter, he decided to delay his attack on it for the time being.
 
 Han Sen was going to wait for Yaksha and Blood River King to take the vine. At that point, he would either attack the shelter or try to claim the fruit. There were two choices, and Han Sen still had to weight the pros and cons of each.

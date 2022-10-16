@@ -1,21 +1,20 @@
 ---
-Title:A Pet That Sucks Blood 
-Chapter:728 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: A Pet That Sucks Blood
+chapter: 728
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## A Pet That Sucks Blood
-### Chapter 728
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## A Pet That Sucks Blood
+
+### Chapter 728
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Brother Fist and Fang Jingqi insisted on providing Han Sen a share of the shelter's future income. After a contract was signed, the terms were for them to pay out a lump sum at the end of each year.
 
 Han Sen remained at the shelter for one night, but rejected Brother Fist and Fang Jingqi's request that he stay for longer. Upon leaving, he returned to the Goddess Shelter.

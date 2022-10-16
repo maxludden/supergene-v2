@@ -1,21 +1,20 @@
 ---
-Title:Love Killing Pigs 
-Chapter:2990 
-Section:15 
-Book:9 
-CSS:../Styles/style.css 
+title: Love Killing Pigs
+chapter: 2990
+section: 15
+book: 9
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Love Killing Pigs
-### Chapter 2990
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Love Killing Pigs
+
+### Chapter 2990
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Pang!
 
 Han Sen’s body was like a sponge being squeezed by the young man’s hand. Suddenly, another version of his body appeared behind the young man.

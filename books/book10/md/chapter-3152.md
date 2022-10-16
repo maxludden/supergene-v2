@@ -1,21 +1,20 @@
 ---
-Title:Fighting 300 Rounds 
-Chapter:3152 
-Section:16 
-Book:10 
-CSS:../Styles/style.css 
+title: Fighting 300 Rounds
+chapter: 3152
+section: 16
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Fighting 300 Rounds
-### Chapter 3152
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Fighting 300 Rounds
+
+### Chapter 3152
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “I am willing to.” Du Ru Lan kowtowed.
 
 “If you are willing to, Decapitation Queen, you should take him to the side hall and test his Blood-Pulse.” Han Sen did not plan on giving Burning Lamp God of Wealth’s blood. He wanted it to be given by Decapitation Queen.

@@ -1,21 +1,20 @@
 ---
-Title:Password 
-Chapter:2078 
-Section:8 
-Book:6 
-CSS:../Styles/style.css 
+title: Password
+chapter: 2078
+section: 8
+book: 6
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Password
-### Chapter 2078
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Password
+
+### Chapter 2078
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Everyone focused on Sad Night. He walked around the blue metal cube, pretending that he was observing it.
 
 After walking around it once, Sad Night said confidently, “If I am not mistaken, the handprints on the blue metal cube are a palm geno art.”

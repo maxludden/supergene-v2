@@ -1,21 +1,20 @@
 ---
-Title:God Palace Lands 
-Chapter:2964 
-Section:15 
-Book:9 
-CSS:../Styles/style.css 
+title: God Palace Lands
+chapter: 2964
+section: 15
+book: 9
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## God Palace Lands
-### Chapter 2964
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## God Palace Lands
+
+### Chapter 2964
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 There were still many temples of all kinds of styles under the geno hall.
 
 In the past, when the geno hall appeared, it looked like the moon and flowers in a mirror. Although one was able to see it clearly, it gave people the impression that it could not be real. The geno hall and many temples that appeared now gave people a real feeling. It was like those palaces and temples were going to fall from the sky at any second.

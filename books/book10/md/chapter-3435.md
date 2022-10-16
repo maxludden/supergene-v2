@@ -1,21 +1,20 @@
 ---
-Title:Universe Class 
-Chapter:3435 
-Section:17 
-Book:10 
-CSS:../Styles/style.css 
+title: Universe Class
+chapter: 3435
+section: 17
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Universe Class
-### Chapter 3435
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Universe Class
+
+### Chapter 3435
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “Everything in this world has a uniqueness to its totality. The universe is a whole creation. A small creature’s body can be viewed as something complete. From their substances, a universe and the creatures that occupy it are whole in this world. That means the bodies themselves can be unique universes.” When Crape Myrtle spoke, his fingers moved. All of his fingers struck every part of Han Sen’s body.
 
 Every finger that touched Han Sen was like a steel nail being hammered into his body. Han Sen felt the pain too unbearable to endure. He felt terrible.

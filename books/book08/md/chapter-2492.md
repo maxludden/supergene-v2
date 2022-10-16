@@ -1,21 +1,20 @@
 ---
-Title:Tianxia Peacock King 
-Chapter:2492 
-Section:12 
-Book:8 
-CSS:../Styles/style.css 
+title: Tianxia Peacock King
+chapter: 2492
+section: 12
+book: 8
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Tianxia Peacock King
-### Chapter 2492
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Tianxia Peacock King
+
+### Chapter 2492
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen approached the cloud, but it quickly retreated so that Han Sen couldn’t touch it.
 
 Han Sen felt so angry. He sped up and chased after the cloud. As he chased it, it continued to retreat away from him. But whenever Han Sen turned around and tried to move away from the cloud, it would follow. After a short time of this, Han Sen became incredibly frustrated.

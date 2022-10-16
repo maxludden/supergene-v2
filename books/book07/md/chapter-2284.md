@@ -1,21 +1,20 @@
 ---
-Title:King 
-Chapter:2284 
-Section:10 
-Book:7 
-CSS:../Styles/style.css 
+title: King
+chapter: 2284
+section: 10
+book: 7
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## King
-### Chapter 2284
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## King
+
+### Chapter 2284
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen looked at Yisha. They were confused. What was this thing? It was sort of like a treasure, but it wasn’t a treasure. It was sort of like a creature, but it wasn’t a creature.
 
 The Jade Drum was a creature, but the Jade Drum was created naturally. It wasn’t something that was man-made. Words were scrawled across the little bell’s body, though, and that suggested it wasn’t a natural being.

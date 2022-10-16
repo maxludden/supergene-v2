@@ -1,21 +1,20 @@
 ---
-Title:As Long as You Like It 
-Chapter:2772 
-Section:14 
-Book:9 
-CSS:../Styles/style.css 
+title: As Long as You Like It
+chapter: 2772
+section: 14
+book: 9
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## As Long as You Like It
-### Chapter 2772
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## As Long as You Like It
+
+### Chapter 2772
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “Yes. He is the best meal here. Are you worried that he won’t taste good? That is fine, if so. You can have your pick. Eat anything you want. If you like it, it is yours,” the phoenix said.
 
 Looks of confused horror covered the faces of Elder Nader and all the others. They couldn’t believe what they were hearing. They had all been trapped in this place, and the phoenix considered them to be nothing more than food. Dollar, however, had been invited to eat with the phoenix like a guest of honor. If he wanted to, he could consume them until his belly was full.

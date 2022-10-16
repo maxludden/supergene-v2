@@ -1,21 +1,20 @@
 ---
-Title:Man’s Ocean 
-Chapter:1170 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Man’s Ocean
+chapter: 1170
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Man’s Ocean
-### Chapter 1170
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Man’s Ocean
+
+### Chapter 1170
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Seeing Han Sen walk towards the fourth floor, Qiu Ping chose to follow.
 
 Han Sen asked around for the entrance that would take him to the prestigious fifth floor, as that was his next destination.

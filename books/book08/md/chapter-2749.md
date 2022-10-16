@@ -1,21 +1,20 @@
 ---
-Title:Blood Coral 
-Chapter:2749 
-Section:13 
-Book:8 
-CSS:../Styles/style.css 
+title: Blood Coral
+chapter: 2749
+section: 13
+book: 8
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Blood Coral
-### Chapter 2749
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Blood Coral
+
+### Chapter 2749
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “If that electric eel can survive in there, can’t I do the same?” Han Sen made his mind up. He was going to kill that electric eel and dine on its xenogeneic gene, no matter what it took.
 
 Steeling himself, Han Sen began to move through the coral forest. After he entered it, the effectiveness of his Dongxuan Area fell dramatically. He couldn’t see beyond the blood coral all around him.

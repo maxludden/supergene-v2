@@ -1,21 +1,20 @@
 ---
-Title:Second Uncle’s Wishes 
-Chapter:1592 
-Section:4 
-Book:4 
-CSS:../Styles/style.css 
+title: Second Uncle’s Wishes
+chapter: 1592
+section: 4
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Second Uncle’s Wishes
-### Chapter 1592
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Second Uncle’s Wishes
+
+### Chapter 1592
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “Why are you guys telling me all this?” Han Sen took a deep breath to compose his thoughts before asking.
 
 After all, what he had been told was a hypothesis. It was just a collection of ifs, and there was no point in Han Sen being troubled by all this.

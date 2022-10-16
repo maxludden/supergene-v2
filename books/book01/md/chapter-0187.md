@@ -1,21 +1,20 @@
 ---
-Title:A Cave 
-Chapter:187 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: A Cave
+chapter: 187
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## A Cave
-### Chapter 187
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## A Cave
+
+### Chapter 187
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Once he had shapeshifted into a fairy queen, Han Sen felt the world had slowed down. All the mutant black-feathered beasts seemed to act in slow motion.
 
 Seeing the first mutant beast approaching, Han Sen held his hands down on it and jumped over its head, his dagger cutting its throat.

@@ -1,21 +1,20 @@
 ---
-Title:Desperate Wine 
-Chapter:1299 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Desperate Wine
+chapter: 1299
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Desperate Wine
-### Chapter 1299
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Desperate Wine
+
+### Chapter 1299
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “No God Emperor!” Empty Witch exclaimed.
 
 Han Sen and Lotus Empress’s faces changed, both equally surprised to see he had been hunting them.

@@ -1,21 +1,20 @@
 ---
-Title:Jade Skeleton 
-Chapter:1387 
-Section:4 
-Book:4 
-CSS:../Styles/style.css 
+title: Jade Skeleton
+chapter: 1387
+section: 4
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Jade Skeleton
-### Chapter 1387
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Jade Skeleton
+
+### Chapter 1387
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Black Mountain God could not detect the power that resided within that Jade Skeleton. Still, he knew he had to be cautious because it was the number one geno core he was dealing with.
 
 Black Mountain God cast Heart Wheel to further break the tattered remains of the egg and the skeleton within. Strangely, the searing light seemed to have no effect on it anymore.

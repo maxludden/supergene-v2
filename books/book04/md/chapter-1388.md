@@ -1,21 +1,20 @@
 ---
-Title:Unsealed 
-Chapter:1388 
-Section:4 
-Book:4 
-CSS:../Styles/style.css 
+title: Unsealed
+chapter: 1388
+section: 4
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Unsealed
-### Chapter 1388
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Unsealed
+
+### Chapter 1388
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 If someone was killed in a geno core fight, that meant one party was far too powerful. To kill the heir of a super creature so simply, and without fanfare, spoke volumes about the strength of the elusive owner of the Crystal Core.
 
 The babies of a super creature were stronger than their predecessors, and that held true for any species of creature. Still, their self geno cores were still tiered, starting off bronze and in need of reinforcement.

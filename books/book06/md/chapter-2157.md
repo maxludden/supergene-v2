@@ -1,21 +1,20 @@
 ---
-Title:Break Six Skies 
-Chapter:2157 
-Section:8 
-Book:6 
-CSS:../Styles/style.css 
+title: Break Six Skies
+chapter: 2157
+section: 8
+book: 6
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Break Six Skies
-### Chapter 2157
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Break Six Skies
+
+### Chapter 2157
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “It is very violent, but I must admit I do like the concept.” Han Sen quickly memorized all the content of the Break Six Skies he had just read, and he made plans to learn and practice it when he found the time. It was such a violent geno art that it could easily be used to challenge enemies that were a higher level than he was.
 
 Still, it did seem particularly difficult to learn. It was a very rough and visceral geno art, but wielding it required a lot of precise skill. The difficulty level was definitely up there with Sky Palace’s Suppress Evil.

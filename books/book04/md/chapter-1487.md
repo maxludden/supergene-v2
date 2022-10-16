@@ -1,21 +1,20 @@
 ---
-Title:Back to Elysium 
-Chapter:1487 
-Section:4 
-Book:4 
-CSS:../Styles/style.css 
+title: Back to Elysium
+chapter: 1487
+section: 4
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Back to Elysium
-### Chapter 1487
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Back to Elysium
+
+### Chapter 1487
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Zhou Donglai really was waiting for him, right outside the Geno Core Tablet. He was waiting for Elysian Moon to come out.
 
 He had realized that she had tricked him, and so he wanted to grab hold of her and ask her questions whenever she decided to emerge. But then, all of a sudden, the tablet began to shine.
@@ -24,7 +23,7 @@ It wasn’t Elysian Moon that appeared. Instead, it was a number of strong spiri
 
 The creatures took off after him. As they were following, they shouted out, “Are you Zhuo Donglai?”
 
-“Did that b*tch Elysian Moon call on all those foul beings to kill me?! D*mn it!” Zhuo Donglai was both scared and angry. He thought Elysian Moon had sent them to dispose of him, so he just kept on running, refusing to respond.
+“Did that bitch Elysian Moon call on all those foul beings to kill me?! D*mn it!” Zhuo Donglai was both scared and angry. He thought Elysian Moon had sent them to dispose of him, so he just kept on running, refusing to respond.
 
 “Why are you running?! I asked if you are Zhuo Donglai!” one of the spirits behind shouted again.
 
@@ -32,15 +31,15 @@ The creatures took off after him. As they were following, they shouted out, “A
 
 “How can you not be Zhuo Donglai? You look just like the description Sky Sword gave us. You must be him!” The spirit on his heels did not believe Zhuo Donglai’s dismissal, and kept pursuing him.
 
-“Sky B*tch! The spirit must be referring to Elysian Moon. I hope she knows how cheap she is,” he thought to himself. Then, still at top speed, shouted, “I really am not Zhuo Donglai! And I don’t know Sky Sword; neither her brother Earth Sword! You guys must be mistaken, I swear!”
+“Sky Bitch! The spirit must be referring to Elysian Moon. I hope she knows how cheap she is,” he thought to himself. Then, still at top speed, shouted, “I really am not Zhuo Donglai! And I don’t know Sky Sword; neither her brother Earth Sword! You guys must be mistaken, I swear!”
 
 “I know I’m not wrong. You have to be the one. Sky Sword told us to look for someone who was old, ugly, and had the beard of a goat. I don’t see anyone else out here that looks like that,” the spirit said.
 
-“F*ck you! You’re the old and ugly one. I’m what you’d call vintage.” Zhuo Donglai was extremely angry at hearing the description.
+“Fuck you! You’re the old and ugly one. I’m what you’d call vintage.” Zhuo Donglai was extremely angry at hearing the description.
 
 When Zhuo Donglai looked at the horde closing in, he thought it was all over. As the group spread out behind him, a few more came forward to his front and sides. He was entirely surrounded.
 
-“It looks like I, Zhuo Donglai, will meet my end here. It’s a shame there was nothing I could do to kill that b*tch.” Zhuo Donglai accepted his fate, knowing he could no longer run. He went on to say, “Come on! If you want to kill me, I’ll still take you all down one by one. You’ll pay for this.”
+“It looks like I, Zhuo Donglai, will meet my end here. It’s a shame there was nothing I could do to kill that bitch.” Zhuo Donglai accepted his fate, knowing he could no longer run. He went on to say, “Come on! If you want to kill me, I’ll still take you all down one by one. You’ll pay for this.”
 
 The spirits and creatures looked at him like he was a strange madman. The spirit that had been calling after him in the pursuit then said, “Are you insane? Who said we were going to kill you? Sky Sword said that if we saw you, we should help take you back to the teleporter. What nonsense are you going on about?”
 

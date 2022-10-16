@@ -1,21 +1,20 @@
 ---
-Title:Creature Meet 
-Chapter:1076 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Creature Meet
+chapter: 1076
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Creature Meet
-### Chapter 1076
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Creature Meet
+
+### Chapter 1076
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen was wary about the idea of going, but he ended up deciding to do as Dragon King pleaded. He decided to go to Ancient Devil Shelter. He didn’t entirely believe Dragon King, but the creatures were indeed behaving strangely at the sound of that bell, and they were all headed in the same direction.
 
 Aside from the Devil Fangs, Han Sen noticed many more creatures heading that way, too. They looked possessed, mindlessly going there.

@@ -1,21 +1,20 @@
 ---
-Title:Killing Purgatory Beasts 
-Chapter:1879 
-Section:7 
-Book:5 
-CSS:../Styles/style.css 
+title: Killing Purgatory Beasts
+chapter: 1879
+section: 7
+book: 5
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Killing Purgatory Beasts
-### Chapter 1879
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Killing Purgatory Beasts
+
+### Chapter 1879
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 On the aircraft, Guna was able to witness the changes transpiring outside the window. She screamed, “Guya activated Purgatory Heaven?”
 
 “What is Purgatory Heaven?” Wang Yuhang asked Guna.

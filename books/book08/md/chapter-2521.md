@@ -1,20 +1,19 @@
 ---
-Title:Armored Beast
-Chapter:2521
-Section:12
-Book:8
-CSS:../Styles/style.css
+title: Armored Beast
+chapter: 2521
+section: 12
+book: 8
+CSS: style.css
 viewport: width=device-width
 ---
 
 ## Armored Beast
+
 ### Chapter 2521
 
 <figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
 </figure>
-
-
 
 Han Sen still wanted to ask Wan’er about a few things, but it really did appear that she had just fallen asleep again. She looked exhausted, but happiness still glowed from her face. She lay against Han Sen’s chest, curled up in a merry little ball. She was like a helpless kitten.
 
@@ -29,15 +28,14 @@ Han Sen hesitated to do it, but he placed her back inside Destiny’s Tower. She
 <div class="tables">
 	<table class="beast">
 		<tr>
-			<th>Beast Soul</th>
+			<th colspan="2">Beast Soul Gained</th>
 		</tr><tr>
-			<td>Deified Class Gold Robot General<br>
-				<span class="type">(Armor)</span>
-			</td>
+			<td>Deified Class Gold Robot General</td>
+			<td>(Armor)</td>
 		</tr>
 	</table>
 	<!-- Deified Gold Robot General beast soul: Armor-type -->
-</div>
+</div> 
 
 Han Sen didn’t immediately react. He knew this armor-type beast soul would be different from other armor-type beast souls.
 

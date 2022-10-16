@@ -1,21 +1,20 @@
 ---
-Title:Luo Haitang 
-Chapter:1558 
-Section:4 
-Book:4 
-CSS:../Styles/style.css 
+title: Luo Haitang
+chapter: 1558
+section: 4
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Luo Haitang
-### Chapter 1558
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Luo Haitang
+
+### Chapter 1558
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “Why are we doing this in the near future instead of now?” asked Han Sen.
 
 Jia Shidao answered, “I’ve talked about this with the Luo’s, but I haven’t reached an agreement with them yet. It might take a little time, but you can relax. After I’ve reached a deal with the Luo’s, I’ll definitely count you in.”

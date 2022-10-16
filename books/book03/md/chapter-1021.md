@@ -1,21 +1,20 @@
 ---
-Title:Golden Flying Bug 
-Chapter:1021 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Golden Flying Bug
+chapter: 1021
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Golden Flying Bug
-### Chapter 1021
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Golden Flying Bug
+
+### Chapter 1021
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Although Han Sen had received many presents from the creatures of the regions he and his party traversed, none of those gifts had yet surpassed the Blood Fruit and Dragon Saliva in terms of rarity and power. Those gifts, given to him by super creatures, were by far the best.
 
 Upon nearing the exit of Ghost Mountain, they encountered another super creature. It was a giant ape, and it provided Han Sen with a small wine cup.

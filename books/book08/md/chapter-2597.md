@@ -1,21 +1,20 @@
 ---
-Title:Lone Bamboo’s Persistence 
-Chapter:2597 
-Section:12 
-Book:8 
-CSS:../Styles/style.css 
+title: Lone Bamboo’s Persistence
+chapter: 2597
+section: 12
+book: 8
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Lone Bamboo’s Persistence
-### Chapter 2597
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Lone Bamboo’s Persistence
+
+### Chapter 2597
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen didn’t have many ideas on how to resolve the matter. If two armies were fighting and Lone Bamboo was in danger, he would gladly join the fight. But right now, Lone Bamboo was incarcerated by the powers presiding over Sky Palace. Furthermore, they weren’t at war with the Very High. Therefore, Han Sen had no way of helping.
 
 “This is a hard situation to deal with. The Very High didn’t want Lone Bamboo to join them permanently. It was supposed to be a temporary thing. Plus, they would have given Lone Bamboo a lot of resources. Others would beg for the benefits he would have been given for free. I don’t know why Lone Bamboo would so firmly decide against going,” Thousand Feather Crane said with a sigh.

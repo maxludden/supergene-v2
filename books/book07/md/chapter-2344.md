@@ -1,21 +1,20 @@
 ---
-Title:The Crime of Killing 
-Chapter:2344 
-Section:11 
-Book:7 
-CSS:../Styles/style.css 
+title: The Crime of Killing
+chapter: 2344
+section: 11
+book: 7
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## The Crime of Killing
-### Chapter 2344
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## The Crime of Killing
+
+### Chapter 2344
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “Sure, I’d go with you to steal things from Destiny’s Tower. If I was insane,” Han Sen mumbled to himself. He had no intention of cooperating with Fox Queen.
 
 For now, his identity hadn’t yet been exposed. He could still deny any allegations that came up, but stealing something from Destiny’s Tower was akin to asking for death.

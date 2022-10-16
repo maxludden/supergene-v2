@@ -1,21 +1,20 @@
 ---
-Title:Sprint 
-Chapter:354 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: Sprint
+chapter: 354
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Sprint
-### Chapter 354
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Sprint
+
+### Chapter 354
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Initially Han Sen thought since Mr. Yu was an evolver with all his geno points maxed out, he would be able to last a while facing a super creature.
 
 However, Mr. Yu died so fast and in such a horrifying way, which made Han Sen shiver.

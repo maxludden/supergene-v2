@@ -1,21 +1,20 @@
 ---
-Title:Killing Hell 
-Chapter:1881 
-Section:7 
-Book:5 
-CSS:../Styles/style.css 
+title: Killing Hell
+chapter: 1881
+section: 7
+book: 5
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Killing Hell
-### Chapter 1881
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Killing Hell
+
+### Chapter 1881
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “If we can get back to Purgatory Heaven, maybe I can try,” Guna said.
 
 “How?” everyone asked at the same time.

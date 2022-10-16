@@ -1,21 +1,20 @@
 ---
-Title:Copper Statue 
-Chapter:1272 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Copper Statue
+chapter: 1272
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Copper Statue
-### Chapter 1272
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Copper Statue
+
+### Chapter 1272
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Seeing the man leave, Han Sen had to ask, “God’s Retribution, of the thirteen members, was one of them named Han?”
 
 “No. You should leave now,” the man said.

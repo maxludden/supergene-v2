@@ -1,21 +1,20 @@
 ---
-Title:Entering the Ruins Again 
-Chapter:1708 
-Section:5 
-Book:4 
-CSS:../Styles/style.css 
+title: Entering the Ruins Again
+chapter: 1708
+section: 5
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Entering the Ruins Again
-### Chapter 1708
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Entering the Ruins Again
+
+### Chapter 1708
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “It’s nothing too exciting. That is the remains of a Nine-Life Cat. It is their leftover genes,” Old Cat said with a slight tone of awkwardness.
 
 “Does that mean there is more than one?” Han Sen asked.

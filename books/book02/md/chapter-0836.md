@@ -1,21 +1,20 @@
 ---
-Title:Martial Hall's God 
-Chapter:836 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Martial Hall's God
+chapter: 836
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Martial Hall's God
-### Chapter 836
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Martial Hall's God
+
+### Chapter 836
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen and Ji Qing sat at a table face-to-face. Many people bid passing greetings to her, indicating her familiarity and popularity with the people there.
 
 When Han Sen looked around, he noticed a battle stage. Two people were currently atop it, in a friendly bout of black and white boxing.

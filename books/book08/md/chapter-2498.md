@@ -1,21 +1,20 @@
 ---
-Title:Saiyan 
-Chapter:2498 
-Section:12 
-Book:8 
-CSS:../Styles/style.css 
+title: Saiyan
+chapter: 2498
+section: 12
+book: 8
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Saiyan
-### Chapter 2498
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Saiyan
+
+### Chapter 2498
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “Saiyan!” Han Sen’s face changed.
 
 If there was a race in the universe that could drive a battleship into the Tianxia System, it would be the Saiyan.

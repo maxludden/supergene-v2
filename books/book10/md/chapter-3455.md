@@ -1,21 +1,20 @@
 ---
-Title:I Have Been Waiting for You 
-Chapter:3455 
-Section:17 
-Book:10 
-CSS:../Styles/style.css 
+title: I Have Been Waiting for You
+chapter: 3455
+section: 17
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## I Have Been Waiting for You
-### Chapter 3455
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## I Have Been Waiting for You
+
+### Chapter 3455
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Seeing Human King’s universe power was about to strike Bao’er, the worst was feared. Suddenly, the power was frozen in the air. It was like it had been frozen. It stopped three feet away from Bao’er.
 
 Everyone was very happy. They thought Han Sen had returned, but what they saw was not that. It appeared as if nothing or no one had stopped Human King. He was holding his punching stance when he just lowered his head. His body shivered in place.

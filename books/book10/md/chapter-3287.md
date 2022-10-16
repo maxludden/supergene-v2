@@ -1,21 +1,20 @@
 ---
-Title:Ultimate Reverse 
-Chapter:3287 
-Section:16 
-Book:10 
-CSS:../Styles/style.css 
+title: Ultimate Reverse
+chapter: 3287
+section: 16
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Ultimate Reverse
-### Chapter 3287
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Ultimate Reverse
+
+### Chapter 3287
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “Use your power to help me put out the flames that wreathe me or break the half-burned candle,” Han Sen said to Zhao Ning’er.
 
 Zhao Ning’er immediately turned into a phoenix head harp. She plucked her strings and made the asking heart sounds go to the half-burned candle, but the powerful harp sounds went through the candle and assaulting fire. Mirror Moon was not impacted in the least.

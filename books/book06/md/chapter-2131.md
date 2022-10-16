@@ -1,21 +1,20 @@
 ---
-Title:The Dismantling Fight 
-Chapter:2131 
-Section:8 
-Book:6 
-CSS:../Styles/style.css 
+title: The Dismantling Fight
+chapter: 2131
+section: 8
+book: 6
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## The Dismantling Fight
-### Chapter 2131
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## The Dismantling Fight
+
+### Chapter 2131
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The finger was like a meteor, shooting across the space before the coin. Just as Evil Eye had done previously, Han Sen was dismantling the coin and reassembling it as something new.
 
 Evil Eye was surprised to see that Han Sen had managed to reduce his modified version of Dollar to dust, and the shock of the scene had frozen the spectators.

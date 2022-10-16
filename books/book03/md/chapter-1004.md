@@ -1,21 +1,20 @@
 ---
-Title:Three Years 
-Chapter:1004 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Three Years
+chapter: 1004
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Three Years
-### Chapter 1004
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Three Years
+
+### Chapter 1004
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Stuck there in the valley, with no immediate concerns, Han Sen was bored and had nothing to do. Aside from chatting with Thorn Baron and taking care of Bao’er, he spent all his time practicing the Blood-Pulse Sutra.
 
 Perhaps it was because he had a lot of fruit, the speed in which he could practice had vastly increased, and he unlocked the next gene lock in a few short days.

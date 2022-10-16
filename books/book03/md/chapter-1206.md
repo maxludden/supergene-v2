@@ -1,21 +1,20 @@
 ---
-Title:The Growing Mountain 
-Chapter:1206 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: The Growing Mountain
+chapter: 1206
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## The Growing Mountain
-### Chapter 1206
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## The Growing Mountain
+
+### Chapter 1206
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The fact that none of the creatures appeared to be possessed was a relief to Han Sen.
 
 The purple mountain was further away than Han Sen initially believed it to be, and he hadn’t quite realized how big it had become. And yet, it still wasn’t done. It was continuing to grow, with no end to its development in sight.

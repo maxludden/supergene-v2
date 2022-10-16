@@ -1,21 +1,20 @@
 ---
-Title:Invincible Bai Sema 
-Chapter:2098 
-Section:8 
-Book:6 
-CSS:../Styles/style.css 
+title: Invincible Bai Sema
+chapter: 2098
+section: 8
+book: 6
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Invincible Bai Sema
-### Chapter 2098
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Invincible Bai Sema
+
+### Chapter 2098
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The red light tore through the clouds in the sky. It was like a volcano, erupting without any restraint or signs of ceasing.
 
 “Sky Palace’s future deified elites are now gone. What a shame.” Kahn looked at the red light in the sky, and then he sighed like it was something genuinely pitiable.

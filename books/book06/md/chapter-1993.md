@@ -1,21 +1,20 @@
 ---
-Title:Competing Skills 
-Chapter:1993 
-Section:8 
-Book:6 
-CSS:../Styles/style.css 
+title: Competing Skills
+chapter: 1993
+section: 8
+book: 6
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Competing Skills
-### Chapter 1993
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Competing Skills
+
+### Chapter 1993
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “Sister, can Han Sen win?” Yun Suyi’s hands were drenched in sweat. She grabbed Yun Sushang’s shoulder as she felt her body go soft. She feared she’d faint if she didn’t stabilize herself.
 
 “I really don’t know,” Yun Sushang said, but she felt bad about it.

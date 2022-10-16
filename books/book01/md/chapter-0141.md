@@ -1,21 +1,20 @@
 ---
-Title:A Date 
-Chapter:141 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: A Date
+chapter: 141
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## A Date
-### Chapter 141
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## A Date
+
+### Chapter 141
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 "I did not expect that a cheater could actually be admitted to Blackhawk. Has the school lowered its standards?" Ji Yanran thought as she walked and made no connection between Han Sen and My-Girlfriend-Is-Ji-Yanran.
 
 In her mind, Han Sen was a cheater and nowhere near a master.

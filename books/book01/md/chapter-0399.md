@@ -1,21 +1,20 @@
 ---
-Title:A Crazy Auction 
-Chapter:399 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: A Crazy Auction
+chapter: 399
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## A Crazy Auction
-### Chapter 399
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## A Crazy Auction
+
+### Chapter 399
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The four items that Han Sen gave Su Xiaoqiao were his Sacred-Blood Black Beetle Armor, Bloody Slayer, Meowth, and his Spinning Spear.
 
 Too many people knew that Han Sen had made the last shot at the purple-feathered dragon and claimed to not have gained the beast soul, which was why Han Sen did not give the pair of wings to Su Xiaoqiao.

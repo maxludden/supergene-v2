@@ -1,21 +1,20 @@
 ---
-Title:Having Problems 
-Chapter:3411 
-Section:17 
-Book:10 
-CSS:../Styles/style.css 
+title: Having Problems
+chapter: 3411
+section: 17
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Having Problems
-### Chapter 3411
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Having Problems
+
+### Chapter 3411
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Dragon Lady saw Han Sen walking and talking to himself all alone, so she said, “It is so late. What are you doing here alone?”
 
 Han Sen looked at Dragon Lady and replied, “I came back from Mister White. It is already late, so why are you not asleep?”

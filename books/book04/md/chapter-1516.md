@@ -1,21 +1,20 @@
 ---
-Title:The Power of the Story of Genes 
-Chapter:1516 
-Section:4 
-Book:4 
-CSS:../Styles/style.css 
+title: The Power of the Story of Genes
+chapter: 1516
+section: 4
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## The Power of the Story of Genes
-### Chapter 1516
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## The Power of the Story of Genes
+
+### Chapter 1516
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen didn’t want to let go, so he allowed himself to fall to the ground with the armor. A crater formed in the earth, kicking up a plume of dust.
 
 Han Sen gritted his teeth, summoning his Real Blood geno core. He wanted to see if he’d be able to control the armor that way. But when Real Blood touched the armor, it was like water dropping atop anti-stick paper. It just rolled off and was unable to gain a connection with the armor.

@@ -1,21 +1,20 @@
 ---
-Title:One Sword 
-Chapter:3198 
-Section:16 
-Book:10 
-CSS:../Styles/style.css 
+title: One Sword
+chapter: 3198
+section: 16
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## One Sword
-### Chapter 3198
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## One Sword
+
+### Chapter 3198
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 A bolt of lightning struck through the air. It looked like the sky and the earth were torn in two. All the weapons in the sky were like storms. They had the power to destroy the sky and the earth. Suddenly, they all started to rain down.
 
 Qin Bai was so shocked that he screamed. He held his head and hid behind Thousand Mile Reach.

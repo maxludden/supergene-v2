@@ -1,21 +1,20 @@
 ---
-Title:Steelknight King Beast Soul 
-Chapter:841 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Steelknight King Beast Soul
+chapter: 841
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Steelknight King Beast Soul
-### Chapter 841
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Steelknight King Beast Soul
+
+### Chapter 841
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Inside the waiting area, Han Sen looked relaxed. Dong Lin had calculated their strategy very well, and their pangolin was indeed a very strong creature. Their only mistake was picking the wrong opponent.
 
 If they had discussed business formally, Han Sen would not have opposed the idea of putting on a show in their favor, to boost the sales and renown of their new pet pill product. With money to line his own pocket in return, they'd have both benefitted.

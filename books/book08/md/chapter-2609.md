@@ -1,21 +1,20 @@
 ---
-Title:Exquisite’s Third Eye Pang! 
-Chapter:2609 
-Section:12 
-Book:8 
-CSS:../Styles/style.css 
+title: Exquisite’s Third Eye Pang!
+chapter: 2609
+section: 12
+book: 8
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Exquisite’s Third Eye Pang!
-### Chapter 2609
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Exquisite’s Third Eye Pang!
+
+### Chapter 2609
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Two water knives collided and exploded, becoming like a rainy squall scattering over the surface of the pond.
 
 Exquisite frowned. Her knife skill was from a race that was now extinct. Its name was Twist and Turn. It was a knife skill that could twist space. The skill made it nearly impossible to follow the course of the knife.

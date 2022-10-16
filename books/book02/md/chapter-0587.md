@@ -1,21 +1,20 @@
 ---
-Title:The Use of Red Mushrooms 
-Chapter:587 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: The Use of Red Mushrooms
+chapter: 587
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## The Use of Red Mushrooms
-### Chapter 587
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## The Use of Red Mushrooms
+
+### Chapter 587
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Zhu Ting was not afraid of being poisoned, it was just that Han Sen was toxic enough himself.
 
 "Brother Zhu, don't you worry! Your Deadly Perfume is the best; there is no need for you to fear those little mushrooms. Even if they are poisonous, there is no way they can poison you, the poison king, yes?" Han Sen did his best to comfort him.

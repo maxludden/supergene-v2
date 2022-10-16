@@ -1,21 +1,20 @@
 ---
-Title:Spell Levels Up 
-Chapter:2159 
-Section:8 
-Book:6 
-CSS:../Styles/style.css 
+title: Spell Levels Up
+chapter: 2159
+section: 8
+book: 6
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Spell Levels Up
-### Chapter 2159
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Spell Levels Up
+
+### Chapter 2159
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 All the races that sent Marquise teams to Metal World were growing worried. Their elites had been waiting outside the planet, but after half a month went by, not a single Marquise had returned. They sent a few more Marquises to find out what might have transpired there, but none of them came back either. All of the elders were growing angry at the threat to their people.
 
 The first scouts that they sent to Metal World had gone in and then come back out without issue, but now, not a single Marquise seemed able to return. It confused them a great deal.

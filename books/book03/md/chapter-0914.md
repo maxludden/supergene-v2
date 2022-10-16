@@ -1,21 +1,20 @@
 ---
-Title:One-hit Killing Thunderdevil 
-Chapter:914 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: One-hit Killing Thunderdevil
+chapter: 914
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## One-hit Killing Thunderdevil
-### Chapter 914
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## One-hit Killing Thunderdevil
+
+### Chapter 914
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Thunderdevil King was the son of a king, and had entered the first spirit base only a few months prior. Wielding the powers of thunder, he was renowned for not losing a single time. As such, he was given the title Thunderdevil King.
 
 This king proclaimed that he was brimming with the very essence of thunder, and that he was an organic descendant of the element itself.

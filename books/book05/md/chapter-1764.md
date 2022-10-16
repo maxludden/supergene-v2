@@ -1,21 +1,20 @@
 ---
-Title:Trading With the Lady 
-Chapter:1764 
-Section:6 
-Book:5 
-CSS:../Styles/style.css 
+title: Trading With the Lady
+chapter: 1764
+section: 6
+book: 5
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Trading With the Lady
-### Chapter 1764
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Trading With the Lady
+
+### Chapter 1764
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “Did you not hear me? Give me your eggs!” When the girl saw that Han Sen wasn’t responding, she waved her purple sword menacingly.
 
 “You can steal other things. As long as it’s not something inside me, I can give it to you. But those things represent me as a man. I cannot give them to you. I am sorry,” Han Sen said with a smile.

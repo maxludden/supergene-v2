@@ -1,21 +1,20 @@
 ---
-Title:Blood-pulse Plunder 
-Chapter:2274 
-Section:10 
-Book:7 
-CSS:../Styles/style.css 
+title: Blood-pulse Plunder
+chapter: 2274
+section: 10
+book: 7
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Blood-pulse Plunder
-### Chapter 2274
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Blood-pulse Plunder
+
+### Chapter 2274
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen was shocked. Ghost Bone Town had a statue of the Human Emperor, and now he had found a geno art that had a connection to the Blood-Pulse Sutra. What was the relationship between the Human Emperor, the Sacred Leader, and Blood Legion?
 
 Han Sen couldn’t figure it out, but reading the geno art inside that red and misty orb made Han Sen happy.

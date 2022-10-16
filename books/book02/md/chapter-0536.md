@@ -1,21 +1,20 @@
 ---
-Title:Shura 
-Chapter:536 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Shura
+chapter: 536
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Shura
-### Chapter 536
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Shura
+
+### Chapter 536
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 "What the hell is this?" Han Sen was shocked... literally and figuratively. He clamped down to withstand the electricity that surged into him, and then summoned the Ghost-Pawed Claws to slash wildly at the jellyfish.
 
 But the Ghost-Pawed Claws went straight through the gelatinous skin and became lodged inside the creature as well.

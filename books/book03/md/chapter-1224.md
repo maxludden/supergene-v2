@@ -1,20 +1,19 @@
 ---
-Title:The Coming Storm
-Chapter:1224
-Section:3
-Book:3
-CSS:../Styles/style.css
+title: The Coming Storm
+chapter: 1224
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
 
 ## The Coming Storm
+
 ### Chapter 1224
 
 <figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
 </figure>
-
-
 
 Han Sen used his lightning-derived healing ability, the ability he had received from silver fox, to start healing Xie Qing King’s wounds. It exhausted Han Sen, and if Xie Qing King was to fully recover, it’d take a few days.
 
@@ -122,7 +121,7 @@ Dry Bone King provided Han Sen with his spirit stone, while Water Fairy and Ghos
 		</tr>
 	</table>
 	<!-- Super Creatures: Blue Dinosaur; Metal Eater; Water Fairy; Ghost Eye; Snowball. -->
-</div>
+</div> 
 
 Han Sen had more power in his back pocket than the average king spirit shelter, not to mention his other companions. He still had Xie Qing King, Bao’er, Zero, Little Angel, Disloyal Knight, and even Ghost Baby and Golden Growler, if push came to shove.
 
@@ -135,11 +134,10 @@ Han Sen suddenly felt something move inside his Sea of Soul. The sound of a rave
 <div class="tables">
 	<table class="beast">
 		<tr>
-			<th>Beast Soul</th>
+			<th colspan="2">Beast Soul Gained</th>
 		</tr><tr>
-			<td>Berserk Super Gold Raven<br>
-				<span class="type">(Shapeshifting)</span>
-			</td>
+			<td>Berserk Super Gold Raven</td>
+			<td>(Shapeshifting)</td>
 		</tr>
 	</table>
 	<!-- Gold Raven: Berserk Super Beast Soul Shapeshifting Type-->

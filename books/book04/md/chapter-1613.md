@@ -1,21 +1,20 @@
 ---
-Title:Weird Shura Change 
-Chapter:1613 
-Section:4 
-Book:4 
-CSS:../Styles/style.css 
+title: Weird Shura Change
+chapter: 1613
+section: 4
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Weird Shura Change
-### Chapter 1613
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Weird Shura Change
+
+### Chapter 1613
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Cheap Sheep and Green Cow were terrified, and they bolted back into the shelter. They almost hugged each other out of fear.
 
 “What do we do without the boss? Can they deal with the threat?” Green Cow said as she ran back.
@@ -72,7 +71,7 @@ They didn’t think Han Sen was in the shelter at the time. They thought they co
 
 If the shelter and teleporter were destroyed, though, Han Sen would spawn somewhere else whenever he returned. They would lose Han Sen, and so they did not want to completely destroy the shelter.
 
-“F*ck you!” Gu Qingcheng’s face looked cold as she drew her bronze sword.
+“Fuck you!” Gu Qingcheng’s face looked cold as she drew her bronze sword.
 
 The bronze sword she wielded was strange. It wasn’t a beast soul, and neither was it a geno weapon. She always carried it around her waist, but never seemed to make use of it.
 

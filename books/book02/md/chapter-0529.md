@@ -1,21 +1,20 @@
 ---
-Title:Fighting Silver-haired Spirit Girl 
-Chapter:529 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Fighting Silver-haired Spirit Girl
+chapter: 529
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Fighting Silver-haired Spirit Girl
-### Chapter 529
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Fighting Silver-haired Spirit Girl
+
+### Chapter 529
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The mouth of the two black snakes looked like the dark gates toward hell. Their fangs were each longer than 3 feet, dripping disgusting venom, blocking Han Sen's way.
 
 Han Sen no longer saw a way out. There were only the two snakes. However, he did not mean to stop at all, but speeded up. With her heart thumping like a drum and blood boiling, every inch of his muscles was motivated.

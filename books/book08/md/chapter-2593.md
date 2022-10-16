@@ -1,21 +1,20 @@
 ---
-Title:Shield of the Medusa’s Gaze 
-Chapter:2593 
-Section:12 
-Book:8 
-CSS:../Styles/style.css 
+title: Shield of the Medusa’s Gaze
+chapter: 2593
+section: 12
+book: 8
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Shield of the Medusa’s Gaze
-### Chapter 2593
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Shield of the Medusa’s Gaze
+
+### Chapter 2593
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “It sounds like you know something about the Charming God’s Jian, but do you know what power it has?” Han Sen’s heart leaped at the possibility. Meng Lie might be able to tell him the type of power the purple copper jian possessed.
 
 Meng Lie looked at Han Sen as if he knew what he was thinking. But he still said, “I’m afraid you will be disappointed. The Charming God’s Jian is the strongest race weapon in existence, and it is also the weakest race weapon in existence. It is strong because it has the power to supercharge a person’s charm. The Fox alpha used it to attract everyone. If it was used well, it could make a thousand races obey that alpha. I also say it is weak because its powers of simple destruction are bad. It won’t help you now.”

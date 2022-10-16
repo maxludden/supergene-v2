@@ -1,21 +1,20 @@
 ---
-Title:Back on Top 
-Chapter:1525 
-Section:4 
-Book:4 
-CSS:../Styles/style.css 
+title: Back on Top
+chapter: 1525
+section: 4
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Back on Top
-### Chapter 1525
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Back on Top
+
+### Chapter 1525
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “You’ll soon find out whether or not I’m lying. And I’m striving for more than just being in the top ten; I’m going to be first,” Han Sen said coldly.
 
 “If you ever do become number one, I’ll cut my head off and be your chair.” Little Jade Lion King scoffed.
@@ -62,7 +61,7 @@ Little Jade Lion stared at the leaderboard, eager to see what Han Sen was doing.
 
 Suddenly, the leaderboard flashed. She-King Blade, which had previously been in second place, fell down a rank. And then, Crystal Core took her place.
 
-“Something is wrong with this human. Is that *sshole another human, too? Did he pay her off with something, so they could switch position?” Little Jade Lion King’s face looked grim.
+“Something is wrong with this human. Is that asshole another human, too? Did he pay her off with something, so they could switch position?” Little Jade Lion King’s face looked grim.
 
 The biggest risk he had taken in his wager with Han Sen was the other human on the leaderboard, and now she had proven that she really was a liability. It made him furious.
 

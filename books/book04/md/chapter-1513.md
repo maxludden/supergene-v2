@@ -1,21 +1,20 @@
 ---
-Title:Crystal Armor 
-Chapter:1513 
-Section:4 
-Book:4 
-CSS:../Styles/style.css 
+title: Crystal Armor
+chapter: 1513
+section: 4
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Crystal Armor
-### Chapter 1513
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Crystal Armor
+
+### Chapter 1513
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Both the human and the shura were wielding power equivalent to that of a super-class being. It was almost unbelievable.
 
 “It’s not weird to have a super-class residing someplace in the New Community, but why are there so many? The way shuras practice makes it difficult for them to become a fourth-ranked fighter. It is incredibly rare for one of them to reach the fourth rank, and it was believed that only five shuras had done so. Why would such elites end up fighting for the New Community?” Han Sen thought to himself. He thought something was wrong.

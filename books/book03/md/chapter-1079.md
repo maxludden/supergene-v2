@@ -1,21 +1,20 @@
 ---
-Title:Battling Evil 
-Chapter:1079 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Battling Evil
+chapter: 1079
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Battling Evil
-### Chapter 1079
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Battling Evil
+
+### Chapter 1079
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 With the powers of the Blood-Pulse Sutra and the Dongxuan Sutra, Han Sen tried to suppress and push back the energies that sought to empower him.
 
 Had he continued to accept the light and chant of strength, his powers would have grown and developed even further—but Han Sen did not want to cheat. He did not want things to be accomplished this way.

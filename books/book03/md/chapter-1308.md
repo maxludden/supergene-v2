@@ -1,21 +1,20 @@
 ---
-Title:Friend or Foe? 
-Chapter:1308 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Friend or Foe?
+chapter: 1308
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Friend or Foe?
-### Chapter 1308
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Friend or Foe?
+
+### Chapter 1308
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The elephant saw the bird come for it, and so it turned and used its trunk in an attempt to bat it away. The bird was swift with its talons, though, and it grabbed the trunk neatly. Then, with a quick turn, the elephant was pulled upwards into the sea.
 
 The elephant struggled the best it could, not wanting to go with it. But its resistance was futile, and it kept on getting pulled until the gravity flipped and it fell into the blue.

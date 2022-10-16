@@ -1,21 +1,20 @@
 ---
-Title:I’m Ji Yanran’s Boyfriend 
-Chapter:171 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: I’m Ji Yanran’s Boyfriend
+chapter: 171
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## I’m Ji Yanran’s Boyfriend
-### Chapter 171
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## I’m Ji Yanran’s Boyfriend
+
+### Chapter 171
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 "Sweetie, are you waiting for someone?" Qu Lili suddenly asked.
 
 "No," Ji Yanran replied absentmindedly.

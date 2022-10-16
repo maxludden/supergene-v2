@@ -1,21 +1,20 @@
 ---
-Title:Kill Dollar 
-Chapter:489 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Kill Dollar
+chapter: 489
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Kill Dollar
-### Chapter 489
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Kill Dollar
+
+### Chapter 489
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen tried a couple of times, but even "Dollar9527" was registered as well.
 
 Feeling quite upset, Han Sen wrote "Kill Dollar" in his ID name, which was eventually usable.

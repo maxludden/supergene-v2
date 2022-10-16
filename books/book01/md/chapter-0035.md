@@ -1,21 +1,20 @@
 ---
-Title:Who Should Go 
-Chapter:35 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: Who Should Go
+chapter: 35
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Who Should Go
-### Chapter 35
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Who Should Go
+
+### Chapter 35
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Ass Freak was so infamous that a torrent of scornful abuse was lavished on him. The young men who were paying came to them, and one of them with harsh, angular features curiously looked at Han Sen and said, "You are the legendary Ass Freak?"
 
 "Yes," Han Sen answered casually. He did not think it was a bad thing, because in the entire Steel Armor Shelter, he was the only one who had ever stabbed Qin Xuan in the butt. This was a kind of achievement in a sense.

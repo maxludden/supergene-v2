@@ -1,21 +1,20 @@
 ---
-Title:Berserk Super Beast Soul 
-Chapter:1495 
-Section:4 
-Book:4 
-CSS:../Styles/style.css 
+title: Berserk Super Beast Soul
+chapter: 1495
+section: 4
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Berserk Super Beast Soul
-### Chapter 1495
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Berserk Super Beast Soul
+
+### Chapter 1495
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The crab was reeling in agony, and the tension in its pincers relaxed as a result. Because of this, the eel was able to recollect its diamond arrow. The eel had been bullied by the crab the whole time, but now it had an opportunity for retaliation. It fired its arrow at its foe without hesitation.
 
 The crab, in the pain it was suffering, could do little more than flail its pincers. The arrow found its target, plunging itself neatly into the crab’s second eye. Both of its eye had been rendered blind, and having lost its vision, the crab had to rely on everything it could feel.

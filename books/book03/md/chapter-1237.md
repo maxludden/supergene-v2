@@ -1,21 +1,20 @@
 ---
-Title:Fighting Saint Fan 
-Chapter:1237 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Fighting Saint Fan
+chapter: 1237
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Fighting Saint Fan
-### Chapter 1237
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Fighting Saint Fan
+
+### Chapter 1237
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Dry Bone King looked dismayed, but it was no surprise. He was talented with the heart bone, and he could break the hearts of his enemies in their chests, but it wouldn’t be long before they were back on their feet. The dismay came as no surprise, for they were all fighting unbeatable foes.
 
 Xie Qing King’s heart had sunk even lower, though. He could kill any king spirit there he desired, but they’d each be resurrected in no time.

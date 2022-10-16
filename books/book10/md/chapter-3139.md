@@ -1,21 +1,20 @@
 ---
-Title:Repel Evil Rhino 
-Chapter:3139 
-Section:16 
-Book:10 
-CSS:../Styles/style.css 
+title: Repel Evil Rhino
+chapter: 3139
+section: 16
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Repel Evil Rhino
-### Chapter 3139
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Repel Evil Rhino
+
+### Chapter 3139
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen and the others were incredibly free to as they wished. After Han Sen heard that something weird happened there, he planned on taking Bao’er there to dig. He did not believe the land pulse could harm them.
 
 If there was a god pulse that could shock the world, perhaps they could find a rare gene egg there. Han Sen was lacking in those.

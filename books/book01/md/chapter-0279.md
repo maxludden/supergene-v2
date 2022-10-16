@@ -1,21 +1,20 @@
 ---
-Title:Nest 
-Chapter:279 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: Nest
+chapter: 279
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Nest
-### Chapter 279
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Nest
+
+### Chapter 279
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 "That's it…" Han Sen was overjoyed when looking at the odd shape of mountains.
 
 The only place that would guarantee a beast soul in God's Sanctuary was the nest of creatures, in addition to the Mystery Island.

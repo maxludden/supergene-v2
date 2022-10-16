@@ -1,21 +1,20 @@
 ---
-Title:Joining the Fight 
-Chapter:1099 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Joining the Fight
+chapter: 1099
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Joining the Fight
-### Chapter 1099
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Joining the Fight
+
+### Chapter 1099
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “Don’t be so melodramatic. Those things are useless to me, just use them and be happy.” Han Sen was starting to sweat, as he wasn’t really a cripple.
 
 Queen then looked around her and said, “So, are you familiar with this area? If you are, draw me a map. Tell me all about the creature hotspots.”

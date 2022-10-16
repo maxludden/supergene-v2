@@ -1,21 +1,20 @@
 ---
-Title:Peach on the Twig 
-Chapter:687 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Peach on the Twig
+chapter: 687
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Peach on the Twig
-### Chapter 687
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Peach on the Twig
+
+### Chapter 687
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The legion of snakes had gathered all around the mystic peach tree. Han Sen also saw the black bear and its cub there. A blue beast and a crane of sorts were there, as well. Every creature he had encountered at the tree the last time, minus the bone elephant, were here at the tree once again.
 
 Han Sen's arrival was not without trouble, however. His coming led to unrest with the pink snake and its legion. And indeed, the legion of snakes did not disperse with the silver fox's coming. As Han Sen arrived, all of the snakes lifted their heads, as if to warn Han Sen not to tread any closer.

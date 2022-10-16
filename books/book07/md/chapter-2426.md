@@ -1,21 +1,20 @@
 ---
-Title:Big Sword 
-Chapter:2426 
-Section:11 
-Book:7 
-CSS:../Styles/style.css 
+title: Big Sword
+chapter: 2426
+section: 11
+book: 7
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Big Sword
-### Chapter 2426
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Big Sword
+
+### Chapter 2426
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen and Miss Mirror carefully followed Night Wind’s gaze. Nearby, there was a big sword sticking partially out of the rubble.
 
 The sword’s handle was one foot wide and two feet tall. They couldn’t tell how long the blade was because the blade was plunged deep into the ground of the plaza. Only eighty centimeters of it could be seen.

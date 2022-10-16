@@ -1,21 +1,20 @@
 ---
-Title:Meeting Ji Yanran Again 
-Chapter:140 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: Meeting Ji Yanran Again
+chapter: 140
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Meeting Ji Yanran Again
-### Chapter 140
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Meeting Ji Yanran Again
+
+### Chapter 140
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 "You are a student?" Luo Xiangyang asked.
 
 "Hello, I am Han Sen. I have just entered the Heavy Warframe Society. Are you also in our society? I have never met you. Your skills are amazing. Could you teach me when you have time?" Han Sen said with a smile.

@@ -1,21 +1,20 @@
 ---
-Title:Private Female Club 
-Chapter:1905 
-Section:7 
-Book:5 
-CSS:../Styles/style.css 
+title: Private Female Club
+chapter: 1905
+section: 7
+book: 5
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Private Female Club
-### Chapter 1905
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Private Female Club
+
+### Chapter 1905
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 In Narrow Moon’s Full Moon meeting room.
 
 Six Kings had shown up for this meeting. Yisha, Moon Wheel King, Night River King, Flower King, Black Moon King, and Shadow King.
@@ -94,7 +93,7 @@ Lu Xiaomei’s eyes opened wide. “You own this place?”
 
 “Yes. I have thirty-one branches of this establishment, all across the city.” Bao’er spoke with innocence.
 
-“This b*tch is showing off again…” Lu Xiaomei felt both jealous and depressed. She was really hoping Bao’er would disappear right now.
+“This bitch is showing off again…” Lu Xiaomei felt both jealous and depressed. She was really hoping Bao’er would disappear right now.
 
 But an evil expression crossed Bao’er’s face, and she said, “By the way, I am going to the VIP area for a session. Would you like to come?”
 

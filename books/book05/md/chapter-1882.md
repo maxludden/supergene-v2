@@ -1,21 +1,20 @@
 ---
-Title:The Kings Break Godlight 
-Chapter:1882 
-Section:7 
-Book:5 
-CSS:../Styles/style.css 
+title: The Kings Break Godlight
+chapter: 1882
+section: 7
+book: 5
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## The Kings Break Godlight
-### Chapter 1882
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## The Kings Break Godlight
+
+### Chapter 1882
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen kept swinging his Knife Blank, as if he was mowing down swathes of grass. He cut down endless numbers of Purgatory Beasts and the ghoulish arms.
 
 “Little Han, what are you using? That is exceptionally good.” Wang Yuhang’s mouth hung wide open.

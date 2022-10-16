@@ -1,21 +1,20 @@
 ---
-Title:Empty God’s Decision 
-Chapter:2719 
-Section:13 
-Book:8 
-CSS:../Styles/style.css 
+title: Empty God’s Decision
+chapter: 2719
+section: 13
+book: 8
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Empty God’s Decision
-### Chapter 2719
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Empty God’s Decision
+
+### Chapter 2719
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “Yes, I am God. I can do anything,” Empty God confirmed, his face unchanging.
 
 “But my parents told me that this world has no God and that science is the truth.” Han Sen gave Empty God a look that was very skeptical.

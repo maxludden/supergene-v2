@@ -1,21 +1,20 @@
 ---
-Title:Bone 
-Chapter:925 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Bone
+chapter: 925
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Bone
-### Chapter 925
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Bone
+
+### Chapter 925
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen grabbed ahold of the dinosaur's neck, wishing to slow it down and allow Qu Lanxi to return safely. But the dinosaur was too powerful, and when it leapt towards the open door, it fell through into the shelter.
 
 *Boom!*

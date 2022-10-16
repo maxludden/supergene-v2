@@ -1,21 +1,20 @@
 ---
-Title:Deep Sea Jellyfish 
-Chapter:535 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Deep Sea Jellyfish
+chapter: 535
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Deep Sea Jellyfish
-### Chapter 535
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Deep Sea Jellyfish
+
+### Chapter 535
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 "You win." Blackgod's face was deep like water as he coldly spoke.
 
 Had he had any choice, Blackgod wouldn't have admitted defeat like that. But now he was frightened; he had been pushed to his limit and he had reached his breaking point. If he continued fighting, he knew it wouldn't be long before he was killed.

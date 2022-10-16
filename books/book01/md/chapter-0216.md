@@ -1,21 +1,20 @@
 ---
-Title:Gone 
-Chapter:216 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: Gone
+chapter: 216
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Gone
-### Chapter 216
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Gone
+
+### Chapter 216
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 After getting the three-blade harpoon, Han Sen had no time to play with it before he was brought to Son of Heaven by Huangfu Pingqing.
 
 Son of Heaven obviously already knew that he would come. The conditions offered to Han Sen were part of the agreement between him and Huangfu.

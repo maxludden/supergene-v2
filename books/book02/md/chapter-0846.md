@@ -1,21 +1,20 @@
 ---
-Title:Little Fox Master 
-Chapter:846 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Little Fox Master
+chapter: 846
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Little Fox Master
-### Chapter 846
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Little Fox Master
+
+### Chapter 846
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Roar!
 
 The minotaur was electrified. Its fur and bushy mane stood up on ends, starched. Not wasting a second, Han Sen followed up with a cruel smack to its head.

@@ -1,21 +1,20 @@
 ---
-Title:Golden-haired Monkey 
-Chapter:2724 
-Section:13 
-Book:8 
-CSS:../Styles/style.css 
+title: Golden-haired Monkey
+chapter: 2724
+section: 13
+book: 8
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Golden-haired Monkey
-### Chapter 2724
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Golden-haired Monkey
+
+### Chapter 2724
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The black crystal that had transformed into an Immortal Dragon could follow commands that Han Sen gave it telepathically. And it had a healing power that was deified class.
 
 This new black crystal wasn’t exactly what Han Sen thought it would be, and it didn’t have the power of his first black crystal. However, the power it had just demonstrated didn’t seem too shabby.

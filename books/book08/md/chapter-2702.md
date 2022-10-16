@@ -1,21 +1,20 @@
 ---
-Title:Giants Move Mountains 
-Chapter:2702 
-Section:13 
-Book:8 
-CSS:../Styles/style.css 
+title: Giants Move Mountains
+chapter: 2702
+section: 13
+book: 8
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Giants Move Mountains
-### Chapter 2702
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Giants Move Mountains
+
+### Chapter 2702
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Without hesitation, Han Sen followed the waves of the sea. He flew in the direction they were coming from. He didn’t dare to teleport, though. He merely reduced his presence as much as he could and flew slowly.
 
 Because teleportation caused ripples in the fabric of space, elites were likely to pick up on such a technique if he used it. That could allow the people he was tailing to notice his presence, which he was trying very hard to avoid advertising. It was better for Han Sen to fly in as slowly and quietly as he could. He wouldn’t draw as much attention that way.

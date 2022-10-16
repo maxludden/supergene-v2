@@ -1,21 +1,20 @@
 ---
-Title:Fighting the Buddha Alone 
-Chapter:2886 
-Section:14 
-Book:9 
-CSS:../Styles/style.css 
+title: Fighting the Buddha Alone
+chapter: 2886
+section: 14
+book: 9
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Fighting the Buddha Alone
-### Chapter 2886
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Fighting the Buddha Alone
+
+### Chapter 2886
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Countless Buddha gathered before the lantern. Their bodies burned with Buddha Light. Everyone was giving their power to the lantern, which made the Buddha lantern’s flame blaze even brighter. It was like a northern light shining across every creature in the universe. It released an unimaginably scary power.
 
 “Han Sen! Are you really going to fight the Buddha to your death?” Burning Lamp looked calm, but his eyes could not hide his seething desire for murder.

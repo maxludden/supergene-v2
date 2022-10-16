@@ -1,21 +1,20 @@
 ---
-Title:Human Dollar 
-Chapter:1790 
-Section:6 
-Book:5 
-CSS:../Styles/style.css 
+title: Human Dollar
+chapter: 1790
+section: 6
+book: 5
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Human Dollar
-### Chapter 1790
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Human Dollar
+
+### Chapter 1790
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen lifted his own palm as he faced-off against Mister Ji.
 
 The maid behind Mister Ji smiled and looked on with disdain. She thought to herself, “This person is arrogant. He thinks he is so great just for killing a few centaurs. He’s actually using his own palm against the master, pah! How dare he think he can compete with the Sky-Demon Sutra.”
@@ -90,7 +89,7 @@ Rogge blinked and said, “My Little Hai’er wants help, eh? But you do know th
 
 Rogge sucked his lollipop with a smile, and then he said, “I can most certainly help you level up to be a Viscount, though. He is strong, but if you are a Viscount, killing him won’t be difficult.”
 
-She looked upset at first, but after hearing his offer, she seemed much happier. She said, “It would be good to kill that *sshole myself. How can I level up to be a Viscount in a short amount of time?”
+She looked upset at first, but after hearing his offer, she seemed much happier. She said, “It would be good to kill that asshole myself. How can I level up to be a Viscount in a short amount of time?”
 
 “This is the geno material I was able to retrieve from a Marquis whale. It is from the Lightning Sea. I made battle pills from it. The next time you practice, consume one. I believe that within ten days, you can become a Viscount.” Rogge gave Hai’er a bottle of the stuff.
 

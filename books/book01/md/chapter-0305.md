@@ -1,20 +1,19 @@
 ---
-Title:Beast Soul Add-on
-Chapter:305
-Section:1
-Book:1
-CSS:../Styles/style.css
+title: Beast Soul Add-on
+chapter: 305
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
 
 ## Beast Soul Add-on
+
 ### Chapter 305
 
 <figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
 </figure>
-
-
 
 Han Hao was quite upset. He could not understand, for the love of God, why Han Sen, who was the pariah in Steel Armor Shelter, had become a military school student, a movie star in a commercial, and now the number one in the shelter.
 
@@ -33,15 +32,14 @@ At this time, Han Sen was appreciating his newly gained sacred-blood beast soul 
 <div class="tables">
 	<table class="beast">
 		<tr>
-			<th>Beast Soul Gained</th>
+			<th colspan="2">Beast Soul Gained</th>
 		</tr><tr>
-			<td>Sacred-Blood Devil Sword<br>
-				<span class="type">(Sword Add-On)</span>
-			</td>
+			<td>Sacred-Blood Devil Sword</td>
+			<td>(Sword Add-On)</td>
 		</tr>
 	</table>
 	<!-- Type of beast soul of sacred-blood devil sword: sword add-on. -->
-</div>
+</div> 
 
 Han Sen had seen an add-on beast soul before, which was the sacred-blood water spirit beast soul owned by Qin Xuan. However, the weather spirit worked together with a shapeshifting beast soul to enhance the user's physique, while the devil sword could only be used on another sword.
 

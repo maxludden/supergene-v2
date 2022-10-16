@@ -1,21 +1,20 @@
 ---
-Title:Can’t Even Be a Son 
-Chapter:2728 
-Section:13 
-Book:8 
-CSS:../Styles/style.css 
+title: Can’t Even Be a Son
+chapter: 2728
+section: 13
+book: 8
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Can’t Even Be a Son
-### Chapter 2728
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Can’t Even Be a Son
+
+### Chapter 2728
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The Six-Eared Macaque was deified, and Han Sen wasn’t being supported by any treasures. In the eyes of the monkey, he was a barebones half-deified. The monkey didn’t bother dodging Han Sen’s strike, and so Han Sen’s attack swept over it. The monkey had become too eager with the thought of tearing Han Sen to pieces.
 
 But when the Xuan Yellow Sutra’s power came upon it, the Six-Eared Macaque’s body shook. Its blood-pulse reversed, and its power just disappeared. Its body and fur were changing, shriveling as if it was dying.

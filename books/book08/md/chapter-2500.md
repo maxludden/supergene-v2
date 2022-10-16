@@ -1,21 +1,20 @@
 ---
-Title:Big Universe Extreme Dead God Light 
-Chapter:2500 
-Section:12 
-Book:8 
-CSS:../Styles/style.css 
+title: Big Universe Extreme Dead God Light
+chapter: 2500
+section: 12
+book: 8
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Big Universe Extreme Dead God Light
-### Chapter 2500
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Big Universe Extreme Dead God Light
+
+### Chapter 2500
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “The fact that you studied on Extreme Mountain is none of my business,” Han Sen thought. “If you want a risky fight, there are xenogeneics everywhere. Why pick on me? I killed that worthless Bai Yi, and now the Extreme King want me dead. But if I had killed this much-loved boy Bai Wuchang, King Bai would likely come after me himself. Why am I considered the one who started all this?”
 
 But Bai Wuchang wasn’t going to give him the chance to stop fighting. The prince was raging more and more. The ghost-like body became solid, but something about it still seemed incorporeal. Looking at it was like looking at an illusion.
@@ -64,7 +63,7 @@ As Bai Wuchang stared at Han Sen’s motionless form, he stopped swinging. He ju
 
 “I lose, but next time…” Before Bai Wuchang could finish, Han Sen interrupted violently.
 
-“Next time, my f*cking *ss!” Han Sen jumped forward. He leaped in front of Bai Wuchang and punched him square in the face. A scary power caved-in Bai Wuchang’s entire skull. Blood squelched from the mashed-in face and around Han Sen’s fist. Bai Wuchang was sent flying.
+“Next time, my fucking *ss!” Han Sen jumped forward. He leaped in front of Bai Wuchang and punched him square in the face. A scary power caved-in Bai Wuchang’s entire skull. Blood squelched from the mashed-in face and around Han Sen’s fist. Bai Wuchang was sent flying.
 
 Han Sen followed after the soaring victim. His fists and legs were like a storm, raining down blows on Bai Wuchang.
 

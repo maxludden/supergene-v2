@@ -1,21 +1,20 @@
 ---
-Title:The Power to Kill Death Demon Dragon 
-Chapter:1391 
-Section:4 
-Book:4 
-CSS:../Styles/style.css 
+title: The Power to Kill Death Demon Dragon
+chapter: 1391
+section: 4
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## The Power to Kill Death Demon Dragon
-### Chapter 1391
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## The Power to Kill Death Demon Dragon
+
+### Chapter 1391
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen was at his wit’s end, and this was a moment that required his all. He had a friend on the precipice of death, and if he wanted to save her, he couldn’t hold back. He summoned every geno core he possessed and activated super king spirit mode.
 
 Before Han Sen could finish his transformation, though, he heard a scream. Then, a surge of power erupted from a nearby mountaintop.

@@ -1,21 +1,20 @@
 ---
-Title:He Is Still Alive 
-Chapter:1590 
-Section:4 
-Book:4 
-CSS:../Styles/style.css 
+title: He Is Still Alive
+chapter: 1590
+section: 4
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## He Is Still Alive
-### Chapter 1590
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## He Is Still Alive
+
+### Chapter 1590
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Zuo Lan did not know who Second Uncle was, but she heard Han Sen and Ning Yue. And with Yu Hetian’s facial expression being what it was, some things finally clicked into place.
 
 “Han Sen… no, wait. The first super aristocrat of the Alliance? Is he Xie Qing King?” Zuo Lan looked at Han Sen with a confused expression, her mind now a mess of different thoughts.

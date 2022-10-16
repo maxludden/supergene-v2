@@ -1,21 +1,20 @@
 ---
-Title:Recovery 
-Chapter:1107 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Recovery
+chapter: 1107
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Recovery
-### Chapter 1107
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Recovery
+
+### Chapter 1107
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen wanted to continue fighting, but it took four days for Curse of Immortality to complete.
 
 If he was to fight or interrupt its process, all progress would have been reset. Not wanting to risk anything ill, he knew he had to sit the fights out.

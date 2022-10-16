@@ -1,21 +1,20 @@
 ---
-Title:Holy Swordmind 
-Chapter:1566 
-Section:4 
-Book:4 
-CSS:../Styles/style.css 
+title: Holy Swordmind
+chapter: 1566
+section: 4
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Holy Swordmind
-### Chapter 1566
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Holy Swordmind
+
+### Chapter 1566
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen entered the garden and felt the swordmind’s influence emerge from the cleft.
 
 The swordmind was strange. Most swordsmen would give people a sharp feeling or a strong sensation of intimidation. But this swordmind in particular was different. It toiled back and forth like waves, endlessly. It didn’t feel intimidating, per se, but it was hard and tough.

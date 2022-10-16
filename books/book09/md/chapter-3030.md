@@ -1,21 +1,20 @@
 ---
-Title:Not the End 
-Chapter:3030 
-Section:15 
-Book:9 
-CSS:../Styles/style.css 
+title: Not the End
+chapter: 3030
+section: 15
+book: 9
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Not the End
-### Chapter 3030
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Not the End
+
+### Chapter 3030
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “Han Sen, although I do not want to kill you, for Wan’er, whoever stops me must die. If you have any last words, you should say them now. For Wan’er’s sake, if it does not get in my way, I will let you finish it.” Qin Xiu was looking at Wan’er as he spoke.
 
 “I want you to die.” The power in Han Sen’s body madly exploded. He stopped trying to get away from Qin Xiu. He used his power to push Qin Xiu.

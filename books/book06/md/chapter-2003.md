@@ -1,21 +1,20 @@
 ---
-Title:Stone Cow 
-Chapter:2003 
-Section:8 
-Book:6 
-CSS:../Styles/style.css 
+title: Stone Cow
+chapter: 2003
+section: 8
+book: 6
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Stone Cow
-### Chapter 2003
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Stone Cow
+
+### Chapter 2003
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Shi Beifeng’s people had not reacted yet. They were still holding the cage while they stared at the stumbling Crystal Kirin in shock.
 
 The Crystal Kirin lifted itself up off the ground. It wished to fly off, but before long, it fell back down again.

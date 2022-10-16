@@ -1,21 +1,20 @@
 ---
-Title:Han Sen’s Test 
-Chapter:2601 
-Section:12 
-Book:8 
-CSS:../Styles/style.css 
+title: Han Sen’s Test
+chapter: 2601
+section: 12
+book: 8
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Han Sen’s Test
-### Chapter 2601
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Han Sen’s Test
+
+### Chapter 2601
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “Why is this process so familiar? Why do I feel like this is the same concept as the crystallizer glasses?” Han Sen looked at the God Spirit Touch on the table, deep in thought.
 
 The people of Sky Palace were observing the God Spirit Touch. They didn’t believe the God Spirit Touch could reveal such amazing information.

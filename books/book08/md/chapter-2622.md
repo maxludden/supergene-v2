@@ -1,22 +1,21 @@
 ---
-Title:Healing 
-Chapter:2622 
-Section:12 
-Book:8 
-CSS:../Styles/style.css 
+title: Healing
+chapter: 2622
+section: 12
+book: 8
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Healing
-### Chapter 2622
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
-“Motherf*cker… If you don’t get lost, I’m going to clobber you to death with my hammer!” The blacksmith spoke the common tongue with a heavy accent. He swung his hammer wildly as he ordered Han Sen out of his shop.
+## Healing
+
+### Chapter 2622
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
+“Motherfucker… If you don’t get lost, I’m going to clobber you to death with my hammer!” The blacksmith spoke the common tongue with a heavy accent. He swung his hammer wildly as he ordered Han Sen out of his shop.
 
 After Han Sen got tossed out of the smithy, a bucketful of water followed him out, drenching him. His fox ears flopped downward when they were wet, and the sight made Exquisite laugh.
 

@@ -1,21 +1,20 @@
 ---
-Title:Parasite Crystal 
-Chapter:466 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Parasite Crystal
+chapter: 466
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Parasite Crystal
-### Chapter 466
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Parasite Crystal
+
+### Chapter 466
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 "Li!" Seeing the warframe of Li Lu was shot down, the two soldiers shot at the red crystal warframes madly using laser guns.
 
 "Come inside. Quickly," Ji Yanran exclaimed at the two soldiers, but it was too late.

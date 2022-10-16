@@ -1,21 +1,20 @@
 ---
-Title:Scary Shelter 
-Chapter:797 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Scary Shelter
+chapter: 797
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Scary Shelter
-### Chapter 797
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Scary Shelter
+
+### Chapter 797
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen was fuming. He was the master of stealing easy kills from others, but now, someone had attempted to do the same thing to him. It was infuriating. In silence, Han Sen blitzed through the sky in pursuit of the tiger. The little angel and the big monster also went after it, and in the big monster's wake, giant craters remained as the soil was upturned, mud was flung, rocks were smashed and trees were crushed.
 
 Fortunately, there was no human shelter in the vicinity and neither would there be in the lands ahead. If even a royal shelter was to be in the rampaging behemoth's track, it'd be flattened within seconds.

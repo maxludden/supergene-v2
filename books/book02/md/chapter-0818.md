@@ -1,21 +1,20 @@
 ---
-Title:Steel-knight King 
-Chapter:818 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Steel-knight King
+chapter: 818
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Steel-knight King
-### Chapter 818
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Steel-knight King
+
+### Chapter 818
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 When Han Sen's mind returned, the woman was gone. She had already taken the Empty Spirit Witch back through the wooden doors.
 
 While the Empty Spirit Witch was in the process of leaving, she looked back at Han Sen's pack as if she really missed the gourd.

@@ -1,21 +1,20 @@
 ---
-Title:Luck Is Broken 
-Chapter:2659 
-Section:13 
-Book:8 
-CSS:../Styles/style.css 
+title: Luck Is Broken
+chapter: 2659
+section: 13
+book: 8
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Luck Is Broken
-### Chapter 2659
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Luck Is Broken
+
+### Chapter 2659
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Although creatures that came from the star fruits always started at first tier, the lowest King rank, they were still adults. Han Sen could help them develop by providing them with resources, but there was a limit to how much they could evolve. Bringing most of these Kings up to deified would be an impossible task. Half-deified was likely as far as they could go.
 
 He had yet to find a deified xenogeneic, and that alone disappointed Han Sen.

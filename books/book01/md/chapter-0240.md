@@ -1,21 +1,20 @@
 ---
-Title:Sacred-blood Knight 
-Chapter:240 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: Sacred-blood Knight
+chapter: 240
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Sacred-blood Knight
-### Chapter 240
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Sacred-blood Knight
+
+### Chapter 240
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Lu Weinan was indeed great at escaping. Using his incredible footwork, he was able to take back his hand and run from the tiger.
 
 Meowth had already thrown itself at Lu Weinan and was ready to launch another attack.

@@ -1,21 +1,20 @@
 ---
-Title:Second Ancestor’s Legacy 
-Chapter:2800 
-Section:14 
-Book:9 
-CSS:../Styles/style.css 
+title: Second Ancestor’s Legacy
+chapter: 2800
+section: 14
+book: 9
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Second Ancestor’s Legacy
-### Chapter 2800
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Second Ancestor’s Legacy
+
+### Chapter 2800
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The Extreme King’s Overbearing Eye was a forbidden place in the Extreme King’s realm. Even within the Extreme King, not many people received permission to enter.
 
 Bai Wanjie was a crown prince, and he had only just recently earned the correct permission to go there. Of course, he knew what the Extreme King’s Overbearing Eye was, but he did not understand why Mister White would mention the Extreme King’s Overbearing Eye. What did it have to do with the taming of a xenogeneic?

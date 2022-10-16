@@ -1,21 +1,20 @@
 ---
-Title:The Light Son of God 
-Chapter:705 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: The Light Son of God
+chapter: 705
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## The Light Son of God
-### Chapter 705
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## The Light Son of God
+
+### Chapter 705
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 "Is he really that strong?" Fang Mingquan asked Hua Ping with a look of disbelief.
 
 With a wry smile, Hua Ping said, "You know the Alliance created a forfeit guide, for the Second God's Sanctuary's Divinity's Bout, yes?"

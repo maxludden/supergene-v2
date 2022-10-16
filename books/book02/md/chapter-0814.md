@@ -1,21 +1,20 @@
 ---
-Title:Make Him Stay 
-Chapter:814 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Make Him Stay
+chapter: 814
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Make Him Stay
-### Chapter 814
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Make Him Stay
+
+### Chapter 814
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen returned his gaze to the Devil-Blood King. He seemed to be faring better than black tiger, and he seemed to have a better handle on enduring the effects. But, before long, his face too began to reveal the purple pattern.
 
 Roar! The black tiger's call was deafening, and it flapped its wings and flew towards the griffin. Its speed had doubled.

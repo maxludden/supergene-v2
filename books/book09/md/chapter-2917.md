@@ -1,21 +1,20 @@
 ---
-Title:Tester 304 
-Chapter:2917 
-Section:15 
-Book:9 
-CSS:../Styles/style.css 
+title: Tester 304
+chapter: 2917
+section: 15
+book: 9
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Tester 304
-### Chapter 2917
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Tester 304
+
+### Chapter 2917
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 After the big goldfish sucked the bubble in, its butterfly-like big tail swung. It traveled through space and swam around.
 
 Han Sen and Bao’er were inside the bubble that had been sucked into the belly of the big goldfish. Outside the bubble, everything was completely red. It was very bright. It was like they were inside a red mist.

@@ -1,21 +1,20 @@
 ---
-Title:Misunderstanding 
-Chapter:1983 
-Section:8 
-Book:6 
-CSS:../Styles/style.css 
+title: Misunderstanding
+chapter: 1983
+section: 8
+book: 6
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Misunderstanding
-### Chapter 1983
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Misunderstanding
+
+### Chapter 1983
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 After Han Sen returned to the island, he saw his legless crane resting beneath the tree. He put some meat in its bowl, then went into the house to practice Under the Sky.
 
 Under the Sky was very delicate. The technique did not have much flair, and it wasn’t overbearing, like Teeth Knife. But when you used the skill, it was like a rippling ribbon that could not be cut. The knifeskills looked random, but they were all connected.

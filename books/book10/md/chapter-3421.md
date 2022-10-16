@@ -1,21 +1,20 @@
 ---
-Title:Fighting Demon Alpha 
-Chapter:3421 
-Section:17 
-Book:10 
-CSS:../Styles/style.css 
+title: Fighting Demon Alpha
+chapter: 3421
+section: 17
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Fighting Demon Alpha
-### Chapter 3421
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Fighting Demon Alpha
+
+### Chapter 3421
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen and Demon Alpha looked at each other. Nobody struck first.
 
 “I cannot believe my first opponent turns out to be you.” Demon Alpha had a black lace veil covering her face as she coldly sighed.

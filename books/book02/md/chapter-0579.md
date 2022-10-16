@@ -1,21 +1,20 @@
 ---
-Title:The Fight of Destiny 
-Chapter:579 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: The Fight of Destiny
+chapter: 579
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## The Fight of Destiny
-### Chapter 579
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## The Fight of Destiny
+
+### Chapter 579
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 "Huh, this Dancer is pretty good. He's put Dollar in a pretty bad position." Tang Zhenliu managed to secure a seat in the audience and watched the fight carefully.
 
 "His Mechanical Fist is fairly remarkable. He could be at an expert level of close-distance fighting. Very well done!" Lin Feng, who was also there watching, said.

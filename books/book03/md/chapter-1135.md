@@ -1,21 +1,20 @@
 ---
-Title:The History of the Nine-life Cat 
-Chapter:1135 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: The History of the Nine-life Cat
+chapter: 1135
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## The History of the Nine-life Cat
-### Chapter 1135
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## The History of the Nine-life Cat
+
+### Chapter 1135
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “How did you know that I noticed the pendant?” Uncle Bug asked with shock.
 
 Uncle Bug had made sure to avoid mentioning anything regarding the Nine-Life Cat to Han Sen, so this surprised him.

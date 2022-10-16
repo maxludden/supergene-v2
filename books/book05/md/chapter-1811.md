@@ -1,21 +1,20 @@
 ---
-Title:Slashing Demon 
-Chapter:1811 
-Section:6 
-Book:5 
-CSS:../Styles/style.css 
+title: Slashing Demon
+chapter: 1811
+section: 6
+book: 5
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Slashing Demon
-### Chapter 1811
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Slashing Demon
+
+### Chapter 1811
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen used his scabbard to block. He felt a huge power surging, and he was sent flying.
 
 He was sent spinning through the air, but he still managed to land gracefully when the momentum of the impact was gone. But even so, he ended up coughing up blood.

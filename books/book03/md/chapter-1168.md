@@ -1,21 +1,20 @@
 ---
-Title:Level Up 
-Chapter:1168 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Level Up
+chapter: 1168
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Level Up
-### Chapter 1168
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Level Up
+
+### Chapter 1168
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The door opened, and Zhang Yuchen walked through.
 
 “Zhang Yuchen, I now have permission to kill you. Do you have any last words?” Qiu Ping showed no reluctance in his confrontation.

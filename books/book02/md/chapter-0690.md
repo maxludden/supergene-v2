@@ -1,21 +1,20 @@
 ---
-Title:Getting the Holy Peach 
-Chapter:690 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Getting the Holy Peach
+chapter: 690
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Getting the Holy Peach
-### Chapter 690
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Getting the Holy Peach
+
+### Chapter 690
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen rushed to the top of the tree, raised his rex spike, and tried to cut down the lower holy peach that had not yet fully ripened. But suddenly, he was alerted by something, and a cold chill ran down his spine.
 
 Han Sen pulled back quickly and saw a red flash pass by his head. It was the pink snake, back for vengeance.

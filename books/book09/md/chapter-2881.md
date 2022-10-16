@@ -1,21 +1,20 @@
 ---
-Title:Fixing the Altar 
-Chapter:2881 
-Section:14 
-Book:9 
-CSS:../Styles/style.css 
+title: Fixing the Altar
+chapter: 2881
+section: 14
+book: 9
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Fixing the Altar
-### Chapter 2881
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Fixing the Altar
+
+### Chapter 2881
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen thought, “Tai Yi? Is that the white-haired Tai Yi Bao’er met, or is it the Tai Yi from the scroll? Is it the one that killed a god?”
 
 Tai Yi turned his head. He walked into the metal temple and headed for the metal altar.

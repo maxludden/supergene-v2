@@ -1,21 +1,20 @@
 ---
-Title:Killing Bugs 
-Chapter:2124 
-Section:8 
-Book:6 
-CSS:../Styles/style.css 
+title: Killing Bugs
+chapter: 2124
+section: 8
+book: 6
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Killing Bugs
-### Chapter 2124
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Killing Bugs
+
+### Chapter 2124
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “Dollar, you can still tear up your paper and forfeit. It’d be a crying shame if you were to be suddenly killed, don’t you think?” Kun’s sarcastic tone echoed beneath the boughs of the forest ceiling.
 
 “Yeah, but I can end this fight by simply killing you. That works, too,” Han Sen replied calmly.

@@ -1,21 +1,20 @@
 ---
-Title:Shura, Huh? Is That It? 
-Chapter:826 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Shura, Huh? Is That It?
+chapter: 826
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Shura, Huh? Is That It?
-### Chapter 826
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Shura, Huh? Is That It?
+
+### Chapter 826
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Many people believed Han Sen would risk his life. After all, the Falsified-Sky Sutra could only attack and not defend.
 
 And the Falsified-Sky Sutra delivered frighteningly powerful hits. The manner in which a practitioner could exploit and ravage weakspots was ruinous, but it also made it ineffective against behemoths.

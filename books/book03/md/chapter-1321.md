@@ -1,21 +1,20 @@
 ---
-Title:Biggest Problem 
-Chapter:1321 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Biggest Problem
+chapter: 1321
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Biggest Problem
-### Chapter 1321
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Biggest Problem
+
+### Chapter 1321
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “Giant God Emperor has come; child of Godslayer Luo, come forth and challenge me!” The spirit’s voice was unbearably loud and frighteningly deep. When he spoke, his voice boomed, and the reverberations rattled one’s chest and shook the land around.
 
 “That’s one big boi!” Han Sen muttered, in half-jest.
@@ -28,7 +27,7 @@ Giant God Emperor brought his head down low to meet them. It was so big, it was 
 
 He was facing Xie Qing King while he spoke, and with each stressed word, spit was fired at Xie Qing King like heavy rainfall.
 
-“F*ck you! That’s disgusting. Stop spitting!” Xie Qing King was infuriated by the spittle downpour and sought to throw a punch towards Giant God Emperor.
+“Fuck you! That’s disgusting. Stop spitting!” Xie Qing King was infuriated by the spittle downpour and sought to throw a punch towards Giant God Emperor.
 
 But Xie Qing King was little more than a bothersome fly when standing next to Giant God Emperor. Still, Xie Qing King was unfazed by this difference in size, and so he made his fist blaze, right as he leaped forward to clobber the larger spirit’s forehead.
 

@@ -1,21 +1,20 @@
 ---
-Title:Someone Like Me 
-Chapter:429 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Someone Like Me
+chapter: 429
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Someone Like Me
-### Chapter 429
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Someone Like Me
+
+### Chapter 429
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 After retiring, Lu Bin was hired by Ares Martial Hall as an instructor to teach leg skills, since Killer Kicks was one of the top leg skills for unevolved persons.
 
 However, because most students had never been through life-and-death situations like Lu Bin, it was very hard for them to understand the essence of Killer Kicks.

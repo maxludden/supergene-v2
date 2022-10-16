@@ -1,21 +1,20 @@
 ---
-Title:Cocky Noobs 
-Chapter:2725 
-Section:13 
-Book:8 
-CSS:../Styles/style.css 
+title: Cocky Noobs
+chapter: 2725
+section: 13
+book: 8
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Cocky Noobs
-### Chapter 2725
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Cocky Noobs
+
+### Chapter 2725
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 A powerful elite like that gave Han Sen a lot of inspiration. The most special thing about it was the ability of the monkey to clone itself.
 
 Not even Han Sen could tell when the monkey was using its true self or its copy during the battle. The real monkey and the fakes were far too difficult to distinguish. Anyone who wasn’t careful would certainly end up falling for its tricks.

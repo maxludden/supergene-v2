@@ -1,21 +1,20 @@
 ---
-Title:Sacred-blood Pet 
-Chapter:164 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: Sacred-blood Pet
+chapter: 164
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Sacred-blood Pet
-### Chapter 164
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Sacred-blood Pet
+
+### Chapter 164
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen quietly tracked the gang and saw they had set up a tent and made a fire.
 
 Gu was tied up and Han Sen had not found any good opportunities to rescue him.

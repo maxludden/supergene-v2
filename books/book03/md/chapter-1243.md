@@ -1,21 +1,20 @@
 ---
-Title:Good Man’s Standard 
-Chapter:1243 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Good Man’s Standard
+chapter: 1243
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Good Man’s Standard
-### Chapter 1243
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Good Man’s Standard
+
+### Chapter 1243
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen exited the virtual community and saw Bao’er sitting in front of him. Immediately, she leaped into Han Sen’s chest, loudly proclaiming, “I’m thirsty!”
 
 “I’ll go and get you some water,” Han Sen said, heading for the water dispenser.

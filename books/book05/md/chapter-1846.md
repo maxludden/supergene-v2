@@ -1,21 +1,20 @@
 ---
-Title:Survivor 
-Chapter:1846 
-Section:7 
-Book:5 
-CSS:../Styles/style.css 
+title: Survivor
+chapter: 1846
+section: 7
+book: 5
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Survivor
-### Chapter 1846
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Survivor
+
+### Chapter 1846
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Upon hearing what Black Steel said, Han Sen knew that the man must know something about this. But now was not the time to ask, so he was going to wait until Black Steel arrived.
 
 But soon, Han Sen’s worries became reality. More people in the base began to develop strange egg markings on their foreheads. It seemed to be spreading.

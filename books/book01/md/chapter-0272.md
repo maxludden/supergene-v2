@@ -1,21 +1,20 @@
 ---
-Title:Life Essence 
-Chapter:272 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: Life Essence
+chapter: 272
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Life Essence
-### Chapter 272
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Life Essence
+
+### Chapter 272
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen finally understood why he could not even hurt the baby golden growler. They were not even on the same level. Although the golden growler was just born, it obviously had the characteristics of a super creature already.
 
 "The black crystal that I got from that black beetle, could it also be the life essence of some super creature?"

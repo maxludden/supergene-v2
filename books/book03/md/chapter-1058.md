@@ -1,21 +1,20 @@
 ---
-Title:The Strongest Genius in History 
-Chapter:1058 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: The Strongest Genius in History
+chapter: 1058
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## The Strongest Genius in History
-### Chapter 1058
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## The Strongest Genius in History
+
+### Chapter 1058
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “Turn off the stream,” Lou Lan quickly said.
 
 Lian Chan agreed. She hastily turned it off, with her face drained of all color.

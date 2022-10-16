@@ -1,21 +1,20 @@
 ---
-Title:A Land Pulse That Shocks the Sky 
-Chapter:3119 
-Section:16 
-Book:10 
-CSS:../Styles/style.css 
+title: A Land Pulse That Shocks the Sky
+chapter: 3119
+section: 16
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## A Land Pulse That Shocks the Sky
-### Chapter 3119
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## A Land Pulse That Shocks the Sky
+
+### Chapter 3119
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “You’ve been talking a lot, but you have yet to tell us where we can dig up the gene egg.” Han Sen did not understand anything about the light abyss, and he had never heard of Tian Shan. He just wanted to know where he could find a gene egg Bald Guy laughed. “There’s no need to rush proceedings. Although the formation is similar, in this world, it is impossible to have two God Spirit Blood-Pulses that are completely the same. Even if they were similar, there would be differences. You need to calculate the granular details. We should go forward. If we reach an area where there might be a gene egg, I will be able to tell.”
 
 Han Sen was able to tell the man was very smart. He was clever but not truly excellent. He could not locate a gene egg via discerning the God Spirit Blood – Pulse’s direction. He could only discover one when it was within his proximity.

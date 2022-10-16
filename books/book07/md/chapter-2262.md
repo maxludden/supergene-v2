@@ -1,21 +1,20 @@
 ---
-Title:The Power of Science 
-Chapter:2262 
-Section:10 
-Book:7 
-CSS:../Styles/style.css 
+title: The Power of Science
+chapter: 2262
+section: 10
+book: 7
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## The Power of Science
-### Chapter 2262
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## The Power of Science
+
+### Chapter 2262
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen’s fingers brushed the silver handle, and before he moved to grip it completely, silver lightning leaped out at his fingers.
 
 A vibration moved through Han Sen’s body, and then he felt as if he had lost control of his own consciousness. There was a sharp cracking noise, and Han Sen was sent rocketing away. His flight ended when he crashed into a white bone wall.
@@ -46,7 +45,7 @@ Han Sen confidently wrapped his hands around the silver handle and tried to pull
 
 The insulating gloves did not work. The lightning wreathed his entire body before blasting him away. He crashed into a big bone wall, his armored body cracking its surface. Many extra bones were shaken down on top of him.
 
-Now Han Sen could only think, “F*cking science. I actually thought science would apply to this world. I am too naive. This is madness! My brain hurts.”
+Now Han Sen could only think, “Fucking science. I actually thought science would apply to this world. I am too naive. This is madness! My brain hurts.”
 
 Because Han Sen had gripped the handle more firmly, the shock of the electricity was magnified. It took Han Sen half an hour to regain full consciousness, and he didn’t try to move as he recovered. When he started feeling better, he lifted his head to look around. He realized that the blood kirin had actually dragged him away from the white bones.
 

@@ -1,21 +1,20 @@
 ---
-Title:Sky Tree 
-Chapter:1165 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Sky Tree
+chapter: 1165
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Sky Tree
-### Chapter 1165
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Sky Tree
+
+### Chapter 1165
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “I have only just arrived. This is my first time doing this,” Han Sen said.
 
 “You’ll need to put your back into it and work hard. There may be no guards here, but you have a quota of ten walnut powder sacks a day. If you don’t meet that quota, they’ll bump you back down a level. Then, you’ll have to do the test all over again,” the man explained.
@@ -64,7 +63,7 @@ Han Sen then showed Dragon King the lifewater he had received, and to this, Drag
 
 “Who? Sky King? Skydrop? This is lifewater.” Han Sen was confused.
 
-“Immortal Emperor must be that *sshole Sky King. Just when I thought he couldn’t stoop any lower, the guy goes and proclaims himself to be an emperor!” Dragon King almost looked amused.
+“Immortal Emperor must be that asshole Sky King. Just when I thought he couldn’t stoop any lower, the guy goes and proclaims himself to be an emperor!” Dragon King almost looked amused.
 
 “Who is he?” Han Sen asked.
 

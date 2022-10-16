@@ -1,21 +1,20 @@
 ---
-Title:The Secret of the Ocean Stones 
-Chapter:2163 
-Section:8 
-Book:6 
-CSS:../Styles/style.css 
+title: The Secret of the Ocean Stones
+chapter: 2163
+section: 8
+book: 6
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## The Secret of the Ocean Stones
-### Chapter 2163
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## The Secret of the Ocean Stones
+
+### Chapter 2163
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen looked at the ocean mountain with his right eye. Under the effects of the Purple Eye Butterfly beast soul, the history of the ocean mountain played across his right eye like a movie.
 
 Deified beast souls were truly wondrous. It was impossible to fully imagine what using one was like if you never had. In the flashback Han Sen was watching, he saw a ten-thousand-meter-tall chunk of rock forming from a smaller rock. The stone was divided into skin-like layers, which were peeled away one by one.

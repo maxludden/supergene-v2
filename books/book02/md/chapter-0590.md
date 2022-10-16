@@ -1,21 +1,20 @@
 ---
-Title:Infinite Power 
-Chapter:590 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Infinite Power
+chapter: 590
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Infinite Power
-### Chapter 590
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Infinite Power
+
+### Chapter 590
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen did not plead for Queen to stay. After all, what had happened earlier was far too embarrassing.
 
 "After I unlock the first gene lock, where should I go to find you?" Han Sen asked.

@@ -1,21 +1,20 @@
 ---
-Title:God Spirit 
-Chapter:2787 
-Section:14 
-Book:9 
-CSS:../Styles/style.css 
+title: God Spirit
+chapter: 2787
+section: 14
+book: 9
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## God Spirit
-### Chapter 2787
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## God Spirit
+
+### Chapter 2787
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 When Sky Vine Radish self-destructed, Han Sen used his super god spirit body to survive the scary self-destructive powers.
 
 The things around him were not so lucky. Everything else had been destroyed by that explosion. There was not even dust left.

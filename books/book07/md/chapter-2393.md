@@ -1,21 +1,20 @@
 ---
-Title:Dongxuan Area 
-Chapter:2393 
-Section:11 
-Book:7 
-CSS:../Styles/style.css 
+title: Dongxuan Area
+chapter: 2393
+section: 11
+book: 7
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Dongxuan Area
-### Chapter 2393
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Dongxuan Area
+
+### Chapter 2393
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “Dollar! I will defeat you today.” After that declaration, a punch came right for Han Sen. Cloaked in Dragon Eight’s gold King area, the enormous power of that punch became a roaring gold dragon, ready to consume Han Sen.
 
 “Let me try my Dongxuan Area power,” Han Sen thought, his heart leaping. He opened his invisible Dongxuan Area, and all of a sudden, the whole world around Han Sen was now composed of an infinite number of spinning cogwheels.

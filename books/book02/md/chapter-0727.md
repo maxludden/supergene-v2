@@ -1,21 +1,20 @@
 ---
-Title:The Thunder Breaks Through 
-Chapter:727 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: The Thunder Breaks Through
+chapter: 727
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## The Thunder Breaks Through
-### Chapter 727
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## The Thunder Breaks Through
+
+### Chapter 727
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 "Are Fist and Fang Jingqi crazy? They are actually going to try to conquer the shelter with just their own people?" Qian Jiang and Liu Tai, after hearing word of their endeavor, were shocked.
 
 Upon leaving, they merely thought Brother Fist would renegotiate with Han Sen, and have him take a step back. They never expected them to follow through with what they had said, and actually go there with only their own men.

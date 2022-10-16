@@ -1,21 +1,20 @@
 ---
-Title:Relics 
-Chapter:749 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Relics
+chapter: 749
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Relics
-### Chapter 749
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Relics
+
+### Chapter 749
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The leather text Han Sen was reading said that the initiation of Blood-Pulse practice required a Blood-Pulse relic. If you obtained one, only then could you truly begin to learn the skill. Attempting to learn it before getting one of these relics would be a waste of time.
 
 Han Sen searched for more and more information concerning the Blood-Legion and found a few topics pertaining to Blood-Legion relics. Unfortunately, no one else knew what they were, either. The only information that was available stated that the Blood-Legion relics were gifts given to humans by Blood-Gods. They were typically handed down through the generations by ardent family followers of the Blood-Legion. Outsiders were never privy to them, and not even low-level members of the cult could see them. They were reserved for high-ranking members of the Blood-Legion only.

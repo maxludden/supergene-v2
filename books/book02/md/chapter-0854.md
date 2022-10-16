@@ -1,21 +1,20 @@
 ---
-Title:Stealing the Chests 
-Chapter:854 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Stealing the Chests
+chapter: 854
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Stealing the Chests
-### Chapter 854
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Stealing the Chests
+
+### Chapter 854
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Roar!
 
 The creatures were awoken from their daze. Han Sen didn't know which monster began roaring first, but after that roar, they all began rushing to the peak.

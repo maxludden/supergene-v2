@@ -1,21 +1,20 @@
 ---
-Title:Leveling Up to Larva 
-Chapter:2824 
-Section:14 
-Book:9 
-CSS:../Styles/style.css 
+title: Leveling Up to Larva
+chapter: 2824
+section: 14
+book: 9
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Leveling Up to Larva
-### Chapter 2824
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Leveling Up to Larva
+
+### Chapter 2824
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen and the others retraced their steps back to the Lost Land. There was not much resistance to slow their return travel. They left the big barren system with ease.
 
 On their way back to the Extreme King, Han Sen had been mulling over this question quite a bit. Tai Yi that was mentioned in the scroll. Was that the Tai Yi that Bao'er and the others saw?"

@@ -1,21 +1,20 @@
 ---
-Title:Three Jade Drums 
-Chapter:2201 
-Section:9 
-Book:6 
-CSS:../Styles/style.css 
+title: Three Jade Drums
+chapter: 2201
+section: 9
+book: 6
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Three Jade Drums
-### Chapter 2201
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Three Jade Drums
+
+### Chapter 2201
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Stephen and Sonic Butterfly King kept talking as they completed their registration. Even Kings had to follow the rules of the Thousand Treasures.
 
 The Thousand Treasures rarely had any conflict with those of other races, but their powers most certainly positioned them in the top ten races of the universe. Many suspected they could easily land a spot in the top five.

@@ -1,21 +1,20 @@
 ---
-Title:Training Ground 
-Chapter:2140 
-Section:8 
-Book:6 
-CSS:../Styles/style.css 
+title: Training Ground
+chapter: 2140
+section: 8
+book: 6
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Training Ground
-### Chapter 2140
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Training Ground
+
+### Chapter 2140
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen finished absorbing the Jade Spirits, and the White Jade Jing closed. So, Han Sen quickly abandoned the White Jade Building and went to Dream Island to pick up Bao’er. Before Han Sen went to Holy Heaven, he sent Bao’er to Dream Island. Under the ardent protection of the Dream Beast, no one would even think about bothering her.
 
 “Dad!” Upon seeing Han Sen, Bao’er leaped into his arms.

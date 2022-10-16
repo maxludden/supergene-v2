@@ -1,21 +1,20 @@
 ---
-Title:Killing a God 
-Chapter:2822 
-Section:14 
-Book:9 
-CSS:../Styles/style.css 
+title: Killing a God
+chapter: 2822
+section: 14
+book: 9
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Killing a God
-### Chapter 2822
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Killing a God
+
+### Chapter 2822
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 When the ash settled, Han Sen was instantly there. His body went past the purple, evil spirit and came right before Evil Lotus God.
 
 "Death wish." Evil Lotus God threw a punch at Han Sen. Suddenly, there was a white flame coming from Han Sen's hand. At the same time, Evil Lotus God's punch hit Han Sen, the white flame went through Evil Lotus God's chest.

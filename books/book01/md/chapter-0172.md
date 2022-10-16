@@ -1,21 +1,20 @@
 ---
-Title:It’s You 
-Chapter:172 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: It’s You
+chapter: 172
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## It’s You
-### Chapter 172
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## It’s You
+
+### Chapter 172
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen was Ji Yanran’s boyfriend, and My-girlfriend-is-Ji-Yanran was really Ji Yanran’s boyfriend. This news made many feel incredible and relieved at the same time.
 
 After all, unless it was Ji Yanran’s boyfriend, who would be so shameless to use that ID?

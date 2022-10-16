@@ -1,21 +1,20 @@
 ---
-Title:Very Difficult 
-Chapter:2665 
-Section:13 
-Book:8 
-CSS:../Styles/style.css 
+title: Very Difficult
+chapter: 2665
+section: 13
+book: 8
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Very Difficult
-### Chapter 2665
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Very Difficult
+
+### Chapter 2665
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen would protect any deified treasure he found like it was his own child, yet the Very High were handing out seven of them as little more than prize money. He couldn’t think of another race that could match this level of wealth.
 
 The Extreme King called themselves the number one race, but compared to the Very High, they were nothing but turtles. Their society was measly in comparison.

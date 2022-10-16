@@ -1,21 +1,20 @@
 ---
-Title:Cocky Red Cloud 
-Chapter:2071 
-Section:8 
-Book:6 
-CSS:../Styles/style.css 
+title: Cocky Red Cloud
+chapter: 2071
+section: 8
+book: 6
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Cocky Red Cloud
-### Chapter 2071
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Cocky Red Cloud
+
+### Chapter 2071
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Lone Bamboo chased the red cloud up into the air, slashing faster and faster with his blade. But the red cloud was way too quick, and it managed to avoid each and every one of Lone Bamboo’s sword airs.
 
 “I will help!” Han Sen drew his knife and swung it towards the red cloud. He summoned the wings on his ears, and his speed increased.
@@ -72,7 +71,7 @@ Han Sen frowned. He only wanted to teach the beast a lesson, not kill it.
 
 The red cloud didn’t hesitate, though. It maintained course, still flying with blinding speed. The knife silks cut it to ribbons, but those ribbons gathered back into one cottony cloud. Then it presented Han Sen the shape of a thumbs down.
 
-“That stupid cloud is strong!” Han Sen thought. “That’s f*cking creepy.”
+“That stupid cloud is strong!” Han Sen thought. “That’s fucking creepy.”
 
 It was incredibly fast, and its body could be shattered. Han Sen wasn’t sure how that thing could be caught.
 

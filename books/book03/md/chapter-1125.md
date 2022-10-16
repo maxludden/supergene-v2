@@ -1,21 +1,20 @@
 ---
-Title:Strange Valley 
-Chapter:1125 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Strange Valley
+chapter: 1125
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Strange Valley
-### Chapter 1125
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Strange Valley
+
+### Chapter 1125
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “Uncle Bug, where are you off to?” Han Sen asked, looking at Uncle Bug.
 
 “I am going to Redbug Lake to collect some more meat,” Uncle Bug answered.

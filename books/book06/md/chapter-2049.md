@@ -1,21 +1,20 @@
 ---
-Title:Pay 
-Chapter:2049 
-Section:8 
-Book:6 
-CSS:../Styles/style.css 
+title: Pay
+chapter: 2049
+section: 8
+book: 6
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Pay
-### Chapter 2049
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Pay
+
+### Chapter 2049
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 You guys aren’t from Planet Sky Cloud?” the middle-aged shura asked Han Sen with rhetorical certainty.
 
 “We aren’t. We’re here on business,” Han Sen answered. “You guys only serve shura, huh?”
@@ -62,7 +61,7 @@ Golot smacked the bottle away and fired at her.
 
 Wood was fast, though. He hit Golot’s arm, making his shot go wide. Then, he punched the enemy’s nose.
 
-“F*ck you!” The waitress ran forward, as did all her workmates.
+“Fuck you!” The waitress ran forward, as did all her workmates.
 
 They worked with synergy, dodging the guns as they got close enough to fight hand to hand.
 
@@ -86,11 +85,11 @@ The scene went quiet as a gold-horned shura man stood over Golot.
 
 “Shut up!” the gold-homed shura snapped at Golot. He looked at Wood and coldly said, “Do you know the crime that is titled offending a royal?”
 
-“I don’t f*cking care. We rent this place ourselves, here on Planet Sky Cloud. Who the f*ck cares about your bullshit royalty?” The waitress picked up Wood as she shouted at the gold-horned shura.
+“I don’t fucking care. We rent this place ourselves, here on Planet Sky Cloud. Who the fuck cares about your bullshit royalty?” The waitress picked up Wood as she shouted at the gold-horned shura.
 
 You are shura. That means you adhere to the laws of the shura no matter where you go. You have now broken these laws, and because of that you will die,” the gold-homed shura said calmly.
 
-“F*ck your laws!” the waitress shouted.
+“Fuck your laws!” the waitress shouted.
 
 “I am sorry, but you have to die.” The gold-horned shura moved, appearing right in front of the pair before Wood could look up.
 

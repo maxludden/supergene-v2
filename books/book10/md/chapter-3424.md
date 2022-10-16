@@ -1,21 +1,20 @@
 ---
-Title:Demon Alpha's Secret 
-Chapter:3424 
-Section:17 
-Book:10 
-CSS:../Styles/style.css 
+title: Demon Alpha's Secret
+chapter: 3424
+section: 17
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Demon Alpha's Secret
-### Chapter 3424
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Demon Alpha's Secret
+
+### Chapter 3424
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The shadow of the God Spirit light kept slashing the scary cause power, but it was unable to bring harm to Han Sen. Many cause powers came before Han Sen, but they immediately vanished. They could not cover his body.
 
 “Demon Alpha, do you want this to continue?” Han Sen kept getting the cause power attack as he spoke to Demon Alpha.

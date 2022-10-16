@@ -1,21 +1,20 @@
 ---
-Title:Ancient Blood Dragon Lady 
-Chapter:2390 
-Section:11 
-Book:7 
-CSS:../Styles/style.css 
+title: Ancient Blood Dragon Lady
+chapter: 2390
+section: 11
+book: 7
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Ancient Blood Dragon Lady
-### Chapter 2390
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Ancient Blood Dragon Lady
+
+### Chapter 2390
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen didn’t speak. He focused on his Dongxuan Sutra, using its strength to guide the torrent of power that was surging through him. He tried to direct it toward his self-universe cogwheel.
 
 Although Han Sen was proficient with the techniques of Yin Yang Blast and Yin Yang Change, Fox Queen was putting so much power into him that it was difficult for him to guide the vast quantity.
@@ -64,7 +63,7 @@ Han Sen could clearly feel the Sacred Blood Statue on his back. It was tearing v
 
 But the Sacred Blood Statue’s power had already blended into Han Sen’s body, and its power was already inside him. If Han Sen tried to destroy the Sacred Blood Statue, then that meant he’d be destroying his own body. If that happened, he’d die.
 
-“Fuck! That motherf*cker Sacred Leader was messed up. What kind of sicko creates a geno art like this?” Han Sen swore.
+“Fuck! That motherfucker Sacred Leader was messed up. What kind of sicko creates a geno art like this?” Han Sen swore.
 
 When Fox Queen realized that she was completely unable to pull away, she severed her connection to the power outright. She instantly started coughing up blood, and her face turned as white as a sheet. But she had at least managed to disconnect herself from Han Sen. She stumbled away from his body.
 

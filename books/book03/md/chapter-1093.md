@@ -1,21 +1,20 @@
 ---
-Title:The Practice Is Wrong 
-Chapter:1093 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: The Practice Is Wrong
+chapter: 1093
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## The Practice Is Wrong
-### Chapter 1093
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## The Practice Is Wrong
+
+### Chapter 1093
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen held it, but not for too long. Before he knew it, Xue Feiyan had barged back into his room. She tried grabbing it, so she could take off hurriedly once more.
 
 She noticed the ice jade had disappeared when she returned home to get changed, and wasting no time at all, she had to return and get it back. She couldn’t risk losing the artifact.

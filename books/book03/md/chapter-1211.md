@@ -1,21 +1,20 @@
 ---
-Title:Killing Big Snake 
-Chapter:1211 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Killing Big Snake
+chapter: 1211
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Killing Big Snake
-### Chapter 1211
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Killing Big Snake
+
+### Chapter 1211
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen and Bao’er saw the snowball approach them, but before they could react, the snake was right there along with it.
 
 It had a giant mouth with wretched fangs. Its mere breath was pungent enough to slay unsuspecting victims, Han Sen reckoned. And as it loomed over them, it looked ready to swallow them all in one mouthful.

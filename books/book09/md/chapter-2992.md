@@ -1,21 +1,20 @@
 ---
-Title:Holy Body Geno Fluid 
-Chapter:2992 
-Section:15 
-Book:9 
-CSS:../Styles/style.css 
+title: Holy Body Geno Fluid
+chapter: 2992
+section: 15
+book: 9
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Holy Body Geno Fluid
-### Chapter 2992
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Holy Body Geno Fluid
+
+### Chapter 2992
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “We must find a place to talk,” Bai King said to Han Sen with a merry laugh.
 
 “OK.” Han Sen wanted to know why Bai King saved him earlier, as well as why Bai King was happy letting him claim all the benefits he wanted.

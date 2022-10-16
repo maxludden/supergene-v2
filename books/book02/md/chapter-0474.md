@@ -1,21 +1,20 @@
 ---
-Title:Efficiency 
-Chapter:474 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Efficiency
+chapter: 474
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Efficiency
-### Chapter 474
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Efficiency
+
+### Chapter 474
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Simulating crystals were an impressive creation, which many human scholars called a miracle.
 
 It was impossible for a human to become a rock, let alone a gun. However, simulating crystals were beyond their limitations.

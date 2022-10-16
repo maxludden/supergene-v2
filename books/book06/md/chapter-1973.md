@@ -1,21 +1,20 @@
 ---
-Title:Killing Ghost Claw Beast 
-Chapter:1973 
-Section:8 
-Book:6 
-CSS:../Styles/style.css 
+title: Killing Ghost Claw Beast
+chapter: 1973
+section: 8
+book: 6
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Killing Ghost Claw Beast
-### Chapter 1973
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Killing Ghost Claw Beast
+
+### Chapter 1973
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “Suyi, say thank you to Han Sen.” Yun Sushang nudged Yun Suyi with a hand.
 
 Yun Suyi was still a bit rattled, but she stepped forward and said to Han Sen, “Thank you for saving me.”

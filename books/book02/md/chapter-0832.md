@@ -1,21 +1,20 @@
 ---
-Title:Little Fairy's Time to Shine 
-Chapter:832 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Little Fairy's Time to Shine
+chapter: 832
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Little Fairy's Time to Shine
-### Chapter 832
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Little Fairy's Time to Shine
+
+### Chapter 832
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 "Is this the bonepool and Third-Life Bonefish?" Han Sen asked with a frown.
 
 "I don't know. If it isn't, it has to be fairly similar. Perhaps it is a sub-species?" Moment Queen said.

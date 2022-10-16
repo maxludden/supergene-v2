@@ -1,21 +1,20 @@
 ---
-Title:I’ll Take Care of You for the Rest of My Life 
-Chapter:1098 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: I’ll Take Care of You for the Rest of My Life
+chapter: 1098
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## I’ll Take Care of You for the Rest of My Life
-### Chapter 1098
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## I’ll Take Care of You for the Rest of My Life
+
+### Chapter 1098
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 When Han Sen signed up in the Martial Hall, he used the name Dollar.
 
 If you were in a populated shelter, everyone would have to compete against each other to secure a position in the tournament. Only the best of each shelter could join Divinity’s Bout.

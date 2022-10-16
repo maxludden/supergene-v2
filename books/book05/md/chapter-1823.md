@@ -1,21 +1,20 @@
 ---
-Title:Knife Rain 
-Chapter:1823 
-Section:7 
-Book:5 
-CSS:../Styles/style.css 
+title: Knife Rain
+chapter: 1823
+section: 7
+book: 5
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Knife Rain
-### Chapter 1823
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Knife Rain
+
+### Chapter 1823
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The Rebate had people guide Han Sen into the vortex. When a white light began to beam from the vortex, Barons could enter one at a time.
 
 Han Sen was put in last place. And seeing that nine of the Barons had already entered, he did not hesitate to go in. As soon as the white light flashed again, he leaped inside.

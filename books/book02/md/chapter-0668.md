@@ -1,21 +1,20 @@
 ---
-Title:Second-generation Qi Gong 
-Chapter:668 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Second-generation Qi Gong
+chapter: 668
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Second-generation Qi Gong
-### Chapter 668
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Second-generation Qi Gong
+
+### Chapter 668
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Hui Haifeng accepted Han Sen's friend request. He sent a message, asking, "What was that skill called?"
 
 Han Sen contemplated his answer for a minute, and then replied, "Elephant-Rex Strike."

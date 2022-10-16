@@ -1,21 +1,20 @@
 ---
-Title:Many Nobles Are Beneath the Prince's Feet 
-Chapter:3075 
-Section:16 
-Book:10 
-CSS:../Styles/style.css 
+title: Many Nobles Are Beneath the Prince's Feet
+chapter: 3075
+section: 16
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Many Nobles Are Beneath the Prince's Feet
-### Chapter 3075
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Many Nobles Are Beneath the Prince's Feet
+
+### Chapter 3075
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The sounds coming from the cloud were something Han Sen had heard before. They were the same sounds that had accompanied Golden Growler’s golden door.
 
 No one knew what was beyond the golden door. Whatever was pulled inside it was dead, that much was certain. At least, no one was able to leave when pulled inside.

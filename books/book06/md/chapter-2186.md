@@ -1,21 +1,20 @@
 ---
-Title:A Punch and a Punch 
-Chapter:2186 
-Section:9 
-Book:6 
-CSS:../Styles/style.css 
+title: A Punch and a Punch
+chapter: 2186
+section: 9
+book: 6
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## A Punch and a Punch
-### Chapter 2186
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## A Punch and a Punch
+
+### Chapter 2186
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “Dollar?” The woman recognized the person hovering in front of her.
 
 The Extreme King were quite full of themselves, and since they always thought themselves superior to others, they didn’t participate in the Geno Being Scroll. They did, however, keenly watch the fights that unfolded there.

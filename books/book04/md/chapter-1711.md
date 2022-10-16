@@ -1,21 +1,20 @@
 ---
-Title:Old Cat's Time to Shine 
-Chapter:1711 
-Section:5 
-Book:4 
-CSS:../Styles/style.css 
+title: Old Cat's Time to Shine
+chapter: 1711
+section: 5
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Old Cat's Time to Shine
-### Chapter 1711
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Old Cat's Time to Shine
+
+### Chapter 1711
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Seeing the beautiful Lady Snake coming toward him, Old Cat thought through many different options very quickly. He couldn’t think of a way to get out of the predicament, though.
 
 “Brother Han, didn’t you say we should find a way to get rid of her? I have an idea…” Old Cat said to Han Sen.

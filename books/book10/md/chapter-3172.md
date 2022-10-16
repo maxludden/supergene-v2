@@ -1,21 +1,20 @@
 ---
-Title:Misunderstanding 
-Chapter:3172 
-Section:16 
-Book:10 
-CSS:../Styles/style.css 
+title: Misunderstanding
+chapter: 3172
+section: 16
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Misunderstanding
-### Chapter 3172
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Misunderstanding
+
+### Chapter 3172
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “Fei Fei, do you have something to say?” Ever since Feng Fei Fei had returned, Han Sen felt as if she had been looking at him differently.
 
 Feng Fei Fei felt weirded out. She strangely looked at Han Sen. She hesitated for a while before mustering the courage to finally ask, “Mister Han, do you like Yin Yin?”

@@ -1,21 +1,20 @@
 ---
-Title:The Demon Shelter 
-Chapter:565 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: The Demon Shelter
+chapter: 565
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## The Demon Shelter
-### Chapter 565
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## The Demon Shelter
+
+### Chapter 565
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Whenever Yi Dong Mu had free time, he would go to practice with Han Sen because he wanted to master that skill.
 
 Han Sen accepted the money he offered, as not to feel bad by rejecting Yi Dong Mu's request. He practiced with him every time he could. The power of the skill surprised him. Even though Han Sen's battle perception far exceeded Yi Dong Mu's, it was coming to the point where even he would not be able to dodge the slashing skill.

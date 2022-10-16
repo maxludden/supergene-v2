@@ -1,21 +1,20 @@
 ---
-Title:Blue Ape 
-Chapter:999 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Blue Ape
+chapter: 999
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Blue Ape
-### Chapter 999
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Blue Ape
+
+### Chapter 999
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “Little Han, is it a sacred-blood creature?” Old Huang asked.
 
 Han Sen nodded, saying, “Yes, it is.”
@@ -78,7 +77,7 @@ But the ape did not look back, and off it continued to go. It had positioned the
 
 “Ooh-ooh-Oohaha!” The blue ape turned around and laughed at Han Sen. Then, it went back to running away.
 
-“F*ck you, monkey!” Han Sen was furious. He had to do something, but first, he told Old Huang to return.
+“Fuck you, monkey!” Han Sen was furious. He had to do something, but first, he told Old Huang to return.
 
 The blue ape continued running through the tangled overgrowth of the forest, and Han Sen planned to go after it. Unfortunately, it too was a sacred-blood creature. And so, to ensure the safety of Old Huang and the others, he made sure they did not follow.
 

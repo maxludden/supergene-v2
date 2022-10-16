@@ -1,21 +1,20 @@
 ---
-Title:Breaking Their Knives and Not Hurting the People 
-Chapter:1865 
-Section:7 
-Book:5 
-CSS:../Styles/style.css 
+title: Breaking Their Knives and Not Hurting the People
+chapter: 1865
+section: 7
+book: 5
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Breaking Their Knives and Not Hurting the People
-### Chapter 1865
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Breaking Their Knives and Not Hurting the People
+
+### Chapter 1865
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen did not plan on escaping this time. He
 
 had already achieved first place here, so there was little to worry about. Now it was time for him to show off the knife skills that Yisha had taught him.

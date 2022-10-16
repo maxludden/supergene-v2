@@ -1,21 +1,20 @@
 ---
-Title:Her 
-Chapter:20 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: Her
+chapter: 20
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Her
-### Chapter 20
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Her
+
+### Chapter 20
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The next morning, Han Sen was on the train going to the teleport station, with many passengers sharing his destination.
 
 Most people could not afford a teleport device, so they had to enter God’s Sanctuary using a public teleport station.

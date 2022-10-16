@@ -1,21 +1,20 @@
 ---
-Title:Twin Sisters 
-Chapter:3268 
-Section:16 
-Book:10 
-CSS:../Styles/style.css 
+title: Twin Sisters
+chapter: 3268
+section: 16
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Twin Sisters
-### Chapter 3268
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Twin Sisters
+
+### Chapter 3268
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen thought, “How come I have never heard about Zhao Ning’er having a twin sister before? In addition to that, they both look the same. Zhao Ning’er is the one I need to see right now. I do not want to spend time with her sister.
 
 The girl took Han Sen up to her bedroom. She laid on the bed, holding the mud man that Han Sen had become. She said to herself, “Big Sister is so strong. She captured the Qin Kingdom’s No. 1 swordsman. Are life souls really that powerful?”

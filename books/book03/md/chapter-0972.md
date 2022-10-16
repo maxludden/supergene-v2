@@ -1,21 +1,20 @@
 ---
-Title:Unbelievable Rabbit King 
-Chapter:972 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Unbelievable Rabbit King
+chapter: 972
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Unbelievable Rabbit King
-### Chapter 972
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Unbelievable Rabbit King
+
+### Chapter 972
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen sat down near the campfire and started cooking another bee.
 
 So far, he had only cooked four out of the sixteen he had hunted. He had eaten one, and so had the rabbit king.
@@ -84,7 +83,7 @@ But Han Sen was not interested in doing things this way. He wanted to do things 
 
 Much like the rabbit, no one would believe him if he said he had opened seven gene locks.
 
-“This rabbit must have received one h*ll of an opportunity, to achieve this. Can I somehow extract a benefit of my own, following this discovery?” Han Sen pondered to himself, as he continued healing the sick rabbit.
+“This rabbit must have received one hell of an opportunity, to achieve this. Can I somehow extract a benefit of my own, following this discovery?” Han Sen pondered to himself, as he continued healing the sick rabbit.
 
 Han Sen really wanted to find out what was wrong with the rabbit king.
 

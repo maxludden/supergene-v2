@@ -1,21 +1,20 @@
 ---
-Title:Evolution of Angel Finished 
-Chapter:444 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Evolution of Angel Finished
+chapter: 444
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Evolution of Angel Finished
-### Chapter 444
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Evolution of Angel Finished
+
+### Chapter 444
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen did not have any recollection about a beast soul glyph, so he had no idea what it was used for. He tried to summon the beast soul glyph of evil-blooded condor, and the condor suddenly appeared as a black shadow. The shadow then issued a scream before it disappeared in Han Sen’s body.
 
 Han Sen looked at his body carefully and saw that he had a new tattoo of black condor, which was spreading its wings and ready to attack. The condor looked so fierce and gloomy that he almost felt like it was real and would claw out someone’s heart at any minute.

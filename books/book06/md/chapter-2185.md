@@ -1,21 +1,20 @@
 ---
-Title:Taking the Bible 
-Chapter:2185 
-Section:9 
-Book:6 
-CSS:../Styles/style.css 
+title: Taking the Bible
+chapter: 2185
+section: 9
+book: 6
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Taking the Bible
-### Chapter 2185
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Taking the Bible
+
+### Chapter 2185
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 A small business ship was flying through the expanse of space, following a designated route. Suddenly, the crew saw a woman approaching their vessel. The ship came to a stop and opened its doors to let her in.
 
 The woman quickly entered the ship, and not long after, she was given a private room.

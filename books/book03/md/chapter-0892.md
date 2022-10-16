@@ -1,21 +1,20 @@
 ---
-Title:Dollar’s Strength 
-Chapter:892 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Dollar’s Strength
+chapter: 892
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Dollar’s Strength
-### Chapter 892
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Dollar’s Strength
+
+### Chapter 892
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 After the time the three had spent together, they were no longer wary Han Sen's presence and were comfortable with him there. On this day, after exiting to the garden, Han Sen grabbed the water bucket as he routinely did.
 
 When Han Sen reached the watervine, the copper toad was still there. The watervine had grown three copper coins that had a sparkly, almost gold-like sheen to them. Although this fruit did not look fully mature yet, it was obviously getting close.

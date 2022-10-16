@@ -1,21 +1,20 @@
 ---
-Title:Gana 
-Chapter:1872 
-Section:7 
-Book:5 
-CSS:../Styles/style.css 
+title: Gana
+chapter: 1872
+section: 7
+book: 5
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Gana
-### Chapter 1872
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Gana
+
+### Chapter 1872
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “You go in there and make sure Dragon Lady and Meng’er are protected.” Han Sen spoke to Wang Yuhang at a low volume.
 
 Wang Yuhang knew that he was currently weaker than the average commoner in the geno universe. There was no point hanging around with Han Sen, so he did as he was instructed and returned to the cave.

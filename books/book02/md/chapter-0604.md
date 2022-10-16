@@ -1,21 +1,20 @@
 ---
-Title:Fall Back 
-Chapter:604 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Fall Back
+chapter: 604
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Fall Back
-### Chapter 604
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Fall Back
+
+### Chapter 604
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 "Plan C!" Queen yelled, as her body shining purple. She was making a move.
 
 Tyrant's body shone gold, like a heavenly being. He held a big black lance in his hands, which he used to thrust at the tiger.

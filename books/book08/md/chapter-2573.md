@@ -1,21 +1,20 @@
 ---
-Title:Analysis Result 
-Chapter:2573 
-Section:12 
-Book:8 
-CSS:../Styles/style.css 
+title: Analysis Result
+chapter: 2573
+section: 12
+book: 8
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Analysis Result
-### Chapter 2573
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Analysis Result
+
+### Chapter 2573
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen searched for a few more days, but he didn’t find any goodies. However, in that time, Han Sen’s Crystal Furnace reached beginner level. After all, it was a geno art for crystallizer children. It wasn’t very difficult to come to grips with. And having crystal blood made it even easier to learn.
 
 Humans were the offspring of crystallizers, so crystallizer geno arts were quite compatible with human physiology. It only took Han Sen a few days to learn the geno art, and he produced some good results to boot. Now, Han Sen was able to eat twenty to thirty King xenogeneic genes a day. And that was just at the beginner level of Crystal Furnace. If Consume, Big Destroyed, and Crystal Furnace all reached peak performance, he calculated that he could eat at least 110 xenogeneic genes a day.

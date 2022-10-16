@@ -1,21 +1,20 @@
 ---
-Title:Knife Cuts Ocean Mountain 
-Chapter:2165 
-Section:8 
-Book:6 
-CSS:../Styles/style.css 
+title: Knife Cuts Ocean Mountain
+chapter: 2165
+section: 8
+book: 6
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Knife Cuts Ocean Mountain
-### Chapter 2165
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Knife Cuts Ocean Mountain
+
+### Chapter 2165
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen continued to grip the handle of the knife as he knelt, motionless. He was frozen; controlling the knife silk took every ounce of his concentration.
 
 If he did not focus on the knife silks, they would hit the mountain instead of traveling the thousands of meters he needed them to.
@@ -96,7 +95,7 @@ The Sky Palace leader, the masked woman, and all the elders were frozen. They st
 
 POW!
 
-“Ouch! You really f*cking hit me!”
+“Ouch! You really fucking hit me!”
 
 All of the elders came forward, racing to the sides of the broken mountain. They used their scary powers to grab hold of the mountain that was now in free fall.
 

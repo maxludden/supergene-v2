@@ -1,21 +1,20 @@
 ---
-Title:Shura Horn 
-Chapter:2550 
-Section:12 
-Book:8 
-CSS:../Styles/style.css 
+title: Shura Horn
+chapter: 2550
+section: 12
+book: 8
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Shura Horn
-### Chapter 2550
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Shura Horn
+
+### Chapter 2550
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Greyish white feathers appeared, cloaking Han Sen’s body. The image of a rainbow peacock appeared on his face, and it released a scary rainbow light. That rainbow light quickly melted away the Sky Demon Lock’s purple smoke. In seconds, the power holding Han Sen in place had vanished.
 
 Ji Yang Sheng and the other Demons were shocked when they saw this. Their Sky Demon Lock, which could securely ensnare a deified being, had just been melted away with ease. It was unbelievable, and as a result, they were left staring in stupefied silence.

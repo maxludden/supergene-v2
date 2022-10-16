@@ -1,21 +1,20 @@
 ---
-Title:Buddha Wall 
-Chapter:1935 
-Section:7 
-Book:5 
-CSS:../Styles/style.css 
+title: Buddha Wall
+chapter: 1935
+section: 7
+book: 5
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Buddha Wall
-### Chapter 1935
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Buddha Wall
+
+### Chapter 1935
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen was wandering aimlessly on the streets. He looked forward and saw a Buddha woman in the midst of a crowd. She was clad in white robes, and her eyebrows were like those of a painting as she smiled at Han Sen.
 
 “Speechless Buddha Lady?” Han Sen was shocked.

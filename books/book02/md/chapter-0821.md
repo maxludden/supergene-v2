@@ -1,21 +1,20 @@
 ---
-Title:I Want to Fight Against Dollar 
-Chapter:821 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: I Want to Fight Against Dollar
+chapter: 821
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## I Want to Fight Against Dollar
-### Chapter 821
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## I Want to Fight Against Dollar
+
+### Chapter 821
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen was not allowed to take part in the meetings between the Alliance and the visiting shura, in which they sought to broker peace. The introductory meetings took them only two days, but it would take at least two months to negotiate terms.
 
 There were many conspiracies in the works, ones which Han Sen could not understand due to his lack of proficiency in the field of politics. All he did was wait until Ji Yanran was ready for him to go to the dinner.

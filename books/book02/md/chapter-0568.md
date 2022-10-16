@@ -1,21 +1,20 @@
 ---
-Title:Who Is This Person? 
-Chapter:568 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Who Is This Person?
+chapter: 568
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Who Is This Person?
-### Chapter 568
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Who Is This Person?
+
+### Chapter 568
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The battle was about to start. Han Sen gave his beast souls to the Snow Charmer to increase her power.
 
 The list of beast souls he gave her included the sacred-blood, Blood-Scale armor Han Sen received in exchange for the sword from earlier, a Gargoyle glyph, a Golden Roarer to ride, a Golden Rock Worm King, Berserk pet armor, Nightmare Wings, a Snow-Lady transfiguration beast soul, and a Desert Bird. The Snow Charmer would be able to take advantage of all those beast souls, and so Han Sen made sure to transfer them to her for her usage.

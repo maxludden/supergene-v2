@@ -1,21 +1,20 @@
 ---
-Title:Going to King’s Kingdom Again 
-Chapter:2797 
-Section:14 
-Book:9 
-CSS:../Styles/style.css 
+title: Going to King’s Kingdom Again
+chapter: 2797
+section: 14
+book: 9
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Going to King’s Kingdom Again
-### Chapter 2797
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Going to King’s Kingdom Again
+
+### Chapter 2797
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “How about I tell you the secret of the chessboards, and you let me go,” Han Sen said. “Just pretend you have never seen me before.”
 
 Holy Pirate had to shake his head. “Even thieves have a moral code. I accepted a job and received the sky silk picture. I cannot go back on my word and break my promise.”

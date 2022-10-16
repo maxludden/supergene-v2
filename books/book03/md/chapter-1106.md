@@ -1,21 +1,20 @@
 ---
-Title:Refining the Crystals 
-Chapter:1106 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Refining the Crystals
+chapter: 1106
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Refining the Crystals
-### Chapter 1106
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Refining the Crystals
+
+### Chapter 1106
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen was feeling far too hungry. His body was incredibly tired, and he knew he should have been resting, but he was overwhelmed with a strange ravenousness.
 
 He knew such behavior was dangerous. Heresy Mantra was able to hasten his recovery, but he knew the power to do so couldn’t just come from anywhere.

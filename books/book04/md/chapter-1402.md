@@ -1,21 +1,20 @@
 ---
-Title:Life and Death Stakes 
-Chapter:1402 
-Section:4 
-Book:4 
-CSS:../Styles/style.css 
+title: Life and Death Stakes
+chapter: 1402
+section: 4
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Life and Death Stakes
-### Chapter 1402
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Life and Death Stakes
+
+### Chapter 1402
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen brought the fifty fruits he had been given by Yu Xuan inside the shelter with him, bringing them along as food to sustain him.
 
 Just one of those fruits could keep a man’s belly feeling full for a number of days, so if they were to get trapped inside the shelter for any reason, Han Sen would be able to keep himself going for quite some time.

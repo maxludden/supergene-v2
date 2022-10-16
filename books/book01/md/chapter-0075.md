@@ -1,21 +1,20 @@
 ---
-Title:One in a Hundred 
-Chapter:75 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: One in a Hundred
+chapter: 75
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## One in a Hundred
-### Chapter 75
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## One in a Hundred
+
+### Chapter 75
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 "Do not be afraid, Dollar is on his own and we can join forces to get rid of him first," a young man geared up and said.
 
 "Exactly, let’s get rid of the little angel first." Someone looked at Han Sen greedily, as if he were looking at a naked woman.

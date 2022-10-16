@@ -1,21 +1,20 @@
 ---
-Title:Harp Sound to Repel Enemies 
-Chapter:3274 
-Section:16 
-Book:10 
-CSS:../Styles/style.css 
+title: Harp Sound to Repel Enemies
+chapter: 3274
+section: 16
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Harp Sound to Repel Enemies
-### Chapter 3274
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Harp Sound to Repel Enemies
+
+### Chapter 3274
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen had spent far too much of his power. He could no longer feel Zhao Ning’er’s situation. He could only see her body get wrapped up by black and red fires. It was like a demonic cocoon that came from hell. “Han Sen, are you okay? What happened to my sister?” Zhao Qiu Yi moved to pick up Han Sen. She was speaking with a strange tone of voice.
 
 “I am fine. As for your sister, I guess it is all down to fate.” Han Sen did not know what was going to happen to Zhao Ning’er. This situation was beyond his control.

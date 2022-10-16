@@ -1,21 +1,20 @@
 ---
-Title:Blood Dragon Light 
-Chapter:2062 
-Section:8 
-Book:6 
-CSS:../Styles/style.css 
+title: Blood Dragon Light
+chapter: 2062
+section: 8
+book: 6
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Blood Dragon Light
-### Chapter 2062
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Blood Dragon Light
+
+### Chapter 2062
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 A few knife strikes broke the lancelight. Han Sen swung his Blood Feather Knife, and many knife silks were weaved through the air. They tangled and knotted themselves around Dragon Nine’s wings, limbs, and body. He was unable to hold his lance and thrust anymore.
 
 Han Sen had been dodging for so long so he could cast his knife silks. To deal with a strong power like Dragon Nine’s, soft power was useful.

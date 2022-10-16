@@ -1,21 +1,20 @@
 ---
-Title:Dead Body in the Coffin 
-Chapter:3211 
-Section:16 
-Book:10 
-CSS:../Styles/style.css 
+title: Dead Body in the Coffin
+chapter: 3211
+section: 16
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Dead Body in the Coffin
-### Chapter 3211
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Dead Body in the Coffin
+
+### Chapter 3211
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The young lady pulling the coffin let the chain go. She fell to the side and bowed to Qin Jing Zhen.
 
 “Good. Good. Good. You did a fine job.” Qin Jing Zhen was so happy that he said the “good” three times.

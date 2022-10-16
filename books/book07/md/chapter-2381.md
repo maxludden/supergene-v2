@@ -1,21 +1,20 @@
 ---
-Title:Kingese Sprint 
-Chapter:2381 
-Section:11 
-Book:7 
-CSS:../Styles/style.css 
+title: Kingese Sprint
+chapter: 2381
+section: 11
+book: 7
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Kingese Sprint
-### Chapter 2381
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Kingese Sprint
+
+### Chapter 2381
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 All the royal children made their ascent at a speed that was neither slow nor fast. The crown prince Bai Weijie was leading the way, but their formation began to change once they reached the halfway point.
 
 At the middle point of the mountain’s staircase, there was a stone tablet. Upon it was inscribed, “Travel half the mountain, thinking like a sword.” Han Sen didn’t know what it meant, but once they passed by the tablet, everyone started to speed up. Prince Four and Princess Two went past the crown prince Bai Weijie. Other royal children started to pull away, as well. The group began to spread out into ragged clumps of hikers, so it wasn’t as tidy as it had been before the halfway point.

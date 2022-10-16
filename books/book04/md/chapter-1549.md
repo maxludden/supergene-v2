@@ -1,21 +1,20 @@
 ---
-Title:Diary 
-Chapter:1549 
-Section:4 
-Book:4 
-CSS:../Styles/style.css 
+title: Diary
+chapter: 1549
+section: 4
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Diary
-### Chapter 1549
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Diary
+
+### Chapter 1549
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen was very eager to read the contents of the diary.
 
 Although it was a diary, the entries weren’t dated. And furthermore, each page only contained a sentence or two. The entries were not a continuous thing, either. It was a casual, random recording of stuff.

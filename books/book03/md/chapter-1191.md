@@ -1,21 +1,20 @@
 ---
-Title:Harvest? 
-Chapter:1191 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Harvest?
+chapter: 1191
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Harvest?
-### Chapter 1191
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Harvest?
+
+### Chapter 1191
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “What?” Han Sen stared at Dragon King and asked, “Then why would the Asura Sutra be on your scale? Were you best buds with Asura?”
 
 “Um…” Dragon King, for once, had been rendered speechless.

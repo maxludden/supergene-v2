@@ -1,21 +1,20 @@
 ---
-Title:Moon 
-Chapter:1930 
-Section:7 
-Book:5 
-CSS:../Styles/style.css 
+title: Moon
+chapter: 1930
+section: 7
+book: 5
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Moon
-### Chapter 1930
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Moon
+
+### Chapter 1930
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The Dukes didn’t look at the blade in the same way Han Sen had. They all looked at it for less than a minute before handing it back over to Black-Moon King. The entire thing was done in a few minutes.
 
 The young ones were not allowed to look at it by themselves. After they had all seen it, the ceremony came to a close. Black-Moon King invited a few Kings and Dukes over for tea. Some accepted and stayed, others declined and left.

@@ -1,21 +1,20 @@
 ---
-Title:Han Sen’s Return 
-Chapter:1517 
-Section:4 
-Book:4 
-CSS:../Styles/style.css 
+title: Han Sen’s Return
+chapter: 1517
+section: 4
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Han Sen’s Return
-### Chapter 1517
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Han Sen’s Return
+
+### Chapter 1517
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen’s body was filled with power. He looked at Tina, whose face had now become drawn and pale. He clenched his fist and drove it right at her.
 
 She didn’t want to try to fight against a power that could break a planet. She didn’t run, though; she just remained transfixed at the sight of that horrendous power coming right for her.

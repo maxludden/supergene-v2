@@ -1,21 +1,20 @@
 ---
-Title:Old Man in the Painting 
-Chapter:3213 
-Section:16 
-Book:10 
-CSS:../Styles/style.css 
+title: Old Man in the Painting
+chapter: 3213
+section: 16
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Old Man in the Painting
-### Chapter 3213
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Old Man in the Painting
+
+### Chapter 3213
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 A priest moved to protect the injured Qin Jing Zhen and the main priest. As they retreated, he said, “My King, I will ask more people to come and help…”
 
 Qin Jing Zhen looked frustrated as he gnashed his teeth and said, “Shut up. No one is allowed to leave the god temple. I will kill anyone who tries to leave. If whatever happens today is made public, you will all be killed.”

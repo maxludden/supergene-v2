@@ -1,21 +1,20 @@
 ---
-Title:Maha God Elephant 
-Chapter:2874 
-Section:14 
-Book:9 
-CSS:../Styles/style.css 
+title: Maha God Elephant
+chapter: 2874
+section: 14
+book: 9
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Maha God Elephant
-### Chapter 2874
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Maha God Elephant
+
+### Chapter 2874
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen hastily appeared on the space battleground. He saw a red, giant elephant also appear across the distance of space between them.
 
 That giant elephant was all red. Its body had a burning red flame. If one went to feel it, one would notice that the blaze did not have a temperature.

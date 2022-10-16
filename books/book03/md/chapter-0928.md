@@ -1,21 +1,20 @@
 ---
-Title:Not in the Mood Today 
-Chapter:928 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Not in the Mood Today
+chapter: 928
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Not in the Mood Today
-### Chapter 928
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Not in the Mood Today
+
+### Chapter 928
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Heavenly Empress left with Flower Empress, and after they were out of earshot of the others, she asked, "So, you have a crush on The King?"
 
 Flower Empress blushed and said, "It that a bad thing?"
@@ -68,7 +67,7 @@ Looking at his statue, Han Sen noticed that his number was one. That meant he wa
 
 What Phoenix King said wasn't personal; he behaved this way to everyone. He was particularly rude when he wanted a challenge with others.
 
-"Oh my God! This is going to be one h*ll of a show."
+"Oh my God! This is going to be one hell of a show."
 
 "Phoenix King's body is indestructible, or so I have heard. Does The King have what it takes to defeat such a foe?"
 

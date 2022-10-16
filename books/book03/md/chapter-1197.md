@@ -1,21 +1,20 @@
 ---
-Title:Shura Ship 
-Chapter:1197 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Shura Ship
+chapter: 1197
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Shura Ship
-### Chapter 1197
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Shura Ship
+
+### Chapter 1197
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The ship was rattling and shaking like mad, as passengers scrambled in their attempts to reach the Panic Terminal.
 
 Fortunately, most of the people on board were humans with a good fitness level. They were unfazed and unshaken by the sudden bombardment from a hostile force.

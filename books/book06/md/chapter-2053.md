@@ -1,21 +1,20 @@
 ---
-Title:Path 
-Chapter:2053 
-Section:8 
-Book:6 
-CSS:../Styles/style.css 
+title: Path
+chapter: 2053
+section: 8
+book: 6
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Path
-### Chapter 2053
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Path
+
+### Chapter 2053
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The shura queen walked to the altar and stood before the shura coffin. After bowing sincerely before it, she drew a dagger and stabbed at the head of the coffin.
 
 The dagger was purple, and it had been forged from a strange material. It sort of looked like her horns, but it was darker, and it looked heavier.
@@ -82,4 +81,4 @@ Just thinking about all this was useless. He needed to go to the human king shel
 
 But when Nine-Life Cat first appeared, he made a point of lying down atop that holy coffin. Han Sen thought it was possible.
 
-“Don’t let me find you again, you *sshole Nine-Life Cat,” Han Sen thought angrily.
+“Don’t let me find you again, you asshole Nine-Life Cat,” Han Sen thought angrily.

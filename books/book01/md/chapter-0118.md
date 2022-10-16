@@ -1,20 +1,19 @@
 ---
-Title:Fairy Queen Beast Soul
-Chapter:118
-Section:1
-Book:1
-CSS:../Styles/style.css
+title: Fairy Queen Beast Soul
+chapter: 118
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
 
 ## Fairy Queen Beast Soul
+
 ### Chapter 118
 
 <figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
 </figure>
-
-
 
 > "Sacred-blood Creature Shreeky Beast Killed. No Beast Soul Gained. Eat Its Meat to Gain Zero to Ten Sacred Geno Points."
 
@@ -59,15 +58,14 @@ Han Sen was ecstatic and quickly checked the details of fairy queen.
 <div class="tables">
 	<table class="beast">
 		<tr>
-			<th>Beast Soul</th>
+			<th colspan="2">Beast Soul Gained</th>
 		</tr><tr>
-			<td>Sacred-Blood Fairy Queen<br>
-				<span class="type">(Shapeshifting)</span>
-			</td>
+			<td>Sacred-Blood Fairy Queen</td>
+			<td>(Shapeshifting)</td>
 		</tr>
 	</table>
 	<!-- Type of Sacred-Blood Beast Soul Fairy Queen: Shapeshifting. -->
-</div>
+</div> 
 
 "Shapeshifting!" Han Sen almost cheered, but on a second thought, it was a shame that such a beautiful beast soul could not be summoned to stand alone, but had to be integrated in his body.
 

@@ -1,21 +1,20 @@
 ---
-Title:Mutant Blood 
-Chapter:1743 
-Section:6 
-Book:5 
-CSS:../Styles/style.css 
+title: Mutant Blood
+chapter: 1743
+section: 6
+book: 5
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Mutant Blood
-### Chapter 1743
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Mutant Blood
+
+### Chapter 1743
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen observed his blood and vessels. He wasn’t even sure if it could still be called blood, though, because the red liquid had become crystal like a ruby. His heart and vessels had stopped working. They didn’t want to stop, but they too had become like rubies. They wouldn’t animate.
 
 If Han Sen had an electrocardiogram, the inside of his body would look like a ruby spiderweb. It was as pretty as it was creepy.

@@ -1,21 +1,20 @@
 ---
-Title:Three Chapters and You’re Out! 
-Chapter:1313 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Three Chapters and You’re Out!
+chapter: 1313
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Three Chapters and You’re Out!
-### Chapter 1313
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Three Chapters and You’re Out!
+
+### Chapter 1313
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 A big white sphere appeared before Xie Qing King’s eyes. The feet of his nemesis were continuing their descent, but they came into contact with the orb which plushily pushed down on Xie Qing King’s face to cushion the blow. He was still alive.
 
 Gold General raised his legs once more. Even if a ball-like cushion had come to soften the blow, he thought it curious how it had not been broken by his supercharged curb stomp.

@@ -1,21 +1,20 @@
 ---
-Title:Contest Center 
-Chapter:100 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: Contest Center
+chapter: 100
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Contest Center
-### Chapter 100
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Contest Center
+
+### Chapter 100
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 It was Han Sen’s turn. His opponent was a guy called Lei Ban. The moment Han Sen got on the stage, Lei Ban summoned a beast soul bow and three beast soul arrows and shot all three arrows at him. The three arrows almost flew to Han Sen at the same time.
 
 Han Sen was surprised. Lei Ban was at least as good at archery as him, and even had better techniques than him. Judging from the look of his bow, it was likely a sacred-blood beast soul bow and two of the three arrows were dark green, so they were probably poisonous like his mutant black stinger arrow. The third arrow was made from blue crystal and sounded as if it could tear air apart when it was in the air, which suggested it could be a sacred-blood beast soul arrow.

@@ -1,21 +1,20 @@
 ---
-Title:Underworld Lake 
-Chapter:2646 
-Section:13 
-Book:8 
-CSS:../Styles/style.css 
+title: Underworld Lake
+chapter: 2646
+section: 13
+book: 8
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Underworld Lake
-### Chapter 2646
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Underworld Lake
+
+### Chapter 2646
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “There are a lot of resources to be earned from Outer Sky xenogeneics, but they are very dangerous for ordinary students to obtain. This house will keep any deified xenogeneic from approaching within one thousand miles. It is hard to say what will become of you if you leave that radius, however. If you are out by yourself and encounter danger, I’m afraid I won’t be able to save you in time. So, if you want to go hunting for some reason, we should go together,” Exquisite said.
 
 “What kind of primitive deified xenogeneics around here can I hunt?” Han Sen asked. Since he was there, anyway, he wanted to acquire more deified resources.

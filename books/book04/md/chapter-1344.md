@@ -1,21 +1,20 @@
 ---
-Title:If You Are Dead, You Are a Dead Sheep 
-Chapter:1344 
-Section:4 
-Book:4 
-CSS:../Styles/style.css 
+title: If You Are Dead, You Are a Dead Sheep
+chapter: 1344
+section: 4
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## If You Are Dead, You Are a Dead Sheep
-### Chapter 1344
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## If You Are Dead, You Are a Dead Sheep
+
+### Chapter 1344
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen, upon seeing the chef, thought to himself, “Has she returned for the head? But she’d have to dig into our stomachs if she wanted it back! And that would be no trouble for her.”
 
 “Oh, uh, the head? We thought you had no need for it, so we ate it.” Han Sen began stepping back, bringing Bao’er firmly back into his arms.

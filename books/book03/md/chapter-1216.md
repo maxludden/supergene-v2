@@ -1,21 +1,20 @@
 ---
-Title:Ancient Tower 
-Chapter:1216 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Ancient Tower
+chapter: 1216
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Ancient Tower
-### Chapter 1216
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Ancient Tower
+
+### Chapter 1216
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Snowball left the cave alongside Han Sen, being forced to guide him up the mountain. To reach the peak of the mountain, they would have to tread a steep and precarious path.
 
 The path was only one foot wide, and on either side of that treacherous track was nothing but the expanse of mist no eyes could peer through. Even Snowball took his steps carefully.

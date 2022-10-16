@@ -1,21 +1,20 @@
 ---
-Title:Dark Area 
-Chapter:2472 
-Section:12 
-Book:8 
-CSS:../Styles/style.css 
+title: Dark Area
+chapter: 2472
+section: 12
+book: 8
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Dark Area
-### Chapter 2472
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Dark Area
+
+### Chapter 2472
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen followed Lando through the sea of clouds. They encountered many elites who had come in search of Han Sen, but whenever those elites saw Lando, they gave him a wide berth. No one would dare to go against Lando—especially face to face.
 
 But Han Sen could still feel the weight of many eyes resting on him. And that sensation gradually increased as time went by. Technological gadgets were of no use in the Tianxia System, but that didn’t mean that the various bounty hunters had no way of tracking him. Many people with eyes and video powers, especially the Kings with such talents, could watch Lando and Han Sen from tens of thousands of miles away.
@@ -86,7 +85,7 @@ There were only twenty or thirty people in this group. Three of them were half-d
 
 “Han Sen, you should just surrender yourself. Don’t make us hurt you,” one of the half-deified leaders said to Han Sen.
 
-Han Sen didn’t say a word. Instead, he replied by sending a quick punch toward them. He was thinking to himself, “Who do you think you are? F*cking Lando? You’re afraid you might hurt me? First, you need to have what it takes to hurt me.”
+Han Sen didn’t say a word. Instead, he replied by sending a quick punch toward them. He was thinking to himself, “Who do you think you are? Fucking Lando? You’re afraid you might hurt me? First, you need to have what it takes to hurt me.”
 
 Seeing Han Sen move, the half-deified suddenly shouted, “Boss, there you go!”
 

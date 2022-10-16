@@ -1,21 +1,20 @@
 ---
-Title:Game on 
-Chapter:156 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: Game on
+chapter: 156
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Game on
-### Chapter 156
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Game on
+
+### Chapter 156
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 "Sen, they will tear us apart." Feeling the wolfish gazes from other players, Shi Zhikang felt upset. He was sure that they would be besieged, because those guys simply hated Han Sen and Silver Killer too much to let go of such a good opportunity.
 
 "What is there to be afraid of? We will show Starry Group the power of Room 304," Zhang Yang exclaimed in excitement.

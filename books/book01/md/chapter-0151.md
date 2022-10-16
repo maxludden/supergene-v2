@@ -1,21 +1,20 @@
 ---
-Title:Fang Mingquan’s Discovery 
-Chapter:151 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: Fang Mingquan’s Discovery
+chapter: 151
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Fang Mingquan’s Discovery
-### Chapter 151
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Fang Mingquan’s Discovery
+
+### Chapter 151
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 "I cannot agree on this term. Can we use a different one?" Han Sen said frankly.
 
 Although he was sure that he would not lose, but he would not bet with what belonged to others. It was a matter of principle.

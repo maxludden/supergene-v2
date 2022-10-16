@@ -1,22 +1,19 @@
 ---
-Title:Strange Mark 
-Chapter:1845 
-Section:7 
-Book:5 
-CSS:../Styles/style.css 
+title: Strange Mark
+chapter: 1845
+section: 7
+book: 5
+CSS: style.css
 viewport: width=device-width
 ---
-  
+
 ## Strange Mark
+
 ### Chapter 1845
-  
+
 <figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
 </figure>
-  
-
-  
-
 
 “Don’t look. Return to your homes. No one can leave their rooms; if you do, you will be killed,” Han Sen said. The Barons quickly returned to their shelters as instructed.
 

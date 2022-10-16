@@ -1,21 +1,20 @@
 ---
-Title:Prettiest Woman in the World 
-Chapter:1366 
-Section:4 
-Book:4 
-CSS:../Styles/style.css 
+title: Prettiest Woman in the World
+chapter: 1366
+section: 4
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Prettiest Woman in the World
-### Chapter 1366
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Prettiest Woman in the World
+
+### Chapter 1366
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The association existed primarily due to the need for detailed analysis and dissection of topics regarding the Fourth God’s Sanctuary.
 
 If you didn’t have the power to back-up information you could provide, in general, it would not even matter if you were a demigod. Talk was cheap, after all.

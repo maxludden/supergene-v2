@@ -1,21 +1,20 @@
 ---
-Title:Touching a Gemstone 
-Chapter:2018 
-Section:8 
-Book:6 
-CSS:../Styles/style.css 
+title: Touching a Gemstone
+chapter: 2018
+section: 8
+book: 6
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Touching a Gemstone
-### Chapter 2018
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Touching a Gemstone
+
+### Chapter 2018
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “Mister Dream, what do you require?” Han Sen didn’t think that the creature’s smile was very nice.
 
 Dream Beast did not say anything, but his eyes flashed. Han Sen felt a power come upon him, and his heavy body started to fly.

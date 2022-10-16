@@ -1,21 +1,20 @@
 ---
-Title:Bao’er’s Little Book 
-Chapter:2637 
-Section:12 
-Book:8 
-CSS:../Styles/style.css 
+title: Bao’er’s Little Book
+chapter: 2637
+section: 12
+book: 8
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Bao’er’s Little Book
-### Chapter 2637
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Bao’er’s Little Book
+
+### Chapter 2637
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen eventually agreed to accept the Wood Spirit Rhino in exchange for helping Yu Kun slay a deified xenogeneic.
 
 Yu Kun had carried the Wood Spirit Rhino for hundreds of years. He had never been able to understand what was inside it, and after losing hope of ever learning its secrets, he was finally willing to use it as payment for Han Sen to help him slay a deified xenogeneic.

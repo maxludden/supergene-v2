@@ -1,21 +1,20 @@
 ---
-Title:Holy Tear of Nirvana 
-Chapter:771 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Holy Tear of Nirvana
+chapter: 771
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Holy Tear of Nirvana
-### Chapter 771
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Holy Tear of Nirvana
+
+### Chapter 771
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen touched his forehead and felt nothing. It was smooth and free from wrinkles, like usual.
 
 But Zhou Yumei's face did not look like she was telling him a lie. Han Sen pulled out a mirror from his pack—the one that was used for the Beetle Knight—and had a look.

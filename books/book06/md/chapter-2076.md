@@ -1,21 +1,20 @@
 ---
-Title:Back to Narrow Moon 
-Chapter:2076 
-Section:8 
-Book:6 
-CSS:../Styles/style.css 
+title: Back to Narrow Moon
+chapter: 2076
+section: 8
+book: 6
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Back to Narrow Moon
-### Chapter 2076
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Back to Narrow Moon
+
+### Chapter 2076
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen submitted an application at the general services building, requesting that his daughter be allowed to join him in Sky Palace. He received permission, and so he left Sky Palace and returned to Planet Eclipse to pick her up.
 
 Han Sen was careful not to attract attention on the trip, and his return voyage was not impeded by troubles. He brought Bao’er into the geno universe half-way, and then went to Narrow Moon.

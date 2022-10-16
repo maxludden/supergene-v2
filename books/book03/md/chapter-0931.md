@@ -1,21 +1,20 @@
 ---
-Title:Killing Phoenix King 
-Chapter:931 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Killing Phoenix King
+chapter: 931
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Killing Phoenix King
-### Chapter 931
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Killing Phoenix King
+
+### Chapter 931
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The clouds pierced the wall of fire. The cold air could freeze the cells of others, and almost immediately, the flaming phoenix was metamorphosed into its own opposite; it was turned into a statue of ice.
 
 *Boom!*

@@ -1,33 +1,31 @@
 ---
-Title:Phantom Ant Beast Soul
-Chapter:146
-Section:1
-Book:1
-CSS:../Styles/style.css
+title: Phantom Ant Beast Soul
+chapter: 146
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
 
 ## Phantom Ant Beast Soul
+
 ### Chapter 146
 
 <figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
 </figure>
-
-
 
 <div class="tables">
 	<table class="beast">
 		<tr>
-			<th>Beast Soul Gained</th>
+			<th colspan="2">Beast Soul Gained</th>
 		</tr><tr>
-			<td>Mutant Phantom Ant<br>
-				<span class="type">(Armor)</span>
-			</td>
+			<td>Mutant Phantom Ant</td>
+			<td>(Armor)</td>
 		</tr>
 	</table>
 	<!--  Type of beast soul of mutant phantom ant: armor. -->
-</div>
+</div> 
 
 Han Sen summoned the mutant beast soul armor and was suddenly covered in blue crystal. It had thorough protection like his black beetle armor and was even prettier.
 

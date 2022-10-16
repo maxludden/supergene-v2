@@ -1,21 +1,20 @@
 ---
-Title:Your Smile Is Eternal 
-Chapter:2633 
-Section:12 
-Book:8 
-CSS:../Styles/style.css 
+title: Your Smile Is Eternal
+chapter: 2633
+section: 12
+book: 8
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Your Smile Is Eternal
-### Chapter 2633
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Your Smile Is Eternal
+
+### Chapter 2633
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “How… how could this…” Exquisite’s face was etched with disbelief.
 
 She felt as if her connection with the universe was being severed. Under Han Sen’s fists, her will, and the power that bound her to the universe, was being taken away. Her oneness with the world was becoming blurred and difficult to grasp. She felt as if she was returning to her former self before she started to practice all this. The terror of the unknown and all kinds of bad emotions were slowly seeping into her. It made her feel fear, and restlessness, and despair, and pain. All this, and many more emotions she had never felt before, were starting to overwhelm her.

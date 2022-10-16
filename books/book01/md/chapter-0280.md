@@ -1,21 +1,20 @@
 ---
-Title:White Jade Skeleton 
-Chapter:280 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: White Jade Skeleton
+chapter: 280
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## White Jade Skeleton
-### Chapter 280
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## White Jade Skeleton
+
+### Chapter 280
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 *Bang!*
 
 The green gold was not a tough material and only 1 inch thick. With Han Sen's strike, a six-foot-tall 1-foot-wide opening suddenly appeared.

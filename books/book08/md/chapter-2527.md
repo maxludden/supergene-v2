@@ -1,21 +1,20 @@
 ---
-Title:Wolf God 
-Chapter:2527 
-Section:12 
-Book:8 
-CSS:../Styles/style.css 
+title: Wolf God
+chapter: 2527
+section: 12
+book: 8
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Wolf God
-### Chapter 2527
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Wolf God
+
+### Chapter 2527
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen and Li Keer flew through space together, but the bronze furnace lagged some distance behind them. It still wasn’t willing to come anywhere close to Li Keer.
 
 If Li Keer was willing to lead, Han Sen had no reason to reject her offer. If she could find deified xenogeneics, Han Sen wouldn’t mind helping her slay the bronze tripod.

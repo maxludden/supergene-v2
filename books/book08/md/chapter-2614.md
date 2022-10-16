@@ -1,24 +1,23 @@
 ---
-Title:Picking a Holy Gourd 
-Chapter:2614 
-Section:12 
-Book:8 
-CSS:../Styles/style.css 
+title: Picking a Holy Gourd
+chapter: 2614
+section: 12
+book: 8
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Picking a Holy Gourd
-### Chapter 2614
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Picking a Holy Gourd
+
+### Chapter 2614
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Upon seeing this, many Sky Palace elites frowned. Although Sky Path wouldn’t allow anyone to use their powers, provoking the holy vine like that wasn’t a good thing. If Han Yan made the holy vine mad, it wouldn’t go well for her.
 
-Sky Palace Leader felt a headache coming on. “Why must the Han family always be like this? Don’t they have a decent leader to instill good behavior into them? This girl is going to be an enormous pain in the *ss for Old Ten.” Yun Changkong’s face was conflicted. Before today, he never thought that he would end up taking someone like this as his only student. He didn’t know if he should cry or laugh at the sight.
+Sky Palace Leader felt a headache coming on. “Why must the Han family always be like this? Don’t they have a decent leader to instill good behavior into them? This girl is going to be an enormous pain in the ass for Old Ten.” Yun Changkong’s face was conflicted. Before today, he never thought that he would end up taking someone like this as his only student. He didn’t know if he should cry or laugh at the sight.
 
 Sixth Elder was laughing so hard, and he said, “This Han Yan… is so interesting… Old Ten, you are going to be in a lot of trouble!”
 

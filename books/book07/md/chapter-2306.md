@@ -1,21 +1,20 @@
 ---
-Title:King Tree 
-Chapter:2306 
-Section:11 
-Book:7 
-CSS:../Styles/style.css 
+title: King Tree
+chapter: 2306
+section: 11
+book: 7
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## King Tree
-### Chapter 2306
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## King Tree
+
+### Chapter 2306
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The ring gleamed a beautiful silver, and there was a green jewel-like eye at its top. It looked gorgeous.
 
 Han Sen turned the ring over and over in his hands, his face set in intense concentration.

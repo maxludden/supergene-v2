@@ -1,21 +1,20 @@
 ---
-Title:Copper Demon 
-Chapter:333 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: Copper Demon
+chapter: 333
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Copper Demon
-### Chapter 333
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Copper Demon
+
+### Chapter 333
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 After watching the video of his combat against Queen, Han Sen had gained a lot. The last few steps Queen made pointed out Han Sen's weaknesses.
 
 After watching the video repeatedly, Han Sen enjoyed correcting himself little by little.

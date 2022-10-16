@@ -1,21 +1,20 @@
 ---
-Title:Back to Destiny’s Tower 
-Chapter:1552 
-Section:4 
-Book:4 
-CSS:../Styles/style.css 
+title: Back to Destiny’s Tower
+chapter: 1552
+section: 4
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Back to Destiny’s Tower
-### Chapter 1552
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Back to Destiny’s Tower
+
+### Chapter 1552
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen wanted to kill the little Ice Seahorse, but Bao’er seemed to like it. This prompted him to drop the idea.
 
 “I never thought the chimenea would bear a creature like that. I wonder what it is,” Jade Little Lion said.

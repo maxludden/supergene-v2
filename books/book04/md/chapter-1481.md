@@ -1,21 +1,20 @@
 ---
-Title:Concede 
-Chapter:1481 
-Section:4 
-Book:4 
-CSS:../Styles/style.css 
+title: Concede
+chapter: 1481
+section: 4
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Concede
-### Chapter 1481
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Concede
+
+### Chapter 1481
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “If you’ve always had this power, why did you pretend to be so weak?” Han Sen asked.
 
 Elysian Moon shook her head. “I never really pretended, but I had a way to increase the strength of my Elysian Umbrella. It can temporarily possess the strength of a super geno core. That time is quite limited, so I saved it until I got to the main battleground. I would have preferred to die out there rather than use it before reaching this point. I am appreciative to you and Zhuo Donglai for bringing me here.”

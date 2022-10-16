@@ -1,21 +1,20 @@
 ---
-Title:Siren Bottle 
-Chapter:2370 
-Section:11 
-Book:7 
-CSS:../Styles/style.css 
+title: Siren Bottle
+chapter: 2370
+section: 11
+book: 7
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Siren Bottle
-### Chapter 2370
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Siren Bottle
+
+### Chapter 2370
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “The relic was left behind by Bai Yi’s mother. Why didn’t she just give it to Bai Yi? She didn’t even tell Bai Yi about its location, but she gave it to an outsider like Lan Haixin. Was Bai Yi’s mother some patriot who valued the good of the Siren above all?” Han Sen thought something was wrong about this situation.
 
 The old Siren woman looked at Han Sen, who had frozen on the spot. Ignoring what Lan Haixin had said, she barked in a rougher tone, “My Prince, neither your blood nor the holy virgin’s blood is pure. Even if you knew where the relic was, without the holy virgin’s blood, you wouldn’t be able to activate the relic. The last holy virgin kept the relic from you because of your stubbornness. She was worried you’d hurt yourself with it.”

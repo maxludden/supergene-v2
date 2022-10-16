@@ -1,21 +1,20 @@
 ---
-Title:Cheating Geno Table 
-Chapter:3318 
-Section:17 
-Book:10 
-CSS:../Styles/style.css 
+title: Cheating Geno Table
+chapter: 3318
+section: 17
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Cheating Geno Table
-### Chapter 3318
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Cheating Geno Table
+
+### Chapter 3318
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “God said he was here looking for someone.” The geno tablet’s voice did not have any emotion in it.
 
 “Who was he looking for?” Han Sen asked.

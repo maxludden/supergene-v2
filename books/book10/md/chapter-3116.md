@@ -1,21 +1,20 @@
 ---
-Title:Super God Spirit Blood-pulse Appears 
-Chapter:3116 
-Section:16 
-Book:10 
-CSS:../Styles/style.css 
+title: Super God Spirit Blood-pulse Appears
+chapter: 3116
+section: 16
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Super God Spirit Blood-pulse Appears
-### Chapter 3116
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Super God Spirit Blood-pulse Appears
+
+### Chapter 3116
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The whole of the Big Qin Kingdom wanted Han Sen dead, but who would have figured Han Sen would not end up arrested? He was holed up in the Feng family’s castle surrounded by the king’s guards.
 
 Although the king had extended comfort to the Steel family, the king did not talk about Han Sen being responsible for the killing of Steel Scene. The officers on the case only said they were investigating it.

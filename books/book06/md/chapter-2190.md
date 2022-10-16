@@ -1,21 +1,20 @@
 ---
-Title:Taking the Legacy 
-Chapter:2190 
-Section:9 
-Book:6 
-CSS:../Styles/style.css 
+title: Taking the Legacy
+chapter: 2190
+section: 9
+book: 6
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Taking the Legacy
-### Chapter 2190
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Taking the Legacy
+
+### Chapter 2190
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Yisha had been a very special person to the Rebate, so there was no need to worry about the funeral too much. Narrow Moon performed the services very well, and all Han Sen had to do was cooperate with their rituals.
 
 Yisha’s death impacted the Rebate a great deal. It affected them deeply, in a variety of ways.

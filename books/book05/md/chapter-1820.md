@@ -1,21 +1,20 @@
 ---
-Title:Spell 
-Chapter:1820 
-Section:6 
-Book:5 
-CSS:../Styles/style.css 
+title: Spell
+chapter: 1820
+section: 6
+book: 5
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Spell
-### Chapter 1820
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Spell
+
+### Chapter 1820
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Yisha sat on a chair, watching Han Sen gather up power to evolve a second time. She looked at him emotionlessly, as if she was made of ice.
 
 But her eyes twitched sometimes, showing that she was not all that calm.

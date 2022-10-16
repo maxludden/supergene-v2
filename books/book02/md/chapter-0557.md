@@ -1,21 +1,20 @@
 ---
-Title:Abnormal Snake Valley 
-Chapter:557 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Abnormal Snake Valley
+chapter: 557
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Abnormal Snake Valley
-### Chapter 557
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Abnormal Snake Valley
+
+### Chapter 557
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 They initially believed that Han Sen might have wings and was planning to fly into the valley to draw the snake king out.
 
 It was nearly impossible for someone to walk down there. The depth of the snow was greater than any man, and if you were to sink into it when trying to walk on top of it, you'd be sinking into a white grave occupied by unwelcoming snakes. It would be certain death.

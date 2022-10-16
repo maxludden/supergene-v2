@@ -1,21 +1,20 @@
 ---
-Title:Xenogeneics Without Spirit 
-Chapter:2839 
-Section:14 
-Book:9 
-CSS:../Styles/style.css 
+title: Xenogeneics Without Spirit
+chapter: 2839
+section: 14
+book: 9
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Xenogeneics Without Spirit
-### Chapter 2839
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Xenogeneics Without Spirit
+
+### Chapter 2839
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen's finger touched the starlight. The starlight turned into a dot of starlight on his fingertip. Following Han Sen's wish, the starlight formed two words, "Human Dollar." In the next moment, starlight flew back into the skies and returned to the geno god list. The geno god list now had "Human Dollar" on it.
 
 Almost at the exact same time, Han Sen saw many names appear on the geno god list. Han Sen looked at them. He saw many familiar names.

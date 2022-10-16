@@ -1,21 +1,20 @@
 ---
-Title:Soothing the Knife River 
-Chapter:1830 
-Section:7 
-Book:5 
-CSS:../Styles/style.css 
+title: Soothing the Knife River
+chapter: 1830
+section: 7
+book: 5
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Soothing the Knife River
-### Chapter 1830
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Soothing the Knife River
+
+### Chapter 1830
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “Why have they still not returned?” someone asked from the entrance to the tunnel.
 
 Black-Moon King had arrived before the space tunnel, and he was waiting for his son.

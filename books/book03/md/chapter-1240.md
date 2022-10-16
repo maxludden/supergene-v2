@@ -1,21 +1,20 @@
 ---
-Title:Three-life Tree 
-Chapter:1240 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Three-life Tree
+chapter: 1240
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Three-life Tree
-### Chapter 1240
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Three-life Tree
+
+### Chapter 1240
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Saint Fan’s holy light continued to expand, and the light that had previously suppressed him was dwarfed and had to pull away.
 
 “Thunder of life! Very good! If you become a part of me, I will obtain your powers, too.” Saint Fan was talking like a madman.

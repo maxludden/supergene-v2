@@ -1,21 +1,20 @@
 ---
-Title:Jade Shura Is Jade Shura 
-Chapter:1559 
-Section:4 
-Book:4 
-CSS:../Styles/style.css 
+title: Jade Shura Is Jade Shura
+chapter: 1559
+section: 4
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Jade Shura Is Jade Shura
-### Chapter 1559
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Jade Shura Is Jade Shura
+
+### Chapter 1559
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen thought, “Then you’re just playing us! You’re the renowned Godslayer Luo, and you’re my great-grandfather.”
 
 Han Sen didn’t say that out loud; after all, the old man was one of Han Sen’s seniors.

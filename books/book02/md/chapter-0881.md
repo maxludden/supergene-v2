@@ -1,21 +1,20 @@
 ---
-Title:Finishing the Blood-pulse Sutra 
-Chapter:881 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Finishing the Blood-pulse Sutra
+chapter: 881
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Finishing the Blood-pulse Sutra
-### Chapter 881
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Finishing the Blood-pulse Sutra
+
+### Chapter 881
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 "Why?" Han Sen asked, not understanding.
 
 "Your great-grandfather was renowned for his cruelty in the Third God's Sanctuary. Every spirit there will hate him with a passion. If you don't want a perpetual bounty on your head, keep your familial tie to him a secret. But since you didn't learn the Falsified-Sky Sutra, that shouldn't be too much of a problem." Luo Lan smiled.
@@ -84,7 +83,7 @@ When fairy evolved, she made a whirlpool in the water and turned into ice, freez
 
 Unlike the silver fox, who was hesitant to leave, the fairy spared no time in accompanying the spirit. Gleefully, she raced straight towards it.
 
-"Ungrateful b*tch." Han Sen felt as if he had been used and cast aside. He felt as if his kindness had all been in vain.
+"Ungrateful bitch." Han Sen felt as if he had been used and cast aside. He felt as if his kindness had all been in vain.
 
 As this occurred, Han Sen was in the Crystal Palace. The spirit that came through the door did not see Han Sen when it took the fairy back across the gate. But before the fairy went beyond the gate, she made a mocking face towards the Crystal Palace.
 

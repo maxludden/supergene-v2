@@ -1,21 +1,20 @@
 ---
-Title:Co-operative Partner 
-Chapter:1572 
-Section:4 
-Book:4 
-CSS:../Styles/style.css 
+title: Co-operative Partner
+chapter: 1572
+section: 4
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Co-operative Partner
-### Chapter 1572
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Co-operative Partner
+
+### Chapter 1572
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Gu Qingcheng nodded. “You are right. The rooms you and I went to were similar. There were some differences, however. I guess those must have been crystallizer items, but I didn’t know that at the time. And when I actually returned from there, I was unable to find the entrance I had originally used.”
 
 Han Sen thought the sanctuaries definitely had some association with the crystallizers now. When he entered the Main Control Room, he himself had been taken ten years into the future. He had no reason to doubt what she was telling him.
@@ -86,7 +85,7 @@ Han Sen remembered striking a bargain with him once—one that Ghost Eye swiftly
 
 “This guy has guts to challenge me. If he wants to die, I suppose I don’t mind helping him.” Han Sen clenched his fists and accepted Ghost Eye’s challenge. Then, he entered the geno core battleground.
 
-Han Sen found the three-eyed panther waiting on the battleground. It was indeed the lying *sshole Ghost Eye.
+Han Sen found the three-eyed panther waiting on the battleground. It was indeed the lying asshole Ghost Eye.
 
 “You’ve got some nerve showing your face to me.” Han Sen moved his body and teleported directly in front of the tricky feline.
 

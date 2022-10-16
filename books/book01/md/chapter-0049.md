@@ -1,21 +1,20 @@
 ---
-Title:Starlight Arrows 
-Chapter:49 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: Starlight Arrows
+chapter: 49
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Starlight Arrows
-### Chapter 49
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Starlight Arrows
+
+### Chapter 49
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The two gangs had marched more than half a month before they reached a mountain Han Sen had never been to.
 
 On the way, Han Sen had truly understood there was strength in numbers. No creatures could block their path with the rain of arrows from the archers and the charge of the cavalry. Of course, the scouts would inform them if there were herds of strong creatures ahead of them and they would take a detour.

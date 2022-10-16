@@ -1,21 +1,20 @@
 ---
-Title:Suppress Evil Punch 
-Chapter:2141 
-Section:8 
-Book:6 
-CSS:../Styles/style.css 
+title: Suppress Evil Punch
+chapter: 2141
+section: 8
+book: 6
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Suppress Evil Punch
-### Chapter 2141
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Suppress Evil Punch
+
+### Chapter 2141
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “Suppress Evil? This is both the best and worst geno art to consider teaching.” Sky Path Garden’s leader squinted his eyes and looked over the training ground.
 
 “Leader, why do you say that?” White Real asked.

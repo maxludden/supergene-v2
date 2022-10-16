@@ -1,21 +1,20 @@
 ---
-Title:Battling Ancient Devil 
-Chapter:1667 
-Section:4 
-Book:4 
-CSS:../Styles/style.css 
+title: Battling Ancient Devil
+chapter: 1667
+section: 4
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Battling Ancient Devil
-### Chapter 1667
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Battling Ancient Devil
+
+### Chapter 1667
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen’s mind was like steel. He focused and did not allow the Sea of Soul’s discord to affect him. He punched towards Ancient Devil’s hand.
 
 This was an opening for Ancient Devil, but Han Sen also thought that it was an opportunity. His Dongxuan Aura was not maxed out yet, and because of that, he was unable to place one finger on the donkey. It was best to end these proceedings than continue with a stalemate.

@@ -1,21 +1,20 @@
 ---
-Title:Fighting in the Pond 
-Chapter:2608 
-Section:12 
-Book:8 
-CSS:../Styles/style.css 
+title: Fighting in the Pond
+chapter: 2608
+section: 12
+book: 8
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Fighting in the Pond
-### Chapter 2608
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Fighting in the Pond
+
+### Chapter 2608
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “Leader, I have been thinking about it. I’m willing to go to the Very High. But before that, I would like to speak with Exquisite alone.” Han Sen went to see Sky Palace Leader and started explaining the reason for his visit.
 
 “What do you want to say to her?” Sky Palace Leader squinted his eyes in the direction of Han Sen. He knew Han Sen and Lone Bamboo were the same. Convincing men like them of anything wasn’t easy.

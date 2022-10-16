@@ -1,21 +1,20 @@
 ---
-Title:The Charm of a Soldier 
-Chapter:498 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: The Charm of a Soldier
+chapter: 498
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## The Charm of a Soldier
-### Chapter 498
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## The Charm of a Soldier
+
+### Chapter 498
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Seeing that even Zheng Yuze failed at the test, the soldiers of Southwest Galaxy felt disappointed.
 
 "Dammit, even Zheng Yuze failed. The Tiger of Blueblood must be so content," said the young soldier sitting next to Han Sen disappointedly.

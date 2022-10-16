@@ -1,21 +1,20 @@
 ---
-Title:The Moon’s Reflection on Water 
-Chapter:1931 
-Section:7 
-Book:5 
-CSS:../Styles/style.css 
+title: The Moon’s Reflection on Water
+chapter: 1931
+section: 7
+book: 5
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## The Moon’s Reflection on Water
-### Chapter 1931
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## The Moon’s Reflection on Water
+
+### Chapter 1931
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen’s desire to perform Moon had little to do with satisfying Kriman.
 
 Han Sen thought learning Moon was a challenge from Yisha, so he wanted to prove to Yisha that he was a genius. He didn’t want her suspicions taking root.
@@ -88,7 +87,7 @@ Rebecca didn’t look so happy, though. She felt as if something was amiss, but 
 
 As everyone talked, a Viscount accidentally knocked over a geno fluid and dirtied a seat, so he moved to Han Sen’s seat.
 
-Han Sen’s cup was still there. The Viscount reached for the cup, wanting to swap it for a new one, but when he just touched the teacup, his face changed and he screamed, “What the f*ck?!”
+Han Sen’s cup was still there. The Viscount reached for the cup, wanting to swap it for a new one, but when he just touched the teacup, his face changed and he screamed, “What the fuck?!”
 
 As everyone was talking merrily, hearing him scream made everyone turn to look at him. Kriman laughed and said, “What are you screaming about?”
 

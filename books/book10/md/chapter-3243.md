@@ -1,21 +1,20 @@
 ---
-Title:Good Officer? 
-Chapter:3243 
-Section:16 
-Book:10 
-CSS:../Styles/style.css 
+title: Good Officer?
+chapter: 3243
+section: 16
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Good Officer?
-### Chapter 3243
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Good Officer?
+
+### Chapter 3243
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Jade Wall City shook. The old buildings started to all apart. Upon seeing many elders crawling out of the buildings in their feeble escapes, Qin Jing Zhen wanted to laugh.
 
 “Good. It is good that it has all been destroyed. If I cannot use them, even though they provide so many benefits, to me they are only resistances.” After a long time, Qin Jing Zhen sighed. He looked rather conflicted.

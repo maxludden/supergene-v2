@@ -1,21 +1,20 @@
 ---
-Title:Doll 
-Chapter:1280 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Doll
+chapter: 1280
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Doll
-### Chapter 1280
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Doll
+
+### Chapter 1280
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The Serpent Throne became a physical manifestation of light, and then it entered the slot that used to contain the spirit stone. When the blinding light dimmed, the statue’s forehead was revealed to now contain a brand-new spirit stone. This one possessed the image of a snake.
 
 “I thought this was a doll type beast soul. Hmm, so why did it just become a spirit stone?” Han Sen was confused.

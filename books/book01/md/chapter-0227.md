@@ -1,21 +1,20 @@
 ---
-Title:Small Request 
-Chapter:227 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: Small Request
+chapter: 227
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Small Request
-### Chapter 227
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Small Request
+
+### Chapter 227
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The next morning, Han Sen was waiting for Huangfu Pingqing in front of the teleport station.
 
 He got a text from the Office of Academic Affairs when he just saw Huangfu Pingqing. In the text, he was asked to attend a training by Situ Qing.

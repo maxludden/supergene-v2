@@ -1,21 +1,20 @@
 ---
-Title:Time Is Like a Ruler 
-Chapter:2981 
-Section:15 
-Book:9 
-CSS:../Styles/style.css 
+title: Time Is Like a Ruler
+chapter: 2981
+section: 15
+book: 9
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Time Is Like a Ruler
-### Chapter 2981
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Time Is Like a Ruler
+
+### Chapter 2981
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “Blasphemy to a God Spirit should result in death.” Moment God coldly looked at Han Sen. The needles in his right eye were turning quickly. It was different from the ones in his left eye. The needles in his right eye were going counterclockwise.
 
 As the needles of his right eye spun, in other people’s eyes, Han Sen’s movements seemed to be slower. It looked like he was moving in slow motion.

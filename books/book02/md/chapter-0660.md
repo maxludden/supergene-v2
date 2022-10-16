@@ -1,21 +1,20 @@
 ---
-Title:Completion of the Flaming Rex Spike's Evolution 
-Chapter:660 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Completion of the Flaming Rex Spike's Evolution
+chapter: 660
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Completion of the Flaming Rex Spike's Evolution
-### Chapter 660
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Completion of the Flaming Rex Spike's Evolution
+
+### Chapter 660
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 In the deep sea, Han Sen punched a three meter long jellyfish to death and dragged it back into the Crystal Palace.
 
 An angel looked at the jellyfish's lifeless corpse curiously. Recently, she had eaten a lot of sacred-blood class food and had lost track of how many creatures she had been fed from the sea.

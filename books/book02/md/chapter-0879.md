@@ -1,21 +1,20 @@
 ---
-Title:Eating the Thunderfruit 
-Chapter:879 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Eating the Thunderfruit
+chapter: 879
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Eating the Thunderfruit
-### Chapter 879
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Eating the Thunderfruit
+
+### Chapter 879
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 After Han Sen chased the three-tailed fox back to the mountaintop, the body of the bull had all disappeared. Not even the Life Geno Essence remained. The silver fox was licking its lips happily.
 
 When the three-tailed fox reached the peak, it howled. It ran in front of the silver fox and leaned down with its paws outstretched, as if it was begging for mercy.

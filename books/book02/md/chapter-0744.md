@@ -1,21 +1,20 @@
 ---
-Title:Defrosted Man 
-Chapter:744 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Defrosted Man
+chapter: 744
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Defrosted Man
-### Chapter 744
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Defrosted Man
+
+### Chapter 744
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen did not hear an announcement, and when he looked at the fairy, he knew exactly what had happened.
 
 Without hesitation, Han Sen smacked the fairy's head with his Flaming Rex Spike.

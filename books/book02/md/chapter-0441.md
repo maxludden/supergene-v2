@@ -1,21 +1,20 @@
 ---
-Title:Under the Ice Cliff 
-Chapter:441 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Under the Ice Cliff
+chapter: 441
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Under the Ice Cliff
-### Chapter 441
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Under the Ice Cliff
+
+### Chapter 441
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen did not want to run away anyway. When he used all he got, his fitness index was also more than eighty. Even if the two sacred-blood creatures were both equipped with physique more than 100, they did not have the absolute advantage.
 
 Unfortunately, the situation was too risky, so Han Sen did not dare to summon the desert bird, afraid that it might be killed by the two sacred-blood creatures. Otherwise, his fitness level should be even higher.

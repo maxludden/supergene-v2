@@ -1,21 +1,20 @@
 ---
-Title:The Burial Site of Three Thousand Feathers 
-Chapter:1777 
-Section:6 
-Book:5 
-CSS:../Styles/style.css 
+title: The Burial Site of Three Thousand Feathers
+chapter: 1777
+section: 6
+book: 5
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## The Burial Site of Three Thousand Feathers
-### Chapter 1777
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## The Burial Site of Three Thousand Feathers
+
+### Chapter 1777
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “Long ago, three thousand prisoners were forced to mine ore across Mosi Mountain. They were unable to leave until death claimed them.” Kong Fei did not answer Duke Brilliant. All he did was say something that made no sense, given the current context.
 
 But after Duke Brilliant heard what he was told, his face paled and he shouted, “Who are you!”

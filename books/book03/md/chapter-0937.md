@@ -1,21 +1,20 @@
 ---
-Title:Disloyal Knight 
-Chapter:937 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Disloyal Knight
+chapter: 937
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Disloyal Knight
-### Chapter 937
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Disloyal Knight
+
+### Chapter 937
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 "This is weird." Han Sen frowned. Only the Knight Tree had a lifeforce in the vicinity.
 
 "Maybe the tree absorbed the life from the soil all around it?" Han Sen asked, looking at Moment Queen.

@@ -1,21 +1,20 @@
 ---
-Title:Reboot Class 
-Chapter:3417 
-Section:17 
-Book:10 
-CSS:../Styles/style.css 
+title: Reboot Class
+chapter: 3417
+section: 17
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Reboot Class
-### Chapter 3417
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Reboot Class
+
+### Chapter 3417
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 As he bowed, the wounds on his arm and the broken black crystal armor had already recovered. No trace of the wounds he had just incurred was found.
 
 Han Sen frowned and thought, “The geno prototype armor has a real body inside it. What does this mean? Did Qin Xiu give up his body and use a pure spirit body to enter the geno prototype armor? If this was true, there should not be any actual body inside it.”

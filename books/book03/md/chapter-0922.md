@@ -1,21 +1,20 @@
 ---
-Title:Taking Food From a Dragon 
-Chapter:922 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Taking Food From a Dragon
+chapter: 922
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Taking Food From a Dragon
-### Chapter 922
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Taking Food From a Dragon
+
+### Chapter 922
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The vine's height was approximately fifty meters tall. Beside it, rested a wyvern.
 
 Han Sen had detected a large lifeforce coming from the fruit on the vine, but he had also detected a large lifeforce coming from the wyvern. If he had to estimate, he'd have guessed it was at least a sacred-blood creature.

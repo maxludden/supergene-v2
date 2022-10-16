@@ -1,21 +1,20 @@
 ---
-Title:Meeting Old Cat Again 
-Chapter:1781 
-Section:6 
-Book:5 
-CSS:../Styles/style.css 
+title: Meeting Old Cat Again
+chapter: 1781
+section: 6
+book: 5
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Meeting Old Cat Again
-### Chapter 1781
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Meeting Old Cat Again
+
+### Chapter 1781
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Stay Up Late shook his head and bowed before the beast, apologizing. “I appreciate the offer, but no thank you.”
 
 The beast, hearing Stay Up Late reject the offer, stopped talking. He moved his body and flew up into space. He disappeared into the cosmos.
@@ -70,7 +69,7 @@ Han Sen really hated what Old Cat had done, and he could only catch a glimpse of
 
 “Could you stop swinging for a minute! I have come here to discuss serious business.” Old Cat kept dodging as he said, “Littleflower wants to learn sword skills. He needs a shortsword, and that feather can craft one that is perfect for him.”
 
-“F*ck you.” Han Sen didn’t wait until Old Cat finished talking before trying to punch him again.
+“Fuck you.” Han Sen didn’t wait until Old Cat finished talking before trying to punch him again.
 
 Han Sen knew the *ssholes wouldn’t just give him the video out of kindness. All Old Cat wanted was Kong Fei’s feather. Stay Up Late said, “Old Cat, if you take me to see Littleflower, I will give you the feather.”
 

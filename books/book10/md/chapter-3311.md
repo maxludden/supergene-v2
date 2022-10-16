@@ -1,21 +1,20 @@
 ---
-Title:I Am Here 
-Chapter:3311 
-Section:17 
-Book:10 
-CSS:../Styles/style.css 
+title: I Am Here
+chapter: 3311
+section: 17
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## I Am Here
-### Chapter 3311
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## I Am Here
+
+### Chapter 3311
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen clutched his Inch Grey Sword and swung it at the jade sword. He broke the jade sword. He did not stop. He started to attack the black jade statue.
 
 The black jade statue’s eyes had an evil light flicker. The jade sword on its waist came out from the scabbard. One sword sound shocked the sky and the ground. It was like a jade pillar-like sword light was breaking the sky. It went toward Han Sen’s Inch Grey Sword.

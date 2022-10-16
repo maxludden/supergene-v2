@@ -1,20 +1,19 @@
 ---
-Title:Evolved
-Chapter:1616
-Section:4
-Book:4
-CSS:../Styles/style.css
+title: Evolved
+chapter: 1616
+section: 4
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
 
 ## Evolved
+
 ### Chapter 1616
 
 <figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
 </figure>
-
-
 
 Little Angel didn’t change much. She still had that white cape, and her hair looked tidy. The angel wings on her back and the halo on her head didn’t show up under non-fighting mode. Her face was so pure that it seemed she was actually from heaven.
 
@@ -29,16 +28,15 @@ Or were they only at bronze level when they were born? Maybe they needed to upgr
 <div class="tables">
 	<table class="beast">
 		<tr>
-			<th>Beast Soul</th>
+			<th colspan="2">Beast Soul</th>
 		</tr><tr>
-			<td>Super Archangel<br>
-				<span class="type">(Pet)</span>
-			</td>
+			<td>Super Archangel</td>
+			<td>(Pet)</td>
 		</tr><tr>
-			<th class="note">Note: Evolved to Fighting Status <br>(Evolve and Merge)</th>
+			<th class="note" colspan="2">Note: Evolved to Fighting Status (Evolve and Merge)</th>
 	</table>
 	<!-- Super beast soul: Pet type. Evolved to fighting status (Evolve and merge).-->
-</div>
+</div> 
 
 Han Sen relieved now. She was still super class, and nothing had changed about her. She still had all her abilities, and she could still evolve.
 
@@ -47,16 +45,15 @@ Han Sen took a look at Golden Growler’s description, and he wasn’t as anxiou
 <div class="tables">
 	<table class="beast">
 		<tr>
-			<th>Beast Soul</th>
+			<th colspan="2">Beast Soul</th>
 		</tr><tr>
-			<td>Super Golden Growler<br>
-				<span class="type">(Mount)</span>
-			</td>
+			<td>Super Golden Growler</td>
+			<td>(Mount)</td>
 		</tr><tr>
 			<th class="note" colspan="2">Note: Evolved and Psychic</th>
 	</table>
 	<!-- Super beast soul Golden Growler: Mount-type (Evolve and psychic).-->
-</div>
+</div> 
 
 Han Sen was dazed, and he didn’t know what psychic meant. Golden Growler’s description had never contained that information before.
 

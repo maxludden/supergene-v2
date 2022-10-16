@@ -1,21 +1,20 @@
 ---
-Title:Demon Heart Ring 
-Chapter:1358 
-Section:4 
-Book:4 
-CSS:../Styles/style.css 
+title: Demon Heart Ring
+chapter: 1358
+section: 4
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Demon Heart Ring
-### Chapter 1358
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Demon Heart Ring
+
+### Chapter 1358
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Shelters in the Fourth God’s Sanctuary were different than those of the Third God’s Sanctuary. Aside from the geno core you could obtain from a claimed shelter, an additional geno core could be retrieved from a treasure chest if the shelter was previously unclaimed.
 
 Moment Queen had yet to recover from her injuries, but she was still able to control the shelter.

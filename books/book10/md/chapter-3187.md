@@ -1,21 +1,20 @@
 ---
-Title:Cutting Paper 
-Chapter:3187 
-Section:16 
-Book:10 
-CSS:../Styles/style.css 
+title: Cutting Paper
+chapter: 3187
+section: 16
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Cutting Paper
-### Chapter 3187
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Cutting Paper
+
+### Chapter 3187
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 A mountain pierced through the skies. A strange god temple was on its peak.
 
 The god temple’s structure was very defined. The primary hall was only nine feet tall. It had a few side halls. Overall, it looked very large, but a large god temple like that gave people the feeling that it could easily break. It was hard to describe how weird it was.

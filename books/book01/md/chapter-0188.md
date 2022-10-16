@@ -1,20 +1,19 @@
 ---
-Title:Ghost Butterfly
-Chapter:188
-Section:1
-Book:1
-CSS:../Styles/style.css
+title: Ghost Butterfly
+chapter: 188
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
 
 ## Ghost Butterfly
+
 ### Chapter 188
 
 <figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
 </figure>
-
-
 
 The sacred-blood black-feathered beast king tried to wiggle free, but was pinned back down by Han Sen. Growling, it did not struggle again.
 
@@ -73,25 +72,22 @@ In addition to the primitive ghost butterfly beast soul, he had also gained a pr
 <div class="tables">
 	<table class="beast">
 		<tr>
-			<th>Beast Souls Gained</th>
+			<th colspan="2">Beast Souls Gained</th>
 		</tr><tr>
-			<td>Primitive Ghost Butterfly<br>
-				<span class="type">(One-Off Hidden Weapon)</span>
-			</td>
+			<td>Primitive Ghost Butterfly</td>
+			<td>(One-Off Hidden Weapon)</td>
 		</tr><tr>
-			<td>Primitive Black-Feathered Beast<br>
-				<span class="type">(Flying)</span>
-			</td>
+			<td>Primitive Black-Feathered Beast</td>
+			<td>(Flying)</td>
 		</tr><tr>
-			<td>Mutant Black-Feathered Beast<<br>
-				<span class="type">(Flying)</span>
-			</td>
+			<td>Mutant Black-Feathered Beast</td>
+			<td>(Flying)</td>
 		</tr>
 	</table>
-	<!-- Type of primitive ghost butterfly beast soul: one-off hidden weapon. -->
-	<!-- Type of beast soul of primitive black-feathered beast: flying. -->
-	<!-- Type of beast soul of mutant black-feathered beast: flying. -->
-</div>
+	<!-- Type of primitive ghost butterfly beast soul: one-off hidden weapon. --> 
+	<!-- Type of beast soul of primitive black-feathered beast: flying. --> 
+	<!-- Type of beast soul of mutant black-feathered beast: flying. --> 
+</div> 
 
 Han Sen saw the latter two and became overjoyed. There were so few creatures near his shelter that would produce flying beast souls that few people had wings in the entire Steel Armor Shelter.
 

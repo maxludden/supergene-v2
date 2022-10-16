@@ -1,21 +1,20 @@
 ---
-Title:Eastern King Was Here 
-Chapter:1535 
-Section:4 
-Book:4 
-CSS:../Styles/style.css 
+title: Eastern King Was Here
+chapter: 1535
+section: 4
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Eastern King Was Here
-### Chapter 1535
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Eastern King Was Here
+
+### Chapter 1535
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The text Han Sen saw across the tower was in a human language, but he was too lazy to think about that. The content spoke about the Blood-Pulse Sutra. This surprised him, though.
 
 The text didn’t concern itself with the main parts of the Blood-Pulse Sutra, and neither was there anything applying to Life Door. But when Han Sen read it, he noticed it was a secret method that could trigger a hidden power of the blood. It was similar to the shura triggering their Shura Change.

@@ -1,21 +1,20 @@
 ---
-Title:I Want Your Genes 
-Chapter:933 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: I Want Your Genes
+chapter: 933
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## I Want Your Genes
-### Chapter 933
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## I Want Your Genes
+
+### Chapter 933
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The next day, Han Sen asked his mother to bring Zero to the teleporter in Moment Shelter, to see whether or not she could teleport.
 
 Like before, she came through the teleporter into his shelter. Han Sen was quickly delighted.

@@ -1,26 +1,25 @@
 ---
-Title:Death Goddess 
-Chapter:1587 
-Section:4 
-Book:4 
-CSS:../Styles/style.css 
+title: Death Goddess
+chapter: 1587
+section: 4
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Death Goddess
-### Chapter 1587
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Death Goddess
+
+### Chapter 1587
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Ghost Eye had already schemed what to do, and as soon as the deal was done, he contacted the buyer. But as soon as he made contact with the person, he lost his first rank position.
 
 “Ghost Eye, are you trying to trick me again?” The spirit that wished to make a trade with Ghost Eye spoke with a cold tone of voice.
 
-“No… I… What the f*ck happened?” Ghost Eye looked disheartened. He had been super quick, so how could someone have already usurped his position?
+“No… I… What the fuck happened?” Ghost Eye looked disheartened. He had been super quick, so how could someone have already usurped his position?
 
 “Does this have something to do with that guy?” Ghost Eye saw that the first rank was now occupied by Bulwark Umbrella. He kept thinking about it, and soon, a chill ran down his spine.
 

@@ -1,21 +1,20 @@
 ---
-Title:You Come, I Go 
-Chapter:1994 
-Section:8 
-Book:6 
-CSS:../Styles/style.css 
+title: You Come, I Go
+chapter: 1994
+section: 8
+book: 6
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## You Come, I Go
-### Chapter 1994
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## You Come, I Go
+
+### Chapter 1994
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen sighed as he tried to think of which skill he might need in order to defeat Lone Bamboo. Han Sen had mastered many techniques, but when compared to Lone Bamboo, he only excelled in a meager few.
 
 Lone Bamboo could spend a lifetime learning proficiency with a skill in the space of one dream. Han Sen, however, was just a human. A life was only a few decades long. He wasn’t even a hundred years old, and so he couldn’t compete with Lone Bamboo.

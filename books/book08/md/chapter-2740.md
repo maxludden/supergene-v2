@@ -1,21 +1,20 @@
 ---
-Title:Eye in the Painting 
-Chapter:2740 
-Section:13 
-Book:8 
-CSS:../Styles/style.css 
+title: Eye in the Painting
+chapter: 2740
+section: 13
+book: 8
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Eye in the Painting
-### Chapter 2740
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Eye in the Painting
+
+### Chapter 2740
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 But in this case, losing oneself wasn’t a bad thing. When people were uncertain of which path they wanted to traverse in their life, they could lose themselves in the drawing and choose a mind to complete their purpose. For people who were still establishing their own identity, finding a mind within the drawing that they could claim as their own could help them in the future.
 
 Han Sen was different. He already had a path to walk, and if he allowed himself to be influenced by the mind of the drawing, the core of who he was would be destroyed.

@@ -1,21 +1,20 @@
 ---
-Title:Three Statues 
-Chapter:1255 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Three Statues
+chapter: 1255
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Three Statues
-### Chapter 1255
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Three Statues
+
+### Chapter 1255
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Blood River King stood at the tallest rampart of the castle, overlooking the river.
 
 The Blood River ran fast, and the banks sometimes burst, but flooding had never been this bad before. Much of the shelter had been submerged.

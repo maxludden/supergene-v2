@@ -1,21 +1,20 @@
 ---
-Title:Creepy Shelter 
-Chapter:1394 
-Section:4 
-Book:4 
-CSS:../Styles/style.css 
+title: Creepy Shelter
+chapter: 1394
+section: 4
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Creepy Shelter
-### Chapter 1394
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Creepy Shelter
+
+### Chapter 1394
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 In the drawing, a building resided beyond the gates and ramparts; one that looked like a tower.
 
 It was very wide on the bottom, but became gradually thinner, all the way up. The entire thing looked to be approximately fifty meters tall. What stood out most to Han Sen was the mural that had been wrought into the stone of the construct.

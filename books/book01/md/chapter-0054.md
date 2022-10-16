@@ -1,21 +1,20 @@
 ---
-Title:Small Gift 
-Chapter:54 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: Small Gift
+chapter: 54
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Small Gift
-### Chapter 54
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Small Gift
+
+### Chapter 54
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 > "Meat of Copper-Toothed Beast eaten. One Sacred-Blood geno point gained."
 >
 > "Meat of Copper-Toothed Beast eaten. One Sacred-Blood geno point gained."

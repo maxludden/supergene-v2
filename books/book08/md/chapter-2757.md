@@ -1,21 +1,20 @@
 ---
-Title:Growing Knife 
-Chapter:2757 
-Section:13 
-Book:8 
-CSS:../Styles/style.css 
+title: Growing Knife
+chapter: 2757
+section: 13
+book: 8
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Growing Knife
-### Chapter 2757
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Growing Knife
+
+### Chapter 2757
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “I can’t control it much longer. It’s going to kill you. Run!” the little girl said, the panic in her voice growing.
 
 Han Sen looked at the little girl holding that knife. Her hands continued to bleed profusely. As her blood continued to flow the blade, the sharp knife’s presence faded a little. It wasn’t gone, though. The knife’s aura was still there, pressing out against the little girl’s hand. It moaned gently. Han Sen knew that if the little girl stopped giving it blood, the knife would immediately go after him again.

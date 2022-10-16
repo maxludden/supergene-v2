@@ -1,21 +1,20 @@
 ---
-Title:Road to the Sky 
-Chapter:1963 
-Section:8 
-Book:6 
-CSS:../Styles/style.css 
+title: Road to the Sky
+chapter: 1963
+section: 8
+book: 6
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Road to the Sky
-### Chapter 1963
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Road to the Sky
+
+### Chapter 1963
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “Strange. All the gourds showed a reaction, but they didn’t give out a holy aura. This is really strange.” Inside a building, a man of the Sky race frowned as he looked upon Han Sen traversing the Sky Road. He was in deep thought.
 
 Everyone in Sky Palace showed a similar expression. They had never seen a holy gourd react that way, and so no one knew what it meant.

@@ -1,21 +1,20 @@
 ---
-Title:Returning to First 
-Chapter:1417 
-Section:4 
-Book:4 
-CSS:../Styles/style.css 
+title: Returning to First
+chapter: 1417
+section: 4
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Returning to First
-### Chapter 1417
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Returning to First
+
+### Chapter 1417
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “It wasn’t a bad bargain, all things considered.” After trying out the armor for a bit, Han Sen grew rather fond of it. Its properties were right up his alley, in how it masked the user inside and obscured their lifeforce. Its defense-boosting was remarkable.
 
 Geno core armor was also defined differently than beast soul armor, and if you wanted to, you could use a set of each at the same time.

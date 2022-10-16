@@ -1,20 +1,19 @@
 ---
-Title:Fighting the Shelter
-Chapter:1606
-Section:4
-Book:4
-CSS:../Styles/style.css
+title: Fighting the Shelter
+chapter: 1606
+section: 4
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
 
 ## Fighting the Shelter
+
 ### Chapter 1606
 
 <figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
 </figure>
-
-
 
 > "Berserk Super Creature Fallen Slaughter Killed. Beast Soul Gained. Geno Core Destroyed. Flesh Cannot Be Eaten. Collect the Life Geno Essence to Gain One to Ten Super Geno Points Randomly."
 
@@ -35,13 +34,12 @@ Fallen Slaughter was like a demon inside his Sea of Soul, one with a body wholly
 		<tr>
 			<th colspan="2">Beast Soul</th>
 		</tr><tr>
-			<td>Berserk Super Fallen Slaughter<br>
-				<span class="type">(Shapeshifting)</span>
-			</td>
+			<td>Berserk Super Fallen Slaughter</td>
+			<td>(Shapeshifting)</td>
 		</tr>
 	</table>
 	<!-- Berserk Super Beast Soul Fallen Slaughter: Transformation-type-->
-</div>
+</div> 
 
 It was a shapeshifting beast soul with a humanoid shape. It meant Han Sen could alter his body into something that would allow him to go toe-to-toe with berserk super creatures. He could really show the breadth of his strength with that.
 

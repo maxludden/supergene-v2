@@ -1,21 +1,20 @@
 ---
-Title:Death Angel 
-Chapter:2931 
-Section:15 
-Book:9 
-CSS:../Styles/style.css 
+title: Death Angel
+chapter: 2931
+section: 15
+book: 9
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Death Angel
-### Chapter 2931
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Death Angel
+
+### Chapter 2931
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Moon Shadow God could saw that her shadow blades weren’t working, so she revealed herself from out of the darkness. She was floating behind the shadow blades. She looked at Han Sen madly and said, “No matter how strong you are, you must die because of what you did to my son.”
 
 Han Sen coldly said, “Moon Shadow God, I pity you. I do not want to kill you. You should just go.”

@@ -1,21 +1,20 @@
 ---
-Title:Not Interested 
-Chapter:409 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: Not Interested
+chapter: 409
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Not Interested
-### Chapter 409
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Not Interested
+
+### Chapter 409
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Being able to be instructed by Jia Sidao himself was the dream of many among the celebrities and aristocrats. However, Han Sen was not really interested in it.
 
 If it was before, Han Sen would consider it. Jia Sidao was a demigod after all, and Iron Fist was one of the most well-known hyper geno arts.

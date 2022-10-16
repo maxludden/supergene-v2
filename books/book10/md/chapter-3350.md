@@ -1,21 +1,20 @@
 ---
-Title:Meeting Destiny Tablet Again 
-Chapter:3350 
-Section:17 
-Book:10 
-CSS:../Styles/style.css 
+title: Meeting Destiny Tablet Again
+chapter: 3350
+section: 17
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Meeting Destiny Tablet Again
-### Chapter 3350
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Meeting Destiny Tablet Again
+
+### Chapter 3350
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Ancient Devil stood next to the river and gazed across to it. After a while, he said, “This river is a bit weird. Maybe there is something underneath it. We should go down deeper into the lake.”
 
 Han Sen looked at the lake. He did not know much about land pulses and things like that, but his sense of perception was razorblade sharp. He felt that the lake was special in some capacity. It was like there was some spirit air coming down from it.

@@ -1,21 +1,20 @@
 ---
-Title:Fighting Wan'er 
-Chapter:3368 
-Section:17 
-Book:10 
-CSS:../Styles/style.css 
+title: Fighting Wan'er
+chapter: 3368
+section: 17
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Fighting Wan'er
-### Chapter 3368
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Fighting Wan'er
+
+### Chapter 3368
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The Blonde Wan’er did not display the slightest flicker of emotion. It was like she was incapable of rendering them. Her eyes were very cold. It was as if she saw nothing. When she looked at Han Sen, it was as if her focus wasn’t even on him.
 
 “Wan’er.” Han Sen gently called out her name, but he could see Wan’er’s emotionless face show no difference. He knew blonde Wan’er didn’t like him as the black-haired Wan’er did.

@@ -1,21 +1,20 @@
 ---
-Title:Sanctuary’s Gate 
-Chapter:1733 
-Section:6 
-Book:5 
-CSS:../Styles/style.css 
+title: Sanctuary’s Gate
+chapter: 1733
+section: 6
+book: 5
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Sanctuary’s Gate
-### Chapter 1733
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Sanctuary’s Gate
+
+### Chapter 1733
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 A strange power burst out from the officer. It became a blast in the air and then quickly disappeared. After one second, a vortex manifested in the sky. It was light, and the dimensions inside whirled and twisted.
 
 The sky was like a lake with a whirlpool. It was scary, and even elites like Gu Qingcheng frowned.

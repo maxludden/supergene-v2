@@ -1,21 +1,20 @@
 ---
-Title:Broken Bone 
-Chapter:1142 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Broken Bone
+chapter: 1142
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Broken Bone
-### Chapter 1142
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Broken Bone
+
+### Chapter 1142
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The lady’s voice was like music, and just hearing it made Han Sen happy.
 
 “My name is Han Sen. What about you?” Han Sen asked.

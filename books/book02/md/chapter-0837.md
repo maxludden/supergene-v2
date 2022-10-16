@@ -1,21 +1,20 @@
 ---
-Title:Brother-in-law Is So Cool 
-Chapter:837 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Brother-in-law Is So Cool
+chapter: 837
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Brother-in-law Is So Cool
-### Chapter 837
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Brother-in-law Is So Cool
+
+### Chapter 837
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen's face remained emotionless, looking at Tu Bin. He thought the young men around him were rather interesting, as they were all considered high-class in the Alliance. They might not have all belonged to the same factions, but as was displayed by Yi Dongmu, an individual's power was respected.
 
 This principle kept things simple.

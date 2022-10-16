@@ -1,21 +1,20 @@
 ---
-Title:Close Call 
-Chapter:2679 
-Section:13 
-Book:8 
-CSS:../Styles/style.css 
+title: Close Call
+chapter: 2679
+section: 13
+book: 8
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Close Call
-### Chapter 2679
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Close Call
+
+### Chapter 2679
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “Haha! I knew Shale wouldn’t lose. Did Mo Fang and Han Sen seriously think that they could fight Shale?” Li Xue Cheng was so excited that he couldn’t help but cackle.
 
 Relief washed over Liyu Zhen. If Shale were to lose, their lives would become very difficult in the near future.
@@ -82,7 +81,7 @@ Every time he used a new skill, Han Sen felt like he had gained the advantage. F
 
 Plus, Shale used the same punching skill the entire time. He didn’t alter his own skills until he became familiar with Han Sen’s geno arts. Then, he changed his punching skill just enough to counter each of Han Sen’s techniques.
 
-“F*ck this guy! He wasn’t just born deified. He was born a battle master, as well. He is far too sensitive to the delicacies of combat. I only have to use the same skill on him twice before he learns how to deal with it. Who is this f*cking guy?” Han Sen had never seen such intimidating battle talent.
+“Fuck this guy! He wasn’t just born deified. He was born a battle master, as well. He is far too sensitive to the delicacies of combat. I only have to use the same skill on him twice before he learns how to deal with it. Who is this fucking guy?” Han Sen had never seen such intimidating battle talent.
 
 Shale and Lone Bamboo were different. Because Lone Bamboo had experienced far too much in his lifetime, he could adapt and control his style perfectly. He could easily learn the geno arts of other people, and every technique he used was top class. Shale didn’t bother actually learning the geno arts of others. He simply made himself more powerful and brute-forced his way through all obstacles.
 

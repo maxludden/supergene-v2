@@ -1,21 +1,20 @@
 ---
-Title:Buddha Touching a Flower 
-Chapter:1902 
-Section:7 
-Book:5 
-CSS:../Styles/style.css 
+title: Buddha Touching a Flower
+chapter: 1902
+section: 7
+book: 5
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Buddha Touching a Flower
-### Chapter 1902
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Buddha Touching a Flower
+
+### Chapter 1902
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen stood in front of the testing gold rock, and his mind moved quickly.
 
 No Flower’s Touching Flower Finger mind was not a King class display, but to young Nobles, it certainly seemed that strong.

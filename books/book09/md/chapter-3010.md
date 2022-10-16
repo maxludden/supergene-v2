@@ -1,21 +1,20 @@
 ---
-Title:Adult Ceremony 
-Chapter:3010 
-Section:15 
-Book:9 
-CSS:../Styles/style.css 
+title: Adult Ceremony
+chapter: 3010
+section: 15
+book: 9
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Adult Ceremony
-### Chapter 3010
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Adult Ceremony
+
+### Chapter 3010
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 When Han Sen heard that, his expression kept changing. It was not like he did not want to give Dragon Lady a drop of his blood. Let alone a drop of blood, Han Sen would have given her a bucket of blood if she needed it. For him, it was nothing that would harm him.
 
 But that was blood Han Sen could not really give since he could not control the blue blood power. If Dragon Lady had some blue blood and was unable to refine it, she would end up being infected by the blue blood. That would have been bad.

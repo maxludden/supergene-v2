@@ -1,20 +1,19 @@
 ---
-Title:Old Bee Tree
-Chapter:1521
-Section:4
-Book:4
-CSS:../Styles/style.css
+title: Old Bee Tree
+chapter: 1521
+section: 4
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
 
 ## Old Bee Tree
+
 ### Chapter 1521
 
 <figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
 </figure>
-
-
 
 They had been too busy killing the ant king, and they hadn’t paid attention to what else was going on. They heard a noise, and they finally noticed a dome-like cave ahead of them, and an old tree inside it.
 
@@ -73,15 +72,14 @@ When Han Sen retired to his room, he had the time to inspect the Bloodthirsty An
 <div class="tables">
 	<table class="beast">
 		<tr>
-			<th>Beast Soul</th>
+			<th colspan="2">Beast Soul Gained</th>
 		</tr><tr>
-			<td>Super Bloodthirsty Ant King<br>
-				<span class="type">(Glyph)</span>
-			</td>
+			<td>Super Bloodthirsty Ant King</td>
+			<td>(Glyph)</td>
 		</tr>
 	</table>
 	<!-- Super Beast Soul Bloodthirsty Ant King: Glyph-Type -->
-</div>
+</div> 
 
 Han Sen already knew about the ant king’s beast soul type, so he summoned it out. The tattoo of a red ant king appeared on his body, and when it did, a strange heat surged into him. With this intense warmth, it soon began to feel as if his blood was boiling. His strength and speed had definitely increased.
 

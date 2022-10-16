@@ -1,21 +1,20 @@
 ---
-Title:Fire Bird 
-Chapter:353 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: Fire Bird
+chapter: 353
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Fire Bird
-### Chapter 353
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Fire Bird
+
+### Chapter 353
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Mr. Yu was burned seriously and rolled around on the ground to put out the blue flame. When he looked up, he found that Han Sen was squatting in front of him, a skeleton's dagger on his neck.
 
 "Mr. Yu, you're such a kind person. I know you must want to help the poor and give me more sacred-blood beast souls for free. Now, this time, how many do you plan to give me?" Han Sen patted Mr. Yu's face with the other dagger.

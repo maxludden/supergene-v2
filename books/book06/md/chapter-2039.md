@@ -1,21 +1,20 @@
 ---
-Title:Xius 
-Chapter:2039 
-Section:8 
-Book:6 
-CSS:../Styles/style.css 
+title: Xius
+chapter: 2039
+section: 8
+book: 6
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Xius
-### Chapter 2039
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Xius
+
+### Chapter 2039
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen had noticed Dragon Fifteen and his maid, so he kept his power in check. He didn’t behave in a way that would draw particular attention, but Dragon Fifteen could still see he was worth watching.
 
 Han Sen’s wounds had almost healed by this point, and so he could fight almost like usual. But this place belonged to the Dragon, and he couldn’t leave it freely. If his identity was exposed, then he could be trapped there.

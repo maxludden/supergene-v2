@@ -1,21 +1,20 @@
 ---
-Title:Treasure in the Lake 
-Chapter:1797 
-Section:6 
-Book:5 
-CSS:../Styles/style.css 
+title: Treasure in the Lake
+chapter: 1797
+section: 6
+book: 5
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Treasure in the Lake
-### Chapter 1797
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Treasure in the Lake
+
+### Chapter 1797
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 What do you mean?” Han Sen asked, with a frown.
 
 “If you want to live, listen to me and follow my instructions closely. If you want to die, death can come easily. Just take a look at the wound on your arm for assurance,” Yisha said coldly.

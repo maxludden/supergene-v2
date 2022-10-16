@@ -1,20 +1,19 @@
 ---
-Title:Claiming Another Deified Beast Soul
-Chapter:2579
-Section:12
-Book:8
-CSS:../Styles/style.css
+title: Claiming Another Deified Beast Soul
+chapter: 2579
+section: 12
+book: 8
+CSS: style.css
 viewport: width=device-width
 ---
 
 ## Claiming Another Deified Beast Soul
+
 ### Chapter 2579
 
 <figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
 </figure>
-
-
 
 With Han Sen controlling the Six Core God Snake, the small Crocodile God became cocky. The Six Core God Snake had beat him up earlier, and so he gnashed his teeth now in rage. His body unleashed a black light, and even more heavy substance chains thudded into the Six Core God Snake. The Six Core God Snake’s movements slowed to a crawl. There was no way that it could escape the planet now.
 
@@ -89,11 +88,10 @@ Han Sen flew away. And as he went, he examined the core deified beast soul he ha
 <div class="tables">
     <table class="beast">
         <tr>
-            <th>Beast Soul</th>
+            <th colspan="2">Beast Soul Gained</th>
         </tr><tr>
-            <td>Core Deified Six Core God Snake<br>
-                <span class="type">(Weapon)</span>
-            </td>
+            <td>Core Deified Six Core God Snake</td>
+            <td>Weapon</td>
         </tr>
     </table>
     <!--Core deified beast soul Six Core God Snake: Weapon-->

@@ -1,21 +1,20 @@
 ---
-Title:Textbook Example 
-Chapter:1195 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Textbook Example
+chapter: 1195
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Textbook Example
-### Chapter 1195
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Textbook Example
+
+### Chapter 1195
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Fang Mingquan entered the virtual community and sent a message to Yuan Zhufeng.
 
 Fang Mingquan had scheduled an interview with Yuan Zhufeng, and despite the fact that they could only meet inside the virtual community, he had still been very excited for the occasion.

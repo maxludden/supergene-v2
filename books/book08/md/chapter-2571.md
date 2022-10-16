@@ -1,21 +1,20 @@
 ---
-Title:Crystal Furnace Database 
-Chapter:2571 
-Section:12 
-Book:8 
-CSS:../Styles/style.css 
+title: Crystal Furnace Database
+chapter: 2571
+section: 12
+book: 8
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Crystal Furnace Database
-### Chapter 2571
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Crystal Furnace Database
+
+### Chapter 2571
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen memorized the Crystal Furnace skill, then he broke the crystal wall back down and tossed the remains into the burning sea.
 
 Although the Crocodile God hadn’t clamped down on his freedom to explore, Han Sen knew that a being of such power would be to control the whole fortress. If Han Sen did something bad, like opening his core area hall, he would be immediately stopped. So, Han Sen didn’t make any reckless escape attempts. Instead, he did legitimate work, shoveling and cleaning things up properly. He cleaned like a man who had come from a long line of noble janitors.

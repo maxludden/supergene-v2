@@ -1,21 +1,20 @@
 ---
-Title:God and Immortality 
-Chapter:3015 
-Section:15 
-Book:9 
-CSS:../Styles/style.css 
+title: God and Immortality
+chapter: 3015
+section: 15
+book: 9
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## God and Immortality
-### Chapter 3015
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## God and Immortality
+
+### Chapter 3015
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen looked at Han Yufei as he said, “If you are willing to explain, then I should be able to understand.”
 
 Han Yufei was non-committal. She coldly said, “Aside from Ancient God and God Spirits, the universe’s creatures have a mortal life. Do you know what determines their lifespan?”

@@ -1,21 +1,20 @@
 ---
-Title:Rebate Alpha 
-Chapter:2167 
-Section:9 
-Book:6 
-CSS:../Styles/style.css 
+title: Rebate Alpha
+chapter: 2167
+section: 9
+book: 6
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Rebate Alpha
-### Chapter 2167
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Rebate Alpha
+
+### Chapter 2167
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen returned to Narrow Moon, where he was kept busy for the next few days. When all that was sorted out, he went back to Planet Eclipse.
 
 The base was as he had left it, with Zero, Han Ling’er, Little Angel, and Yisha looking after the place. Consequently, Planet Eclipse was doing fine on the whole, as well.

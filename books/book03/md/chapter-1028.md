@@ -1,21 +1,20 @@
 ---
-Title:Ghost-sword Comes 
-Chapter:1028 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Ghost-sword Comes
+chapter: 1028
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Ghost-sword Comes
-### Chapter 1028
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Ghost-sword Comes
+
+### Chapter 1028
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Now that the ghost fox had been slain, Han Sen believed he could ransack Ghost Mountain alongside Little Silver.
 
 But the silver fox, after receiving the Life Geno Essence, disappeared for a few days.

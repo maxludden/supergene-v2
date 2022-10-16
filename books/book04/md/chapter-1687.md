@@ -1,21 +1,20 @@
 ---
-Title:Jewelry Light 
-Chapter:1687 
-Section:5 
-Book:4 
-CSS:../Styles/style.css 
+title: Jewelry Light
+chapter: 1687
+section: 5
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Jewelry Light
-### Chapter 1687
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Jewelry Light
+
+### Chapter 1687
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 1687 Jewelry Ligh
 
 When a greatsword came at him next, Han Sen didn’t dodge. He reached out his arm that had been plated in geno armor and caught the falling blade.

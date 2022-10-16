@@ -1,21 +1,20 @@
 ---
-Title:The Sword Pointed at Devil-blood Shelter 
-Chapter:844 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: The Sword Pointed at Devil-blood Shelter
+chapter: 844
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## The Sword Pointed at Devil-blood Shelter
-### Chapter 844
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## The Sword Pointed at Devil-blood Shelter
+
+### Chapter 844
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen did not want to visit the Qi family himself, so he asked Ji Ruozhen to buy the pills for him. He also explained to him the likely benefice the pills would provide humanity in the future.
 
 Ji Ruozhen's thoughts aligned with Han Sen's own. He had convened a family meeting earlier, in the hopes of asking the family whether or not they should buy all the pet pills produced by the Qi family.

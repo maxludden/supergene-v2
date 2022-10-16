@@ -1,21 +1,20 @@
 ---
-Title:First Person Who Dies for You 
-Chapter:1172 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: First Person Who Dies for You
+chapter: 1172
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## First Person Who Dies for You
-### Chapter 1172
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## First Person Who Dies for You
+
+### Chapter 1172
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen used his Blood-Pulse Sutra to open nine gene locks. He lowered his red body and avoided Dry Bone’s incoming punch.
 
 Dry Bone was a strong king spirit, and Han Sen’s fitness wasn’t quite up to the level necessary to reliably defeat the spirit. At the very least, he knew he couldn’t fight him head-on.

@@ -1,21 +1,20 @@
 ---
-Title:Queen’s Student 
-Chapter:1817 
-Section:6 
-Book:5 
-CSS:../Styles/style.css 
+title: Queen’s Student
+chapter: 1817
+section: 6
+book: 5
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Queen’s Student
-### Chapter 1817
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Queen’s Student
+
+### Chapter 1817
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen did not know if Yisha had gone crazy, or if he himself had snapped. “She wants to take me as a student What? I thought she hated my guts! I thought she’d prefer to skin me alive. Why would she take me as a student, pledging to make me a Duke in three years? Did her mind implode in rage, and this is some strange form of insanity?”
 
 “Or is this all one great, big conspiracy? Will she try and trick me before destroying me? She could destroy me right now, if that is what she wanted to do. But then again, maybe she doesn’t know I’m Dollar. Even if she doesn’t know, though, why would she find me as a student? Am I getting grossly lucky? Or did Yisha simply get kicked in the head by a donkey, and randomly picked out a student that just so happened to be me?”

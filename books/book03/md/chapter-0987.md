@@ -1,21 +1,20 @@
 ---
-Title:Dry Angel Corpses 
-Chapter:987 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Dry Angel Corpses
+chapter: 987
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Dry Angel Corpses
-### Chapter 987
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Dry Angel Corpses
+
+### Chapter 987
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “Do you think Split-Space King will show up for the self fight in Shen Xiao?”
 
 “Of course he will.”

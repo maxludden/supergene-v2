@@ -1,21 +1,20 @@
 ---
-Title:The Real and the Fake Ice Skin 
-Chapter:576 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: The Real and the Fake Jadeskin
+chapter: 576
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## The Real and the Fake Ice Skin
-### Chapter 576
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## The Real and the Fake Jadeskin
+
+### Chapter 576
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 As more and more time elapsed, the chilled air within Han Sen was becoming stronger and stronger. His cells were moving, but it felt as if they were turning into crystals.
 
 At the same time, the Dongxue Sutra started running, and a strange feeling compelled Han Sen to stop his practice ofJadeskin.

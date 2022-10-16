@@ -1,21 +1,20 @@
 ---
-Title:Yin Yang Blast 
-Chapter:205 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: Yin Yang Blast
+chapter: 205
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Yin Yang Blast
-### Chapter 205
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Yin Yang Blast
+
+### Chapter 205
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen stared at Nalan who was a year or two senior to Han Sen himself and had good-looking features. Nalan was not particularly handsome, but still looks good.
 
 Nalan’s eyes were like water in wells that could show reflections. Deep in his dark pupils, there were lights of wisdom.

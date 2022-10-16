@@ -1,21 +1,20 @@
 ---
-Title:Sky God Crown 
-Chapter:2879 
-Section:14 
-Book:9 
-CSS:../Styles/style.css 
+title: Sky God Crown
+chapter: 2879
+section: 14
+book: 9
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Sky God Crown
-### Chapter 2879
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Sky God Crown
+
+### Chapter 2879
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 A white, jade crown slowly fell on Han Sen. It landed atop his head. Holy light was spinning from the white jade crown. As the presence came out, it was like a God Spirit. A very strange God Spirit power came out from the white jade crown. It fell onto Han Sen and turned him into a being who looked like a God Spirit.
 
 A message came out from the white jade crown. It was in Han Sen’s brain. It delivered him many messages.

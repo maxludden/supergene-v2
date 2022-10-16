@@ -1,21 +1,20 @@
 ---
-Title:Silent Deadlight 
-Chapter:1381 
-Section:4 
-Book:4 
-CSS:../Styles/style.css 
+title: Silent Deadlight
+chapter: 1381
+section: 4
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Silent Deadlight
-### Chapter 1381
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Silent Deadlight
+
+### Chapter 1381
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 When Han Sen saw the beam, it was too late for him to dodge. Instead, he threw his fist at it.
 
 *Boom!*

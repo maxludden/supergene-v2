@@ -1,21 +1,20 @@
 ---
-Title:Angry Steel Army 
-Chapter:1786 
-Section:6 
-Book:5 
-CSS:../Styles/style.css 
+title: Angry Steel Army
+chapter: 1786
+section: 6
+book: 5
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Angry Steel Army
-### Chapter 1786
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Angry Steel Army
+
+### Chapter 1786
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 In a town in the north, the Taurus Viscount—whose name was Angry Steel—was looking at the image in front of him. He was watching the Seven Mirrors airship.
 
 Next to Angry Steel, there was a man. He had purple eyes and hair, horns, and white clothes. He, too, was watching the videostream.

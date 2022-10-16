@@ -1,21 +1,20 @@
 ---
-Title:Soldier Weapon Sky 
-Chapter:3195 
-Section:16 
-Book:10 
-CSS:../Styles/style.css 
+title: Soldier Weapon Sky
+chapter: 3195
+section: 16
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Soldier Weapon Sky
-### Chapter 3195
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Soldier Weapon Sky
+
+### Chapter 3195
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Even the universe’s buffer zones were places ordinary people could not go.
 
 Han Sen used Break World powers at a spot God Hall Leader told him to go to gain access. When he did as he was instructed, he created a space tunnel. He then took many people inside.

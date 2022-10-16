@@ -1,21 +1,20 @@
 ---
-Title:Three Hit Promise 
-Chapter:2470 
-Section:12 
-Book:8 
-CSS:../Styles/style.css 
+title: Three Hit Promise
+chapter: 2470
+section: 12
+book: 8
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Three Hit Promise
-### Chapter 2470
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Three Hit Promise
+
+### Chapter 2470
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen was unable to shake the Dragon’s pursuit, so he stopped running.
 
 Lando came to a stop directly in front of Han Sen. Instead of striking, he just looked at Han Sen and asked, “You are the Han Sen that the Extreme King want?”
@@ -72,7 +71,7 @@ The Dragon wasn’t attacking Han Sen’s weak spots, though. He was making sure
 
 “Is this guy going to break all my limbs to drag me back alive?” Han Sen looked at Lando’s face, and he became certain that he had guessed correctly.
 
-“F*ck you! You’re so cruel.” Han Sen knew that his Jadeskin was too low level. If he had an eighth or ninth-tier Jadeskin, he might have been able to fight against Lando. But right now, he was too weak. If this continued, Lando would completely shatter his arms and legs.
+“Fuck you! You’re so cruel.” Han Sen knew that his Jadeskin was too low level. If he had an eighth or ninth-tier Jadeskin, he might have been able to fight against Lando. But right now, he was too weak. If this continued, Lando would completely shatter his arms and legs.
 
 “The bodies of the Dragons are so scary, but their true talent lies in using Evilbreaker powers, right? Lando is so strong, perhaps the tales are true.” Han Sen’s chest was growing tight with tension. He used movement abilities to fight with Lando.
 

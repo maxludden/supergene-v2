@@ -1,21 +1,20 @@
 ---
-Title:The Girl Worth an S-class License 
-Chapter:127 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: The Girl Worth an S-class License
+chapter: 127
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## The Girl Worth an S-class License
-### Chapter 127
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## The Girl Worth an S-class License
+
+### Chapter 127
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The reason he chose Devil Desert was that there were not many creatures that could fly, hence it was relatively safe for Han Sen who could. Few people would go there, so there was no shortage of mutant creatures, if not sacred-blood creatures.
 
 Han Sen studied the conditions of the desert and was ready to ask Qin Xuan for a leave. Qin Xuan smiled and said, "Perfect. Our squad needs to protect someone in hunting and I was just thinking where we should take her. You could lead the team to Devil Desert then. It is your first task in the squad, make sure you do a good job."

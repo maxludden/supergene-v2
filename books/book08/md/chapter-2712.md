@@ -1,21 +1,20 @@
 ---
-Title:Ice Geno Core 
-Chapter:2712 
-Section:13 
-Book:8 
-CSS:../Styles/style.css 
+title: Ice Geno Core
+chapter: 2712
+section: 13
+book: 8
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Ice Geno Core
-### Chapter 2712
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Ice Geno Core
+
+### Chapter 2712
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “Third Sister, you’re telling me that when you woke up again, the God Spirit Storm was gone?” Li Keer asked, looking at Exquisite with sheer disbelief.
 
 Exquisite’s expression was strange. “That is what Han Sen told me.”

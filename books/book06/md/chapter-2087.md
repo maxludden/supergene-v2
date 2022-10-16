@@ -1,21 +1,20 @@
 ---
-Title:The Differences Between People 
-Chapter:2087 
-Section:8 
-Book:6 
-CSS:../Styles/style.css 
+title: The Differences Between People
+chapter: 2087
+section: 8
+book: 6
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## The Differences Between People
-### Chapter 2087
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## The Differences Between People
+
+### Chapter 2087
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The elders shouted at each other, fists clenched and blood vessels pulsing. It looked like the fight was about to get physical.
 
 When Bao’er received the ten thousand holy airs, their behavior left them with little dignity. But when Bao’er asked for Han Sen’s bounty of holy air, even their pride abandoned them.
@@ -64,7 +63,7 @@ Old Shanxin left with Old Wang. A black and white swallow flew around him.
 
 The Sky Palace leader’s shoulders slumped. “If any of you can get Bao’er back from him, then you are given the right to be her teacher. I cannot do anything about it.”
 
-The elders looked at each other, wondering who the f*ck would dare try to take her away from Dream Beast.
+The elders looked at each other, wondering who the fuck would dare try to take her away from Dream Beast.
 
 Han Sen chased after Dream Beast, but he couldn’t catch up. Dream Beast took her into the clouds and disappeared.
 
@@ -94,7 +93,7 @@ Han Sen opened his mouth and ate it. When he bit into it, Han Sen wanted to cry.
 
 It really was an Empty Fruit. Dream Beast had given them to her like a snack.
 
-“F*ck you! How come when I was here I was a slave, but Bao’er is given a bunch of Empty Fruits for a snack? This is so not f*cking fair.” On the inside, Han Sen felt like crying.
+“Fuck you! How come when I was here I was a slave, but Bao’er is given a bunch of Empty Fruits for a snack? This is so not fucking fair.” On the inside, Han Sen felt like crying.
 
 Dream Beast had not forced Bao’er to stay there, either. He said Bao’er could come and go as she pleased. He also told her that if someone wished to bring harm to Bao’er, all she had to do was give the name to Dream Beast.
 

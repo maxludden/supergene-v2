@@ -1,21 +1,20 @@
 ---
-Title:First Arrival at Holy 
-Chapter:2103 
-Section:8 
-Book:6 
-CSS:../Styles/style.css 
+title: First Arrival at Holy
+chapter: 2103
+section: 8
+book: 6
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## First Arrival at Holy
-### Chapter 2103
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## First Arrival at Holy
+
+### Chapter 2103
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “The Pool of Rebirth doesn’t just reset your body. The powers of rebirth have a unique way of speeding up your leveling. The leader must think your geno art is ascending too slowly, since you are still only a Marquise. Hence, he has presented you with this opportunity to make use of Holy Heaven’s Pool of Rebirth. Our contract with the Feathers allows us to send three people of our choosing to use the Pool of Rebirth every ten years. You are one of those selected. The leader takes you as someone quite important,” Thousand Feather Crane said, his voice filled with admiration.
 
 “In that case, I will go to Holy Heaven.” Upon hearing that the trip would benefit him, Han Sen did not hesitate. He agreed to become an envoy and travel to Holy Heaven.

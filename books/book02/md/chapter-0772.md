@@ -1,21 +1,20 @@
 ---
-Title:The Spirit Contract 
-Chapter:772 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: The Spirit Contract
+chapter: 772
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## The Spirit Contract
-### Chapter 772
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## The Spirit Contract
+
+### Chapter 772
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen and Zhou Yumei began crossing the mountain, and not long after, they stumbled across another human. Zhou Yumei almost leapt for joy.
 
 "Bad guy! You can't threaten me anymore," Zhou Yumei said to Han Sen in a mocking tone, after asking the fellow if there were any shelters around. She then bounced up and down in childish glee.

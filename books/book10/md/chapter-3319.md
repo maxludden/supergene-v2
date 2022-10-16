@@ -1,21 +1,20 @@
 ---
-Title:One Knife, 24 Spells 
-Chapter:3319 
-Section:17 
-Book:10 
-CSS:../Styles/style.css 
+title: One Knife, 24 Spells
+chapter: 3319
+section: 17
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## One Knife, 24 Spells
-### Chapter 3319
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## One Knife, 24 Spells
+
+### Chapter 3319
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The Story of Genes brought a Break World power that completely destroyed the gene messages.
 
 The geno tablet that originally suppressed his body relinquished its control. Han Sen was let free. The Dongxuan Armor generated a black set of armor, but it was burning with a white flame. Black and white, the two colors, made a strong contrast.

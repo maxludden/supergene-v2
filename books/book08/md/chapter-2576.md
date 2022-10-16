@@ -1,21 +1,20 @@
 ---
-Title:Escaping the Fortress 
-Chapter:2576 
-Section:12 
-Book:8 
-CSS:../Styles/style.css 
+title: Escaping the Fortress
+chapter: 2576
+section: 12
+book: 8
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Escaping the Fortress
-### Chapter 2576
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Escaping the Fortress
+
+### Chapter 2576
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen still wanted to conduct trades and collect more geno arts, but after one fruit meal, Li Keer was no longer interested.
 
 Han Sen still didn’t have time to learn Dragon Blood Evilbreaker, and he repeatedly ransacked his brain for ideas on how to escape the fortress. Although he was trying to plan a jailbreak, he had become quite close to the small Crocodile God. Now, the little Crocodile God was dependent on Han Sen for survival. It had become totally addicted to Han Sen’s wine.

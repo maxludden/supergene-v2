@@ -1,21 +1,20 @@
 ---
-Title:Battle With the Son of God 
-Chapter:711 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Battle With the Son of God
+chapter: 711
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Battle With the Son of God
-### Chapter 711
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Battle With the Son of God
+
+### Chapter 711
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 He had long white hair to skirt his cold, handsome face. He wore a white robe hemmed with gold, and he approached like the Son of God he was. The whole world seemed humbled by his mere presence.
 
 Everyone watched the Light Son of God come on stage, and they all froze with bated breath. His oppressive presence made it difficult for the audience to look at him straight. To look at him felt like blasphemy.

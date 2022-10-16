@@ -1,21 +1,20 @@
 ---
-Title:Invisible Opponent 
-Chapter:1131 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Invisible Opponent
+chapter: 1131
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Invisible Opponent
-### Chapter 1131
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Invisible Opponent
+
+### Chapter 1131
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen kept track of how long it took for the light to fade and the shroud of invisibility to return and cloak the scorpion.
 
 It took ten minutes for the invisible scorpion to disappear from sight. And it got Han Sen thinking, “It would be best if I could kill it in under ten minutes, in that window.”

@@ -1,21 +1,20 @@
 ---
-Title:Two Moment Gods 
-Chapter:3204 
-Section:16 
-Book:10 
-CSS:../Styles/style.css 
+title: Two Moment Gods
+chapter: 3204
+section: 16
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Two Moment Gods
-### Chapter 3204
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Two Moment Gods
+
+### Chapter 3204
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “Killed Annihilation God Spirit gene race Weapon God. Got God Spirit. Found Annihilation god base.”
 
 The announcement sounded in Han Sen’s brain. It made him happy. Along with an Annihilation god base, he received Weapon God’s God Spirit.

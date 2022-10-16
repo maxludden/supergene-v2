@@ -1,21 +1,20 @@
 ---
-Title:Showing Off 
-Chapter:220 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: Showing Off
+chapter: 220
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Showing Off
-### Chapter 220
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Showing Off
+
+### Chapter 220
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Helplessness and despair made Lu Botao cringe.
 
 The devil's hand was everywhere. In all kinds of Hand of God games that Lu Botao had experienced, he had never felt so much despair before.

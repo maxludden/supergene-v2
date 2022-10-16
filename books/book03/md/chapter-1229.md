@@ -1,21 +1,20 @@
 ---
-Title:Super Aristocrat 
-Chapter:1229 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Super Aristocrat
+chapter: 1229
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Super Aristocrat
-### Chapter 1229
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Super Aristocrat
+
+### Chapter 1229
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “Dear friends, I am Fang Mingquan. I am standing here at the heart of Levo Planet, in the renowned Levo Plaza. Less than five hundred meters away from me sits the sacred Holy War Platform. As is the custom, all of humanity’s great heroes, like the Alliance General Peng Hongming, receive their awards there. But today, we have someone else of similar prestige being honored. In honor and gratitude of his deeds, he will be bestowed the new title Super Aristocrat.”
 
 “In the council’s voting chamber, most were in agreement that Han Sen should be the first to be given this title.”

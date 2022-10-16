@@ -1,21 +1,20 @@
 ---
-Title:The Origins of the Falsified-sky Sutra 
-Chapter:1083 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: The Origins of the Falsified-sky Sutra
+chapter: 1083
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## The Origins of the Falsified-sky Sutra
-### Chapter 1083
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## The Origins of the Falsified-sky Sutra
+
+### Chapter 1083
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 That night, Han Sen spoke to Luo Lan alone.
 
 She seemed to know already, and she said, “It’s too late now. When the Luo family started learning the Falsified-Sky Sutra, I knew it’d never stop.”

@@ -1,21 +1,20 @@
 ---
-Title:Deified Xenogeneics in the Storm 
-Chapter:2709 
-Section:13 
-Book:8 
-CSS:../Styles/style.css 
+title: Deified Xenogeneics in the Storm
+chapter: 2709
+section: 13
+book: 8
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Deified Xenogeneics in the Storm
-### Chapter 2709
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Deified Xenogeneics in the Storm
+
+### Chapter 2709
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 If Exquisite was in peak condition, knocking her out wouldn’t have been so easy. But right now, she was completely exhausted. Her entire body was running on fumes, and she would never have expected Han Sen to attack her. So, she was instantly knocked unconscious.
 
 “I’m sorry. I must do something that will affect a whole race, so I cannot let anyone else know about it.” Han Sen picked up Exquisite’s unconscious form. He looked up to the darkening sky above him, and as he did so, his eyes started to turn white. Then, his whole body began to glow as he activated his super god spirit mode.

@@ -1,21 +1,20 @@
 ---
-Title:Butchering the Flock of Sheep 
-Chapter:2756 
-Section:13 
-Book:8 
-CSS:../Styles/style.css 
+title: Butchering the Flock of Sheep
+chapter: 2756
+section: 13
+book: 8
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Butchering the Flock of Sheep
-### Chapter 2756
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Butchering the Flock of Sheep
+
+### Chapter 2756
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The nine white unicorns descended to the field, swooping down elegantly until the carriage touched down on the grass. Han Sen hid within the flock of sheep, but he kept his eyes pinned to the door of the carriage. He wondered what sort of scary being might be lurking within. It had to be something fierce if it was scaring the sheep this much. None of them dared to run, and they all remained rooted to the ground, shivering and shaking.
 
 The nine unicorns finally came to a halt, and a drawn-out creak sounded as the door of the carriage opened. A small figure descended from the carriage, and Han Sen’s brow furrowed. The person coming out of that carriage was a little girl. She looked to be no more than ten years old.

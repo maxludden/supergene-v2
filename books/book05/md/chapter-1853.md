@@ -1,21 +1,20 @@
 ---
-Title:Wish 
-Chapter:1853 
-Section:7 
-Book:5 
-CSS:../Styles/style.css 
+title: Wish
+chapter: 1853
+section: 7
+book: 5
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Wish
-### Chapter 1853
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Wish
+
+### Chapter 1853
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen did not like making wishes. He knew what had happened to Dawn, Uncle Bug, and the Ning family’s Second Mister, and it had completely soured him on the concept of making wishes.
 
 Han Sen did not think Skygod was a good character.

@@ -1,21 +1,20 @@
 ---
-Title:Now or Never 
-Chapter:262 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: Now or Never
+chapter: 262
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Now or Never
-### Chapter 262
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Now or Never
+
+### Chapter 262
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Almost everyone was lamenting for Han Sen that he did not get rid of Jing Jiwu when he had the advantage. In the duel, with a 11.0 bow in Han Sen's hand, he stood a very slim chance of winning.
 
 Jing Jiwu could threaten Han Sen from 600 feet away, while Han Sen could not even guarantee a shot at Jing Jiwu at 150 feet.

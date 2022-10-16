@@ -1,21 +1,20 @@
 ---
-Title:Don’t Move 
-Chapter:2446 
-Section:12 
-Book:8 
-CSS:../Styles/style.css 
+title: Don’t Move
+chapter: 2446
+section: 12
+book: 8
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Don’t Move
-### Chapter 2446
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Don’t Move
+
+### Chapter 2446
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “What are you doing? Step back! Don’t be rude to Brother Han,” Fang Qing Yu shouted, his face contorted in displeasure.
 
 But the other men didn’t seem willing to stop. The Destroyed leader laughed and said, “Mister Fang, we are doing this for your own good. Our ride, Wind Cloud Bird, was consumed by that deified xenogeneic. Without a ship, we cannot travel through the Tianxia System. And now that there is a ship right here, we cannot deny that this is obviously the help of God.”

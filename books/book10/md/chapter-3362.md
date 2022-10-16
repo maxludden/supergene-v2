@@ -1,21 +1,20 @@
 ---
-Title:Who Is Human Alpha? 
-Chapter:3362 
-Section:17 
-Book:10 
-CSS:../Styles/style.css 
+title: Who Is Human Alpha?
+chapter: 3362
+section: 17
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Who Is Human Alpha?
-### Chapter 3362
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Who Is Human Alpha?
+
+### Chapter 3362
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “Why must he kill Bao’er?” Han Sen wanted to figure out why this was the case.
 
 The jade statue looked at Han Sen and said, “That doesn’t matter anymore. You just need to know that Human Alpha will not give up on Bao’er. If Bao’er does not have the gene seed, she cannot go against Human Alpha. No matter what, please deliver the gene seed to Bao’er for her to live.”

@@ -1,21 +1,20 @@
 ---
-Title:Why Has the Lightning Not Harmed You Once? 
-Chapter:875 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Why Has the Lightning Not Harmed You Once?
+chapter: 875
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Why Has the Lightning Not Harmed You Once?
-### Chapter 875
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Why Has the Lightning Not Harmed You Once?
+
+### Chapter 875
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 It took them half a day's travel, all in all, to reach the foot of Thunder Mountain.
 
 Every inch closer that they traveled, the dread that the treacherous mountain instilled increased. Lightning continued to flash in the skies, striking the peak a number of times. Each flash sent a number of broken rocks plummeting to the earth below.

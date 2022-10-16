@@ -1,21 +1,20 @@
 ---
-Title:Xenogeneic 
-Chapter:1808 
-Section:6 
-Book:5 
-CSS:../Styles/style.css 
+title: Xenogeneic
+chapter: 1808
+section: 6
+book: 5
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Xenogeneic
-### Chapter 1808
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Xenogeneic
+
+### Chapter 1808
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “Failure?” Han Sen looked at his scabbard.
 
 For once, Yisha didn’t hold back on her explanation. “Didn’t I tell you that the crystallizers invented a geno weapon that was of a deified caliber? Their technology rarely succeeded on their first try, and they’d go through many failures and testing phases. This scabbard is one of those failures. After the crystallizers were destroyed, an elite claimed it and brought it to Demon Grave. He left it here after that fight”

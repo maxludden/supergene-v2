@@ -1,21 +1,20 @@
 ---
-Title:Green’s Wishes 
-Chapter:954 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Green’s Wishes
+chapter: 954
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Green’s Wishes
-### Chapter 954
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Green’s Wishes
+
+### Chapter 954
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen felt as if Liu Meng could predict all of his moves.
 
 When Han Sen moved, Liu Meng was already turning to where he proposed to go. This resulted in Han Sen having to change his formation.

@@ -1,21 +1,20 @@
 ---
-Title:I Get Half 
-Chapter:1193 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: I Get Half
+chapter: 1193
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## I Get Half
-### Chapter 1193
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## I Get Half
+
+### Chapter 1193
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 If there was one power Han Sen was afraid of, it had to be time. Time and space were a freakish duo, but the former definitely made him the wariest. What it could achieve was both fascinating and frightening, and this was what Han Sen thought as he looked at Moment Queen now.
 
 Humans could control space, but not time. They were not technologically advanced enough for time manipulation. In the sanctuary, things were a little different, and time there could be controlled, or at the very least manipulated.

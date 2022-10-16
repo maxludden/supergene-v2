@@ -1,21 +1,20 @@
 ---
-Title:Phoenix-god Mountain 
-Chapter:1031 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Phoenix-god Mountain
+chapter: 1031
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Phoenix-god Mountain
-### Chapter 1031
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Phoenix-god Mountain
+
+### Chapter 1031
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The reason they were to meet in the virtual community was because Qin Junhao had a contract with a spirit. He escaped from the shelter where he was held, so returning to the sanctuary might have resulted in a painful death.
 
 When Han Sen went there to meet with him, he saw Lin Weiwei, Lin He, Chen Hu, and Zhao Xin standing next to a tall young man.

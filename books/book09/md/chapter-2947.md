@@ -1,21 +1,20 @@
 ---
-Title:Holy Kirin 
-Chapter:2947 
-Section:15 
-Book:9 
-CSS:../Styles/style.css 
+title: Holy Kirin
+chapter: 2947
+section: 15
+book: 9
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Holy Kirin
-### Chapter 2947
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Holy Kirin
+
+### Chapter 2947
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “Old Vulture, what happened outside? Why has the darkness around the holy palace lessened considerably?” In the darkest corner of the palace, a beast, which looked completely red had an eye that resembled a purgatory abyss, looked at the dark sky.
 
 On the roof, a giant beast, which had no eyes, asked, “Is your eye going funny? How can Sacred be bright?”

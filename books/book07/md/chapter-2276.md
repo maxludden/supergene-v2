@@ -1,21 +1,20 @@
 ---
-Title:Hell Bridges 
-Chapter:2276 
-Section:10 
-Book:7 
-CSS:../Styles/style.css 
+title: Hell Bridges
+chapter: 2276
+section: 10
+book: 7
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Hell Bridges
-### Chapter 2276
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Hell Bridges
+
+### Chapter 2276
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Mister White explained, “That bird is called the Death Crow. It leads the living through the cycle of death. It might seem like a dead-end, but it is certainly a road we will be able to survive. This is the only bridge, out of the thirteen of them, that can lead us safely to the other side. Going through life and death, yin and yang, the Sacred Leader was a very unique individual. If I hadn’t researched the Sacred Leader’s life and learned that he was reborn nine times, I would have never have assumed that this was the correct path to take.”
 
 “You are very smart, Mister White. Even the Sacred Leader’s secrets are known to you,” murmured a woman’s voice. Han Sen and Mister White both jerked in surprise.

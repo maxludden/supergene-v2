@@ -1,21 +1,20 @@
 ---
-Title:Power of a Main God 
-Chapter:3404 
-Section:17 
-Book:10 
-CSS:../Styles/style.css 
+title: Power of a Main God
+chapter: 3404
+section: 17
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Power of a Main God
-### Chapter 3404
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Power of a Main God
+
+### Chapter 3404
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “Perhaps not.” Han Sen coldly dropped his two words and did not elaborate.
 
 Moment God’s needle and the needle of the sky clock were madly spinning in reverse. The reversal of time was becoming scarier and scarier. If an ordinary Break World beast were there, beyond being turned back into an egg, they would probably be taken back to a time before their mother was even born and disappear into space.

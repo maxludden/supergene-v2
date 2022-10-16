@@ -1,21 +1,20 @@
 ---
-Title:Seeing God Temples Again 
-Chapter:3036 
-Section:16 
-Book:10 
-CSS:../Styles/style.css 
+title: Seeing God Temples Again
+chapter: 3036
+section: 16
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Seeing God Temples Again
-### Chapter 3036
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Seeing God Temples Again
+
+### Chapter 3036
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Ancient Big God Mountain was an old mountain. Although the name sounded like Ancient God City, it was not in Ancient Big God Mountain. It was somewhere quiet near the mountain.
 
 Han Sen dressed in black clothing and followed Mister Yang to Ancient God City. He curiously looked at everything in Ancient God City.

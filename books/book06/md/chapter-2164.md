@@ -1,21 +1,20 @@
 ---
-Title:Knife Spikes the Ocean 
-Chapter:2164 
-Section:8 
-Book:6 
-CSS:../Styles/style.css 
+title: Knife Spikes the Ocean
+chapter: 2164
+section: 8
+book: 6
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Knife Spikes the Ocean
-### Chapter 2164
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Knife Spikes the Ocean
+
+### Chapter 2164
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “He isn’t going to copy Knife Queen and remove a part of the peak for himself, is he?” asked the black-masked woman. She stood next to the Sky Palace leader, her head tilted slightly to the side.
 
 “Hm. I bet both of them will do the same thing,” the Sky Palace leader grumbled, thinking that was exactly what Han Sen was going to do.

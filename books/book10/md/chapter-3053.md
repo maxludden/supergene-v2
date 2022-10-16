@@ -1,21 +1,20 @@
 ---
-Title:Purple-haired Monkey 
-Chapter:3053 
-Section:16 
-Book:10 
-CSS:../Styles/style.css 
+title: Purple-haired Monkey
+chapter: 3053
+section: 16
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Purple-haired Monkey
-### Chapter 3053
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Purple-haired Monkey
+
+### Chapter 3053
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Raging wind blades came flying out of the woods. It was like knives cutting the branches and trees. They quickly cut down a few of them in the forest.
 
 Han Sen and the others saw them clearly. The wind blades were coming out of Ou Yang Qiu Shan. The young man’s situation was very bad.

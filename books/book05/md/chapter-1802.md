@@ -1,21 +1,20 @@
 ---
-Title:Capture 
-Chapter:1802 
-Section:6 
-Book:5 
-CSS:../Styles/style.css 
+title: Capture
+chapter: 1802
+section: 6
+book: 5
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Capture
-### Chapter 1802
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Capture
+
+### Chapter 1802
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The battle started with an arrow falling from the sky. It landed the midst of everyone, and they all stared at it in shock. They raised their heads, and they saw Chaos descending from the sky. The Chaos quickly surrounded everyone, and their numbers were several hundred strong.
 
 A line of arrows were targeting them, and everyone was shocked. That included Han Sen.

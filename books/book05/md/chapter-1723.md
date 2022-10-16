@@ -1,21 +1,20 @@
 ---
-Title:Killing a Xenogeneic 
-Chapter:1723 
-Section:6 
-Book:5 
-CSS:../Styles/style.css 
+title: Killing a Xenogeneic
+chapter: 1723
+section: 6
+book: 5
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Killing a Xenogeneic
-### Chapter 1723
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Killing a Xenogeneic
+
+### Chapter 1723
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “Commander, where should I lead it?” Han Sen asked calmly.
 
 Guris was shocked that the voice he heard was so relaxed. He barked down the line, “Go to the south-east and buy Mister Tiger some time! Wait until Mister Tiger is able to finish dealing with the other.”

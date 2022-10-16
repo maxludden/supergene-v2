@@ -1,21 +1,20 @@
 ---
-Title:After I Hit You 
-Chapter:380 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: After I Hit You
+chapter: 380
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## After I Hit You
-### Chapter 380
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## After I Hit You
+
+### Chapter 380
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen's heart was racing, but he still pretended to be surprised and asked, "Beings beyond sacred-blood creatures?"
 
 "Otherwise, why do you think Ning Yue had gone through such trouble to hire you? Do you think it is easy to break the rules and send a kid without any background to a posh school? If it is just a sacred-blood creature, why would Ning Yue do that?" Zhu Ting did not reply but asked.

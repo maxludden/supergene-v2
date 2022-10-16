@@ -1,21 +1,20 @@
 ---
-Title:Flick Sword 
-Chapter:1626 
-Section:4 
-Book:4 
-CSS:../Styles/style.css 
+title: Flick Sword
+chapter: 1626
+section: 4
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Flick Sword
-### Chapter 1626
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Flick Sword
+
+### Chapter 1626
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The people that weren’t skilled probably felt nothing when watching the fight. But the faces of all the powerful spectators changed, particularly when they imagined what things would be like if they were facing Six Paths themselves. They were in utter shock, and they had no clue how they’d respond to such a strike.
 
 Everyone’s eyes moved to Han Sen, wondering how he’d deal with the situation.

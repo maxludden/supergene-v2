@@ -1,21 +1,20 @@
 ---
-Title:Elysium God Body 
-Chapter:1485 
-Section:4 
-Book:4 
-CSS:../Styles/style.css 
+title: Elysium God Body
+chapter: 1485
+section: 4
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Elysium God Body
-### Chapter 1485
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Elysium God Body
+
+### Chapter 1485
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “Emperor, it is no wonder you selected Han Sen,” Xu Mi said as he sat next to Six Paths.
 
 Six Paths shook his head and said, “This is only half of his true adeptness with the sword.”

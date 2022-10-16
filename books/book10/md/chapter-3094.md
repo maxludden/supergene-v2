@@ -1,21 +1,20 @@
 ---
-Title:Si Ming Demon Race 
-Chapter:3094 
-Section:16 
-Book:10 
-CSS:../Styles/style.css 
+title: Si Ming Demon Race
+chapter: 3094
+section: 16
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Si Ming Demon Race
-### Chapter 3094
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Si Ming Demon Race
+
+### Chapter 3094
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen ignored the big sky demon. Although he was very tempted by her offer, if the big sky demon wanted to encourage him to murder, it was not so easy.
 
 It seemed as if she could feel the object of Han Sen’s gaze. The little girl, standing next to Feng Fei Fei, looked his way. She looked at Han Sen, and the two shared a stare.
@@ -80,7 +79,7 @@ The God Spirit Blood-Pulse mark was flickering on Gong Shu Zhi’s forehead. A b
 
 It had hair and limbs, but it did not have a face. It looked vintage and weird.
 
-“With this hair, I can activate the si ming demon race’s power. She loves her birthday parties, so I want this little b*tch to die in front of everyone.” Gong Shu Zhi gnashed his teeth. He put the hair on the bronze statue’s empty face.
+“With this hair, I can activate the si ming demon race’s power. She loves her birthday parties, so I want this little bitch to die in front of everyone.” Gong Shu Zhi gnashed his teeth. He put the hair on the bronze statue’s empty face.
 
 The bronze statue suddenly flickered with a weird, green light. It absorbed the hair. At the same time, the bronze statue changed. It started to display a face.
 

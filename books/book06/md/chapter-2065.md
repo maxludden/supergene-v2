@@ -1,21 +1,20 @@
 ---
-Title:Yu Shanxin 
-Chapter:2065 
-Section:8 
-Book:6 
-CSS:../Styles/style.css 
+title: Yu Shanxin
+chapter: 2065
+section: 8
+book: 6
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Yu Shanxin
-### Chapter 2065
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Yu Shanxin
+
+### Chapter 2065
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen saw something descend from the sky. It was a man in green clothing. A fairly ordinary looking Sky.
 
 That man’s approach wasn’t ominous like the Dragon was, and he rode down atop a swallow mount. The bird was a pretty black and white, but it was definitely a little too small. The Sky man occupied all of its back, and he had to stand precariously on it.

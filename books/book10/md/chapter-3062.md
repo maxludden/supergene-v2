@@ -1,21 +1,20 @@
 ---
-Title:Reverse Life Cycle 
-Chapter:3062 
-Section:16 
-Book:10 
-CSS:../Styles/style.css 
+title: Reverse Life Cycle
+chapter: 3062
+section: 16
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Reverse Life Cycle
-### Chapter 3062
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Reverse Life Cycle
+
+### Chapter 3062
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 When they had almost left Ancient Big God Mountain, Li Bing Yu suddenly said, “If it was me, I would not go into town right now.”
 
 “Why?” Han Sen looked at Li Bing Yu with interest.

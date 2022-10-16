@@ -1,20 +1,19 @@
 ---
-Title:Disloyal Knight’s Coming
-Chapter:1073
-Section:3
-Book:3
-CSS:../Styles/style.css
+title: Disloyal Knight’s Coming
+chapter: 1073
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
 
 ## Disloyal Knight’s Coming
+
 ### Chapter 1073
 
 <figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
 </figure>
-
-
 
 “A super creature?” Han Sen stood up and set himself ablaze with red fire. He spread his black raven wings and transformed into a gold raven. Then, he immediately flew towards the red Devil Fang.
 
@@ -89,15 +88,14 @@ Han Sen checked his Sea of Soul. When he saw what was written, he was… surpris
 <div class="tables">
 	<table class="beast">
 		<tr>
-			<th>Beast Soul</th>
+			<th colspan="2">Beast Soul Gained</th>
 		</tr><tr>
-			<td>Super Devil Fang King<br>
-				<span class="type">(Badge)</span>
-			</td>
+			<td>Super Devil Fang King</td>
+			<td>(Badge)</td>
 		</tr>
 	</table>
 	<!-- Super Beast Soul Devil Fang King: Badge Type -->
-</div>
+</div> 
 
 
 “What is a badge type beast soul?” This was the first time Han Sen had received such a thing, so he had no clue what it was.

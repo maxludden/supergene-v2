@@ -1,21 +1,20 @@
 ---
-Title:Empty Mouth, White Teeth 
-Chapter:1920 
-Section:7 
-Book:5 
-CSS:../Styles/style.css 
+title: Empty Mouth, White Teeth
+chapter: 1920
+section: 7
+book: 5
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Empty Mouth, White Teeth
-### Chapter 1920
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Empty Mouth, White Teeth
+
+### Chapter 1920
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Sword Know’s swordlight became a star in the sky. It descended like a meteor shower, drenching Han Sen’s entire body in the starry swordlight. From the other side, the Tego Earl was like a tiger. His punch leaped forward like a beast, with Han Sen as its prey.
 
 Han Sen was under fire from both sides. He couldn’t speed up, and neither could he hope to evade. He didn’t want to leave the spring’s eye, either. With his immobility, he had to stop the spring water the moment it appeared. If the droplets made it past him, he wouldn’t stand any chance of retrieving them.

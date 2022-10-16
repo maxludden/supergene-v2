@@ -1,21 +1,20 @@
 ---
-Title:Red Mist King Is Shining 
-Chapter:1959 
-Section:7 
-Book:5 
-CSS:../Styles/style.css 
+title: Red Mist King Is Shining
+chapter: 1959
+section: 7
+book: 5
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Red Mist King Is Shining
-### Chapter 1959
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Red Mist King Is Shining
+
+### Chapter 1959
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen’s fingers flashed with gold. The sky suddenly lit up, as the golden lights became coins that rained down. They covered an area of a dozen miles.
 
 Ordinary Viscounts would not have power such as that. At best, they could only encompass an area of a few hundred meters. But Han Sen had his Soul Armor boost right now. The shadow of the Four-Faced Eight-Armed Buddha lurked behind him, unseen. The Buddha light was inside Han Sen’s body, imbuing him with the power of a Marquise. That was how he was able to summon the big Dollar rain.

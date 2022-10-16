@@ -1,21 +1,20 @@
 ---
-Title:Qiao 
-Chapter:1725 
-Section:6 
-Book:5 
-CSS:../Styles/style.css 
+title: Qiao
+chapter: 1725
+section: 6
+book: 5
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Qiao
-### Chapter 1725
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Qiao
+
+### Chapter 1725
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen quickly found out that Hardman was loaning him out to a hunting group called Wizard.
 
 It was a very small team. It was run privately, too, by an owner called Qiao. The team wasn’t a powerful enterprise, and the inferior members and equipment they used was a testament to that.

@@ -1,21 +1,20 @@
 ---
-Title:Shale 
-Chapter:2676 
-Section:13 
-Book:8 
-CSS:../Styles/style.css 
+title: Shale
+chapter: 2676
+section: 13
+book: 8
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Shale
-### Chapter 2676
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Shale
+
+### Chapter 2676
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Heart Connection was a skill that concentrated all of the power inside one’s body into a single precise point. That power would all be spent in a single use, and it would take a long time to recover.
 
 Han Sen had used Heart Connection because he had a way to recover in a short period of time, if necessary. He wouldn’t have to wait too long before he could fight again.

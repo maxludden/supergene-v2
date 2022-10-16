@@ -1,21 +1,20 @@
 ---
-Title:Absorbing Red Crystal 
-Chapter:478 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Absorbing Red Crystal
+chapter: 478
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Absorbing Red Crystal
-### Chapter 478
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Absorbing Red Crystal
+
+### Chapter 478
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Wang Hou's mind was almost shattered. He could not imagine that he would be forced to defend himself when using Sprocket Sword. Shocked and mad, he stepped back all of a sudden with the red crystal in his hand and said gloomily, "I will let you die ugly."
 
 As he spoke, Wang Hou put the red crystal on his forehead. Then, the red crystal suddenly lit up and shot a beam of red light.

@@ -1,21 +1,20 @@
 ---
-Title:Stealing the Spirit 
-Chapter:522 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Stealing the Spirit
+chapter: 522
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Stealing the Spirit
-### Chapter 522
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Stealing the Spirit
+
+### Chapter 522
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 In front of the group of porcupines, a giant 9 feet tall covered in black iron armor ran into the army of humans on a huge boar, holding and tower shield in one hand and a double axe in the other. There was no one among the humans who could do anything to him.
 
 A human evolver who looked quite fit and should have a fitness over a hundred was slashing a long broadsword at the giant. However, all the strikes were blocked by the tower shield of the giant warrior, who was not hurt.

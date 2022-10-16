@@ -1,21 +1,20 @@
 ---
-Title:Blue Blood Starts 
-Chapter:3001 
-Section:15 
-Book:9 
-CSS:../Styles/style.css 
+title: Blue Blood Starts
+chapter: 3001
+section: 15
+book: 9
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Blue Blood Starts
-### Chapter 3001
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Blue Blood Starts
+
+### Chapter 3001
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The body near the geno hall’s door did not do anything. It looked at Han Sen, who was covered in blue blood, and quietly said, “I hope you will not regret this.”
 
 After saying that, the shadow turned around and left. It disappeared inside the bright lights of the hall. The geno hall’s door was closed.

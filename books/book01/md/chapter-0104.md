@@ -1,21 +1,20 @@
 ---
-Title:Not Bad 
-Chapter:104 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: Not Bad
+chapter: 104
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Not Bad
-### Chapter 104
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Not Bad
+
+### Chapter 104
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 On the stage, Yi Dongmu coldly stared at Han Sen and said in a flat voice, "Well, since you dare to come, then get ready to die."
 
 Drawing the dagger from his waist, Yi had a murderous look on his face.

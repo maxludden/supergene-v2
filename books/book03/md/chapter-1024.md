@@ -1,21 +1,20 @@
 ---
-Title:Holy-sword Emperor 
-Chapter:1024 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Holy-sword Emperor
+chapter: 1024
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Holy-sword Emperor
-### Chapter 1024
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Holy-sword Emperor
+
+### Chapter 1024
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “Brother Zhao, do you think they can do what they say they can?” Zhao Xin and the others hid amongst some bushes. While they watched Han Sen, the youngest of the three asked Zhao Xin the question.
 
 “They sound confident, so they definitely possess some manner of strength. But even if they can take down this royal shelter, I’m not sure they have the strength to take down Sword-Palace Shelter.” Zhao Xin paused for a minute, and then said, “Still, for now, if they can just manage to break the spirit stone here in Sword-Furnace Shelter, we’ll be free.”

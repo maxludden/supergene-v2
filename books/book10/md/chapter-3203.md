@@ -1,21 +1,20 @@
 ---
-Title:Sword Slashes Weapon God 
-Chapter:3203 
-Section:16 
-Book:10 
-CSS:../Styles/style.css 
+title: Sword Slashes Weapon God
+chapter: 3203
+section: 16
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Sword Slashes Weapon God
-### Chapter 3203
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Sword Slashes Weapon God
+
+### Chapter 3203
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 A snow-white spear flew out of the arsenal behind Weapon God. It landed in front of Weapon God. His two hands gripped the long spear. The long spear’s spear mind went into the sky. Han Sen and the others felt chills run down their spines as the mountains and fields around started to shake. Things were shattering everywhere. The spear-type weapons on the ground exploded with scary power. It released many spear lights that shocked the sky. They were all headed toward the long spear in Weapon God’s hands.
 
 The long spear absorbed the power of the sky full of spears. The spear god light grew increasingly stronger. The snow-white spear’s body and fire turned black. It was like an inky fire spear light was breaking through space. It shook along the body of the spear.

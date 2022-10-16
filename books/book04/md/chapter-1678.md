@@ -1,21 +1,20 @@
 ---
-Title:Getting Decomposed and Rebuilt 
-Chapter:1678 
-Section:4 
-Book:4 
-CSS:../Styles/style.css 
+title: Getting Decomposed and Rebuilt
+chapter: 1678
+section: 4
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Getting Decomposed and Rebuilt
-### Chapter 1678
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Getting Decomposed and Rebuilt
+
+### Chapter 1678
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “It’s over,” said Gu Qingcheng. After Han Sen and Ancient Devil got sucked into God’s Door, her face changed horrifically.
 
 God’s Door was the path by which demigods could reach the Fifth Sanctuary. It was the path creatures took. The power inside would crush the person, rebuild their body, and rinse them clean.

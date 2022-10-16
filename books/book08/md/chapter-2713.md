@@ -1,21 +1,20 @@
 ---
-Title:No God 
-Chapter:2713 
-Section:13 
-Book:8 
-CSS:../Styles/style.css 
+title: No God
+chapter: 2713
+section: 13
+book: 8
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## No God
-### Chapter 2713
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## No God
+
+### Chapter 2713
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 In his absence, the Breakskies had continued their unsuccessful efforts to excavate the mountain. When Han Sen arrived, Horizontal Evil was in the middle of his routine torture, courtesy of the metal pillar. Blood flew from the giant’s chest as the metal pillar spun.
 
 When he saw Han Sen, Horizontal Evil frowned. “What took you so long to come back?”

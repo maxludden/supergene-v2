@@ -1,21 +1,20 @@
 ---
-Title:Killing Continuously 
-Chapter:850 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Killing Continuously
+chapter: 850
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Killing Continuously
-### Chapter 850
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Killing Continuously
+
+### Chapter 850
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Yi Dongmu wasn't the only one dexterous in the arts of assassination; Han Sen was, too.
 
 When the cane approached Han Sen's forehead, he made a quick dodge to the left. As he moved, he threw his palm towards the spirit's chest like the sudden lunge of a snake.

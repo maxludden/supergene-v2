@@ -1,21 +1,20 @@
 ---
-Title:What Do You Want? 
-Chapter:2958 
-Section:15 
-Book:9 
-CSS:../Styles/style.css 
+title: What Do You Want?
+chapter: 2958
+section: 15
+book: 9
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## What Do You Want?
-### Chapter 2958
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## What Do You Want?
+
+### Chapter 2958
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Ancient Abyss Grandmaster was waiting for Auntie Mei and the others to get rid of Han Sen in the astral instrument’s realm. Not long later, he saw the zone disappear. With its removal, a body fell out.
 
 When he had a closer look, Ancient Abyss Grandmaster was shocked. He could not believe what he was seeing.

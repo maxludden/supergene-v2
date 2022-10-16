@@ -1,21 +1,20 @@
 ---
-Title:Deadly Perfume 
-Chapter:379 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: Deadly Perfume
+chapter: 379
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Deadly Perfume
-### Chapter 379
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Deadly Perfume
+
+### Chapter 379
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 "Taking my knockout drops and you haven't fallen? A strong fighter indeed," Zhu Ting said to Han Sen with a smile, looking rather surprised.
 
 "Who on earth are you?" Han Sen had now understood that Zhu Ting was probably a spy in Starry Group. Otherwise, he would not poison the rest of the group as well. However, Han Sen still did not know which force he belonged to.

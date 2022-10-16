@@ -1,21 +1,20 @@
 ---
-Title:Twice the Benefits 
-Chapter:2663 
-Section:13 
-Book:8 
-CSS:../Styles/style.css 
+title: Twice the Benefits
+chapter: 2663
+section: 13
+book: 8
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Twice the Benefits
-### Chapter 2663
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Twice the Benefits
+
+### Chapter 2663
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “How would that work, exactly?” Han Sen looked at Exquisite in shock.
 
 “What’s strange about it? Since you’re already being watched by one person, being watched by another is practically the same. You just need to share your experiences with one more person. It won’t be detrimental to you in any way, and you can double the benefits you receive. You will receive the same amount of resources from me and my little sister. Effectively, you’ll be receiving double what others receive. Wouldn’t that be wonderful?” Exquisite said to Han Sen with a beaming smile.

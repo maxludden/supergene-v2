@@ -1,21 +1,20 @@
 ---
-Title:The Little Red Bird Hatches 
-Chapter:2299 
-Section:10 
-Book:7 
-CSS:../Styles/style.css 
+title: The Little Red Bird Hatches
+chapter: 2299
+section: 10
+book: 7
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## The Little Red Bird Hatches
-### Chapter 2299
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## The Little Red Bird Hatches
+
+### Chapter 2299
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “Is the little red bird about to hatch?” Han Sen thought in surprise.
 
 But as he watched, the color gradually drained from Han Sen’s face. The substance chains connected to the bird’s nest started to pull back into the egg, and the nest began to fall apart piece by piece.

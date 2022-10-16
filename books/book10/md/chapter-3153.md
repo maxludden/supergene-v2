@@ -1,21 +1,20 @@
 ---
-Title:Jia Shi Zhen 
-Chapter:3153 
-Section:16 
-Book:10 
-CSS:../Styles/style.css 
+title: Jia Shi Zhen
+chapter: 3153
+section: 16
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Jia Shi Zhen
-### Chapter 3153
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Jia Shi Zhen
+
+### Chapter 3153
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Hearing that Qin Bai had been playing checkers for two days in the Feng family castle, without his ass leaving the chair once to touch the sword, Jia Shi Zhen was extremely worried.
 
 Other kingdoms had many inheritors. There was always a choice in who succeeded the throne. The Qin Kingdom only had one crown prince. He was sure to be the next one wearing the crown. If Qin Bai continued his ridiculous behavior, the Qin Kingdom’s lofty position would likely fall.

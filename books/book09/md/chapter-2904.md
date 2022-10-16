@@ -1,21 +1,20 @@
 ---
-Title:Fighting the Blonde Lady 
-Chapter:2904 
-Section:15 
-Book:9 
-CSS:../Styles/style.css 
+title: Fighting the Blonde Lady
+chapter: 2904
+section: 15
+book: 9
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Fighting the Blonde Lady
-### Chapter 2904
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Fighting the Blonde Lady
+
+### Chapter 2904
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 After a short amount of time, Bai Wuchang turned snow white. Now, he looked like the real Bai Wuchang.
 
 If this kept on going, in less than 10 seconds, he was going to die.

@@ -1,21 +1,20 @@
 ---
-Title:Armor Appeared 
-Chapter:3021 
-Section:15 
-Book:9 
-CSS:../Styles/style.css 
+title: Armor Appeared
+chapter: 3021
+section: 15
+book: 9
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Armor Appeared
-### Chapter 3021
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Armor Appeared
+
+### Chapter 3021
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Power flowed through Littleflower’s body. The space around him looked twisted. Black and white fire flowed through the destroyed holy hall. It started recovering. It was not just the holy hall. The whole of the darkness that surrounded Sacred had some miraculous changes thanks to that power.
 
 The eternal darkness faded away. The broken buildings started to rebuild. No matter whether or not it was a building that was destroyed or one weathered through time, it was all fixed due to that weird power. Sacred was a ruin, but it now reverted to its former glory like in the good old days. It was unbelievable.

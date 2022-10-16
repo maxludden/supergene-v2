@@ -1,21 +1,20 @@
 ---
-Title:Well Lotus 
-Chapter:2971 
-Section:15 
-Book:9 
-CSS:../Styles/style.css 
+title: Well Lotus
+chapter: 2971
+section: 15
+book: 9
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Well Lotus
-### Chapter 2971
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Well Lotus
+
+### Chapter 2971
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “There are many primitive Light Well Lotuses,” the Extreme King old man said with a laugh. “Consider them as a gift from me. The Extreme King will still have nothing to do with you. Isn’t that perfect?”
 
 What he said was kind of soft and hard. It also made sense. If he was an ordinary person who could not get the true god class Light Well Lotus, he would not make things any worse by offending the Extreme King.

@@ -1,21 +1,20 @@
 ---
-Title:Buddha’s Path 
-Chapter:1937 
-Section:7 
-Book:5 
-CSS:../Styles/style.css 
+title: Buddha’s Path
+chapter: 1937
+section: 7
+book: 5
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Buddha’s Path
-### Chapter 1937
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Buddha’s Path
+
+### Chapter 1937
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen walked around a bit, but he didn’t catch sight of God’s Retribution again.
 
 “Maybe my eyes are going funny.” Han Sen shook his head, then went to find a place in the Buddha city to stay.

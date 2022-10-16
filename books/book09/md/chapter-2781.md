@@ -1,21 +1,20 @@
 ---
-Title:The Whole Race Mutates 
-Chapter:2781 
-Section:14 
-Book:9 
-CSS:../Styles/style.css 
+title: The Whole Race Mutates
+chapter: 2781
+section: 14
+book: 9
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## The Whole Race Mutates
-### Chapter 2781
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## The Whole Race Mutates
+
+### Chapter 2781
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 But when the strike landed on the newly-emerged Flower God, only the being’s clothes were damaged. The creature itself merely staggered backward, then lunged at Bai Wanjie again.
 
 Everyone was shocked. They knew what the Flower Gods were like. Even if they were very good at making geno fluids, their battle powers were lame and their bodies lacked strength. There wasn’t a single deified in their entire race.

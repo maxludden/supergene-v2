@@ -1,20 +1,19 @@
 ---
-Title:Invisible Toxic King Scorpion
-Chapter:1241
-Section:3
-Book:3
-CSS:../Styles/style.css
+title: Invisible Toxic King Scorpion
+chapter: 1241
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
 
 ## Invisible Toxic King Scorpion
+
 ### Chapter 1241
 
 <figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
 </figure>
-
-
 
 Han Sen didn’t lie to Saint Fan, as his body truly had developed a problem.
 
@@ -49,11 +48,10 @@ Han Sen was not carrying poison around with him; he had actually put a glyph to 
 <div class="tables">
 	<table class="beast">
 		<tr>
-			<th>Beast Soul</th>
+			<th colspan="2">Beast Soul Gained</th>
 		</tr><tr>
-			<td>Berserk Super Invisible Toxic King Scorpion<br>
-				<span class="type">(Glyph)</span>
-			</td>
+			<td>Berserk Super Invisible Toxic King Scorpion</td>
+			<td>(Glyph)</td>
 		</tr>
 	</table>
 	<!-- Invisible Toxic King Scorpion Beast Soul: Glyph Type -->

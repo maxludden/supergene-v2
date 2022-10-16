@@ -1,21 +1,20 @@
 ---
-Title:Ancient Wall 
-Chapter:2737 
-Section:13 
-Book:8 
-CSS:../Styles/style.css 
+title: Ancient Wall
+chapter: 2737
+section: 13
+book: 8
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Ancient Wall
-### Chapter 2737
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Ancient Wall
+
+### Chapter 2737
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Exquisite smiled and said, “Although the figure in the drawing is something no one can understand, the picture has the meaning and power of the elder that drew it. Just taking the time to study it will be beneficial for you.”
 
 Now, Han Sen was able to understand. Exquisite and Li Keer wanted to let him experience the true god’s art because it would ultimately benefit them. Through him, they could understand it better and learn things from it. The experience would be beneficial to them all, so it wasn’t a bad idea.

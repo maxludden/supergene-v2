@@ -1,21 +1,20 @@
 ---
-Title:Eating Meat 
-Chapter:894 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Eating Meat
+chapter: 894
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Eating Meat
-### Chapter 894
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Eating Meat
+
+### Chapter 894
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen was exhausted after what had transpired, but he managed to lug himself over to the disfigured corpse of the Dollar Toad and place it in his pack. He walked nearer the watervine and applied one of his waterdrops to its roots. He watched the positive reaction from the watervine, which instantly absorbed the waterdrop. Then he mounted Golden Growler and took off home.
 
 In the backyard, Chu Ming and Qu Lanxi had not returned yet themselves. So, Han Sen used this opportunity to cut, clean, and prepare the toad for dinner. He made stew with it.

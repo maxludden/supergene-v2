@@ -1,21 +1,20 @@
 ---
-Title:Zhong Miao Yin 
-Chapter:3170 
-Section:16 
-Book:10 
-CSS:../Styles/style.css 
+title: Zhong Miao Yin
+chapter: 3170
+section: 16
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Zhong Miao Yin
-### Chapter 3170
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Zhong Miao Yin
+
+### Chapter 3170
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 When Han Sen won, Feng Yin Yin and Bao’er had already achieved victories of their own and returned. They had easily crushed their opponents.
 
 Feng Yin Yin was delighted, but Bao’er was upset. “I couldn’t go in and play. It was so lame.”

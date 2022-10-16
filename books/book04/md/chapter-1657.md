@@ -1,21 +1,20 @@
 ---
-Title:Endless Killing 
-Chapter:1657 
-Section:4 
-Book:4 
-CSS:../Styles/style.css 
+title: Endless Killing
+chapter: 1657
+section: 4
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Endless Killing
-### Chapter 1657
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Endless Killing
+
+### Chapter 1657
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Surrounding Han Sen never worked. With his Dongxuan movement, he could easily escape any possible entrapment. And in this way, he slipped away and proceeded onwards into Sunset Valley.
 
 Many super elites were going after him, but two of the elders just laughed coldly at Han Sen. They didn’t chase him, and instead, they went after Death Goddess.

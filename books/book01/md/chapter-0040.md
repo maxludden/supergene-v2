@@ -1,21 +1,20 @@
 ---
-Title:Three Possibilities 
-Chapter:40 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: Three Possibilities
+chapter: 40
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Three Possibilities
-### Chapter 40
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Three Possibilities
+
+### Chapter 40
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 "What are you doing here?" Han Lei was surprised to see Han Sen here.
 
 "Taking Yan to school," replied Han Sen.

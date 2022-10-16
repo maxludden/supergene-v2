@@ -1,21 +1,20 @@
 ---
-Title:Old Alloy Box 
-Chapter:1198 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Old Alloy Box
+chapter: 1198
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Old Alloy Box
-### Chapter 1198
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Old Alloy Box
+
+### Chapter 1198
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 After Han Sen took the couple to the Panic Terminal, the shura ship started firing once more. This time, however, there were more misses than hits, and it gave them the uneasy feeling they were being issued a warning.
 
 If the shura had been attacking for real, the Universe wouldn’t have lasted more than a second.

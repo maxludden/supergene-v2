@@ -1,21 +1,20 @@
 ---
-Title:Accidents Happen 
-Chapter:3373 
-Section:17 
-Book:10 
-CSS:../Styles/style.css 
+title: Accidents Happen
+chapter: 3373
+section: 17
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Accidents Happen
-### Chapter 3373
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Accidents Happen
+
+### Chapter 3373
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Katcha!
 
 There were cracks all over Han Sen’s armor. Within them, a familiar power existed.

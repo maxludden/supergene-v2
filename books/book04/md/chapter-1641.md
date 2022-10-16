@@ -1,21 +1,20 @@
 ---
-Title:Inexcusable 
-Chapter:1641 
-Section:4 
-Book:4 
-CSS:../Styles/style.css 
+title: Inexcusable
+chapter: 1641
+section: 4
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Inexcusable
-### Chapter 1641
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Inexcusable
+
+### Chapter 1641
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 After Bao’er sucked up all the black and purple smoke, she grabbed Littleflower and hit the wall behind them. However, when they broke through the wall, there was another invisible wall blocking them, and Bao’er and Littleflower bounced back again.
 
 Bao’er’s eyes spun, and she stomped on the ground, kicking a large hole in the floor. Suddenly, the supermarket on the first floor was visible. However, they didn’t fall through the hole in the floor as there seemed to be an invisible screen holding Bao’er and Littleflower back.

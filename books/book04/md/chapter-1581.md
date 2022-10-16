@@ -1,21 +1,20 @@
 ---
-Title:Sacred Egg Incubated 
-Chapter:1581 
-Section:4 
-Book:4 
-CSS:../Styles/style.css 
+title: Sacred Egg Incubated
+chapter: 1581
+section: 4
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Sacred Egg Incubated
-### Chapter 1581
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Sacred Egg Incubated
+
+### Chapter 1581
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen didn’t turn back. He moved the severely damaged shield to cover his back, and at the same time, he slapped the Sacred egg with his left hand.
 
 Two noises echoed at the same time. The Destroyer Wolf left three deep scars on the shield with its claws, piercing almost all the way through the shield.

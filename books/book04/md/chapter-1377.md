@@ -1,21 +1,20 @@
 ---
-Title:The Shelter’s New Master 
-Chapter:1377 
-Section:4 
-Book:4 
-CSS:../Styles/style.css 
+title: The Shelter’s New Master
+chapter: 1377
+section: 4
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## The Shelter’s New Master
-### Chapter 1377
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## The Shelter’s New Master
+
+### Chapter 1377
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The white tiger with six ears and Metal Demon looked ill. They preferred to share the shelter with a weak human than accept the cruel rulership of a spirit.
 
 While they were confident in tackling the one that had first confronted them, they had not expected him to have backup on the way. Their presence there now scared them.

@@ -1,21 +1,20 @@
 ---
-Title:The Fourth Stage 
-Chapter:1970 
-Section:8 
-Book:6 
-CSS:../Styles/style.css 
+title: The Fourth Stage
+chapter: 1970
+section: 8
+book: 6
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## The Fourth Stage
-### Chapter 1970
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## The Fourth Stage
+
+### Chapter 1970
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Yun Suyi stopped practicing and opened her eyes. The Jade Air was no longer coming from the walls, so she looked around to see if Han Sen was around. He wasn’t.
 
 “Why hasn’t Brother Crane brought Han Sen down? Are they on the fourth floor, maybe?” Yun Suyi wondered as she made her way up to the fourth floor.

@@ -1,21 +1,20 @@
 ---
-Title:Black and White Three 
-Chapter:194 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: Black and White Three
+chapter: 194
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Black and White Three
-### Chapter 194
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Black and White Three
+
+### Chapter 194
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 As Ouyang dodged, Han Sen’s fist froze in the air.
 
 It was obvious that if this punch was a black one, Han Sen would not be able to stop it, which meant it was a white fist.

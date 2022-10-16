@@ -1,21 +1,20 @@
 ---
-Title:The Original Frost Sutra 
-Chapter:1091 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: The Original Frost Sutra
+chapter: 1091
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## The Original Frost Sutra
-### Chapter 1091
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## The Original Frost Sutra
+
+### Chapter 1091
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen observed the Frost Sutra and tried to burn it into his memory. The rest of the onlookers examined the revealed Frost Sutra with fascination as well, but despite its grand unveiling, none were allowed to jot down the text on paper or make any form of recording.
 
 Han Sen believed the other families wouldn’t want the Frost Sutra to go public, either. So this was fair.

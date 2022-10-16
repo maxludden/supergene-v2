@@ -1,21 +1,20 @@
 ---
-Title:Fighting Leader 
-Chapter:3363 
-Section:17 
-Book:10 
-CSS:../Styles/style.css 
+title: Fighting Leader
+chapter: 3363
+section: 17
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Fighting Leader
-### Chapter 3363
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Fighting Leader
+
+### Chapter 3363
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “God Chaos Party Leader did not lie to me. I am able to feel Bao’er.” Han Sen was thrilled by this. He also sensed that Bao’er could now feel him as well. He knew she was coming his way.
 
 “God Chaos Party Leader said she would be able to help me sort out how to navigate through the 33 skies. I wonder if she has sorted that out for me yet.” Han Sen ceased his hesitation. He bowed to the jade statue and returned to the rat hole.

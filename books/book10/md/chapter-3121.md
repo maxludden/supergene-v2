@@ -1,21 +1,20 @@
 ---
-Title:Moon God 
-Chapter:3121 
-Section:16 
-Book:10 
-CSS:../Styles/style.css 
+title: Moon God
+chapter: 3121
+section: 16
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Moon God
-### Chapter 3121
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Moon God
+
+### Chapter 3121
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen practiced Jadeskin. It came from Moon God’s Cold Sutra legacy. In the Alliance and the Geno Universe, it was related to the Cold Sutra.
 
 Han Sen was never entirely sure about the true creator of the Cold Sutra. He believed it was just some character called Moon God. As to what class or race Moon God was, or perhaps even if it was a God Spirit, Han Sen simply had no idea.

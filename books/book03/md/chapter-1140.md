@@ -1,21 +1,20 @@
 ---
-Title:Sonic Battle Beast 
-Chapter:1140 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Sonic Battle Beast
+chapter: 1140
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Sonic Battle Beast
-### Chapter 1140
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Sonic Battle Beast
+
+### Chapter 1140
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen stared at the shadow in the tree with shock.
 
 After his vision focused to see it clearly, he noticed it was a slender woman. She looked light and brisk, as her garments waved in a subterranean breeze.

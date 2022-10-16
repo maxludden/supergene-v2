@@ -1,21 +1,20 @@
 ---
-Title:Back to Deified 
-Chapter:2681 
-Section:13 
-Book:8 
-CSS:../Styles/style.css 
+title: Back to Deified
+chapter: 2681
+section: 13
+book: 8
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Back to Deified
-### Chapter 2681
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Back to Deified
+
+### Chapter 2681
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “It must be the Demon Fruit… The Demon Fruit is working! Is Shale going to become deified right in front of us?” Li Xue Cheng merrily proclaimed.
 
 Liyu Zhen was thrilled as well. “Now I understand. Shale knew that the silkworm fights were going to start, but he decided to eat the Demon Fruit anyway. He hoped to use the pressure of a challenging silkworm fight to accelerate his growth and activate the dormant Demon Fruit power that resided in his body. During his fight with Han Sen, the Demon Fruit inside him has slowly been refined. Now, it must have all been absorbed. It will make him deified in the middle of this very fight.”

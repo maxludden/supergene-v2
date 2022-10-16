@@ -1,21 +1,20 @@
 ---
-Title:Blessing Barr 
-Chapter:2559 
-Section:12 
-Book:8 
-CSS:../Styles/style.css 
+title: Blessing Barr
+chapter: 2559
+section: 12
+book: 8
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Blessing Barr
-### Chapter 2559
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Blessing Barr
+
+### Chapter 2559
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “Can we start the blessing process now?” Barr was standing atop the big pile of King class xenogeneic genes as he spoke.
 
 “Sure. Hang on a second. It will begin shortly. Let me just move these xenogeneic genes into storage first.” Han Sen carted the xenogeneic genes into his core area hall, then placed them all inside Destiny’s Tower. Then, he returned to the core area.

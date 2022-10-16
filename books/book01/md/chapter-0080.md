@@ -1,21 +1,20 @@
 ---
-Title:A Test 
-Chapter:80 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: A Test
+chapter: 80
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## A Test
-### Chapter 80
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## A Test
+
+### Chapter 80
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 After returning home, Han Sen showed Yan the tutorial of Holy Angel and asked her to memorize it.
 
 With the holographic demonstration, it was not difficult to learn. Being intelligent, Yan memorized Holy Angel after watching just a few times.

@@ -1,21 +1,20 @@
 ---
-Title:First Fight 
-Chapter:2840 
-Section:14 
-Book:9 
-CSS:../Styles/style.css 
+title: First Fight
+chapter: 2840
+section: 14
+book: 9
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## First Fight
-### Chapter 2840
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## First Fight
+
+### Chapter 2840
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen killed the ink feather god bird. He did not receive a beast soul. God looked at the xenogeneic that had no spirit. After that, God said nothing more.
 
 Han Sen took the ink feather god bird's flesh with him to leave the Nine-Defense Palace. He kept refining the flesh while waiting for the god fights to begin.

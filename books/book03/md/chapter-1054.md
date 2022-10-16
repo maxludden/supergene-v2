@@ -1,21 +1,20 @@
 ---
-Title:Shura Punch 
-Chapter:1054 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Shura Punch
+chapter: 1054
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Shura Punch
-### Chapter 1054
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Shura Punch
+
+### Chapter 1054
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “Lian Chan is streaming! Hmm, but that place doesn’t look remotely shura. There are human artifacts everywhere.”
 
 “That’s because it is a human place. I wonder what My Goddess is doing there?”

@@ -1,21 +1,20 @@
 ---
-Title:Return Empty Scabbard 
-Chapter:2849 
-Section:14 
-Book:9 
-CSS:../Styles/style.css 
+title: Return Empty Scabbard
+chapter: 2849
+section: 14
+book: 9
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Return Empty Scabbard
-### Chapter 2849
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Return Empty Scabbard
+
+### Chapter 2849
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen's body flashed. He kept dodging Yisha's knife attacks. Her knife air could destroy everything. If a planet was to encounter that knife air, it would be cut in half.
 
 That ripping knife air, which could tear the fabric of space, would keep on ripping. The entirety of that space was full of purple knife airs. It was like a giant net. It greatly reduced the safety zones where Han Sen could move. Ripped space was everywhere. If Han Sen's body touched the ripped space, he would be hurt.

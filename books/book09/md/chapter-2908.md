@@ -1,21 +1,20 @@
 ---
-Title:Stone Tablet Bird 
-Chapter:2908 
-Section:15 
-Book:9 
-CSS:../Styles/style.css 
+title: Stone Tablet Bird
+chapter: 2908
+section: 15
+book: 9
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Stone Tablet Bird
-### Chapter 2908
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Stone Tablet Bird
+
+### Chapter 2908
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 In the next moment, everyone was shocked. Han Sen was surprised too.
 
 Rainbow light flew out of the punch mark. It turned into a white falcon. It surrounded Bai Wushang as it flew.

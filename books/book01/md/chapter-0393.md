@@ -1,20 +1,19 @@
 ---
-Title:Golden Growler Again
-Chapter:393
-Section:1
-Book:1
-CSS:../Styles/style.css
+title: Golden Growler Again
+chapter: 393
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
 
 ## Golden Growler Again
+
 ### Chapter 393
 
 <figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
 </figure>
-
-
 
 Han Sen spent two more days in Devil Desert and found no more sacred-blood creatures. He went to the area where the sacred-blood fox king used to be and failed to find it.
 
@@ -26,10 +25,8 @@ To Han Sen's surprise, golden rock worm king had accomplished its transformation
             <th>Beast Soul</th>
         </tr><tr>
             <td>Super Golden Rock-Worm King<br>
-                <span class="type">(Pet)</span>
-            </td>
-        </tr><tr>
-            <th class="note">Note: Evolved and Transformed</td>
+                <span class="type">(Pet)</span><br>
+                <span class="note">Note: Evoleved and Transformed</span></td>
         </tr>
     </table>
     <!--Super Golden rock worm king: pet (evolved and transformed)-->

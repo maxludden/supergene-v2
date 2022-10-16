@@ -1,21 +1,20 @@
 ---
-Title:Seeing My Loved One Again 
-Chapter:434 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Seeing My Loved One Again
+chapter: 434
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Seeing My Loved One Again
-### Chapter 434
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Seeing My Loved One Again
+
+### Chapter 434
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen had not been to the warship for long, so he had not met the captain yet. Taking the document to the captain’s cabin, Han Sen had been wondering who it was.
 
 In order to become a captain of such a high-level warship, one had to be at least a general, even though this warship was not that big.

@@ -1,21 +1,20 @@
 ---
-Title:Time Etching 
-Chapter:2982 
-Section:15 
-Book:9 
-CSS:../Styles/style.css 
+title: Time Etching
+chapter: 2982
+section: 15
+book: 9
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Time Etching
-### Chapter 2982
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Time Etching
+
+### Chapter 2982
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The whole of space in the area of the god temple was twisted. Nothing was visible with any ordinary clarity. This was what the deified elites could see, but even their vision started to become distorted. It was like a shadow in the water. When the water moved, the vision twisted.
 
 Moment God held his time bracelet. He mumbled words like a Buddha speaking for the dead. In that twisted parcel of space, Moment God’s body was like a sky god covering the whole of the god temple’s sky. Han Sen was like a tiny ant. “Accept a god’s anger… Time etching…” Moment God’s god voice was loud. He raised the bracelet that was in his hands. The needless present in the 12 eyeballs was spinning madly.

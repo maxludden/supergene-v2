@@ -1,21 +1,20 @@
 ---
-Title:Super Gene 
-Chapter:271 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: Super Gene
+chapter: 271
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Super Gene
-### Chapter 271
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Super Gene
+
+### Chapter 271
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The spear was from the beetle knight and could be compared to any sacred-blood beast soul weapon, yet it did not even break the fur of a baby lion. How could that be?
 
 Even if the golden lion was a strong creature, the baby was just born and already had such a strong physique.

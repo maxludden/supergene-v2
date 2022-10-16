@@ -1,21 +1,20 @@
 ---
-Title:Killing a Sacred-blood Creature You Don’t Even See 
-Chapter:390 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: Killing a Sacred-blood Creature You Don’t Even See
+chapter: 390
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Killing a Sacred-blood Creature You Don’t Even See
-### Chapter 390
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Killing a Sacred-blood Creature You Don’t Even See
+
+### Chapter 390
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The group of people continued their way into the Devil Desert. At night, when they were having a break, Yuan whispered to Han Sen when the teenager was not nearby, "Brother, Hai Yun is arrogant because his grandfather is Hai Mingwei. Don't pay him any mind."
 
 "Senator Hai Mingwei?" Han Sen was surprised to hear that. Hai Mingwei was a senator and demigod, probably the best fighter among all humans. When Han Sen just entered God's Sanctuary, Hai Mingwei became the first human who had killed a demigod sacred-blood creature.

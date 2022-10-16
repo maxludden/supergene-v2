@@ -1,21 +1,20 @@
 ---
-Title:Fierce 
-Chapter:430 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Fierce
+chapter: 430
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Fierce
-### Chapter 430
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Fierce
+
+### Chapter 430
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Seeing Lu Bin entered a fight himself, his friends and students were all quite surprised. Many people chose to observe the fight and the stands were soon filled.
 
 Although Lu Bin would log in Gladiator from time to time, he seldom fought. Most of the time, he was just instructing his students.

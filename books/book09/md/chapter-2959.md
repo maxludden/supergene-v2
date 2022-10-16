@@ -1,21 +1,20 @@
 ---
-Title:Sacred Race Lantern 
-Chapter:2959 
-Section:15 
-Book:9 
-CSS:../Styles/style.css 
+title: Sacred Race Lantern
+chapter: 2959
+section: 15
+book: 9
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Sacred Race Lantern
-### Chapter 2959
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Sacred Race Lantern
+
+### Chapter 2959
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Roar!
 
 Old Vulture and the eyeless big beast made loud roaring noises. They both spat out a stone lantern. They lined them up beside the demon lady in the holy palace. The stone lanterns were releasing lights that covered the entirety of the holy palace.

@@ -1,21 +1,20 @@
 ---
-Title:Ostentation 
-Chapter:1564 
-Section:4 
-Book:4 
-CSS:../Styles/style.css 
+title: Ostentation
+chapter: 1564
+section: 4
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Ostentation
-### Chapter 1564
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Ostentation
+
+### Chapter 1564
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Jia Shidao and the others looked completely horrified as the crystal cacti surrounded them like a forest.
 
 Luo Yu and Luo Hui also looked frightened. Luo Yu had the armor, so he wasn’t afraid of the thorns of the crystal cacti. However, Luo Hui didn’t have any armor to protect him. If those crystal cacti attacked him from all directions at the same time, there was no way he would survive it.

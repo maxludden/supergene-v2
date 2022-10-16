@@ -1,21 +1,20 @@
 ---
-Title:On the Verge of Death 
-Chapter:1602 
-Section:4 
-Book:4 
-CSS:../Styles/style.css 
+title: On the Verge of Death
+chapter: 1602
+section: 4
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## On the Verge of Death
-### Chapter 1602
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## On the Verge of Death
+
+### Chapter 1602
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen rushed forward and caught Bao’er. She felt cold.
 
 Bao’er’s soft body became hard like a piece of wood. Not only did she feel different now, but her body began to actually turn into wood, and she looked like a doll made of wood.

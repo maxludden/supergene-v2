@@ -1,21 +1,20 @@
 ---
-Title:Abandon the City? 
-Chapter:942 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Abandon the City?
+chapter: 942
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Abandon the City?
-### Chapter 942
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Abandon the City?
+
+### Chapter 942
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 "What are you doing out there? Get in!" Han Sen witnessed someone calling out to him.
 
 When Han Sen entered the shelter, he was able to get a better look at the people who seemed unwilling to go outside. They looked awfully glum. It seemed as if something bad had been going on.

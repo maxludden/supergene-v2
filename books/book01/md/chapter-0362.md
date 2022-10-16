@@ -1,21 +1,20 @@
 ---
-Title:Bloody Battle 
-Chapter:362 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: Bloody Battle
+chapter: 362
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Bloody Battle
-### Chapter 362
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Bloody Battle
+
+### Chapter 362
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The black metal wolf quickly flashed in front of Chen Nanxing, who was fast enough to summon a large copper shield more than 3 feet tall to block its claws.
 
 *Crack!*

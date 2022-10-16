@@ -1,21 +1,20 @@
 ---
-Title:The Conditions to Shapeshift 
-Chapter:2853 
-Section:14 
-Book:9 
-CSS:../Styles/style.css 
+title: The Conditions to Shapeshift
+chapter: 2853
+section: 14
+book: 9
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## The Conditions to Shapeshift
-### Chapter 2853
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## The Conditions to Shapeshift
+
+### Chapter 2853
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 <div class="tables">
     <table class="status">
         <tr>

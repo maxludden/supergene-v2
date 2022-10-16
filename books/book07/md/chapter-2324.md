@@ -1,21 +1,20 @@
 ---
-Title:Bai Yi’s Secre 
-Chapter:2324 
-Section:11 
-Book:7 
-CSS:../Styles/style.css 
+title: Bai Yi’s Secre
+chapter: 2324
+section: 11
+book: 7
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Bai Yi’s Secre
-### Chapter 2324
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Bai Yi’s Secre
+
+### Chapter 2324
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen rummaged around the building. Mister White hadn’t told him exactly where the information he needed was, so he presumed it would be easy to find. If it wasn’t, Mister White should have told him—that was the logic.
 
 But Han Sen searched the entire building from top to bottom and found nothing. The only place he hadn’t checked was Bai Yi’s computer.
@@ -48,7 +47,7 @@ Bao’er blinked and said, “Dad, hackers use real skills. You are just cheatin
 
 Han Sen looked at the notepad, which went on for a surprising number of pages. Luckily, it was written in the universal language, so Han Sen was able to read it all.
 
-“That b*tch. Don’t let me find her, or I’ll kill her…” The first line disappointed Han Sen.
+“That bitch. Don’t let me find her, or I’ll kill her…” The first line disappointed Han Sen.
 
 Han Sen thought the document would be filled with things Bai Yi had written down while he was horny. He thought it would be related to women.
 

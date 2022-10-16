@@ -1,21 +1,20 @@
 ---
-Title:Extreme King Pavilion 
-Chapter:2329 
-Section:11 
-Book:7 
-CSS:../Styles/style.css 
+title: Extreme King Pavilion
+chapter: 2329
+section: 11
+book: 7
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Extreme King Pavilion
-### Chapter 2329
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Extreme King Pavilion
+
+### Chapter 2329
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 In the morning, Han Sen finally received the Extreme King’s Pavilion Pass and left Night Charm Town. On his way out, he looked over at Cher like he wanted her so badly. Bai Ying Shuang wouldn’t let him near the woman now that their deal was complete, though.
 
 The blood kirin had been sleeping, and nothing happened after it woke up. Han Sen didn’t know what they had done to the creature to make it sleep through the night.

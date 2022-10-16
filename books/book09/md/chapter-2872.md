@@ -1,21 +1,20 @@
 ---
-Title:Self-torturing Knife 
-Chapter:2872 
-Section:14 
-Book:9 
-CSS:../Styles/style.css 
+title: Self-torturing Knife
+chapter: 2872
+section: 14
+book: 9
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Self-torturing Knife
-### Chapter 2872
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Self-torturing Knife
+
+### Chapter 2872
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “Weird. How has his body recovered already?” Han Sen was looking at Pluto Peacock’s wounds where Burning Lamp came out from. He was shocked by what he had seen.
 
 Burning Lamp was in the underworld. Now, his body had completely recovered. The blue-green transparent color was gone.
@@ -44,7 +43,7 @@ The knife that absorbed the cause power could release an attack power that was e
 
 The knife’s power did seem to have its limitations. One could not just use it whenever. It required some time to separate it. Also, Burning Lamp’s body was getting more and more wounds. The power the knife could release was able to become stronger. That was why Burning Lamp endured it all the way and enabled himself to be swallowed by Pluto Peacock. It gave back all the damage to Pluto Peacock that it was unable to recover from.
 
-Burning Lamp then used the power of the knife. Because the power that had been absorbed was minimal, it did not deal much damage. Just like God had said, the more power the body could endure, the more power the knife was able to release. “This is a f*cking self-torturing knife. If you do not get hurt, it is not strong. The more you are hurt, the stronger it becomes. Where did Burning Lamp get this knife from?” Han Sen could not help but complain.
+Burning Lamp then used the power of the knife. Because the power that had been absorbed was minimal, it did not deal much damage. Just like God had said, the more power the body could endure, the more power the knife was able to release. “This is a fucking self-torturing knife. If you do not get hurt, it is not strong. The more you are hurt, the stronger it becomes. Where did Burning Lamp get this knife from?” Han Sen could not help but complain.
 
 Regardless, it was evident that Burning Lamp had won the match. He kept his rank of 84. The ranking of 84 was not really a rank that others wanted to fight for. Even though Burning Lamp had been swallowed by his enemy, he was able to come back out alive. It made the creatures of a lower rank not dare challenge him. After this fight, no creature dared challenge him anymore. “Never mind, I will just let him be happy for a bit.” Han Sen did not want to challenge Burning Lamp either. Rank 84 was too low. Han Sen did not have much chance to win by challenging the top 10. If he challenged those in the top 20 to 30, he might have stood a chance. He would have received many rewards. Thus, Han Sen did not risk wasting time by challenging Burning Lamp. Plus, Han Sen was planning a trip to visit the Buddha Kingdom anyway. The more benefits Burning Lamp received now, the more benefits Han Sen would receive after his holiday. So, there was no need for him to disrupt Burning Lamp’s ranking now. From Han Sen’s perspective, Burning Lamp was now something like an employee of his. “So, who should I challenge?” Han Sen thought to himself. Although Han Sen really wanted to challenge Demon Alpha, he knew that even if he used all of his power, he might not be able to defeat Demon Alpha. He quickly gave up on the idea. Lou Lie was a member of Blood Legion. Blood Legion had helped Han Sen out in the universe, so he did not want to hurt them either. Regarding Very High Leader, unless Han Sen used Super God Spirit mode, he did not have what it took to fight back. He also gave up on that idea.
 

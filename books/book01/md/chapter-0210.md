@@ -1,21 +1,20 @@
 ---
-Title:Humanoid Creature 
-Chapter:210 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: Humanoid Creature
+chapter: 210
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Humanoid Creature
-### Chapter 210
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Humanoid Creature
+
+### Chapter 210
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 "Brother, I'm here to help you." another person flapped a pair of wings and came close. It turned out to be Huangfu Pingqing.
 
 "This woman is trouble." Han Sen frowned. Huangfu Pingqing was obviously calling Son of Heaven, who was the young Master of the starry group. Being the granddaughter of Huangfu Xiongcheng, president of Ares Martial Hall, she could not be his sister.

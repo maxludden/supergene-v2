@@ -1,21 +1,20 @@
 ---
-Title:Life Geno Essence Prediction 
-Chapter:675 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Life Geno Essence Prediction
+chapter: 675
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Life Geno Essence Prediction
-### Chapter 675
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Life Geno Essence Prediction
+
+### Chapter 675
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 "You really killed a super creature in the Second God's Sanctuary?" Ji Yanran asked, with her mouth wide-open in shock as she looked at Han Sen. Even though Han Sen had explained the details of what transpired, she found it difficult to believe. So, she had to ask the question again.
 
 "I said I killed it, didn't I? That means I killed it. Is it really that difficult for you to believe?" Han Sen sat on Ji Yanran's office chair, holding her as she sat on his lap.

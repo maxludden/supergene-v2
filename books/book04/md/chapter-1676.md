@@ -1,21 +1,20 @@
 ---
-Title:Devil’s Flame in the 
-Chapter:1676 
-Section:4 
-Book:4 
-CSS:../Styles/style.css 
+title: Devil’s Flame in the
+chapter: 1676
+section: 4
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Devil’s Flame in the
-### Chapter 1676
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Devil’s Flame in the
+
+### Chapter 1676
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 He didn’t receive an answer. Ancient Devil was just continuing to read the spell that no one could hear.
 
 Elder Yin and Horn Beast Alpha were in shock. Han Menger fired an arrow and managed to break the horned beast’s horn. But when that horn was detached, it fell and became another demonic wisp that drifted towards Ancient Devil.

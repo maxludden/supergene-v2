@@ -1,21 +1,20 @@
 ---
-Title:Queen Bai Wei 
-Chapter:2223 
-Section:10 
-Book:7 
-CSS:../Styles/style.css 
+title: Queen Bai Wei
+chapter: 2223
+section: 10
+book: 7
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Queen Bai Wei
-### Chapter 2223
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Queen Bai Wei
+
+### Chapter 2223
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “Knight King, the new member you are telling us about is her?” Han Sen looked at Bai Wei strangely.
 
 “Yes, Bai Wei is the latest addition to your team. Please co-operate with her.” Ice Blue Knight King smiled.

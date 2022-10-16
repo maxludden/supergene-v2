@@ -1,21 +1,20 @@
 ---
-Title:Ring 
-Chapter:1594 
-Section:4 
-Book:4 
-CSS:../Styles/style.css 
+title: Ring
+chapter: 1594
+section: 4
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Ring
-### Chapter 1594
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Ring
+
+### Chapter 1594
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “Lin Feng?” Han Sen asked when he heard the man’s voice. With much glee, he ran over to him.
 
 Encountering friends in such a place was always a very happy occurrence.

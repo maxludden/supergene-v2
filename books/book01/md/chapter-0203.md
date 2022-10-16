@@ -1,21 +1,20 @@
 ---
-Title:Black Fist Emperor 
-Chapter:203 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: Black Fist Emperor
+chapter: 203
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Black Fist Emperor
-### Chapter 203
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Black Fist Emperor
+
+### Chapter 203
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 "Ha-ha, why have the St. Germain team stopped commenting?"
 
 "Genius, well-done."

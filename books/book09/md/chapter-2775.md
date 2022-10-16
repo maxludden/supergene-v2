@@ -1,21 +1,20 @@
 ---
-Title:Space Garden 
-Chapter:2775 
-Section:14 
-Book:9 
-CSS:../Styles/style.css 
+title: Space Garden
+chapter: 2775
+section: 14
+book: 9
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Space Garden
-### Chapter 2775
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Space Garden
+
+### Chapter 2775
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 That was especially true when he saw Xie Qing King piloting a ZT27 Ming King battleship to pick him up. Han Sen suddenly doubted that Xie Qing King had earned all this dough just by selling comics. The man had to be selling weapons on the black market or something.
 
 That battleship had once belonged to the Extreme King. It was the type of battleship only their kings could use. Ordinarily, only princes, princesses, and other royals were allowed to pilot such powerful ships. Although it was a small battleship compared to what some races possessed, the equipment, tools, and weapons on-board were the best in the universe. That was especially true of its defenses. It could withstand the strikes of a primitive deified without even having its paint scratched. This wasn’t something you could buy in your average street market.

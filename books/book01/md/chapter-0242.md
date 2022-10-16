@@ -1,21 +1,20 @@
 ---
-Title:Spinning Spear 
-Chapter:242 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: Spinning Spear
+chapter: 242
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Spinning Spear
-### Chapter 242
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Spinning Spear
+
+### Chapter 242
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen did not find anything peculiar about the lake, which was quite shallow.
 
 There were a lot of grass growing in the water and around the lake. Otherwise, there was nothing special about it.

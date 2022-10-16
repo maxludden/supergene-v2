@@ -1,21 +1,20 @@
 ---
-Title:Spirit Gene 
-Chapter:896 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Spirit Gene
+chapter: 896
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Spirit Gene
-### Chapter 896
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Spirit Gene
+
+### Chapter 896
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen did not move. He cast the Dongxuan Sutra, which had his fingers generate a coin, and fired it at the approaching monkey.
 
 Pat!

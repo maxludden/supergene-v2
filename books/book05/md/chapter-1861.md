@@ -1,21 +1,20 @@
 ---
-Title:Moon Palace With a Moon 
-Chapter:1861 
-Section:7 
-Book:5 
-CSS:../Styles/style.css 
+title: Moon Palace With a Moon
+chapter: 1861
+section: 7
+book: 5
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Moon Palace With a Moon
-### Chapter 1861
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Moon Palace With a Moon
+
+### Chapter 1861
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “Hey! What happened? His speed is increasing!” A dozen Viscounts were trying to stop Han Sen, and they had all managed to get very close to him. But now, at that range, they were finding it getting more and more difficult to close the gap.
 
 “He can run even faster than this? Not bad for a Baron, I suppose! But it is naive to think this will be enough to shake off a Viscount.” A Viscount smiled as he accelerated.
@@ -32,7 +31,7 @@ When the Viscounts started to speed up, Han Sen was able to speed up yet again. 
 
 “Since when did Queen excel in the teaching of skills that benefit those wishing to flee a fight?”
 
-“This speed is so f*cking fast. Not even Viscounts are able to catch up with him. Still, I wonder how long he can keep that up?”
+“This speed is so fucking fast. Not even Viscounts are able to catch up with him. Still, I wonder how long he can keep that up?”
 
 “This is interesting.”
 

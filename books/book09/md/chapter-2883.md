@@ -1,21 +1,20 @@
 ---
-Title:The Decision to Light a Lantern 
-Chapter:2883 
-Section:14 
-Book:9 
-CSS:../Styles/style.css 
+title: The Decision to Light a Lantern
+chapter: 2883
+section: 14
+book: 9
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## The Decision to Light a Lantern
-### Chapter 2883
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## The Decision to Light a Lantern
+
+### Chapter 2883
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “I am finally back! Home is good.” Han Sen returned home. He took a deep breath and accepted the heartwarming fragrance of home.
 
 “Dad!” Upon seeing Han Sen, Ling’er ran over to him in search of a hug.

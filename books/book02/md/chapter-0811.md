@@ -1,21 +1,20 @@
 ---
-Title:Super Pets Aren't That Good 
-Chapter:811 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Super Pets Aren't That Good
+chapter: 811
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Super Pets Aren't That Good
-### Chapter 811
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Super Pets Aren't That Good
+
+### Chapter 811
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 "It looks like everyone knows who I am. Yet I don't know any of you. That hardly seems fair." Han Sen smiled at the people in front of him.
 
 "I cannot believe we stumbled across you here. This truly is perfect." Manager Qu had murder in his eyes. He looked at the people around him, and they spread out to surround Han Sen.

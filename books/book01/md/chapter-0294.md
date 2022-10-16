@@ -1,21 +1,20 @@
 ---
-Title:No Time 
-Chapter:294 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: No Time
+chapter: 294
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## No Time
-### Chapter 294
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## No Time
+
+### Chapter 294
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Time was a scary thing, especially in such an interstellar age. Each moment, many shocking incidents happened on the planets occupied by mankind.
 
 Many strong men fell, and many new stars were born.

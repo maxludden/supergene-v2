@@ -1,21 +1,20 @@
 ---
-Title:Yisha 
-Chapter:1793 
-Section:6 
-Book:5 
-CSS:../Styles/style.css 
+title: Yisha
+chapter: 1793
+section: 6
+book: 5
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Yisha
-### Chapter 1793
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Yisha
+
+### Chapter 1793
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 When Mister Ji saw Han Sen jump back, he immediately put himself in battle mode. He looked toward the grapevine ahead of them-
 
 HMister Ji, you are good. Even your mere servant is so sensitive.” A voice sounded from the grapevine, before someone walked out.

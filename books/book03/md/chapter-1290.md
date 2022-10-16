@@ -1,21 +1,20 @@
 ---
-Title:Holy Baby Fruit 
-Chapter:1290 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Holy Baby Fruit
+chapter: 1290
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Holy Baby Fruit
-### Chapter 1290
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Holy Baby Fruit
+
+### Chapter 1290
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “Well, well, well. Look who it is! Empty Witch? Why are you here? And if my eyes really aren’t playing tricks on me, please tell me there’s a good reason for your presence here. Last I recall, you weren’t the fondest of company one could keep.” Han Sen was surprised, seeing the mini lady.
 
 Back in the Second God’s Sanctuary, the Empty Witch had used the Empty Vine to access the Third God’s Sanctuary. That was the first and last time Han Sen had met her, and it followed hot on the heels of a grueling adventure. The circumstances of their first encounter were not very pleasant, that was for sure.

@@ -1,21 +1,20 @@
 ---
-Title:Traveling Through a Sea of Stars 
-Chapter:1532 
-Section:4 
-Book:4 
-CSS:../Styles/style.css 
+title: Traveling Through a Sea of Stars
+chapter: 1532
+section: 4
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Traveling Through a Sea of Stars
-### Chapter 1532
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Traveling Through a Sea of Stars
+
+### Chapter 1532
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The two continued to fight, as glaciers all around them were destroyed.
 
 “You guys should take a look at this!” Little Fairy suddenly shouted, as Han Sen was fixated on watching the fight.

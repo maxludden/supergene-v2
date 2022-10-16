@@ -1,24 +1,23 @@
 ---
-Title:Dongxuan Sutra’s Fifth Tier 
-Chapter:1124 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Dongxuan Sutra’s Fifth Tier
+chapter: 1124
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Dongxuan Sutra’s Fifth Tier
-### Chapter 1124
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Dongxuan Sutra’s Fifth Tier
+
+### Chapter 1124
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen had managed to collect three Life Geno Essences by this point, but none had been fully absorbed.
 
-“I need to get my *ss in gear. Otherwise, I won’t be able to absorb it.” Han Sen thought about buying a geno fluid to help synthesize and speed up the absorption process. He was tempted, but he ultimately chose not to.
+“I need to get my ass in gear. Otherwise, I won’t be able to absorb it.” Han Sen thought about buying a geno fluid to help synthesize and speed up the absorption process. He was tempted, but he ultimately chose not to.
 
 Firstly, it was too expensive. Secondly, he did not know whether or not there were any unwanted side-effects that had yet to come to light.
 
@@ -44,11 +43,11 @@ Han Sen didn’t think it was possible to do this, but he knew it was impossible
 
 Han Sen scanned the others and realized he was correct.
 
-“Xiao Mei is a slut! I almost broke my back last night. I’ll have to remedy it with some oil later for round two tonight. I’m going to f*ck her to death.”
+“Xiao Mei is a slut! I almost broke my back last night. I’ll have to remedy it with some oil later for round two tonight. I’m going to fuck her to death.”
 
 “Where should I go to kill creatures? Killing worms is too dangerous, but killing bugs is too simple and lame.”
 
-“Fuck! That *sshole Li tricked me. I’m going to f*ck him up the next time I see him.”
+“Fuck! That asshole Li tricked me. I’m going to fuck him up the next time I see him.”
 
 When he focused on a person inside the aura, Han Sen could read their minds in real time.
 
@@ -60,7 +59,7 @@ Unfortunately, Han Sen was unable to hear a single thing.
 
 Instead, he turned his attention to the bird that was sitting on Bao’er’s shoulder. Much to his surprise, he was able to discern its thoughts.
 
-“She never shares any food with me. What a b*tch.”
+“She never shares any food with me. What a bitch.”
 
 Han Sen was incredibly excited over this new ability, and he was giddy to try it out on everything he could. He ran straight into the forest to hear the thoughts of all the creatures he could find.
 

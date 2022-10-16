@@ -1,21 +1,20 @@
 ---
-Title:Free Training Partner 
-Chapter:31 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: Free Training Partner
+chapter: 31
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Free Training Partner
-### Chapter 31
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Free Training Partner
+
+### Chapter 31
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 "I’ll just fight her. She’s just a woman after all," Han Sen whispered to himself.
 
 Han Sen knew that Qin Xuan would not leave him alone no matter how he restrained himself. So he would no longer do that. He had almost mastered Ghosthaunt, and it would be great for him to practice it on her.

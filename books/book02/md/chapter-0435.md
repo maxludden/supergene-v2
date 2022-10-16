@@ -1,21 +1,20 @@
 ---
-Title:Only a Woman 
-Chapter:435 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Only a Woman
+chapter: 435
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Only a Woman
-### Chapter 435
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Only a Woman
+
+### Chapter 435
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen looked at the shattered crystal on the floor, shocked. When humans were still living on planet Earth only, scientists at that time believed that human brains were only developed 10%, with lots potentials to tap into.
 
 However, with the development of science and technology, the theory had been proven absurd.

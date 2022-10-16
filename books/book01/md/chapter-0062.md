@@ -1,21 +1,20 @@
 ---
-Title:Golden Meteor 
-Chapter:62 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: Golden Meteor
+chapter: 62
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Golden Meteor
-### Chapter 62
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Golden Meteor
+
+### Chapter 62
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Fang Mingquan’s new program didn’t have much popularity yet but there were still some old fans who had followed him here. Seeing the webcasting was on, many of them had chosen to watch.
 
 When they saw the Shura was to kill the little girl, they were all praying that someone could save her. And when Han Sen showed up, they were all thrilled. However, what they didn’t understand was why Han Sen didn’t choose to dodge the katana and thus lost his advantage. He could have dodged as he could fly.

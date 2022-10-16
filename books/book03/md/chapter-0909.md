@@ -1,21 +1,20 @@
 ---
-Title:A Big Tree in the Forest 
-Chapter:909 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: A Big Tree in the Forest
+chapter: 909
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## A Big Tree in the Forest
-### Chapter 909
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## A Big Tree in the Forest
+
+### Chapter 909
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Seeing this tall, lonely tree from afar, Han Sen frowned. The tree possessed a grand lifeforce, but there was nothing else alive in its proximity.
 
 There were no creatures near it, so Han Sen thought it was a little strange.

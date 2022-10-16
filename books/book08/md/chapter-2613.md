@@ -1,21 +1,20 @@
 ---
-Title:Trying 
-Chapter:2613 
-Section:12 
-Book:8 
-CSS:../Styles/style.css 
+title: Trying
+chapter: 2613
+section: 12
+book: 8
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Trying
-### Chapter 2613
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Trying
+
+### Chapter 2613
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Yan looked at the holy gourds hanging behind her. She hadn’t expected to be the recipient of the thousand holy airs that were bestowed upon Bao’er, but it came as a surprise that not a single holy gourd had given her a holy air. It made her feel sick.
 
 “I told my big brother that I wouldn’t disappoint him, but I haven’t even received a single holy gourd air. I have embarrassed my big brother. The people of Sky Palace will laugh at him.” Han Yan looked at the gourds, trying to decide if she should do something more to prompt the activation of at least one gourd’s holy air.

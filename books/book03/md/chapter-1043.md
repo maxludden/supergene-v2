@@ -1,21 +1,20 @@
 ---
-Title:Getting a Super Beast Soul 
-Chapter:1043 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Getting a Super Beast Soul
+chapter: 1043
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Getting a Super Beast Soul
-### Chapter 1043
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Getting a Super Beast Soul
+
+### Chapter 1043
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen’s Aero did not make him any faster than the black sheep headed his way. When the fluffy fiend reached the peak of its jump, it glided towards him like an aggressive storm cloud.
 
 “It is a super creature!” Han Sen returned Brother Seven to the ground and told him, “Go on ahead first.”

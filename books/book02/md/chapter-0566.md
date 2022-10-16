@@ -1,21 +1,20 @@
 ---
-Title:A Mascot Monster 
-Chapter:566 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: A Mascot Monster
+chapter: 566
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## A Mascot Monster
-### Chapter 566
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## A Mascot Monster
+
+### Chapter 566
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Surprisingly, the road to the Demon Shelter had been a relatively smooth one. Han Sen had wanted to kill a few creatures along the way, but he hadn't had the chance due to the evolvers hired to protect the caravan getting to the monsters first.
 
 This was the first time Han Sen had seen a royal shelter owned by humans. The building itself was a few dozen miles long and surrounded by forest. Structures built from wood were everywhere, but it was different to know what might be expected. Certain wooden structures were buildings ten-stories high, and they looked mystical and imposing. Around the city, you could see ancient trees reaching for the sky at 40-meters in height.

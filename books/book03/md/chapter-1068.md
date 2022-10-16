@@ -1,21 +1,20 @@
 ---
-Title:Scary Weapon 
-Chapter:1068 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Scary Weapon
+chapter: 1068
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Scary Weapon
-### Chapter 1068
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Scary Weapon
+
+### Chapter 1068
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen could not wait to sleep on a bed of those purple crystal cores. Doing so would be better than rolling on a bed of cash.
 
 Ji Yanran and Han Sen were not professional scientists, so the correct terminology escaped them. What they did know was that the purple crystal cores were anti-material weapons. They were explosive devices that released obliterating energy upon detonation.
@@ -84,7 +83,7 @@ Still, his new style was embarrassing. Han Sen had no idea where such a clash of
 
 “My Emperor, is it time we exact our revenge on Holy-Sword Emperor?” Han Sen encouraged him.
 
-“H*ll yeah. We need to go f*ck that punk up, yo. Those who diss me gon’ get their lids peeled, bruh.” Xie Qing King flipped a bird to the high heavens.
+“H*ll yeah. We need to go fuck that punk up, yo. Those who diss me gon’ get their lids peeled, bruh.” Xie Qing King flipped a bird to the high heavens.
 
 Han Sen was cringing until his teeth ground, but he couldn’t help be a little interested in what Xie Qing King had read, to prompt such a large change in dress style and dialogue.
 

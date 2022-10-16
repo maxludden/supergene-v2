@@ -1,21 +1,20 @@
 ---
-Title:Shocking Sky Palace 
-Chapter:2085 
-Section:8 
-Book:6 
-CSS:../Styles/style.css 
+title: Shocking Sky Palace
+chapter: 2085
+section: 8
+book: 6
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Shocking Sky Palace
-### Chapter 2085
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Shocking Sky Palace
+
+### Chapter 2085
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Many Sky had gathered around a circle of elders and King class elites.
 
 “Sixth elder, do not try to steal the new student this time. You took Fang Weinan’s last time. I get first pick of any good prospective students! I want this little girl,” the fourth elder said, seeing the sixth elder approach.

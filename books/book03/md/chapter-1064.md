@@ -1,21 +1,20 @@
 ---
-Title:Stone Ding 
-Chapter:1064 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Stone Ding
+chapter: 1064
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Stone Ding
-### Chapter 1064
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Stone Ding
+
+### Chapter 1064
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen now knew why Sunset asked him if he believed in God.
 
 But Han Sen still thought he was missing a piece of the puzzle. After all, why would she want to kill Han Jingzhi, if he had only said something blasphemous or comical towards God?

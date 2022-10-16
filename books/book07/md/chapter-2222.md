@@ -1,20 +1,19 @@
 ---
-Title:Gold Fire Peacock
-Chapter:2222
-Section:10
-Book:7
-CSS:../Styles/style.css
+title: Gold Fire Peacock
+chapter: 2222
+section: 10
+book: 7
+CSS: style.css
 viewport: width=device-width
 ---
 
 ## Gold Fire Peacock
+
 ### Chapter 2222
 
 <figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
 </figure>
-
-
 
 Han Sen flapped his dragon wings and flew behind the lava peacock. He slashed as quickly as he could, but the lava peacock was still able to avoid each strike.
 
@@ -69,15 +68,14 @@ Han Sen, hearing that he had obtained a beast soul, was very happy. He quickly h
 <div class="tables">
 	<table class="beast">
 		<tr>
-			<th>Beast Soul</th>
+			<th colspan="2">Beast Soul Gained</th>
 		</tr><tr>
-			<td>Duke Lava Peacock<br>
-				<span class="type">(Flying)</span>
-			</td>
+			<td>Duke Lava Peacock</td>
+			<td>(Flying)</td>
 		</tr>
 	</table>
 	<!-- Duke class beast soul : Flying-type. -->
-</div>
+</div> 
 
 Han Sen’s heart stopped. A gold lava-looking set of peacock wings appeared behind Han Sen. A slight touch could make Han Sen travel so far and so fast. Whenever he sped up, he could unleash a stream of fire that could twist the fabric of space in its vicinity.
 

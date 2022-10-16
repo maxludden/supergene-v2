@@ -1,21 +1,20 @@
 ---
-Title:Death Silhouette 
-Chapter:3158 
-Section:16 
-Book:10 
-CSS:../Styles/style.css 
+title: Death Silhouette
+chapter: 3158
+section: 16
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Death Silhouette
-### Chapter 3158
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Death Silhouette
+
+### Chapter 3158
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “The crystallizers were powerful, but they were not strong enough to overcome reincarnation. How were they connected to the God Chaos Party?” Han Sen wondered. He could not figure out why.
 
 Han Sen was certain about one thing. Rocky Dee’s phone number only worked before midnight. It meant that after midnight, the God Chaos Party would deal with him in their own way.

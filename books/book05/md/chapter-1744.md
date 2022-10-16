@@ -1,21 +1,20 @@
 ---
-Title:Power to Travel Freely 
-Chapter:1744 
-Section:6 
-Book:5 
-CSS:../Styles/style.css 
+title: Power to Travel Freely
+chapter: 1744
+section: 6
+book: 5
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Power to Travel Freely
-### Chapter 1744
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Power to Travel Freely
+
+### Chapter 1744
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 When Old Cat vanished into the red light, Han Sen felt a surge of familiar power. It was the same as the power that rose when he used the new abilities of his blood.
 
 Now Han Sen knew that the strange power he had detected was the path to leave the sanctuary.

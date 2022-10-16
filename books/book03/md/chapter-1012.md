@@ -1,21 +1,20 @@
 ---
-Title:Real Wolf King 
-Chapter:1012 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Real Wolf King
+chapter: 1012
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Real Wolf King
-### Chapter 1012
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Real Wolf King
+
+### Chapter 1012
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The wolves and wolf kings stopped their flight. They stood where they were, trembling in fear of something else.
 
 “What’s wrong with them now?” Chen Hu wondered, with a look of confusion.

@@ -1,21 +1,20 @@
 ---
-Title:Too Powerful 
-Chapter:1250 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Too Powerful
+chapter: 1250
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Too Powerful
-### Chapter 1250
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Too Powerful
+
+### Chapter 1250
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Bao’er sat on the grass drinking milk. She was a few years old by now, but her appearance hadn’t changed at all.
 
 Han Sen did not know whether she was simply slow to develop, or if she’d be like this forever. Regardless of what her circumstances were, he was determined to take care of her.

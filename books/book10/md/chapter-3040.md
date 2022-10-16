@@ -1,21 +1,20 @@
 ---
-Title:Digging Egg 
-Chapter:3040 
-Section:16 
-Book:10 
-CSS:../Styles/style.css 
+title: Digging Egg
+chapter: 3040
+section: 16
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Digging Egg
-### Chapter 3040
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Digging Egg
+
+### Chapter 3040
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 A giant king class gene race overbearing bug was blown up by Han Sen in one punch. The shattered shell was scattered everywhere. It dyed the whole of the god temple red and scared everybody.
 
 In the plaza, not even the birds dared to tweet. Everyone’s eyes opened wide, and their mouths became circular shapes. They were all petrified as they looked at Han Sen, who was inside the god temple.

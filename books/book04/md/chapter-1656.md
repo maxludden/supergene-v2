@@ -1,21 +1,20 @@
 ---
-Title:Black Pot 
-Chapter:1656 
-Section:4 
-Book:4 
-CSS:../Styles/style.css 
+title: Black Pot
+chapter: 1656
+section: 4
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Black Pot
-### Chapter 1656
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Black Pot
+
+### Chapter 1656
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “Wait, this is not right. I’m only here to get the goodies. What’s happening now?” Han Sen felt rather awkward. He turned and looked at Illusion Elder, but Illusion Elder and the others were staring back at him. Their eyes, however, looked murderous.
 
 “Pretty Lady, although you look cute and sweet, and you look as if you have my genes, don’t just randomly announce that.” Han Sen wanted to explain he had nothing to do with Death Goddess. He didn’t want to be a scapegoat Death Goddess had slain so many spirits and creatures, she had a vast number of enemies. If he admitted that she was his daughter, the entire world would be against him.

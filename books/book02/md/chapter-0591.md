@@ -1,21 +1,20 @@
 ---
-Title:Attacking the Shelter 
-Chapter:591 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Attacking the Shelter
+chapter: 591
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Attacking the Shelter
-### Chapter 591
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Attacking the Shelter
+
+### Chapter 591
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 "Brother Han, all is prepared. We can attack the royal shelter whenever we desire." Qi Xiuwen returned to the Blackgod Shelter and reported to Han Sen that he had successfully enlisted the aid of Li Xinglun and Philip for the assault.
 
 "Well done. We will follow your plan." Han Sen was looking over the plan Qi Xiuwen had formulated.

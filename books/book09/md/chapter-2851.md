@@ -1,21 +1,20 @@
 ---
-Title:One Chess Piece 
-Chapter:2851 
-Section:14 
-Book:9 
-CSS:../Styles/style.css 
+title: One Chess Piece
+chapter: 2851
+section: 14
+book: 9
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## One Chess Piece
-### Chapter 2851
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## One Chess Piece
+
+### Chapter 2851
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Looking at Yisha slashing forward, Han Sen did not bother evading like before. He moved his body forward and teleported in front of her.
 
 When the teeth knife slashed down from above, Han Sen pulled out his right hand's middle finger and index finger to catch the teeth knife's body. That scary knife power was captured by Han Sen's fingers. The attack was unable to proceed anymore.

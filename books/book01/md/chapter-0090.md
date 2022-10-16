@@ -1,21 +1,20 @@
 ---
-Title:Hand of God 
-Chapter:90 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: Hand of God
+chapter: 90
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Hand of God
-### Chapter 90
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Hand of God
+
+### Chapter 90
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 On the next day, Han Sen brought porns to the soldier who had asked him for them. The soldier was so happy that he wanted to become sworn brothers with Han Sen and said Han Sen would be responsible for his happiness from now on.
 
 Han Sen was covered in sweat. Fortunately, Yang Manli came fast enough so that Han Sen got rid of the soldier successfully.

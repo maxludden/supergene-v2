@@ -1,21 +1,20 @@
 ---
-Title:Space Garden Fight 
-Chapter:3441 
-Section:17 
-Book:10 
-CSS:../Styles/style.css 
+title: Space Garden Fight
+chapter: 3441
+section: 17
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Space Garden Fight
-### Chapter 3441
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Space Garden Fight
+
+### Chapter 3441
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Human King was sitting in the 33 skies. He had become the owner of the geno tablet, but the geno tablet was unable to replace the geno hall to become the leader of the universe. He had to wait until the geno hall was overthrown.
 
 If there was no geno tablet, even if one beat the geno hall, one could not become the universe’s controller. Human King had the most basic fundamentals, so all he required was the last step.

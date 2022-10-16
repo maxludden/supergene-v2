@@ -1,21 +1,20 @@
 ---
-Title:Angel Gene Fluid 
-Chapter:729 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Angel Gene Fluid
+chapter: 729
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Angel Gene Fluid
-### Chapter 729
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Angel Gene Fluid
+
+### Chapter 729
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Inside the Angel Gene corporation office, a man sat behind a desk. His face was gloomy. Zhao Heng and Zhao Haiyang were standing in the room, silent. With heads lowered, they could not dare look at the man before them.
 
 The man behind the desk looked to be in his forties. He was fairly unremarkable in appearance, but his body exuded an aura of terrible power. Every faint movement he made was intimidating. Even though Zhao Heng was of the same generation, with his grandson at his side, he almost didn't dare steal the air to breathe in that room.

@@ -1,21 +1,20 @@
 ---
-Title:Power That Exceeds the Capabilities of Humanity 
-Chapter:1514 
-Section:4 
-Book:4 
-CSS:../Styles/style.css 
+title: Power That Exceeds the Capabilities of Humanity
+chapter: 1514
+section: 4
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Power That Exceeds the Capabilities of Humanity
-### Chapter 1514
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Power That Exceeds the Capabilities of Humanity
+
+### Chapter 1514
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 While Shafei was shouting at Tina, Yi Dongmu’s eyes went cold. His speedy body suddenly unleashed an unbelievable power. It was like all the speed and power he could possibly possess was let out in a single moment.
 
 Buzz!

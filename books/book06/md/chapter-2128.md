@@ -1,21 +1,20 @@
 ---
-Title:I Am Invincible 
-Chapter:2128 
-Section:8 
-Book:6 
-CSS:../Styles/style.css 
+title: I Am Invincible
+chapter: 2128
+section: 8
+book: 6
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## I Am Invincible
-### Chapter 2128
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## I Am Invincible
+
+### Chapter 2128
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “Alu-Alu-Alu!”
 
 The insane storm of punches was difficult to comprehend. Xie Qing King’s eyes gleamed with a fiery silver. The silver punches he threw were indestructible. Odoga had a snowflake’s chance in trying to repel those wild hits headed his way.
@@ -46,7 +45,7 @@ This is far too cruel. This is far too violent.”
 
 “This is rather interesting, I must confess. It’s more satisfying to watch such a raw fight.”
 
-“F*ck yeah! Kill him. Go on!”
+“Fuck yeah! Kill him. Go on!”
 
 The audience was ravenous for more. The violence of the fight drew an insatiable bloodlust from them, driving their excitement The adrenaline levels of the audience were through the roof.
 

@@ -1,21 +1,20 @@
 ---
-Title:Sacred Egg Was Stolen 
-Chapter:1575 
-Section:4 
-Book:4 
-CSS:../Styles/style.css 
+title: Sacred Egg Was Stolen
+chapter: 1575
+section: 4
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Sacred Egg Was Stolen
-### Chapter 1575
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Sacred Egg Was Stolen
+
+### Chapter 1575
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 They walked for less than two days, and there were scary beings everywhere. Sometimes, Han Sen could even detect powerful auras sweeping across the sky. However, the creatures seemed to be moving chaotically. It felt less like they were chasing something, and more like they were searching.
 
 “They must be looking for that Destroyer Wolf,” said Elysian Moon.

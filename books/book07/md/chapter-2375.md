@@ -1,21 +1,20 @@
 ---
-Title:Killing the Siren Elder 
-Chapter:2375 
-Section:11 
-Book:7 
-CSS:../Styles/style.css 
+title: Killing the Siren Elder
+chapter: 2375
+section: 11
+book: 7
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Killing the Siren Elder
-### Chapter 2375
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Killing the Siren Elder
+
+### Chapter 2375
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “The Crystal God Conch became deified because of that Siren Bottle.” Han Sen looked at the Siren Elder. She didn’t look old anymore. It looked as if she had returned to being a young woman.
 
 The Siren Elder swung her fishtail, and waves surged out behind her as she swam away from the blood altar and went toward Han Sen and Lan Haixin. She laughed haughtily. “As long as I possess the holy bottle, anything I desire is within my grasp.”

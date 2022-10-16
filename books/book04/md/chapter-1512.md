@@ -1,21 +1,20 @@
 ---
-Title:Fight in Fantis 
-Chapter:1512 
-Section:4 
-Book:4 
-CSS:../Styles/style.css 
+title: Fight in Fantis
+chapter: 1512
+section: 4
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Fight in Fantis
-### Chapter 1512
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Fight in Fantis
+
+### Chapter 1512
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Shafei didn’t see Han Sen in the lobby, and she was too lazy to go and find him. So, she stood with Tina and issued a command through her communicator.
 
 All across Planet Fantis, explosions began to erupt. The entire planet was suddenly gripped in terror. Many of the humans that had gone there on holiday began to scramble and fight their way back to the landing pads to try to escape.

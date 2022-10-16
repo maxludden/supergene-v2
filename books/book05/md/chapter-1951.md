@@ -1,21 +1,20 @@
 ---
-Title:Can You Not Treat Me Like a Monster? 
-Chapter:1951 
-Section:7 
-Book:5 
-CSS:../Styles/style.css 
+title: Can You Not Treat Me Like a Monster?
+chapter: 1951
+section: 7
+book: 5
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Can You Not Treat Me Like a Monster?
-### Chapter 1951
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Can You Not Treat Me Like a Monster?
+
+### Chapter 1951
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Planet Eclipse.
 
 Wang Yuhang was riding his bike across the mountains. He was wearing a pair of eye-catching sunglasses.

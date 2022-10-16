@@ -1,21 +1,20 @@
 ---
-Title:Fighting for the Upside-down Scale 
-Chapter:2045 
-Section:8 
-Book:6 
-CSS:../Styles/style.css 
+title: Fighting for the Upside-down Scale
+chapter: 2045
+section: 8
+book: 6
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Fighting for the Upside-down Scale
-### Chapter 2045
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Fighting for the Upside-down Scale
+
+### Chapter 2045
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Pang!
 
 Han Sen’s body exploded as the blades sliced through it. Another Han Sen rushed Dragon Fifteen from the side.

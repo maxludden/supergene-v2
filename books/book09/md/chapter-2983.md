@@ -1,21 +1,20 @@
 ---
-Title:Killing a God Spirit 
-Chapter:2983 
-Section:15 
-Book:9 
-CSS:../Styles/style.css 
+title: Killing a God Spirit
+chapter: 2983
+section: 15
+book: 9
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Killing a God Spirit
-### Chapter 2983
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Killing a God Spirit
+
+### Chapter 2983
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Moment God did not believe Han Sen could break the time etching’s control. He was too close to Han Sen. He wanted to use time power to stop Han Sen, but it was no longer working.
 
 In that burning light, Han Sen was holding the Sky Vine Radish God Lance. It had cold light that pierced into Moment God’s chest.

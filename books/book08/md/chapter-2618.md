@@ -1,21 +1,20 @@
 ---
-Title:Taking a Student for Teaching 
-Chapter:2618 
-Section:12 
-Book:8 
-CSS:../Styles/style.css 
+title: Taking a Student for Teaching
+chapter: 2618
+section: 12
+book: 8
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Taking a Student for Teaching
-### Chapter 2618
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Taking a Student for Teaching
+
+### Chapter 2618
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 In an office of Sky Palace, a collection of elders, officers, and other high-class people were discussing the events with great excitement.
 
 “We’re talking about the Eleventh Leader’s sword skill, here. It is one of Sky Palace’s secret techniques. After being buried for all these years, it has finally been revealed. It should be a part of Sky Palace’s armory. We can’t allow an outsider to claim it. The one who got it was a foreign student, after all.”

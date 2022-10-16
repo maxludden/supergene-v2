@@ -1,21 +1,20 @@
 ---
-Title:Combined Evolution 
-Chapter:647 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Combined Evolution
+chapter: 647
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Combined Evolution
-### Chapter 647
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Combined Evolution
+
+### Chapter 647
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 "Brother Han, you are back! Did you kill the creature?" Wang Yuhang asked Han Sen, with great enthusiasm in his voice.
 
 "I thought you'd be able to tell just by looking at my face. Had I killed it, I would have brought its flesh back, wouldn't I?" Han Sen shrugged.

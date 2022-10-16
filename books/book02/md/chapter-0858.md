@@ -1,21 +1,20 @@
 ---
-Title:The Gourd’s Show of Strength 
-Chapter:858 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: The Gourd’s Show of Strength
+chapter: 858
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## The Gourd’s Show of Strength
-### Chapter 858
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## The Gourd’s Show of Strength
+
+### Chapter 858
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The earth was quaking as Moment Shelter rose up alongside the Purple Mountain. Beneath the sundered mountain, gargantuan jade roots were exposed.
 
 The corpses of all the super creatures, and their Life Geno Essences included, were each consumed by the tree.

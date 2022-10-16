@@ -1,21 +1,20 @@
 ---
-Title:Big Sky Demon Returns 
-Chapter:3276 
-Section:16 
-Book:10 
-CSS:../Styles/style.css 
+title: Big Sky Demon Returns
+chapter: 3276
+section: 16
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Big Sky Demon Returns
-### Chapter 3276
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Big Sky Demon Returns
+
+### Chapter 3276
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “Little Lover, have you not always tried to get rid of me? Now, I am injured and cannot possibly fight back. This is the best chance you have of killing me. Even if you just move a finger, it will be more than enough for you to kill me.” Although big sky demon looked terrible, she was still able to put on a smile. Her jade arms were wrapped around Han Sen’s neck. She was like a little cat in his arms. Her words were spoken with a sultry drawl.
 
 “Why are you injured?” Han Sen knew how powerful big sky demon was. Not many beings in this world of kingdoms should have been able to harm her.

@@ -1,21 +1,20 @@
 ---
-Title:Draconic Delicacy 
-Chapter:1330 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Draconic Delicacy
+chapter: 1330
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Draconic Delicacy
-### Chapter 1330
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Draconic Delicacy
+
+### Chapter 1330
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Before the rhino, there was a woman with dragon horns and wings. Her skin was scaled like a draconic beast, as well. She held a cleaver, like some butcher that had crept out of Satan’s kitchen. She was a strange character to see, that much was certain.
 
 Three-Eye Emperor frowned at the sight of her, and grimaced even more when he realized he was unable to detect a lifeforce within this woman.

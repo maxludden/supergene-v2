@@ -1,21 +1,20 @@
 ---
-Title:Saving People 
-Chapter:3098 
-Section:16 
-Book:10 
-CSS:../Styles/style.css 
+title: Saving People
+chapter: 3098
+section: 16
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Saving People
-### Chapter 3098
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Saving People
+
+### Chapter 3098
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Feng Fei Fei was one of the three top singers. She was very powerful. All of the party guests were high-class people, but many people were injured by her sonic blast. People were using their gene-class powers to try and help her, but all attempts were futile. Her body was like a sonic tide. She had a phoenix’s body to protect her, but that meant no other powers could come close.
 
 That was how powerful she was. Now, that power was able to kill people.

@@ -1,21 +1,20 @@
 ---
-Title:The Plan to Max Out Sacred Geno Points 
-Chapter:389 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: The Plan to Max Out Sacred Geno Points
+chapter: 389
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## The Plan to Max Out Sacred Geno Points
-### Chapter 389
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## The Plan to Max Out Sacred Geno Points
+
+### Chapter 389
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Ning Yue did not stop Han Sen but still sent for someone to follow him. Although Han Sen felt he was followed, he did not mean to get rid of the tail. Han Sen returned to Steel Armor Shelter as usual.
 
 Ning Yue received the message and frowned. Is it true that he did not kill the super creature?

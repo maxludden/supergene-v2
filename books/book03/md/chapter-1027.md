@@ -1,21 +1,20 @@
 ---
-Title:Killing Nine-tail Ghost Fox 
-Chapter:1027 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Killing Nine-tail Ghost Fox
+chapter: 1027
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Killing Nine-tail Ghost Fox
-### Chapter 1027
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Killing Nine-tail Ghost Fox
+
+### Chapter 1027
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The ghost fox squealed as if it was trying to say, “I am indestructible, you are nothing!”
 
 But in the next second, Han Sen’s mighty fist was burying itself deep into the ghost fox’s face. It annihilated the composure of its shadowy form and sent the beast flying.

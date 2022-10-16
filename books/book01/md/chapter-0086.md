@@ -1,21 +1,20 @@
 ---
-Title:Special Training 
-Chapter:86 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: Special Training
+chapter: 86
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Special Training
-### Chapter 86
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Special Training
+
+### Chapter 86
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 "Sen, check out my new mount!" Su Xiaoqiao was riding his newly-gained mutant red-hoofed beast in the yard of the Bullseye team, bragging.
 
 The mutant red-hoofed beast looked somewhat like an antelope with a pair of buffalo horns on its head. It had the size of a camel and was satin black all over, except for its four blood-red hooves.

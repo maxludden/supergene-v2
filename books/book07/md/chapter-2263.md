@@ -1,21 +1,20 @@
 ---
-Title:Thunder God Spike 
-Chapter:2263 
-Section:10 
-Book:7 
-CSS:../Styles/style.css 
+title: Thunder God Spike
+chapter: 2263
+section: 10
+book: 7
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Thunder God Spike
-### Chapter 2263
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Thunder God Spike
+
+### Chapter 2263
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 As the sword-like weapon was slowly removed, the mysterious symbols on its surface began to leap and dance like mad. It looked as if countless fairies of silver thunder were dancing across it.
 
 The silver lightning still crackled out of the sword. It was like there was a silver dragon now flying around the cavern.

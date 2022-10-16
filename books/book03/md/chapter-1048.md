@@ -1,21 +1,20 @@
 ---
-Title:Gold Raven Beast Soul 
-Chapter:1048 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Gold Raven Beast Soul
+chapter: 1048
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Gold Raven Beast Soul
-### Chapter 1048
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Gold Raven Beast Soul
+
+### Chapter 1048
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “Good job. Go take a rest,” Xie Qing King said. His silver armor was in bad shape, and he was bleeding from the wounds he had sustained. Still, he had managed to push through and eliminate the three remaining birds.
 
 Han Sen felt great relief following the end of that fight. There was one thing he had learned from this ordeal, though. It was to never mess with Xie Qing King. If Han Sen ever had to fight him, he knew he wouldn’t win; not even if he used his super king spirit mode.

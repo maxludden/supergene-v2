@@ -1,21 +1,20 @@
 ---
-Title:Flower Creature 
-Chapter:779 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Flower Creature
+chapter: 779
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Flower Creature
-### Chapter 779
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Flower Creature
+
+### Chapter 779
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The Emerald Golem was dying, and the little angel effortlessly exploited its every weakness. Within half an hour, it would most probably lie dead.
 
 The Emerald Golem consistently cried and roared out, but it was unable to do anything else. The little angel's greatsword repeatedly struck the neck of the Emerald Golem until its head was hewn off.

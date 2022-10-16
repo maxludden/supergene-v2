@@ -1,21 +1,20 @@
 ---
-Title:Siege 
-Chapter:1801 
-Section:6 
-Book:5 
-CSS:../Styles/style.css 
+title: Siege
+chapter: 1801
+section: 6
+book: 5
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Siege
-### Chapter 1801
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Siege
+
+### Chapter 1801
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen touched the scabbard and picked it up. It felt comfortable in his palm, but it was quiet like it was dead. There was nothing more special about it.
 
 Han Sen didn’t think 什le scabbard would be a completely dead object, though. It might not have given off an anima卜like sensation or possessed a knifemind anymore, but its soul was still there. It couldn’t have been completely dead.

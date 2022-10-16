@@ -1,21 +1,20 @@
 ---
-Title:Scary Crocodile God 
-Chapter:2566 
-Section:12 
-Book:8 
-CSS:../Styles/style.css 
+title: Scary Crocodile God
+chapter: 2566
+section: 12
+book: 8
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Scary Crocodile God
-### Chapter 2566
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Scary Crocodile God
+
+### Chapter 2566
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 *Boom!*
 
 That mysterious Very High Spell broke those new rules of gravity, and Exquisite’s body flashed far away into space until she was gone from sight.

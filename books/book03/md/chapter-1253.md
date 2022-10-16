@@ -1,21 +1,20 @@
 ---
-Title:The Egg That Loves to Drink 
-Chapter:1253 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: The Egg That Loves to Drink
+chapter: 1253
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## The Egg That Loves to Drink
-### Chapter 1253
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## The Egg That Loves to Drink
+
+### Chapter 1253
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Pang!
 
 The bottom of the bottle broke again.

@@ -1,21 +1,20 @@
 ---
-Title:From a Loner to the King 
-Chapter:105 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: From a Loner to the King
+chapter: 105
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## From a Loner to the King
-### Chapter 105
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## From a Loner to the King
+
+### Chapter 105
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 *Snap!*
 
 Wang Changqing’s comlink was smashed by him. Eyes bloodshot, he panted heavily like a hysterical beast.

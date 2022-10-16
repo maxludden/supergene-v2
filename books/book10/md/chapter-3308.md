@@ -1,21 +1,20 @@
 ---
-Title:Sky King's Identity 
-Chapter:3308 
-Section:17 
-Book:10 
-CSS:../Styles/style.css 
+title: Sky King's Identity
+chapter: 3308
+section: 17
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Sky King's Identity
-### Chapter 3308
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Sky King's Identity
+
+### Chapter 3308
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The nine-headed monster’s arms, which were going to hit Ning Yue and Sheep, had a sword air come out from it. An arm was cut off. The nine-headed monster squealed. Its broken arm bled like a fountain of bloody, red water.
 
 “I am going to kill you!” All of the nine-headed monster’s heads roared together. Nine different powers gathered together. Another fist deployed nine evil lights. They madly punched at Ning Yue.

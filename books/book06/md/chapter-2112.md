@@ -1,21 +1,20 @@
 ---
-Title:There Are Still Creatures Like That? 
-Chapter:2112 
-Section:8 
-Book:6 
-CSS:../Styles/style.css 
+title: There Are Still Creatures Like That?
+chapter: 2112
+section: 8
+book: 6
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## There Are Still Creatures Like That?
-### Chapter 2112
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## There Are Still Creatures Like That?
+
+### Chapter 2112
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Crazy Cow Viscount kept attacking Littleflower, but despite all its efforts, it could not hit him. All its scary punches ended up flying harmless past or hitting the ground, kicking up a flurry of sand.
 
 “Don’t run! Fight Grandpa Cow,” Crazy Cow Viscount shouted as he chased after Littleflower.

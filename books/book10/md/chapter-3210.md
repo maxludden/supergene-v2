@@ -1,21 +1,20 @@
 ---
-Title:The Thing in the Well 
-Chapter:3210 
-Section:16 
-Book:10 
-CSS:../Styles/style.css 
+title: The Thing in the Well
+chapter: 3210
+section: 16
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## The Thing in the Well
-### Chapter 3210
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## The Thing in the Well
+
+### Chapter 3210
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 There was fear in the young lady’s eyes, but she still listened to the priest and went toward the Destiny Well. At this time, the blood spring in the Destiny Well was almost gone. The priest shouted at the girl, “Do not be afraid! Just use the same method that I have always taught you! It will be fine!”
 
 “Yes,” the young lady replied. She walked in front of the Destiny Well and brandished her sacrificial knife. She drew it across her wrist to leak her blood into the well.

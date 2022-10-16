@@ -1,21 +1,20 @@
 ---
-Title:Two Ape Mountain 
-Chapter:2769 
-Section:14 
-Book:9 
-CSS:../Styles/style.css 
+title: Two Ape Mountain
+chapter: 2769
+section: 14
+book: 9
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Two Ape Mountain
-### Chapter 2769
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Two Ape Mountain
+
+### Chapter 2769
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Mystical engravings covered the surface of the giant bell, visible even from a great distance because of the size of the bell. The engravings looked rather strange. They seemed to depict a bird that was flying through a complex series of loops and twirls. Han Sen and the others were unsure what it meant.
 
 But on the front of the bell, there was an engraving of a true god bird. There was no doubt about this picture; it represented a true god phoenix.

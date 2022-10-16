@@ -1,21 +1,20 @@
 ---
-Title:Can't Escape the Chaos 
-Chapter:3331 
-Section:17 
-Book:10 
-CSS:../Styles/style.css 
+title: Can't Escape the Chaos
+chapter: 3331
+section: 17
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Can't Escape the Chaos
-### Chapter 3331
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Can't Escape the Chaos
+
+### Chapter 3331
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 White King and Bottle Fairy felt quite touched. They did not think Han Sen was going to put so much effort into doing this. He was not afraid they would attack him. It gave them a better impression of Han Sen’s character.
 
 “I am sorry. My Break World rate is currently too low. I can’t move the jade fairy body.” Han Sen had a wry smile as he shook his head.

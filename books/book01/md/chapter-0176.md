@@ -1,21 +1,20 @@
 ---
-Title:Miserable 
-Chapter:176 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: Miserable
+chapter: 176
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Miserable
-### Chapter 176
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Miserable
+
+### Chapter 176
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 At the contest among the champions of all shelters, Han Sen had seen Yu Qianxun, but did not pay attention to her. Since she did not tell Han Sen who she was, he did not recognize her.
 
 Han Sen thought of her as a training mate instead of an actress whom he would be working with, or else he would let her win at least once.

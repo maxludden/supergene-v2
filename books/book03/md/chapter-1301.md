@@ -1,21 +1,20 @@
 ---
-Title:Precious Gift 
-Chapter:1301 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Precious Gift
+chapter: 1301
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Precious Gift
-### Chapter 1301
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Precious Gift
+
+### Chapter 1301
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 It was too late for them to run now. Night Empress was wrathful, and she gestured with her hands to blanket the helpless spirits and creatures with a scornful darkness.
 
 They mustered every ounce of strength they had left in a bid to repel the malevolent dark, but it was a futile resistance. Their powers were consumed by the looming black, as if it fed on their offerings.

@@ -1,21 +1,20 @@
 ---
-Title:Killing the Raven 
-Chapter:1857 
-Section:7 
-Book:5 
-CSS:../Styles/style.css 
+title: Killing the Raven
+chapter: 1857
+section: 7
+book: 5
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Killing the Raven
-### Chapter 1857
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Killing the Raven
+
+### Chapter 1857
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Inside the broken egg, there was a featherless Raven. A deep wound crossed its body, oozing purple smoke.
 
 The Raven’s eyes were partly open, but little more than slits. It looked furious, but it appeared to be suffering inside the lava-like juice. And while it seemed to be unable to stand, it lurched forward with the speed of lightning. Quickly, it came toward Han Sen, seeking to bite him with a mouth wreathed in fire.

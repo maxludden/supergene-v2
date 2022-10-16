@@ -1,21 +1,20 @@
 ---
-Title:Accidental Reward 
-Chapter:1269 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Accidental Reward
+chapter: 1269
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Accidental Reward
-### Chapter 1269
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Accidental Reward
+
+### Chapter 1269
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “It is no wonder why the empress wasn’t willing to take them herself. Both the fish king and Yaksha were destroyed in their attempts to obtain it.” Han Sen was relieved he had not tried to take the fruit before the others did.
 
 But if the empress and berserk super creatures could not take the fruit, why would she believe a human was capable?

@@ -1,21 +1,20 @@
 ---
-Title:Main Control Room 
-Chapter:1500 
-Section:4 
-Book:4 
-CSS:../Styles/style.css 
+title: Main Control Room
+chapter: 1500
+section: 4
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Main Control Room
-### Chapter 1500
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Main Control Room
+
+### Chapter 1500
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Luckily, the beetle had a galactic map of its own. It was better than the ones the Alliance had, and with it, Ji Yanran was able to determine their location. They were in the Barrens, a place the Alliance had name Plato.
 
 It wasn’t a long journey to return to the bubble of space humans occupied, and with the speed of the beetle, they estimated that the journey would only take half a day.

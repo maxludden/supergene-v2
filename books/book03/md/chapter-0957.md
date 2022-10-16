@@ -1,21 +1,20 @@
 ---
-Title:Holy Bottle 
-Chapter:957 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Holy Bottle
+chapter: 957
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Holy Bottle
-### Chapter 957
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Holy Bottle
+
+### Chapter 957
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Dead bodies littered the ground as far as the eye could see. The mutant creatures Han Sen had encountered before were still alive, doing battle, but they looked to be in terrible condition.
 
 "Oh, no. It looks like Thorn Shelter really will fall." Han Sen climbed up one of the shelter's towers and peered over towards the spirit hall.

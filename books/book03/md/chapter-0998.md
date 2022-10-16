@@ -1,21 +1,20 @@
 ---
-Title:Blind Man’s Stuff 
-Chapter:998 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Blind Man’s Stuff
+chapter: 998
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Blind Man’s Stuff
-### Chapter 998
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Blind Man’s Stuff
+
+### Chapter 998
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen opened the package, which had been delivered to him in a recyclable box, and saw a lone envelope inside.
 
 Needless to say, he was taken aback. Sending someone a primitive letter in that day and age was very unusual.

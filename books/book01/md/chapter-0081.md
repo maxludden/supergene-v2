@@ -1,21 +1,20 @@
 ---
-Title:Well-behaved Soldier 
-Chapter:81 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: Well-behaved Soldier
+chapter: 81
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Well-behaved Soldier
-### Chapter 81
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Well-behaved Soldier
+
+### Chapter 81
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The scripture of Jadeskin opened with these words, "Jade skin and flawless body, evils away and spells vain."
 
 When he sipped the water, Han Sen knew something was wrong, but he still drank it without hesitation.

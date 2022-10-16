@@ -1,21 +1,20 @@
 ---
-Title:I Have Become God 
-Chapter:1680 
-Section:5 
-Book:4 
-CSS:../Styles/style.css 
+title: I Have Become God
+chapter: 1680
+section: 5
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## I Have Become God
-### Chapter 1680
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## I Have Become God
+
+### Chapter 1680
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen couldn’t find Ancient Devil. All he found was Destiny’s Tower, hanging in a corner of the hallway.
 
 It was the only geno core that hadn’t been destroyed after leaving his Sea of Soul. Han Sen went over to grab it and return it to his Sea of Soul. Fortunately, there were no barriers inhibiting this, and he returned it to its rightful place. He could still use it, as well.

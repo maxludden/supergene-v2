@@ -1,21 +1,20 @@
 ---
-Title:Weird Dead Guy 
-Chapter:392 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: Weird Dead Guy
+chapter: 392
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Weird Dead Guy
-### Chapter 392
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Weird Dead Guy
+
+### Chapter 392
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 In the beginning, Han Sen thought it was the person's clothes that were glowing. Maybe it was made of some fluorescent materials. However, very soon, Han Sen made sure that it was not the clothes, but the person himself was glowing.
 
 After checking carefully, Han Sen was surprised to find that it was not a living person. Although it looked exactly like a living person, it was obvious that its exposed face and hands were dried up. It was impossible for a living person to have this kind of feature.

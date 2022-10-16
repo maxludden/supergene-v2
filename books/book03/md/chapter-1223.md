@@ -1,20 +1,19 @@
 ---
-Title:Ice Wolf God Armor
-Chapter:1223
-Section:3
-Book:3
-CSS:../Styles/style.css
+title: Ice Wolf God Armor
+chapter: 1223
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
 
 ## Ice Wolf God Armor
+
 ### Chapter 1223
 
 <figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
 </figure>
-
-
 
 Ice Wolf God’s flesh and Life Geno Essence were great rewards, but Han Sen was happiest about gaining ownership of the Purple Emperor and the beast soul.
 
@@ -23,15 +22,14 @@ Han Sen looked at the beast soul with much joy.
 <div class="tables">
 	<table class="beast">
 		<tr>
-			<th>Beast Soul</th>
+			<th colspan="2">Beast Soul Gained</th>
 		</tr><tr>
-			<td>Super Ice Wolf God<br>
-				<span class="type">(Armor)</span>
-			</td>
+			<td>Super Ice Wolf God</td>
+			<td>(Armor)</td>
 		</tr>
 	</table>
 	<!-- Super Beast Soul Ice Wolf God: Armor Type -->
-</div>
+</div> 
 
 Han Sen hadn’t found another super armor beast soul since his last one got destroyed, so this was a supremely beneficial gain. Han Sen summoned the Ice Wolf God armor to try it on. When it appeared, he was clad in ice-white armor that was skirted with fur. It was both stoic and beautiful.
 

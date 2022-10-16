@@ -1,21 +1,20 @@
 ---
-Title:Signing a Contract 
-Chapter:650 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Signing a Contract
+chapter: 650
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Signing a Contract
-### Chapter 650
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Signing a Contract
+
+### Chapter 650
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen looked behind Wang Yuhang and saw the Red-Scale Dragon turning the corner of the peak, apparently giving chase. It was running as fast as a rabbit, but it wasn't an ordinary pursuit. Something wasn't quite right.
 
 That was when Han Sen froze. Behind the Red-Scale Dragon was another creature: a massive elephant composed of white bones.

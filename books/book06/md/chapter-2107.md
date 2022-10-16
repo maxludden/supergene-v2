@@ -1,21 +1,20 @@
 ---
-Title:You Can Be Strong but the Benefits Are All Mine 
-Chapter:2107 
-Section:8 
-Book:6 
-CSS:../Styles/style.css 
+title: You Can Be Strong but the Benefits Are All Mine
+chapter: 2107
+section: 8
+book: 6
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## You Can Be Strong but the Benefits Are All Mine
-### Chapter 2107
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## You Can Be Strong but the Benefits Are All Mine
+
+### Chapter 2107
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Pang! Pang! Pang!
 
 Fairy Feather elder and the other Feathers looked on in disbelief. The rebirthing powers that were flying toward Angela and Andola smacked into the blue shield. They could not penetrate the wall of light, and they ricochetted off one after another like meatballs bouncing off a plate.

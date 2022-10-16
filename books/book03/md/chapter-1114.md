@@ -1,21 +1,20 @@
 ---
-Title:Spleen 
-Chapter:1114 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Spleen
+chapter: 1114
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Spleen
-### Chapter 1114
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Spleen
+
+### Chapter 1114
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Bai Yishan answered, saying, “Hidden Blood is just a name we have given it. But it is an ancient skill, one that was developed by a certain cult. The skill’s original name was Blood Magic, and I can only suppose it was once regarded as being evil.”
 
 “These are the days of greys, though. Determining what is good and what is evil, that which is black and that which is white, is a thing of the past. The roads to hell are paved with good intentions, after all. All that matters is the method and reason for which something might be used. And that is the case with Hidden Blood. I’ve been researching this particular skill for quite a few years, and I think it’s time for the training wheels to come off and for it to be used properly.”

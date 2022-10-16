@@ -1,21 +1,20 @@
 ---
-Title:The Knife Fight 
-Chapter:1992 
-Section:8 
-Book:6 
-CSS:../Styles/style.css 
+title: The Knife Fight
+chapter: 1992
+section: 8
+book: 6
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## The Knife Fight
-### Chapter 1992
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## The Knife Fight
+
+### Chapter 1992
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “You need a knife?” Han Sen said.
 
 Lone Bamboo nodded and said, “Yes, I need a knife.”

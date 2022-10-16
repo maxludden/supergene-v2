@@ -1,21 +1,20 @@
 ---
-Title:Mutant Treasure 
-Chapter:1741 
-Section:6 
-Book:5 
-CSS:../Styles/style.css 
+title: Mutant Treasure
+chapter: 1741
+section: 6
+book: 5
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Mutant Treasure
-### Chapter 1741
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Mutant Treasure
+
+### Chapter 1741
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “Dollar.” Ling Mei’er was delighted to see Han Sen. She already knew Han Sen was his true identity, but that mattered little at this point
 
 “Mei’er, Elder; why are you here?” Han Sen asked in confusion.

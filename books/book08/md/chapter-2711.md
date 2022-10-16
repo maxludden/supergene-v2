@@ -1,21 +1,20 @@
 ---
-Title:You’re Good 
-Chapter:2711 
-Section:13 
-Book:8 
-CSS:../Styles/style.css 
+title: You’re Good
+chapter: 2711
+section: 13
+book: 8
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## You’re Good
-### Chapter 2711
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## You’re Good
+
+### Chapter 2711
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “Do it again,” the bull monster said in a ragged voice. Giant wings spread from the bull monster’s back and its body was covered in blue scales, but the creature stared at Han Sen with childlike intensity.
 
 Han Sen had heard him repeat those three words several times while they gambled. Han Sen had won seven times. By now, the bull monster’s eyes looked as if they were going to burst into flames. Han Sen was worried that the beast might attack him out of frustration.
@@ -40,7 +39,7 @@ Han Sen noticed that the bull monster wasn’t speaking. He suspected that it ha
 
 “What favor would that be?” The bull monster was honest, but he wasn’t stupid. He looked slightly warily at Han Sen.
 
-“Actually, the favor wouldn’t really be helping me. I feel bad for you, Brother Bull. It was that godd*mn *sshole that summoned you. He didn’t bring you a sacrifice. He was just playing you. If I see him again, I will try to punish him on your behalf. But I’m so weak… I’m not sure if I can fight him. It would be very embarrassing if I had to ask you to fight him on my behalf,” Han Sen confessed, looking at the bull with embarrassment.
+“Actually, the favor wouldn’t really be helping me. I feel bad for you, Brother Bull. It was that godd*mn asshole that summoned you. He didn’t bring you a sacrifice. He was just playing you. If I see him again, I will try to punish him on your behalf. But I’m so weak… I’m not sure if I can fight him. It would be very embarrassing if I had to ask you to fight him on my behalf,” Han Sen confessed, looking at the bull with embarrassment.
 
 When the bull monster heard this, he thought Han Sen was a very nice person. He actually wanted to help him. He looked at Han Sen and nodded. “You’re good.”
 

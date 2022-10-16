@@ -1,21 +1,20 @@
 ---
-Title:Absorbing Blood Power 
-Chapter:1554 
-Section:4 
-Book:4 
-CSS:../Styles/style.css 
+title: Absorbing Blood Power
+chapter: 1554
+section: 4
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Absorbing Blood Power
-### Chapter 1554
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Absorbing Blood Power
+
+### Chapter 1554
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen’s face looked ill. There was a lot of icy fire getting absorbed by the tower, and if the interior filled up, the people inside would not fare well.
 
 But Han Sen’s fear of this did not materialize. The icy flames that were absorbed by the tower did not actually manifest on the interior. No fire appeared on the inside, threatening him. But on the top floor of the tower, another pedestal appeared. There was an ice flame on it, like a frosty flower rolling around.

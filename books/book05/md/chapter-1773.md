@@ -1,21 +1,20 @@
 ---
-Title:The Use of the Magnet Fruit 
-Chapter:1773 
-Section:6 
-Book:5 
-CSS:../Styles/style.css 
+title: The Use of the Magnet Fruit
+chapter: 1773
+section: 6
+book: 5
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## The Use of the Magnet Fruit
-### Chapter 1773
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## The Use of the Magnet Fruit
+
+### Chapter 1773
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen found himself a hidden place, and with all the treasure he had amassed, he returned to the Sanctuary. He planned on hiding for a little while before he returned.
 
 Then, he would have to be Han Sen again. No one would imagine that a commoner with geno armor would have been able to kill Mister Elephant and rob Hai’er.

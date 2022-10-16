@@ -1,21 +1,20 @@
 ---
-Title:Just Awesome 
-Chapter:169 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: Just Awesome
+chapter: 169
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Just Awesome
-### Chapter 169
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Just Awesome
+
+### Chapter 169
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 *Bang!*
 
 Han Sen punched Yu Mingzhi on the arm. Yu’s face suddenly froze. He thought this punch was thrown with the yin force and used only one arm to block Han Sen’s fist. But the fierce punch was actually a black fist, which was a yang force, and Yu’s arm was smashed into his own face.

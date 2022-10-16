@@ -1,21 +1,20 @@
 ---
-Title:A Woman and Her Dog 
-Chapter:1379 
-Section:4 
-Book:4 
-CSS:../Styles/style.css 
+title: A Woman and Her Dog
+chapter: 1379
+section: 4
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## A Woman and Her Dog
-### Chapter 1379
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## A Woman and Her Dog
+
+### Chapter 1379
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Shadow Shelter had a Geno Core Storage. Opening it, however, would require one thousand genes.
 
 To reach this sum, Han Sen would only need time. Genes could be paid for in the blood of others, but ordinary and primitive geno points would do, too.

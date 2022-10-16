@@ -1,21 +1,20 @@
 ---
-Title:Courage 
-Chapter:3112 
-Section:16 
-Book:10 
-CSS:../Styles/style.css 
+title: Courage
+chapter: 3112
+section: 16
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Courage
-### Chapter 3112
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Courage
+
+### Chapter 3112
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 King Jing Zhen’s office desk was stacked with letters from the officers. Even if he did not open them, he was aware that the content included more bad-mouthing of the prince and requests to take a deeper look into the case involving Steel Scene’s death. He knew the content would be very intense.
 
 It was like if he did not kill Han Sen, he would be a bad king. It was like they were saying if Han Sen was not dead, he would become a tyrannical villain governing the government.

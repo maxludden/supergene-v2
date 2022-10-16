@@ -1,21 +1,20 @@
 ---
-Title:Three Year Promise 
-Chapter:3225 
-Section:16 
-Book:10 
-CSS:../Styles/style.css 
+title: Three Year Promise
+chapter: 3225
+section: 16
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Three Year Promise
-### Chapter 3225
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Three Year Promise
+
+### Chapter 3225
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The Super God Spirit mode was invincible. It had never broken like this before. Although Han Sen was shocked, he had no choice but to keep ongoing
 
 It felt like his body was being ripped apart. It was hard to accept. It would have made ordinary people feel as if they wanted to commit suicide.

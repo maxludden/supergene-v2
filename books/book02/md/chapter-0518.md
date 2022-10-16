@@ -1,21 +1,20 @@
 ---
-Title:Bully Annie 
-Chapter:518 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Bully Annie
+chapter: 518
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Bully Annie
-### Chapter 518
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Bully Annie
+
+### Chapter 518
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 "What do you want?" Annie thought Han Sen wanted her to suppress her strength to fight him.
 
 Annie did not mind that. Even if she had to lower her strength, she believed she could beat Han Sen completely.

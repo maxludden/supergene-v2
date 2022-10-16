@@ -1,21 +1,20 @@
 ---
-Title:There Is a Problem 
-Chapter:571 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: There Is a Problem
+chapter: 571
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## There Is a Problem
-### Chapter 571
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## There Is a Problem
+
+### Chapter 571
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Annie returned to her room. She reclaimed the videotape she had watched earlier and sent it via a special communicator.
 
 At the same time, in the same office, a middle-aged man opened the videotape. After watching it, he closed his eyes and reclined in his seat. It seemed as if he was resting, but then he opened his eyes and looked at the video once more.

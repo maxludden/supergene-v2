@@ -1,21 +1,20 @@
 ---
-Title:Contract 
-Chapter:1717 
-Section:6 
-Book:5 
-CSS:../Styles/style.css 
+title: Contract
+chapter: 1717
+section: 6
+book: 5
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Contract
-### Chapter 1717
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Contract
+
+### Chapter 1717
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “That outsider really made the geno tree chime?” In a manager’s office of Black Gold Group, Hardman asked his subordinates in shock.
 
 Those subordinates of Black Gold Group had been the two behind him in the test.

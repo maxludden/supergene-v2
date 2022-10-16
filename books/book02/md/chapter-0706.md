@@ -1,21 +1,20 @@
 ---
-Title:The Return of the Dollar 
-Chapter:706 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: The Return of the Dollar
+chapter: 706
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## The Return of the Dollar
-### Chapter 706
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## The Return of the Dollar
+
+### Chapter 706
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Where once there were only a few in the audience seats, now the stadium was jam-packed with eager spectators. They all stared down at the battlegrounds, waiting for the shadow of Dollar to emerge.
 
 "Here he is! Here he is!" A man clad in purple armor stepped onto the battlegrounds, and when he arrived, the crowd went wild with screams.

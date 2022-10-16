@@ -1,21 +1,20 @@
 ---
-Title:Killing the Black Dragon 
-Chapter:2924 
-Section:15 
-Book:9 
-CSS:../Styles/style.css 
+title: Killing the Black Dragon
+chapter: 2924
+section: 15
+book: 9
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Killing the Black Dragon
-### Chapter 2924
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Killing the Black Dragon
+
+### Chapter 2924
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Blood that looked like crystals was coming out of all of his wounds. God only knew how many bones had been broken in his body. It made Han Sen’s entire presence look terrible.
 
 The black-scaled dragon was very excited. It kept firing dragon breath. All its dragon scales cut across Han Sen’s body. The beast really enjoyed killing, and it was not in a rush to use the stone lantern to get rid of Han Sen.

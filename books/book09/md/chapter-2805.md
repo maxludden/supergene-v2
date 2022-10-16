@@ -1,21 +1,20 @@
 ---
-Title:Bai King’s Student 
-Chapter:2805 
-Section:14 
-Book:9 
-CSS:../Styles/style.css 
+title: Bai King’s Student
+chapter: 2805
+section: 14
+book: 9
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Bai King’s Student
-### Chapter 2805
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Bai King’s Student
+
+### Chapter 2805
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Bai King had taken an outsider xenogeneic for a student. That news quickly spread across the universe. Upon hearing the news, the elites were shocked.
 
 Most ordinary people thought Bai King must have gone crazy. Only scary people were able to understand what Bai King was going to do.

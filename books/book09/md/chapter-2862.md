@@ -1,21 +1,20 @@
 ---
-Title:Han Sen's Galaxy Teleportation 
-Chapter:2862 
-Section:14 
-Book:9 
-CSS:../Styles/style.css 
+title: Han Sen's Galaxy Teleportation
+chapter: 2862
+section: 14
+book: 9
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Han Sen's Galaxy Teleportation
-### Chapter 2862
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Han Sen's Galaxy Teleportation
+
+### Chapter 2862
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen knew what the Deep Abyss Knight’s problem was. He thought, “It looks like Deep Abyss Knight already combined with the universe’s god body by a god. His presence and scabbard are so similar, and the scabbard was made from a broken god personality. That means he is the scabbard’s master. He must be that Sky Armor God.”
 
 “It is no wonder God told me not to bring out the scabbard when facing Sky Armor God. That is why. But that heads-up was fairly useless. How was I supposed to know when and where Sky Armor God would fight me? I could not hold off on using the scabbard forever. With that being the case, what is the point in owning the scabbard in the first place?”

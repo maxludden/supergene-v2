@@ -1,21 +1,20 @@
 ---
-Title:I Can Kill Ten Thousand of Them 
-Chapter:1353 
-Section:4 
-Book:4 
-CSS:../Styles/style.css 
+title: I Can Kill Ten Thousand of Them
+chapter: 1353
+section: 4
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## I Can Kill Ten Thousand of Them
-### Chapter 1353
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## I Can Kill Ten Thousand of Them
+
+### Chapter 1353
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 In Han Sen’s eyes, the creatures were like the flimsy orbs of a ballpit.
 
 When they were touched by the egg, their bodies did not look different. In fact, they looked exactly the same. But it was like the construction of their beings had been radically morphed into something like rubber.

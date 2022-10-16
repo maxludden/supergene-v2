@@ -1,21 +1,20 @@
 ---
-Title:Back to the Extreme King 
-Chapter:2356 
-Section:11 
-Book:7 
-CSS:../Styles/style.css 
+title: Back to the Extreme King
+chapter: 2356
+section: 11
+book: 7
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Back to the Extreme King
-### Chapter 2356
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Back to the Extreme King
+
+### Chapter 2356
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen had obviously planned this.
 
 Because Han Sen let Nine-Headed Bird strike first, Nine-Headed Bird had a chance of winning. That was why Nine-Headed Bird agreed to the bet. But Han Sen’s dragon area defeated Nine-Headed Bird’s first attack, and the moment he stopped attacking was the moment he sealed his loss.

@@ -1,21 +1,20 @@
 ---
-Title:The Three of Us 
-Chapter:1277 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: The Three of Us
+chapter: 1277
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## The Three of Us
-### Chapter 1277
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## The Three of Us
+
+### Chapter 1277
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen fingered the cores for a while, but he didn’t make use of them. It was a risk to do so, and he didn’t like committing to uncertainties. Plus, opening his tenth gene lock was only a matter of time, anyway. It wasn’t worth the risk, all in all.
 
 If there were adverse side-effects to the consumption of the Aqua Fruit cores, they could be lethal. As such, he chose to leave them be for now.

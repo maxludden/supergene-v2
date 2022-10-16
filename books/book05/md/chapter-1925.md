@@ -1,21 +1,20 @@
 ---
-Title:Red Mist King 
-Chapter:1925 
-Section:7 
-Book:5 
-CSS:../Styles/style.css 
+title: Red Mist King
+chapter: 1925
+section: 7
+book: 5
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Red Mist King
-### Chapter 1925
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Red Mist King
+
+### Chapter 1925
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen felt as if his body was taken through the red mist. He felt as if he was sinking. When his body came to a stop, he saw the seven minks wrapped up in the same plume of red mist, right next to him.
 
 The red mist then cocooned itself around him, too. As the mist was attaching itself to him, a strange message penetrated his brain.
@@ -70,7 +69,7 @@ A building that was a few hundred meters tall was vaporized, and a ten-meter-dee
 
 After the initial shock, a flurry of surprises continued to come. The Red Mist King was very strong, and furthermore, Han Sen could control it. That meant Han Sen could be that strong and not have anything to be afraid of.
 
-If Night River King came to provoke him again, Han Sen could punch him into the sky, regardless of whether or not he was a f*cking king.
+If Night River King came to provoke him again, Han Sen could punch him into the sky, regardless of whether or not he was a fucking king.
 
 But Han Sen’s dream quickly came to a halt. The red mist had given him a lot of information, but one of the alerts was now warning him that the energy reserves were very low. It was lower than one percent now, at a figure of 0.75%.
 

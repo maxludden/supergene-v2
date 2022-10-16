@@ -1,21 +1,20 @@
 ---
-Title:Little Uncle Returns 
-Chapter:3382 
-Section:17 
-Book:10 
-CSS:../Styles/style.css 
+title: Little Uncle Returns
+chapter: 3382
+section: 17
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Little Uncle Returns
-### Chapter 3382
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Little Uncle Returns
+
+### Chapter 3382
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen was unable to use his Dongxuan Aura. He was not supposed to be able to know what Huangfu Jing was planning to do to him from behind. Han Sen was still somehow able to see what Huangfu Jing was planning to do from behind. He was able to see everything she was doing.
 
 His body moved horizontally. He avoided Huangfu Jing’s attempted strike.

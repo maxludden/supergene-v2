@@ -1,21 +1,20 @@
 ---
-Title:Red Cloud Beast 
-Chapter:2070 
-Section:8 
-Book:6 
-CSS:../Styles/style.css 
+title: Red Cloud Beast
+chapter: 2070
+section: 8
+book: 6
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Red Cloud Beast
-### Chapter 2070
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Red Cloud Beast
+
+### Chapter 2070
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 After White Real departed, Han Sen and Lone Bamboo continued walking up Rainbow Cloud Peak.
 
 “This is the highest point of Rainbow Cloud Peak. That Cloud Beast is a rare sight.” Lone Bamboo sat atop Rainbow Cloud Peak.

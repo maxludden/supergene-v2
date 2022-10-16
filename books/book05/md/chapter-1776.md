@@ -1,21 +1,20 @@
 ---
-Title:Angel Feather Clothes 
-Chapter:1776 
-Section:6 
-Book:5 
-CSS:../Styles/style.css 
+title: Angel Feather Clothes
+chapter: 1776
+section: 6
+book: 5
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Angel Feather Clothes
-### Chapter 1776
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Angel Feather Clothes
+
+### Chapter 1776
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Ever since the aircraft was cut down, the road had stayed quiet. No others made an appearance.
 
 “Brother Kong, you are so powerful. Of course you might be fearless, but we are merely ordinary men. If the Feathers try to take us out, then I fear things might turn out poorly.” Han Sen spoke to Kong Fei as they walked.

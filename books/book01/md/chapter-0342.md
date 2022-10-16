@@ -1,21 +1,20 @@
 ---
-Title:Trial 
-Chapter:342 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: Trial
+chapter: 342
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Trial
-### Chapter 342
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Trial
+
+### Chapter 342
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen was not able to refuse them and summoned the sacred-blood phantom ant armor.
 
 Yang Zikun was dumbstruck. He asked directly, "Brother, could you sell me this armor? I will trade the other sacred-blood beast soul in Sapphire Shelter for this one. One for one."

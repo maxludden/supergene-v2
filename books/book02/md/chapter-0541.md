@@ -1,21 +1,20 @@
 ---
-Title:Xue Family's Ice Skin 
-Chapter:541 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Xue Family's Jadeskin
+chapter: 541
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Xue Family's Ice Skin
-### Chapter 541
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Xue Family's Jadeskin
+
+### Chapter 541
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Ji Yanran sweetly called her "Sister Wei Wei", but in her heart she felt taken aback. The friendship between Lin Feng and Han Sen must undoubtedly be special, for Han Sen to make such a joke without Lin Feng getting mad.
 
 Han Sen did not know much about Lin Wei Wei, though Ji Yanran did. Lin Wei Wei was Lin Feng's aunt. Before his own rise to fame, Lin Wei Wei was something of a prodigy herself. She was ten years older than Lin Feng, although that counted for little.

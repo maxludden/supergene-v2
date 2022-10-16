@@ -1,21 +1,20 @@
 ---
-Title:The Only Queen 
-Chapter:2297 
-Section:10 
-Book:7 
-CSS:../Styles/style.css 
+title: The Only Queen
+chapter: 2297
+section: 10
+book: 7
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## The Only Queen
-### Chapter 2297
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## The Only Queen
+
+### Chapter 2297
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 As the white whale left the Ice Blue system, Han Sen guided it towards where Night River King had been stationed. He was unable to find anything out of the ordinary there, however, and he couldn’t find a single trace of that weird purple stuff that Night River King had mentioned repeatedly.
 
 Han Sen even went to see the Ice Blue Knight who had taken over Night River King’s position, but the knight hadn’t seen anything strange during his time stationed there.

@@ -1,21 +1,20 @@
 ---
-Title:Black Sheep 
-Chapter:224 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: Black Sheep
+chapter: 224
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Black Sheep
-### Chapter 224
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Black Sheep
+
+### Chapter 224
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Bai Yishan asked Han Sen to practice Yin Yang Blast often, and told him how to cooperate in the Saint Hall when they came to collect Yin Yang Blast.
 
 Han Sen nodded and went directly to the teleport station after Bai Yishan had left. The creature he was feeding had evolved into a sacred-blood creature.

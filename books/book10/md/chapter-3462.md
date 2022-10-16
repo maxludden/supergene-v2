@@ -1,21 +1,20 @@
 ---
-Title:Epilogue 
-Chapter:3462 
-Section:17 
-Book:10 
-CSS:../Styles/style.css 
+title: Epilogue
+chapter: 3462
+section: 17
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Epilogue
-### Chapter 3462
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Epilogue
+
+### Chapter 3462
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 On a nameless island, Han Sen and his family were having a vacation.
 
 “Yanran, do you want to eat this?” Han Sen put down a slab of grilled meat in front of a seven- or eight-year-old girl.

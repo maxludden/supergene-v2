@@ -1,21 +1,20 @@
 ---
-Title:Reward 
-Chapter:447 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Reward
+chapter: 447
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Reward
-### Chapter 447
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Reward
+
+### Chapter 447
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 "The Nings of the Starry Group?" Han Sen frowned slightly. That was the only Nings he knew of.
 
 Uncle Qing said respectively, "Yes, I am the eldest among the six sons of the Nings, also the most useless one. My two nephews did not know who you were and had acted inappropriately. My father wanted to apologize in person but was afraid that you did not like to be disturbed, so he did not go. However, he told us that no matter which one of us in the family had the luck to meet you, we must treat you as our patron. Whatever you need, we would support you no matter how much it costs."

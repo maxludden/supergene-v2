@@ -1,21 +1,20 @@
 ---
-Title:Dead Dragon Body 
-Chapter:2751 
-Section:13 
-Book:8 
-CSS:../Styles/style.css 
+title: Dead Dragon Body
+chapter: 2751
+section: 13
+book: 8
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Dead Dragon Body
-### Chapter 2751
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Dead Dragon Body
+
+### Chapter 2751
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 After confirming that there wasn’t any danger, Han Sen reached his hand out to touch it. The object was hot to the touch, and the texture of the surface felt kind of like snakeskin or the scales of some other sort of creature.
 
 But snakes were cold-blooded animals. Their scales were supposed to feel cool, but this black thing was burning hot. It glowed like heated steel.
@@ -76,7 +75,7 @@ It looked like a freckle at first glance, but when Han Sen looked closer, the fr
 
 Han Sen swallowed nervously. He quickly checked over the rest of his body, and he found more freckles growing all over his body.
 
-“What the f*ck? Is this the sign of me growing dragon scales?” Han Sen knew that something was severely wrong. Those freckles weren’t painful or itchy, but they were spreading across his body.
+“What the fuck? Is this the sign of me growing dragon scales?” Han Sen knew that something was severely wrong. Those freckles weren’t painful or itchy, but they were spreading across his body.
 
 Han Sen used the Dongxuan Sutra to examine the rest of his body, and he discovered that the freckles were now a part of him. They didn’t seem to be damaging his body, though. His body and the freckles were existing symbiotically.
 

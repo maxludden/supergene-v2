@@ -1,21 +1,20 @@
 ---
-Title:Anvil 
-Chapter:2620 
-Section:12 
-Book:8 
-CSS:../Styles/style.css 
+title: Anvil
+chapter: 2620
+section: 12
+book: 8
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Anvil
-### Chapter 2620
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Anvil
+
+### Chapter 2620
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “What a weird city. It suppresses my power. Although my body is as strong as usual, I don’t think I’ll be able to any more powers than any ordinary creature can. I’m like an ordinary being now.” Han Sen was shocked. He tried activating all kinds of geno arts, but he couldn’t find any that were usable in that strange realm.
 
 As Han Sen tried to figure out exactly how his power was being limited, a Sky man approached him and bowed politely. “Brother Han, my name is Bo Qin. I am a tour guide for Black King City.”

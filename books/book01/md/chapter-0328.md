@@ -1,21 +1,20 @@
 ---
-Title:Botany 
-Chapter:328 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: Botany
+chapter: 328
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Botany
-### Chapter 328
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Botany
+
+### Chapter 328
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The content of the mission was to provide protection for the target when the target arrived at Steel Armor Shelter and accompany the target to the next shelter.
 
 At this point, the target was still in Glory Shelter and was going to travel to Steel Armor Shelter. Han Sen decided to meet the target before the mission began.

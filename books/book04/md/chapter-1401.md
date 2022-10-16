@@ -1,21 +1,20 @@
 ---
-Title:The Wall of Destiny 
-Chapter:1401 
-Section:4 
-Book:4 
-CSS:../Styles/style.css 
+title: The Wall of Destiny
+chapter: 1401
+section: 4
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## The Wall of Destiny
-### Chapter 1401
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## The Wall of Destiny
+
+### Chapter 1401
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 On the final side of that construct, there were no diagrams or depictions. Instead, there was only text and a lot of it.
 
 Han Sen believed this might have been the second half of Life Door at first, but he soon realized it wasn’t. It was a simple, poignant text that concerned itself with destiny.
@@ -84,13 +83,13 @@ Mister Li finally spoke. He turned his head away from the map and turned around,
 
 The map was indeed useless now. Nothing marked on it corresponded to the way they were now traversing.
 
-Still, nothing dangerous seemed to occur. They walked for a whole half an hour before Zhong Sanxiao suddenly felt the urge to exclaim, “Motherf*cker! Why are we back here?”
+Still, nothing dangerous seemed to occur. They walked for a whole half an hour before Zhong Sanxiao suddenly felt the urge to exclaim, “Motherfucker! Why are we back here?”
 
 Everyone looked at him, and then saw what he was referring to. There was a wall with text upon it, one that read: “The Wall of Destiny.”
 
 “It looks like we have to go past this wall somehow,” Mister Li said.
 
-“This place is f*cking cursed! Game over, man! Game over!” Zhong Sanxiao spat on the floor, beginning to lose his composure to the nagging worry that gnawed on the minds of them all.
+“This place is fucking cursed! Game over, man! Game over!” Zhong Sanxiao spat on the floor, beginning to lose his composure to the nagging worry that gnawed on the minds of them all.
 
 “Let’s take a timeout for a minute. We need to figure things out a bit.” Mister Li gestured for everyone to take a load off and relax for a bit.
 

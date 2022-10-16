@@ -1,21 +1,20 @@
 ---
-Title:A Fist Kills Floating Kill 
-Chapter:3389 
-Section:17 
-Book:10 
-CSS:../Styles/style.css 
+title: A Fist Kills Floating Kill
+chapter: 3389
+section: 17
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## A Fist Kills Floating Kill
-### Chapter 3389
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## A Fist Kills Floating Kill
+
+### Chapter 3389
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “Even if Han Sen’s Break World rate was at the almighty sum of 99%, he should have been refined by now,” Floating Kill thought. To play it safe, he did not bring back his sky floating kill just yet. He let it remain in the area, readying himself for its retrieval when the displacement of time had gone by. Only then would he bring back the sky floating kill.
 
 Suddenly, a golden light was coming from the sky floating kill. It was shaking. In the next second, the whole of the sky floating kill exploded. It became small bits of sand that scattered about everywhere.

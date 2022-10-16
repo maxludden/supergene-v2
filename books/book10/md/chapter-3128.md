@@ -1,21 +1,20 @@
 ---
-Title:Sky King 
-Chapter:3128 
-Section:16 
-Book:10 
-CSS:../Styles/style.css 
+title: Sky King
+chapter: 3128
+section: 16
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Sky King
-### Chapter 3128
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Sky King
+
+### Chapter 3128
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Sky King managed to escape the Gold Crystal System, but the flying fish did not relent its pursuit of him. It looked like it really hated Sky King and would not stop until its enemy was burned to death.
 
 Han Sen had to fly to follow them. He wanted to find a way to deal with the flying fish.

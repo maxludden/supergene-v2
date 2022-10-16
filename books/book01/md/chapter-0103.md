@@ -1,21 +1,20 @@
 ---
-Title:The Fight Between the King and the Imposter 
-Chapter:103 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: The Fight Between the King and the Imposter
+chapter: 103
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## The Fight Between the King and the Imposter
-### Chapter 103
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## The Fight Between the King and the Imposter
+
+### Chapter 103
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 It turned out to be a 12.0 magnitude earthquake in the press indeed.
 
 Lin Feng had asked someone to meet him in the final, yet that someone was not Yi Dongmu, but Dollar, who was considered an imposter.

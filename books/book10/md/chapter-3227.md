@@ -1,21 +1,20 @@
 ---
-Title:Back to Space Garden 
-Chapter:3227 
-Section:16 
-Book:10 
-CSS:../Styles/style.css 
+title: Back to Space Garden
+chapter: 3227
+section: 16
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Back to Space Garden
-### Chapter 3227
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Back to Space Garden
+
+### Chapter 3227
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 > “Hunted Annihilation God Spirit Gene Race Hate Ghost.”
 
 It was just a simple announcement that played in which nothing got left behind. Even Hate Ghost’s dust was absorbed by the tai chi substance. The kill was so clean that not a single speck of him remained.

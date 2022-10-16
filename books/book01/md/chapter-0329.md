@@ -1,21 +1,20 @@
 ---
-Title:The Turtle Again 
-Chapter:329 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: The Turtle Again
+chapter: 329
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## The Turtle Again
-### Chapter 329
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## The Turtle Again
+
+### Chapter 329
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The three from Glory Shelter had heard this too many times and were no longer interested, while Han Sen was intrigued.
 
 Three generations in Sun Minghua's family had done tremendous research work on the plants in First God's Sanctuary and the remaining interest was to find out whether the plants in God's Sanctuary could be used in medicine.

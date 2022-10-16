@@ -1,21 +1,20 @@
 ---
-Title:The Possibilities of the Blood Feather Knife 
-Chapter:2072 
-Section:8 
-Book:6 
-CSS:../Styles/style.css 
+title: The Possibilities of the Blood Feather Knife
+chapter: 2072
+section: 8
+book: 6
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## The Possibilities of the Blood Feather Knife
-### Chapter 2072
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## The Possibilities of the Blood Feather Knife
+
+### Chapter 2072
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 After returning home, Han Sen spent some time thinking about capturing the red cloud. It seemed likely that petrification or freezing abilities would be effective against the red cloud.
 
 But his own petrifying shockwave was no match for the red cloud’s speed. Even if Han Sen teleported right next to the beast, the red cloud could still react fast enough to avoid the shockwave. Its ability to accelerate seemed almost endless.

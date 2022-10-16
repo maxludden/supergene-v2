@@ -1,21 +1,20 @@
 ---
-Title:Qin Bai's Trouble 
-Chapter:3149 
-Section:16 
-Book:10 
-CSS:../Styles/style.css 
+title: Qin Bai's Trouble
+chapter: 3149
+section: 16
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Qin Bai's Trouble
-### Chapter 3149
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Qin Bai's Trouble
+
+### Chapter 3149
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “Why did you leave the God Chaos Party?” Han Sen asked with surprise.
 
 “Although the legends claim the leader was not killed, he never showed up again. Now, the God Chaos Party is being run by one of the vice presidents. I had a conflict with him, so…” The big sky demon did not finish, but it was understandable.

@@ -1,21 +1,20 @@
 ---
-Title:Crazy Simulating Crystals 
-Chapter:465 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Crazy Simulating Crystals
+chapter: 465
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Crazy Simulating Crystals
-### Chapter 465
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Crazy Simulating Crystals
+
+### Chapter 465
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 "Captain, let the guards follow you." The leader of the guards, Li Lu stood up and saluted.
 
 The guards were all the combatants that remained on Daphne.

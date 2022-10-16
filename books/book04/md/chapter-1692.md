@@ -1,21 +1,20 @@
 ---
-Title:Killing 
-Chapter:1692 
-Section:5 
-Book:4 
-CSS:../Styles/style.css 
+title: Killing
+chapter: 1692
+section: 5
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Killing
-### Chapter 1692
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Killing
+
+### Chapter 1692
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Every punch Han Sen delivered to the Feather was extremely hard, making the being bleed profusely.
 
 The Feather’s speed and strength were no worse than Han Sen’s, but its experience and skill were considerably lacking.
@@ -88,7 +87,7 @@ The power was brought down on the Feather’s neck, and after hundreds of punche
 
 But strangely, the body without a brain still wanted a piece of Han Sen. And the head itself tried to bite into Han Sen’s throat.
 
-“F*ck you!” Han Sen kicked the body away and rammed his fist into the brain. He mashed it continuously.
+“Fuck you!” Han Sen kicked the body away and rammed his fist into the brain. He mashed it continuously.
 
 Blood and juices went everywhere as the head broke.
 

@@ -1,21 +1,20 @@
 ---
-Title:Cave 
-Chapter:1871 
-Section:7 
-Book:5 
-CSS:../Styles/style.css 
+title: Cave
+chapter: 1871
+section: 7
+book: 5
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Cave
-### Chapter 1871
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Cave
+
+### Chapter 1871
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “I want to go to Planet Crooked Rock,” Han Sen told Icebird Duke.
 
 You want to recruit Gana?” Icebird Duke understood Han Sen’s thought process.

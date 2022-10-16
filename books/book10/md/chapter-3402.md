@@ -1,21 +1,20 @@
 ---
-Title:Fighting Moment God Again 
-Chapter:3402 
-Section:17 
-Book:10 
-CSS:../Styles/style.css 
+title: Fighting Moment God Again
+chapter: 3402
+section: 17
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Fighting Moment God Again
-### Chapter 3402
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Fighting Moment God Again
+
+### Chapter 3402
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 When the humans of the universe of kingdoms saw Moment God challenge Han Sen, they were outright dumbstruck. She was one of the 12 primary Annihilation God Spirits. Now, she was looking to challenge the infamous Han Sen. In their eyes, Moment God was much stronger.
 
 Han Sen was surprised. “When Time Sky did not have a leader, Moment God did not go to Time Sky to wage combat for the position. Now, she wants to challenge me. What does that mean?”
@@ -78,7 +77,7 @@ God of Wealth had many powerful members. After the last god fight, God of Wealth
 
 But they were unable to be friends with Han Sen, and they treated a big god like the biggest evil person in the history of the Qin Kingdom. They felt very bad. It was as if they could not breathe.
 
-“God, what have we done? Han Sen, you are an Annihilation-class God Spirit. Is it really so fun to become a commoner and walk amongst us? You f*cking did this deliberately.”
+“God, what have we done? Han Sen, you are an Annihilation-class God Spirit. Is it really so fun to become a commoner and walk amongst us? You fucking did this deliberately.”
 
 Many nobles of the Qin Kingdom were sad. They envied Qin Bai. Although Qin Bai was not exactly king material, if Han Sen was not going to die and supported Qin Bai, he would be the king.
 

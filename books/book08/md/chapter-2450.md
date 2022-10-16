@@ -1,20 +1,19 @@
 ---
-Title:Blood Eye Evil God Beast Soul
-Chapter:2450
-Section:12
-Book:8
-CSS:../Styles/style.css
+title: Blood Eye Evil God Beast Soul
+chapter: 2450
+section: 12
+book: 8
+CSS: style.css
 viewport: width=device-width
 ---
 
 ## Blood Eye Evil God Beast Soul
+
 ### Chapter 2450
 
 <figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
 </figure>
-
-
 
 Han Sen watched the battle in the hopes of finding an opportunity to score some easy kills, but something soon happened that made him rethink his plans.
 
@@ -71,15 +70,14 @@ The Blood Eye Evil God’s body was the eyeball Han Sen had managed to kill as i
 <div class="tables">
 	<table class="beast">
 		<tr>
-			<th>Beast Soul</th>
+			<th colspan="2">Beast Soul Gained</th>
 		</tr><tr>
-			<td>Mutant Deified Class Blood Eye Evil God<br>
-				<span class="type">(Eye)</span>
-			</td>
+			<td>Mutant Deified Class Blood Eye Evil God</td>
+			<td>(Eye)</td>
 		</tr>
 	</table>
 	<!-- Mutant Deified Class Beast Soul Blood Eye Evil God: Eye-type -->
-</div>
+</div> 
 
 The beast soul flew into Han Sen’s left eye. In grew incredibly thin and formed itself into a half-sphere, then it fitted itself onto Han Sen’s left eyeball like a contact lens.
 

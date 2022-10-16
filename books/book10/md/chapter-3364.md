@@ -1,21 +1,20 @@
 ---
-Title:The Focus of Ten Thousand Races 
-Chapter:3364 
-Section:17 
-Book:10 
-CSS:../Styles/style.css 
+title: The Focus of Ten Thousand Races
+chapter: 3364
+section: 17
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## The Focus of Ten Thousand Races
-### Chapter 3364
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## The Focus of Ten Thousand Races
+
+### Chapter 3364
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The main and revere universe creatures watching saw the scene, no matter how stupid they were, easily guessed that the big red beast was the leader of the 15th sky, Ultimate Tail Fire Beast. The scene the geno tablet depicted was the 15th sky and its burning red sky.
 
 They did not understand why the burning red sky was exhibiting these changes. Even the geno tablet was showing the burning red sky. That was very rare.

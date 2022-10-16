@@ -1,21 +1,20 @@
 ---
-Title:The Waiting Shadow 
-Chapter:1406 
-Section:4 
-Book:4 
-CSS:../Styles/style.css 
+title: The Waiting Shadow
+chapter: 1406
+section: 4
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## The Waiting Shadow
-### Chapter 1406
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## The Waiting Shadow
+
+### Chapter 1406
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 It didn’t take long for the humanoid tree to absorb the mound of dust. Its previously dull and unremarkable lifeforce then began to resemble the person Han Sen had just slain: Hezhi.
 
 Han Sen was not sure if it was exhaustion playing tricks on his eyes, but he could then swear he was seeing the tree shrink to take on the form of Hezhi himself.

@@ -1,21 +1,20 @@
 ---
-Title:Sword Given to the Luckiest Person 
-Chapter:2617 
-Section:12 
-Book:8 
-CSS:../Styles/style.css 
+title: Sword Given to the Luckiest Person
+chapter: 2617
+section: 12
+book: 8
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Sword Given to the Luckiest Person
-### Chapter 2617
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Sword Given to the Luckiest Person
+
+### Chapter 2617
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Sky Palace Leader nodded to the Tenth Elder. “If I’m correct, then it is what you’re thinking. I cannot believe it was in Sky Palace all along. It was right under my nose.”
 
 “This… is it possible?” Yun Changkong’s voice trembled. He stared at Han Yan’s jade box.

@@ -1,21 +1,20 @@
 ---
-Title:Evil Knife 
-Chapter:1832 
-Section:7 
-Book:5 
-CSS:../Styles/style.css 
+title: Evil Knife
+chapter: 1832
+section: 7
+book: 5
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Evil Knife
-### Chapter 1832
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Evil Knife
+
+### Chapter 1832
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The scimitar was activated. It didn’t roar like Dragon’s Back did. There was not even a wheeze. There was no light shining into the sky; all that could be seen was a dark purple aura.
 
 Buzz!

@@ -1,21 +1,20 @@
 ---
-Title:Unicorn Beetle 
-Chapter:471 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Unicorn Beetle
+chapter: 471
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Unicorn Beetle
-### Chapter 471
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Unicorn Beetle
+
+### Chapter 471
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen remained still, watching the unicorn beetle made of green crystal climbing out of the gaps made by Li Mingtang's grenade.
 
 The unicorn beetle was the size of a fist. It did not climb fast, and the gap was not wide. It took the beetle some effort to climb to the ground.

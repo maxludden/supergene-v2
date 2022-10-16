@@ -1,21 +1,20 @@
 ---
-Title:Tang Rubei 
-Chapter:1436 
-Section:4 
-Book:4 
-CSS:../Styles/style.css 
+title: Tang Rubei
+chapter: 1436
+section: 4
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Tang Rubei
-### Chapter 1436
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Tang Rubei
+
+### Chapter 1436
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 His heart sank even lower when he realized there were some questions not even he was able to answer.
 
 He had studied many of these subjects many long decades ago, but by now, he had forgotten everything. He had no clue on how to come up with the solutions for the more complicated questions.

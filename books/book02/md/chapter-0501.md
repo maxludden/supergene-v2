@@ -1,21 +1,20 @@
 ---
-Title:Southwest Soldier King 
-Chapter:501 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Southwest Soldier King
+chapter: 501
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Southwest Soldier King
-### Chapter 501
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Southwest Soldier King
+
+### Chapter 501
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Yin Yang Blast that Han Sen had practiced for a long time was eventually put into use.
 
 Yin Yang Blast invented by Professor Bai was a method to use strength, and it could be used by people of any status.

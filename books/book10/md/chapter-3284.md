@@ -1,21 +1,20 @@
 ---
-Title:One Sword Power 
-Chapter:3284 
-Section:16 
-Book:10 
-CSS:../Styles/style.css 
+title: One Sword Power
+chapter: 3284
+section: 16
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## One Sword Power
-### Chapter 3284
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## One Sword Power
+
+### Chapter 3284
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 A crystal shaped like a tear fell out of the broken dragon spear. Han Sen grabbed the crystal while he kept slashing at Shoot Shadow with the Inch Grey Sword in his other hand.
 
 Shoot Shadow was shocked. His body turned into a shadow. No matter how much he tried to run, he could not escape Han Sen’s Inch Grey Sword. It was like the sword had locked onto him.

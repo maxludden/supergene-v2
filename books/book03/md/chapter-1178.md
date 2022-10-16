@@ -1,21 +1,20 @@
 ---
-Title:Angel Arrives 
-Chapter:1178 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Angel Arrives
+chapter: 1178
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Angel Arrives
-### Chapter 1178
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Angel Arrives
+
+### Chapter 1178
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “Aargh!” The shadow inside the mirror continued to punch itself, causing Han Sen constant pain.
 
 They both looked identical, but fortunately, it couldn’t—or at least wasn’t—making use of Han Sen’s full, insane powers. He’d have been killed fairly quickly if it had.

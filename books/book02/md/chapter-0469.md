@@ -1,21 +1,20 @@
 ---
-Title:Image on the Crystal Card 
-Chapter:469 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Image on the Crystal Card
+chapter: 469
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Image on the Crystal Card
-### Chapter 469
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Image on the Crystal Card
+
+### Chapter 469
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 "You are all official researchers in the Alliance. Haven't you thought about the consequences?" Ji Yanran frowned at the researchers and said.
 
 "Consequences? Captain, you are indeed so naïve. Do you think we will stay in the Alliance after we succeed?" A researcher sneered with contempt.

@@ -1,21 +1,20 @@
 ---
-Title:Beast Soul of Nightmare 
-Chapter:526 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Beast Soul of Nightmare
+chapter: 526
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Beast Soul of Nightmare
-### Chapter 526
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Beast Soul of Nightmare
+
+### Chapter 526
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 When Han Sen was at the nest again, he summoned all his beast souls.
 
 For the time he spent in the Alliance, the golden pincer king had already been evolved into a berserk sacred-blood beast soul, and the golden armor looked even better at this point.

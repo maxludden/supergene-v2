@@ -1,21 +1,20 @@
 ---
-Title:Same Tattoo 
-Chapter:1705 
-Section:5 
-Book:4 
-CSS:../Styles/style.css 
+title: Same Tattoo
+chapter: 1705
+section: 5
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Same Tattoo
-### Chapter 1705
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Same Tattoo
+
+### Chapter 1705
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 When Han Sen first saw the Nine-Life Cat symbol on Zero, he thought it was just a sign associating her with Blood Legion in some way. Now that Han Sen was thinking about it, he realized the symbol was just like the tattoo on his back.
 
 Zero could enter the sanctuaries without issue, unlike others who were subject to limitations and restrictions. She never had to go through a formal ascension process, either.

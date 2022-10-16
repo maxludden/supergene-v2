@@ -1,21 +1,20 @@
 ---
-Title:Now the Real Fight Begins 
-Chapter:713 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Now the Real Fight Begins
+chapter: 713
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Now the Real Fight Begins
-### Chapter 713
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Now the Real Fight Begins
+
+### Chapter 713
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen had now read the Light Son of God's energy flow. Whenever his foe drew upon energy, Han Sen could calculate the exact time he'd make his next move.
 
 Dongxuan Sutra was now beginning to prove its worth. Han Sen wanted to dodge the Light Son of God's attacks before they were even executed, and later lead him into the exact position he wanted him to be. By doing this, he had greatly improved prediction and formation.

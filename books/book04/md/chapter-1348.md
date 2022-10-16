@@ -1,21 +1,20 @@
 ---
-Title:Fighting Fire With Fire 
-Chapter:1348 
-Section:4 
-Book:4 
-CSS:../Styles/style.css 
+title: Fighting Fire With Fire
+chapter: 1348
+section: 4
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Fighting Fire With Fire
-### Chapter 1348
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Fighting Fire With Fire
+
+### Chapter 1348
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen was taken aback. He thought the slippery, worm-tongued Cheap Sheep had played a magic trick on him.
 
 Looking at the red figure that had just appeared on the plain, he noticed it was the chef. Unfortunately for her, she looked to be in very sorry shape, and the red color was the blood that soaked her person.
@@ -62,7 +61,7 @@ It was a slow creature, though, and it wasn’t long before Han Sen caught up wi
 
 “No can do! Are you blind to the army that’s chasing us, bub?” The sheep wasn’t willing to follow the command and simply kept on running.
 
-“F*ck you!” Han Sen said, keeping up with the sheep.
+“Fuck you!” Han Sen said, keeping up with the sheep.
 
 Across that emerald expanse, the sheep was leading the chase. Han Sen was directly behind it, while a massive swarm of creatures chased at a good few paces behind.
 

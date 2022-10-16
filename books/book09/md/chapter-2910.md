@@ -1,21 +1,20 @@
 ---
-Title:Cutting Open the Stone Table 
-Chapter:2910 
-Section:15 
-Book:9 
-CSS:../Styles/style.css 
+title: Cutting Open the Stone Table
+chapter: 2910
+section: 15
+book: 9
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Cutting Open the Stone Table
-### Chapter 2910
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Cutting Open the Stone Table
+
+### Chapter 2910
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 He held the causal karma knife. Han Sen’s body boiled with weird power. He slashed downward, but he was not aiming at the stone tablet. He slashed the air.
 
 The knife light gathered in the air. It was like it was frozen. Han Sen’s knife light went faster, one light after another. It made the central knife light steadily grow brighter.

@@ -1,21 +1,20 @@
 ---
-Title:Very High Sense? 
-Chapter:2528 
-Section:12 
-Book:8 
-CSS:../Styles/style.css 
+title: Very High Sense?
+chapter: 2528
+section: 12
+book: 8
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Very High Sense?
-### Chapter 2528
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Very High Sense?
+
+### Chapter 2528
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Li Keer decided not to help Han Sen, as he wasn’t in any grave danger just yet. She did raise an eyebrow as she watched him, though. “What is up with this guy? Why is he strong like a god one minute, and he behaves like a wimp the next?”
 
 Li Keer couldn’t wrap her mind around what he was doing, and she noticed how annoyed the wolf god was starting to look. It looked up and howled to the sky. Its body became blurry, then exploded in a misty haze. Many carbon copies of the wolf god came racing out of that mist. In a second, a dozen other wolf gods emerged in all their angry glory. They were in the sky, on the ground, in front of Han Sen and behind him. They surrounded him, preventing his escape from every direction.

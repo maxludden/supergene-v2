@@ -1,21 +1,20 @@
 ---
-Title:Exploding Minds 
-Chapter:2615 
-Section:12 
-Book:8 
-CSS:../Styles/style.css 
+title: Exploding Minds
+chapter: 2615
+section: 12
+book: 8
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Exploding Minds
-### Chapter 2615
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Exploding Minds
+
+### Chapter 2615
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “Why didn’t I think about collecting some gourds before I left the Sky Path?” Han Sen thought with regret. There would be far more than a single holy air in every gourd. He would have been rich if he had collected a bunch of them.
 
 While Han Sen was regretting his oversight, Han Yan had reached the stone stairs that led up to Sky Palace. The words “Sky Palace” were shining brightly, and the sensation was so overwhelming that it was rather intimidating. It felt suppressive.

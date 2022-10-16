@@ -1,21 +1,20 @@
 ---
-Title:My Toy 
-Chapter:1642 
-Section:4 
-Book:4 
-CSS:../Styles/style.css 
+title: My Toy
+chapter: 1642
+section: 4
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## My Toy
-### Chapter 1642
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## My Toy
+
+### Chapter 1642
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The woman’s fist hit Bao’er. Bao’er didn’t even try to dodge or block it. She just glared at the woman.
 
 Dang!

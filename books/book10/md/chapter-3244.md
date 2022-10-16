@@ -1,21 +1,20 @@
 ---
-Title:Mister God Spirit 
-Chapter:3244 
-Section:16 
-Book:10 
-CSS:../Styles/style.css 
+title: Mister God Spirit
+chapter: 3244
+section: 16
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Mister God Spirit
-### Chapter 3244
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Mister God Spirit
+
+### Chapter 3244
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Saying Han Sen had become some sort of good officer was something no one in Jade Wall City believed.
 
 However, they all agreed that Han Sen’s sword skills were strong. It made everyone’s faces change. No matter how much they disliked Han Sen, they had to confess that his sword skills were very strong, and he was likely the No. 1 swordsmen in the universe.

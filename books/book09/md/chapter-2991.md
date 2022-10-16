@@ -1,21 +1,20 @@
 ---
-Title:Getting a God Personality 
-Chapter:2991 
-Section:15 
-Book:9 
-CSS:../Styles/style.css 
+title: Getting a God Personality
+chapter: 2991
+section: 15
+book: 9
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Getting a God Personality
-### Chapter 2991
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Getting a God Personality
+
+### Chapter 2991
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen had three god personalities. They were the Destruction class Sky Armor God and Evil Lotus God, as well as the Annihilation class Kill Sky God.
 
 Han Sen went to Evil Lotus God’s god temple. He wanted to see what type of armament Evil Lotus God’s god personality armament was.

@@ -1,21 +1,20 @@
 ---
-Title:Not a Wonderful Match 
-Chapter:135 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: Not a Wonderful Match
+chapter: 135
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Not a Wonderful Match
-### Chapter 135
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Not a Wonderful Match
+
+### Chapter 135
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The game room was silent. In a room where more than ten thousand people were watching, none typed anything. Everyone was staring at their screen.
 
 It was not because the duel was so wonderful, but because it was not at all.

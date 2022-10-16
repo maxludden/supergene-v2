@@ -1,21 +1,20 @@
 ---
-Title:A Xenogeneic Space That Seems Familiar 
-Chapter:2767 
-Section:14 
-Book:9 
-CSS:../Styles/style.css 
+title: A Xenogeneic Space That Seems Familiar
+chapter: 2767
+section: 14
+book: 9
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## A Xenogeneic Space That Seems Familiar
-### Chapter 2767
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## A Xenogeneic Space That Seems Familiar
+
+### Chapter 2767
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “It is a shame they aren’t exploring the big barren system. Otherwise, I would have gone with them for free,” Han Sen said to himself.
 
 But not long after, he encountered someone he was familiar with once again. He saw Dragon One flying quickly toward him.

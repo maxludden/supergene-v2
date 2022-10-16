@@ -1,21 +1,20 @@
 ---
-Title:Strong Body 
-Chapter:1324 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Strong Body
+chapter: 1324
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Strong Body
-### Chapter 1324
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Strong Body
+
+### Chapter 1324
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Moment Queen saw the black hole and understood why Ming Xing Emperor was so keen to come forward and fight Han Sen, despite the stunning display in which the human had mercilessly slaughtered four emperors.
 
 In the black hole, time and space were distorted. It would twist like a vortex and swallow whatever came near. If Han Sen was pulled inside, he’d be killed. The occurrences of someone surviving a black hole were rare.

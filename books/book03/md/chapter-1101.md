@@ -1,21 +1,20 @@
 ---
-Title:Humans and Spirits Are Happy 
-Chapter:1101 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Humans and Spirits Are Happy
+chapter: 1101
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Humans and Spirits Are Happy
-### Chapter 1101
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Humans and Spirits Are Happy
+
+### Chapter 1101
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 People who hadn’t seen Han Sen fight before were in shock. The rainfall of coins was insane.
 
 Su Xiaoqiao was excited when he saw the coins be unleashed. He had witnessed their might before, but he still harbored wariness. He wasn’t entirely sure they’d be as effective against such a powerful spirit.
@@ -80,7 +79,7 @@ Fei Yu King was on his knees.
 
 Everyone was shocked by what was happening. A nine gene lock king spirit was unable to stand up and fight Han Sen, and was instead on his knees before him. His body was cracking like glass.
 
-“Dollar is too f*cking strong!” Su Xiaoqiao shouted.
+“Dollar is too fucking strong!” Su Xiaoqiao shouted.
 
 “I can’t believe he beat a king spirit so easily.”
 

@@ -1,21 +1,20 @@
 ---
-Title:The Battle Begins 
-Chapter:1419 
-Section:4 
-Book:4 
-CSS:../Styles/style.css 
+title: The Battle Begins
+chapter: 1419
+section: 4
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## The Battle Begins
-### Chapter 1419
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## The Battle Begins
+
+### Chapter 1419
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Seeing the horde before her, Queen immediately turned tail and fled back toward the shelter she resided at.
 
 “Ah, ’tis a good day. We have only just reached Sky Mountain, and already we have met someone he knows.” No God Emperor saw Queen make use of The Wheel of Space, and it reminded him of the abilities Han Sen had used. So, he went straight for her.

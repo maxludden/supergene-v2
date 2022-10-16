@@ -1,21 +1,20 @@
 ---
-Title:Reaper 
-Chapter:1082 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Reaper
+chapter: 1082
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Reaper
-### Chapter 1082
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Reaper
+
+### Chapter 1082
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Every once in a while, Han Sen activated his super king spirit mode to purge what little of the crystals he could.
 
 The process was painful, in addition to being slow. He could only chisel it away bit-by-bit, and removing it all seemed like it was going to take a few years.

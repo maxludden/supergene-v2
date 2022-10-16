@@ -1,21 +1,20 @@
 ---
-Title:Demonic Power 
-Chapter:2682 
-Section:13 
-Book:8 
-CSS:../Styles/style.css 
+title: Demonic Power
+chapter: 2682
+section: 13
+book: 8
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Demonic Power
-### Chapter 2682
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Demonic Power
+
+### Chapter 2682
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The fist leapt forward, and the shadow that trailed behind it looked like a raging lion. Han Sen didn’t even have enough time to dodge. The scary lion shadow had already washed over him.
 
 Han Sen looked stable, though. Spell turned into armor to protect his body, and he used God’s Wander to quickly flash away. He was attempting to evade the crazy shadow of Shale’s punch.

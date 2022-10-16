@@ -1,21 +1,20 @@
 ---
-Title:Whose Broadsword 
-Chapter:37 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: Whose Broadsword
+chapter: 37
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Whose Broadsword
-### Chapter 37
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Whose Broadsword
+
+### Chapter 37
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 A crowd of spectators started to gather. They were used to seeing Han Sen getting bullied.
 
 "How do you want me to compensate you?" said Han Sen calmly, watching Liu Feng approaching him.

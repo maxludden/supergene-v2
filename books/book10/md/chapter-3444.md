@@ -1,21 +1,20 @@
 ---
-Title:A Way 
-Chapter:3444 
-Section:17 
-Book:10 
-CSS:../Styles/style.css 
+title: A Way
+chapter: 3444
+section: 17
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## A Way
-### Chapter 3444
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## A Way
+
+### Chapter 3444
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “Chaos was born in the geno universe. Was she able to light up a lantern in the geno hall? If that was the case, that should be something so scary.” Han Sen was shocked.
 
 His will was going to break soon. If the word fairy meant Chaos, then the power must have been unimaginable. She surely would have been the creature closest to that step.

@@ -1,28 +1,27 @@
 ---
-Title:Real Empty Fruit 
-Chapter:815 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Real Empty Fruit
+chapter: 815
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Real Empty Fruit
-### Chapter 815
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Real Empty Fruit
+
+### Chapter 815
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 "Who?" Han Sen was shocked by the sudden instruction. He looked around, but again, the voice was accompanied by no nearby person. Han Sen gritted his teeth and bid for Moment Queen to follow him. He wanted to get as far away from this strange place as he could right now.
 
 When he lifted his leg, Han Sen felt something. He dashed out of the way just as the ground cracked open and a lashing vine suddenly appeared.
 
 Amazed, Han Sen saw it was coming from the Empty Vine. Many more shot through the ground, all seemingly coming for him.
 
-"F*ck my luck," Han Sen swore to himself. He jumped, summoned his Flaming Rex Spike, and swung it at the vines that came towards him.
+"Fuck my luck," Han Sen swore to himself. He jumped, summoned his Flaming Rex Spike, and swung it at the vines that came towards him.
 
 The Flaming Rex Spike, that he again imbued with a green light, tore through numerous vines. But it was seemingly to no avail, as more and more vines appeared.
 

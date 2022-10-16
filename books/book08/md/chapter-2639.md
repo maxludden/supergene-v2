@@ -1,21 +1,20 @@
 ---
-Title:Killing a Deified Again 
-Chapter:2639 
-Section:12 
-Book:8 
-CSS:../Styles/style.css 
+title: Killing a Deified Again
+chapter: 2639
+section: 12
+book: 8
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Killing a Deified Again
-### Chapter 2639
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Killing a Deified Again
+
+### Chapter 2639
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen used his power to restrict the Demon Abyss Beast King, but his arrows didn’t seem to inflict any damage on the creature. Black holes appeared and vanished all across the Demon Abyss Beast King’s body. Whenever an arrow came close, it would be sucked into one of those black pits, keeping the damage from reaching the Demon Abyss Beast King. This was all within what Han Sen had expected, though. The Demon Abyss Beast King’s power and capabilities had been detailed in the information he had been given. Han Sen never expected his arrows to be able to damage the Demon Abyss Beast King. He was simply buying enough time to get closer to the creature.
 
 Finally, Han Sen got close enough to the Demon Abyss Beast King. Han Sen spun his Six Core Snake Bow and used it like a knife. The razor-sharp string sliced into the Demon Abyss Beast King’s scales, leaving deep wounds across its flesh.

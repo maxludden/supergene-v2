@@ -1,21 +1,20 @@
 ---
-Title:Kindergarten 
-Chapter:1648 
-Section:4 
-Book:4 
-CSS:../Styles/style.css 
+title: Kindergarten
+chapter: 1648
+section: 4
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Kindergarten
-### Chapter 1648
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Kindergarten
+
+### Chapter 1648
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen almost choked. He thought there was something wrong with his ears.
 
 The man sounded like a schoolkid that had just graduated from school. He was a crystallizer with geno armor, and Han Sen thought it was strange that the man was making such a simple request.

@@ -1,21 +1,20 @@
 ---
-Title:Moon God’s Lesson 
-Chapter:1864 
-Section:7 
-Book:5 
-CSS:../Styles/style.css 
+title: Moon God’s Lesson
+chapter: 1864
+section: 7
+book: 5
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Moon God’s Lesson
-### Chapter 1864
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Moon God’s Lesson
+
+### Chapter 1864
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Seventy-two moons were out in the sky. It was an incredibly pretty sight.
 
 The whole of Narrow Moon was silent. The elites like Yisha and Moon Wheel King were completely speechless. They had watched each moon rise.

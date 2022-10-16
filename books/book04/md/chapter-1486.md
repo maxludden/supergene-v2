@@ -1,21 +1,20 @@
 ---
-Title:Real Blood Power 
-Chapter:1486 
-Section:4 
-Book:4 
-CSS:../Styles/style.css 
+title: Real Blood Power
+chapter: 1486
+section: 4
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Real Blood Power
-### Chapter 1486
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Real Blood Power
+
+### Chapter 1486
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “If it wasn’t for you, I wouldn’t have had to do that.” Elysian Moon endured her painful and weakened state, speaking to the surface of the umbrella.
 
 She wanted to take a look at Han Sen’s image, but she froze in shock when her eyes noticed its absence.

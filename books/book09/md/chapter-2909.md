@@ -1,21 +1,20 @@
 ---
-Title:Slashing Stone 
-Chapter:2909 
-Section:15 
-Book:9 
-CSS:../Styles/style.css 
+title: Slashing Stone
+chapter: 2909
+section: 15
+book: 9
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Slashing Stone
-### Chapter 2909
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Slashing Stone
+
+### Chapter 2909
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen understood and thought, “Bai Wushang really is so full of pride. Seeing that other people have done this with their hands, he will never settle for using a treasure. His punch mark is not as big as the palm, but it is still impressive. Yet, he does not want the stone element xenogeneic.
 
 Han Sen was not as proud as Bai Wushang. It did not matter if he could leave the biggest mark on it or not. If there was a chance to nab a xenogeneic, he did not mind giving it a go.

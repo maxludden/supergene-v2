@@ -1,21 +1,20 @@
 ---
-Title:Picked Up One 
-Chapter:1991 
-Section:8 
-Book:6 
-CSS:../Styles/style.css 
+title: Picked Up One
+chapter: 1991
+section: 8
+book: 6
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Picked Up One
-### Chapter 1991
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Picked Up One
+
+### Chapter 1991
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Not long after, Yu Jing was driving a flying beast car to Han Sen’s Jade Island. He hauled a whole bunch of xenogeneic genes out of the car. There were twenty-three of them.
 
 “Brother Han, what do you need this many xenogeneic genes for? Will they help in the fight against Lone Bamboo tomorrow?” Yu Jing asked Han Sen.

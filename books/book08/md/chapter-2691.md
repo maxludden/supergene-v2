@@ -1,21 +1,20 @@
 ---
-Title:Xuan Yellow Sutra 
-Chapter:2691 
-Section:13 
-Book:8 
-CSS:../Styles/style.css 
+title: Xuan Yellow Sutra
+chapter: 2691
+section: 13
+book: 8
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Xuan Yellow Sutra
-### Chapter 2691
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Xuan Yellow Sutra
+
+### Chapter 2691
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “That should be more than enough, I should think,” Han Sen said with a nod. He was still thinking about the fight he had just endured against that xenogeneic.
 
 Han Sen thought his fighting power was decent at this point, but that xenogeneic had completely suppressed him in every way imaginable. Aside from the power gap between them, there were also important differences in the ways that the two of them fought.

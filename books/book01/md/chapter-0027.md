@@ -1,21 +1,20 @@
 ---
-Title:Sos 
-Chapter:27 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: Sos
+chapter: 27
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Sos
-### Chapter 27
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Sos
+
+### Chapter 27
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 "What the heck is a pet beast soul? It’s not just for fun, right? I was really tricked by Qin Xuan. What am I going to do with it?" Han Sen’s heart sank, and he killed the copper-toothed beast that was chasing the cat. When he was about to take the cat back, it started to meow around the body of the copper-toothed beast with its mouth watering.
 
 "Go ahead." Han Sen looked at the mutant three-eyed cat curiously. Normal fighter beast souls and mount beast souls didn’t have to eat, and they could just recover in a vacuum once injured.

@@ -1,21 +1,20 @@
 ---
-Title:Crazy 
-Chapter:1087 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Crazy
+chapter: 1087
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Crazy
-### Chapter 1087
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Crazy
+
+### Chapter 1087
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Killing super creatures in the Second God’s Sanctuary was a far more difficult task than killing super creatures in the First God’s Sanctuary. Very few humans were able to max out their super geno points there, before proceeding to the Third God’s Sanctuary.
 
 Han Sen hoped more humans would come into possession of a super body. If humans wanted to conquer the Third God’s Sanctuary and become more than free-range slaves, they’d need this strength.

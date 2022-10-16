@@ -1,21 +1,20 @@
 ---
-Title:Shura Coffin 
-Chapter:2052 
-Section:8 
-Book:6 
-CSS:../Styles/style.css 
+title: Shura Coffin
+chapter: 2052
+section: 8
+book: 6
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Shura Coffin
-### Chapter 2052
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Shura Coffin
+
+### Chapter 2052
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The shura king gravesite was above and beyond Han Sen’s expectations. The grave itself was a planet. It was a planet that could alter its orbit, too.
 
 The shura had moved the planet to a system in the barrens of space. There were many other planets just like it, and if the shura queen had not taken Han Sen there herself, he would never have guessed it to be the shura king gravesite when he initially laid eyes on it.

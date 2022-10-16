@@ -1,21 +1,20 @@
 ---
-Title:A Natural 
-Chapter:233 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: A Natural
+chapter: 233
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## A Natural
-### Chapter 233
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## A Natural
+
+### Chapter 233
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Qin Xuan also chose to watch Han Sen's test. Yang Manli was her subordinate and best friend, and she did not need to watch to know her skills.
 
 All she wanted to find out was whether or not Han Sen could give her another surprise. Having done detailed analysis and research on the guy, she was surprised by his potentials.

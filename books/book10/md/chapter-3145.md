@@ -1,21 +1,20 @@
 ---
-Title:God of Wealth Descends 
-Chapter:3145 
-Section:16 
-Book:10 
-CSS:../Styles/style.css 
+title: God of Wealth Descends
+chapter: 3145
+section: 16
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## God of Wealth Descends
-### Chapter 3145
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## God of Wealth Descends
+
+### Chapter 3145
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 When the god temple revealed itself, Han Sen was a little afraid.
 
 This god temple was too familiar. It was the God of Wealth Temple. He had used the Sky God Crown to enter it.

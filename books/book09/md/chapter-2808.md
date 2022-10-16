@@ -1,21 +1,20 @@
 ---
-Title:Special Xenogeneic 
-Chapter:2808 
-Section:14 
-Book:9 
-CSS:../Styles/style.css 
+title: Special Xenogeneic
+chapter: 2808
+section: 14
+book: 9
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Special Xenogeneic
-### Chapter 2808
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Special Xenogeneic
+
+### Chapter 2808
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen did not know what Bai King was thinking, but he had to be up to something since he was spoiling him so much. There had to be an ulterior motive. For the time being, Han Sen was unaware of what it was.
 
 After this news spread, many of the Extreme King elites knew that Bai King spoiled the holy child to an ungodly level. Even Bai King's firstborn son did not receive such lavish treatment.

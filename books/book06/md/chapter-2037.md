@@ -1,21 +1,20 @@
 ---
-Title:Spiky Turtle 
-Chapter:2037 
-Section:8 
-Book:6 
-CSS:../Styles/style.css 
+title: Spiky Turtle
+chapter: 2037
+section: 8
+book: 6
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Spiky Turtle
-### Chapter 2037
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Spiky Turtle
+
+### Chapter 2037
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen did not want to remember how he got out of the monster’s stomach.
 
 After sloshing his way out of the water, he flopped onto the shore, gasping for breath. Then he raised his head and looked around.

@@ -1,21 +1,20 @@
 ---
-Title:Little Stone 
-Chapter:2006 
-Section:8 
-Book:6 
-CSS:../Styles/style.css 
+title: Little Stone
+chapter: 2006
+section: 8
+book: 6
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Little Stone
-### Chapter 2006
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Little Stone
+
+### Chapter 2006
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The Stone Cow strutted around the valley like it owned the place. The ordinary, small Stone Cows were avoiding it. They seemed afraid of it. One of the smaller cows was too slow to get out of its way, and the creature found itself rammed to the ground. Its body was cut by the large cow’s horns.
 
 The small Stone Cow did not fight back. It merely squealed and scrambled away.

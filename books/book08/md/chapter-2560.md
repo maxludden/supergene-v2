@@ -1,21 +1,20 @@
 ---
-Title:Godfather Han Sen 
-Chapter:2560 
-Section:12 
-Book:8 
-CSS:../Styles/style.css 
+title: Godfather Han Sen
+chapter: 2560
+section: 12
+book: 8
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Godfather Han Sen
-### Chapter 2560
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Godfather Han Sen
+
+### Chapter 2560
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 As the white light shone brighter and brighter in the dark, it became impossible to miss. Many deified elites noticed its presence, and their faces were all drawn in shock.
 
 As he watched through a video screen, Ji Yang Sheng noticed the white dot. The white dot was too small, though. It didn’t necessarily mean that Barr was deified yet, so he wasn’t sure what it meant.
@@ -66,7 +65,7 @@ Two thousand xenogeneic genes was a high number, but compared to being a deified
 
 If Han Sen was willing to give more blessings, every high race would pay for blessings until they bankrupted themselves.
 
-Arthur had watched Barr become deified. He was so happy about the result. Two thousand King xenogeneic genes had been handed out in return for a deified Barr. This was so f*cking worth it.
+Arthur had watched Barr become deified. He was so happy about the result. Two thousand King xenogeneic genes had been handed out in return for a deified Barr. This was so fucking worth it.
 
 Even Dia Robber was surprised. He thought Han Sen’s blessing would only reinforce Barr’s genes. He hadn’t expected Barr to become a deified straight away.
 

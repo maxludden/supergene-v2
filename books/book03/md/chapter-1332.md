@@ -1,21 +1,20 @@
 ---
-Title:Super Spank 
-Chapter:1332 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Super Spank
+chapter: 1332
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Super Spank
-### Chapter 1332
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Super Spank
+
+### Chapter 1332
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen reached out to No God Emperor, who was now little more than binary code given physical form and shape. He reached out and tried to break him.
 
 With the tenth gene lock of the Dongxuan Sutra open, everything felt different. The coursing of power in and around him felt tangible, and it all provided him a strange, yet wondrous sensation.

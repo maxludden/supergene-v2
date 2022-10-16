@@ -1,21 +1,20 @@
 ---
-Title:Xuanyuan Cave 
-Chapter:1972 
-Section:8 
-Book:6 
-CSS:../Styles/style.css 
+title: Xuanyuan Cave
+chapter: 1972
+section: 8
+book: 6
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Xuanyuan Cave
-### Chapter 1972
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Xuanyuan Cave
+
+### Chapter 1972
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “Can it fly while carrying heavy items?” Han Sen asked, examining the bird.
 
 “Yes; it is much stronger than Baron class Jade Night Cranes, but it has no legs and its wings are damaged,” Yun Suyi repeated. “It can’t fly any faster than an average Baron. And its fighting abilities cannot compare with a Viscount mount.”

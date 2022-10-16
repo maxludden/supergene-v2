@@ -1,21 +1,20 @@
 ---
-Title:Power of One Hit 
-Chapter:680 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Power of One Hit
+chapter: 680
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Power of One Hit
-### Chapter 680
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Power of One Hit
+
+### Chapter 680
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The mountains shook and the ground was torn asunder. A few scary creatures were battling to the death, and in their midst was Han Sen. He was like a pawn, only doing minor things. He did not dare to use Elephant-Rex Strike, no matter how much he wanted to. He was too weak to fight the bone elephant, and he knew he was little more than a distraction in the grander scale of this fight.
 
 Han Sen would become weak after a single use of Elephant-Rex Strike, so it was not a skill he dared to use on a whim. The power the skill required was massive, and even with Long Live and Jade-Sun Force, it'd take an hour for him to regenerate the energy it used.

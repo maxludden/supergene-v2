@@ -1,21 +1,20 @@
 ---
-Title:The Hand That Draws a Knife 
-Chapter:3253 
-Section:16 
-Book:10 
-CSS:../Styles/style.css 
+title: The Hand That Draws a Knife
+chapter: 3253
+section: 16
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## The Hand That Draws a Knife
-### Chapter 3253
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## The Hand That Draws a Knife
+
+### Chapter 3253
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Tian Jing was no stranger to that voice. She heard who the master of the voice was but could not believe the master of that voice was appearing there now to shout out what he did.
 
 When she turned around, she saw the person speaking was the one she imagined. She was so shocked about this turnabout that she could not describe how she felt.

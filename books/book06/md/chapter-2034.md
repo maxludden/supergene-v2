@@ -1,21 +1,20 @@
 ---
-Title:God Spirits Glory 
-Chapter:2034 
-Section:8 
-Book:6 
-CSS:../Styles/style.css 
+title: God Spirits Glory
+chapter: 2034
+section: 8
+book: 6
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## God Spirits Glory
-### Chapter 2034
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## God Spirits Glory
+
+### Chapter 2034
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 At that moment, Han Sen’s body wrapped itself up in a white flame. He turned into a being of light and became a transparent force of energy.
 
 Sharon squinted against the sudden light. His hands and nails pierced through Han Sen, but he felt nothing. He couldn’t feel Han Sen’s flesh in the slightest.

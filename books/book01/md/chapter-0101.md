@@ -1,21 +1,20 @@
 ---
-Title:Infamy 
-Chapter:101 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: Infamy
+chapter: 101
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Infamy
-### Chapter 101
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Infamy
+
+### Chapter 101
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Every year during the contest, there was a lot of special programs that covered different matches. Although Contest Center was just a new program, it was produced by Huaxing Station, which was a prominent TV station. With a celebrity host Fang Mingquan, the program had good ratings and was among top 100 in the Alliance.
 
 Top 100 may sound less than impressive, but was in fact an amazing achievement. In the entire Alliance, each planet had tens of thousands of programs, many of which were from the authority. It was quite something to stand out and be among top 100.

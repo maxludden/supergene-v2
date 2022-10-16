@@ -1,21 +1,20 @@
 ---
-Title:Super Creature’s Death 
-Chapter:1263 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Super Creature’s Death
+chapter: 1263
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Super Creature’s Death
-### Chapter 1263
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Super Creature’s Death
+
+### Chapter 1263
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 After the toad was dragged down into the murky depths of the lake, the boulder moved again. This time, it rolled away from the water. It had barely reached a distance of one meter before the shadow reappeared. It grabbed the rock and tried to pull it back.
 
 The rock was too heavy for it to move in a hurry, though. And as it struggled, Han Sen was finally able to get a good look at the enigma that had been residing inside the lake all that time.

@@ -1,21 +1,20 @@
 ---
-Title:Jade-sun Force 
-Chapter:556 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Jade-sun Force
+chapter: 556
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Jade-sun Force
-### Chapter 556
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Jade-sun Force
+
+### Chapter 556
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen returned to his room and began studying the five-page copy of Jade-Sun Force. With his knowledge of ancient lexicon, he had little trouble in deciphering the text.
 
 The characters were archaic, and the content of the hyper geno art was rich; overall, it seemed like a good skill to strengthen one's kidneys.

@@ -1,21 +1,20 @@
 ---
-Title:The Battle Between Super Creatures 
-Chapter:678 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: The Battle Between Super Creatures
+chapter: 678
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## The Battle Between Super Creatures
-### Chapter 678
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## The Battle Between Super Creatures
+
+### Chapter 678
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Perhaps it was because of the snake group, but Han Sen did not see any other creatures. The Peach Forest seemed to be solely for the countless snakes.
 
 Inside the Peach Forest, Han Sen had no idea how far he had now traveled. All that occupied his vision were snakes and trees. As he went, the roar of the bear came closer and closer.

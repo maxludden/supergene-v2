@@ -1,21 +1,20 @@
 ---
-Title:Yellow Clothes 
-Chapter:2522 
-Section:12 
-Book:8 
-CSS:../Styles/style.css 
+title: Yellow Clothes
+chapter: 2522
+section: 12
+book: 8
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Yellow Clothes
-### Chapter 2522
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Yellow Clothes
+
+### Chapter 2522
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Wan’er had been sleeping for a few days straight, and yet, there was no sign of her waking up anytime soon. That made Han Sen feel a bit depressed.
 
 The white whale was doing the same as it always was. There was still no way for them to escape the dimension they were locked in, and the white tiger pest was still too skittish to get close to them. Still, whenever a horde of snakes approached the island, it would make sure to shoo them off.

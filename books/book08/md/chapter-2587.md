@@ -1,21 +1,20 @@
 ---
-Title:Weird Changes 
-Chapter:2587 
-Section:12 
-Book:8 
-CSS:../Styles/style.css 
+title: Weird Changes
+chapter: 2587
+section: 12
+book: 8
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Weird Changes
-### Chapter 2587
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Weird Changes
+
+### Chapter 2587
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The big monster died, and afterward, the hordes of snakes departed like a receding tide. They all slithered back into the black sea, retreating far more quickly than they had attacked. In moments, they had completely disappeared.
 
 “What were those things?” Han Sen’s heart was confused. He looked at the purple copper jian. The jian was so weird. It only seemed to be capable of effecting the monster he had defeated. There must have been some sort of problem with it.

@@ -1,21 +1,20 @@
 ---
-Title:Endorsemen 
-Chapter:1954 
-Section:7 
-Book:5 
-CSS:../Styles/style.css 
+title: Endorsemen
+chapter: 1954
+section: 7
+book: 5
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Endorsemen
-### Chapter 1954
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Endorsemen
+
+### Chapter 1954
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen planned to see what they were up to, but after walking a couple blocks down the street, Clear Sea King and the others dipped into a giant building with Meka guards. The place was private, so Han Sen couldn’t just wander in. He asked around and came to know that it was a house belonging to a King-class Meka.
 
 Han Sen couldn’t find out any more than that, as there was no reliable source of information. Han Sen waited outside for a while, but they still hadn’t emerged after some time, so he surmised that they had to be staying there.

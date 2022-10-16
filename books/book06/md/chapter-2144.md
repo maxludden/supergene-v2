@@ -1,21 +1,20 @@
 ---
-Title:Metal World 
-Chapter:2144 
-Section:8 
-Book:6 
-CSS:../Styles/style.css 
+title: Metal World
+chapter: 2144
+section: 8
+book: 6
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Metal World
-### Chapter 2144
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Metal World
+
+### Chapter 2144
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen thought he would have a few days free to himself, but soon after he finished his lectures, he was summoned by the elders. There, he was tasked with leading a team to a newly discovered xenogeneic space. He was instructed to explore the space, and if possible, return with resources and materials.
 
 Because the xenogeneic space only allowed Marquises to enter, Lone Bamboo had been intended to lead the task force there. But right now, he was training inside Hidden Path Cave. As a result, the elders saw fit to pass the job on to Han Sen. Han Sen was given a basic description of the xenogeneic space, which was called Metal World. This was, however, only a temporary name for the location. He did learn that more than one faction had already discovered it, though. Other teams were already there, researching the place. Sky Palace was a step behind.

@@ -1,21 +1,20 @@
 ---
-Title:Glory Shelter 
-Chapter:111 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: Glory Shelter
+chapter: 111
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Glory Shelter
-### Chapter 111
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Glory Shelter
+
+### Chapter 111
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Seeing it was actually several youths hunting a lion-like creature, Han Sen felt God had not abandoned him yet.
 
 Taking all his beast souls back and putting the dagger back into his sleeve, Han Sen slowly walked toward the youths and said after they killed the creature, "Friends, may I ask where this is?"

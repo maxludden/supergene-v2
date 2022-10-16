@@ -1,21 +1,20 @@
 ---
-Title:Claiming the Empress 
-Chapter:803 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Claiming the Empress
+chapter: 803
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Claiming the Empress
-### Chapter 803
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Claiming the Empress
+
+### Chapter 803
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 "Argh!" Amidst the silver lightning, the electricity coursed through and electrified the spirit's body. She looked up and screamed out to the heavens in pain.
 
 The silver lightning leapt and crackled all around her continuously, and with every jolt of electricity, cracks appeared in her armor.

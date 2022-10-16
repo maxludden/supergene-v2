@@ -1,21 +1,20 @@
 ---
-Title:Going Up Two Levels 
-Chapter:1169 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Going Up Two Levels
+chapter: 1169
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Going Up Two Levels
-### Chapter 1169
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Going Up Two Levels
+
+### Chapter 1169
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 As Han Sen walked forward, he thought about what had just transpired and was sure Qiu Ping was not a murderer. If he had what it took to take another man’s life, Zhang Yuchen would have been killed in the first strike.
 
 Qiu Ping’s ten attacks were incredibly fast. They were so fast, Zhang Yuchen and Cheng Hu weren’t even able to see the strikes coming. That being said, Han Sen knew Qiu Ping was not going to put his strength into the attack and actually try to kill him. Because of this foresight, Han Sen knew he did not even have to bother dodging.

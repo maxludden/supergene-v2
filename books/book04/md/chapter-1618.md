@@ -1,21 +1,20 @@
 ---
-Title:Father and Son Reunion 
-Chapter:1618 
-Section:4 
-Book:4 
-CSS:../Styles/style.css 
+title: Father and Son Reunion
+chapter: 1618
+section: 4
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Father and Son Reunion
-### Chapter 1618
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Father and Son Reunion
+
+### Chapter 1618
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen was horrified. He wasn’t worried about his own safety. This was the Alliance, so even if he ran into the Chairman of the New Community, Han Sen could defend himself with his unicorn beetle and crystal armor.
 
 However, the fact that the Chairman of the New Community was here meant that something tragic had happened to his father, so naturally, Han Sen was terrified.

@@ -1,21 +1,20 @@
 ---
-Title:Golden Crab 
-Chapter:507 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Golden Crab
+chapter: 507
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Golden Crab
-### Chapter 507
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Golden Crab
+
+### Chapter 507
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 *Ding!*
 
 The seemingly clumsy body of the golden crab suddenly bounced, facing Han Sen with its head. The golden pincer blocked Han Sen's claws.

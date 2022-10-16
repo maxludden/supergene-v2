@@ -1,21 +1,20 @@
 ---
-Title:A Ritual Between Men 
-Chapter:32 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: A Ritual Between Men
+chapter: 32
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## A Ritual Between Men
-### Chapter 32
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## A Ritual Between Men
+
+### Chapter 32
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The copper-toothed beast fed by Han Sen had become purple in color and bigger in size two months after it had become a mutant creature.
 
 "Whether I could keep rising in the world all depends on you. Please become a sacred creature soon." Han Sen looked at the purple color of its skin and thought it was about time.

@@ -1,21 +1,20 @@
 ---
-Title:The Man in a Bronze Ding 
-Chapter:975 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: The Man in a Bronze Ding
+chapter: 975
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## The Man in a Bronze Ding
-### Chapter 975
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## The Man in a Bronze Ding
+
+### Chapter 975
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 There was red soil inside the bronze ding. It smelled like blood, and someone had been buried beneath it.
 
 The head and the hair of a man was all that was left uncovered by the soil. As Han Sen looked, the man’s pale face seemed to be looking at him.

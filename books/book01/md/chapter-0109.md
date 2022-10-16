@@ -1,21 +1,20 @@
 ---
-Title:Scaled Armadillo 
-Chapter:109 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: Scaled Armadillo
+chapter: 109
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Scaled Armadillo
-### Chapter 109
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Scaled Armadillo
+
+### Chapter 109
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 "I hope he can." Looking down, Fist Guy was not sure either.
 
 One could never be sure about the result when one was about to hunt a sacred-blood creature. The infamy of Ass Freak also added to their lack of confidence in Han Sen.

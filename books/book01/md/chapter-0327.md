@@ -1,21 +1,20 @@
 ---
-Title:Absolute Champion 
-Chapter:327 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: Absolute Champion
+chapter: 327
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Absolute Champion
-### Chapter 327
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Absolute Champion
+
+### Chapter 327
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Qian Hezhen had spent a lot of time on Gladiator recently, but he was feeling more and more pressure. It was more and more difficult for him to defeat Han Sen.
 
 In the beginning, Qian Hezhen was only intrigued by Han Sen's unexpected tricks.

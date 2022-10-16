@@ -1,21 +1,20 @@
 ---
-Title:Royal Princess Team 
-Chapter:861 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Royal Princess Team
+chapter: 861
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Royal Princess Team
-### Chapter 861
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Royal Princess Team
+
+### Chapter 861
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The Crystallizer civilization lessons he had received in the past were mostly the same, but this time, Han Sen noticed they were going into a lot more depth.
 
 After the training was over, Han Sen went to a restaurant with Fat Squad Leader and his teammates.

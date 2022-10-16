@@ -1,21 +1,20 @@
 ---
-Title:Mutating the Space Garden 
-Chapter:2789 
-Section:14 
-Book:9 
-CSS:../Styles/style.css 
+title: Mutating the Space Garden
+chapter: 2789
+section: 14
+book: 9
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Mutating the Space Garden
-### Chapter 2789
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Mutating the Space Garden
+
+### Chapter 2789
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 They knew if the Flower Gods were unable to overcome the curse, they would end up like mindless zombies. Now, the Space Garden had undergone major changes. The whole place was occupied by scary deified plant xenogeneics. With the power of the Flower Gods, they could not cultivate and develop the place. Therefore, they had to request the aid of Han Sen.
 
 First, only Han Sen was able to remove the curse plaguing the Flower Gods and free them from their doom. Second, Xie Qing King and Han Sen did not have notable backgrounds. Via them, the Flower Gods might be able to prosper in the future.

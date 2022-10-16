@@ -1,21 +1,20 @@
 ---
-Title:Spirit Stone 
-Chapter:460 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Spirit Stone
+chapter: 460
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Spirit Stone
-### Chapter 460
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Spirit Stone
+
+### Chapter 460
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 "Wait a second." Han Sen commanded the group to stop, summoned the golden rock worm king, and commanded it to fly into the gates of the shelter.
 
 Very soon, the golden rock worm king returned. The message brought back to Han Sen was that there was nothing in the spirit shelter, not a single creature.

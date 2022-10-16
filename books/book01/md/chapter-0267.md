@@ -1,21 +1,20 @@
 ---
-Title:Golden Lion 
-Chapter:267 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: Golden Lion
+chapter: 267
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Golden Lion
-### Chapter 267
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Golden Lion
+
+### Chapter 267
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 When the yacht stopped in front of a garden-like island, Ji Lingfeng came off the yacht on the back of his bodyguard-- he was so drunk that he couldn't even walk himself.
 
 Ji Lingfeng went straight to bed when he reached the vila on the island. Han Sen and Ji Yanran had to have dinner without him.

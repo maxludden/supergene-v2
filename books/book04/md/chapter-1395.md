@@ -1,21 +1,20 @@
 ---
-Title:Black Wind 
-Chapter:1395 
-Section:4 
-Book:4 
-CSS:../Styles/style.css 
+title: Black Wind
+chapter: 1395
+section: 4
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Black Wind
-### Chapter 1395
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Black Wind
+
+### Chapter 1395
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “Dad, is Mom having a baby?” Bao’er asked, with a surprisingly serious tone.
 
 “Yes, you will become a big sister,” Han Sen said, with a reassuring smile.
@@ -28,7 +27,7 @@ Bao’er responded by asking, “Mom can love the new baby, and Dad can love me?
 
 “Okay, if that’s how you want it.” Han Sen paused to think of how he might best explain such a situation to her, and when he decided, he told her, “But there’s enough room in all of our hearts to love each other equally. And what’s more, you’ll be a big sister. That means you’ll have the responsibility of looking out for the new baby, as they grow up.”
 
-“I’ll jam my gourd up the *ss of anyone who tries to mess with my future sibling!” Bao’er proclaimed, clenching her fist and making an upward motion.
+“I’ll jam my gourd up the ass of anyone who tries to mess with my future sibling!” Bao’er proclaimed, clenching her fist and making an upward motion.
 
 Han Sen smiled hearing this. But then, he suddenly caught the sight of a big white lizard climbing up the rock wall.
 

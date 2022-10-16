@@ -1,21 +1,20 @@
 ---
-Title:Breaking Shield 
-Chapter:1164 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Breaking Shield
+chapter: 1164
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Breaking Shield
-### Chapter 1164
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Breaking Shield
+
+### Chapter 1164
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 When Han Sen left Zhang Yuchen’s house, he went straight to the testing area.
 
 He had been told the creatures who came to the shelter and had been unable to ascend were only allowed to remain inside for three days. If they did not leave in that time, their bodies would be damaged.

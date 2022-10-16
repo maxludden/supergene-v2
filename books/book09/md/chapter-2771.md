@@ -1,21 +1,20 @@
 ---
-Title:You Can Eat This 
-Chapter:2771 
-Section:14 
-Book:9 
-CSS:../Styles/style.css 
+title: You Can Eat This
+chapter: 2771
+section: 14
+book: 9
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## You Can Eat This
-### Chapter 2771
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## You Can Eat This
+
+### Chapter 2771
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “You. Answer this question.” The phoenix turned to another King class noble. That person was also a student of Elder Nader, and he was asked the same question.
 
 “Master…” The guy seemed to be on the verge of tears. He spoke to Elder Nader with a trembling voice.

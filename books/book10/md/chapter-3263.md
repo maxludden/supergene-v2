@@ -1,21 +1,20 @@
 ---
-Title:Ultimate Egg 
-Chapter:3263 
-Section:16 
-Book:10 
-CSS:../Styles/style.css 
+title: Ultimate Egg
+chapter: 3263
+section: 16
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Ultimate Egg
-### Chapter 3263
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Ultimate Egg
+
+### Chapter 3263
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Zhang Huan did not think that was a very fair price. He thought, “You take me for a fool. Is that what you call a fair price?”
 
 Zhang Huan did not dare say that out loud in front of Han Sen. He developed a wry smile and said, “Mister Han, you have overestimated me. The Zhang family runs a gene egg shop, but rare gene eggs are very uncommon to see. Our ancestors did once have one, and that was the greatest of glories. Ever since I was born, however, I have been unable to see a single, rare gene egg.” Zhang Huan gnashed his teeth and suggested, “How about this? In Treasure Garden, there are god-class gene eggs. You can select five of them. That is all I will be able to afford you. What do you think?”

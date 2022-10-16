@@ -1,21 +1,20 @@
 ---
-Title:Zhao Ning'er 
-Chapter:3261 
-Section:16 
-Book:10 
-CSS:../Styles/style.css 
+title: Zhao Ning'er
+chapter: 3261
+section: 16
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Zhao Ning'er
-### Chapter 3261
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Zhao Ning'er
+
+### Chapter 3261
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 In many types of species, the right to mate was something to achieve.
 
 Male deer wanted to mate. When they fought off their opponents, they would lock horns. They would continue to fight even if their antlers broke.

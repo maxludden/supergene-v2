@@ -1,21 +1,20 @@
 ---
-Title:Blood Spills in the Gong Shu Manor 
-Chapter:3077 
-Section:16 
-Book:10 
-CSS:../Styles/style.css 
+title: Blood Spills in the Gong Shu Manor
+chapter: 3077
+section: 16
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Blood Spills in the Gong Shu Manor
-### Chapter 3077
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Blood Spills in the Gong Shu Manor
+
+### Chapter 3077
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Lou Jiu was in shock. Han Sen, who was gripping him by the neck, had lifted his entire body. He saw that Han Sen’s body was filled with purple air. A pair of weird eyes flickered demonically with a purple color. They stared at him, which made him feel shocked and angry.
 
 He wanted to summon a gene race to combine with, but Lou Jiu was shocked to discover that his God Spirit Blood – Pulse’s connection kept disconnecting. He was unable to summon a gene race.

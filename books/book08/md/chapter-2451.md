@@ -1,21 +1,20 @@
 ---
-Title:First-person Perspective 
-Chapter:2451 
-Section:12 
-Book:8 
-CSS:../Styles/style.css 
+title: First-person Perspective
+chapter: 2451
+section: 12
+book: 8
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## First-person Perspective
-### Chapter 2451
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## First-person Perspective
+
+### Chapter 2451
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Taking out the Wanjie Rubix Cube, he used it in accordance with the instructions given to him by Fang Qing Yu. He made contact with Fang Qing Yu’s step-father and streamed the video over to him.
 
 <br>
@@ -68,7 +67,7 @@ Because the video had been cut-off before, though, they hoped it would come back
 
 But then, some words appeared on the blank screen. “This content is now only accessible on a paid channel. Please enter the paid channel to view the secrets of the Sea Demon Car and the fate of the Extreme King. This is being streamed live from a massive battle in the Tianxia System. And this program is brought to you by the Hammer… Use the xenogeneic treasures of the Hammer to live a good life.”
 
-“Motherf*cking Hammer!”
+“Motherfucking Hammer!”
 
 “Those money-hungry b*stards…”
 
@@ -92,7 +91,7 @@ When they entered the paid mode, they saw the demon spirit exit the Sea Demon Ca
 
 “It must be Bao Qin. Who else could film from such a perspective?”
 
-“Are the Extreme King in some sort of economic crisis? He is a deified elite of the Extreme King, and he needs to earn money by streaming? And he added some motherf*cking sponsor and advert. How desperately do they want to earn money?”
+“Are the Extreme King in some sort of economic crisis? He is a deified elite of the Extreme King, and he needs to earn money by streaming? And he added some motherfucking sponsor and advert. How desperately do they want to earn money?”
 
 “Don’t say that! It isn’t easy to become a deified elite. While they are strong, they still require resources.”
 

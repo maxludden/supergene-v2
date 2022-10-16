@@ -1,21 +1,20 @@
 ---
-Title:You Make This Difficult 
-Chapter:1867 
-Section:7 
-Book:5 
-CSS:../Styles/style.css 
+title: You Make This Difficult
+chapter: 1867
+section: 7
+book: 5
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## You Make This Difficult
-### Chapter 1867
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## You Make This Difficult
+
+### Chapter 1867
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The Moon God Festival had become boring. The young ones went to the Moon God Palace to accept their blessings, but they were only able to raise up to the thirty-six moons, individually.
 
 This was supposed to be a number of extreme pride, but now it seemed rather pathetic. Once they had seen the true Moon God blessing, their own Moon God blessings seemed almost fake.

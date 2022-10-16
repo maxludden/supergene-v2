@@ -1,21 +1,20 @@
 ---
-Title:The Egg 
-Chapter:284 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: The Egg
+chapter: 284
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## The Egg
-### Chapter 284
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## The Egg
+
+### Chapter 284
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 As time went by, it had become harder and harder for the group of people to resist the temptation of meat. In addition, for most of them, a mutant beast soul was not very hard to come by. They all had several mutant beast souls and a lot of them even had sacred-blood beast souls.
 
 The less important mutant beast souls were gradually transferred to Han Sen for the primitive ghost-eyed bears that he killed.

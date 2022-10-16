@@ -1,21 +1,20 @@
 ---
-Title:Royal Shelter 
-Chapter:495 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Royal Shelter
+chapter: 495
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Royal Shelter
-### Chapter 495
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Royal Shelter
+
+### Chapter 495
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Unfortunately, Han Sen did not have a mutant beast soul from Second God's Sanctuary, so he could not test the upgrade time of a mutant beast soul.
 
 However, he had a rough estimate. Han Sen guessed that the reason the upgrade of the blood snail took so long was that it was a beast soul from First God's Sanctuary.

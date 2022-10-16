@@ -1,21 +1,20 @@
 ---
-Title:Sunset 
-Chapter:1061 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Sunset
+chapter: 1061
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Sunset
-### Chapter 1061
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Sunset
+
+### Chapter 1061
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen was taken aback by the gesture. He looked down at the bugs all around him and asked, “Can you guys hear me?”
 
 There was no response. And while Han Sen looked at them all in confusion, a beetle leaped into flight and hovered before him. It made a queer noise before turning around and flying off towards the old, decayed city.

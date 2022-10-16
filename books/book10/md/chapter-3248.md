@@ -1,21 +1,20 @@
 ---
-Title:Good and Bad 
-Chapter:3248 
-Section:16 
-Book:10 
-CSS:../Styles/style.css 
+title: Good and Bad
+chapter: 3248
+section: 16
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Good and Bad
-### Chapter 3248
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Good and Bad
+
+### Chapter 3248
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Inside the jade carriage, a beautiful and gentle lady poured out a drink for the man. She asked with curiosity, “Mister, was that man’s knife skills very strong?”
 
 “His movements were full of all the signs of a knifeman’s presence, but knives did not exist in his heart. He was just someone who practiced with a knife. No matter how strong a knife skill is, without God, you can only be a bit stronger. He is not literally powerful.” His face looked kingly as he spoke. The man was wearing white fur. He held a snow-white cup and spoke coldly. If a noble from the seven kingdoms saw that person, they would recognize him. It was the first mister of the Chu Kingdom. His name was Chu Yuan. He was different from the four misters of the Qin Kingdom. Chu Yuan was a real first mister.

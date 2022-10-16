@@ -1,21 +1,20 @@
 ---
-Title:United to Fight the God Temple 
-Chapter:2995 
-Section:15 
-Book:9 
-CSS:../Styles/style.css 
+title: United to Fight the God Temple
+chapter: 2995
+section: 15
+book: 9
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## United to Fight the God Temple
-### Chapter 2995
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## United to Fight the God Temple
+
+### Chapter 2995
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Fox Queen looked sincere as she said, “Mister, Extreme King’s Bai Wushang has been chasing me non-stop. I cannot beat him. He will kill me sooner or later, and I will be unable to serve you.”
 
 Han Sen thought, “Damn you, Fox Queen. You are a servant, yet you are still a conniving conspirator. You want to use me to get rid of Bai Wushang for you.”

@@ -1,21 +1,20 @@
 ---
-Title:Scary Potential 
-Chapter:1545 
-Section:4 
-Book:4 
-CSS:../Styles/style.css 
+title: Scary Potential
+chapter: 1545
+section: 4
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Scary Potential
-### Chapter 1545
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Scary Potential
+
+### Chapter 1545
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Little Lion King wanted to throw in the towel, but seeing Little Silver and Starsea Beast carry on, he was reluctant to. He strove to follow.
 
 “I don’t believe his creatures are actually better than me.” Jade Little Lion King made up his mind—he was going to march forward even further.

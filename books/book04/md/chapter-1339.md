@@ -1,21 +1,20 @@
 ---
-Title:Demi-god Creature 
-Chapter:1339 
-Section:4 
-Book:4 
-CSS:../Styles/style.css 
+title: Demi-god Creature
+chapter: 1339
+section: 4
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Demi-god Creature
-### Chapter 1339
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Demi-god Creature
+
+### Chapter 1339
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Blergh!
 
 Han Sen fell out onto the grass, coughing blood.

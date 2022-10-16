@@ -1,20 +1,19 @@
 ---
-Title:Sos
-Chapter:369
-Section:1
-Book:1
-CSS:../Styles/style.css
+title: Sos
+chapter: 369
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
 
 ## Sos
+
 ### Chapter 369
 
 <figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
 </figure>
-
-
 
 Although the disappearance of the egg gave Han Sen some thoughts, he could not confirm any of it.
 
@@ -28,8 +27,7 @@ After going back to his room, Han Sen summoned the beast soul of the cursed wolf
 			<th>Beast Soul Gained</th>
 		</tr><tr>
 			<td>Super Cursed Wolf<br>
-				<span class="type">(Dagger)</span>
-			</td>
+				<span class="type">(Dagger)</span></td>
 		</tr>
 	</table>
 	<!-- Type of beast soul of cursed wolf: weapon. -->

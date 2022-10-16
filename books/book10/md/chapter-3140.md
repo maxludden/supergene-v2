@@ -1,21 +1,20 @@
 ---
-Title:Break Head Wire 
-Chapter:3140 
-Section:16 
-Book:10 
-CSS:../Styles/style.css 
+title: Break Head Wire
+chapter: 3140
+section: 16
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Break Head Wire
-### Chapter 3140
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Break Head Wire
+
+### Chapter 3140
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen used his hands to rub it. It was like the black line was under the skin. He was unable to rub it away.
 
 Bald Guy pointed at Bao’er and screamed, “Bao’er’s neck has it too!”

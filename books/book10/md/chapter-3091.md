@@ -1,21 +1,20 @@
 ---
-Title:Birthday Party 
-Chapter:3091 
-Section:16 
-Book:10 
-CSS:../Styles/style.css 
+title: Birthday Party
+chapter: 3091
+section: 16
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Birthday Party
-### Chapter 3091
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Birthday Party
+
+### Chapter 3091
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Mister Yang felt as if he was dreaming. He could not believe what was happening to him atop that Holy Light Mountain.
 
 The superior, well-respected God Spirit had listened to Han Sen’s commands. He even referred to him as a mister.

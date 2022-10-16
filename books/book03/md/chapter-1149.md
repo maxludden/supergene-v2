@@ -1,21 +1,20 @@
 ---
-Title:Kill You Forever 
-Chapter:1149 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Kill You Forever
+chapter: 1149
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Kill You Forever
-### Chapter 1149
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Kill You Forever
+
+### Chapter 1149
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen looked inside the door and saw the shadow kneeling. There were no more musical notes or energy signatures left to scan. Xiang Yin would probably not make it.
 
 “You lose. Badly! Now, watch as she dies! I am different; I have many more ways to play with you.” Yaksha began to cackle like a mad scientist.
@@ -78,7 +77,7 @@ Not long after, Han Sen came across the Blue Dinosaur and Queen. Queen looked in
 
 “Let’s go back to the shelter as soon as we can,” Queen said, as she ran over to hold Han Sen in her arms.
 
-“I’m not going back. Those *sshole super creatures tried to kill me, so I’m going to exact my revenge.” If it wasn’t for the super creatures getting involved, Han Sen wouldn’t be in such a condition.
+“I’m not going back. Those asshole super creatures tried to kill me, so I’m going to exact my revenge.” If it wasn’t for the super creatures getting involved, Han Sen wouldn’t be in such a condition.
 
 He recalled their names and knew he had to kill them.
 

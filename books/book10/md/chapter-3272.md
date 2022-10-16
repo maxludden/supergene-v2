@@ -1,21 +1,20 @@
 ---
-Title:Firing an Arrow at Bury Sky 
-Chapter:3272 
-Section:16 
-Book:10 
-CSS:../Styles/style.css 
+title: Firing an Arrow at Bury Sky
+chapter: 3272
+section: 16
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Firing an Arrow at Bury Sky
-### Chapter 3272
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Firing an Arrow at Bury Sky
+
+### Chapter 3272
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The scary harp sounds were like whips of the soul. They kept lashing Han Sen’s heart. They interrogated the deepest recesses of his soul. He could not avoid them.
 
 If his heart was questioned, he was corroded by the asking heart phoenix head harp’s power. As a result, Han Sen’s body kept turning into sand. His skin was like sand, wasting away to the wind.

@@ -1,21 +1,20 @@
 ---
-Title:Big Heavy Egg 
-Chapter:1428 
-Section:4 
-Book:4 
-CSS:../Styles/style.css 
+title: Big Heavy Egg
+chapter: 1428
+section: 4
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Big Heavy Egg
-### Chapter 1428
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Big Heavy Egg
+
+### Chapter 1428
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 After using his Dongxuan Aura to scan what he could of the pit, Han Sen was unable to detect the presence of any creature residing in the dark down there.
 
 If some creature had been disturbed by Han Sen’s coin, and somehow survived, it should have all come scrambling out by now, anyway.

@@ -1,21 +1,20 @@
 ---
-Title:Killing the Bone Elephant 
-Chapter:679 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Killing the Bone Elephant
+chapter: 679
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Killing the Bone Elephant
-### Chapter 679
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Killing the Bone Elephant
+
+### Chapter 679
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The pink snake forced Han Sen to go near the bone elephant, as it planned for them both to tackle the monster together. The pink snake itself was afraid of the power that the bone elephant possessed, so it sought to use the human called Han Sen for help.
 
 Han Sen was interested in both the bone elephant and the cub inside the cave. The three Life Geno essences he had collected so far were obtained from super creatures that did not leave bodies behind. Han Sen guessed that might have been because they were first generation super creatures.

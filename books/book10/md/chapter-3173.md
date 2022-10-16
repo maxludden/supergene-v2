@@ -1,21 +1,20 @@
 ---
-Title:Zhuo Dong Lai 
-Chapter:3173 
-Section:16 
-Book:10 
-CSS:../Styles/style.css 
+title: Zhuo Dong Lai
+chapter: 3173
+section: 16
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Zhuo Dong Lai
-### Chapter 3173
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Zhuo Dong Lai
+
+### Chapter 3173
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 All the people throughout the kingdoms were in complete shock. An inheritor of a blood-pulse from one of the 12 Annihilation God Spirits, God Word King, had chosen not to do battle. It made Ingot, who was the least threatening of the three God of Wealth members, suddenly very popular.
 
 Everyone started to gossip about why God Word King had decided to avoid fighting. They wondered if it was because he didn’t think he could win or if it had to do with something else.

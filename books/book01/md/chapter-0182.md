@@ -1,21 +1,20 @@
 ---
-Title:Black-feathered Beast 
-Chapter:182 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: Black-feathered Beast
+chapter: 182
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Black-feathered Beast
-### Chapter 182
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Black-feathered Beast
+
+### Chapter 182
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 At this point the SK series had become a synonym for high-end warframes. Han Sen had also become quite a celebrity among the unevolved.
 
 In Steel Armor Shelter, Yang Manli widened her eyes, glaring at Han Sen. "Why? Why would you want to refuse to Digang’s new warframe SK Wolf?"

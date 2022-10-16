@@ -1,21 +1,20 @@
 ---
-Title:Broken Underworld Silk 
-Chapter:2688 
-Section:13 
-Book:8 
-CSS:../Styles/style.css 
+title: Broken Underworld Silk
+chapter: 2688
+section: 13
+book: 8
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Broken Underworld Silk
-### Chapter 2688
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Broken Underworld Silk
+
+### Chapter 2688
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “Have you thought about Under the Sky’s flaws?” Exquisite asked, glancing at Li Keer.
 
 Li Keer shook her head. “What about you?”
@@ -44,7 +43,7 @@ One time had been particularly bad. While he was fishing, he latched onto someth
 
 Bao’er was sometimes able to fish up pieces of jewelry. Han Sen didn’t know what they were for.
 
-And also, the entire time, the 16 pigs continued to follow Bao’er around. They frequently munched on Bao’er’s snacks, but they didn’t grow at all. They each remained the size of a fist. They looked small and cute, but as far as Han Sen could tell, they were completely useless. If they were not spending their days eating and sleeping, they were sleeping and eating. It was either that or following Bao’er’s *ss and running around everywhere.
+And also, the entire time, the 16 pigs continued to follow Bao’er around. They frequently munched on Bao’er’s snacks, but they didn’t grow at all. They each remained the size of a fist. They looked small and cute, but as far as Han Sen could tell, they were completely useless. If they were not spending their days eating and sleeping, they were sleeping and eating. It was either that or following Bao’er’s ass and running around everywhere.
 
 “Dad, come here! There is something coming. It is so heavy…” Bao’er suddenly exclaimed.
 

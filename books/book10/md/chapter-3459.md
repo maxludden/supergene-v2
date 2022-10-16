@@ -1,21 +1,20 @@
 ---
-Title:Reverse Stream 
-Chapter:3459 
-Section:17 
-Book:10 
-CSS:../Styles/style.css 
+title: Reverse Stream
+chapter: 3459
+section: 17
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Reverse Stream
-### Chapter 3459
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Reverse Stream
+
+### Chapter 3459
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Light Goddess saw Crape Myrtle’s body unleash a purple stream. Clearly, his power was also being drained. She quickly said, “Mister, hurry up and reboot the geno hall and universe now.”
 
 The whole geno hall was shaking. It was like it was peeling away from space. All of the God Spirits knew that it wasn’t actually flaking down from space. It was the geno hall being peeled away from the rules of the universe. It had lost control of the universe.

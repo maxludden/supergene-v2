@@ -1,21 +1,20 @@
 ---
-Title:Dongxuan Sutra's First Tier 
-Chapter:691 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Dongxuan Sutra's First Tier
+chapter: 691
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Dongxuan Sutra's First Tier
-### Chapter 691
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Dongxuan Sutra's First Tier
+
+### Chapter 691
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen carried the peach to a private room inside the crystal palace, to avoid any disturbances that might arise during his practice.
 
 Although he felt sorry for denying the silver fox the peach, he only had one of them. He had no choice but to keep it for himself. If he did still have some peach left after his breakthrough, however, he'd give the leftovers to the silver fox.

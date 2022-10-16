@@ -1,21 +1,20 @@
 ---
-Title:Holy Cleanliness 
-Chapter:764 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Holy Cleanliness
+chapter: 764
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Holy Cleanliness
-### Chapter 764
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Holy Cleanliness
+
+### Chapter 764
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen and Zhou Yumei were shocked; a white rhino exited the lake. The water level dropped significantly as it emerged.
 
 "Isn't that the white rhino we saw a while back?" Han Sen was taken aback.

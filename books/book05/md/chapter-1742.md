@@ -1,21 +1,20 @@
 ---
-Title:Evolving Again 
-Chapter:1742 
-Section:6 
-Book:5 
-CSS:../Styles/style.css 
+title: Evolving Again
+chapter: 1742
+section: 6
+book: 5
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Evolving Again
-### Chapter 1742
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Evolving Again
+
+### Chapter 1742
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Bao’er’s small body was in the air. The gold dot on her forehead began to spread, dyeing the entirety of her little body gold. She looked like a small sun.
 
 The golden light had so much energy, Han Sen bathed in its glow. He felt as if he was back inside his mother, swimming in the lifeforce.

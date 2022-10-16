@@ -1,21 +1,20 @@
 ---
-Title:Three Years 
-Chapter:1509 
-Section:4 
-Book:4 
-CSS:../Styles/style.css 
+title: Three Years
+chapter: 1509
+section: 4
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Three Years
-### Chapter 1509
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Three Years
+
+### Chapter 1509
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “But the man has one major disadvantage: he cannot access the sanctuaries. If your life is in danger, you can enter there. There might be many New Community elites to square-off against in the sanctuary, but at least you will not have to suffer the wrath of their leader.”
 
 Saying that, the man’s expression became complicated all of a sudden. “My son, you are far greater than I ever thought you would be. Having a son like you makes me immensely proud. You need to stay alive, to take care of your mother and Little Yan. Your wife is good, and Littleflower is cute. I will also do everything I can to ensure the safety of these things, and hopefully, one day, we can meet again.”
@@ -76,7 +75,7 @@ Now Han Sen understood. “You brought me here to help you keep that Zhao Mingze
 
 Han Yan laughed and said, “So many guys chase me, but Angel Gene is too effective in the Alliance. If I found just any guy, he’d be destroyed before the jealous wrath of Zhao Mingze. Don’t you hate the Zhao family, anyway? You aren’t afraid, are you?”
 
-Han Sen pretended to be mad and said, “I’m not afraid of the Zhao family. And if he really is stupid enough to try something, I’ll matchmake his *ss with my foot. Even if Zhao Seventh himself was here. You don’t need to worry about anything, and just pick who you like. Aside from me and our parents, no one else has control over you or can make you do things you dislike.”
+Han Sen pretended to be mad and said, “I’m not afraid of the Zhao family. And if he really is stupid enough to try something, I’ll matchmake his ass with my foot. Even if Zhao Seventh himself was here. You don’t need to worry about anything, and just pick who you like. Aside from me and our parents, no one else has control over you or can make you do things you dislike.”
 
 Han Yan lifted her lips. “You mean, if you and Mom don’t like my decision, then there’s nothing I can do?”
 

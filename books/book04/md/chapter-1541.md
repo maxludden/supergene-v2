@@ -1,21 +1,20 @@
 ---
-Title:Strong Killing 
-Chapter:1541 
-Section:4 
-Book:4 
-CSS:../Styles/style.css 
+title: Strong Killing
+chapter: 1541
+section: 4
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Strong Killing
-### Chapter 1541
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Strong Killing
+
+### Chapter 1541
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Goddess’ mind was still clear, despite her anger. She could feel that Han Sen’s butterfly wings were emitting a horrible aura. It wasn’t anything normal, and she could already guess it was most likely a super geno core he was using.
 
 Goddess did not know where Han Sen’s super geno core had come from, but she wasn’t going to be careless. She pulled out her God Ring again and tried to capture Han Sen and bind him.

@@ -1,21 +1,20 @@
 ---
-Title:Who Do You Want to Kill? 
-Chapter:788 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Who Do You Want to Kill?
+chapter: 788
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Who Do You Want to Kill?
-### Chapter 788
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Who Do You Want to Kill?
+
+### Chapter 788
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen reviewed the information he had received from Ji Yanran concerning the Third God's Sanctuary. It detailed which spirit shelters were known of, and what was known of them and their occupants.
 
 He read it over a few times, unable to find out anything about the spirit that took the white rhino away.

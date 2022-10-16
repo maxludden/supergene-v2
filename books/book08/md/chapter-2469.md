@@ -1,21 +1,20 @@
 ---
-Title:Inverse Dragon Lando 
-Chapter:2469 
-Section:12 
-Book:8 
-CSS:../Styles/style.css 
+title: Inverse Dragon Lando
+chapter: 2469
+section: 12
+book: 8
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Inverse Dragon Lando
-### Chapter 2469
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Inverse Dragon Lando
+
+### Chapter 2469
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “Han Sen, look where you are.” Shadow Ghost raised the Wanjie Rubix Cube that was in his hand. The stream from the Rubix cube was still running. Han Sen could see the video, which showed him caught in the screen of Shadow Ghost’s camera.
 
 Han Sen’s heart leaped at the sight, and so he quickly tried to fly out of the camera’s frame. He kept an eye on the Rubix cube’s stream as he flew, but he soon realized that no matter what direction he flew, there would be no escape from that place. The video stream showed that he was always dead center of the camera’s screen.

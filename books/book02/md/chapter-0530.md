@@ -1,21 +1,20 @@
 ---
-Title:Twin 
-Chapter:530 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Twin
+chapter: 530
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Twin
-### Chapter 530
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Twin
+
+### Chapter 530
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen wanted to take back Mad Shield, but the sword of the girl was too fast indeed. Before he took Mad Shield back, another flash flew across.
 
 *Crack!*

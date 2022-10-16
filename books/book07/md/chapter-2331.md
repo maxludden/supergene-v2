@@ -1,21 +1,20 @@
 ---
-Title:The Change of the Extreme King Pavilion 
-Chapter:2331 
-Section:11 
-Book:7 
-CSS:../Styles/style.css 
+title: The Change of the Extreme King Pavilion
+chapter: 2331
+section: 11
+book: 7
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## The Change of the Extreme King Pavilion
-### Chapter 2331
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## The Change of the Extreme King Pavilion
+
+### Chapter 2331
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “Master, Bai Yi has entered the Pavilion,” Cher said with a bow to Bai Ling Shuang.
 
 Bai Ling Shuang was seated on a sofa. Her beautiful legs were up, and she was holding a wine glass that she slowly twirled. Her expression changed to disdain, and she said, “Now that Bai Wuchang has used his pass, the Pavilion only has the statues of the alpha, the second king, and King Bao. The alpha and the second king’s statues have been there for billions of years, as no one has been able to understand them. And as for that King Bao, he was a strange king. Many royal children have tried to understand his statue, but they left empty-handed. There is no way Bai Yi will be able to understand anything about the statue.”

@@ -1,21 +1,20 @@
 ---
-Title:Depressed Ice Blue Knight King 
-Chapter:2501 
-Section:12 
-Book:8 
-CSS:../Styles/style.css 
+title: Depressed Ice Blue Knight King
+chapter: 2501
+section: 12
+book: 8
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Depressed Ice Blue Knight King
-### Chapter 2501
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Depressed Ice Blue Knight King
+
+### Chapter 2501
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Ice Blue Knight King was feeling very conflicted. He never thought that bringing Han Sen to the Extreme King would be the catalyst for so much trouble. If Ice Blue Knight King had a chance to do things over, he’d never have taken Han Sen away from Narrow Moon.
 
 If he could go back, he wouldn’t force Han Sen to join the Extreme King. In fact, even if Han Sen had begged Ice Blue Knight King and called him grandfather, he still wouldn’t take Han Sen with him. He would slap Han Sen until he fell upon the ground, then order him to remain in Narrow Moon. Han Sen could stay there and bring harm to the Rebate, Ice Blue Knight King believed. Wherever Han Sen went, he brought trouble and turmoil with him.

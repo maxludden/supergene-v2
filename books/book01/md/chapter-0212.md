@@ -1,21 +1,20 @@
 ---
-Title:Fighting an Angel 
-Chapter:212 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: Fighting an Angel
+chapter: 212
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Fighting an Angel
-### Chapter 212
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Fighting an Angel
+
+### Chapter 212
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 *Crack!*
 
 As a mutant weapon, the spear was cut into halves by the diamond sword.

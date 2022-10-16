@@ -1,21 +1,20 @@
 ---
-Title:Fighting Moment God Again 
-Chapter:2997 
-Section:15 
-Book:9 
-CSS:../Styles/style.css 
+title: Fighting Moment God Again
+chapter: 2997
+section: 15
+book: 9
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Fighting Moment God Again
-### Chapter 2997
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Fighting Moment God Again
+
+### Chapter 2997
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen had just entered the Moment God Temple. He immediately used Galaxy Teleportation. He suddenly was in front of Golden Growler, who had been trapped by the time god light. He was waving the light scissors toward Golden Growler.
 
 Bzzt!

@@ -1,21 +1,20 @@
 ---
-Title:Clue 
-Chapter:1576 
-Section:4 
-Book:4 
-CSS:../Styles/style.css 
+title: Clue
+chapter: 1576
+section: 4
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Clue
-### Chapter 1576
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Clue
+
+### Chapter 1576
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “Destroyer Wolf got away through a space crack. What clue do you think you can find here?” Elysian Moon said, frowning.
 
 “Let’s just look around. Perhaps we can find some clues,” Han Sen said as he walked.

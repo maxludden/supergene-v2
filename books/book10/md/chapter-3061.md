@@ -1,21 +1,20 @@
 ---
-Title:Favor for the Savior 
-Chapter:3061 
-Section:16 
-Book:10 
-CSS:../Styles/style.css 
+title: Favor for the Savior
+chapter: 3061
+section: 16
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Favor for the Savior
-### Chapter 3061
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Favor for the Savior
+
+### Chapter 3061
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Li Bing Yu’s will was very strong. She awoke from her coma very quickly.
 
 The moment she opened her eyes, Li Bing Yu saw Han Sen’s smiling face. She remembered what she saw before she passed out and immediately jumped from the ground, staring at Han Sen.

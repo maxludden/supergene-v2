@@ -1,21 +1,20 @@
 ---
-Title:You Are in Trouble 
-Chapter:695 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: You Are in Trouble
+chapter: 695
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## You Are in Trouble
-### Chapter 695
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## You Are in Trouble
+
+### Chapter 695
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen left the silver fox by the Beetle Knight so his doppelganger would appear more authentic; Han Sen was planning on traveling to Devil's Mountain alone.
 
 With the angel by his side, however, he wasn't afraid. He wanted to use this opportunity to slay sacred-blood creatures and max out his sacred geno points.

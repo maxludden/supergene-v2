@@ -1,21 +1,20 @@
 ---
-Title:Sky God Possession 
-Chapter:1947 
-Section:7 
-Book:5 
-CSS:../Styles/style.css 
+title: Sky God Possession
+chapter: 1947
+section: 7
+book: 5
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Sky God Possession
-### Chapter 1947
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Sky God Possession
+
+### Chapter 1947
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Ordinary people could not withstand the music, and the chiming of the bell was far more grueling.
 
 Even Seven Spirit himself, who had practiced the Buddha geno art and acquired the four-faced, eight-armed Buddha form, was having a hard time under the bell’s oppression. He was losing control of his body.

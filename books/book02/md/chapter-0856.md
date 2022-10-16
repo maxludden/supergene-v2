@@ -1,21 +1,20 @@
 ---
-Title:The Birth of Six Treasures 
-Chapter:856 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: The Birth of Six Treasures
+chapter: 856
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## The Birth of Six Treasures
-### Chapter 856
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## The Birth of Six Treasures
+
+### Chapter 856
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The three treasures shone with a golden light, and from each chest, something appeared directly in front of Moment Queen.
 
 There was a purple shortsword, a small purple hammer, and a small purple shield.

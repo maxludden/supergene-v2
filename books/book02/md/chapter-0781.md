@@ -1,21 +1,20 @@
 ---
-Title:Getting Another Super Beast Soul 
-Chapter:781 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Getting Another Super Beast Soul
+chapter: 781
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Getting Another Super Beast Soul
-### Chapter 781
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Getting Another Super Beast Soul
+
+### Chapter 781
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The bee king, seeing its cocoons had been stolen, became frenzied. Like a gold beam of light, it cut its way into the horde of flies. These streaks of gold light fired across the sky multiple times, and each time, countless dismembered fly corpses dropped to the ground.
 
 Despite the bee king's power, however, the green flies were not afraid and did not relent. Free of fear, they pushed on to retrieve the cocoons. Fortunately for them, the bee king lacked AOE attacks, and as a result, many cocoons were carried away.

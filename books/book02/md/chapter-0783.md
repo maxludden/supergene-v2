@@ -1,20 +1,19 @@
 ---
-Title:Devil-eye Beast Soul
-Chapter:783
-Section:2
-Book:2
-CSS:../Styles/style.css
+title: Devil-eye Beast Soul
+chapter: 783
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
 
 ## Devil-eye Beast Soul
+
 ### Chapter 783
 
 <figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
 </figure>
-
-
 
 Han Sen's hand hadn't come down on the fairy yet, but suddenly, the little fairy blew frosty air towards his face. Ice and frost accumulated on his eyebrows, and he shivered from the sudden cold.
 
@@ -31,15 +30,14 @@ For the time being, however, Han Sen decided to examine the Devil-Eye Spider bea
 <div class="tables">
 	<table class="beast">
 		<tr>
-			<th">Beast Soul</th>
+			<th colspan="2">Beast Soul Gained</th>
 		</tr><tr>
-			<td>Super Devil-Eye Spider<br>
-				<span class="type">(Mask)</span>
-			</td>
+			<td>Super Devil-Eye Spider</td>
+			<td>(Mask)</td>
 		</tr>
 	</table>
 	<!-- Devil-Eye Spider: Mask-Type Beast Soul -->
-</div>
+</div> 
 
 Han Sen was surprised. Mask-type beast souls were remarkably rare, and not particularly useful, either. Ordinarily, mask beast souls could increase your face's defense and that was it.
 

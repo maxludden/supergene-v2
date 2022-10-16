@@ -1,21 +1,20 @@
 ---
-Title:Break Head God Temple 
-Chapter:3141 
-Section:16 
-Book:10 
-CSS:../Styles/style.css 
+title: Break Head God Temple
+chapter: 3141
+section: 16
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Break Head God Temple
-### Chapter 3141
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Break Head God Temple
+
+### Chapter 3141
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Bald Guy’s neck black was becoming redder and redder. It was like there was blood soaking through it. It was a very bloody and scary sight. It looked as if it was tightening and going to crack his neck. Although Bald Guy had combined with the repel evil rhino, it did not seem to work. It could not stop the blood coming through.
 
 “Is that really a God Spirit power?” Han Sen asked with a frown.

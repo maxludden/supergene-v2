@@ -1,21 +1,20 @@
 ---
-Title:Coldness 
-Chapter:551 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Coldness
+chapter: 551
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Coldness
-### Chapter 551
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Coldness
+
+### Chapter 551
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Ever since Han Sen began learning the Dongxue Sutra, his perception had heightened. When he entered "Ultimate Breath" mode, the cells in his body were able to breathe freely, independently from the nose and lungs. This made Han Sen special.
 
 Previously, his breathing rhythm had affected his performance and his ability to channel power. But now, with Han Sen able to forget his concerns about breathing and not become winded, he was much freer.

@@ -1,21 +1,20 @@
 ---
-Title:Showing Off 
-Chapter:2738 
-Section:13 
-Book:8 
-CSS:../Styles/style.css 
+title: Showing Off
+chapter: 2738
+section: 13
+book: 8
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Showing Off
-### Chapter 2738
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Showing Off
+
+### Chapter 2738
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “That wasn’t my intent. Our families are friends, so we should help each other out.” Although Ning Bu Ao was cocky, he wasn’t stupid. He realized that he had said something he shouldn’t have, and so he quickly tried to steer the conversation back down a more pleasant avenue.
 
 “I understood your intent perfectly fine, but I don’t require help,” Tang Ming’er said. She took the boy’s arm and said, “Littleflower, let’s go.”

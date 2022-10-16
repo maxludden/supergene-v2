@@ -1,21 +1,20 @@
 ---
-Title:Destroyed or Not? 
-Chapter:2965 
-Section:15 
-Book:9 
-CSS:../Styles/style.css 
+title: Destroyed or Not?
+chapter: 2965
+section: 15
+book: 9
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Destroyed or Not?
-### Chapter 2965
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Destroyed or Not?
+
+### Chapter 2965
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The god palaces were quiet as they hung in space. It seemed as if it was between a real presence and a dream. It was such a big god palace, but it did not take over the real system.
 
 Aside from the thunder god earlier, the doors to the god temples around were closed shut, as was the door to the geno hall high above. It was unknown if God Spirits existed there.

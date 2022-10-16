@@ -1,21 +1,20 @@
 ---
-Title:Identity Crisis 
-Chapter:2343 
-Section:11 
-Book:7 
-CSS:../Styles/style.css 
+title: Identity Crisis
+chapter: 2343
+section: 11
+book: 7
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Identity Crisis
-### Chapter 2343
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Identity Crisis
+
+### Chapter 2343
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen’s balls ached. People kept talking about him and the Kingese he had absorbed as if he was some godly being that had paid them a visit. It was as if he was the crown prince or something. Even people with little interest in politics were caught up in the popular topic of conversation, fascinated by the idea that the previously-unknown prince had suddenly become so famous. Even King Bai was suddenly paying him a lot of attention. There was every chance he’d become a higher figure in the hierarchy, or even the new crown prince.
 
 But Han Sen knew that many people were still suspicious regarding his identity. Many royals came to visit him. They were all trying to test Han Sen, especially the horrible friends that Bai Yi used to have. They wanted to skin him and get a look at Bai Yi’s bones.

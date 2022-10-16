@@ -1,21 +1,20 @@
 ---
-Title:Overdraft 
-Chapter:3454 
-Section:17 
-Book:10 
-CSS:../Styles/style.css 
+title: Overdraft
+chapter: 3454
+section: 17
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Overdraft
-### Chapter 3454
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Overdraft
+
+### Chapter 3454
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “I do not believe you can really copy a Universe-class power.” Human King did not believe Bao’er could really copy a Universe-class power. He went closer to her, wanting to see just how well Bao’er could copy his talents.
 
 The two of their powers did not seem so strong. It seemed to depend on their bodies. The blurry purple was not so sharp after all.

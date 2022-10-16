@@ -1,21 +1,20 @@
 ---
-Title:Swapping the Sky and Changing the Ground 
-Chapter:2869 
-Section:14 
-Book:9 
-CSS:../Styles/style.css 
+title: Swapping the Sky and Changing the Ground
+chapter: 2869
+section: 14
+book: 9
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Swapping the Sky and Changing the Ground
-### Chapter 2869
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Swapping the Sky and Changing the Ground
+
+### Chapter 2869
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “Just using a hand to flip space and changing fate is very powerful.” Han Sen felt a chill while watching this. He was suspicious about this Very High Leader being the person he went back in time to see. The performance gave people different feelings. “The Very High Sense practice Sky and Men Combined Together at an extreme level. It won’t just flip space. It can even swap galaxies, change the sky, and swap the ground. It is not difficult, but no one of the Very High has reached that level before. People can swap a little planet but changing the universe’s power is impossible.” God paused and went on to say, “For the Very High to be able to practice to this level is something very rare to see in their history. Concentrating space into his hands, even god spirits like Sky Armor God could not do something similar.”
 
 “How do we break that power?” Han Sen asked. He had never seen power like this before, so he did not know what to do about it.

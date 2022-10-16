@@ -1,21 +1,20 @@
 ---
-Title:Teachapter Him to Be a Person 
-Chapter:3129 
-Section:16 
-Book:10 
-CSS:../Styles/style.css 
+title: Teachapter Him to Be a Person
+chapter: 3129
+section: 16
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Teachapter Him to Be a Person
-### Chapter 3129
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Teachapter Him to Be a Person
+
+### Chapter 3129
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “Little girl, do not joke around with me. I will have you know that I am old and cannot be scared like this, lest it bodes poorly for my health. I think it would be best if you move with haste. After you have done that, I will happily take you on a trip to buy some candy.” Sky King was shocked, but his face still displayed a smile. He had not been this soft in many, many years.
 
 “I see. In that case, okay, I think I can do that.” Bao’er nodded. She held the flying fish as if she was going to have it retreat.

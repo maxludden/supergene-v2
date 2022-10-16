@@ -1,21 +1,20 @@
 ---
-Title:Copper Fruit 
-Chapter:895 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Copper Fruit
+chapter: 895
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Copper Fruit
-### Chapter 895
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Copper Fruit
+
+### Chapter 895
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen wished to explain, but Qu Lanxi had already left the house and headed into the garden to catch up with Chu Ming.
 
 Han Sen merely shook his head and started eating the meat by himself.

@@ -1,21 +1,20 @@
 ---
-Title:Sacred Wood on the Peak 
-Chapter:624 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Sacred Wood on the Peak
+chapter: 624
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Sacred Wood on the Peak
-### Chapter 624
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Sacred Wood on the Peak
+
+### Chapter 624
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 When Han Sen tried to feel it again, the pulse had vanished. No matter how Han Sen held it in his hand, he could no longer feel what he previously had.
 
 "Strange. I just felt it. Why has it gone?" Han Sen frowned.

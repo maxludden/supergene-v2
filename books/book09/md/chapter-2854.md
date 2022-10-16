@@ -1,21 +1,20 @@
 ---
-Title:Sky Radish God Lance 
-Chapter:2854 
-Section:14 
-Book:9 
-CSS:../Styles/style.css 
+title: Sky Radish God Lance
+chapter: 2854
+section: 14
+book: 9
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Sky Radish God Lance
-### Chapter 2854
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Sky Radish God Lance
+
+### Chapter 2854
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen was shocked. This Sky Vine Radish looked the same as the one he had previously killed. It was as if he had come alive again. Even the shockwaves from this Sky Vine Radish were the same as those from the one he had seen before. The exception was that they were more powerful.
 
 God looked at the giant Sky Vine Radish as he said, “This is just Sky Vine Radish’s god body. Without a god personality, the god body is just a shell.”

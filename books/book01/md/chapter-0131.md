@@ -1,21 +1,20 @@
 ---
-Title:Golden Rock Worm King 
-Chapter:131 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: Golden Rock Worm King
+chapter: 131
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Golden Rock Worm King
-### Chapter 131
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Golden Rock Worm King
+
+### Chapter 131
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 When the angry sacred-blood fox king limped back to the top of the dune, the team had dashed out of the skulk.
 
 Almost without any hesitation, Han Sen roared at Wang Mengmeng, "Summon your mount."

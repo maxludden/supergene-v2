@@ -1,21 +1,20 @@
 ---
-Title:Finally Got a Gene Egg 
-Chapter:3086 
-Section:16 
-Book:10 
-CSS:../Styles/style.css 
+title: Finally Got a Gene Egg
+chapter: 3086
+section: 16
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Finally Got a Gene Egg
-### Chapter 3086
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Finally Got a Gene Egg
+
+### Chapter 3086
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “Responsibility? How are you going to accept responsibility?” Han Sen coldly looked at Gong Shu Zhi’s shadow.
 
 “I have some savings,” Gong Shu Zhi said. “If you let my son go, I can give you money or gene eggs. If you want to be a leader of a town, I can help you do that too.”

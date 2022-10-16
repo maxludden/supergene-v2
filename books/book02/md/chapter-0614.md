@@ -1,21 +1,20 @@
 ---
-Title:Killing the Peacock 
-Chapter:614 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Killing the Peacock
+chapter: 614
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Killing the Peacock
-### Chapter 614
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Killing the Peacock
+
+### Chapter 614
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen pursued the lobster, which had reached a depth of over one thousand meters. The blue light of the peacock continued to grow dimmer and dimmer, a sure sign that it was dying.
 
 Its wings had been broken by the lobster's pincers. Blood seeped into the ocean from the torn flesh, coloring the area in a red haze.

@@ -1,21 +1,20 @@
 ---
-Title:Proud Bone Sword Air 
-Chapter:2385 
-Section:11 
-Book:7 
-CSS:../Styles/style.css 
+title: Proud Bone Sword Air
+chapter: 2385
+section: 11
+book: 7
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Proud Bone Sword Air
-### Chapter 2385
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Proud Bone Sword Air
+
+### Chapter 2385
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 A swordmind was oozing from Han Sen’s body, but that wasn’t strange. Everyone on top of the mountain was studying the Proud Bone Swordmind, so all the royal children were leaking the power of their swordminds to some degree.
 
 But Han Sen’s swordmind was different. He wasn’t learning a swordmind; instead, he had copied the Proud Bone Swordmind directly and unleashed it on himself.

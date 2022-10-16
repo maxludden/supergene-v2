@@ -1,21 +1,20 @@
 ---
-Title:Student Meeting a Teacher 
-Chapter:3310 
-Section:17 
-Book:10 
-CSS:../Styles/style.css 
+title: Student Meeting a Teacher
+chapter: 3310
+section: 17
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Student Meeting a Teacher
-### Chapter 3310
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Student Meeting a Teacher
+
+### Chapter 3310
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Pang!
 
 An airship was hit by a shockwave unleashed by a Break World beast’s tail whip. It created a big hole. The ship lost control and rolled around in the air.

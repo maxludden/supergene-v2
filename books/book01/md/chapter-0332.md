@@ -1,21 +1,20 @@
 ---
-Title:Playing Go 
-Chapter:332 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: Playing Go
+chapter: 332
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Playing Go
-### Chapter 332
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Playing Go
+
+### Chapter 332
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 After falling from the cliff, Han Sen summoned his wings and flew away. The turtle looked down the cliff and turned around. It obviously had no intention to chase Han Sen.
 
 When Han Sen joined the rest of the group, everybody was overjoyed to see him.

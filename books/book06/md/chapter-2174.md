@@ -1,21 +1,20 @@
 ---
-Title:A Born Destroyer 
-Chapter:2174 
-Section:9 
-Book:6 
-CSS:../Styles/style.css 
+title: A Born Destroyer
+chapter: 2174
+section: 9
+book: 6
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## A Born Destroyer
-### Chapter 2174
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## A Born Destroyer
+
+### Chapter 2174
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen and company walked across Sodi for several hundred miles, and in that distance, he was unable to kill a single xenogeneic. There were too many Dukes and Marquises already taking advantage of the planet’s offerings. Han Sen saw many Dukes and Marquises fighting and killing xenogeneics before he could reach them. No one was leaving Han Sen a single xenogeneic to fight himself. And if Han Sen drew close to the others, they’d stare him down as if they were ready to start a fight if he took another step.
 
 Han Sen walked forward, hoping to head deeper into the mountains. Han Sen was at the foot of the rise when Qing Li and a number of other Rebates approached. “Han Sen, are you here to kill xenogeneics? Well, I don’t think you’ll be able to.”

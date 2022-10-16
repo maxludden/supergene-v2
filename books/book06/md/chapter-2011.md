@@ -1,21 +1,20 @@
 ---
-Title:Jadeskin Level Up 
-Chapter:2011 
-Section:8 
-Book:6 
-CSS:../Styles/style.css 
+title: Jadeskin Level Up
+chapter: 2011
+section: 8
+book: 6
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Jadeskin Level Up
-### Chapter 2011
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Jadeskin Level Up
+
+### Chapter 2011
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The Feathers wanted to use Han Sen to boost their reputation, but Han Sen ignored them. He stuck to practicing with his geno arts and his knifeskills.
 
 Because his core talents were so good, Han Sen’s progress with Under the Sky was coming along quickly. When he practiced with Yun Suyi, however, he suppressed it.

@@ -1,21 +1,20 @@
 ---
-Title:Dollar's First Year 
-Chapter:3033 
-Section:15 
-Book:9 
-CSS:../Styles/style.css 
+title: Dollar's First Year
+chapter: 3033
+section: 15
+book: 9
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Dollar's First Year
-### Chapter 3033
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Dollar's First Year
+
+### Chapter 3033
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen wanted to kill Qin Xiu, but Qin Xiu’s spirit body was extraordinarily tough. Even by using Super Spank at max power, in a short time, he was unable to destroy Qin Xiu’s spirit body. Qin Xiu pulled Han Sen into the crack in time and space. Wan’er, who was next to them, fell inside as well. The three of them kept falling through that weird crack in time and space.
 
 Han Sen noticed his Super God Spirit mode could not stop the weird power of that tunnel. His body was being dissolved.

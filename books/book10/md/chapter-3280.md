@@ -1,21 +1,20 @@
 ---
-Title:Sky King 
-Chapter:3280 
-Section:16 
-Book:10 
-CSS:../Styles/style.css 
+title: Sky King
+chapter: 3280
+section: 16
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Sky King
-### Chapter 3280
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Sky King
+
+### Chapter 3280
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen looked at Sky King and asked, “How do you want me to help you?”
 
 Sky King seemed to have prepared everything. After hearing Han Sen ask that, he replied, “The life souls connect to a soul candle. If the soul candle burns out, then a life soul will return. I have combined with a life soul. If a life soul returns, it means I return too. The best way is to get the soul candle and put it in my hands, but it will be difficult. Qin Xiu has most of the soul candles. It will even be hard for you to get it.”

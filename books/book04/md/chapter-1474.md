@@ -1,21 +1,20 @@
 ---
-Title:Purple Manor 
-Chapter:1474 
-Section:4 
-Book:4 
-CSS:../Styles/style.css 
+title: Purple Manor
+chapter: 1474
+section: 4
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Purple Manor
-### Chapter 1474
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Purple Manor
+
+### Chapter 1474
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Perhaps Han Sen got lucky, but after entering Firetail Bamboo Forest, there wasn’t any real danger. They saw a few Firetail Butterflies on the way, but they didn’t pose much of a threat. Over the course of the next two days, Han Sen had managed to collect nineteen gold Core Lights.
 
 Elysian Moon had a gemstone geno core, so those gold Core Lights were useless for her. Because of this, Han Sen was able to collect them all.

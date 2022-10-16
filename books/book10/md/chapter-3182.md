@@ -1,21 +1,20 @@
 ---
-Title:Weakness 
-Chapter:3182 
-Section:16 
-Book:10 
-CSS:../Styles/style.css 
+title: Weakness
+chapter: 3182
+section: 16
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Weakness
-### Chapter 3182
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Weakness
+
+### Chapter 3182
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen’s hands fought the Flying Yan Spears. He did not have any more power to endure the arrow Yan Dan had fired. When the arrow left its cradling string, it was hidden by empty power. He could not see where the arrow went.
 
 The arrow’s power looked like it was touching Han Sen’s body, but it wasn’t actually touching him. It crushed his skin downward. It was about to puncture his skin, but Han Sen’s body had already reacted. He slightly leaned to the side of the arrow.

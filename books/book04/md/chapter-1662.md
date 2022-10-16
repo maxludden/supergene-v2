@@ -1,21 +1,20 @@
 ---
-Title:The Truth 
-Chapter:1662 
-Section:4 
-Book:4 
-CSS:../Styles/style.css 
+title: The Truth
+chapter: 1662
+section: 4
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## The Truth
-### Chapter 1662
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## The Truth
+
+### Chapter 1662
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “After ten years, she hasn’t grown up. Don’t you think that’s strange?” God’s Retribution said.
 
 Han Sen sighed, and he knew this was something he couldn’t hide from. He was prepared for such questions, though.

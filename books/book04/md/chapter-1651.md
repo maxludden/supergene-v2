@@ -1,21 +1,20 @@
 ---
-Title:Guardian Spirit 
-Chapter:1651 
-Section:4 
-Book:4 
-CSS:../Styles/style.css 
+title: Guardian Spirit
+chapter: 1651
+section: 4
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Guardian Spirit
-### Chapter 1651
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Guardian Spirit
+
+### Chapter 1651
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Golden Growler went sniffing around the ground. It seemed to be tracking Blood Dog’s scent, and after a while, it began running forward.
 
 Broken stone buildings were everywhere, and their presence there made Han Sen frown. Golden Growler kept moving, and after a hundred miles, there was a large number of stone tablets scattered across a clearing.

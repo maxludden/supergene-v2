@@ -1,21 +1,20 @@
 ---
-Title:Yellow Temple 
-Chapter:2898 
-Section:15 
-Book:9 
-CSS:../Styles/style.css 
+title: Yellow Temple
+chapter: 2898
+section: 15
+book: 9
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Yellow Temple
-### Chapter 2898
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Yellow Temple
+
+### Chapter 2898
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 All the princes and princesses followed, but Han Sen did not. He walked into the Red Temple and went into the building via the doors.
 
 Katcha!

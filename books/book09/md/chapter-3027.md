@@ -1,21 +1,20 @@
 ---
-Title:Change of Plans 
-Chapter:3027 
-Section:15 
-Book:9 
-CSS:../Styles/style.css 
+title: Change of Plans
+chapter: 3027
+section: 15
+book: 9
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Change of Plans
-### Chapter 3027
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Change of Plans
+
+### Chapter 3027
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Old Cat’s body was excreting a lifeforce. It was like it was being pulled away with a magnet. It was going toward Han Sen’s body. Quickly, it went into the reverse Blood-Pulse Sutra. It became a part of the Xuan Yellow Sutra. It made Han Sen’s body more powerful.
 
 “Why are you doing this?” Han Sen looked at the lifeforce, which was almost completely out of the animal. He noticed Old Cat’s body was looking to be in very poor shape. His face started to look weird.

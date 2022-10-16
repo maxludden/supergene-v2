@@ -1,21 +1,20 @@
 ---
-Title:Sight of Gods 
-Chapter:600 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Sight of Gods
+chapter: 600
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Sight of Gods
-### Chapter 600
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Sight of Gods
+
+### Chapter 600
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 After seeing Han Sen enter a testing lobby, Annie was again watching his every move. Quickly, she went to the observation room so she could see how he was performing.
 
 The test Han Sen was undertaking had been designed to accurately measure the dexterity of his abilities. He had never taken this test before, so Annie did not actually know what his proper level was.

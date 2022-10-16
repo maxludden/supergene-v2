@@ -1,21 +1,20 @@
 ---
-Title:Blonde-haired Lady 
-Chapter:2903 
-Section:15 
-Book:9 
-CSS:../Styles/style.css 
+title: Blonde-haired Lady
+chapter: 2903
+section: 15
+book: 9
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Blonde-haired Lady
-### Chapter 2903
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Blonde-haired Lady
+
+### Chapter 2903
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Bai Wanjie agreed. He kept throwing the star orbs one by one at the big egg. The big egg grew brighter and more transparent. The blonde lady’s face on the inside became clearer.
 
 Han Sen looked at the big egg with a frown. He could already see everything crystal clear. The blonde lady was going to be woken up. That made Han Sen nervous, perhaps even a bit scared.

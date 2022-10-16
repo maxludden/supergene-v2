@@ -1,21 +1,20 @@
 ---
-Title:White Jade Jing History 
-Chapter:3327 
-Section:17 
-Book:10 
-CSS:../Styles/style.css 
+title: White Jade Jing History
+chapter: 3327
+section: 17
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## White Jade Jing History
-### Chapter 3327
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## White Jade Jing History
+
+### Chapter 3327
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “Black King.” Han Sen suddenly thought of the blue-clothed fairy mentioning someone.
 
 The blue-clothed fairy coldly said, “If you know, that means you know you will not be dying for no reason. This is all because of what you did. It made the thousand jade fairies of the Black King City unable to be free.”

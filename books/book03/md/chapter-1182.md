@@ -1,21 +1,20 @@
 ---
-Title:Vice-leader 
-Chapter:1182 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Vice-leader
+chapter: 1182
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Vice-leader
-### Chapter 1182
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Vice-leader
+
+### Chapter 1182
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Water Fairy smiled and said, “This is my gear, and it is called a Waterdrop Orb. With this orb, you can prevent watery chaos. Can I swap this for all four of your lifewater drops?”
 
 “Define what watery chaos means first,” Han Sen said, not quite catching her drift.

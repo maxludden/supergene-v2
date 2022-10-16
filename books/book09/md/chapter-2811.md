@@ -1,21 +1,20 @@
 ---
-Title:All the Way Forward 
-Chapter:2811 
-Section:14 
-Book:9 
-CSS:../Styles/style.css 
+title: All the Way Forward
+chapter: 2811
+section: 14
+book: 9
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## All the Way Forward
-### Chapter 2811
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## All the Way Forward
+
+### Chapter 2811
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Second Uncle and the group of people hoped the fugitive, Han Sen, had not escaped to the Lost Land and perhaps diverted his path on the way there. When Ger led them to the Lost Land, their final tether of hope was cut.
 
 "Han Sen knows he made a mistake. That must be why he risked going to the Lost Land. Are we going in or not?" Everyone looked at Second Uncle. Bao Qin was the one who asked.

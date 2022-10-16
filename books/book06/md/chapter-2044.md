@@ -1,21 +1,20 @@
 ---
-Title:Dragon Corpse 
-Chapter:2044 
-Section:8 
-Book:6 
-CSS:../Styles/style.css 
+title: Dragon Corpse
+chapter: 2044
+section: 8
+book: 6
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Dragon Corpse
-### Chapter 2044
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Dragon Corpse
+
+### Chapter 2044
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The battle continued to rage upon the surface of the sea. Fortunately, it had little effect on the ocean depths.
 
 Suddenly, there was a boom and something massive fell into the sea.

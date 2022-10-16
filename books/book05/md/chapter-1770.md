@@ -1,21 +1,20 @@
 ---
-Title:Pirate Bone Sword 
-Chapter:1770 
-Section:6 
-Book:5 
-CSS:../Styles/style.css 
+title: Pirate Bone Sword
+chapter: 1770
+section: 6
+book: 5
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Pirate Bone Sword
-### Chapter 1770
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Pirate Bone Sword
+
+### Chapter 1770
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The red thing was an old turtle with a red shell that was the size of a grinding wheel.
 
 The turtle stood on two feet, and it swung the other two like clawed hands to grab White Elephant by the trunk. The turtle managed to unfurl the nose that had grabbed Hai’er and save her.

@@ -1,21 +1,20 @@
 ---
-Title:Crazy Creature 
-Chapter:336 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: Crazy Creature
+chapter: 336
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Crazy Creature
-### Chapter 336
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Crazy Creature
+
+### Chapter 336
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen stared down the cliff and was shocked. So were Jin Rijie, Jin Qiuli and Sun Minghua.
 
 They had followed the turtle for two days, which had gone deeper and deeper. They felt something must be wrong, they were already on the cliff.

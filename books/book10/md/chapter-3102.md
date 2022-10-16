@@ -1,21 +1,20 @@
 ---
-Title:Steel Scene 
-Chapter:3102 
-Section:16 
-Book:10 
-CSS:../Styles/style.css 
+title: Steel Scene
+chapter: 3102
+section: 16
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Steel Scene
-### Chapter 3102
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Steel Scene
+
+### Chapter 3102
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Before Han Sen went to find Feng Yin Yin, Feng Fei Fei had already brought her to where he lived.
 
 “San Mu, I had a discussion with my auntie,” Feng Yin Yin happily said as she tugged at his arms. “You should move into our house.”

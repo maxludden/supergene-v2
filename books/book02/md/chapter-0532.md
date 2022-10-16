@@ -1,21 +1,20 @@
 ---
-Title:Double Fly 
-Chapter:532 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Double Fly
+chapter: 532
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Double Fly
-### Chapter 532
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Double Fly
+
+### Chapter 532
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Sacred-Blood Inferno Bull: Fuse the transfigured beast souls.
 
 Han Sen looked at his new beast soul with a touch of hesitation. He had never thought it would reach the level of a sacred-blood transfiguration beast soul. It was a shame that it was only a humanoid beast soul. If it could transfigure, it could only battle with something that had an Inferno Bull's status.

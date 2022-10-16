@@ -1,21 +1,20 @@
 ---
-Title:Empty Fruit 
-Chapter:809 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Empty Fruit
+chapter: 809
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Empty Fruit
-### Chapter 809
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Empty Fruit
+
+### Chapter 809
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 "There is nothing we can do. Only Wang Yuhang can pull away the creature we seek. Its retrieval will be impossible if we do not have him." Manager Qu continued his cold dialogue, saying, "It is fortunate its maturity will come soon; sometime within the next two days."
 
 Sun Chenggong replied, "Chen Cheng and the third team made use of their shura liquid. It will take a week for them to recover; I do not believe they will be able to accompany us any further on this mission."

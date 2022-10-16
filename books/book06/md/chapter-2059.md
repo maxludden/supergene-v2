@@ -1,21 +1,20 @@
 ---
-Title:Forced Entry 
-Chapter:2059 
-Section:8 
-Book:6 
-CSS:../Styles/style.css 
+title: Forced Entry
+chapter: 2059
+section: 8
+book: 6
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Forced Entry
-### Chapter 2059
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Forced Entry
+
+### Chapter 2059
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “You can really only remain a Stone Cow for another two days?” Xius asked, looking at Han Sen.
 
 “Yes.” Han Sen nodded.

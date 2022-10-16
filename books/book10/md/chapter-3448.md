@@ -1,21 +1,20 @@
 ---
-Title:This Family 
-Chapter:3448 
-Section:17 
-Book:10 
-CSS:../Styles/style.css 
+title: This Family
+chapter: 3448
+section: 17
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## This Family
-### Chapter 3448
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## This Family
+
+### Chapter 3448
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 With Human King’s power, even if the 12 Annihilation-class main gods were to come to challenge him, there was a very high possibility that they would not be able to move freely in his presence.
 
 Han Ling’er did not seem to be affected by his power in the least. She stood where she was with her eyes wide open. She madly stared at Human King.

@@ -1,21 +1,20 @@
 ---
-Title:Collecting Taxes 
-Chapter:1439 
-Section:4 
-Book:4 
-CSS:../Styles/style.css 
+title: Collecting Taxes
+chapter: 1439
+section: 4
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Collecting Taxes
-### Chapter 1439
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Collecting Taxes
+
+### Chapter 1439
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “These maggots are not mine. If they were, they’d have my scent. My scent would be picked-up by Snake King, and the elder would surely find out it was me behind this,” Spirit Twelve said coldly.
 
 “Then how did you make the bugs attack them?” Spirit Thirteen asked, with much shock.

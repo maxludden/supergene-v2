@@ -1,21 +1,20 @@
 ---
-Title:Eight Hole Emperor 
-Chapter:2677 
-Section:13 
-Book:8 
-CSS:../Styles/style.css 
+title: Eight Hole Emperor
+chapter: 2677
+section: 13
+book: 8
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Eight Hole Emperor
-### Chapter 2677
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Eight Hole Emperor
+
+### Chapter 2677
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Shale glanced toward Mo Fang, and Mo Fang lifted his lips while looking back at Shale. Neither said a word, but they each knew what the other was thinking.
 
 “Butterfly, are you with us, or are you with Shale?” Mo Fang asked, looking at the Fox woman.

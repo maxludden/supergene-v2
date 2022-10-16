@@ -1,21 +1,20 @@
 ---
-Title:Cruel Reality 
-Chapter:438 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Cruel Reality
+chapter: 438
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Cruel Reality
-### Chapter 438
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Cruel Reality
+
+### Chapter 438
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen summoned the golden growler, put the body of the ice-armored beast on its back and then rode on it himself. He waved to Yang Manli and asked, "Is there any place nearby that we could hide from the storm? Let’s take a break and eat some meat."
 
 Yang Manli hesitated, but jumped on the golden growler’s back, guiding Han Sen to a cave nearby.

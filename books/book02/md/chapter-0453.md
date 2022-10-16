@@ -1,21 +1,20 @@
 ---
-Title:Killing a Mutant Creature 
-Chapter:453 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Killing a Mutant Creature
+chapter: 453
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Killing a Mutant Creature
-### Chapter 453
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Killing a Mutant Creature
+
+### Chapter 453
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen saw most people were running and only Yang Manli, Uncle Qing, and a few gang members stayed next to him, summoning beast souls and ready to fight.
 
 It was easy to tell that the gang members were all frightened, their hands on their weapons shaking.

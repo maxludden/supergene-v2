@@ -1,21 +1,20 @@
 ---
-Title:Destruction 
-Chapter:1201 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Destruction
+chapter: 1201
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Destruction
-### Chapter 1201
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Destruction
+
+### Chapter 1201
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Countless shura ships were exploding like northern lights. The blooms of destruction spread like wildfire as star-class ship after star-class ship exploded.
 
 The weaker ships, such as the planet-class and satellite-class ships, were immediately disintegrated into nothing more than an eye-searing haze. The entire armada was crippled and destroyed, blown up like a glittery fireworks display.

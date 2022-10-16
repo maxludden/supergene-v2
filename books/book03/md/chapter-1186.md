@@ -1,21 +1,20 @@
 ---
-Title:Cruel Bottle 
-Chapter:1186 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Cruel Bottle
+chapter: 1186
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Cruel Bottle
-### Chapter 1186
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Cruel Bottle
+
+### Chapter 1186
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen flew towards the Sky Tree as fast as he could. He knew he couldn’t stop what was happening, but he hoped he could pick up a few goodies at the very least. Perhaps he’d even be able to kill a few of the super creatures and take their Life Geno Essences from Sky King.
 
 The Sky Tree was growing at an alarming rate. The red and black bark was cracking and beginning to peel. Countless creatures tried to scramble out of the cracks that webbed the tree.

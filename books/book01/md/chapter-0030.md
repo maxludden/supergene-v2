@@ -1,21 +1,20 @@
 ---
-Title:An Empty Egg 
-Chapter:30 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: An Empty Egg
+chapter: 30
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## An Empty Egg
-### Chapter 30
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## An Empty Egg
+
+### Chapter 30
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen climbed up every day to steal some egg juice and never met a sacred-blood creature returning to the nest. Han Sen thought the egg’s parents might have been hunted already. But to be safe, every time he finished drinking from the egg, he would return to where Lin Beifeng was instead of staying inside the nest.
 
 Lin Beifeng just assumed that Han Sen was going up to find a way. When they had waited for two or three days, Lin Beifeng looked down, and with the fog he wasn’t sure if the mammo beasts had left.

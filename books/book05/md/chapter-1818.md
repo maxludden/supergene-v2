@@ -1,21 +1,20 @@
 ---
-Title:The Geno Art That Has a Problem 
-Chapter:1818 
-Section:6 
-Book:5 
-CSS:../Styles/style.css 
+title: The Geno Art That Has a Problem
+chapter: 1818
+section: 6
+book: 5
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## The Geno Art That Has a Problem
-### Chapter 1818
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## The Geno Art That Has a Problem
+
+### Chapter 1818
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “Thank you, My Queen.” Han Sen’s eyes felt wet She had been really helpful, and even given a precious gift to her enemy.
 
 Han Sen thought that if she found out he was Dollar, she’d be so angry that she’d most likely stroke out and die.

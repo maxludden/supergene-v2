@@ -1,21 +1,20 @@
 ---
-Title:Small Galaxy Beast 
-Chapter:1382 
-Section:4 
-Book:4 
-CSS:../Styles/style.css 
+title: Small Galaxy Beast
+chapter: 1382
+section: 4
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Small Galaxy Beast
-### Chapter 1382
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Small Galaxy Beast
+
+### Chapter 1382
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “I… have to be cruel here. I need power to kill that mangy mutt, but this thing must have the ability to soften the will of an enemy.”
 
 Han Sen picked the creature up and it resumed trying to lick his face, as it had earlier. It was an adorable thing, truth be told, so he forcefully turned it away to keep its puppy-dog eyes from working their wizardry and softening his resolve.

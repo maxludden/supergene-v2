@@ -1,21 +1,20 @@
 ---
-Title:Ruins That Shouldn't Exist 
-Chapter:2880 
-Section:14 
-Book:9 
-CSS:../Styles/style.css 
+title: Ruins That Shouldn't Exist
+chapter: 2880
+section: 14
+book: 9
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Ruins That Shouldn't Exist
-### Chapter 2880
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Ruins That Shouldn't Exist
+
+### Chapter 2880
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 After God said he was leaving, he left. Han Sen was a little worried. He thought Little Gold Gold might get bullied because of his relationship with God.
 
 Han Sen knew there was no point in worrying. He just wanted to quickly level up, become true god, and enter the geno hall.

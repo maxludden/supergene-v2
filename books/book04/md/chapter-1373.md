@@ -1,21 +1,20 @@
 ---
-Title:Hidden Valley 
-Chapter:1373 
-Section:4 
-Book:4 
-CSS:../Styles/style.css 
+title: Hidden Valley
+chapter: 1373
+section: 4
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Hidden Valley
-### Chapter 1373
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Hidden Valley
+
+### Chapter 1373
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The moment Han Sen entered the tangled complex that was Hidden Valley, he felt his Dongxuan Aura become overwhelmed. The knotted labyrinth was almost too much for it to process, and it suffered, becoming little more than a garbled transmission.
 
 Of course, Han Sen did not need to use it like radar. He could still detect and sense the lifeforces of the land around him.

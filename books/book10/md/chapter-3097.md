@@ -1,21 +1,20 @@
 ---
-Title:Suddenly Muted 
-Chapter:3097 
-Section:16 
-Book:10 
-CSS:../Styles/style.css 
+title: Suddenly Muted
+chapter: 3097
+section: 16
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Suddenly Muted
-### Chapter 3097
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Suddenly Muted
+
+### Chapter 3097
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Feng Yin Yin patted Han Sen’s hand and spoke said, “You being here is enough of a gift for me.” She did not want Han Sen to feel bad.
 
 Han Sen looked at Feng Yin Yin apologetically. “Sorry. I did not know it was your birthday today.”

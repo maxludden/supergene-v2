@@ -1,21 +1,20 @@
 ---
-Title:Different Gene Race 
-Chapter:3259 
-Section:16 
-Book:10 
-CSS:../Styles/style.css 
+title: Different Gene Race
+chapter: 3259
+section: 16
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Different Gene Race
-### Chapter 3259
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Different Gene Race
+
+### Chapter 3259
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “Thank you for leading the way,” Han Sen said with a hearty laugh. “I have already received the ice jade evil lady. I wonder if Miss Tian also managed to retrieve the lost items of her party.”
 
 He could tell Tian Jing was trying to hide something from him and hoping to do something with the ice jade evil lady before him.

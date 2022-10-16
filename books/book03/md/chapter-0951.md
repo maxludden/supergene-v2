@@ -1,21 +1,20 @@
 ---
-Title:Son of All Gods 
-Chapter:951 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Son of All Gods
+chapter: 951
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Son of All Gods
-### Chapter 951
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Son of All Gods
+
+### Chapter 951
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen used his dongxuan aura to take a better look at the sword Taia. Its sharpness was not its greatest attribute.
 
 What was most striking about it were the features of its power, hardness and durability. If two swords ever clashed, and one broke, that meant one of them had better hardness and durability.

@@ -1,21 +1,20 @@
 ---
-Title:King of the Ice Fields 
-Chapter:595 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: King of the Ice Fields
+chapter: 595
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## King of the Ice Fields
-### Chapter 595
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## King of the Ice Fields
+
+### Chapter 595
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 "Today, I saw a lot."
 
 "He is too strong. That elite had unlocked his first gene lock, but Han Sen whipped him like a dog."

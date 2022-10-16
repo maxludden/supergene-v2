@@ -1,21 +1,20 @@
 ---
-Title:Really Backlashed 
-Chapter:3316 
-Section:17 
-Book:10 
-CSS:../Styles/style.css 
+title: Really Backlashed
+chapter: 3316
+section: 17
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Really Backlashed
-### Chapter 3316
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Really Backlashed
+
+### Chapter 3316
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “Just because you can’t do it now does not mean you can’t do it later. Plus, you are a man. How can you say you can’t do it?” Big sky demon looked at Han Sen and smiled.
 
 “You can’t try to provoke me. You are not going to tell me anyway.” Han Sen looked like a dead pig that was not afraid of hot water.

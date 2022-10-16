@@ -1,21 +1,20 @@
 ---
-Title:Nine-defense Palace 
-Chapter:2806 
-Section:14 
-Book:9 
-CSS:../Styles/style.css 
+title: Nine-defense Palace
+chapter: 2806
+section: 14
+book: 9
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Nine-defense Palace
-### Chapter 2806
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Nine-defense Palace
+
+### Chapter 2806
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen followed Bai Wanjie out of the palace. Bai King had asked Bai Wanjie to take him to the Nine-Defense Palace, but he had not explained what the Nine-Defense Palace was.
 
 As he walked alongside Bai Wanjie, Han Sen asked, "Crown Prince, what is the Nine-Defense Palace?"

@@ -1,21 +1,20 @@
 ---
-Title:Powerful Slashing and Killing 
-Chapter:2750 
-Section:13 
-Book:8 
-CSS:../Styles/style.css 
+title: Powerful Slashing and Killing
+chapter: 2750
+section: 13
+book: 8
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Powerful Slashing and Killing
-### Chapter 2750
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Powerful Slashing and Killing
+
+### Chapter 2750
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The part of it that Han Sen could see was only about the size of a kitchen table. Han Sen couldn’t tell what it was, but the creativity of humans could be rather amazing. Han Sen had already been thinking about the true god dragon, so when he saw the glowing object, his heart leaped. His brain flashed with an idea. “No matter which way you look at it, this thing looks like a giant dragon scale. This cannot be the body of the legendary true god class evil dragon, can it?”
 
 After the electric eel ate the blood coral, it continued to twist and convulse. Its body was growing redder and redder.

@@ -1,21 +1,20 @@
 ---
-Title:Co-operation 
-Chapter:1807 
-Section:6 
-Book:5 
-CSS:../Styles/style.css 
+title: Co-operation
+chapter: 1807
+section: 6
+book: 5
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Co-operation
-### Chapter 1807
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Co-operation
+
+### Chapter 1807
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The light was so small and so fast, and it came at the speed of light. Han Sen couldn’t dodge it, and when the light pelted them, they all felt numbed. They were not injured though.
 
 Their armor could not resist the shock of the light, either. Han Sen tried to use a few of his powers, but none of them worked. They continued moving ahead, and more of those lights appeared. The lights struck their bodies again and made them even more numb. They could barely walk with the constant zaps.

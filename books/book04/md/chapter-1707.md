@@ -1,21 +1,20 @@
 ---
-Title:Meeting Old Cat Again 
-Chapter:1707 
-Section:5 
-Book:4 
-CSS:../Styles/style.css 
+title: Meeting Old Cat Again
+chapter: 1707
+section: 5
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Meeting Old Cat Again
-### Chapter 1707
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Meeting Old Cat Again
+
+### Chapter 1707
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen put a drop of his blood on the Western King Sword. The blood didn’t spread and blend into the metal, however, and it just remained a droplet upon the surface.
 
 “I can’t believe this isn’t working!” Han Sen cut his wrist and bled some more of his Real Blood over the sword, and went at it until it was entirely painted red.

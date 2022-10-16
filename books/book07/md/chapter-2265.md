@@ -1,21 +1,20 @@
 ---
-Title:Fight 
-Chapter:2265 
-Section:10 
-Book:7 
-CSS:../Styles/style.css 
+title: Fight
+chapter: 2265
+section: 10
+book: 7
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Fight
-### Chapter 2265
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Fight
+
+### Chapter 2265
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “Please don’t tell me Han Sen is your fake name,” Fox Queen said, smiling at Han Sen.
 
 “My name is Han Sen. San Mu is just a nickname. Only close family and my bestest friends call me by that name,” Han Sen said shyly.

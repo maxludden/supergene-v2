@@ -1,21 +1,20 @@
 ---
-Title:Ancient Spirit Type 
-Chapter:3007 
-Section:15 
-Book:9 
-CSS:../Styles/style.css 
+title: Ancient Spirit Type
+chapter: 3007
+section: 15
+book: 9
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Ancient Spirit Type
-### Chapter 3007
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Ancient Spirit Type
+
+### Chapter 3007
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen knew the little kid was not a human. The temperature of the pot was enough to cook true god class flesh. If that little kid was a human baby, before it was even in the pot, the heat of the steam would have cooked its flesh. The kid that was in the water now was just a little burned skin. It still struggled in the water, but whatever it was, it was nothing normal.
 
 “What is this thing in here?” Han Sen looked at the baby crying in the water. He had many guesses, but he did not know what sort of race it was.

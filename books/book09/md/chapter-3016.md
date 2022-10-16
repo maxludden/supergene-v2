@@ -1,21 +1,20 @@
 ---
-Title:Shadow God 
-Chapter:3016 
-Section:15 
-Book:9 
-CSS:../Styles/style.css 
+title: Shadow God
+chapter: 3016
+section: 15
+book: 9
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Shadow God
-### Chapter 3016
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Shadow God
+
+### Chapter 3016
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “Sacred’s remnants, come out and die!” A godly voice echoed throughout space. The ice walls of the ice bunker’s laboratory exploded. The tools were breaking and falling apart.
 
 Han Yufei’s eyes suddenly looked cold. She was holding a scalpel. She ran out of the ice bunker’s laboratory and exited the ice bunker. She pulled a metal orb out of her pocket and threw it.

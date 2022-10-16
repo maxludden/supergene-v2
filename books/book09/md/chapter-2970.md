@@ -1,21 +1,20 @@
 ---
-Title:Light Well 
-Chapter:2970 
-Section:15 
-Book:9 
-CSS:../Styles/style.css 
+title: Light Well
+chapter: 2970
+section: 15
+book: 9
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Light Well
-### Chapter 2970
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Light Well
+
+### Chapter 2970
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 There was a xenogeneic space called Light Well. In that xenogeneic space, many wells had light energies in them.
 
 The energy holes had deified xenogeneic plants inside them, which were called Light Well Lotuses. The legends claimed that the Extreme King had been growing those Light Well Lotuses. It was unknown how many years it had been, but there must have been a lot of Light Well Lotuses.

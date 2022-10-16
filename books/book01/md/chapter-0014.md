@@ -1,21 +1,20 @@
 ---
-Title:The Chosen 
-Chapter:14 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: The Chosen
+chapter: 14
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## The Chosen
-### Chapter 14
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## The Chosen
+
+### Chapter 14
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen was somewhat surprised to see Han Hao sputtering on. He did not know Han Hao was also randomly sent to the Steel Armor Shelter.
 
 Han Hao was three months younger than him, so he should’ve just had his birthday and gained access to God’s Sanctuary.

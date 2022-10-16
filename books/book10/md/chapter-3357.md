@@ -1,21 +1,20 @@
 ---
-Title:Gourd Seed 
-Chapter:3357 
-Section:17 
-Book:10 
-CSS:../Styles/style.css 
+title: Gourd Seed
+chapter: 3357
+section: 17
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Gourd Seed
-### Chapter 3357
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Gourd Seed
+
+### Chapter 3357
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Katcha!
 
 While Han Sen was checking out the gourd, he witnessed the gourd suddenly break. It was like the little gourd was a lamp that fell from the gourd vine.

@@ -1,21 +1,20 @@
 ---
-Title:Dead Man’s Arrow 
-Chapter:947 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Dead Man’s Arrow
+chapter: 947
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Dead Man’s Arrow
-### Chapter 947
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Dead Man’s Arrow
+
+### Chapter 947
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 "My Baron, do you wish me to rid the field of that human?" the royal spirit Dragon Demon asked.
 
 In response, Thorn Baron said, "Yes. Do it at once; quick and clean. We have wasted far too much time as it is."

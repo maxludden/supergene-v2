@@ -1,21 +1,20 @@
 ---
-Title:An Accident 
-Chapter:3223 
-Section:16 
-Book:10 
-CSS:../Styles/style.css 
+title: An Accident
+chapter: 3223
+section: 16
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## An Accident
-### Chapter 3223
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## An Accident
+
+### Chapter 3223
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Bury Path God’s power was incredibly strong. The whole of Dust God shook under the duress of his power. It felt like that power could bury the entire sky, ground, and space around No matter how strong his power was, he could not keep his knees away from the ground. Qin Xiu held Wan’er and went down to Bury Path God. Every step he took made the suppression power applied to Bury Path God seem even heavier.
 
 Patong!

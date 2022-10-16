@@ -1,21 +1,20 @@
 ---
-Title:Mystery Island 
-Chapter:208 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: Mystery Island
+chapter: 208
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Mystery Island
-### Chapter 208
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Mystery Island
+
+### Chapter 208
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 When night falls, by the glistening pond and under a willow tree, a young couple were standing together.
 
 "Close your eyes."

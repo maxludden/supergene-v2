@@ -1,21 +1,20 @@
 ---
-Title:Killing the Gold Bird 
-Chapter:1047 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Killing the Gold Bird
+chapter: 1047
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Killing the Gold Bird
-### Chapter 1047
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Killing the Gold Bird
+
+### Chapter 1047
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The fire of the fallen king had been almost wholly extinguished. A few short puffs of fire rose from its beak, but that was the extent of its capabilities. Its lava-like blood had solidified, and the bottom half of its body was ravaged to smoldering cinders.
 
 Han Sen drew his Phoenix Sword and delivered another strike to its exposed throat, making it gargle in pain as it helplessly drowned on its own blood.

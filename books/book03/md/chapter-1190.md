@@ -1,21 +1,20 @@
 ---
-Title:Asura Betrayal 
-Chapter:1190 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Asura Betrayal
+chapter: 1190
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Asura Betrayal
-### Chapter 1190
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Asura Betrayal
+
+### Chapter 1190
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 While Han Sen was flying back, someone called out his name. When he turned around to take a look, he saw an eight-year-old child squirming and writhing around on the ground as if in pain.
 
 “Baby Ghost?” Han Sen was surprised to see him there.

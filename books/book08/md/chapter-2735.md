@@ -1,21 +1,20 @@
 ---
-Title:Star Explode 
-Chapter:2735 
-Section:13 
-Book:8 
-CSS:../Styles/style.css 
+title: Star Explode
+chapter: 2735
+section: 13
+book: 8
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Star Explode
-### Chapter 2735
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Star Explode
+
+### Chapter 2735
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Now that he was back in the valley, Shale was his opponent once again. But things were different this time. Han Sen had changed a lot since their first fight; he had become deified.
 
 Shale wasn’t the same person Han Sen had fought the first time, either. He had learned many more geno arts in the interim. Although there were still flaws in his execution of certain skills, he was stronger than he had been.

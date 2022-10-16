@@ -1,21 +1,20 @@
 ---
-Title:Seckill 
-Chapter:85 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: Seckill
+chapter: 85
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Seckill
-### Chapter 85
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Seckill
+
+### Chapter 85
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 But soon, Liu Hongtao’s smile disappeared.
 
 The moment the martial stele lit up, Dollar summoned the bloody slayer and ran toward the ape called Luo like a hurricane, a golden spear in his hand.

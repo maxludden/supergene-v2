@@ -1,21 +1,20 @@
 ---
-Title:Killing Giant Demon 
-Chapter:2099 
-Section:8 
-Book:6 
-CSS:../Styles/style.css 
+title: Killing Giant Demon
+chapter: 2099
+section: 8
+book: 6
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Killing Giant Demon
-### Chapter 2099
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Killing Giant Demon
+
+### Chapter 2099
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “How is he moving so fast?” Kahn exclaimed, but it was too late. Han Sen had already caught up to him via the red cloud.
 
 Kahn put away the Blood Demon Spear, and his eyes started to turn purple. The purple horn on his head burned like red steel, releasing a purple light.

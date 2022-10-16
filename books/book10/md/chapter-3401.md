@@ -1,21 +1,20 @@
 ---
-Title:Being Challenged 
-Chapter:3401 
-Section:17 
-Book:10 
-CSS:../Styles/style.css 
+title: Being Challenged
+chapter: 3401
+section: 17
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Being Challenged
-### Chapter 3401
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Being Challenged
+
+### Chapter 3401
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “It should be fine, I suppose.” Han Sen was not completely certain.
 
 If this was just his idea, he would have used the sky clock to turn the statue back into its former shape. Now, the geno tablet was living inside the sky clock. In its current state, the sky clock could not do things just because Han Sen willed it.

@@ -1,21 +1,20 @@
 ---
-Title:Holy Light Salamander 
-Chapter:3078 
-Section:16 
-Book:10 
-CSS:../Styles/style.css 
+title: Holy Light Salamander
+chapter: 3078
+section: 16
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Holy Light Salamander
-### Chapter 3078
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Holy Light Salamander
+
+### Chapter 3078
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen felt quite tempted after hearing that. “What is that gene race called?”
 
 Jian Bu Gu thought about it and said, “I remember it was called a pure light salamander. It is a gene race that only appears next to the Holy Light River. It is a born king-class race, but most of its powers are not strong. Even a duke-class gene race can easily consume it, but it is very good at sensing gene races. Before gene races get close to it, it starts to run. It can be very difficult to catch, and the gene eggs of pure light salamanders are extremely rare. As far as I know, Jade Wall City only has five pure light salamanders. Three of those belong to the palace. It will be very difficult to claim a pure light salamander egg.”

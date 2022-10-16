@@ -1,21 +1,20 @@
 ---
-Title:The Army Comes 
-Chapter:1669 
-Section:4 
-Book:4 
-CSS:../Styles/style.css 
+title: The Army Comes
+chapter: 1669
+section: 4
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## The Army Comes
-### Chapter 1669
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## The Army Comes
+
+### Chapter 1669
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 After Han Sen returned to the shelter, he asked the Armored Man more about what happened.
 
 Armored Man was very angry, and he had no way of releasing his rage. He started ranting, and Han Sen understood what had happened.

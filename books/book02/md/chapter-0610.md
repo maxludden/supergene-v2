@@ -1,21 +1,20 @@
 ---
-Title:Blood Crystal Lotus Seeds 
-Chapter:610 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Blood Crystal Lotus Seeds
+chapter: 610
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Blood Crystal Lotus Seeds
-### Chapter 610
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Blood Crystal Lotus Seeds
+
+### Chapter 610
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The creatures on the island were no longer intent on fighting each other. They each exerted all the strength they had in running up the hill to grab the seeds before the others could. The peacock was the closest, and with its boon of flight, spared no time in soaring there.
 
 Although Han Sen really wanted to grab the lotus, he was slowed down by his need to prevent the silver fox from going out on its own. He missed his chance and was too late.

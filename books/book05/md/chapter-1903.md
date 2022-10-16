@@ -1,21 +1,20 @@
 ---
-Title:It Is Not Bad 
-Chapter:1903 
-Section:7 
-Book:5 
-CSS:../Styles/style.css 
+title: It Is Not Bad
+chapter: 1903
+section: 7
+book: 5
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## It Is Not Bad
-### Chapter 1903
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## It Is Not Bad
+
+### Chapter 1903
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 When Han Sen returned to his seat, everyone looked at him differently. Now, people were looking at him as if he was a monster.
 
 Han Sen was not in a good mood. He had only wanted to show off Ancient Devil’s mind a little bit, but that display had obviously gone off the rails. He wondered what the Kings of Narrow Moon might be thinking of him now; Yisha in particular.

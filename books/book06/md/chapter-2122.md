@@ -1,21 +1,20 @@
 ---
-Title:Sacred’s Power 
-Chapter:2122 
-Section:8 
-Book:6 
-CSS:../Styles/style.css 
+title: Sacred’s Power
+chapter: 2122
+section: 8
+book: 6
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Sacred’s Power
-### Chapter 2122
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Sacred’s Power
+
+### Chapter 2122
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Littleflower and the white tiger were engaged in a lengthy battle, and it was incredibly difficult to determine who the victor would be. But after a while, Han Littleflower suddenly stopped moving. His legs became very still, and he placed his hands against each other.
 
 “Hm, a great opportunity has opened!” the white tiger shouted, as it flashed behind Han Littleflower’s back. Its claws were raised and ready to fall upon the boy’s head, looking like sharp white talons. They were as frightening as any weapon.

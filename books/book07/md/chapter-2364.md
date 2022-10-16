@@ -1,21 +1,20 @@
 ---
-Title:King Air Gene 
-Chapter:2364 
-Section:11 
-Book:7 
-CSS:../Styles/style.css 
+title: King Air Gene
+chapter: 2364
+section: 11
+book: 7
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## King Air Gene
-### Chapter 2364
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## King Air Gene
+
+### Chapter 2364
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “Bai Yi…” Prince Swordstar shouted. He sounded as if he was about to eat someone.
 
 Katcha!

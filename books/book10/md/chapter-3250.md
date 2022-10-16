@@ -1,21 +1,20 @@
 ---
-Title:Betrayal 
-Chapter:3250 
-Section:16 
-Book:10 
-CSS:../Styles/style.css 
+title: Betrayal
+chapter: 3250
+section: 16
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Betrayal
-### Chapter 3250
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Betrayal
+
+### Chapter 3250
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 After eating, Tian Jing and the others were going to continue their journey. She said to Han Sen, “We will have to go our separate ways now. If we meet again further down the road, do not hate us for behaving impolitely.”
 
 “Fine. We will go our own way here,” Han Sen said with a nod as he exited the ice cave.

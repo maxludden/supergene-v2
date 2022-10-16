@@ -1,21 +1,20 @@
 ---
-Title:Big Explosion 
-Chapter:3289 
-Section:16 
-Book:10 
-CSS:../Styles/style.css 
+title: Big Explosion
+chapter: 3289
+section: 16
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Big Explosion
-### Chapter 3289
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Big Explosion
+
+### Chapter 3289
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Zhao Qiu Yi and Zhao Ning’er watched Han Sen explode with light. The light expelled was so bright that they could not even open their eyes. There was just bright light. Nothing else could be seen.
 
 After the light dimmed, Han Sen’s body vanished. All that was left in the cave were the items Han Sen had thrown around.

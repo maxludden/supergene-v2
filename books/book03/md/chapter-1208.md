@@ -1,21 +1,20 @@
 ---
-Title:Violent Father and Daughter 
-Chapter:1208 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Violent Father and Daughter
+chapter: 1208
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Violent Father and Daughter
-### Chapter 1208
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Violent Father and Daughter
+
+### Chapter 1208
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen felt as if the Phoenix Sword had come down on rubber. It was a deep strike, but the sword eventually gave in to the cushion and bounced backwards. And with the force Han Sen had put into that strike, it made him fall back more than a few steps.
 
 Han Sen pulled out Taia this time and tried to deliver a number of smaller strikes instead. He unleashed a flurry of manic hits, not willing to give the ball a single moment of reprieve.

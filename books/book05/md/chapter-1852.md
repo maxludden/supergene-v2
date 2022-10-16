@@ -1,21 +1,20 @@
 ---
-Title:Raven 
-Chapter:1852 
-Section:7 
-Book:5 
-CSS:../Styles/style.css 
+title: Raven
+chapter: 1852
+section: 7
+book: 5
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Raven
-### Chapter 1852
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Raven
+
+### Chapter 1852
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen was shocked. Other than the strange solar system within, the purple-bronze palace was empty. Countless moons orbited a sun, and they looked like they had been there for a long time.
 
 The Baron that opened the door stood where he was, as Captain Wood excitedly moved forward to push him out of the way. He walked forward, and the four Marquise followed.

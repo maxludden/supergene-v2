@@ -1,21 +1,20 @@
 ---
-Title:The Excavated Flower God 
-Chapter:2780 
-Section:14 
-Book:9 
-CSS:../Styles/style.css 
+title: The Excavated Flower God
+chapter: 2780
+section: 14
+book: 9
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## The Excavated Flower God
-### Chapter 2780
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## The Excavated Flower God
+
+### Chapter 2780
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The group of elites had all reached the Space Garden via the Flower God’s battleship. They weren’t aware of the route they took to get there or even how they had made it through the border of the xenogeneic space. Because of that, they still didn’t know if entry to the Space Garden required some special password or technique. So, even if they took down the Space Garden now, there was no point in doing so if they wouldn’t be able to find or enter it again. As a result, no one tried anything suspicious or hostile.
 
 Based on what Violet had said, it seemed that something special was required to enter the Space Garden. And that made everyone think.

@@ -1,21 +1,20 @@
 ---
-Title:Shadow 
-Chapter:1497 
-Section:4 
-Book:4 
-CSS:../Styles/style.css 
+title: Shadow
+chapter: 1497
+section: 4
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Shadow
-### Chapter 1497
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Shadow
+
+### Chapter 1497
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “Old Han, how are you doing lately?” At the docking station of Planet Gunat, Tang Zhenliu welcomed Han Sen and Ji Yanran. Then, he took them to visit the kindergarten.
 
 “I’m doing fine, what with the steady acceleration of strength, money, and handsomeness. I have a son now, too. Nothing else special, really,” Han Sen said.

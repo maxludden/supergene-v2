@@ -1,21 +1,20 @@
 ---
-Title:Warehouse 
-Chapter:2156 
-Section:8 
-Book:6 
-CSS:../Styles/style.css 
+title: Warehouse
+chapter: 2156
+section: 8
+book: 6
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Warehouse
-### Chapter 2156
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Warehouse
+
+### Chapter 2156
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Beneath the pit, there was a space that was reminiscent of a warehouse. Inside that space, Han Sen saw many giant metal cubes sitting in lines. They looked like storage containers, but they were bigger than the sort of boxes you’d expect to find in a warehouse.
 
 When Han Sen got closer, he realized that each cube was covered in giant handprints. He had seen one of these metallic cubes before in Narrow-Moon; the blue metal cube the Rebate had retrieved from the Ligu Ruins looked just like the boxes he was seeing now.
@@ -74,4 +73,4 @@ Han Sen had to fly up to see what was written on them. The six books were named 
 
 Han Sen was interested in a Breakskies geno art. He started reading over it, and he was able to determine that it was a fairly violent technique. It employed an impact upon a gene’s substance to create an explosion. Every hit was able to create an explosion that was stronger than the initial impact.
 
-From what he could tell, though, the geno art was way too dangerous. The explosions would harm everyone, even the user, so you could blow yourself up if you weren’t careful. That was too f*cking cruel.
+From what he could tell, though, the geno art was way too dangerous. The explosions would harm everyone, even the user, so you could blow yourself up if you weren’t careful. That was too fucking cruel.

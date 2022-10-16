@@ -1,21 +1,20 @@
 ---
-Title:Ighting for a Blood-pulse 
-Chapter:3125 
-Section:16 
-Book:10 
-CSS:../Styles/style.css 
+title: Ighting for a Blood-pulse
+chapter: 3125
+section: 16
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Ighting for a Blood-pulse
-### Chapter 3125
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Ighting for a Blood-pulse
+
+### Chapter 3125
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Aside from the knights guarding outside the planet, the misters and gene casters that had ventured onto the planet were all dead. It was very scary. The other Sky Wing Knights were starting to flee. Bald Guy, Han Sen, and Li Bing Yu were completely shocked. That planet had become weird and brutal. The many powerful gene casters on it could have teleported away in under a second, yet they had been unable to escape the vines ensnaring them. Once they were pulled into the lava, no matter how strong the gene casters were, they all ended up dead.
 
 “God Spirit Blood-Pulse… That planet must contain a God Spirit Blood – Pulse…” Bald Guy looked at the planet that now shone like a sun.

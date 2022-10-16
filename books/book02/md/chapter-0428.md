@@ -1,21 +1,20 @@
 ---
-Title:Killer Kicks 
-Chapter:428 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Killer Kicks
+chapter: 428
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Killer Kicks
-### Chapter 428
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Killer Kicks
+
+### Chapter 428
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 It so happened that the young man in the line next to them had also come to the window. He walked up, raised his voice on, and said to the staff, "I am here to be certified as a mutant evolver."
 
 After that, the young man glanced at Han Sen provocatively, as if he were saying, I am a mutant evolver and what are you?

@@ -1,21 +1,20 @@
 ---
-Title:Let’s Go 
-Chapter:1322 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Let’s Go
+chapter: 1322
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Let’s Go
-### Chapter 1322
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Let’s Go
+
+### Chapter 1322
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The three-eyed spirit observed Han Sen closely now, paying more attention to him than anyone else. And as he watched him intently, the young man turned around and smiled. This gave him a shock.
 
 “He knows we are here?” the three-eyed spirit gasped in surprise.

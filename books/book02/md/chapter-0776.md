@@ -1,21 +1,20 @@
 ---
-Title:Depressed Lin Beifeng 
-Chapter:776 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Depressed Lin Beifeng
+chapter: 776
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Depressed Lin Beifeng
-### Chapter 776
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Depressed Lin Beifeng
+
+### Chapter 776
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 "Lin Beifeng?" Han Sen turned around with surprise. It had been a while since he had last seen him, and he did not expect to see him here in the Second God's Sanctuary.
 
 "This is a fate-wrought meet, undoubtedly." Lin Beifeng ran over to Han Sen, grabbed his hands, and almost began bawling his eyes out.

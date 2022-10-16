@@ -1,21 +1,20 @@
 ---
-Title:The Real Traitor 
-Chapter:2184 
-Section:9 
-Book:6 
-CSS:../Styles/style.css 
+title: The Real Traitor
+chapter: 2184
+section: 9
+book: 6
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## The Real Traitor
-### Chapter 2184
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## The Real Traitor
+
+### Chapter 2184
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Everyone’s attention was drawn to the shout; even Han Sen’s. The voice had come from Toxic Dragon Old Six. He was flecked with blood, and a black shape had been seared into his chest that looked like a woman’s hand.
 
 The handprint had burned through Toxic Dragon Old Six’s dragon scales, branding his chest with its black mark.
@@ -90,11 +89,11 @@ When the Very High mark appeared, bad things tended to follow. This had happened
 
 Dia Robber and his followers searched the mountains up and down, and eventually, they found the fake Dragon Six and engaged him.
 
-“Are you guys blind? Why would I be the traitor? Don’t you know that the fox race is only comprised of women? They become weaker if they turn into males. Do I look like a f*cking woman?” Toxic Dragon Old Six shouted as he fought back.
+“Are you guys blind? Why would I be the traitor? Don’t you know that the fox race is only comprised of women? They become weaker if they turn into males. Do I look like a fucking woman?” Toxic Dragon Old Six shouted as he fought back.
 
 Dia Robber saw that the man’s Toxic Dragon Evilbreaker powers were real. As he fought, he asked, “What are you doing, then? Why are you running if you aren’t the traitor?”
 
-“I’m not running! I’m f*cking injured, and I’m looking for a place to heal!” Toxic Dragon Old Six shouted angrily.
+“I’m not running! I’m fucking injured, and I’m looking for a place to heal!” Toxic Dragon Old Six shouted angrily.
 
 “You say you are Toxic Dragon Old Six, yes? How can you prove your identity?” Kahn asked. Something seemed wrong about this whole situation.
 

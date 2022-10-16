@@ -1,21 +1,20 @@
 ---
-Title:God’s Power 
-Chapter:2783 
-Section:14 
-Book:9 
-CSS:../Styles/style.css 
+title: God’s Power
+chapter: 2783
+section: 14
+book: 9
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## God’s Power
-### Chapter 2783
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## God’s Power
+
+### Chapter 2783
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “I need the genes of other creatures to keep myself from turning into a god.” Violet turned to look at the giant jade god. His eyes looked very sincere as he spoke.
 
 Xie Qing King laughed out loud. He lifted his lips and said, “You make it sound so good. I think you need the genes of other creatures to avoid turning into a vegetable.”

@@ -1,21 +1,20 @@
 ---
-Title:Blue Blood 
-Chapter:1270 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Blue Blood
+chapter: 1270
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Blue Blood
-### Chapter 1270
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Blue Blood
+
+### Chapter 1270
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen saw the man was nearing the top of the mountain. He was very close to the vine now, and Han Sen was eager to see just how the man expected to retrieve the fruit.
 
 The rockclimber was within arm’s reach of the vine, and he reached his hand out to grab it.

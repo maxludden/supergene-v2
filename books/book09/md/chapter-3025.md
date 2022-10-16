@@ -1,21 +1,20 @@
 ---
-Title:So Many Crimes and No Regret 
-Chapter:3025 
-Section:15 
-Book:9 
-CSS:../Styles/style.css 
+title: So Many Crimes and No Regret
+chapter: 3025
+section: 15
+book: 9
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## So Many Crimes and No Regret
-### Chapter 3025
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## So Many Crimes and No Regret
+
+### Chapter 3025
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Lone Bamboo drew his sword. He was going into the sky.
 
 There was a sudden movement in space. A powerful bai sema trapped the area. Lone Bamboo tried slashing the bai sema. Since there were light shadows, the strike was unable to break the barrier.

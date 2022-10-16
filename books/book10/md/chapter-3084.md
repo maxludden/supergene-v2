@@ -1,21 +1,20 @@
 ---
-Title:Sacrifice 
-Chapter:3084 
-Section:16 
-Book:10 
-CSS:../Styles/style.css 
+title: Sacrifice
+chapter: 3084
+section: 16
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Sacrifice
-### Chapter 3084
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Sacrifice
+
+### Chapter 3084
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen did not have land-pulse skills. He also did not know what a Sea Dragon Woman was. Neither he nor Bald Guy knew what a blood dragon flying into the sky weird scene was. Still, Han Sen’s will was extremely strong. Although he was suppressed by the rules of the world, if something very bad was going to happen to him, he still felt a sense of worry. If something made Han Sen tremble, it meant something extremely bad was going to happen. Otherwise, nothing would have touched his heart.
 
 Han Sen looked at the hole and said to Bald Guy, “Bald Guy, stop digging.”

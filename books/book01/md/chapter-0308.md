@@ -1,21 +1,20 @@
 ---
-Title:Who Is He 
-Chapter:308 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: Who Is He
+chapter: 308
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Who Is He
-### Chapter 308
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Who Is He
+
+### Chapter 308
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 "Diversion! Impossible…" Huang Yulei's pupils contracted as he saw Xu Zhu's arm broken at a flick of Han Sen's wrist.
 
 Xu Zhu was shocked as well. He did not expect his opponent could really use Diversion well.

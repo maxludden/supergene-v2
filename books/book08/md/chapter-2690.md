@@ -1,21 +1,20 @@
 ---
-Title:Scary Primitive Deified Xenogeneic 
-Chapter:2690 
-Section:13 
-Book:8 
-CSS:../Styles/style.css 
+title: Scary Primitive Deified Xenogeneic
+chapter: 2690
+section: 13
+book: 8
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Scary Primitive Deified Xenogeneic
-### Chapter 2690
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Scary Primitive Deified Xenogeneic
+
+### Chapter 2690
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Jail Demon Hall had been built for that xenogeneic. When Han Sen entered it, he couldn’t feel the restrictive effects.
 
 The hall’s architecture was incredibly strange. The floors of an ordinary hall were usually flat or subtly sloped as they led up toward a stage. Inside this hall, however, all four sides of the hall led down a series of broad steps to a ten-meter-long stone platform at the bottom.

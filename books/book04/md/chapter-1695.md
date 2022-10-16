@@ -1,21 +1,20 @@
 ---
-Title:The Awkward Encounter 
-Chapter:1695 
-Section:5 
-Book:4 
-CSS:../Styles/style.css 
+title: The Awkward Encounter
+chapter: 1695
+section: 5
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## The Awkward Encounter
-### Chapter 1695
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## The Awkward Encounter
+
+### Chapter 1695
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Since the teleporter he’d come out of was entirely random, there were too many possibilities. He could come out of a public teleporter, or even a private one.
 
 Han Sen donned his Death Armor Swordsman appearance before stepping inside, in case someone saw him come through and questioned how he had been able to do that. This was something not even he could explain.
@@ -94,7 +93,7 @@ Han Sen flew the beetle towards Planet Roca, where his family was.
 
 Huangfu Qingping was madly looking over the video that had been recorded, trying to learn who that person might have been. There were no cameras in the music hall, but the external cameras didn’t pick up anything about him conning in. They only saw him escape and get to space.
 
-Huangfu Qingping swore to find who that *sshole was. She searched tirelessly for the culprit, despite knowing that he had used a shapeshifting beast soul which hid everything about the person behind it.
+Huangfu Qingping swore to find who that asshole was. She searched tirelessly for the culprit, despite knowing that he had used a shapeshifting beast soul which hid everything about the person behind it.
 
 She did find something special, though. His right hand was strange. He may have had armor on, but his right hand was wearing a glove. It looked very weird.
 

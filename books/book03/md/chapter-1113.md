@@ -1,21 +1,20 @@
 ---
-Title:Hidden Blood 
-Chapter:1113 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Hidden Blood
+chapter: 1113
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Hidden Blood
-### Chapter 1113
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Hidden Blood
+
+### Chapter 1113
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen turned around to see a man approaching. It was his once-classmate Lu Meng, from the Blackhark Military Academy.
 
 “I am meeting with Professor Bai. Why are you here? I thought you became a Vice-Captain for Heavenly Machine.” Han Sen saw Lu Meng, dressed in a Saint Hall uniform.

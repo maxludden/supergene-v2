@@ -1,21 +1,20 @@
 ---
-Title:Mutant Sabertooth Bee 
-Chapter:971 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Mutant Sabertooth Bee
+chapter: 971
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Mutant Sabertooth Bee
-### Chapter 971
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Mutant Sabertooth Bee
+
+### Chapter 971
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “Hmm, so it is an ordinary creature.” Han Sen frowned even more.
 
 The Red-Eye Rabbits around him were all ordinary, which meant their boss could be no greater than primitive. But the thieving Red-Eye Rabbit Han Sen had first encountered had opened seven of its gene locks.
@@ -92,7 +91,7 @@ But then, Han Sen suddenly saw a white shadow emerge from the bushes. It wasted 
 
 “It’s you, you little shit!” Han Sen watched the rabbit king nibble on the bees he had hunted himself.
 
-“F*ck you! How dare you come back and steal my food again.” Han Sen was infuriated by the boorish, thieving critter. His phoenix fire was unable to break its shield, so this time, he fancied summoning his Dragon-Blood Snake. But before he did, he managed to stop himself.
+“Fuck you! How dare you come back and steal my food again.” Han Sen was infuriated by the boorish, thieving critter. His phoenix fire was unable to break its shield, so this time, he fancied summoning his Dragon-Blood Snake. But before he did, he managed to stop himself.
 
 He re-acknowledged the strength of the rabbit, and remembered that if the Dragon-Blood Snake was killed, it’d be a great loss for him.
 

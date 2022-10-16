@@ -1,21 +1,20 @@
 ---
-Title:The Name of Dollar 
-Chapter:1585 
-Section:4 
-Book:4 
-CSS:../Styles/style.css 
+title: The Name of Dollar
+chapter: 1585
+section: 4
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## The Name of Dollar
-### Chapter 1585
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## The Name of Dollar
+
+### Chapter 1585
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 *Boom!*
 
 Amidst the angry roaring, Destroyer Wolf’s head fell to the ground. No matter how loudly it roared, it could not move.

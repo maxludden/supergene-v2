@@ -1,21 +1,20 @@
 ---
-Title:Xenogeneic Chase 
-Chapter:2398 
-Section:11 
-Book:7 
-CSS:../Styles/style.css 
+title: Xenogeneic Chase
+chapter: 2398
+section: 11
+book: 7
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Xenogeneic Chase
-### Chapter 2398
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Xenogeneic Chase
+
+### Chapter 2398
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen and the others fell back. They immediately expanded their King areas as they stared at the goose egg stone.
 
 Katcha… Katcha…
@@ -58,7 +57,7 @@ The weird bug attacked. Two of the Kings were too close to the creature to run, 
 
 The ground shook beneath Han Sen like a violent earthquake. He wanted to run, but after a few frantic steps, he came to a black hole in the ground. A King running next to Han Sen was swallowed by the insect as it launched itself up from that hole in the ground. The weird bug hung in the air for a moment, then turned and dove back under the earth.
 
-“F*ck you!” Dragon Eight screamed when he saw the insect eat one of the Dragons. It made him so angry that he used his giant gold dragon. He sent a punch toward the pit in the ground.
+“Fuck you!” Dragon Eight screamed when he saw the insect eat one of the Dragons. It made him so angry that he used his giant gold dragon. He sent a punch toward the pit in the ground.
 
 *Boom!*
 
@@ -90,7 +89,7 @@ Perhaps it was because Han Sen’s leg was leaving a trail of blood behind, but 
 
 “I cannot be this unlucky,” Han Sen thought, feeling sick. He hoped he was wrong, but when that bug burst out of the ground right next to him again, he knew that his hunch had been correct. The insect was after him, and him alone.
 
-“F*ck you!” Han Sen was slower than the weird bug, so he wouldn’t be able to dodge the bug again. He flew into the sky, his body releasing a white light. He was in super god spirit mode now, and he avoided the weird bug’s gnashing teeth as he flew higher and higher.
+“Fuck you!” Han Sen was slower than the weird bug, so he wouldn’t be able to dodge the bug again. He flew into the sky, his body releasing a white light. He was in super god spirit mode now, and he avoided the weird bug’s gnashing teeth as he flew higher and higher.
 
 The bug didn’t seem to have any ranged attacks aside from its King area, so Han Sen focused on flying as far away as he could. But just as he thought he was about to leave the area, he heard a buzzing sound.
 

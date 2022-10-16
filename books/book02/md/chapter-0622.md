@@ -1,21 +1,20 @@
 ---
-Title:The Bone of the Mountain Guardian 
-Chapter:622 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: The Bone of the Mountain Guardian
+chapter: 622
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## The Bone of the Mountain Guardian
-### Chapter 622
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## The Bone of the Mountain Guardian
+
+### Chapter 622
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Dong! Dong! Dong!
 
 A lance fell, a sword dropped, and a dagger broke.

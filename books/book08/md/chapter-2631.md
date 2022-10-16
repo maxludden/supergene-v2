@@ -1,21 +1,20 @@
 ---
-Title:Random Punch 
-Chapter:2631 
-Section:12 
-Book:8 
-CSS:../Styles/style.css 
+title: Random Punch
+chapter: 2631
+section: 12
+book: 8
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Random Punch
-### Chapter 2631
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Random Punch
+
+### Chapter 2631
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “I am the greatest of my level.” Suddenly, everyone felt very differently about the words that Han Sen had just spoken.
 
 Exquisite’s body hit the ground with a thump. When she rose to her feet, she did so like a shambling zombie. Her bloody face and broken nose had instantly returned to normal. She was as pretty as she had been before Han Sen’s punch, and it didn’t look as if she had sustained any injuries.
@@ -28,7 +27,7 @@ Yu Shanxin of Sky Palace was one such individual. He could move that quickly, bu
 
 “That wasn’t a geno art. It was just a simple punch.” Han Sen smiled.
 
-“Son of a b*tch. I am now buying into Han Sen’s bluffing.”
+“Son of a bitch. I am now buying into Han Sen’s bluffing.”
 
 “Haha! A random punch. Well said, Brother Han.”
 

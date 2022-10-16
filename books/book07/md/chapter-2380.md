@@ -1,21 +1,20 @@
 ---
-Title:Climbing Rot Bone Mountain 
-Chapter:2380 
-Section:11 
-Book:7 
-CSS:../Styles/style.css 
+title: Climbing Rot Bone Mountain
+chapter: 2380
+section: 11
+book: 7
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Climbing Rot Bone Mountain
-### Chapter 2380
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Climbing Rot Bone Mountain
+
+### Chapter 2380
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The impact of Han Sen’s display continued to swell.
 
 Prince Sixteen’s introduction didn’t possess any Shocking Sky power or flashy techniques, but his words were like a rock falling into a lake. The splash and ripples were felt across every corner of King’s Kingdom. Everyone knew Prince Sixteen Bai Yi had been the catalyst for two massive events in their history, and so his reputation had become substantial.

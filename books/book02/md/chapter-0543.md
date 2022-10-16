@@ -1,21 +1,20 @@
 ---
-Title:Who Practiced the Wrong Thing? 
-Chapter:543 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Who Practiced the Wrong Thing?
+chapter: 543
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Who Practiced the Wrong Thing?
-### Chapter 543
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Who Practiced the Wrong Thing?
+
+### Chapter 543
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Xue Yi Yang's beast soul was a sacred-blood class beast soul from the Second Shelter. After his transformation, his speed and strength greatly increased.
 
 But, despite these improvements, they was clearly not enough for him to escape his predicament. If Han Sen's fist touched any part of his body, it would burst through and significantly damage his internal organs.

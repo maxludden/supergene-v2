@@ -1,21 +1,20 @@
 ---
-Title:Crimson Fruit 
-Chapter:1147 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Crimson Fruit
+chapter: 1147
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Crimson Fruit
-### Chapter 1147
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Crimson Fruit
+
+### Chapter 1147
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Even more creatures were joining the fray; a dozen insects, each a meter long, began to rise from the lake.
 
 The super creatures were bee-lining for Han Sen, that much was clear.

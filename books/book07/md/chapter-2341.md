@@ -1,21 +1,20 @@
 ---
-Title:The Secret of Kingese 
-Chapter:2341 
-Section:11 
-Book:7 
-CSS:../Styles/style.css 
+title: The Secret of Kingese
+chapter: 2341
+section: 11
+book: 7
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## The Secret of Kingese
-### Chapter 2341
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## The Secret of Kingese
+
+### Chapter 2341
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “Brother, don’t do this! I only wanted to collect two Kingese. No, actually. Just one would have been fine. Can we stick to doing just that?” Han Sen felt his delicate nerves couldn’t endure this torture anymore.
 
 This was testing the very functioning of his heart.
@@ -82,7 +81,7 @@ Even the Ghost Bone Power inside Han Sen’s body had been crushed and refined. 
 
 The progress of The Story of Genes had previously been so slow, but now, it was welling up at mind-boggling speed. It kept breaking through, heading to the furthest point of a Duke.
 
-“If this is related to The Story of Genes, what the f*ck is happening?” Han Sen was as shocked as he was happy.
+“If this is related to The Story of Genes, what the fuck is happening?” Han Sen was as shocked as he was happy.
 
 He was pleased that The Story of Genes was reaching Duke class, even if he was uncertain how it was progressing so quickly. It was all happening inside his body, and ordinary folk wouldn’t be able to see that. But there were too many elites in the Extreme King. He couldn’t be certain that no one else would witness the changes occurring in his body.
 
@@ -90,7 +89,7 @@ Han Sen tried his best to stop The Story of Genes from being cast. He wanted to 
 
 But it was pointless to even try. As the Kingese kept running into him, The Story of Genes couldn’t be stopped. They kept diving into him like sports cars losing control on the highway.
 
-“F*ck you! If you can’t stop, then push it!” Han Sen decided. He gritted his teeth and cast The Story of Genes. It was sending him to the far reaches of Duke class.
+“Fuck you! If you can’t stop, then push it!” Han Sen decided. He gritted his teeth and cast The Story of Genes. It was sending him to the far reaches of Duke class.
 
 The Kingese were so strong. If Han Sen didn’t spend the power that the Kingese were giving him to level up The Story of Genes, the power would blow up his body.
 

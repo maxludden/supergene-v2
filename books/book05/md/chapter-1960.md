@@ -1,21 +1,20 @@
 ---
-Title:Starsea Beast Evolves 
-Chapter:1960 
-Section:7 
-Book:5 
-CSS:../Styles/style.css 
+title: Starsea Beast Evolves
+chapter: 1960
+section: 7
+book: 5
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Starsea Beast Evolves
-### Chapter 1960
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Starsea Beast Evolves
+
+### Chapter 1960
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Little Star was so happy, and it wagged its tail. It stuck out its tongue and consumed one whole piece of Galaxy Sand. It didn’t even chew the thing before gulping it down.
 
 “People might think you were a pig. You should at least try to taste it.” Han Sen looked depressed.

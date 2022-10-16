@@ -1,21 +1,20 @@
 ---
-Title:Blue Mountain 
-Chapter:721 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Blue Mountain
+chapter: 721
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Blue Mountain
-### Chapter 721
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Blue Mountain
+
+### Chapter 721
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen successfully drew away the flying centipede, and it went back to chasing him through the forest.
 
 Many trees were toppled in its rampage, and many of the forest's other creatures were promptly evicted. Those that could fly soared away in fright, whereas others fled as quickly as they could on foot. Every other creature in the forest seemed terrified of the centipede.

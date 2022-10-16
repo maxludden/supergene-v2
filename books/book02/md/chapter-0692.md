@@ -1,21 +1,20 @@
 ---
-Title:Absorbing the Life Geno Essence 
-Chapter:692 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Absorbing the Life Geno Essence
+chapter: 692
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Absorbing the Life Geno Essence
-### Chapter 692
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Absorbing the Life Geno Essence
+
+### Chapter 692
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen tried simulating the Saint-Bone Elephant's flow. Suddenly, he felt his pulse consist of a hundred elephant cries. An infinite cosmos of power brewed inside his body, filling his entirety like a mad flood. It was much stronger than before, when the gene lock hadn't been broken.
 
 Han Sen picked up the bone elephant's essence. Under the strong energy flow of the bone elephant, the Life Geno essence vibrated in his hand. It suddenly flew out of his grasp and assimilated with his body. The essence melted into his body and he didn't even need to eat it. The Life Geno essence simply entered, blending into his person.

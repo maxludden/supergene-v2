@@ -1,21 +1,20 @@
 ---
-Title:Coming Back 
-Chapter:1701 
-Section:5 
-Book:4 
-CSS:../Styles/style.css 
+title: Coming Back
+chapter: 1701
+section: 5
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Coming Back
-### Chapter 1701
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Coming Back
+
+### Chapter 1701
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Stay Up Late looked at the officer sadly. Without moving an inch, he said, “Officer, it was you who taught me to never fall back. It was you who taught me to always do my job. I will never forget that”
 
 The officer moved his eyes and then stopped. He responded by saying, “If you must be like this, then excuse my cruel deeds.”

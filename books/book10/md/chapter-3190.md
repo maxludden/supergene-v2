@@ -1,21 +1,20 @@
 ---
-Title:Guessing 
-Chapter:3190 
-Section:16 
-Book:10 
-CSS:../Styles/style.css 
+title: Guessing
+chapter: 3190
+section: 16
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Guessing
-### Chapter 3190
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Guessing
+
+### Chapter 3190
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen and Bao’er went to the Feng family castle. The dragon maid followed them from behind. She knew she would be unable to fight them, but her resolve had not been completely dissolved.
 
 Han Sen was a bit worried. Instead of chasing the dragon maid away, he had allowed her to come back to the Feng family castle.

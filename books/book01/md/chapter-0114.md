@@ -1,21 +1,20 @@
 ---
-Title:The Prize Is a Date 
-Chapter:114 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: The Prize Is a Date
+chapter: 114
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## The Prize Is a Date
-### Chapter 114
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## The Prize Is a Date
+
+### Chapter 114
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Long interstellar travel was very boring. Many people would choose to go to the gym or go on the Skynet to kill time.
 
 Although Han Sen’s destination Planet Hawk was not too far away, it would still take a few days.

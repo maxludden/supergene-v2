@@ -1,21 +1,20 @@
 ---
-Title:Fell Into the Trap 
-Chapter:2831 
-Section:14 
-Book:9 
-CSS:../Styles/style.css 
+title: Fell Into the Trap
+chapter: 2831
+section: 14
+book: 9
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Fell Into the Trap
-### Chapter 2831
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Fell Into the Trap
+
+### Chapter 2831
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 God looked at Han Sen, laughed, and said, "If you want to learn, I can teach you, as well."
 
 "It depends on how extreme this extreme level is," Han Sen calmly said. "I need to know if it is worth learning."

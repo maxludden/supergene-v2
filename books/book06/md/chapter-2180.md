@@ -1,21 +1,20 @@
 ---
-Title:Gathering Up in the Lobby 
-Chapter:2180 
-Section:9 
-Book:6 
-CSS:../Styles/style.css 
+title: Gathering Up in the Lobby
+chapter: 2180
+section: 9
+book: 6
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Gathering Up in the Lobby
-### Chapter 2180
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Gathering Up in the Lobby
+
+### Chapter 2180
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen raised his head and saw a Feather woman standing beside him. She had blue eyes and blonde hair. Her snow- white wings were very attractive, and the gorgeous curves of her body were difficult to look away from.
 
 Han Sen looked around and noticed that all the tables were taken. There weren’t many empty seats in the establishment.

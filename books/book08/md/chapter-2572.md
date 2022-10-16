@@ -1,21 +1,20 @@
 ---
-Title:Gene Potential 
-Chapter:2572 
-Section:12 
-Book:8 
-CSS:../Styles/style.css 
+title: Gene Potential
+chapter: 2572
+section: 12
+book: 8
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Gene Potential
-### Chapter 2572
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Gene Potential
+
+### Chapter 2572
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “Are you mistaken? Isn’t she one of the Sky? Why does it say she is one of the Very High?” Han Sen asked Glasses in his mind. He was trying to keep his surprise under wraps while he read through the rest of the report.
 
 “Target: Very High female. Gene Age Calculation: 23 years”

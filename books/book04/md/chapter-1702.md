@@ -1,21 +1,20 @@
 ---
-Title:Heart Eye 
-Chapter:1702 
-Section:5 
-Book:4 
-CSS:../Styles/style.css 
+title: Heart Eye
+chapter: 1702
+section: 5
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Heart Eye
-### Chapter 1702
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Heart Eye
+
+### Chapter 1702
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Pang!
 
 Han Sen used his dongxuan movements, thinking he could dodge the officer’s strikes. But he was hit, and he fell like a star. When he hit the earth, the impact created a big hole amidst the ruins and rubble.

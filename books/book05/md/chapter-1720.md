@@ -1,21 +1,20 @@
 ---
-Title:Baron Gene 
-Chapter:1720 
-Section:6 
-Book:5 
-CSS:../Styles/style.css 
+title: Baron Gene
+chapter: 1720
+section: 6
+book: 5
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Baron Gene
-### Chapter 1720
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Baron Gene
+
+### Chapter 1720
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “There was a problem generating my geno armor. This is a medicine that should help, and so I am heating it up,” Han Sen said.
 
 The Kate men nodded and no longer seemed interested.

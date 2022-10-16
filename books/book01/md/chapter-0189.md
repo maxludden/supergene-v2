@@ -1,21 +1,20 @@
 ---
-Title:Sacred-blood Ghost Butterfly 
-Chapter:189 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: Sacred-blood Ghost Butterfly
+chapter: 189
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Sacred-blood Ghost Butterfly
-### Chapter 189
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Sacred-blood Ghost Butterfly
+
+### Chapter 189
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen was startled and quickly dodged the boomerang. The boomerang’s sharp edge cut into the rock behind him and burst into blue flames.
 
 "Shit!" Han Sen was stunned by the power of a primitive ghost butterfly boomerang. If he could get a mutant one, it would probably even be a great threat to sacred-blood creatures.

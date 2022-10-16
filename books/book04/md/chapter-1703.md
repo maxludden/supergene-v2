@@ -1,21 +1,20 @@
 ---
-Title:A Sword You Cannot Block 
-Chapter:1703 
-Section:5 
-Book:4 
-CSS:../Styles/style.css 
+title: A Sword You Cannot Block
+chapter: 1703
+section: 5
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## A Sword You Cannot Block
-### Chapter 1703
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## A Sword You Cannot Block
+
+### Chapter 1703
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The crystal armor on Ji Yanran became the crystal shoes again. They started running towards Han Sen. Without the crystal shoes, though, Ji Yanran started to fall from the sky. She wasn’t strong enough to participate in the fight in her ordinary condition.
 
 Zach, seeing the crystal shoes leave, raced over to Ji Yanran with the express desire of killing her.

@@ -1,21 +1,20 @@
 ---
-Title:The Purple Copper Jian That Cannot Be Gotten Rid of 
-Chapter:2588 
-Section:12 
-Book:8 
-CSS:../Styles/style.css 
+title: The Purple Copper Jian That Cannot Be Gotten Rid of
+chapter: 2588
+section: 12
+book: 8
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## The Purple Copper Jian That Cannot Be Gotten Rid of
-### Chapter 2588
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## The Purple Copper Jian That Cannot Be Gotten Rid of
+
+### Chapter 2588
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 1
 
 “This must be happening because of the jian.” Han Sen gritted his teeth, but no matter how long he spent trying to find out what the precise problem was, he couldn’t figure it out. That made Han Sen feel very unsettled.
@@ -70,7 +69,7 @@ It was too late to think of that now, though. When they saw Han Sen, Gu Qingchen
 
 Han Sen didn’t speak the language of beasts, but he could tell it was laughing.
 
-“F*ck you. Tell me now, what is this? Tell me how to get rid of it. If you don’t, I’ll skin you alive,” Han Sen threatened the white tiger, grabbing it angrily.
+“Fuck you. Tell me now, what is this? Tell me how to get rid of it. If you don’t, I’ll skin you alive,” Han Sen threatened the white tiger, grabbing it angrily.
 
 The white tiger mewed a little, but Han Sen didn’t understand what it was trying to tell him. When Han Sen let the creature go, it hurriedly disappeared amidst the rocks.
 

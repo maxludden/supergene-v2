@@ -1,21 +1,20 @@
 ---
-Title:Lucky Dude 
-Chapter:59 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: Lucky Dude
+chapter: 59
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Lucky Dude
-### Chapter 59
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Lucky Dude
+
+### Chapter 59
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 "Your aunt is outrageous," Zhang Danfeng was upset.
 
 "It does not matter. They are strangers to me," said Han Sen casually. He then asked curiously, "Who is this Lin Beifeng she was talking about?"

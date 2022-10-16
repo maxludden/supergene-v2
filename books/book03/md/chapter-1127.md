@@ -1,21 +1,20 @@
 ---
-Title:A Man Who Wants to Die 
-Chapter:1127 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: A Man Who Wants to Die
+chapter: 1127
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## A Man Who Wants to Die
-### Chapter 1127
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## A Man Who Wants to Die
+
+### Chapter 1127
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 When Han Sen saw what emerged from the sack, his body flared with goosebumps and his head got all itchy.
 
 The person that emerged from the bag was a man who was very skinny and seemed to be around thirty years of age.

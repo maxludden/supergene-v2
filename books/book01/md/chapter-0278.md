@@ -1,21 +1,20 @@
 ---
-Title:Real Purpose 
-Chapter:278 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: Real Purpose
+chapter: 278
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Real Purpose
-### Chapter 278
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Real Purpose
+
+### Chapter 278
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 "200 million is fine. However, it is impossible for me to bring so much money to God's Sanctuary. I can write you a promissory note and the Starry Group will pay you in the Alliance." After calming down, Xu Ruyan had a strong desire to kill Han Sen.
 
 It did not matter how many promissory notes she wrote Han Sen at this point, because the rescue team from the Starry Group would not let Han Sen live.

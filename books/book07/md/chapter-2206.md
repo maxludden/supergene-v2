@@ -1,21 +1,20 @@
 ---
-Title:Faking the Test 
-Chapter:2206 
-Section:10 
-Book:7 
-CSS:../Styles/style.css 
+title: Faking the Test
+chapter: 2206
+section: 10
+book: 7
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Faking the Test
-### Chapter 2206
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Faking the Test
+
+### Chapter 2206
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Over the past few centuries, the Extreme King had put much of their focus on the systems of chaos. The Ice Blue Knights were pioneers, and their primary killing fields were those dangerous systems. They knew little about matters concerning other places in the universe. Because of this, they were unaware of who Han Sen was.
 
 The Extreme King did have an information gathering department, so they did know a thing or two about Han Sen. But the Extreme King thought only people like Moon Wheel King or Yisha were worth focusing on. Not many people knew Night River King, at all. The only people that cared for that sort of information were the locals of Narrow Moon.
@@ -62,7 +61,7 @@ With Han Sen’s level of power, the people of Narrow Moon thought he could defe
 
 But when Han Sen started to fight, the mouths of all the Kings were left wide open. Moon Wheel King himself was particularly shocked.
 
-Lit! F*cking lit!
+Lit! Fucking lit!
 
 Han Sen’s fight with the doll was like the greatest fight of all time. If the audience hadn’t known Han Sen’s real power, they’d have been very moved.
 

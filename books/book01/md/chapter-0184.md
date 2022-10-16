@@ -1,21 +1,20 @@
 ---
-Title:Probe 
-Chapter:184 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: Probe
+chapter: 184
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Probe
-### Chapter 184
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Probe
+
+### Chapter 184
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Seeing the golden rock worm king eating the bodies up and growing in size, Huangfu Pingqing could not help feeling surprised.
 
 "Mr. Han, is this a sacred-blood beast soul pet?" Huangfu looked at Han Sen and asked.

@@ -1,21 +1,20 @@
 ---
-Title:God’s Ruin 
-Chapter:1527 
-Section:4 
-Book:4 
-CSS:../Styles/style.css 
+title: God’s Ruin
+chapter: 1527
+section: 4
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## God’s Ruin
-### Chapter 1527
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## God’s Ruin
+
+### Chapter 1527
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen quickly walked to the shelter’s hall. There, he saw a creature floating inside.
 
 “Little Fairy? You’re a demigod now?” Han Sen looked at the small, fairy-like lady with surprise.

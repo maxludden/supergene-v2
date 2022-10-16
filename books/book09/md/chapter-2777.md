@@ -1,21 +1,20 @@
 ---
-Title:Flower God Mutation 
-Chapter:2777 
-Section:14 
-Book:9 
-CSS:../Styles/style.css 
+title: Flower God Mutation
+chapter: 2777
+section: 14
+book: 9
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Flower God Mutation
-### Chapter 2777
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Flower God Mutation
+
+### Chapter 2777
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “What happened to the Flower Gods? Is there any way in which I can help?” Extreme King Prince Bai Wanjie quickly said.
 
 He had just become deified not too long ago. He was only primitive, so he definitely wasn’t the highest-ranking deified that was present. Far from it. He was a crown prince of the Extreme King, however. He was one of the most qualified emissaries who had come to this meeting.

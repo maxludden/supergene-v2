@@ -1,21 +1,20 @@
 ---
-Title:Gene Race in the Mountain 
-Chapter:3051 
-Section:16 
-Book:10 
-CSS:../Styles/style.css 
+title: Gene Race in the Mountain
+chapter: 3051
+section: 16
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Gene Race in the Mountain
-### Chapter 3051
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Gene Race in the Mountain
+
+### Chapter 3051
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Ou Yang Qiu Shan looked at the mountain. Suddenly, his body burst with a green light. His shadow was like a weird snake that departed his body.
 
 In the next second, Han Sen and the others noticed Ou Yang Qiu Shan’s eyes were like those of a snake. They were green and white. There were no pupils or white visible. His body had green snake scales, and his back had strange scale wings. His entire body looked like a monster. He had combined with a gene race.

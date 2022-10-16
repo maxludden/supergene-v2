@@ -1,21 +1,20 @@
 ---
-Title:Method 
-Chapter:3197 
-Section:16 
-Book:10 
-CSS:../Styles/style.css 
+title: Method
+chapter: 3197
+section: 16
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Method
-### Chapter 3197
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Method
+
+### Chapter 3197
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “Han Sen, why is it like this? Why am I now able to grab the diamond great sword with the wooden sword in my hand? Why did it approve of me?” Qin Bai looked at Han Sen with confusion.
 
 “There is a solution to everything in this world. It all depends on whether or not your solution is the correct one. This small, wooden sword is one such method, but it can only help you claim an ordinary weapon.” Han Sen was not going to tell him that the small wooden sword’s sword mind was equal to Jian Bu Gu’s. There would not be a sword that did not approve of Jian Bu Gu’s sword.

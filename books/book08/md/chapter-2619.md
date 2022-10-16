@@ -1,21 +1,20 @@
 ---
-Title:Black King City 
-Chapter:2619 
-Section:12 
-Book:8 
-CSS:../Styles/style.css 
+title: Black King City
+chapter: 2619
+section: 12
+book: 8
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Black King City
-### Chapter 2619
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Black King City
+
+### Chapter 2619
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 On the little jade island, Han Sen, Han Yan, and Bao’er were sitting at a table with four gourds of various sizes laid out across it. They were the four gourds Han Yan had collected from the holy vine.
 
 The three of them had briefly examined the gourds, but they still didn’t know how to get the holy air out of them.

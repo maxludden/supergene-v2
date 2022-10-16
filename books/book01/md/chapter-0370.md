@@ -1,21 +1,20 @@
 ---
-Title:Beast Soul Add-on 
-Chapter:370 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: Beast Soul Add-on
+chapter: 370
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Beast Soul Add-on
-### Chapter 370
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Beast Soul Add-on
+
+### Chapter 370
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The students named Wang Di was also in the senior year. He was top three in Martial Arts Department, and rather well known on campus.
 
 With his good looks, the guy had a bright future ahead of him.

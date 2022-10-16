@@ -1,21 +1,20 @@
 ---
-Title:Hunting Alone 
-Chapter:275 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: Hunting Alone
+chapter: 275
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Hunting Alone
-### Chapter 275
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Hunting Alone
+
+### Chapter 275
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Xu Ruyan did not want to say anything to Han Sen anymore. She said she was tired and returned to her tent.
 
 Without actually seeing the ghost-eyed bears, Han Sen suggested to hunt them, which left Xu Ruyan with a terrible impression.

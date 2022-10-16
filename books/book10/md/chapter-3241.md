@@ -1,21 +1,20 @@
 ---
-Title:Go Back 
-Chapter:3241 
-Section:16 
-Book:10 
-CSS:../Styles/style.css 
+title: Go Back
+chapter: 3241
+section: 16
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Go Back
-### Chapter 3241
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Go Back
+
+### Chapter 3241
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 It was very quiet inside the old temple. There was still a scary light being released, along with subtle chanting.
 
 “Jing Zhen is hoping we can take back the dragon air,” Jing Zhen prayed again.

@@ -1,21 +1,20 @@
 ---
-Title:Battling Shura Again 
-Chapter:1053 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Battling Shura Again
+chapter: 1053
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Battling Shura Again
-### Chapter 1053
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Battling Shura Again
+
+### Chapter 1053
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The shura agreed that Han Sen could take the place of one other human member on one condition: he would have to defeat the shura leader to prove himself.
 
 “We can pick whoever we want to go, so why should we require their permission now?” Han Sen frowned, upon hearing the terms for his acceptance.

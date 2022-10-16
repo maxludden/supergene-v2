@@ -1,21 +1,20 @@
 ---
-Title:Another Sacred-blood Beast Soul 
-Chapter:132 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: Another Sacred-blood Beast Soul
+chapter: 132
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Another Sacred-blood Beast Soul
-### Chapter 132
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Another Sacred-blood Beast Soul
+
+### Chapter 132
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The sacred-blood fox king didn’t even move when seeing the arrow approach. It even showed contempt in its eyes.
 
 But soon, the fox king was aghast. That arrow was not meant for the fox king, but a bean-sized eye of the golden rock worm.

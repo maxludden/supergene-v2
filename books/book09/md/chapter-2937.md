@@ -1,21 +1,20 @@
 ---
-Title:Sacred Leader's Sister 
-Chapter:2937 
-Section:15 
-Book:9 
-CSS:../Styles/style.css 
+title: Sacred Leader's Sister
+chapter: 2937
+section: 15
+book: 9
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Sacred Leader's Sister
-### Chapter 2937
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Sacred Leader's Sister
+
+### Chapter 2937
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “It is not like that. I know some of these secrets. If I tell you and you are not satisfied, what will happen then?” Nine Thousand King’s eyes looking shiny.
 
 “If it comes to that, we will resume our combat.” Han Sen lifted his lips.

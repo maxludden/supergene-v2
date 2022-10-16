@@ -1,21 +1,20 @@
 ---
-Title:High-class God Spirit Blood-pulse 
-Chapter:3048 
-Section:16 
-Book:10 
-CSS:../Styles/style.css 
+title: High-class God Spirit Blood-pulse
+chapter: 3048
+section: 16
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## High-class God Spirit Blood-pulse
-### Chapter 3048
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## High-class God Spirit Blood-pulse
+
+### Chapter 3048
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Although Han Sen thought it would be difficult if he and Mister Yang wanted a share of this, Peaceful still took them back and introduced Mister Yang to her partners. Those people were greatly enthused to meet Mister Yang. They had no problem learning they were to lose 20% of their cut for his services.
 
 When he returned to his room, Han Sen looked at Mister Yang and laughed. “Old Yang, I did not expect you to be this well-renowned.”

@@ -1,21 +1,20 @@
 ---
-Title:The Gourd Moves 
-Chapter:852 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: The Gourd Moves
+chapter: 852
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## The Gourd Moves
-### Chapter 852
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## The Gourd Moves
+
+### Chapter 852
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 "Something evil must be at work, to transform the lands like so. The Jade-Gold Tree must be birthing something most peculiar," Wang Yuhang said, as he observed the downpour of blood-like rain.
 
 Han Sen's heart was filled with worry, acknowledging the spookiness of the scene. He understood something foul was at work, too.

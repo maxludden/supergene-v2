@@ -1,20 +1,19 @@
 ---
-Title:Tutor
-Chapter:981
-Section:3
-Book:3
-CSS:../Styles/style.css
+title: Tutor
+chapter: 981
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
 
 ## Tutor
+
 ### Chapter 981
 
 <figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
 </figure>
-
-
 
 Life-and-Death Breakthrough was something Han Sen had heard of before, but he did not really know what it meant. He believed doing that could enable him to become a demigod, allowing him to practice the next Dongxuan Sutra.
 
@@ -84,9 +83,9 @@ He then returned to the shelter and hid the rubix cube there.
 		</tr>
     </table>
     <table class=“geno”>
-		<tr>
-				<th colspan=“2”> Super King Spirit Super Body</th>
-		</tr><tr>
+                <tr>
+                        <th colspan=“2”> Super King Spirit Super Body</th>
+                </tr><tr>
 			<td>Self-Spirit Points Gained</td>
 			<td>118</td>
 		</tr> <tr>

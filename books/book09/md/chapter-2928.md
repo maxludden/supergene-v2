@@ -1,21 +1,20 @@
 ---
-Title:Going to Sacred 
-Chapter:2928 
-Section:15 
-Book:9 
-CSS:../Styles/style.css 
+title: Going to Sacred
+chapter: 2928
+section: 15
+book: 9
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Going to Sacred
-### Chapter 2928
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Going to Sacred
+
+### Chapter 2928
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Nine Thousand King laughed and let go of Qige. He let him land next to his feet. He touched his face and laughed. “Good! You are a good boy.”
 
 Qige quickly said, “To have a powerful father like you, I must have fulfilled a few lifetimes of good deeds to be rewarded so handsomely. I don’t just have to be your child either. I can be your cow. I can be your horse. I can be your servant and slave. It would be my pleasure. I never dreamed of being able to have such an amazing, invincible father like you before.”

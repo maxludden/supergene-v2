@@ -1,21 +1,20 @@
 ---
-Title:Old Friend 
-Chapter:3059 
-Section:16 
-Book:10 
-CSS:../Styles/style.css 
+title: Old Friend
+chapter: 3059
+section: 16
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Old Friend
-### Chapter 3059
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Old Friend
+
+### Chapter 3059
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The blood ghost spirit noticed something was wrong. It twisted its body mid-air and looked behind itself. Just as it turned around, Han Sen’s burning blood-red flame fist was already striking its face.
 
 The blood ghost spirit’s face was mangled by Han Sen’s hit. Its entire body spun like a cannonball fired from its barrel. It struck the stone wall behind Li Bing Yu. The stone wall collapsed and buried the monkey below the rubble.

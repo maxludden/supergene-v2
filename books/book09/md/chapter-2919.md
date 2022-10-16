@@ -1,21 +1,20 @@
 ---
-Title:Floating 
-Chapter:2919 
-Section:15 
-Book:9 
-CSS:../Styles/style.css 
+title: Floating
+chapter: 2919
+section: 15
+book: 9
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Floating
-### Chapter 2919
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Floating
+
+### Chapter 2919
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The way the big goldfish talked about how to get the treasure also seemed strange. Han Sen wondered if the big goldfish was trying to trick them.
 
 After considering the big goldfish’s intelligence, the chance that it could make up a complicated story to fool someone was minimal. In the end, Han Sen decided to go and do what the big goldfish said.

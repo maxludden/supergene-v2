@@ -1,21 +1,20 @@
 ---
-Title:Father, Don’t Cry 
-Chapter:960 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Father, Don’t Cry
+chapter: 960
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Father, Don’t Cry
-### Chapter 960
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Father, Don’t Cry
+
+### Chapter 960
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen took out the gourd and placed it in his hand. It was previously gold, but now it was dim and dirty-looking. Cracks had manifested across its surface, giving it the appearance of dried, distressed mud.
 
 Its heartbeat, however, was growing stronger and stronger. Han Sen believed something would soon emerge.

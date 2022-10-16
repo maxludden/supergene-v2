@@ -1,21 +1,20 @@
 ---
-Title:Infinite Galaxy 
-Chapter:2028 
-Section:8 
-Book:6 
-CSS:../Styles/style.css 
+title: Infinite Galaxy
+chapter: 2028
+section: 8
+book: 6
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Infinite Galaxy
-### Chapter 2028
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Infinite Galaxy
+
+### Chapter 2028
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “This Infinite Buddha is a xenogeneic. It seems that there are many xenogeneics amongst the Buddha.” Han Sen stared at Infinite Buddha, but he didn’t move.
 
 Infinite Buddha looked like an angry King Kong. He put his hands together, and then, lots of stars began to fly together and form one large cluster.

@@ -1,21 +1,20 @@
 ---
-Title:Watching the Destroyed Inheritance 
-Chapter:2187 
-Section:9 
-Book:6 
-CSS:../Styles/style.css 
+title: Watching the Destroyed Inheritance
+chapter: 2187
+section: 9
+book: 6
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Watching the Destroyed Inheritance
-### Chapter 2187
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Watching the Destroyed Inheritance
+
+### Chapter 2187
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The three lights of the triangle merged to become a swirling grey color. When you looked at the symbol from one side, the grey color shifted to black, and if you looked from the other side, the grey turned white.
 
 The triangle seemed to pulse with that mystic grey. The color stained Han Meng’er’s power grey, as well.

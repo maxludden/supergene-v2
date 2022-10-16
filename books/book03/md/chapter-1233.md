@@ -1,21 +1,20 @@
 ---
-Title:Emperor Treasure 
-Chapter:1233 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Emperor Treasure
+chapter: 1233
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Emperor Treasure
-### Chapter 1233
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Emperor Treasure
+
+### Chapter 1233
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The entry point was not submerged in Sky Pure Water, but was dry as land instead. Veiling himself in a cloak of silver lightning, Han Sen proceeded forward as the blue lightning cowered away from him.
 
 The hole was the perfect size for one person to go through. As he felt his way through, it was practically a tunnel, complete with its own twists and turns. After traversing as far as he could, he eventually reached the bottom. There was nothing particularly special about the way he had gone, and it was just as he had seen it from the outside.

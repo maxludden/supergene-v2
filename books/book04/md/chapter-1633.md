@@ -1,21 +1,20 @@
 ---
-Title:Falsified-sky Hit 
-Chapter:1633 
-Section:4 
-Book:4 
-CSS:../Styles/style.css 
+title: Falsified-sky Hit
+chapter: 1633
+section: 4
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Falsified-sky Hit
-### Chapter 1633
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Falsified-sky Hit
+
+### Chapter 1633
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Luo Haitang, who did not show much interest in Divinity’s Bout, went straight to the Martial Hall when the seventh match began. He was eager to watch the fight between Dollar and Jade Shura.
 
 Luo Li walked over to Luo Haitang, and with a serious look, asked him, “Sir? Is that Jade Shura the real Shura Queen?”

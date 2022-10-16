@@ -1,21 +1,20 @@
 ---
-Title:The King 
-Chapter:912 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: The King
+chapter: 912
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## The King
-### Chapter 912
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## The King
+
+### Chapter 912
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 When Han Sen saw his power manifest inside the forehead slot of the spirit statue, it created what appeared to be a white spirit stone. At the sight of this, Han Sen froze.
 
 "Your spirit stone has linked with the spirit base. Would you like to enter?" A strange voice sounded from the statue.

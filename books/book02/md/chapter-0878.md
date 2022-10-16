@@ -1,21 +1,20 @@
 ---
-Title:Killing Thunderbull 
-Chapter:878 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Killing Thunderbull
+chapter: 878
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Killing Thunderbull
-### Chapter 878
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Killing Thunderbull
+
+### Chapter 878
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 "Mister Han, the thunderbull is there atop the peak. We saw it!" Zhao Xuebin happily exclaimed to Han Sen.
 
 The others excitedly chimed in, saying, "Mister Han, the bull is there on the peak. Please, go and slay it!"

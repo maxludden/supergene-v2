@@ -1,21 +1,20 @@
 ---
-Title:Because I’m the Master of This Shelter 
-Chapter:1447 
-Section:4 
-Book:4 
-CSS:../Styles/style.css 
+title: Because I’m the Master of This Shelter
+chapter: 1447
+section: 4
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Because I’m the Master of This Shelter
-### Chapter 1447
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Because I’m the Master of This Shelter
+
+### Chapter 1447
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen brought Snow Ape to Shadow Shelter, feeling exuberantly happy.
 
 Along the way, Han Sen asked the creature many questions. Snow Ape was the heir of a super creature known as Daymoon Ape. After he was born, though, for reasons he never learned, he was unable to see his parents. Not long after that, Nan Litian captured him and brought him back to the shelter to conducts tests and experiments on him.
@@ -46,7 +45,7 @@ After that, Snow Ape attempted to run right for the shelter. But Han Sen stopped
 
 On the inside, Han Sen thought to himself, “I killed Nan Litian and already got you your vengeance. Now you can return the favor and help me get rid of Qing Le.”
 
-When Snow Ape heard what Han Sen told him, he replied, “Good thinking. Take me to the *sshole so I can kill him.”
+When Snow Ape heard what Han Sen told him, he replied, “Good thinking. Take me to the asshole so I can kill him.”
 
 Han Sen nodded and brought the Snow Ape straight to the spirit hall.
 

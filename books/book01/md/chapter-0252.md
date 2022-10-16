@@ -1,21 +1,20 @@
 ---
-Title:Four-day Deluxe Couple’s Tour 
-Chapter:252 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: Four-day Deluxe Couple’s Tour
+chapter: 252
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Four-day Deluxe Couple’s Tour
-### Chapter 252
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Four-day Deluxe Couple’s Tour
+
+### Chapter 252
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Originally, Han Sen wanted to wait and see how it went. However, he now had every drive to beat the Alliance Central Military Academy.
 
 Thinking of the four-day deluxe couple's tour, and his sexy, beautiful girlfriend, Han Sen felt his blood was boiling.

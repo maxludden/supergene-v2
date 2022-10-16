@@ -1,20 +1,19 @@
 ---
-Title:God of Wealth Blood-pulse
-Chapter:3162
-Section:16
-Book:10
-CSS:../Styles/style.css
+title: God of Wealth Blood-pulse
+chapter: 3162
+section: 16
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
 
 ## God of Wealth Blood-pulse
+
 ### Chapter 3162
 
 <figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
 </figure>
-
-
 
 He knew it was just an illusion and a weird scene. Still, seeing the money tree with lots of coins hanging from its boughs and feeling the aura of the gold money tree and a sky full of stars made him open his eyes wide.
 
@@ -36,7 +35,7 @@ The tree full of coins fell. It all melted into Feng Yin Yin’s body. At the sa
 			</td>
 		</tr><tr>
 			<td>Compatibility<br>
-				<span class="type">✭✭✭✭✭✭✭✭✭☆
+				<span class="type">✭✭✭✭✭✭✭✭✭⭐︎
 			</td>
 		</tr><tr>
 			<th>Overall Rating</th>
@@ -50,7 +49,7 @@ The tree full of coins fell. It all melted into Feng Yin Yin’s body. At the sa
 	<!--Overall: S-class Blood-Pulse inheritor-->
 </div>
 
-“Do the God Spirits use this to decide who to give their blood-pulses to?”
+“Do the God Spirits use this to decide who to give their blood-pulses to?” 
 
 At the same time, Han Sen received even more messages from the Sky God Crown.
 

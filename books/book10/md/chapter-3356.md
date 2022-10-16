@@ -1,21 +1,20 @@
 ---
-Title:Gourd Vine 
-Chapter:3356 
-Section:17 
-Book:10 
-CSS:../Styles/style.css 
+title: Gourd Vine
+chapter: 3356
+section: 17
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Gourd Vine
-### Chapter 3356
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Gourd Vine
+
+### Chapter 3356
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The Dongxuan Aura kept being broken by the copper hall’s power. Han Sen had to keep trying his best to hear the sounds as all he was hearing were bits and bobs.
 
 “For the sake of Mister Leader, I will admit he is the little master, but we cannot allow a guy that has a God Spirit Blood-Pulse ruin the God Chaos Party.” Bury Path God’s voice kept breaking as he spoke. “If you are this loyal to the little leader, I suppose you are not here to take the gene seed for yourselves. If you are both here for the same thing, then how dare you criticize me!”

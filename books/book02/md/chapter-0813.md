@@ -1,21 +1,20 @@
 ---
-Title:Swallowing Fruit 
-Chapter:813 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Swallowing Fruit
+chapter: 813
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Swallowing Fruit
-### Chapter 813
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Swallowing Fruit
+
+### Chapter 813
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen wasn't sure whether or not he should go to the fruit, as Devil-Blood King had already reached out his hands to grab them.
 
 Maintaining his restraint, he continued to stare at the four Empty Fruit that the Devil-Blood King sought to take. Then he asked Moment Queen, "Can you explain the anomaly you have noticed with the Empty Fruit? What's different about them?"

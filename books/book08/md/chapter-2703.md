@@ -1,21 +1,20 @@
 ---
-Title:Horizontal Evil 
-Chapter:2703 
-Section:13 
-Book:8 
-CSS:../Styles/style.css 
+title: Horizontal Evil
+chapter: 2703
+section: 13
+book: 8
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Horizontal Evil
-### Chapter 2703
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Horizontal Evil
+
+### Chapter 2703
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 To make sure he was seeing this correctly, Han Sen remained where he was for a while. The craters that the giants had made were becoming smaller and smaller. That meant his eyes weren’t going funny; the mountain really was growing.
 
 Buzz!

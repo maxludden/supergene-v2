@@ -1,21 +1,20 @@
 ---
-Title:Test 
-Chapter:2289 
-Section:10 
-Book:7 
-CSS:../Styles/style.css 
+title: Test
+chapter: 2289
+section: 10
+book: 7
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Test
-### Chapter 2289
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Test
+
+### Chapter 2289
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen wondered if Sacred Leader had played a joke on them. They were surrounded by so many deified xenogeneics, and Han Sen had just recently become a Duke. Not even the deified elites that Han Sen knew would have stood a chance against all the powerful xenogeneics that had gathered.
 
 “It’s a trap!” Han Sen couldn’t think of any way he could fight off the amount of power that had been arrayed against him.

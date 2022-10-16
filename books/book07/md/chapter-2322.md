@@ -1,21 +1,20 @@
 ---
-Title:Pretending to Be a Prince 
-Chapter:2322 
-Section:11 
-Book:7 
-CSS:../Styles/style.css 
+title: Pretending to Be a Prince
+chapter: 2322
+section: 11
+book: 7
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Pretending to Be a Prince
-### Chapter 2322
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Pretending to Be a Prince
+
+### Chapter 2322
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 On his way to Planet Wind Zone, Han Sen sent a coded message.
 
 Han Sen took a deep breath before typing in the number that he wanted to send the message to. It was the number that Mister White had given him.

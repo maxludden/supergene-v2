@@ -1,21 +1,20 @@
 ---
-Title:Life-door Opens 
-Chapter:1289 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Life-door Opens
+chapter: 1289
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Life-door Opens
-### Chapter 1289
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Life-door Opens
+
+### Chapter 1289
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Two years went by, and over that time, Han Sen sent out Purple Emperor to take down a number of shelters to pave the realm for more common human occupation. While he had managed to take down many shelters of a lesser rank, he had also been able to take down three emperor shelters.
 
 Han Sen had maxed out his geno points and practiced enough to open nine gene locks for the Dongxuan Sutra and Jadeskin.

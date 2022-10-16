@@ -1,21 +1,20 @@
 ---
-Title:Crystallizer Technology 
-Chapter:2286 
-Section:10 
-Book:7 
-CSS:../Styles/style.css 
+title: Crystallizer Technology
+chapter: 2286
+section: 10
+book: 7
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Crystallizer Technology
-### Chapter 2286
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Crystallizer Technology
+
+### Chapter 2286
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 *Boom!*
 
 Han Sen was about to say something, but a scary sound cut him off. And then, the white whale suddenly flipped and started to sink.

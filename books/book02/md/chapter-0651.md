@@ -1,21 +1,20 @@
 ---
-Title:Inviting the Elite 
-Chapter:651 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Inviting the Elite
+chapter: 651
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Inviting the Elite
-### Chapter 651
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Inviting the Elite
+
+### Chapter 651
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Lei Heng Wu, the person that Wang Yuhang mentioned, was in the shelter on the opposite side of the Devil's Mountain. All they would have to do was cross those perilous mountains to find him.
 
 But Han Sen decided to return to the Alliance first, so he could adequately prepare for the journey. Upon going back, Han Sen looked at his communicator and noticed that he had received many unanswered calls and messages.

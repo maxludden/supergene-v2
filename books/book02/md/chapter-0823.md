@@ -1,21 +1,20 @@
 ---
-Title:Shura Change 
-Chapter:823 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Shura Change
+chapter: 823
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Shura Change
-### Chapter 823
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Shura Change
+
+### Chapter 823
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Fists collided against each other in a hailstorm of strikes. Huang Xiao's fist gleamed like a golden hammer.
 
 The shura battled without the flair, elemental, or even magical properties of skills humans employed through their use of hyper geno arts. The shura only practiced raw power, and Yu Qielan used the strength derived from his flesh, muscle, and bone to oppose Huang Xiao's golden lights. For him to break each strike as he was doing, it was a testament to how frighteningly powerful he truly was.

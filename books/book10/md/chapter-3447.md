@@ -1,21 +1,20 @@
 ---
-Title:Human King Descends 
-Chapter:3447 
-Section:17 
-Book:10 
-CSS:../Styles/style.css 
+title: Human King Descends
+chapter: 3447
+section: 17
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Human King Descends
-### Chapter 3447
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Human King Descends
+
+### Chapter 3447
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 In Space Garden, Human King walked alone and approached the remnants of a collapsed house.
 
 “Roo!” Ji Yanran and a bunch of pets were stuck inside that house. Golden Growler did not seem to be completely frozen. He stopped before Ji Yanran and looked at Human King, who was coming. He made some roaring and hostile sounds to stay his approach. It was like he was warning Human King not to enter the small garden.

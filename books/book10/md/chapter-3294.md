@@ -1,21 +1,20 @@
 ---
-Title:Sunrise Palace 
-Chapter:3294 
-Section:16 
-Book:10 
-CSS:../Styles/style.css 
+title: Sunrise Palace
+chapter: 3294
+section: 16
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Sunrise Palace
-### Chapter 3294
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Sunrise Palace
+
+### Chapter 3294
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 When the flower died down, the flower’s vines wrapped around the skeleton came back to life. They started to grow bones and flesh. Han Sen was shocked by this development.
 
 “Is this skeleton not fully dead yet? Is it going to revive?” Han Sen looked at the skeleton. He seemed hopeful.

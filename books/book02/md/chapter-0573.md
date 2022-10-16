@@ -1,21 +1,20 @@
 ---
-Title:Solo in the Shelter 
-Chapter:573 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Solo in the Shelter
+chapter: 573
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Solo in the Shelter
-### Chapter 573
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Solo in the Shelter
+
+### Chapter 573
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 "Look silver fox! I'm so poor. It's already hard enough for me to look after myself. I haven't got enough food, I can't keep warm, and now I need to take care of you, despite the fact that you eat so much? It's not that I don't like the fact that you eat, don't get me wrong, but you want everyone else to get their fill, too, don't you? How about you help us catch a few fish. If you do that, we can help you cook it. It'd be nice if you chipped in, so how about it? Does that sound good?" Han Sen smiled in his attempt to discuss matters with the silver fox.
 
 Zero gave Han Sen a disdainful look. The way she looked at him was as if she had just witnessed him trying to abduct a young girl.

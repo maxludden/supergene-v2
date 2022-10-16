@@ -1,21 +1,20 @@
 ---
-Title:Stealing Spring Water 
-Chapter:1917 
-Section:7 
-Book:5 
-CSS:../Styles/style.css 
+title: Stealing Spring Water
+chapter: 1917
+section: 7
+book: 5
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Stealing Spring Water
-### Chapter 1917
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Stealing Spring Water
+
+### Chapter 1917
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen quietly drew out his Ghost Teeth Knife. He stood near the spring and waited for it to erupt. Sword Know frowned, but he didn’t attack Han Sen. He knew the Kings were watching him. If they fought Han Sen now, Yisha wouldn’t be very forgiving.
 
 “Don’t think Knife Queen’s protection grants you the ability to do anything you want. When the spring erupts, you better not stop me. I will fight you for it,” Sword Know said grimly.

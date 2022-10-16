@@ -1,21 +1,20 @@
 ---
-Title:Purple Copper Jian 
-Chapter:2585 
-Section:12 
-Book:8 
-CSS:../Styles/style.css 
+title: Purple Copper Jian
+chapter: 2585
+section: 12
+book: 8
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Purple Copper Jian
-### Chapter 2585
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Purple Copper Jian
+
+### Chapter 2585
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Elysian Moon was as strong as a King class could be, but her full-power attack hadn’t even left a mark on the stones. The rock of that place was far sturdier than they could have imagined.
 
 “Little red bird!” Han Sen called.

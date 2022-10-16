@@ -1,21 +1,20 @@
 ---
-Title:Lotus Pool 
-Chapter:1848 
-Section:7 
-Book:5 
-CSS:../Styles/style.css 
+title: Lotus Pool
+chapter: 1848
+section: 7
+book: 5
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Lotus Pool
-### Chapter 1848
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Lotus Pool
+
+### Chapter 1848
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 On their way to the palace, egg marks appeared on the foreheads of both Little Silver and Xie Qing King. It was very worrying.
 
 Lake Viscount gained it, as well.

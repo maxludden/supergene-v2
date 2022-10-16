@@ -1,21 +1,20 @@
 ---
-Title:Fighting Yan Dan 
-Chapter:3179 
-Section:16 
-Book:10 
-CSS:../Styles/style.css 
+title: Fighting Yan Dan
+chapter: 3179
+section: 16
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Fighting Yan Dan
-### Chapter 3179
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Fighting Yan Dan
+
+### Chapter 3179
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The fights whittling down the roster from eight to four annoyed Han Sen. His opponent was going to be Yan Dan from the Yan Kingdom. That was fine with him, but Bao’er and Feng Yin Yin had to fight each other.
 
 Regardless of who won, one of them would lose a slot that cost a lot of god power to get.

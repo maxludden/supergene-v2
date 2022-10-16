@@ -1,21 +1,20 @@
 ---
-Title:Black Cliff 
-Chapter:1894 
-Section:7 
-Book:5 
-CSS:../Styles/style.css 
+title: Black Cliff
+chapter: 1894
+section: 7
+book: 5
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Black Cliff
-### Chapter 1894
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Black Cliff
+
+### Chapter 1894
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Not much later, the Rebate Noble heirs were beaten. Their armors had been broken, and their faces were all swollen. They fell to the ground, crying their eyes out.
 
 Speechless, No Flower, and Black Cliff were all in shock. It was unheard of, for a nameless Viscount to beat down so many Nobles. Xie Qing King seemed terribly overpowered.

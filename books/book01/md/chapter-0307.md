@@ -1,21 +1,20 @@
 ---
-Title:A Soldier in Opponent's Territory 
-Chapter:307 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: A Soldier in Opponent's Territory
+chapter: 307
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## A Soldier in Opponent's Territory
-### Chapter 307
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## A Soldier in Opponent's Territory
+
+### Chapter 307
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen stepped back and dodged Xu Zhu's following attacks. Regarding Xu Zhu calmly, Han Sen felt somewhat surprised.
 
 He had been in Gladiator for a long time. Because of his low winning rate, barely any one would invite him to fight. He almost always chose to be matched randomly.

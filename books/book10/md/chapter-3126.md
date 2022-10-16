@@ -1,21 +1,20 @@
 ---
-Title:Sun Spirit Gourd 
-Chapter:3126 
-Section:16 
-Book:10 
-CSS:../Styles/style.css 
+title: Sun Spirit Gourd
+chapter: 3126
+section: 16
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Sun Spirit Gourd
-### Chapter 3126
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Sun Spirit Gourd
+
+### Chapter 3126
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The core was terrifying and hot. Han Sen saw that the scary old vine had wreathed itself around the core. It created a giant orb-like object that replaced the shell of the core.
 
 Many vines were coming out from the vine orb. Like a legion of dragons, they came at Han Sen. They made Han Sen accelerate his movements to avoid being struck.

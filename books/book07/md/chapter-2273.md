@@ -1,21 +1,20 @@
 ---
-Title:Secret of a Stone 
-Chapter:2273 
-Section:10 
-Book:7 
-CSS:../Styles/style.css 
+title: Secret of a Stone
+chapter: 2273
+section: 10
+book: 7
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Secret of a Stone
-### Chapter 2273
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Secret of a Stone
+
+### Chapter 2273
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Crime approached the statue from the side, but it gave no reaction. So, Crime walked in front of the main hall’s gate. Nothing weird happened there, either.
 
 “Mister White, if it isn’t affecting us, should we just ignore it?” Han Sen looked at the stone.

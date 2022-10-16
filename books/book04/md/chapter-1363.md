@@ -1,21 +1,20 @@
 ---
-Title:Green Cow 
-Chapter:1363 
-Section:4 
-Book:4 
-CSS:../Styles/style.css 
+title: Green Cow
+chapter: 1363
+section: 4
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Green Cow
-### Chapter 1363
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Green Cow
+
+### Chapter 1363
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “Who is that? Hopefully it’s Old Man Ji,” Han Sen thought to himself.
 
 He knew the chances of that were slim, but it was a nice thought for him to hope for. Unfortunately, he’d have better luck winning the lottery multiple times before bumping into someone he knew in that sanctuary.

@@ -1,21 +1,20 @@
 ---
-Title:Silly and Clumsy 
-Chapter:2952 
-Section:15 
-Book:9 
-CSS:../Styles/style.css 
+title: Silly and Clumsy
+chapter: 2952
+section: 15
+book: 9
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Silly and Clumsy
-### Chapter 2952
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Silly and Clumsy
+
+### Chapter 2952
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Bzzt!
 
 Han Sen felt as if he was shaking with the sonic power and going to fall apart.

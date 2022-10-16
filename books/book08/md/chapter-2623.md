@@ -1,21 +1,20 @@
 ---
-Title:Charm 
-Chapter:2623 
-Section:12 
-Book:8 
-CSS:../Styles/style.css 
+title: Charm
+chapter: 2623
+section: 12
+book: 8
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Charm
-### Chapter 2623
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Charm
+
+### Chapter 2623
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “Woman, what are you doing?” The Liu Widow was leaning down to kiss him, so Han Sen used his hands to stop the descent of her lips.
 
 “I want you… Don’t you want the Liu family’s treasure? If you can love me like I want you to, I will give you anything you want.” Liu Widow was staring at him like a wolf in heat.
@@ -56,7 +55,7 @@ more.”
 
 “Oh no… So that’s what’s happening…” Han Sen sank back on the bed in frustration. Now he knew why Yun Sushang was avoiding him and why Exquisite no longer visited him. It wasn’t because they thought he was a playboy; it was because they couldn’t resist doing something that was utterly forbidden. It would be something that couldn’t be described. That was why people were avoiding him.
 
-“What kind of f*cking race weapon is this? It’s like a mating pill.” Han Sen wanted to cry.
+“What kind of fucking race weapon is this? It’s like a mating pill.” Han Sen wanted to cry.
 
 He wasn’t doing as bad as Ning Yue, but this was bad in an entirely different way. It was good to be popular with women, but Han Sen didn’t want to be a tool for women to enjoy.
 

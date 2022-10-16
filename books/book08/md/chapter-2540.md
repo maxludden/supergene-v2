@@ -1,21 +1,20 @@
 ---
-Title:Only One Can Live 
-Chapter:2540 
-Section:12 
-Book:8 
-CSS:../Styles/style.css 
+title: Only One Can Live
+chapter: 2540
+section: 12
+book: 8
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Only One Can Live
-### Chapter 2540
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Only One Can Live
+
+### Chapter 2540
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “What happened? Is it because of the mushrooms?” Han Sen pointed at the plants that were on both of their heads.
 
 Gu Qingcheng shook her head. “I told you, I’m not a person of the modern age. I am a Qi Gong user of ancient times.”

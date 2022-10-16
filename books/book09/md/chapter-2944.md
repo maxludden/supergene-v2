@@ -1,21 +1,20 @@
 ---
-Title:Fate Monument 
-Chapter:2944 
-Section:15 
-Book:9 
-CSS:../Styles/style.css 
+title: Fate Monument
+chapter: 2944
+section: 15
+book: 9
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Fate Monument
-### Chapter 2944
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Fate Monument
+
+### Chapter 2944
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Suddenly, amidst the ruins, Han Sen found a very well-preserved statue. It was the statue of a ghost car.
 
 Han Sen pointed at the statue and asked, “This thing… Is it one of Sacred’s holy beast Ghost Car?”

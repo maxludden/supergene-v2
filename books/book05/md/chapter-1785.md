@@ -1,21 +1,20 @@
 ---
-Title:Killing Centaurs 
-Chapter:1785 
-Section:6 
-Book:5 
-CSS:../Styles/style.css 
+title: Killing Centaurs
+chapter: 1785
+section: 6
+book: 5
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Killing Centaurs
-### Chapter 1785
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Killing Centaurs
+
+### Chapter 1785
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The leader of the centaurs looked murderous. He was gleefully watching his men commit happily to the slaughter, as the droves of people began screaming and crying. This wasn’t war; this was a massacre.
 
 Ordinary Kate had geno armor, but they could not fight They could not resist the onslaught.

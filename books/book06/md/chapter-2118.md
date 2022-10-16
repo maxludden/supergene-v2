@@ -1,21 +1,20 @@
 ---
-Title:Gold Dragon Body 
-Chapter:2118 
-Section:8 
-Book:6 
-CSS:../Styles/style.css 
+title: Gold Dragon Body
+chapter: 2118
+section: 8
+book: 6
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Gold Dragon Body
-### Chapter 2118
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Gold Dragon Body
+
+### Chapter 2118
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 On a mountain that was composed of black stones, Dragon Eight calmly looked down upon his opponent Han Sen. He began slowly flapping his wings. Each flap was stronger than the last.
 
 He was different from Dragon Nine and the others. Dragon Eight was not fond of the traditional Dragon spears that the others favored. He vastly preferred using his own body as a weapon. He was confident in his own abilities as his greatest asset.

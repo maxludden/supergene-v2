@@ -1,21 +1,20 @@
 ---
-Title:Peach Trees Mature 
-Chapter:686 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Peach Trees Mature
+chapter: 686
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Peach Trees Mature
-### Chapter 686
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Peach Trees Mature
+
+### Chapter 686
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 "Daddy, you sure have a lot of free time recently." Ji Yanran smiled at Ji Ruozhen's image on the video chat.
 
 "I can't help it; my future son-in-law is far too talented!" Ji Ruozhen looked like he was joking.

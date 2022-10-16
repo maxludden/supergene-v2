@@ -1,21 +1,20 @@
 ---
-Title:God Pulse Weird Scene 
-Chapter:3042 
-Section:16 
-Book:10 
-CSS:../Styles/style.css 
+title: God Pulse Weird Scene
+chapter: 3042
+section: 16
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## God Pulse Weird Scene
-### Chapter 3042
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## God Pulse Weird Scene
+
+### Chapter 3042
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen’s power was nothing Mister Yang could compete with. He tried to control his own power, but it was similar to a digging machine. The little shovel was really fast as it dug out a trench. The purple liquid inside the trench was funneled out.
 
 It was weird. It was unknown what the purple liquid was. After it was drained, it immediately vaporized not long after it flowed away.

@@ -1,21 +1,20 @@
 ---
-Title:Consumer Treatment 
-Chapter:1160 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Consumer Treatment
+chapter: 1160
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Consumer Treatment
-### Chapter 1160
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Consumer Treatment
+
+### Chapter 1160
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 After sending the kid off, Han Sen held Ji Yanran and spoke with her for a while.
 
 “There’s a new aircraft in-store today. Would you like to go give it a try?” Ji Yanran said, as she drew invisible circles on Han Sen’s arm.

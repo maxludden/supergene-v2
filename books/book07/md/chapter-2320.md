@@ -1,21 +1,20 @@
 ---
-Title:Refinemen 
-Chapter:2320 
-Section:11 
-Book:7 
-CSS:../Styles/style.css 
+title: Refinemen
+chapter: 2320
+section: 11
+book: 7
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Refinemen
-### Chapter 2320
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Refinemen
+
+### Chapter 2320
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen didn’t answer. He spread his Eternity solidifying powers all over himself. His body became solid and unchangeable, halting Bai Yi’s invasion in its tracks. It solidified Bai Yi’s Original Water King Body as well. It couldn’t invade Han Sen’s cells any further, and it couldn’t retreat either.
 
 But Eternity’s solidifying properties could only lock things down as they were. It was unable to erase the Original Water King Body that had already established its encroaching presence.
@@ -34,7 +33,7 @@ Knight’s Paradise was a place that was set up for the Royal Guards. Ordinary r
 
 This was Han Sen’s first time there, so it all seemed just a little bit too coincidental.
 
-“It is because of that b*tch, Bai Ling Shuang,” Bai Yi growled. “Otherwise, why would I even come here?”
+“It is because of that bitch, Bai Ling Shuang,” Bai Yi growled. “Otherwise, why would I even come here?”
 
 When Han Sen heard this, he understood. Bai Ling Shuang was Princess Ten. She was the one that Bai Wei had a strong distaste for.
 
@@ -44,7 +43,7 @@ Although he had never seen Bai Ling Shuang before, he sort of understood what th
 
 “Bai Ling Shuang told you to kill me?” Han Sen asked.
 
-“Not exactly. Anyway, I am going to exact my revenge on that cheap b*tch.” Bai Yi obviously didn’t want to talk about it. Bai Ling Shuang must have set him up, and now things had obviously gone much farther than he had intended.
+“Not exactly. Anyway, I am going to exact my revenge on that cheap bitch.” Bai Yi obviously didn’t want to talk about it. Bai Ling Shuang must have set him up, and now things had obviously gone much farther than he had intended.
 
 Both because of Han Sen and Bai Ling Shuang, these events would be forever branded into Bai Yi’s heart. He must have really wanted both of them dead for different reasons.
 

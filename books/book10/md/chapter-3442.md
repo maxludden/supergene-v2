@@ -1,21 +1,20 @@
 ---
-Title:Fighting 
-Chapter:3442 
-Section:17 
-Book:10 
-CSS:../Styles/style.css 
+title: Fighting
+chapter: 3442
+section: 17
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Fighting
-### Chapter 3442
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Fighting
+
+### Chapter 3442
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The battleships and scary creatures were covering the sky and the daylight. It was like the whole of Space Garden was now covered in clouds.
 
 “Where is Han Sen?” Amidst the many scary creatures, someone walked forward. It was Itchy. He looked down on Space Garden and boomed his voice like rolling thunder. The whole of Space Garden quaked in response.

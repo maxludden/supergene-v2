@@ -1,21 +1,20 @@
 ---
-Title:You Are Han Sen? 
-Chapter:1196 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: You Are Han Sen?
+chapter: 1196
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## You Are Han Sen?
-### Chapter 1196
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## You Are Han Sen?
+
+### Chapter 1196
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 As the march of time went on, so did Han Sen’s ravenous barrage of attacks.
 
 His opponent was like a tumbler doll, refusing to fall over no matter how hard or how quickly Han Sen struck. Even while channeling all his powers of prediction, he simply couldn’t find a way to knock him down. Han Sen was actually shocked by what was going on.

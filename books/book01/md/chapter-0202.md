@@ -1,21 +1,20 @@
 ---
-Title:Professionalism 
-Chapter:202 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: Professionalism
+chapter: 202
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Professionalism
-### Chapter 202
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Professionalism
+
+### Chapter 202
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 "Although Blackhawk has Ouyang Xiaosan who is a star player, but their overall strength was not good. It is courageous of the Black Fist Emperor to lead the game, but it would not be easy for him. I hope he could do his best and the result is not so important. After all, his opponent is a strong team. It’s great that young players could participate in games to get more experience..." After the beginning of the game, both sides sent their first players to log in, and Wen Xiuxiu introduced Han Sen first.
 
 Ji Yanran listened to her and was even more upset, "What’s with this host? She interviewed us, and why is she on the other side?"

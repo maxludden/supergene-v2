@@ -1,21 +1,20 @@
 ---
-Title:Curse of Immortality 
-Chapter:1105 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Curse of Immortality
+chapter: 1105
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Curse of Immortality
-### Chapter 1105
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Curse of Immortality
+
+### Chapter 1105
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Over the past few years, Han Sen had studied and learned much alongside Bai Yishan. He spent most of his time researching the powers of the Dollar Toad’s energy flow and developing Saving Money.
 
 Creating hyper geno arts was not easy, and he had only managed to create one during all that time.

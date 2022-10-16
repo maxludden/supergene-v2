@@ -1,21 +1,20 @@
 ---
-Title:The Promise of Bai Ling Shuang 
-Chapter:2326 
-Section:11 
-Book:7 
-CSS:../Styles/style.css 
+title: The Promise of Bai Ling Shuang
+chapter: 2326
+section: 11
+book: 7
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## The Promise of Bai Ling Shuang
-### Chapter 2326
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## The Promise of Bai Ling Shuang
+
+### Chapter 2326
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “Why?” Han Sen’s lip curled a little.
 
 “If you want the relic, then give her to me. Otherwise, don’t even think about it. The choice is yours.” The princess’ face didn’t change.

@@ -1,21 +1,20 @@
 ---
-Title:More or Less 
-Chapter:236 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: More or Less
+chapter: 236
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## More or Less
-### Chapter 236
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## More or Less
+
+### Chapter 236
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 "We can only know after a match," replied Han Sen with a smile.
 
 The senior team members cast odd looks at him. If the comment was from any other freshman, they would definitely tell the person all about the bad performances of Blackhawk in history.

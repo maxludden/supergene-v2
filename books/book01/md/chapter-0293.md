@@ -1,21 +1,20 @@
 ---
-Title:Panorama 
-Chapter:293 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: Panorama
+chapter: 293
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Panorama
-### Chapter 293
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Panorama
+
+### Chapter 293
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen killed the cloud beast as fast as he could, and heard a voice that almost made himself jump.
 
 > "Super Creature Cloud Beast Killed. No Beast Soul Gained. Eat Its Life Essence To Gain 0 To 10 Super Geno Points. Meat Inedible."

@@ -1,21 +1,20 @@
 ---
-Title:Shocking Changes 
-Chapter:2239 
-Section:10 
-Book:7 
-CSS:../Styles/style.css 
+title: Shocking Changes
+chapter: 2239
+section: 10
+book: 7
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Shocking Changes
-### Chapter 2239
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Shocking Changes
+
+### Chapter 2239
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen was sleeping on his bed with Little Silver lying next to him. Little Silver suddenly got up, and silver lightning sparked to life across his body. It grew in volume, illuminating the room in chaotic flashes. His silver eyes stared toward the door.
 
 Han Sen woke up, and across the room, Little Star was shaking off sleep as well.

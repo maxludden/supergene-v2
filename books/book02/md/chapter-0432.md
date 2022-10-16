@@ -1,21 +1,20 @@
 ---
-Title:The Impossible Eighth Kick 
-Chapter:432 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: The Impossible Eighth Kick
+chapter: 432
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## The Impossible Eighth Kick
-### Chapter 432
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## The Impossible Eighth Kick
+
+### Chapter 432
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Lu Bin also roared, his kicks going up from the ground, meeting Han Sen's kicks in the air, making sonic booms.
 
 *Boom!*

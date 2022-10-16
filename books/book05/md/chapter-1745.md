@@ -1,21 +1,20 @@
 ---
-Title:Holy Place 
-Chapter:1745 
-Section:6 
-Book:5 
-CSS:../Styles/style.css 
+title: Holy Place
+chapter: 1745
+section: 6
+book: 5
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Holy Place
-### Chapter 1745
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Holy Place
+
+### Chapter 1745
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 A copper furnace that was a hundred meters tall connected to the palace in the clouds. It was obvious that the enormous place used to be quite glorious.
 
 But that place was now in ruin. It was empty and quiet Even the sky had abandoned it, leaving the palace dark and forlorn. The darkness veiled that once-wonderful place, giving it no tomorrow.

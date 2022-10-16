@@ -1,21 +1,20 @@
 ---
-Title:A Fortune 
-Chapter:416 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: A Fortune
+chapter: 416
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## A Fortune
-### Chapter 416
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## A Fortune
+
+### Chapter 416
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen glanced at the girl in his arms who was still unconscious. Her clothes were a bit ragged, while she did not get injured at all, and only had some red marks.
 
 Han Sen frowned and checked on the white rhinoceros under the siege of both the holy angel and golden rock worm king. It seemed there was no need for Han Sen to do anything.

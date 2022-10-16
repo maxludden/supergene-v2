@@ -1,21 +1,20 @@
 ---
-Title:Study the Ancient Language 
-Chapter:524 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Study the Ancient Language
+chapter: 524
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Study the Ancient Language
-### Chapter 524
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Study the Ancient Language
+
+### Chapter 524
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The members of Goddess Gang all bought some meat and beast soul set a very low price. However, people outside of the gang could only purchase the meat and beast souls at a high price. Even so, there were still many people competing for them.
 
 The resources at Goddess Shelter were so limited that if they did not compete for it, lots of people wanted it.

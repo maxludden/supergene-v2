@@ -1,21 +1,20 @@
 ---
-Title:Geno Tree 
-Chapter:1714 
-Section:6 
-Book:5 
-CSS:../Styles/style.css 
+title: Geno Tree
+chapter: 1714
+section: 6
+book: 5
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Geno Tree
-### Chapter 1714
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Geno Tree
+
+### Chapter 1714
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Lan Se brought Han Sen to a testing room. She wanted to test his fitness and see what sort of job he’d be eligible for.
 
 Han Sen thought Planet Kate resembled a modern society, so the testing methods should also resemble those of the Alliance, where all tests were conducted through various apparatus.

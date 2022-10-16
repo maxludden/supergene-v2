@@ -1,21 +1,20 @@
 ---
-Title:Ice Blue Power 
-Chapter:2240 
-Section:10 
-Book:7 
-CSS:../Styles/style.css 
+title: Ice Blue Power
+chapter: 2240
+section: 10
+book: 7
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Ice Blue Power
-### Chapter 2240
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Ice Blue Power
+
+### Chapter 2240
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “Han Sen, you can still turn back from this,” Ice Blue Knight King said gravely.
 
 Han Sen didn’t answer, though. Instead, he kept thinking.

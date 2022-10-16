@@ -1,21 +1,20 @@
 ---
-Title:Scarlet Eye 
-Chapter:2422 
-Section:11 
-Book:7 
-CSS:../Styles/style.css 
+title: Scarlet Eye
+chapter: 2422
+section: 11
+book: 7
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Scarlet Eye
-### Chapter 2422
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Scarlet Eye
+
+### Chapter 2422
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Night Wind’s face was tight and worried, and he had also brought a video back with him.
 
 When that video was played, Han Sen understood Night Wind’s expression.

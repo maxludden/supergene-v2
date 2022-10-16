@@ -1,20 +1,19 @@
 ---
-Title:Preparation Before Evolution
-Chapter:420
-Section:1
-Book:1
-CSS:../Styles/style.css
+title: Preparation Before Evolution
+chapter: 420
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
 
 ## Preparation Before Evolution
+
 ### Chapter 420
 
 <figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
 </figure>
-
-
 
 After Zero threw herself at the firebird like a cannonball, she went through the burning body of the firebird and appeared on the other side. Landing heavily on the mountain’s feet and even broke a part of the mountain.
 
@@ -47,8 +46,7 @@ Han Sen looked to his mind with joy and saw his newly gained super beast soul.
             <th>Beast Soul</th>
         </tr><tr>
             <td>Super Desert Bird<br>
-                <span class="type">(Aura)</span>
-            </td>
+                <span class="type">(Aura)</span></td>
         </tr>
     </table>
 <!--Type of beast soul of super creature desert bird: aura-->

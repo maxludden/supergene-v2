@@ -1,21 +1,20 @@
 ---
-Title:The Moon After the Dark Clouds 
-Chapter:1929 
-Section:7 
-Book:5 
-CSS:../Styles/style.css 
+title: The Moon After the Dark Clouds
+chapter: 1929
+section: 7
+book: 5
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## The Moon After the Dark Clouds
-### Chapter 1929
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## The Moon After the Dark Clouds
+
+### Chapter 1929
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Black-Moon King’s eyes soon came to rest on Han Sen. He smiled and said, “Han Sen is here to represent Knife. You will have to come take a proper look, so you can sing its praises to her and have her regret passing on the opportunity to come to the unveiling.”
 
 After that, Black-Moon King passed the Narrow Moon Knife over to Han Sen.

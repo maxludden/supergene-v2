@@ -1,21 +1,20 @@
 ---
-Title:Strange Scary Bug 
-Chapter:2026 
-Section:8 
-Book:6 
-CSS:../Styles/style.css 
+title: Strange Scary Bug
+chapter: 2026
+section: 8
+book: 6
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Strange Scary Bug
-### Chapter 2026
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Strange Scary Bug
+
+### Chapter 2026
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen’s body was hampered by both the Sky Heart Locks and the Ancient God space itself. His speed was very slow, but fortunately, his rabbit shoes weren’t affected. He could still move with the speed of a Duke.
 
 The moment he dodged the silver light, a gold ant pattern appeared on Han Sen’s body. It increased his power. He slashed towards the silver, glass-like bug.

@@ -1,21 +1,20 @@
 ---
-Title:Overpowered Geno Core 
-Chapter:1384 
-Section:4 
-Book:4 
-CSS:../Styles/style.css 
+title: Overpowered Geno Core
+chapter: 1384
+section: 4
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Overpowered Geno Core
-### Chapter 1384
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Overpowered Geno Core
+
+### Chapter 1384
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “Black Mountain God, why do you insist on bothering me? Would it not be better to challenge Real Demon, instead?” Inside Geno Core Storage, an elegant spirit was speaking to a creature with black wings.
 
 “My Heart Wheel will destroy your King Bell and claim its rightful place atop the leaderboard,” Black Mountain God said.

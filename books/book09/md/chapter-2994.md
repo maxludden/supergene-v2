@@ -1,21 +1,20 @@
 ---
-Title:Finishing Wish 
-Chapter:2994 
-Section:15 
-Book:9 
-CSS:../Styles/style.css 
+title: Finishing Wish
+chapter: 2994
+section: 15
+book: 9
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Finishing Wish
-### Chapter 2994
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Finishing Wish
+
+### Chapter 2994
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Back in Space Garden, Han Sen had been troubled by the situation.
 
 Although he was able to use Han Sen’s identity to reject the proposal, Han Sen had tried his hardest to save Golden Growler. This was a good opportunity. If he rejected the offer, Bai King might grow suspicious. Although Dollar and Han Sen’s looked different, ordinary people would not suspect them as being the same. Unfortunately, people like Bai King knew Dollar was the Holy Baby. If Dollar and Han Sen were not able to show up at the same time, he could start thinking things weren’t the way he presumed them to be.

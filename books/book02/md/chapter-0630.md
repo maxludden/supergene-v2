@@ -1,21 +1,20 @@
 ---
-Title:Dry-vine Gourd 
-Chapter:630 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Dry-vine Gourd
+chapter: 630
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Dry-vine Gourd
-### Chapter 630
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Dry-vine Gourd
+
+### Chapter 630
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The raven continued to watch them, as if it lacked the motivation to move. The red-cloud donkey now drifted over to Han Sen's side, which had more people, and neighed at them every now and again.
 
 Seeing the red-cloud donkey come closer, Xu Dong Jin felt at ease. If it was the raven that chose to come after them, the danger would be far worse.

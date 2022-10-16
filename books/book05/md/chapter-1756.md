@@ -1,21 +1,20 @@
 ---
-Title:Falling Into the Black Hole 
-Chapter:1756 
-Section:6 
-Book:5 
-CSS:../Styles/style.css 
+title: Falling Into the Black Hole
+chapter: 1756
+section: 6
+book: 5
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Falling Into the Black Hole
-### Chapter 1756
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Falling Into the Black Hole
+
+### Chapter 1756
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen felt as if something was wrong. He stayed outside the door and just watched.
 
 The Noble that used the hammer to break the door swiftly went towards the metal vine. He grabbed the lotus and the flower.

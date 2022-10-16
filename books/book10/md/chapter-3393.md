@@ -1,21 +1,20 @@
 ---
-Title:Fighting Ancient Devil 
-Chapter:3393 
-Section:17 
-Book:10 
-CSS:../Styles/style.css 
+title: Fighting Ancient Devil
+chapter: 3393
+section: 17
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Fighting Ancient Devil
-### Chapter 3393
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Fighting Ancient Devil
+
+### Chapter 3393
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 It was an imperial jade seal. It was white at the bottom and red on the top. Its four corners were like white jade.
 
 The beast on top was red. It crouched on the seal. It was like a monkey with a sharp mouth. It had wings on its back. It looked very beautiful.

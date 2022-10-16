@@ -1,21 +1,20 @@
 ---
-Title:Number One in This Exam 
-Chapter:2379 
-Section:11 
-Book:7 
-CSS:../Styles/style.css 
+title: Number One in This Exam
+chapter: 2379
+section: 11
+book: 7
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Number One in This Exam
-### Chapter 2379
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Number One in This Exam
+
+### Chapter 2379
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Over the next few days, Han Sen didn’t go anywhere. He discussed Bai Yi with the Siren Virgin for hours on end, trying to memorize all the important details about the man that he could.
 
 When the exams began, every single person of the Extreme King would be watching. And of course, King Bai was going to be there. The chance of his identity being exposed would be the greatest it had ever been.

@@ -1,21 +1,20 @@
 ---
-Title:Surprising Evolution 
-Chapter:904 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Surprising Evolution
+chapter: 904
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Surprising Evolution
-### Chapter 904
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Surprising Evolution
+
+### Chapter 904
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 A baby silkworm wriggled its way out of the vine-constructed box. It was blue and semi-transparent, and looked quite pretty.
 
 "This is the tenth berserk mutant. Eat this berserk iron bug before you; if you do, you, my blue crystal bug, will be able to become a sacred-blood creature," the spirit said to the bug as she let it out of the box. Then, blue crystal bug crawled over to the iron bug.

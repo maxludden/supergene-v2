@@ -1,21 +1,20 @@
 ---
-Title:Messy Situation 
-Chapter:1375 
-Section:4 
-Book:4 
-CSS:../Styles/style.css 
+title: Messy Situation
+chapter: 1375
+section: 4
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Messy Situation
-### Chapter 1375
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Messy Situation
+
+### Chapter 1375
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The black unicorn choked on its attempted screams and squeals as the lethal cords of the Gold Dragon Lock dug into its body. Its throat was being crushed, robbing it of air. Its eyes began to twitch and flicker, slowly rolling back into its skull.
 
 Han Sen pulled out his only horn and thrust it into the creature’s neck, to hurry along its death and stop its suffering. With the power of the super king spirit body, it was a trivial task; the horn slid through the creature’s jugular like a hot knife through butter.

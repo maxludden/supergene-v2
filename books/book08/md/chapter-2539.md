@@ -1,21 +1,20 @@
 ---
-Title:We Are Going to Die 
-Chapter:2539 
-Section:12 
-Book:8 
-CSS:../Styles/style.css 
+title: We Are Going to Die
+chapter: 2539
+section: 12
+book: 8
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## We Are Going to Die
-### Chapter 2539
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## We Are Going to Die
+
+### Chapter 2539
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen wanted to hear the final part of God’s Wander, so he had to continue hanging around Li Keer. But he didn’t speak to her much while he was practicing. When they did talk, Li Keer would either tell Han Sen about God’s Wander or answer questions about herself.
 
 “This person is a fighting freak like Lone Bamboo.” Li Keer had grown a little depressed as they traveled. She planned to take Han Sen as her silkworm, but after spending so much time with him, she realized that there was nothing Han Sen really needed from her. She couldn’t even bring herself to tell him that she was one of the Very High.

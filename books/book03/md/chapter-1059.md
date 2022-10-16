@@ -1,21 +1,20 @@
 ---
-Title:Unicorn Beetle Mutation 
-Chapter:1059 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Unicorn Beetle Mutation
+chapter: 1059
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Unicorn Beetle Mutation
-### Chapter 1059
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Unicorn Beetle Mutation
+
+### Chapter 1059
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Asleep on the spaceship, with Ji Yanran in his arms, rested The Strongest Genius in the Alliance.
 
 Ji Yanran had avoided watching the fight against the shura prince. She had been unable to cope with the thought of Han Sen being savagely beaten or even killed, all in the desire to accompany her on an expedition. She waited outside until news of what had occurred was known. A wave of relief unlike any other washed over her, upon hearing about Han Sen’s victory.

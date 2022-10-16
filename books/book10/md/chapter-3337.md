@@ -1,21 +1,20 @@
 ---
-Title:Purple Copper Sword 
-Chapter:3337 
-Section:17 
-Book:10 
-CSS:../Styles/style.css 
+title: Purple Copper Sword
+chapter: 3337
+section: 17
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Purple Copper Sword
-### Chapter 3337
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Purple Copper Sword
+
+### Chapter 3337
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 So far, Han Sen had yet to find a way to reclaim his soul.
 
 Although it was possible that if the little girl died, Han Sen’s soul mark would return to him, that was just a possibility and not a guarantee. Han Sen did not want to take any unnecessary risks for the time being.
@@ -72,7 +71,7 @@ This was obviously Demon Alpha Asura. If Han Sen was there, he would not believe
 
 Asura looked to where she had been flying. She looked strange as she spoke to herself. “What was that metal jian? My body is the best in the universe, but my sword self could not block the metal jian. That metal jian must be very powerful. So, who was it?”
 
-“What a shame this b*tch turned out to be such a dumbass who did not even know how to wield my power. She only used force to strike things. If she hadn’t, it would not have been difficult to kill that little girl. The 33 skies have only just recovered. Every sky is creating spirits. The little girl’s spirit is fairly impressive, so maybe she will be what is needed to kill all my opponents and become the holy soldier leader in the Soldier Weapon Sky. If she had pulled me out of the stone instead, with my power, she would have surely ascended to the throne. That asshole just had to ruin things.” Asura looked sad.
+“What a shame this bitch turned out to be such a dumbass who did not even know how to wield my power. She only used force to strike things. If she hadn’t, it would not have been difficult to kill that little girl. The 33 skies have only just recovered. Every sky is creating spirits. The little girl’s spirit is fairly impressive, so maybe she will be what is needed to kill all my opponents and become the holy soldier leader in the Soldier Weapon Sky. If she had pulled me out of the stone instead, with my power, she would have surely ascended to the throne. That asshole just had to ruin things.” Asura looked sad.
 
 She thought of the metal jian Han Sen had become. Asura started to look very angry.
 

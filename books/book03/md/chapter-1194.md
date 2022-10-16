@@ -1,21 +1,20 @@
 ---
-Title:The Fourth Person in the Alliance 
-Chapter:1194 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: The Fourth Person in the Alliance
+chapter: 1194
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## The Fourth Person in the Alliance
-### Chapter 1194
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## The Fourth Person in the Alliance
+
+### Chapter 1194
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 > “Time King Spirit Geno Point +1
 >
 > Time King Spirit Geno Point +1

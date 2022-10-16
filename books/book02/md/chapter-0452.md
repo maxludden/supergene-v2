@@ -1,21 +1,20 @@
 ---
-Title:Goddess Gang 
-Chapter:452 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Goddess Gang
+chapter: 452
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Goddess Gang
-### Chapter 452
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Goddess Gang
+
+### Chapter 452
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 After finishing his task on the warship, Han Sen had some free time again to enter God’s Sanctuary.
 
 Yang Manli had finished recruiting. 80 to 90% of the people living in that area joined Goddess Gang that Han Sen had formed and signed formal contracts.

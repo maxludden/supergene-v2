@@ -1,21 +1,20 @@
 ---
-Title:Soul Armor 
-Chapter:1948 
-Section:7 
-Book:5 
-CSS:../Styles/style.css 
+title: Soul Armor
+chapter: 1948
+section: 7
+book: 5
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Soul Armor
-### Chapter 1948
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Soul Armor
+
+### Chapter 1948
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen stopped in his tracks. He couldn’t figure out what had just happened.
 
 The light spell was stuck to Seven Spirit’s forehead. It shone brightly, and Qing Jun started to scream as it gleamed.

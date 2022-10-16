@@ -1,21 +1,20 @@
 ---
-Title:The Meeting of One Palm 
-Chapter:1789 
-Section:6 
-Book:5 
-CSS:../Styles/style.css 
+title: The Meeting of One Palm
+chapter: 1789
+section: 6
+book: 5
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## The Meeting of One Palm
-### Chapter 1789
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## The Meeting of One Palm
+
+### Chapter 1789
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The whole battleground was deadly silent. The hand that had grabbed the Pirate Bone Sword was depleted of its strength. Blood seeped out the back of the Viscount’s head, and he crumpled to the floor.
 
 “Xenogeneic Viscount hunted; xenogeneic gene found. Xenogeneic beast soul obtained: Steel Centaur.”

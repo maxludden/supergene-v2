@@ -1,21 +1,20 @@
 ---
-Title:Cactus 
-Chapter:1561 
-Section:4 
-Book:4 
-CSS:../Styles/style.css 
+title: Cactus
+chapter: 1561
+section: 4
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Cactus
-### Chapter 1561
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Cactus
+
+### Chapter 1561
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “What do you want?” Han Sen looked at Luo Yu, frowning.
 
 Luo Yu curled his lips and said, “You want to go hunt some super creatures, right? Then, to respect Luo Lan, I’ll give you this chance.”

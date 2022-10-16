@@ -1,21 +1,20 @@
 ---
-Title:Sparring With a Beauty 
-Chapter:175 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: Sparring With a Beauty
+chapter: 175
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Sparring With a Beauty
-### Chapter 175
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Sparring With a Beauty
+
+### Chapter 175
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 But Han Sen misunderstood one thing. He thought there was an operator in each SKTS in the array, and was prepared to be thrown into a group fight. Hence, he thought he should get rid of the first warframe coming at him as fast as possible, so that it would be easier for him to deal with the rest.
 
 Liu Changming and the director of the commercial Xu Wenchang were monitoring Han Sen’s practice through a monitor. Suddenly seeing a SKTS moving, they both paused.

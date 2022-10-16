@@ -1,21 +1,20 @@
 ---
-Title:Bao'er Returns 
-Chapter:3451 
-Section:17 
-Book:10 
-CSS:../Styles/style.css 
+title: Bao'er Returns
+chapter: 3451
+section: 17
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Bao'er Returns
-### Chapter 3451
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Bao'er Returns
+
+### Chapter 3451
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Human King grabbed Ji Yanran’s hands. Black and grey light was released. It was like many mysterious spells created a chain that ensnared Ji Yanran’s body.
 
 Han Ling’er jumped up off the ground. She wanted to attack Human King again. Before she could do anything, Human King said, “Right now, her life is connected to mine. If I am hurt, she will suffer too. If you are not afraid of her dying alongside me, then I dare you to try and harm her.” “You… obscene…” Han Ling’er was so mad and angry, but she did not actually do anything.

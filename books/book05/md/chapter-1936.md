@@ -1,21 +1,20 @@
 ---
-Title:Antiphasic 
-Chapter:1936 
-Section:7 
-Book:5 
-CSS:../Styles/style.css 
+title: Antiphasic
+chapter: 1936
+section: 7
+book: 5
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Antiphasic
-### Chapter 1936
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Antiphasic
+
+### Chapter 1936
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “Ming’s wife used her love to feed that cruel demon Ming King. She seduced him to open his mind and become a Buddha King herself. Even that cruel monster could not block it, so how could you?” Speechless felt so very cocky.
 
 During the cultural exchange between the Buddha and the Rebate, Speechless had been beaten by Gu Qingcheng. She was not happy about that. When Speechless heard that Han Sen was visiting the Buddha Kingdom, she went looking for him. She badly wanted to exact her revenge badly.

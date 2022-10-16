@@ -1,21 +1,20 @@
 ---
-Title:Attacking Saint Fan Shelter 
-Chapter:1285 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Attacking Saint Fan Shelter
+chapter: 1285
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Attacking Saint Fan Shelter
-### Chapter 1285
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Attacking Saint Fan Shelter
+
+### Chapter 1285
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Xie Yuxin returned to Yu Shaoqing’s side and saw Yu Qianxun beside him, also. She asked, “Qianxun?”
 
 Yu Qianxun stroked her head gently and told her, “It’s fine. There is no need for shame; you have merely encountered a genuine professional, that’s all.”

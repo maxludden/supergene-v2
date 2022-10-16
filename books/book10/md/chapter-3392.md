@@ -1,21 +1,20 @@
 ---
-Title:Fighting 
-Chapter:3392 
-Section:17 
-Book:10 
-CSS:../Styles/style.css 
+title: Fighting
+chapter: 3392
+section: 17
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Fighting
-### Chapter 3392
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Fighting
+
+### Chapter 3392
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen stepped into the area. His eyes looked surprised. His body did react. His stone-looking body felt power from the outside. Time was like a wave of water outside of him. Han Sen felt the flow and float of the river of time on his skin.
 
 Although his body was not moved by the reversal of time, it still shocked Han Sen. He looked at the crazy, spinning needle and thought, “Is the reversal of this spinning time too fast? Is that why my body has actually prompted some sort of reaction? Is it just this clock itself that is weird?”

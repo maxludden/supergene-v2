@@ -1,21 +1,20 @@
 ---
-Title:Shura 
-Chapter:1199 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Shura
+chapter: 1199
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Shura
-### Chapter 1199
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Shura
+
+### Chapter 1199
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The shura that boarded the ship were all wearing the same armor. Aspects that often revealed their level, such as horns and faces, had been hidden.
 
 Only one of them stood out from the crowd. He was dressed in armor that was a far more glamorous and a far more intimidating sight. Presumably, this figure was the leader.

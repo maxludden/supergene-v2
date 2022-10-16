@@ -1,21 +1,20 @@
 ---
-Title:Back to Night Charm 
-Chapter:2366 
-Section:11 
-Book:7 
-CSS:../Styles/style.css 
+title: Back to Night Charm
+chapter: 2366
+section: 11
+book: 7
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Back to Night Charm
-### Chapter 2366
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Back to Night Charm
+
+### Chapter 2366
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Katcha!
 
 The green light flashed. Hell King’s head was cut off.

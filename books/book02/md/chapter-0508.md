@@ -1,20 +1,19 @@
 ---
-Title:Crystal Treasure Box
-Chapter:508
-Section:2
-Book:2
-CSS:../Styles/style.css
+title: Crystal Treasure Box
+chapter: 508
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
 
 ## Crystal Treasure Box
+
 ### Chapter 508
 
 <figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
 </figure>
-
-
 
 Han Sen was afraid that the crab might snatch his part after it finished its own, so he summoned the angel, feeding the remaining silver eel to her.
 
@@ -27,11 +26,10 @@ Han Sen then had the time to look at the beast soul of the silver eel. Han Sen f
 <div class="tables">
 	<table class="beast">
 		<tr>
-			<th>Beast Soul Gained</th>
+			<th colspan="2">Beast Soul Gained</th>
 		</tr><tr>
-			<td>Sacred-Blood Silver Eel<br>
-				<span class="type">(Aquatic Mount)</span>
-			</td>
+			<td>Sacred-Blood Silver Eel</td>
+			<td>(Aquatic Mount)</td>
 		</tr>
 	</table>
 	<!-- Type of beast soul of sacred-blood silver eel: water mount. -->

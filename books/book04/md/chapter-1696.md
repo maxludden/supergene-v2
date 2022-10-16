@@ -1,21 +1,20 @@
 ---
-Title:God’s Organization’s Assault 
-Chapter:1696 
-Section:5 
-Book:4 
-CSS:../Styles/style.css 
+title: God’s Organization’s Assault
+chapter: 1696
+section: 5
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## God’s Organization’s Assault
-### Chapter 1696
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## God’s Organization’s Assault
+
+### Chapter 1696
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 1696 God’s Organization’s Assaul
 
 On Planet Roca, seven creatures dressed in black were hovering in the air above Han Sen’s house. They were watching.

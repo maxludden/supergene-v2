@@ -1,21 +1,20 @@
 ---
-Title:King’s Cover 
-Chapter:2335 
-Section:11 
-Book:7 
-CSS:../Styles/style.css 
+title: King’s Cover
+chapter: 2335
+section: 11
+book: 7
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## King’s Cover
-### Chapter 2335
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## King’s Cover
+
+### Chapter 2335
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Prince Swordstar stared furiously at Han Sen’s back. “Let’s go.”
 
 “Prince, you are just going to leave like this?” Prince Swordstar’s remaining guard looked angry as he spoke.

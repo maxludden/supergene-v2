@@ -1,21 +1,20 @@
 ---
-Title:Killing 
-Chapter:1424 
-Section:4 
-Book:4 
-CSS:../Styles/style.css 
+title: Killing
+chapter: 1424
+section: 4
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Killing
-### Chapter 1424
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Killing
+
+### Chapter 1424
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “D*mn you all!” Han Sen gritted his teeth.
 
 Han Sen allowed the spirits to hear what Luo Lan said because he wished for them

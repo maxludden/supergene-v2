@@ -1,21 +1,20 @@
 ---
-Title:Arrow Beast Soul 
-Chapter:901 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Arrow Beast Soul
+chapter: 901
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Arrow Beast Soul
-### Chapter 901
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Arrow Beast Soul
+
+### Chapter 901
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Flaming Porcupine: Arrow Beast Soul.
 
 Han Sen looked at its type and became extremely happy at the result. He was incredibly dexterous with a bow, so he thought it was incredibly fortunate for his first beast soul in this realm to be an arrow.

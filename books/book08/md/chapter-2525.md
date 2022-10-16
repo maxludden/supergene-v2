@@ -1,21 +1,20 @@
 ---
-Title:Cutting Cucumbers and Slicing Vegetables 
-Chapter:2525 
-Section:12 
-Book:8 
-CSS:../Styles/style.css 
+title: Cutting Cucumbers and Slicing Vegetables
+chapter: 2525
+section: 12
+book: 8
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Cutting Cucumbers and Slicing Vegetables
-### Chapter 2525
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Cutting Cucumbers and Slicing Vegetables
+
+### Chapter 2525
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “Lady, why are those two words written on your back?” Little Butterfly asked with curiosity.
 
 Li Keer nibbled her lips as her face flushed. After a while, she released a burst of laughter, then suddenly grew strangely serious. “Dollar is good. He can mask his actions from my Very High Sense.”

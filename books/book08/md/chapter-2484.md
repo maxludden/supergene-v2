@@ -1,21 +1,20 @@
 ---
-Title:I Don’t Like This Story 
-Chapter:2484 
-Section:12 
-Book:8 
-CSS:../Styles/style.css 
+title: I Don’t Like This Story
+chapter: 2484
+section: 12
+book: 8
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## I Don’t Like This Story
-### Chapter 2484
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## I Don’t Like This Story
+
+### Chapter 2484
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “You don’t look like someone who would become a traitor. Can you tell me more about your past?” Han Sen asked with a look of great curiosity. He was still sitting behind Lando on the Tianxia Unicorn as they made their way out of the system.
 
 He thought there had to be more to the story of Lando slaying his teacher. With Lando’s power, assassinating a deified would have been incredibly difficult.

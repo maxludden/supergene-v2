@@ -1,21 +1,20 @@
 ---
-Title:Chain Demon Crocodile 
-Chapter:2562 
-Section:12 
-Book:8 
-CSS:../Styles/style.css 
+title: Chain Demon Crocodile
+chapter: 2562
+section: 12
+book: 8
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Chain Demon Crocodile
-### Chapter 2562
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Chain Demon Crocodile
+
+### Chapter 2562
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The bronze furnace refused to go forward, so Han Sen had no choice but to leave it behind. He went on ahead with Li Keer and Exquisite.
 
 The bronze furnace continued to spit out fire behind Han Sen, creating a sentence that read, “Don’t go. There is danger!”

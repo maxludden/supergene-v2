@@ -1,21 +1,20 @@
 ---
-Title:Spirit? 
-Chapter:734 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Spirit?
+chapter: 734
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Spirit?
-### Chapter 734
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Spirit?
+
+### Chapter 734
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Her beautiful legs were like two lashing dragons, attempting to capture Han Sen like a pair of scissors. They looked ready to cut him down right then and there.
 
 Han Sen kept evading her capture and tried to plead with the woman, saying, "Lady, I have been wandering the Black Desert by myself for far too long. I thought I had encountered a mirage. I was only concerned with checking whether or not my eyes were playing tricks on me."

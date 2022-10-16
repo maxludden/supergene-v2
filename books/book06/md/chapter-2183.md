@@ -1,21 +1,20 @@
 ---
-Title:Siege 
-Chapter:2183 
-Section:9 
-Book:6 
-CSS:../Styles/style.css 
+title: Siege
+chapter: 2183
+section: 9
+book: 6
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Siege
-### Chapter 2183
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Siege
+
+### Chapter 2183
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen wanted to go back, but Barr was hounding him. He wasn’t going to let Han Sen return to his friends.
 
 Toxic Dragon Old Six missed his attack, but he did not stop. He ran towards the Feather woman, with a toxic light leaking from his fist. He really was like a toxic dragon.

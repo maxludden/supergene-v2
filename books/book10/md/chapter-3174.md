@@ -1,21 +1,20 @@
 ---
-Title:Purple Mist That Comes From the East 
-Chapter:3174 
-Section:16 
-Book:10 
-CSS:../Styles/style.css 
+title: Purple Mist That Comes From the East
+chapter: 3174
+section: 16
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Purple Mist That Comes From the East
-### Chapter 3174
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Purple Mist That Comes From the East
+
+### Chapter 3174
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Everyone chose to watch this fight because God of Wealth’s name had become rather outstanding in the fights. Three people from the same God Spirit had already reached the top 16. It was a magnificently rare achievement.
 
 Plus, his opponent was to be the supremely talented young man from Wu Wei Dao Palace, Zhuo Dong Lai, whose name was already known throughout the world. Aside from the Qin Kingdom, the power of the Wu Wei Dao Palace was something that lurked in the dark fringes. To the other six kingdoms the power of the Wu Wei Dao Palace was considered the greatest in the universe.

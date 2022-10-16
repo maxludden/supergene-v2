@@ -1,21 +1,20 @@
 ---
-Title:Ghost Bone Mask 
-Chapter:2249 
-Section:10 
-Book:7 
-CSS:../Styles/style.css 
+title: Ghost Bone Mask
+chapter: 2249
+section: 10
+book: 7
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Ghost Bone Mask
-### Chapter 2249
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Ghost Bone Mask
+
+### Chapter 2249
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “A treasure like this cannot be used by just anyone. Firstly, I’m not one of the Bone. And secondly, I don’t know any of the Ghost Bone Techniques. How am I supposed to control one of these Ghost Bone Masks?” Han Sen asked, staring quizzically at the Ghost Bone Masks upon the wall.
 
 Using powers that were beyond his control didn’t sound like a very good idea, and the last thing Han Sen wanted to do was take more risks.

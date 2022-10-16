@@ -1,21 +1,20 @@
 ---
-Title:Ant Nes 
-Chapter:1978 
-Section:8 
-Book:6 
-CSS:../Styles/style.css 
+title: Ant Nes
+chapter: 1978
+section: 8
+book: 6
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Ant Nes
-### Chapter 1978
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Ant Nes
+
+### Chapter 1978
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 *Boom!*
 
 A white light exploded amidst the horde of ants. A mushroom cloud was generated, and it rocked the entire cavern.

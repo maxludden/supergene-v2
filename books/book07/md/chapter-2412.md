@@ -1,21 +1,20 @@
 ---
-Title:Fighting Face to Face 
-Chapter:2412 
-Section:11 
-Book:7 
-CSS:../Styles/style.css 
+title: Fighting Face to Face
+chapter: 2412
+section: 11
+book: 7
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Fighting Face to Face
-### Chapter 2412
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Fighting Face to Face
+
+### Chapter 2412
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Move Mountain Area was practically invincible, but Han Sen felt as if he was going to reach the end of his tether soon.
 
 There was no problem with the way Move Mountain Area functioned, but there was a limit to the amount of power that the Donxguan Armor could support. So much power was being funneled into the armor that it was starting to produce cracking sounds, like breaking glass.

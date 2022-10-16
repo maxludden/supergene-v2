@@ -1,21 +1,20 @@
 ---
-Title:Purchasing Beast Souls 
-Chapter:503 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Purchasing Beast Souls
+chapter: 503
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Purchasing Beast Souls
-### Chapter 503
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Purchasing Beast Souls
+
+### Chapter 503
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen wandered around in the market of the Starwheel Shelter, which was much more bustling than the Goddess Shelter which belonged to Han Sen. However, mutant beast souls were still hard to find, and there was none of the sacred-blood beast souls.
 
 Han Sen had his eyes on several mutant beast souls and asked for the price, but most of the owners did not want cash, but to trade for a beast soul on the same level. For the ones sold for cash, Han Sen did not like them as much.

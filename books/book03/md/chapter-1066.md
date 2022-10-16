@@ -1,21 +1,20 @@
 ---
-Title:Big Plunder 
-Chapter:1066 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Big Plunder
+chapter: 1066
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Big Plunder
-### Chapter 1066
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Big Plunder
+
+### Chapter 1066
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Ji Yanran’s situation was bad. She had not teleported with the others as expected, and she had been left all alone.
 
 She set out in search of Han Sen but had an unfortunate encounter with crystallizer robots.

@@ -1,21 +1,20 @@
 ---
-Title:Not Under This Cup 
-Chapter:143 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: Not Under This Cup
+chapter: 143
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Not Under This Cup
-### Chapter 143
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Not Under This Cup
+
+### Chapter 143
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Ji Yanran had been preparing for Starry Cup recently as well and had spent long hours practicing every day. She did not expect to see Han Sen here again.
 
 She saw Han Sen and said nothing. Since he did not show up, it meant he had admitted he was not good enough and she did not want to rub it in.

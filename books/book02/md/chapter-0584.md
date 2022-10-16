@@ -1,21 +1,20 @@
 ---
-Title:Red-scale Dragon 
-Chapter:584 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Red-scale Dragon
+chapter: 584
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Red-scale Dragon
-### Chapter 584
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Red-scale Dragon
+
+### Chapter 584
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 "Watching Dollar battle is so boring. I want to watch Han Sen battle Yi Dongmu; two assassins fighting each other would be pretty fun!" Tang Zhenliu sat on his sofa rewatching the video of Yi Dongmu and Dollar's final battle.
 
 "A battle between two assassins would be too fatal," Lin Feng said quietly.

@@ -1,21 +1,20 @@
 ---
-Title:There Is Treasure 
-Chapter:1032 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: There Is Treasure
+chapter: 1032
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## There Is Treasure
-### Chapter 1032
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## There Is Treasure
+
+### Chapter 1032
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen reached the desert, map in hand.
 
 It was very detailed, and there were many points of interest marked on it. Locating his exact position was not at all difficult.

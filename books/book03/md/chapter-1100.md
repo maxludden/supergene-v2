@@ -1,21 +1,20 @@
 ---
-Title:First Fight 
-Chapter:1100 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: First Fight
+chapter: 1100
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## First Fight
-### Chapter 1100
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## First Fight
+
+### Chapter 1100
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “Dollar is really taking part?” In the Martial Hall of Trench Shelter, many people wanted to see Dollar’s name on the list.
 
 “Dollar versus Fei Yu King? What?! This is legit?”
@@ -86,7 +85,7 @@ The surprise of his appearance did not only apply to the humans, though. Even th
 
 “It’s a shame he has encountered Fei Yu King, who has opened nine gene locks,” Heavenly Empress said.
 
-Thunder-Devil King was there, as well, and he chimed in to say, “That *sshole has had it coming a long time now.”
+Thunder-Devil King was there, as well, and he chimed in to say, “That asshole has had it coming a long time now.”
 
 “The King!” Many spirits trumpeted the name across the grandstands and the shelters of their residence.
 

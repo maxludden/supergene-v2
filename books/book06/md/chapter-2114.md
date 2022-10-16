@@ -1,21 +1,20 @@
 ---
-Title:First Fight 
-Chapter:2114 
-Section:8 
-Book:6 
-CSS:../Styles/style.css 
+title: First Fight
+chapter: 2114
+section: 8
+book: 6
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## First Fight
-### Chapter 2114
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## First Fight
+
+### Chapter 2114
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 After looking at the opponents he would have to go up against, Han Sen glanced over Littleflower’s potential foes that were in the Viscount tier. He noticed that in the midst of them all, there was one particular race that he had never heard of before. It was represented by a simple paw print.
 
 “Ugh, whatever. I don’t care. I just need to finish this next fight as soon as I am able to, so I can find out if that Viscount is truly my Littleflower,” Han Sen thought to himself.

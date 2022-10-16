@@ -1,21 +1,20 @@
 ---
-Title:Suppress 
-Chapter:542 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Suppress
+chapter: 542
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Suppress
-### Chapter 542
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Suppress
+
+### Chapter 542
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen looked at Xue Yi Yang, who bore the appearance of an ice demon. In his heart, he was shocked.
 
 The skill that Xue Yi Yang had just used might have beenJadeskin, but it was obviously different from the one that Han Sen had learned.

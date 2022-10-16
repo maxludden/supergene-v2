@@ -1,21 +1,20 @@
 ---
-Title:Going Back to the World 
-Chapter:3346 
-Section:17 
-Book:10 
-CSS:../Styles/style.css 
+title: Going Back to the World
+chapter: 3346
+section: 17
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Going Back to the World
-### Chapter 3346
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Going Back to the World
+
+### Chapter 3346
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 When the power was gone, Han Sen used his Dongxuan Sutra to look around. He went back to Soldier Weapon Sky, but that place was no longer Soldier Weapon Sky.
 
 “This place is…” When Han Sen saw the place with some clarity, his face looked weird.

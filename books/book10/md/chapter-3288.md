@@ -1,21 +1,20 @@
 ---
-Title:Breaking the World Failed 
-Chapter:3288 
-Section:16 
-Book:10 
-CSS:../Styles/style.css 
+title: Breaking the World Failed
+chapter: 3288
+section: 16
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Breaking the World Failed
-### Chapter 3288
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Breaking the World Failed
+
+### Chapter 3288
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen knew he did not have much time left. If his power was consumed too much, even if he had a way to break the world with his Super God Spirit mode, he would not have the power needed to break the world.
 
 He needed to let his Super God Spirit mode break the world, but his power was too far depleted.
@@ -70,7 +69,7 @@ Zhao Ning’er frowned as she pondered all of this. She cursed her inability to 
 
 Han Sen’s weaker feelings were becoming stronger. The Super God Spirit mode looked like it was there, but it was not there. It seemed as if it was going to sputter out and disappear.
 
-“F*ck you! If you want to play, I will play with you back!” Han Sen was furious. He cast his power again.
+“Fuck you! If you want to play, I will play with you back!” Han Sen was furious. He cast his power again.
 
 This time, Han Sen did not cast the Super God Spirit mode or the reverse Super God Spirit mode. He was casting the reverse The Story of Genes, which had almost killed him before.
 

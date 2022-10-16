@@ -1,21 +1,20 @@
 ---
-Title:Down Goes the Brain 
-Chapter:260 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: Down Goes the Brain
+chapter: 260
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Down Goes the Brain
-### Chapter 260
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Down Goes the Brain
+
+### Chapter 260
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 An attack on the enemy's back was the most effective attack. In history, countless famous generals died under attacks from the flanks. Without knowing their backs were exposed, the five players from the Alliance Central Military Academy were still climbing the central mountain.
 
 All of a sudden, arrows were shot from their rear. Although there were five players on their team, the target of the arrows was one person.

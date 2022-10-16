@@ -1,21 +1,20 @@
 ---
-Title:One Arrow Shocks Ten Thousand Races 
-Chapter:2555 
-Section:12 
-Book:8 
-CSS:../Styles/style.css 
+title: One Arrow Shocks Ten Thousand Races
+chapter: 2555
+section: 12
+book: 8
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## One Arrow Shocks Ten Thousand Races
-### Chapter 2555
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## One Arrow Shocks Ten Thousand Races
+
+### Chapter 2555
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen drew Wind String, and the predatory roar coming from the bow grew ever louder. Nearby Kings felt their hearts pounding in their chests. They felt as if their hearts were going to explode.
 
 As everyone drowned in this shock, they knew they had to leave the area and watch Han Sen from a greater distance.
@@ -86,11 +85,11 @@ Plus, Han Sen had only said that he wanted to borrow it. He always planned to re
 
 Autumn Wind accepted the bow and returned it to his back. He walked in front of the bronze rickshaw and stood next to Ji Yang Sheng. He pulled the rope and said, “Mr. Ji, now that we are coworkers, it is nice to meet you.”
 
-“F*ck that. Look after your own *ss,” Ji Yang Sheng hissed furiously. He was thinking about why elites like themselves had to operate a rickshaw. And he wondered why Autumn Wind showed so much enthusiasm for the lowly task.
+“Fuck that. Look after your own *ss,” Ji Yang Sheng hissed furiously. He was thinking about why elites like themselves had to operate a rickshaw. And he wondered why Autumn Wind showed so much enthusiasm for the lowly task.
 
 When people saw Ji Yang Sheng and Autumn Wind pulling the bronze rickshaw, they finally shook off their daze.
 
-“God’s Daddy really deserves his title. He is too much of a f*cking god. How could he force Wind String to submit to him without ending up dead? Is he really a King? Are you sure he isn’t a deified in disguise?”
+“God’s Daddy really deserves his title. He is too much of a fucking god. How could he force Wind String to submit to him without ending up dead? Is he really a King? Are you sure he isn’t a deified in disguise?”
 
 “Nonsense! Deifieds can’t enter the core area.”
 

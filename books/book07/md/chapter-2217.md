@@ -1,21 +1,20 @@
 ---
-Title:Ruin 
-Chapter:2217 
-Section:10 
-Book:7 
-CSS:../Styles/style.css 
+title: Ruin
+chapter: 2217
+section: 10
+book: 7
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Ruin
-### Chapter 2217
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Ruin
+
+### Chapter 2217
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 After watching so many insects flee the valley, Han Sen and the others were drawn by curiosity to look back at the crevice. As they watched, a hand emerged.
 
 The crevice was very small, so it would be very difficult for any being to push a hand through it. But whoever or whatever it was seemed to be unable to get out. After failing to push its way out, the hand withdrew and an eye appeared in the crevice. When it saw Han Sen and his people, the eye retreated and vanished.

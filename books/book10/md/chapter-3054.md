@@ -1,21 +1,20 @@
 ---
-Title:Trapped in Jade Lion Valley 
-Chapter:3054 
-Section:16 
-Book:10 
-CSS:../Styles/style.css 
+title: Trapped in Jade Lion Valley
+chapter: 3054
+section: 16
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Trapped in Jade Lion Valley
-### Chapter 3054
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Trapped in Jade Lion Valley
+
+### Chapter 3054
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The king class Jade Lion king was not scary to Peaceful and the others, even if the Jade Lion king was already an adult. It was just a strong king class gene race.
 
 Since they had come prepared, they could fight a god class adult gene race. And this was just a king class gene race.

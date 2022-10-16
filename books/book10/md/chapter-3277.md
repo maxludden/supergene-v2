@@ -1,21 +1,20 @@
 ---
-Title:Paying Rent 
-Chapter:3277 
-Section:16 
-Book:10 
-CSS:../Styles/style.css 
+title: Paying Rent
+chapter: 3277
+section: 16
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Paying Rent
-### Chapter 3277
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Paying Rent
+
+### Chapter 3277
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Despite her saying how bad of a state she was in, Han Sen did not underestimate big sky demon.
 
 On her own, big sky demon infiltrated God Chaos Party’s hive. She managed to enter Qin Xiu’s old tower. Despite having been caught, she was able to make it out alive with only a few injuries. That was very scary.

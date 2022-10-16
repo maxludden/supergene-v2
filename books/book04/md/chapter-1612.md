@@ -1,21 +1,20 @@
 ---
-Title:Enemy Coming 
-Chapter:1612 
-Section:4 
-Book:4 
-CSS:../Styles/style.css 
+title: Enemy Coming
+chapter: 1612
+section: 4
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Enemy Coming
-### Chapter 1612
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Enemy Coming
+
+### Chapter 1612
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 After the meeting, Tina went up to Qing Ya with a request. “Uncle Qing Ya, can you take me with you? I want to see that human die.”
 
 “Last time you snuck out and lost the geno armor. That upset the leader, so you should stay home. I don’t think he’d want you going out this time.” Qing Ya gave her a smile.

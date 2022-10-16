@@ -1,21 +1,20 @@
 ---
-Title:Five Arrows 
-Chapter:256 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: Five Arrows
+chapter: 256
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Five Arrows
-### Chapter 256
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Five Arrows
+
+### Chapter 256
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Feng Jiulun did have his own reasons to praise his nephew, who was indeed a strong archer.
 
 Fang Wending had great techniques and was good at commanding the team. In the Military Academy League, he could absolutely be counted as a top player.

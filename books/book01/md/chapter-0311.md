@@ -1,21 +1,20 @@
 ---
-Title:Spinning Away 
-Chapter:311 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: Spinning Away
+chapter: 311
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Spinning Away
-### Chapter 311
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Spinning Away
+
+### Chapter 311
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen waved at his friends and entered the archery range. At the same time, Jing Jiya also entered the range.
 
 "Han Sen, there is something that I should probably tell you beforehand," Jing Jiya walked over to Han Sen and said with a smile.

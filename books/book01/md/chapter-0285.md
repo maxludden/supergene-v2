@@ -1,20 +1,19 @@
 ---
-Title:Flame Lieutenant
-Chapter:285
-Section:1
-Book:1
-CSS:../Styles/style.css
+title: Flame Lieutenant
+chapter: 285
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
 
 ## Flame Lieutenant
+
 ### Chapter 285
 
 <figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
 </figure>
-
-
 
 > "Beast soul identified. Sacred-blood beast soul flame Lieutenant gained."
 
@@ -27,11 +26,10 @@ With a ball of fire, a devil like creature appeared in front of Han Sen's eyes. 
 <div class="tables">
 	<table class="beast">
 		<tr>
-			<th>Beast Soul Gained</th>
+			<th colspan="2">Beast Soul Gained</th>
 		</tr><tr>
-			<td>Sacred-Blood Flame Lieutenant<br>
-				<span class="type">(Aura)</span>
-			</td>
+			<td>Sacred-Blood Flame Lieutenant</td>
+			<td>(Aura)</td>
 		</tr>
 	</table>
 	<!-- Type of beast soul of flame Lieutenant: aura. -->

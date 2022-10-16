@@ -1,21 +1,20 @@
 ---
-Title:Almost Died 
-Chapter:3374 
-Section:17 
-Book:10 
-CSS:../Styles/style.css 
+title: Almost Died
+chapter: 3374
+section: 17
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Almost Died
-### Chapter 3374
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Almost Died
+
+### Chapter 3374
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Following the strong will, Han Sen’s body started to dissolve.
 
 Han Sen, Wan’er, and Chaos split into three separate entities. They all flew in different directions.

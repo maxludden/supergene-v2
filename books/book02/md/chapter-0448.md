@@ -1,21 +1,20 @@
 ---
-Title:A New Recruit Trying Sprint 
-Chapter:448 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: A New Recruit Trying Sprint
+chapter: 448
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## A New Recruit Trying Sprint
-### Chapter 448
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## A New Recruit Trying Sprint
+
+### Chapter 448
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The fat squad leader became slightly pale. There had been many great soldiers who had tried the device and failed, so Wang Hou was clearly bringing the cookhouse up to set them up. However, there was no way the fat squad leader could argue with that.
 
 After hearing Wang Hou’s words, Chen Shoushan looked at the fat squad leader and said with a smile, "That is right. Luo, you are having a lot of fun just now, so it’s time for you to move around. I think you have a great team, so you will definitely do well."

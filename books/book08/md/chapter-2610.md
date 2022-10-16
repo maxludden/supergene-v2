@@ -1,21 +1,20 @@
 ---
-Title:Cheating 
-Chapter:2610 
-Section:12 
-Book:8 
-CSS:../Styles/style.css 
+title: Cheating
+chapter: 2610
+section: 12
+book: 8
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Cheating
-### Chapter 2610
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Cheating
+
+### Chapter 2610
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen’s knife skills kept changing, and thus far, he had used seventy different attacks. Not a single one managed to hit Exquisite. Her floating water knife was able to block every single strike.
 
 To an ordinary person, Exquisite would seem like some unknown god. No matter how many times Han Sen attacked, Exquisite controlled her water knife with perfect finesse. She blocked every attack like a prophet.

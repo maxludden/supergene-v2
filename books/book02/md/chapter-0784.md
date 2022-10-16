@@ -1,21 +1,20 @@
 ---
-Title:Mafia Bug 
-Chapter:784 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Mafia Bug
+chapter: 784
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Mafia Bug
-### Chapter 784
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Mafia Bug
+
+### Chapter 784
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The silkworm baby proudly mounted the hill and wriggled around the flower in circles. It wasn't long before it took notice of the five bee crystals, and believing no one to be watching it, began nibbling them.
 
 "It is difficult to be a bee in this place. First, they are attacked by an army of flies commanded by a spider, so that their cocoons are stolen. And now, they must give an offering of crystals to a bug. Insects may live a hard life, but this takes the cake. Their mistreatment is almost upsetting." Han Sen now understood that the bees had been working hard to produce an offering of edible crystals to an extortionist bug. Free lunch in trade for protection.

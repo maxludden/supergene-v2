@@ -1,21 +1,20 @@
 ---
-Title:Creature War 
-Chapter:337 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: Creature War
+chapter: 337
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Creature War
-### Chapter 337
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Creature War
+
+### Chapter 337
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen gazed at the cracked stone wall. Initially, he thought the wall was red because of the creature was bleeding.
 
 However, with a closer look, it was more than the creature's blood. There seemed to be liquid infiltrating through the cracks from the other side.

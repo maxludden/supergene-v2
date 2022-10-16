@@ -1,21 +1,20 @@
 ---
-Title:Tentacle Monster 
-Chapter:2581 
-Section:12 
-Book:8 
-CSS:../Styles/style.css 
+title: Tentacle Monster
+chapter: 2581
+section: 12
+book: 8
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Tentacle Monster
-### Chapter 2581
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Tentacle Monster
+
+### Chapter 2581
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 That monster was breathtakingly ugly. It was like a giant worm, but countless hair-like tentacles writhed from the sides of its body. The beast crawled out of the black water, its body still dripping the corrosive liquid of the sea.
 
 When the white tiger saw the monster, its expression changed. It roared to the sky, its mouth stretched wide open. Then, a mushroom rain began to storm down on the big monster.

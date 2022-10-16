@@ -1,21 +1,20 @@
 ---
-Title:Sky King Is Born 
-Chapter:1187 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Sky King Is Born
+chapter: 1187
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Sky King Is Born
-### Chapter 1187
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Sky King Is Born
+
+### Chapter 1187
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen was made up, and he thought to himself, “Hmm, perhaps this is not all bad. Give me a few more, and I’ll have myself a personal army.”
 
 In the sky, the hellbird raged with great curtains of fire that smoked the skies and turned them black. Try as it might, it was unable to incinerate the vines that sought to ravage its fiery body.

@@ -1,21 +1,20 @@
 ---
-Title:Mystic Plant 
-Chapter:607 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Mystic Plant
+chapter: 607
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Mystic Plant
-### Chapter 607
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Mystic Plant
+
+### Chapter 607
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 There was a giant creature swimming across the sea, which almost resembled a moving island.
 
 Seeing it, Han Sen and Queen did not even dare to breathe, and they steered the whale in another direction to avoid it. With the silver fox onboard, the only creatures they were likely to meet would be insanely powerful ones.

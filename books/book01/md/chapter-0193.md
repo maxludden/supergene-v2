@@ -1,21 +1,20 @@
 ---
-Title:Judgment 
-Chapter:193 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: Judgment
+chapter: 193
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Judgment
-### Chapter 193
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Judgment
+
+### Chapter 193
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Ouyang Xiaosan was not shaken by Han Sen's words. staring at Han Sen, he was making his judgment based on his ability and experience.
 
 There was no doubt that this was a white fist. Ouyang Xiaosan thought it was simply impossible to be a black fist.

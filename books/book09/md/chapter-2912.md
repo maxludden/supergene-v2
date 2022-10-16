@@ -1,21 +1,20 @@
 ---
-Title:Doll 
-Chapter:2912 
-Section:15 
-Book:9 
-CSS:../Styles/style.css 
+title: Doll
+chapter: 2912
+section: 15
+book: 9
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Doll
-### Chapter 2912
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Doll
+
+### Chapter 2912
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The big barren systems. That place was like a heaven for those in search of high-level xenogeneics. There were all kinds of deified xenogeneics, but all of them seemed to be in a perpetual rage. Therefore, it was a dangerous place to venture.
 
 With Han Sen’s current power, there was no need to worry too much about it.

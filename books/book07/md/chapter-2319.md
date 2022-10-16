@@ -1,21 +1,20 @@
 ---
-Title:Returning to Origin 
-Chapter:2319 
-Section:11 
-Book:7 
-CSS:../Styles/style.css 
+title: Returning to Origin
+chapter: 2319
+section: 11
+book: 7
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Returning to Origin
-### Chapter 2319
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Returning to Origin
+
+### Chapter 2319
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The guard’s water AoE didn’t give him any feeling of security. As those blue wolf eyes stared at him, cold sweat snaked its way down the King’s forehead and across his face.
 
 Owooooo!

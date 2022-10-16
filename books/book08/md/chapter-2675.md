@@ -1,21 +1,20 @@
 ---
-Title:Fighting the Mantis Across the Mountains 
-Chapter:2675 
-Section:13 
-Book:8 
-CSS:../Styles/style.css 
+title: Fighting the Mantis Across the Mountains
+chapter: 2675
+section: 13
+book: 8
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Fighting the Mantis Across the Mountains
-### Chapter 2675
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Fighting the Mantis Across the Mountains
+
+### Chapter 2675
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “That isn’t the entirety of his power. His physical strength is just one aspect of his abilities. He isn’t some brainless creature that is tossing his entire strength into this fight,” Shale said.
 
 “Do you think you will still be able to defeat him?” the Fox woman looked at Shale with interest.

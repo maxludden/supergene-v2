@@ -1,21 +1,20 @@
 ---
-Title:Digging the Mountain 
-Chapter:2461 
-Section:12 
-Book:8 
-CSS:../Styles/style.css 
+title: Digging the Mountain
+chapter: 2461
+section: 12
+book: 8
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Digging the Mountain
-### Chapter 2461
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Digging the Mountain
+
+### Chapter 2461
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen had no reason to hesitate. The geno universe was messy enough, and the woman was just one of the many beings that lived there. It didn’t matter if she was good or bad.
 
 Han Sen pulled out his Ghost Teeth Knife and used it to swipe the mountaintop. He wanted to cut through it.

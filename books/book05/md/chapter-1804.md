@@ -1,21 +1,20 @@
 ---
-Title:Unbelievable Mountain 
-Chapter:1804 
-Section:6 
-Book:5 
-CSS:../Styles/style.css 
+title: Unbelievable Mountain
+chapter: 1804
+section: 6
+book: 5
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Unbelievable Mountain
-### Chapter 1804
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Unbelievable Mountain
+
+### Chapter 1804
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The monsters went up toward the rivers of light, and when they drew close, it turned out that the snake-looking things weren’t actually snakes. It looked like a beard coming out from the sand. It was waving, and the motion had looked serpentine from afar.
 
 The monsters came towards the snake-looking beard, but the beard seemed frightened by their approach. It buried itself underground. There were more of them, and each one the monsters drew near to would end up drilling back into the ground.

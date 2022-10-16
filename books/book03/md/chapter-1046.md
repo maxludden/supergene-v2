@@ -1,21 +1,20 @@
 ---
-Title:Fight It 
-Chapter:1046 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Fight It
+chapter: 1046
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Fight It
-### Chapter 1046
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Fight It
+
+### Chapter 1046
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “Hide in the lake and only come out when I call you,” Xie Qing King commanded, as he saw the red inferno that was consuming the sky.
 
 Han Sen spared no time in agreeing, and so he quickly set about returning to the lake. He could feel a horrible power and presence headed his way, and it was better if he did not have to be the one to face it. That, and the fact he had now come to trust Xie Qing King, made him happy to oblige the request that he return to the restorative waters of the lake.

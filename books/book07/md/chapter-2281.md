@@ -1,21 +1,20 @@
 ---
-Title:Yisha Levels Up 
-Chapter:2281 
-Section:10 
-Book:7 
-CSS:../Styles/style.css 
+title: Yisha Levels Up
+chapter: 2281
+section: 10
+book: 7
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Yisha Levels Up
-### Chapter 2281
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Yisha Levels Up
+
+### Chapter 2281
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The hell blood pulse blended into Yisha’s body. Suddenly, a plume of purple air burst out of Yisha. It solidified into a purple substance chain and wrapped around her, loop upon loop.
 
 Everything she had—her clothes, her accessories, her armor, and all sorts of other things—disintegrated into nothing but dust under the power of that substance chain. As the chain surrounded her, Yisha curled her long body into a ball, like a fetus in the womb.

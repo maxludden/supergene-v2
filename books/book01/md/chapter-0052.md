@@ -1,21 +1,20 @@
 ---
-Title:Purple-winged Dragon 
-Chapter:52 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: Purple-winged Dragon
+chapter: 52
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Purple-winged Dragon
-### Chapter 52
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Purple-winged Dragon
+
+### Chapter 52
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen found a place that was not so steep and held Doomsday in both hands while watching the fight on the mountain top. Pulling out a Skyfall arrow from his quiver, he shot it at the sacred-blood creature.
 
 He barely hurt the sacred-blood creature with his arrows and two were shot at Son of Heaven who was fighting the sacred-blood creature.

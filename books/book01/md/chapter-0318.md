@@ -1,21 +1,20 @@
 ---
-Title:The Favor Is to Let You Live 
-Chapter:318 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: The Favor Is to Let You Live
+chapter: 318
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## The Favor Is to Let You Live
-### Chapter 318
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## The Favor Is to Let You Live
+
+### Chapter 318
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 There were a variety of creatures in Copper Mountains, while Han Sen was in no mood to hunt. Most of the creatures were ordinary and primitive ones. Occasionally, there were several mutant creatures, but they were all too large in body size for Han Sen to consider.
 
 The tornado wolf had an amazing speed. Han Sen had not quite seen any mount like it. Almost no creatures could catch up with the wolf.

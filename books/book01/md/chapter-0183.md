@@ -1,21 +1,20 @@
 ---
-Title:Huangfu Pingqing 
-Chapter:183 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: Huangfu Pingqing
+chapter: 183
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Huangfu Pingqing
-### Chapter 183
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Huangfu Pingqing
+
+### Chapter 183
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 "Do you know the rest of them?" Han Sen did not answer, but asked.
 
 "No." Wang Mengmeng shook her head after looking carefully.

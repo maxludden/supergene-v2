@@ -1,21 +1,20 @@
 ---
-Title:White Elephant 
-Chapter:2616 
-Section:12 
-Book:8 
-CSS:../Styles/style.css 
+title: White Elephant
+chapter: 2616
+section: 12
+book: 8
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## White Elephant
-### Chapter 2616
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## White Elephant
+
+### Chapter 2616
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 As everyone watched in confusion, the meaning of the two words of Sky Palace exploded, and something flew out into the air.
 
 “What is that?” Han Sen was shocked. He looked at Yun Suyi, never having heard of anything like this happening before.

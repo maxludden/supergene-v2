@@ -1,21 +1,20 @@
 ---
-Title:Flower Seed 
-Chapter:2790 
-Section:14 
-Book:9 
-CSS:../Styles/style.css 
+title: Flower Seed
+chapter: 2790
+section: 14
+book: 9
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Flower Seed
-### Chapter 2790
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Flower Seed
+
+### Chapter 2790
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Although the destructive power was not enough to kill the Flower Gods, they were able to make the Flower Gods lose their abilities of combat for a bit and fail to chase the swordsman.
 
 “Lone Bamboo really is so powerful.” Han Sen was shocked. He recognized the swordsman as no other than Lone Bamboo.

@@ -1,21 +1,20 @@
 ---
-Title:Big Evil Beast 
-Chapter:2537 
-Section:12 
-Book:8 
-CSS:../Styles/style.css 
+title: Big Evil Beast
+chapter: 2537
+section: 12
+book: 8
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Big Evil Beast
-### Chapter 2537
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Big Evil Beast
+
+### Chapter 2537
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “Who told you I was one of the Very High?” Han Sen asked with confusion.
 
 Li Keer wanted to ask this, as well, but she didn’t have a chance to.

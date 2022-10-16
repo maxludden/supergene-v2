@@ -1,21 +1,20 @@
 ---
-Title:Stunning Soul-taking Eye 
-Chapter:2257 
-Section:10 
-Book:7 
-CSS:../Styles/style.css 
+title: Stunning Soul-taking Eye
+chapter: 2257
+section: 10
+book: 7
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Stunning Soul-taking Eye
-### Chapter 2257
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Stunning Soul-taking Eye
+
+### Chapter 2257
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The Stunning Soul-Taking Eye was the highest-class geno art that the Foxes possessed, and learning the skill required the talents of a Fox’s eyes.
 
 A thousand different people could be polled on a single subject, and they would most likely give a thousand different responses. Everyone’s interests, opinions, and desires were unique. So, it was all very possible for certain people to fall in love with people that others would deem to be ugly. For both men and women, love-at-first-sight was a very important concept.

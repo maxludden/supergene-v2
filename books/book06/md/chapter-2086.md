@@ -1,21 +1,20 @@
 ---
-Title:Ten Thousand Gourds Move Again 
-Chapter:2086 
-Section:8 
-Book:6 
-CSS:../Styles/style.css 
+title: Ten Thousand Gourds Move Again
+chapter: 2086
+section: 8
+book: 6
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Ten Thousand Gourds Move Again
-### Chapter 2086
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Ten Thousand Gourds Move Again
+
+### Chapter 2086
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Mountain. River. Sun. Moon. Knife. Axe. Sword. Spear. The holy air came out again, all headed towards Han Sen. They entered through his forehead, one after another.
 
 “Good Bao’er! I raised you well, after all.” Han Sen was so happy, he wanted to pick her up and kiss her cheeks.
@@ -46,7 +45,7 @@ Holy gourd airs did not increase one’s level or power, but the benefits they g
 
 “Fuck! I thought the holy gourd air was something noble. It turns out to be something quite cheap.”
 
-“F*ck you! This favoritism is too much. Han Sen’s daughter can get holy air, and then ask the same to be given to her father? This has to be a joke!”
+“Fuck you! This favoritism is too much. Han Sen’s daughter can get holy air, and then ask the same to be given to her father? This has to be a joke!”
 
 “Does walking Sky Road require social connections now?”
 

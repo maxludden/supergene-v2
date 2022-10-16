@@ -1,21 +1,20 @@
 ---
-Title:Blood Ghost Spirit 
-Chapter:3052 
-Section:16 
-Book:10 
-CSS:../Styles/style.css 
+title: Blood Ghost Spirit
+chapter: 3052
+section: 16
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Blood Ghost Spirit
-### Chapter 3052
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Blood Ghost Spirit
+
+### Chapter 3052
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “I want to see what thing you are,” Ouyang Qiu Shan coldly grunted. He flapped the wings on his back, wanting to borrow the wind and fly.
 
 Peaceful suddenly stopped him and quietly said, “Let’s figure out where things stand first. Ancient Big God Mountains have many scary and cruel gene races. Perhaps what we have now encountered is a scary guy. Do not underestimate such a foe.”

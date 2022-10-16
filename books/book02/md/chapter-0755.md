@@ -1,21 +1,20 @@
 ---
-Title:Falsified-sky Sutra 
-Chapter:755 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Falsified-sky Sutra
+chapter: 755
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Falsified-sky Sutra
-### Chapter 755
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Falsified-sky Sutra
+
+### Chapter 755
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen couldn't think of a solution to the predicament he was in, so he thought about sending his mother a message. He had hoped to maybe receive some help from his mother, and perhaps get a glimpse of the true extent of her power.
 
 "Figure it out yourself." The text reply was those four simple words.

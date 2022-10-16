@@ -1,28 +1,27 @@
 ---
-Title:The Boss of Jade Hill 
-Chapter:1345 
-Section:4 
-Book:4 
-CSS:../Styles/style.css 
+title: The Boss of Jade Hill
+chapter: 1345
+section: 4
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## The Boss of Jade Hill
-### Chapter 1345
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## The Boss of Jade Hill
+
+### Chapter 1345
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The chef approached Han Sen with her cleaver in-hand. Just as Han Sen was about to retaliate with Super Spank, he heard a chilly voice boom from the skies.
 
 “Did you kill the primitive creatures?”
 
 The chef stopped and looked up into the sky. Han Sen lowered his hand and also looked up at the phantom figure that was now addressing them. When his vision cleared, he could see a male spirit hovering high-up in the air. His eyes were fixed on the chef, and his face bore an expression of distaste.
 
-Han Sen thought to himself, “Poor you, ‘bub.’ You pledged allegiance to the chef, and now she’s going to get her *ss handed to her! You chose the wrong side, pal.”
+Han Sen thought to himself, “Poor you, ‘bub.’ You pledged allegiance to the chef, and now she’s going to get her ass handed to her! You chose the wrong side, pal.”
 
 “Who are you?” the chef asked the spirit.
 

@@ -1,21 +1,20 @@
 ---
-Title:Busty 
-Chapter:195 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: Busty
+chapter: 195
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Busty
-### Chapter 195
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Busty
+
+### Chapter 195
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 "Brother Han." Han Sen saw an attractive woman after he stepped out of a gravity trainer.
 
 "Huangfu Pingqing? Why are you here?" Han Sen paused and asked.

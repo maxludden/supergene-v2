@@ -1,21 +1,20 @@
 ---
-Title:Destroy the Nest 
-Chapter:71 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: Destroy the Nest
+chapter: 71
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Destroy the Nest
-### Chapter 71
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Destroy the Nest
+
+### Chapter 71
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Swarms of black stingers flew in and out the nest and there were at least tens of thousands of them, filling Han Sen and Lu Weinan with dread.
 
 "Big brother, you do not mean to kill all these hornets, do you? Looks like they are all primitive creatures. There are so many of them and they can fly. It’d be hard for us to get out safely," Lu Weinan swallowed and said.

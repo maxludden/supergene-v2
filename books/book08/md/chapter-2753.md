@@ -1,21 +1,20 @@
 ---
-Title:God’s Curse 
-Chapter:2753 
-Section:13 
-Book:8 
-CSS:../Styles/style.css 
+title: God’s Curse
+chapter: 2753
+section: 13
+book: 8
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## God’s Curse
-### Chapter 2753
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## God’s Curse
+
+### Chapter 2753
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “We need to go see the leader at once. Bring your coral with us.”
 
 Han Sen and Exquisite were shocked. Uncle Nine’s Very High Sense was at a very high level, so the chances of him getting emotional were very low.

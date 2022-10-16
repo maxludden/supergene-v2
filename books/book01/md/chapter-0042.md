@@ -1,21 +1,20 @@
 ---
-Title:Dollar 
-Chapter:42 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: Dollar
+chapter: 42
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Dollar
-### Chapter 42
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Dollar
+
+### Chapter 42
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 In the beginning, Zhao Boshan’s video didn’t attract much attention. After all, there were so many videos online about the robot channel test.
 
 7.88 seconds was also considered a gimmick, as those who could pass the test within ten seconds would be among the very best of the unevolved.

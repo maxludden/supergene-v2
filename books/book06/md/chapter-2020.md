@@ -1,21 +1,20 @@
 ---
-Title:Dream 
-Chapter:2020 
-Section:8 
-Book:6 
-CSS:../Styles/style.css 
+title: Dream
+chapter: 2020
+section: 8
+book: 6
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Dream
-### Chapter 2020
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Dream
+
+### Chapter 2020
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Habits could be very scary things. Han Sen had been on Dream Island for three months now, and he had grown used to having two Sky Heart Locks on his body.
 
 Aside from moving slower, he was living like a normal person.

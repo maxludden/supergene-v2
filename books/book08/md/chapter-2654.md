@@ -1,21 +1,20 @@
 ---
-Title:An Accurate Kill That Is Like a Surgical Incision 
-Chapter:2654 
-Section:13 
-Book:8 
-CSS:../Styles/style.css 
+title: An Accurate Kill That Is Like a Surgical Incision
+chapter: 2654
+section: 13
+book: 8
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## An Accurate Kill That Is Like a Surgical Incision
-### Chapter 2654
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## An Accurate Kill That Is Like a Surgical Incision
+
+### Chapter 2654
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen spent several long minutes in observation before he finally flew forward to strike that bug. When he was close enough to it, he suddenly disappeared. When he reappeared, he was already above the bug’s shell.
 
 “God’s Wander?” Exquisite was shocked to see this. She was intimately familiar with the teleporting method he had used. Although he was only teleporting a short distance, the move was still impressive for a beginner. It was strange, though, considering she had only given him God’s Wander a short while ago. If Han Sen had become this proficient with it already, he was more than brilliant. His talents really were out-of-this-world.

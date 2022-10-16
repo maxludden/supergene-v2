@@ -1,21 +1,20 @@
 ---
-Title:Entering the Painting 
-Chapter:1463 
-Section:4 
-Book:4 
-CSS:../Styles/style.css 
+title: Entering the Painting
+chapter: 1463
+section: 4
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Entering the Painting
-### Chapter 1463
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Entering the Painting
+
+### Chapter 1463
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “A new geno core has immediately reached first place again? Is this world truly changing?” The woman frowned, and then asked the spirit, “Which geno core reached the top?”
 
 The spirit answered, “Master, it was a geno core called Bulwark Umbrella. It even managed to displace Six Paths, which now sits at second place.”

@@ -1,21 +1,20 @@
 ---
-Title:Snow Charmer 
-Chapter:462 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Snow Charmer
+chapter: 462
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Snow Charmer
-### Chapter 462
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Snow Charmer
+
+### Chapter 462
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 In Han Sen's mind, a spirit stone that looked like a piece of ice decorated with lots of mysterious patterns was floating. In the middle, two strange words "Snow Charmer" were imprinted. Although Han Sen did not know the language, he somehow knew what it meant.
 
 Han Sen summoned the spirit, and the stone suddenly flew out of his mind, turning into her figure.

@@ -1,21 +1,20 @@
 ---
-Title:The Power of Dollar 
-Chapter:1630 
-Section:4 
-Book:4 
-CSS:../Styles/style.css 
+title: The Power of Dollar
+chapter: 1630
+section: 4
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## The Power of Dollar
-### Chapter 1630
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## The Power of Dollar
+
+### Chapter 1630
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Dong!
 
 In the swordlight that brought ruin to everything, a golden light suddenly cracked the fabric of space. It traveled through the swordlight and smacked into Six Paths Sword, then stuck to it.

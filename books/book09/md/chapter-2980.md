@@ -1,21 +1,20 @@
 ---
-Title:Moment God 
-Chapter:2980 
-Section:15 
-Book:9 
-CSS:../Styles/style.css 
+title: Moment God
+chapter: 2980
+section: 15
+book: 9
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Moment God
-### Chapter 2980
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Moment God
+
+### Chapter 2980
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 After Fox Queen’s departure, Han Sen did not think this was right. Why had Fox Queen appeared right then and there? She had not selected any other God Spirit. She had just happened to choose him, who had only just appeared in his own god temple.
 
 “To be able to do tricks in a god palace, it must be that God.” Han Sen started to think it must be related to God, who was possessing Gu Wan’er.

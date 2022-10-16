@@ -1,21 +1,20 @@
 ---
-Title:Heavy Warframes 
-Chapter:137 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: Heavy Warframes
+chapter: 137
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Heavy Warframes
-### Chapter 137
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Heavy Warframes
+
+### Chapter 137
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Shi was dumbfounded, but he could not take back his words, so they all had to go. The next morning, Wang Mengmeng sent a text to invite the four of them to fill in the application form at Heavy Warframe Society.
 
 Fortunately, there were three beautiful girls, Wang Mengmeng, Wang Chun and Li Zhenzhen. Therefore they thought Heavy Warframe Society would not be so unbearable.

@@ -1,21 +1,20 @@
 ---
-Title:The Chosen Slayed in One Strike 
-Chapter:99 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: The Chosen Slayed in One Strike
+chapter: 99
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## The Chosen Slayed in One Strike
-### Chapter 99
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## The Chosen Slayed in One Strike
+
+### Chapter 99
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen realized how large the population of the Alliance was and how large First God’s Sanctuary was when he entered Chosen Martial Ring.
 
 Every shelter had about 100,000 people like Steel Armor Shelter. And everyone in Chosen Martial Ring now was the champion of their own shelter. The stands were almost filled with at least 100,000 champions, which meant there were at least 100,000 shelters in First God’s Sanctuary. It was a dizzying figure indeed.

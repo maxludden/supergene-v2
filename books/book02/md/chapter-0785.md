@@ -1,21 +1,20 @@
 ---
-Title:Silver-winged Holy Butterfly 
-Chapter:785 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Silver-winged Holy Butterfly
+chapter: 785
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Silver-winged Holy Butterfly
-### Chapter 785
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Silver-winged Holy Butterfly
+
+### Chapter 785
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen rushed before the emerging butterfly with a fusion of sonic and thunder power growling within him. With a charged fist, he threw it down upon the butterfly's head.
 
 The lightning shone like a silver sun as it was driven into the butterfly's chrome dome. The energy flow inside the creature was grievously disturbed, and the lightning stunned it into a state of paralysis.

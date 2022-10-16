@@ -1,21 +1,20 @@
 ---
-Title:Star Tree 
-Chapter:2651 
-Section:13 
-Book:8 
-CSS:../Styles/style.css 
+title: Star Tree
+chapter: 2651
+section: 13
+book: 8
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Star Tree
-### Chapter 2651
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Star Tree
+
+### Chapter 2651
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 On a ship that was headed to the Andromeda system, a crystallizer woman turned to a man next to her. She looked afraid.
 
 “Are you a crystallizer?” she asked.
@@ -82,7 +81,7 @@ After that, Lydia’s body suddenly collapsed on the ground. Her light faded, an
 
 Every day, Han Sen remained near the lake and continued fishing out pages of the Xuan Yellow Sutra. For some reason, whenever it was Bao’er’s turn, she always ended up with actual treasures, and every time Han Sen fished, he ended up with a sheet of paper belonging to the Xuan Yellow Sutra.
 
-“This is so f*cking weird. Why can I only retrieve this geno art, page by page?” Han Sen wondered. He couldn’t think of an answer.
+“This is so fucking weird. Why can I only retrieve this geno art, page by page?” Han Sen wondered. He couldn’t think of an answer.
 
 After all, anti-material worlds were difficult to explain. Common sense and logic didn’t really apply to such places, and Han Sen didn’t want to waste time mulling it over. He just wanted to gather all the pages of the Xuan Yellow Sutra as fast as he could. He was keen to find out what sort of geno art it was.
 

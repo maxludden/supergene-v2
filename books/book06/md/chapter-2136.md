@@ -1,21 +1,20 @@
 ---
-Title:Try Failing and Desperation 
-Chapter:2136 
-Section:8 
-Book:6 
-CSS:../Styles/style.css 
+title: Try Failing and Desperation
+chapter: 2136
+section: 8
+book: 6
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Try Failing and Desperation
-### Chapter 2136
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Try Failing and Desperation
+
+### Chapter 2136
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “D*mn it! At a time like this?” Evil Eye asked, his face twisting. His body came to a complete stop, and he hovered in the air above Han Sen. He brought his hand up to touch the third eye, but as hard as he pressed against it, the eye refused to stop bleeding.
 
 The red color spread across the eye, fighting the signature purple that tried to maintain control.

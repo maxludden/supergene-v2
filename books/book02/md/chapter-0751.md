@@ -1,21 +1,20 @@
 ---
-Title:Meet the Parents 
-Chapter:751 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Meet the Parents
+chapter: 751
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Meet the Parents
-### Chapter 751
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Meet the Parents
+
+### Chapter 751
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen thought his brain had fried, or that something must have possessed him to make him say what he had.
 
 He had prepared a very touching speech, but somehow, his head just said those words for no reason.

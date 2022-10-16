@@ -1,21 +1,20 @@
 ---
-Title:Eighteen Hits 
-Chapter:2303 
-Section:11 
-Book:7 
-CSS:../Styles/style.css 
+title: Eighteen Hits
+chapter: 2303
+section: 11
+book: 7
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Eighteen Hits
-### Chapter 2303
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Eighteen Hits
+
+### Chapter 2303
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “Bai Wuchang has a strange personality, so Father never planned on letting him succeed to the throne. He still loves him dearly, of course. Bai Wuchang is the only one who has never recruited guards for fighting, but Father still provides him resources in order to level up,” Bai Wei said.
 
 “He takes care of him that much? Won’t the other sons and daughter get jealous?” Han Sen asked with shock.

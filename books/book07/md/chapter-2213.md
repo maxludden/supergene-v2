@@ -1,21 +1,20 @@
 ---
-Title:One Shot to the Soul 
-Chapter:2213 
-Section:10 
-Book:7 
-CSS:../Styles/style.css 
+title: One Shot to the Soul
+chapter: 2213
+section: 10
+book: 7
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## One Shot to the Soul
-### Chapter 2213
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## One Shot to the Soul
+
+### Chapter 2213
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “Mutant Xenogeneic Duke Galactic Shrimp killed.”
 
 An announcement played inside Han Sen’s head, but he earned no beast soul. And after the mutant Galactic Shrimp exploded, no gene remained for the taking. That made Han Sen quite depressed.

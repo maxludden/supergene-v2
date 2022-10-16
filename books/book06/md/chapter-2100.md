@@ -1,21 +1,20 @@
 ---
-Title:Path Hidden Cave 
-Chapter:2100 
-Section:8 
-Book:6 
-CSS:../Styles/style.css 
+title: Path Hidden Cave
+chapter: 2100
+section: 8
+book: 6
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Path Hidden Cave
-### Chapter 2100
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Path Hidden Cave
+
+### Chapter 2100
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Suddenly, Han Sen’s eyes brightened. It looked as if he knew what he wanted.
 
 Sky Palace’s leader smiled at Han Sen. “Tell me. Whatever you need! I see your Master Yisha as a genuine student, and you are my student by extension. So, shirk any guilt and ask of me whatever you desire.”

@@ -1,21 +1,20 @@
 ---
-Title:Skygod Is Angry 
-Chapter:1856 
-Section:7 
-Book:5 
-CSS:../Styles/style.css 
+title: Skygod Is Angry
+chapter: 1856
+section: 7
+book: 5
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Skygod Is Angry
-### Chapter 1856
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Skygod Is Angry
+
+### Chapter 1856
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen’s body was flashing in the air. When he struck the giant egg, Captain Wood was completely shocked.
 
 “A speed like that, and a knifemind like that… How… Is his Teeth knifemind as good as the Queen’s? What is this…? Isn’t he just a Baron?”

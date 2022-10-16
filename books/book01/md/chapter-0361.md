@@ -1,21 +1,20 @@
 ---
-Title:Metal Wolf 
-Chapter:361 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: Metal Wolf
+chapter: 361
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Metal Wolf
-### Chapter 361
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Metal Wolf
+
+### Chapter 361
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 "We are two people and you are alone. Why do you get to keep all those things to yourself?" Chen Nanxing shouted.
 
 "If you have a way to kill the sacred-blood creature, I would have no problem having our stuff reversed," said Ye Yufeng.

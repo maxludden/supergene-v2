@@ -1,21 +1,20 @@
 ---
-Title:Super Creature in the Nest 
-Chapter:360 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: Super Creature in the Nest
+chapter: 360
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Super Creature in the Nest
-### Chapter 360
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Super Creature in the Nest
+
+### Chapter 360
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Ye Yufeng was dazed for a while before he smiled and said, "I heard a lot about Dollar, but just found out how interesting you are."
 
 When Han Sen was about to reply, he suddenly heard messy footsteps from the nest. Han Sen quickly looked down.

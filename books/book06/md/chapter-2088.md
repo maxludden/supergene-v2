@@ -1,21 +1,20 @@
 ---
-Title:Taking the Red Cloud 
-Chapter:2088 
-Section:8 
-Book:6 
-CSS:../Styles/style.css 
+title: Taking the Red Cloud
+chapter: 2088
+section: 8
+book: 6
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Taking the Red Cloud
-### Chapter 2088
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Taking the Red Cloud
+
+### Chapter 2088
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “Where is that cocky red cloud?” Han Sen brought Bao’er to the peak and waited there for three hours, but he had yet to see it. Bao’er was playing with a cloud beast that resembled a fat pig.
 
 Suddenly, a red mist appeared from the sea of clouds and headed their way. Before the red cloud reached the peak, it saw Han Sen. It recognized him, too. It flew around in the sky, with contrails spelling out words.

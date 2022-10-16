@@ -1,21 +1,20 @@
 ---
-Title:Demon Grave 
-Chapter:1792 
-Section:6 
-Book:5 
-CSS:../Styles/style.css 
+title: Demon Grave
+chapter: 1792
+section: 6
+book: 5
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Demon Grave
-### Chapter 1792
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Demon Grave
+
+### Chapter 1792
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Mister Ji told Han Sen that the Aqua-Scale Snakes were a powerful race, but of the lesser variety. They were strong enough to challenge the higher races that were in the geno hall. They had tried once, but fell short of being able to claim a lantern. The high race had killed almost all of them in return for the boldness.
 
 The Aqua-Scale Armor was made from the xenogeneic snakes that had died in the battle. It eventually came into Demon’s possession, and then Mister Ji’s personal ownership.
@@ -56,7 +55,7 @@ Han Sen shrugged his shoulders and did not say anything in response. Even though
 
 That meant Mister Ji wouldn’t have been very confident in the venture, either, if he was to go alone. He really wanted Han Sen to go with him.
 
-“Inside Demon Grave, our lives are tethered. If you die, I die. If you live, I live. So, if there is anything I need to know, it is best you tell me now. Don’t hold back something that will bite us in the *ss later,” Mister Ji said.
+“Inside Demon Grave, our lives are tethered. If you die, I die. If you live, I live. So, if there is anything I need to know, it is best you tell me now. Don’t hold back something that will bite us in the ass later,” Mister Ji said.
 
 Han Sen smiled and said, “Don’t worry; this is a trade. You’re paying for the service, so we each have an obligation. You? Money. Me? Effort. We humans have standards.”
 

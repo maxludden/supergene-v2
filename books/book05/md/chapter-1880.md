@@ -1,21 +1,20 @@
 ---
-Title:The Only Way Ou 
-Chapter:1880 
-Section:7 
-Book:5 
-CSS:../Styles/style.css 
+title: The Only Way Ou
+chapter: 1880
+section: 7
+book: 5
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## The Only Way Ou
-### Chapter 1880
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## The Only Way Ou
+
+### Chapter 1880
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Spell’s body moved with the revolver’s recoil. She kept firing her gun without reprieve, as muzzle flashes ignited the end of the barrel with fire. It wasn’t long before all of the Purgatory Beasts before them had been killed.
 
 Others were coming out of the darkness, headed right for them.

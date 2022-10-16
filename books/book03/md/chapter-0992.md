@@ -1,21 +1,20 @@
 ---
-Title:The Reversed Dragon Scale 
-Chapter:992 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: The Reversed Dragon Scale
+chapter: 992
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## The Reversed Dragon Scale
-### Chapter 992
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## The Reversed Dragon Scale
+
+### Chapter 992
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Moment Queen’s heart pounded in her chest as she watched Bao’er hit the floor with the ring in gleeful childplay. She wished to snatch it back.
 
 But if she showed any interest in the ring, she knew Han Sen would take it away from her for good.
@@ -64,7 +63,7 @@ Moment Queen, after seeing their impish smiles, knew she had been tricked.
 
 Han Sen must have known there to be something special with the ring a long time ago. To test her faithfulness, and whether or not the ring was a worthy item for the taking, he pranked her.
 
-“*sshole! *sshole father! *sshole daughter!” Moment Queen’s mind was an inferno of raging hatred, particularly so when she realized she had been tricked by a baby.
+“*sshole! asshole father! asshole daughter!” Moment Queen’s mind was an inferno of raging hatred, particularly so when she realized she had been tricked by a baby.
 
 Han Sen took the ring. He didn’t know what good it would do him, if any, but if Moment Queen wanted it that badly, then he knew he’d be better off with it.
 

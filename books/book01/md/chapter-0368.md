@@ -1,21 +1,20 @@
 ---
-Title:Another Super Beast Soul 
-Chapter:368 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: Another Super Beast Soul
+chapter: 368
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Another Super Beast Soul
-### Chapter 368
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Another Super Beast Soul
+
+### Chapter 368
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The wolf's whimper was stopped by the blade in its throat. However, the creature suddenly turned its head and broke the sacred-blood sword. The beast soul suddenly disappeared and metal wolf fell on the floor with blood welling from its wound.
 
 Han Sen quickly stabbed the spinning spear at the wolf, which gave Han Sen a fierce stare and escaped deeper into the nest.

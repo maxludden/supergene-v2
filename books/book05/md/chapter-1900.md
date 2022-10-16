@@ -1,21 +1,20 @@
 ---
-Title:Summoned Buddha 
-Chapter:1900 
-Section:7 
-Book:5 
-CSS:../Styles/style.css 
+title: Summoned Buddha
+chapter: 1900
+section: 7
+book: 5
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Summoned Buddha
-### Chapter 1900
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Summoned Buddha
+
+### Chapter 1900
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “Qing Li, what are you talking about?” Du Lishe asked from her seat next to Qing Li.
 
 “I think Han Sen wrote better than No Flower did,” Qing Li answered.

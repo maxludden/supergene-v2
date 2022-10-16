@@ -1,21 +1,20 @@
 ---
-Title:Controlling the Sky and the Ground 
-Chapter:3420 
-Section:17 
-Book:10 
-CSS:../Styles/style.css 
+title: Controlling the Sky and the Ground
+chapter: 3420
+section: 17
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Controlling the Sky and the Ground
-### Chapter 3420
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Controlling the Sky and the Ground
+
+### Chapter 3420
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 All the names of all the 32 skies’ leaders lit up on the geno tablet’s face. When the names were lit up, the leader’s shadow arose from the geno tablet. It was like a demon god was floating in the 33 skies. It made a sky full of worlds see the leader’s name and face.
 
 There were people there Han Sen knew. Besides Qin Xiu, there was also Human King, big sky demon, Ancient Devil, Bury Path God, Wang Yuhang, Ning Yue, Demon Alpha, and others who were all figures with whom Han Sen was well acquainted.

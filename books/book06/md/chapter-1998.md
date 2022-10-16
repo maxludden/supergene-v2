@@ -1,21 +1,20 @@
 ---
-Title:The Demon Blocking the Sky 
-Chapter:1998 
-Section:8 
-Book:6 
-CSS:../Styles/style.css 
+title: The Demon Blocking the Sky
+chapter: 1998
+section: 8
+book: 6
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## The Demon Blocking the Sky
-### Chapter 1998
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## The Demon Blocking the Sky
+
+### Chapter 1998
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen slashed at Lone Bamboo, but Lone Bamboo did not dodge. He reached out his hand and grabbed Ghost Teeth Knife’s blade. Blood poured from his hand, but he wasn’t planning on letting go.
 
 Han Sen pulled back, but he couldn’t pull Ghost Teeth Knife out of Lone Bamboo’s grasp. Having opened his Sky eye, Lone Bamboo was now far stronger.

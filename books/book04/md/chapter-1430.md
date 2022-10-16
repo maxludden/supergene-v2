@@ -1,21 +1,20 @@
 ---
-Title:The Deal With a Hundred Tribes 
-Chapter:1430 
-Section:4 
-Book:4 
-CSS:../Styles/style.css 
+title: The Deal With a Hundred Tribes
+chapter: 1430
+section: 4
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## The Deal With a Hundred Tribes
-### Chapter 1430
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## The Deal With a Hundred Tribes
+
+### Chapter 1430
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Ling Mei’er shook her head and proclaimed to Han Sen, “I cannot leave here!”
 
 “Why not?” Han Sen asked.

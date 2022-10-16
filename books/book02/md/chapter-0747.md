@@ -1,21 +1,20 @@
 ---
-Title:An Uncompleted Build 
-Chapter:747 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: An Uncompleted Build
+chapter: 747
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## An Uncompleted Build
-### Chapter 747
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## An Uncompleted Build
+
+### Chapter 747
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 > "Super Creature Hunted: Twin-Tailed Purple Scorpion. The beast soul has not been acquired. The flesh of this creature is inedible, but you may harvest its Life Geno essence. Consume its Life Geno essence to obtain a random numeric amount of super geno points, ranging from zero to ten."
 
 Han Sen heard the announcement and felt a little disheartened. He wanted to wait until the creature gave birth, but now that he'd already killed it, he didn't even get the beast soul. All he got was a lousy Life Geno essence.

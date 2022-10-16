@@ -1,21 +1,20 @@
 ---
-Title:Fighting the Queen 
-Chapter:324 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: Fighting the Queen
+chapter: 324
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Fighting the Queen
-### Chapter 324
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Fighting the Queen
+
+### Chapter 324
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen hoped he would see Queen from the Ares Martial Hall again. Although Han Sen knew he was not nearly as good as she was, he still looked forward to their fight.
 
 After all, they were both fighting in the virtual community and he would not be injured while appreciating her incredible skills.

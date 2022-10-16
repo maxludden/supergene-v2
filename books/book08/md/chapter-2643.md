@@ -1,21 +1,20 @@
 ---
-Title:Small Jade Figure 
-Chapter:2643 
-Section:13 
-Book:8 
-CSS:../Styles/style.css 
+title: Small Jade Figure
+chapter: 2643
+section: 13
+book: 8
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Small Jade Figure
-### Chapter 2643
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Small Jade Figure
+
+### Chapter 2643
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “It’s good that you know. Don’t ever think of things like that again,” Exquisite said, feigning calmness over what she had just seen.
 
 The silkworms of other races might not have known they were being watched by the Very High, but it wasn’t surprising that the Sky knew about this, though. After all, the Sky and the Very High were once part of the same family, and the Very High had never tried to hide the fact that they spied on their silkworms. So, Exquisite didn’t think it was strange that Han Sen knew about this.

@@ -1,21 +1,20 @@
 ---
-Title:Killing Iron Bug King 
-Chapter:905 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Killing Iron Bug King
+chapter: 905
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Killing Iron Bug King
-### Chapter 905
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Killing Iron Bug King
+
+### Chapter 905
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Severed roses danced through the air as the spirit continued trying to deal with the enraged iron bug. But whatever came into contact with the green liquid-fire, geno weapons included, would be corroded and ruined immediately.
 
 Han Sen was terrified, even as he watched from a distance.

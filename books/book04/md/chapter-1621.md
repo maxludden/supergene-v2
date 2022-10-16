@@ -1,21 +1,20 @@
 ---
-Title:The Deal of Broken Shield 
-Chapter:1621 
-Section:4 
-Book:4 
-CSS:../Styles/style.css 
+title: The Deal of Broken Shield
+chapter: 1621
+section: 4
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## The Deal of Broken Shield
-### Chapter 1621
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## The Deal of Broken Shield
+
+### Chapter 1621
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Before the creatures from Sacred arrived at the shelter, a group was already moving out of the shelter, led by Night Empress. Han Sen also saw Lotus Empress among the spirits and creatures, and he was happy.
 
 “Sister Lotus is so lucky. She found her mom after she became a demigod,” Han Sen thought.

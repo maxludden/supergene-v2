@@ -1,21 +1,20 @@
 ---
-Title:Evolver-3 
-Chapter:95 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: Evolver-3
+chapter: 95
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Evolver-3
-### Chapter 95
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Evolver-3
+
+### Chapter 95
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Because of the misunderstanding, Han Sen continued to challenge the evolver level of Hand of God, but he was making little progress even when using Jadeskin.
 
 Recently, Yang Manli was satisfied with Han Sen’s performance. He had finished all the tasks she assigned him and the data of the gravity trainer became normal again. She thought it was because he had stopped exploiting the loophole, but little did she know that he was actually increasing the difficulty so that his result could look normal.

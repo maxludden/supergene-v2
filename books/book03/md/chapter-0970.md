@@ -1,21 +1,20 @@
 ---
-Title:Red-eye Rabbit 
-Chapter:970 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Red-eye Rabbit
+chapter: 970
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Red-eye Rabbit
-### Chapter 970
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Red-eye Rabbit
+
+### Chapter 970
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Rustle. Rustle. Rustle.
 
 As the bushes rustled, a white shadow leapt out.

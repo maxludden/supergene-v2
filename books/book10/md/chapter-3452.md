@@ -1,21 +1,20 @@
 ---
-Title:Breakthrough 
-Chapter:3452 
-Section:17 
-Book:10 
-CSS:../Styles/style.css 
+title: Breakthrough
+chapter: 3452
+section: 17
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Breakthrough
-### Chapter 3452
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Breakthrough
+
+### Chapter 3452
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Bao’er’s eyes looked cold. The little gold gourd in her hands was not going away. She coldly shouted, “Mother! Come back!”
 
 Human King felt bad about this. He used rule powers to cloak the skies and then suddenly felt emptiness. Ji Yanran, who had been grabbed by him, had been sucked toward the gold little gourd with the magical spell chain that had kept her in wraps. Human King’s face changed. Let’s not say this was purely because of Bao’er’s power, but even Han Littleflower and Han Ling’er had beaten him up when they co-operated. He turned around, wanting to do nothing more than escape.

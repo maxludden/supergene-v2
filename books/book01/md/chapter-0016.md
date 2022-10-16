@@ -1,21 +1,20 @@
 ---
-Title:Quartz Scorpion 
-Chapter:16 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: Quartz Scorpion
+chapter: 16
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Quartz Scorpion
-### Chapter 16
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Quartz Scorpion
+
+### Chapter 16
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen took back the beast soul armor and returned to Steel Armor Shelter. When he was entering the gate, he met an acquaintance.
 
 "Sen?" Han Hao was surprised to see him.

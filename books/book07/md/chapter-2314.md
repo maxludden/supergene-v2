@@ -1,21 +1,20 @@
 ---
-Title:Strange Metal Wolf 
-Chapter:2314 
-Section:11 
-Book:7 
-CSS:../Styles/style.css 
+title: Strange Metal Wolf
+chapter: 2314
+section: 11
+book: 7
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Strange Metal Wolf
-### Chapter 2314
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Strange Metal Wolf
+
+### Chapter 2314
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The stone dragon dove toward the blue metal wolf’s head, but Han Sen steadied his weapons and remained motionless.
 
 Even a skinny camel was still bigger than a horse. So, while the blue metal wolf had sustained terrible injuries, it still had plenty of strength. It wouldn’t go down quickly. Therefore, Han Sen planned to let the stone dragon and the metal wolf duke it out for a while before initiating a strike of his own.

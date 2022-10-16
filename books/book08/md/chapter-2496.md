@@ -1,21 +1,20 @@
 ---
-Title:The Story of Genes Leveling Up to King Class 
-Chapter:2496 
-Section:12 
-Book:8 
-CSS:../Styles/style.css 
+title: The Story of Genes Leveling Up to King Class
+chapter: 2496
+section: 12
+book: 8
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## The Story of Genes Leveling Up to King Class
-### Chapter 2496
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## The Story of Genes Leveling Up to King Class
+
+### Chapter 2496
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Despite countless attempts, Han Sen never succeeded in activating The Story of Genes’ cogwheel. But now, things were different. Han Sen had the peacock king’s soul robe. Through the buffs provided by the peacock king’s beast soul, his power could rival that of a deified. With deified power behind him, Han Sen believed he’d have what it took to finally put the self-cogwheel in motion.
 
 After a few days, Han Sen found the right time to do that. He locked himself in an isolated room and fired up The Story of Genes to get to work on his leveling up plan.

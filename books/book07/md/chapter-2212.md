@@ -1,21 +1,20 @@
 ---
-Title:Mutant Galactic Shrimp 
-Chapter:2212 
-Section:10 
-Book:7 
-CSS:../Styles/style.css 
+title: Mutant Galactic Shrimp
+chapter: 2212
+section: 10
+book: 7
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Mutant Galactic Shrimp
-### Chapter 2212
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Mutant Galactic Shrimp
+
+### Chapter 2212
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Night River King’s power wasn’t impressive when compared to other Kings. That skill he was using now was very powerful, though. As he fought, even the King class Galactic Lobsters were hurt by the attacks he hurled. Sections of their shells were shattered by the force, and the revealed flesh began to rot away immediately.
 
 “Night River King sure has some skill,” Han Sen thought to himself. He kept moving around the battlefield, waiting for his best chance to strike.

@@ -1,21 +1,20 @@
 ---
-Title:Half a Candle 
-Chapter:3234 
-Section:16 
-Book:10 
-CSS:../Styles/style.css 
+title: Half a Candle
+chapter: 3234
+section: 16
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Half a Candle
-### Chapter 3234
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Half a Candle
+
+### Chapter 3234
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “Night God No Moon? Isn’t that the name given to Moon God by the Qin Kingdom? Does she have a gene race in the Qin Kingdom?” Han Sen was shocked by this.
 
 If there was a gene race left behind by Moon God, it could be unique.

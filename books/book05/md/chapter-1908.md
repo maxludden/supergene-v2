@@ -1,21 +1,20 @@
 ---
-Title:Crystallizer 
-Chapter:1908 
-Section:7 
-Book:5 
-CSS:../Styles/style.css 
+title: Crystallizer
+chapter: 1908
+section: 7
+book: 5
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Crystallizer
-### Chapter 1908
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Crystallizer
+
+### Chapter 1908
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Quickly, Han Sen noticed he was able to read the text contained within the diary. It was written in the ancient language of humans—a text often used by the crystallizers. There were, however, a variety of symbols not even he could understand. All-in-all, he didn’t understand everything together.
 
 There were some formulas jotted down. Han Sen wasn’t very good at science. He had learned a bit in school, but he had forgotten most of that by now.

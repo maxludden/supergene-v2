@@ -1,21 +1,20 @@
 ---
-Title:Ice Lake 
-Chapter:741 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Ice Lake
+chapter: 741
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Ice Lake
-### Chapter 741
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Ice Lake
+
+### Chapter 741
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The subterranean bamboo forest was enormous, but it had no stone pillar or significant stalagmites to support it. Supporting this humongous cavern was the bamboo itself, as the countless bamboo shoots rose from the ground and supported the ceiling.
 
 Han Sen had traveled thirty miles through this subterranean kingdom, but he had yet to see an end. It looked mostly the same, as well; the only difference he noticeed was in the temperature. The deeper he went, the lower the temperature seemed to tick.

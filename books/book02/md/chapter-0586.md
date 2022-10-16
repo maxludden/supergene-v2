@@ -1,21 +1,20 @@
 ---
-Title:Poison Test 
-Chapter:586 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Poison Test
+chapter: 586
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Poison Test
-### Chapter 586
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Poison Test
+
+### Chapter 586
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The silver fox saw the red mushroom, opened its mouth, and swallowed it.
 
 And then Han Sen and the fox looked at each other. There was no movement for quite some time.

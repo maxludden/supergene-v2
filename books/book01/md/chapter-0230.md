@@ -1,21 +1,20 @@
 ---
-Title:Beheading in Sand Valley 
-Chapter:230 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: Beheading in Sand Valley
+chapter: 230
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Beheading in Sand Valley
-### Chapter 230
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Beheading in Sand Valley
+
+### Chapter 230
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 After he arrived at Sand Valley, Han Sen came to understand why with a strong team Huangfu Pingqing was still not able to kill the sacred-blood creature.
 
 The reason the Sand Valley was called that was for the sand pits everywhere in the valley. Unless one had wings, one would die there for sure.

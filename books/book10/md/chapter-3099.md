@@ -1,21 +1,20 @@
 ---
-Title:Sky Jade 
-Chapter:3099 
-Section:16 
-Book:10 
-CSS:../Styles/style.css 
+title: Sky Jade
+chapter: 3099
+section: 16
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Sky Jade
-### Chapter 3099
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Sky Jade
+
+### Chapter 3099
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Pang!
 
 The room’s door was blown open by Si Tu Ya, but no one was able to see what was inside. All they saw was a strong, holy white shadow blocking the door.

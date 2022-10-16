@@ -1,21 +1,20 @@
 ---
-Title:Lancelight Breaks a Thousand Evils 
-Chapter:2061 
-Section:8 
-Book:6 
-CSS:../Styles/style.css 
+title: Lancelight Breaks a Thousand Evils
+chapter: 2061
+section: 8
+book: 6
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Lancelight Breaks a Thousand Evils
-### Chapter 2061
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Lancelight Breaks a Thousand Evils
+
+### Chapter 2061
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 An invisible pressure came down from the sky, and it made Han Sen frown. The xenogeneics and the nobles rolled back from him like a receding tide. All they did then was surround him.
 
 Han Sen raised his head and saw ten beasts that looked like birds. But they didn’t look exactly like birds, and they were pulling a carriage. That scary presence stemmed from those monsters.

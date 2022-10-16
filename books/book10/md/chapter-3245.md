@@ -1,21 +1,20 @@
 ---
-Title:Ice Fields 
-Chapter:3245 
-Section:16 
-Book:10 
-CSS:../Styles/style.css 
+title: Ice Fields
+chapter: 3245
+section: 16
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Ice Fields
-### Chapter 3245
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Ice Fields
+
+### Chapter 3245
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen used all the power he could. He temporarily suppressed the reverse Super God Spirit mode. It slowed down the gold spreading in Qin Jing Zhen’s body. It enabled him to last another three to four years.
 
 Wan’er’s power was too strong. The power of Wan’er from both worlds being combined into one pushed the reverse Super God Spirit mode to the max.

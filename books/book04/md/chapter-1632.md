@@ -1,21 +1,20 @@
 ---
-Title:The Seventh Round Has Come 
-Chapter:1632 
-Section:4 
-Book:4 
-CSS:../Styles/style.css 
+title: The Seventh Round Has Come
+chapter: 1632
+section: 4
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## The Seventh Round Has Come
-### Chapter 1632
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## The Seventh Round Has Come
+
+### Chapter 1632
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The professional in the virtual community got stomped on. Everyone commented and asked for his opinion on how Dollar effortlessly broke the fifth opponent’s head.
 
 “Your prediction was accurate, and Dollar really was given a lot of trouble—the blood must have taken ages to clean!”

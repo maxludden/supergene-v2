@@ -1,21 +1,20 @@
 ---
-Title:All It Took 
-Chapter:200 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: All It Took
+chapter: 200
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## All It Took
-### Chapter 200
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## All It Took
+
+### Chapter 200
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Fang Mingquan sent Wen Xiuxiu to Blackhawk not to fool her.
 
 Wen Xiuxiu was from an important family and as someone who cared about his future, Fang Mingquan had to take good care of her. He knew Han Sen would also participate in the game, and that was why he had sent Wen to Blackhawk.

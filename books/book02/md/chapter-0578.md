@@ -1,21 +1,20 @@
 ---
-Title:Mechanical Fist 
-Chapter:578 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Mechanical Fist
+chapter: 578
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Mechanical Fist
-### Chapter 578
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Mechanical Fist
+
+### Chapter 578
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen was still troubled, thinking about how he might convince Li Xing Lun and Brother Philip to attack the royal shelter. Right now, Qi Xiuwen had volunteered to rally their support, saving Han Sen some trouble.
 
 Convincing Li Xing Lun and Brother Philip would not be easy. They still had the problem of the Silver Ladybug to sort out, after all. Without full support from both of them, taking on the royal shelter would be impossible.

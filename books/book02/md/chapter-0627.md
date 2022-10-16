@@ -1,21 +1,20 @@
 ---
-Title:Horrible Killing 
-Chapter:627 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Horrible Killing
+chapter: 627
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Horrible Killing
-### Chapter 627
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Horrible Killing
+
+### Chapter 627
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen may have led the retreat, but he did not feel safe. A frightening chill latched onto him, and he imagined the beady, stabbing gaze of the raven targeting him.
 
 "Damn it! What is going on?! What has it taken the others so long to get moving?" Han Sen was bewildered, but he couldn't spare the time to think it through. The best he could do right now was escape with his life, leaving the mountain behind.

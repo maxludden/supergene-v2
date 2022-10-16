@@ -1,21 +1,20 @@
 ---
-Title:Pride and Bones Are Made 
-Chapter:2382 
-Section:11 
-Book:7 
-CSS:../Styles/style.css 
+title: Pride and Bones Are Made
+chapter: 2382
+section: 11
+book: 7
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Pride and Bones Are Made
-### Chapter 2382
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Pride and Bones Are Made
+
+### Chapter 2382
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The rocky surface of the mountain trail had been replaced with a translucent substance as the trail passed into the clouds. Han Sen’s body was shrouded in the thin layers of mist. He felt as if the dimensions of space were distorting around him.
 
 The feeling was very gentle, though. And it was brief, disappearing in a second. Han Sen’s Kingese shone. The climb to the peak was long and tiring, and the stairs wrapped back and forth up the mountain like a massive centipede.

@@ -1,21 +1,20 @@
 ---
-Title:Zero’s Movement 
-Chapter:869 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Zero’s Movement
+chapter: 869
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Zero’s Movement
-### Chapter 869
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Zero’s Movement
+
+### Chapter 869
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 "Is there no other way?" Han Sen asked, frowning.
 
 The people had been trapped there for a very long time, some for decades. If they really had no clue, Han Sen suspected he might not be able to find a solution anytime soon, either.

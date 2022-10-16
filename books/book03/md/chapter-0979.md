@@ -1,21 +1,20 @@
 ---
-Title:Even Sharks Would Not Let Go 
-Chapter:979 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Even Sharks Would Not Let Go
+chapter: 979
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Even Sharks Would Not Let Go
-### Chapter 979
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Even Sharks Would Not Let Go
+
+### Chapter 979
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The creatures seemed to be playing on the water, but even so, Han Sen did not dare approach the group. There was a silver-scaled aqua dragon there, very similar to the one he himself had just released.
 
 “Why are there so many dragons here?” Han Sen counted five aqua dragons. And strangely, it looked as if they were having fun together in the water.

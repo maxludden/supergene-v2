@@ -1,21 +1,20 @@
 ---
-Title:White Dragon 
-Chapter:977 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: White Dragon
+chapter: 977
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## White Dragon
-### Chapter 977
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## White Dragon
+
+### Chapter 977
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 A cloud of red and purple mist obscured Han Sen’s sight. Fortunately for him, he could still use his dongxuan aura to keep track of the man.
 
 With no hesitation, Han Sen stabbed the man again.

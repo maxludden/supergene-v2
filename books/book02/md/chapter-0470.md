@@ -1,21 +1,20 @@
 ---
-Title:Golden Rubik's Cube 
-Chapter:470 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Golden Rubik's Cube
+chapter: 470
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Golden Rubik's Cube
-### Chapter 470
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Golden Rubik's Cube
+
+### Chapter 470
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Entering the black crystal gate, Han Sen felt his eyes were prickling from the blinding light. Ji Yanran gave Han Sen a pair of glasses, which made it much easier for him after putting it on.
 
 Inspecting the patterns carved on the tunnel, he still did not understand what they meant. After going through the tunnel, the two reached a corridor with many rooms on the sides. Han Sen took a look and found several rooms had been opened.

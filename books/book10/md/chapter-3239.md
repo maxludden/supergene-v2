@@ -1,21 +1,20 @@
 ---
-Title:An Yang Ting 
-Chapter:3239 
-Section:16 
-Book:10 
-CSS:../Styles/style.css 
+title: An Yang Ting
+chapter: 3239
+section: 16
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## An Yang Ting
-### Chapter 3239
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## An Yang Ting
+
+### Chapter 3239
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Qin Yuan’s eyes looked shocked. Han Sen reached out his hands to stop the Demon God Sword’s handle. He then pulled the Demon God Sword out of his chest.
 
 While the Demon God Sword was being pulled out of his body, Han Sen’s wounds immediately started to heal. The wounds instantly faded from sight. Not a single mark or scar remained.

@@ -1,21 +1,20 @@
 ---
-Title:Universal Apb 
-Chapter:2444 
-Section:12 
-Book:8 
-CSS:../Styles/style.css 
+title: Universal Apb
+chapter: 2444
+section: 12
+book: 8
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Universal Apb
-### Chapter 2444
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Universal Apb
+
+### Chapter 2444
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen asked Miss Mirror to contact Yisha. He wouldn’t use his own phone because, if he decided to run, all of his conversations after this day would be thoroughly examined.
 
 Han Sen explained his situation to Yisha completely, and Yisha listened intently. She didn’t say a word until Han Sen finished telling her the entire story. When Yisha spoke, all she said were four words. “Go to Sky Palace.”

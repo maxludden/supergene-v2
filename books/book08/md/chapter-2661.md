@@ -1,21 +1,20 @@
 ---
-Title:Taking Care of the Star Tree 
-Chapter:2661 
-Section:13 
-Book:8 
-CSS:../Styles/style.css 
+title: Taking Care of the Star Tree
+chapter: 2661
+section: 13
+book: 8
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Taking Care of the Star Tree
-### Chapter 2661
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Taking Care of the Star Tree
+
+### Chapter 2661
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “Li Xue Cheng, what do you think after watching this?” Liyu Zhen asked, staring at the man in green clothing.
 
 “He is very strong. He might even be stronger than a Very High of the same level. Who is he?” Li Xue Cheng asked, not taking his eyes off the video of Han Sen.

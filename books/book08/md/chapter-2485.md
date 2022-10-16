@@ -1,21 +1,20 @@
 ---
-Title:Teacher Han 
-Chapter:2485 
-Section:12 
-Book:8 
-CSS:../Styles/style.css 
+title: Teacher Han
+chapter: 2485
+section: 12
+book: 8
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Teacher Han
-### Chapter 2485
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Teacher Han
+
+### Chapter 2485
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 When Lando saw the deified Demon approaching, he tensed.
 
 “Please don’t misunderstand, I mean no harm! I would just like a chat with Teacher Han,” the deified Demon shouted, lifting his hands.
@@ -92,7 +91,7 @@ Fang Qing Yue and the pirates were unable to help in a time like this. They hid 
 
 “Captain Bao’er is so awesome!”
 
-“Little Captain is the strongest in the universe. Kill those motherf*ckers!”
+“Little Captain is the strongest in the universe. Kill those motherfuckers!”
 
 “How dare they attack our beautiful little Captain Bao’er. You are already dead!”
 

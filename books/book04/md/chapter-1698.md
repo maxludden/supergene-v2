@@ -1,21 +1,20 @@
 ---
-Title:Crystallizer Survivor 
-Chapter:1698 
-Section:5 
-Book:4 
-CSS:../Styles/style.css 
+title: Crystallizer Survivor
+chapter: 1698
+section: 5
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Crystallizer Survivor
-### Chapter 1698
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Crystallizer Survivor
+
+### Chapter 1698
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Yufei’s expression looked dire. The gap between their strengths was too wide to cover. If Rudy and the others used geno armor that originally belonged to others, Han Yufei reckoned he could make battle with them. He could possibly kill them, too.
 
 But someone who had generated their own self-geno armor was in another league entirely.

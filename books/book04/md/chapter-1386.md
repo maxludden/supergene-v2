@@ -1,21 +1,20 @@
 ---
-Title:Crystal Core Mutant 
-Chapter:1386 
-Section:4 
-Book:4 
-CSS:../Styles/style.css 
+title: Crystal Core Mutant
+chapter: 1386
+section: 4
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Crystal Core Mutant
-### Chapter 1386
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Crystal Core Mutant
+
+### Chapter 1386
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Black Mountain God frowned upon seeing his enemy. All he could see was a black shadow, and he could not even make out his opponent’s face.
 
 Han Sen had also used Dongxuan Aura to hide his entire body, since it had reached that level. He could be properly seen if his opponent was considerably stronger than he was.

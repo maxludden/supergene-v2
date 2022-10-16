@@ -1,21 +1,20 @@
 ---
-Title:Misunderstanding 
-Chapter:1647 
-Section:4 
-Book:4 
-CSS:../Styles/style.css 
+title: Misunderstanding
+chapter: 1647
+section: 4
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Misunderstanding
-### Chapter 1647
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Misunderstanding
+
+### Chapter 1647
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 1647 Misunderstanding
 
 *Splash!*

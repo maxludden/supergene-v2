@@ -1,21 +1,20 @@
 ---
-Title:Perseverance Matters 
-Chapter:88 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: Perseverance Matters
+chapter: 88
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Perseverance Matters
-### Chapter 88
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Perseverance Matters
+
+### Chapter 88
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 "Who told you about the protection mechanism?" Yang Manli stared at Han Sen madly. Of course, she knew about this trick.
 
 "What protection mechanism? I do not understand what you are talking about?" Han Sen looked innocent.

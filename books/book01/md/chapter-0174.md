@@ -1,21 +1,20 @@
 ---
-Title:Who Is the Star? 
-Chapter:174 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: Who Is the Star?
+chapter: 174
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Who Is the Star?
-### Chapter 174
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Who Is the Star?
+
+### Chapter 174
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 All of Digang’s campaigns had been about the concept of super biological warframe, but none had shown the appearance of this new warframe.
 
 At this time, Digang was seizing the time to shoot the commercials for SKTS for publicity.

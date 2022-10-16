@@ -1,21 +1,20 @@
 ---
-Title:A King With Seventy-two Wives 
-Chapter:792 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: A King With Seventy-two Wives
+chapter: 792
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## A King With Seventy-two Wives
-### Chapter 792
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## A King With Seventy-two Wives
+
+### Chapter 792
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 After Han Sen woke up, he logged into the virtual training camp. Qin Xuan was already online, and she wasted no time in inviting him to a lobby.
 
 "Coach, I have decided to learn Empirical Sword," Qin Xuan told him directly.

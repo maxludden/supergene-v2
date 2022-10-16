@@ -1,21 +1,20 @@
 ---
-Title:The Empty Fruit Ripens 
-Chapter:812 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: The Empty Fruit Ripens
+chapter: 812
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## The Empty Fruit Ripens
-### Chapter 812
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## The Empty Fruit Ripens
+
+### Chapter 812
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen had gauged the power possessed by Manager Qu and his followers. They were not far from the strength of a super creature, but the strength they had was not stable. It wasn't pure.
 
 When they became blood-horn shura, their abilities were akin to that of a celestial being. They could unleash elemental projectiles, yes, but they were not even able to defeat Han Sen, whose fitness was around two hundred and sixty. Their purity and stability were too low, which led to their inability to compete.

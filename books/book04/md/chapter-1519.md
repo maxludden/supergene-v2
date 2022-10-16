@@ -1,21 +1,20 @@
 ---
-Title:Ants That Don’t Do Anything 
-Chapter:1519 
-Section:4 
-Book:4 
-CSS:../Styles/style.css 
+title: Ants That Don’t Do Anything
+chapter: 1519
+section: 4
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Ants That Don’t Do Anything
-### Chapter 1519
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Ants That Don’t Do Anything
+
+### Chapter 1519
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Wang Yuhang didn’t know what Han Sen wanted, but he still listened to him. He shouted at the ants, drawing them forward. “You rubbish ants! Come and get me.”
 
 When Wang Yuhang yelled, all the Bloodthirsty Ants stopped in their place. They looked over to Wang Yuhang with their red eyes.

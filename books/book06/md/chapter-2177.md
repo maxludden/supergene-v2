@@ -1,21 +1,20 @@
 ---
-Title:Barr 
-Chapter:2177 
-Section:9 
-Book:6 
-CSS:../Styles/style.css 
+title: Barr
+chapter: 2177
+section: 9
+book: 6
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Barr
-### Chapter 2177
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Barr
+
+### Chapter 2177
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen moved like a shadow, and Barr’s slashing bone knife was unable to strike him. Han Sen couldn’t counter Barr’s strength directly, so he had to remain fleet of foot. Even blocking one of those blows with his Ghost Teeth Knife would damage him a great deal.
 
 “Barr is getting stronger!” Qing Li had finally seen the problem that Han Sen was having. Barr’s increase in strength was becoming obvious to all of the onlookers. And Han Sen’s power remained what it was, not increasing at all.

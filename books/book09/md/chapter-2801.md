@@ -1,21 +1,20 @@
 ---
-Title:Biggest Crime 
-Chapter:2801 
-Section:14 
-Book:9 
-CSS:../Styles/style.css 
+title: Biggest Crime
+chapter: 2801
+section: 14
+book: 9
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Biggest Crime
-### Chapter 2801
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Biggest Crime
+
+### Chapter 2801
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 That eye was black and white. The eyeball was white, but the pupils were black. It was still different from ordinary eyes. The eye was half black and half white. The black and white each had a side of their own, and it was very clear to see.
 
 Han Sen saw that black and white eye and started to feel goosebumps. Those god eyes gave all who saw them a chill. It was like the eye that looked at everyone and deemed them sinners.

@@ -1,21 +1,20 @@
 ---
-Title:Life or Death Moment 
-Chapter:1007 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Life or Death Moment
+chapter: 1007
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Life or Death Moment
-### Chapter 1007
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Life or Death Moment
+
+### Chapter 1007
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “If we keep going like this, we are sure to meet our demise. We might as well turn back,” one surpasser said, pleading for them to leave. Another surpasser threw up, and others broke down in tears or screams, afraid of the killing trees that surrounded them.
 
 “Turn back? Turn back and go where?” Lin He asked.

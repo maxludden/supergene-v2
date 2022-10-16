@@ -1,21 +1,20 @@
 ---
-Title:Final Fight 
-Chapter:2129 
-Section:8 
-Book:6 
-CSS:../Styles/style.css 
+title: Final Fight
+chapter: 2129
+section: 8
+book: 6
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Final Fight
-### Chapter 2129
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Final Fight
+
+### Chapter 2129
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Xie Qing King was too severely injured and too exhausted to continue in the geno rank fights, so he ended up placing in the top eight. The people that watched him and Odoga fight, however, were of the firm belief that one of those two should have taken first place. Unfortunately, the two powerhouses had ended up against each other far too soon. One was defeated and beaten into a sorry state, and the other was victorious but also beaten into a sorry state.
 
 The ranked fights continued with some surprising results. On the fourth match of the King tier, Yisha actually ended up losing, which surprised her many fans. Her final position rested at rank number four.

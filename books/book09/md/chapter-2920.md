@@ -1,21 +1,20 @@
 ---
-Title:Sunglasses 
-Chapter:2920 
-Section:15 
-Book:9 
-CSS:../Styles/style.css 
+title: Sunglasses
+chapter: 2920
+section: 15
+book: 9
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Sunglasses
-### Chapter 2920
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Sunglasses
+
+### Chapter 2920
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The skeleton’s clothing was a little bit different. It looked more like ordinary cloth or silk, and the style did not look protective. It was more like a simple fashion style.
 
 The clothes were loose like a robe and mostly blue. The sides of the clothing had black flowers for decoration. They looked loose yet somber.

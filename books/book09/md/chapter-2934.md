@@ -1,21 +1,20 @@
 ---
-Title:Meat in the Pot 
-Chapter:2934 
-Section:15 
-Book:9 
-CSS:../Styles/style.css 
+title: Meat in the Pot
+chapter: 2934
+section: 15
+book: 9
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Meat in the Pot
-### Chapter 2934
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Meat in the Pot
+
+### Chapter 2934
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “Bao’er, you are a nice child.” Han Sen used his hands to accept the meat. It smelled so delicious that Han Sen almost bit his tongue off.
 
 “Dad, you should drink some wine. It tastes so good, too.” Bao’er put the wine bottle next to Han Sen’s mouth.

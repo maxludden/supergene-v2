@@ -1,21 +1,20 @@
 ---
-Title:Botanical Garden 
-Chapter:961 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Botanical Garden
+chapter: 961
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Botanical Garden
-### Chapter 961
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Botanical Garden
+
+### Chapter 961
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen was having trouble with the baby, following all this. And its presence in the shelter drew much attention.
 
 The shelter's residents were shocked at the sight of the baby, as humans typically weren't allowed or able to enter the sanctuaries until they were sixteen years of age.

@@ -1,21 +1,20 @@
 ---
-Title:Treading Cloud 
-Chapter:455 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Treading Cloud
+chapter: 455
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Treading Cloud
-### Chapter 455
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Treading Cloud
+
+### Chapter 455
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 "Although Seven Twists is the family secret of the Chens, there is a way for you to learn. However, since it runs in the family, there is a rule that the secret could not be leaked. If you want to learn, you will have to become a student of my family," said Zhu Ting.
 
 Although Zhu Ting did not say no, there was no way that Han Sen would agree to become a student of the Chens, which meant he could not learn the hyper geno art.

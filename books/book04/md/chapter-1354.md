@@ -1,21 +1,20 @@
 ---
-Title:Our Own People 
-Chapter:1354 
-Section:4 
-Book:4 
-CSS:../Styles/style.css 
+title: Our Own People
+chapter: 1354
+section: 4
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Our Own People
-### Chapter 1354
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Our Own People
+
+### Chapter 1354
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 When the chef heard Han Sen’s question, she stared at him but did not speak a word.
 
 With the serrated edge of the horn, Han Sen dug a little deeper into her throat. The shredded skin of her neck began to ooze droplets of blood, which rolled down to her shoulders.

@@ -1,21 +1,20 @@
 ---
-Title:I Need Your Body 
-Chapter:1294 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: I Need Your Body
+chapter: 1294
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## I Need Your Body
-### Chapter 1294
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## I Need Your Body
+
+### Chapter 1294
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Moving Star Emperor greeted Lotus Empress and then left, thinking it was pointless for him to remain there with them. He was more than a little embarrassed, too; more fuel to the fire of hatred he kept stoked for Han Sen.
 
 When Moving Star Emperor took his leave, Lotus Empress sat down. Softly, she bid for Han Sen to do the same, “Sit down.”

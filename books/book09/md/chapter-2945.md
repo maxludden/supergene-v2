@@ -1,21 +1,20 @@
 ---
-Title:Call of Fate 
-Chapter:2945 
-Section:15 
-Book:9 
-CSS:../Styles/style.css 
+title: Call of Fate
+chapter: 2945
+section: 15
+book: 9
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Call of Fate
-### Chapter 2945
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Call of Fate
+
+### Chapter 2945
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “The fate monument is not a treasure that can be broken with brute force.” Ancient Abyss Grandmaster wore a wry smile. “Right now, I am waiting for my fate to be on the fate monument. If we use brute force to attack the fate monument, only our fate will be damaged. If we break the fate monument, our life will be broken there too. We will die.”
 
 “Is this treasure that magical?” Han Sen looked at the monument with shock.

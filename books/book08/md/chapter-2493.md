@@ -1,21 +1,20 @@
 ---
-Title:Holy Area Grass 
-Chapter:2493 
-Section:12 
-Book:8 
-CSS:../Styles/style.css 
+title: Holy Area Grass
+chapter: 2493
+section: 12
+book: 8
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Holy Area Grass
-### Chapter 2493
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Holy Area Grass
+
+### Chapter 2493
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The Tianxia Peacock King wasn’t doing so well. Most of its plumage had been torn off, and only a few feathers remained on the bird’s tail. It was like a plucked chicken, or a paper fan that had been mostly shredded.
 
 Wounds covered its body, and many of them looked severe.

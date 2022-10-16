@@ -1,21 +1,20 @@
 ---
-Title:Self-fight 
-Chapter:929 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Self-fight
+chapter: 929
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Self-fight
-### Chapter 929
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Self-fight
+
+### Chapter 929
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen avoided Phoenix King because he wanted to collect king spirit genes from the lower ranked king spirits first.
 
 All the spirits believed The King was too afraid to battle Phoenix King. They also believed Phoenix King was the only one who could beat him.

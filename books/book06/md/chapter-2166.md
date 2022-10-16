@@ -1,21 +1,20 @@
 ---
-Title:Returning to Narrow-moon 
-Chapter:2166 
-Section:9 
-Book:6 
-CSS:../Styles/style.css 
+title: Returning to Narrow-moon
+chapter: 2166
+section: 9
+book: 6
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Returning to Narrow-moon
-### Chapter 2166
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Returning to Narrow-moon
+
+### Chapter 2166
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen sat on a ship departing Sky Palace, bound for Narrow Moon. He hadn’t been allowed to take half of the ocean mountain with him, but the Sky Palace leader permitted him to keep a bunch of ocean stones.
 
 Han Sen would usually take a public passenger ship, but on this day, he was riding a cargo ship. Loading it with ocean stones took a while, and the people of Sky Palace who passed by couldn’t help but stare at the bounty.

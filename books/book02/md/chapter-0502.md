@@ -1,21 +1,20 @@
 ---
-Title:The Other Guard 
-Chapter:502 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: The Other Guard
+chapter: 502
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## The Other Guard
-### Chapter 502
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## The Other Guard
+
+### Chapter 502
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 "I'm sorry, captain. I messed up," Tie Yi said wryly to the good-looking man sitting next to him, lying on the bed in the hospital.
 
 "Kitty cat, don't feel sorry for yourself. A man can only grow in mistakes. If a man had never made a mistake, it only means that he is a dedicate flower that has never seen storms. You are still a kitty cat right now, but after experiencing mistake after mistake, you will become the true Tiger of Blueblood one day. Mistakes are not bad for you. As long as you have not died yet, those mistakes will nourish you eventually," the good-looking man said with a smile.

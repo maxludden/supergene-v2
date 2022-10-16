@@ -1,21 +1,20 @@
 ---
-Title:Best Lead 
-Chapter:1062 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Best Lead
+chapter: 1062
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Best Lead
-### Chapter 1062
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Best Lead
+
+### Chapter 1062
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen’s fist blazed with the power of Phoenix Flame. With his seventh gene lock open, he punched the vase.
 
 He felt as if he had almost broken his knuckles. When the fire dissipated, the vase stood still as if it was untouched.

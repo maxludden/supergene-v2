@@ -1,21 +1,20 @@
 ---
-Title:Returning to the Return Ruin Sea 
-Chapter:2055 
-Section:8 
-Book:6 
-CSS:../Styles/style.css 
+title: Returning to the Return Ruin Sea
+chapter: 2055
+section: 8
+book: 6
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Returning to the Return Ruin Sea
-### Chapter 2055
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Returning to the Return Ruin Sea
+
+### Chapter 2055
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen’s power was enough to compare with a Marquise due to the dragon wing buffs and Break Space Flash. Those two abilities made Han Sen far stronger.
 
 Without hesitation, Han Sen took out his Demon Stone Cow mutant gene and used the Blood-Pulse Sutra to refine it.

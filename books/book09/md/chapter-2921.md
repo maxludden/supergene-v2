@@ -1,21 +1,20 @@
 ---
-Title:Statue on the Mountain Path 
-Chapter:2921 
-Section:15 
-Book:9 
-CSS:../Styles/style.css 
+title: Statue on the Mountain Path
+chapter: 2921
+section: 15
+book: 9
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Statue on the Mountain Path
-### Chapter 2921
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Statue on the Mountain Path
+
+### Chapter 2921
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Things such as bacteria had been decomposed by the purple light substances, so nothing dirty was left.
 
 When Han Sen put the clothes on, he tried using power to activate the clothing’s power. He thought if it was not a god personality armament, it had to at least be a treasure.
@@ -80,7 +79,7 @@ While he was walking, Han Sen suddenly heard something strange from behind. It s
 
 The sound was getting closer to Han Sen. It felt like a toxic snake was approaching him from behind. Very quickly, it was almost on his back.
 
-“What the f*ck?” Han Sen could not do it anymore. If he had to compare himself to the big goldfish, he trusted himself more. He would rather face the danger and fight for the treasure than put his life at risk by believing the big goldfish.
+“What the fuck?” Han Sen could not do it anymore. If he had to compare himself to the big goldfish, he trusted himself more. He would rather face the danger and fight for the treasure than put his life at risk by believing the big goldfish.
 
 Han Sen used his Dongxuan Aura. He opened his eyes and looked up the stairs. He was shocked.
 

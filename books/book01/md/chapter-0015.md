@@ -1,21 +1,20 @@
 ---
-Title:Selling Flesh 
-Chapter:15 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: Selling Flesh
+chapter: 15
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Selling Flesh
-### Chapter 15
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Selling Flesh
+
+### Chapter 15
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen kept practicing Jadeskin and recovering after he returned home. Every two days he went to God’s Sanctuary to check on the copper-toothed beast.
 
 It took the beast half a month from the time it swallowed the black crystal to become a mutant creature, but it was still the size of an ordinary copper-toothed beast, while the mutant copper-toothed beasts Han Sen had seen were twice that size. In addition to the size, the one he evolved into wasn’t much stronger either, not even close to a true mutant one.

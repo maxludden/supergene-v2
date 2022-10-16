@@ -1,21 +1,20 @@
 ---
-Title:Geno Protoplasm 
-Chapter:2718 
-Section:13 
-Book:8 
-CSS:../Styles/style.css 
+title: Geno Protoplasm
+chapter: 2718
+section: 13
+book: 8
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Geno Protoplasm
-### Chapter 2718
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Geno Protoplasm
+
+### Chapter 2718
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 But as its body shrank, the substance chains rising from its scales grew more defined. The process of leveling up to deified seemed to be going as smooth as butter.
 
 “If the black crystal can immediately elevate a xenogeneic to deified, that is so scary! The fact that the black crystal could affect creatures in the sanctuaries was impressive, but it wasn’t too shocking. Those creatures have good genes, but their life energy is low. The energy necessary for a King class xenogeneic to become deified is daunting, though. In elevating the Immortal Dragon to deified in just a few short days, the black crystal has revealed that it contains a truly terrifying amount of power,” Han Sen thought to himself. He was in shock.

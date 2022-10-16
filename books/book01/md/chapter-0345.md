@@ -1,21 +1,20 @@
 ---
-Title:Risky Practice 
-Chapter:345 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: Risky Practice
+chapter: 345
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Risky Practice
-### Chapter 345
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Risky Practice
+
+### Chapter 345
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Very soon, Han Sen was certain that Fang Guotao was not the author of Primal Innocence, but a con artist.
 
 "Brother, your faith is strong. I have never seen a young man so sure of himself under the influence of Primal Innocence," Fang Guotao said to Han Sen, holding the student's hand.

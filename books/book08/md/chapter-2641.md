@@ -1,21 +1,20 @@
 ---
-Title:Testing Talent Again 
-Chapter:2641 
-Section:13 
-Book:8 
-CSS:../Styles/style.css 
+title: Testing Talent Again
+chapter: 2641
+section: 13
+book: 8
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Testing Talent Again
-### Chapter 2641
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Testing Talent Again
+
+### Chapter 2641
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Exquisite didn’t answer, and the two of them continued on toward the heavenly land.
 
 Flocks of phoenixes flew overhead, and holy springs were suspended in the air, surrounded by clouds. Giant dragons walked majestically across the ground, which was covered with many strange flowers and rich green grass. There were many rare animals, too. There were strange and exotic things everywhere that Han Sen looked.

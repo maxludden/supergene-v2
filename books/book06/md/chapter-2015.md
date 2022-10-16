@@ -1,21 +1,20 @@
 ---
-Title:Getting the Blood Feather Knife 
-Chapter:2015 
-Section:8 
-Book:6 
-CSS:../Styles/style.css 
+title: Getting the Blood Feather Knife
+chapter: 2015
+section: 8
+book: 6
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Getting the Blood Feather Knife
-### Chapter 2015
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Getting the Blood Feather Knife
+
+### Chapter 2015
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “Han Sen!” Yun Sushang said suddenly.
 
 “Han Sen? What do you mean? Is this connected to Han Sen?” Thousand Feather Crane looked at Yun Sushang with confusion.

@@ -1,21 +1,20 @@
 ---
-Title:Obtaining the Treasure 
-Chapter:612 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Obtaining the Treasure
+chapter: 612
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Obtaining the Treasure
-### Chapter 612
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Obtaining the Treasure
+
+### Chapter 612
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 "This blood-scale armor is mine, okay? Now we are even." Queen frowned, looking back at the island. There was no more screaming or squealing to be heard, and with the rest of the creatures having either escaped or been killed, the island was quiet.
 
 It still looked like hell, though. Bodies and blood were everywhere, and just looking at it made their skin crawl.

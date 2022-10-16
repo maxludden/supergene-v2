@@ -1,21 +1,20 @@
 ---
-Title:Fighting Ruin 
-Chapter:1328 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Fighting Ruin
+chapter: 1328
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Fighting Ruin
-### Chapter 1328
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Fighting Ruin
+
+### Chapter 1328
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen was like a spartan; he was a killing machine. With no other weapons at his disposal or powers he could depend upon, this was the only thing he could do.
 
 Ruin Emperor was no slouch, though. He understood the threat that he was now faced with, and he arduously tried to counter every attack brought towards him. Fists cracked against fists, as legs kicked against legs. If it weren’t for the remarkable talents of the fighters, this would have been nothing more than a brutal street-brawl.

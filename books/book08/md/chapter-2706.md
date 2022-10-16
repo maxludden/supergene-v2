@@ -1,21 +1,20 @@
 ---
-Title:Life and Death Is a Matter of Fate 
-Chapter:2706 
-Section:13 
-Book:8 
-CSS:../Styles/style.css 
+title: Life and Death Is a Matter of Fate
+chapter: 2706
+section: 13
+book: 8
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Life and Death Is a Matter of Fate
-### Chapter 2706
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Life and Death Is a Matter of Fate
+
+### Chapter 2706
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 But Bao Lian was aware that Han Sen had the Shield of the Medusa’s Gaze. Even Meng Lie had been frozen by Han Sen and left to dangle in the sky. The Extreme King had spent a great many resources resuscitating Meng Lie after that gross defeat. In addition, Bao Lian was just a primitive deified. He wouldn’t dare try to take on the Shield of the Medusa’s Gaze if it was used against him.
 
 “We have brought Han Sen to the god area for practice. I hope you can teach him a thing or two, sir,” Li Keer said.

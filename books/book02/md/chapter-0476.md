@@ -1,21 +1,20 @@
 ---
-Title:Red Crystal 
-Chapter:476 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Red Crystal
+chapter: 476
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Red Crystal
-### Chapter 476
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Red Crystal
+
+### Chapter 476
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 After seeing those green crystals, Ji Yanran started to whisper.
 
 "There are nest crystals here! How can we possibly walk over there?" Ji Yanran asked Li Mingtang.

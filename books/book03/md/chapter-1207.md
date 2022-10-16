@@ -1,21 +1,20 @@
 ---
-Title:White Ball 
-Chapter:1207 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: White Ball
+chapter: 1207
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## White Ball
-### Chapter 1207
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## White Ball
+
+### Chapter 1207
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 It was not a rock that had tumbled down from out of the mist, it was a white ball. It looked like lobster meat. It did not look fleshy and scrumptious, though; it looked quite dry.
 
 But as random as its sudden appearance had been, Han Sen did not sense any danger stemming from it. And as he studied it, he re-evaluated his perception and thought it looked more like a circular chunk of mushroom. The whitish color was a little jaded, too.

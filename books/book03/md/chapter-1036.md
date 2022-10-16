@@ -1,21 +1,20 @@
 ---
-Title:Alu-alu 
-Chapter:1036 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Alu-alu
+chapter: 1036
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Alu-alu
-### Chapter 1036
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Alu-alu
+
+### Chapter 1036
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Somehow, Han Sen’s Aero activated. He felt incredibly light, as if he could shoot off into the skies at any given moment.
 
 As Han Sen continued his observation of the birds, he suddenly heard a rumble. He turned around and saw a wall on the left side of the hall rise up. Inside, there was a room.

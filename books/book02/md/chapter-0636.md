@@ -1,21 +1,20 @@
 ---
-Title:Assuming You Don't Mind, I'd Like to See What Happens Next 
-Chapter:636 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Assuming You Don't Mind, I'd Like to See What Happens Next
+chapter: 636
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Assuming You Don't Mind, I'd Like to See What Happens Next
-### Chapter 636
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Assuming You Don't Mind, I'd Like to See What Happens Next
+
+### Chapter 636
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen did not say anything more, but he found the idea of killing Huang Mian to be distasteful. It was just as Chen Ran thought, though; Han Sen did want to use words to bring about an end to the fight and conserve his energy. He didn't want to reveal his secret weapon to Chen Ran by using it on Huang Mian first, either.
 
 Han Sen had come to learn a lot about Chen Ran; he was a smart, old fox. If Han Sen brought out his peacock crossbow to end the fight against Huang Mian now, he'd be running off before the corpse of his most ardent follower hit the ground.

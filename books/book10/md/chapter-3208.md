@@ -1,21 +1,20 @@
 ---
-Title:Destiny Well 
-Chapter:3208 
-Section:16 
-Book:10 
-CSS:../Styles/style.css 
+title: Destiny Well
+chapter: 3208
+section: 16
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Destiny Well
-### Chapter 3208
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Destiny Well
+
+### Chapter 3208
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Jade Wall City really was like a jade wall. A flat circle with an empty circle was at its center. The empty part in the center had a manmade planet. That was where the Qin Kingdom’s alpha temple resided.
 
 The sacrificial procedure was a very complex affair. Fortunately, Han Sen and Bao’er were prepared. He had copied the memories of the two servants and used their memories. So far, nothing had gone awry.

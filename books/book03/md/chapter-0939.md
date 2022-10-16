@@ -1,21 +1,20 @@
 ---
-Title:Rare Disloyal Knight 
-Chapter:939 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Rare Disloyal Knight
+chapter: 939
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Rare Disloyal Knight
-### Chapter 939
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Rare Disloyal Knight
+
+### Chapter 939
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen was taken aback. For now, it was lucky that the Disloyal Knight had not left the tree.
 
 "You're nowhere near done; there's no way you're coming down from there." Han Sen looked at the Disloyal Knight and felt a little safer.

@@ -1,21 +1,20 @@
 ---
-Title:You Don’t Know My Eye 
-Chapter:2193 
-Section:9 
-Book:6 
-CSS:../Styles/style.css 
+title: You Don’t Know My Eye
+chapter: 2193
+section: 9
+book: 6
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## You Don’t Know My Eye
-### Chapter 2193
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## You Don’t Know My Eye
+
+### Chapter 2193
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The moonlight was bright, and Han Sen still stood near the jade toad. He quietly absorbed all the moon and cold powers he could draw in.
 
 The jade toad was treating him well partially because he had proficiency in the practice of Jadeskin. After he absorbed the moon and cold power, his power and aura became closer to the jade toad’s. That was why the jade toad was okay with him being there.

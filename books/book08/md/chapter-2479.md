@@ -1,21 +1,20 @@
 ---
-Title:Tianxia’s Power 
-Chapter:2479 
-Section:12 
-Book:8 
-CSS:../Styles/style.css 
+title: Tianxia’s Power
+chapter: 2479
+section: 12
+book: 8
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Tianxia’s Power
-### Chapter 2479
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Tianxia’s Power
+
+### Chapter 2479
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen was getting chased by the unicorn Kings. The herd of unicorns was fleeing as fast as they could, so he couldn’t use his eye ability to escape. He frowned.
 
 The gold unicorn King pursued Han Sen relentlessly. The beast clearly wanted to end him.

@@ -1,21 +1,20 @@
 ---
-Title:Jail Demon Hall 
-Chapter:2689 
-Section:13 
-Book:8 
-CSS:../Styles/style.css 
+title: Jail Demon Hall
+chapter: 2689
+section: 13
+book: 8
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Jail Demon Hall
-### Chapter 2689
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Jail Demon Hall
+
+### Chapter 2689
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “We managed to fish it up again!” Han Sen was shocked. He thought about the Four Sheep Cube that plummeted back down with the four eerie faces smiling at him. He looked closely at the heads of the sheep.
 
 He jerked back in surprise. The bronze sheep had their eyebrows lowered, and their eyes were half-closed. They looked like monks that were meditating. They were no longer smiling as they were earlier.

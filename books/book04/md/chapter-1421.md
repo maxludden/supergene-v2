@@ -1,21 +1,20 @@
 ---
-Title:Breaking 33 Days 
-Chapter:1421 
-Section:4 
-Book:4 
-CSS:../Styles/style.css 
+title: Breaking 33 Days
+chapter: 1421
+section: 4
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Breaking 33 Days
-### Chapter 1421
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Breaking 33 Days
+
+### Chapter 1421
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 *Boom!*
 
 Blue lightning streaked across the entire battleground, and a blue halo formed beneath the feet of all the combatants.

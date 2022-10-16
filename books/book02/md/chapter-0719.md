@@ -1,21 +1,20 @@
 ---
-Title:Scary Sense 
-Chapter:719 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Scary Sense
+chapter: 719
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Scary Sense
-### Chapter 719
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Scary Sense
+
+### Chapter 719
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The Zhao family spread out and encompassed the area, but little else. Clearly, they were waiting for the adiraid to beat the super creature into a near-death state, so they could swoop in and claim an easy kill.
 
 "These assholes," Han Sen swore in his heart. He looked at the super creature, then opened his gene lock and scanned its life force.

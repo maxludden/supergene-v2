@@ -1,21 +1,20 @@
 ---
-Title:Weird Woman 
-Chapter:413 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: Weird Woman
+chapter: 413
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Weird Woman
-### Chapter 413
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Weird Woman
+
+### Chapter 413
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen pondered and took back the holy angel. He shapeshifted into the color shifter and leaned against the mountain wall, turning into a part of the rocks. No one could tell he was there
 
 The rumbling continued for a while before it softened. Very soon, Han Sen saw the evil goblin king came from a wide hole.

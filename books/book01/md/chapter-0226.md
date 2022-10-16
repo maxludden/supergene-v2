@@ -1,21 +1,20 @@
 ---
-Title:Cake Tasting 
-Chapter:226 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: Cake Tasting
+chapter: 226
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Cake Tasting
-### Chapter 226
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Cake Tasting
+
+### Chapter 226
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 After the semi-annual assessment, Han Sen was celebrating with his roommates, Ji Yanran and Qu Lili in the cafeteria.
 
 "Han Sen, we are all human. How come there is such a difference? I did not spend time in the relationship or playing. All I did was training in the archery Department and all I had was an a. You're never in our department and was driving warframe's and playing with your girlfriend all the time. How come you got an s? It's not fair," exclaimed Shi Zhikang.

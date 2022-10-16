@@ -1,21 +1,20 @@
 ---
-Title:One Sword to Fight Alone 
-Chapter:1787 
-Section:6 
-Book:5 
-CSS:../Styles/style.css 
+title: One Sword to Fight Alone
+chapter: 1787
+section: 6
+book: 5
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## One Sword to Fight Alone
-### Chapter 1787
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## One Sword to Fight Alone
+
+### Chapter 1787
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “All teams need to reach the battlefield in five minutes! No, three minutes!” Angry Steel Viscount shouted down the communicator. His face had turned green.
 
 He didn’t think Greatsword Viscount would be killed quite so easily. That Baron was pretty scary, and Angry Steel felt so angry, knowing his men were proving to be so useless against the attacker.

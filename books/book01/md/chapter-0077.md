@@ -1,21 +1,20 @@
 ---
-Title:Tang Zhenliu 
-Chapter:77 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: Tang Zhenliu
+chapter: 77
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Tang Zhenliu
-### Chapter 77
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Tang Zhenliu
+
+### Chapter 77
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 One of the familiar faces was Fang Jingqi. Han Sen had never seen him again since playing red hands with him and was surprised to see him here today.
 
 As for the other person, Han Sen felt like having seen him somewhere, but the guy was in a high collar windbreaker, a hat and a pair of oversized sunglasses, which made it difficult for Han Sen to tell who he was.

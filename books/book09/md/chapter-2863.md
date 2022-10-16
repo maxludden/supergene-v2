@@ -1,21 +1,20 @@
 ---
-Title:One Lance Pierced Through God 
-Chapter:2863 
-Section:14 
-Book:9 
-CSS:../Styles/style.css 
+title: One Lance Pierced Through God
+chapter: 2863
+section: 14
+book: 9
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## One Lance Pierced Through God
-### Chapter 2863
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## One Lance Pierced Through God
+
+### Chapter 2863
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The elites of every race knew this fight was going to end soon. Han Sen conceding was the only outcome. There was no way he could escape the attack of Sky Armor God. He could only be killed.
 
 Sky Armor God wanted to hurry things up and be able to refine the god personality. He did not have the mood to drag this out and play games with Han Sen. Therefore, he unleashed his attack. Han Sen did not want to lose and quit the space battleground. He had been observing this for so long. Even though he had no idea what Sky Armor God’s limit was, he knew for sure that after Deep Abyss Knight combined with Sky Armor God, the body still had some of Deep Abyss Knight’s power. After combining the god personality, Deep Abyss Knight’s body was also reinforced. It was able to reach true god class. Currently, Sky Armor God was just a true god class creature. Achieving victory was not out of the question. Seeing the ripping sky and knife light in front of him, Han Sen put out his hand. A green bone lance appeared in it. He thrust it forward against the knife light.

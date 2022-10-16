@@ -1,21 +1,20 @@
 ---
-Title:Blood Eye Butterfly 
-Chapter:3133 
-Section:16 
-Book:10 
-CSS:../Styles/style.css 
+title: Blood Eye Butterfly
+chapter: 3133
+section: 16
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Blood Eye Butterfly
-### Chapter 3133
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Blood Eye Butterfly
+
+### Chapter 3133
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “Where are the gene races?” Han Sen saw the skinning hide, but he did not see any of the gene races that were said to be protecting it.
 
 “If you can see that far, look toward the skinning hide’s grassy heart person’s face,” Bald Guy said.

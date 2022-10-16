@@ -1,21 +1,20 @@
 ---
-Title:An Effortless Shot 
-Chapter:312 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: An Effortless Shot
+chapter: 312
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## An Effortless Shot
-### Chapter 312
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## An Effortless Shot
+
+### Chapter 312
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Many students were eavesdropping on the conversations between Han Sen's friends, trying to pick up some insider perspectives.
 
 However, hearing what Wang Mengmeng said, they all stared at her as if she were crazy.

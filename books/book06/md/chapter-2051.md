@@ -1,21 +1,20 @@
 ---
-Title:Blowing Up a Planet With One Hand 
-Chapter:2051 
-Section:8 
-Book:6 
-CSS:../Styles/style.css 
+title: Blowing Up a Planet With One Hand
+chapter: 2051
+section: 8
+book: 6
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Blowing Up a Planet With One Hand
-### Chapter 2051
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Blowing Up a Planet With One Hand
+
+### Chapter 2051
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “You are Han Sen?” the shura queen asked when she saw Han Sen without armor. She recognized him.
 
 She remembered Han Sen because he was important in the Alliance. Plus, Han Sen had a blood relation to the Luo family. He was a distant relative of the Jade Shura.

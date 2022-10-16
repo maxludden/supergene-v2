@@ -1,21 +1,20 @@
 ---
-Title:Strongest Second Gen God 
-Chapter:3355 
-Section:17 
-Book:10 
-CSS:../Styles/style.css 
+title: Strongest Second Gen God
+chapter: 3355
+section: 17
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Strongest Second Gen God
-### Chapter 3355
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Strongest Second Gen God
+
+### Chapter 3355
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “Bury Path God.” The expressions on Ancient Devil and big sky demon instantly changed.
 
 “Two of my fellow vice presidents came to Dust Sky. You didn’t call. You didn’t write. Don’t you think that is rather rude?” Bury Path God coldly laughed as he spoke.

@@ -1,21 +1,20 @@
 ---
-Title:Siege 
-Chapter:50 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: Siege
+chapter: 50
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Siege
-### Chapter 50
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Siege
+
+### Chapter 50
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 "Such a gigantic lizard!" Su Xiaoqiao saw the creature under the cliff and let out a cry.
 
 Han Sen also saw what the sacred-blood creature looked like--a huge lizard covered in purple scales, flying out from the deep valley with a pair of feathered wings.

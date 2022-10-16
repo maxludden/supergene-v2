@@ -1,21 +1,20 @@
 ---
-Title:Passing the Test 
-Chapter:1174 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Passing the Test
+chapter: 1174
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Passing the Test
-### Chapter 1174
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Passing the Test
+
+### Chapter 1174
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “How is that possible?” Dry Bone King appeared to be suffering rigor mortis. He was unable to move, frozen through sheer disbelief.
 
 When he had struck the wooden fish the ninth time, Han Sen looked damaged and under much duress. But when he was subjected to the tenth and final, most brutal pounding of all, he looked fine. He was unbroken, as Dry Bone King had not expected him to be.

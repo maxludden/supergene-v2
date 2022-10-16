@@ -1,21 +1,20 @@
 ---
-Title:In the Valley 
-Chapter:162 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: In the Valley
+chapter: 162
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## In the Valley
-### Chapter 162
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## In the Valley
+
+### Chapter 162
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Having walked another half day, Han Sen had seen not even one creature on the way, which made him feel odd.
 
 Suddenly, the huge body of a rock worm appeared in front of him, and Han Sen quickly prepared himself for a fight. Although ordinary rock worms were only primitive creatures, their size was too big and strength too great to be taken lightly.

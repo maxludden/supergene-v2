@@ -1,21 +1,20 @@
 ---
-Title:Melee Skills 
-Chapter:702 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Melee Skills
+chapter: 702
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Melee Skills
-### Chapter 702
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Melee Skills
+
+### Chapter 702
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 After giving it a good look, Han Sen grew fond of the concept of Sonic Thunder Punch. Although he didn't have a thunder build, he could easily simulate the silver fox's energy flow to possess the element of thunder. If he did that, Sonic Thunder Punch would come easy to him.
 
 Han Sen thought this skill could really work, but he didn't dare buy it there in the Saint Hall. If he ended up using it in Divinity's Bout, it'd be easy for someone to look up the records of who bought it in recent times. Usually, purchase logs were kept secret in the central computers, in accordance with the laws of the Alliance; but just to be safe, Han Sen went to ask Li Xinglun.

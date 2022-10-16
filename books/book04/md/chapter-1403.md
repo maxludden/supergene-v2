@@ -1,21 +1,20 @@
 ---
-Title:The Man That Opened the Wall of Destiny 
-Chapter:1403 
-Section:4 
-Book:4 
-CSS:../Styles/style.css 
+title: The Man That Opened the Wall of Destiny
+chapter: 1403
+section: 4
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## The Man That Opened the Wall of Destiny
-### Chapter 1403
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## The Man That Opened the Wall of Destiny
+
+### Chapter 1403
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “If you can promise me one thing, I can go,” Han Sen said.
 
 There was a certain sternness in his voice, to the surprise of the others in the expedition. They all turned to look at him, confused why a person with only a bronze geno core would and could say such a thing.

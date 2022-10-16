@@ -1,21 +1,20 @@
 ---
-Title:Rejected 
-Chapter:652 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Rejected
+chapter: 652
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Rejected
-### Chapter 652
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Rejected
+
+### Chapter 652
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The quartet were busily discussing matters inside the house. Lei Heng Wu was still a little hesitant about joining, and despite Wang Yuhang's proclamations, the Queen wasn't 100% guaranteed to join.
 
 "How about you give me some time to think things over?" Lei Heng Wu ultimately said.

@@ -1,21 +1,20 @@
 ---
-Title:Who Is Scum? 
-Chapter:12 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: Who Is Scum?
+chapter: 12
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Who Is Scum?
-### Chapter 12
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Who Is Scum?
+
+### Chapter 12
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Soon, Han Sen saw a young man walking towards the pond in ragged clothes. He was covered with cuts and bruises all over and looked extremely tired.
 
 "Friend, there are iron-toothed crocodiles in the pool," Han Sen came out of the bushes and cried from afar. He meant well in warning the young man, but was also afraid that he might alert the crocodiles that he wanted to hunt.

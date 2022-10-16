@@ -1,21 +1,20 @@
 ---
-Title:Meeting Destiny Again 
-Chapter:2667 
-Section:13 
-Book:8 
-CSS:../Styles/style.css 
+title: Meeting Destiny Again
+chapter: 2667
+section: 13
+book: 8
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Meeting Destiny Again
-### Chapter 2667
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Meeting Destiny Again
+
+### Chapter 2667
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 It seemed badly injured, and grievous wounds covered its entire body. It was struggling to get to its feet. Blood poured from its mouth and body, dyeing the bottom of the sandy crater crimson. A small red lake was forming beneath the beast.
 
 “A xenogeneic has fallen!” Li Keer rejoiced. She quickly raced toward the crater.

@@ -1,21 +1,20 @@
 ---
-Title:Market Price 
-Chapter:277 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: Market Price
+chapter: 277
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Market Price
-### Chapter 277
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Market Price
+
+### Chapter 277
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 "It depends on how good your appetite is," Han Sen said, grinning.
 
 "How much do you want for this mutant ghost-eyed bear?" As calculative as Xu Ruyan, she would not easily expose her real objective.

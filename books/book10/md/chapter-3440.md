@@ -1,21 +1,20 @@
 ---
-Title:Geno Tablet Fights End 
-Chapter:3440 
-Section:17 
-Book:10 
-CSS:../Styles/style.css 
+title: Geno Tablet Fights End
+chapter: 3440
+section: 17
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Geno Tablet Fights End
-### Chapter 3440
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Geno Tablet Fights End
+
+### Chapter 3440
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The Sky’s shadow was becoming bigger in Han Sen’s eyes. A scary presence that could not be described with words was landing on Han Sen.
 
 The presence was scary but not enough to prompt a shift in Han Sen’s will and determination.

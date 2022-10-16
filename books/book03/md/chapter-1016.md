@@ -1,21 +1,20 @@
 ---
-Title:Unbelievable Kindness 
-Chapter:1016 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Unbelievable Kindness
+chapter: 1016
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Unbelievable Kindness
-### Chapter 1016
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Unbelievable Kindness
+
+### Chapter 1016
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Seeing the Blood-Wing Beast King nearing, Liu Yuxuan quickly kowtowed before it and made a few subservient sounds.
 
 He had only wanted to summon the beast king’s son, due to the fact the two shared something of a bond. Now, he had to tarnish his own image of being strong and influential to the creatures of the domain by going down on the ground.

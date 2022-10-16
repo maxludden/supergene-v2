@@ -1,21 +1,20 @@
 ---
-Title:Tree Egg Comes Out of the Hole 
-Chapter:2431 
-Section:11 
-Book:7 
-CSS:../Styles/style.css 
+title: Tree Egg Comes Out of the Hole
+chapter: 2431
+section: 11
+book: 7
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Tree Egg Comes Out of the Hole
-### Chapter 2431
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Tree Egg Comes Out of the Hole
+
+### Chapter 2431
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “Luckily, I was able to retrieve the sword.” Night Wind stepped in front of Miss Mirror and bowed. He placed the sword down in front of her. The Duke was gone, so it seemed that Night Wind had gotten rid of the man.
 
 “The sword was broken?” Miss Mirror asked, looking directly at Night Wind. She didn’t stoop to touch the sword.

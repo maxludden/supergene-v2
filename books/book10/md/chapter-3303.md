@@ -1,21 +1,20 @@
 ---
-Title:The Universe Is in Chaos 
-Chapter:3303 
-Section:16 
-Book:10 
-CSS:../Styles/style.css 
+title: The Universe Is in Chaos
+chapter: 3303
+section: 16
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## The Universe Is in Chaos
-### Chapter 3303
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## The Universe Is in Chaos
+
+### Chapter 3303
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 It was not as if it was tricky dealing with them. It was just that those people loved to keep fighting. It was like he was playing a card game. To win every time led one to get bored pretty quickly. Plus, they would keep fighting for days on end. They would try and try without ever wanting to take a break.
 
 “Bao’er should be okay with the Feng family.” Although Han Sen knew about Bao’er’s power and that nothing would happen to her, he still found himself rather worried about how she was doing.

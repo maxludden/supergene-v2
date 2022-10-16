@@ -1,21 +1,20 @@
 ---
-Title:Siege 
-Chapter:1766 
-Section:6 
-Book:5 
-CSS:../Styles/style.css 
+title: Siege
+chapter: 1766
+section: 6
+book: 5
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Siege
-### Chapter 1766
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Siege
+
+### Chapter 1766
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “What’s with that guy? Could he not understand our language?” Han Sen had encountered rude people before, but none that were rude to that extent.
 
 Hai’er looked bitter and said, “He’ll really do what he said. This is bad.”

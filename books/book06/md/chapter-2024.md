@@ -1,21 +1,20 @@
 ---
-Title:The Beginning of Ancient God 
-Chapter:2024 
-Section:8 
-Book:6 
-CSS:../Styles/style.css 
+title: The Beginning of Ancient God
+chapter: 2024
+section: 8
+book: 6
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## The Beginning of Ancient God
-### Chapter 2024
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## The Beginning of Ancient God
+
+### Chapter 2024
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 In total, 187 Earl and two Marquise Ghost Face Spiders had been one-hit killed by Han Sen. None had been left alive, and none required a double tap to finish off.
 
 Han Sen’s power was scary. Having practiced inside that dream was one of the reasons for this. If he hadn’t endured that, he wouldn’t have known the precise weaknesses of the Ghost Face Spiders, and he wouldn’t have been able to kill the Marquise spiders in one hit.

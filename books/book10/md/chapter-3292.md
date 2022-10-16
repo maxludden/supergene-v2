@@ -1,21 +1,20 @@
 ---
-Title:Day 
-Chapter:3292 
-Section:16 
-Book:10 
-CSS:../Styles/style.css 
+title: Day
+chapter: 3292
+section: 16
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Day
-### Chapter 3292
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Day
+
+### Chapter 3292
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 After leaving the geno hall, Han Sen thought about the various ways he might be able to gain a human body again.
 
 “I do not think the God Hall Leader will be able to help me. In that case, I will have to ask Night God No Moon for a solution. But where did Moon God even go?” Han Sen was feeling a little bit depressed.

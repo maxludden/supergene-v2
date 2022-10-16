@@ -1,21 +1,20 @@
 ---
-Title:That Really Is Dollar 
-Chapter:1086 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: That Really Is Dollar
+chapter: 1086
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## That Really Is Dollar
-### Chapter 1086
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## That Really Is Dollar
+
+### Chapter 1086
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “That really is Dollar!” Su Xiaoqiao exclaimed in shock. He had no idea what had just happened, but the landscape of battle had immediately morphed.
 
 Dollars scattered across all the Raging Beasts, peppering them.

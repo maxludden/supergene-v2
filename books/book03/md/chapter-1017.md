@@ -1,21 +1,20 @@
 ---
-Title:Blood Fruit 
-Chapter:1017 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Blood Fruit
+chapter: 1017
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Blood Fruit
-### Chapter 1017
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Blood Fruit
+
+### Chapter 1017
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “Mister Liu, I thank you. You have greatly opened our eyes,” Chen Hu said.
 
 He believed the beasts were so kind because of Liu Yuxuan’s behavior.
@@ -74,7 +73,7 @@ Seeing Lin Weiwei looking at him, Liu Yuxuan tried to swallow his flaring temper
 
 “Fine. Whatever. Let’s keep walking.” Liu Yuxuan marched ahead as soon as he finished his sentence.
 
-Liu Yuxuan went with a smile, but inside, he was thinking, “Fuck! That’s it; I’m not allowing any of you to live. That *sshole Han Sen must die.”
+Liu Yuxuan went with a smile, but inside, he was thinking, “Fuck! That’s it; I’m not allowing any of you to live. That asshole Han Sen must die.”
 
 Liu Yuxuan despised Han Sen more than ever, and the fact he had ruined his plans was driving him nuts. He wanted them all dead, especially since they had seen him shamelessly kowtow in front of a super creature.
 

@@ -1,21 +1,20 @@
 ---
-Title:Wavy Sword Mind 
-Chapter:3154 
-Section:16 
-Book:10 
-CSS:../Styles/style.css 
+title: Wavy Sword Mind
+chapter: 3154
+section: 16
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Wavy Sword Mind
-### Chapter 3154
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Wavy Sword Mind
+
+### Chapter 3154
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Qin Bai looked frightened. He kept stuttering, unsure of what to say.
 
 Han Sen said, “Mister Crown Prince has been practicing sword skills here.”

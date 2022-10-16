@@ -1,21 +1,20 @@
 ---
-Title:Exchange Even 
-Chapter:1898 
-Section:7 
-Book:5 
-CSS:../Styles/style.css 
+title: Exchange Even
+chapter: 1898
+section: 7
+book: 5
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Exchange Even
-### Chapter 1898
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Exchange Even
+
+### Chapter 1898
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “Gone? How can they be gone?” Du Lishe asked curiously.
 
 Qing Li explained it, and then let her take a look at the broken wood chips.

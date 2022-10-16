@@ -1,20 +1,19 @@
 ---
-Title:Thorn Scorpion Beast Soul
-Chapter:1151
-Section:3
-Book:3
-CSS:../Styles/style.css
+title: Thorn Scorpion Beast Soul
+chapter: 1151
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
 
 ## Thorn Scorpion Beast Soul
+
 ### Chapter 1151
 
 <figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
 </figure>
-
-
 
 When Han Sen moved the underground shelter again, there was only Queen, Bao’er, and Zero left.
 
@@ -75,15 +74,14 @@ Han Sen was delighted, so he scrambled to take a look at what manner of beast so
 <div class=“tables”>
 	<table class=“beast”>
 		<tr>
-			<th>Beast Soul</th>
+			<th colspan=“2”>Beast Soul</th>
 		</tr><tr>
-			<td> Sacred-Blood Beast Soul Thorn Scorpion <br>
-				<span class="type">(glyph)</span>
-			</td>
+			<td> Sacred-Blood Beast Soul Thorn Scorpion </td>
+			<td>(glyph)</td>
 		</tr>
 	</table>
 	<!--Sacred-Blood Beast Soul Thorn Scorpion: Glyph Beast Soul.-->
-</div>
+</div> 
 
 Han Sen was shocked at the result, as glyph beast souls were complicated things.
 

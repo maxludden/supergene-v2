@@ -1,21 +1,20 @@
 ---
-Title:A Burnt Shelter 
-Chapter:547 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: A Burnt Shelter
+chapter: 547
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## A Burnt Shelter
-### Chapter 547
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## A Burnt Shelter
+
+### Chapter 547
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 "What's going on? That blue seahorse just incinerated the entire shelter." Han Sen watched as the shelter was engulfed in blue flames. His mind froze in shock.
 
 The blue flames reached a dozen miles in length, and they writhed around the entirety of the Seabed Shelter. Stranger still was the fact that no spirit or creature seemed to have escaped from there.

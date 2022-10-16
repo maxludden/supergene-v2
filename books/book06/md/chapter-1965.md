@@ -1,21 +1,20 @@
 ---
-Title:White Jade Jing 
-Chapter:1965 
-Section:8 
-Book:6 
-CSS:../Styles/style.css 
+title: White Jade Jing
+chapter: 1965
+section: 8
+book: 6
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## White Jade Jing
-### Chapter 1965
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## White Jade Jing
+
+### Chapter 1965
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen had walked the sky jade steps, and everyone knew Thousand Feather Crane had to carry him into Sky Palace.
 
 This was far too weird, though. Han Sen had almost passed out when he was brought inside. Thousand Feather Crane continued carrying him until they reached the leader of Sky Palace.

@@ -1,21 +1,20 @@
 ---
-Title:Raiding the Garden 
-Chapter:962 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Raiding the Garden
+chapter: 962
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Raiding the Garden
-### Chapter 962
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Raiding the Garden
+
+### Chapter 962
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 "Getting in should be easy. There is an old tree close to the east side of the garden that is hollow on the inside. It has many roots all around it. If you drill your way through below it, you can enter the garden without sounding any alarms." Thorn Baron paused, then said, "But the tree that is closest to maturing still needs another thirty years. There is nothing for you to take there; you can't obtain anything of value right now."
 
 Despite being unaware of Han Sen's trick for growing plants, Thorn Baron still led the way. Before long, they came to the tree she had spoken about.

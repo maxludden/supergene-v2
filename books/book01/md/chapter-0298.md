@@ -1,21 +1,20 @@
 ---
-Title:Smoothness 
-Chapter:298 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: Smoothness
+chapter: 298
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Smoothness
-### Chapter 298
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Smoothness
+
+### Chapter 298
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Slaying All with Double Blades used Thirteen Slashes the second time, intending to beat Han Sen as soon as possible. However, he very soon found out that it was not as simple as he thought it would be.
 
 Although Han Sen’s speed and strength did not increase, Slaying All with Double Blades felt like it became significantly more difficult for him to hit Han Sen.

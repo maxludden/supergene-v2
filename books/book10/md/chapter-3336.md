@@ -1,21 +1,20 @@
 ---
-Title:Jian Ou 
-Chapter:3336 
-Section:17 
-Book:10 
-CSS:../Styles/style.css 
+title: Jian Ou
+chapter: 3336
+section: 17
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Jian Ou
-### Chapter 3336
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Jian Ou
+
+### Chapter 3336
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The woman drew out the purple copper sword, which was glowing with a purple and red flame. It was like an endless power was coming out with the sword and going into the woman’s body.
 
 Han Sen was shocked to see this. He saw it get pulled out by the native right from the ground. It was not completely free though. A special connection was forming between the purple copper sword and woman.
@@ -90,6 +89,6 @@ The purple copper sword had a crack that was the size of a grain of rice, but th
 
 The little girl was very happy. She held the ice-jade jian and kept striking at the woman. The woman raised her sword to fight back. A few blade collisions ensued. Each time the purple copper sword endured a hit, a crack the size of a grain of rice appeared on the metal.
 
-“Dumbass! Brainless b*tch! Do you only use strength to slash?” The purple copper sword was afraid and angry. The purple copper sword was the man’s body. If the sword was damaged, it meant his actual body was being hurt. That woman was playing with his life.
+“Dumbass! Brainless bitch! Do you only use strength to slash?” The purple copper sword was afraid and angry. The purple copper sword was the man’s body. If the sword was damaged, it meant his actual body was being hurt. That woman was playing with his life.
 
 His thoughts were unable to be heard by the woman. Suddenly, the purple copper sword started to glow, but it was not going to Han Sen and the little girl. It was pulling the woman’s body away to escape someplace far away from there. The woman was shocked by this, but she soon disappeared someplace deep within the recesses of the woods.

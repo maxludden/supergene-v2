@@ -1,21 +1,20 @@
 ---
-Title:Human Emperor 
-Chapter:1506 
-Section:4 
-Book:4 
-CSS:../Styles/style.css 
+title: Human Emperor
+chapter: 1506
+section: 4
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Human Emperor
-### Chapter 1506
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Human Emperor
+
+### Chapter 1506
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen saw the green gourd, but he did not stare at it. He didn’t want the elder to get the wrong idea.
 
 The gourd looked different than the one Bao’er had come out of, and it felt different, too. Han Sen could not quite put his finger on the reason why, though.
@@ -76,7 +75,7 @@ It was a code, and Han Sen answered it with the password, “So, he cheated.”
 
 “To win this revolution, we need to be patient. You must be prepared to make a sacrifice,” Han Sen said righteously.
 
-Wang Yuhang threw his hands away. “F*ck you! You make the sacrifice. I have a few hundred years left in my lifespan, and girls are waiting for me. I’m not sacrificing anything.”
+Wang Yuhang threw his hands away. “Fuck you! You make the sacrifice. I have a few hundred years left in my lifespan, and girls are waiting for me. I’m not sacrificing anything.”
 
 “Young man, you became a demigod for a few women? You need grander dreams.” Han Sen’s face said he felt sorry for the man.
 

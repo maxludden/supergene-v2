@@ -1,20 +1,19 @@
 ---
-Title:Primal Innocence
-Chapter:343
-Section:1
-Book:1
-CSS:../Styles/style.css
+title: Primal Innocence
+chapter: 343
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
 
 ## Primal Innocence
+
 ### Chapter 343
 
 <figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
 </figure>
-
-
 
 Fang Guotao was a renowned martial arts specialist who had become popular because he invented a hyper geno art named Primal Innocence.
 
@@ -76,7 +75,7 @@ After coming out the gravity trainer, Han Sen was dazed after seeing so many peo
 
 After watching for a while, Han Sen became impatient. In fact, Fang's methods were not that great. Although primal instance was effective, it depended on who the user was.
 
-All the students picked by Fang Guotao were timid and not confident. Normally speaking, people like this could tap into their potentials easily once their confidence was boosted. In addition, there was tricks similar to Overload in Primal Innocence. Therefore, it was not hard at all to improve their testing results.
+All the students picked by Fang Guotao were timid and inconfident. Normally speaking, people like this could tap into their potentials easily once their confidence was boosted. In addition, there was tricks similar to Overload in Primal Innocence. Therefore, it was not hard at all to improve their testing results.
 
 Han Sen was totally able to demonstrate the same thing himself, so he was bored.
 

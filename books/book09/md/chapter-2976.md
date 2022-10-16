@@ -1,21 +1,20 @@
 ---
-Title:Sky God Crown 
-Chapter:2976 
-Section:15 
-Book:9 
-CSS:../Styles/style.css 
+title: Sky God Crown
+chapter: 2976
+section: 15
+book: 9
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Sky God Crown
-### Chapter 2976
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Sky God Crown
+
+### Chapter 2976
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Human King also gave him Blood-Pulse Sutra’s final part. He told him that if he was willing to, all he had to do was practice the final part for his blood to turn into blue blood. Although this method was not as pure as passing it through generations, it would still give Han Sen blueblood power.
 
 The price to pay was that Han Sen would lose all the geno arts he currently had. He would not even be able to make use of beast souls. All he would be able to use was blueblood power.

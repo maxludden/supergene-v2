@@ -1,21 +1,20 @@
 ---
-Title:Starter King's Land 
-Chapter:2894 
-Section:15 
-Book:9 
-CSS:../Styles/style.css 
+title: Starter King's Land
+chapter: 2894
+section: 15
+book: 9
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Starter King's Land
-### Chapter 2894
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Starter King's Land
+
+### Chapter 2894
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 It was a shame Han Sen did not find any other true god xenogeneics inside Nine-Defense Palace. He could not do this again.
 
 After exiting Nine-Defense Palace, Han Sen noticed Bao Ying had been waiting for him outside the place.

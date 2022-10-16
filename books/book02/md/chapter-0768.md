@@ -1,21 +1,20 @@
 ---
-Title:Mysterious Metal Door 
-Chapter:768 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Mysterious Metal Door
+chapter: 768
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Mysterious Metal Door
-### Chapter 768
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Mysterious Metal Door
+
+### Chapter 768
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Doused in the bright holy light, the army of creatures elected to halt their advance. They just stood there, watching the rhino rise anew like the sun.
 
 Although the light was bright, it did not harm your eyes to look on it. It was warm and accepting. While Han Sen watched the flames, the bones crumbled away like petals from flowers.

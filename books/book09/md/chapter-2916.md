@@ -1,21 +1,20 @@
 ---
-Title:Trash Sea 
-Chapter:2916 
-Section:15 
-Book:9 
-CSS:../Styles/style.css 
+title: Trash Sea
+chapter: 2916
+section: 15
+book: 9
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Trash Sea
-### Chapter 2916
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Trash Sea
+
+### Chapter 2916
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “Can you pull it out?” Han Sen looked at Bao’er with shock.
 
 “I think I can,” Bao’er said with a nod.

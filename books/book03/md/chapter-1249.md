@@ -1,21 +1,20 @@
 ---
-Title:Pretty Chef’s Request 
-Chapter:1249 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Pretty Chef’s Request
+chapter: 1249
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Pretty Chef’s Request
-### Chapter 1249
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Pretty Chef’s Request
+
+### Chapter 1249
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “What would you like to eat?” The beautiful chef smiled with a warmth that could melt ice.
 
 “We’ll eat whatever you recommend.” Han Sen proceeded to sit down with Bao’er near the kitchen.

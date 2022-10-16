@@ -1,21 +1,20 @@
 ---
-Title:Boyfriend and Husband 
-Chapter:1732 
-Section:6 
-Book:5 
-CSS:../Styles/style.css 
+title: Boyfriend and Husband
+chapter: 1732
+section: 6
+book: 5
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Boyfriend and Husband
-### Chapter 1732
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Boyfriend and Husband
+
+### Chapter 1732
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 In the Alliance universe, in the kindergarten on Planet Roca.
 
 A little boy was writing, and there was a little girl with a hairstyle that resembled the horns of a goat. She moved her chair over to sit next to the little boy. She lay down on the table and looked up at him.

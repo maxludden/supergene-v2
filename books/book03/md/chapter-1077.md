@@ -1,21 +1,20 @@
 ---
-Title:Cheating Bao’er 
-Chapter:1077 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Cheating Bao’er
+chapter: 1077
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Cheating Bao’er
-### Chapter 1077
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Cheating Bao’er
+
+### Chapter 1077
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 To the right of the tiger-humanoid monster stood a hydra. It was a hundred meters tall, and it possessed four wings. Each serpent head had a horn.
 
 Next to the hydra was a white sheep, whose wool was fluffy like the clouds of the sky.

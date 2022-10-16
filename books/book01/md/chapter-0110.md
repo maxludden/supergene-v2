@@ -1,21 +1,20 @@
 ---
-Title:Escape 
-Chapter:110 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: Escape
+chapter: 110
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Escape
-### Chapter 110
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Escape
+
+### Chapter 110
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Fortunately, it was a forest of pagoda-like weathered rock hoodoos. Han Sen was taking his cover behind the pagoda-like hoodoos and paid no mind which way he was going as long as he could get rid of the silver bird.
 
 However, the horrendous silver bird was still following him. Under its claws, even a car-sized stone was crushed in an instant. Its strength was almost divine.

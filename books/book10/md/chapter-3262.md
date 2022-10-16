@@ -1,21 +1,20 @@
 ---
-Title:Meeting in Red Sleeve Building 
-Chapter:3262 
-Section:16 
-Book:10 
-CSS:../Styles/style.css 
+title: Meeting in Red Sleeve Building
+chapter: 3262
+section: 16
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Meeting in Red Sleeve Building
-### Chapter 3262
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Meeting in Red Sleeve Building
+
+### Chapter 3262
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The reverse The Story of Gene kept destroying Han Sen’s body. He could no longer endure it. After resting for a while, he went to the garden to chill. Bao’er and Feng Yin Yin were playing chess in the garden. Han Sen watched the two of them play.
 
 Because of Han Sen, Bao’er was very good at playing chess and various card games. By comparison, Feng Yin Yin was very bad. Every match ended poorly for her.

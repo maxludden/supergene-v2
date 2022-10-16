@@ -1,20 +1,19 @@
 ---
-Title:Dark Silkworm
-Chapter:739
-Section:2
-Book:2
-CSS:../Styles/style.css
+title: Dark Silkworm
+chapter: 739
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
 
 ## Dark Silkworm
+
 ### Chapter 739
 
 <figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
 </figure>
-
-
 
 Han Sen watched the scorpion for a while as it continued to dig. It kept on digging until it vanished from sight, and all Han Sen could see was the remaining presence of a hole.
 
@@ -69,15 +68,14 @@ Han Sen then quickly looked up the beast soul's info, keen to learn what type it
 <div class="tables">
 	<table class="beast">
 		<tr>
-			<th>Beast Soul Gained</th>
+			<th colspan="2">Beast Soul Gained</th>
 		</tr><tr>
-			<td>Mutant Dark Silkworm<br>
-				<span class="type">(One-Time Use Hidden Weapon)</span>
-			</td>
+			<td>Mutant Dark Silkworm</td>
+			<td>(One-Time Use Hidden Weapon)</td>
 		</tr>
 	</table>
 	<!-- Mutant Dark Silkworm: One-Time Use Hidden Weapon -->
-</div>
+</div> 
 
 Han Sen was pleasantly surprised, as it had been a long time since he had last seen a one-time use beast soul. It was rare to find hidden weapon beast souls, and he wondered which one that might have been.
 

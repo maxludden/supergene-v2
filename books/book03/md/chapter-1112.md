@@ -1,21 +1,20 @@
 ---
-Title:Lucky Bao’er 
-Chapter:1112 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Lucky Bao’er
+chapter: 1112
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Lucky Bao’er
-### Chapter 1112
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Lucky Bao’er
+
+### Chapter 1112
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen’s confidence had been renewed, after grabbing some of the eggs in Bao’er’s pile. And as he clutched one, he shouted to the skies, “This is going to work! Buddha! Laozi! Jesus! RNGesus! Mary! Please, please, please! Bless me with immaculate fortune, as I walk through the valley of shoddy lootcrates… Heeyyaa!”
 
 Han Sen crushed the egg, and he watched the red light that oozed out with a manic stare. With his intense gaze, he waited to see the form it’d take. And then, all of a sudden, a housefly buzzed straight into his Sea of Soul.

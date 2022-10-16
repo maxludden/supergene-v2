@@ -1,21 +1,20 @@
 ---
-Title:Extreme King Overbearing Eye 
-Chapter:2799 
-Section:14 
-Book:9 
-CSS:../Styles/style.css 
+title: Extreme King Overbearing Eye
+chapter: 2799
+section: 14
+book: 9
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Extreme King Overbearing Eye
-### Chapter 2799
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Extreme King Overbearing Eye
+
+### Chapter 2799
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “Even if I know he is the red-robed child, it will be pointless if I cannot find a way to control it. Even Mister Yin was unable to control it. So, that means I will have to ask the Grandmaster. But the Grandmaster went to the big barren systems, so I do not think he will be back anytime soon.” Bai Wanjie sighed. He quickly thought of someone else.
 
 “I need to get Mister White from the Winter Garden.” Bai Wanjie summoned a servant and gave him a pass. He told him, “Be polite to Mister White. Do not offend him.”

@@ -1,21 +1,20 @@
 ---
-Title:Pluto Peacock 
-Chapter:2871 
-Section:14 
-Book:9 
-CSS:../Styles/style.css 
+title: Pluto Peacock
+chapter: 2871
+section: 14
+book: 9
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Pluto Peacock
-### Chapter 2871
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Pluto Peacock
+
+### Chapter 2871
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Pluto Peacock had many black feathers. Its neck and other places had blue feathers and green feathers. Its eyes had some feathers with two colors, from blue to green. It also had blue eyeballs and green pupils.
 
 From what Han Sen could tell, Pluto Peacock had reached butterfly class not too long ago. It had become true god class in a recent deathmatch. Its power was not solid yet. It was one of the weaker enemies of the deified fights, so it selected the enemy that was one higher than him.

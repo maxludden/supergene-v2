@@ -1,20 +1,19 @@
 ---
-Title:Berserk Gargoyle
-Chapter:487
-Section:2
-Book:2
-CSS:../Styles/style.css
+title: Berserk Gargoyle
+chapter: 487
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
 
 ## Berserk Gargoyle
+
 ### Chapter 487
 
 <figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
 </figure>
-
-
 
 The injury on Han Sen's chest had stopped bleeding. Although it was a decision he made at the moment he saw the spirit girl shifting into a warrior, Han Sen executed it perfectly with his peerless control of his body and timing.
 
@@ -87,15 +86,14 @@ The voice he heard almost made Han Sen laugh out of happiness. Lady luck was sti
 <div class="tables">
 	<table class="beast">
 		<tr>
-			<th>Beast Soul</th>
+			<th colspan="2">Beast Soul Gained</th>
 		</tr><tr>
-			<td>Berserk Sacred-Blood Evil Gargoyle<br>
-				<span class="type">(Glyph)</span>
-			</td>
+			<td>Berserk Sacred-Blood Evil Gargoyle</td>
+			<td>(Glyph)</td>
 		</tr>
 	</table>
 	<!-- Type of beast soul of berserk sacred-blood evil gargoyle: glyph. -->
-</div>
+</div> 
 
 "Another glyph!" After Han Sen saw it, he was dazed for a while. He still hadn't figured out what was the use of the evil-blooded condor beast soul he gained last time. Unexpectedly, this sacred-blood evil gargoyle was also a glyph.
 

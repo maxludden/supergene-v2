@@ -1,21 +1,20 @@
 ---
-Title:The Swordmind Is Bursting 
-Chapter:1771 
-Section:6 
-Book:5 
-CSS:../Styles/style.css 
+title: The Swordmind Is Bursting
+chapter: 1771
+section: 6
+book: 5
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## The Swordmind Is Bursting
-### Chapter 1771
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## The Swordmind Is Bursting
+
+### Chapter 1771
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The wall itself cracked when Hai’er slammed into it. The Pirate Bone Sword in Hai’er’s hands was knocked out of her grip.
 
 Mister Elephant threw another punch towards Hai’er. But the girl’s eyes were very round, and she said quietly, “Elephant… you really dare hurt me?”

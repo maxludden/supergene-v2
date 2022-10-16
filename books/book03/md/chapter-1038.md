@@ -1,21 +1,20 @@
 ---
-Title:The View That Contains a Thousand Birds 
-Chapter:1038 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: The View That Contains a Thousand Birds
+chapter: 1038
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## The View That Contains a Thousand Birds
-### Chapter 1038
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## The View That Contains a Thousand Birds
+
+### Chapter 1038
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “Who are you?” Holy-Sword Emperor asked.
 
 “That is of no concern to you,” Han Sen said.

@@ -1,21 +1,20 @@
 ---
-Title:Back to the First Floor 
-Chapter:3329 
-Section:17 
-Book:10 
-CSS:../Styles/style.css 
+title: Back to the First Floor
+chapter: 3329
+section: 17
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Back to the First Floor
-### Chapter 3329
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Back to the First Floor
+
+### Chapter 3329
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen pointed at the gourd symbol and asked, “What is the meaning of this gourd symbol on the tablet?”
 
 White King said, “That was left behind by the fairy that made the White Jade Jing. It is a sign of the fairy.”

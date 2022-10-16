@@ -1,21 +1,20 @@
 ---
-Title:Dongxuan Armor 
-Chapter:1754 
-Section:6 
-Book:5 
-CSS:../Styles/style.css 
+title: Dongxuan Armor
+chapter: 1754
+section: 6
+book: 5
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Dongxuan Armor
-### Chapter 1754
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Dongxuan Armor
+
+### Chapter 1754
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Since the day they returned from the west, no one came looking for Han Sen. Not even Mister Tiger or Third Master had come by. And Third Mister no longer asked Han Sen for the training he had previously requested.
 
 Han Sen asked what it was that Bao’er had seen in the bottomless pit, and she said she saw an eye. What sort of eye was unclear.

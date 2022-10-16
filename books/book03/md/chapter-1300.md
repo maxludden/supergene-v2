@@ -1,21 +1,20 @@
 ---
-Title:Demi-god Arrives 
-Chapter:1300 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Demi-god Arrives
+chapter: 1300
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Demi-god Arrives
-### Chapter 1300
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Demi-god Arrives
+
+### Chapter 1300
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The entire place had turned black, like an infinite, suffocating abyss. The only point of light was that of the jue, a sole beacon in a sea of darkness. It guided Han Sen. And in turn, Han Sen guided Lotus Empress. He led her through the realm of black until he reached another point of light.
 
 They approached it, and there their eyes focused on a glowing goddess statue.

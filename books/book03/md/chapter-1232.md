@@ -1,21 +1,20 @@
 ---
-Title:Lightning Stone 
-Chapter:1232 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Lightning Stone
+chapter: 1232
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Lightning Stone
-### Chapter 1232
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Lightning Stone
+
+### Chapter 1232
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 In the well, there was a flickering bolt of lightning. It was different from normal lightning, and the end of the bolt seemed to be stemming from something solid. It was a blue stone.
 
 The blue stone was like crystal, and he could see lightning inside and out of it.

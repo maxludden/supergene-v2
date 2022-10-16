@@ -1,21 +1,20 @@
 ---
-Title:Changes 
-Chapter:1161 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Changes
+chapter: 1161
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Changes
-### Chapter 1161
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Changes
+
+### Chapter 1161
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen spent the next few days with Ji Yanran, attempting to make babies. The following week, Han Sen decided to return to the shelter.
 
 “Now, where might I next find a super creature?” Han Sen mulled to himself.

@@ -1,21 +1,20 @@
 ---
-Title:My Fate Is Entwined With This Child 
-Chapter:3151 
-Section:16 
-Book:10 
-CSS:../Styles/style.css 
+title: My Fate Is Entwined With This Child
+chapter: 3151
+section: 16
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## My Fate Is Entwined With This Child
-### Chapter 3151
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## My Fate Is Entwined With This Child
+
+### Chapter 3151
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen thought the child looked just like Burning Lamp. He calculated the time from when Burning Lamp died to what the age of that child was now and thought it was a perfect match.
 
 “It is a shame for this alpha, Burning Lamp, to reborn into such circumstances.” Han Sen sighed.

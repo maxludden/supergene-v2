@@ -1,21 +1,20 @@
 ---
-Title:Backlash 
-Chapter:3315 
-Section:17 
-Book:10 
-CSS:../Styles/style.css 
+title: Backlash
+chapter: 3315
+section: 17
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Backlash
-### Chapter 3315
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Backlash
+
+### Chapter 3315
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “If you are interested, you can have a look at what is out there,” Han Sen said to big sky demon.
 
 “Are you trying to trick me out of your dream? That is not going to work, my dear. I want to go into your dreams and do it whenever. You cannot stop me.” Big sky demon’s fingers stroked Han Sen’s cheek as she spoke.

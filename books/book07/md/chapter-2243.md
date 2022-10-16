@@ -1,21 +1,20 @@
 ---
-Title:Meeting Underground 
-Chapter:2243 
-Section:10 
-Book:7 
-CSS:../Styles/style.css 
+title: Meeting Underground
+chapter: 2243
+section: 10
+book: 7
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Meeting Underground
-### Chapter 2243
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Meeting Underground
+
+### Chapter 2243
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen looked around the cave, but he couldn’t find another exit. He wasn’t in much of a rush, though. He released Little Star from Destiny’s Tower.
 
 “Little Star, let’s see how you do here.” Han Sen leaped atop Little Star.

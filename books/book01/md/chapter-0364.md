@@ -1,21 +1,20 @@
 ---
-Title:Try Again 
-Chapter:364 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: Try Again
+chapter: 364
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Try Again
-### Chapter 364
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Try Again
+
+### Chapter 364
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 "Name it," said Ye Yufeng.
 
 "Come down with me again and kill the wolf," said Han Sen calmly.

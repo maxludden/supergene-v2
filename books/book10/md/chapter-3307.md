@@ -1,21 +1,20 @@
 ---
-Title:Who Is Evil? 
-Chapter:3307 
-Section:17 
-Book:10 
-CSS:../Styles/style.css 
+title: Who Is Evil?
+chapter: 3307
+section: 17
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Who Is Evil?
-### Chapter 3307
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Who Is Evil?
+
+### Chapter 3307
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The four-taloned, evil bird’s face twisted grotesquely. Afterward, its body instantly exploded. It turned into a bloody mist that went everywhere.
 
 Moment God did not stop. Time all around her crawled to a standstill. She stepped out from the other side of the system. Another Break World creature was destroying things there.

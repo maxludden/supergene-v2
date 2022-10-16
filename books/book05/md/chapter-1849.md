@@ -1,21 +1,20 @@
 ---
-Title:The Real Purpose 
-Chapter:1849 
-Section:7 
-Book:5 
-CSS:../Styles/style.css 
+title: The Real Purpose
+chapter: 1849
+section: 7
+book: 5
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## The Real Purpose
-### Chapter 1849
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## The Real Purpose
+
+### Chapter 1849
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “They are my personal guards,” Han Sen said.
 
 So far, they only had Deep Blue Viscount’s word that the lotus roots could suppress the mark. Until it was confirmed, Han Sen wasn’t willing to let Xie Qing King and Gu Qingcheng take any risks.

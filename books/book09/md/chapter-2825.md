@@ -1,21 +1,20 @@
 ---
-Title:Name List 
-Chapter:2825 
-Section:14 
-Book:9 
-CSS:../Styles/style.css 
+title: Name List
+chapter: 2825
+section: 14
+book: 9
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Name List
-### Chapter 2825
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Name List
+
+### Chapter 2825
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen thought, Has this scroll recorded the elites that killed gods before? He thought something was amiss with what was going on.
 
 Sacred Leader researched for a long time and was unable to kill the gods. Why would a subordinate of his, Purple Fight, kill a god with success? That is so weird. Plus, that woman and Horizontal Evil used to say that without a super gene, you could not kill a god. Even Sacred Leader was unable to find a super gene. How did Purple Fight find a super gene? Han Sen's brain was flooded with intense wonder.

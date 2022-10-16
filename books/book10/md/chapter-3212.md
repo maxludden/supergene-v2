@@ -1,21 +1,20 @@
 ---
-Title:Revive 
-Chapter:3212 
-Section:16 
-Book:10 
-CSS:../Styles/style.css 
+title: Revive
+chapter: 3212
+section: 16
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Revive
-### Chapter 3212
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Revive
+
+### Chapter 3212
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen kept thinking. Whenever Wan’er reached the geno universe and her gold power showed up, she would become exhausted. Han Sen believed it was her body that had the problem. Now that he was able to think about it some more, he started to believe it was similar to what he was going through. The geno universe restricted all powers that did not belong there.
 
 Wan’er’s body needed to have her gold power restricted if her body was to recover.

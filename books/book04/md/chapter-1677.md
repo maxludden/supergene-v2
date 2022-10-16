@@ -1,21 +1,20 @@
 ---
-Title:The Fight Before the Door 
-Chapter:1677 
-Section:4 
-Book:4 
-CSS:../Styles/style.css 
+title: The Fight Before the Door
+chapter: 1677
+section: 4
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## The Fight Before the Door
-### Chapter 1677
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## The Fight Before the Door
+
+### Chapter 1677
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Ancient Devil was sitting in lotus position. One hand was pushing against the God’s Door, while the other pushed back at Han Sen’s hand.
 
 “I already have one foot inside the God’s Door. It does not matter how strong you are, you are still an ant compared to the likes of me.” Ancient Devil spoke to Han Sen gently, as if he had already achieved godhood.

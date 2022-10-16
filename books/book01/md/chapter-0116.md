@@ -1,21 +1,20 @@
 ---
-Title:Admission 
-Chapter:116 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: Admission
+chapter: 116
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Admission
-### Chapter 116
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Admission
+
+### Chapter 116
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 "Sister, so I won, right?" Han Sen walked over with a smile. Having such a pretty girlfriend when he just entered the school was something he would be quite proud of.
 
 "You used a cheating device, so it does not count," Ji Yanran said angrily.

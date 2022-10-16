@@ -1,21 +1,20 @@
 ---
-Title:Pet Pill 
-Chapter:840 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Pet Pill
+chapter: 840
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Pet Pill
-### Chapter 840
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Pet Pill
+
+### Chapter 840
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen's communicator did not stop ringing, and the number of calls were overwhelming. They mostly came from good friends.
 
 Diligently, Han Sen answered them all, and each caller had contacted Han Sen to tell him about a new pet pill Dong Lin had created. They wanted to warn him.

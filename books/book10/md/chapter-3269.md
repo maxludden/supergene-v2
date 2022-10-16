@@ -1,21 +1,20 @@
 ---
-Title:The Qin Kingdom's No.1 Swordsman? 
-Chapter:3269 
-Section:16 
-Book:10 
-CSS:../Styles/style.css 
+title: The Qin Kingdom's No.1 Swordsman?
+chapter: 3269
+section: 16
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## The Qin Kingdom's No.1 Swordsman?
-### Chapter 3269
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## The Qin Kingdom's No.1 Swordsman?
+
+### Chapter 3269
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The girl looked confused as she asked Han Sen, “Are you really the Qin Kingdom’s No. 1 swordsman?”
 
 “Of course, I am the invincible No. 1 swordsman of the Qin Kingdom,” Han Sen said with a blink of his eyes.

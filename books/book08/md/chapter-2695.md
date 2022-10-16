@@ -1,21 +1,20 @@
 ---
-Title:Trapped Inside the Jail Demon Hall 
-Chapter:2695 
-Section:13 
-Book:8 
-CSS:../Styles/style.css 
+title: Trapped Inside the Jail Demon Hall
+chapter: 2695
+section: 13
+book: 8
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Trapped Inside the Jail Demon Hall
-### Chapter 2695
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Trapped Inside the Jail Demon Hall
+
+### Chapter 2695
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The talons of the Red Blood Demon tore through Han Sen’s body, and it exploded like a water balloon.
 
 The next second, the water that had separated began to gather up again. It reformed Han Sen’s face, but before the water finished reconstituting Han Sen’s body, the creature spread its claws again. Once more, it swung at Han Sen. The red substance chains that went with the attack erupted like a volcano.

@@ -1,21 +1,20 @@
 ---
-Title:Ancient Demon Emperor Tree 
-Chapter:994 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Ancient Demon Emperor Tree
+chapter: 994
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Ancient Demon Emperor Tree
-### Chapter 994
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Ancient Demon Emperor Tree
+
+### Chapter 994
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Dragon King had been returned to the ring by Han Sen. When Demon Emperor entered the Fourth God’s Sanctuary, not a single sanctuary had been discovered by humans yet.
 
 When he was about to enter the Fourth God’s Sanctuary, his equipment became useless, so he gave all of it to his subordinates.
@@ -40,7 +39,7 @@ Han Sen put Moment Queen away again. Then, he touched the ring and asked, “Dra
 
 “Did you know that he went to your sacrificial ritual?” Han Sen asked.
 
-“That *sshole must have come for my armor. Little did he know that it was not with me. I foresaw the possibility of something like this occurring, and so I set up a trap. If he sprang it, he should be heavily wounded now,” Dragon King explained.
+“That asshole must have come for my armor. Little did he know that it was not with me. I foresaw the possibility of something like this occurring, and so I set up a trap. If he sprang it, he should be heavily wounded now,” Dragon King explained.
 
 Han Sen did not move and asked, “You said you were given the armor. What was Yaksha given?”
 

@@ -1,21 +1,20 @@
 ---
-Title:Breaking the World 
-Chapter:3159 
-Section:16 
-Book:10 
-CSS:../Styles/style.css 
+title: Breaking the World
+chapter: 3159
+section: 16
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Breaking the World
-### Chapter 3159
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Breaking the World
+
+### Chapter 3159
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “Breaking the world… Underworld Silhouette…” Rocky Dee coldly shouted. The black flames on his body turned white. The flames were strong. There were like ice that could not be broken.
 
 The black paper man was burned by the white fire, which turned it white. It was wrapped up by the white fire.

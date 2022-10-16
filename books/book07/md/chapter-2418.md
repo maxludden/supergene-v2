@@ -1,21 +1,20 @@
 ---
-Title:Swapping Minds 
-Chapter:2418 
-Section:11 
-Book:7 
-CSS:../Styles/style.css 
+title: Swapping Minds
+chapter: 2418
+section: 11
+book: 7
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Swapping Minds
-### Chapter 2418
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Swapping Minds
+
+### Chapter 2418
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 While Miss Mirror was speaking with two of the four Spring Rain Kings, whose names were Red Cloud and Night Wind, a sound erupted from Han Sen’s place, interrupting their discussion.
 
 “I am stupid!” someone screamed.

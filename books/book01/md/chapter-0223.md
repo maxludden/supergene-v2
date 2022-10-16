@@ -1,21 +1,20 @@
 ---
-Title:Greedy Devil 
-Chapter:223 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: Greedy Devil
+chapter: 223
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Greedy Devil
-### Chapter 223
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Greedy Devil
+
+### Chapter 223
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 " Han Sen, I hope that you could start to practice Yin Yang Blast right now..." Bai Yishan said quickly.
 
 " professor I want to ask you something. Why didn't you go find an evolver or surpass her to practice your invention?" asked Han Sen.

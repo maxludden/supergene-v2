@@ -1,21 +1,20 @@
 ---
-Title:Galactic Shrimp 
-Chapter:2211 
-Section:10 
-Book:7 
-CSS:../Styles/style.css 
+title: Galactic Shrimp
+chapter: 2211
+section: 10
+book: 7
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Galactic Shrimp
-### Chapter 2211
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Galactic Shrimp
+
+### Chapter 2211
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The fight was worse than they had anticipated. The ships possessed tremendous power, and they could probably have obliterated entire planets with ease. Stopping the assault of those scary Galactic Shrimp was beyond their capabilities, though.
 
 A giant lobster would occasionally appear amongst the hordes of smaller shrimp. The lobsters had a frightening enough presence to suggest that they were King class.

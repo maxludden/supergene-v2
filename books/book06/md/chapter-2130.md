@@ -1,21 +1,20 @@
 ---
-Title:Dismantling Coin 
-Chapter:2130 
-Section:8 
-Book:6 
-CSS:../Styles/style.css 
+title: Dismantling Coin
+chapter: 2130
+section: 8
+book: 6
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Dismantling Coin
-### Chapter 2130
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Dismantling Coin
+
+### Chapter 2130
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The surface of the bronze scroll flashed, showing two fighters who appeared amidst the dunes of a desert. One was clad in a suit of gold armor, whereas the other was garbed in white and purple armor. Their body shapes were remarkably similar.
 
 This is it, it’s going to start!” Everyone felt a great deal of relief in their hearts. After what happened with the no-show Lone Bamboo, many Nobles feared the same issue might plague the anticipated finale.

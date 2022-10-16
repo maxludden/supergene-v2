@@ -1,21 +1,20 @@
 ---
-Title:Geno Core Storage 
-Chapter:1378 
-Section:4 
-Book:4 
-CSS:../Styles/style.css 
+title: Geno Core Storage
+chapter: 1378
+section: 4
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Geno Core Storage
-### Chapter 1378
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Geno Core Storage
+
+### Chapter 1378
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “Who do you think the new master will be?”
 
 “Metal Demon, that robo-boy’s geno core is indestructible.”

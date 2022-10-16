@@ -1,21 +1,20 @@
 ---
-Title:Twin-tail Purple Scorpion 
-Chapter:738 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Twin-tail Purple Scorpion
+chapter: 738
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Twin-tail Purple Scorpion
-### Chapter 738
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Twin-tail Purple Scorpion
+
+### Chapter 738
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 "No." Han Sen pushed her away and went back to lie down on the bench.
 
 "Why? I can pay you!" Zhou Yumei quickly suggested.

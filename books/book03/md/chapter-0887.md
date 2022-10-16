@@ -1,21 +1,20 @@
 ---
-Title:Amazing Waterdrop 
-Chapter:887 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Amazing Waterdrop
+chapter: 887
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Amazing Waterdrop
-### Chapter 887
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Amazing Waterdrop
+
+### Chapter 887
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 "This is a mutant geno tree?" Han Sen said, as he looked at the old tree.
 
 "Yes. If we could tend and cultivate it successfully, we should be able to grow Dragon-Blood Fruit. They bear mutant-class pet beast souls, called Dragon-Blood Snakes. They could all be sold for riches," Qu Lanxi said.

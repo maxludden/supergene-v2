@@ -1,21 +1,20 @@
 ---
-Title:Copper Statue 
-Chapter:1070 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Copper Statue
+chapter: 1070
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Copper Statue
-### Chapter 1070
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Copper Statue
+
+### Chapter 1070
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The sword lit up, and red flames burst out to color the sky.
 
 Han Sen combined his phoenix techniques with Aero, which put him at an advantage. The greatsword’s power was almost as strong as Han Sen, it just fell a touch short.

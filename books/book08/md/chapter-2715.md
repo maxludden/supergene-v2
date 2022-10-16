@@ -1,21 +1,20 @@
 ---
-Title:Gru’s Invitation 
-Chapter:2715 
-Section:13 
-Book:8 
-CSS:../Styles/style.css 
+title: Gru’s Invitation
+chapter: 2715
+section: 13
+book: 8
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Gru’s Invitation
-### Chapter 2715
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Gru’s Invitation
+
+### Chapter 2715
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Suddenly, Han Sen’s eyes brightened with a thought. “I don’t have access to the creatures of the sanctuary, but there are xenogeneics within range. If I grab one and use it to test the crystal, it might yield the same results.”
 
 Once Han Sen decided what to do, he didn’t have to go far to test his theory. He would just grab a King class Star Beetle from the Star Tree.

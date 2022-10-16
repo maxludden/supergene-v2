@@ -1,21 +1,20 @@
 ---
-Title:Ancient Water God 
-Chapter:2349 
-Section:11 
-Book:7 
-CSS:../Styles/style.css 
+title: Ancient Water God
+chapter: 2349
+section: 11
+book: 7
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Ancient Water God
-### Chapter 2349
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Ancient Water God
+
+### Chapter 2349
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 They were unable to find Alang, so Miss Mirror brought Han Sen back to the peak. Fortunately, Han Sen only seemed to have a case of the flu. It wasn’t as big as a deal as it could have been.
 
 Back on the peak, Miss Mirror had someone erect a tent for Han Sen so he could rest.

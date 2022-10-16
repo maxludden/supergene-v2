@@ -1,21 +1,20 @@
 ---
-Title:Killing 
-Chapter:1784 
-Section:6 
-Book:5 
-CSS:../Styles/style.css 
+title: Killing
+chapter: 1784
+section: 6
+book: 5
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Killing
-### Chapter 1784
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Killing
+
+### Chapter 1784
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “Say, brother~friend! Are you from a higher race?” Lao Zhuoma was going to call Han Sen “brother,” but it wasn’t appropriate. So, he called him “friend.”
 
 Lao Zhuoma thought Han Sen was from a higher race, because normal Barons should never reach that sort of level. It didn’t matter how much they practiced, they just couldn’t.
@@ -74,7 +73,7 @@ The centaur warriors lifted their spears to kill the Kate that had been lining u
 
 Although many people would fail the test, Lao Zhuoma was a Kate himself. He couldn’t just watch them die.
 
-Mike looked just as angry, too. He said. “The low lives of Taurus happily licked the boots of the Feathers when they were in control, but now that they have fallen, these scumbags have aligned themselves with the enemies of the Feathers. This is f*cking horrible!”
+Mike looked just as angry, too. He said. “The low lives of Taurus happily licked the boots of the Feathers when they were in control, but now that they have fallen, these scumbags have aligned themselves with the enemies of the Feathers. This is fucking horrible!”
 
 “Which race did they sign up with?” Han Sen asked curiously.
 

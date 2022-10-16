@@ -1,21 +1,20 @@
 ---
-Title:Deified Elite 
-Chapter:1888 
-Section:7 
-Book:5 
-CSS:../Styles/style.css 
+title: Deified Elite
+chapter: 1888
+section: 7
+book: 5
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Deified Elite
-### Chapter 1888
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Deified Elite
+
+### Chapter 1888
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “How is that possible?” Everyone stared at Han Sen, who currently looked like a god.
 
 The Gana people used all their powers on Han Sen, but they accomplished nothing. Han Sen’s body was like that of a real deity. He could shrug off any mortal damage inflicted upon him.

@@ -1,21 +1,20 @@
 ---
-Title:There Is Treasure 
-Chapter:2502 
-Section:12 
-Book:8 
-CSS:../Styles/style.css 
+title: There Is Treasure
+chapter: 2502
+section: 12
+book: 8
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## There Is Treasure
-### Chapter 2502
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## There Is Treasure
+
+### Chapter 2502
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The Ice Blue Knights watched in impotent rage as the white whale flew away. Although there were countless weapons and cannons primed and ready to fire at it, no one dared to push the button on that damaged white whale. They only stared at the white whale as it left, until it departed their vision.
 
 Ice Blue Knight King still looked conflicted. He felt helpless about it all, but he also felt rather happy. Although he would never say it out loud, the fact that Han Sen held Bai Wuchang as a hostage would mean that Ice Blue Knight King’s supervisors wouldn’t require him to chase Han Sen down. They didn’t want the Ice Blue Knights and Han Sen to fight after all, and that brought him some relief.
@@ -70,7 +69,7 @@ Han Sen didn’t care what Ice Blue Knight King thought, though. He drove the wh
 
 “Nothing. I’m just getting tired. I plan to rest here. You guys go ahead and do your thing. There’s no need to escort me so diligently. I will rest on this planet for a little while before leaving,” Han Sen said with a smile.
 
-“Who would want to f*cking escort you?” With Ice Blue Knight King’s personality, he couldn’t help but swear in frustration.
+“Who would want to fucking escort you?” With Ice Blue Knight King’s personality, he couldn’t help but swear in frustration.
 
 Although he was very mad, Bai Wuchang was still in Han Sen’s hands. He couldn’t do anything to Han Sen that might interfere with Bai Wuchang’s safety. He commanded the Ice Blue Knights not to interfere with Han Sen, just in case Bai Wuchang suffered.
 

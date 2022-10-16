@@ -1,21 +1,20 @@
 ---
-Title:The Loser Crown Prince 
-Chapter:3105 
-Section:16 
-Book:10 
-CSS:../Styles/style.css 
+title: The Loser Crown Prince
+chapter: 3105
+section: 16
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## The Loser Crown Prince
-### Chapter 3105
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## The Loser Crown Prince
+
+### Chapter 3105
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “Mister Crown Prince.” Lu San Zhi saw the young man and was shocked. He quickly jumped off of the male lion and kneeled before the crown prince.
 
 Suddenly, all of the Thunder Lion Riders did the same and kneeled. They all bowed before the young man.

@@ -1,21 +1,20 @@
 ---
-Title:Disloyal Knight Beast Soul 
-Chapter:941 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Disloyal Knight Beast Soul
+chapter: 941
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Disloyal Knight Beast Soul
-### Chapter 941
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Disloyal Knight Beast Soul
+
+### Chapter 941
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The fist carried a destructive light. The power was so great that it shone straight through Han Sen's hand like an x-ray, revealing the skeleton beneath his flesh.
 
 Han Sen's Water-Thunder skill smashed against the Disloyal Knight's back.

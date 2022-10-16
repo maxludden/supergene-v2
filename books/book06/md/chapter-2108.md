@@ -1,21 +1,20 @@
 ---
-Title:Taking It All for Himself 
-Chapter:2108 
-Section:8 
-Book:6 
-CSS:../Styles/style.css 
+title: Taking It All for Himself
+chapter: 2108
+section: 8
+book: 6
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Taking It All for Himself
-### Chapter 2108
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Taking It All for Himself
+
+### Chapter 2108
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 I refuse to believe that this shield of his cannot be broken!” Andola fumed. He continued using his Judgment Angel Light to attack the blue shield.
 
 Han Sen stood where he was, allowing the rebirthing powers to cleanse him. He looked as blissful as if a pretty woman was giving him an excellent massage. He was very relaxed.

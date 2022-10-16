@@ -1,21 +1,20 @@
 ---
-Title:Punching Four Guards 
-Chapter:2363 
-Section:11 
-Book:7 
-CSS:../Styles/style.css 
+title: Punching Four Guards
+chapter: 2363
+section: 11
+book: 7
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Punching Four Guards
-### Chapter 2363
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Punching Four Guards
+
+### Chapter 2363
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “He’s asking to be humiliated. Take him down,” Prince Swordstar growled.
 
 “Bai Yi is getting crazier and crazier. He was lucky to get the alpha statue and earn the protection of the Kingese, but it’s gone to his head. He’s become arrogant and blind to who he really is,” Prince Nineteen said coldly.

@@ -1,21 +1,20 @@
 ---
-Title:Ghost Face Spider 
-Chapter:2023 
-Section:8 
-Book:6 
-CSS:../Styles/style.css 
+title: Ghost Face Spider
+chapter: 2023
+section: 8
+book: 6
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Ghost Face Spider
-### Chapter 2023
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Ghost Face Spider
+
+### Chapter 2023
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen could not tell which race this statue depicted. Its head was a sheep’s, and its body was human-like. It also had wings. It looked like some prehistoric sheep god.
 
 Fortunately, there weren’t any of such sheep around. Otherwise, he was going to call them grandfather.

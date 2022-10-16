@@ -1,21 +1,20 @@
 ---
-Title:Team Effort 
-Chapter:48 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: Team Effort
+chapter: 48
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Team Effort
-### Chapter 48
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Team Effort
+
+### Chapter 48
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen took a closer look and saw that there were holographic images of weapons in the making, which proved that the weapons were all handmade
 
 After reviewing the images, Han Sen dialed the number on the webpage.

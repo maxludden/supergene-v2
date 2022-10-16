@@ -1,21 +1,20 @@
 ---
-Title:The Theory of Energy Flow 
-Chapter:1116 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: The Theory of Energy Flow
+chapter: 1116
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## The Theory of Energy Flow
-### Chapter 1116
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## The Theory of Energy Flow
+
+### Chapter 1116
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The way Han Sen asked made him seem very self-confident. It also gave Wang Lin more material to attack with.
 
 Li Singhua was famous in the Saint Hall, so if he suggested a subject to embarrass Han Sen, and Han Sen lost, it wouldn’t reflect well on him. Therefore, someone like Li Singhua wouldn’t give an advantage to his students. He’d have to select a subject that was fair and square.

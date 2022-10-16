@@ -1,21 +1,20 @@
 ---
-Title:Trapped 
-Chapter:2146 
-Section:8 
-Book:6 
-CSS:../Styles/style.css 
+title: Trapped
+chapter: 2146
+section: 8
+book: 6
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Trapped
-### Chapter 2146
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Trapped
+
+### Chapter 2146
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen let Kahn into the camp so they could continue their discussion. Kahn spoke without preamble. “You might not believe me when I tell you this, but we are all trapped on this world.”
 
 “What do you mean?” Han Sen asked with a frown.

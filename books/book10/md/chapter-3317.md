@@ -1,21 +1,20 @@
 ---
-Title:Getting Inside the Geno Table 
-Chapter:3317 
-Section:17 
-Book:10 
-CSS:../Styles/style.css 
+title: Getting Inside the Geno Table
+chapter: 3317
+section: 17
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Getting Inside the Geno Table
-### Chapter 3317
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Getting Inside the Geno Table
+
+### Chapter 3317
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen felt bad. “The Story of Genes’ Forever Solid power could not prohibit the invasion of the gene messages.
 
 Han Sen noticed his body was exhibiting many weird changes. Some little red hairs started to develop on his skin. It was like his hair had turned red.

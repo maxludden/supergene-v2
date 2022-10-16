@@ -1,21 +1,20 @@
 ---
-Title:Demon Bug Disaster 
-Chapter:2080 
-Section:8 
-Book:6 
-CSS:../Styles/style.css 
+title: Demon Bug Disaster
+chapter: 2080
+section: 8
+book: 6
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Demon Bug Disaster
-### Chapter 2080
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Demon Bug Disaster
+
+### Chapter 2080
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen thought the Blue Gold Demon Bug had an overwhelming urge to kill, and it had gone for the xenogeneics first because they were closest.
 
 Han Sen summoned Spell as a sniper rifle and used the scope to track the Blue Gold Demon Bug as it flew above the xenogeneics. It opened its mouth and let out a high-pitched screech.
@@ -60,7 +59,7 @@ A flying group of Blue Gold Demon Bugs squealed menacingly in the air, driving t
 
 “Oh no! Those metal monsters can control xenogeneics?” Rebecca groaned.
 
-“That *sshole Sad Night! He has destroyed Narrow Moon,” Du Lishe hissed. If the xenogeneics got into the city, most people below the rank of Duke were going to die.
+“That asshole Sad Night! He has destroyed Narrow Moon,” Du Lishe hissed. If the xenogeneics got into the city, most people below the rank of Duke were going to die.
 
 To make the situation even worse, Yisha and Black Moon King had yet to kill their opponents. There were no reinforcements to call in.
 

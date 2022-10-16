@@ -1,21 +1,20 @@
 ---
-Title:Bao'er's Destiny 
-Chapter:3359 
-Section:17 
-Book:10 
-CSS:../Styles/style.css 
+title: Bao'er's Destiny
+chapter: 3359
+section: 17
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Bao'er's Destiny
-### Chapter 3359
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Bao'er's Destiny
+
+### Chapter 3359
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “If the old leader of the God Chaos Party was the fairy White King spoke about, it means that a long, long time ago, the old leader had already managed to break through the main and the reverse universes. She had managed to gain access to the geno universe… Wait…” Han Sen’s brain suddenly lit up as a scary thought crossed his mind.
 
 “If I say that the God Chaos Party’s leader was a creature that came from the geno universe…” Han Sen thought the idea he had just come up with was rather mad. Then again, it was not something that could be deemed impossible either.

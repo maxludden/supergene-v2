@@ -1,21 +1,20 @@
 ---
-Title:Very Sad Scene 
-Chapter:2741 
-Section:13 
-Book:8 
-CSS:../Styles/style.css 
+title: Very Sad Scene
+chapter: 2741
+section: 13
+book: 8
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Very Sad Scene
-### Chapter 2741
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Very Sad Scene
+
+### Chapter 2741
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The sadness was as broad and powerful as the Yangtze, rolling forward with the steadiness and implacability of a river. The sensation rocked Han Sen. The sadness was clear, yet it wasn’t a raw or passionate emotion. It wasn’t painful like losing your family, and it wasn’t the heartache of being betrayed by a loved one. It wasn’t the soul-rending anguish of losing everything that you cherished. It just resided in Han Sen’s chest, softly. The ache was so gentle that sometimes, Han Sen could barely even sense it. It floated like a mountain stream, but there wasn’t a single ripple to be seen.
 
 But this kind of sadness was subtly powerful, and it was infectious. It left Han Sen unable to do anything except cry his eyes out. He couldn’t get a grip on his emotions, and he couldn’t move his eyes away from the Very High eye mark. He just stood in front of the stone wall, staring at the stone with eyes rimmed in blood.

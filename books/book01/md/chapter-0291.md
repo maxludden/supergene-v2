@@ -1,21 +1,20 @@
 ---
-Title:Hunger 
-Chapter:291 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: Hunger
+chapter: 291
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Hunger
-### Chapter 291
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Hunger
+
+### Chapter 291
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Bai Yishan was very efficient and since Han Sen all the information of Heresy Mantra the second day.
 
 Since Heresy Mantra had not been adapted into a hyper geno art, it was written in an ancient language and was very hard to read.

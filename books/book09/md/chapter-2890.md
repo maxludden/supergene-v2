@@ -1,21 +1,20 @@
 ---
-Title:Who Will Prevent Me From Lighting Up a Lantern for the Crystallizers? 
-Chapter:2890 
-Section:14 
-Book:9 
-CSS:../Styles/style.css 
+title: Who Will Prevent Me From Lighting Up a Lantern for the Crystallizers?
+chapter: 2890
+section: 14
+book: 9
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Who Will Prevent Me From Lighting Up a Lantern for the Crystallizers?
-### Chapter 2890
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Who Will Prevent Me From Lighting Up a Lantern for the Crystallizers?
+
+### Chapter 2890
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 There were only 10,000 higher races. Only 20 out of those higher races could have true god elites.
 
 Now, many higher-race true gods were appearing. Whoever was behind this must have been a very scary foe.
@@ -68,7 +67,7 @@ If Han Sen had not just killed Destroyed Leader in front of them, they would not
 
 “What was that power? He turned a true god into a butterfly.”
 
-“God’s Daddy really is God’s Daddy. He can let you level up, and he can let you level down. This is so f*cking sick.”
+“God’s Daddy really is God’s Daddy. He can let you level up, and he can let you level down. This is so fucking sick.”
 
 “That is way too much power. Who can fight against such power? Even a true god elite was downgraded. If Han Sen joined the geno god list fight, he would have likely ended up in first place. It wouldn’t be Golden Growler giving his position to Dollar.”
 

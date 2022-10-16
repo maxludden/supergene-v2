@@ -1,21 +1,20 @@
 ---
-Title:Ancient Devil Bell 
-Chapter:1075 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Ancient Devil Bell
+chapter: 1075
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Ancient Devil Bell
-### Chapter 1075
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Ancient Devil Bell
+
+### Chapter 1075
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 It was difficult to tell what creature sought to confront them this time. It was grey like steel, and its back had a shield that was similar to that of a turtle’s shell. It reached down to its tail, which was shaped like a drill.
 
 The head of the creature possessed a curved horn. The claws were sharp, and they lined up like a vanguard of spears.

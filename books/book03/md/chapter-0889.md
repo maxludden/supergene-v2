@@ -1,21 +1,20 @@
 ---
-Title:Absorbing Geno Plant 
-Chapter:889 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Absorbing Geno Plant
+chapter: 889
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Absorbing Geno Plant
-### Chapter 889
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Absorbing Geno Plant
+
+### Chapter 889
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen walked to the banks of the river under the guise of fetching water, but he really wanted to perform a test.
 
 He still had two waterdrops left to use, but the tree had spent its first waterdrop over the course of two days. Using the two waterdrops directly wouldn't be viable long term.

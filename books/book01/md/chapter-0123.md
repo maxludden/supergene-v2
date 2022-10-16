@@ -1,21 +1,20 @@
 ---
-Title:Hand of God Duel 
-Chapter:123 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: Hand of God Duel
+chapter: 123
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Hand of God Duel
-### Chapter 123
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Hand of God Duel
+
+### Chapter 123
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 With the explanation from Shi Zhikang, Han Sen got the gist of things.
 
 In the beginning, Shi was playing against Birdy. Shi was rather poor at this game and hardly ever won on Battlenet, so he bragged a little after he had won several rounds against Birdy.

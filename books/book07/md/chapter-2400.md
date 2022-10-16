@@ -1,21 +1,20 @@
 ---
-Title:Stone Destiny’s Tower 
-Chapter:2400 
-Section:11 
-Book:7 
-CSS:../Styles/style.css 
+title: Stone Destiny’s Tower
+chapter: 2400
+section: 11
+book: 7
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Stone Destiny’s Tower
-### Chapter 2400
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Stone Destiny’s Tower
+
+### Chapter 2400
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Blood continued to fountain out of the insect’s mouth, spilling all over the place. It looked as if something was fighting its way out.
 
 “Dollar?” Dragon One and Dragon Eight asked together, squinting at the figure that emerged. They could barely believe their eyes. They wanted to scream, but their question came out as a whisper.

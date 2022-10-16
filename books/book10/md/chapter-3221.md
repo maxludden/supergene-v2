@@ -1,21 +1,20 @@
 ---
-Title:Is That It? 
-Chapter:3221 
-Section:16 
-Book:10 
-CSS:../Styles/style.css 
+title: Is That It?
+chapter: 3221
+section: 16
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Is That It?
-### Chapter 3221
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Is That It?
+
+### Chapter 3221
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “The leader really is too powerful.” “Of course, back then, we used all kinds of ways to thrive in Dust Sky. But alas, we couldn’t. Any creature. or even if a God Spirit enters it, they will become commoners. They will not have any more powers to break through the barriers. Only the leader is immune to the Dust Sky suppression. He uses his own power to break Dust Sky. In this universe, only the leader can reach that level.”
 
 “They’re just two humans. No matter how ridiculous they may seem, the leader can kill them with ease.”

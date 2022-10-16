@@ -1,21 +1,20 @@
 ---
-Title:Defenseless Woman 
-Chapter:759 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Defenseless Woman
+chapter: 759
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Defenseless Woman
-### Chapter 759
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Defenseless Woman
+
+### Chapter 759
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen was taken aback at the sight of the black-flame phoenix soaring across the horizon. Its speed was incredible, and it disappeared from sight within the blink of an eye.
 
 A heat wave descended from the sky and almost cooked Han Sen's body hair.

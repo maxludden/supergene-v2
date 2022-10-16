@@ -1,21 +1,20 @@
 ---
-Title:Super Creature? 
-Chapter:924 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Super Creature?
+chapter: 924
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Super Creature?
-### Chapter 924
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Super Creature?
+
+### Chapter 924
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The barbed bushes that encircled the tree shook, until something emerged.
 
 When Han Sen laid his eyes on the beast before him, he started to immediately sweat bullets. He could feel the wretched sense of the creature that was headed his way from fifty meters away.

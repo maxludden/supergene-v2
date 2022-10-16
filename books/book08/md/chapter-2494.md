@@ -1,20 +1,19 @@
 ---
-Title:Let Go of That Peacock
-Chapter:2494
-Section:12
-Book:8
-CSS:../Styles/style.css
+title: Let Go of That Peacock
+chapter: 2494
+section: 12
+book: 8
+CSS: style.css
 viewport: width=device-width
 ---
 
 ## Let Go of That Peacock
+
 ### Chapter 2494
 
 <figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
 </figure>
-
-
 
 The distraught Tianxia Peacock King flapped its wings wildly. It was blazing with rainbow light, and its power ripped haphazardly through the sky, tearing trenches in space wherever it went.
 
@@ -75,17 +74,16 @@ As Han Sen wondered if the kill had been claimed by the little red bird, he sudd
 <div class="tables">
 	<table class="beast">
 		<tr>
-			<th>Beast Soul</th>
+			<th colspan="2">Beast Soul Gained</th>
 		</tr><tr>
-			<td>Deified Class Tianxia Peacock King<br>
-				<span class="type">(Soul Armor)</span>
-			</td>
+			<td>Deified Class Tianxia Peacock King</td>
+			<td>(Soul Armor)</td>
 		</tr><tr>
 			<th class="note" colspan="2">Note: Broken</th>
 		</tr>
 	</table>
 	<!-- Deified beast soul Tianxia Peacock King: Soul armor type (broken) -->
-</div>
+</div> 
 
 
 “Soul armor type? Holy shit! That’s better than a weapon. I’m rich. I’m rich!” Han Sen was so happy that he almost jumped on the spot.

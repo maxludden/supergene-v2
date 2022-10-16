@@ -1,21 +1,20 @@
 ---
-Title:Genetic 
-Chapter:1425 
-Section:4 
-Book:4 
-CSS:../Styles/style.css 
+title: Genetic
+chapter: 1425
+section: 4
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Genetic
-### Chapter 1425
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Genetic
+
+### Chapter 1425
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 There were no human surgeons in the delivery room, just robots that performed their tasks with perfect precision and strict adherence to hygiene. Delivery this way was much safer than if it were done by hand.
 
 "Han Sen, get in here!" The speaker in the waiting room groaned with Ji Yanran's voice, who was obviously in pain.

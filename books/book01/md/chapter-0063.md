@@ -1,21 +1,20 @@
 ---
-Title:Angel Dollar 
-Chapter:63 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: Angel Dollar
+chapter: 63
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Angel Dollar
-### Chapter 63
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Angel Dollar
+
+### Chapter 63
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Fang Mingquan didn’t find Dollar and stopped looking. He returned to his studio in excitement and started to edit the footage he took.
 
 "My future’s on this video!" Fang Mingquan stayed up all night editing the footage.

@@ -1,21 +1,20 @@
 ---
-Title:Learning Knife Mind 
-Chapter:2685 
-Section:13 
-Book:8 
-CSS:../Styles/style.css 
+title: Learning Knife Mind
+chapter: 2685
+section: 13
+book: 8
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Learning Knife Mind
-### Chapter 2685
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Learning Knife Mind
+
+### Chapter 2685
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “You are crazy. That word suits you very well,” Liyu Zhen coldly grunted.
 
 He had to be insane. And Liyu Zhen wasn’t the only person thinking that. Even Open Sky Elder and the people who wanted Han Sen to win believed everything he had said was way too crazy.

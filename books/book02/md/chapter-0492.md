@@ -1,21 +1,20 @@
 ---
-Title:Sullen 
-Chapter:492 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Sullen
+chapter: 492
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Sullen
-### Chapter 492
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Sullen
+
+### Chapter 492
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Same as Wang Xun, Wish I Did Not Understand was startled. She had no idea about the news of Dollar, so she was not prepared for such a large audience at all.
 
 However, none of those chosen to be matched with Han Sen was weak. After slight surprise, Wish I Did Not Understand became calm and positioned to defend herself, waiting for attacks from her opponent. It seemed that she was not nervous at all.

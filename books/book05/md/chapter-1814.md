@@ -1,21 +1,20 @@
 ---
-Title:Take as Much as You Wan 
-Chapter:1814 
-Section:6 
-Book:5 
-CSS:../Styles/style.css 
+title: Take as Much as You Wan
+chapter: 1814
+section: 6
+book: 5
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Take as Much as You Wan
-### Chapter 1814
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Take as Much as You Wan
+
+### Chapter 1814
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen ran forward and looked back. There was nothing behind him.
 
 When he looked at his shoulder, he saw nothing there. He felt as if something was sitting there, but he just couldn’t see it.

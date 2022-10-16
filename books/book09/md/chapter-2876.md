@@ -1,21 +1,20 @@
 ---
-Title:The Scariest Hit 
-Chapter:2876 
-Section:14 
-Book:9 
-CSS:../Styles/style.css 
+title: The Scariest Hit
+chapter: 2876
+section: 14
+book: 9
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## The Scariest Hit
-### Chapter 2876
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## The Scariest Hit
+
+### Chapter 2876
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen was also a little shocked. “Does Little Gold Gold recognize me?”
 
 “How much hatred is in there? Now, he has selected to challenge Dollar at this time.”

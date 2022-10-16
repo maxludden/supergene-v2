@@ -1,21 +1,20 @@
 ---
-Title:Passing the Test 
-Chapter:2293 
-Section:10 
-Book:7 
-CSS:../Styles/style.css 
+title: Passing the Test
+chapter: 2293
+section: 10
+book: 7
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Passing the Test
-### Chapter 2293
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Passing the Test
+
+### Chapter 2293
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “Dad, the woman has no more blood. Dad… he cracked open the woman’s brain…” Bao’er kept reporting what was happening.
 
 “Bao’er, stop looking!” Han Sen called Bao’er back into his arms. He didn’t want her to see such a bloody scene.

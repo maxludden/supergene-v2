@@ -1,21 +1,20 @@
 ---
-Title:Armored Man Again 
-Chapter:1635 
-Section:4 
-Book:4 
-CSS:../Styles/style.css 
+title: Armored Man Again
+chapter: 1635
+section: 4
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Armored Man Again
-### Chapter 1635
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Armored Man Again
+
+### Chapter 1635
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Dollar had become the most famous person in the Fourth God’s Sanctuary, perhaps even the entire universe. Everyone was curious about the true identity of Dollar.
 
 To all the creatures in the Fourth Sanctuary, it didn’t matter who Dollar actually was. They had all concluded that Dollar would definitely make it to the ranks of the ten Son of God’s, and he might even win the entire Divinity’s Bout.

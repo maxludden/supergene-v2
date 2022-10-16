@@ -1,21 +1,20 @@
 ---
-Title:A Dark Place 
-Chapter:2930 
-Section:15 
-Book:9 
-CSS:../Styles/style.css 
+title: A Dark Place
+chapter: 2930
+section: 15
+book: 9
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## A Dark Place
-### Chapter 2930
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## A Dark Place
+
+### Chapter 2930
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The long, bright lanterns only led in a singular direction. They had been traveling all that time but had yet to see hide nor hair of Nine Thousand King or Moon Shadow God. It meant they had to have gone that way.
 
 “Moon Shadow God was the wife of Crow Sky Dog,” Ancient Abyss Grandmaster said. “She must know quite a few of Sacred’s secrets. It is not surprising that she was able to go through this.”

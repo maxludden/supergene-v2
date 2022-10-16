@@ -1,21 +1,20 @@
 ---
-Title:Strange Scene 
-Chapter:1751 
-Section:6 
-Book:5 
-CSS:../Styles/style.css 
+title: Strange Scene
+chapter: 1751
+section: 6
+book: 5
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Strange Scene
-### Chapter 1751
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Strange Scene
+
+### Chapter 1751
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 After being called for the first questioning, Han Sen was left alone by the Feathers.
 
 Mister Tiger had been so scared. He didn’t dare meet-up with Han Sen again, in fear that the Feathers would suspect collusion. He wasn’t going to snitch on Han Sen, as he was still very fond of him. It was just a sensitive matter, and one that he couldn’t do anything about.

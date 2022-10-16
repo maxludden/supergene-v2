@@ -1,21 +1,20 @@
 ---
-Title:Controlling the Garden 
-Chapter:2792 
-Section:14 
-Book:9 
-CSS:../Styles/style.css 
+title: Controlling the Garden
+chapter: 2792
+section: 14
+book: 9
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Controlling the Garden
-### Chapter 2792
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Controlling the Garden
+
+### Chapter 2792
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “If you listen to what I say, perhaps you won’t suffer much. Otherwise, you will end up like this thing.” Han Sen waved his hand and cut the xenogeneic plant next to them in half.
 
 The red-robed child quietened down. He nibbled his lips and stopped screaming and struggling, but his eyes were still red with tears. He was looking at Han Sen as if he had just been bullied.

@@ -1,21 +1,20 @@
 ---
-Title:The Outside World 
-Chapter:1706 
-Section:5 
-Book:4 
-CSS:../Styles/style.css 
+title: The Outside World
+chapter: 1706
+section: 5
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## The Outside World
-### Chapter 1706
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## The Outside World
+
+### Chapter 1706
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Stay Up Late was just a soldier, not a high-ranking officer or important individual in the crystallizer civilization. He only knew the history of the crystallizers from what he learned in the history books.
 
 The history he knew about the crystallizers placed their origins in the sanctuaries.

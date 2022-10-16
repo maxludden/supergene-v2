@@ -1,21 +1,20 @@
 ---
-Title:Stalemate 
-Chapter:2795 
-Section:14 
-Book:9 
-CSS:../Styles/style.css 
+title: Stalemate
+chapter: 2795
+section: 14
+book: 9
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Stalemate
-### Chapter 2795
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Stalemate
+
+### Chapter 2795
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “You know nothing. This is the sky silk picture that was drawn by the Extreme King’s Shadow King. This picture is of the love of Shadow King’s life, but it is a shame that he could not get her. Shadow King saw his lover fly to the sky and break the door. She entered the geno hall, which meant he knew he would never see her again. In his profound sadness, he decided to draw this sky silk picture.”
 
 After pausing, Holy Pirate said, “This picture shows how much Shadow King misses her. This is not like an ordinary picture. You can never find a picture that evokes as much emotion as this… What a good picture…”

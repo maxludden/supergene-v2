@@ -1,21 +1,20 @@
 ---
-Title:You'll Never Know 
-Chapter:2974 
-Section:15 
-Book:9 
-CSS:../Styles/style.css 
+title: You'll Never Know
+chapter: 2974
+section: 15
+book: 9
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## You'll Never Know
-### Chapter 2974
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## You'll Never Know
+
+### Chapter 2974
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 After entering the red dwarf, Han Sen had seen many Blood Legion members. They were like God’s Retribution. They did not have a level that other creatures of the universe were determined by, but Han Sen did not believe any of them were weak.
 
 In fact, Han Sen had been so shocked on his way there. Aside from the Extreme King, Sky Palace, the Very High, and the other high races, he did not think any other race of the universe could be as strong as Blood Legion.

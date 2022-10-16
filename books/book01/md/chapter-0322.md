@@ -1,21 +1,20 @@
 ---
-Title:Cheaters 
-Chapter:322 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: Cheaters
+chapter: 322
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Cheaters
-### Chapter 322
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Cheaters
+
+### Chapter 322
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 After the two left the dorm and entered the training hall, Shi Zhikang asked about Han Sen's ID and picked a holographic device. Han Sen also picked a device and logged in.
 
 Han Sen immediately saw a friend invite from Shi Zhikang, whose ID name was "King Spear," which was an okay name, but Han Sen felt a bit promiscuous since it was used by Shi.

@@ -1,21 +1,20 @@
 ---
-Title:Leveling Up to True God 
-Chapter:2957 
-Section:15 
-Book:9 
-CSS:../Styles/style.css 
+title: Leveling Up to True God
+chapter: 2957
+section: 15
+book: 9
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Leveling Up to True God
-### Chapter 2957
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Leveling Up to True God
+
+### Chapter 2957
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen was afraid that if he leveled up and did not go into xenogeneic mode, he would only have a battle body. That would have been a waste.
 
 Now, there was no reason for him to be so cautious. Han Sen was not in his xenogeneic body. He only used Jadeskin to push himself this far, but he wanted to take Jadeskin to true god class first.

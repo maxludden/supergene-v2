@@ -1,21 +1,20 @@
 ---
-Title:Entering the Core Area Again 
-Chapter:2407 
-Section:11 
-Book:7 
-CSS:../Styles/style.css 
+title: Entering the Core Area Again
+chapter: 2407
+section: 11
+book: 7
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Entering the Core Area Again
-### Chapter 2407
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Entering the Core Area Again
+
+### Chapter 2407
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Fox Queen wanted to go to Planet Water Zone immediately to see if Han Sen had managed to get the Nine Spin Destiny Mirror from Destiny’s Tower.
 
 But Bai Canglang had something he needed her to do, so she didn’t have time to go to Planet Water Zone yet. In order to protect her cover identity, she had to suppress her impatience for the time being.

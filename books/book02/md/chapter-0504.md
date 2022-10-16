@@ -1,21 +1,20 @@
 ---
-Title:Bluefish 
-Chapter:504 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Bluefish
+chapter: 504
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Bluefish
-### Chapter 504
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Bluefish
+
+### Chapter 504
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen left the Starwheel Shelter to hunt. Because the golden growler had not finished its evolution, Han Sen could not feed the violent ape or snowy wolf the black crystal at this point.
 
 Han Sen was about to go to the frozen lake, which was near the ocean and possibly connected to the ocean below ground. Because of the cold, the lake was frozen all year round and could be treaded upon by humans or mounts.

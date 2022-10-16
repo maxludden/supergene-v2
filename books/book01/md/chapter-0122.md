@@ -1,21 +1,20 @@
 ---
-Title:The Most Mysterious Afternoon 
-Chapter:122 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: The Most Mysterious Afternoon
+chapter: 122
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## The Most Mysterious Afternoon
-### Chapter 122
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## The Most Mysterious Afternoon
+
+### Chapter 122
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 "Boss, today I'm free. Do you want to play a few rounds of Hand of God?" When Lu Meng and Shi Zhikang went out, Han Sen took the initiative and suggested to Zhang Yang.
 
 "Sure." Zhang Yang entered the game and sent Han Sen an invite.

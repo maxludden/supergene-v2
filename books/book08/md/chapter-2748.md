@@ -1,21 +1,20 @@
 ---
-Title:Pursuit 
-Chapter:2748 
-Section:13 
-Book:8 
-CSS:../Styles/style.css 
+title: Pursuit
+chapter: 2748
+section: 13
+book: 8
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Pursuit
-### Chapter 2748
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Pursuit
+
+### Chapter 2748
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Pang!
 
 Gritting his teeth, Han Sen raised the Shield of the Medusa’s Gaze right in front of himself. It deflected the lightning that was about to touch down on him.

@@ -1,21 +1,20 @@
 ---
-Title:Black Crystal Stone 
-Chapter:3056 
-Section:16 
-Book:10 
-CSS:../Styles/style.css 
+title: Black Crystal Stone
+chapter: 3056
+section: 16
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Black Crystal Stone
-### Chapter 3056
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Black Crystal Stone
+
+### Chapter 3056
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 In the symbols etched into the wall, Han Sen saw something with which he was very familiar.
 
 The carved symbol was in the shape of an egg. It looked like a pigeon egg with a thousand stars floating inside it. It looked like a small universe that existed within.

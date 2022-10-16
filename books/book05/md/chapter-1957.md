@@ -1,21 +1,20 @@
 ---
-Title:Taken Hostage 
-Chapter:1957 
-Section:7 
-Book:5 
-CSS:../Styles/style.css 
+title: Taken Hostage
+chapter: 1957
+section: 7
+book: 5
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Taken Hostage
-### Chapter 1957
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Taken Hostage
+
+### Chapter 1957
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “What way? Tell me.” Han Sen looked at Speechless with interest for the first time.
 
 “Galaxy Sand needs to be showered with starlight to be kept alive. Otherwise, it turns to simple stone in only a few days. I know when Clear Sea King will bring the sand out, and where he takes it to be replenished with starlight.” Before Speechless finished, Han Sen summoned a green tower and sucked her inside.

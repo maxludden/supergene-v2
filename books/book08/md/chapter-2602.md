@@ -1,21 +1,20 @@
 ---
-Title:Han Sen’s Gene Talent 
-Chapter:2602 
-Section:12 
-Book:8 
-CSS:../Styles/style.css 
+title: Han Sen’s Gene Talent
+chapter: 2602
+section: 12
+book: 8
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Han Sen’s Gene Talent
-### Chapter 2602
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Han Sen’s Gene Talent
+
+### Chapter 2602
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 After the God Spirit Touch’s body shivered, it quickly emerged from its first shell. It left the empty shell behind.
 
 “I wonder how many layers of shell Teacher Han can make the God Spirit Touch leave behind?” Some of the Sky Palace students had studied directly underneath him back when he was a teacher. So, they were used to calling him Teacher Han.

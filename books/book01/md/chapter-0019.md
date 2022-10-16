@@ -1,21 +1,20 @@
 ---
-Title:The Distinguished and Aristocrats Only 
-Chapter:19 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: The Distinguished and Aristocrats Only
+chapter: 19
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## The Distinguished and Aristocrats Only
-### Chapter 19
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## The Distinguished and Aristocrats Only
+
+### Chapter 19
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 In the middle of the night, Han Sen placed a bag of dead quartz scorpions and a note at the door of Su Xiaoqiao’s room before knocking a few times. Then he hid in an alley close by and made sure Xiaoqiao took the bag and note inside.
 
 It turned out to be a nice collaboration, and Han Sen got the six million promised by Qin Xuan and another eighty thousand for the scorpions. He went back to his room with boxes of cash and almost jumped with joy.

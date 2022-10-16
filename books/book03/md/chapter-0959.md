@@ -1,21 +1,20 @@
 ---
-Title:Thorned History 
-Chapter:959 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Thorned History
+chapter: 959
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Thorned History
-### Chapter 959
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Thorned History
+
+### Chapter 959
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 "Are you done staring?" Han Sen asked.
 
 Thorn Baron looked at Han Sen and mumbled, "You are The King?"

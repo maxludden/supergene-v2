@@ -1,21 +1,20 @@
 ---
-Title:Convincing 
-Chapter:3409 
-Section:17 
-Book:10 
-CSS:../Styles/style.css 
+title: Convincing
+chapter: 3409
+section: 17
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Convincing
-### Chapter 3409
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Convincing
+
+### Chapter 3409
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen watched Bao’er from afar, but he made no plan on seeing her.
 
 The geno tablet’s voice sounded in Han Sen’s brain. “Your daughter’s genes are very good. Just wait until her genes have officially combined with the geno seed. She will most certainly be able to walk that step. Her gene’s completion is better than Qin Xiu’s. If she joined the geno tablet fights, she would be able to defeat Qin Xiu.”

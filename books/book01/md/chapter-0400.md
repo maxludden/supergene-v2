@@ -1,21 +1,20 @@
 ---
-Title:Surrender 
-Chapter:400 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: Surrender
+chapter: 400
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Surrender
-### Chapter 400
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Surrender
+
+### Chapter 400
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 "If I was not afraid of his family, I would never have let Hai Yun taken the two beast souls of Dollar. I should have bought at least one…" Qing couldn't stop complaining after the auction was concluded.
 
 Han Sen felt shocked. It turned out the price was not high enough in the rich kids' eyes. They gave up only because they did not want to cross Hai Yun.

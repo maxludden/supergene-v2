@@ -1,21 +1,20 @@
 ---
-Title:Refining the Jade Spirit of the Seventh Floor 
-Chapter:2068 
-Section:8 
-Book:6 
-CSS:../Styles/style.css 
+title: Refining the Jade Spirit of the Seventh Floor
+chapter: 2068
+section: 8
+book: 6
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Refining the Jade Spirit of the Seventh Floor
-### Chapter 2068
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Refining the Jade Spirit of the Seventh Floor
+
+### Chapter 2068
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “I think it was just a coincidence,” Han Sen said with a shrug.
 
 Thousand Feather Crane did not believe in coincidences, but these things happened around Han Sen often. He was used to that.

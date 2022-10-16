@@ -1,21 +1,20 @@
 ---
-Title:Sacred-blood Beast Soul of Bony Fish 
-Chapter:382 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: Sacred-blood Beast Soul of Bony Fish
+chapter: 382
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Sacred-blood Beast Soul of Bony Fish
-### Chapter 382
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Sacred-blood Beast Soul of Bony Fish
+
+### Chapter 382
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen used some common approaches he learned from the school, trying to wake the rest of the group up, but none of the approaches seemed to be working. No wonder Zhu Ting was so proud of his drugs.
 
 "Stop wasting your energy. Without my antidote, they cannot wake up from the knockout drops. If they don't wake up in three days, they would become vegetables, and even I cannot save them." Although Zhu Ting had a swollen face, he was smiling happily.

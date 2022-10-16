@@ -1,21 +1,20 @@
 ---
-Title:God Sadness Appears Again 
-Chapter:2866 
-Section:14 
-Book:9 
-CSS:../Styles/style.css 
+title: God Sadness Appears Again
+chapter: 2866
+section: 14
+book: 9
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## God Sadness Appears Again
-### Chapter 2866
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## God Sadness Appears Again
+
+### Chapter 2866
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 *Boom!*
 
 Purple light shot into the sky. It became an empty sky crack in space. A silent, sad mind was all across the universe.

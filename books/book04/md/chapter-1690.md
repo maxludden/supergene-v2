@@ -1,21 +1,20 @@
 ---
-Title:Laboratory 
-Chapter:1690 
-Section:5 
-Book:4 
-CSS:../Styles/style.css 
+title: Laboratory
+chapter: 1690
+section: 5
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Laboratory
-### Chapter 1690
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Laboratory
+
+### Chapter 1690
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 1690 Laboratory
 
 Old Cat was shocked. He leaped down from the tablet and ran toward Han Sen.

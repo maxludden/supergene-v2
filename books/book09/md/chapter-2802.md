@@ -1,21 +1,20 @@
 ---
-Title:Trial 
-Chapter:2802 
-Section:14 
-Book:9 
-CSS:../Styles/style.css 
+title: Trial
+chapter: 2802
+section: 14
+book: 9
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Trial
-### Chapter 2802
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Trial
+
+### Chapter 2802
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 After Han Sen’s meter went past 100 and kept on increasing, the scale was still sinking. It was not going back up. Apparently, the counterweight was unable to balance out the crimes he had committed.
 
 “Destroying an entire race can lead to a counterweight of only 100, so what did this guy do?” Bai Wanjie frowned as he peered at the counterweight on the right.

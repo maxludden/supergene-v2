@@ -1,21 +1,20 @@
 ---
-Title:Sagittarius 
-Chapter:232 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: Sagittarius
+chapter: 232
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Sagittarius
-### Chapter 232
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Sagittarius
+
+### Chapter 232
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 After going back to school, Han Sen went to the holographic equipment hall and entered the virtual training field designated by Qin Xuan.
 
 Qin Xuan did not ask them to have the competition in the training field of the shelter, for she did not want anyone else to find out about the result.

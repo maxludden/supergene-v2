@@ -1,21 +1,20 @@
 ---
-Title:Battle on the River 
-Chapter:976 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Battle on the River
+chapter: 976
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Battle on the River
-### Chapter 976
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Battle on the River
+
+### Chapter 976
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 *Boom!*
 
 The snake was knocked away by the man again. When it crashed into the nearby wall, the entire hall shook violently.

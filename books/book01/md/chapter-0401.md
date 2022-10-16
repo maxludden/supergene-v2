@@ -1,21 +1,20 @@
 ---
-Title:No. 107 
-Chapter:401 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: No. 107
+chapter: 401
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## No. 107
-### Chapter 401
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## No. 107
+
+### Chapter 401
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 "Where is No. 107?" Han Sen spitted out some blood in his mouth and asked quietly.
 
 "You will know when we get there." Ning Yue did not talk to Han Sen again and hit the road.

@@ -1,21 +1,20 @@
 ---
-Title:Blacklist 
-Chapter:1150 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Blacklist
+chapter: 1150
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Blacklist
-### Chapter 1150
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Blacklist
+
+### Chapter 1150
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen believed there to be many super creatures residing in that underground realm, and he believed he’d have an easy time venturing in to slay them whenever he desired. It’d be an efficient way for him to become stronger.
 
 But Han Sen, after returning there, was unable to find one after a few days of subterranean travel.

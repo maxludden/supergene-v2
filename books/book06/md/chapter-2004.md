@@ -1,21 +1,20 @@
 ---
-Title:Black Eating Black 
-Chapter:2004 
-Section:8 
-Book:6 
-CSS:../Styles/style.css 
+title: Black Eating Black
+chapter: 2004
+section: 8
+book: 6
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Black Eating Black
-### Chapter 2004
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Black Eating Black
+
+### Chapter 2004
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The Red Reaper’s scythe slashed across the Stone Cow’s neck, but all it dealt was a minor scratch. It couldn’t even be considered an injury.
 
 After all, there was a level difference between the two. Han Sen couldn’t blame the Red Reaper for not being strong enough.
@@ -66,7 +65,7 @@ Each step sent out another shockwave.
 
 Han Sen kept getting petrified, and each time it happened, another turtle image appeared on his body.
 
-“F*ck this! This Stone Cow is too creepy.” Han Sen got rid of the petrification and Turtle effects. Then, he slashed towards the Stone Cow and ran.
+“Fuck this! This Stone Cow is too creepy.” Han Sen got rid of the petrification and Turtle effects. Then, he slashed towards the Stone Cow and ran.
 
 Until he figured out what the thing could do, he would only be able to kill it with super god spirit.
 
@@ -84,7 +83,7 @@ Han Sen’s nose wrinkled in disgust. The Stone Cow was eating the other Stone C
 
 Han Sen thought the Stone Cow was angry because its relative had been murdered. But that thing seemed willing to eat the remains of its own people. It just wanted to eat the prey that someone else had gone to the work of killing.
 
-“F*ck you! Let’s see who can last longer.” Han Sen began to think of ways he might get rid of the Stone Cow.
+“Fuck you! Let’s see who can last longer.” Han Sen began to think of ways he might get rid of the Stone Cow.
 
 Its body was hard, so it must have been of the top tier of the Marquises. It would take multiple attacks at close range to hurt the Stone Cow.
 

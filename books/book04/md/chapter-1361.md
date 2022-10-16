@@ -1,21 +1,20 @@
 ---
-Title:Killing a Gold Dragon 
-Chapter:1361 
-Section:4 
-Book:4 
-CSS:../Styles/style.css 
+title: Killing a Gold Dragon
+chapter: 1361
+section: 4
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Killing a Gold Dragon
-### Chapter 1361
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Killing a Gold Dragon
+
+### Chapter 1361
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 When the sheep saw the drowsy creatures that were unable to fight back, it ran over to them.
 
 “Don’t!” Han Sen stopped Cheap Sheep in his hasty approach and moved closer to examine what state they were in.

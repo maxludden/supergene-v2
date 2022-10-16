@@ -1,21 +1,20 @@
 ---
-Title:Officer Mutation 
-Chapter:1734 
-Section:6 
-Book:5 
-CSS:../Styles/style.css 
+title: Officer Mutation
+chapter: 1734
+section: 6
+book: 5
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Officer Mutation
-### Chapter 1734
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Officer Mutation
+
+### Chapter 1734
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Little Angel and Golden Growler ran towards the officer. With one hand, though, he was able to latch onto Little Angel’s sword. His other hand grabbed Golden Growler’s face.
 
 His hand bit into the angelic sword, while Golden Growler was sent flying away with missing chunks of flesh.

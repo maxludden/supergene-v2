@@ -1,21 +1,20 @@
 ---
-Title:Announcing a Secret 
-Chapter:828 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Announcing a Secret
+chapter: 828
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Announcing a Secret
-### Chapter 828
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Announcing a Secret
+
+### Chapter 828
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Every media outlet reported on the event, how a man in his twenties effortlessly beat a royal shura. To humanity, this was a tremendously exciting affair.
 
 Han Sen, furthermore, was the future son-in-law of the president. Due to his prestige, all the citizens of the Alliance developed a keen interest in him. They wanted to learn every detail they could about him, large and small. Many people even questioned the manners and etiquette he employed when visiting the bathroom.

@@ -1,21 +1,20 @@
 ---
-Title:Petrified 
-Chapter:1037 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Petrified
+chapter: 1037
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Petrified
-### Chapter 1037
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Petrified
+
+### Chapter 1037
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Xie Qing King must have broken down a dozen walls, each one a shortcut through what had to be some manner of maze. There were countless branching pathways, each guided by thick walls that were around one meter tall. It was in this wall-breaking way that they proceeded.
 
 Alu-Alu!

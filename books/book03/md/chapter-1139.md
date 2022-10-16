@@ -1,21 +1,20 @@
 ---
-Title:Surprising Fruit 
-Chapter:1139 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Surprising Fruit
+chapter: 1139
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Surprising Fruit
-### Chapter 1139
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Surprising Fruit
+
+### Chapter 1139
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Things began smoothly enough. No hassle was posed by other creatures, as they all seemed to avoid the Blue Dinosaur. Furthermore, Han Sen could hide his lifeforce.
 
 The further they went, the more the smell intensified. Soon, a number of rock rats emerged, and their countless numbers made it difficult for the Blue Dinosaur to continue moving forward.

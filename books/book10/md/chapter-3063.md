@@ -1,21 +1,20 @@
 ---
-Title:Understanding the Cause 
-Chapter:3063 
-Section:16 
-Book:10 
-CSS:../Styles/style.css 
+title: Understanding the Cause
+chapter: 3063
+section: 16
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Understanding the Cause
-### Chapter 3063
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Understanding the Cause
+
+### Chapter 3063
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen was very eager to keep reading it. He continued reading what was in the back of the notebook. He wanted to learn more and find out what the black-crystal stone was.
 
 Bai Mo had mentioned that the black-crystal stone could open the tunnel between two worlds. Qin Xiu might have made use of the black-crystal stone to enter the geno universe.

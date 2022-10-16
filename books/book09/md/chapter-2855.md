@@ -1,21 +1,20 @@
 ---
-Title:Spirit? 
-Chapter:2855 
-Section:14 
-Book:9 
-CSS:../Styles/style.css 
+title: Spirit?
+chapter: 2855
+section: 14
+book: 9
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Spirit?
-### Chapter 2855
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Spirit?
+
+### Chapter 2855
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The whole process was incredibly weird and amazing. Han Sen watched Sky Vine Radish’s flesh and bones being rebuilt, bit by bit. After a while, the new Sky Vine Radish was done.
 
 Compared to the shell before, the Sky Vine Radish with a god personality had a massively frightening lifeforce. That powerful feeling was like when Han Sen had first encountered King Jun. Although King Jun had given him this feeling, it was rather different.

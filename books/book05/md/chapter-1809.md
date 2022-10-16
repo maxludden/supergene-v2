@@ -1,21 +1,20 @@
 ---
-Title:Rabbit Teeth 
-Chapter:1809 
-Section:6 
-Book:5 
-CSS:../Styles/style.css 
+title: Rabbit Teeth
+chapter: 1809
+section: 6
+book: 5
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Rabbit Teeth
-### Chapter 1809
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Rabbit Teeth
+
+### Chapter 1809
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Rocks Fall Duke’s body morphed into something large and twisted. The messed-up skin of his body started to clothe itself in grey fur.
 
 __Argh!”

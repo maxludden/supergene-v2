@@ -1,21 +1,20 @@
 ---
-Title:Holy Town 
-Chapter:2288 
-Section:10 
-Book:7 
-CSS:../Styles/style.css 
+title: Holy Town
+chapter: 2288
+section: 10
+book: 7
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Holy Town
-### Chapter 2288
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Holy Town
+
+### Chapter 2288
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 In that strange deep sea, everything around them was pitch-black.
 
 But at the bottom of the ocean, there was a quiet city lying in the dark. The city was nestled in the darkness like a jewel. It glowed like a beacon of holy light.

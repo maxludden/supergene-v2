@@ -1,21 +1,20 @@
 ---
-Title:A Skulk of Foxes 
-Chapter:128 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: A Skulk of Foxes
+chapter: 128
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## A Skulk of Foxes
-### Chapter 128
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## A Skulk of Foxes
+
+### Chapter 128
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen and Gambler exchanged a look and ran after her, in case of any accident.
 
 Wang Mengmeng's fighting skills were impressive. She could even match the mutant creature using several hyper geno arts.

@@ -1,21 +1,20 @@
 ---
-Title:Blood Scorpion Jade Drum 
-Chapter:2199 
-Section:9 
-Book:6 
-CSS:../Styles/style.css 
+title: Blood Scorpion Jade Drum
+chapter: 2199
+section: 9
+book: 6
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Blood Scorpion Jade Drum
-### Chapter 2199
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Blood Scorpion Jade Drum
+
+### Chapter 2199
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen carefully examined the red patterns that adorned the Jade Drum and realized that they formed the shape of a scorpion. In all, it was around the size of a man’s hand. It was red like jade, and it contrasted sharply with the white surface of the Drum. The pattern didn’t look as if it had been engraved into the item, though. It looked as if an actual scorpion lived beneath the Drum’s surface.
 
 Huangfu Jing looked at the Blood Scorpion Jade Drum. She blurted in surprise, “I have heard that the Jade Drum is the best Drum you can find. But this one has a scorpion pattern on it. Maybe this is even better? It could be a King class Jade Drum that just so happens to be born this way.”

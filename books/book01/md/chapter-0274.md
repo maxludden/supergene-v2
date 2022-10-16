@@ -1,21 +1,20 @@
 ---
-Title:Ghost-eyed Bear 
-Chapter:274 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: Ghost-eyed Bear
+chapter: 274
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Ghost-eyed Bear
-### Chapter 274
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Ghost-eyed Bear
+
+### Chapter 274
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Fu Shan and everyone else looked to the woman. Obviously, they didn't know whether Han Sen was telling the truth either.
 
 The woman let out a sigh of relief, "You're right. Qin Xuan does have a small red birthmark behind her right ear. However, she usually covers it with her hair, so ordinary people would not be able to see that."

@@ -1,21 +1,20 @@
 ---
-Title:Love Butterfly 
-Chapter:2835 
-Section:14 
-Book:9 
-CSS:../Styles/style.css 
+title: Love Butterfly
+chapter: 2835
+section: 14
+book: 9
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Love Butterfly
-### Chapter 2835
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Love Butterfly
+
+### Chapter 2835
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen felt terrible. At this time, Very High Leader's mind has reached Very High Forget Love level. If he really wants to achieve Sky and Men Combined Together, does he have to cut off all other thoughts? Will he kill the butterfly lady?
 
 Although Han Sen knew things were not going well, he had no other choice. With God there, he couldn't stop Very High Leader.

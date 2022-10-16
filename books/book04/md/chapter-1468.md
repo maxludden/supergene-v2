@@ -1,21 +1,20 @@
 ---
-Title:Geno Battleground 
-Chapter:1468 
-Section:4 
-Book:4 
-CSS:../Styles/style.css 
+title: Geno Battleground
+chapter: 1468
+section: 4
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Geno Battleground
-### Chapter 1468
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Geno Battleground
+
+### Chapter 1468
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “Are you sure I can revive the holy child?” Gu Qingcheng always sounded like she was certain Han Sen could get the job done.
 
 Gu Qingcheng smiled. “If an Elysium spirit became a priest, the holy child would ignore them. You are human, and that’s different. Furthermore, you perform well. If she wanted to make a move, she was bound to wake up sooner rather than later.”

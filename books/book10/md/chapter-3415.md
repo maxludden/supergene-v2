@@ -1,21 +1,20 @@
 ---
-Title:Challenging Qin Xiu 
-Chapter:3415 
-Section:17 
-Book:10 
-CSS:../Styles/style.css 
+title: Challenging Qin Xiu
+chapter: 3415
+section: 17
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Challenging Qin Xiu
-### Chapter 3415
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Challenging Qin Xiu
+
+### Chapter 3415
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The previous night, he read the smaller book about Xuan Men once. It made Ji Yanran keep her promise to spend a good night with him.
 
 For Han Sen, it was not just that it was amazing. His body was very strange. Even during sex, it was very special. It was like he understood more than before. A gentle touch was enough to drive Ji Yanran crazy.

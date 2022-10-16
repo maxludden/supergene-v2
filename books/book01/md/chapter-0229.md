@@ -1,21 +1,20 @@
 ---
-Title:A Difficult One 
-Chapter:229 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: A Difficult One
+chapter: 229
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## A Difficult One
-### Chapter 229
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## A Difficult One
+
+### Chapter 229
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 "Dad, what did you do?" Situ Xiang pulled Situ Qing into the lounge and closed the door.
 
 What happened to the Nazi coach?

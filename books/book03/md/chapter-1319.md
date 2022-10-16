@@ -1,21 +1,20 @@
 ---
-Title:Completely Erased 
-Chapter:1319 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Completely Erased
+chapter: 1319
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Completely Erased
-### Chapter 1319
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Completely Erased
+
+### Chapter 1319
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “Well, it might be normal for some demigods to refer to themselves as gods, right? It’s in their title, after all. I know enough stuffy spirits around these parts that have a god complex,” Han Sen said, grasping at straws for a possible reason why the spirit might have called itself God.
 
 “Well, those thoughts crossed our minds, too. And thinking it to be arrogance, we wanted to kill it even more. That, however, was when the spirit said something else.” When Dragon King’s sentence came to a close, his face drooped into an unsettling grimace.
@@ -26,7 +25,7 @@ With bent vocals, Dragon King stuttered out a few words. He said, “Whoever kil
 
 Han Sen didn’t think much of it, at first. More than anything, he believed the demigod that called itself God was merely bluffing. It was like a riff on the cliche of, “If you strike me down, I’ll become more powerful than you could possibly imagine.” That sort of thing.
 
-It would either be that, or “I’ll haunt your *ss from beyond the grave.”
+It would either be that, or “I’ll haunt your ass from beyond the grave.”
 
 Dragon King went on to elaborate, given the awkward silence that followed what he had just spoken. He said, “Again, we didn’t care much for what the demigod said. Asura had heard enough of the pompous spirit he believed it to be, and with great anger, he struck it down. This, of course, was to the grand and terrible displeasure of Mister Ancient Devil.”
 

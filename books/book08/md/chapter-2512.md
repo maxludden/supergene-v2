@@ -1,21 +1,20 @@
 ---
-Title:Going to the Core Area Again 
-Chapter:2512 
-Section:12 
-Book:8 
-CSS:../Styles/style.css 
+title: Going to the Core Area Again
+chapter: 2512
+section: 12
+book: 8
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Going to the Core Area Again
-### Chapter 2512
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Going to the Core Area Again
+
+### Chapter 2512
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The old battleship was the only piece of technology that Han Sen could find on the island. All other landmarks were completely natural formations.
 
 Han Sen and the others couldn’t really leave the white whale. Now and again, hordes of black snakes would emerge from the black sea to chow down on the mushrooms. But every time that happened, the white tiger beat them back.

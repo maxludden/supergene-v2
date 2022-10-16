@@ -1,21 +1,20 @@
 ---
-Title:Shocked 
-Chapter:178 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: Shocked
+chapter: 178
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Shocked
-### Chapter 178
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Shocked
+
+### Chapter 178
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Some journalists felt that the boy looked familiar, but none could think of who he was.
 
 Everyone’s attention was on the silver box.

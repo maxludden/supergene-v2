@@ -1,21 +1,20 @@
 ---
-Title:Taming the Wind Beast 
-Chapter:899 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Taming the Wind Beast
+chapter: 899
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Taming the Wind Beast
-### Chapter 899
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Taming the Wind Beast
+
+### Chapter 899
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen came up with an idea of what to do. People often got close with creatures by pretending to be them. After doing so for a while, they would often end up adopting their smell. This lent them credibility with the animal, and helped the animal to acknowledge them as one of its own.
 
 This method wouldn't work on the wind beast, but Han Sen had a better idea on how to make the wolf think he was the same type of creature. What's more, Han Sen was the only person who could use this method.

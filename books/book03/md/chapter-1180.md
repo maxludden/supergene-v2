@@ -1,21 +1,20 @@
 ---
-Title:Skill of Love 
-Chapter:1180 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Skill of Love
+chapter: 1180
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Skill of Love
-### Chapter 1180
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Skill of Love
+
+### Chapter 1180
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen took Dragon King’s advice and followed his instructions. He tried to extract the thing from his body.
 
 But it turned out Han Sen didn’t have the thing inside him. He initially thought Dragon King must have gotten something wrong or had taught him incorrectly. But when Han Sen tried it on Zhang Yuchen and the others, the method worked. For some reason, the thing just couldn’t exist inside Han Sen’s body.

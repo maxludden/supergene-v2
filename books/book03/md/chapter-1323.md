@@ -1,21 +1,20 @@
 ---
-Title:One Sword One Kill 
-Chapter:1323 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: One Sword One Kill
+chapter: 1323
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## One Sword One Kill
-### Chapter 1323
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## One Sword One Kill
+
+### Chapter 1323
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen’s attitude had fanned the flames of the spirits’ hatred towards humans, whom most already despised. The four that had leaped forward to take him on all rushed forward to end him with one mighty, co-operative strike.
 
 A suffocating pillar of black smoke, a hefty boulder, a tornado composed of lethal winds, and a barrage of thin metal spikes all came towards Han Sen, ready to utterly destroy him.

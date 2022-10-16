@@ -1,21 +1,20 @@
 ---
-Title:God Ring 
-Chapter:1539 
-Section:4 
-Book:4 
-CSS:../Styles/style.css 
+title: God Ring
+chapter: 1539
+section: 4
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## God Ring
-### Chapter 1539
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## God Ring
+
+### Chapter 1539
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Goddess smiled and summoned God Ring. It seemed as if she wasn’t playing around.
 
 Little Jade Lion saw that Goddess really was going to use God Ring to fight the Lionheart Stamp, and when he did, he felt far more secure.

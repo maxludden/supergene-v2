@@ -1,21 +1,20 @@
 ---
-Title:Diversion 
-Chapter:306 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: Diversion
+chapter: 306
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Diversion
-### Chapter 306
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Diversion
+
+### Chapter 306
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 "He is not. I was able to beat him each time in a very short amount of time. His fitness is just so-so, but…" Desperado paused.
 
 "But what?" asked Huang Yulei hurriedly.

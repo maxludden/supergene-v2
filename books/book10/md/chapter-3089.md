@@ -1,21 +1,20 @@
 ---
-Title:Going to the Mountain and Asking a God for Help 
-Chapter:3089 
-Section:16 
-Book:10 
-CSS:../Styles/style.css 
+title: Going to the Mountain and Asking a God for Help
+chapter: 3089
+section: 16
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Going to the Mountain and Asking a God for Help
-### Chapter 3089
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Going to the Mountain and Asking a God for Help
+
+### Chapter 3089
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Li Bing Yu’s face turned red. She looked as if she had been electrified as she leaped off Han Sen. She grabbed the white towel, covered her body, and ran out of Han Sen’s room.
 
 Big sky demon’s power was too strong. It was an irresistible power. Li Bing Yu was able to see what was happening, but there was nothing she could do to stop it. It was not done by her own will, but she could not resist the temptation of the demon.

@@ -1,21 +1,20 @@
 ---
-Title:Demon Hell Dragon Tattoo 
-Chapter:2478 
-Section:12 
-Book:8 
-CSS:../Styles/style.css 
+title: Demon Hell Dragon Tattoo
+chapter: 2478
+section: 12
+book: 8
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Demon Hell Dragon Tattoo
-### Chapter 2478
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Demon Hell Dragon Tattoo
+
+### Chapter 2478
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The Moon doppelganger exploded. Han Sen’s true self appeared on the other side. Without hesitating, Han Sen turned into a blood shadow and fired himself into the eyes of a Duke class unicorn.
 
 Pang!

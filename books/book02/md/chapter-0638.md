@@ -1,21 +1,20 @@
 ---
-Title:The Secrets of Seven Twists 
-Chapter:638 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: The Secrets of Seven Twists
+chapter: 638
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## The Secrets of Seven Twists
-### Chapter 638
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## The Secrets of Seven Twists
+
+### Chapter 638
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 "Brother Han, could you at least tend to my wounds? If I do not receive immediate aid, I might truly die! Death is fine, of course, but to meet my demise without passing on the knowledge of my Seven Twists to someone as worthy as you would be a sorrowful crime..." Chen Ran had been tied up against a big tree, with his wounds sill exposed and seeping blood. His voice was a pitiable one, as if he was groveling a prayer before an ancient deity.
 
 "It's okay if you fail to finish teaching me this; you do, after all, have many other family members. If you pass during our training, I will merely find someone else in your family to finish whatever you begin. Now, you better start reciting the manuscript to me. If your blood begins to dry, it'll be too late even if I wanted to save you." Han Sen was sitting opposite to the tree, his posture relaxed as he watched Chen Ran.

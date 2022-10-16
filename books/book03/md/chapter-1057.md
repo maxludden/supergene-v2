@@ -1,21 +1,20 @@
 ---
-Title:Bullying the Shura Prince 
-Chapter:1057 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Bullying the Shura Prince
+chapter: 1057
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Bullying the Shura Prince
-### Chapter 1057
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Bullying the Shura Prince
+
+### Chapter 1057
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Zhou Ping looked at Han Sen. He and the others agreed with what the old officer had told them, but they really did not want the human competitor to lose.
 
 Yu Tuoshan looked at his opponent and said, “I must say I never expected to encounter a human as honorable as you.”

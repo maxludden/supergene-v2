@@ -1,21 +1,20 @@
 ---
-Title:Fighting 
-Chapter:2192 
-Section:9 
-Book:6 
-CSS:../Styles/style.css 
+title: Fighting
+chapter: 2192
+section: 9
+book: 6
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Fighting
-### Chapter 2192
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Fighting
+
+### Chapter 2192
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen stood atop the waterfall, absorbing the moon and cold powers alongside the smaller jade toads.
 
 When Night River King saw this, his face hardened. Inside, he was thinking to himself, “This must have been set up before Knife left or something. That must have been why she allowed him to become the Cold Palace guardian. How could Knife treat an outsider so well without sparing a second thought to her own kind, the Rebate?”

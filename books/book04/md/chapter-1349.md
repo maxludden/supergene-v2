@@ -1,21 +1,20 @@
 ---
-Title:Generating a Geno Core 
-Chapter:1349 
-Section:4 
-Book:4 
-CSS:../Styles/style.css 
+title: Generating a Geno Core
+chapter: 1349
+section: 4
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Generating a Geno Core
-### Chapter 1349
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Generating a Geno Core
+
+### Chapter 1349
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen was thinking to himself, “Come on, don’t stop me. I just need to get a little closer.”
 
 The boss of Jade Hill’s beasts would be difficult for Han Sen to tackle mano-a-mano, and if he found himself bearing the brunt of one’s attack, he could find himself in a similar condition to that of the chef.

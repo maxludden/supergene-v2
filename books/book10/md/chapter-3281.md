@@ -1,21 +1,20 @@
 ---
-Title:God Chaos Party Assault 
-Chapter:3281 
-Section:16 
-Book:10 
-CSS:../Styles/style.css 
+title: God Chaos Party Assault
+chapter: 3281
+section: 16
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## God Chaos Party Assault
-### Chapter 3281
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## God Chaos Party Assault
+
+### Chapter 3281
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 A big electric storm was brewing in the space around them. All kinds of colors flowed, veiling the sky.
 
 A ship crew member ran into the room. He looked shocked as he shouted, “Mister, this is bad! We have encountered a giant magnetic storm! The ship is losing control!”

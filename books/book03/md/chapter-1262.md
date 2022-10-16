@@ -1,21 +1,20 @@
 ---
-Title:Strange Occurrence at the Lake 
-Chapter:1262 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Strange Occurrence at the Lake
+chapter: 1262
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Strange Occurrence at the Lake
-### Chapter 1262
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Strange Occurrence at the Lake
+
+### Chapter 1262
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen stood on a cliffside overlooking the lake. At the water’s center, bubbles began to arise. When they reached the surface of the water, they popped and boiled with an extreme amount of fizz. It was like the opening of a firmly shaken soda can.
 
 “Is the super creature in the lake about to emerge?” Han Sen guessed, as he observed the bubbly activity. But after a while of waiting for something to occur, nothing actually did.

@@ -1,21 +1,20 @@
 ---
-Title:Stone Lantern 
-Chapter:2923 
-Section:15 
-Book:9 
-CSS:../Styles/style.css 
+title: Stone Lantern
+chapter: 2923
+section: 15
+book: 9
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Stone Lantern
-### Chapter 2923
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Stone Lantern
+
+### Chapter 2923
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Unless the black-scale dragon’s power was able to rip the time area right away, and its speed was fast enough to ignore the time delay and bolt through the time area, it did not matter how ferociously it attacked. It was not able to harm Han Sen.
 
 Time Ghost was one of the top-class true god xenogeneics in the universe. The power of its beast soul was like a true god treasure. It did not matter how strong the black scale true dragon was. It was not fast enough to tear through the Time Ghost area.

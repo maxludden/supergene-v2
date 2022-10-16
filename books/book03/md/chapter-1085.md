@@ -1,21 +1,20 @@
 ---
-Title:Dollar Falls From the Sky 
-Chapter:1085 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Dollar Falls From the Sky
+chapter: 1085
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Dollar Falls From the Sky
-### Chapter 1085
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Dollar Falls From the Sky
+
+### Chapter 1085
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Su Xiaoqiao was feeling down in the dumps that day. He had managed to max out his sacred geno points in the Second God’s Sanctuary and was sent to a royal human shelter in the Third God’s Sanctuary. While this may have been fortunate, it was a pleasure that was short-lived. In less than a year after his arrival, creatures had come to conquer the place.
 
 Outside of the gate, a ten-meter-tall monster stood. It had two heads and six legs, and its body was like a grossly inflated marble. When he first saw it, and the accompanying wretches, he felt terrified.

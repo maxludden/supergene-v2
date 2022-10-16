@@ -1,21 +1,20 @@
 ---
-Title:Pulling Out the Sword 
-Chapter:3335 
-Section:17 
-Book:10 
-CSS:../Styles/style.css 
+title: Pulling Out the Sword
+chapter: 3335
+section: 17
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Pulling Out the Sword
-### Chapter 3335
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Pulling Out the Sword
+
+### Chapter 3335
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “You are tricking me,” the purple copper sword said. It was furious. It now knew it had been well and truly duped by Han Sen.
 
 “If wanted to choose a man, so you chose a man,” Han Sen said with a smile. “If you wanted a woman, you should have chosen a woman. I let you pick first. What you are saying now is plain unfair.”
@@ -82,7 +81,7 @@ Han Sen thinking. When the purple copper sword’s voice just spoke, he put away
 
 Han Sen knew the purple copper sword was not nice. He suddenly gave up and let the woman draw him out of the ground. He did so mostly because of the little girl and fierce beast.
 
-“What the f*ck does that mean?” the purple copper sword angrily asked. “If I do not let you have it, you steal from me. If I let you have it, you don’t want it. Are you purely doing what you are doing to spite me?”
+“What the fuck does that mean?” the purple copper sword angrily asked. “If I do not let you have it, you steal from me. If I let you have it, you don’t want it. Are you purely doing what you are doing to spite me?”
 
 The woman saw the black jian behave like normal and her face changed. She looked around. She heard the roaring sound come closer. She gnashed her teeth and went to the purple copper sword.
 

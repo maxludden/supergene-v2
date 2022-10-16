@@ -1,21 +1,20 @@
 ---
-Title:Allure of Money 
-Chapter:1104 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Allure of Money
+chapter: 1104
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Allure of Money
-### Chapter 1104
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Allure of Money
+
+### Chapter 1104
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Katcha!
 
 As the black sword sliced through a multitude of stone walls, more were raised to take the place of their fallen rocky counterparts.

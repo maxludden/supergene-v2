@@ -1,21 +1,20 @@
 ---
-Title:Gold Electric Mark 
-Chapter:3101 
-Section:16 
-Book:10 
-CSS:../Styles/style.css 
+title: Gold Electric Mark
+chapter: 3101
+section: 16
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Gold Electric Mark
-### Chapter 3101
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Gold Electric Mark
+
+### Chapter 3101
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen had just returned to the hotel when Mister Yang excitedly said, “Mister… All… All gone… The gene races we sell… Aside from the mutant eight sound bug… People bought them all….”
 
 Han Sen understood what had happened. He had impressed everyone at the party, and the people in attendance were rich and famous. They probably visited his shop with curiosity. It was nothing out of the ordinary for them to want to buy a few things.

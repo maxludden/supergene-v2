@@ -1,21 +1,20 @@
 ---
-Title:Ancient Abyss Grandmaster 
-Chapter:2915 
-Section:15 
-Book:9 
-CSS:../Styles/style.css 
+title: Ancient Abyss Grandmaster
+chapter: 2915
+section: 15
+book: 9
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Ancient Abyss Grandmaster
-### Chapter 2915
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Ancient Abyss Grandmaster
+
+### Chapter 2915
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “So, what if it is the same? Are you, Grandmaster, going to kill me first?” Han Sen raised his eyebrows and coldly grunted. He was not mad. He just wanted to see if Ancient Abyss Grandmaster and his people were willing to talk more.
 
 “If our purpose is the same, why don’t we cooperate? We can avoid conflict and risk less. What do you think?” Ancient Abyss Grandmaster looked like he never became mad. He always spoke quietly.

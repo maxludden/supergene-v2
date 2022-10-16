@@ -1,21 +1,20 @@
 ---
-Title:Golden Crystal 
-Chapter:270 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: Golden Crystal
+chapter: 270
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Golden Crystal
-### Chapter 270
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Golden Crystal
+
+### Chapter 270
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen did not know how to describe what he felt at the time. After crossing mountains, rivers, and the ocean, it turned out that the golden lion came to the desolate island just to give birth to its offspring.
 
 The golden mountain seemed to be a volcano with a large basin on top. The golden lion was crouching inside the basin, howling.

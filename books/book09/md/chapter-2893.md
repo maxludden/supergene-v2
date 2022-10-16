@@ -1,20 +1,19 @@
 ---
-Title:Getting a Deified Beast Soul Again
-Chapter:2893
-Section:15
-Book:9
-CSS:../Styles/style.css
+title: Getting a Deified Beast Soul Again
+chapter: 2893
+section: 15
+book: 9
+CSS: style.css
 viewport: width=device-width
 ---
 
 ## Getting a Deified Beast Soul Again
+
 ### Chapter 2893
 
 <figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
 </figure>
-
-
 
 Han Sen knew what was wrong with it. He wanted to break Time Ghost’s Absolute Time. To do that, he had to break the time power area or unleash a speed that could blister through the delaying of time.
 
@@ -97,16 +96,15 @@ Han Sen could not wait to check it out in his Sea of Soul. He saw the Time Ghost
 <div class="tables">
 	<table class="beast">
 		<tr>
-			<th>Beast Soul</th>
+			<th colspan="2">Beast Soul Gained</th>
 		</tr><tr>
-			<td>Deified Class Time Ghost<br>
-				<span class="type">(Area)</span>
-			</td>
+			<td>Deified Class Time Ghost</td>
+			<td>(Area)</td>
 		</tr><tr>
 			<th class="note" colspan="2">Note: Perfect</th>
 		</tr>
 	</table>
 	<!-- “Deified beast soul Time Ghost: Area type (perfect)” -->
-</div>
+</div> 
 
 Han Sen was excited. A Beast Area soul was very rare, but Han Sen was also glad to see the perfect status. It was the same as the Cold Light Sword. It meant the Time Ghost beast soul was very strong. It could be used to battle a true god deified opponent.

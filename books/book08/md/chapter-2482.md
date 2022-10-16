@@ -1,21 +1,20 @@
 ---
-Title:The Man That Creates Deified Beings 
-Chapter:2482 
-Section:12 
-Book:8 
-CSS:../Styles/style.css 
+title: The Man That Creates Deified Beings
+chapter: 2482
+section: 12
+book: 8
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## The Man That Creates Deified Beings
-### Chapter 2482
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## The Man That Creates Deified Beings
+
+### Chapter 2482
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “This can’t be real!” As Wang Yuhang stared at the screen, it looked like his eyes were about to pop out of their sockets.
 
 Many other people were having similar reactions. Countless elites of all sorts of different races had their eyes glued to the screen in disbelief.

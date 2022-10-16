@@ -1,21 +1,20 @@
 ---
-Title:Blood-pulse Level Up 
-Chapter:2255 
-Section:10 
-Book:7 
-CSS:../Styles/style.css 
+title: Blood-pulse Level Up
+chapter: 2255
+section: 10
+book: 7
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Blood-pulse Level Up
-### Chapter 2255
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Blood-pulse Level Up
+
+### Chapter 2255
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Although he was leveling up, the blood kirin was still being very careful in its approach. Even so, Han Sen was able to detect its coming. Consequentally, Han Sen looked cold. He wondered whether or not he should summon the Demon Bug King Bai Sema and holler for Fox Queen.
 
 The reason for Han Sen leveling up there, instead of the palace, was because he did not actually want Fox Queen to see him ascend in rank.

@@ -1,21 +1,20 @@
 ---
-Title:Gold Armor General 
-Chapter:2513 
-Section:12 
-Book:8 
-CSS:../Styles/style.css 
+title: Gold Armor General
+chapter: 2513
+section: 12
+book: 8
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Gold Armor General
-### Chapter 2513
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Gold Armor General
+
+### Chapter 2513
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Bai Wan Jie thought about it for a moment. He seemed to realize why Dragon One and Dia Robber hadn’t hired the Royal Knights.
 
 Bai Wan Jie looked at Han Sen, smiled, and said, “I recommend you think about it before you take on this job. Otherwise, you might die without even realizing what happened.”

@@ -1,21 +1,20 @@
 ---
-Title:The Seahorse Pulling a Chimenea 
-Chapter:1529 
-Section:4 
-Book:4 
-CSS:../Styles/style.css 
+title: The Seahorse Pulling a Chimenea
+chapter: 1529
+section: 4
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## The Seahorse Pulling a Chimenea
-### Chapter 1529
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## The Seahorse Pulling a Chimenea
+
+### Chapter 1529
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Although they were still under Little Fairy’s protection, as they traveled deeper into the forest, the chill of the cold began to return, ever so slightly. Even Little Fairy was struggling to withstand the pressure of the freezing force.
 
 Most of the cold air was held back, but some gusts managed to break through. Fortunately, Han Sen’s fitness was of high enough to resist it doing any harm.

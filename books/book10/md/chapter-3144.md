@@ -1,21 +1,20 @@
 ---
-Title:Annihilation God Base 
-Chapter:3144 
-Section:16 
-Book:10 
-CSS:../Styles/style.css 
+title: Annihilation God Base
+chapter: 3144
+section: 16
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Annihilation God Base
-### Chapter 3144
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Annihilation God Base
+
+### Chapter 3144
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Super God Spirit mode was activated. A scary power suddenly tore through the rules of the world. It made Han Sen feel like a god as he glowed with a white flame.
 
 “How is that possible… Is that presence…” Decapitation Queen’s face froze in shock.

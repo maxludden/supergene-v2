@@ -1,21 +1,20 @@
 ---
-Title:Super King Spirit’s Tenth Gene Lock 
-Chapter:1335 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Super King Spirit’s Tenth Gene Lock
+chapter: 1335
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Super King Spirit’s Tenth Gene Lock
-### Chapter 1335
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Super King Spirit’s Tenth Gene Lock
+
+### Chapter 1335
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “He must be making a mockery of me,” Han Sen ultimately thought to himself, following the strange encounter with God’s Retribution.
 
 He made it sound as if he was doing it for the children, but Han Sen thought it was a ploy of some sort. He thought he had been lied to, and that there was an ulterior motive behind his words of concern.

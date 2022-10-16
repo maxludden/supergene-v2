@@ -1,21 +1,20 @@
 ---
-Title:Training Is Over 
-Chapter:2161 
-Section:8 
-Book:6 
-CSS:../Styles/style.css 
+title: Training Is Over
+chapter: 2161
+section: 8
+book: 6
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Training Is Over
-### Chapter 2161
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Training Is Over
+
+### Chapter 2161
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The elites of Sky Palace, the Dragon, the Destroyed, the Buddha, and the Demon were still waiting outside of Metal World. Two months had elapsed by now, and they had yet to see any of their Marquises return. As each new day passed without any sign of their students, their moods became darker and darker. They were finally beginning to settle on the painful acceptance that their people might never come back.
 
 “Some… something is coming out of Metal World…” murmured a Dragon that had been keenly watching Metal World.

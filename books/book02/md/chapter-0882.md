@@ -1,21 +1,20 @@
 ---
-Title:Becoming a Surpasser 
-Chapter:882 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Becoming a Surpasser
+chapter: 882
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Becoming a Surpasser
-### Chapter 882
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Becoming a Surpasser
+
+### Chapter 882
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 "If I am unable to find a way to bring you out of your shell, I am going to have to leave you here in the Second God's Sanctuary." Han Sen touched the gourd in his hand and spoke to it. He thought the situation with the gourd was unfair.
 
 He knew the gourd was a treasure, and it possessed the six Cog armaments inside it. Leaving them behind in the Second God's Sanctuary would be a grand waste.
@@ -133,4 +132,3 @@ Han Sen was pushed to the surface of the water as he heard the announcement, inf
 Before Han Sen could admire his new surpasser body, however, he felt his left hand becoming overwhelmed by a pulsing power.
 
 The gourd in his left hand was vibrating like mad.
-

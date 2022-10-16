@@ -1,21 +1,20 @@
 ---
-Title:Miracle 
-Chapter:592 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Miracle
+chapter: 592
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Miracle
-### Chapter 592
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Miracle
+
+### Chapter 592
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Zhu Ting and his people were shocked and a little uncertain when they saw the vast host of powerful creatures now confronting them. Their presence consumed his entire vision, and their numbers far exceeded the two hundred Han Sen had with him. They weren't even all that talented; so, it was hard to imagine what slaughter might transpire if they started to attack.
 
 Even if the creatures queued up and allowed them to fight one on one, it would only be a matter of time before each battler became too exhausted to fight and was killed.

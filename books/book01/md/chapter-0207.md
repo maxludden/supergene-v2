@@ -1,21 +1,20 @@
 ---
-Title:Peerless 
-Chapter:207 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: Peerless
+chapter: 207
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Peerless
-### Chapter 207
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Peerless
+
+### Chapter 207
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Chapter 207 – Peerless
 
 *Boom!*

@@ -1,21 +1,20 @@
 ---
-Title:Colleagues 
-Chapter:273 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: Colleagues
+chapter: 273
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Colleagues
-### Chapter 273
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Colleagues
+
+### Chapter 273
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 No one would answer Han Sen's question. All the people went back into the jungle.
 
 "Miss, what is this about?" Han Sen caught up with the woman he saw first and asked.

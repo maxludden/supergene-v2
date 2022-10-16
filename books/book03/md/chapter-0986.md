@@ -1,21 +1,20 @@
 ---
-Title:Third Tier of the Dongxuan Sutra 
-Chapter:986 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Third Tier of the Dongxuan Sutra
+chapter: 986
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Third Tier of the Dongxuan Sutra
-### Chapter 986
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Third Tier of the Dongxuan Sutra
+
+### Chapter 986
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen had now learned more about Taia and Qin Huaizhen. While this may have helped elucidate a few things—like how the sword had been brought to the sanctuaries—the real burning questions were still left unanswered.
 
 When the Qin family asked the Lan Te family where they found the sword, they said it was purchased from an interstellar traveler.

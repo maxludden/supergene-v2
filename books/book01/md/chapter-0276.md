@@ -1,21 +1,20 @@
 ---
-Title:Blown Away 
-Chapter:276 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: Blown Away
+chapter: 276
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Blown Away
-### Chapter 276
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Blown Away
+
+### Chapter 276
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 After going into the jungle, Han Sen followed a trail and sneaked into the habitat of the ghost-eyed bears.
 
 Before the deal was made, Han Sen did not plan to wipe out the entire ghost-eyed bear group. He decided to kill one first and go back to negotiate.

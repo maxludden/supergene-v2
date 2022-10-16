@@ -1,21 +1,20 @@
 ---
-Title:Escaping 
-Chapter:615 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Escaping
+chapter: 615
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Escaping
-### Chapter 615
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Escaping
+
+### Chapter 615
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen's palm was not Yin Force and Yang Force. If it was, he'd have been shaken to death by the lobster's horrible power.
 
 Master Discharge!

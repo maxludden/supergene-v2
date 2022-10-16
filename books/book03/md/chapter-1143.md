@@ -1,21 +1,20 @@
 ---
-Title:I’ll Teach You How to Blow a Xun 
-Chapter:1143 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: I’ll Teach You How to Blow a Xun
+chapter: 1143
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## I’ll Teach You How to Blow a Xun
-### Chapter 1143
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## I’ll Teach You How to Blow a Xun
+
+### Chapter 1143
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Thousands of jellyfish flowers flew inside the hole in the tree. Its capacity seemed infinite, as each entered without struggle. And as they did, the light inside grew in intensity.
 
 Han Sen felt the frightening power coming from inside the hole in the tree. It was so powerful, the dongxuan aura could not provide an accurate reading. Neither could he see what rested inside, beyond the blinding light.

@@ -1,21 +1,20 @@
 ---
-Title:Move Mountain Area 
-Chapter:2395 
-Section:11 
-Book:7 
-CSS:../Styles/style.css 
+title: Move Mountain Area
+chapter: 2395
+section: 11
+book: 7
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Move Mountain Area
-### Chapter 2395
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Move Mountain Area
+
+### Chapter 2395
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Pang!
 
 Han Sen’s fist and the half-deified bug’s claw collided. The blade-like claws of the beast scratched Han Sen’s armor, drawing a few light marks across its surface. The armor, however, wasn’t broken.

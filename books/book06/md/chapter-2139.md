@@ -1,21 +1,20 @@
 ---
-Title:First Place Marquise 
-Chapter:2139 
-Section:8 
-Book:6 
-CSS:../Styles/style.css 
+title: First Place Marquise
+chapter: 2139
+section: 8
+book: 6
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## First Place Marquise
-### Chapter 2139
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## First Place Marquise
+
+### Chapter 2139
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Dollar’s fights were in full-display across the breadth of the bronze scroll, and the sight of his gold body now elicited a very different reaction than it had before. He had reached the first place of the Marquise tier, proving himself to be the strongest in existence.
 
 The video stopped at the precise moment Dollar and Lone Bamboo moved to engage each other with their fingers. And then, before the eyes of all, the video shattered. The view zoomed closer on the gold body until his image was the only thing seen across the entire bronze scroll. It shone so brightly, anyone from any corner of the universe could see it clearly.

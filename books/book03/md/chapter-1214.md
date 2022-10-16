@@ -1,21 +1,20 @@
 ---
-Title:Thorn Is Born 
-Chapter:1214 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Thorn Is Born
+chapter: 1214
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Thorn Is Born
-### Chapter 1214
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Thorn Is Born
+
+### Chapter 1214
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 A red rose burst forth and stood erect in the pool. Its lifeforce was strange, wavering queerly between powerful and weak.
 
 Snowball approached the pool, but he was clearly afraid of this enigmatic flower. As Han Sen observed the rose, he felt a rumble come from his Sea of Soul.

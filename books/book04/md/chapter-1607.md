@@ -1,21 +1,20 @@
 ---
-Title:Getting Into Outer Sky 
-Chapter:1607 
-Section:4 
-Book:4 
-CSS:../Styles/style.css 
+title: Getting Into Outer Sky
+chapter: 1607
+section: 4
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Getting Into Outer Sky
-### Chapter 1607
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Getting Into Outer Sky
+
+### Chapter 1607
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The Yu family spirits were going to ask the approaching army what was going on. But before Han Sen was even close enough to open a dialogue, a punch was being thrown their way.
 
 Seeing the demonic force approaching, the Yu family spirits became enraged. They commanded all their troops to attack the Fallen Slaughter Han Sen had become.

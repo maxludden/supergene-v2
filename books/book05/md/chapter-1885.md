@@ -1,21 +1,20 @@
 ---
-Title:Imprisoned 
-Chapter:1885 
-Section:7 
-Book:5 
-CSS:../Styles/style.css 
+title: Imprisoned
+chapter: 1885
+section: 7
+book: 5
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Imprisoned
-### Chapter 1885
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Imprisoned
+
+### Chapter 1885
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The gold fountain unleashed a gold light. The gold light descended on Guna and Guya, quickly repairing their ravaged bodies. When Giant King witnessed this, he ran to the fountain and threw his hands into the water to try and absorb that same power.
 
 “Argh!” Giant King cried. The spring water was like a corrosive acid on his hands.

@@ -1,21 +1,20 @@
 ---
-Title:Must Go There 
-Chapter:3324 
-Section:17 
-Book:10 
-CSS:../Styles/style.css 
+title: Must Go There
+chapter: 3324
+section: 17
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Must Go There
-### Chapter 3324
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Must Go There
+
+### Chapter 3324
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen was shocked and quickly said, “Please, explain this to me.”
 
 Han Sen had learned some Xuan Men geno arts. He had learned quite a bit about Xuan, but he was not very good at it. He was not as good as Mister White.

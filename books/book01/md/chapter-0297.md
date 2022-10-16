@@ -1,21 +1,20 @@
 ---
-Title:Thirteen Slashes 
-Chapter:297 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: Thirteen Slashes
+chapter: 297
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Thirteen Slashes
-### Chapter 297
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Thirteen Slashes
+
+### Chapter 297
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 After the countdown, Han Sen and "Slaying All with Double Blades" entered the game. "Slaying All with Double Blades" licked his lips and stared at Han Sen. He thought, "If I cannot even beat this rookie, then I have wasted all these years I spent on practicing my shamshirs."
 
 "Slaying All with Double Blades" was holding one shamshir in each hand with one facing forward and the other facing backward. This unique gesture made his techniques stand out.

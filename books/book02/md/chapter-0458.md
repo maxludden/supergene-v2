@@ -1,21 +1,20 @@
 ---
-Title:Attacking Spirit Shelter 
-Chapter:458 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Attacking Spirit Shelter
+chapter: 458
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Attacking Spirit Shelter
-### Chapter 458
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Attacking Spirit Shelter
+
+### Chapter 458
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Li Mingtang thought about it and said, "We are all coworkers, so there's no need to get to the bottom of this. We can just laugh it out."
 
 Tang Xin did not want to let it go and said, "Professor, as a graduate from Alliance Central Military Academy, I could not stand vicious words against my alma mater. I must clear it up."

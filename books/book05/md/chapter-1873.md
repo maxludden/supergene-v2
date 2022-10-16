@@ -1,21 +1,20 @@
 ---
-Title:Guna 
-Chapter:1873 
-Section:7 
-Book:5 
-CSS:../Styles/style.css 
+title: Guna
+chapter: 1873
+section: 7
+book: 5
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Guna
-### Chapter 1873
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Guna
+
+### Chapter 1873
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 A moment later, Han Sen knew exactly what Gia’s power was. He did not hesitate, and he suddenly accelerated when her steel spear approached.
 
 The steel spear and the horn power it carried were unable to catch up with him. Han Sen flashed past Gia, laying a slash across her neck with his knife. The strike wasn’t enough to completely behead her, but blood vessels and windpipe were severed.

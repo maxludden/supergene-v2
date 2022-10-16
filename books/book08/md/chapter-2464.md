@@ -1,21 +1,20 @@
 ---
-Title:Gold Soldier King Body 
-Chapter:2464 
-Section:12 
-Book:8 
-CSS:../Styles/style.css 
+title: Gold Soldier King Body
+chapter: 2464
+section: 12
+book: 8
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Gold Soldier King Body
-### Chapter 2464
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Gold Soldier King Body
+
+### Chapter 2464
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The small print broke the world shocking king print. And after that, it continued on its course towards Meng Lie. The print didn’t become any bigger, but it did seem like the world was becoming smaller instead, shrinking under the twisted power of the print. The influence of the print seemed to spread over everything around them.
 
 Meng Lie’s jaw tightened. Several gold substance chains flew from his body, assembling themselves into a big hand that was poised to strike back against the little print. But the big hand broke when it came into contact with that print. All the substance chains snapped, too. It was impossible to repel the power of that small print.

@@ -1,21 +1,20 @@
 ---
-Title:Admiring the View of Hell Together 
-Chapter:3032 
-Section:15 
-Book:9 
-CSS:../Styles/style.css 
+title: Admiring the View of Hell Together
+chapter: 3032
+section: 15
+book: 9
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Admiring the View of Hell Together
-### Chapter 3032
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Admiring the View of Hell Together
+
+### Chapter 3032
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen’s body moved. His movement was not visible, but he was already coming before Qin Xiu. He grabbed Qin Xiu’s head and pushed downward.
 
 Pang!

@@ -1,21 +1,20 @@
 ---
-Title:Entered the Shelter Alone 
-Chapter:528 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Entered the Shelter Alone
+chapter: 528
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Entered the Shelter Alone
-### Chapter 528
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Entered the Shelter Alone
+
+### Chapter 528
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The strength of the silver beetles was only their number and sharp mouths. In fact, their strength was not too impressive.
 
 However, wearing the golden armor and gargoyle glyph, Han Sen could completely block out the silver beetles. In addition, he was covered all over, so there was no gap where the silver beetles could approach him.

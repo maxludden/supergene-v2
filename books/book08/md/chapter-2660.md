@@ -1,21 +1,20 @@
 ---
-Title:Physiognomy 
-Chapter:2660 
-Section:13 
-Book:8 
-CSS:../Styles/style.css 
+title: Physiognomy
+chapter: 2660
+section: 13
+book: 8
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Physiognomy
-### Chapter 2660
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Physiognomy
+
+### Chapter 2660
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “This fruit is very puffed and full. It does seem very rich. It is obviously a sign of happiness. It must surely have generated a deified xenogeneic.” Those who studied physiognomy believed they could judge the personality of a person merely by studying that person’s facial features. Han Sen attempted to apply the same principle to the fruit, running his hands over its surface.
 
 “Ha! Are you trying to read the fruit’s physiognomy?” Exquisite couldn’t help but laugh. The Very High had physiognomy skills, as well. But they had never thought about trying something like that on a star fruit, of all things.

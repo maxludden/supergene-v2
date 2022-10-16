@@ -1,21 +1,20 @@
 ---
-Title:Crystal Geno Weapon 
-Chapter:1798 
-Section:6 
-Book:5 
-CSS:../Styles/style.css 
+title: Crystal Geno Weapon
+chapter: 1798
+section: 6
+book: 5
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Crystal Geno Weapon
-### Chapter 1798
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Crystal Geno Weapon
+
+### Chapter 1798
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “Of course I have heard about them. Is that scabbard related to the crystallizers?” Han Sen’s heart jumped, but he held his emotions in check and kept his voice flat.
 
 “If you know, then why do you ask?” Yisha replied icily.

@@ -1,21 +1,20 @@
 ---
-Title:Meeting Again 
-Chapter:3249 
-Section:16 
-Book:10 
-CSS:../Styles/style.css 
+title: Meeting Again
+chapter: 3249
+section: 16
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Meeting Again
-### Chapter 3249
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Meeting Again
+
+### Chapter 3249
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “It’s you!” Tian Jing noticed it was Han Sen who had arrived, so she frowned.
 
 “What a coincidence that we meet again, and out here of all places,” Han Sen said with a smile. “Fate has definitely made us cross

@@ -1,21 +1,20 @@
 ---
-Title:You Are Too Weak 
-Chapter:3136 
-Section:16 
-Book:10 
-CSS:../Styles/style.css 
+title: You Are Too Weak
+chapter: 3136
+section: 16
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## You Are Too Weak
-### Chapter 3136
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## You Are Too Weak
+
+### Chapter 3136
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Brother Three was confused. He did not know why Sky King had disembarked. There were no big characters around him to interact with either.
 
 Brother Three quickly noticed that after emerging from the carriage, Sky King was walking toward Han Sen.

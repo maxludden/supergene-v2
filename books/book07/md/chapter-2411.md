@@ -1,21 +1,20 @@
 ---
-Title:Invincible Defense 
-Chapter:2411 
-Section:11 
-Book:7 
-CSS:../Styles/style.css 
+title: Invincible Defense
+chapter: 2411
+section: 11
+book: 7
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Invincible Defense
-### Chapter 2411
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Invincible Defense
+
+### Chapter 2411
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 People like Han Sen, who could survive a conflict with a deified xenogeneic, were really helpful when it came to taking down deified xenogeneics. Dia Robber and Dragon One both knew the value of recruiting Dollar to their respective causes.
 
 Even a party of Extreme King would be willing to hire Han Sen to fight for them.

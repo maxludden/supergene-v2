@@ -1,21 +1,20 @@
 ---
-Title:Chase Star Whip 
-Chapter:2595 
-Section:12 
-Book:8 
-CSS:../Styles/style.css 
+title: Chase Star Whip
+chapter: 2595
+section: 12
+book: 8
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Chase Star Whip
-### Chapter 2595
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Chase Star Whip
+
+### Chapter 2595
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “Let’s go.” Han Sen returned to the white whale and allowed Bao’er to fly the white whale away.
 
 He felt terrible. The energy in his body was all gone, and his flesh was about to collapse. Even his peacock king soul robe had been drained. If he hadn’t used the super god spirit body to separate himself from the Shield of the Medusa’s Gaze, he and the peacock king’s soul robe would have been reduced to ash.

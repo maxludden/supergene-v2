@@ -1,21 +1,20 @@
 ---
-Title:Cause God Spirit 
-Chapter:3422 
-Section:17 
-Book:10 
-CSS:../Styles/style.css 
+title: Cause God Spirit
+chapter: 3422
+section: 17
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Cause God Spirit
-### Chapter 3422
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Cause God Spirit
+
+### Chapter 3422
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “I am going to learn it.” Han Sen did not move.
 
 “If you insist on becoming my enemy, then you cannot take it out on me for being cruel,” Demon Alpha said while looking at him coldly. She looked at him as if he was already a dead man.

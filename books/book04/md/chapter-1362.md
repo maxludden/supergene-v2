@@ -1,21 +1,20 @@
 ---
-Title:Injured Pony 
-Chapter:1362 
-Section:4 
-Book:4 
-CSS:../Styles/style.css 
+title: Injured Pony
+chapter: 1362
+section: 4
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Injured Pony
-### Chapter 1362
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Injured Pony
+
+### Chapter 1362
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Dragon Lady and Cheap Sheep were worried. If Han Sen’s horn had not been able to penetrate the Gold Dragon, would there be much of a point in him using his bare fists? Surely, a slap had to be weaker.
 
 Confused and concerned, they watched in bewilderment as his palm was driven effortlessly through the Gold Dragon, as if the frightening creature was merely composed of water.

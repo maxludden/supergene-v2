@@ -1,21 +1,20 @@
 ---
-Title:Can You Do It 
-Chapter:300 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: Can You Do It
+chapter: 300
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Can You Do It
-### Chapter 300
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Can You Do It
+
+### Chapter 300
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 "Who is it?" Han Sen noticed Yang Manli’s lie but did not want to expose her.
 
 "Yang Zikun, grandson of demigod Senator Yang Xiuwen." Yang Manli then told Han Sen everything about Yang Zikun.

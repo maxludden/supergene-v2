@@ -1,21 +1,20 @@
 ---
-Title:God Punishment Sword 
-Chapter:2914 
-Section:15 
-Book:9 
-CSS:../Styles/style.css 
+title: God Punishment Sword
+chapter: 2914
+section: 15
+book: 9
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## God Punishment Sword
-### Chapter 2914
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## God Punishment Sword
+
+### Chapter 2914
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The ability to come to the big barren systems, kill xenogeneics, and do the cleanup was not something an average deified could do.
 
 “One of the cleaners must have been a true god elite and a strong one at that.” Han Sen kept looking around as he flew forward.

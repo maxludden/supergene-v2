@@ -1,21 +1,20 @@
 ---
-Title:Baby 
-Chapter:1153 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Baby
+chapter: 1153
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Baby
-### Chapter 1153
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Baby
+
+### Chapter 1153
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 When the creature emerged from its burrow again, it had a coin in its mouth. Han Sen and Moment Queen were surprised, thinking it would be carrying a rat or food in its maw, if it sought to give them something.
 
 Or maybe even rare medicine like ginseng.

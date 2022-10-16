@@ -1,21 +1,20 @@
 ---
-Title:Unbelievable 
-Chapter:1055 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Unbelievable
+chapter: 1055
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Unbelievable
-### Chapter 1055
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Unbelievable
+
+### Chapter 1055
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “Haha! Fighting with a shura? The lad is out of his mind!”
 
 “A human with that measly level of fitness chose to fight with our prince? How stupid is he?”

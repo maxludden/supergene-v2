@@ -1,21 +1,20 @@
 ---
-Title:Sky Sword 
-Chapter:1479 
-Section:4 
-Book:4 
-CSS:../Styles/style.css 
+title: Sky Sword
+chapter: 1479
+section: 4
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Sky Sword
-### Chapter 1479
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Sky Sword
+
+### Chapter 1479
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 All the spirits were in shock, but Six Paths’s expression was veiled. He complimented Han Sen by saying, “This sword has the essence of Sky Sword.”
 
 There had only been a hundred slashes, and Red Dragon had to drop his Black Dragon Spear to avoid losing his hands.

@@ -1,21 +1,20 @@
 ---
-Title:Through Hell 
-Chapter:263 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: Through Hell
+chapter: 263
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Through Hell
-### Chapter 263
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Through Hell
+
+### Chapter 263
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 "You think you could dodge Jing Jiwu's arrow unintentionally? Even at 900 feet, I'll bet you could not," replied Qin Cheng quietly.
 
 "This Han Sen is really somebody. Can Jing Jiwu still win?" exclaimed the team member.

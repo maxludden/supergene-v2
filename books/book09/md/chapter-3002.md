@@ -1,21 +1,20 @@
 ---
-Title:Real Human 
-Chapter:3002 
-Section:15 
-Book:9 
-CSS:../Styles/style.css 
+title: Real Human
+chapter: 3002
+section: 15
+book: 9
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Real Human
-### Chapter 3002
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Real Human
+
+### Chapter 3002
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “Roar!” Han Sen’s arm subconsciously opened. He looked into the sky and roared. His eyes had turned blue. They flickered with a scary light.
 
 Han Sen’s brain was still very clear, but his body was very hungry. It was like he was a junkie. His head knew this should not continue, but the reactions of his body made him unable to control himself.

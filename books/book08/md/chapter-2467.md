@@ -1,21 +1,20 @@
 ---
-Title:Punch Seal King 
-Chapter:2467 
-Section:12 
-Book:8 
-CSS:../Styles/style.css 
+title: Punch Seal King
+chapter: 2467
+section: 12
+book: 8
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Punch Seal King
-### Chapter 2467
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Punch Seal King
+
+### Chapter 2467
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Although Barr was a hybrid of the Destroyed, his talents were scarier than most of the full-blooded Destroyed. On top of that, he was practically immortal. As long as his cells were not completely eradicated, he could be reborn through his remaining genes. And each time his body was obliterated, he came back stronger. He was sort of like a cockroach that never died.
 
 Barr had already killed many half-deified people who were stronger than him on paper. Han Sen had battled him once before, but he was unable to finish the maniac off.

@@ -1,21 +1,20 @@
 ---
-Title:Big Movie 
-Chapter:2596 
-Section:12 
-Book:8 
-CSS:../Styles/style.css 
+title: Big Movie
+chapter: 2596
+section: 12
+book: 8
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Big Movie
-### Chapter 2596
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Big Movie
+
+### Chapter 2596
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen was a part of the Rebate now. But he was a very prestigious individual in Sky Palace, and he could come and go as he pleased. He was treated like one of the people of Sky Palace, as if he shared a direct lineage with them.
 
 Han Sen even had an island for himself in Sky Palace. It was the little jade island he used to occupy.

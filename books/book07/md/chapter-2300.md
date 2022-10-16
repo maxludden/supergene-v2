@@ -1,21 +1,20 @@
 ---
-Title:Recrui 
-Chapter:2300 
-Section:11 
-Book:7 
-CSS:../Styles/style.css 
+title: Recrui
+chapter: 2300
+section: 11
+book: 7
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Recrui
-### Chapter 2300
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Recrui
+
+### Chapter 2300
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “This cup of tea for a part of a Duke’s xenogeneic gene. I appreciate the exchange,” Han Sen said politely.
 
 Bai Canglang looked surprised. Then he smiled and said, “Good! Good! Good! I like greedy people.”

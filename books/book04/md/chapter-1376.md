@@ -1,21 +1,20 @@
 ---
-Title:Co-op 
-Chapter:1376 
-Section:4 
-Book:4 
-CSS:../Styles/style.css 
+title: Co-op
+chapter: 1376
+section: 4
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Co-op
-### Chapter 1376
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Co-op
+
+### Chapter 1376
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen was taken aback. The three beings in front of him were as strong as Nan Litian, by the looks of them. They wanted to claim the shelter, but they seemed dubious and afraid of something. It came as a bit of a surprise.
 
 When Han Sen entered the hall, they all stared at him at once.

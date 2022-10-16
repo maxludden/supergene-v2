@@ -1,21 +1,20 @@
 ---
-Title:Purgatory Heaven 
-Chapter:1876 
-Section:7 
-Book:5 
-CSS:../Styles/style.css 
+title: Purgatory Heaven
+chapter: 1876
+section: 7
+book: 5
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Purgatory Heaven
-### Chapter 1876
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Purgatory Heaven
+
+### Chapter 1876
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “Everyone should know that the pharmaceutical talents of the Gana are connected with their power. The purer their blood, the greater their medicine becomes. This Holy Lady is not of the royal family, but her blood is as pure as it gets. She is undoubtedly the best out of all the Gana. Her starting price is…” The Kao kept on speaking.
 
 The people around all started shouting out their bids, which annoyed the auctioneers. The clamor shocked Han Sen quite a bit.

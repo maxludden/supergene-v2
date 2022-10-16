@@ -1,21 +1,20 @@
 ---
-Title:Moon Blade 
-Chapter:491 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Moon Blade
+chapter: 491
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Moon Blade
-### Chapter 491
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Moon Blade
+
+### Chapter 491
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The evolver matched with Han Sen was completely dazed after he entered the battlefield, seeing how packed the stands were. Wang Xun had no idea what had happened.
 
 Although he was a sacred-blood evolver and was quite well known for that, he had never had such a treatment. The limit of the audience was several million, which was surprisingly filled up momentarily.

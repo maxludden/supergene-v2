@@ -1,21 +1,20 @@
 ---
-Title:Lure 
-Chapter:3333 
-Section:17 
-Book:10 
-CSS:../Styles/style.css 
+title: Lure
+chapter: 3333
+section: 17
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Lure
-### Chapter 3333
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Lure
+
+### Chapter 3333
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen ignored the purple copper sword. He used the Dongxuan Aura, wanting to find the native creatures the purple copper sword mentioned.
 
 With his power, controlling a native and having them pick up his sword would not be difficult.

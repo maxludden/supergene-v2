@@ -1,21 +1,20 @@
 ---
-Title:Fighting Armored Man 
-Chapter:1643 
-Section:4 
-Book:4 
-CSS:../Styles/style.css 
+title: Fighting Armored Man
+chapter: 1643
+section: 4
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Fighting Armored Man
-### Chapter 1643
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Fighting Armored Man
+
+### Chapter 1643
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen learned everything that had happened from Bao’er, and he became more and more sure that the woman was a member of God.
 
 Han Sen was silently enraged the whole time. After listening to what she said, he asked a few more questions and did not lose his temper. He did not say anything further. He let Bao’er continue to rest, and he went to the Martial Hall.

@@ -1,21 +1,20 @@
 ---
-Title:Cinderella 
-Chapter:1600 
-Section:4 
-Book:4 
-CSS:../Styles/style.css 
+title: Cinderella
+chapter: 1600
+section: 4
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Cinderella
-### Chapter 1600
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Cinderella
+
+### Chapter 1600
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “Help me, Little Star.” Han Sen saw Little Silver and Bao’er sitting on the back of Little Star, and nothing seemed to be happening to them. As for Little Star, it didn’t seem to be affected by that pulling force at all. It was floating in the sky, relaxed. Han Sen called for Little Star’s attention, and at the same time, he pulled back his power and stopped fighting that pulling force. Instead, he dived.
 
 *Splash!*
@@ -90,7 +89,7 @@ However, the shoe seemed to be attached to his foot, and it was impervious to Ha
 
 “Are you still trying to deny that this is your shoe? If it’s not your shoe, why does it fit your foot so well? Don’t deny it anymore, Cinderella. Go back and marry your prince”, said Jing Jiwu.
 
-“F*ck Cinderella. Even if I am a character in the fairy tale, I’m the prince.” Han Sen took out his Split-Knife and stabbed the crystal shoe.
+“Fuck Cinderella. Even if I am a character in the fairy tale, I’m the prince.” Han Sen took out his Split-Knife and stabbed the crystal shoe.
 
 Followed by a sharp sound, the Split-Knife bounced up, and there wasn’t even a white scar on the crystal heel.
 

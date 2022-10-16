@@ -1,21 +1,20 @@
 ---
-Title:God 
-Chapter:1102 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: God
+chapter: 1102
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## God
-### Chapter 1102
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## God
+
+### Chapter 1102
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Back in the Martial Hall, exiting super king spirit mode, Han Sen felt a little nauseated and weak. It wasn’t as bad as he believed he’d end up, though, and he thought he still had what it took to fight again.
 
 He thought it’d take longer to kill Fei Yu King. By fighting face-to-face, Fei Yu King lost as soon as he allowed the first coin to touch him.

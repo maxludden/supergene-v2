@@ -1,21 +1,20 @@
 ---
-Title:Shocking the Alliance Again 
-Chapter:685 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Shocking the Alliance Again
+chapter: 685
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Shocking the Alliance Again
-### Chapter 685
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Shocking the Alliance Again
+
+### Chapter 685
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Huang Yunlong was the north's champion and top human evolver; not even Han Sen could beat him easily.
 
 But before the adiraid, his persona had shriveled to that of a fleeing scoundrel. The adiraid caught up with him easily. A few cuts and slices removed his armor. Then, his helmet was removed, which came terrifyingly close to taking his scalp off along with it.

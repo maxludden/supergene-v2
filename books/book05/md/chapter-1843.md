@@ -1,22 +1,19 @@
 ---
-Title:Killing a Viscount Xenogeneic 
-Chapter:1843 
-Section:7 
-Book:5 
-CSS:../Styles/style.css 
+title: Killing a Viscount Xenogeneic
+chapter: 1843
+section: 7
+book: 5
+CSS: style.css
 viewport: width=device-width
 ---
-  
+
 ## Killing a Viscount Xenogeneic
+
 ### Chapter 1843
-  
+
 <figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
 </figure>
-  
-
-  
-
 
 Han Sen saw the gully up ahead, which had been correctly marked on the map. With Little Silver by his side, the two snuck into it.
 

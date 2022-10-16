@@ -1,21 +1,20 @@
 ---
-Title:Sonic Attack 
-Chapter:3093 
-Section:16 
-Book:10 
-CSS:../Styles/style.css 
+title: Sonic Attack
+chapter: 3093
+section: 16
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Sonic Attack
-### Chapter 3093
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Sonic Attack
+
+### Chapter 3093
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Feng Fei Fei was not going to let something so insignificant annoy her, but she still wanted to test Han Sen’s mind. She put a drop of mysterious power into her singing. It was the phoenix voice from the holy phoenix. The grudge between Han Sen and Gong Shu Jin was something no one knew more about than Feng Fei Fei. Now, Gong Shu Jin had died. Although it was only a speculated rumor, Feng Fei Fei was suspicious about Han Sen’s involvement.
 
 She supposed it had something to do with Han Sen, but she did not want to believe it. Seeing Han Sen there, she decided she might as well use her voice to test his fortitude. She wanted to know if Han Sen was telling the truth and if he had the power to murder Gong Shu Jin.

@@ -1,21 +1,20 @@
 ---
-Title:Coming for You 
-Chapter:2125 
-Section:8 
-Book:6 
-CSS:../Styles/style.css 
+title: Coming for You
+chapter: 2125
+section: 8
+book: 6
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Coming for You
-### Chapter 2125
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Coming for You
+
+### Chapter 2125
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Kun was not in the present battleground, and when the small bugs were crushed, so too was her vision. She had now lost all sight of Han Sen.
 
 Kun was taken aback by this, needless to say. The first thing she did, though, was spawn another swarm of small bugs with her small bug powers. They took off in flight, fanning across the area and rabidly searching for Han Sen.

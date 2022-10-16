@@ -1,21 +1,20 @@
 ---
-Title:Got Surrounded 
-Chapter:1155 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Got Surrounded
+chapter: 1155
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Got Surrounded
-### Chapter 1155
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Got Surrounded
+
+### Chapter 1155
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 *Boom!*
 
 Han Sen hit the wall of the cave like a cannonball, and in the haze of dust and debris that accompanied his fall, he spat out blood.

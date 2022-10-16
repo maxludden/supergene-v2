@@ -1,21 +1,20 @@
 ---
-Title:Ancient Version of the Story of Genes 
-Chapter:3057 
-Section:16 
-Book:10 
-CSS:../Styles/style.css 
+title: Ancient Version of the Story of Genes
+chapter: 3057
+section: 16
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Ancient Version of the Story of Genes
-### Chapter 3057
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Ancient Version of the Story of Genes
+
+### Chapter 3057
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 This The Story of Genes was different from The Story of Genes with which Han Sen had practiced. The language of this The Story of Genes was far clearer. There were not many details. At the same time, it was quite deep. It was just like Han Sen reading the Dongxuan Sutra in the past. One needed more profound knowledge of old languages to understand it on a greater level.
 
 If he had not already practiced with The Story of Genes, he probably would not have understood what the text on the wall meant.

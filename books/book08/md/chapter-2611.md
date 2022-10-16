@@ -1,21 +1,20 @@
 ---
-Title:Han Yan Beginner 
-Chapter:2611 
-Section:12 
-Book:8 
-CSS:../Styles/style.css 
+title: Han Yan Beginner
+chapter: 2611
+section: 12
+book: 8
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Han Yan Beginner
-### Chapter 2611
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Han Yan Beginner
+
+### Chapter 2611
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “You would be receiving benefits for nothing. I’m afraid that you’re somehow collecting all the resources in this universe for free,” Exquisite said unsympathetically.
 
 Han Sen shrugged his shoulders and laughed. “If I go to the Very High, do you think I’m going to take the resources you offer and run?”

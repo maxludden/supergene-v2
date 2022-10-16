@@ -1,21 +1,20 @@
 ---
-Title:Deified Set 
-Chapter:2664 
-Section:13 
-Book:8 
-CSS:../Styles/style.css 
+title: Deified Set
+chapter: 2664
+section: 13
+book: 8
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Deified Set
-### Chapter 2664
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Deified Set
+
+### Chapter 2664
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “You aren’t going to tell him about all the bets that have been placed on his performance?”
 
 “What is the point in him knowing that? Are we going to make him fight for his life against a born-deified? I don’t want to have to find another silkworm,” Exquisite said.
@@ -72,7 +71,7 @@ Owned treasures: Charming God’s Jian, the Shield of the Medusa’s Gaze, unkno
 
 At the end of the information, there was a summary. “The genius that can suppress thousands of races that composed the fabric of the wonderful universe we live in. The one that stands out the most can become the greatest silkworm. Aside from Shale, who we know can fight, the other has yet to be decided. He is the most popular winner in the silkworm bouts.”
 
-“You motherf*cker.” After reading the summary, Han Sen felt fairly sure that he had been set up.
+“You motherfucker.” After reading the summary, Han Sen felt fairly sure that he had been set up.
 
 Han Sen flipped through the book a few more times. He finally saw the last sentence at the back of the book, too, then. It said, “Editor: Li Xue Cheng.”
 

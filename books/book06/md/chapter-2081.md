@@ -1,21 +1,20 @@
 ---
-Title:Follow Me 
-Chapter:2081 
-Section:8 
-Book:6 
-CSS:../Styles/style.css 
+title: Follow Me
+chapter: 2081
+section: 8
+book: 6
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Follow Me
-### Chapter 2081
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Follow Me
+
+### Chapter 2081
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 After the Turtle light blasted through the flying xenogeneics, scores of them fell to the ground.
 
 Han Sen had shown himself to be a threat, and so a Blue Gold Demon Bug screamed. Many of the xenogeneics under its control turned toward Han Sen. Before Han Sen could fire off another rocket, though, many Duke and Marquise xenogeneics were already in front of him.

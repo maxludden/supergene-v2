@@ -1,21 +1,20 @@
 ---
-Title:Rabbit Hole 
-Chapter:973 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Rabbit Hole
+chapter: 973
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Rabbit Hole
-### Chapter 973
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Rabbit Hole
+
+### Chapter 973
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The rabbit was no longer poisoned. After he moved away from it, the rabbit ran around in what appeared to be happiness. It was not afraid of Han Sen, and it didn’t behave like any creature of prey he had seen before.
 
 He cooked some more meat and gave some of it to the rabbit. Clearly, the creature wasn’t very wise. It hadn’t learned its lesson, following the last piece of food it had been given. Without a modicum of concern for whether or not the latest treat was poisoned, the rabbit gobbled it up.

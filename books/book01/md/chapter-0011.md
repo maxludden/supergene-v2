@@ -1,21 +1,20 @@
 ---
-Title:Who Is Dollar? 
-Chapter:11 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: Who Is Dollar?
+chapter: 11
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Who Is Dollar?
-### Chapter 11
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Who Is Dollar?
+
+### Chapter 11
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen was digging a pit at the foot of the mountain, planning to bury the giant golden axe there.
 
 Although he escaped the manhunt of Son of Heaven by shapeshifting into the blood slayer, there was a limit to how long he could shapeshift.

@@ -1,21 +1,20 @@
 ---
-Title:Poor Little Girl 
-Chapter:3246 
-Section:16 
-Book:10 
-CSS:../Styles/style.css 
+title: Poor Little Girl
+chapter: 3246
+section: 16
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Poor Little Girl
-### Chapter 3246
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Poor Little Girl
+
+### Chapter 3246
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “Please stop where you are.”
 
 Han Sen was holding Bao’er while flying through the blizzard when he heard a woman’s voice call out to him. He stopped and looked.

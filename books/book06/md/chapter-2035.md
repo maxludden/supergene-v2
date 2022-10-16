@@ -1,21 +1,20 @@
 ---
-Title:Danger 
-Chapter:2035 
-Section:8 
-Book:6 
-CSS:../Styles/style.css 
+title: Danger
+chapter: 2035
+section: 8
+book: 6
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Danger
-### Chapter 2035
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Danger
+
+### Chapter 2035
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The silver glass bug’s wings had been broken. There were knife marks adorning its body, and its shell had been battered to the point where its flesh was mostly exposed. It was gushing silver blood everywhere.
 
 This guy’s life must have been a tough one for it to be so determined. Even in a state like that, it had come looking for Han Sen.

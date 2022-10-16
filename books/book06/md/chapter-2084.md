@@ -1,21 +1,20 @@
 ---
-Title:Ten Thousand Gourds Moving Together 
-Chapter:2084 
-Section:8 
-Book:6 
-CSS:../Styles/style.css 
+title: Ten Thousand Gourds Moving Together
+chapter: 2084
+section: 8
+book: 6
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Ten Thousand Gourds Moving Together
-### Chapter 2084
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Ten Thousand Gourds Moving Together
+
+### Chapter 2084
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen hesitated, wondering if he should keep going. The gourds were having a very strong reaction, and he was afraid something might happen.
 
 But since he was already out on the vine, going back didn’t seem like a good idea. He had to press on with Bao’er.

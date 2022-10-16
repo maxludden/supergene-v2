@@ -1,21 +1,20 @@
 ---
-Title:Moving Stuff With My Mind 
-Chapter:479 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Moving Stuff With My Mind
+chapter: 479
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Moving Stuff With My Mind
-### Chapter 479
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Moving Stuff With My Mind
+
+### Chapter 479
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Because of the huge accident during the exploration of this Crystallizer ruin, Daphne was asked to go back immediately. It was yet to be determined whether they would be punished.
 
 Fortunately, the two advanced crystals that Han Sen brought back were submitted to the Alliance by Ji Yanran, which excused her from potential sanction.

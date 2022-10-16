@@ -1,21 +1,20 @@
 ---
-Title:The Raging Insect 
-Chapter:2399 
-Section:11 
-Book:7 
-CSS:../Styles/style.css 
+title: The Raging Insect
+chapter: 2399
+section: 11
+book: 7
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## The Raging Insect
-### Chapter 2399
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## The Raging Insect
+
+### Chapter 2399
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “Dollar will die!” Dragon One could see that Han Sen was about to be swallowed by the weird insect.
 
 Instead of being sad for Han Sen, he was sad about what Han Sen’s death would mean for all of them. Even Han Sen, who could somehow nullify the air-restriction, couldn’t escape this monster. If Han Sen couldn’t escape, then it likely meant death for them all.

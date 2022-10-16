@@ -1,21 +1,20 @@
 ---
-Title:Thunder Beasts Fight 
-Chapter:877 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Thunder Beasts Fight
+chapter: 877
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Thunder Beasts Fight
-### Chapter 877
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Thunder Beasts Fight
+
+### Chapter 877
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 On the thunder-wreathed mountaintop rested a silver-thunder flower, and in its center, the bud flickered with gold electricity.
 
 Near the thunder flower were two super creatures locked in combat with each other.

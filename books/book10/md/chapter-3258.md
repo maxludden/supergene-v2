@@ -1,21 +1,20 @@
 ---
-Title:Recognizing Leadership 
-Chapter:3258 
-Section:16 
-Book:10 
-CSS:../Styles/style.css 
+title: Recognizing Leadership
+chapter: 3258
+section: 16
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Recognizing Leadership
-### Chapter 3258
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Recognizing Leadership
+
+### Chapter 3258
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 When she saw the first drop of blood going in and getting closer to the ice jade evil lady’s forehead, Tian Jing’s heart rate started to rise.
 
 As time went by, the drop of blood was able to touch the skin of the ice jade evil lady’s forehead. It enabled Tian Jing to see the blood and ice jade evil lady’s skin combine. It formed a strange connection.

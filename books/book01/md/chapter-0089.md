@@ -1,21 +1,20 @@
 ---
-Title:I’m the Strongest 
-Chapter:89 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: I’m the Strongest
+chapter: 89
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## I’m the Strongest
-### Chapter 89
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## I’m the Strongest
+
+### Chapter 89
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 "Now, do you have something to say to me?" Yang Manli approached Han Sen who was standing like a statute.
 
 Han Sen hadn’t reached a certain level in Jadeskin, so his fatigue wasn’t cleared away completely. Having stood there for over three hours, he was drenched in sweat.

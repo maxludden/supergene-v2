@@ -1,21 +1,20 @@
 ---
-Title:Monster 
-Chapter:235 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: Monster
+chapter: 235
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Monster
-### Chapter 235
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Monster
+
+### Chapter 235
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Yang Manli also saw the video. Because of the timestamp of the video, it was easy for her to tell that it was Han Sen in it.
 
 Looking at Han Sen, Yang Manli got goosebumps. This kind of performance would be any archers ultimate pursuit.

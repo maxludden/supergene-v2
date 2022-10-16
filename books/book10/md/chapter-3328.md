@@ -1,21 +1,20 @@
 ---
-Title:Symbol 
-Chapter:3328 
-Section:17 
-Book:10 
-CSS:../Styles/style.css 
+title: Symbol
+chapter: 3328
+section: 17
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Symbol
-### Chapter 3328
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Symbol
+
+### Chapter 3328
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The black jade little beast’s body slowly moved. It looked stiff. It was like a rusted robot.
 
 Every time it moved, some cracks formed on the jade-stone shell. The cracks were getting bigger and bigger. Huge chunks of it fell off. There was wet, black hair underneath the black jade shell.

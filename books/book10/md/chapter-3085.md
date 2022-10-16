@@ -1,26 +1,25 @@
 ---
-Title:Blood Dragon God Pulse
-Chapter:3085
-Section:16
-Book:10
-CSS:../Styles/style.css
+title: Blood Dragon God Pulse
+chapter: 3085
+section: 16
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
 
 ## Blood Dragon God Pulse
+
 ### Chapter 3085
 
 <figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
 </figure>
-
-
 
 A burning power surged through Han Sen’s body. It made the heat in his body rise. It was like the last purple light of a setting sun.
 
 “This power… It seems to be changing my body’s genes…” Han Sen felt like the cells of his body were being invaded by the heat. It seemed as if he was undergoing some strange changes.
 
-> “Got Blood Dragon God Genes. Blood Dragon God Pulse Opened.”
+> “Got Blood Dragon God Genes. Blood Dragon God Pulse Opened.” 
 
 In Han Sen’s brain, an announcement played. Han Sen was shocked.
 
@@ -95,7 +94,7 @@ Hua Nong Yue’s eyes looked sharp. His hands pulled Gong Shu Jin far away. His 
 
 Han Sen was still swinging a punch like normal. The purple dragon air was like an overbearing dragon in the sky that was breaking the universe. It broke Hua Nong Yue’s lightning mist.
 
-Hua Nong Yue’s body was hit by the purple dragon air. He turned into petals that shattered. He was like a sakura flower being blown everywhere. He then looked like a humanoid again, but his face was pale. His clothes were tattered, and he was bloody. Clearly, he could not get rid of all the blood dragon God Spirit Blood-Pulse powers.
+Hua Nong Yue’s body was hit by the purple dragon air. He turned into petals that shattered. He was like a sakura flower being blown everywhere. He then looked like a humanoid again, but his face was pale. His clothes were tattered, and he was bloody. Clearly, he could not get rid of all the blood dragon God Spirt Blood-Pulse powers.
 
 Upon seeing all this, Gong Shu Jin was frightened. He knew how strong Hua Nong Yue was. Even Hua Nong Yue had almost been killed with a punch. He thought there was an 80% to 90% chance that Han Sen was a real god-blood noble.
 

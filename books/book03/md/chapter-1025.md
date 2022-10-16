@@ -1,21 +1,20 @@
 ---
-Title:Goodbye to Silver Fox 
-Chapter:1025 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Goodbye to Silver Fox
+chapter: 1025
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Goodbye to Silver Fox
-### Chapter 1025
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Goodbye to Silver Fox
+
+### Chapter 1025
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 After a time spent in the Alliance, Han Sen returned to the sanctuary. As soon as he arrived, Bao’er leapt up to kiss his cheek and say, “Father, I missed you!”
 
 “I missed you, too.” Han Sen kissed her and then went off, looking for the silver fox.

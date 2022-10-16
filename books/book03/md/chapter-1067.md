@@ -1,21 +1,20 @@
 ---
-Title:Really Rich 
-Chapter:1067 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Really Rich
+chapter: 1067
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Really Rich
-### Chapter 1067
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Really Rich
+
+### Chapter 1067
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Before he did anything else, Han Sen wanted to collect as many purple crystal cores as he could. When the operation’s timer ran out, it’d draw suspicion if he was to remain and not leave.
 
 But he had plenty of time, and for the next four days, he stayed in his beetle and went around collecting as many purple crystal cores as he could find. On this fourth day, he discovered quite the staggering landmark: it was a giant hole in the ground, or rather, a crater left by some meteorite.

@@ -1,21 +1,20 @@
 ---
-Title:Leading Bai Ling Shuang 
-Chapter:2383 
-Section:11 
-Book:7 
-CSS:../Styles/style.css 
+title: Leading Bai Ling Shuang
+chapter: 2383
+section: 11
+book: 7
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Leading Bai Ling Shuang
-### Chapter 2383
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Leading Bai Ling Shuang
+
+### Chapter 2383
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 When Bai Ling Shuang heard Han Sen claim that the road had been difficult for him, she rolled her eyes. She had seen Han Sen running casually up the mountain, making the ascent without breaking the smallest sweat. He wasn’t gasping or red in the face. It looked as if the trek hadn’t even been much of a bother.
 
 Still, Bai Ling Shuang didn’t say a word. Han Sen was carrying her up the mountain. From her perspective, it looked like Han Sen was actually leaving the staircase, walking away from the mountain and out into the open air.

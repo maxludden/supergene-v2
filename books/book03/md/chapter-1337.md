@@ -1,21 +1,20 @@
 ---
-Title:On the Pill 
-Chapter:1337 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: On the Pill
+chapter: 1337
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## On the Pill
-### Chapter 1337
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## On the Pill
+
+### Chapter 1337
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen recognized his father’s handwriting due to the vast number of family documents and possessions he had collected and perused over the years.
 
 The letter he had received had been written and sent by his father, there was no room for doubt. It was easy to fake someone’s handwriting, but the content contained information only he and his father would know about.

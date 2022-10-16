@@ -1,21 +1,20 @@
 ---
-Title:Entering the Underworld Again 
-Chapter:1490 
-Section:4 
-Book:4 
-CSS:../Styles/style.css 
+title: Entering the Underworld Again
+chapter: 1490
+section: 4
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Entering the Underworld Again
-### Chapter 1490
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Entering the Underworld Again
+
+### Chapter 1490
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 All the pursuing spirits were from Elysium, and while they were all around the same power level, their geno cores were very different. Two of the king spirits were using swords. One used a feather, one wielded a knife, and another used a copper cauldron. Han Sen couldn’t see what the sixth spirit was using. He simply waved his hand beneath a cloak, which dropped a thick mist across a dozen miles of landscape. It consumed everything, including Han Sen.
 
 The radius of that fog was too wide for Han Sen to escape. While he was inside, his Dongxuan Aura was also suppressed and dampened by the mist. This made him feel uneasy.

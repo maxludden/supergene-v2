@@ -1,21 +1,20 @@
 ---
-Title:Refining Mutant Blood 
-Chapter:2019 
-Section:8 
-Book:6 
-CSS:../Styles/style.css 
+title: Refining Mutant Blood
+chapter: 2019
+section: 8
+book: 6
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Refining Mutant Blood
-### Chapter 2019
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Refining Mutant Blood
+
+### Chapter 2019
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen was going crazy, having to dig through the sand with his tongue for the job. Han Sen could withstand a lot, but Dream Beast’s ability to read his mind was particularly annoying.
 
 Han Sen thought of many different ways in which he might be able to protect his thoughts from the mind-reading ability, but nothing seemed to work.

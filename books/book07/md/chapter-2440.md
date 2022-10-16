@@ -1,21 +1,20 @@
 ---
-Title:Effect 
-Chapter:2440 
-Section:11 
-Book:7 
-CSS:../Styles/style.css 
+title: Effect
+chapter: 2440
+section: 11
+book: 7
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Effect
-### Chapter 2440
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Effect
+
+### Chapter 2440
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Wan’er was still in her comatose state, but Han Sen tossed her body away from him. She landed against the ground some distance away, but luckily, Han Sen had used some of his power to cushion her landing. Instead of slamming into the ground like a bag of rocks, Wan’er slid smoothly through the air and landed softly, almost silently, on the ground.
 
 Han Sen wanted to see if having some distance between himself and Wan’er would allow him to fully activate and maintain his super god spirit body.

@@ -1,21 +1,20 @@
 ---
-Title:Littleflower's God Body 
-Chapter:3449 
-Section:17 
-Book:10 
-CSS:../Styles/style.css 
+title: Littleflower's God Body
+chapter: 3449
+section: 17
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Littleflower's God Body
-### Chapter 3449
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Littleflower's God Body
+
+### Chapter 3449
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Human King thought, “It does not matter how great Han Sen’s genes are. He cannot compete with the most powerful gene in the universe. Only I can take that step.” The way he looked at Littleflower was more polite. He smiled and said, “Actually, to be serious about all of this, you guys and your father Han Sen are actually descendants of mine. You are a part of my bloodline. In some way, you guys are my heirs. We are family, no matter which way you look at it. Bao’er is not your father’s real daughter. She does not have human genes inside her. She is not related to you guys. Why are you killing each other on behalf of an outsider? Just hand Bao’er over, and I will refrain from hurting you guys. After all, I am your ancestor.”
 
 Littleflower did not move an inch. The holy power around him became stronger and stronger. The area that was covered by his power was completely purified. The glow was able to recover the rules of all the substances. The broken buildings and plants were even recovering The broken building was like new once more. The snapped trees healed. It was like everything was coming back to life. “Human King, I do not care if you are an ancestor mine. Regardless of what you think, Bao’er is my big sister. Her having my blood in her veins means diddly-squat to me. She is my big sister either way.” Littleflower walked toward Human King and proceeded to say, “Even if she was not my sister, I would not allow her beautiful smile to be taken away by a wretched man like you.”

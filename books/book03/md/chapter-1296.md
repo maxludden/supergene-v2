@@ -1,21 +1,20 @@
 ---
-Title:The Real Holy Baby Fruit 
-Chapter:1296 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: The Real Holy Baby Fruit
+chapter: 1296
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## The Real Holy Baby Fruit
-### Chapter 1296
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## The Real Holy Baby Fruit
+
+### Chapter 1296
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The emperor frowned. Then he interlocked the fingers of both hands to form some sort of dome around a new flame he was conjuring.
 
 With great fervor, he unleashed another fireborne punch at the drum. The power used was frightening, but the sound emitted by the drum was even quieter than the first time he had hit it.

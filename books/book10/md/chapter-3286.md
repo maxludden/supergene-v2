@@ -1,21 +1,20 @@
 ---
-Title:Difficulties 
-Chapter:3286 
-Section:16 
-Book:10 
-CSS:../Styles/style.css 
+title: Difficulties
+chapter: 3286
+section: 16
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Difficulties
-### Chapter 3286
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Difficulties
+
+### Chapter 3286
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The candle looked like a ghostly flame rising up. It covered Han Sen’s entire body.
 
 The candle could not burn anything solid, but it could burn souls. No matter how strong the body was, it could not really protect someone’s soul.

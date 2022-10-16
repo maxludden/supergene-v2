@@ -1,21 +1,20 @@
 ---
-Title:Golden-horned Shura 
-Chapter:60 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: Golden-horned Shura
+chapter: 60
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Golden-horned Shura
-### Chapter 60
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Golden-horned Shura
+
+### Chapter 60
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen made some brief explanation to Zhang Danfeng after he parted with Lin Beifeng.
 
 Han Sen understated everything and didn’t say much about Han Hao, as he knew Zhang Danfeng wouldn’t let Han Hao off easily had he told Zhang Danfeng what had really happened.

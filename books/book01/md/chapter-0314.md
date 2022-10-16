@@ -1,21 +1,20 @@
 ---
-Title:Mushu 
-Chapter:314 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: Mushu
+chapter: 314
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Mushu
-### Chapter 314
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Mushu
+
+### Chapter 314
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Once again, Han Sen enter the Dark Swamp. Last time it took him half a month to travel from Glory Shelter back to Steel Armor Shelter by way of Dark Swamp.
 
 Last time, he only had the mutant three-eyed beast as his mount and needed to fly on his own over Dark Swamp. This time, he could just use Meowth all the way as the mount, and no mutant creature could stop it.

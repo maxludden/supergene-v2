@@ -1,21 +1,20 @@
 ---
-Title:S-class Saint Hall License 
-Chapter:74 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: S-class Saint Hall License
+chapter: 74
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## S-class Saint Hall License
-### Chapter 74
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## S-class Saint Hall License
+
+### Chapter 74
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Surprised, Han Sen looked to Qin Xuan. She smiled and said, "Listen to me, go apply to Blackhawk. If you could be admitted, I guarantee that Son of Heaven would not dare to touch your family."
 
 "How can you guarantee that?" Han Sen stared at her.

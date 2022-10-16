@@ -1,21 +1,20 @@
 ---
-Title:Wan'er Woke Up 
-Chapter:2986 
-Section:15 
-Book:9 
-CSS:../Styles/style.css 
+title: Wan'er Woke Up
+chapter: 2986
+section: 15
+book: 9
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Wan'er Woke Up
-### Chapter 2986
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Wan'er Woke Up
+
+### Chapter 2986
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen was in Super God Spirit mode. That scary power went through his semi-transparent body and did not do anything to him.
 
 Han Sen was holding the Sky Vine Radish God Lance. He teleported in front of Kill Sky God and struck his head again. He had to act very quickly since Wan’er would not last long

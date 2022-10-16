@@ -1,21 +1,20 @@
 ---
-Title:The Power of the Butterfly Geno Core 
-Chapter:1488 
-Section:4 
-Book:4 
-CSS:../Styles/style.css 
+title: The Power of the Butterfly Geno Core
+chapter: 1488
+section: 4
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## The Power of the Butterfly Geno Core
-### Chapter 1488
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## The Power of the Butterfly Geno Core
+
+### Chapter 1488
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Ignoring the angry crowd of Elysium spirits, Han Sen drew Taia and swung it at the Elysian Umbrella.
 
 “Stop!” Gu Qingcheng shouted. It was not loud, but it quelled the roaring of the spirits. The area around the Geno Core Storage platform went quiet.

@@ -1,21 +1,20 @@
 ---
-Title:We Are Both King Spirits 
-Chapter:804 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: We Are Both King Spirits
+chapter: 804
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## We Are Both King Spirits
-### Chapter 804
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## We Are Both King Spirits
+
+### Chapter 804
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Inside the spirit hall, Han Sen sat down on the throne. As he did so, he observed Moment Queen. This was his first time learning that the officially defined class for a super spirit was King-class.
 
 "I may obey you, but we are both king spirits. If you dare mistreat me, I will self-destruct without hesitation," Moment Queen said harshly, biting down on her teeth.

@@ -1,21 +1,20 @@
 ---
-Title:Fighting for Cooking Meat 
-Chapter:3347 
-Section:17 
-Book:10 
-CSS:../Styles/style.css 
+title: Fighting for Cooking Meat
+chapter: 3347
+section: 17
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Fighting for Cooking Meat
-### Chapter 3347
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Fighting for Cooking Meat
+
+### Chapter 3347
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “Killed Break World beast: Gold Wing Big Bird. Found Break World gene.”
 
 In Dust Sky, without their powers to boost them, lives were very weak. The Gold Wing Big Bird had its neck broken, and that was enough for it to die.

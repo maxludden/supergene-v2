@@ -1,21 +1,20 @@
 ---
-Title:It's Just a Cat 
-Chapter:572 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: It's Just a Cat
+chapter: 572
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## It's Just a Cat
-### Chapter 572
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## It's Just a Cat
+
+### Chapter 572
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 "Mister Han, I have admired your name for a long time. Today, I finally get to meet you!" In the Blackgod Shelter, a young man shook Han Sen's hand with awe-driven sincerity.
 
 Han Sen smiled and looked at Qi Xiuwen, a person who was young, handsome, and most certainly outgoing. He had a smile that could melt the collective hearts of the entire world.

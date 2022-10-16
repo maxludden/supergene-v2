@@ -1,21 +1,20 @@
 ---
-Title:Old Dragon Rock Mountain 
-Chapter:1769 
-Section:6 
-Book:5 
-CSS:../Styles/style.css 
+title: Old Dragon Rock Mountain
+chapter: 1769
+section: 6
+book: 5
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Old Dragon Rock Mountain
-### Chapter 1769
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Old Dragon Rock Mountain
+
+### Chapter 1769
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 White Elephant looked at the mountain with passion and said, “Abandoned Thief stole things from all over. He took a lot of treasure. If Old Turtle followed in his footsteps, he’d be nothing more than the crook. Still, he might earn himself quite a bit of treasure, too.”
 
 Mister Elephant smiled and nodded. “I see. If it wasn’t for that woman of the Pirates that came here, I wouldn’t have learned about this. Still, we need to be wary of any who have had contact with Abandoned Thief.”

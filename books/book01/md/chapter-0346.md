@@ -1,21 +1,20 @@
 ---
-Title:Go Player and Stone 
-Chapter:346 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: Go Player and Stone
+chapter: 346
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Go Player and Stone
-### Chapter 346
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Go Player and Stone
+
+### Chapter 346
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen was convinced that he had strong potentials. After all, he had already gained super geno points.
 
 However, in order to tap into his potentials, he had to work extremely hard. He could understand his weaknesses and strengths better under extreme conditions with Overload. This way, he could develop his full potentials.

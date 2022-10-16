@@ -1,21 +1,20 @@
 ---
-Title:Defending the Shelter 
-Chapter:943 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Defending the Shelter
+chapter: 943
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Defending the Shelter
-### Chapter 943
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Defending the Shelter
+
+### Chapter 943
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 "This is..." Old Huang and everyone there looked at the Dragon-Blood Snake in wonder. They thought it was some small, average pet beast soul.
 
 Han Sen let the pet do the explaining for him, by having it unleash its gene locks.
@@ -50,7 +49,7 @@ And now, it wasn't only Old Huang who got excited, as hope of a future in their 
 
 "Yes; let's fight and prove to that spirit we're not to be messed with."
 
-"We're not leaving this place; f*ck those spirits!"
+"We're not leaving this place; fuck those spirits!"
 
 Aside from a few of the elders, everyone who saw the snake had a change of heart they were keen to vocally express.
 

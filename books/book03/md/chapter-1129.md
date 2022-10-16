@@ -1,21 +1,20 @@
 ---
-Title:Han Sen’s Guess 
-Chapter:1129 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Han Sen’s Guess
+chapter: 1129
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Han Sen’s Guess
-### Chapter 1129
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Han Sen’s Guess
+
+### Chapter 1129
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Seeing Uncle Bug’s murderous look, Han Sen could now see how cruel of a person he must have really been.
 
 Han Sen sighed, unsure whether or not he’d be able to pluck more information from him. Thinking this, he decided to tell him, “Uncle Bug, I was in that valley the other night.”

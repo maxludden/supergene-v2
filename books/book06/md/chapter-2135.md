@@ -1,21 +1,20 @@
 ---
-Title:Breaking Out of the Cocoon to Become a Butterfly 
-Chapter:2135 
-Section:8 
-Book:6 
-CSS:../Styles/style.css 
+title: Breaking Out of the Cocoon to Become a Butterfly
+chapter: 2135
+section: 8
+book: 6
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Breaking Out of the Cocoon to Become a Butterfly
-### Chapter 2135
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Breaking Out of the Cocoon to Become a Butterfly
+
+### Chapter 2135
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “Lone Bamboo!” The Sky Palace leader’s face suddenly went ashen.
 
 And it wasn’t only the Sky Palace leader feeling this way. Everyone watching the fight was in shock. Behind the veil of that white and purple armor, the combatant was revealed to be none other than Lone Bamboo of Sky Palace.

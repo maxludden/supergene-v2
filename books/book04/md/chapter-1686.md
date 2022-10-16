@@ -1,21 +1,20 @@
 ---
-Title:Really Can 
-Chapter:1686 
-Section:5 
-Book:4 
-CSS:../Styles/style.css 
+title: Really Can
+chapter: 1686
+section: 5
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Really Can
-### Chapter 1686
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Really Can
+
+### Chapter 1686
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 1686 Really Can
 
 “Surrounded,” Han Sen thought.
@@ -58,7 +57,7 @@ Old Cat heard Han Sen, but he still didn’t chip in to fight. He was on a table
 
 I would be killed by my own conscience, so…”
 
-“F*ck you! You are just trying to trick me,” Han Sen replied, following a swift dodge. He couldn’t believe Old Cat refused to help, and went so far as to make up such excuses.
+“Fuck you! You are just trying to trick me,” Han Sen replied, following a swift dodge. He couldn’t believe Old Cat refused to help, and went so far as to make up such excuses.
 
 Old Cat was not angered by the comment, though. He smiled and said, “Haha, young man! Don’t be so rushed. I may not be able to save you, but you can save yourself.”
 

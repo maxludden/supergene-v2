@@ -1,21 +1,20 @@
 ---
-Title:Violent Human 
-Chapter:2111 
-Section:8 
-Book:6 
-CSS:../Styles/style.css 
+title: Violent Human
+chapter: 2111
+section: 8
+book: 6
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Violent Human
-### Chapter 2111
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Violent Human
+
+### Chapter 2111
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen’s fist punched the Dragon that was made of a draconic presence, and it made him into something that was like paste. Han Sen punched into the being, pulverizing all the fist came into contact with.
 
 Pang!

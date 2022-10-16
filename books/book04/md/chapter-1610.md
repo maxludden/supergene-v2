@@ -1,21 +1,20 @@
 ---
-Title:Being Followed 
-Chapter:1610 
-Section:4 
-Book:4 
-CSS:../Styles/style.css 
+title: Being Followed
+chapter: 1610
+section: 4
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Being Followed
-### Chapter 1610
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Being Followed
+
+### Chapter 1610
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “Blergh!” Han Sen coughed up some blood. The last punch from Outer Sky King had still caused him pain. Of course, he didn’t show it while he had his audience, as he had wanted to appear strong.
 
 Han Sen hid inside an empty cave to heal. Before the healing process was complete, though, he heard a tapping noise. His face went slack with dread.

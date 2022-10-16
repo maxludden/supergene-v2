@@ -1,21 +1,20 @@
 ---
-Title:Death Goddess 
-Chapter:1655 
-Section:4 
-Book:4 
-CSS:../Styles/style.css 
+title: Death Goddess
+chapter: 1655
+section: 4
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Death Goddess
-### Chapter 1655
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Death Goddess
+
+### Chapter 1655
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 In the next two days, more and more powerful creatures entered Sunset Valley, and from time to time members of Illusion sent messages back and forth. The activity in the valley continued to increase, and it seemed that the Death Goddess should be very close to here.
 
 Han Sen did not enter the valley. The people on both sides had nothing to do with him. When the fighting started, Han Sen would kill his enemies and leave. He didn’t care much about anything else.

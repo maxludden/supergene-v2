@@ -1,21 +1,20 @@
 ---
-Title:Star Tyrannosaurus Rex 
-Chapter:3305 
-Section:17 
-Book:10 
-CSS:../Styles/style.css 
+title: Star Tyrannosaurus Rex
+chapter: 3305
+section: 17
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Star Tyrannosaurus Rex
-### Chapter 3305
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Star Tyrannosaurus Rex
+
+### Chapter 3305
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Dong!
 
 Scary power hit the star tyrannosaurus rex in the back of the head. It was like she was striking a block of steel. Huangfu Jing’s slashing power was not even able to leave the slightest mark on her foe’s skull.

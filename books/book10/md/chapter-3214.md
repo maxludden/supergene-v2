@@ -1,21 +1,20 @@
 ---
-Title:Invincible Stance 
-Chapter:3214 
-Section:16 
-Book:10 
-CSS:../Styles/style.css 
+title: Invincible Stance
+chapter: 3214
+section: 16
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Invincible Stance
-### Chapter 3214
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Invincible Stance
+
+### Chapter 3214
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 In the darkness, a gold shadow was quaking. It was becoming brighter too. Within a few seconds, Wan’er was able to walk right out of that dark. She effortlessly strolled out of the painting
 
 “No… Impossible…” The painting’s god face changed. His face was full of shock. Before the universe rebooted, he had been the strongest elite. Even members of the God Chaos Party were afraid of him.

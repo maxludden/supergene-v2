@@ -1,20 +1,19 @@
 ---
-Title:Getting Upset Over Money
-Chapter:3067
-Section:16
-Book:10
-CSS:../Styles/style.css
+title: Getting Upset Over Money
+chapter: 3067
+section: 16
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
 
 ## Getting Upset Over Money
+
 ### Chapter 3067
 
 <figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
 </figure>
-
-
 
 Fang Qi Yuan eventually decided to concede. He agreed to give Han Sen the Holy Wen White Deer.
 
@@ -24,7 +23,7 @@ If the God Spirit Blood-Pulse was not compatible with the gene race, even if one
 
 Han Sen tried to use his Sea of Souls to receive the Holy Wen White Deer Fang Qi Yuan gave him. The results surprised him. The Sea of Souls quickly received the Holy Wen White Deer. After that, people would not have been suspicious of him being from another world.
 
-At the same time, Han Sen heard an announcement play in his head.
+At the same time, Han Sen heard an announcement play in his head. 
 
 > “Got god class gene race Holy Wen White Deer.”
 
@@ -33,12 +32,12 @@ Han Sen checked out the information on the Holy Wen White Deer. The results surp
 <div class="tables">
     <table class="beast">
         <tr>
-            <th>Gene Race</th>
+            <th colspan="2">Gene Race</th>
         </tr><tr>
-            <td>God Class<br>
-                <span class="type">Holy Wen White Deer</td>
+            <td>God Class</td>
+            <td>Holy Wen White Deet</td>
         </tr><tr>
-            <th class="note">Note: Adult</th>
+            <th colspan="2" class="note">Note: Adult</th>
         </tr>
     </table>
     <!--Holy Wen White Deer: God class gene race (adult)-->

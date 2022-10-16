@@ -1,21 +1,20 @@
 ---
-Title:Qin Bai Practicing With the Sword 
-Chapter:3150 
-Section:16 
-Book:10 
-CSS:../Styles/style.css 
+title: Qin Bai Practicing With the Sword
+chapter: 3150
+section: 16
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Qin Bai Practicing With the Sword
-### Chapter 3150
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Qin Bai Practicing With the Sword
+
+### Chapter 3150
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “Han Sen, you have a daughter that old!” Qin Bai looked at Bao’er with shock.
 
 Qin Bai wasn’t in the mood to concern himself with that. He quickly asked, “Han Sen, do you have a method or not? Tell me quickly.”

@@ -1,21 +1,20 @@
 ---
-Title:Devil Desert 
-Chapter:126 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: Devil Desert
+chapter: 126
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Devil Desert
-### Chapter 126
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Devil Desert
+
+### Chapter 126
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 "Yanran, we have been roommates and sisters for three years. It’s okay you did not tell others, but why didn’t you tell me?" Qu Lili asked Ji Yanran, grinning.
 
 "Tell you what?" Ji Yanran was confused.

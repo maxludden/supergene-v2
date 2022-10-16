@@ -1,21 +1,20 @@
 ---
-Title:Killing the Tiger 
-Chapter:1673 
-Section:4 
-Book:4 
-CSS:../Styles/style.css 
+title: Killing the Tiger
+chapter: 1673
+section: 4
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Killing the Tiger
-### Chapter 1673
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Killing the Tiger
+
+### Chapter 1673
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Inside the cafe, Stay Up Late was wearing his uniform as he researched coffee. He suddenly frowned. He put down his tools and took off his apron and placed them on the counter.
 
 “Stay Up Late, where are you going?” The manager looked at him strangely.

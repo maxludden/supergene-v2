@@ -1,21 +1,20 @@
 ---
-Title:Walk Your Own Path 
-Chapter:2764 
-Section:13 
-Book:8 
-CSS:../Styles/style.css 
+title: Walk Your Own Path
+chapter: 2764
+section: 13
+book: 8
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Walk Your Own Path
-### Chapter 2764
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Walk Your Own Path
+
+### Chapter 2764
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 In the days that followed, Han Sen didn’t eat or drink much. He spent all his time modifying Under the Sky and Break Six Skies.
 
 Under the Sky wasn’t very compatible with Break Six Skies, so Han Sen would have to use his dual pistols from Spell to channel the power. And Break Six Skies had to be modified, as well. He might not be using the geno art’s full destructive capability, but the explosive power had to be sufficient to annihilate God’s Knife. Only by doing that could Han Sen perform his one-second judgment into the past.

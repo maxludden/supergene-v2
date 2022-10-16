@@ -1,21 +1,20 @@
 ---
-Title:Ouyang Xiaosan 
-Chapter:192 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: Ouyang Xiaosan
+chapter: 192
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Ouyang Xiaosan
-### Chapter 192
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Ouyang Xiaosan
+
+### Chapter 192
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 After lunch, Chen Ling left satisfied. Ji Yanran and Qu Lili had classes in the afternoon, so Han Sen had to spend the time alone.
 
 At this point, he had almost recovered from his burns. Recently, he had been in so many classes that he was a bit tired of studying, and decided to go test his physical fitness.

@@ -1,21 +1,20 @@
 ---
-Title:Recruitment Failure 
-Chapter:1838 
-Section:7 
-Book:5 
-CSS:../Styles/style.css 
+title: Recruitment Failure
+chapter: 1838
+section: 7
+book: 5
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Recruitment Failure
-### Chapter 1838
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Recruitment Failure
+
+### Chapter 1838
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen told them to take him to see the enlisted Barons. They were mostly comprised of Kate, but there were other races in their midst.
 
 Han Sen smiled grimly. “Do you think I am stupid? Would there really be that many Barons wanting to join me?”

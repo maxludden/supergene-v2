@@ -1,21 +1,20 @@
 ---
-Title:Sit and Forget Sutra 
-Chapter:2744 
-Section:13 
-Book:8 
-CSS:../Styles/style.css 
+title: Sit and Forget Sutra
+chapter: 2744
+section: 13
+book: 8
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Sit and Forget Sutra
-### Chapter 2744
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Sit and Forget Sutra
+
+### Chapter 2744
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The most unusual thing about his calmness was his scary presence. When the Very High felt that presence, a chill passed through their hearts.
 
 Almost at the same time, Exquisite and Li Keer’s faces relaxed, too. Their bodies replicated Han Sen’s movements, lowering their hands from their previously threatening posture.

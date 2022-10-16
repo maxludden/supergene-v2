@@ -1,21 +1,20 @@
 ---
-Title:Test Subject 
-Chapter:3383 
-Section:17 
-Book:10 
-CSS:../Styles/style.css 
+title: Test Subject
+chapter: 3383
+section: 17
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Test Subject
-### Chapter 3383
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Test Subject
+
+### Chapter 3383
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “She said you cannot enter the 33 skies again,” Wang Yuhang said. “If you do need to go, you must at least bring Bao’er there.”
 
 “What else did she say to you?” Han Sen asked.

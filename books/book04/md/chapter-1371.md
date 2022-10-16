@@ -1,21 +1,20 @@
 ---
-Title:The Traitor’s Heir 
-Chapter:1371 
-Section:4 
-Book:4 
-CSS:../Styles/style.css 
+title: The Traitor’s Heir
+chapter: 1371
+section: 4
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## The Traitor’s Heir
-### Chapter 1371
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## The Traitor’s Heir
+
+### Chapter 1371
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen thought it best to take refuge in Hidden Valley, but another thirty miles of travel was no small distance with his life in perpetual danger.
 
 He stumbled again, and acknowledging he was going to fail the latest dodge, he summoned his Bulwark Umbrella for a defense. The umbrella clashed against the spear and repelled it, but it was not without cost. The sound it made was terrible, and the umbrella sounded as if it was on the precipice of shattering.
@@ -56,7 +55,7 @@ Han Sen was in agony, but he held it back and dodged the next strike. Then he sa
 
 Nan Litian then shouted, “Nonsense! How can you be a friend of the vice-president?”
 
-Han Sen was incredibly angry over his mistreatment, and now, he’d had enough. He responded, “F*ck you! You keep saying I’m a motherf*cking traitor, but do you know who’s heir I am?”
+Han Sen was incredibly angry over his mistreatment, and now, he’d had enough. He responded, “Fuck you! You keep saying I’m a motherfucking traitor, but do you know who’s heir I am?”
 
 “You are holding the relic; you are Han Jinzhi’s heir, so who else?” Nan Litian continued to attack as he spoke.
 

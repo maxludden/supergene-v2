@@ -1,21 +1,20 @@
 ---
-Title:Going Back to Gold Crystal System 
-Chapter:3131 
-Section:16 
-Book:10 
-CSS:../Styles/style.css 
+title: Going Back to Gold Crystal System
+chapter: 3131
+section: 16
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Going Back to Gold Crystal System
-### Chapter 3131
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Going Back to Gold Crystal System
+
+### Chapter 3131
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 After taking Bao’er to a safe place, Han Sen asked her how she had got there.
 
 “The old liar brought me here,” Bao’er said.

@@ -1,21 +1,20 @@
 ---
-Title:Tutor Han on Stage 
-Chapter:982 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Tutor Han on Stage
+chapter: 982
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Tutor Han on Stage
-### Chapter 982
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Tutor Han on Stage
+
+### Chapter 982
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Having dinner with Ji Yanran, Han Sen informed her that he would be teaching students in archery.
 
 At this, she frowned and said, “If you’re going, that might be a problem.”

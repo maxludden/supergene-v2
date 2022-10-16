@@ -1,21 +1,20 @@
 ---
-Title:The King Is Back 
-Chapter:490 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: The King Is Back
+chapter: 490
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## The King Is Back
-### Chapter 490
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## The King Is Back
+
+### Chapter 490
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 After Wang Dongyun had thought of it, he could no longer hold it back. Wang Dongyun then recorded all the following fights by Kill Dollar.
 
 After Wang Dongyun watched several rounds, Kill Dollar suddenly left the virtual platform. Wang Dongyun then watched what he recorded repeatedly.

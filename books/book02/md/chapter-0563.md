@@ -1,21 +1,20 @@
 ---
-Title:Slaying the Snake-king 
-Chapter:563 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Slaying the Snake-king
+chapter: 563
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Slaying the Snake-king
-### Chapter 563
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Slaying the Snake-king
+
+### Chapter 563
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Wang Liang and the other evolvers greatly admired Han Sen. No-one they had served under could command with the talent he did. Battles were instant, moment-to-moment affairs that morphed and changed every second. To command people ahead of time in such a way was remarkable, because if anyone else had issued commands, by the time the evolvers performed what they were told, the opportunity to do anything more would be gone.
 
 But Han Sen had just commanded ten people with amazing efficiency. He was quick in issuing his commands, that was to be expected, but his words were never rushed. Taking such impeccable orders relieved Wang Liang and his people from a great deal of stress, so they were able to do far more.

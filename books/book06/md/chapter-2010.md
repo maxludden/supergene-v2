@@ -1,21 +1,20 @@
 ---
-Title:Under the Sky Knifeskill 
-Chapter:2010 
-Section:8 
-Book:6 
-CSS:../Styles/style.css 
+title: Under the Sky Knifeskill
+chapter: 2010
+section: 8
+book: 6
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Under the Sky Knifeskill
-### Chapter 2010
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Under the Sky Knifeskill
+
+### Chapter 2010
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen’s words startled Yun Suyi so much that she leaked some of the Jade Air.
 
 “Does he want to date me? Should I go or not? He has a wife, and he is the father of two children. Maybe he has just identified the flaw with Under the Sky… Yun Suyi, what are you thinking? How could he possibly discover that?” Yun Suyi’s head was a mess, and her thoughts kept going in circles.

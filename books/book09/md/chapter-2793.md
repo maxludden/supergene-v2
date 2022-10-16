@@ -1,21 +1,20 @@
 ---
-Title:Leveling Up to Transmutation 
-Chapter:2793 
-Section:14 
-Book:9 
-CSS:../Styles/style.css 
+title: Leveling Up to Transmutation
+chapter: 2793
+section: 14
+book: 9
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Leveling Up to Transmutation
-### Chapter 2793
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Leveling Up to Transmutation
+
+### Chapter 2793
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen felt as if his body was brimming with a strange sort of power. It was like he was peeling off his skin. His gene database kept refreshing by purging old genes and replacing them with new ones that carried a different message. His body had changes that flipped the ground and the sky. Black air was emitted out of his body. It formed a giant cocoon that wholly encased him.
 
 Han Sen felt rather happy. It was fortunate he had locked up the red-robed child inside Destiny’s Tower. He was unable to move now, so it was lucky that he had not given the child a chance to run amuck while he was busy.

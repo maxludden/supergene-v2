@@ -1,21 +1,20 @@
 ---
-Title:Holy Garden Fight 
-Chapter:2935 
-Section:15 
-Book:9 
-CSS:../Styles/style.css 
+title: Holy Garden Fight
+chapter: 2935
+section: 15
+book: 9
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Holy Garden Fight
-### Chapter 2935
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Holy Garden Fight
+
+### Chapter 2935
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “What weird thing?” Han Sen looked at him with interest.
 
 Yang Yun Sheng had a wry smile as he said, “In the dark, I heard a woman crying.”

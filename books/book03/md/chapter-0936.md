@@ -1,21 +1,20 @@
 ---
-Title:Knight Tree 
-Chapter:936 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Knight Tree
+chapter: 936
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Knight Tree
-### Chapter 936
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Knight Tree
+
+### Chapter 936
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Blood-Dragon Snakes were of the blood element. With every gene lock that they had open, their powers improved by a great deal all across the board. Their speed and strength, however, were given an exponential boost.
 
 Even a Blood-Dragon Snake with only two open gene locks would be considerably stronger than Han Sen. To receive a Blood-Dragon Snake with six open gene locks was a tremendous thing, and it was sure to lay waste to any creature it fought.

@@ -1,21 +1,20 @@
 ---
-Title:Rushing Into the Shelter 
-Chapter:848 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Rushing Into the Shelter
+chapter: 848
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Rushing Into the Shelter
-### Chapter 848
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Rushing Into the Shelter
+
+### Chapter 848
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen leapt into the shelter, and before he reached the ground, he espied a red whip lashing towards him. He quickly dodged it, before turning to see more headed his way.
 
 It was a super creature that looked like a lion, but it's mane was a nest of red snakes. Those snakes were the vines that lashed towards him.

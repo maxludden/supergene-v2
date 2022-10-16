@@ -1,21 +1,20 @@
 ---
-Title:Obsidian Dragon 
-Chapter:23 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: Obsidian Dragon
+chapter: 23
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Obsidian Dragon
-### Chapter 23
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Obsidian Dragon
+
+### Chapter 23
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Roar!
 
 The giant snake shrieked and rushed madly toward Son of Heaven, who was covered in egg, leaving Han Sen alone.

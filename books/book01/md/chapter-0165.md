@@ -1,21 +1,20 @@
 ---
-Title:The Invitation From Digang 
-Chapter:165 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: The Invitation From Digang
+chapter: 165
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## The Invitation From Digang
-### Chapter 165
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## The Invitation From Digang
+
+### Chapter 165
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 In the stationmaster’s office of the teleport station on Planet Roca, Qin Xuan and Yang Manli were watching a video—the edited game recording made by Fang Mingquan.
 
 "He is this good at warframes?" Yang Manli could not believe Han Sen was the one driving Silver Killer.

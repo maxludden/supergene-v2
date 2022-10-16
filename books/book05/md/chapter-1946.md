@@ -1,21 +1,20 @@
 ---
-Title:Heaven’s Music 
-Chapter:1946 
-Section:7 
-Book:5 
-CSS:../Styles/style.css 
+title: Heaven’s Music
+chapter: 1946
+section: 7
+book: 5
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Heaven’s Music
-### Chapter 1946
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Heaven’s Music
+
+### Chapter 1946
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The Buddha could not control Heaven in its entirety. If someone traveled to the area that was not under the control of the Buddha, they had a chance of making it to the other end.
 
 Luo Ji thought the area that the Buddha did not control was under the Sand Sea.

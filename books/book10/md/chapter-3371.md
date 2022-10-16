@@ -1,21 +1,20 @@
 ---
-Title:Fighting Qin Xiu 
-Chapter:3371 
-Section:17 
-Book:10 
-CSS:../Styles/style.css 
+title: Fighting Qin Xiu
+chapter: 3371
+section: 17
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Fighting Qin Xiu
-### Chapter 3371
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Fighting Qin Xiu
+
+### Chapter 3371
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “Hm, where did they go?” Qin Xiu looked at Sky King with an unhappy gaze. He was more than glum.
 
 Sky King’s heart jumped. The spirit mirror began to display strange changes. They were no longer in Burning Red Sky. They were actually in another sky.

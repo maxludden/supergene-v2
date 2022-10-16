@@ -1,21 +1,20 @@
 ---
-Title:Second Absorption 
-Chapter:782 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Second Absorption
+chapter: 782
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Second Absorption
-### Chapter 782
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Second Absorption
+
+### Chapter 782
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 With the aid of Han Sen's bolts, little angel finally managed to land a strike on the Devil-Eye Spider. When the sword was driven through the spider's body, green blood squirted from the orifice.
 
 It took another two strikes with the little angel's greatsword for her to finish it off.

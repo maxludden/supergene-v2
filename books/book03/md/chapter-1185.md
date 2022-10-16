@@ -1,21 +1,20 @@
 ---
-Title:The Sky Tree Is Revived 
-Chapter:1185 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: The Sky Tree Is Revived
+chapter: 1185
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## The Sky Tree Is Revived
-### Chapter 1185
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## The Sky Tree Is Revived
+
+### Chapter 1185
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “Why?” Han Sen was surprised by this, and it seemed as if Baby Ghost knew a thing or two about what was going on.
 
 Baby Ghost said, “You don’t need to know the specifics. You are going to die, so give me the relic and speak your last words.”

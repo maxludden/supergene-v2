@@ -1,21 +1,20 @@
 ---
-Title:Everyone Must Die 
-Chapter:3003 
-Section:15 
-Book:9 
-CSS:../Styles/style.css 
+title: Everyone Must Die
+chapter: 3003
+section: 15
+book: 9
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Everyone Must Die
-### Chapter 3003
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Everyone Must Die
+
+### Chapter 3003
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Blue blood power was almost flowing throughout his body. It made Han Sen feel very weird.
 
 Blue blood power was incredibly strong, but it also gave Han Sen the feeling of abandonment. All of the rules and power he had amassed were being shoved out of his body. It was like everything he had come to know was abandoning him.

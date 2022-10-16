@@ -1,21 +1,20 @@
 ---
-Title:Yu Qielan 
-Chapter:820 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Yu Qielan
+chapter: 820
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Yu Qielan
-### Chapter 820
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Yu Qielan
+
+### Chapter 820
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Ji Yanran told Ji Ruozhen about the shura liquid, and he took it for the serious, concerning matter that it was. Ji Ruozhen asked Han Sen to tell him about the liquid again, then retrieved the sample on the very same day.
 
 The Ji family was taking the entire affair more seriously than Han Sen believed they would. He hoped they could successfully research it, because if they could not, the Zhao family's capabilities would shock the entire Alliance.

@@ -1,21 +1,20 @@
 ---
-Title:Blood Feather Knife 
-Chapter:2012 
-Section:8 
-Book:6 
-CSS:../Styles/style.css 
+title: Blood Feather Knife
+chapter: 2012
+section: 8
+book: 6
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Blood Feather Knife
-### Chapter 2012
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Blood Feather Knife
+
+### Chapter 2012
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The Feather students that lived on Cloud Island were busy preparing the knife event.
 
 “Angia, do you think Han Sen will come?” asked a Feather lady called An Lingxin.

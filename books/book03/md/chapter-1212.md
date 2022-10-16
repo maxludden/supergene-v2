@@ -1,21 +1,20 @@
 ---
-Title:Ghost-toxic Chi Egg 
-Chapter:1212 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Ghost-toxic Chi Egg
+chapter: 1212
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Ghost-toxic Chi Egg
-### Chapter 1212
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Ghost-toxic Chi Egg
+
+### Chapter 1212
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 > “Super Creature Ghost-Toxic Chi Killed. No Beast Soul Gained. The Flesh of This Creature Is Inedible, but You May Harvest Its Life Geno Essence. Consume Its Life Geno Essence to Gain Zero to Ten Super Geno Points Randomly.”
 
 When the Little Angel delivered one last strike to the snake’s head, the announcement rang inside Han Sen’s head. The snake’s body decomposed, leaving a black Life Geno Essence behind. Han Sen took it and placed it in his pocket. Then he walked forward.

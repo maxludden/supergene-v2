@@ -1,21 +1,20 @@
 ---
-Title:Tiger Amidst the Sheep 
-Chapter:1615 
-Section:4 
-Book:4 
-CSS:../Styles/style.css 
+title: Tiger Amidst the Sheep
+chapter: 1615
+section: 4
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Tiger Amidst the Sheep
-### Chapter 1615
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Tiger Amidst the Sheep
+
+### Chapter 1615
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Almost at the same time, Sha Linjia waved his fist that was wreathed in red flame towards Gu Qingcheng’s sword. Two scary forces collided.
 
 *Boom!*

@@ -1,21 +1,20 @@
 ---
-Title:Ten Steps of the Holy Door 
-Chapter:1144 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Ten Steps of the Holy Door
+chapter: 1144
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Ten Steps of the Holy Door
-### Chapter 1144
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Ten Steps of the Holy Door
+
+### Chapter 1144
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The stone door hovered in the air, adamantly remaining closed.
 
 The underground cavern was a mighty place, but the door seemed so far away. With Xiang Yin’s speed, it looked like she could reach it in the space of a second. But with everyone’s bated breath, it felt like she’d never reach there.

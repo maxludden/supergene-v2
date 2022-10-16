@@ -1,21 +1,20 @@
 ---
-Title:God Fight Reward 
-Chapter:3191 
-Section:16 
-Book:10 
-CSS:../Styles/style.css 
+title: God Fight Reward
+chapter: 3191
+section: 16
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## God Fight Reward
-### Chapter 3191
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## God Fight Reward
+
+### Chapter 3191
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Before the space tunnel closed for their departure, Rocky Dee turned around and asked Han Sen, “Do you not think breaking the world is awesome? There is strength in between breaking the world, and you just broke the world. Not many elites can kill you, but there are still one or two that might. If I were you, I would let Master Bao’er go with me.”
 
 “I am not going to hand my daughter over to anybody,” Han Sen calmly said. “I will not let anyone hurt her.”

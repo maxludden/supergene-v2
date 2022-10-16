@@ -1,21 +1,20 @@
 ---
-Title:Teacher Jian Bu Gu 
-Chapter:3115 
-Section:16 
-Book:10 
-CSS:../Styles/style.css 
+title: Teacher Jian Bu Gu
+chapter: 3115
+section: 16
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Teacher Jian Bu Gu
-### Chapter 3115
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Teacher Jian Bu Gu
+
+### Chapter 3115
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Thousand Mile Reach was very shocked. He almost forgot the way out while leaving Feng Castle.
 
 “That man had to be Jian Bu Gu. It has to be! It has to be Teacher Jian, but how could he…” Thousand Mile Reach was very confused. He could not understand why Grand Teacher Jian Bu Gu would call himself Han Sen’s servant. That was far too shocking.

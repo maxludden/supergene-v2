@@ -1,21 +1,20 @@
 ---
-Title:Evil Blood 
-Chapter:3066 
-Section:16 
-Book:10 
-CSS:../Styles/style.css 
+title: Evil Blood
+chapter: 3066
+section: 16
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Evil Blood
-### Chapter 3066
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Evil Blood
+
+### Chapter 3066
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Fang Qi Yuan was so fast that he could have killed Jian Bu Gu’s. To him, this had been a very rare opportunity.
 
 If Jian Bu Gu had not decided to avoid fighting anyone for 20 years, even with an army of a thousand men, a thousand horses, and a sky full of battleships, he would not have been able to be beaten.

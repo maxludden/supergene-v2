@@ -1,21 +1,20 @@
 ---
-Title:Yan Return 
-Chapter:3168 
-Section:16 
-Book:10 
-CSS:../Styles/style.css 
+title: Yan Return
+chapter: 3168
+section: 16
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Yan Return
-### Chapter 3168
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Yan Return
+
+### Chapter 3168
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Yan Bei Fei gripped the handle of the knife as his entire body summoned a strange and mysterious aura. His body did not move, but it looked like it was emitting some light. It was like time was coldly fading.
 
 Han Sen was still casually standing where he was. It did not look like he was going to fight. Instead, he just watched Yan Bei Fei with interest.

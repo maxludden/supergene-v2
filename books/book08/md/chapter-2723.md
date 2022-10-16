@@ -1,21 +1,20 @@
 ---
-Title:Weird Black Crystal 
-Chapter:2723 
-Section:13 
-Book:8 
-CSS:../Styles/style.css 
+title: Weird Black Crystal
+chapter: 2723
+section: 13
+book: 8
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Weird Black Crystal
-### Chapter 2723
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Weird Black Crystal
+
+### Chapter 2723
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Empty God wasn’t afraid of Han Sen, but this whole scenario was too embarrassing for him to bear. He had tried to trick a mere child, but he had failed miserably. More than once. He had also lost a true god item—the Star Gauge Mirror.
 
 He started to step toward them, but he knew that he couldn’t do anything to Han Sen. He couldn’t take the Star Gauge Mirror back, and Han Sen might even mock him for trying.

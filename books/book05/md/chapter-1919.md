@@ -1,21 +1,20 @@
 ---
-Title:Red Mist Mink Beast Soul 
-Chapter:1919 
-Section:7 
-Book:5 
-CSS:../Styles/style.css 
+title: Red Mist Mink Beast Soul
+chapter: 1919
+section: 7
+book: 5
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Red Mist Mink Beast Soul
-### Chapter 1919
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Red Mist Mink Beast Soul
+
+### Chapter 1919
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “The Jade Turtle Spell? You already had a plan for slowing Han Sen down?” Flower King asked, looking at the spell that had been cast on Han Sen.
 
 Moon Wheel King said coldly, “The speed of those shoes may not mean much to us, and they wouldn’t work if there were Dukes on the field. Against lower level opponents, however, they make the boy undefeatable. So, I had a plan to mitigate that.”

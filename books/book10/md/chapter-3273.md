@@ -1,21 +1,20 @@
 ---
-Title:Zhao Ning'er's Makeover 
-Chapter:3273 
-Section:16 
-Book:10 
-CSS:../Styles/style.css 
+title: Zhao Ning'er's Makeover
+chapter: 3273
+section: 16
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Zhao Ning'er's Makeover
-### Chapter 3273
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Zhao Ning'er's Makeover
+
+### Chapter 3273
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The power of the Xuan Yellow Sutra hit Zhao Ning’er. It made Han Sen feel like he was throwing oil into a pot of water. The power of the Xuan Yellow Sutra could not blend into the blood of Zhao Ning’er.
 
 Han Sen thought, “It looks like after Zhao Ning’er became a Break World beast, her body reached a whole other level. It is not only her power that has changed. The Xuan Yellow Sutra power cannot shift her Blood-Pulse.” He used the Xuan Yellow Sutra to break the world.

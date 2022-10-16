@@ -1,21 +1,20 @@
 ---
-Title:Intense Fighting 
-Chapter:1943 
-Section:7 
-Book:5 
-CSS:../Styles/style.css 
+title: Intense Fighting
+chapter: 1943
+section: 7
+book: 5
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Intense Fighting
-### Chapter 1943
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Intense Fighting
+
+### Chapter 1943
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Several tornados raged across the desert. They were searching for Han Sen almost hungrily. When the tornados reached a specific dune, it exploded and a person emerged. He went straight west.
 
 “Amitabha!” Seven Spirit waved his white robe, and the tornados retreated into his sleeves. He looked like a dragon with yellow wings as he came after Han Sen.

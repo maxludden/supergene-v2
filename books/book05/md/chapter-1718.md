@@ -1,21 +1,20 @@
 ---
-Title:Finishing the Evolution Process 
-Chapter:1718 
-Section:6 
-Book:5 
-CSS:../Styles/style.css 
+title: Finishing the Evolution Process
+chapter: 1718
+section: 6
+book: 5
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Finishing the Evolution Process
-### Chapter 1718
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Finishing the Evolution Process
+
+### Chapter 1718
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “Hardman, your business is great You have spent such a small amount of money on someone who has the possibility of becoming a Noble.” Hei Xun sat down next to a monitor and started a discussion with Hardman.
 
 Hardman laughed and said, “It is difficult to tell if he will be able to generate a geno weapon. Even with the flowers chinning, the possibility still stands on a fifty-fifty.”

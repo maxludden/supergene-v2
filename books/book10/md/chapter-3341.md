@@ -1,21 +1,20 @@
 ---
-Title:Shaking Power 
-Chapter:3341 
-Section:17 
-Book:10 
-CSS:../Styles/style.css 
+title: Shaking Power
+chapter: 3341
+section: 17
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Shaking Power
-### Chapter 3341
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Shaking Power
+
+### Chapter 3341
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 After the purple copper sword said that, she thought, “That member of the soldiers will be absorbed by me. Even if I lose, you will not get anything. But I, Asura, will not lose.”
 
 “Interesting. I do not know what sort of method you are referring to.” Han Sen was interested. He did not want the little girl to die, but he did not want to be her weapon for all time. Perhaps the purple copper sword’s method was able to help him take the soul mark away from the little girl’s soul.

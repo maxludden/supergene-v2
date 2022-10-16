@@ -1,21 +1,20 @@
 ---
-Title:Attacking the 33 Skies 
-Chapter:3344 
-Section:17 
-Book:10 
-CSS:../Styles/style.css 
+title: Attacking the 33 Skies
+chapter: 3344
+section: 17
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Attacking the 33 Skies
-### Chapter 3344
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Attacking the 33 Skies
+
+### Chapter 3344
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 He lowered his head. It was Ling’er holding his legs. He was surprised, so he fell from the air. He screamed.
 
 Wang Yuhang picked himself up off the ground, looked at Ling’er, and asked, “Ling’er, what are you doing?”

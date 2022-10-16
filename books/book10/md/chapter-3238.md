@@ -1,21 +1,20 @@
 ---
-Title:Getting Sword 
-Chapter:3238 
-Section:16 
-Book:10 
-CSS:../Styles/style.css 
+title: Getting Sword
+chapter: 3238
+section: 16
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Getting Sword
-### Chapter 3238
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Getting Sword
+
+### Chapter 3238
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Qin Yuan had the Demon God Sword. The presence of the sword was like a demon god air that was tearing through the rules of creation. It was like no power was able to dull the sharpness of the sword.
 
 This was the first time Han Sen had seen Break World powers become solid. It meant Han Sen’s Break World power had not become a solid level yet.

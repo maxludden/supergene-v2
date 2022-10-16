@@ -1,21 +1,20 @@
 ---
-Title:Wolfpack 
-Chapter:1008 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Wolfpack
+chapter: 1008
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Wolfpack
-### Chapter 1008
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Wolfpack
+
+### Chapter 1008
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Lin Weiwei and her people looked through the darkness in confusion, and Han Sen did not say anything more.
 
 It didn’t take long for her face to change and exclaim, “Han Sen is right! Many creatures are fast approaching.”

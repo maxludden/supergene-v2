@@ -1,21 +1,20 @@
 ---
-Title:To Escape or Not to Escape 
-Chapter:737 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: To Escape or Not to Escape
+chapter: 737
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## To Escape or Not to Escape
-### Chapter 737
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## To Escape or Not to Escape
+
+### Chapter 737
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The silver fox continued playing with Little Orange, getting it to chase itself around and around.
 
 While this was occurring, Han Sen lay down on Zhou Yumei's bench. He drank another one of her beverages, and at the same time, asked her questions that piqued his widespread curiosity.

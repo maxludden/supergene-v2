@@ -1,21 +1,20 @@
 ---
-Title:A Thousand Miles of Blood 
-Chapter:2060 
-Section:8 
-Book:6 
-CSS:../Styles/style.css 
+title: A Thousand Miles of Blood
+chapter: 2060
+section: 8
+book: 6
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## A Thousand Miles of Blood
-### Chapter 2060
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## A Thousand Miles of Blood
+
+### Chapter 2060
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen used his Stone Cow body to rush forward. The shockwaves came thick and fast from his feet.
 
 Dragon Nineteen, Dragon Fifteen, and Long Ying were up front. Dragon Nineteen did not expect this, and so she had no time to block. She was the first to be struck by the wave of petrification, and she turned to stone in an instant.

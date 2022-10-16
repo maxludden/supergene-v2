@@ -1,21 +1,20 @@
 ---
-Title:Killing a Deified Xenogeneic 
-Chapter:2627 
-Section:12 
-Book:8 
-CSS:../Styles/style.css 
+title: Killing a Deified Xenogeneic
+chapter: 2627
+section: 12
+book: 8
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Killing a Deified Xenogeneic
-### Chapter 2627
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Killing a Deified Xenogeneic
+
+### Chapter 2627
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “Lone Bamboo, if you knew it was a deified xenogeneic with an eight armor talent, why do you not know anything else about it?” The creature had just managed to slash Han Sen’s back with a silver sword light. Han Sen’s spine was visible through the gaping wound, so it warranted a complaint. “Didn’t you see the eight words on the gate? That means it has an eight armor talent,” Lone Bamboo said as he kept running. “It works like that then, does it? Those words describe whatever creature emerges? But surely, someone can’t be breeding and growing the xenogeneics in here, right?” Han Sen pondered aloud as he surveyed the area. He turned his gaze toward the gate with eight words carved into it. The text was from an ancient language of the geno universe.
 
 “I don’t know. Even the Sky elders that discovered this place never figured out the White Jade Jing’s origin. And so, no one knows where any of these xenogeneics come from,” Lone Bamboo said, as he continued to fight the fiend and fall back whenever necessary. The two of them fought well together, but the Silver Destroyer was simply too fast. Han Sen tried to predict his enemy’s movements, but the creature’s attacks were so quick that they were unavoidable, so Han Sen’s predictive abilities were of limited use.

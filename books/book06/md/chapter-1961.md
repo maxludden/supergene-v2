@@ -1,21 +1,20 @@
 ---
-Title:Sky Palace 
-Chapter:1961 
-Section:8 
-Book:6 
-CSS:../Styles/style.css 
+title: Sky Palace
+chapter: 1961
+section: 8
+book: 6
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Sky Palace
-### Chapter 1961
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Sky Palace
+
+### Chapter 1961
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen had to go to Sky Palace, so he told Xie Qing King and the others. They were to take care of Planet Eclipse for him in the meantime, and they discussed plans for the future.
 
 Han Sen was not worried about how Planet Eclipse would fare, nor Xie Qing King. As long as Han Sen’s identity was not exposed, Yisha would also be there to safeguard the planet. No harm should come to Xie Qing King and the others while he was gone.

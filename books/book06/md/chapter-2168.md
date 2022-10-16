@@ -1,21 +1,20 @@
 ---
-Title:Cold Palace Guardian 
-Chapter:2168 
-Section:9 
-Book:6 
-CSS:../Styles/style.css 
+title: Cold Palace Guardian
+chapter: 2168
+section: 9
+book: 6
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Cold Palace Guardian
-### Chapter 2168
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Cold Palace Guardian
+
+### Chapter 2168
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “Extreme King? One of the top three lanterns in the geno hall? That Extreme King?” When Han Sen heard the name, he was surprised.
 
 He thought Narrow Moon depended on Sky Palace for protection, but hearing her say this, that didn’t seem quite so likely.

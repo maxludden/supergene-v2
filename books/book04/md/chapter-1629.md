@@ -1,21 +1,20 @@
 ---
-Title:Six Paths Become One 
-Chapter:1629 
-Section:4 
-Book:4 
-CSS:../Styles/style.css 
+title: Six Paths Become One
+chapter: 1629
+section: 4
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Six Paths Become One
-### Chapter 1629
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Six Paths Become One
+
+### Chapter 1629
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen believed going up against Six Paths’ Life Sword would be difficult. After all, Life Sword resided at the heart of Six Paths. It was his essence. If you took away the limitations of skills, all he had left was primitive drive.
 
 Six Paths’ sword skills, when cast, were something scary to behold.

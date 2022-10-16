@@ -1,21 +1,20 @@
 ---
-Title:A New Era of Warframe 
-Chapter:181 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: A New Era of Warframe
+chapter: 181
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## A New Era of Warframe
-### Chapter 181
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## A New Era of Warframe
+
+### Chapter 181
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 "Lili, hurry! The live stream of the SKTS launch is about to start. You won’t make it if you don’t run." After class, Ji Yanran and Qu Lili quickly ran across the campus.
 
 Out of breath when back in their dormitory, Qu Lili saw Ji Yanran turning her device on and watching the SKTS launch. She was quite relieved and said, "Fortunately we made it."

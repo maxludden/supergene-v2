@@ -1,21 +1,20 @@
 ---
-Title:On Fire 
-Chapter:124 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: On Fire
+chapter: 124
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## On Fire
-### Chapter 124
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## On Fire
+
+### Chapter 124
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Wang Long felt that this time he was even faster than usual and felt complacent about his performance. When he felt that he must have won, the game suddenly ended and he was stupefied.
 
 <table class="score">

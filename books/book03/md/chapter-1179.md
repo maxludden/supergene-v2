@@ -1,21 +1,20 @@
 ---
-Title:Angel of Principality 
-Chapter:1179 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Angel of Principality
+chapter: 1179
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Angel of Principality
-### Chapter 1179
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Angel of Principality
+
+### Chapter 1179
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Angel of Principality: Pet Type Evolution
 
 Han Sen looked at her stats. From what he could tell, it was only the name that had changed. The rest was the same.
@@ -68,7 +67,7 @@ Han Sen returned to his house. He masked his presence there and summoned Dragon 
 
 "What was that?" Han Sen finally had the chance to ask him the questions he had so much wanted to earlier.
 
-Dragon King said, "That *sshole didn't grow a new tree. He wants to sacrifice everyone in the hopes of reviving this current one."
+Dragon King said, "That asshole didn't grow a new tree. He wants to sacrifice everyone in the hopes of reviving this current one."
 
 "I thought you told me he had grown a new one, due to this one being irreparable." Han Sen now wore a scowl, learning of Dragon King's blunder.
 

@@ -1,21 +1,20 @@
 ---
-Title:A Walking Treasure 
-Chapter:222 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: A Walking Treasure
+chapter: 222
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## A Walking Treasure
-### Chapter 222
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## A Walking Treasure
+
+### Chapter 222
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 After going back to his dorm, Han Sen checked out the details of E-blast that he just purchased, playing with a bottle of purple geno solution in his other hand.
 
 "This is neat for a C-Class martial art." Han Sen was surprised. He had little hope for a C-Class martial art, but this one was even more complicated than Sparticle.

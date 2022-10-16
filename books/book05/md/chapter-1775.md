@@ -1,21 +1,20 @@
 ---
-Title:White Feather Dyed Red 
-Chapter:1775 
-Section:6 
-Book:5 
-CSS:../Styles/style.css 
+title: White Feather Dyed Red
+chapter: 1775
+section: 6
+book: 5
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## White Feather Dyed Red
-### Chapter 1775
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## White Feather Dyed Red
+
+### Chapter 1775
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “Do they know about Xina?” Han Sen wondered to himself.
 
 He was not afraid, but Stay Up Late had only just become a Baron. He could not return to the sanctuary, so it’d be dangerous if the Feathers thought about going after him, too.

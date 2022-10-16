@@ -1,21 +1,20 @@
 ---
-Title:Three Palms 
-Chapter:3416 
-Section:17 
-Book:10 
-CSS:../Styles/style.css 
+title: Three Palms
+chapter: 3416
+section: 17
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Three Palms
-### Chapter 3416
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Three Palms
+
+### Chapter 3416
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “How dare you speak her name,” Moon God coldly said. “If I knew you would turn out to be such a heartless person, I would have rather upset her than save your life.”
 
 Han Sen now understood why Moon God wanted to fight Qin Xiu. Qin Xiu wanted to revive his real sister, Qin Wan’er. The Witch Wan’er was Qin Wan’er reincarnated, but she was not Qin Wan’er.

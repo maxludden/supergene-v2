@@ -1,21 +1,20 @@
 ---
-Title:A Demonstration 
-Chapter:191 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: A Demonstration
+chapter: 191
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## A Demonstration
-### Chapter 191
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## A Demonstration
+
+### Chapter 191
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 After the class, Han Sen walked toward the training field of martial arts. Ji Yanran was training there and he had said he would pick her up for lunch.
 
 Now the two had gone public, and everyone knew about it. They weren’t trying to hide it either and started to show up together, making the single students feel sorry for themselves.

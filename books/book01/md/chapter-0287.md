@@ -1,21 +1,20 @@
 ---
-Title:Return 
-Chapter:287 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: Return
+chapter: 287
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Return
-### Chapter 287
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Return
+
+### Chapter 287
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen did not have any intention to follow them into the nest, which he knew very well was basically empty.
 
 At this point, Han Sen had already come down from the mountain and ran away with the dead sacred-blood ghost-eyed bear.

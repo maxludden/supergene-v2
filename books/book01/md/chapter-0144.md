@@ -1,21 +1,20 @@
 ---
-Title:Do You Want to Know 
-Chapter:144 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: Do You Want to Know
+chapter: 144
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Do You Want to Know
-### Chapter 144
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Do You Want to Know
+
+### Chapter 144
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 "Now you can disappear, right?" said Han Sen while drinking water.
 
 "Boy, don’t be too arrogant..." exclaimed the thin man.

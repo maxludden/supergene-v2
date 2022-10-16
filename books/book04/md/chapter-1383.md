@@ -1,21 +1,20 @@
 ---
-Title:Geno Core Test 
-Chapter:1383 
-Section:4 
-Book:4 
-CSS:../Styles/style.css 
+title: Geno Core Test
+chapter: 1383
+section: 4
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Geno Core Test
-### Chapter 1383
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Geno Core Test
+
+### Chapter 1383
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 It wasn’t just the one in third place, either. Han Sen looked at the top one hundred and noticed many of the geno cores there were from Sacred Shelter, too. It proved it was a strong place, indeed.
 
 There were still a lot of geno cores without the additional text, so Han Sen wondered if they belonged to Sacred Shelter, as well.

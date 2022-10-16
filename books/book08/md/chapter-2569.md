@@ -1,21 +1,20 @@
 ---
-Title:Clown Tattoo 
-Chapter:2569 
-Section:12 
-Book:8 
-CSS:../Styles/style.css 
+title: Clown Tattoo
+chapter: 2569
+section: 12
+book: 8
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Clown Tattoo
-### Chapter 2569
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Clown Tattoo
+
+### Chapter 2569
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen picked up the tools and headed toward the swimming pool. He didn’t mind working. By doing this, he’d be able to walk around the whole fortress, which might give him the opportunity to find something. Right now, he was quite curious about the nature of the location he had ended up in.
 
 Exquisite and Li Keer were aware of what Han Sen wanted. So, they reluctantly picked up their tools and went with him. But before they exited the immediate area, the small Crocodile God stopped them. It lifted a clawed hand to point at the rubbish scattered across the beach. It wanted them to clean up the beach area first.

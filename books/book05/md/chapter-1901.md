@@ -1,21 +1,20 @@
 ---
-Title:Before the Testing Gold Rock 
-Chapter:1901 
-Section:7 
-Book:5 
-CSS:../Styles/style.css 
+title: Before the Testing Gold Rock
+chapter: 1901
+section: 7
+book: 5
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Before the Testing Gold Rock
-### Chapter 1901
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Before the Testing Gold Rock
+
+### Chapter 1901
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “If no one can compete against No Flower, this round will be over,” Moon Wheel King said, as he stood up.
 
 He understood the thoughts of those from Moon Garden, though. He knew no one else from Moon Garden could compete with what they had just witnessed. So, he did not want to waste any further time. It’d only reflect poorly on the Rebate and Moon Garden.
@@ -76,7 +75,7 @@ No matter what the case might be, this was a fine opportunity to observe Han Sen
 
 Many Nobles of Narrow Moon were not happy with the concept of Han Sen actually going on stage.
 
-“He is just a Baron. He is actually going to compete with No Flower? Even if you used your *ss to think, you’d know that this won’t end well.”
+“He is just a Baron. He is actually going to compete with No Flower? Even if you used your ass to think, you’d know that this won’t end well.”
 
 “Yeah, he’s not a member of Moon Garden. To hear him actually be recommended… Why would Du Lishe invite him? Does she want to embarrass him?”
 

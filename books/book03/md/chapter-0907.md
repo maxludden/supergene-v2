@@ -1,21 +1,20 @@
 ---
-Title:Wipeout 
-Chapter:907 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Wipeout
+chapter: 907
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Wipeout
-### Chapter 907
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Wipeout
+
+### Chapter 907
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 After Han Sen entered the shelter, he went straight for the spirit hall.
 
 The spirit hall's defenses were tough. In the plaza were ten ordinary creatures, and two knight class spirits stood outside the spirit hall itself, guarding.

@@ -1,21 +1,20 @@
 ---
-Title:Knocking Out the Chosen 
-Chapter:170 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: Knocking Out the Chosen
+chapter: 170
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Knocking Out the Chosen
-### Chapter 170
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Knocking Out the Chosen
+
+### Chapter 170
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 "Yanran, go to the campus community site!" Qu Lili suddenly poked Ji Yanran with a finger and whispered.
 
 "Stop it. We are in class." Ji Yanran was not in a good mood since she had not seen Han Sen for days.

@@ -1,21 +1,20 @@
 ---
-Title:Crowned 
-Chapter:264 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: Crowned
+chapter: 264
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Crowned
-### Chapter 264
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Crowned
+
+### Chapter 264
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen's bow was so weak that his arrows could never hit Jing Jiwu. Even if they could, they would be much slower than Jing Jiwu's arrows, so he would still be eliminated first.
 
 In Jing Jiwu's arrows were so strong that even the two arrows from Han Sen could hit Jing Jiwu's, they would never be able to stop them.

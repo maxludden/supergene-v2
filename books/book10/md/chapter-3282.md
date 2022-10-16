@@ -1,21 +1,20 @@
 ---
-Title:Light Stream Dragon Spear 
-Chapter:3282 
-Section:16 
-Book:10 
-CSS:../Styles/style.css 
+title: Light Stream Dragon Spear
+chapter: 3282
+section: 16
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Light Stream Dragon Spear
-### Chapter 3282
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Light Stream Dragon Spear
+
+### Chapter 3282
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Sky King looked frozen. The presence of the light stream dragon spear made his heart jump. It was a sign that he felt a sense of danger.
 
 After all, Sky King used to be a very strong and powerful person. The moment his heart jumped, he decided he needed to strike first. He was going to suppress Shoot Shadow.

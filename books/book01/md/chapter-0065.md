@@ -1,21 +1,20 @@
 ---
-Title:Blackhawk Military Academy 
-Chapter:65 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: Blackhawk Military Academy
+chapter: 65
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Blackhawk Military Academy
-### Chapter 65
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Blackhawk Military Academy
+
+### Chapter 65
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Before Han Sen teleported to God’s Sanctuary, Qin Xuan called to ask him to go to the teleport station.
 
 When Han Sen came to station, Yang Manli gave him a cold stare and brought him to the office of Qin Xuan.

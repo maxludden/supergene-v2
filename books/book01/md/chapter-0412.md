@@ -1,21 +1,20 @@
 ---
-Title:Alloy Case in the Cave 
-Chapter:412 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: Alloy Case in the Cave
+chapter: 412
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Alloy Case in the Cave
-### Chapter 412
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Alloy Case in the Cave
+
+### Chapter 412
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 "Why has it become quiet?" Jia Yan looked to the mountain with doubts.
 
 "It's probably finished," Xiao Wei sighed and said.

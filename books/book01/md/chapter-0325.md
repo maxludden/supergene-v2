@@ -1,21 +1,20 @@
 ---
-Title:Kiting 
-Chapter:325 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: Kiting
+chapter: 325
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Kiting
-### Chapter 325
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Kiting
+
+### Chapter 325
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen did not have any room to run. Reaching him in a second, Queen's kick was even more horrendous than the turtle bite.
 
 Han Sen immediately tried to block Queen's incoming leg with both hands, using Diversion and clinging technique, hoping that he could borrow Queen's force.

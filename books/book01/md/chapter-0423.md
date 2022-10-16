@@ -1,20 +1,19 @@
 ---
-Title:Black Crystal
-Chapter:423
-Section:1
-Book:1
-CSS:../Styles/style.css
+title: Black Crystal
+chapter: 423
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
 
 ## Black Crystal
+
 ### Chapter 423
 
 <figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
 </figure>
-
-
 
 Han Sen was dumbstruck by the two words "king spirit." There were many evolvers among humans. In fact, the majority of humans were evolvers. Unevolved persons were usually between sixteen and thirty years old, while the majority of humans between 20 to 300 years old were evolvers. Most people would stay in this status their whole life, and only a few could become surpasser.
 
@@ -36,8 +35,7 @@ He checked the introduction of super body "king spirit," which was so concise th
             <th>King Spirit</th>
         </tr><tr>
             <td>King rules the world;<br>
-                <span>All spirits shall bow.</span>
-            </td>
+                <span>All spirits shall bow.</spanm></td>
         </tr>
     </table>
     <!--King spirit: king rules the world; all spirits shall bow.-->

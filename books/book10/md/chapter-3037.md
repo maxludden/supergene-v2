@@ -1,21 +1,20 @@
 ---
-Title:Lotus God Temple 
-Chapter:3037 
-Section:16 
-Book:10 
-CSS:../Styles/style.css 
+title: Lotus God Temple
+chapter: 3037
+section: 16
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Lotus God Temple
-### Chapter 3037
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Lotus God Temple
+
+### Chapter 3037
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen wanted to explain he was not Mister Yang, but Mister Yang walked in, bowed to Han Sen, and said, “Mister, there is something wrong in the garden. You should go take a look.”
 
 Han Sen looked at Mister Yang. He looked natural as he talked to Peaceful. He said, “Lady Peaceful, please wait here. I am coming.” Peaceful did not mind and said, “Sure, Mister Yang,”

@@ -1,21 +1,20 @@
 ---
-Title:Calculation 
-Chapter:1251 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Calculation
+chapter: 1251
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Calculation
-### Chapter 1251
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Calculation
+
+### Chapter 1251
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen shouted, “Don’t go yet! I am going to take down Blood River Shelter and save you all!”
 
 Xue Yucheng heard him say this and said, “You have no idea how powerful a king-class shelter is. Simply sending a message will do.”

@@ -1,21 +1,20 @@
 ---
-Title:Don't Belong to This World 
-Chapter:3029 
-Section:15 
-Book:9 
-CSS:../Styles/style.css 
+title: Don't Belong to This World
+chapter: 3029
+section: 15
+book: 9
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Don't Belong to This World
-### Chapter 3029
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Don't Belong to This World
+
+### Chapter 3029
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Qin Xiu’s God Spirit level and universe level were quickly devolving. Even though he had combined with the holy spine and an Annihilation class God Spirit, his level was suddenly lowered to something comparative to a Disaster class God Spirit. He was also getting worse.
 
 Littleflower’s universe level was falling too. True God, Butterfly, Larva… It kept going down.

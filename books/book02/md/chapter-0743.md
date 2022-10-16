@@ -1,21 +1,20 @@
 ---
-Title:Battle on the Ice Lake 
-Chapter:743 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Battle on the Ice Lake
+chapter: 743
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Battle on the Ice Lake
-### Chapter 743
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Battle on the Ice Lake
+
+### Chapter 743
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The little angel's greatsword delivered a great cut to the blobby jellyfish. But in the next second, the wound it suffered was immediately healed.
 
 The tentacles reached out towards the little angel, but she swung her greatsword and cut them down before they could get too close.

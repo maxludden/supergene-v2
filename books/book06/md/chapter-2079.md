@@ -1,21 +1,20 @@
 ---
-Title:Blue Gold Demon Bug 
-Chapter:2079 
-Section:8 
-Book:6 
-CSS:../Styles/style.css 
+title: Blue Gold Demon Bug
+chapter: 2079
+section: 8
+book: 6
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Blue Gold Demon Bug
-### Chapter 2079
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Blue Gold Demon Bug
+
+### Chapter 2079
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “Oh no! Run!” Han Sen screamed. He called for Little Angel, Zero, and Han Meng’er to fly away from the plaza and the metal monsters that had been unleashed.
 
 Han Sen swept his Dongxuan Aura over them. Their presence felt murderous, like creatures that only sought destruction. They were very negative beings.
@@ -86,7 +85,7 @@ But the Blue Gold Demon Bug had come out from inside Narrow Moon. The low level 
 
 Over the course of a few minutes, many of the Rebate were killed. Explosions rattled the place. Cries and screams erupted from every which way.
 
-Vikto! That *sshole Vikto!” Sad Night gritted his teeth. He wanted to find Vikto, who had given him the tape, but Vikto was nowhere to be seen. When he looked back over his shoulder, he saw a Blue Gold Demon Bug coming for him.
+Vikto! That asshole Vikto!” Sad Night gritted his teeth. He wanted to find Vikto, who had given him the tape, but Vikto was nowhere to be seen. When he looked back over his shoulder, he saw a Blue Gold Demon Bug coming for him.
 
 “What do we do now?” Zero asked as they retreated.
 

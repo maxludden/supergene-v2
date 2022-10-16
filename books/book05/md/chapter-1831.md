@@ -1,21 +1,20 @@
 ---
-Title:Dragon’s Back 
-Chapter:1831 
-Section:7 
-Book:5 
-CSS:../Styles/style.css 
+title: Dragon’s Back
+chapter: 1831
+section: 7
+book: 5
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Dragon’s Back
-### Chapter 1831
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Dragon’s Back
+
+### Chapter 1831
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Even the Knife Blank has come out. Is it useful?” Han Sen waved the Knife Blank. It felt good to wield, but it didn’t seem to
 
 possess any strange powers.

@@ -1,21 +1,20 @@
 ---
-Title:Signing the Contract 
-Chapter:2642 
-Section:13 
-Book:8 
-CSS:../Styles/style.css 
+title: Signing the Contract
+chapter: 2642
+section: 13
+book: 8
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Signing the Contract
-### Chapter 2642
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Signing the Contract
+
+### Chapter 2642
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 When Han Sen placed the second drop of blood before the God Spirit Touch, it didn’t behave any differently. It swallowed the droplet, then returned to its previous, motionless state. The four waited around for a long time, hoping something would happen. But there the bug remained, at the bottom of the canister, not moving an inch. If they hadn’t seen it swallow the blood, they would have believed the insect to be dead.
 
 The man frowned. He had no idea what was going on. He picked up the God Spirit Touch again, trying to make sure there was nothing wrong with it.

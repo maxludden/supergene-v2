@@ -1,21 +1,20 @@
 ---
-Title:Lover 
-Chapter:180 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: Lover
+chapter: 180
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Lover
-### Chapter 180
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Lover
+
+### Chapter 180
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Ji Yanran was on the Battlenet playing Hand of God when she saw a reminder saying "My-girlfriend-is-Ji-Yanran" was online.
 
 "You finally showed up!" Ji Yanran would like to invite Han Sen to her virtual room, but thought it would make her look bad.

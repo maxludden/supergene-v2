@@ -1,21 +1,20 @@
 ---
-Title:Underground River 
-Chapter:334 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: Underground River
+chapter: 334
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Underground River
-### Chapter 334
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Underground River
+
+### Chapter 334
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen directly summoned his horn bow and mutant black stinger arrow and made a shot at the sacred-blood copper demon.
 
 Jin Rijie was about to fight the sacred-blood creature with all he got, but suddenly saw a black arrow flying toward the creature's eyes.

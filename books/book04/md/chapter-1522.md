@@ -1,21 +1,20 @@
 ---
-Title:Jade Little Lion King 
-Chapter:1522 
-Section:4 
-Book:4 
-CSS:../Styles/style.css 
+title: Jade Little Lion King
+chapter: 1522
+section: 4
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Jade Little Lion King
-### Chapter 1522
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Jade Little Lion King
+
+### Chapter 1522
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Ji Qing was the most talented young person in the Ji family. When she was in the First God’s Sanctuary, she managed to kill a super creature. She had gone on to max out her super geno points, and she possessed a Swordsoul super body.
 
 The Ji family spent a lot on making her this strong. She had worked hard and she had already become a surpasser. She had almost maxed out her super geno points there, as well. She was going to become a demigod in the very near future.

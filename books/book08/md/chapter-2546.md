@@ -1,21 +1,20 @@
 ---
-Title:Demon Doll 
-Chapter:2546 
-Section:12 
-Book:8 
-CSS:../Styles/style.css 
+title: Demon Doll
+chapter: 2546
+section: 12
+book: 8
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Demon Doll
-### Chapter 2546
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Demon Doll
+
+### Chapter 2546
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Elysian Moon and Gu Qingcheng frowned. They were sensitive enough that they noticed the glance that the man directed toward them.
 
 Although Han Sen saw it, he said nothing. Considering the beauty of the two women, it would be weird if men didn’t have any reaction towards them.

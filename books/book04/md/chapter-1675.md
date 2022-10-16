@@ -1,21 +1,20 @@
 ---
-Title:Super Umbrella 
-Chapter:1675 
-Section:4 
-Book:4 
-CSS:../Styles/style.css 
+title: Super Umbrella
+chapter: 1675
+section: 4
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Super Umbrella
-### Chapter 1675
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Super Umbrella
+
+### Chapter 1675
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 1675 Super Umbrella
 
 The umbrella began to break because of the power, and Han Sen’s Dongxuan power broke, too. In reality, it didn’t simply break; it shattered completely. It collapsed into a substance like a cloud of molecules, and then it continued to break down even further.

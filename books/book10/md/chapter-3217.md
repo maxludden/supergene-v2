@@ -1,21 +1,20 @@
 ---
-Title:The Third Sky 
-Chapter:3217 
-Section:16 
-Book:10 
-CSS:../Styles/style.css 
+title: The Third Sky
+chapter: 3217
+section: 16
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## The Third Sky
-### Chapter 3217
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## The Third Sky
+
+### Chapter 3217
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The third sky was quite different from the other two skies. If Han Sen did not know that it was just one of 33 different skies, he would have believed it was a perfectly normal human world.
 
 The third sky had cities, which had all the amenities a city typically possessed. There were streets for vehicles, as well as docks of all shapes and sizes. Most importantly, there were people. There were vast droves of people there. They all exhibited a range of emotions. Many of them were sad, and many of them were happy. Many were at different points of the spectrum in between. It did not matter how one viewed it, but this was indeed a city. By all accounts, it was a bona fide human city.

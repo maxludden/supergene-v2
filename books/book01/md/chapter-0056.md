@@ -1,21 +1,20 @@
 ---
-Title:I’ll Be Damned 
-Chapter:56 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: I’ll Be Damned
+chapter: 56
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## I’ll Be Damned
-### Chapter 56
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## I’ll Be Damned
+
+### Chapter 56
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Fang Jingqi regretted his own carelessness as his face turned red. He also blamed his loss on Han Sen’s slyness. If Han Sen didn’t tell Xue Xi the vulgar story, he would not have been distracted and gave Han Sen the opportunity.
 
 "Another ten thousand," said Han Sen to Xue Xi.

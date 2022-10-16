@@ -1,21 +1,20 @@
 ---
-Title:Electric Egg 
-Chapter:558 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Electric Egg
+chapter: 558
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Electric Egg
-### Chapter 558
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Electric Egg
+
+### Chapter 558
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The ice cave wasn't too deep. After walking a few miles, he had reached the end. Once he got there, the narrow cave opened into a wide cavern. Han Sen hadn't faced any danger or come across a single creature on his way there.
 
 In the icy hall, Han Sen noticed the presence of an egg that was about half the height of a fully-grown human. Its silver hue made it look metallic, and its glossy exterior was adorned with a variety of finely engraved patterns.

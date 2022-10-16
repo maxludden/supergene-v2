@@ -1,21 +1,20 @@
 ---
-Title:Chess Pieces 
-Chapter:2475 
-Section:12 
-Book:8 
-CSS:../Styles/style.css 
+title: Chess Pieces
+chapter: 2475
+section: 12
+book: 8
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Chess Pieces
-### Chapter 2475
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Chess Pieces
+
+### Chapter 2475
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Lando had placed the mark on Han Sen to keep him on a leash, but now he had simply torn the mark off. That told Han Sen how serious of a situation they were in. Lando wasn’t bluffing.
 
 Han Sen had only been hovering there for a short time when the horde of unicorns found him again. They rushed toward him in a crazed mass.

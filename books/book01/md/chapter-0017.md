@@ -1,21 +1,20 @@
 ---
-Title:Unexpected Encounter 
-Chapter:17 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: Unexpected Encounter
+chapter: 17
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Unexpected Encounter
-### Chapter 17
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Unexpected Encounter
+
+### Chapter 17
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Fortunately, Han Sen's feet were also wrapped in armor, and the scorpion tail couldn’t hurt him at all.
 
 Han Sen stepped on the quartz scorpion and crushed it.

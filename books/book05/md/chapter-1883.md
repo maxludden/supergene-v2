@@ -1,21 +1,20 @@
 ---
-Title:Blood Path 
-Chapter:1883 
-Section:7 
-Book:5 
-CSS:../Styles/style.css 
+title: Blood Path
+chapter: 1883
+section: 7
+book: 5
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Blood Path
-### Chapter 1883
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Blood Path
+
+### Chapter 1883
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “We have to give it a shot, no matter what. We cannot willingly let ourselves die here!” Wang Yuhang said, then jumped into the godlight area.
 
 When his legs and his head touched the godlight, it was like he had struck a plank of raw steel. He bounced off with a pang, and it was fortunate he was wearing Han Sen’s Marquise armor. Had he not, that would have hurt.

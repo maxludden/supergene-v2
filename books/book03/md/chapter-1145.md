@@ -1,21 +1,20 @@
 ---
-Title:Battling Yaksha Again 
-Chapter:1145 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Battling Yaksha Again
+chapter: 1145
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Battling Yaksha Again
-### Chapter 1145
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Battling Yaksha Again
+
+### Chapter 1145
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “Little b*stard! How dare you show your face to me.” Yaksha looked incredibly angry, seeing Han Sen approach in an attempt to stop him.
 
 Han Sen summoned Disloyal Knight. The gold raven was still evolving, so he knew he couldn’t personally put up much of a fight without it. The last time he fought Yaksha, he had only just woken up. Now, he could be much stronger.

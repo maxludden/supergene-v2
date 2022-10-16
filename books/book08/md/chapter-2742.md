@@ -1,21 +1,20 @@
 ---
-Title:Trying the Poison 
-Chapter:2742 
-Section:13 
-Book:8 
-CSS:../Styles/style.css 
+title: Trying the Poison
+chapter: 2742
+section: 13
+book: 8
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Trying the Poison
-### Chapter 2742
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Trying the Poison
+
+### Chapter 2742
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “There is nothing we can do to stop the eye mind. If we want to intervene, our only choice is to break the silkworm’s stupid contract with Li Keer and Exquisite. Their bodies might be injured when we sever the link by force, but at least their minds won’t be destroyed by that horrible mind.”
 
 “It looks like there is only one solution.”

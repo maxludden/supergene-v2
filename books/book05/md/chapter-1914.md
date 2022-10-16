@@ -1,21 +1,20 @@
 ---
-Title:Give Me Back My Stuff 
-Chapter:1914 
-Section:7 
-Book:5 
-CSS:../Styles/style.css 
+title: Give Me Back My Stuff
+chapter: 1914
+section: 7
+book: 5
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Give Me Back My Stuff
-### Chapter 1914
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Give Me Back My Stuff
+
+### Chapter 1914
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “What is wrong with you? Where are you taking us?” One of the Viscounts looked at Wang Yuhang very angrily.
 
 They’d been waylaid by many xenogeneics on the road, and they had yet to see any hint of the red mist spring. The many injuries they had suffered were taking a toll.

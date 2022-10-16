@@ -1,21 +1,20 @@
 ---
-Title:Wood Spirit Rhino 
-Chapter:2636 
-Section:12 
-Book:8 
-CSS:../Styles/style.css 
+title: Wood Spirit Rhino
+chapter: 2636
+section: 12
+book: 8
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Wood Spirit Rhino
-### Chapter 2636
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Wood Spirit Rhino
+
+### Chapter 2636
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen was very conflicted. He wanted the Constellation Sea. If there was ever a safe place for him to develop humanity, it would be there. With enough resources and cultivation, he could make them a force to be reckoned with in the universe. That way, they would no longer have to live in small pockets scattered across the universe. He could gather them up there and truly grow their numbers.
 
 But before any of that could happen, Han Sen needed his own system. The safest places in the universe were already split up by the more powerful races. Even if Han Sen wanted a slice of good real estate, there was nowhere he could find a piece of that pie. Even the smaller and weaker races had ties with Sky Palace and other big races. It wasn’t a matter of simply taking what he wanted and being done with it. Taking a developed system wasn’t an option, and a wild system would be too dangerous. Such places weren’t suitable for low-level creatures and people to live in.

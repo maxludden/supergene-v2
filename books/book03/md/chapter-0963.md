@@ -1,21 +1,20 @@
 ---
-Title:Relic 
-Chapter:963 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Relic
+chapter: 963
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Relic
-### Chapter 963
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Relic
+
+### Chapter 963
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 "D*mn The King! I'm going to kill him!" The next day, Thunder-Devil King's rage reached new heights. It was likely the entirety of Thorn Forest could hear his furious screams.
 
 By now, Han Sen had already safely returned to the underground shelter. He grew the mushroom and his orchid in secret, behind his garden.

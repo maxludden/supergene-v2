@@ -1,21 +1,20 @@
 ---
-Title:Geno Hall 
-Chapter:3290 
-Section:16 
-Book:10 
-CSS:../Styles/style.css 
+title: Geno Hall
+chapter: 3290
+section: 16
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Geno Hall
-### Chapter 3290
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Geno Hall
+
+### Chapter 3290
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Feng Fei Fei and Feng Yin Yin were with Bao’er. They did not tell Bao’er about Han Sen being missing. They were worried about Bao’er getting upset.
 
 Seeing Bao’er merrily eat, drink, and watch her favorite comedies, she looked very happy. Feng Fei Fei sighed and thought, “If something happened to Han Sen, I really don’t know how I will explain it to Bao’er.”

@@ -1,21 +1,20 @@
 ---
-Title:God Fight Begins 
-Chapter:3165 
-Section:16 
-Book:10 
-CSS:../Styles/style.css 
+title: God Fight Begins
+chapter: 3165
+section: 16
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## God Fight Begins
-### Chapter 3165
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## God Fight Begins
+
+### Chapter 3165
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen forced himself to break the rules of the world. In the short amount of time he had, he summoned Spell.
 
 Spell hadn’t really changed much. Her white armor, long white hair, and white eyes all looked beautiful. She looked like a Venus statue.

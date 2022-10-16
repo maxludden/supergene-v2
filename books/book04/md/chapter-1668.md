@@ -1,21 +1,20 @@
 ---
-Title:Armored Man’s Secret 
-Chapter:1668 
-Section:4 
-Book:4 
-CSS:../Styles/style.css 
+title: Armored Man’s Secret
+chapter: 1668
+section: 4
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Armored Man’s Secret
-### Chapter 1668
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Armored Man’s Secret
+
+### Chapter 1668
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “What is wrong with that guy? Has he been locked up for so long that he wants to die?” Han Sen wondered.
 
 But seeing Armored Man’s face, he didn’t look quite crazy.

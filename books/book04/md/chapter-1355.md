@@ -1,21 +1,20 @@
 ---
-Title:Bronze Shelter 
-Chapter:1355 
-Section:4 
-Book:4 
-CSS:../Styles/style.css 
+title: Bronze Shelter
+chapter: 1355
+section: 4
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Bronze Shelter
-### Chapter 1355
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Bronze Shelter
+
+### Chapter 1355
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 When Han Sen’s eyes caught the image of Cheap Sheep, his face turned dark. And being called “boss” was irritating. If he heard the sheep say “bub” again, he’d lose his mind.
 
 The sheep was a traitor, coward, and a bringer of trouble. Just seeing it trot over, Han Sen wanted to kick it away.
@@ -32,7 +31,7 @@ Han Sen and Chef looked at each other and nodded; they were both in agreement of
 
 Cheap Sheep led them with the happiest spring in his step, and he said, “Bosses, when you claim the shelter, you can give me as many geno cores as you please!”
 
-“Shut up! I’m not your f*cking boss.” Han Sen was getting worked up, being repeatedly referred to as boss.
+“Shut up! I’m not your fucking boss.” Han Sen was getting worked up, being repeatedly referred to as boss.
 
 The volatile reaction was unexpected, though, and it made the sheep jump in fright. After that, it kept its mouth shut. Cheap Sheep only opened it to graze occasionally as they traveled.
 

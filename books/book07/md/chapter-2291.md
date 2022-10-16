@@ -1,21 +1,20 @@
 ---
-Title:Small Surprise 
-Chapter:2291 
-Section:10 
-Book:7 
-CSS:../Styles/style.css 
+title: Small Surprise
+chapter: 2291
+section: 10
+book: 7
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Small Surprise
-### Chapter 2291
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Small Surprise
+
+### Chapter 2291
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “I don’t think I really understand. Please explain it to me again,” Han Sen said, trying to keep his shock from showing on his face.
 
 Truthfully, Han Sen understood the geno art perfectly. The geno art was quite familiar to him, and that familiarity shook him to his core. The geno art had an obvious connection to the Dongxuan Sutra. Both arts could benefit each other quite well, and using Mister White’s technique could aid in the development of the Dongxuan Sutra.
@@ -98,4 +97,4 @@ The prisoner came within ten meters of them, chains rasping across the ground wi
 
 He stopped for a moment, but then, the prisoner started to move again. His slow steps took him toward Han Sen.
 
-“What the f*ck!” Han Sen thought frantically. There were four of them, but the prisoner had decided to go for Han Sen. It was getting closer, and after another minute, it stood right behind him.
+“What the fuck!” Han Sen thought frantically. There were four of them, but the prisoner had decided to go for Han Sen. It was getting closer, and after another minute, it stood right behind him.

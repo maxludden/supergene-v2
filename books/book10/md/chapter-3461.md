@@ -1,21 +1,20 @@
 ---
-Title:By Dollar's Name (the End) 
-Chapter:3461 
-Section:17 
-Book:10 
-CSS:../Styles/style.css 
+title: By Dollar's Name (the End)
+chapter: 3461
+section: 17
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## By Dollar's Name (the End)
-### Chapter 3461
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## By Dollar's Name (the End)
+
+### Chapter 3461
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 A coin soared through space. It dinged when hit the geno tablet. It was like it had been drawn to the big block like a magnet. It stuck to the surface of the geno tablet.
 
 The geno tablet had been like a full-on generator seconds before. Now, it was as if it had stopped. The reversal of the universe suddenly came to an end.

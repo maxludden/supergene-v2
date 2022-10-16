@@ -1,21 +1,20 @@
 ---
-Title:Killing Sky King 
-Chapter:1189 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Killing Sky King
+chapter: 1189
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Killing Sky King
-### Chapter 1189
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Killing Sky King
+
+### Chapter 1189
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Katcha!
 
 Han Sen felt as if his body had been freed from the clutches of chains he never knew existed. The holy light enveloped Han Sen’s entire body, wings, and greatsword. He felt as if he was submerged beneath water, floating free.

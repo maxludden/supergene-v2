@@ -1,21 +1,20 @@
 ---
-Title:Super Creature Gathering 
-Chapter:806 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Super Creature Gathering
+chapter: 806
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Super Creature Gathering
-### Chapter 806
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Super Creature Gathering
+
+### Chapter 806
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 One of the creatures was clad in steel armor, and it wielded a greatsword shrouded in green light. It was the armored phantom that Moment Queen once had authority over. Now, it was doing battle with a black skeleton. It wielded a weapon that looked like a bone itself, or some sort of horn. It wasn't easy to discern what it was at first glance, but it viciously fought against the armored phantom. When the strange weapon in the skeleton's hand collided with the phantom's greatsword, it wasn't damaged. Evidently, it was far tougher than Han Sen's Flaming Rex Spike.
 
 The armored phantom saw Han Sen from afar and ran off, abandoning its fight against the skeleton. It didn't stop, and it just ran and ran until it was out of sight.

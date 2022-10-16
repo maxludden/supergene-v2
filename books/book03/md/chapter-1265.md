@@ -1,21 +1,20 @@
 ---
-Title:Blueblood Team 
-Chapter:1265 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Blueblood Team
+chapter: 1265
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Blueblood Team
-### Chapter 1265
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Blueblood Team
+
+### Chapter 1265
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen was surprised. Emperors in the Third God’s Sanctuary were of a tier far above the rest that occupied the realm, and they knew it. Yet strangely, this empress had come to ask the man—a human—for assistance politely.
 
 “Is he really a human?” Han Sen thought it was a bit far-fetched, for an emperor-class spirit to behave in such a way before a human.

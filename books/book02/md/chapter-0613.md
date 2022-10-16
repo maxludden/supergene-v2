@@ -1,21 +1,20 @@
 ---
-Title:Opportunity 
-Chapter:613 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Opportunity
+chapter: 613
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Opportunity
-### Chapter 613
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Opportunity
+
+### Chapter 613
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen recognized the sound as belonging to the peacock they encountered earlier, which had received a nasty sting on its face. It flew far away after that, and they didn't think they'd run into it again so soon.
 
 "Its screams are ones of pain and suffering. Is it because of the poison?" Queen asked, looking in the direction the squeals were coming from.

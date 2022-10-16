@@ -1,21 +1,20 @@
 ---
-Title:New Jadeskin 
-Chapter:1094 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: New Jadeskin
+chapter: 1094
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## New Jadeskin
-### Chapter 1094
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## New Jadeskin
+
+### Chapter 1094
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen felt a great relief wash over him, having figured out the problem of the Xue family. It also meant that the Frost Sutra was safe, and there was no problem if he was to learn it.
 
 The Frost Sutra was not as good as Dongxuan Sutra, of course, but it could still open ten gene locks.

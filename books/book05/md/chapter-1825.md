@@ -1,22 +1,19 @@
 ---
-Title:Entering the Grave 
-Chapter:1825 
-Section:7 
-Book:5 
-CSS:../Styles/style.css 
+title: Entering the Grave
+chapter: 1825
+section: 7
+book: 5
+CSS: style.css
 viewport: width=device-width
 ---
-  
+
 ## Entering the Grave
+
 ### Chapter 1825
-  
+
 <figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
 </figure>
-  
-
-  
-
 
 “Little Black, are you a Rebate? And your father is a King? How can you not have Teeth Knife?” There was still a while to go before the next knife rain came, so Han Sen tried to talk to Black Steel.
 

@@ -1,21 +1,20 @@
 ---
-Title:Military Mogul 
-Chapter:480 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Military Mogul
+chapter: 480
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Military Mogul
-### Chapter 480
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Military Mogul
+
+### Chapter 480
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Although its name was thunder knife, it was not a knife skill, but a hyper geno art that could change the body cells on one's hands, especially the edge of one's hands, making it as sharp as a blade, crushing everything in its way.
 
 Of course, in the virtual camp, this feature could not be embodied fully. However, thunder knife could also enhance one's speed greatly, which was rather useful.

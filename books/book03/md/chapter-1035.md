@@ -1,21 +1,20 @@
 ---
-Title:The Pilgrimage of a Thousand Birds 
-Chapter:1035 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: The Pilgrimage of a Thousand Birds
+chapter: 1035
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## The Pilgrimage of a Thousand Birds
-### Chapter 1035
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## The Pilgrimage of a Thousand Birds
+
+### Chapter 1035
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The platform lowered. It descended slowly, until it came to a stop before a stone door.
 
 “Is this the entrance to Phoenix Shelter?” Han Sen was delighted, thinking he might have found it.

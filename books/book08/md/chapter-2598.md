@@ -1,21 +1,20 @@
 ---
-Title:Extreme Evil Path 
-Chapter:2598 
-Section:12 
-Book:8 
-CSS:../Styles/style.css 
+title: Extreme Evil Path
+chapter: 2598
+section: 12
+book: 8
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Extreme Evil Path
-### Chapter 2598
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Extreme Evil Path
+
+### Chapter 2598
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Yu Shanxin’s expression didn’t fluctuate in the slightest after hearing Han Sen’s speech. He asked calmly, “Have you heard the tale of the Sky alpha known as Suppress Demon?”
 
 “No.” Han Sen wasn’t in the mood for a story, but if someone like Yu Shanxin wanted to talk, then Han Sen would listen.

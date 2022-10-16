@@ -1,21 +1,20 @@
 ---
-Title:Infinite Killer 
-Chapter:2843 
-Section:14 
-Book:9 
-CSS:../Styles/style.css 
+title: Infinite Killer
+chapter: 2843
+section: 14
+book: 9
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Infinite Killer
-### Chapter 2843
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Infinite Killer
+
+### Chapter 2843
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The Dolek was cut in half but did not fall. Both sides of its body started to writhe until they were two smaller-sized Doleks.
 
 "Ha! Ha! A Dolek cannot be killed so easily. Cutting their body means duplicating their numbers."

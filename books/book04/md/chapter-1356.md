@@ -1,21 +1,20 @@
 ---
-Title:Start Cleaning 
-Chapter:1356 
-Section:4 
-Book:4 
-CSS:../Styles/style.css 
+title: Start Cleaning
+chapter: 1356
+section: 4
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Start Cleaning
-### Chapter 1356
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Start Cleaning
+
+### Chapter 1356
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Cheap Sheep fled to cower behind Dragon Lady, as she and Han Sen dubiously looked at the table.
 
 There was a man standing near the master seat, dressed in a black suit and tie.

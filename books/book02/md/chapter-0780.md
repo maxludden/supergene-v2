@@ -1,21 +1,20 @@
 ---
-Title:Bug Fight 
-Chapter:780 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Bug Fight
+chapter: 780
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Bug Fight
-### Chapter 780
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Bug Fight
+
+### Chapter 780
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen watched the flower open from afar. Slowly, the petals unfurled; it was a beautiful thing to watch.
 
 Not long after, the sky went dark and the moon arose. Under the gleaming moonlight, the flower fully opened.

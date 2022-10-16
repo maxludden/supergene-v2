@@ -1,21 +1,20 @@
 ---
-Title:Going Through the 33 Skies 
-Chapter:3296 
-Section:16 
-Book:10 
-CSS:../Styles/style.css 
+title: Going Through the 33 Skies
+chapter: 3296
+section: 16
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Going Through the 33 Skies
-### Chapter 3296
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Going Through the 33 Skies
+
+### Chapter 3296
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen was shocked. He looked at his hand. It had a purple light shining on it. A small, purple flower revealed itself.
 
 “It is the Otherside Flower.” Han Sen looked at the little purple flower. It had 13 petals. There were no more and no less. This was the small, purple flower Han Sen had seen before.

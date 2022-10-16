@@ -1,21 +1,20 @@
 ---
-Title:My Purpose Is Number One 
-Chapter:1988 
-Section:8 
-Book:6 
-CSS:../Styles/style.css 
+title: My Purpose Is Number One
+chapter: 1988
+section: 8
+book: 6
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## My Purpose Is Number One
-### Chapter 1988
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## My Purpose Is Number One
+
+### Chapter 1988
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Yun Suyi saw Han Sen stand up, then teleport behind the Blood God Mantis. The purple knifelight slashed, and the Blood God Mantis’ triangle head looked as if it had been chomped on by a demon. The knifelight cut through it, and the body fell from the sky.
 
 The blood reaper instantly shattered and disappeared into thin air.

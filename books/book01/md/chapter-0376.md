@@ -1,21 +1,20 @@
 ---
-Title:Primeval Forest 
-Chapter:376 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: Primeval Forest
+chapter: 376
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Primeval Forest
-### Chapter 376
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Primeval Forest
+
+### Chapter 376
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen signed an agreement with Ning Yue. Starry Group would get Han Yan admitted first, and Han Sen needed to go to the Faith Shelter south to Steel Armor Shelter to join the staff of Starry Group.
 
 Han Sen had been to Faith Shelter once when he returned from Green Shelter, so it was easy for him to travel there. To Han Sen's surprise, Ning Yue asked the staff to take the two sacred-blood beast souls that Han Sen earned from Wang Di to Faith Shelter as well.

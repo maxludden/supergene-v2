@@ -1,21 +1,20 @@
 ---
-Title:The Gourd Matures 
-Chapter:1740 
-Section:6 
-Book:5 
-CSS:../Styles/style.css 
+title: The Gourd Matures
+chapter: 1740
+section: 6
+book: 5
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## The Gourd Matures
-### Chapter 1740
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## The Gourd Matures
+
+### Chapter 1740
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen spent a whole day breaking the shura qi in Luo Haitang. He might have saved Luo Haitang’s life, but the power of Godslayer Luo was dead.
 
 Luo Haitang responded well, though. He could not make use of the Falsified-Sky Sutra without the power of Shura Change, so he gave it to Han Sen and bid that he do whatever he wished with it.

@@ -1,21 +1,20 @@
 ---
-Title:Very Sky Family 
-Chapter:2606 
-Section:12 
-Book:8 
-CSS:../Styles/style.css 
+title: Very Sky Family
+chapter: 2606
+section: 12
+book: 8
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Very Sky Family
-### Chapter 2606
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Very Sky Family
+
+### Chapter 2606
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen had just returned to his little jade island when Thousand Feather Crane and the Yun sisters dropped by.
 
 Han Sen frowned. For his safety, the leader of Sky Palace had issued a decree forbidding students of Sky Palace from approaching the little jade island. If his three friends had been allowed to visit, it meant they must have received approval from a Sky Palace supervisor.

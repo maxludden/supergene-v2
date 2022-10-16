@@ -1,21 +1,20 @@
 ---
-Title:A Room 
-Chapter:1548 
-Section:4 
-Book:4 
-CSS:../Styles/style.css 
+title: A Room
+chapter: 1548
+section: 4
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## A Room
-### Chapter 1548
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## A Room
+
+### Chapter 1548
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen was standing in a room. He looked at it in strange awe, with his mouth hanging wide open.
 
 The area looked like it would very dark as he came into it from the Godlight Tunnel, but when he breached the black veil, it really was like nothing more than a thin curtain obscuring the view.

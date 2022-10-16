@@ -1,21 +1,20 @@
 ---
-Title:Fighting God’s Knife Again 
-Chapter:2826 
-Section:14 
-Book:9 
-CSS:../Styles/style.css 
+title: Fighting God’s Knife Again
+chapter: 2826
+section: 14
+book: 9
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Fighting God’s Knife Again
-### Chapter 2826
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Fighting God’s Knife Again
+
+### Chapter 2826
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 "Who are you? How do you know my name?" Wan'er looked at Han Sen with shock. Han Sen's face looked very different from how it usually did. She was not able to recognize him.
 
 Before Han Sen answered, God's Knife had already released scary blood flames. It escaped from Wan'er's hands and flew toward Han Sen through the air. The blood flames had already generated a blood demon shadow. It was holding God's Knife by its handle. It approached Han Sen slashing and thrashing.

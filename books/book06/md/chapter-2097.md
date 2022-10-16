@@ -1,21 +1,20 @@
 ---
-Title:Blood Demon Spear 
-Chapter:2097 
-Section:8 
-Book:6 
-CSS:../Styles/style.css 
+title: Blood Demon Spear
+chapter: 2097
+section: 8
+book: 6
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Blood Demon Spear
-### Chapter 2097
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Blood Demon Spear
+
+### Chapter 2097
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Sleepless Duke bellowed to the sky in rage.
 
 Many other Night Ghosts screamed, too. They gave up attacking the blue shield, and instead, they used their claws to cut their own bodies. Blood flowed down like rain.

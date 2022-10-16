@@ -1,21 +1,20 @@
 ---
-Title:Narrow Moon 
-Chapter:1822 
-Section:7 
-Book:5 
-CSS:../Styles/style.css 
+title: Narrow Moon
+chapter: 1822
+section: 7
+book: 5
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Narrow Moon
-### Chapter 1822
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Narrow Moon
+
+### Chapter 1822
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen stood in the garden, watching the many planets clustered in the sky. The evening sky was like the image seen inside a kaleidoscope. The xenogeneic space twisted the dimensions strangely, so that Han Sen could even see buildings on the surface of the closest planets.
 
 Many of the planets were of good size. If it wasn’t for the xenogeneic space, the planets would have collided with each other and annihilated everything within range.

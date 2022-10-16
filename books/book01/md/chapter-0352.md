@@ -1,21 +1,20 @@
 ---
-Title:A Sword for Your Life 
-Chapter:352 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: A Sword for Your Life
+chapter: 352
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## A Sword for Your Life
-### Chapter 352
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## A Sword for Your Life
+
+### Chapter 352
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 "Han Sen!" Su Xiaoqiao suddenly became pale. If Mr. Yu were to attack Han Sen, there was no way Han Sen could beat an evolver.
 
 Han Sen sat still on the three-eyed beast. He had already sold the tornado wolf, and Meowth was not the best ride, which was why Han Sen had been riding three-eyed beast on this trip.

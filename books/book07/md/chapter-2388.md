@@ -1,21 +1,20 @@
 ---
-Title:Nine Spin Destiny Mirror 
-Chapter:2388 
-Section:11 
-Book:7 
-CSS:../Styles/style.css 
+title: Nine Spin Destiny Mirror
+chapter: 2388
+section: 11
+book: 7
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Nine Spin Destiny Mirror
-### Chapter 2388
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Nine Spin Destiny Mirror
+
+### Chapter 2388
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen wasn’t interested in selling his ticket of admission to Destiny’s Tower, which greatly disappointed Bai Ling Shuang. Luckily, she didn’t push the subject any further.
 
 Two days later, someone from the palace arrived to give Han Sen his exam rewards. The reward was a little different than Bai Ling Shuang had predicted, though.

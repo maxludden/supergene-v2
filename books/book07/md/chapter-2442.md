@@ -1,21 +1,20 @@
 ---
-Title:I Am an Offering 
-Chapter:2442 
-Section:11 
-Book:7 
-CSS:../Styles/style.css 
+title: I Am an Offering
+chapter: 2442
+section: 11
+book: 7
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## I Am an Offering
-### Chapter 2442
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## I Am an Offering
+
+### Chapter 2442
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen pulled the broken sword out of Red Cloud’s hand and swung it across the face of the statue. A deep furrow was gouged into the statue’s face, and blood started to leak from it. The statue didn’t move, however. The statue wasn’t as hard as Han Sen had expected, though. After a few more of those strikes, the stone statue’s head fell off.
 
 The severed neck of the statue gushed blood, but it was just a statue. Where the blood came from, Han Sen had no idea.

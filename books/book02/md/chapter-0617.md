@@ -1,20 +1,19 @@
 ---
-Title:Deadeye Peacock Beast Soul
-Chapter:617
-Section:2
-Book:2
-CSS:../Styles/style.css
+title: Deadeye Peacock Beast Soul
+chapter: 617
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
 
 ## Deadeye Peacock Beast Soul
+
 ### Chapter 617
 
 <figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
 </figure>
-
-
 
 The Dongxuan Sutra absorbed the essence of the lotus roots into the body's cells. It generated new cells faster, pushing the old and damaged ones away at a hastened rate. All the while, the proficiency of the Dongxuan Sutra improved.
 
@@ -99,11 +98,10 @@ When he returned from his daydream, it was to the realization that he had obtain
 <div class="tables">
 	<table class="beast">
 		<tr>
-			<th>Beast Soul</th>
+			<th colspan="2">Beast Soul Gained</th>
 		</tr><tr>
-			<td>Super Deadeye Peacock<br>
-				<span class="type">(Crossbow)</span>
-			</td>
+			<td>Super Deadeye Peacock</td>
+			<td>(Crossbow)</td>
 		</tr>
 	</table>
 	<!-- Super Creature Beast Soul: Deadeye Peacock Bow Type -->

@@ -1,21 +1,20 @@
 ---
-Title:Son of the Moon 
-Chapter:1866 
-Section:7 
-Book:5 
-CSS:../Styles/style.css 
+title: Son of the Moon
+chapter: 1866
+section: 7
+book: 5
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Son of the Moon
-### Chapter 1866
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Son of the Moon
+
+### Chapter 1866
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “Bullshit! Why did he join the fight? An Earl fighting a Baron? What is this?” An old man that was of a higher rank saw the beautiful man step into the fight. This displeased him a lot.
 
 When most average people saw this, however, they did not mind. In fact, they were quite excited to see the beautiful man fight.

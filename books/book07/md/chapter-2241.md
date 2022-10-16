@@ -1,21 +1,20 @@
 ---
-Title:Leveling Up to Duke 
-Chapter:2241 
-Section:10 
-Book:7 
-CSS:../Styles/style.css 
+title: Leveling Up to Duke
+chapter: 2241
+section: 10
+book: 7
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Leveling Up to Duke
-### Chapter 2241
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Leveling Up to Duke
+
+### Chapter 2241
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Ice Blue Knight King reached his hand out and pulled Han Sen’s frozen form through the sky toward him.
 
 Seeing that Han Sen was about to get sucked into Ice Blue Knight King’s hands, the previously-frozen Bao’er suddenly moved. She pounded the Blood Scorpion Jade Drum repeatedly.

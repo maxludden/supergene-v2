@@ -1,21 +1,20 @@
 ---
-Title:Killing Break World Beasts 
-Chapter:3325 
-Section:17 
-Book:10 
-CSS:../Styles/style.css 
+title: Killing Break World Beasts
+chapter: 3325
+section: 17
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Killing Break World Beasts
-### Chapter 3325
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Killing Break World Beasts
+
+### Chapter 3325
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “Qin Xiu, that asshole! How many life souls did he create?” Han Sen looked around. He started to think every single island there would have had some scary existences lurking in wait.
 
 Han Sen’s heart jumped. His body appeared on an island. It was one island in Sky Palace, but Han Sen did not remember the name of the island. It was an ordinary, floating island in Sky Palace. The name was not particularly remarkable.

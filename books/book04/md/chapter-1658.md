@@ -1,21 +1,20 @@
 ---
-Title:An Item With No Master 
-Chapter:1658 
-Section:4 
-Book:4 
-CSS:../Styles/style.css 
+title: An Item With No Master
+chapter: 1658
+section: 4
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## An Item With No Master
-### Chapter 1658
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## An Item With No Master
+
+### Chapter 1658
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 All the elites outside the valley were now dead. Death Goddess, who had been wholly stained with blood, now raced into the valley. She joined in, helping Han Sen endlessly slay the elites with her arrows.
 
 The elders hadn’t expected a situation like this, and they all sounded furious over what was happening.
@@ -30,7 +29,7 @@ That seemed very strange to Han Sen. No geno core had endless power. Not even em
 
 Han Sen wanted to keep on killing and see if he could exhaust the mirror’s power, anyway. But no matter how long he fought, it did not seem to work. The mirror really did seem to have an endless supply of power.
 
-Illusion Elder said, “No matter how strong you and that b*tch are, it’s useless. We are immortal. You will spend all your power eventually. When the time comes, we will eat you alive.”
+Illusion Elder said, “No matter how strong you and that bitch are, it’s useless. We are immortal. You will spend all your power eventually. When the time comes, we will eat you alive.”
 
 Many super elites roared and surged out of the mirror. They all looked so angry, wanting to consume Han Sen and Death Goddess. They had the power of the mirror, so they weren’t afraid of dying. It sure gave Han Sen a headache.
 

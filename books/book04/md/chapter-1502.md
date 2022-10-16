@@ -1,21 +1,20 @@
 ---
-Title:Ten Years 
-Chapter:1502 
-Section:4 
-Book:4 
-CSS:../Styles/style.css 
+title: Ten Years
+chapter: 1502
+section: 4
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Ten Years
-### Chapter 1502
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Ten Years
+
+### Chapter 1502
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 After Han Sen’s discussion with Sieg, he noticed something was wrong when he next tried to use his communicator to connect to Skynet. It came as an extreme shock.
 
 While they only a single day had passed inside the Main Control Room, outside in the Alliance, ten years had gone by.

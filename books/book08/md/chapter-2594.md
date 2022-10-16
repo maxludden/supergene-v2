@@ -1,21 +1,20 @@
 ---
-Title:One Eye Empty 
-Chapter:2594 
-Section:12 
-Book:8 
-CSS:../Styles/style.css 
+title: One Eye Empty
+chapter: 2594
+section: 12
+book: 8
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## One Eye Empty
-### Chapter 2594
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## One Eye Empty
+
+### Chapter 2594
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “Impossible.” Meng Lie’s face changed as he saw the eyes of the woman atop Han Sen’s shield begin to glow. His face grew pale.
 
 When the Ghana entered the geno hall long ago, they hadn’t needed to fight in order to light a lantern. At that point in history, there were many geno lanterns that remained unlit. But that didn’t mean that the Ghana weren’t strong. Later, the Ghana alpha used Purgatory Heaven and the Shield of the Medusa’s Gaze, both of which were deified weapons, to control the world. Very few could fight them.

@@ -1,21 +1,20 @@
 ---
-Title:Qigong Master? 
-Chapter:384 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: Qigong Master?
+chapter: 384
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Qigong Master?
-### Chapter 384
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Qigong Master?
+
+### Chapter 384
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen did not believe that Ning Yue never looked into his background. Either Han Sen's great grandfather was a friend to the Nings, or the death of Han Sen's father had something to do with Starry Group, Ning Yue's behaviors were strange.
 
 "What is the name of the friend? Maybe he is in my family," Han Sen probed with a smile.

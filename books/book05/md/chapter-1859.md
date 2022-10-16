@@ -1,35 +1,33 @@
 ---
-Title:Moon God Festival
-Chapter:1859
-Section:7
-Book:5
-CSS:../Styles/style.css
+title: Moon God Festival
+chapter: 1859
+section: 7
+book: 5
+CSS: style.css
 viewport: width=device-width
 ---
 
 ## Moon God Festival
+
 ### Chapter 1859
 
 <figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
 </figure>
-
-
 
 Han Sen held an orb that was around the same size as a man’s fist. It shone like a miniature sun. If you looked at it closely, you could see there was something gold swimming inside it.
 
 <div class="tables">
 	<table class="beast">
 		<tr>
-			<th>Beast Soul</th>
+			<th colspan="2">Beast Soul Gained</th>
 		</tr><tr>
-			<td>Deified Sun Raven<br>
-				<span class="type">(Gem)</span>
-			</td>
+			<td>Deified Sun Raven</td>
+			<td>(Gem)</td>
 		</tr>
 	</table>
 	<!-- Deified Beast Soul: Sun Raven (Gem Type) -->
-</div>
+</div> 
 
 As he fiddled with the orb, he considered it.
 

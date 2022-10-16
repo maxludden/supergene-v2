@@ -1,21 +1,20 @@
 ---
-Title:Accidentally Meeting Again 
-Chapter:1259 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Accidentally Meeting Again
+chapter: 1259
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Accidentally Meeting Again
-### Chapter 1259
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Accidentally Meeting Again
+
+### Chapter 1259
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen explained how he managed to obtain the jue and what he had experienced with the altar.
 
 Dragon King’s expression warped, and he said, “If I am correct, then this jue is not a Demi-God Geno Core. It is still an item from the Fourth God’s Sanctuary, however.”

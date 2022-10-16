@@ -1,21 +1,20 @@
 ---
-Title:Evil Sword 
-Chapter:2368 
-Section:11 
-Book:7 
-CSS:../Styles/style.css 
+title: Evil Sword
+chapter: 2368
+section: 11
+book: 7
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Evil Sword
-### Chapter 2368
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Evil Sword
+
+### Chapter 2368
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen coughed awkwardly to fill the silence.
 
 “Have you tried using your little sword to fix the situation?” Han Sen suddenly realized he was talking about Ning Yue’s “little sword,” and he quickly shook his head to get rid of the thought.

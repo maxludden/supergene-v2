@@ -1,21 +1,20 @@
 ---
-Title:Underground Shelter 
-Chapter:911 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Underground Shelter
+chapter: 911
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Underground Shelter
-### Chapter 911
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Underground Shelter
+
+### Chapter 911
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 "What is hidden inside the tree, I wonder? Does it have something to do with that dead fellow? Did he die here, hoping people would find the door?" Han Sen thought to himself, as he observed the tree door.
 
 Han Sen's curiosity had been stoked like a fire ever since he saw that photograph. Although he was initially hesitant, he wanted to find out more, and so he decided to open it.

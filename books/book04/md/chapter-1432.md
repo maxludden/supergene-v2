@@ -1,21 +1,20 @@
 ---
-Title:Strong Physical Power 
-Chapter:1432 
-Section:4 
-Book:4 
-CSS:../Styles/style.css 
+title: Strong Physical Power
+chapter: 1432
+section: 4
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Strong Physical Power
-### Chapter 1432
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Strong Physical Power
+
+### Chapter 1432
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “Let me fight it.” Han Sen walked in front of the green bug, with his speech directed at Spirit Thirteen.
 
 “It’s all the same.” Spirit Thirteen motioned with his hand for the green bug to take a swing at Han Sen.

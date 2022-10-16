@@ -1,21 +1,20 @@
 ---
-Title:Tear It Up 
-Chapter:2950 
-Section:15 
-Book:9 
-CSS:../Styles/style.css 
+title: Tear It Up
+chapter: 2950
+section: 15
+book: 9
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Tear It Up
-### Chapter 2950
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Tear It Up
+
+### Chapter 2950
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “So, are you guys revolting?” Nine Thousand King’s expression changed.
 
 The demon lady, Auntie Mei, laughed at Han Sen. “You are Little Master’s father. You are a guest here. You are a guest in Sacred, but the holy spirit is very important. It is an item for your son. I am sure you would not want to steal what belongs to your son, would you? I hope you are willing to return the holy spirit.”
@@ -94,4 +93,4 @@ They were shocked to see it. Red Ghost screamed, “Race lantern… It really is
 
 Han Sen heard what Old Vulture said. He felt strange about why Sacred’s race lantern was not inside the geno hall but was instead inside the universe. Han Sen was not able to care too much about that fact just yet. He jumped up and raced into the darkness in the direction of the palace.
 
-“I do not care about some f*cking Sacred Leader or some race lantern. Whatever hurts my son is going to be broken.” Han Sen was very angry. He cast Blood-Pulse Sutra and Jadeskin to the max. It made his body become ice jade. His skin was half-transparent, and it was glowing.
+“I do not care about some fucking Sacred Leader or some race lantern. Whatever hurts my son is going to be broken.” Han Sen was very angry. He cast Blood-Pulse Sutra and Jadeskin to the max. It made his body become ice jade. His skin was half-transparent, and it was glowing.

@@ -1,21 +1,20 @@
 ---
-Title:Attacking a Spirit 
-Chapter:1396 
-Section:4 
-Book:4 
-CSS:../Styles/style.css 
+title: Attacking a Spirit
+chapter: 1396
+section: 4
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Attacking a Spirit
-### Chapter 1396
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Attacking a Spirit
+
+### Chapter 1396
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The tornado up-top was soon accompanied by many more, as the searing wind laid waste to the mountain. But then, as Han Sen raced for the sanctuary of the cave, two of the tornados came after him. The spirit had seen him.
 
 Han Sen frowned, unable to escape the blistering speed of the vortexes. As soon as they came for him, they pulled him into the slipstream.

@@ -1,21 +1,20 @@
 ---
-Title:Magnet Fruit 
-Chapter:1755 
-Section:6 
-Book:5 
-CSS:../Styles/style.css 
+title: Magnet Fruit
+chapter: 1755
+section: 6
+book: 5
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Magnet Fruit
-### Chapter 1755
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Magnet Fruit
+
+### Chapter 1755
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “The wolf-head man went down. Xina is out and about somewhere, but I’m not sure where she went,” Mister Tiger said.
 
 Han Sen went quiet for a moment “In that case, I’ll head on down, too.”

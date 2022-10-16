@@ -1,21 +1,20 @@
 ---
-Title:Learning Dongxuan Sutra 
-Chapter:539 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Learning Dongxuan Sutra
+chapter: 539
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Learning Dongxuan Sutra
-### Chapter 539
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Learning Dongxuan Sutra
+
+### Chapter 539
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen carefully inspected Xue Yi Yang, not knowing whether he had learned. If you were to search people with smooth skin, you'd find that many people's skin was like ice.
 
 It seemed as if the people who learned Qi Gong all had skin that appeared particularly smooth. That made Han Sen feel more secure.

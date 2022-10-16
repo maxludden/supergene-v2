@@ -1,21 +1,20 @@
 ---
-Title:Kirin Statue 
-Chapter:2815 
-Section:14 
-Book:9 
-CSS:../Styles/style.css 
+title: Kirin Statue
+chapter: 2815
+section: 14
+book: 9
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Kirin Statue
-### Chapter 2815
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Kirin Statue
+
+### Chapter 2815
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Londo's cow feet were still being corroded. It seemed as if his cow feet were going to melt off.
 
 Evil Lotus moved his hand. A knife light flashed by. He cut off Londo's cow feet. Everyone watched the cow feet melt into liquid.

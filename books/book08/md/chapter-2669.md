@@ -1,21 +1,20 @@
 ---
-Title:Answer of the Origin 
-Chapter:2669 
-Section:13 
-Book:8 
-CSS:../Styles/style.css 
+title: Answer of the Origin
+chapter: 2669
+section: 13
+book: 8
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Answer of the Origin
-### Chapter 2669
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Answer of the Origin
+
+### Chapter 2669
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The last time he made a wish in Destiny’s Tower, the statue’s eyes had ended up being destroyed. Now, it seemed as if it might happen again. Perhaps it would have the same effect.
 
 But even if Empty God’s eyes exploded, it wouldn’t help him much. The statue would still have its power, and it would still threaten Han Sen and shorten his lifespan.

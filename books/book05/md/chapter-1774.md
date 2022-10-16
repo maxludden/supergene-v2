@@ -1,21 +1,20 @@
 ---
-Title:Kong Fei 
-Chapter:1774 
-Section:6 
-Book:5 
-CSS:../Styles/style.css 
+title: Kong Fei
+chapter: 1774
+section: 6
+book: 5
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Kong Fei
-### Chapter 1774
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Kong Fei
+
+### Chapter 1774
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “Are you a crystallizer, too?” Han Sen asked. The man did look like a crystallizer.
 
 “Of course not. How could I be one of the races that were unable to even light up one lantern inside the geno hall?” The man shook his head, as if he had been mocked by the suggestion.

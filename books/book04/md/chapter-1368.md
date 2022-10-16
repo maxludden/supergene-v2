@@ -1,21 +1,20 @@
 ---
-Title:Mystic Woman 
-Chapter:1368 
-Section:4 
-Book:4 
-CSS:../Styles/style.css 
+title: Mystic Woman
+chapter: 1368
+section: 4
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Mystic Woman
-### Chapter 1368
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Mystic Woman
+
+### Chapter 1368
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The geno core Scissor Slash was controlled by the owner’s mind. Without delay, it flew over to the tightening cords and attempted to snap down and cut the Gold Dragon Lock.
 
 Old Man Ji felt awful watching this unfold. He had hoped Han Sen would call back his geno core, and he expected the phantom scissors to cut through and break the item with ease. He thought it was a great waste.

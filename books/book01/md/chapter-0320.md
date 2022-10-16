@@ -1,21 +1,20 @@
 ---
-Title:Turtle 
-Chapter:320 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: Turtle
+chapter: 320
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Turtle
-### Chapter 320
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Turtle
+
+### Chapter 320
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 In Copper Mountains, Han Sen was chasing the turtle. Feeding on the roots or fruits of certain plants, the turtle continued its way in Copper Mountains.
 
 Sometimes, where there were no plants at all, the turtle still managed to dig out some mushroom-like stuff to eat.

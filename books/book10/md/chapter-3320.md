@@ -1,21 +1,20 @@
 ---
-Title:Complete 33 Skies 
-Chapter:3320 
-Section:17 
-Book:10 
-CSS:../Styles/style.css 
+title: Complete 33 Skies
+chapter: 3320
+section: 17
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Complete 33 Skies
-### Chapter 3320
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Complete 33 Skies
+
+### Chapter 3320
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Seeing the 24-stroke geno spell light up, Han Sen was not happy. He did not know if the 24-stroke password would even work.
 
 The skeleton that was latched onto Han Sen saw the 24 symbols light up. It lost its voice and screamed, “How do you know the 24-stroke light spell?”

@@ -1,21 +1,20 @@
 ---
-Title:Crazy Consume 
-Chapter:2730 
-Section:13 
-Book:8 
-CSS:../Styles/style.css 
+title: Crazy Consume
+chapter: 2730
+section: 13
+book: 8
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Crazy Consume
-### Chapter 2730
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Crazy Consume
+
+### Chapter 2730
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen grinned widely at the sensation. That hot air was some kind of lifeforce. The Good Fortune Pool should also reinforce his genes, but that lifeforce alone would benefit him a great deal.
 
 Under the cleansing power of that intense lifeforce, Han Sen felt his body filling with energy. It was like he could play Mahjong for three days in a row without getting tired.

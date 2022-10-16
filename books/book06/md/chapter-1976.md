@@ -1,21 +1,20 @@
 ---
-Title:Slap Your Turtle, Son 
-Chapter:1976 
-Section:8 
-Book:6 
-CSS:../Styles/style.css 
+title: Slap Your Turtle, Son
+chapter: 1976
+section: 8
+book: 6
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Slap Your Turtle, Son
-### Chapter 1976
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Slap Your Turtle, Son
+
+### Chapter 1976
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The Xuanyuan Dragon turned to Han Sen and breathed out smoke. Han Sen fell back and swung the Ghost Teeth Knife, breaking the black smoke.
 
 Xuanyuan Dragon spun around and put its attention back on Yun Sushang. Thousand Feather Crane was coming, but he was not as fast as the dragon.
@@ -62,7 +61,7 @@ Another Turtle Spell manifested on the dragon’s face, dropping its speed yet a
 
 Han Sen moved like a shadow. He put away his Ghost Teeth Knife, opened his hands, and repeatedly slapped the dragon in the face.
 
-The Xuanyuan Dragon was so slow. It couldn’t catch up with Han Sen and his rabbit shoes, so there was nothing to keep Han Sen from continuing to b*tchslap it in the face. Images of the Turtle Spell covered its face.
+The Xuanyuan Dragon was so slow. It couldn’t catch up with Han Sen and his rabbit shoes, so there was nothing to keep Han Sen from continuing to bitchslap it in the face. Images of the Turtle Spell covered its face.
 
 Thousand Feather Crane and First Day watched Han Sen beating on the creature. The fleeing sisters stopped running. Their mouths opened wide, unable to quite fathom what they were seeing.
 

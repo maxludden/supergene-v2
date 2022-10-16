@@ -1,21 +1,20 @@
 ---
-Title:Cause and Effect 
-Chapter:2229 
-Section:10 
-Book:7 
-CSS:../Styles/style.css 
+title: Cause and Effect
+chapter: 2229
+section: 10
+book: 7
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Cause and Effect
-### Chapter 2229
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Cause and Effect
+
+### Chapter 2229
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “If you hadn’t talked, I would have thought that we might die, but now I am pretty sure I won’t die by walking along this Way of Life and Death,” Han Sen spoke with certainty.
 
 “Young man, talk is cheap. If you are as certain as you say you are, then come and tread the path for yourself.” The old woman looked at him with disdain.

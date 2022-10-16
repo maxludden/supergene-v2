@@ -1,21 +1,20 @@
 ---
-Title:The Shocking Fight 
-Chapter:664 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: The Shocking Fight
+chapter: 664
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## The Shocking Fight
-### Chapter 664
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## The Shocking Fight
+
+### Chapter 664
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The pegasi king's clouds began to spread, falling down on the massive creature below like bombs. They clung to the tentacles, restraining them like glue.
 
 Caught within the thick, muculent clouds, the monster could not get its tentacles free. It struggled and thrashed madly, but to no avail.

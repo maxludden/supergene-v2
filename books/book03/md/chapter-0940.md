@@ -1,21 +1,20 @@
 ---
-Title:Frightening Glory 
-Chapter:940 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Frightening Glory
+chapter: 940
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Frightening Glory
-### Chapter 940
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Frightening Glory
+
+### Chapter 940
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The Disloyal Knight cried out. Its copper armor glistened in the midday sun, as it teleported in front of Han Sen and tried to strike his stomach.
 
 The Disloyal Knight moved too quickly, and Han Sen took the punch. The force lifted Han Sen from his feet and sent him hurtling a couple dozen meters, toppling several trees as he went. When the arc of his launch led him to the ground, a deep crater was left in his shape.

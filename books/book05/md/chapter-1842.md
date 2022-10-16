@@ -1,22 +1,19 @@
 ---
-Title:A Rare Opportunity 
-Chapter:1842 
-Section:7 
-Book:5 
-CSS:../Styles/style.css 
+title: A Rare Opportunity
+chapter: 1842
+section: 7
+book: 5
+CSS: style.css
 viewport: width=device-width
 ---
-  
+
 ## A Rare Opportunity
+
 ### Chapter 1842
-  
+
 <figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
 </figure>
-  
-
-  
-
 
 Eighty percent of Planet Eclipse was covered by clouds. The magnetic storms were constantly unstable, and they were always shining with volatile power. Tools were almost useless in those conditions, and satellites in orbit never wor^^ because they could not see what lay beneath those clouds.
 

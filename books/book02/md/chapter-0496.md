@@ -1,21 +1,20 @@
 ---
-Title:Strength Test 
-Chapter:496 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Strength Test
+chapter: 496
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Strength Test
-### Chapter 496
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Strength Test
+
+### Chapter 496
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 "Brother, which department are you from?" In the warm-up area of the military contest, a young soldier asked Han Sen who was sitting next to him will stop
 
 "I am from a warship, a cookhouse soldier." Han Sen replied.

@@ -1,21 +1,20 @@
 ---
-Title:Strange Creatures 
-Chapter:546 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Strange Creatures
+chapter: 546
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Strange Creatures
-### Chapter 546
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Strange Creatures
+
+### Chapter 546
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen was excited. Already, he was preparing to search for another high-class lonely creature of the sea. But all of a sudden, he felt goosebumps, and his chirpy mood was quashed by a foreboding sense of dread.
 
 "Stop! Don't move!" Han Sen called out to the Mermaid Princess to stop the Crystal Palace. He also wanted the little angels to stop what they were doing and to stop moving completely.

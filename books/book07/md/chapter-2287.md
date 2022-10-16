@@ -1,21 +1,20 @@
 ---
-Title:Holy Town 
-Chapter:2287 
-Section:10 
-Book:7 
-CSS:../Styles/style.css 
+title: Holy Town
+chapter: 2287
+section: 10
+book: 7
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Holy Town
-### Chapter 2287
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Holy Town
+
+### Chapter 2287
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 That familiar feeling was only present for a single second. When he looked closely at Mister White again, the man was like a stranger once more. He no longer seemed like anyone Han Sen already knew.
 
 Whatever Han Sen might have momentarily felt, Mister White was of the Extreme King. Han Sen didn’t know much about the Extreme King, all-in-all, and there was no one amongst them that he was actually close with. No one would ever claim that Mister White was a close friend of his, either.

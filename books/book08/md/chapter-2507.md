@@ -1,21 +1,20 @@
 ---
-Title:Scary Space Deified Xenogeneic 
-Chapter:2507 
-Section:12 
-Book:8 
-CSS:../Styles/style.css 
+title: Scary Space Deified Xenogeneic
+chapter: 2507
+section: 12
+book: 8
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Scary Space Deified Xenogeneic
-### Chapter 2507
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Scary Space Deified Xenogeneic
+
+### Chapter 2507
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 This was bad. Han Sen shoved the white whale to full acceleration so they could get out of the Black Hole Spider’s territory. The white whale’s engine labored so hard that it released enormous clouds of smoke, but the white whale didn’t go forward. It seemed to be being pulled back.
 
 Han Sen looked behind them, and he saw the Black Hole Spider spreading its jaws. Its open mouth was like a giant black hole. It formed a vortex in space that sucked the white whale toward its gaping maw.

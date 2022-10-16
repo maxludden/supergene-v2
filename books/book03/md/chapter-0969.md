@@ -1,21 +1,20 @@
 ---
-Title:One in a Ten Million Chance 
-Chapter:969 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: One in a Ten Million Chance
+chapter: 969
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## One in a Ten Million Chance
-### Chapter 969
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## One in a Ten Million Chance
+
+### Chapter 969
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 As the days went by, the purple orchid matured. Its flowers spread open like purple butterflies, and they released a most glorious scent.
 
 Thorn Baron confirmed that they were mature, and so Han Sen promptly put one in his mouth. An incredibly sweet nectar bathed his tongue in delightful ecstasy.

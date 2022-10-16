@@ -1,21 +1,20 @@
 ---
-Title:Choices 
-Chapter:2443 
-Section:11 
-Book:7 
-CSS:../Styles/style.css 
+title: Choices
+chapter: 2443
+section: 11
+book: 7
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Choices
-### Chapter 2443
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Choices
+
+### Chapter 2443
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “As far as the Extreme King are concerned, I brought you here to dig up the ruin of a god’s battleground. By doing so, I wanted you to fade from the vision of the royal children,” Miss Mirror said calmly. She was reclining on the bed where they had placed her. “This is the only reason your pretense of being Prince Sixteen has lasted this long. But now, this catastrophe with the statues has killed all my people and left you alive. I don’t think I will be able to buy you a lot of time. My brother will throw all his resources into investigating you, and you have nowhere to turn. The only thing we can do to keep you alive is to perform a sacrifice. Enter the holy temple to become a devotee. Once you gain the blessing of the Extreme King, your survival will be ensured.”
 
 “I’m going to the holy temple? What does that mean, exactly?” Han Sen frowned.

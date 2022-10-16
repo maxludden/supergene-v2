@@ -1,21 +1,20 @@
 ---
-Title:Rather Easy 
-Chapter:247 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: Rather Easy
+chapter: 247
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Rather Easy
-### Chapter 247
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Rather Easy
+
+### Chapter 247
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 "If you could beat me, I would be very happy." Situ Xiang suddenly smiled and narrowed her eyes. "However, Han Sen, it is not easy to achieve that. I look forward to seeing your performance."
 
 Situ Xiang carried her bow and arrows to her spot and Han Sen went to the other spot.

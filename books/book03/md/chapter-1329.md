@@ -1,21 +1,20 @@
 ---
-Title:A Killer Opportunity 
-Chapter:1329 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: A Killer Opportunity
+chapter: 1329
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## A Killer Opportunity
-### Chapter 1329
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## A Killer Opportunity
+
+### Chapter 1329
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 When Three-Eye Emperor and Gu Demon Emperor moved to fight, No God Emperor decided to join in the fray, as well. But he wasn’t going to fight Han Sen’s companions; he was going to assist Ruin Emperor in his duel instead.
 
 No God Emperor had come to understand Han Sen was a far greater threat to the spirits in the Third God’s Sanctuary than Godslayer Luo had ever been. And he believed him to be far worse than the girl who appeared to be Godslayer Luo’s heir, who was currently doing battle with the Cup Demons.

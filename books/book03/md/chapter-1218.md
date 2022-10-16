@@ -1,21 +1,20 @@
 ---
-Title:The Mountain Changes 
-Chapter:1218 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: The Mountain Changes
+chapter: 1218
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## The Mountain Changes
-### Chapter 1218
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## The Mountain Changes
+
+### Chapter 1218
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Hen Sen watched the purple ground glow and stand still as something moved below the earth.
 
 Inside the rock of the mountain, he could discern a shadow. What it was, he could not yet tell. It was human in shape, hovering horizontally as if it were lying down. It was a Lynchian sight; one that unnerved him.

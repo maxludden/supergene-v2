@@ -1,21 +1,20 @@
 ---
-Title:Killing Night River King 
-Chapter:2235 
-Section:10 
-Book:7 
-CSS:../Styles/style.css 
+title: Killing Night River King
+chapter: 2235
+section: 10
+book: 7
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Killing Night River King
-### Chapter 2235
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Killing Night River King
+
+### Chapter 2235
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Night River King shouldn’t have stayed that close to Han Sen. The Blood Scorpion Jade Drum’s attack wouldn’t have been so potent if the distance between them had been greater. At such close range, Night River King had tried to attack Han Sen without reserving any of his strength for defense. His King class body was unable to withstand the noise unleashed by the Blood Scorpion Jade Drum.
 
 The sound of the drum was like the sting of a scorpion tail, jabbing directly into his brain. Thinking suddenly became very difficult, and he felt as if his head was going to explode. Gathering the willpower necessary for the smallest action became almost impossible.

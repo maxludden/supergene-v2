@@ -1,21 +1,20 @@
 ---
-Title:Fighting a Sacred-blood Creature 
-Chapter:440 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Fighting a Sacred-blood Creature
+chapter: 440
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Fighting a Sacred-blood Creature
-### Chapter 440
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Fighting a Sacred-blood Creature
+
+### Chapter 440
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen almost jumped on the back of golden rock worm king without thinking, rising in the air on the back of his pet.
 
 Looking down, he saw a giant snow spider coming out of the ice cliff. It was so big in size that it could probably swallow a man with one bite.

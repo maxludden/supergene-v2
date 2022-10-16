@@ -1,21 +1,20 @@
 ---
-Title:God Body Evolved 
-Chapter:2731 
-Section:13 
-Book:8 
-CSS:../Styles/style.css 
+title: God Body Evolved
+chapter: 2731
+section: 13
+book: 8
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## God Body Evolved
-### Chapter 2731
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## God Body Evolved
+
+### Chapter 2731
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 But after another half hour, Han Sen still hadn’t emerged from the Good Fortune Pool. Now, even Li Chun Qiu’s face looked stunned.
 
 “It has been an hour, and he still isn’t out yet… This should be what a primitive deified can achieve, right?” Shale said with shock.

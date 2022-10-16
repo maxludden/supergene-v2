@@ -1,21 +1,20 @@
 ---
-Title:Weird Body 
-Chapter:3380 
-Section:17 
-Book:10 
-CSS:../Styles/style.css 
+title: Weird Body
+chapter: 3380
+section: 17
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Weird Body
-### Chapter 3380
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Weird Body
+
+### Chapter 3380
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen emerged from the test chamber and asked Han Yufei, “Do you mind telling me what you found that is so weird?”
 
 Han Yufei’s discovery was not as scary or concerning as Han Sen thought. She had only been doing ordinary tests. Mostly, she had just taken samples from his body and blood.

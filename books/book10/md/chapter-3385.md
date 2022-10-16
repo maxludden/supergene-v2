@@ -1,21 +1,20 @@
 ---
-Title:Time Sky 
-Chapter:3385 
-Section:17 
-Book:10 
-CSS:../Styles/style.css 
+title: Time Sky
+chapter: 3385
+section: 17
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Time Sky
-### Chapter 3385
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Time Sky
+
+### Chapter 3385
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 When Han Sen heard him, his eyes went bright. He asked, “What is the difference with you now after your Super God Spirit body finished evolving.”
 
 “My Super God Spirit body became an ultimate Super God Spirit body. It is just stronger,” Ning Yue casually said.

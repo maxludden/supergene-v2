@@ -1,21 +1,20 @@
 ---
-Title:A Different Cloud Beast 
-Chapter:292 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: A Different Cloud Beast
+chapter: 292
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## A Different Cloud Beast
-### Chapter 292
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## A Different Cloud Beast
+
+### Chapter 292
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 "This is incredible hunger." Riding on Meowth, Han Sen was about to starve. He had eaten more than 10 pounds of mutant meat. If he continued to eat, his stomach would probably explode.
 
 However, in addition to the feeling of hunger, Han Sen also felt energetic. The two contrastive feelings filled his body, which made Han Sen understand why the previous volunteers would give up. It was definitely a cruel torture.

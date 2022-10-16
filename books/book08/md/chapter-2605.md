@@ -1,21 +1,20 @@
 ---
-Title:Swap 
-Chapter:2605 
-Section:12 
-Book:8 
-CSS:../Styles/style.css 
+title: Swap
+chapter: 2605
+section: 12
+book: 8
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Swap
-### Chapter 2605
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Swap
+
+### Chapter 2605
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The meeting ended quickly. The story of Han Sen making a butterfly in the palms of his hands spread across all of Sky Palace. The Sky Palace students were delighted by the result.
 
 When they were alone, Bixi and Exquisite discussed what had happened. Bixi frowned and asked her, “You want to make Han Sen your silkworm?”

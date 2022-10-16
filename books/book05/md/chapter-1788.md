@@ -1,21 +1,20 @@
 ---
-Title:Killing a Xenogeneic Amidst a Thousand Soldiers 
-Chapter:1788 
-Section:6 
-Book:5 
-CSS:../Styles/style.css 
+title: Killing a Xenogeneic Amidst a Thousand Soldiers
+chapter: 1788
+section: 6
+book: 5
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Killing a Xenogeneic Amidst a Thousand Soldiers
-### Chapter 1788
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Killing a Xenogeneic Amidst a Thousand Soldiers
+
+### Chapter 1788
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Roar!
 
 One of the Viscounts amidst the nine captains roared. His armor cracked, and his muscles inflated. His skin looked like steel, and his eyes became red. He was turning xenogeneic.

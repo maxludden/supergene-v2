@@ -1,21 +1,20 @@
 ---
-Title:The Final Strike 
-Chapter:582 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: The Final Strike
+chapter: 582
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## The Final Strike
-### Chapter 582
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## The Final Strike
+
+### Chapter 582
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Ten steps... Twenty steps... Thirty steps... Everyone could calculate that the distance between Yi Dongmu and Han Sen was about fifty steps. If Han Sen still did not strike, then Yi Dongmu would be right in front of him in about fifty more steps.
 
 Yi Dongmu had only walked thirty steps, yet his momentum had already risen a great deal. It was as if he had been possessed by a god. With every step, his momentum increased.

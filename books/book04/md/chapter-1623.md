@@ -1,21 +1,20 @@
 ---
-Title:First-round Competitors 
-Chapter:1623 
-Section:4 
-Book:4 
-CSS:../Styles/style.css 
+title: First-round Competitors
+chapter: 1623
+section: 4
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## First-round Competitors
-### Chapter 1623
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## First-round Competitors
+
+### Chapter 1623
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 God-like found that his Eternal Shield seemed to be sealed out of his control now, and he couldn’t infuse it with his power anymore.
 
 Han Sen looked at the shield that had turned into jade, the shield that had once been called invincible. He punched it, and the Eternal Shield was smashed with one strike.

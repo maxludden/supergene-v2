@@ -1,21 +1,20 @@
 ---
-Title:Bad News 
-Chapter:2189 
-Section:9 
-Book:6 
-CSS:../Styles/style.css 
+title: Bad News
+chapter: 2189
+section: 9
+book: 6
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Bad News
-### Chapter 2189
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Bad News
+
+### Chapter 2189
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The little toads gathered around him, and they seemed to think he was one of them. The thought made Han Sen’s heart sink, though, and he found himself thinking, “I’m not some dirty toad!”
 
 After that day, Han Sen continued coming back to absorb cold and moon powers twice every month. He didn’t need the Cold Palace guardian tablet anymore, and the big toad allowed him to follow the toad family to the waterfall. He was able to absorb the moon powers right next to the deified toad.

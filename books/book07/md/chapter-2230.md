@@ -1,21 +1,20 @@
 ---
-Title:Undying Bird Legacy 
-Chapter:2230 
-Section:10 
-Book:7 
-CSS:../Styles/style.css 
+title: Undying Bird Legacy
+chapter: 2230
+section: 10
+book: 7
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Undying Bird Legacy
-### Chapter 2230
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Undying Bird Legacy
+
+### Chapter 2230
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The beast that had died on the ground after it had reached the top step suddenly moved. Although it still looked old, it moved very quickly. It spryly ran up toward the old woman’s feet. The transparent fire ravaged the step, but heat could not be felt from it, and it began to rise high into the air.
 
 Han Sen, Bai Wei, and the animal were shrouded in the transparent fire. It eventually all started to drift up high into the air. As the fire burned them, their bodies started to recover. It took away the added years and returned their original form from before they started to ascend the stairs.

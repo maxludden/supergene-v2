@@ -1,21 +1,20 @@
 ---
-Title:Heaven 
-Chapter:1884 
-Section:7 
-Book:5 
-CSS:../Styles/style.css 
+title: Heaven
+chapter: 1884
+section: 7
+book: 5
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Heaven
-### Chapter 1884
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Heaven
+
+### Chapter 1884
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen was busy cutting down the twisted arms as the dragon-like Purgatory Beast came rushing for them. He did not have the power to deal with it.
 
 Dragon Lady and the others were starting to think that this was the end. They used all the powers they could exert against the Purgatory Beast, but it was all to no avail.

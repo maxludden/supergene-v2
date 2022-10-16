@@ -1,21 +1,20 @@
 ---
-Title:Xenogeneic Demon Dragon 
-Chapter:2033 
-Section:8 
-Book:6 
-CSS:../Styles/style.css 
+title: Xenogeneic Demon Dragon
+chapter: 2033
+section: 8
+book: 6
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Xenogeneic Demon Dragon
-### Chapter 2033
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Xenogeneic Demon Dragon
+
+### Chapter 2033
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Her blood spread like flower petals. Her powerful Dragon body could not hold strong against the countless wounds that were being ravaged by the Teeth power. Her body was ultimately tom apart.
 
 Han Sen moved into a hidden passage nearby. There, he started to use his own strength to purge his body of the Evilbreaker Lance’s power.

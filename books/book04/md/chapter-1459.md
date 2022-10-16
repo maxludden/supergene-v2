@@ -1,21 +1,20 @@
 ---
-Title:It Can’t Be Real 
-Chapter:1459 
-Section:4 
-Book:4 
-CSS:../Styles/style.css 
+title: It Can’t Be Real
+chapter: 1459
+section: 4
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## It Can’t Be Real
-### Chapter 1459
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## It Can’t Be Real
+
+### Chapter 1459
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “You’re familiar with using a sword?” Han Sen looked at the green-clothed woman in the painting.
 
 “Seeing your sword skills, I understand enough.” The voice sounded from the stone again.

@@ -1,21 +1,20 @@
 ---
-Title:Big Iron Chimenea 
-Chapter:1550 
-Section:4 
-Book:4 
-CSS:../Styles/style.css 
+title: Big Iron Chimenea
+chapter: 1550
+section: 4
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Big Iron Chimenea
-### Chapter 1550
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Big Iron Chimenea
+
+### Chapter 1550
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen brought Six Paths out of the Godlight Tunnel. He examined his wounds and noticed he had been injured badly. Fortunately, the body of an emperor was strong and his life was not in any danger.
 
 Yu Miao took Yu Xuan with her and left. She stared at Han Sen the whole time, and her look could be best described as complicated.

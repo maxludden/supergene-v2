@@ -1,21 +1,20 @@
 ---
-Title:Bring It if You Want to 
-Chapter:2209 
-Section:10 
-Book:7 
-CSS:../Styles/style.css 
+title: Bring It if You Want to
+chapter: 2209
+section: 10
+book: 7
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Bring It if You Want to
-### Chapter 2209
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Bring It if You Want to
+
+### Chapter 2209
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Night River King thought Han Sen wouldn’t be allowed to go with the Extreme King, but when he saw the recruitment roster the next day, Han Sen’s name was on it. This made him exuberantly happy.
 
 Han Sen had just been added that day. Seeing his name there made Night River King want to scream in joy.

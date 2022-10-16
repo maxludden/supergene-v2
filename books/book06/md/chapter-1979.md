@@ -1,21 +1,20 @@
 ---
-Title:Crazy Killing 
-Chapter:1979 
-Section:8 
-Book:6 
-CSS:../Styles/style.css 
+title: Crazy Killing
+chapter: 1979
+section: 8
+book: 6
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Crazy Killing
-### Chapter 1979
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Crazy Killing
+
+### Chapter 1979
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “Brother Han, are you really confident in this?” Yu Jing asked, staring at Han Sen.
 
 “Yes,” Han Sen answered with certainty.

@@ -1,33 +1,31 @@
 ---
-Title:Violent Ape
-Chapter:1729
-Section:6
-Book:5
-CSS:../Styles/style.css
+title: Violent Ape
+chapter: 1729
+section: 6
+book: 5
+CSS: style.css
 viewport: width=device-width
 ---
 
 ## Violent Ape
+
 ### Chapter 1729
 
 <figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
 </figure>
-
-
 
 <div class="tables">
 	<table class="beast">
 		<tr>
-			<th>Beast Soul</th>
+			<th colspan="2">Beast Soul Gained</th>
 		</tr><tr>
-			<td>Baron Xenogeneic Violent Ape<br>
-				<span class="type">(Shapeshifting)</span>
-			</td>
+			<td>Baron Xenogeneic Violent Ape</td>
+			<td>(Shapeshifting)</td>
 		</tr>
 	</table>
 	<!-- Baron Xenogeneic Beast Soul: Violent Ape (Shapeshifting Type) -->
-</div>
+</div> 
 
 When Han Sen saw that it was a shapeshifting type beast soul, he was exuberantly happy. If the xenogeneic beast souls were the same as those in the sanctuaries, that meant he would become the Violent Ape he had just slain. With Violent Ape’s power and speed, his own lack of power and speed would no longer be an issue.
 

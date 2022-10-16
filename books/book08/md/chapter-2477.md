@@ -1,21 +1,20 @@
 ---
-Title:Fighting Dogs 
-Chapter:2477 
-Section:12 
-Book:8 
-CSS:../Styles/style.css 
+title: Fighting Dogs
+chapter: 2477
+section: 12
+book: 8
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Fighting Dogs
-### Chapter 2477
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Fighting Dogs
+
+### Chapter 2477
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The Dragon’s groan rolled across the sky, and blood showered down like rain.
 
 Lando was fighting the deified unicorn once more, but all Han Sen could see was the countless droplets of blood in the sky. They landed on the clouds and soaked into them. It was obviously Lando’s Dragon blood.
@@ -68,7 +67,7 @@ Weak. Not respected. Without the authority to choose his destiny. That was all b
 
 The feelings on Lando’s face were also deep inside Han Sen’s heart. This was why Han Sen wanted so desperately to be strong. He craved those answers.
 
-“This debt… I want those f*ckers to pay me back.” Han Sen gnashed his teeth as the blood inside his body boiled.
+“This debt… I want those fuckers to pay me back.” Han Sen gnashed his teeth as the blood inside his body boiled.
 
 The killing continued, and the seven unicorn Kings couldn’t suppress Han Sen any longer. He killed countless unicorns, and they screamed at Han Sen in rage. They must have really hated him.
 

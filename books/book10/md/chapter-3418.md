@@ -1,21 +1,20 @@
 ---
-Title:Special Occasion 
-Chapter:3418 
-Section:17 
-Book:10 
-CSS:../Styles/style.css 
+title: Special Occasion
+chapter: 3418
+section: 17
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Special Occasion
-### Chapter 3418
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Special Occasion
+
+### Chapter 3418
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “I watched your fight with Moment God. Your body has evolved sufficiently to make use of the Cold Sutra.” As Moon God spoke, she checked Han Sen out.
 
 “It is a rather difficult situation to explain. My body does have a problem though. I can only use the strength I need to use when I am provoked by adversarial powers. Usually, I am quite harmless.” Han Sen explained the situation to her.

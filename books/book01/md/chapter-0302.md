@@ -1,21 +1,20 @@
 ---
-Title:Creatures at the Door 
-Chapter:302 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: Creatures at the Door
+chapter: 302
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Creatures at the Door
-### Chapter 302
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Creatures at the Door
+
+### Chapter 302
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen was excited to hear the news. Where there was a nest, there was an egg. Maybe he even had a chance at a super beast soul, which was crucial to him at this stage.
 
 After learning what had happened, Han Sen became more cheerful. It was the Son of Heaven Gang that discovered this nest first. However, after Son of Heaven and his henchmen evolved and entered Second God's Sanctuary, their gang was not what it used to be. It had become a second-class gang at this point.

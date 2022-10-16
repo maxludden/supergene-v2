@@ -1,21 +1,20 @@
 ---
-Title:Deified Fight 
-Chapter:2285 
-Section:10 
-Book:7 
-CSS:../Styles/style.css 
+title: Deified Fight
+chapter: 2285
+section: 10
+book: 7
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Deified Fight
-### Chapter 2285
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Deified Fight
+
+### Chapter 2285
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “That guy seemed very spirited… What would make him run away in such a hurry?” Han Sen looked at Yisha with confusion.
 
 Yisha sighed and said, “Maybe its power takes a long time to regenerate. That strike he unleashed might have cost him most of the power he had gathered.”

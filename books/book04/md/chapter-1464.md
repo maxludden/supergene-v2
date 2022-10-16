@@ -1,21 +1,20 @@
 ---
-Title:A Sword Skill That Can Change a Lot 
-Chapter:1464 
-Section:4 
-Book:4 
-CSS:../Styles/style.css 
+title: A Sword Skill That Can Change a Lot
+chapter: 1464
+section: 4
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## A Sword Skill That Can Change a Lot
-### Chapter 1464
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## A Sword Skill That Can Change a Lot
+
+### Chapter 1464
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 There many pretty women in the world, but the prettiest one had to be the mystic woman.
 
 The face of the woman before him was the very same as hers. Even her eyes and her eyebrows were the same as the mystic woman’s. For all intents and purposes, they were identical.

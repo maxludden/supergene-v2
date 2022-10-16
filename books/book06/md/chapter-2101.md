@@ -1,21 +1,20 @@
 ---
-Title:Original Gene Kill Spell 
-Chapter:2101 
-Section:8 
-Book:6 
-CSS:../Styles/style.css 
+title: Original Gene Kill Spell
+chapter: 2101
+section: 8
+book: 6
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Original Gene Kill Spell
-### Chapter 2101
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Original Gene Kill Spell
+
+### Chapter 2101
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen opened the stone door and looked around its frame, already on full alert. On the other side, he found a black vortex. And before he had even the slightest chance to react, a powerful suction tried to yank him inside.
 
 With a spike of adrenaline, Han Sen mustered as much power as he could to push himself back away from the door, but ultimately, he could not stave it off. He was pulled into the stone room.

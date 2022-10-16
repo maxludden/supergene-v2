@@ -1,21 +1,20 @@
 ---
-Title:Transfer Order 
-Chapter:2238 
-Section:10 
-Book:7 
-CSS:../Styles/style.css 
+title: Transfer Order
+chapter: 2238
+section: 10
+book: 7
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Transfer Order
-### Chapter 2238
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Transfer Order
+
+### Chapter 2238
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 When Han Sen arrived at Ice Blue Knight King’s office, the Knight King and Mister White were already there. They both looked at Han Sen with strange intensity as he entered.
 
 “Ahem… Mister Knight King. Is there something you require of me?” Han Sen asked with a cough.

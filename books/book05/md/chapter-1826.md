@@ -1,21 +1,20 @@
 ---
-Title:Can’t Bully People 
-Chapter:1826 
-Section:7 
-Book:5 
-CSS:../Styles/style.css 
+title: Can’t Bully People
+chapter: 1826
+section: 7
+book: 5
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Can’t Bully People
-### Chapter 1826
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Can’t Bully People
+
+### Chapter 1826
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Black Steel didn’t hesitate. He grabbed Han Sen’s hand and lowered himself down.
 
 Han Sen grabbed the nearest blade and let Black Steel dangle slowly downwards.

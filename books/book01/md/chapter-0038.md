@@ -1,21 +1,20 @@
 ---
-Title:My Guy 
-Chapter:38 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: My Guy
+chapter: 38
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## My Guy
-### Chapter 38
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## My Guy
+
+### Chapter 38
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 "This person must die." Luo Tianyang suddenly had an urge to kill Han Sen and was about to raise his whip again. When he looked at Han Sen, however, he stopped and his whole body became tense.
 
 Han Sen had put away the broadsword and held Doomsday in his hands. Drawing the string to the fullest, he pointed the arrowhead at Luo Tianyang.

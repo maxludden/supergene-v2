@@ -1,21 +1,20 @@
 ---
-Title:This Is Unique 
-Chapter:1912 
-Section:7 
-Book:5 
-CSS:../Styles/style.css 
+title: This Is Unique
+chapter: 1912
+section: 7
+book: 5
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## This Is Unique
-### Chapter 1912
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## This Is Unique
+
+### Chapter 1912
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 On a planet of Narrow Moon, a Rebate mother was praying sincerely.
 
 “God of the Rebate, please allow my child to evolve a second time, despite having already generated armor. I will give everything I have for this.” The mother’s face looked so sad.

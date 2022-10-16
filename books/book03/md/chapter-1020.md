@@ -1,21 +1,20 @@
 ---
-Title:Past Life Lover 
-Chapter:1020 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Past Life Lover
+chapter: 1020
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Past Life Lover
-### Chapter 1020
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Past Life Lover
+
+### Chapter 1020
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen had his people bring the body of the slain turtle and Liu Yuxuan with them. They followed the snake he rode upon through the region the creature presided over.
 
 Bao’er climbed ahead of Han Sen, sitting directly on the snake’s head. She held the creature’s horn, which worried the others.

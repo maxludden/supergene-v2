@@ -1,21 +1,20 @@
 ---
-Title:Father Han Known Around the Universe 
-Chapter:2846 
-Section:14 
-Book:9 
-CSS:../Styles/style.css 
+title: Father Han Known Around the Universe
+chapter: 2846
+section: 14
+book: 9
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Father Han Known Around the Universe
-### Chapter 2846
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Father Han Known Around the Universe
+
+### Chapter 2846
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen did not watch the next fight. He had to quickly increase his genes so he could become butterfly class. If he didn't do that, he wouldn't stand a chance when it came to fighting top-class deified creatures.
 
 Han Sen went straight to the Nine-Defense Palace. Before the next fight began, he was hoping to achieve butterfly class.

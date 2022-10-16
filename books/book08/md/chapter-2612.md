@@ -1,21 +1,20 @@
 ---
-Title:Han Yan Walking Sky Path 
-Chapter:2612 
-Section:12 
-Book:8 
-CSS:../Styles/style.css 
+title: Han Yan Walking Sky Path
+chapter: 2612
+section: 12
+book: 8
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Han Yan Walking Sky Path
-### Chapter 2612
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Han Yan Walking Sky Path
+
+### Chapter 2612
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “Bao’er, why don’t you go with Little Auntie?” Han Sen asked Bao’er as they stood before the Sky Door.
 
 “Sure.” Bao’er nodded and flew over to Han Yan. She took Han Yan’s hand and smiled. “Hey, Auntie. Bao’er is going to walk with you.”

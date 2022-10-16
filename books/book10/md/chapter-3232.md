@@ -1,21 +1,20 @@
 ---
-Title:Condition 
-Chapter:3232 
-Section:16 
-Book:10 
-CSS:../Styles/style.css 
+title: Condition
+chapter: 3232
+section: 16
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Condition
-### Chapter 3232
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Condition
+
+### Chapter 3232
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 When Han Sen went back to the Qin Kingdom and Feng family castle, it was only four days later.
 
 He heard that the Chu Kingdom’s border had a scary ice god pulse manifest, and so the concept tempted him quite a bit.

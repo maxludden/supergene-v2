@@ -1,21 +1,20 @@
 ---
-Title:Weird Scene 
-Chapter:2739 
-Section:13 
-Book:8 
-CSS:../Styles/style.css 
+title: Weird Scene
+chapter: 2739
+section: 13
+book: 8
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Weird Scene
-### Chapter 2739
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Weird Scene
+
+### Chapter 2739
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The pictures were, admittedly, strange. Han Sen and the two women passed through many restrictions to get there, but if they hadn’t, Han Sen would have thought that these drawings had been created by some renowned abstract painter or graffiti artist rather than by an ancient elite.
 
 When they arrived at the Ancient Wall, many of the Very High were at the wall already. Some were sitting, some were standing, some were staring at the wall, and some had their heads lowered in contemplation. It seemed as if they were all trying to feel something from the paintings on the wall.

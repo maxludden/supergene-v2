@@ -1,21 +1,20 @@
 ---
-Title:Real Blood Promotion 
-Chapter:1644 
-Section:4 
-Book:4 
-CSS:../Styles/style.css 
+title: Real Blood Promotion
+chapter: 1644
+section: 4
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Real Blood Promotion
-### Chapter 1644
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Real Blood Promotion
+
+### Chapter 1644
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The Armored Man stared at Destiny Tower, and the flame of the body erupted like a volcano, and the aura he exuded became unimaginable.
 
 “The Armored Man is trying to kill Dollar directly. His power is so horrible when he gathers it like this. It seems that he’s gathering more power than he used to defeat Gu Qingcheng.”
@@ -84,7 +83,7 @@ The creatures watching the battle gradually began to discuss, and no one believe
 
 “Could that be Destiny’s Tower?” Many ancient beings, like Sacred’s master, began to speculate.
 
-“Dollar is too good! He just suppressed the armored like… That was f*cking amazing!” Tang Zhenliu could not help but scream excitedly.
+“Dollar is too good! He just suppressed the armored like… That was fucking amazing!” Tang Zhenliu could not help but scream excitedly.
 
 Gu Qingcheng was slightly amazed. Although she didn’t think that Dollar would lose easily, she hadn’t expected anything like this to happen.
 

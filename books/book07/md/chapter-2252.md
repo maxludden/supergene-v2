@@ -1,21 +1,20 @@
 ---
-Title:I Really Am San Mu 
-Chapter:2252 
-Section:10 
-Book:7 
-CSS:../Styles/style.css 
+title: I Really Am San Mu
+chapter: 2252
+section: 10
+book: 7
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## I Really Am San Mu
-### Chapter 2252
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## I Really Am San Mu
+
+### Chapter 2252
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen quickly retreated, and he summoned his gold Demon Bug King Bai Sema to shield his exterior.
 
 *Boom!*

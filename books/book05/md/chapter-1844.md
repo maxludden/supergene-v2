@@ -1,22 +1,19 @@
 ---
-Title:Dead Viscoun 
-Chapter:1844 
-Section:7 
-Book:5 
-CSS:../Styles/style.css 
+title: Dead Viscoun
+chapter: 1844
+section: 7
+book: 5
+CSS: style.css
 viewport: width=device-width
 ---
-  
+
 ## Dead Viscoun
+
 ### Chapter 1844
-  
+
 <figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
 </figure>
-  
-
-  
-
 
 Lake had been waiting for Han Sen for a while, but he hadn’t seen him emerge. He could only hear the roaring of a xenogeneic. It made him wonder what was transpiring inside the gully.
 

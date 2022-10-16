@@ -1,21 +1,20 @@
 ---
-Title:Two People Who Rejected God 
-Chapter:1134 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Two People Who Rejected God
+chapter: 1134
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Two People Who Rejected God
-### Chapter 1134
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Two People Who Rejected God
+
+### Chapter 1134
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen opened his mouth but stumbled, unsure of where to begin.
 
 After a while of thought, Han Sen asked, “Uncle Bug, where did the Seventh Team teleport to? Where did they go and what did they find?”

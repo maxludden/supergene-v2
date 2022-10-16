@@ -1,21 +1,20 @@
 ---
-Title:Sky Clock 
-Chapter:3390 
-Section:17 
-Book:10 
-CSS:../Styles/style.css 
+title: Sky Clock
+chapter: 3390
+section: 17
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Sky Clock
-### Chapter 3390
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Sky Clock
+
+### Chapter 3390
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen wondered what Floating Kill would have thought if he knew the real situation. If he had not resisted, Han Sen would not have killed him.
 
 Because Floating Kill used the sky floating kill to try and restrict Han Sen, and he used the space crack orb’s power, it triggered Han Sen’s body’s natural reaction.

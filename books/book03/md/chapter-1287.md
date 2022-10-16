@@ -1,21 +1,20 @@
 ---
-Title:Dirty Saint Fan 
-Chapter:1287 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Dirty Saint Fan
+chapter: 1287
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Dirty Saint Fan
-### Chapter 1287
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Dirty Saint Fan
+
+### Chapter 1287
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 When Han Sen saw Saint Fan absorb every living being in the shelter, he was taken aback. He was going to grab the spirit stone while the silver fox kept it busy, but that didn’t seem a likely possibility now.
 
 “All right, we’ll do this the old-fashioned way.” Han Sen drew Taia and his Phoenix Sword.

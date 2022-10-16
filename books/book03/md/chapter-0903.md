@@ -1,21 +1,20 @@
 ---
-Title:Bug Fight 
-Chapter:903 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Bug Fight
+chapter: 903
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Bug Fight
-### Chapter 903
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Bug Fight
+
+### Chapter 903
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 A blonde, purple-eyed woman emerged from beneath the green bushes that cradled the red roses.
 
 She didn't quite look human, and an emerald was embedded in her forehead.

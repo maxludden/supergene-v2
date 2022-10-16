@@ -1,21 +1,20 @@
 ---
-Title:Stealing the Stone Slab 
-Chapter:2220 
-Section:10 
-Book:7 
-CSS:../Styles/style.css 
+title: Stealing the Stone Slab
+chapter: 2220
+section: 10
+book: 7
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Stealing the Stone Slab
-### Chapter 2220
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Stealing the Stone Slab
+
+### Chapter 2220
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 That stone tile was lying amidst the rubble, and in order to pull it out, Han Sen would have to remove the cluster of rocks that buried it. Unfortunately, the two Dukes were still present. It’d be impossible to retrieve the stone without disturbing them.
 
 Han Sen tried to think of a way that he could grab the stone tile without drawing their attention.

@@ -1,21 +1,20 @@
 ---
-Title:Losing or Winning? 
-Chapter:2877 
-Section:14 
-Book:9 
-CSS:../Styles/style.css 
+title: Losing or Winning?
+chapter: 2877
+section: 14
+book: 9
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Losing or Winning?
-### Chapter 2877
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Losing or Winning?
+
+### Chapter 2877
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The universe was dead silent. All of the creatures were watching Dollar stroke Golden Growler’s head. They could not believe it was the same Golden Growler who had scared off Very High Leader. “Little Mountain… Little Mountain Leader… What is it doing?” The green-haired beast’s jaw nearly dropped to the floor. After he realized what was going on, he madly stomped his feet and screamed, “How dare he touch Little Mountain Leader’s head! I am going to destroy his dirty fingers.”
 
 The woman nearby had only just realized what was going on. She looked at the green-haired beast seriously and said, “When you brought Little Mountain Leader back, it already had a lower-race companion. Was that low-race person Dollar?”

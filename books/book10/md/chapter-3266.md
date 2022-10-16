@@ -1,21 +1,20 @@
 ---
-Title:Flipping a Hand to Suppress 
-Chapter:3266 
-Section:16 
-Book:10 
-CSS:../Styles/style.css 
+title: Flipping a Hand to Suppress
+chapter: 3266
+section: 16
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Flipping a Hand to Suppress
-### Chapter 3266
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Flipping a Hand to Suppress
+
+### Chapter 3266
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Zhao Ning’er was not in a rush. She was not freaking out either. She calmly said, “So, this old man wants to see my natural face. Of course, I will allow that. But you are such a famous person, so are you really going to trouble a little girl?”
 
 The old man laughed. “Throughout my whole life, all I have ever enjoyed is making little girls squirm through trouble. Stop talking crap! Let me see what you really look like.”

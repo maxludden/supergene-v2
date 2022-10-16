@@ -1,21 +1,20 @@
 ---
-Title:Spare My Life, Please 
-Chapter:1347 
-Section:4 
-Book:4 
-CSS:../Styles/style.css 
+title: Spare My Life, Please
+chapter: 1347
+section: 4
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Spare My Life, Please
-### Chapter 1347
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Spare My Life, Please
+
+### Chapter 1347
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Ten hours passed, and when Han Sen slew his eighth Jade Snail, he managed to obtain a second beast soul. He gave this to Bao’er.
 
 Han Sen wasn’t planning on killing any more than he had to, especially after collecting everything he had been hoping to get.

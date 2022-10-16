@@ -1,21 +1,20 @@
 ---
-Title:One Sword Splits a City 
-Chapter:3242 
-Section:16 
-Book:10 
-CSS:../Styles/style.css 
+title: One Sword Splits a City
+chapter: 3242
+section: 16
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## One Sword Splits a City
-### Chapter 3242
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## One Sword Splits a City
+
+### Chapter 3242
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Affected by Qin Yuan, many of Jade Wall City’s loyal volunteers shouted, “Kill the evil man Han Sen!” Their voices shook Jade Wall City.
 
 Han Sen’s eyes looked very ghostly. It was like he did not need to eat. His eyes looked over the land. He saw the old buildings becoming black dragons as their lights shocked the sky. They were like real dragons that could fly up into cloud nine.

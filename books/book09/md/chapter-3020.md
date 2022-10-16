@@ -1,21 +1,20 @@
 ---
-Title:Sacred Leader Armor 
-Chapter:3020 
-Section:15 
-Book:9 
-CSS:../Styles/style.css 
+title: Sacred Leader Armor
+chapter: 3020
+section: 15
+book: 9
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Sacred Leader Armor
-### Chapter 3020
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Sacred Leader Armor
+
+### Chapter 3020
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 In the dark zone of the big barren systems, a little beast was in front of the ruins of a holy palace. The beast looked like a cat but didn’t look like a cat. It looked like a fox but did not look like a fox. There was also a handsome young boy.
 
 “How could this happen… Auntie Mei… Old Vulture… Where are you guys?” The young man was shouting. He kept searching in the hopes of finding something.

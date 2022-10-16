@@ -1,22 +1,21 @@
 ---
-Title:Operation Star 
-Chapter:1671 
-Section:4 
-Book:4 
-CSS:../Styles/style.css 
+title: Operation Star
+chapter: 1671
+section: 4
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Operation Star
-### Chapter 1671
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
-“Come and hit me, you dumb*ss!” Wang Yuhang ran, shaking his *ss vigorously as he went. Many creatures were behind him.
+## Operation Star
+
+### Chapter 1671
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
+“Come and hit me, you dumb*ss!” Wang Yuhang ran, shaking his ass vigorously as he went. Many creatures were behind him.
 
 It looked risky, but Wang Yuhang could run like mad. He may have been dealt a number of injuries, but none of the wounds put him in critical status.
 

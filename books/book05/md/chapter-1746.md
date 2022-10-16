@@ -1,21 +1,20 @@
 ---
-Title:Holy Heaven 
-Chapter:1746 
-Section:6 
-Book:5 
-CSS:../Styles/style.css 
+title: Holy Heaven
+chapter: 1746
+section: 6
+book: 5
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Holy Heaven
-### Chapter 1746
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Holy Heaven
+
+### Chapter 1746
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “Is that your daughter?” In Qiao’s house, Qiao and Lan Se looked at Han Sen and Bao’er—who was sitting on the sofa—in shock.
 
 “Yeah, I went out to bring her here,” Han Sen said.

@@ -1,21 +1,20 @@
 ---
-Title:Berserk 
-Chapter:437 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Berserk
+chapter: 437
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Berserk
-### Chapter 437
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Berserk
+
+### Chapter 437
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen stepped back, while Meowth had already thrown itself at the ice-armored beast.
 
 Boom boom!

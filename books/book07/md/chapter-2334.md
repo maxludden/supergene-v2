@@ -1,21 +1,20 @@
 ---
-Title:Blood Area 
-Chapter:2334 
-Section:11 
-Book:7 
-CSS:../Styles/style.css 
+title: Blood Area
+chapter: 2334
+section: 11
+book: 7
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Blood Area
-### Chapter 2334
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Blood Area
+
+### Chapter 2334
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 King class was divided into nine different tiers. Becoming half-deified required a person to break through all nine tiers. A further barrier had to be surpassed before someone could become fully deified.
 
 Instead of being recognized separately, these nine tiers were typically just grouped under King class, however. The power of a King’s area-of-effect grew with each tier that was surpassed.
@@ -100,7 +99,7 @@ A half-deified elite had been completely swallowed by the blood kirin. The man�
 
 Other princes and princesses watched the fight from afar, looking jealously at the blood kirin.
 
-“I didn’t expect that Han Sen’s xenogeneic would be so strong; it is like it is deified already! I cannot believe that *sshole Bai Yi was able to claim it.” When Bai Ling Shuang saw the blood kirin’s performance, the sight made her grumble angrily.
+“I didn’t expect that Han Sen’s xenogeneic would be so strong; it is like it is deified already! I cannot believe that asshole Bai Yi was able to claim it.” When Bai Ling Shuang saw the blood kirin’s performance, the sight made her grumble angrily.
 
 “If you have nothing else to say, Brother Forty-Seven, then I best be on my way.” Han Sen mounted the blood kirin again and looked at Prince Swordstar with disdain. Then he headed towards the king tree.
 

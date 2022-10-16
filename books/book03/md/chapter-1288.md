@@ -1,21 +1,20 @@
 ---
-Title:Slashing Fan 
-Chapter:1288 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Slashing Fan
+chapter: 1288
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Slashing Fan
-### Chapter 1288
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Slashing Fan
+
+### Chapter 1288
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Everyone was shocked by what happened. Even Saint Fan’s face twitched, as an expression of horrid surprise suddenly overcame him.
 
 Between his two eyebrows was a wound that bled.

@@ -1,21 +1,20 @@
 ---
-Title:Big Explosion 
-Chapter:1453 
-Section:4 
-Book:4 
-CSS:../Styles/style.css 
+title: Big Explosion
+chapter: 1453
+section: 4
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Big Explosion
-### Chapter 1453
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Big Explosion
+
+### Chapter 1453
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The Crystal Egg was like a meteor. It soared to the Grenade Mushroom within a second.
 
 Han Sen held onto Bao’er and jumped onto the meat, using the umbrella to protect them near the edge of the shell. He hoped the mushroom would not detonate right away, as it would obliterate him and the umbrella. The power of a super Grenade Mushroom was sure to be frightening.

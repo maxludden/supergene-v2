@@ -1,21 +1,20 @@
 ---
-Title:Nine Spin Destiny Mirror 
-Chapter:2406 
-Section:11 
-Book:7 
-CSS:../Styles/style.css 
+title: Nine Spin Destiny Mirror
+chapter: 2406
+section: 11
+book: 7
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Nine Spin Destiny Mirror
-### Chapter 2406
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Nine Spin Destiny Mirror
+
+### Chapter 2406
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Once every drop of that strange power had drifted into Han Sen’s body, his lifespan reached 1787. In less than a minute, his lifespan had increased by half a millennium.
 
 “I wonder how many years he has taken from the Extreme King? This cannot be all, surely.” Han Sen asked the black crystal armor, directing a greedy stare at where the man’s body had been.

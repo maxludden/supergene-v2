@@ -1,21 +1,20 @@
 ---
-Title:Disorder 
-Chapter:281 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: Disorder
+chapter: 281
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Disorder
-### Chapter 281
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Disorder
+
+### Chapter 281
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 *Ding!*
 
 Han Sen summoned the three-blade harpoon in his left hand and blocked the dagger in his face.

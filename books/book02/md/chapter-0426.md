@@ -1,21 +1,20 @@
 ---
-Title:Hiding Away the Beauty 
-Chapter:426 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Hiding Away the Beauty
+chapter: 426
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Hiding Away the Beauty
-### Chapter 426
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Hiding Away the Beauty
+
+### Chapter 426
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Before getting certified as a sacred-blood aristocrat, Han Sen first needed to make arrangements for Zero. It was almost impossible for him to get rid of her at this point, so he must consider how to deal with the issue.
 
 Because Zero did not have any legal status, it would be hard for him to put her in the hotel. Han Sen hesitated and decided he had to take her home. It was impossible for him to avoid going home forever.

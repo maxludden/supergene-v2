@@ -1,21 +1,20 @@
 ---
-Title:Bad Battle With Nan Litian 
-Chapter:1372 
-Section:4 
-Book:4 
-CSS:../Styles/style.css 
+title: Bad Battle With Nan Litian
+chapter: 1372
+section: 4
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Bad Battle With Nan Litian
-### Chapter 1372
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Bad Battle With Nan Litian
+
+### Chapter 1372
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Pang!
 
 The rubberized spear collided with the umbrella. Han Sen had hoped for it to be a flaccid hit, but the power of the spear was too great, and it managed to maintain some of its hardness. When it struck Han Sen, he was still knocked back a good distance.

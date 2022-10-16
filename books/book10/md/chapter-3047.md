@@ -1,21 +1,20 @@
 ---
-Title:Crown Prince Qin Bai 
-Chapter:3047 
-Section:16 
-Book:10 
-CSS:../Styles/style.css 
+title: Crown Prince Qin Bai
+chapter: 3047
+section: 16
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Crown Prince Qin Bai
-### Chapter 3047
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Crown Prince Qin Bai
+
+### Chapter 3047
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “Mister Crown Prince, I am sorry I was too late to save you. I should die.” A very sharp voice, which did not sound like a man or a woman, was heard. Suddenly, a dozen shadows appeared. They all kneeled in front of the white-clothed young. The leader of the regiment apologized profusely.
 
 “Useless slaves!” the white-clothed young man angrily yelled. “If Han Sen had not saved me, I would have been turned into charcoal by that woman. You guys are useless.”

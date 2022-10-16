@@ -1,21 +1,20 @@
 ---
-Title:Saying No Means No 
-Chapter:3134 
-Section:16 
-Book:10 
-CSS:../Styles/style.css 
+title: Saying No Means No
+chapter: 3134
+section: 16
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Saying No Means No
-### Chapter 3134
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Saying No Means No
+
+### Chapter 3134
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The purple blood eye butterfly king looked very weird. It was like some butterfly that came from hell. Its wings had markings that looked like flickering eyes. The mere sight of them gave people the willies.
 
 Although the amount of blood eye butterflies was shocking to witness, Han Sen did not turn his gaze away from them. The peacock king’s eye skill and blood eye butterfly king’s purple eye patterns looked into each other. It suddenly made Han Sen have a hallucination. He saw two shadows. He was seeing things. It was only for a moment. After his body adjusted to the toxins, the effect was immediately diminished.

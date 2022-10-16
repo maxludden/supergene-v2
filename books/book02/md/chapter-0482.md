@@ -1,21 +1,20 @@
 ---
-Title:Purple Ferret 
-Chapter:482 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Purple Ferret
+chapter: 482
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Purple Ferret
-### Chapter 482
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Purple Ferret
+
+### Chapter 482
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 "This is somewhat troublesome, but it does not mean there is no chance to beat him." Han Sen thought about it and asked, "When is the fight?"
 
 "It is not a fight. The four of you will all attend the military contest. Whoever with the highest rank will become my guard. Unfortunately, there is no way to fake it in the military contest. You have to rely on your own strength," Ji Yanran lamented.

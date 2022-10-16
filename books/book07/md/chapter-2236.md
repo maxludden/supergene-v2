@@ -1,21 +1,20 @@
 ---
-Title:Notebook 
-Chapter:2236 
-Section:10 
-Book:7 
-CSS:../Styles/style.css 
+title: Notebook
+chapter: 2236
+section: 10
+book: 7
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Notebook
-### Chapter 2236
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Notebook
+
+### Chapter 2236
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Ice Blue Knight King wanted to find out what had happened. He knew someone inside the Ice Blue Knights had assisted Night River King; otherwise, the Rebate wouldn’t have been able to sneak onto Planet Ice Blue. But there was no evidence to implicate anyone, and as for Edward, nothing could be done at the moment.
 
 Han Sen and his team were put on call at the base. They wouldn’t have to do any wilderness clean-up for a while.

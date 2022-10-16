@@ -1,21 +1,20 @@
 ---
-Title:Zero, the Lucky Goddess 
-Chapter:935 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Zero, the Lucky Goddess
+chapter: 935
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Zero, the Lucky Goddess
-### Chapter 935
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Zero, the Lucky Goddess
+
+### Chapter 935
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Moment Queen stayed in the spirit base for the longest time and did not return. Han Sen had no fear, though, for he could feel what she was up to.
 
 Providing one waterdrop to the tree every day, it only took another four days for the small fruits that hung from its boughs to increase to the size of an average car tire. The texture of the fruits was peculiar, scaly and reptilian like the creatures that were supposed to be within.

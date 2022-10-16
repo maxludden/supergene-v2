@@ -1,21 +1,20 @@
 ---
-Title:Son of God Reward 
-Chapter:716 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Son of God Reward
+chapter: 716
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Son of God Reward
-### Chapter 716
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Son of God Reward
+
+### Chapter 716
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Chapter 717 – Son of God Reward
 
 Dollar did not show up for the final few fights, which established the Son of God rankings. People expected as much, so they weren't too disappointed.

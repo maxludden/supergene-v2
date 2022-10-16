@@ -1,21 +1,20 @@
 ---
-Title:Crazy 
-Chapter:1018 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Crazy
+chapter: 1018
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Crazy
-### Chapter 1018
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Crazy
+
+### Chapter 1018
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “What is it, Brother Han?” Liu Yuxuan asked, looking back at Han Sen.
 
 “There is something I need your help with, before your departure,” Han Sen said.
@@ -38,7 +37,7 @@ Lin He looked at Han Sen and said, “Brother Liu, calm down. I’m sure you hav
 
 “He didn’t misunderstand. He has to come with us,” Han Sen spoke plainly.
 
-“You are crazy! Who do you think you are by telling me what to do!?” At this point Liu Yuxuan was yelling at the top of his voice. He went on to shout, “Uncle San, Weiwei, do you hear what he is saying? This guy is f*cking impossible to please; he wants even more?! Dogs would show a greater appreciation than this boy!”
+“You are crazy! Who do you think you are by telling me what to do!?” At this point Liu Yuxuan was yelling at the top of his voice. He went on to shout, “Uncle San, Weiwei, do you hear what he is saying? This guy is fucking impossible to please; he wants even more?! Dogs would show a greater appreciation than this boy!”
 
 Han Sen coldly said, “I am crazy. I have been for a long time. Are you only just learning that now?”
 

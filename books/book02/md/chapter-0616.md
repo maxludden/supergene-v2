@@ -1,21 +1,20 @@
 ---
-Title:Perfume 
-Chapter:616 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Perfume
+chapter: 616
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Perfume
-### Chapter 616
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Perfume
+
+### Chapter 616
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The lobster was directly behind Han Sen, with its pincers gnashing for his blood.
 
 Han Sen knew he could no longer dodge, as he couldn't afford to sacrifice the lead he had gained. If he couldn't hold onto it, he'd be dead before he reached the surface.

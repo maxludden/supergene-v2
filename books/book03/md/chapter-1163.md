@@ -1,21 +1,20 @@
 ---
-Title:Immortal Shelter 
-Chapter:1163 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Immortal Shelter
+chapter: 1163
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Immortal Shelter
-### Chapter 1163
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Immortal Shelter
+
+### Chapter 1163
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen’s captured creature did not know it was being tricked. It thought it was being treated kindly, and so it happily gobbled up all the walnuts it was given. Before long, however, it started to writhe around on the ground in pain.
 
 Han Sen was then able to again confirm that the walnuts made creatures grow smaller. Three days later, it returned to its ordinary size.

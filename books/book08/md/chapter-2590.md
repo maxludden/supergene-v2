@@ -1,21 +1,20 @@
 ---
-Title:Fighting Meng Lie 
-Chapter:2590 
-Section:12 
-Book:8 
-CSS:../Styles/style.css 
+title: Fighting Meng Lie
+chapter: 2590
+section: 12
+book: 8
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Fighting Meng Lie
-### Chapter 2590
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Fighting Meng Lie
+
+### Chapter 2590
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “Race weapons are deified as soon as they are created,” Yisha said, shaking her head. “They are smarter than the average deified weapon. They are stronger, too. If the weapon was used by a creature from the race that created it, the weapon would be incredibly beneficial to them. There wouldn’t be any such side-effects. If it was activated by someone of another race, however, they would adopt the traits and powers of the race the weapon belongs to. Their bodies would be invaded by the race’s genes, which would turn them into something weird. Unless you gain enough power to overwhelm the race weapon, you won’t be able to hold off its effects.”
 
 “Is there no other way?” Han Sen asked with depression.

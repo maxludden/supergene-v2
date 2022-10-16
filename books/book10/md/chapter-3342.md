@@ -1,21 +1,20 @@
 ---
-Title:First Sky Leader 
-Chapter:3342 
-Section:17 
-Book:10 
-CSS:../Styles/style.css 
+title: First Sky Leader
+chapter: 3342
+section: 17
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## First Sky Leader
-### Chapter 3342
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## First Sky Leader
+
+### Chapter 3342
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “Be my guest.” Han Sen did not move. He looked at the purple copper sword. He wanted to see what it was going to do.
 
 If it did not work, Han Sen would not just sit where he was. He would flee. Regarding winning or losing this bet, he did not care. He was not going to do anything even if he lost.

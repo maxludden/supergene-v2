@@ -1,21 +1,20 @@
 ---
-Title:Nothing Out of the Ordinary 
-Chapter:2194 
-Section:9 
-Book:6 
-CSS:../Styles/style.css 
+title: Nothing Out of the Ordinary
+chapter: 2194
+section: 9
+book: 6
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Nothing Out of the Ordinary
-### Chapter 2194
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Nothing Out of the Ordinary
+
+### Chapter 2194
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 The highly corrosive power of that black water was something like a whetstone. It looked like a grinder that could wear a diamond down into dust. It whirled continuously just outside the blue shield.
 
 Night River King was confident in his Night River Beast God. The geno art didn’t have overwhelming strike power like Yisha_s Teeth powers, which could one-hit-kill almost any enemy.

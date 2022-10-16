@@ -1,21 +1,20 @@
 ---
-Title:Blueblood Crystallizer? 
-Chapter:2093 
-Section:8 
-Book:6 
-CSS:../Styles/style.css 
+title: Blueblood Crystallizer?
+chapter: 2093
+section: 8
+book: 6
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Blueblood Crystallizer?
-### Chapter 2093
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Blueblood Crystallizer?
+
+### Chapter 2093
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “Mister Lone Bamboo, I’ve heard that you are in a rush to find me. What is the matter?” Sleepless Duke asked Lone Bamboo.
 
 “Kahn delivered some special goods to you. I would like to know what they are.” Lone Bamboo told her directly.

@@ -1,21 +1,20 @@
 ---
-Title:Killer Queen 
-Chapter:2197 
-Section:9 
-Book:6 
-CSS:../Styles/style.css 
+title: Killer Queen
+chapter: 2197
+section: 9
+book: 6
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Killer Queen
-### Chapter 2197
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Killer Queen
+
+### Chapter 2197
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “Where is the Jade Drum? Give it to me, and I will permit you to live.” The Taurus began to approach Huangfu Jing, lifting his creepy weapon to point it at her threateningly.
 
 The weapon looked very strange. It was roughly the shape of a greatsword, but the back of the greatsword had a rectangular slot. Inside of that slot, there was something that looked like a string.

@@ -1,20 +1,19 @@
 ---
-Title:Xina
-Chapter:1750
-Section:6
-Book:5
-CSS:../Styles/style.css
+title: Xina
+chapter: 1750
+section: 6
+book: 5
+CSS: style.css
 viewport: width=device-width
 ---
 
 ## Xina
+
 ### Chapter 1750
 
 <figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
 </figure>
-
-
 
 Han Sen found a golden bone inside her corpse. It was ten centimeters long.
 
@@ -59,11 +58,10 @@ After Han Sen went back to Qiao’s house, he found an opportunity to examine hi
 <div class="tables">
 	<table class="beast">
 		<tr>
-			<th>Beast Soul</th>
+			<th colspan="2">Beast Soul Gained</th>
 		</tr><tr>
-			<td>Baron Xenogeneic Gold Feather Witch<br>
-				<span class="type">(Bow)</span>
-			</td>
+			<td>Baron Xenogeneic Gold Feather Witch</td>
+			<td>(Bow)</td>
 		</tr>
 	</table>
 	<!-- Baron Xenogeneic Beast Soul: Gold Feather Witch (Bow Type) -->

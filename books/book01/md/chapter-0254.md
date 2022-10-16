@@ -1,21 +1,20 @@
 ---
-Title:Archery Expert 
-Chapter:254 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: Archery Expert
+chapter: 254
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Archery Expert
-### Chapter 254
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Archery Expert
+
+### Chapter 254
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 "I was just wondering why they both chose archery. It turns out that there's something going on between the two!"
 
 "Exactly! I can't wait to see their duel."

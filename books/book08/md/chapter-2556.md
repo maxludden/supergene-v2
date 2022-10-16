@@ -1,21 +1,20 @@
 ---
-Title:You Are the Savior 
-Chapter:2556 
-Section:12 
-Book:8 
-CSS:../Styles/style.css 
+title: You Are the Savior
+chapter: 2556
+section: 12
+book: 8
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## You Are the Savior
-### Chapter 2556
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## You Are the Savior
+
+### Chapter 2556
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen’s continued traversal of the core area was free from strife. Although many people sought to follow him, none of them sought trouble.
 
 That was what depressed Han Sen, though. Not even the Demons came looking to start a fight. Han Sen wanted more of those Demon Dolls, and he wasn’t getting another chance to procure one.

@@ -1,21 +1,20 @@
 ---
-Title:Devil Sword 
-Chapter:304 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: Devil Sword
+chapter: 304
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Devil Sword
-### Chapter 304
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Devil Sword
+
+### Chapter 304
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Zheng Chi and Zhou Qingyu were dumbstruck. They had never seen someone so powerful.
 
 "Incredible." Seeing Han Sen killing the murky beast, Zheng Chi couldn't remove his stare from Han Sen.

@@ -1,21 +1,20 @@
 ---
-Title:Knifemind 
-Chapter:1800 
-Section:6 
-Book:5 
-CSS:../Styles/style.css 
+title: Knifemind
+chapter: 1800
+section: 6
+book: 5
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Knifemind
-### Chapter 1800
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Knifemind
+
+### Chapter 1800
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen pulled at it a few times, but he was unable to remove the scabbard. It surprised him.
 
 Before Han Sen could make another move, he felt as if the scabbard had a beastly knifemind. It came for him like a monster, as if it wished to consume him.

@@ -1,21 +1,20 @@
 ---
-Title:King Class Dongxuan Battle Body 
-Chapter:2391 
-Section:11 
-Book:7 
-CSS:../Styles/style.css 
+title: King Class Dongxuan Battle Body
+chapter: 2391
+section: 11
+book: 7
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## King Class Dongxuan Battle Body
-### Chapter 2391
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## King Class Dongxuan Battle Body
+
+### Chapter 2391
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen could feel two powers battling inside him, but even so, his facial expression remained unchanged.
 
 He had thought of a way to deal with the power invading his body some time ago. Instead of the unimaginably horrible force that Fox Queen considered it, Han Sen had realized that it was just power like any other. It wasn’t too bad.

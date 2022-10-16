@@ -1,21 +1,20 @@
 ---
-Title:Got a God Personality Again 
-Chapter:2987 
-Section:15 
-Book:9 
-CSS:../Styles/style.css 
+title: Got a God Personality Again
+chapter: 2987
+section: 15
+book: 9
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Got a God Personality Again
-### Chapter 2987
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Got a God Personality Again
+
+### Chapter 2987
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 I was
 
 “That strong?” Han Sen was shocked. The most shocking thing about this situation came later. After Kill Sky God was injured, he was so shocked that he wanted to escape but could not even turn around.

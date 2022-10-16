@@ -1,21 +1,20 @@
 ---
-Title:Difficult Decision 
-Chapter:2635 
-Section:12 
-Book:8 
-CSS:../Styles/style.css 
+title: Difficult Decision
+chapter: 2635
+section: 12
+book: 8
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Difficult Decision
-### Chapter 2635
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Difficult Decision
+
+### Chapter 2635
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “You don’t want to offend people, so you want me to do it for you? You are quite smart,” Sky Palace Leader said to Han Sen with a smile.
 
 Han Sen hadn’t explained his true purpose, but Sky Palace Leader immediately recognized what he was doing.
@@ -80,6 +79,6 @@ Unless Han Sen opened the Constellation Sea’s borders to travel, no one would 
 
 “Her chest has a birthmark that resembles a red heart? That is quite obvious, you would think… Wait… Chest…” Han Sen glanced down at his own chest. He looked strange as he asked Sky Palace Leader, “You say you are looking for a Very High woman?” “Yes,” Sky Palace Leader said with a nod of his head.
 
-“Do you think I’ll have the chance to check out the chests of various women for that birthmark?” Han Sen felt that Sky Palace Leader might be tricking him. If he went to the Very High just to check out their women, it would be a f*cking deathwish.
+“Do you think I’ll have the chance to check out the chests of various women for that birthmark?” Han Sen felt that Sky Palace Leader might be tricking him. If he went to the Very High just to check out their women, it would be a fucking deathwish.
 
 “If it was an easy task, why would I give you the Constellation Sea?” Sky Palace Leader looked at Han Sen and said, “You don’t even have to look at them yourself, anyway. You can just ask around. Exquisite is a woman, for instance. She is more likely to have seen it. And if you can get her to tell you, then you will have no trouble. Come back in four years, and you can take your family to the Constellation Sea. I will give you all the support you can ask for. I will give you people, if you want. Do you want a boat? I can give you a boat. You won’t have to pay taxes for three hundred years, either.”

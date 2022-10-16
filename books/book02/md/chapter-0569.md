@@ -1,21 +1,20 @@
 ---
-Title:Meeting Son of Heaven Again 
-Chapter:569 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Meeting Son of Heaven Again
+chapter: 569
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Meeting Son of Heaven Again
-### Chapter 569
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Meeting Son of Heaven Again
+
+### Chapter 569
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 While Son of Heaven was still in shock, he saw the Snow Charmer raise her lance again. A flaming bird of fire soared through the sky, looking like a phoenix, raining fire down on the battlefield.
 
 "Ah! It's an aura-type beast soul. How does that work?" The look on Son of Heaven's face was bleak. An aura-type beast soul employed area-of-effect techniques best designed to go against groups of opponents. It was something sought after by numerous parties and shelters. He was in disbelief at the sight of an aura-type beast soul being used by a royal spirit. Even worse, the radius of the attack seemed significant, which might have suggested it was a sacred-blood aura-type beast soul. The color drained from his face.

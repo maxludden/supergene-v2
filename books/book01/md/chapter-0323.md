@@ -1,21 +1,20 @@
 ---
-Title:An Invite From the Queen 
-Chapter:323 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: An Invite From the Queen
+chapter: 323
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## An Invite From the Queen
-### Chapter 323
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## An Invite From the Queen
+
+### Chapter 323
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 "Thank you for the chance." Han Sen smiled and threw a punch at the young man.
 
 The young man looked at Han Sen's fist, curled his lips, smiled contemptuously, and countered Han Sen's strike with his fist.

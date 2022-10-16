@@ -1,21 +1,20 @@
 ---
-Title:Ancient Shura Text 
-Chapter:996 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Ancient Shura Text
+chapter: 996
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Ancient Shura Text
-### Chapter 996
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Ancient Shura Text
+
+### Chapter 996
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen was incredibly overjoyed, watching his space king spirit geno point tally increase one-by-one.
 
 Split-Space King, before it was all over, became numb. Eventually, he gave up completely. Whenever he respawned, he stood there silently, awaiting death. Again and again, he allowed this to happen.

@@ -1,21 +1,20 @@
 ---
-Title:Fighting a Group Alone 
-Chapter:3230 
-Section:16 
-Book:10 
-CSS:../Styles/style.css 
+title: Fighting a Group Alone
+chapter: 3230
+section: 16
+book: 10
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Fighting a Group Alone
-### Chapter 3230
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Fighting a Group Alone
+
+### Chapter 3230
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen explained the situation to them once. “You guys don’t have to worry all that much. Even if the 33 skies are broken and the creatures of another universe invade us, they will be repelled by the rules of this universe. Instead, the 33 skies might harm the universe.”
 
 Han Sen’s return delighted people, but the news he delivered made their joy short-lived. It made them gloomy. “I did not know power could be played like this. This is great. I was worried there wouldn’t be any further chances to level up. After the two universes break, we can break the world too. Why do we have to be afraid of these guys?” Xie Qing King rubbed his palms, ready for a fight.

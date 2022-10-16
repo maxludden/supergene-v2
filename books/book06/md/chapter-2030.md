@@ -1,21 +1,20 @@
 ---
-Title:The Braves 
-Chapter:2030 
-Section:8 
-Book:6 
-CSS:../Styles/style.css 
+title: The Braves
+chapter: 2030
+section: 8
+book: 6
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## The Braves
-### Chapter 2030
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## The Braves
+
+### Chapter 2030
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “A powerful skill. A very powerful skill,” Dragon Thirteen complimented. She looked around, unable to determine where those knife airs were hiding.
 
 “That is too much of a compliment.” Han Sen smiled.

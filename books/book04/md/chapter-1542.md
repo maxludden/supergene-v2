@@ -1,21 +1,20 @@
 ---
-Title:Claiming Godlight Tunnel 
-Chapter:1542 
-Section:4 
-Book:4 
-CSS:../Styles/style.css 
+title: Claiming Godlight Tunnel
+chapter: 1542
+section: 4
+book: 4
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Claiming Godlight Tunnel
-### Chapter 1542
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Claiming Godlight Tunnel
+
+### Chapter 1542
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen, seeing Goddess had not died, thought that it was a great shame. Little Lion King felt relief, though. If she had really been killed, and he was involved with the incident, it might have started a war between Lion Mountain and Sacred.
 
 Although Lion Mountain was not afraid of Sacred, it’d be a clash between two super shelters. The loss of lives would not be worth it.

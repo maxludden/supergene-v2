@@ -1,21 +1,20 @@
 ---
-Title:Han Sen's Challenge 
-Chapter:2873 
-Section:14 
-Book:9 
-CSS:../Styles/style.css 
+title: Han Sen's Challenge
+chapter: 2873
+section: 14
+book: 9
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Han Sen's Challenge
-### Chapter 2873
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Han Sen's Challenge
+
+### Chapter 2873
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 “Finally moved.” Han Sen quickly looked at the other name. He noticed Zhang Xuandao was challenging Ancient Sacrifice God, who was ranked sixth.
 
 Ancient Sacrifice God was one of the Ancient Gods, and he was the highest-ranked person within the Ancient Gods.

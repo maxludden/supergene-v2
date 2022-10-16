@@ -1,21 +1,20 @@
 ---
-Title:Big Army Suppressing the City 
-Chapter:549 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Big Army Suppressing the City
+chapter: 549
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Big Army Suppressing the City
-### Chapter 549
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Big Army Suppressing the City
+
+### Chapter 549
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Going to the Goddess Shelter, Blackgod brought with him six evolvers, each possessing over 100 sacred geno points. He also brought with him over 200 elite evolvers from the Blackgod Shelter.
 
 Following their investigation of the powers of the Goddess Shelter, they surmised that their forces were more than ten times the amount needed to wipe out the Goddess Shelter.

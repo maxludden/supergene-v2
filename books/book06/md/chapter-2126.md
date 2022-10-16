@@ -1,21 +1,20 @@
 ---
-Title:Four Evil Eyes 
-Chapter:2126 
-Section:8 
-Book:6 
-CSS:../Styles/style.css 
+title: Four Evil Eyes
+chapter: 2126
+section: 8
+book: 6
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Four Evil Eyes
-### Chapter 2126
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Four Evil Eyes
+
+### Chapter 2126
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Lone Bamboo did not say a word. Silently, he reached for his jade sword.
 
 No one would have expected Evil Eye to have been reborn as one of the Sky, and no one would have expected him to don a disguise in order to infiltrate Sky Palace.

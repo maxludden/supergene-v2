@@ -1,21 +1,20 @@
 ---
-Title:Dark Swamp 
-Chapter:57 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: Dark Swamp
+chapter: 57
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Dark Swamp
-### Chapter 57
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Dark Swamp
+
+### Chapter 57
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen returned to his room and continued to read the article he had found on the Skynet.
 
 It was a post written by a Steel Armor Shelter member from a long time ago. He was once chased by a creature and had to run into Dark Swamp.

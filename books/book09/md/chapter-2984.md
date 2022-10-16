@@ -1,21 +1,20 @@
 ---
-Title:God Spirit Descends 
-Chapter:2984 
-Section:15 
-Book:9 
-CSS:../Styles/style.css 
+title: God Spirit Descends
+chapter: 2984
+section: 15
+book: 9
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## God Spirit Descends
-### Chapter 2984
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## God Spirit Descends
+
+### Chapter 2984
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 In the god palaces, the god temple under the geno hall began to release a 3,000-foot-long light. It was like a sun exploding.
 
 Previously, the lifeforce was like a sea. The god temple that released the scary god light was suddenly dead. The shining gold god temple was dim. It was like some dust had been scattered.

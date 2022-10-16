@@ -1,21 +1,20 @@
 ---
-Title:Don’t Stop 
-Chapter:1108 
-Section:3 
-Book:3 
-CSS:../Styles/style.css 
+title: Don’t Stop
+chapter: 1108
+section: 3
+book: 3
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Don’t Stop
-### Chapter 1108
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Don’t Stop
+
+### Chapter 1108
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen rushed over to hold Queen. As he held her, he swiftly examined her wounds to check how badly she was hurt.
 
 She had been severely injured, and the sacred-blood armor Han Sen had lent her had been practically destroyed. Only shreds of it remained clinging to her blood-soaked body.

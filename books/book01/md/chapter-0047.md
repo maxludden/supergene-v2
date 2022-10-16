@@ -1,21 +1,20 @@
 ---
-Title:Z-steel Arrow 
-Chapter:47 
-Section:1 
-Book:1 
-CSS:../Styles/style.css 
+title: Z-steel Arrow
+chapter: 47
+section: 1
+book: 1
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Z-steel Arrow
-### Chapter 47
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Z-steel Arrow
+
+### Chapter 47
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 "What is the noise outside?" Yang Manli heard it getting more and more noisy outside her office as she was reviewing the data of the sacred-blood creature sent from Son of Heaven.
 
 Yang Manli asked twice, but no one answered. She frowned and went to find out.

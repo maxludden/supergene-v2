@@ -1,21 +1,20 @@
 ---
-Title:Is That All You've Got? 
-Chapter:775 
-Section:2 
-Book:2 
-CSS:../Styles/style.css 
+title: Is That All You've Got?
+chapter: 775
+section: 2
+book: 2
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Is That All You've Got?
-### Chapter 775
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Is That All You've Got?
+
+### Chapter 775
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Han Sen did not move an inch. Half of his body crackled and sparked with looming thunder, whereas his other half chimed like a bell. When the invisible bladestorm was about to strike Han Sen, he threw out his fist.
 
 The combined powers of sonic and lightning channeled through his fist to form an orb of light in the palm of his hand. It grew into a silver sun and exploded out towards Luo Li with the break of deafening thunder.

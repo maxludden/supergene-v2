@@ -1,21 +1,20 @@
 ---
-Title:The Name of Dollar 
-Chapter:2121 
-Section:8 
-Book:6 
-CSS:../Styles/style.css 
+title: The Name of Dollar
+chapter: 2121
+section: 8
+book: 6
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## The Name of Dollar
-### Chapter 2121
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## The Name of Dollar
+
+### Chapter 2121
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 Dragon Eight tried to force himself to get up, but the figure on the coin was displaying a mighty number eight. His hands trembled in exertion as he attempted to rise, but nothing came of it. He couldn’t get up.
 
 Dragon Eight’s dragon fire was burning like a bonfire, but try as he might to rise, he just couldn’t get back on his feet.
@@ -68,7 +67,7 @@ Yisha’s next opponent was sure to be in bad luck. She was on a King class batt
 
 The poor King that went up against Yisha was swiftly wrecked. He couldn’t fight back in the least. If he hadn’t ripped up the paper quickly, it’d have been a fairly brutal murder.
 
-“F*ck you! It’s just a ranked match. You don’t need to hit that hard!” The King cradled his battered body and started to fancy some revenge himself.
+“Fuck you! It’s just a ranked match. You don’t need to hit that hard!” The King cradled his battered body and started to fancy some revenge himself.
 
 Dollar became incredibly famous. The title of Human Dollar was one of much renown now, and it wasn’t just the Marquises that were interested in him. Because of how mysterious Dollar was, people became all the more fascinated with his geno art.
 

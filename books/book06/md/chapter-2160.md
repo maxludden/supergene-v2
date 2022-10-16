@@ -1,21 +1,20 @@
 ---
-Title:Violent Explosion 
-Chapter:2160 
-Section:8 
-Book:6 
-CSS:../Styles/style.css 
+title: Violent Explosion
+chapter: 2160
+section: 8
+book: 6
+CSS: style.css
 viewport: width=device-width
 ---
-  
-## Violent Explosion
-### Chapter 2160
-  
-<figure>
-	<img src="../Images/gem.gif" alt="gem" id="gem" width="120" height="60" />
-</figure>
-  
 
-  
+## Violent Explosion
+
+### Chapter 2160
+
+<figure>
+	<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />
+</figure>
+
 *Boom!*
 
 Yuya and the others were fighting hard when they heard an explosion echo from afar. There was a light blooming among all those xenogeneics.
@@ -90,7 +89,7 @@ Dragon Eight and Yuya moved to help Han Sen, but they soon stopped. They just st
 
 Ruins, bodies, and smoke were all that was left in his wake. The whole xenogeneic host had been blown to pieces by Han Sen. He gave an evil chuckle.
 
-Everything around Han Sen was exploding. Everyone was thinking, “This guy has destroyed more than those f*cking Destroyed did. It’s like he is one of the Destroyed!”
+Everything around Han Sen was exploding. Everyone was thinking, “This guy has destroyed more than those fucking Destroyed did. It’s like he is one of the Destroyed!”
 
 The xenogeneics were running now. The whole place was like a graveyard in the middle of hell itself.
 

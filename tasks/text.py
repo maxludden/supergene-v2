@@ -32,8 +32,8 @@ with Progress(console=console) as progress:
         if doc:
             text_path = Path(str(get_text_path(int(doc))))
             if text_path.exists():
-                with open(text_path, "r") as f:
-                    doc.text = str(f.read())
+                with open(text_path, "r") as infile:
+                    doc.text = str(infile.read())
                     doc.save()
                     console.log(
                         Panel(

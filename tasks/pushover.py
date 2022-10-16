@@ -15,7 +15,8 @@ from rich.text import Text
 from rich.color import Color
 from sh import Command, RunningCommand
 import sh
-from colr import Colr as C
+# from colr import Colr as C
+from cfonts import render, say
 
 from dotenv import load_dotenv
 
@@ -53,24 +54,22 @@ def yay(clear: bool = False) -> None:
             celebrate()
 
     # Gradient Text
-    yay = C("Celebrate 🎉").gradient("red", "yellow", "green", "bright_blue", "purple")
-    yay_title = C("Yay!").gradient_rgb(
-        fore="white", start=(0, 255, 68), stop=(255, 0, 212)
-    )
+    # gradient = C("Celebrate", fore=(255, 0, 0), back=(0, 255, 0))     
+    # yay_title = C("Yay!").gradient_rgb(start=(0, 255, 68), stop=(255, 0, 212))
 
     # # Rainbow gradient
     # ryay = C("Celebrate 🎉").rainbow(rgb_mode=True)
     # ryay_title = C("Yay!").rainbow(fore="white", rgb_mode=True)
 
-    console.print(
-        Panel(
-            yay,  # type: ignore
-            title=yay_title,  # type: ignore
-            title_align="left",
-            expand=True,
-            width=80,
-        )
-    )
+    # console.print(
+    #     Panel(
+    #         yay,  # type: ignore
+    #         title=yay_title,  # type: ignore
+    #         title_align="left",
+    #         expand=True,
+    #         width=80,
+    #     )
+    # )
 
 
 # > SUPER YAY ------------------------------
@@ -128,3 +127,5 @@ def notify(title: str, msg: str, color: Color = Color.parse("cornflower_blue")) 
             style=Style(color="bright_red", bold=True, reverse=True),
         )
         console.print(error_panel)
+
+yay()

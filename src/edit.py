@@ -4,6 +4,7 @@ from concurrent.futures import (ProcessPoolExecutor, ThreadPoolExecutor,
                                 as_completed)
 from multiprocessing import cpu_count, freeze_support
 from pathlib import Path
+from time import perf_counter
 
 import ujson as json
 from rich import print
@@ -12,17 +13,17 @@ from rich.live import Live
 from rich.live_render import LiveRender
 from rich.markdown import Markdown
 from rich.panel import Panel
-from rich.progress import Progress
+from rich.progress import Progress, BarColumn, TextColumn, MofNCompleteColumn
 from rich.prompt import Prompt
 from rich.style import Style
-from rich.table import Table
+from rich.table import Table, Column
 from rich.text import Text
 from rich.theme import Theme
 from sh import Command, ErrorReturnCode, RunningCommand
 
 import myaml as yaml
 from atlas import sg, max_title
-from chapter import Chapter, chapter_gen, get_text_path
+from chapter import Chapter, get_text_path
 from log import BASE, console, log
 
 
@@ -38,6 +39,41 @@ class ChapterNotFound(Exception):
 class MarkdownGenerationError(Exception):
     pass
 
+class HTMLGenerationError(Exception):
+    pass
+
+class chapter_gen:
+    """
+    Generator for chapter numbers.
+    """
+
+    def __init__(self, start: int = 1, end: int = 3462):
+        self.start = start
+        self.end = end
+        self.chapter_number = start
+
+    def __iter__(self):
+        return self
+
+    def __next__(self):
+        if self.chapter_number >= 3462:
+            raise StopIteration
+        elif self.chapter_number == 3094:
+            # Skipping chapter 3095
+            # 3094 + 1 + 1 = 3096
+            self.chapter_number += 2
+            return self.chapter_number
+        elif self.chapter_number == 3116:
+            # Skipping chapter 3117
+            # 3116 + 1 + 1 = 3118
+            self.chapter_number += 2
+            return self.chapter_number
+        else:
+            self.chapter_number += 1
+            return self.chapter_number
+
+    def __len__(self):
+        return self.end - self.start + 1
 
 # def tp_edit():
 #     chapters = chapter_gen()
@@ -98,7 +134,7 @@ ICESKIN = {
 keys = REPLACEMENTS.keys()
 
 def edit_chapter(chapter: int) -> None:
-    # _. Edit the text for the given chapter.
+    '''Edit the text for the given chapter.'''
     # . Connect to MongoDB
     sg()
     doc = Chapter.objects(chapter=chapter).first() # type: ignore
@@ -152,7 +188,7 @@ def edit_chapter(chapter: int) -> None:
     doc.save()
 
 def update_md(chapter: int) -> None:
-    # _. Update the markdown for the given chapter.
+    '''Update the markdown file for the given chapter.'''
     # . Connect to MongoDB
     sg()
     doc = Chapter.objects(chapter=chapter).first() # type: ignore
@@ -189,22 +225,161 @@ def update_md(chapter: int) -> None:
     else:
         raise ChapterNotFound(f"Chapter {chapter} not found.")
 
+def generate_html(chapter: int, save: bool = True):
+    start = perf_counter()
+    sg()
+    doc = Chapter.objects(chapter=chapter).first()  # type: ignore
+    if doc:
+        html_path = Path(doc.html_path)
+        md_path = Path(doc.md_path)
+
+        if md_path.exists():
+            multimarkdown = Command("multimarkdown")
+            mmd = multimarkdown.bake(
+                "-f",
+                "--nolabels",
+                "-o",
+            )
+            result = mmd(html_path, md_path)
+            if result.exit_code == 0:  # type: ignore
+
+                if save:
+                    sg()
+                    doc = Chapter.objects(chapter=chapter).first()  # type: ignore
+                    with open(html_path, "r") as infile:
+                        doc.html = infile.read()
+
+            else:
+                raise HTMLGenerationError(
+                    f"Error generating HTML for doc {doc.chapter}."
+                )
+
+        else:
+            raise ChapterNotFound(f"Markdown file not found for doc {doc.chapter}.")
+    else:
+
+        raise ChapterNotFound(f"Chapter {doc.chapter} not found.")
+    end = perf_counter()
+    duration = end - start
+
+    return duration
 
 
+def update_chapter(chapter: int) -> int:
+    '''Update the text, markdown, and html for the given chapter.'''
+    sg()
+    doc = Chapter.objects(chapter=chapter).first() # type: ignore
+    if doc:
 
-def main():
-    '''
-    Main function.
-    '''
-    with Progress(console=console) as progress:
-        chapter = 0
-        task = progress.add_task(description=f"Editing Supergene Chapters... Chapter {chapter}/3462", total = 3460) # type: ignore
-        chapters = chapter_gen()
+        # . Edit the text for the given chapter
+        text_path = Path(doc.text_path)
 
-        for chapter in chapters:
-            update_md(chapter)
-            progress.advance(task)
+        # Read the text for the given chapter from disk
+        with open(text_path, "r") as infile:
+            text = infile.read()
+
+        # Edit the text for the given chapter
+        changed = False
+        for key in keys:
+            bad_word = REPLACEMENTS[key]
+            regex = bad_word["regex"]
+            replacement = bad_word["replacement"]
+            result = re.search(regex, text)
+            if result:
+                changed = True
+                text = re.sub(regex, replacement, text)
+                log.debug(f"Replaced {regex} with {replacement} in Chapter {chapter}.")
+
+        # Update MongoDB with the edited text for the given chapter
+        doc.text = text
+
+        # Fix Title
+        title = doc.title
+        if 'Ice Skin' in title:
+            title = title.replace('Ice Skin', 'Jadeskin')
+            doc.title = title
+            log.debug(f"Updated title for Chapter {chapter} to {title}.")
+        if 'Ice-Skin' in title:
+            title = title.replace('Ice-Skin', 'Jadeskin')
+            doc.title = title
+            log.debug(f"Updated title for Chapter {chapter} to {title}.")
+
+        if changed:
+        #  Write the edited text for the give chapter to disk if changed
+            with open (text_path, 'w') as outfile:
+                outfile.write(text)
+                log.debug(f"Wrote text for Chapter {chapter} to {text_path}.")
+
+        # . Markdown
+        title = max_title(doc.title)
+        section = f"{doc.section}"
+        book = f"{doc.book}"
+
+        metadata = f"---\n"
+        metadata = f"{metadata}title: {title}\n"
+        metadata = f"{metadata}chapter: {chapter}\n"
+        metadata = f"{metadata}section: {section}\n"
+        metadata = f"{metadata}book: {book}\n"
+        metadata = f"{metadata}CSS: style.css\n"
+        metadata = f"{metadata}viewport: width=device-width\n"
+        metadata = f"{metadata}---\n\n"
+
+        atx = f"## {title}\n\n"
+        atx = f"{atx}### Chapter {chapter}\n\n"
+
+        img = '<figure>\n\t<img src="../Images/gem.gif" alt="" id="gem" width="120" height="60" />\n</figure>\n\n'
+
+        text = str(doc.text)
+        text = text.strip()
+
+        md = f"{metadata}{atx}{img}{text}"
+
+        md_path = Path(doc.md_path)
+        with open (md_path, 'w') as outfile:
+            outfile.write(md)
+
+        doc.md = md
+
+        # . HTML
+        html_path = Path(doc.html_path)
+        md_path = Path(doc.md_path)
+
+        multimarkdown = Command("multimarkdown")
+        mmd = multimarkdown.bake(
+            "-f",
+            "--nolabels",
+            "-o",
+        )
+        result = mmd(html_path, md_path)
+        if result.exit_code == 0:  # type: ignore
+            sg()
+            doc = Chapter.objects(chapter=chapter).first()  # type: ignore
+            with open(html_path, "r") as infile:
+                doc.html = infile.read()
+        else:
+            raise HTMLGenerationError(
+                f"Error generating HTML for doc {doc.chapter}."
+            )
+        doc.save()
+        return chapter
+    else:
+        raise ChapterNotFound(f"Chapter {chapter} not found.")
 
 
 if __name__ == "__main__":
-    main()
+    text_column = TextColumn("[progress.description]{task.description}")
+    bar_column = BarColumn(bar_width = None, finished_style = "green", table_column = Column(ratio=3))
+    mofn_column = MofNCompleteColumn()
+    progress = Progress(text_column, bar_column, mofn_column, console = console, transient = True)
+
+    with progress:
+        task = progress.add_task("Generating HTML...", total=3460)
+
+        chapters = chapter_gen()
+
+        with ProcessPoolExecutor(max_workers=cpu_count()) as executor:
+            futures = [executor.submit(update_chapter, chapter) for chapter in chapters]
+
+            for future in as_completed(futures):
+                print(f"Updated Chapter {future.result()}.")
+                progress.advance(task)

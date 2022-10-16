@@ -292,7 +292,6 @@ def generate_html(chapter: int, save: bool = True):
         html_path = generate_html_path(doc.chapter)
         md_path = generate_md_path(doc.chapter)
 
-
         if md_path.exists():
             multimarkdown = Command("multimarkdown")
             mmd = multimarkdown.bake(
@@ -310,12 +309,11 @@ def generate_html(chapter: int, save: bool = True):
                         doc.html = infile.read()
 
             else:
-
                 raise HTMLGenerationError(
                     f"Error generating HTML for doc {doc.chapter}."
                 )
-        else:
 
+        else:
             raise ChapterNotFound(f"Markdown file not found for doc {doc.chapter}.")
     else:
 

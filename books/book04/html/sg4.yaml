@@ -2,7 +2,7 @@
 from: html
 to: epub
 
-output-file: Fourth and Fifth God's Sanctuary.epub
+output-file: 4 - Fourth and Fifth God's Sanctuary.epub
 
 input-files:
   - cover4.html

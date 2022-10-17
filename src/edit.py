@@ -2,7 +2,7 @@
 import re
 from concurrent.futures import (ProcessPoolExecutor, ThreadPoolExecutor,
                                 as_completed)
-from multiprocessing import cpu_count, freeze_support
+from multiprocessing import cpu_count
 from pathlib import Path
 from time import perf_counter
 

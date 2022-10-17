@@ -2,7 +2,7 @@
 from: html
 to: epub
 
-output-file: Third God's Sanctuary.epub
+output-file: 3 - Third God's Sanctuary.epub
 
 input-files:
   - cover3.html

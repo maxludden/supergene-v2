@@ -2,7 +2,7 @@
 from: html
 to: epub
 
-output-file: The Ice Blue Knights and The Extreme Kings.epub
+output-file: 7 - The Ice Blue Knights and The Extreme Kings.epub
 
 input-files:
   - cover7.html

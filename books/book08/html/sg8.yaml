@@ -2,7 +2,7 @@
 from: html
 to: epub
 
-output-file: The Systems of Chaos and The Very High.epub
+output-file: 8 - The Systems of Chaos and The Very High.epub
 
 input-files:
   - cover8.html

@@ -2,7 +2,7 @@
 from: html
 to: epub
 
-output-file: Meeting God and Fighting Sacred.epub
+output-file: 9 - Meeting God and Fighting Sacred.epub
 
 input-files:
   - cover9.html

@@ -2,7 +2,7 @@
 from: html
 to: epub
 
-output-file: Sky Palace, Blade, and Eclipse.epub
+output-file: 6 - Sky Palace, Blade, and Eclipse.epub
 
 input-files:
   - cover6.html

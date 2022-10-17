@@ -2,7 +2,7 @@
 from: html
 to: epub
 
-output-file: First God's Sanctuary.epub
+output-file: 1 - First God's Sanctuary.epub
 
 input-files:
   - cover1.html

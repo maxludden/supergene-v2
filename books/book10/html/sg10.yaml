@@ -2,7 +2,7 @@
 from: html
 to: epub
 
-output-file: The Universe of Kingdoms and Quin Kiu.epub
+output-file: 10 - The Universe of Kingdoms and Quin Kiu.epub
 
 input-files:
   - cover10.html

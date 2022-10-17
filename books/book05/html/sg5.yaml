@@ -2,7 +2,7 @@
 from: html
 to: epub
 
-output-file: Planet Kate and Narrow Moon.epub
+output-file: 5 - Planet Kate and Narrow Moon.epub
 
 input-files:
   - cover5.html

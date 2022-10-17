@@ -23,7 +23,6 @@ from src.log import log, console
 
 BASE = Path.cwd()
 pandoc = Command("pandoc")
-pandoc = pandoc.bake("--css", "style.css")
 cd = Command("cd")
 cp = Command("cp")
 
@@ -66,8 +65,12 @@ progress = Progress(
 
 def create_books(book: int) -> Panel:
     book_zfill = str(book).zfill(2)
+    # default_file = (BASE / "books" / f"book{book_zfill}" / "html" / f"sg{book}.yaml").resolve()
+    # css = (BASE / "books" / f"book{book_zfill}" / "html" / "style.css").resolve()
     cd(BASE / "books" / f"book{book_zfill}" / "html")
-    pandoc("-d", f"sg{book}")
+    default_file = f"sg{book}.yaml"
+    css = "style.css"
+    pandoc("-d", default_file, "--css", css)
 
     file = books[book]
     destination = BASE / "books" / file
@@ -90,9 +93,6 @@ if __name__ == "__main__":
         task = progress.add_task("Creating Books...", total=10)
 
         for book in book_numbers:
-            with ProcessPoolExecutor(max_workers=cpu_count()) as executor:
-                futures = [executor.submit(create_books, book) for book in book_numbers]
-
-                for future in as_completed(futures):
-                    console.print(f"Updated Chapter {future.result()}.")
-                    progress.advance(task)
+            panel = create_books(book)
+            console.print(panel)
+            progress.advance(task)

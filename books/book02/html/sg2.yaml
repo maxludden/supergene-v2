@@ -2,7 +2,7 @@
 from: html
 to: epub
 
-output-file: 2 -Second God's Sanctuary.epub
+output-file: 2 - Second God's Sanctuary.epub
 
 input-files:
   - cover2.html

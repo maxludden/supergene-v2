@@ -11,7 +11,10 @@ from rich import inspect, print
 from rich.console import Console
 from rich.panel import Panel
 from rich.pretty import pprint
+from rich.progress import (BarColumn, Progress, SpinnerColumn, TextColumn,
+                           TimeElapsedColumn, TimeRemainingColumn, MofNCompleteColumn)
 from rich.style import Style
+from rich.table import Column, Table
 from rich.text import Text
 from rich.theme import Theme
 from rich.traceback import install
@@ -41,8 +44,32 @@ theme = Theme(
     }
 )
 
+# . Console
 console = Console(theme=theme)
+# Traceback
 install(console=console)
+
+# . Progress
+text_column = TextColumn("[progress.description]{task.description}")
+spinner_column = SpinnerColumn()
+bar_column = BarColumn(
+    bar_width=None, finished_style="green", table_column=Column(ratio=3)
+)
+mofn_column = MofNCompleteColumn()
+time_elapsed_column = TimeElapsedColumn()
+time_remaining_column = TimeRemainingColumn()
+progress = Progress(
+    text_column,
+    spinner_column,
+    bar_column,
+    mofn_column,
+    time_elapsed_column,
+    time_remaining_column,
+    console=console,
+    transient=True,
+    refresh_per_second=10,
+    auto_refresh=True,
+)
 
 # > BASE
 def generate_base():

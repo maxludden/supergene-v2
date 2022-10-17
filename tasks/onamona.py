@@ -12,6 +12,7 @@ from src.log import console, log, BASE
 from src.atlas import sg
 
 words = [
+    "Alu Alu Alu!",
     "Bam!",
     "Beep!",
     "Bang!",
@@ -36,6 +37,8 @@ words = [
     "Hsss!",
     "Hssss!",
     "Pow!",
+    "Pang!",
+    "Pang! Pang! Pang!",
     "Pop!",
     "Poof!",
     'Roar!',

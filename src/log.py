@@ -3,73 +3,18 @@
 from functools import wraps
 from os import environ
 from pathlib import Path
-from platform import platform
 from time import perf_counter
+from typing import Tuple
 
+from dotenv import load_dotenv
 from loguru import logger as log
-from rich import inspect, print
-from rich.console import Console
 from rich.panel import Panel
-from rich.pretty import pprint
-from rich.progress import (BarColumn, Progress, SpinnerColumn, TextColumn,
-                           TimeElapsedColumn, TimeRemainingColumn, MofNCompleteColumn)
-from rich.style import Style
-from rich.table import Column, Table
+from rich.table import Column
 from rich.text import Text
-from rich.theme import Theme
-from rich.traceback import install
 from ujson import dump, load
+from src.color import console, progress, rainbow, gradient, gradient_panel
 
-theme = Theme(
-    {
-        "debug": "bold bright_cyan",
-        "cyan": "#00ffff",
-        "info": "bold cornflower_blue",
-        "cornflower_blue": "#249df1",
-        "blue": "bold #0000FF",
-        "success": "bold bright_green",
-        "green": "#00ff00",
-        "warning": "bold bright_yellow",
-        "yellow": "#ffff00",
-        "error": "bold orange1",
-        "orange": "#ff8800",
-        "critical": "bold reverse #F00000",
-        "red": "#ff0000",
-        "key": "italic blue_violet",
-        "blue_violet": "#5f00ff",
-        "value": "bold bright_white",
-        "white": "#ffffff",
-        "title": "bold purple",
-     "purple": "#af00ff"
-    }
-)
-
-# . Console
-console = Console(theme=theme)
-# Traceback
-install(console=console)
-
-# . Progress
-text_column = TextColumn("[progress.description]{task.description}")
-spinner_column = SpinnerColumn()
-bar_column = BarColumn(
-    bar_width=None, finished_style="green", table_column=Column(ratio=3)
-)
-mofn_column = MofNCompleteColumn()
-time_elapsed_column = TimeElapsedColumn()
-time_remaining_column = TimeRemainingColumn()
-progress = Progress(
-    text_column,
-    spinner_column,
-    bar_column,
-    mofn_column,
-    time_elapsed_column,
-    time_remaining_column,
-    console=console,
-    transient=True,
-    refresh_per_second=10,
-    auto_refresh=True,
-)
+load_dotenv()
 
 # > BASE
 def generate_base():
@@ -79,14 +24,16 @@ def generate_base():
 
 
 BASE = generate_base()
-
+JSON_DIR = BASE /'json'
+LOGS_DIR = BASE /'logs'
+RUN_DICT = JSON_DIR / 'run.json'
 
 # > Current Run
 def get_last_run() -> int:
     """
     Get the last run of the script.
     """
-    with open("json/run.json", "r") as infile:
+    with open(RUN_DICT, "r") as infile:
         last_run_dict = dict(load(infile))
     return int(last_run_dict["run"])
 
@@ -104,7 +51,7 @@ def record_run(run: int) -> None:
     Record the last run of the script.
     """
     run = {"run": run}  # type: ignore
-    with open("json/run.json", "w") as outfile:
+    with open(RUN_DICT, "w") as outfile:
         dump(run, outfile, indent=4)
 
 
@@ -119,12 +66,12 @@ def new_run() -> int:
 
     # > Clear and initialize console
     console.clear()
-    console.rule(title=f"\n\n\nRun {run}\n\n\n")
+    RUN = rainbow(f"Run {run}", 3)
+    console.rule(title=RUN, style="bold bright_white")
     return run
 
 
 current_run = new_run()
-# console.rule(title=f"\n\n\nRun {current_run}\n\n\n")
 
 
 # > Configure Loguru Logger Sinks

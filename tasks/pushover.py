@@ -1,26 +1,26 @@
 import os
-from json import load
 from datetime import datetime
+from json import load
 from os import system
-from time import sleep
 from pathlib import Path
+from time import sleep
 
+import sh
+
+# from colr import Colr as C
+from cfonts import render, say
+from dotenv import load_dotenv
 from requests import post
 from rich import print
-from rich.theme import Theme
+from rich.color import Color
 from rich.console import Console
 from rich.panel import Panel
 from rich.style import Style
 from rich.text import Text
-from rich.color import Color
+from rich.theme import Theme
 from sh import Command, RunningCommand
-import sh
-# from colr import Colr as C
-from cfonts import render, say
+from src.log import BASE, console, progress, rainbow
 
-from dotenv import load_dotenv
-
-console = Console()
 load_dotenv()
 
 USER_KEY = os.environ.get("USER_KEY")
@@ -37,9 +37,8 @@ def yay(clear: bool = False) -> None:
     if clear == True:
         system("clear")
     sleep(0.75)
-    system(
-        'for i in {1..10}\ndo\n  open raycast://confetti && echo "Celebrate  🎉"\ndone'
-    )
+    # 'for i in {1..10}\ndo\n  open raycast://confetti && echo "Celebrate  🎉"\ndone'
+
     open_cmd = Command("open")
     celebrate = open_cmd.bake("raycast://confetti")
 
@@ -48,10 +47,8 @@ def yay(clear: bool = False) -> None:
     mario = CWD / "styles" / "mario_notification.mp3"
 
     # > Celebrate
-    for i in range(1, 11):
-        if i == 1:
-            os.system("afplay " + str(mario))
-            celebrate()
+    os.system("afplay " + str(mario))
+    system("for i in {1..10};\ndo\n  open raycast://confetti\ndone")
 
     # Gradient Text
     # gradient = C("Celebrate", fore=(255, 0, 0), back=(0, 255, 0))
@@ -102,17 +99,18 @@ def notify(title: str, msg: str, color: Color = Color.parse("cornflower_blue")) 
     }
     response = post(url, data=payload)
     if response.status_code == 200:
-
-        success_panel = (
+        text = rainbow("Pushover Notification Sent", 4)
+        console.print(
             Panel(
-                Text("Notification Sent!", style="bold white"),
-                title=Text("Pushover", style="bold white"),
+                text,
+                title="[bold bright_white]Pushover[/]",
                 title_align="left",
-                style=Style(color=color, bold=True),
+                style="white",
+                expand=False
             ),
+            highlight=True
         )
         yay()
-        console.print(success_panel)
     else:
 
         error_panel = Panel(

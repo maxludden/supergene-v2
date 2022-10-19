@@ -4,32 +4,35 @@
 from datetime import datetime
 from os import environ
 from pathlib import Path
-from typing import List, Any
+from typing import Any, List
 
 import sh
 from dotenv import load_dotenv
 from rich import print
 from rich.color import Color
-from rich.console import Console
 from rich.panel import Panel
 from rich.style import Style
-from rich.text import Text
-from src.log import theme, console
-from sh import mongodump, rm  # type: ignore
+from sh import Command, RunningCommand, ErrorReturnCode
+from src.log import console, rainbow
 
 from tasks.pushover import notify
 
-load_dotenv()
 
+# . Sudo
+load_dotenv()
 SUDO = environ.get("SUDO")
 
-console = Console(theme=theme)
 
-
-# > MongoDump - global
+# , MongoDump - global
 URL = "mongodb://localhost:27017"  # LOCALDB
 backup_dir = Path("/Users/maxludden/dev/py/supergene/backups")  # Backup directory
+
+# . MongoDump
+mongodump = Command('mongodump')
 mongodump = mongodump.bake("--port", "27017", "-o", backup_dir, "-d", "SUPERGENE")  # type: ignore
+
+# . Remove
+rm = Command('rm')
 rm = rm.bake("-rf")
 
 # . Helper Functions
@@ -105,11 +108,12 @@ def create_backup() -> None:
     with sh.contrib.sudo(password=SUDO, _with=True):  # type: ignore
         mongodump(URL)
 
+    text = rainbow("MongoDump Backup Complete!", 3)
     panel = Panel(
-        f"[value_style]Backup Complete![/]",
-        title="[title_style]MongoDump[/]",
+        text,
+        title="[bold bright_white]MongoDump[/]",
         title_align="left",
-        style=Style(color="bright_green"),
+        style="white",
         expand=False,
     )
     console.print(panel)

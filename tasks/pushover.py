@@ -54,7 +54,7 @@ def yay(clear: bool = False) -> None:
             celebrate()
 
     # Gradient Text
-    # gradient = C("Celebrate", fore=(255, 0, 0), back=(0, 255, 0))     
+    # gradient = C("Celebrate", fore=(255, 0, 0), back=(0, 255, 0))
     # yay_title = C("Yay!").gradient_rgb(start=(0, 255, 68), stop=(255, 0, 212))
 
     # # Rainbow gradient
@@ -127,5 +127,3 @@ def notify(title: str, msg: str, color: Color = Color.parse("cornflower_blue")) 
             style=Style(color="bright_red", bold=True, reverse=True),
         )
         console.print(error_panel)
-
-yay()

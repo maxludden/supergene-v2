@@ -1,7 +1,6 @@
 # src/edit.py
 import re
-from concurrent.futures import (ProcessPoolExecutor, ThreadPoolExecutor,
-                                as_completed)
+from concurrent.futures import ProcessPoolExecutor, ThreadPoolExecutor, as_completed
 from multiprocessing import cpu_count
 from pathlib import Path
 from time import perf_counter
@@ -24,23 +23,28 @@ from sh import Command, ErrorReturnCode, RunningCommand
 import myaml as yaml
 from atlas import sg, max_title
 from chapter import Chapter, get_text_path
-from log import BASE, console, log
+from log import BASE, console, log, progress
 
 
 class TextFileNotFound(Exception):
     pass
 
+
 class TextPathNotFound(Exception):
     pass
+
 
 class ChapterNotFound(Exception):
     pass
 
+
 class MarkdownGenerationError(Exception):
     pass
 
+
 class HTMLGenerationError(Exception):
     pass
+
 
 words = [
     "Alu Alu Alu!",
@@ -72,7 +76,7 @@ words = [
     "Pang! Pang! Pang!",
     "Pop!",
     "Poof!",
-    'Roar!',
+    "Roar!",
     "Smack!",
     "Slam!",
     "Smash!",
@@ -95,6 +99,7 @@ words = [
     "Zap!",
     "Zing!",
 ]
+
 
 class chapter_gen:
     """
@@ -129,69 +134,46 @@ class chapter_gen:
     def __len__(self):
         return self.end - self.start + 1
 
-# def tp_edit():
-#     chapters = chapter_gen()
-#     with Progress(console=console) as progress:
-#         task = progress.add_task("Reading Text...", total=len(chapters))
-#         with ThreadPoolExecutor(max_workers=cpu_count()) as executor:
-#             futures = [executor.submit(edit, chapter, progress) for chapter in chapters]
-#             for future in as_completed(futures):
-#                 progress.advance(task)
-
-# def pp_edit():
-#     freeze_support()
-#     chapters = chapter_gen()
-#     with Progress(console=console) as progress:
-#         task = progress.add_task("Reading Text...", total=len(chapters))
-#         with ProcessPoolExecutor(max_workers=cpu_count()) as executor:
-#             futures = [executor.submit(edit, chapter, progress) for chapter in chapters]
-#             for future in as_completed(futures):
-#                 progress.advance(task)
-
-# def sequential_edit():
-#     chapters = chapter_gen()
-#     with Progress(console=console) as progress:
-#         task = progress.add_task("Reading Text...", total=len(chapters))
-#         for chapter in chapters:
-#             edit(chapter, progress)
-#             progress.advance(task)
 
 REPLACEMENTS = {
-        "shit1": {"regex": r"sh\*t", "replacement": "shit"},
-        "shit2": {"regex": r"s\*#t", "replacement": "shit"},
-        "shit3": {"regex": r"Sh\*t", "replacement": "Shit"},
-        "shit4": {"regex": r"S\*#t", "replacement": "Shit"},
-        "fuck1": {"regex": r"f\*#k", "replacement": "fuck"},
-        "fuck2": {"regex": r"f\*ck", "replacement": "fuck"},
-        "fuck3": {"regex": r"F\*#k", "replacement": "Fuck"},
-        "fuck4": {"regex": r"F\*ck", "replacement": "Fuck"},
-        "bitch1": {"regex": r"b\*tch", "replacement": "bitch"},
-        "bitch2": {"regex": r"B\*tch", "replacement": "Bitch"},
-        "ass1": {"regex": r" \*ss ", "replacement": " ass "},
-        "ass2": {"regex": r"\n\*ss ", "replacement": r"\nAss "},
-        "ass3": {"regex": r"\. \*ss ", "replacement": ". Ass "},
-        "asshole1": {"regex": r" \*sshole ", "replacement": r" asshole "},
-        "asshole2": {"regex": r"\"\*sshole ", "replacement": r"\"Asshole "},
-        "asshole3": {"regex": r"\. \*sshole ", "replacement": r"\. Asshole"},
-        "hell1": {"regex": r" h\*ll ", "replacement": r" hell "},
-        "hell2": {"regex": r"\"H\*ll ", "replacement": r"\"Hell "},
-        "hell3": {"regex": r"\. H*ll ", "replacement": r"\. Hell"},
-        "iceskin": {"regex": r"Ice Skin", "replacement": "Jadeskin"},
-        "ice-skin": {"regex": r"Ice-Skin", "replacement": "Jadeskin"}
-    }
+    "shit1": {"regex": r"sh\*t", "replacement": "shit"},
+    "shit2": {"regex": r"s\*#t", "replacement": "shit"},
+    "shit3": {"regex": r"Sh\*t", "replacement": "Shit"},
+    "shit4": {"regex": r"S\*#t", "replacement": "Shit"},
+    "fuck1": {"regex": r"f\*#k", "replacement": "fuck"},
+    "fuck2": {"regex": r"f\*ck", "replacement": "fuck"},
+    "fuck3": {"regex": r"F\*#k", "replacement": "Fuck"},
+    "fuck4": {"regex": r"F\*ck", "replacement": "Fuck"},
+    "goddamn1": {"regex": r"godd\*mn", "replacement": "goddamn"},
+    "goddamn2": {"regex": r"Godd\*mn", "replacement": "Goddamn"},
+    "bitch1": {"regex": r"b\*tch", "replacement": "bitch"},
+    "bitch2": {"regex": r"B\*tch", "replacement": "Bitch"},
+    "ass1": {"regex": r" \*ss ", "replacement": " ass "},
+    "ass2": {"regex": r"\n\*ss ", "replacement": r"\nAss "},
+    "ass3": {"regex": r"\. \*ss ", "replacement": ". Ass "},
+    "asshole1": {"regex": r" \*sshole ", "replacement": r" asshole "},
+    "asshole2": {"regex": r"\"\*sshole ", "replacement": r"\"Asshole "},
+    "asshole3": {"regex": r"\. \*sshole ", "replacement": r"\. Asshole"},
+    "hell1": {"regex": r" h\*ll ", "replacement": r" hell "},
+    "hell2": {"regex": r"\"H\*ll ", "replacement": r"\"Hell "},
+    "hell3": {"regex": r"\. H*ll ", "replacement": r"\. Hell"},
+    "iceskin": {"regex": r"Ice Skin", "replacement": "Jadeskin"},
+    "ice-skin": {"regex": r"Ice-Skin", "replacement": "Jadeskin"},
+}
 
 ICESKIN = {
     "iceskin": {"regex": r"Ice Skin", "replacement": "Jadeskin"},
-    "ice-skin": {"regex": r"Ice-Skin", "replacement": "Jadeskin"}
+    "ice-skin": {"regex": r"Ice-Skin", "replacement": "Jadeskin"},
 }
 
 keys = REPLACEMENTS.keys()
 
+
 def edit_chapter(chapter: int) -> None:
-    '''Edit the text for the given chapter.'''
+    """Edit the text for the given chapter."""
     # . Connect to MongoDB
     sg()
-    doc = Chapter.objects(chapter=chapter).first() # type: ignore
+    doc = Chapter.objects(chapter=chapter).first()  # type: ignore
     if doc:
         if doc.text_path:
             text_path = Path(doc.text_path)
@@ -210,7 +192,9 @@ def edit_chapter(chapter: int) -> None:
                     if result:
                         changed = True
                         text = re.sub(regex, replacement, text)
-                        log.debug(f"Replaced {regex} with {replacement} in Chapter {chapter}.")
+                        log.debug(
+                            f"Replaced {regex} with {replacement} in Chapter {chapter}."
+                        )
             else:
                 raise TextFileNotFound(f"Text file for Chapter {chapter} not found.")
         else:
@@ -220,7 +204,7 @@ def edit_chapter(chapter: int) -> None:
 
     if changed:
         # , Write the edited text for the give chapter to disk if changed
-        with open (text_path, 'w') as outfile:
+        with open(text_path, "w") as outfile:
             outfile.write(text)
             log.debug(f"Wrote text for Chapter {chapter} to {text_path}.")
 
@@ -229,23 +213,24 @@ def edit_chapter(chapter: int) -> None:
 
     # . Fix Title
     title = doc.title
-    if 'Ice Skin' in title:
-        title = title.replace('Ice Skin', 'Jadeskin')
+    if "Ice Skin" in title:
+        title = title.replace("Ice Skin", "Jadeskin")
         doc.title = title
         log.debug(f"Updated title for Chapter {chapter} to {title}.")
-    if 'Ice-Skin' in title:
-        title = title.replace('Ice-Skin', 'Jadeskin')
+    if "Ice-Skin" in title:
+        title = title.replace("Ice-Skin", "Jadeskin")
         doc.title = title
         log.debug(f"Updated title for Chapter {chapter} to {title}.")
 
     # . Save the document
     doc.save()
 
+
 def update_md(chapter: int) -> None:
-    '''Update the markdown file for the given chapter.'''
+    """Update the markdown file for the given chapter."""
     # . Connect to MongoDB
     sg()
-    doc = Chapter.objects(chapter=chapter).first() # type: ignore
+    doc = Chapter.objects(chapter=chapter).first()  # type: ignore
     if doc:
         title = max_title(doc.title)
         section = f"{doc.section}"
@@ -271,13 +256,14 @@ def update_md(chapter: int) -> None:
         md = f"{metadata}{atx}{img}{text}"
 
         md_path = Path(doc.md_path)
-        with open (md_path, 'w') as outfile:
+        with open(md_path, "w") as outfile:
             outfile.write(md)
 
         doc.md = md
         doc.save()
     else:
         raise ChapterNotFound(f"Chapter {chapter} not found.")
+
 
 def generate_html(chapter: int, save: bool = True):
     start = perf_counter()
@@ -320,9 +306,9 @@ def generate_html(chapter: int, save: bool = True):
 
 
 def update_chapter(chapter: int) -> int:
-    '''Update the text, markdown, and html for the given chapter.'''
+    """Update the text, markdown, and html for the given chapter."""
     sg()
-    doc = Chapter.objects(chapter=chapter).first() # type: ignore
+    doc = Chapter.objects(chapter=chapter).first()  # type: ignore
     if doc:
 
         # . Edit the text for the given chapter
@@ -349,18 +335,18 @@ def update_chapter(chapter: int) -> int:
 
         # Fix Title
         title = doc.title
-        if 'Ice Skin' in title:
-            title = title.replace('Ice Skin', 'Jadeskin')
+        if "Ice Skin" in title:
+            title = title.replace("Ice Skin", "Jadeskin")
             doc.title = title
             log.debug(f"Updated title for Chapter {chapter} to {title}.")
-        if 'Ice-Skin' in title:
-            title = title.replace('Ice-Skin', 'Jadeskin')
+        if "Ice-Skin" in title:
+            title = title.replace("Ice-Skin", "Jadeskin")
             doc.title = title
             log.debug(f"Updated title for Chapter {chapter} to {title}.")
 
         if changed:
-        #  Write the edited text for the give chapter to disk if changed
-            with open (text_path, 'w') as outfile:
+            #  Write the edited text for the give chapter to disk if changed
+            with open(text_path, "w") as outfile:
                 outfile.write(text)
                 log.debug(f"Wrote text for Chapter {chapter} to {text_path}.")
 
@@ -389,7 +375,7 @@ def update_chapter(chapter: int) -> int:
         md = f"{metadata}{atx}{img}{text}"
 
         md_path = Path(doc.md_path)
-        with open (md_path, 'w') as outfile:
+        with open(md_path, "w") as outfile:
             outfile.write(md)
 
         doc.md = md
@@ -411,9 +397,7 @@ def update_chapter(chapter: int) -> int:
             with open(html_path, "r") as infile:
                 doc.html = infile.read()
         else:
-            raise HTMLGenerationError(
-                f"Error generating HTML for doc {doc.chapter}."
-            )
+            raise HTMLGenerationError(f"Error generating HTML for doc {doc.chapter}.")
         doc.save()
         return chapter
     else:
@@ -421,11 +405,6 @@ def update_chapter(chapter: int) -> int:
 
 
 if __name__ == "__main__":
-    text_column = TextColumn("[progress.description]{task.description}")
-    bar_column = BarColumn(bar_width = None, finished_style = "green", table_column = Column(ratio=3))
-    mofn_column = MofNCompleteColumn()
-    progress = Progress(text_column, bar_column, mofn_column, console = console, transient = True)
-
     with progress:
         task = progress.add_task("Generating HTML...", total=3460)
 

@@ -87,6 +87,8 @@ class Book(Document):
     book = IntField()
     book_word = StringField(required=True)
     sections = ListField(IntField())
+    pandoc_path = StringField()
+    book_path = StringField()
 
     def __int__(self) -> int:
         return int(self.book)  # type: ignore

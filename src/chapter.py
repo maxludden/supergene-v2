@@ -30,7 +30,7 @@ from rich.text import Text
 from rich.box import ROUNDED
 
 from src.atlas import max_title, sg
-from src.log import BASE, log, console
+from maxcolor import console
 
 # .┌─────────────────────────────────────────────────────────────────┐.#
 # .│                           Chapter                               │.#
@@ -173,15 +173,15 @@ DRIVER_PATH = Path.cwd() / "driver" / "chromedriver"
 
 
 def generate_unparsed_text(chapter: int) -> str:
-    '''
-        Download the text of a chapter from the Super Gene website.
+    """
+    Download the text of a chapter from the Super Gene website.
 
-        Args:
-            `chapter` (int): The chapter number.
+    Args:
+        `chapter` (int): The chapter number.
 
-        Returns:
-            `unparsed_text` (str): The text of the chapter.
-    '''
+    Returns:
+        `unparsed_text` (str): The text of the chapter.
+    """
     # Initial Variables
     chapter_str = str(chapter)
 

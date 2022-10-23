@@ -1,19 +1,27 @@
-#max_logger/color.py
+# max_logger/color.py
 import re
 from random import choice
 from typing import Tuple
+from time import sleep
 
 from rich.color import Color
 from rich.color_triplet import ColorTriplet
 from rich.console import Console
 from rich.panel import Panel
-from rich.progress import (BarColumn, MofNCompleteColumn, Progress,
-                           SpinnerColumn, TextColumn, TimeElapsedColumn,
-                           TimeRemainingColumn)
+from rich.progress import (
+    BarColumn,
+    MofNCompleteColumn,
+    Progress,
+    SpinnerColumn,
+    TextColumn,
+    TimeElapsedColumn,
+    TimeRemainingColumn,
+)
 from rich.table import Column
 from rich.text import Text
 from rich.theme import Theme
 from rich.traceback import install
+
 
 theme = Theme(
     {
@@ -62,10 +70,10 @@ progress = Progress(
     time_elapsed_column,
     time_remaining_column,
     console=console,
-    transient=True,
     refresh_per_second=10,
     auto_refresh=True,
 )
+
 
 def parse_rgb_hex(hex_color: str) -> ColorTriplet:
     """Parse a hex color string into a ColorTriplet.
@@ -85,23 +93,25 @@ def parse_rgb_hex(hex_color: str) -> ColorTriplet:
 
 class InvalidHexColor(Exception):
     """Raised when a hex color string is invalid."""
+
     pass
+
 
 def gradient(message: str, color1: str, color2: str) -> Text:
     """Print text with a gradient."""
     text = Text(message)
 
     # . Add `#` to the HEX color if it is missing.
-    if '#' not in color1:
+    if "#" not in color1:
         color1 = f"#{color1}"
-    if '#' not in color2:
+    if "#" not in color2:
         color2 = f"#{color2}"
 
     # , Validate Hex Color
     hex_regex = re.compile(r"^#(?:[0-9a-fA-F]{3}){1,2}$")
     if hex_regex.match(color1) and hex_regex.match(color2):
-        color1 = Color.parse(color1).triplet # type: ignore
-        color2 = Color.parse(color2).triplet # type: ignore
+        color1 = Color.parse(color1).triplet  # type: ignore
+        color2 = Color.parse(color2).triplet  # type: ignore
 
         # . Color1's RGB values
         r1 = int(color1[0])
@@ -127,11 +137,12 @@ def gradient(message: str, color1: str, color2: str) -> Text:
 
     else:
         if not hex_regex.match(color1) and not hex_regex.match(color2):
-           raise InvalidHexColor(f"Invalid hex colors: {color1} and {color2}")
+            raise InvalidHexColor(f"Invalid hex colors: {color1} and {color2}")
         elif not hex_regex.match(color1):
             raise InvalidHexColor(f"Invalid hex color: {color2}")
         else:
             raise InvalidHexColor(f"Invalid hex color: {color1}")
+
 
 def rgb_gradient(
     message: str, color1: Tuple[int, int, int], color2: Tuple[int, int, int]
@@ -149,7 +160,6 @@ def rgb_gradient(
         color = f"#{int(r1 + dr * blend):02X}{int(g1 + dg * blend):02X}{int(b1 + db * blend):02X}"
         text.stylize(color, index, index + 1)
     return text
-
 
 
 def rainbow(message: str, num_of_gradients: int = 7) -> Text:
@@ -224,25 +234,24 @@ def magenta_orange(text: str) -> Text:
 
 def gradient_panel(text: str, title: str | None = None, colors: int = 4) -> Panel:
     """Gradient panel."""
-    if colors <=7:
+    if colors <= 7:
         gradient_text = rainbow(text, colors)
 
     else:
-        raise ValueError(f"Invalid number: {colors}. Colors must be an integer between 1 and 7.")
+        raise ValueError(
+            f"Invalid number: {colors}. Colors must be an integer between 1 and 7."
+        )
 
     if title:
         return Panel(
             gradient_text,
-            title = f"[bold bright_white]{title}[/bold bright_white]",
-            title_align = "left",
-            border_style = "bright_white",
-            expand = False,
-            style = "bold"
+            title=f"[bold bright_white]{title}[/bold bright_white]",
+            title_align="left",
+            border_style="bright_white",
+            expand=False,
+            style="bold",
         )
     else:
         return Panel(
-            gradient_text,
-            border_style = "bright_white",
-            expand = False,
-            style = "bold"
+            gradient_text, border_style="bright_white", expand=False, style="bold"
         )

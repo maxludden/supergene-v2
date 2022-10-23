@@ -25,7 +25,7 @@ from src.book import (
     generate_book_uuid,
     generate_book_word,
 )
-from src.log import BASE, console, log
+from maxcolor import console, log
 
 
 def finished(task: str, line: int):

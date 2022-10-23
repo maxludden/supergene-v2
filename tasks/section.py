@@ -10,7 +10,7 @@ from rich.style import Style
 from rich.markdown import Markdown
 from src.atlas import sg
 from src.chapter import Chapter
-from src.log import BASE, console, log, logpanel
+from maxcolor import console, log, logpanel
 from src.section import (
     Section,
     generate_section_start,

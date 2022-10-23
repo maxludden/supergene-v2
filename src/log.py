@@ -11,22 +11,37 @@ from loguru import logger as log
 from rich.panel import Panel
 from rich.table import Column
 from rich.text import Text
+from rich.prompt import Prompt, Confirm
 from ujson import dump, load
 from src.color import console, progress, rainbow, gradient, gradient_panel
 
 load_dotenv()
 
-# > BASE
-def generate_base():
-    """Generate base directory for the project."""
-    BASE = Path.cwd()
-    return BASE
+
+BASE = Path.cwd()
+JSON_DIR = BASE / "json"
+LOGS_DIR = BASE / "logs"
+RUN_DICT = JSON_DIR / "run.json"
 
 
-BASE = generate_base()
-JSON_DIR = BASE /'json'
-LOGS_DIR = BASE /'logs'
-RUN_DICT = JSON_DIR / 'run.json'
+def validate_paths() -> None:
+    """
+    Validate that the necessary directories exist.
+    """
+
+    class DirectoryNotFound(Exception):
+        pass
+
+    class FileNotFound(Exception):
+        pass
+
+    if not JSON_DIR.exists():
+        raise DirectoryNotFound(f"JSON Directory: {JSON_DIR} - does not exist.")
+    if not LOGS_DIR.exists():
+        raise DirectoryNotFound(f"LOG Directory: {LOGS_DIR} - does not exist.")
+    if not RUN_DICT.exists():
+        raise FileNotFound(f"Run Dictionary: {RUN_DICT} - does not exist.")
+
 
 # > Current Run
 def get_last_run() -> int:
@@ -73,7 +88,6 @@ def new_run() -> int:
 
 current_run = new_run()
 
-
 # > Configure Loguru Logger Sinks
 sinks = log.configure(
     handlers=[
@@ -116,7 +130,6 @@ sinks = log.configure(
     ],
     extra={"run": current_run},  # > Current Run
 )
-
 log.debug("Initialized Logger")
 # End of handlers
 
@@ -188,80 +201,3 @@ def time(*, level="DEBUG"):
         return wrapped
 
     return wrapper
-
-
-def logpanel(msg: str, level: str = "INFO") -> None:
-    """Log a message to loguru sinks and print to a panel.
-    Args:
-        msg (str):
-            The message to be logged.
-    """
-    match level:
-        case "DEBUG" | "debug" | "d":
-            panel = Panel(
-                Text(msg, style="bold bright_white"),
-                title=Text(
-                    "DEBUG",
-                    style="debug",
-                ),
-                title_align="left",
-                border_style="debug",
-                expand=False,
-            )
-            console.log(panel, markup=True, highlight=True, log_locals=False)
-            log.debug(msg)
-        case "INFO" | "info" | "i":
-            panel = Panel(
-                Text(msg, style="bold bright_white"),
-                title=Text(
-                    "INFO",
-                    style="info",
-                ),
-                title_align="left",
-                border_style="info",
-                expand=False,
-            )
-            console.log(panel, markup=True, highlight=True, log_locals=False)
-            log.info(msg)
-        case "WARNING" | "warning" | "w":
-            panel = Panel(
-                Text(msg, style="bold bright_white"),
-                title=Text(
-                    "WARNING",
-                    style="warning",
-                ),
-                title_align="left",
-                border_style="warning",
-                expand=False,
-            )
-            console.log(panel, markup=True, highlight=True, log_locals=False)
-            log.warning(msg)
-        case "ERROR" | "error" | "e":
-            panel = Panel(
-                Text(msg, style="bold bright_white"),
-                title=Text(
-                    "ERROR",
-                    style="error",
-                ),
-                title_align="left",
-                border_style="error",
-                expand=False,
-            )
-            console.log(panel, markup=True, highlight=True, log_locals=True)
-            log.error(msg)
-        case "CRITICAL" | "critical" | "c":
-            panel = Panel(
-                Text(msg, style="bold bright_white"),
-                title=Text(
-                    "CRITICAL",
-                    style="critical",
-                ),
-                title_align="left",
-                border_style="critical",
-                expand=False,
-            )
-            console.log(panel, markup=True, highlight=True, log_locals=True)
-            log.critical(msg)
-        case _:
-            console.log(msg, markup=True, highlight=True, log_locals=False)
-            log.info(msg)

@@ -4,9 +4,10 @@ from multiprocessing import cpu_count
 
 from rich import print
 from rich.panel import Panel
-from src.log import BASE, console, log, progress
+from maxcolor import console, log, progress
 from src.chapter import Chapter, chapter_gen
 from src.atlas import sg
+
 
 def write_text(chapter: int) -> int:
     """
@@ -17,12 +18,13 @@ def write_text(chapter: int) -> int:
             The given chapter.
     """
     sg()
-    doc = Chapter.objects(chapter=chapter).first() # type: ignore
+    doc = Chapter.objects(chapter=chapter).first()  # type: ignore
     path = Path(doc.text_path)
     if path.exists():
         with open(path, "w") as outfile:
             outfile.write(doc.text)
     return chapter
+
 
 if __name__ == "__main__":
     chapters = chapter_gen()
@@ -40,7 +42,7 @@ if __name__ == "__main__":
                         title_align="left",
                         border_style="bright_magenta",
                         expand=True,
-                        width=100
+                        width=100,
                     ),
-                    highlight=True
+                    highlight=True,
                 )

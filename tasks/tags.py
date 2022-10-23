@@ -8,14 +8,16 @@ from rich.progress import Progress
 from rich.text import Text
 from src.atlas import sg
 from src.chapter import Chapter, generate_text_path
-from src.log import BASE, console, log
+from maxcolor import console, log
 
 sg()
 with Progress(console=console) as progress:
     add_tags = progress.add_task("[white]Adding tags", total=3460)
 
-    table_regex = re.compile(r"<table class=\"(?P<tag>.*?)\">[\S|\s]*?</table>", re.IGNORECASE)
-    blockquote_regex = re.compile(r'^>.*$', re.MULTILINE)
+    table_regex = re.compile(
+        r"<table class=\"(?P<tag>.*?)\">[\S|\s]*?</table>", re.IGNORECASE
+    )
+    blockquote_regex = re.compile(r"^>.*$", re.MULTILINE)
     for doc in Chapter.objects():  # type: ignore
         found_tag = False
         text_path = Path(doc.text_path)
@@ -31,11 +33,11 @@ with Progress(console=console) as progress:
         matches = re.findall(blockquote_regex, text)
         if matches:
             found_tag = True
-            doc.tags.append('vog')
+            doc.tags.append("vog")
             doc.save()
         if found_tag:
             if len(doc.tags) > 1:
-                tags = str(', '.join(doc.tags))
+                tags = str(", ".join(doc.tags))
                 title = "Added Tags"
             elif len(doc.tags) == 1:
                 tags = str(doc.tags[0])
@@ -43,17 +45,17 @@ with Progress(console=console) as progress:
             console.log(
                 Panel(
                     Text(
-                        f"Found [cyan]{tags}[/] in Chapter {doc.chapter}. Updated MongoDB.", # type: ignore
+                        f"Found [cyan]{tags}[/] in Chapter {doc.chapter}. Updated MongoDB.",  # type: ignore
                         justify="left",
-                        style="white"
+                        style="white",
                     ),
                     title=Text(
-                        f"{title}", # type: ignore
+                        f"{title}",  # type: ignore
                         style="bold green",
                     ),
                     title_align="left",
                     expand=False,
-                    border_style="green"
+                    border_style="green",
                 )
             )
         progress.advance(add_tags)

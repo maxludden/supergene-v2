@@ -14,7 +14,7 @@ from rich.progress import Progress
 
 from src.myaml import dump, dumps, load, loads
 from src.atlas import sg
-from src.log import BASE, console, log, logpanel
+from maxcolor import console, log, logpanel
 
 
 class Epubmeta(Document):
@@ -85,7 +85,9 @@ def generate_epubmeta_filepath(book: int, save: bool = False) -> Path:
     """
     book_str = str(book).zfill(2)
     filepath = f"{BASE}/books/book{book_str}/yaml/epub-meta{book}.yml"
-    logpanel(f"Generated Book {book}' Epub metadata's filepath: \n{filepath}", level='d')
+    logpanel(
+        f"Generated Book {book}' Epub metadata's filepath: \n{filepath}", level="d"
+    )
     if save:
         sg()
         for doc in Epubmeta.objects(book=book):  # type: ignore
@@ -108,7 +110,9 @@ def generate_epubmeta_html_path(book: int, save: bool = False) -> Path:
     """
     book_str = str(book).zfill(2)
     html_path = f"{BASE}/book{book_str}/html/epub-meta{book}.html"
-    logpanel(f"Generated Book {book}' Epub metadata's html path: \n{html_path}", level='d')
+    logpanel(
+        f"Generated Book {book}' Epub metadata's html path: \n{html_path}", level="d"
+    )
     if save:
         sg()
         for doc in Epubmeta.objects(book=book):  # type: ignore
@@ -180,7 +184,7 @@ def generate_cover_path(book: int, save: bool = True) -> Path:
         for doc in Epubmeta.objects(book=book):  # type: ignore
             doc.cover_path = cover_path
             doc.save()
-            logpanel(f"Saved Book {book}'s cover path to MongoDB.", level='d')
+            logpanel(f"Saved Book {book}'s cover path to MongoDB.", level="d")
 
     return Path(cover_path)
 
@@ -253,17 +257,17 @@ def generate_epubmeta(book: int, save: bool = True, write: bool = True) -> None:
         epub_meta_yaml = dumps(epub_meta)
         text = f"---\n{epub_meta_yaml}...\n"
         inspect(text, console=console)
-        logpanel(f" Generated ePub metadata for book {book}.", level='d')
+        logpanel(f" Generated ePub metadata for book {book}.", level="d")
 
         if save:
             doc.text = text
             doc.save()
-            logpanel(f"Saved Book {book}'s epub metadata to MongoDB.", level='d')
+            logpanel(f"Saved Book {book}'s epub metadata to MongoDB.", level="d")
 
         if write:
             with open(filepath, "w") as outfile:
                 outfile.write(text)
-                logpanel(f"Wrote Book {book}'s epub metadata to file.", level='d')
+                logpanel(f"Wrote Book {book}'s epub metadata to file.", level="d")
 
 
 def generate_yaml_dir(book: int) -> None:
@@ -278,15 +282,16 @@ def generate_yaml_dir(book: int) -> None:
     yaml_dir = f"{BASE}/books/book{book_str}/yaml"
     if not os.path.exists(yaml_dir):
         os.makedirs(yaml_dir)
-        logpanel(f"Created yaml directory for book {book}.", level='d')
+        logpanel(f"Created yaml directory for book {book}.", level="d")
     else:
-        logpanel(f"Yaml directory for book {book} already exists.", level='d')
+        logpanel(f"Yaml directory for book {book} already exists.", level="d")
+
 
 def generate_all_epubmeta() -> None:
     """
     Generate all of the ePub metadata for all of the books.
     """
-    for book in (1,11):
+    for book in (1, 11):
         generate_yaml_dir(book)
         generate_epubmeta_filepath(book, save=True)
         generate_epubmeta(book, save=True, write=True)

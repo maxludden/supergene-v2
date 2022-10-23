@@ -13,6 +13,5 @@ from src.cover import Coverpage
 from src.cover import generate_html_path as generate_cover_html_path
 from src.endofbook import EndOfBook
 from src.endofbook import generate_html_path as generate_endofbook_html_path
-from src.epubmetadata import (Epubmeta, generate_epubmeta_filepath,
-                              generate_yaml_dir)
-from src.log import BASE, console, log, logpanel
+from src.epubmetadata import Epubmeta, generate_epubmeta_filepath, generate_yaml_dir
+from maxcolor import console, log, logpanel

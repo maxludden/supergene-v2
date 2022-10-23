@@ -10,7 +10,7 @@ from rich.style import Style
 from rich.text import Text
 from sh import Command, RunningCommand
 from src.atlas import sg
-from src.log import BASE, console, log, logpanel
+from maxcolor import console, log, logpanel
 from src.titlepage import (
     Titlepage,
     generate_titlepage_book_word,
@@ -18,7 +18,7 @@ from src.titlepage import (
     generate_titlepage_html,
     generate_titlepage_html_path,
     generate_titlepage_md,
-    generate_titlepage_md_path
+    generate_titlepage_md_path,
 )
 
 
@@ -27,12 +27,12 @@ def finished(task: str, line: int):
     console.log(
         Panel(
             f"[bold bright_white]Finished {task}[/]",
-            title = f"[#00ff00]✔ Finished[/]",
+            title=f"[#00ff00]✔ Finished[/]",
             title_align="left",
             border_style="green",
             subtitle=f"[#096809]tasks/titlepage_tasks.py [/][#FFF]|[/][#00ff00] Line {line}[/]",
             subtitle_align="right",
-            width=60
+            width=60,
         )
     )
 

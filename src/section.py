@@ -17,7 +17,7 @@ from sh import Command, RunningCommand
 
 import src.book as Book
 from src.atlas import max_title, sg
-from src.log import BASE, console, log, logpanel, time
+from maxcolor import console, log, logpanel, time
 from src.myaml import dump, dumps, load, loads
 
 # .┌─────────────────────────────────────────────────────────────────┐.#
@@ -728,7 +728,7 @@ def generate_section_md(section: int, save: bool = True, write: bool = True) -> 
         atx = f'# {title}\n\n<figure>\n\t<img src="../Images/gem.gif" alt="Spinning Black Gem" width="120" height="60" />\n</figure>\n\n'
 
         # > Text
-        text = 'FOOTER'
+        text = "FOOTER"
 
         md = f"{meta}{atx}{text}"
 

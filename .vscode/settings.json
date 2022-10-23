@@ -27,5 +27,8 @@
         "mofn",
         "rinspect",
         "sshole"
-    ]
+    ],
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.black-formatter"
+    }
 }

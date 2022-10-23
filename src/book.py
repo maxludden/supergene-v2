@@ -18,7 +18,7 @@ from rich.style import Style
 from rich.text import Text
 
 from src.atlas import sg
-from src.log import BASE, console, log
+from maxcolor import console, log
 
 load_dotenv()
 

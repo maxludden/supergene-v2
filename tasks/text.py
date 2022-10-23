@@ -7,16 +7,26 @@ from rich.progress import Progress
 from rich.text import Text
 from sh import Command
 from src.atlas import sg
-from src.chapter import (Chapter, generate_html, generate_md, get_html_path,
-                         get_md_path, get_text_path, chapter_gen)
+from src.chapter import (
+    Chapter,
+    generate_html,
+    generate_md,
+    get_html_path,
+    get_md_path,
+    get_text_path,
+    chapter_gen,
+)
 import src.chapter as chapter
-from src.log import BASE, console, log
+from maxcolor import console, log
+
 
 class TextFileNotFound(Exception):
     pass
 
+
 class ChapterNotFound(Exception):
     pass
+
 
 class MarkdownGenerationError(Exception):
     pass
@@ -28,7 +38,7 @@ with Progress(console=console) as progress:
     chapters = chapter.chapter_gen()
     for chapter in chapters:
         sg()
-        doc = Chapter.objects(chapter=chapter).first() # type: ignore
+        doc = Chapter.objects(chapter=chapter).first()  # type: ignore
         if doc:
             text_path = Path(str(get_text_path(int(doc))))
             if text_path.exists():
@@ -42,10 +52,7 @@ with Progress(console=console) as progress:
                                 justify="left",
                                 style="white",
                             ),
-                            title=Text(
-                                f"Reading Text",
-                                style="bold green"
-                            ),
+                            title=Text(f"Reading Text", style="bold green"),
                             title_align="left",
                             expand=False,
                             border_style="#00ff00",

@@ -17,7 +17,7 @@ from sh import Command, RunningCommand
 
 import src.myaml
 from src.atlas import sg
-from src.log import BASE, console, log, logpanel
+from maxcolor import console, log, logpanel
 
 # .┌─────────────────────────────────────────────────────────────────┐.#
 # .│                            Titlepage                            │.#
@@ -58,7 +58,7 @@ def titlepage_panel(
     value: str | int | Markdown = "Value",
     line: int = 1,
     title: Optional[str] = None,
-    get: bool = False
+    get: bool = False,
 ) -> Panel:
     if title:
         title = title
@@ -369,6 +369,7 @@ def generate_titlepage_book_word(book: int, save: bool = False) -> str:
 
     console.print(titlepage_panel(book, "Book Word", book_word, 357))
     return book_word
+
 
 generate_titlepage_md(6)
 generate_titlepage_html(6)

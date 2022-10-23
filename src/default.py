@@ -28,7 +28,7 @@ import src.section as sec
 import src.titlepage as tp
 import src.cover as cv
 from src.atlas import max_title, sg
-from src.log import BASE, console, log, logpanel
+from maxcolor import console, log, logpanel
 
 load_dotenv()
 install()

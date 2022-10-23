@@ -12,7 +12,7 @@ from tqdm.auto import tqdm
 
 from src.atlas import sg
 from src.book import Book
-from src.log import BASE, console, log
+from maxcolor import console, log
 from src.chapter import max_title
 
 load_dotenv()

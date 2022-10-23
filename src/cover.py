@@ -11,7 +11,7 @@ from rich.progress import Progress
 
 
 from src.atlas import sg
-from src.log import BASE, console, log
+from maxcolor import console, log
 
 # . ───────────────── Cover ──────────────────────────────────
 
@@ -43,7 +43,7 @@ def generate_filename(book: int) -> str:
                 ),
                 title=Text(f"Generate Filename", style="green"),
                 title_align="left",
-                border_style="#00FF00"
+                border_style="#00FF00",
             )
         )
     return f"cover{book}.html"
@@ -77,7 +77,7 @@ def generate_html_path(book: int) -> Path:
                 ),
                 title=Text(f"Generate HTML Path", style="green"),
                 title_align="left",
-                border_style="#00FF00"
+                border_style="#00FF00",
             )
         )
     return Path(html_path)
@@ -127,7 +127,7 @@ def generate_html(book: int, save: bool = True, write: bool = True) -> str:
                     ),
                     title=Text(f"Generate HTML", style="green"),
                     title_align="left",
-                    border_style="#00FF00"
+                    border_style="#00FF00",
                 )
             )
     if write:
@@ -145,7 +145,7 @@ def generate_html(book: int, save: bool = True, write: bool = True) -> str:
                     ),
                     title=Text(f"Generate HTML", style="green"),
                     title_align="left",
-                    border_style="#00FF00"
+                    border_style="#00FF00",
                 )
             )
     return html

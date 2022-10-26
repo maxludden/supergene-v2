@@ -4,12 +4,14 @@
 			"path": "."
 		}
 	],
+	"python.pythonPath": "~/dev/venvs/supergene/bin/python",
 	"settings": {
 		"cSpell.words": [
 			"endpage"
 		],
 		"markdown.preview.fontFamily": "'Century Gothic',' MesloLGS NF', 'Ubuntu', sans-serif",
-		"task.allowAutomaticTasks": "on"
+		"task.allowAutomaticTasks": "on",
+		"python.defaultInterpreterPath": "/Users/maxludden/dev/venvs/supergene/bin/python"
 	},
 	"tasks": {
 		"version": "2.0.0",

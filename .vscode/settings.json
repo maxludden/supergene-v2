@@ -26,7 +26,8 @@
         "godd",
         "mofn",
         "rinspect",
-        "sshole"
+        "sshole",
+        "stard"
     ],
     "[python]": {
         "editor.defaultFormatter": "ms-python.black-formatter"

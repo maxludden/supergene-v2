@@ -15,9 +15,13 @@ from rich.panel import Panel
 from rich.style import Style
 from rich.text import Text
 from sh import Command
-from maxcolor import console, rainbow, gradient_panel, progress
+from maxconsole import get_theme, get_console
+from maxprogress import get_progress
+from maxcolor import console, rainbow, gradient_panel
 
 load_dotenv()
+console = get_console(get_theme())
+progress = get_progress()
 
 USER_KEY = os.environ.get("USER_KEY")
 API_TOKEN = os.environ.get("API_TOKEN")

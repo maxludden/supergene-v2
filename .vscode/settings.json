@@ -31,5 +31,12 @@
     ],
     "[python]": {
         "editor.defaultFormatter": "ms-python.black-formatter"
+    },
+    "workbench.colorCustomizations": {
+        "activityBar.background": "#231300",
+        "activityBar.foreground": "#ffc401",
+        "activityBar.inactiveForeground": "#a48b1e79",
+        "activityBarBadge.background": "#ffc401",
+        "activityBarBadge.foreground": "#462600"
     }
 }

@@ -1,0 +1,7 @@
+{
+    "enabled": false,
+    "mongo_service_name": "mongodb-atlas",
+    "database_name": "SUPERGENE",
+    "collection_name": "chapter",
+    "user_id_field": "maxludden"
+}

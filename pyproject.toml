@@ -26,8 +26,10 @@ rich = "^12.6.0"
 ipython = "^8.5.0"
 ipywidgets = "^8.0.2"
 typer = {extras = ["all"], version = "^0.6.1"}
-maxcolor = "^0.4.0"
 ujson = "^5.5.0"
+maxconsole = "^0.3.0"
+maxcolor = "^0.6.0"
+maxprogress = "^0.3.0"
 
 [tool.poetry.scripts]
 supergene = "supergene.__main__:main"

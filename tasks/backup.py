@@ -13,9 +13,15 @@ from rich.text import Text
 from rich.panel import Panel
 from rich.style import Style
 from sh import Command, RunningCommand, ErrorReturnCode
-from maxcolor import console, gradient_panel, progress, rainbow
+from maxconsole import get_theme, get_console
+from maxcolor import gradient, rainbow, gradient_panel
+from maxprogress import get_progress
 from tasks.pushover import notify
+
 load_dotenv()
+
+console = get_console(get_theme())
+
 
 # . Sudo
 load_dotenv()
@@ -108,14 +114,14 @@ def create_backup() -> None:
         border_style=Style(color="magenta", bold=True),
         expand=False
     )
+
     console.print(mongodump_panel)
     with sh.contrib.sudo(password=SUDO, _with=True):  # type: ignore
         mongodump(URL)
 
     console.print(
         gradient_panel(
-            "MongoDump Backup Complete!",
-            'MongoDump'
+            "MongoDump Backup Complete!", title='MongoDump'
         )
     )
 

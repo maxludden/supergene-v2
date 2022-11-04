@@ -323,7 +323,7 @@ def generate_section(chapter: int) -> int | None:
 
     Args:
         `chapter` (int):
-            The given chapter.
+            The given chapter.2
 
     Raises:
         `ValueError`: Invalid Chapter Number

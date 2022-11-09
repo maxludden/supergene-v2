@@ -70,7 +70,7 @@ def superyay(clear: bool = False) -> None:
 
 
 # > Pushover --------------------------------------
-def notify(title: str, msg: str, color: Color = Color.parse("cornflower_blue")) -> None:
+def notify(title: str, msg: str, color: Color = Color.parse("#00ff00")) -> None:
     url = "https://api.pushover.net/1/messages.json"
     payload = {
         "token": API_TOKEN,
@@ -86,7 +86,9 @@ def notify(title: str, msg: str, color: Color = Color.parse("cornflower_blue")) 
         console.print(
             gradient_panel(
                 "Push notification sent via Pushover",
-                "Success - 200"
+                title="Success - 200",
+                expand=False,
+                subtitle=''
             )
         )
     else:

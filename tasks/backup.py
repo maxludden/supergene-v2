@@ -121,14 +121,17 @@ def create_backup() -> None:
 
     console.print(
         gradient_panel(
-            "MongoDump Backup Complete!", title='MongoDump'
-        )
+            "MongoDump Backup Complete!",
+            title='Super Gene Backup',
+            expand=False
+        ),
+        justify='center'
     )
 
     console.print()
     now = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
     msg = f"Backup completed at {now}"
-    notify(title="MongoDump", msg=msg, color=Color.parse("cornflower_blue"))
+    notify(title="MongoDump", msg=msg)
 
 
 get_backups()

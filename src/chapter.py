@@ -6,14 +6,23 @@ import sys
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from functools import partial
 from itertools import chain
-from ujson import dump, load
 from multiprocessing import Pool, Process, Queue, cpu_count
 from pathlib import Path
 from subprocess import run
 
 from dotenv import load_dotenv
+from maxcolor import console
+from maxconsole import get_console, get_theme
+from maxsetup import log, new_run, setup
 from mongoengine import Document
-from mongoengine.fields import IntField, StringField, URLField, ListField
+from mongoengine.fields import IntField, ListField, StringField, URLField
+from rich import print
+from rich.box import ROUNDED
+from rich.markdown import Markdown
+from rich.panel import Panel
+from rich.pretty import pprint
+from rich.table import Table
+from rich.text import Text
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options as ChromeOptions
 from selenium.webdriver.common.by import By
@@ -21,22 +30,16 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.wait import WebDriverWait
 from sh import Command
 from tqdm.auto import tqdm, trange
-from rich import print
-from rich.pretty import pprint
-from rich.markdown import Markdown
-from rich.panel import Panel
-from rich.table import Table
-from rich.text import Text
-from rich.box import ROUNDED
+from ujson import dump, load
 
 from src.atlas import max_title, sg
-from maxcolor import console
 
-# .┌─────────────────────────────────────────────────────────────────┐.#
-# .│                           Chapter                               │.#
-# .└─────────────────────────────────────────────────────────────────┘.#
-#
+# ┌─────────────────────────────────────────────────────────────────┐.#
+# │                           Chapter                               │.#
+# └─────────────────────────────────────────────────────────────────┘.#
+
 load_dotenv()
+
 URI = os.getenv("SUPERGENE")
 
 
@@ -49,14 +52,15 @@ class Chapter(Document):
     section = IntField()
     book = IntField(min_value=1, max_value=10, required=True)
     title = StringField(max_length=500, required=True)
+    url = URLField()
+    text_path = StringField()
+    md_path = StringField()
+    html_path = StringField()
     text = StringField()
     md = StringField()
     html = StringField()
     filename = StringField()
-    text_path = StringField()
-    md_path = StringField()
-    html_path = StringField()
-    url = URLField()
+
     unparsed_text = StringField()
     parsed_text = StringField()
     tags = ListField(StringField(max_length=50))
@@ -89,6 +93,9 @@ class Chapter(Document):
 
     def __str__(self):
         return self.text
+
+    def __json__(self):
+        return self.to_json()
 
 
 class chapter_gen:

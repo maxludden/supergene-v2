@@ -1,0 +1,309 @@
+{
+    "object": "page",
+    "cover": {
+        "type": "file",
+        "file": {
+            "url": "https:\/\/s3.us-west-2.amazonaws.com\/secure.notion-static.com\/ab12e680-4d79-4401-b02b-dcb825f29a70\/cover1.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221109%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221109T213017Z&X-Amz-Expires=3600&X-Amz-Signature=9ab0954d40033f1ef89ded56a2456948b760733f955c0fdc2f84d98f6e5dda2f&X-Amz-SignedHeaders=host&x-id=GetObject",
+            "expiry_time": "2022-11-09T22:30:17.514Z"
+        }
+    },
+    "icon": {
+        "type": "file",
+        "file": {
+            "url": "https:\/\/s3.us-west-2.amazonaws.com\/secure.notion-static.com\/6cff66a7-24cb-42b8-9464-1e990de7ce40\/Gene-solid.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221109%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221109T213017Z&X-Amz-Expires=3600&X-Amz-Signature=79b2595dfbce3ce6143e21dfcb65996b397c893ca02ab6c28e8b4e880722a3ca&X-Amz-SignedHeaders=host&x-id=GetObject",
+            "expiry_time": "2022-11-09T22:30:17.518Z"
+        }
+    },
+    "parent": {
+        "type": "database_id",
+        "database_id": "dbc4f31d-755a-4c36-8246-30532a831a74"
+    },
+    "properties": {
+        "filename": {
+            "id": "%3At%3Ax",
+            "type": "rich_text",
+            "rich_text": [
+                {
+                    "type": "text",
+                    "text": {
+                        "content": "FILENAME",
+                        "link": null
+                    },
+                    "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                    },
+                    "plain_text": "FILENAME",
+                    "href": null
+                }
+            ]
+        },
+        "html": {
+            "id": "%3B%3Bf%3F",
+            "type": "rich_text",
+            "rich_text": [
+                {
+                    "type": "text",
+                    "text": {
+                        "content": "<!DOCTYPE html>\n<html xmlns=\"",
+                        "link": null
+                    },
+                    "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                    },
+                    "plain_text": "<!DOCTYPE html>\n<html xmlns=\"",
+                    "href": null
+                },
+                {
+                    "type": "text",
+                    "text": {
+                        "content": "http:\/\/www.w3.org\/1999\/xhtml",
+                        "link": {
+                            "url": "http:\/\/www.w3.org\/1999\/xhtml"
+                        }
+                    },
+                    "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                    },
+                    "plain_text": "http:\/\/www.w3.org\/1999\/xhtml",
+                    "href": "http:\/\/www.w3.org\/1999\/xhtml"
+                },
+                {
+                    "type": "text",
+                    "text": {
+                        "content": "HTML",
+                        "link": null
+                    },
+                    "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                    },
+                    "plain_text": "HTML",
+                    "href": null
+                }
+            ]
+        },
+        "text": {
+            "id": "U%7DTM",
+            "type": "rich_text",
+            "rich_text": [
+                {
+                    "type": "text",
+                    "text": {
+                        "content": "TEXT",
+                        "link": null
+                    },
+                    "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                    },
+                    "plain_text": "TEXT",
+                    "href": null
+                }
+            ]
+        },
+        "book": {
+            "type": "number",
+            "number": "BOOK"
+        },
+        "unparsed_text": {
+            "type": "rich_text",
+            "rich_text": [
+                {
+                    "type": "text",
+                    "text": {
+                        "content": "UNPARSED_TEXT",
+                        "link": null
+                    },
+                    "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                    },
+                    "plain_text": "UNPARSED_TEXT",
+                    "href": null
+                }
+            ]
+        },
+        "text_path": {
+            "type": "rich_text",
+            "rich_text": [
+                {
+                    "type": "text",
+                    "text": {
+                        "content": "TEXT_PATH",
+                        "link": null
+                    },
+                    "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                    },
+                    "plain_text": "TEXT_PATH",
+                    "href": null
+                }
+            ]
+        },
+        "html_path": {
+            "type": "rich_text",
+            "rich_text": [
+                {
+                    "type": "text",
+                    "text": {
+                        "content": "HTML_PATH",
+                        "link": null
+                    },
+                    "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                    },
+                    "plain_text": "HTML_PATH"
+                }
+            ]
+        },
+        "md": {
+            "type": "rich_text",
+            "rich_text": [
+                {
+                    "type": "text",
+                    "text": {
+                        "content": "Title:Supergene\nChapter:1\nSection:1\nBook:1\nCSS:..\/Styles\/style.css\nviewport: width=device-width\n## Supergene\n### Chapter 1\n<figure>\n<img src=\"..\/Images\/gem.gif\" alt=\"gem\" id=\"gem\" width=\"120\" height=\"60\" \/>\n<\/figure>\nBy a stony creek in a valley, a black-clad young man was holding a black beetle with a metallic sheen that looked like a cross between a crab and a Hercules beetle.\nHolding a dagger in his other hand, the young man swiftly cut the still-struggling claws off the beetle, revealing white and tender meat.\nAlmost without hesitation, the young man sucked the meat out of the claws as if he were eating a crab, and swallowed it together with larger pieces of tougher meat.\n> \"Black Beetle killed. No beast soul gained. Eat the flesh of the Black Beetle to gain zero to ten geno points randomly.\"\n>\n> \"Black Beetle flesh eaten. Zero geno points gained.\"\nA strange voice sounded in Han Sen's mind, and some data also appeared.\n<div class=\"tables\">\n<table class=\"status\">\n<tr>\n<th colspan=\"2\">Han Sen<\/th>\n<\/tr><tr>\n<td>Status<\/td>\n<td>Unevolved<\/td>\n<\/tr><tr>\n<td>Lifespan<\/td>\n<td>200 years<\/td>\n<\/tr>\n<\/table>\n<!-- Han Sen: Not evolved. -->\n<!-- Status: None. -->\n<!-- Life span: 200 years. -->\n<table class=\"geno-r\">\n<tr>\n<th colspan=\"2\">Geno Points<\/th>\n<\/tr><tr>\n<td>Required to Evolve<\/td>\n<td>100<\/td>\n<\/tr>\n<\/table>\n<!-- Required for evolution: 00 geno points. -->\n<table class=\"geno\">\n<tr>\n<th colspan=\"2\">Geno Points Gained<\/th>\n<\/tr><tr>\n<td>Ordinary<\/td>\n<td>79<\/td>\n<\/tr>\n<\/table>\n<!-- Geno points gained: 79. -->\n<table>\n<tr>\n<th>Beast Souls Gained<\/th>\n<\/tr><tr>\n<td>None<\/td>\n<\/tr>\n<\/table>\n<!-- Beast souls gained: None -->\n<\/div>\n\"I have received zero geno points from more than thirty black beetles in a row. I must have eaten too much black-beetle flesh to evolve from it further. Zero points! When will I ever finish the first evolution and gain status.\" Han Sen looked frustrated.\nOver five hundred years ago, science and technology reached a very high level, and humans finally mastered space teleportation technology. Shockingly, when they tried to be teleported, they found that they were neither sent back to the past nor teleported to the future. They didn\u2019t even travel from one planet to another. A completely different world lay at the other end of the space teleport channel.\nA world that human beings could not have imagined. In this world, all scientific and technological means lost their function: a machine gun in this world was not even as useful as a steel knife. Missiles and nuclear weapons would not explode, same as a heap of scrap iron. No mechanical or electronic equipment would work either.\nAll kinds of horrible creatures inhabited this world. Human beings, who used to stand on top of the food chain because of their wisdom and technology fell to the bottom.\nBut when people killed certain relatively weak creatures and ate their flesh, they were surprised to find that their own bodies changed considerably and evolved quickly in ways that science could not explain.\nWhat made people pleasantly surprised was that in this world, with the evolution of the body, their lifespans also increased, which was amazing news to all mankind.\nIn the following century, more and more people entered this world called \"God's Sanctuary,\" gradually became familiar with the rules of this world, hunted its creatures, and saw their own bodies evolve. The higher the degree of physical evolution, the longer the life. Theoretically, if you could continue evolving, it could be possible to live forever.\nIn this world, science and technology became completely useless. The only things that could help humans were the most primitive fighting skills. Ancient martial arts, which were almost forgotten in modern society, had an unexpected effect here.\nAll kinds of ancient martial arts had been re-developed, and after more than 100 years of development, new martial arts schools were formed and became prominent.\nIn addition to ancient martial arts, God's Sanctuary offered another tool to enhance humans, the beast soul.\nWhen killing a creature in God's Sanctuary, a person had a chance to obtain the beast soul of the creature. Beast souls had all kinds of forms and appearances. Some could be summoned to fight for men, and some appeared in the form of armor or weapon.\nIn addition, some beast souls could even help humans transform so they could take the shape of terrifying monsters, magical birds flying between heaven and earth, or insects drilling underground.\nNeither martial arts nor beast souls had anything to do with Han Sen.\nEven in modern society, advanced science and technology were in the hands of just a few people.\nHan Sen completed integrated compulsory education and entered God\u2019s Sanctuary when he turned 16. What he had learned from school was no more than the beginning level new martial arts that everyone knew.\nAs for beast souls, they were so expensive that Han Sen couldn\u2019t afford even the cheapest.\nWithout martial arts and beast souls, or even advanced man-made alloy weapons, Han Sen was only able to kill some low-level creatures to eat their flesh and evolve, and he was having a difficult time in God\u2019s Sanctuary.\nBut the more meat of low-level creatures he ate, the less effect of evolution he gained. Three months in God\u2019s Sanctuary and he still could not complete a physical evolution.\nHan Sen had tried to kill some of the more powerful creatures, but even the weakest primitive creature, the copper-toothed beast, almost took his life. He had to rest for nearly a month before returning to God's Sanctuary.\nBy this time Han Sen had eaten all kinds of ordinary creatures around him, and it wouldn\u2019t help to eat their flesh any more. If he didn\u2019t risk hunting more advanced creatures, he would never evolve.\nWhen he was about to try to kill a copper-toothed beast, Han Sen saw something climbing out from the ripples of the creek.\nHe originally thought it was a black beetle, but immediately noticed something different: all black beetles had black shells, but a bright golden color caught his eye.\nHan Sen gazed at the creature climbing out of the water. It really was a black beetle, but different from the ordinary ones because of its golden body as big as a basketball. It was like a sculpture carved from gold, and its eyes were crystal clear, like gems. It did not even look like a living thing unless observed carefully.\n\"Why is this black beetle so strange?\" Han Sen stared at the golden black beetle.\nRecently he had killed countless black beetles and knew everything about them. Their vision was poor, but their hearing was very sensitive. As long as he remained still, even in close proximity, a black beetle would not notice his presence.\nHan Sen stared at the strange beetle, and unexpectedly, it climbed toward him.\nWithout hesitation, when the golden black beetle crawled next to Han Sen, he held down the golden black beetle's shell with one hand and swiftly cut into its fragile joints with the dagger in his other hand. He made six clean cuts vertically and horizontally to remove all six claws of the beetle.\nThe golden black beetle struggled and flipped over. Taking this opportunity, Han Sen pierced his dagger into a white mark on its belly and turned it sharply. The golden black beetle suddenly stopped moving.\n> \"Sacred-Blood creature Black Beetle killed. Beast soul of Sacred-Blood Black Beetle gained. Eat the flesh of Sacred-Blood Black Beetle to gain zero to ten geno points randomly.\u201d",
+                        "link": null
+                    },
+                    "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                    },
+                    "plain_text": "Title:Supergene\nChapter:1\nSection:1\nBook:1\nCSS:..\/Styles\/style.css\nviewport: width=device-width\n## Supergene\n### Chapter 1\n<figure>\n<img src=\"..\/Images\/gem.gif\" alt=\"gem\" id=\"gem\" width=\"120\" height=\"60\" \/>\n<\/figure>\nBy a stony creek in a valley, a black-clad young man was holding a black beetle with a metallic sheen that looked like a cross between a crab and a Hercules beetle.\nHolding a dagger in his other hand, the young man swiftly cut the still-struggling claws off the beetle, revealing white and tender meat.\nAlmost without hesitation, the young man sucked the meat out of the claws as if he were eating a crab, and swallowed it together with larger pieces of tougher meat.\n> \"Black Beetle killed. No beast soul gained. Eat the flesh of the Black Beetle to gain zero to ten geno points randomly.\"\n>\n> \"Black Beetle flesh eaten. Zero geno points gained.\"\nA strange voice sounded in Han Sen's mind, and some data also appeared.\n<div class=\"tables\">\n<table class=\"status\">\n<tr>\n<th colspan=\"2\">Han Sen<\/th>\n<\/tr><tr>\n<td>Status<\/td>\n<td>Unevolved<\/td>\n<\/tr><tr>\n<td>Lifespan<\/td>\n<td>200 years<\/td>\n<\/tr>\n<\/table>\n<!-- Han Sen: Not evolved. -->\n<!-- Status: None. -->\n<!-- Life span: 200 years. -->\n<table class=\"geno-r\">\n<tr>\n<th colspan=\"2\">Geno Points<\/th>\n<\/tr><tr>\n<td>Required to Evolve<\/td>\n<td>100<\/td>\n<\/tr>\n<\/table>\n<!-- Required for evolution: 00 geno points. -->\n<table class=\"geno\">\n<tr>\n<th colspan=\"2\">Geno Points Gained<\/th>\n<\/tr><tr>\n<td>Ordinary<\/td>\n<td>79<\/td>\n<\/tr>\n<\/table>\n<!-- Geno points gained: 79. -->\n<table>\n<tr>\n<th>Beast Souls Gained<\/th>\n<\/tr><tr>\n<td>None<\/td>\n<\/tr>\n<\/table>\n<!-- Beast souls gained: None -->\n<\/div>\n\"I have received zero geno points from more than thirty black beetles in a row. I must have eaten too much black-beetle flesh to evolve from it further. Zero points! When will I ever finish the first evolution and gain status.\" Han Sen looked frustrated.\nOver five hundred years ago, science and technology reached a very high level, and humans finally mastered space teleportation technology. Shockingly, when they tried to be teleported, they found that they were neither sent back to the past nor teleported to the future. They didn\u2019t even travel from one planet to another. A completely different world lay at the other end of the space teleport channel.\nA world that human beings could not have imagined. In this world, all scientific and technological means lost their function: a machine gun in this world was not even as useful as a steel knife. Missiles and nuclear weapons would not explode, same as a heap of scrap iron. No mechanical or electronic equipment would work either.\nAll kinds of horrible creatures inhabited this world. Human beings, who used to stand on top of the food chain because of their wisdom and technology fell to the bottom.\nBut when people killed certain relatively weak creatures and ate their flesh, they were surprised to find that their own bodies changed considerably and evolved quickly in ways that science could not explain.\nWhat made people pleasantly surprised was that in this world, with the evolution of the body, their lifespans also increased, which was amazing news to all mankind.\nIn the following century, more and more people entered this world called \"God's Sanctuary,\" gradually became familiar with the rules of this world, hunted its creatures, and saw their own bodies evolve. The higher the degree of physical evolution, the longer the life. Theoretically, if you could continue evolving, it could be possible to live forever.\nIn this world, science and technology became completely useless. The only things that could help humans were the most primitive fighting skills. Ancient martial arts, which were almost forgotten in modern society, had an unexpected effect here.\nAll kinds of ancient martial arts had been re-developed, and after more than 100 years of development, new martial arts schools were formed and became prominent.\nIn addition to ancient martial arts, God's Sanctuary offered another tool to enhance humans, the beast soul.\nWhen killing a creature in God's Sanctuary, a person had a chance to obtain the beast soul of the creature. Beast souls had all kinds of forms and appearances. Some could be summoned to fight for men, and some appeared in the form of armor or weapon.\nIn addition, some beast souls could even help humans transform so they could take the shape of terrifying monsters, magical birds flying between heaven and earth, or insects drilling underground.\nNeither martial arts nor beast souls had anything to do with Han Sen.\nEven in modern society, advanced science and technology were in the hands of just a few people.\nHan Sen completed integrated compulsory education and entered God\u2019s Sanctuary when he turned 16. What he had learned from school was no more than the beginning level new martial arts that everyone knew.\nAs for beast souls, they were so expensive that Han Sen couldn\u2019t afford even the cheapest.\nWithout martial arts and beast souls, or even advanced man-made alloy weapons, Han Sen was only able to kill some low-level creatures to eat their flesh and evolve, and he was having a difficult time in God\u2019s Sanctuary.\nBut the more meat of low-level creatures he ate, the less effect of evolution he gained. Three months in God\u2019s Sanctuary and he still could not complete a physical evolution.\nHan Sen had tried to kill some of the more powerful creatures, but even the weakest primitive creature, the copper-toothed beast, almost took his life. He had to rest for nearly a month before returning to God's Sanctuary.\nBy this time Han Sen had eaten all kinds of ordinary creatures around him, and it wouldn\u2019t help to eat their flesh any more. If he didn\u2019t risk hunting more advanced creatures, he would never evolve.\nWhen he was about to try to kill a copper-toothed beast, Han Sen saw something climbing out from the ripples of the creek.\nHe originally thought it was a black beetle, but immediately noticed something different: all black beetles had black shells, but a bright golden color caught his eye.\nHan Sen gazed at the creature climbing out of the water. It really was a black beetle, but different from the ordinary ones because of its golden body as big as a basketball. It was like a sculpture carved from gold, and its eyes were crystal clear, like gems. It did not even look like a living thing unless observed carefully.\n\"Why is this black beetle so strange?\" Han Sen stared at the golden black beetle.\nRecently he had killed countless black beetles and knew everything about them. Their vision was poor, but their hearing was very sensitive. As long as he remained still, even in close proximity, a black beetle would not notice his presence.\nHan Sen stared at the strange beetle, and unexpectedly, it climbed toward him.\nWithout hesitation, when the golden black beetle crawled next to Han Sen, he held down the golden black beetle's shell with one hand and swiftly cut into its fragile joints with the dagger in his other hand. He made six clean cuts vertically and horizontally to remove all six claws of the beetle.\nThe golden black beetle struggled and flipped over. Taking this opportunity, Han Sen pierced his dagger into a white mark on its belly and turned it sharply. The golden black beetle suddenly stopped moving.\n> \"Sacred-Blood creature Black Beetle killed. Beast soul of Sacred-Blood Black Beetle gained. Eat the flesh of Sacred-Blood Black Beetle to gain zero to ten geno points randomly.\u201d",
+                    "href": null
+                }
+            ]
+        },
+        "section": {
+            "id": "y%3FoY",
+            "type": "number",
+            "number": 1
+        },
+        "md_path": {
+            "id": "yB%3A%40",
+            "type": "rich_text",
+            "rich_text": [
+                {
+                    "type": "text",
+                    "text": {
+                        "content": "\/Users\/maxludden\/dev\/py\/supergene\/books\/book01\/md\/chapter-0001.md",
+                        "link": null
+                    },
+                    "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                    },
+                    "plain_text": "\/Users\/maxludden\/dev\/py\/supergene\/books\/book01\/md\/chapter-0001.md",
+                    "href": null
+                }
+            ]
+        },
+        "parsed_text": {
+            "id": "y_Fq",
+            "type": "rich_text",
+            "rich_text": []
+        },
+        "title": {
+            "id": "yuDx",
+            "type": "rich_text",
+            "rich_text": [
+                {
+                    "type": "text",
+                    "text": {
+                        "content": "Supergene",
+                        "link": null
+                    },
+                    "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                    },
+                    "plain_text": "Supergene",
+                    "href": null
+                }
+            ]
+        },
+        "url": {
+            "id": "zwa%3C",
+            "type": "url",
+            "url": "https:\/\/bestlightnovel.com\/novel_888112448\/chapter_1"
+        },
+        "modified": {
+            "id": "~WuS",
+            "type": "last_edited_time",
+            "last_edited_time": "2022-11-09T10:55:00.000Z"
+        },
+        "chapter": {
+            "id": "title",
+            "type": "title",
+            "title": [
+                {
+                    "type": "text",
+                    "text": {
+                        "content": "1",
+                        "link": null
+                    },
+                    "annotations": {
+                        "bold": false,
+                        "italic": false,
+                        "strikethrough": false,
+                        "underline": false,
+                        "code": false,
+                        "color": "default"
+                    },
+                    "plain_text": "1",
+                    "href": null
+                }
+            ]
+        }
+    },
+    "url": "https:\/\/www.notion.so\/1-07a3299782184b769285abffc3fca2ca"
+}

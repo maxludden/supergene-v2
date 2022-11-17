@@ -159,6 +159,8 @@ REPLACEMENTS = {
     "hell3": {"regex": r"\. H*ll ", "replacement": r"\. Hell"},
     "iceskin": {"regex": r"Ice Skin", "replacement": "Jadeskin"},
     "ice-skin": {"regex": r"Ice-Skin", "replacement": "Jadeskin"},
+    "dumbass1": {"regex": r"dumb\*ss", "replacement": "dumbass"},
+    "dumbass2": {"regex": r"Dumb\*ss", "replacement": "Dumbass"},
 }
 
 ICESKIN = {
@@ -332,6 +334,7 @@ def update_chapter(chapter: int) -> int:
 
         # Update MongoDB with the edited text for the given chapter
         doc.text = text
+        doc.save()
 
         # Fix Title
         title = doc.title

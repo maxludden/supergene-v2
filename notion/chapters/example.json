@@ -17,15 +17,15 @@
             "cover": {
                 "type": "file",
                 "file": {
-                    "url": "https:\/\/s3.us-west-2.amazonaws.com\/secure.notion-static.com\/ab12e680-4d79-4401-b02b-dcb825f29a70\/cover1.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221109%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221109T112913Z&X-Amz-Expires=3600&X-Amz-Signature=588b9d93558e0adfd692b0290252c0e4736f90f4a7c59229b4a07803a630e111&X-Amz-SignedHeaders=host&x-id=GetObject",
-                    "expiry_time": "2022-11-09T12:29:13.424Z"
+                    "url": "https:\/\/s3.us-west-2.amazonaws.com\/secure.notion-static.com\/ab12e680-4d79-4401-b02b-dcb825f29a70\/cover1.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221109%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221109T213017Z&X-Amz-Expires=3600&X-Amz-Signature=9ab0954d40033f1ef89ded56a2456948b760733f955c0fdc2f84d98f6e5dda2f&X-Amz-SignedHeaders=host&x-id=GetObject",
+                    "expiry_time": "2022-11-09T22:30:17.514Z"
                 }
             },
             "icon": {
                 "type": "file",
                 "file": {
-                    "url": "https:\/\/s3.us-west-2.amazonaws.com\/secure.notion-static.com\/6cff66a7-24cb-42b8-9464-1e990de7ce40\/Gene-solid.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221109%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221109T112913Z&X-Amz-Expires=3600&X-Amz-Signature=b4621451ffc15d587e48437995c5f640079cce691296b1de39910ea230053375&X-Amz-SignedHeaders=host&x-id=GetObject",
-                    "expiry_time": "2022-11-09T12:29:13.427Z"
+                    "url": "https:\/\/s3.us-west-2.amazonaws.com\/secure.notion-static.com\/6cff66a7-24cb-42b8-9464-1e990de7ce40\/Gene-solid.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221109%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221109T213017Z&X-Amz-Expires=3600&X-Amz-Signature=79b2595dfbce3ce6143e21dfcb65996b397c893ca02ab6c28e8b4e880722a3ca&X-Amz-SignedHeaders=host&x-id=GetObject",
+                    "expiry_time": "2022-11-09T22:30:17.518Z"
                 }
             },
             "parent": {
@@ -35,7 +35,7 @@
             "archived": false,
             "properties": {
                 "filename": {
-                    "id": ":t:x",
+                    "id": "%3At%3Ax",
                     "type": "rich_text",
                     "rich_text": [
                         {
@@ -58,7 +58,7 @@
                     ]
                 },
                 "html": {
-                    "id": ";;f?",
+                    "id": "%3B%3Bf%3F",
                     "type": "rich_text",
                     "rich_text": [
                         {
@@ -117,7 +117,7 @@
                     ]
                 },
                 "text": {
-                    "id": "U}TM",
+                    "id": "U%7DTM",
                     "type": "rich_text",
                     "rich_text": [
                         {
@@ -140,12 +140,12 @@
                     ]
                 },
                 "book": {
-                    "id": "]MKr",
+                    "id": "%5DMKr",
                     "type": "number",
                     "number": 1
                 },
                 "unparsed_text": {
-                    "id": "cJ:C",
+                    "id": "cJ%3AC",
                     "type": "rich_text",
                     "rich_text": [
                         {
@@ -191,7 +191,7 @@
                     ]
                 },
                 "html_path": {
-                    "id": "hK]K",
+                    "id": "hK%5DK",
                     "type": "rich_text",
                     "rich_text": [
                         {
@@ -214,7 +214,7 @@
                     ]
                 },
                 "md": {
-                    "id": "l~N`",
+                    "id": "l~N%60",
                     "type": "rich_text",
                     "rich_text": [
                         {
@@ -237,12 +237,12 @@
                     ]
                 },
                 "section": {
-                    "id": "y?oY",
+                    "id": "y%3FoY",
                     "type": "number",
                     "number": 1
                 },
                 "md_path": {
-                    "id": "yB:@",
+                    "id": "yB%3A%40",
                     "type": "rich_text",
                     "rich_text": [
                         {
@@ -293,7 +293,7 @@
                     ]
                 },
                 "url": {
-                    "id": "zwa<",
+                    "id": "zwa%3C",
                     "type": "url",
                     "url": "https:\/\/bestlightnovel.com\/novel_888112448\/chapter_1"
                 },
@@ -330,5 +330,7 @@
         }
     ],
     "next_cursor": null,
-    "has_more": false
+    "has_more": false,
+    "type": "page",
+    "page": {}
 }

@@ -1,21 +1,21 @@
+from datetime import datetime
+from os import environ
+from pathlib import Path
+
 from dotenv import load_dotenv
-from maxcolor import gradient, gradient_panel, rainbow
+from maxcolor import gradient, gradient_panel
 from maxconsole import get_console, get_theme
 from maxprogress import get_progress
-from requests import delete, get, head, post, put, request
-from ujson import dump, dumps, load, loads
-from os import environ
-from rich.pretty import pprint
-from notion.client import NotionClient
-from pathlib import Path
-from rich.panel import Panel
-from rich.text import Text
+from requests import request
 from rich.markdown import Markdown
-from datetime import datetime
+from rich.panel import Panel
+from rich.pretty import pprint
+from rich.text import Text
+from ujson import dump, dumps, load, loads
 
-from src.chapter import Chapter, chapter_gen
+from notion.client import NotionClient
 from src.atlas import sg
-from page_props import page_props
+from src.chapter import Chapter, chapter_gen
 
 console = get_console(get_theme())
 
@@ -59,10 +59,10 @@ def create_chapter(database_id: str, headers: dict, chapter: int):
         "properties": {
             "chapter": {"title": [{"text": {"content": chapter.chapter}}]},
             "section": {"Quantity": {"number": chapter.section}},
-            "book": {"": [{"Quantity": {"number": chapter.section}}]},
+            "book": {"Quantity": {"number": chapter.section}},
             "filename": {"rich_text": [{"text": {"content": chapter.filename}}]},
             "title": {"rich_text": [{"text": {"content": chapter.title}}]},
-            "url": {"": [{"Website": {"url": chapter.url}}]},
+            "url": {"Website": {"url": chapter.url}},
             "text_path": {"rich_text": [{"text": {"content": chapter.text_path}}]},
             "md_path": {"rich_text": [{"text": {"content": chapter.md_path}}]},
             "html_path": {"rich_text": [{"text": {"content": chapter.html_path}}]},
@@ -77,16 +77,27 @@ def create_chapter(database_id: str, headers: dict, chapter: int):
         },
     }
     response = request("POST", create_url, headers=headers, json=data)
+    if response.status_code == 200:
 
-    with open(CHAPTERS_DIR / "example.json", "w") as outfile:
-        dump(response.json(), outfile, indent=4)
+        with open(CHAPTERS_DIR / "example.json", "w") as outfile:
+            dump(response.json(), outfile, indent=4)
 
-    console.print(
-        gradient_panel(
-            "Chapter created successfully.",
-            title="Notion",
-            padding=(1, 4),
-            expand=False,
+        console.print(
+            gradient_panel(
+                f"Chapter created successfully.\n\n {response}",
+                title="Notion",
+                padding=(1, 4),
+                expand=False,
+            )
         )
-    )
-    return loads(response.text)
+    else:
+        console.print(
+            Panel(
+                f"Chapter creation failed.\n\n{response}",
+                title=f"[bold bright_white]Error {response.status_code}[/]",
+                padding=(1, 4),
+                expand=False,
+                style="bold bright_red",
+            )
+        )
+        return loads(response.text)

@@ -343,7 +343,7 @@ td {
 
 .footer {
     position: fixed;
-    left: 0;
+    left: 100%;
     bottom: 0;
     width: 100%;
     background-color: var(--main-bg-color);

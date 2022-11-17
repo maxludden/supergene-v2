@@ -32,10 +32,12 @@ words = [
     "Clunk!",
     "Ding!",
     "Dink!",
+    "Dong",
     "Hiss!",
     "Hss!",
     "Hsss!",
     "Hssss!",
+    "Katcha!"
     "Pow!",
     "Pang!",
     "Pang! Pang! Pang!",

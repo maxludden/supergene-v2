@@ -41,6 +41,7 @@ from src.atlas import max_title, sg
 load_dotenv()
 
 URI = os.getenv("SUPERGENE")
+BASE = Path.cwd()
 
 
 class ChapterNotFound(Exception):

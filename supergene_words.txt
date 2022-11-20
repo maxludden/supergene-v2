@@ -25,6 +25,7 @@ colr
 comlink
 conint
 couldn
+coverpage
 coverpages
 Crystallizers
 Danfeng
@@ -40,6 +41,8 @@ Dongxuan
 endofbooks
 endpage
 eobs
+epubmeta
+epubmetadata
 evol
 Evolu
 Fantis
@@ -111,6 +114,7 @@ mongodump
 multimarkdown
 Multimarkdown
 Mushu
+myaml
 Nangong
 Nevermind
 nightscape

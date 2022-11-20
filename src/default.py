@@ -1,44 +1,50 @@
 # src/default.py
 
-from pathlib import Path
-from typing import List, Optional, Any
-from sh import Command, RunningCommand
 from inspect import currentframe, getframeinfo
+from pathlib import Path
 from time import sleep
+from typing import Any, List, Optional
 
 from dotenv import load_dotenv
+from maxcolor import gradient, gradient_panel
+from maxconsole import get_console, get_theme
+from maxprogress import get_progress
+from maxsetup import log, new_run
 from mongoengine import Document
 from mongoengine.fields import IntField, ListField, StringField
 from num2words import num2words
 from rich import print
-from rich.text import Text
-from rich.panel import Panel
-from rich.style import Style
 from rich.markdown import Markdown
+from rich.panel import Panel
 from rich.progress import Progress
+from rich.style import Style
+from rich.text import Text
 from rich.traceback import install
+from sh import Command, RunningCommand
 
 import src.book as bk
 import src.chapter as ch
+import src.cover as cv
 import src.endofbook as eob
 import src.epubmetadata as epubmeta
 import src.metadata as meta
 import src.myaml as myaml
 import src.section as sec
 import src.titlepage as tp
-import src.cover as cv
 from src.atlas import max_title, sg
-from maxcolor import console, log, logpanel
 
 load_dotenv()
 install()
+console = get_console(get_theme())
+progress = get_progress(console)
+BASE = Path.cwd()
 
 
 class InvalidBookError(Exception):
     pass
 
 
-# _. ───────────────── Default ──────────────────────────────────
+# ───────────────── Default ──────────────────────────────────
 class Default(Document):
     book = IntField(unique=True, min_value=1, max_value=10)
     book_word = StringField()

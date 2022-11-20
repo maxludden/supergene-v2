@@ -8,6 +8,7 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.wait import WebDriverWait
 from rich.prompt import IntPrompt, Confirm, PromptError
+from rich.panel import Panel
 from time import sleep
 from maxcolor import gradient, gradient_panel
 
@@ -18,25 +19,27 @@ progress = get_progress(console)
 DRIVER_PATH = Path.cwd() / "driver" / "chromedriver"
 
 
-def download_chapter(chapter: int) -> str:
-    """
-    Download the text of a chapter from the Super Gene website.
+def download_chapter(chapter: int) -> dict[str:int|str]:
+    """Download the text of a chapter from the Super Gene website.
 
     Args:
-        `chapter` (int): The chapter number.
+        chapter (`int`): The chapter number.
 
     Returns:
-        `unparsed_text` (str): The text of the chapter.
+        chapter_data (`dict[str:int|str]`):
+            chapter (`int`): The downloaded chapter's number.
+            title (`str`): The title of the downloaded chapter.
+            text (`str`): The text of the downloaded chapter.
     """
+
     # Initial Variables
     chapter_str = str(chapter)
-
     lines = []
     title_prefix = "Super Gene Chapter "
     title_suffix = " Online | BestLightNovel.com"
 
     # Get URL
-    sg()
+    sg() # Access MongoDB
     doc = Chapter.objects(chapter=chapter).first()  # type: ignore
     URL = doc.url
 
@@ -99,38 +102,64 @@ def download_chapter(chapter: int) -> str:
                 )
                 text = text.strip()
 
-                # Save text to MongoDB
-                doc.text = text
-                doc.save()
-
             except:
                 print(
                     "\n\n\nError 404\nUnable to locate text on page. Quitting Script.\n"
                 )
+                raise RuntimeError(f"Unable to locate text on webpage: `{URL}`")
         finally:
             driver.quit()
-        return doc.text
+
+        chapter_data = {
+            "chapter": chapter,
+            "title": article_title,
+            "text": text
+        }
+        return chapter_data
 
 
-if __name__ == "__main__":
+def chapter_prompt() -> int:
+    """Prompt the user to enter the chapter number they would like to re-download.
+    Returns:
+        chapter (`int`): The chapter number to re-download.
 
-    chapter = IntPrompt.ask(
+    Raises:
+        `PromptError`: If the prompt returns a value that is not an integer.
+        `PromptError`: If the prompt returns a value greater than `3462` as there are only `3462` chapters.
+        `ValueError`: If the prompt returns either of the skipped chapters (`Chapter 3095` or `Chapter 3117`).
+        `ValueError`: If the prompt returns `0` as the first chapter is `Chapter 1`.
+    """
+    chapter_input = IntPrompt.ask(
         gradient("Enter the chapter number you wish to re-download"), console=console
     )
-    if not isinstance(chapter, int):
-        raise PromptError(f"{chapter} is not a valid integer.")
-    elif chapter > 3462:
-        raise PromptError(f"Chapter {chapter} is not a valid chapter number.")
-    elif chapter == 3095 | chapter == 3117:
-        raise ValueError(f"Chapter {chapter} is not a valid chapter number.")
-    elif chapter <= 0:
-        raise ValueError(f"Chapter {chapter} is not a valid chapter number.")
+    if not isinstance(chapter_input, int):
+        raise PromptError(f"{chapter_input} is not a valid integer.")
+    elif chapter_input > 3462:
+        raise PromptError(f"Chapter {chapter_input} is not a valid chapter number.")
+    elif chapter_input == 3095 | chapter_input == 3117:
+        raise ValueError(f"Chapter {chapter_input} is not a valid chapter number.")
+    elif chapter_input <= 0:
+        raise ValueError(f"Chapter {chapter_input} is not a valid chapter number.")
     else:
-        chapter_str = str(chapter)
+        chapter = chapter_input
+    return chapter
 
+
+def overwrite_prompt(chapter: int) -> bool:
+    """Generates a prompt whether to overwrite the existing chapters text in MongoDB.
+
+    Args:
+        chapter (`int`): The chapter number that could be overwrite.
+
+    Raises:
+        PromptError: If the prompt returns a non-boolean value.
+
+    Returns:
+        bool: Whether to overwrite the existing chapter's text in MongoDB.
+    """
     overwrite = Confirm.ask(
         gradient(
-            f"Would you like to overwrite chapter {chapter_str}'s current text in MongoDB?"
+            f"Would you like to overwrite chapter {chapter}'s current text in MongoDB?"
         ),
         console=console,
         default="n",
@@ -138,11 +167,26 @@ if __name__ == "__main__":
     )
     match overwrite:
         case "n" | "N" | "no" | "No":
-            overwrite = "n"
+            overwrite = False
         case "y" | "Y" | "yes" | "Yes":
-            overwrite = "y"
+            overwrite = True
         case _:
             raise PromptError("Response was not valid. Response: {overwrite}")
+    return overwrite
+
+
+def display_chapter(chapter_data: dict[str:int|str]) -> None:
+    """Display the downloaded chapter to the console.
+
+    Args:
+        chapter_data (`dict[str:int|str]`)
+    """
+
+if __name__ == "__main__":
+    chapter = chapter_prompt()
+    chapter_data = download_chapter(chapter)
+
+    overwrite = input["overwrite"]
     console.print(gradient_panel(f"Downloading Chapter {chapter}..."))
     unparsed_text = download_chapter(chapter)
 

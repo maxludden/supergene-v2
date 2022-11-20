@@ -67,5 +67,6 @@
         "terminal.tab.activeBorder": "#bb00ff",
         "terminal.border": "#6d0094",
         "terminal": "#00ff00"
-    }
+    },
+    "python.formatting.provider": "black"
 }

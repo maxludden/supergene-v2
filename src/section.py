@@ -17,15 +17,20 @@ from sh import Command, RunningCommand
 
 import src.book as Book
 from src.atlas import max_title, sg
-from maxcolor import console, log, logpanel, time
 from src.myaml import dump, dumps, load, loads
+from maxconsole import get_theme, get_console
+from maxcolor import gradient, gradient_panel
+
+console = get_console(get_theme())
+
+CWD = Path.cwd()
 
 # .┌─────────────────────────────────────────────────────────────────┐.#
 # .│                            Section                              │.#
 # .└─────────────────────────────────────────────────────────────────┘.#
 
 # >  Static Variables
-BOOK_DIR = f"{BASE}/books/"
+BOOK_DIR = f"{CWD}/books/"
 img = (
     f'<figure>\n\t<img src="../Images/gem.gif" alt="gem" width="120" height="60" />\n  '
 )
@@ -132,7 +137,6 @@ class Section(Document):
         return self.title
 
 
-@log.catch
 def generate_section_book(section: int) -> int:
     """
     Determine the book of a given section.
@@ -170,7 +174,6 @@ def generate_section_book(section: int) -> int:
     return book
 
 
-@log.catch
 def get_section_book(section: int) -> int:
     """
     Retrieve the book of the given section from MongoDB.
@@ -190,7 +193,6 @@ def get_section_book(section: int) -> int:
         return generate_section_book(section)
 
 
-@log.catch
 def generate_section_part(section: int) -> int:
     """
 
@@ -218,7 +220,6 @@ def generate_section_part(section: int) -> int:
             raise InvalidPartException(f"Section {section} is not a valid section.")
 
 
-@log.catch
 def get_section_part(section: int) -> int:
     """
     Retrieve the part of the given section from MongoDB.
@@ -238,7 +239,6 @@ def get_section_part(section: int) -> int:
         return generate_section_part(section)
 
 
-@log.catch
 def generate_section_part_word(section: int) -> str:
     """
 
@@ -272,7 +272,6 @@ def generate_section_part_word(section: int) -> str:
             raise InvalidPartException(f"Section {section} is not a valid section.")
 
 
-@log.catch
 def get_section_part_word(section: int) -> str:
     """
     Retrieve the part word of the given section from MongoDB.
@@ -294,7 +293,6 @@ def get_section_part_word(section: int) -> str:
         return generate_section_part_word(section)
 
 
-@log.catch
 def generate_section_title(section: int, save: bool = True) -> str:
     """
     Generate the title for the given section.
@@ -362,7 +360,6 @@ def generate_section_title(section: int, save: bool = True) -> str:
     return title
 
 
-@log.catch
 def get_section_title(section: int) -> str:
     sg()
     doc = Section.objects(section=section).first()  # type: ignore
@@ -374,7 +371,6 @@ def get_section_title(section: int) -> str:
         return max_title(str(generate_section_title(section)))
 
 
-@log.catch
 def generate_section_filename(section: int, save: bool = True) -> str:
     """
     Generate the filename for the given section.
@@ -396,7 +392,6 @@ def generate_section_filename(section: int, save: bool = True) -> str:
     return section_filename
 
 
-@log.catch
 def get_section_filename(section: int) -> str:
     """
     Retrieve the filename for the given section from MongoDB.
@@ -418,7 +413,6 @@ def get_section_filename(section: int) -> str:
         return generate_section_filename(section)
 
 
-@log.catch
 def generate_section_md_path(section: int, save: bool = True) -> Path:
     """
     Generate the md_path of the given section.
@@ -433,14 +427,14 @@ def generate_section_md_path(section: int, save: bool = True) -> Path:
     book = get_section_book(section)
     book_zfill = str(book).zfill(2)
     book_dir = f"book{book_zfill}"
-    md_path = f"{BASE}/books/{book_dir}/md/{filename}.md"
+    md_path = f"{CWD}/books/{book_dir}/md/{filename}.md"
     if save:
         sg()
         doc = Section.objects(section=section).first()  # type: ignore
         if doc:
             doc.md_path = md_path
             doc.save()
-            log.debug(f"Saved md_path for section {section} to MongoDB.")
+            console.print(f"Saved md_path for section {section} to MongoDB.")
         else:
             raise SectionNotFound(f"Section {section} not found.")
 
@@ -448,7 +442,6 @@ def generate_section_md_path(section: int, save: bool = True) -> Path:
     return Path(md_path)
 
 
-@log.catch
 def get_section_md_path(section: int) -> Path:
     """
     Retrieve the md_path of the given section from MongoDB.
@@ -470,7 +463,6 @@ def get_section_md_path(section: int) -> Path:
         return generate_section_md_path(section)
 
 
-@log.catch
 def generate_html_path(section: int, save: bool = True) -> str:
     """
     Generate the html_path of the given section.
@@ -487,21 +479,20 @@ def generate_html_path(section: int, save: bool = True) -> str:
     book = get_section_book(section)
     book_zfill = str(book).zfill(2)
     book_dir = f"book{book_zfill}"
-    html_path = f"{BASE}/books/{book_dir}/html/{filename}.html"
+    html_path = f"{CWD}/books/{book_dir}/html/{filename}.html"
     if save:
         sg()
         doc = Section.objects(section=section).first()  # type: ignore
         if doc:
             doc.html_path = html_path
             doc.save()
-            log.debug(f"Saved html_path for section {section} to MongoDB.")
+            console.print(f"Saved html_path for section {section} to MongoDB.")
         else:
             raise SectionNotFound(f"Section {section} not found.")
     console.print(section_panel(section, "HTML Path", html_path, line=503))
     return html_path
 
 
-@log.catch
 def get_html_path(section: int) -> str:
     """
     Retrieve the html_path of the given section from MongoDB.
@@ -525,7 +516,6 @@ def get_html_path(section: int) -> str:
         return generate_html_path(section)
 
 
-@log.catch
 def generate_section_start(section: int, save: bool = True) -> int:
     """
     Generate the first chapter of the given section.
@@ -590,7 +580,6 @@ def generate_section_start(section: int, save: bool = True) -> int:
     return start
 
 
-@log.catch
 def get_section_start(section: int) -> int:
     """
     Determine the chapter the sections starts at.
@@ -612,7 +601,6 @@ def get_section_start(section: int) -> int:
         return generate_section_start(section)
 
 
-@log.catch
 def generate_section_end(section: int, save: bool = True) -> int:
     """
     Generate the last chapter of the given section.
@@ -675,7 +663,6 @@ def generate_section_end(section: int, save: bool = True) -> int:
     return end
 
 
-@log.catch
 def get_section_end(section: int) -> int:
     """
     Determine the chapter the section ends.
@@ -695,7 +682,6 @@ def get_section_end(section: int) -> int:
         return generate_section_end(section)
 
 
-@log.catch
 def generate_section_md(section: int, save: bool = True, write: bool = True) -> str:
     """
     Generate the markdown for Section {section}'s Section Page.
@@ -715,7 +701,7 @@ def generate_section_md(section: int, save: bool = True, write: bool = True) -> 
     if doc is None:
         raise SectionNotFound(f"Section {section} not found.")
     else:
-        log.debug(f"Section {section} Document:<code>\n{doc}\n</code>")
+        console.print(f"Section {section} Document:<code>\n{doc}\n</code>")
         title = doc.title
         book = doc.book
         md_path = doc.md_path
@@ -735,12 +721,12 @@ def generate_section_md(section: int, save: bool = True, write: bool = True) -> 
         if save:
             doc.md = md
             doc.save()
-            log.info(f"Saved md for section {section} to MongoDB.")
+            console.print(f"Saved md for section {section} to MongoDB.")
 
         if write:
             with open(md_path, "w") as infile:
                 infile.write(md)
-                log.debug(f"Wrote md for section {section} to {md_path}.")
+                console.print(f"Wrote md for section {section} to {md_path}.")
 
         console.print(
             section_panel(section, "Markdown", "See Below", get=False, line=764)
@@ -749,7 +735,6 @@ def generate_section_md(section: int, save: bool = True, write: bool = True) -> 
         return md
 
 
-@log.catch
 def get_section_md(section: int):
     """
     Retrieve the multimarkdown for the given section from MongoDB.
@@ -773,7 +758,6 @@ def get_section_md(section: int):
         return generate_section_md(section)
 
 
-@log.catch
 def generate_section_html_path(section: int, save: bool = True) -> Path:
     """
     Generate the path to the HTML file for the given section.
@@ -789,7 +773,7 @@ def generate_section_html_path(section: int, save: bool = True) -> Path:
     filename = get_section_filename(section)
     book_zfill = str(get_section_book(section)).zfill(2)
     book_dir = f"book{book_zfill}"
-    html_path = f"{BASE}/books/{book_dir}/html/{filename}.html"
+    html_path = f"{CWD}/books/{book_dir}/html/{filename}.html"
     if save:
         sg()
         doc = Section.objects(section=section).first()  # type: ignore
@@ -799,7 +783,6 @@ def generate_section_html_path(section: int, save: bool = True) -> Path:
     return Path(html_path)
 
 
-@log.catch
 def get_section_html_path(section: int) -> Path:
     """
     Retrieve the HTML path for the given section from MongoDB.
@@ -821,7 +804,6 @@ def get_section_html_path(section: int) -> Path:
         return generate_section_html_path(section)
 
 
-@log.catch
 def save_section_html(result: RunningCommand | None, section: int) -> str:
     """
     Save the HTML for the given section to MongoDB.
@@ -839,14 +821,13 @@ def save_section_html(result: RunningCommand | None, section: int) -> str:
             html = infile.read()
             doc.html = html
             doc.save()
-            log.info(f"Saved HTML for section {section} to MongoDB.")
+            console.print(f"Saved HTML for section {section} to MongoDB.")
             console.print(section_panel(section, "HTML", html, get=False, line=680))
             return html
     else:
         raise MMDConversionError(f"Failed to convert {doc.md_path} to HTML.")
 
 
-@log.catch
 def generate_section_html(section: int, save: bool = True) -> str | None:
     """
     Generate the given section's HTML from it's markdown.
@@ -898,7 +879,6 @@ def generate_section_html(section: int, save: bool = True) -> str | None:
                 raise MMDConversionError(f"Failed to convert {doc.md_path} to HTML.")
 
 
-@log.catch
 def get_section_html(section: int) -> str | None:
     """
     Retrieve the HTML for the given section from MongoDB.
@@ -918,7 +898,6 @@ def get_section_html(section: int) -> str | None:
         return generate_section_html(section)
 
 
-@log.catch
 def generate_section_chapters(section: int, save: bool = True) -> List[int] | None:
     """
     Generate the chapter numbers for the given section.
@@ -945,7 +924,9 @@ def generate_section_chapters(section: int, save: bool = True) -> List[int] | No
         if save:
             doc.chapters = chapters
             doc.save()
-            logpanel(f"Saved chapters for section {section} to MongoDB.")
+            console.print(
+                gradient_panel(f"Saved chapters for section {section} to MongoDB.")
+            )
         console.print(
             section_panel(section, "Chapters", ", ".join(chapters), get=False, line=988)
         )
@@ -954,7 +935,6 @@ def generate_section_chapters(section: int, save: bool = True) -> List[int] | No
         raise SectionNotFound(f"Section {section} not found in MongoDB.")
 
 
-@log.catch
 def get_section_chapters(section: int) -> List[int] | None:
     """
     Retrieve the chapter numbers for the given section from MongoDB.

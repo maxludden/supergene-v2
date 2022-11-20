@@ -18,8 +18,11 @@ from rich.style import Style
 from rich.text import Text
 
 from src.atlas import sg
-from maxcolor import console, log
 
+from maxconsole import get_theme, get_console
+
+console = get_console(get_theme())
+CWD = Path.cwd()
 load_dotenv()
 
 
@@ -118,7 +121,6 @@ class book_gen:
             return self.book - 1
 
 
-@log.catch
 def generate_book_title(book: int, save: bool = True) -> str:
     """
     Generate a book title from the book number.
@@ -126,7 +128,7 @@ def generate_book_title(book: int, save: bool = True) -> str:
     Args:
         `book` (int): The book number.
 
-        `save` (bool): Whether to save the title to the database. Defaults to `True`.
+        `save` (bool): Whether to save the title to the dataCWD. Defaults to `True`.
 
     Returns:
         `str`: The book title.
@@ -160,7 +162,6 @@ def generate_book_title(book: int, save: bool = True) -> str:
     return title  # type: ignore
 
 
-@log.catch
 def get_book_title(book: int) -> str:
     """
     Retrieve the title of the given book from MongoDB.
@@ -183,7 +184,6 @@ def get_book_title(book: int) -> str:
         return title
 
 
-@log.catch
 def generate_book_output(book: int, save: bool = True) -> str:
     """
     Generate the output filename for the given book.
@@ -191,7 +191,7 @@ def generate_book_output(book: int, save: bool = True) -> str:
     Args:
         `book` (int): The given book number.
 
-        `save` (bool): Whether to save the output to the database. Defaults to `True`.
+        `save` (bool): Whether to save the output to the dataCWD. Defaults to `True`.
 
     Returns:
         `output` (str): The output filename for the given book.
@@ -205,7 +205,6 @@ def generate_book_output(book: int, save: bool = True) -> str:
     return output  # type: ignore
 
 
-@log.catch
 def get_book_output(book: int) -> str:
     """
     Retrieve the output filename for the given book from MongoDB.
@@ -228,7 +227,6 @@ def get_book_output(book: int) -> str:
         return output
 
 
-@log.catch
 def generate_book_cover(book: int, save: bool = True) -> str:
     """
     Generate the cover filename for the given book.
@@ -236,7 +234,7 @@ def generate_book_cover(book: int, save: bool = True) -> str:
     Args:
         `book` (int): The given book number.
 
-        `save` (bool): Whether to save the cover to the database. Defaults to `True`.
+        `save` (bool): Whether to save the cover to the dataCWD. Defaults to `True`.
 
         `string` (bool): Whether to return a string or a Path object. Defaults to `False`.
 
@@ -249,7 +247,6 @@ def generate_book_cover(book: int, save: bool = True) -> str:
     return cover
 
 
-@log.catch
 def get_book_cover(book: int) -> str:
     """
     Retrieve the cover filename for the given book from MongoDB.
@@ -272,7 +269,6 @@ def get_book_cover(book: int) -> str:
         return cover
 
 
-@log.catch
 def generate_book_cover_path(
     book: int, save: bool = True, string: bool = False
 ) -> Path | str:
@@ -282,7 +278,7 @@ def generate_book_cover_path(
     Args:
         `book` (int): The given book number.
 
-        `save` (bool): Whether to save the cover path to the database. Defaults to `True`.
+        `save` (bool): Whether to save the cover path to the dataCWD. Defaults to `True`.
 
         `string` (bool): Whether to return a string or a Path object. Defaults to `False`.
 
@@ -292,7 +288,7 @@ def generate_book_cover_path(
     book_zfill = str(book).zfill(2)
     book_dir = f"book(book_zfill)"
     cover = generate_book_cover(book)
-    cover_path = f"{BASE}/books/{book_dir}/Images/{cover}"
+    cover_path = f"{CWD}/books/{book_dir}/Images/{cover}"
 
     if save:
         sg()
@@ -308,7 +304,6 @@ def generate_book_cover_path(
     return Path(cover_path)
 
 
-@log.catch
 def get_book_cover_path(book: int, string: bool = False) -> Path | str:
     """
     Retrieve the cover path for the given book from MongoDB.
@@ -333,7 +328,6 @@ def get_book_cover_path(book: int, string: bool = False) -> Path | str:
         return cover_path
 
 
-@log.catch
 def generate_book_uuid(book: int) -> str:
     """
     Generate the UUID for the given book if it does not exist. Else retrieve it from MongoDB.
@@ -357,7 +351,6 @@ def generate_book_uuid(book: int) -> str:
     return uuid
 
 
-@log.catch
 def get_book_uuid(book: int) -> str:
     """
     Retrieve the UUID for the given book from MongoDB.
@@ -380,7 +373,6 @@ def get_book_uuid(book: int) -> str:
         return uuid
 
 
-@log.catch
 def generate_book_default(
     book: int, save: bool = True, string: bool = False
 ) -> Path | str:
@@ -390,7 +382,7 @@ def generate_book_default(
     Args:
         `book` (int): The given book number.
 
-        `save` (bool): Whether to save the default path to the database. Defaults to `True`.
+        `save` (bool): Whether to save the default path to the dataCWD. Defaults to `True`.
 
         `string` (bool): Whether to return the path as a string. Defaults to `False`.
 
@@ -399,7 +391,7 @@ def generate_book_default(
     """
     book_zfill = str(book).zfill(2)
     book_dir = f"book(book_zfill)"
-    default = f"{BASE}/books/{book_dir}/default.html"
+    default = f"{CWD}/books/{book_dir}/default.html"
 
     if save:
         sg()
@@ -415,7 +407,6 @@ def generate_book_default(
     return Path(default)
 
 
-@log.catch
 def get_book_default(book: int, string: bool = False) -> Path | str:
     """
     Retrieve the default path for the given book from MongoDB.
@@ -440,7 +431,6 @@ def get_book_default(book: int, string: bool = False) -> Path | str:
         return default
 
 
-@log.catch
 def generate_book_start(book: int, save: bool = True) -> int:
     """
     Generate the starting chapter of the given book.
@@ -448,7 +438,7 @@ def generate_book_start(book: int, save: bool = True) -> int:
     Args:
         `book` (int): The given book number.
 
-        `save` (bool): Whether to save the starting chapter to the database. Defaults to `True`.
+        `save` (bool): Whether to save the starting chapter to the dataCWD. Defaults to `True`.
 
     Returns:
         `start` (int): The starting chapter of the given book.
@@ -493,7 +483,6 @@ def generate_book_start(book: int, save: bool = True) -> int:
     return start
 
 
-@log.catch
 def get_book_start(book: int) -> int:
     """
     Retrieve the starting chapter of the given book from MongoDB.
@@ -516,7 +505,6 @@ def get_book_start(book: int) -> int:
         return start
 
 
-@log.catch
 def generate_book_end(book: int, save: bool = True) -> int:
     """
     Generate the finishing chapter of the given book.
@@ -569,7 +557,6 @@ def generate_book_end(book: int, save: bool = True) -> int:
     return end
 
 
-@log.catch
 def get_book_end(book: int) -> int:
     """
     Retrieve the finishing chapter of the given book from MongoDB.
@@ -593,7 +580,6 @@ def get_book_end(book: int) -> int:
         return end
 
 
-@log.catch
 def generate_book_word(book: int, save: bool = True) -> str:
     """
     Generate the word for the given book.
@@ -601,7 +587,7 @@ def generate_book_word(book: int, save: bool = True) -> str:
     Args:
         `book` (int): The given book number.
 
-        `save` (bool): Whether to save the word to the database. Defaults to `True`.
+        `save` (bool): Whether to save the word to the dataCWD. Defaults to `True`.
 
     Returns:
         `word` (str): The word for the given book.
@@ -618,7 +604,6 @@ def generate_book_word(book: int, save: bool = True) -> str:
     return book_word
 
 
-@log.catch
 def generate_book_sections(book: int, save: bool = True) -> List[int]:
     """
     Generate the sections of the given book.
@@ -672,7 +657,6 @@ def generate_book_sections(book: int, save: bool = True) -> List[int]:
     return sections
 
 
-@log.catch
 def get_book_sections(book: int) -> List[int]:
     """
     Retrieve the sections of the given book from MongoDB.

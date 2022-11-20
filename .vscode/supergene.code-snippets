@@ -113,18 +113,16 @@
 		],
 		"description": "Article Div"
 	},
-	"Generate Panel": {
-		"prefix": "gen_panel",
-		"body": [
-			"generate_${1:Color}_panel(",
-			""
-		]
-	},
 	"Comment": {
 		"prefix": "<!-",
 		"body": [
 			"$0",
 			"<!--${TM_SELECTED_TEXT}-->"
 		]
+	},
+	"line number": {
+		"prefix": "lineno",
+		"body": "frameinfo = getframeinfo(currentframe())  # type: ignore\nlineno = int(frameinfo.lineno) + 2",
+		"description": "Snippet to generate the line number for the line after this snippet."
 	}
 }

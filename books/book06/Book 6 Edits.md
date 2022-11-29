@@ -152,7 +152,7 @@ Strange Scary Bug
 
 “Dong”
 
-**Italic 
+**Italic
 **
 
 <hr />
